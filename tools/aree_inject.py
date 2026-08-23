@@ -129,6 +129,45 @@ def process(html):
         "{if(OC_IDS[l.dataset.country])l.style.display=(!curO||l.dataset.country===curO)?'':'none';});"
         "\n  window.scrollTo(0,0);",1)
 
+    # ═══ FILO DI ARIANNA: Aree › Oceano › Paese › Pagina ═══
+    sec_re=re.compile(r'<section id="(p\d+)" class="page" data-country="([^"]*)">([\s\S]*?)<h1[^>]*>([\s\S]*?)</h1>')
+    def _sub(m):
+        pid,c,mid,tit=m.group(1),m.group(2),m.group(3),re.sub(r"<[^>]+>","",m.group(4)).strip()
+        if not c: return m.group(0)
+        root=c.split("/")[0]
+        parts=[]
+        parts.append('<a href="#home">'+ "\U0001F30D"+' Aree</a>' if False else '<a href="#home">'+OC_ICON.get("indiano","")+'</a>' )
+        return m.group(0)
+    # costruzione semplice senza lambda complesse
+    def add_crumbs(html):
+        out=[]; pos=0
+        for m in sec_re.finditer(html):
+            pid,c=m.group(1),m.group(2)
+            tit=re.sub(r"<[^>]+>","",m.group(4)).strip().replace("'","\u2019")
+            root=c.split("/")[0]
+            seg=[]
+            seg.append('<a href="#home">'+OC_ICON["mediterraneo"].replace("\u26F1\uFE0F","")+'Aree</a>'.replace("",""))
+            seg=None
+            crumbs='<a href="#home">Aree</a>'
+            oc=OCEANO_DI.get(root)
+            if oc:
+                crumbs+=' \u203a <a href="#o-'+oc+'">'+OC_NAME[oc]+'</a>'
+            if "/" in c:
+                crumbs+=' \u203a <a href="#'+pid_of.get(root,"#")+'">'+PAESI[root][1]+'</a>'
+                crumbs+=' \u203a <b>'+tit+'</b>'
+            else:
+                crumbs+=' \u203a <b>'+tit+'</b>'
+            ins='<p class="crumbs">'+crumbs+'</p>'
+            out.append(html[pos:m.end()]); out.append(ins); pos=m.end()
+        out.append(html[pos:])
+        return "".join(out)
+    html=add_crumbs(html)
+    # CSS crumbs
+    if ".crumbs {" not in html:
+        html=html.replace("</style>",
+          ".crumbs{font-size:12px;color:var(--muted,#8899aa);margin:0 0 6px}"
+          ".crumbs a{color:var(--accent,#3fa7ff);text-decoration:none}"
+          ".crumbs b{color:inherit}</style>",1)
     html=re.sub(r"show\('p1'\)","show('home')",html,count=1)
     return html
 
