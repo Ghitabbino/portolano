@@ -16,7 +16,8 @@ Ultimo aggiornamento: 22/08/2026 · coordinate indicative, navigare con cartogra
 
 ### Mappa generale degli ancoraggi
 
-<div class="mapframe" data-slug="el-hierro" data-minz="10" data-maxz="12" data-lat="27.7" data-lon="-17.95" data-markers=''></div>
+<div class="mapframe" data-slug="el-hierro" data-minz="10" data-maxz="12" data-lat="27.73" data-lon="-18.03" data-markers='[[27.644, -17.979, "La Restinga"]]'></div>
+
 
 *Coordinate indicative; tasselli offline satellitari + carta nautica + segnaletica OpenSeaMap.*
 

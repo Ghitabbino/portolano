@@ -23,7 +23,8 @@ Ultimo aggiornamento: 22/08/2026 · coordinate indicative, navigare con cartogra
 ⛔ **Costa ovest** (El Cotilo, Cofete): swell atlantico costante, nessun riparo.
 ### Mappa generale degli ancoraggi
 
-<div class="mapframe" data-slug="fuerteventura" data-minz="10" data-maxz="12" data-lat="28.3726937" data-lon="-14.1611561" data-markers=''></div>
+<div class="mapframe" data-slug="fuerteventura" data-minz="10" data-maxz="12" data-lat="28.35" data-lon="-14.05" data-markers='[[28.393, -13.857, "Caleta de Fuste"], [28.731, -13.867, "Corralejo"], [28.05, -14.352, "Morro Jable"], [28.227, -14.02, "Gran Tarajal"], [28.741, -13.826, "Isla de Lobos"]]'></div>
+
 
 *Coordinate indicative; tasselli offline satellitari + carta nautica + segnaletica OpenSeaMap.*
 

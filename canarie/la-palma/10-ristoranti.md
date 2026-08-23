@@ -11,7 +11,7 @@ Ultimo aggiornamento: 22/08/2026 · Santa Cruz de La Palma casco + Tazacorte. Ra
 
 ## Mappa delle zone
 
-<div class="mapframe" data-slug="la-palma" data-minz="10" data-maxz="12" data-lat="28.663" data-lon="-17.85" data-markers='[[[28.6838, -17.761, "Ristoranti"], [28.642, -17.932, "Ristoranti"], "Santa Cruz de La Palma"]]'></div>
+<div class="mapframe" data-slug="la-palma" data-minz="10" data-maxz="12" data-lat="28.663" data-lon="-17.85" data-markers='[[28.6838, -17.761, "Ristoranti"], [28.642, -17.932, "Ristoranti"]]'></div>
 
 *Schede puntuali in arrivo al prossimo controllo mensile.*
 

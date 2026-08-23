@@ -38,6 +38,7 @@ def norm_title(s: str) -> str:
 def register(md_path: Path, title: str, country: str = "", in_nav: bool = True):
     pid = f"p{len(queue) + 1}"
     page_map[md_path.resolve()] = pid
+    title = re.sub(r"\s*\{#[^}]*\}", "", title).strip()
     queue.append((md_path, title, pid, country))
     scope_pid[(country, norm_title(title))] = pid
     if in_nav:
@@ -125,7 +126,7 @@ def render(md_path: Path, title: str, sec_id: str, country: str = ""):
                 title=place
         badge=f'<div class="loc-badge">{place}</div>'
     sections.append(f'<section id="{sec_id}" class="page" data-country="{country}">'
-                    f'{badge}<h1>{title}</h1>{html}</section>')
+                    f'{badge}<h1{attrs}>{title}</h1>{html}</section>')
 
 
 register(ROOT / "00-indice.md", "Indice portolano")

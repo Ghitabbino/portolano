@@ -19,7 +19,8 @@ Ultimo aggiornamento: 22/08/2026 · coordinate indicative, navigare con cartogra
 ⛔ Mai àncora su posidonia; zone consentite segnalate dalla riserva.
 ### Mappa generale degli ancoraggi
 
-<div class="mapframe" data-slug="la-graciosa" data-minz="11" data-maxz="13" data-lat="29.23" data-lon="-13.5" data-markers=''></div>
+<div class="mapframe" data-slug="la-graciosa" data-minz="11" data-maxz="13" data-lat="29.23" data-lon="-13.5" data-markers='[[29.23, -13.497, "Caleta del Sebo"], [29.222, -13.52, "Pedro Barba"]]'></div>
+
 
 *Coordinate indicative; tasselli offline satellitari + carta nautica + segnaletica OpenSeaMap.*
 
