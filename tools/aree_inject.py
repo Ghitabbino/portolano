@@ -141,9 +141,12 @@ def process(html):
     # costruzione semplice senza lambda complesse
     def add_crumbs(html):
         out=[]; pos=0
-        for m in sec_re.finditer(html):
+        for m in list(sec_re.finditer(html)) + list(re.finditer(r'<section id="(o-[a-z-]+)" class="page" data-country="([a-z-]+)">([\s\S]*?)<h1[^>]*>([\s\S]*?)</h1>', html)):
             pid,c=m.group(1),m.group(2)
             tit=re.sub(r"<[^>]+>","",m.group(4)).strip().replace("'","\u2019")
+            if pid.startswith("o-"):
+                ins='<p class="crumbs"><a href="#home">Aree</a> \u203a <b>'+tit+'</b></p>'
+                out.append(html[pos:m.end()]); out.append(ins); pos=m.end(); continue
             root=c.split("/")[0]
             seg=[]
             seg.append('<a href="#home">'+OC_ICON["mediterraneo"].replace("\u26F1\uFE0F","")+'Aree</a>'.replace("",""))
