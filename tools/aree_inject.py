@@ -137,7 +137,7 @@ def process(html):
       +"if(k===\"\"){vis=true;}"
       +"else if(OC_IDS[k]){vis=(c===\"\")||k===c;}"
       +"else if(k.indexOf(\"/\")<0){vis=isOc?(PAR[k]===c):(iz?false:(k===c));}"
-      +"else{vis=isOc?(PAR[k.split(\"/\")[0]]===c):(iz?(k===c):(k.split(\"/\")[0]===c));}"
+      +"else{vis=isOc?false:(iz?(k===c):(k.split(\"/\")[0]===c));}"
       +"l.style.display=vis?\"\":\"none\";"
       +"l.classList.toggle(\"active\",k===c);"
       +"});"
