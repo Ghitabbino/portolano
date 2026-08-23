@@ -14,22 +14,22 @@ Legenda prezzi: **€** <20 · **€€** 20–40 · **€€€** >40 — Cucin
 
 | Ristorante | Zona | Costo | Cucina | Specialità | Location | Stelle |
 |---|---|---|---|---|---|---|
-| [Zanzibar](ristoranti/rist-zanzibar.md) | Le Marin | **€€€** | **🐟 Pesce creolo contemporaneo** | *Granchio ripieno · pentata di mare* | **🏖️ spiaggia elegante** | ★★★★ |
-| [KokOaRum Bar](ristoranti/rist-kokoarum.md) | Marina du Marin | **€€** | **🥩 Grill e burger caraibico** | *Burger conditi · colombo di pesce* | **⚓ marina, musica live** | ★★★½ |
-| [Ti Cozy](ristoranti/rist-ti-cozy.md) | Sainte-Anne | **€** | **🍰 Crêperie bretona** | *Galette di grano saraceno · gelati artigianali* | **🪶 rustico curato** | ★★★★★ |
-| [Snack Boubou Bokits](ristoranti/rist-boubou.md) | Sainte-Anne | **€** | **🥙 Street food creolo** | *Bokit merluzzo/pollo* | **🥙 snack da strada** | ★★★★½ |
+| [Zanzibar](ristoranti/rist-zanzibar.md) | Le Marin | **€€€** | **🐟 Pesce creolo contemporaneo** | *Crabe cirique farci · marmite de la Mer* | **🏖️ spiaggia elegante** | ★★★★ |
+| [KokOaRum Bar](ristoranti/rist-kokoarum.md) | Marina du Marin | **€€** | **🥩 Grill e burger caraibico** | *Burger garnis · colombo de poisson* | **⚓ marina, musica live** | ★★★½ |
+| [Ti Cozy](ristoranti/rist-ti-cozy.md) | Sainte-Anne | **€** | **🍰 Crêperie bretona** | *Galette sarrasin · glaces artigianali* | **🪶 rustico curato** | ★★★★★ |
+| [Snack Boubou Bokits](ristoranti/rist-boubou.md) | Sainte-Anne | **€** | **🥙 Street food creolo** | *Bokit morue/poulet* | **🥙 snack da strada** | ★★★★½ |
 | [Le M](ristoranti/rist-le-m.md) | Sainte-Anne | **€€€** | **🐟 Creativa fronte mare** | *Pesce fresco del giorno* | **🍽️ elegante informale** | ★★★★½ |
-| [La Cour Créole](ristoranti/rist-cour-creole.md) | Sainte-Anne | **€€** | **🥩 Creola tradizionale** | *Colombo di pollo · salsiccia creola* | **🌴 patio creolo** | ★★★★½ |
-| [La Daurade](ristoranti/rist-daurade.md) | Sainte-Anne | **€** | **🐟 Creola popolare** | *Frittelle di merluzzo · colombo di pesce* | **🪶 semplice, locale** | ★★★★ |
-| [Delim's](ristoranti/rist-delims.md) | Sainte-Anne | **€€€** | **🐟 Langouste e lambi** | *Aragosta · lumaca di mare · polpo* | **🍽️ raffinato** | ★★★★½ |
+| [La Cour Créole](ristoranti/rist-cour-creole.md) | Sainte-Anne | **€€** | **🥩 Creola tradizionale** | *Colombo de poulet · boudin antillais* | **🌴 patio creolo** | ★★★★½ |
+| [La Daurade](ristoranti/rist-daurade.md) | Sainte-Anne | **€** | **🐟 Creola popolare** | *Accras · colombo pesce del giorno* | **🪶 semplice, locale** | ★★★★ |
+| [Delim's](ristoranti/rist-delims.md) | Sainte-Anne | **€€€** | **🐟 Langouste e lambi** | *Langouste · lambi · chatrou* | **🍽️ raffinato** | ★★★★½ |
 | [Basilic Beach](ristoranti/rist-basilic-beach.md) | Pointe Marin | **€€** | **🐟 Beach creolo rivisitato** | *Pesce fresco · cocktail* | **🏖️ sulla spiaggia** | ★★★★ |
-| [Pirates Beach](ristoranti/rist-pirates-beach.md) | Anse Caritan | **€€** | **🥩 Burgers antillais** | *Manzo stufato speziato · frittelle di merluzzo* | **🏖️ beach club con sdraio** | ★★★★½ |
-| [Kreol K Fé](ristoranti/rist-kreol-k-fe.md) | Anse à l'Âne | **€€** | **🥩 Caraibica-francese** | *Colombo · frittelle di merluzzo · hamburger* | **🪶 casuale, colazione/pranzo/cena** | ★★★★ |
-| [L'Oasis](ristoranti/rist-oasis.md) | Anses d'Arlet | **€€** | **🐟 Pesce e tartare** | *Tonno semi-cotto · tartare di pesce* | **🌅 terrazza sul mare** | ★★★★ |
-| [Palmeiras Karaïb](ristoranti/rist-palmeiras.md) | Le Diamant | **€€** | **🥩 Brasiliana-caraibica** | *Tartare del giorno · frittelle di merluzzo* | **🌅 vista Rocher, tramonto** | ★★★★½ |
-| [Havana Café](ristoranti/rist-havana-cafe.md) | Pointe du Bout | **€€** | **🥩 Fajitas e grill** | *Fajitas · crêpes · cocktail della casa* | **🎶 musica live, animato** | ★★★½ |
-| [Sous le Vent](ristoranti/rist-sous-le-vent.md) | Sainte-Luce | **€€** | **🐟 Bistronomico pesce** | *Orata scottata · aragosta fiammeggiata* | **🌅 bistrot sul mare** | ★★★★★ |
-| [Le Zandoli](ristoranti/rist-zandoli.md) | Fort d'Alet | **€€€** | **🍽️ Gastronomica fusion** | *Menu degustazione 70/95 €* | **🏛️ boutique hotel 5*, vista baia** | ★★★★ |
+| [Pirates Beach](ristoranti/rist-pirates-beach.md) | Anse Caritan | **€€** | **🥩 Burgers antillais** | *Boeuf mijoté aux épices · accras* | **🏖️ beach club con sdraio** | ★★★★½ |
+| [Kreol K Fé](ristoranti/rist-kreol-k-fe.md) | Anse à l'Âne | **€€** | **🥩 Caraibica-francese** | *Colombo · accras · hamburger* | **🪶 casuale, colazione/pranzo/cena** | ★★★★ |
+| [L'Oasis](ristoranti/rist-oasis.md) | Anses d'Arlet | **€€** | **🐟 Pesce e tartare** | *Thon mi-cuit · tartare de poisson* | **🌅 terrazza sul mare** | ★★★★ |
+| [Palmeiras Karaïb](ristoranti/rist-palmeiras.md) | Le Diamant | **€€** | **🥩 Brasiliana-caraibica** | *Tartare pesce del giorno · accras* | **🌅 vista Rocher, tramonto** | ★★★★½ |
+| [Havana Café](ristoranti/rist-havana-cafe.md) | Pointe du Bout | **€€** | **🥩 Fajitas e grill** | *Fajitas · crêpes · cocktail maison* | **🎶 musica live, animato** | ★★★½ |
+| [Sous le Vent](ristoranti/rist-sous-le-vent.md) | Sainte-Luce | **€€** | **🐟 Bistronomico pesce** | *Daurade snackée sauce aimé · langouste flambée* | **🌅 bistrot sul mare** | ★★★★★ |
+| [Le Zandoli](ristoranti/rist-zandoli.md) | Fort d'Alet | **€€€** | **🍽️ Gastronomica fusion** | *Menu Découverte 70 € · completo 95 €* | **🏛️ boutique hotel 5*, vista baia** | ★★★★ |
 
 ## App e fonti
 

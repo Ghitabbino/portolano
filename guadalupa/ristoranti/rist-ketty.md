@@ -5,20 +5,23 @@
 | Campo | Dettaglio |
 |---|---|
 | Zona | Deshaies |
-| Cucina | 🐟 Langouste *(aragosta)* grigliata |
-| Specialità | Langouste *(aragosta)* (prenotarla al mattino) |
+| Cucina | 🐟 Langouste grigliata |
+| Specialità | Langouste (prenotarla al mattino) |
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🌴 case créole in giardino |
-| Contatti | [+590 690 69 35 39](tel:+590690693539) · N2 entrée gîtes Migneret |
-| Valutazioni |Google 4,7/5 (217) → ★★★★★|
-| Orari | Lun 19–22 · Gio–Dom 12–22 (chiuso mar/mer) · menu langousta ~48 € ★★ |
+| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chez+Ketty+Deshaies) |
+| Contatti | **DATO MANCANTE** |
+| Valutazioni | Google 4,7/5 (217) → ★★★★★ |
+| Orari | **DATO MANCANTE** |
 
 ## Menu
 
-- Langouste *(aragosta)* grigliata
+- Langouste grigliata
 
 **Chef**: ND
 
-**Note**: N2 entrée gîtes Migneret
+## Foto
 
-Ultimo aggiornamento: 22/08/2026
+*Foto non ancora disponibili — recuperare al controllo mensile.*
+
+**Note**: N2 entrée gîtes Migneret

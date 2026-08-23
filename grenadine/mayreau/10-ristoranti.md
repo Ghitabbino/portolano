@@ -1,26 +1,15 @@
 # 10 — Ristoranti
 
-**Ultimo aggiornamento: 23/08/2026**
+## Griglia generale
 
+| Ristorante | Zona | Costo | Cucina | Specialità | Location | Stelle |
+|---|---|---|---|---|---|---|
+| [Coconut Restaurant & Bar](ristoranti/rist-coconut.md) | Salt Whistle Bay | **€€** | **🐟 Caraibica** | *Pesce · langousta* | **🏖️ sulla baia** | ★★★ |
+| [The Last Bar Before the Jungle](ristoranti/rist-lastbar.md) | Salt Whistle Bay | **€€** | **🍹 Bar & grill** | *Grill · cocktail* | **🌴 fine spiaggia** | ★★★ |
+| [Nadie's Bar & Restaurant](ristoranti/rist-nadies.md) | Salt Whistle Bay | **€€** | **🐟 Locale** | *Pesce fresco* | **🏖️** | ★★ |
+| [Island Paradise](ristoranti/rist-islandparadise.md) | Costa ovest | **€€** | **🐟 Locale** | *Pesce* | **🌊** | ★★ |
+| [D'View Sports Bar & Restaurant](ristoranti/rist-dview.md) | Costa ovest | **€€** | **🍽️ Mista** | *—* | **⛰️ vista** | ★★ |
 
-Elenco completo verificato — [Guida CCA nov 2025](https://cruisingclub.org/sites/default/files/events/Grenadines%20Info%20%26%20Local%20Resources%2025.11.23.pdf) ★★★★
+## App e fonti
 
-**Costa ovest:**
-
-| Locale | Note |
-|---|---|
-| Mayreau Beach Club | ★★ |
-| Island Paradise | ★★ |
-| Denis' Hideaway | ★★ |
-| D'View Sports Bar & Restaurant | ★★ |
-| The Ranch Escapade | ★★ |
-
-**Salt Whistle Bay:**
-
-| Locale | Note |
-|---|---|
-| Coconut Restaurant & Bar | ★★★ |
-| **The Last Bar Before the Jungle** | Icona della baia ★★★ |
-| Nadie's Bar & Restaurant | ★★ |
-
-Ultimo aggiornamento: 23/08/2026
+Google Maps recensioni · contatto VHF/WhatsApp

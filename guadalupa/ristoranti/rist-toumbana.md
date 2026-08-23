@@ -6,21 +6,24 @@
 |---|---|
 | Zona | Terre-de-Haut (Les Saintes) |
 | Cucina | 🐟 Creola in giardino |
-| Specialità | Langouste *(aragosta)* · accras |
+| Specialità | Langouste · accras |
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🌴 giardino tropicale |
-| Contatti | [Mappa](https://www.google.com/maps/search/?api=1&query=Toumbana+Terre-de-Haut+Les+Saintes+Guadeloupe) |
-| Valutazioni |Google positive → ★★★★|
-| Orari | Pranzo e cena in giardino; chiude fuori stagione ⚠️ |
+| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Toumbana+Terre-de-Haut+(Les+Saintes)) |
+| Contatti | **DATO MANCANTE** |
+| Valutazioni | Google positive → ★★★★ |
+| Orari | **DATO MANCANTE** |
 
 ## Menu
 
-- Langouste *(aragosta)*
-- Accras *(frittelle di merluzzo)*
+- Langouste
+- Accras
 - Pesce del giorno
 
 **Chef**: ND
 
-**Note**: A piedi dal pontile · pranzo consigliato · prenotare la langouste · menu 15–24 €
+## Foto
 
-Ultimo aggiornamento: 22/08/2026
+*Foto non ancora disponibili — recuperare al controllo mensile.*
+
+**Note**: A piedi dal pontile · pranzo consigliato · prenotare la langouste · menu 15–24 €

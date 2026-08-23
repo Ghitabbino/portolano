@@ -1,13 +1,13 @@
 # 10 — Ristoranti
 
-Ultimo aggiornamento: 22/08/2026 · Legenda: **€** <20 · **€€** 20-40 · **€€€** >40
+## Griglia generale
 
-## Zone consigliate
+| Ristorante | Zona | Costo | Cucina | Specialità | Location | Stelle |
+|---|---|---|---|---|---|---|
+| [Soho House Canouan](ristoranti/rist-soho.md) | Grand Bay area | **€€€** | **🍽️ Internazionale** | *Take-out per yacht* | **🌱 resort** | ★★★ |
+| [Sandy Lane Yacht Club Restaurant](ristoranti/rist-sandylane.md) | Charlestown | **€€€** | **🍽️ Marina** | *—* | **⚓ marina** | ★★★ |
 
-- Charlestown — locali locali
-- Resort marina — ristoranti alta gamma (prenotare)
-
-## App utili sul posto
+## App e fonti
 
 Google Maps recensioni · prenotazioni dirette VHF/WhatsApp
 

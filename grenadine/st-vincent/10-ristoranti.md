@@ -1,14 +1,13 @@
 # 10 — Ristoranti
 
-Ultimo aggiornamento: 22/08/2026 · Legenda: **€** <20 · **€€** 20-40 · **€€€** >40
+## Griglia generale
 
-## Zone consigliate
+| Ristorante | Zona | Costo | Cucina | Specialità | Location | Stelle |
+|---|---|---|---|---|---|---|
+| [Wallilabou Anchorage](ristoranti/rist-wallilabou.md) | Wallilabou Bay | **€€** | **🍽️ Turistica** | *—* | **🎬 set Pirates of the Caribbean** | ★★ |
+| [Young Island Resort](ristoranti/rist-youngisland.md) | Young Island | **€€€€** | **🍽️ Resort** | *—* | **🏝️ isola privata** | ★★ |
 
-- Kingstown waterfront — locali locali
-- Blue Lagoon ristoranti di marina
-- Wallilabou — bar del set cinematografico
-
-## App utili sul posto
+## App e fonti
 
 Google Maps recensioni · prenotazioni dirette VHF/WhatsApp
 

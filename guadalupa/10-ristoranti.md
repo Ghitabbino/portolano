@@ -14,20 +14,20 @@ Legenda prezzi: **€** <20 · **€€** 20–40 · **€€€** >40 — Cucin
 
 | Ristorante | Zona | Costo | Cucina | Specialità | Location | Stelle |
 |---|---|---|---|---|---|---|
-| [Le Toumbana](ristoranti/rist-toumbana.md) | Terre-de-Haut (Les Saintes) | **€€** | **🐟 Creola in giardino** | *Aragosta · frittelle di merluzzo* | **🌴 giardino tropicale** | ★★★★ |
-| [Chez Ketty](ristoranti/rist-ketty.md) | Deshaies | **€€** | **🐟 Langouste grigliata** | *Aragosta (prenotarla al mattino)* | **🌴 case créole in giardino** | ★★★★★ |
+| [Le Toumbana](ristoranti/rist-toumbana.md) | Terre-de-Haut (Les Saintes) | **€€** | **🐟 Creola in giardino** | *Langouste · accras* | **🌴 giardino tropicale** | ★★★★ |
+| [Chez Ketty](ristoranti/rist-ketty.md) | Deshaies | **€€** | **🐟 Langouste grigliata** | *Langouste (prenotarla al mattino)* | **🌴 case créole in giardino** | ★★★★★ |
 | [La Savane](ristoranti/rist-savane.md) | Deshaies | **€€** | **🐟 Francese-caraibica** | *Pesce fresco · colombo* | **🌅 vista mare** | ★★★★½ |
-| [Le Madras](ristoranti/rist-madras.md) | Deshaies | **€€** | **🐟 Creola fronte mare** | *Frittelle di merluzzo · tonno* | **🪶 bordo mare, set TV** | ★★★★ |
+| [Le Madras](ristoranti/rist-madras.md) | Deshaies | **€€** | **🐟 Creola fronte mare** | *Accras · thon* | **🪶 bordo mare, set TV** | ★★★★ |
 | [Chez Raf](ristoranti/rist-raf.md) | Deshaies | **€€€** | **🍽️ Raffinata caraibica** | *Pesce creativo* | **🍽️ elegante informale, cocktails** | ★★★★★ |
 | [L'Anse Gourmande](ristoranti/rist-anse-gourmande.md) | Deshaies | **€€** | **🐟 Caraibica** | *Pesce · prodotti locali* | **🪶 locale nuovo** | ★★★★★* |
-| [Le Lucullus](ristoranti/rist-lucullus.md) | Sainte-Anne | **€€** | **🐟 Creola-francese** | *Pesce · aragosta* | **🌅 terrazza** | ★★★★ |
+| [Le Lucullus](ristoranti/rist-lucullus.md) | Sainte-Anne | **€€** | **🐟 Creola-francese** | *Pesce · langouste* | **🌅 terrazza** | ★★★★ |
 | [Le Cabanon](ristoranti/rist-cabanon.md) | Sainte-Anne | **€€** | **🍽️ Franco-caraibica creativa** | *Menu creativo stagionale* | **🪶 piccolo, curato** | ★★★★★ |
-| [Le Coquillage](ristoranti/rist-coquillage.md) | Sainte-Anne | **€€** | **🐟 Frutti di mare** | *Crostacei · pesce* | **🏖️ fronte spiaggia** | ★★★★½ |
-| [Le Balaou](ristoranti/rist-balaou.md) | Sainte-Anne | **€€** | **🐟 Tataki di tonno** | *Tataki di tonno · pesce* | **🌅 terrazza rilassata** | ★★★★ |
-| [Le Zagaya](ristoranti/rist-zagaya.md) | Saint-François | **€€** | **🐟 Pieds dans l'eau** | *Granchio ripieno · orata al riso nero* | **🏖️ spiaggia, tramonto** | ★★★★ |
-| [La Playa](ristoranti/rist-playa.md) | Marie-Galante | **€€** | **🐟 Locale rivisitata** | *Pesce · salsiccia creola* | **🏖️ beach front** | ★★★★ |
-| [La Table du Père Labat](ristoranti/rist-pere-labat.md) | Grand-Bourg | **€€** | **🐟 Antillana-francese** | *Lumaca di mare · dolci al rum* | **🪶 tradizionale** | ★★★★ |
-| [Le Planteur](ristoranti/rist-planteur.md) | Gosier | **€€** | **🥩 Poulet boucané** | *Pollo affumicato · gamberi d'acqua dolce* | **🌴 corte creola** | ★★★★ |
+| [Le Coquillage](ristoranti/rist-coquillage.md) | Sainte-Anne | **€€** | **🐟 Frutti di mare** | *Crustacés · pesce* | **🏖️ fronte spiaggia** | ★★★★½ |
+| [Le Balaou](ristoranti/rist-balaou.md) | Sainte-Anne | **€€** | **🐟 Tataki di tonno** | *Tataki de thon · pesce* | **🌅 terrazza rilassata** | ★★★★ |
+| [Le Zagaya](ristoranti/rist-zagaya.md) | Saint-François | **€€** | **🐟 Pieds dans l'eau** | *Crabe farci · dorade al riso nero* | **🏖️ spiaggia, tramonto** | ★★★★ |
+| [La Playa](ristoranti/rist-playa.md) | Marie-Galante | **€€** | **🐟 Locale rivisitata** | *Pesce · boudin créole* | **🏖️ beach front** | ★★★★ |
+| [La Table du Père Labat](ristoranti/rist-pere-labat.md) | Grand-Bourg | **€€** | **🐟 Antillana-francese** | *Lambi · dolci al rum* | **🪶 tradizionale** | ★★★★ |
+| [Le Planteur](ristoranti/rist-planteur.md) | Gosier | **€€** | **🥩 Poulet boucané** | *Poulet boucané · ouassous* | **🌴 corte creola** | ★★★★ |
 | [Le Rayon de Soleil](ristoranti/rist-rayon-soleil.md) | Anse-Bertrand | **€€€** | **🍽️ Creativa locale** | *Menù degustazione* | **🌅 vista oceano atlantico** | ★★★★ |
 
 ## App e fonti

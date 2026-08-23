@@ -9,8 +9,9 @@
 | Specialità | Pesce fresco del giorno |
 | Costo | 💰€€€ per persona senza bevande |
 | Location | 🍽️ elegante informale |
+| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+M+Sainte-Anne) |
 | Contatti | 0596 76 75 43 |
-| Valutazioni |★★★★½|
+| Valutazioni | TA 4,7/5 (372) · Petit Futé 4,4/5 (127) → ★★★★½ |
 | Orari | lun chiuso · mer–sab 12–14:30 / 19–21:30 · dom pranzo |
 
 ## Menu
@@ -21,7 +22,14 @@
 
 **Chef**: Kévin Julians
 
+## Foto
 
-**Note**: Rue du bord de mer · · stessi gestori del Paille Coco
+![Le M](img/martinica/rist-le-m.jpg)
 
-Ultimo aggiornamento: 22/08/2026
+*Fonte: le-mrestaurant.com*
+
+![Le M](img/martinica/rist-le-m-2.jpg)
+
+*Fonte: le-mrestaurant.com*
+
+**Note**: Rue du bord de mer · le-mrestaurant.com · stessi gestori del Paille Coco

@@ -9,17 +9,20 @@
 | Specialità | Pesce · langouste |
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🌅 terrazza |
-| Contatti | [Scheda TripAdvisor](https://www.tripadvisor.fr/Restaurant_Review-g147303-d1945770-Reviews-Le_Lucullus-Sainte_Anne_Grande_Terre_Island_Guadeloupe.html) · [mappa](https://www.google.com/maps/search/?api=1&query=Le+Lucullus+Sainte-Anne+Guadeloupe) |
-| Valutazioni |Google 4,3/5 (1366) → ★★★★|
-| Orari | Aperto tutto l'anno; pranzo 12–15, cena 19–22:30 tipici ⚠️ stagionale |
+| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Lucullus+Sainte-Anne) |
+| Contatti | **DATO MANCANTE** |
+| Valutazioni | Google 4,3/5 (1366) → ★★★★ |
+| Orari | **DATO MANCANTE** |
 
 ## Menu
 
 - Pesce
-- Langouste *(aragosta)*
+- Langouste
 
 **Chef**: ND
 
-**Note**: Fronte mare · classico affidabile della spiaggia
+## Foto
 
-Ultimo aggiornamento: 22/08/2026
+*Foto non ancora disponibili — recuperare al controllo mensile.*
+
+**Note**: Fronte mare · classico affidabile della spiaggia

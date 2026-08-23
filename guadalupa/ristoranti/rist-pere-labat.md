@@ -6,21 +6,24 @@
 |---|---|
 | Zona | Grand-Bourg |
 | Cucina | 🐟 Antillana-francese |
-| Specialità | Lambi *(lumaca di mare)* · dolci al rum |
+| Specialità | Lambi · dolci al rum |
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🪶 tradizionale |
-| Contatti | [Mappa](https://www.google.com/maps/search/?api=1&query=Père+Labat+Grand-Bourg+Marie-Galante+Guadeloupe) |
-| Valutazioni |Google positive → ★★★★|
-| Orari | Menu antillano; orari legati agli arrivi traghetti ⚠️ |
+| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Table+du+Père+Labat+Grand-Bourg) |
+| Contatti | **DATO MANCANTE** |
+| Valutazioni | Google positive → ★★★★ |
+| Orari | **DATO MANCANTE** |
 
 ## Menu
 
-- Lambi *(lumaca di mare)*
+- Lambi
 - Boudin
 - Dolci al rum
 
 **Chef**: ND
 
-**Note**: Vicino alle distillerie Bielle/Poisson · menu 15–30 €
+## Foto
 
-Ultimo aggiornamento: 22/08/2026
+*Foto non ancora disponibili — recuperare al controllo mensile.*
+
+**Note**: Vicino alle distillerie Bielle/Poisson · menu 15–30 €

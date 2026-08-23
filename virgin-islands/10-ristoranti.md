@@ -1,23 +1,16 @@
 # 10 — Ristoranti
 
-**Ultimo aggiornamento: 23/08/2026**
+## Griglia generale
 
+| Ristorante | Zona | Costo | Cucina | Specialità | Location | Stelle |
+|---|---|---|---|---|---|---|
+| [Foxy's Bar](ristoranti/rist-foxys.md) | Great Harbour, Jost Van Dyke | **€€** | **🍹 Bar leggendario** | *Grill · rum* | **⚓ porto d'ingresso** | ★★★★ |
+| [Soggy Dollar Bar](ristoranti/rist-soggydollar.md) | White Bay, Jost Van Dyke | **€€** | **🍹 Beach bar** | *Painkiller (nato qui)* | **🏖️ si approda a nuoto** | ★★★★ |
+| [Willy T (William Thornton)](ristoranti/rist-willyt.md) | The Bight, Norman Island | **€€** | **🍹 Bar galleggiante** | *—* | **⛵ schooner galleggiante** | ★★★★ |
+| [Cooper Island Beach Club](ristoranti/rist-cooperisland.md) | Manchioneel Bay, Cooper | **€€€** | **🍽️ Eco-resort** | *Craft rum distillery* | **🌱 sostenibile** | ★★★ |
+| [Bitter End Yacht Club](ristoranti/rist-bitterend.md) | North Sound, Virgin Gorda | **€€€** | **🍽️ Resort nautico** | *—* | **⚓ icona North Sound** | ★★★ |
+| [Indigo Beach House](ristoranti/rist-indigo.md) | Cane Garden Bay, Tortola | **€€** | **🐟 Caraibica** | *—* | **🏖️ baia famosa** | ★★ |
 
-| Locale | Dove | Prezzi | Note |
-|---|---|---|---|
-| **Foxy's** | Great Harbour, Jost Van Dyke | €€ | Istituzione BVI, clearance a riva ★★★★ |
-| **Soggy Dollar Bar** | White Bay, Jost Van Dyke | €€ | Nato qui il Painkiller ★★★★ |
-| **Willy T** (floating bar) | The Bight, Norman | €€ | Bar galleggiante leggendario ★★★★ |
-| Bitter End Yacht Club | North Sound, VG | €€€ | Resort nautico storico ★★★ |
-| Cooper Island Beach Club | Cooper | €€€ | Craft rum distillery ★★★ |
-| Indigo Beach House | Cane Garden Bay | €€ | Fuori dai sentieri ★★ |
-| Mongoose Junction | Cruz Bay, St John | €€ | Negozio+ristoranti ★★ |
+## App e fonti
 
-## Provvisioning
-
-- **Nanny Cay** (Tortola): supermarket + chandlery, 200 posti ★★★★
-- **Soper's Hole** (West End): negozi e ristoranti, porto d'ingresso ★★★
-- **Leverick Bay** (North Sound): provviste base ★★★
-- **Moorings base / Road Town**: rifornimento completo ★★★
-
-Ultimo aggiornamento: 23/08/2026
+Google Maps recensioni · contatto VHF/WhatsApp

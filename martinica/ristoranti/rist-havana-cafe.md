@@ -9,25 +9,29 @@
 | Specialità | Fajitas · crêpes · cocktail maison |
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🎶 musica live, animato |
+| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Havana+Café+Pointe+du+Bout) |
 | Contatti | 0596 66 15 93 |
-| Valutazioni |★★★½|
+| Valutazioni | Petit Futé 3,6/5 → ★★★½ |
 | Orari | 7/7 servizio continuato 11:30–23 (mezzanotte nel week-end) |
 
 ## Menu
 
-- Fajitas mexicaines *(fajitas messicane)*
+- Fajitas mexicaines
 - Tartares di pesce fresco
-- Grillades *(grigliate)*
-- Salades composées *(insalate composte)*
+- Grillades
+- Salades composées
 - Galettes e crêpes dolci
-- Coupes glacées *(coppe gelato)*
-- Cocktail maison *(della casa)* (carta 20–30 €)
+- Coupes glacées
+- Cocktail maison (carta 20–30 €)
 
 **Chef**: ND
 
+## Foto
 
-**Note**: Village Créole, rue du Chacha, Les Trois-Îlets · 
+![Havana Café](img/martinica/rist-havana-cafe.jpg)
+
+*Fonte: havana-cafe-martinique.fr (wixstatic)*
+
+**Note**: Village Créole, rue du Chacha, Les Trois-Îlets · havana-cafe-martinique.fr
 
 **Extra**: email havanacafemartinique@gmail.com
-
-Ultimo aggiornamento: 22/08/2026

@@ -9,9 +9,10 @@
 | Specialità | Pesce · prodotti locali |
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🪶 locale nuovo |
-| Contatti | [Mappa](https://www.google.com/maps/search/?api=1&query=Anse+Gourmande+Deshaies+Guadeloupe) |
-| Valutazioni |Google 4,9/5 (35) — pochi dati → ★★★★★*|
-| Orari | Novità 2025-26; orari in definizione ⚠️ |
+| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=L'Anse+Gourmande+Deshaies) |
+| Contatti | **DATO MANCANTE** |
+| Valutazioni | Google 4,9/5 (35) — pochi dati → ★★★★★* |
+| Orari | **DATO MANCANTE** |
 
 ## Menu
 
@@ -20,6 +21,8 @@
 
 **Chef**: ND
 
-**Note**: Apertura recente: valutazioni da monitorare
+## Foto
 
-Ultimo aggiornamento: 22/08/2026
+*Foto non ancora disponibili — recuperare al controllo mensile.*
+
+**Note**: Apertura recente: valutazioni da monitorare
