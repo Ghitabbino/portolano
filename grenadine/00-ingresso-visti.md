@@ -24,3 +24,5 @@ Bequia (hub) · St Vincent · Tobago Cays (parco marino) · Mayreau · Union Isl
 ## Vaccini
 
 Nessuno obbligatorio; dengue presente → protezione antizanzare.
+
+Ultimo aggiornamento: 23/08/2026

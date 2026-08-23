@@ -47,3 +47,5 @@ Ultimo aggiornamento: 22/08/2026
 Ultimo aggiornamento: 22/08/2026
 
 | Haul-out | **Travelift 100 t** [velmundi ★★★★] |
+
+Ultimo aggiornamento: 23/08/2026

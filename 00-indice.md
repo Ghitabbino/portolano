@@ -45,4 +45,5 @@ Wiki di navigazione per paese: ingresso, clearance, costi, porti, servizi, stagi
     <div class="pdesc">Canale + San Blas: transito, Colón, comarca Guna Yala.</div>
     <div class="pstat">🚧 v0 — 22/08/2026</div>
   </div>
-</div>
+
+Ultimo aggiornamento: 23/08/2026
