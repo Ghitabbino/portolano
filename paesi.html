@@ -44996,7 +44996,7 @@ function show(id){
     l.style.display=vis?'':'none';                 // senza paese (Indice): nascoste
   });
   
-var oc=PAR[root]||OC_IDS[root]?root:"";var iz=c.indexOf("/")>=0;var hz=false;document.querySelectorAll(".zsub").forEach(function(z){if(z.dataset.country.split("/")[0]===root)hz=true;});document.querySelectorAll(".nav-countries a").forEach(function(l){var k=l.dataset.country||"";var vis=false;if(k===""){vis=true;}else if(OC_IDS[k]){vis=!oc||k===oc;}else if(k.indexOf("/")<0){vis=iz?(k===root):(!!oc&&PAR[k]===oc);}else{vis=k.split("/")[0]===root;}l.style.display=vis?"":"none";l.classList.toggle("active",k===oc||k===root||k===c);});plinks.forEach(function(l){var dk=l.dataset.country;var v=!!c&&dk===c&&(iz||!hz);l.style.display=v?"":"none";});
+var iz=c.indexOf("/")>=0;var isOc=!!(c&&OC_IDS[c]);var hz=false;document.querySelectorAll(".zsub").forEach(function(z){if(z.dataset.country.split("/")[0]===root)hz=true;});document.querySelectorAll(".nav-countries a").forEach(function(l){var k=l.dataset.country||"";var vis=false;if(k===""){vis=true;}else if(OC_IDS[k]){vis=(c==="")||k===c;}else if(k.indexOf("/")<0){vis=isOc?(PAR[k]===c):(iz?false:(k===c));}else{vis=isOc?(PAR[k.split("/")[0]]===c):(iz?(k===c):(k.split("/")[0]===c));}l.style.display=vis?"":"none";l.classList.toggle("active",k===c);});plinks.forEach(function(l){var dk=l.dataset.country;var v=!!c&&dk===c&&(iz||!hz);l.style.display=v?"":"none";});
   window.scrollTo(0,0);
   if(p)initMaps(p);
 }
