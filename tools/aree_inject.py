@@ -283,6 +283,8 @@ def process(html):
           ".paesi-grid .pflag{font-size:30px;line-height:1;height:40px;display:flex;align-items:center}"
           ".paesi-grid{grid-auto-rows:1fr}"
           ".paesi-grid .pname{font-size:15.5px;text-align:center}"
+          ".paesi-grid .pdesc{text-align:center}"
+          ".paesi-grid .pstat{text-align:center}"
           ".paesi-grid .pcard{padding:16px 12px}"
           ".paesi-grid{gap:14px}"
           ".paesi-grid .pcard{height:100%}"
