@@ -22269,7 +22269,7 @@ Ultimo aggiornamento: 22/08/2026</section>
 const plinks=[...document.querySelectorAll('.pagelink')];
 const clinks=[...document.querySelectorAll('.country-link')];
 let current='p1';
-const PAR={"cabo-verde": "atlantico", "canarie": "atlantico", "grenadine": "caraibi", "guadalupa": "caraibi", "martinica": "caraibi", "panama": "caraibi"};
+const PAR={"cabo-verde": "atlantico", "canarie": "atlantico", "grenadine": "caraibi", "guadalupa": "caraibi", "martinica": "caraibi", "panama": "caraibi"};const OC_IDS={"atlantico":1,"caraibi":1,"mar-rosso":1,"pacifico":1,"mediterraneo":1,"indiano":1};
 function show(id){
   current=id;
   const p=document.getElementById(id);
@@ -22287,6 +22287,7 @@ function show(id){
     }
     l.style.display=vis?'':'none';                 // senza paese (Indice): nascoste
   });
+  const curO=PAR[root]||OC_IDS[root]?root:'';document.querySelectorAll('.nav-countries .sub').forEach(l=>{l.style.display=(curO&&PAR[l.dataset.country]===curO)?'':'none';});
   window.scrollTo(0,0);
   if(p)initMaps(p);
 }

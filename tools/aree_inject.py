@@ -114,11 +114,18 @@ def process(html):
     if m:
         html=html[:m.start()]+'<div class="nav-countries">'+items+'</div>'+html[m.end():]
 
+    ocids="{"+",".join('"'+k+'":1' for k in ORDER)+"}"
     html=html.replace("function show(id){",
-        "const PAR="+json.dumps(OCEANO_DI)+";\nfunction show(id){",1)
+        "const PAR="+json.dumps(OCEANO_DI)+";const OC_IDS="+ocids+
+        ";\nfunction show(id){",1)
     html=html.replace(
         "clinks.forEach(l=>l.classList.toggle('active',l.dataset.country===root));",
         "clinks.forEach(l=>l.classList.toggle('active',l.dataset.country===root||l.dataset.country===PAR[root]));",1)
+    html=html.replace("  window.scrollTo(0,0);",
+        "  const curO=PAR[root]||OC_IDS[root]?root:'';"
+        "document.querySelectorAll('.nav-countries .sub').forEach(l=>"
+        "{l.style.display=(curO&&PAR[l.dataset.country]===curO)?'':'none';});"
+        "\n  window.scrollTo(0,0);",1)
 
     html=re.sub(r"show\('p1'\)","show('home')",html,count=1)
     return html
