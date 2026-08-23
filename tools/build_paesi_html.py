@@ -7,6 +7,34 @@ from pathlib import Path
 import markdown
 
 ROOT = Path(__file__).resolve().parent.parent
+
+OCEANO_DI = {"cabo-verde": "atlantico", "canarie": "atlantico",
+             "grenadine": "caraibi", "guadalupa": "caraibi",
+             "martinica": "caraibi", "panama": "caraibi"}
+
+OCEANI = [
+ ("atlantico",    "🌊", "Oceano Atlantico", "Capo Verde · Canarie"),
+ ("caraibi",      "🌴", "Mar dei Caraibi",  "Grenadine · Guadalupa · Martinica · Panama"),
+ ("mar-rosso",    "🔴", "Mar Rosso",        "in preparazione"),
+ ("pacifico",     "🌊", "Oceano Pacifico",  "in preparazione"),
+ ("mediterraneo", "⛱️", "Mediterraneo",     "in preparazione"),
+ ("indiano",      "🌍", "Oceano Indiano",   "in preparazione"),
+]
+
+META_PAESI = {
+ "cabo-verde": ("🇨🇻", "Capo Verde",
+   "9 isole: hub Mindelo, Sal turistica, vulcano Fogo; EASE pre-registrazione.", "✅ v1"),
+ "canarie": ("🇪🇸", "Canarie",
+   "Tenerife, Gran Canaria, Lanzarote e le altre: marine complete e alisei costanti.", "🚧 v0"),
+ "grenadine": ("🇻🇨", "Grenadine",
+   "Tobago Cays, Bequia, Mustique: reef, mooring e Basil's Bar.", "🚧 v0"),
+ "guadalupa": ("🇬🇵", "Guadalupa",
+   "Les Saintes, Petite Terre, Cousteau: gli ancoraggi più belli delle Antille.", "✅ v1"),
+ "martinica": ("🇲🇶", "Martinica",
+   "Hub Le Marin: base servizi n.1 dei Caraibi orientali.", "✅ v1"),
+ "panama": ("🇵🇦", "Panama",
+   "Canale + San Blas: transito, Colón, comarca Guna Yala.", "🚧 v0"),
+}
 OUT = ROOT / "paesi.html"
 
 md = markdown.Markdown(extensions=["tables", "fenced_code", "attr_list"])
@@ -130,7 +158,6 @@ def render(md_path: Path, title: str, sec_id: str, country: str = ""):
                     f'{badge}<h1{attrs}>{title}</h1>{html}</section>')
 
 
-register(ROOT / "00-indice.md", "Indice portolano")
 
 for country_dir in sorted(p for p in ROOT.iterdir() if p.is_dir() and not p.name.startswith(".")):
     pages = sorted(country_dir.glob("*.md"))
@@ -180,6 +207,44 @@ for country_dir in sorted(p for p in ROOT.iterdir() if p.is_dir() and not p.name
 for md_path, title, sec_id, country in queue:
     render(md_path, title, sec_id, country)
 
+# ==================== HOME "AREE" + PAGINE-OCEANO ====================
+def _pcard(href, flag, nome, desc, st):
+    return ('<div class="pcard"><div class="pflag">' + flag + '</div>'
+            '<a class="pname" href="' + href + '">' + nome + '</a>'
+            '<div class="pdesc">' + desc + '</div><div class="pstat">' + st + '</div></div>')
+
+area_cards = "".join(_pcard("#o-" + oid, em, nm, ds,
+                    ("apri" if any(OCEANO_DI.get(k) == oid for k in META_PAESI)
+                     else "in preparazione")) for oid, em, nm, ds in OCEANI)
+
+sections.insert(0,
+    '<section id="home" class="page" data-country=""><h1>Portolano</h1>'
+    '<p><strong>Metodo</strong>: ogni informazione porta rank di attendibilità '
+    '+ data + fonte (quando disponibile).</p>'
+    '<p><strong>L'intero sistema viene aggiornato con periodicità mensile.</strong></p>'
+    '<h2>Aree</h2><div class="paesi-grid">' + area_cards + "</div></section>")
+
+ocean_secs = []
+for oid, em, nm, ds in OCEANI:
+    cards = ""
+    for slug, meta in META_PAESI.items():
+        if OCEANO_DI.get(slug) != oid:
+            continue
+        key = (ROOT / slug / "00-ingresso-visti.md").resolve()
+        href = page_map.get(key, "#")
+        cards += _pcard(href, meta[0], meta[1], meta[2], meta[3])
+    empty = "" if cards else '<p><em>In preparazione — contenuti in arrivo.</em></p>'
+    ocean_secs.append(
+        '<section id="o-' + oid + '" class="page" data-country="">'
+        '<p><a class="backlink" href="#home">← Aree</a></p>'
+        "<h1>" + nm + '</h1><div class="paesi-grid">' + cards + "</div>" + empty + "</section>")
+for i, s in enumerate(ocean_secs):
+    sections.insert(i, s)
+
+nav_pages.insert(0, '<a class="navlink country-link" href="#home">Aree</a>')
+for i, (oid, em, nm, ds) in enumerate(reversed(OCEANI)):
+    nav_pages.insert(1, f'<a class="navlink country-link" href="#o-{oid}">{nm}</a>')
+
 nav_html = ('<div class="nav-countries">'
             + "".join(f'<a class="navlink country-link" data-country="{k}" '
                       f'data-page="{pid}" href="#{pid}">'
@@ -216,6 +281,7 @@ aside h1 { font-size:16px; margin:0 0 12px; color:var(--accent); }
 .nav-countries { margin-bottom:12px; padding-bottom:10px; border-bottom:1px solid var(--line); }
 .country-link { font-weight:700; font-size:14.5px; }
 .zonelink { font-weight:800; font-size:15.5px; color:var(--accent); margin-top:10px; }
+.backlink { color:var(--accent); font-size:13px; text-decoration:none; }
 .loc-badge { color:var(--accent); font-weight:700; font-size:17px;
              letter-spacing:.02em; margin-bottom:-8px; }
 .pagelink { font-size:13px; padding-left:18px; }
@@ -285,7 +351,7 @@ __SECTIONS__
 <script>
 const plinks=[...document.querySelectorAll('.pagelink')];
 const clinks=[...document.querySelectorAll('.country-link')];
-let current='__FIRST__';
+let current='home';
 function show(id){
   current=id;
   const p=document.getElementById(id);
@@ -435,14 +501,14 @@ document.getElementById('search').addEventListener('input',e=>{
     l.style.display=(l.textContent.toLowerCase().includes(q)||rootVis[k])?'':'none';
   });
 });
-show('__FIRST__');
+show('home');
 </script>
 <script src="assets/leaflet.js"></script>
 </body>
 </html>
 """
 
-html = TEMPLATE.replace("__NAV__", nav_html).replace("__SECTIONS__", "\n".join(sections)).replace("__FIRST__", "p1")
+html = TEMPLATE.replace("__NAV__", nav_html).replace("__SECTIONS__", "\n".join(sections)).replace("home", "home")
 OUT.write_text(html, encoding="utf-8")
 print(f"OK -> {OUT} ({OUT.stat().st_size} byte, {len(queue)} pagine)")
 
