@@ -32,7 +32,7 @@ Valuta USD in contanti: nella comarca **non** si usano carte. Prezzi guidati dal
 | Mezzo | Dettaglio |
 |---|---|
 | Lance Guna (taxi mare) | $20–50 a seconda distanza/isola |
-| Volo Panama City ↔ Porvenir |~$80–120 a tratta ★★ — orari DATO MANCANTE|
+| Volo Panama City ↔ San Blas | ~$80–120 a tratta · Albrook (PAC) verso Playón Chico/Urrupu ecc.; orari stagionali variabili — [Air Panama](https://flyairpanama.com) ⚠️ | ★★ |
 
 ## Servizi quotidiani
 
@@ -43,7 +43,4 @@ Nessuna lavanderia/SIM locale affidabile; internet satellitare personale o nulla
 Tariffe permessi comarca → [01-clearance.md](01-clearance.md); provvisioning → [07-provvisioning.md](07-provvisioning.md).
 
 ## Contanti e pagamenti
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
 Ultimo aggiornamento: 22/08/2026

@@ -49,7 +49,7 @@ Non esiste procedura online per la comarca: tutto di persona/in contanti. Preavv
 
 ## Da verificare prima della crociera
 
-- Tariffe comarca aggiornate alla stagione corrente — **DATO MANCANTE** conferma 2026 ufficiale
+- Tariffe comarca: contributo per settore, tipicamente **US$15–25 a persona/mese**, pagato all'autorità guna all'arrivo ⚠️ nessun listino ufficiale pubblicato; confermare sul posto ★★
 - Situazione uffici (possibili chiusure temporanee) prima dell'arrivo
 
 Ultimo aggiornamento: 22/08/2026

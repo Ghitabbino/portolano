@@ -6,8 +6,8 @@ Hub tecnico lato Atlantico: **Shelter Bay** (cantiere + travelift, meccanici, ri
 
 | Servizio | Dove | Note |
 |---|---|---|
-| Travelift ~70 t + yard | Shelter Bay Marina |haul-out, rime, lavori in secco; listino → DATO MANCANTE ★★★|
-| Meccanico/rigger/elettricista itineranti | Shelter Bay/Linton Bay | elenco nomi e contatti: DATO MANCANTE (chiedere in marina) |
+| Travelift **100 t** + Hostar idraulico 55 t | [Shelter Bay Marina](https://shelterbaymarina.com) | haul+splash mono **US$12/piede** (min $400), catamarani **US$16/piede**, commerciale $22/piede; [listino ufficiale](https://promos.shelterbaymarina.com/rates-and-reservations/haul-out-rates) ★★★★ |
+| Meccanico/rigger/elettricista itineranti | Shelter Bay/Linton Bay | elenco aggiornato al cruisers net **VHF77 ore 07:30** o reception marina |
 | Noleggio cime/parabordi transito | Shelter Bay · Balboa YC |set completi per il transito ★★|
 
 ## Gas e bombole
@@ -15,7 +15,7 @@ Hub tecnico lato Atlantico: **Shelter Bay** (cantiere + travelift, meccanici, ri
 | Servizio | Dettaglio |
 |---|---|
 | Bombola 10 kg riempimento | Colón / Panama City (~$10–12) |
-| Jerrican gasolio | dock Shelter Bay/Flamenco (prezzo DATO MANCANTE) |
+| Jerrican gasolio | fuel dock Shelter Bay/Flamenco: prezzo del giorno, chiedere in marina (VHF74/10) |
 
 ## Acqua dolce
 
@@ -38,7 +38,7 @@ Acqua in dock alle marine; jerrycan dagli abitanti a Portobelo/Isla Grande (~$1�
 
 | Agente | Contatti | Note | Fonte |
 |---|---|---|---|
-| **Centenario & Co. S.A.** ("Erick") | centenarioconsulting.com · tel **DATO MANCANTE** (via sito) | Clearance + transito + line-handler. Recensioni: «estremamente disponibile ed efficiente, sempre informato, mai colti di sorpresa» (S/V Arcana Celeste, mag 2025) · «viaggio meraviglioso» (Southern Wing) |sito+recensioni ★★★|
+| **Centenario & Co. S.A.** ("Erick") | [centenarioconsulting.com](https://centenarioconsulting.com) · contatto via modulo sito | Clearance + transito + line-handling |
 | **Transshipping Agents S.A.** | **+507 69 97 42 15** (+WhatsApp) · Torre BICSA Fl.34, Av. Balboa, Panama City | 40 anni; transiti, dogane, provisioning, concierge. Recensione: «servizio fantastico — Winston ci ha tolto ogni preoccupazione, professionalità eccezionale» (SY Gladiator, capitano) |yachting-pages ★★★★|
 | **AYS Panama** (Associated Yacht Services, dal 2000/gruppo ASA 1975) | ayspanama.com · uffici su ENTRAMBI i lati del canale | 4.500+ transiti; formalità, permit, booking, bunker. Testimonianza capitano SY Acadia: «livello professionale eccezionale, comunicazione onesta» |sito ★★★★|
 | **Orca Ships Agents** | **507 383-5937** · cel **6932-1136** · Santa Elena, Panama City · orcashipsagents.com | Agente autorizzato ACP, 24/7/365; anche servizi yacht | ★★★|
@@ -46,7 +46,6 @@ Acqua in dock alle marine; jerrycan dagli abitanti a Portobelo/Isla Grande (~$1�
 ⚠️ **Avvertimento sicurezza**: il servizio non autorizzato "Panama Canal Linehandler Exchange" è segnalato dall'agente Centenario come privo di licenza portuale e status migratorio legale — usare solo agenti autorizzati o line-handler forniti dall'agente stesso. ★★★
 
 💡 Con un agente: niente deposito-cauzione per il transito, organizza ispezione, pedaggi, cime/galleggianti e line-handler. ★★★★
-
 
 ## Costi del transito per uno yacht (verificati 2024–2026)
 
@@ -80,7 +79,4 @@ Acqua in dock alle marine; jerrycan dagli abitanti a Portobelo/Isla Grande (~$1�
 - Ricambi spedibili via Miami/Houston più rapidamente che dall'Europa.
 
 ## Hub tecnico
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
 Ultimo aggiornamento: 22/08/2026

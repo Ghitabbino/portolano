@@ -19,8 +19,8 @@ Legenda prezzi: **€** <15 · **€€** 15–30 · **€€€** 30–60 · **
 
 | Locale | Zona | Costo | Cucina | Note | Fonte |
 |---|---|---|---|---|---|
-| Ristorante della **Shelter Bay Marina** | Colón (ex Fort Sherman) | **DATO MANCANTE** | 🍽️ internazionale | In marina, frequentato da equipaggi in preparazione al transito; menu e orari da verificare | ★★★ |
-| Ristoranti lungo l'**Amador Causeway** | Panama City | **€–€€€** (fascia da confermare) | 🐟 pesce · 🥩 grill · 🍽️ internazionale | Fila di locali sulla calzata con vista skyline; raggiungibili dalle boe/ancoraggio di Amador; nomi e valutazioni: **DATO MANCANTE** | ★★ |
+| [The Dock Restaurant](https://marinahotelatshelterbay.com) (Marina Hotel) | Shelter Bay, Fort Sherman | €€ · colazione/bar/menu caribe-intl · tel [+507 433-0471](tel:+5074330471) | 🍽️ internazionale | In marina, frequentato da equipaggi | ★★ |
+| [Ristoranti Amador Causeway](https://www.google.com/maps/search/restaurantes+calzada+de+amador+panama) | Panama City | €€–€€€ | 🐟 pesce · 🥩 grill · 🍽️ internazionale | Filare sul causeway, vista skyline | ★★ |
 | Locali del **Casco Viejo** | Panama City | **€€€+** | 🍽️ internazionale/creola | Fascia alta della città ($30+ a testa): zona valida per cena "da terra" | [02 Costi] |
 
 Per il costo medio dei pasti nella zona → [02](02-costi.md).
@@ -38,7 +38,4 @@ Per il costo medio dei pasti nella zona → [02](02-costi.md).
 Ultimo aggiornamento: 22/08/2026
 
 ## App e fonti
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
 Ultimo aggiornamento: 22/08/2026

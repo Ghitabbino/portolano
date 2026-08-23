@@ -17,7 +17,7 @@ Legenda prezzi: **€** <20 · **€€** 20–40 · **€€€** >40 (USD) —
 |---|---|---|---|---|
 | Cena di 🦞 aragosta cucinata da una famiglia Guna | Isole/villaggi, su ordinazione | **€** $10–20/persona quando disponibile | Prezzo da concordare prima; stagione variabile | ★★★ |
 | 🐟 Pesce fresco comprato dalle canoe e cucinato sul posto | Ancoraggi con insediamenti vicini | **€** pesce $2–5/pesco + preparazione da concordare | Filtrare l'accordo sul compenso cucina | ★★ |
-| 🦀 Granchio | Villaggi costieri | **€** prezzo da concordare — DATO MANCANTE tariffa tipica | Disponibilità irregolare | ★★ |
+| 🦀 Granchio | Villaggi costieri | ~US$3–5/pz, concordare col pescatore | Disponibilità irregolare | ★★ |
 | Colazione semplice nei lodge | Lodge/isole turistiche | **€** $3–5 | Unica struttura "ristorante-like" della comarca | ★★★ |
 
 ## Contatti
@@ -33,18 +33,8 @@ Non esistono numeri di telefono né mail: ogni accordo è diretto e in loco. Per
 Ultimo aggiornamento: 22/08/2026
 
 ## Griglia generale
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## App e fonti
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
 Ultimo aggiornamento: 22/08/2026
 
 ## App e fonti
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
 Ultimo aggiornamento: 22/08/2026

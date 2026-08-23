@@ -32,8 +32,8 @@
 
 | Voce | Dato |
 |---|---|
-| Pedaggi yacht <20 m (65 ft) |Ordine di grandezza **~US$1.600–2.000** secondo misura e chiuse; tariffa ufficiale aggiornata → DATO MANCANTE (verificare su pancanal.com prima del transito) ★★★|
-| Deposito cauzionale | Rimborsabile se nessun danno; importo variabile → DATO MANCANTE |
+| Pedaggi yacht ≤19,8 m (65 ft) | Toll fisso ~**US$1.935 (dic 2024) → ~US$2.130 (2025)**; struttura congelata fino a 30/09/2026; fascia 65–80 ft più alta | [ACP Maritime Tariff](https://pancanal.com/en/maritime-services/maritime-tariff/) ★★★★ |
+| Deposito cauzionale ("buffer") | **US$988 rimborsabile** se nessuna infrazione/danno; rimborso in poche settimane | [Guida agenti 2026](https://www.adimarships.com/panama-canal-transit-for-yachts-the-complete-2026-captains-guide/) ★★★ |
 | Agenzia locale (opzionale ma comune) |~US$350–500 gestisce carta, slot, advisor, noleggio attrezzatura ★★|
 
 ## Copia cartacea timbrata
@@ -65,7 +65,7 @@ Conservare: zarpe d'ingresso, timbri passaporti, Permiso de Navegación, ricevut
 
 ## Da verificare prima della crociera
 
-- Tariffa PCA aggiornata e depositi (pancanal.com) — **DATO MANCANTE**
+- Tariffa PCA aggiornata e depositi → [Maritime Tariff ACP](https://pancanal.com/en/maritime-services/maritime-tariff/) (toll <65 ft ~US$2.130 '25, congelato FY2026) ★★★★
 - Tempi medi attuali per lo slot (variabili con congestione siccità 2024–25)
 - Disponibilità noleggio cime/parabordi a Shelter Bay e Flamenco
 
