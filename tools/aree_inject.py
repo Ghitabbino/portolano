@@ -22,9 +22,9 @@ GRUPPI = [
  ("grandi-antille",   "\U0001F3D4", "Grandi Antille",                ["cuba","ispaniola","giamaica","porto-rico","cayman"]),
  ("sopravento-sett",  "\U0001F334", "Sopravento Settentrionali",     ["virgin-islands","anguilla","saint-martin","saint-barth","antigua-barbuda","st-kitts-nevis","montserrat","saba","st-eustatius"]),
  ("sopravento-merid", "\U0001F334", "Sopravento Meridionali",        ["guadalupa","dominica","martinica","santa-lucia","grenadine","barbados","grenada"]),
- ("sottovento-abc",   "\u2600",     "Sottovento (ABC e Trinidad)",   ["aruba","curacao","bonaire","venezuela","trinidad-tobago"]),
+ ("sottovento-abc",   "\u2600",     "Sottovento (ABC e Trinidad)",   ["aruba","curacao","bonaire","trinidad-tobago"]),
  ("lucayano",         "\U0001F41A", "Arcipelago Lucayano",           ["bahamas","turks-caicos"]),
- ("centro-america",   "\u26F5",     "America Centrale",              ["panama","belize","honduras","costarica","nicaragua"]),
+ ("centro-america",   "\u26F5",     "America Centrale",              ["panama","belize","honduras","costarica","nicaragua","venezuela"]),
 ]
 GRUPPO_DI = {}
 for _g in GRUPPI:
@@ -279,6 +279,7 @@ def process(html):
     # CSS crumbs
     if ".crumbs {" not in html:
         html=html.replace("</style>",
+          ".paesi-grid .pflag{font-size:30px;line-height:1;height:40px;display:flex;align-items:center}"
           ".crumbs{font-size:12px;color:var(--muted,#8899aa);margin:0 0 6px}"
           ".crumbs a{color:var(--accent,#3fa7ff);text-decoration:none}"
           ".crumbs b{color:inherit}</style>",1)
