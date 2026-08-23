@@ -1,6 +1,6 @@
 # 09 — Artigiani e negozi nautici
 
-Quadro diverso dalle Antille francesi: non esiste un hub di artigiani concentrati "in marina". I servizi tecnici si appoggiano alle due marine del transito (**Shelter Bay** lato Atlantico, **Flamenco/Balboa YC** lato Pacifico) e ai cantieri/zone industriali di Panama City. I contatti specifici dei singoli artigiani (meccanici itineranti, elettricisti, sailmaker…) non sono ancora verificati: dove mancano è indicato **DATO MANCANTE** — non riportiamo numeri o mail non confermati.
+Quadro diverso dalle Antille francesi: non esiste un hub di artigiani concentrati "in marina". I servizi tecnici si appoggiano alle due marine del transito (**Shelter Bay** lato Atlantico, **Flamenco/Balboa YC** lato Pacifico) e ai cantieri/zone industriali di Panama City. I contatti specifici dei singoli artigiani (meccanici itineranti, elettricisti, sailmaker…) non sono ancora verificati: le voci senza conferma restano generiche di proposito — non riportiamo numeri o mail non confermati.
 
 ## Tabella artigiani e operatori
 
