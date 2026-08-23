@@ -281,6 +281,9 @@ def process(html):
         html=html.replace("</style>",
           ".paesi-grid .pflag{font-size:30px;line-height:1;height:40px;display:flex;align-items:center}"
           ".paesi-grid{grid-auto-rows:1fr}"
+          ".paesi-grid .pname{font-size:15.5px}"
+          ".paesi-grid .pcard{padding:16px 12px}"
+          ".paesi-grid{gap:14px}"
           ".paesi-grid .pcard{height:100%}"
           ".crumbs{font-size:12px;color:var(--muted,#8899aa);margin:0 0 6px}"
           ".crumbs a{color:var(--accent,#3fa7ff);text-decoration:none}"
