@@ -143,8 +143,9 @@ def process(html):
         if oid=="caraibi":
             for gid,gicon,gname,members in GRUPPI:
                 n=len([m for m in members if m in PAESI])
+                nomi=sorted(PAESI[m][1] for m in members)
                 cs+=pcard("#c-"+gid, gicon, gname,
-                          ", ".join(PAESI[m][1] for m in members), "apri \u2192")
+                          ", ".join(nomi), "apri \u2192")
         else:
             for k,(cc,nome,desc,st) in PAESI.items():
                 if OCEANO_DI.get(k)!=oid: continue
