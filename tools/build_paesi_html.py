@@ -92,7 +92,8 @@ def render(md_path: Path, title: str, sec_id: str, country: str = ""):
                 if len(globl) == 1:
                     p_.append(globl[0])
                 # 0 o multipli senza scope: resta senza link, niente pagine sbagliate
-        return "data-markers='" + json.dumps(pts, ensure_ascii=False) + "'"
+        out = json.dumps(pts, ensure_ascii=False).replace("'", "\u2019")
+        return "data-markers='" + out + "'"
 
     text = re.sub(r"data-markers='([^']+)'", link_markers, text)
     md.reset()

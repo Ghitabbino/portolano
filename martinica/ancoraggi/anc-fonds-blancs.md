@@ -1,4 +1,4 @@
-# Fonds Blancs du François — l'iconica {#anc-fonds-blancs}
+# Fonds Blancs {anc-fonds-blancs}
 
 [← Tutti gli ancoraggi(../08-ancoraggi.md)
 | Campo | Dettaglio |
