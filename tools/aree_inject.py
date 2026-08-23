@@ -168,7 +168,7 @@ def process(html):
 
     zones={}
     for zm in re.finditer(r'data-country="([^"]+/[^"]+)"[^>]*data-page="(p\d+)"[^>]*>([^<]{2,40})<', html):
-    zones.setdefault(zm.group(1),(zm.group(2),zm.group(3).strip()))
+        zones.setdefault(zm.group(1),(zm.group(2),zm.group(3).strip()))
     items='<a class="navlink country-link" data-country="" data-page="home" href="#home">\U0001F30D Aree</a>'
     for oid in ORDER:
         kids=[k for k in PAESI if OCEANO_DI.get(k)==oid]
