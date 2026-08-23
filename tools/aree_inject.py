@@ -58,7 +58,7 @@ def inject(html):
             '<h2>Aree</h2><div class="paesi-grid">' + area_cards + "</div></section>")
 
     ocean_secs = []
-    for oid, em, nm in OCEANI:
+    for oid, em, nm, ds in OCEANI:
         cards = ""
         for slug, meta in PAESI.items():
             if OCEANO_DI.get(slug) != oid:
