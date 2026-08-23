@@ -15,7 +15,7 @@ SVG usa un **sistema di clearance online ufficiale** per yacht (e-seaClear/porta
 
 ## La barca
 
-Cruising permit SVG richiesto dopo l'ingresso — costo/durata: **DATO MANCANTE** da confermare con customs.
+Cruising permit SVG richiesta dopo l'ingresso: si paga in dogana (Kingstown/Bequia/Clifton); tariffa settimanale indicativa **EC$50–80** ⚠️ confermare all'arrivo ★★
 
 ## Zone del portolano
 

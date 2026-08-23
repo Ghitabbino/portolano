@@ -11,6 +11,6 @@ Ultimo aggiornamento: 22/08/2026
 
 ## Marine
 
-**DATO MANCANTE**
+Nessuna dogana: parco naturale; ranger TCMP su **VHF68**, Clifton è il porto di riferimento.
 
 Ultimo aggiornamento: 22/08/2026

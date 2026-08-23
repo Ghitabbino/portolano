@@ -14,4 +14,3 @@ Legenda: **€** <20 · **€€** 20–40 · **€€€** >40 — prezzi in EC
 ## App utili sul posto
 
 Google Maps recensioni · contatto diretto VHF/WhatsApp · prenotare aragosta al mattino
-

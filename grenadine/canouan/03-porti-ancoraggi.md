@@ -10,6 +10,6 @@ Ultimo aggiornamento: 22/08/2026
 
 ## Marine
 
-**DATO MANCANTE**
+Clearance a Charlestown; jetty dei resort con accesso regolamentato.
 
 Ultimo aggiornamento: 22/08/2026

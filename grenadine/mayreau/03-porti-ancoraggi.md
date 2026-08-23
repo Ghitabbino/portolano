@@ -11,6 +11,6 @@ Ultimo aggiornamento: 22/08/2026
 
 ## Marine
 
-**DATO MANCANTE**
+Nessuna dogana sull'isola: clearance a Union Island o Bequia.
 
 Ultimo aggiornamento: 22/08/2026

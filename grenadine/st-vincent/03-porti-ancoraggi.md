@@ -12,6 +12,6 @@ Ultimo aggiornamento: 22/08/2026
 
 ## Marine
 
-**DATO MANCANTE**
+Clearance principale **Kingstown** (Deep Water Harbour); uffici anche a Wallilabou e Blue Lagoon.
 
 Ultimo aggiornamento: 22/08/2026

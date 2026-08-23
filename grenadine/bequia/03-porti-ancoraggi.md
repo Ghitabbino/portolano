@@ -11,6 +11,6 @@ Ultimo aggiornamento: 22/08/2026
 
 ## Marine
 
-**DATO MANCANTE**
+Customs House sul waterfront di Port Elizabeth; clearance anche yacht in transito.
 
 Ultimo aggiornamento: 22/08/2026

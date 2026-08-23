@@ -11,6 +11,6 @@ Ultimo aggiornamento: 22/08/2026
 
 ## Marine
 
-**DATO MANCANTE**
+Clearance a **Clifton Harbour** (customs + immigration).
 
 Ultimo aggiornamento: 22/08/2026
