@@ -280,9 +280,11 @@ def process(html):
     # CSS crumbs
     if ".crumbs {" not in html:
         html=html.replace("</style>",
-          'section.page{font-size:16.5px}'
-          'section.page h1{font-size:32px}'
-          ".crumbs{font-size:12px;color:var(--muted,#8899aa);margin:0 0 6px}"
+           'section.page{font-size:16.5px}'
+           'section.page h1{font-size:32px}'
+           ".paesi-grid{grid-auto-rows:1fr}"
+           ".paesi-grid .pname{font-size:15px}"
+           ".crumbs{font-size:12px;color:var(--muted,#8899aa);margin:0 0 6px}"
           ".crumbs a{color:var(--accent,#3fa7ff);text-decoration:none}"
           ".crumbs b{color:inherit}</style>",1)
     html=re.sub(r"show\('p1'\)","show('home')",html,count=1)
