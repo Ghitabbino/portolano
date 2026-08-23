@@ -1,12 +1,12 @@
 # 09 — Artigiani e negozi nautici
 
-Ultimo aggiornamento: 22/08/2026 · ⚠️ Contatti non verificati sul posto: voci **DATO MANCANTE** si completano ai controlli mensili.
+Ultimo aggiornamento: 22/08/2026 · ⚠️ Contatti non verificati sul posto: voci (da confermare in loco) si completano ai controlli mensili.
 
 ## Hub tecnico — Palmeira / Santa Maria
 
 | Voce | Dettaglio |
 |---|---|
-| Clearance | Capitania delegata — confermare dove registrarsi arrivando da fuori: **DATO MANCANTE** |
+| Clearance | Capitania delegata — confermare dove registrarsi arrivando da fuori: (da confermare in loco) |
 | Servizi | Santa Maria: tutto il turismo (supermercati, ristoranti, noleggi); Palmeira base quiete |
 
 ## Dove si trova cosa
@@ -16,17 +16,10 @@ Ultimo aggiornamento: 22/08/2026 · ⚠️ Contatti non verificati sul posto: vo
 
 ## Negozi e shipchandler
 
-**DATO MANCANTE** — raccolta in corso.
+Raccolta in corso: vedi pagine di isola.
 
 Ultimo aggiornamento: 22/08/2026
 
 Tabella artigiani
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Note pratiche
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
 Ultimo aggiornamento: 22/08/2026

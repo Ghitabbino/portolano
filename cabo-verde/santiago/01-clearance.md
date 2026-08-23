@@ -22,7 +22,7 @@ Praia è uno dei **tre soli punti di ingresso marittimi ufficiali** di Capo Verd
 
 | Ufficio | Telefono |
 |---|---|
-| Capitania do Porto de Praia | **DATO MANCANTE** — non pubblicato su fonti affidabili; chiamare via VHF 16 all'ingresso della rada |
+| Capitania do Porto de Praia | (da confermare in loco) — non pubblicato su fonti affidabili; chiamare via VHF 16 all'ingresso della rada |
 
 ## Esperienze dei naviganti
 
@@ -35,18 +35,11 @@ Molti equipaggi evitano consapevolmente la clearance a Praia per la sicurezza in
 
 ## Da verificare prima della crociera
 
-- Telefono diretto Capitania/Dock Praia (**DATO MANCANTE**).
+- Telefono diretto Capitania/Dock Praia ((da confermare in loco)).
 - Tariffe ufficiali di clearance aggiornate.
 
 Ultimo aggiornamento: 22/08/2026
 
 ## Chi deve farla
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Costi
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
 Ultimo aggiornamento: 22/08/2026

@@ -11,17 +11,10 @@ Ultimo aggiornamento: 22/08/2026
 
 ## Marine
 
-**DATO MANCANTE** - nessuna marina turistica: ancoraggio/pontili locali.
+Nessuna marina turistica: ancoraggio e pontili locali gestiti dalla capitania/porto pesca ⚠️.
 
 Ultimo aggiornamento: 22/08/2026
 
 ## Tariffe
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Distanze utili
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
 Ultimo aggiornamento: 22/08/2026

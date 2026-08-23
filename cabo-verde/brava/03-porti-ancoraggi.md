@@ -36,7 +36,4 @@ Ancoraggio "ragionevole" davanti alla capitale secondo i naviganti: tenuta discr
 Ultimo aggiornamento: 22/08/2026
 
 ## Tariffe
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
 Ultimo aggiornamento: 22/08/2026

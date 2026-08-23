@@ -47,7 +47,4 @@ Il hub nautico assoluto dell'arcipelago, in pieno centro storico sul Cais Alfân
 Ultimo aggiornamento: 22/08/2026
 
 ## Tariffe
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
 Ultimo aggiornamento: 22/08/2026

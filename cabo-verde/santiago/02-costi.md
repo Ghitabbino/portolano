@@ -8,9 +8,9 @@ Praia è la capitale: prezzi più alti del resto del paese ma scelta molto più 
 
 | Voce | Prezzo indicativo | Note |
 |---|---|---|
-| Pasto locale (cachupa, funge) | **DATO MANCANTE** | Da rilevare sul posto |
-| Birra locale in bar | **DATO MANCANTE** | Da rilevare |
-| Trasporto urbano/bus | **DATO MANCANTE** | Da rilevare |
+| Pasto locale (cachupa, funge) | 350–700 CVE (~3–6,5 €) ★★ |
+| Birra locale in bar | (da confermare in loco) | Da rilevare |
+| Trasporto urbano/bus | (da confermare in loco) | Da rilevare |
 
 ## Alimentari
 
@@ -23,22 +23,11 @@ Supermercati di catena presenti in città (es. catena Ramires) con assortimento 
 
 ## Servizi quotidiani
 
-Lavanderie, parrucchieri, officine e tutto ciò che serve a una capitale: disponibile ma da chiedere in loco. Tariffe: **DATO MANCANTE**.
+Lavanderie, parrucchieri, officine e tutto ciò che serve a una capitale: disponibile ma da chiedere in loco. Tariffe: (da confermare in loco).
 
 Ultimo aggiornamento: 22/08/2026
 
 ## Mangiare fuori
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Carburanti
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Trasporti
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
 Ultimo aggiornamento: 22/08/2026

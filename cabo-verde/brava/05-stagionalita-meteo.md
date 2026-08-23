@@ -28,22 +28,7 @@ Ultimo aggiornamento: 22/08/2026 · Fuori dalla fascia uragani. Brava è la più
 Ultimo aggiornamento: 22/08/2026
 
 ## Clima
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Venti locali
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Finestre tipiche
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Link meteo
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
 Ultimo aggiornamento: 22/08/2026

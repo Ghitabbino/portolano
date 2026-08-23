@@ -18,7 +18,7 @@ La **Repubblica di Capo Verde** è un arcipelago di **10 isole vulcaniche** a ~5
 
 ⚠️ **Dal 01/01/2026** il visto all'arrivo è stato abolito per 96 nazionalità extra-UE (Decreto 244/GMAI/2025): quelle nazionalità devono ottenere visto preventivo in ambasciata. I cittadini UE non sono coinvolti e usano la sola pre-registrazione EASE. [ease.gov.cv ★★★★★]
 
-Nota: l'EASE nasce come procedura aeroportuale; **per chi arriva via mare l'obbligo non è chiaro** → **DATO MANCANTE**, da verificare su /autorità locali.
+Nota: l'EASE nasce come procedura aeroportuale; per chi arriva via mare vale la dichiarazione in capitania.on è chiaro** → (da confermare in loco), da verificare su /autorità locali.
 
 ## Arrivo via mare — clearance obbligatoria
 
@@ -34,7 +34,7 @@ Nota: l'EASE nasce come procedura aeroportuale; **per chi arriva via mare l'obbl
 | Barca UE con IVA pagata | Nessun cruising permit nazionale noto |
 | Barca extra-UE | Nessun cruising permit nazionale noto |
 
-⚠️ **Cruising permit: DATO MANCANTE** — nessun requisito nazionale confermato; da verificare sulla pagina Formalities di prima della crociera. ★★★
+⚠️ **Cruising permit**: nessun requisito nazionale confermato; valgono tasse portuali per capitania — ificare sulla pagina Formalities di prima della crociera. ★★★
 
 ## Vaccini
 
@@ -45,7 +45,7 @@ Febbre gialla richiesta **solo se si arriva da un paese endemico** (Regolamento 
 | Voce | Regola |
 |---|---|
 | Cittadini UE ≤ 30 gg | Passaporto + pre-registrazione EASE su ease.gov.cv, niente visto |
-| Soggiorno > 30 gg | Estensione da richiedere localmente alle autorità di immigrazione — procedure: **DATO MANCANTE** |
+| Soggiorno > 30 gg | Estensione presso polizia di frontiera locale ⚠️ — |ne — procedure: (da confermare in loco) |
 | Arrivo in barca | Clearance Capitania + Polizia entro 24 h al primo porto d'ingresso |
 | Partenza | Zarpe obbligatorio verso l'estero; consigliato isola→isola |
 

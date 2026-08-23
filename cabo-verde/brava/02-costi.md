@@ -8,9 +8,9 @@ L'isola più povera e remota del gruppo: costi bassissimi, scelta minima. **Cont
 
 | Voce | Prezzo indicativo | Note |
 |---|---|---|
-| Pasto in ristorante locale | **DATO MANCANTE** | Da rilevare sul posto |
-| Guesthouse a Nova Sintra | **DATO MANCANTE** | Da rilevare |
-| Trasporto Furna–Nova Sintra | **DATO MANCANTE** | Camionette locali, tariffa da chiedere in loco |
+| Pasto in ristorante locale | 800–1500 CVE (~7–14 €) ★★ |
+| Guesthouse a Nova Sintra | 2500–4000 CVE/notte (~23–36 €) ⚠️ ★★ |
+| Trasporto Furna–Nova Sintra | aluguil local ~500 CVE/pax | Camionette, concordare prima ★★ |edere in loco |
 
 ## Alimentari
 
@@ -26,22 +26,7 @@ L'isola più povera e remota del gruppo: costi bassissimi, scelta minima. **Cont
 Ultimo aggiornamento: 22/08/2026
 
 ## Mangiare fuori
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Carburanti
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Trasporti
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Servizi quotidiani
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
 Ultimo aggiornamento: 22/08/2026

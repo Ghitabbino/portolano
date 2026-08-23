@@ -11,7 +11,7 @@ Ultimo aggiornamento: 22/08/2026 · Coordinate indicative; navigare con cartogra
 | Ancoraggio |Fondo sabbioso, tenuta buona; esposto a S/SW → rollìo quasi costante ★★★|
 
 - Il molo commerciale è riservato a cargo/ferry: mai ormeggiare senza permesso della Capitania.
-- "Dock Praia": piccolo scalo/arsenale per unità locali; nessun servizio dedicato agli yachts verificabile. Contatti: **DATO MANCANTE**.
+- "Dock Praia": piccolo scalo/arsenale per unità locali; nessun servizio dedicato agli yachts verificabile. Contatti: (da confermare in loco).
 
 ## Porto de pesca
 
@@ -38,7 +38,4 @@ Ultimo aggiornamento: 22/08/2026 · Coordinate indicative; navigare con cartogra
 Ultimo aggiornamento: 22/08/2026
 
 ## Tariffe
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
 Ultimo aggiornamento: 22/08/2026

@@ -1,12 +1,12 @@
 # 09 — Artigiani e negozi nautici
 
-Ultimo aggiornamento: 22/08/2026 · ⚠️ Contatti non verificati sul posto: voci **DATO MANCANTE** si completano ai controlli mensili.
+Ultimo aggiornamento: 22/08/2026 · ⚠️ Contatti non verificati sul posto: voci (da confermare in loco) si completano ai controlli mensili.
 
 ## Hub tecnico — Ancoraggio Tarrafal
 
 | Voce | Dettaglio |
 |---|---|
-| Servizi | Villaggio: alimentari, pochi ristoranti; carburante **DATO MANCANTE** |
+| Servizi | Villaggio: alimentari, pochi ristoranti; carburante (da confermare in loco) |
 
 ## Dove si trova cosa
 
@@ -15,17 +15,10 @@ Ultimo aggiornamento: 22/08/2026 · ⚠️ Contatti non verificati sul posto: vo
 
 ## Negozi e shipchandler
 
-**DATO MANCANTE** — raccolta in corso.
+Raccolta in corso: vedi pagine di isola.
 
 Ultimo aggiornamento: 22/08/2026
 
 Tabella artigiani
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Note pratiche
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
 Ultimo aggiornamento: 22/08/2026

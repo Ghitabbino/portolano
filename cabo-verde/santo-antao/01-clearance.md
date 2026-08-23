@@ -9,7 +9,7 @@ Porto Novo è elencato tra gli approdi di Capo Verde su ed è il principale port
 | Voce | Dettaglio |
 |---|---|
 | Chi deve farla | Chi arriva direttamente dall'estero con Porto Novo come primo porto d'ingresso; chi arriva da un'altra isola capoverdiana notifica comunque la Polícia Marítima locale |
-| Uffici | Capitania/Polícia Marítima a Porto Novo — telefono: **DATO MANCANTE** |
+| Uffici | Capitania/Polícia Marítima a Porto Novo — telefono: (da confermare in loco) |
 | Documenti | Registrazione nave, passaporti, crew list |
 | Tempi/Costi | Procedure ridotte rispetto a Mindelo; formalità generalmente gratuite |
 
@@ -20,17 +20,6 @@ Per quasi tutti i naviganti la clearance nazionale si fa a **Mindelo** (9 Mm) e 
 Ultimo aggiornamento: 22/08/2026
 
 ## Chi deve farla
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Costi
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Da verificare
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
 Ultimo aggiornamento: 22/08/2026

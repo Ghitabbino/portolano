@@ -19,17 +19,6 @@ Ultimo aggiornamento: 22/08/2026 · Isola agricola: ottima frutta e verdura loca
 Ultimo aggiornamento: 22/08/2026
 
 ## Supermercati
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Acqua e carburante
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Consigli pratici
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
 Ultimo aggiornamento: 22/08/2026

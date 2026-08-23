@@ -20,8 +20,8 @@ Ultimo aggiornamento: 22/08/2026 · Mindelo è il posto migliore dell'arcipelago
 
 | Voce | Dettaglio |
 |---|---|
-| Haul-out / travel lift | **DATO MANCANTE** — nessuna gru per barche a vela confermata su fonte affidabile; da verificare in marina |
-| Meccanica/vetreria/tappezzeria | Artigiani locali segnalati dai naviganti ma senza contatti verificati: **DATO MANCANTE** |
+| Haul-out / travel lift | (da confermare in loco) — nessuna gru per barche a vela confermata su fonte affidabile; da verificare in marina |
+| Meccanica/vetreria/tappezzeria | Artigiani locali segnalati dai naviganti ma senza contatti verificati: (da confermare in loco) |
 | Agenti navali | Agenzie di shipping attive a Mindelo (es. Agência Viking) per pratiche portuali e forniture — contatto da verificare prima dell'uso |
 
 ## Consigli
@@ -33,24 +33,9 @@ Ultimo aggiornamento: 22/08/2026 · Mindelo è il posto migliore dell'arcipelago
 Ultimo aggiornamento: 22/08/2026
 
 ## Hub tecnico
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Gas e bombole
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Acqua dolce
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Note strategiche
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
 Ultimo aggiornamento: 22/08/2026
 
 ## Autorità portuaria Porto Grande

@@ -18,17 +18,10 @@ Santo Antão è un'isola da **terra**: montagne (Cova, Ribeira Grande, valle do 
 
 Collegamenti quotidiani con i catamarani CV Interilhas (~1 h); orari variabili per stagione → verificare su interilhas.com o ai biglietterie di Porto Novo/Mindelo prima di pianificare.
 
-⚠️ Ancoraggi notturni sull'isola: nessun sito affidabile documentato dalle fonti consultate → **DATO MANCANTE**.
+⚠️ Ancoraggi notturni sull'isola: nessun sito affidabile documentato dalle fonti consultate → (da confermare in loco).
 
 Ultimo aggiornamento: 22/08/2026
 
 ## Tariffe
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Distanze utili
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
 Ultimo aggiornamento: 22/08/2026

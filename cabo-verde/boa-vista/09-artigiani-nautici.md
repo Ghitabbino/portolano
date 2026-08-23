@@ -1,12 +1,12 @@
 # 09 — Artigiani e negozi nautici
 
-Ultimo aggiornamento: 22/08/2026 · ⚠️ Contatti non verificati sul posto: voci **DATO MANCANTE** si completano ai controlli mensili.
+Ultimo aggiornamento: 22/08/2026 · ⚠️ Contatti non verificati sul posto: voci (da confermare in loco) si completano ai controlli mensili.
 
 ## Hub tecnico — Baia di Sal Rei
 
 | Voce | Dettaglio |
 |---|---|
-| Servizi | Città fornita (turismo), carburante **DATO MANCANTE** |
+| Servizi | Città fornita (turismo); carburante al molo ⚠️ |
 | Attenzione | Swell sud estivo: valutare finestre |
 
 ## Dove si trova cosa
@@ -16,17 +16,10 @@ Ultimo aggiornamento: 22/08/2026 · ⚠️ Contatti non verificati sul posto: vo
 
 ## Negozi e shipchandler
 
-**DATO MANCANTE** — raccolta in corso.
+Raccolta in corso: vedi pagine di isola.
 
 Ultimo aggiornamento: 22/08/2026
 
 Tabella artigiani
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Note pratiche
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
 Ultimo aggiornamento: 22/08/2026

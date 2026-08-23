@@ -32,7 +32,4 @@ L'isola è piatta e a scarso rilievo: nessun riparo dal vento NE, che spira quas
 Ultimo aggiornamento: 22/08/2026
 
 ## Tariffe
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
 Ultimo aggiornamento: 22/08/2026

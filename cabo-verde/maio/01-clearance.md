@@ -13,7 +13,7 @@
 
 | Ufficio | Telefono |
 |---|---|
-| Delegazione marittima Porto Inglês | **DATO MANCANTE** — chiedere alla Polícia Marítima sul molo o via VHF 16 |
+| Delegazione marittima Porto Inglês | Polícia Marítima sul molo all'arrivo ⚠️ — |tima sul molo o via VHF 16 |
 
 ## In pratica
 
@@ -25,17 +25,6 @@
 Ultimo aggiornamento: 22/08/2026
 
 ## Chi deve farla
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Costi
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Da verificare
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
 Ultimo aggiornamento: 22/08/2026

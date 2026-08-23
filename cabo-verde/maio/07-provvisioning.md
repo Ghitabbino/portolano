@@ -24,17 +24,6 @@ Ultimo aggiornamento: 22/08/2026 · Offerta minima: **fare scorta a Praia prima 
 Ultimo aggiornamento: 22/08/2026
 
 ## Supermercati
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Acqua e carburante
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Consigli pratici
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
 Ultimo aggiornamento: 22/08/2026

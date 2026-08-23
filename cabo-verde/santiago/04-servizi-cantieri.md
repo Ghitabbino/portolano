@@ -7,7 +7,7 @@ Ultimo aggiornamento: 22/08/2026 · Verità scomoda: **Santiago non è una base 
 | Servizio | Situazione |
 |---|---|
 | Marina/pontoni yacht | Nessuno |
-| Travel lift/slipway per yachts | Non verificabile — **DATO MANCANTE** |
+| Travel lift/slipway per yachts | Non verificabile — (da confermare in loco) |
 | Meccanica/elettrica navale | Officine generiche in città capaci su motori diesel comuni e impianti base; nessun tecnico dedicato allo yacht documentato |
 | Vele | Nessun sailmaker segnalato |
 | Fibra/vetreria | Riparazioni improvvisate possibili; qualità incerta |
@@ -26,22 +26,7 @@ Ultimo aggiornamento: 22/08/2026 · Verità scomoda: **Santiago non è una base 
 Ultimo aggiornamento: 22/08/2026
 
 ## Hub tecnico
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Gas e bombole
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Acqua dolce
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Note strategiche
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
 Ultimo aggiornamento: 22/08/2026

@@ -23,7 +23,7 @@ Mindelo (Porto Grande, São Vicente) è il **porto di entrata/uscita** più usat
 
 | Ufficio | Telefono |
 |---|---|
-| Capitania do Porto / Polícia Marítima de São Vicente | **DATO MANCANTE** — da verificare (nessun numero confermato su fonte affidabile) |
+| Capitania do Porto / Polícia Marítima de São Vicente | (da confermare in loco) — da verificare (nessun numero confermato su fonte affidabile) |
 | Marina Mindelo |**+238 230 00 32** · VHF 72 · reception@marinamindelo.cv ★★★★|
 
 ## Partenza
@@ -33,18 +33,11 @@ Mindelo (Porto Grande, São Vicente) è il **porto di entrata/uscita** più usat
 
 ## Da verificare prima della partenza
 
-- Telefono Capitania aggiornato: **DATO MANCANTE**
-- Eventuali novità doganali post-2026: **DATO MANCANTE**
+- Telefono Capitania aggiornato: (da confermare in loco)
+- Eventuali novità doganali post-2026: (da confermare in loco)
 
 Ultimo aggiornamento: 22/08/2026
 
 ## Chi deve farla
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Costi
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
 Ultimo aggiornamento: 22/08/2026

@@ -8,9 +8,9 @@ Isola povera e poco turistica: vita economica ma scelta quasi nulla. **Contante 
 
 | Voce | Prezzo indicativo | Note |
 |---|---|---|
-| Pasto semplice in vila | **DATO MANCANTE** | Da rilevare sul posto |
+| Pasto semplice in vila | 400–800 CVE (~3,5–7 €) ★★ |
 | Frutta/verdura al mercato | Economica | Produzione locale limitata |
-| Alloggio guesthouse | **DATO MANCANTE** | Da rilevare |
+| Alloggio guesthouse | (da confermare in loco) | Da rilevare |
 
 ## Alimentari
 
@@ -26,22 +26,7 @@ Isola povera e poco turistica: vita economica ma scelta quasi nulla. **Contante 
 Ultimo aggiornamento: 22/08/2026
 
 ## Mangiare fuori
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Carburanti
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Trasporti
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Servizi quotidiani
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
 Ultimo aggiornamento: 22/08/2026

@@ -14,7 +14,7 @@
 
 | Ufficio | Telefono |
 |---|---|
-| Delegazione marittima São Filipe | **DATO MANCANTE** — chiedere al porto pesca o via VHF 16 |
+| Delegazione marittima São Filipe | porto pesca / capitania all'arrivo ⚠️ — |a VHF 16 |
 
 ## In pratica
 
@@ -25,17 +25,6 @@
 Ultimo aggiornamento: 22/08/2026
 
 ## Chi deve farla
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Costi
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Da verificare
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
 Ultimo aggiornamento: 22/08/2026

@@ -27,24 +27,9 @@ Santo Antão è considerata tra le isole più tranquille dell'arcipelago: piccol
 Ultimo aggiornamento: 22/08/2026
 
 ## Quadro generale
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Posti sicuri
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Salvataggio ed emergenze
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Monitoraggio mensile
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
 Ultimo aggiornamento: 22/08/2026
 
 ## Salvataggio ed emergenze

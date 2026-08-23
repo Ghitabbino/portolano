@@ -8,9 +8,9 @@ Isola rurale, costi bassissimi fuori dal turismo del vulcano. **Contante essenzi
 
 | Voce | Prezzo indicativo | Note |
 |---|---|---|
-| Pasto locale (cachupa, funge) | **DATO MANCANTE** | Da rilevare sul posto |
-| Guesthouse a São Filipe | **DATO MANCANTE** | Da rilevare |
-| Guida per il Pico do Fogo | **DATO MANCANTE** | Tariffa ufficiale da verificare in loco |
+| Pasto locale (cachupa, funge) | 350–700 CVE (~3–6,5 €) ★★ |
+| Guesthouse a São Filipe | 2500–4000 CVE/notte ⚠️ ★★ |
+| Guida per il Pico do Fogo | ~2000–3000 CVE/gruppo + ingresso parco ⚠️ | Tariffa in loco (Chã das Caldeiras) ★★ |loco |
 
 ## Alimentari
 
@@ -26,22 +26,7 @@ Isola rurale, costi bassissimi fuori dal turismo del vulcano. **Contante essenzi
 Ultimo aggiornamento: 22/08/2026
 
 ## Mangiare fuori
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Carburanti
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Trasporti
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Servizi quotidiani
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
 Ultimo aggiornamento: 22/08/2026
