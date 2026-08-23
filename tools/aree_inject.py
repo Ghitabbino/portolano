@@ -283,14 +283,13 @@ def process(html):
           ".paesi-grid .pflag{font-size:30px;line-height:1;height:40px;display:flex;align-items:center}"
           ".paesi-grid{grid-auto-rows:1fr}"
           ".paesi-grid{display:flex;flex-wrap:wrap;justify-content:center;align-items:stretch}"
-          ".paesi-grid .pcard{flex:0 0 250px;min-width:210px}"
+          ".paesi-grid .pcard{flex:1 1 260px;max-width:400px;min-width:210px}"
           "@media(max-width:600px){.paesi-grid .pcard{flex:0 0 100%}}"
           'section.page{font-size:16.5px}'
           'section.page h1{font-size:32px}'
           ".paesi-grid .pname{font-size:15.5px;text-align:center}"
           ".paesi-grid .pdesc{text-align:center}"
           ".paesi-grid .pname{min-height:44px;display:flex;align-items:center;justify-content:center}"
-          ".paesi-grid .pdesc{display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden;min-height:62px}"
           ".paesi-grid .pstat{text-align:center}"
           ".paesi-grid .pcard{padding:16px 12px}"
           ".paesi-grid{gap:14px}"
