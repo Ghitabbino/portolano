@@ -280,20 +280,8 @@ def process(html):
     # CSS crumbs
     if ".crumbs {" not in html:
         html=html.replace("</style>",
-          ".paesi-grid .pflag{font-size:30px;line-height:1;height:40px;display:flex;align-items:center}"
-          ".paesi-grid{grid-auto-rows:1fr}"
-          ".paesi-grid{display:flex;flex-wrap:wrap;justify-content:center;align-items:stretch}"
-          ".paesi-grid .pcard{flex:0 0 340px}"
-          "@media(max-width:600px){.paesi-grid .pcard{flex:0 0 100%}}"
           'section.page{font-size:16.5px}'
           'section.page h1{font-size:32px}'
-          ".paesi-grid .pname{font-size:15.5px;text-align:center}"
-          ".paesi-grid .pdesc{text-align:center}"
-          ".paesi-grid .pname{min-height:44px;display:flex;align-items:center;justify-content:center}"
-          ".paesi-grid .pstat{text-align:center}"
-          ".paesi-grid .pcard{padding:16px 12px}"
-          ".paesi-grid{gap:14px}"
-          ".paesi-grid .pcard{height:100%}"
           ".crumbs{font-size:12px;color:var(--muted,#8899aa);margin:0 0 6px}"
           ".crumbs a{color:var(--accent,#3fa7ff);text-decoration:none}"
           ".crumbs b{color:inherit}</style>",1)
