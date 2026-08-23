@@ -44,7 +44,9 @@ Testi integrali e mappe ufficiali: pagina "Les zones d'interdiction de mouillage
 
 ### Mappa generale degli ancoraggi
 
-<div class="mapframe" data-slug="martinica" data-minz="10" data-maxz="12" data-lat="14.60" data-lon="-61.03" data-markers=''></div>
+<div class="mapframe" data-slug="martinica" data-minz="10" data-maxz="12" data-lat="14.55" data-lon="-61.02" data-markers='[[14.4926, -61.0903, "Anse Noire / Anse Dufour", "anc-anse-noire"], [14.613, -60.902, "Fonds Blancs du François — l'iconica", "anc-fonds-blancs"], [14.552, -61.065, "Baie de Genipa — la tranquilla", "anc-genipa"], [14.4805, -61.0885, "Grande Anse d'Arlet", "anc-grande-anse-arlet"], [14.4636, -60.861, "Le Marin Est/Sud", "anc-marin-est"], [14.5941, -60.8706, "Anse Meurnier", "anc-meurnier"], [14.5072, -61.1003, "Anse Mitan", "anc-mitan"], [14.4735, -61.0827, "Petite Anse d'Arlet", "anc-petite-anse-arlet"], [14.741, -61.177, "Saint-Pierre", "anc-saint-pierre"], [14.4383, -60.885, "Sainte-Anne — il classico", "anc-sainte-anne"]]'></div>
+
+
 
 *Marker cliccabili: il popup apre direttamente la scheda dell'ancoraggio. Tasselli locali zoom 10–12 (satellitare / carta nautica / segnali OpenSeaMap).*
 

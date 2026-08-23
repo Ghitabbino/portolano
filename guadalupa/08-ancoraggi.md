@@ -36,7 +36,9 @@
 
 ### Mappa generale degli ancoraggi
 
-<div class="mapframe" data-slug="guadalupa" data-minz="10" data-maxz="12" data-lat="16.0946247" data-lon="-61.5588956" data-markers=''></div>
+<div class="mapframe" data-slug="guadalupa" data-minz="10" data-maxz="12" data-lat="16.15" data-lon="-61.5" data-markers='[[16.3065, -61.7965, "Deshaies", "anc-deshaies"], [16.3293, -61.0086, "Désirade — Baie Mahault", "anc-desireade"], [16.196, -61.466, "Îlet du Gosier", "anc-ilet-gosier"], [15.868, -61.582, "Les Saintes — Bourg de Terre-de-Haut", "anc-les-saintes"], [16.2779, -61.8029, "Malendure — Îlets Pigeon (Réserve Cousteau)", "anc-malendure-cousteau"], [15.97, -61.018, "Marie-Galante — Saint-Louis", "anc-marie-galante"], [16.17, -60.985, "Petite Terre", "anc-petite-terre"], [16.231, -61.534, "Pointe-à-Pitre — Marina Bas-du-Fort", "anc-pointe-a-pitre"], [16.008, -61.738, "Ravine Paul Thomas (Basse-Terre)", "anc-ravine-paul-thomas"], [16.245, -61.281, "Saint-François", "anc-saint-francois"]]'></div>
+
+
 
 *Marker cliccabili: il popup apre direttamente la scheda dell'ancoraggio. Tasselli locali zoom 10–12 (satellitare / carta nautica / segnali OpenSeaMap).*
 
