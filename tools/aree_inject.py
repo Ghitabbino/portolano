@@ -185,7 +185,7 @@ def process(html):
                     'href="#'+pid+'" >'
                     +svg(cc)+' '+nome+'</a>')
             import html as _h
-            for zk,(zp,zn) in sorted(zones.items()):
+            for zk,(zp,zn) in sorted(zones.items(), key=lambda kv: kv[1][1]):
                 if zk.split("/")[0]!=k: continue
                 items+=('<a class="navlink country-link zsub" data-country="'+zk+'" data-page="'+zp+'" href="#'+zp+'">'+_h.escape(zn)+'</a>')
     m=re.search(r'<div class="nav-countries">[\s\S]*?</div>', html)
