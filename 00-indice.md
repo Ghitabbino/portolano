@@ -18,7 +18,7 @@ Wiki di navigazione per paese: ingresso, clearance, costi, porti, servizi, stagi
   <div class="pcard">
     <div class="pflag">🇪🇸</div>
     <a class="pname" href="canarie/00-ingresso-visti.md">Canarie</a>
-    <div class="pdesc">Tenerife, Gran Canaria, Lanzarote e le altre: marine complete, alisei, Tobago? no — Atlantico.</div>
+    <div class="pdesc">Tenerife, Gran Canaria, Lanzarote e le altre: marine complete e alisei costanti nell'Atlantico.</div>
     <div class="pstat">🚧 v0 — 22/08/2026</div>
   </div>
   <div class="pcard">
