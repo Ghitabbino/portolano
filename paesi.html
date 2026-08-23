@@ -48529,8 +48529,11 @@ clinks.forEach(l=>l.addEventListener('click',e=>{
   const k=l.dataset.country||"";
   const cp=(current&&document.getElementById(current))?document.getElementById(current).dataset.country:"";
   if(l.classList.contains('sub')&&k&&cp&&(cp===k||cp.indexOf(k+'/')===0)){
+    if(k.indexOf('caraibi/')===0){show('o-caraibi');return;}
+    var g=GRP[k]; if(g){show('c-'+g);return;}
     show('o-'+PAR[k]); return;
   }
+  if(OC_IDS[k]&&k&&cp===k){show('home');return;}
   show(l.dataset.page);
 }));
 document.getElementById('home-link').addEventListener('click',()=>{
