@@ -10,7 +10,7 @@
 | **Divieti** | Nessuno specifico noto |
 | **Extra** | Spiaggia bella, ambiente rilassato |
 
-<div class="mapframe" data-slug="meurnier" data-lat="14.587" data-lon="-60.879"></div>
+<div class="mapframe" data-slug="meurnier" data-lat="14.5940546" data-lon="-60.8705932"></div>
 *Vista mappa Anse Meurnier (coord. indicative) — zoom con i pulsanti +/−; menu in alto a destra per passare a Carta nautica e Segnali nautici · mappa offline*
 
 Ultimo aggiornamento: 22/08/2026

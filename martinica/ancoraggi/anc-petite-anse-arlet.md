@@ -11,7 +11,7 @@
 | **Divieti** | Come Grande Anse (zona Anses d'Arlet) |
 | **Extra** | Acquario naturale: tartarughe garantite; borgo pittoresco |
 
-<div class="mapframe" data-slug="petite-anse-arlet" data-lat="14.4705" data-lon="-61.0985"></div>
+<div class="mapframe" data-slug="petite-anse-arlet" data-lat="14.4735159" data-lon="-61.0827003"></div>
 *Vista mappa Petite Anse d'Arlet (coord. indicative) — zoom con i pulsanti +/−; menu in alto a destra per passare a Carta nautica e Segnali nautici · mappa offline*
 
 Ultimo aggiornamento: 22/08/2026

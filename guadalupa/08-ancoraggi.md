@@ -36,7 +36,7 @@
 
 ### Mappa generale degli ancoraggi
 
-<div class="mapframe" data-slug="guadalupa" data-minz="10" data-maxz="12" data-lat="16.10" data-lon="-61.55" data-markers='[]'></div>
+<div class="mapframe" data-slug="guadalupa" data-minz="10" data-maxz="12" data-lat="16.0946247" data-lon="-61.5588956" data-markers='[]'></div>
 
 *Marker cliccabili: il popup apre direttamente la scheda dell'ancoraggio. Tasselli locali zoom 10–12 (satellitare / carta nautica / segnali OpenSeaMap).*
 

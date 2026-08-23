@@ -15,6 +15,7 @@ nav_pages, sections = [], []
 page_map = {}  # Path risolto -> id sezione
 scope_pid = {}  # (paese, titolo-norm) -> id
 queue = []     # (Path, titolo, id, paese)
+LABELS_IT={'cabo-verde':'Capo Verde'}
 countries = [] # (chiave paese, id copertina)
 
 
@@ -181,7 +182,7 @@ for md_path, title, sec_id, country in queue:
 nav_html = ('<div class="nav-countries">'
             + "".join(f'<a class="navlink country-link" data-country="{k}" '
                       f'data-page="{pid}" href="#{pid}">'
-                      f'{(" · ".join(p.capitalize() for p in k.split("/"))).replace("-", " ")}</a>'
+                      f'{LABELS_IT.get(k, (" · ".join(p.capitalize() for p in k.split("/"))).replace("-", " "))}</a>'
                       for k, pid in sorted(countries))
             + '</div><div class="nav-pages">' + "\n".join(nav_pages) + "</div>")
 

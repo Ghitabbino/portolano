@@ -14,7 +14,7 @@
 | **Divieti** | Nessuno |
 | **A terra** | Rifugio con qualsiasi vento; ottimo durante le raffiche |
 
-<div class="mapframe" data-slug="salardup-snug" data-lat="9.3533" data-lon="-78.26"></div>
+<div class="mapframe" data-slug="salardup-snug" data-lat="9.3670027" data-lon="-78.2566533"></div>
 *Vista mappa Salardup / Snug Harbour · mappa offline*
 
 Ultimo aggiornamento: 22/08/2026

@@ -1,7 +1,7 @@
 # Désirade — Baie Mahault {#anc-desireade}
 
 [← Tutti gli ancoraggi(../08-ancoraggi.md)
-<div class="mapframe" data-slug="desireade" data-lat="16.3180" data-lon="-61.0000" data-name="Baie Mahault, La Désirade"></div>
+<div class="mapframe" data-slug="desireade" data-lat="16.3292839" data-lon="-61.0086499" data-name="Baie Mahault, La Désirade"></div>
 
 L'isola geologica più antica del mondo: plateau selvaggio, villaggi colorati, ospedale-lebbrosario abbandonato. Baie Mahault riparata dagli alisei NE, fondo sabbia/erba 4–7 m; roll con sud. Traghetto/ferry da Saint-François. Piccoli negozi e ristoranti.
 

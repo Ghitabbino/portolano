@@ -27,7 +27,7 @@
 
 ## Mappa generale
 
-<div class="mapframe" data-slug="san-blas" data-minz="10" data-maxz="12" data-lat="9.4" data-lon="-78.35" data-markers='[]'></div>
+<div class="mapframe" data-slug="san-blas" data-minz="10" data-maxz="12" data-lat="9.3736055" data-lon="-78.3773607" data-markers='[]'></div>
 *Comarca Guna Yala · coordinate indicative su carte datate [CruisersWiki ★★] · mappa offline*
 
 ## Cartografia ufficiale

@@ -14,7 +14,7 @@
 | **Divieti** | Nessuno |
 | **A terra** | Acqua piscina, famiglie di pescatori Guna |
 
-<div class="mapframe" data-slug="west-lemons" data-lat="9.3383" data-lon="-78.2317"></div>
+<div class="mapframe" data-slug="west-lemons" data-lat="9.3249349" data-lon="-78.2360834"></div>
 *Vista mappa West Lemmons · mappa offline*
 
 Ultimo aggiornamento: 22/08/2026

@@ -14,7 +14,7 @@
 | **Divieti** | Nessuno |
 | **A terra** | Più tranquillo del settore ovest |
 
-<div class="mapframe" data-slug="eastern-lemons" data-lat="9.3483" data-lon="-78.215"></div>
+<div class="mapframe" data-slug="eastern-lemons" data-lat="9.3597725" data-lon="-78.2374567"></div>
 *Vista mappa Eastern Lemmons · mappa offline*
 
 Ultimo aggiornamento: 22/08/2026
