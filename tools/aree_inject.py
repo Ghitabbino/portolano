@@ -21,11 +21,11 @@ OC_NAME = {
 ORDER = ["atlantico","caraibi","mar-rosso","pacifico","mediterraneo","indiano"]
 
 PAESI = {
- "cabo-verde": ("cv", "Capo Verde", "9 isole: hub Mindelo, Sal turistica, vulcano Fogo.", "\u2705 v1"),
- "canarie":    ("es", "Canarie",    "Tenerife, Gran Canaria, Lanzarote e le altre.",     "\U0001F6A7 v0"),
- "grenadine":  ("vc", "Grenadine",  "Tobago Cays, Bequia, Mustique.",                    "\U0001F6A7 v0 · ver. 23/08/26"),
- "guadalupa":  ("fr", "Guadalupa",  "Les Saintes, Petite Terre, Riserva Cousteau.",      "\u2705 v1"),
- "martinica":  ("fr", "Martinica",  "Hub Le Marin, base servizi n.1 Antille.",           "\u2705 v1"),
+ "cabo-verde": ("cv", "Capo Verde", "9 isole: hub Mindelo, Sal turistica, vulcano Fogo.", "\u2705 v1 \u00b7 ver. 23/08/26"),
+ "canarie":    ("es", "Canarie",    "Tenerife, Gran Canaria, Lanzarote e le altre.",     "\U0001F6A7 v0 \u00b7 ver. 23/08/26"),
+ "grenadine":  ("vc", "Grenadine",  "Tobago Cays, Bequia, Mustique.",                    "\U0001F6A7 v0 \u00b7 ver. 23/08/26"),
+ "guadalupa":  ("fr", "Guadalupa",  "Les Saintes, Petite Terre, Riserva Cousteau.",      "\u2705 v1 \u00b7 ver. 23/08/26"),
+ "martinica":  ("fr", "Martinica",  "Hub Le Marin, base servizi n.1 Antille.",           "\u2705 v1 \u00b7 ver. 23/08/26"),
  "panama":     ("pa", "Panama",     "Canale + San Blas: transito, Colon, comarca Guna Yala.", "\u2705 v1 \u00b7 ver. 23/08/26"),
 }
 OCEANO_DI = {"cabo-verde":"atlantico","canarie":"atlantico",
