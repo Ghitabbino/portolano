@@ -409,6 +409,11 @@ clinks.forEach(l=>l.addEventListener('click',e=>{
     show('o-'+PAR[k]); return;
   }
   if(OC_IDS[k]&&k&&cp===k){show('home');return;}
+  if(l.classList.contains('zsub')&&k&&cp&&cp===k){
+    const nat=k.split('/')[0];
+    const n=document.querySelector('.nav-countries a.sub[data-country="'+nat+'"]');
+    if(n){show(n.dataset.page);return;}
+  }
   show(l.dataset.page);
 }));
 document.getElementById('home-link').addEventListener('click',()=>{

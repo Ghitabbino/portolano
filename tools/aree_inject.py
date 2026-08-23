@@ -174,7 +174,6 @@ def process(html):
         if oid=="caraibi":
             for gid,gicon,gname,members in GRUPPI:
                 items+=('<a class="navlink country-link sub" data-country="caraibi/'+gid+'" data-page="c-'+gid+'" href="#c-'+gid+'" >'+gicon+' '+gname+'</a>')
-            continue
         if not kids: continue
         for k in kids:
             cc,nome,_,_=PAESI[k]; pid=pid_of.get(k,"#")
