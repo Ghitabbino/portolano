@@ -251,6 +251,8 @@ li { margin:3px 0; }
               font-weight:600; font-size:11.5px; padding:2px 8px; border-radius:8px;
               box-shadow:0 1px 5px rgba(0,0,0,.55); white-space:nowrap; }
 .anch-label::before { display:none!important; }
+.anch-ic{background:none;border:none;}
+.anch-ic .ic{font-size:24px;line-height:26px;text-shadow:0 1px 4px rgba(0,0,0,.65);}
 @media (max-width:800px){ aside{position:static;width:auto;height:auto;} body{flex-direction:column;} }
 </style>
 </head>
@@ -288,6 +290,10 @@ function show(id){
   if(p)initMaps(p);
 }
 function initMaps(root){
+  const isAnc=/ancoraggi/i.test((root.querySelector('h1')||{textContent:''}).textContent||'')
+            || !!root.querySelector('h1[id^="anc"]');
+  const ancIcon=L.divIcon({className:'anch-ic',
+    html:'<div class="ic">⚓</div>',iconSize:[26,26],iconAnchor:[13,21]});
   root.querySelectorAll('.mapframe:not(.lmap)').forEach(el=>{
     el.classList.add('lmap');
     const slug=el.dataset.slug;
@@ -318,8 +324,8 @@ function initMaps(root){
     if(!hasPts&&!hasZones){
       m.setView([lat,lon],14);
       m.setMaxBounds([[lat-.03,lon-.05],[lat+.03,lon+.05]]);
-      L.circleMarker([lat,lon],{radius:9,color:'#ff5252',weight:3,fillColor:'#ff5252',fillOpacity:.85})
-       .bindTooltip(el.dataset.name||'Posizione',{permanent:true,direction:'top',offset:[0,-9],className:'anch-label'}).addTo(m);
+      const mk0=isAnc?L.marker([lat,lon],{icon:ancIcon}):L.circleMarker([lat,lon],{radius:9,color:'#ff5252',weight:3,fillColor:'#ff5252',fillOpacity:.85});
+      mk0.bindTooltip(el.dataset.name||'Posizione',{permanent:true,direction:'top',offset:[0,-9],className:'anch-label'}).addTo(m);
     }else{
       let la=[lat],lo=[lon];
       if(hasPts){la=la.concat(pts.map(p=>p[0]));lo=lo.concat(pts.map(p=>p[1]));}
@@ -333,7 +339,7 @@ function initMaps(root){
          .bindPopup('<b>'+z[4]+'</b>').addTo(m);
       });
       if(hasPts)pts.forEach(p=>{
-        const mk=L.circleMarker([p[0],p[1]],{radius:8,color:'#ff5252',weight:3,fillColor:'#ff5252',fillOpacity:.85}).addTo(m);
+        const mk=(isAnc?L.marker([p[0],p[1]],{icon:ancIcon}):L.circleMarker([p[0],p[1]],{radius:8,color:'#ff5252',weight:3,fillColor:'#ff5252',fillOpacity:.85})).addTo(m);
         if(p[3]){
           mk.on('add',()=>{if(mk._path)mk._path.style.cursor='pointer';});
           mk.bindTooltip(p[2]+' \u2014 clic per aprire la scheda',{direction:'top',offset:[0,-9],className:'anch-label'});
