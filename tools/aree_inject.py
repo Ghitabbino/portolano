@@ -127,7 +127,7 @@ def process(html):
     cards=""
     for oid in ORDER:
         kids=[k for k in PAESI if OCEANO_DI.get(k)==oid]
-        dsc = ("5 gruppi: Grandi Antille, Sopravento, Sottovento, Lucayano, Centro America"
+        dsc = ("Grandi Antille, Sopravento Settentrionali e Meridionali, Sottovento, Lucayano, Centro America"
                if oid=="caraibi" else
                ", ".join(PAESI[k][1] for k in kids) if kids else "in preparazione")
         cards+=pcard("#o-"+oid, OC_ICON[oid], OC_NAME[oid], dsc,
