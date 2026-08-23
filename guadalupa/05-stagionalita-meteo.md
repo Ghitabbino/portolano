@@ -42,5 +42,9 @@ Traversate Guadalupa→Dominica o →Antigua: 30–40 M, fattibili con aliseo �
 - [NOAA National Hurricane Center](https://www.nhc.noaa.gov) ★★★★★ — bollettini e traiettorie uragani atlantici (giugno–novembre).
 - [Windy](https://www.windy.com) · [PassageWeather](http://www.passageweather.com) · [PredictWind](https://www.predictwind.com) ★★★ — modelli vento/houle per la pianificazione delle traversate.
 - Istruzioni nautiche (*consignes nautiques*) pubblicate quotidianamente in stagione ciclonica [préfecture de Guadeloupe ★★★★★]
+### Siti meteo locali
 
+- [Météo-France Antilles-Guyane](https://meteofrance.com/fr/antilles) — ufficiale, allerte ★★★★
+- [Guadeloupe La 1ère météo](https://la1ere.francetvinfo.fr/guadeloupe/meteo) — locale ★★★
+- [Windguru Saint-François](https://www.windguru.cz/489) — spot atlantico sud ★★★
 Ultimo aggiornamento: 22/08/2026

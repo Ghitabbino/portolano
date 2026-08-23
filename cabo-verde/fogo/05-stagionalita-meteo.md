@@ -28,5 +28,10 @@ Ultimo aggiornamento: 22/08/2026
 ## Clima
 ## Venti locali
 ## Finestre tipiche
-## Link meteo
+## Link meteo### Siti meteo locali
+
+- [INMG Cabo Verde](http://www.inmg.gov.cv) — Istituto Nazionale Meteorologia e Geofisica, ufficiale ⚠️ sito talvolta lento ★★★
+- [Windguru Cabo Verde](https://www.windguru.cz/253) — Mindelo/São Vicente ★★★
+- [Windy Capo Verde](https://www.windy.com/16.0/-24.0) ★★★
+- Harmattan (dic–feb): polvere sahariana → visibilità ridotta, monitorare [CAMs Copernicus](https://atmosphere.copernicus.eu) ★★★
 Ultimo aggiornamento: 22/08/2026

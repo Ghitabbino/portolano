@@ -40,5 +40,10 @@ Traversate Martinica→Sainte-Lucie (22 M N) o →Dominica (30 M NW): fattibili 
 - Animazioni radar e satellite sullo stesso sito ([radar Martinica](https://meteofrance.mq/fr)) — mosaico radar Antilles 50/200 km, immagini satellite Antilles-Guyane.
 - [NOAA National Hurricane Center](https://www.nhc.noaa.gov) ★★★★★ — bollettini e traiettorie uragani atlantici (giugno–novembre).
 - [Windy](https://www.windy.com) · [PassageWeather](http://www.passageweather.com) · [PredictWind](https://www.predictwind.com) ★★★ — modelli vento/houle per la pianificazione delle traversate.
+### Siti meteo locali
 
+- [Météo-France Antilles-Guyane](https://meteofrance.com/fr/antilles) — autorità ufficiale, allerte cicloni ★★★★
+- [Meteo Martinique](https://www.meteomartinique.com/) — previsioni locali ★★★
+- [Windguru Martinique](https://www.windguru.cz/485) — spot Anse Marcel/tramonto Le Marin ★★★
+- Carbet des Sciences sismico/vulcanico: [volcan Martinique](https://www.volcan-martinique.org) ★★★
 Ultimo aggiornamento: 22/08/2026
