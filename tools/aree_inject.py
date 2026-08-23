@@ -144,7 +144,7 @@ def process(html):
             for gid,gicon,gname,members in GRUPPI:
                 n=len([m for m in members if m in PAESI])
                 cs+=pcard("#c-"+gid, gicon, gname,
-                          str(n)+" paesi" if n<len(members) else str(n)+" paesi", "apri \u2192")
+                          ", ".join(PAESI[m][1] for m in members), "apri \u2192")
         else:
             for k,(cc,nome,desc,st) in PAESI.items():
                 if OCEANO_DI.get(k)!=oid: continue
