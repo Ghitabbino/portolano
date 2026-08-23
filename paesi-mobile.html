@@ -136,14 +136,14 @@ th,td{padding:8px 10px;}
 <div id="backdrop" onclick="toggleNav(false)"></div><button class="burger" onclick="toggleNav()" aria-label="Apri menu">☰</button>
 <aside>
   <div id="home-link" style="cursor:pointer;display:flex;align-items:center;gap:9px;margin:0 0 2px">
-<svg viewBox="0 0 64 52" width="30" height="26" aria-hidden="true" style="flex-shrink:0">
+<svg viewBox="0 0 64 52" width="42" height="36" aria-hidden="true" style="flex-shrink:0">
 <circle cx="19" cy="20" r="9" fill="#F0705A"/>
 <path d="M28 4 C40 14 46 30 43 46 L28 46 Z" fill="#1E5A9E"/>
 <path d="M26 12 L26 46 L14 46 C18 34 21 22 26 12 Z" fill="#16406F"/>
 <path d="M6 47 q9 -7 20 -2 t 30 1" stroke="#2BB3A3" stroke-width="4.5" fill="none" stroke-linecap="round"/>
 <path d="M12 51 q8 -5 17 -1 t 22 0" stroke="#57CFC0" stroke-width="3.5" fill="none" stroke-linecap="round"/>
 </svg>
-<span style="font-size:17px;font-weight:700;letter-spacing:.01em;color:var(--ink)">Sail<span style="color:var(--accent)">Tropics</span></span>
+<span style="font-size:20px;font-weight:700;letter-spacing:.01em;color:var(--ink)">Sail<span style="color:var(--accent)">Tropics</span></span>
 </div>
 <div style="font-size:11px;color:var(--muted);margin:0 0 12px;letter-spacing:.08em;text-transform:uppercase">Portolano</div>
   <input id="search" type="search" placeholder="Cerca paese o pagina…">
@@ -45143,6 +45143,11 @@ function initMaps(root){
 clinks.forEach(l=>l.addEventListener('click',e=>{
   e.preventDefault();
   const s=document.getElementById('search'); s.value='';
+  const k=l.dataset.country||"";
+  const cp=(current&&document.getElementById(current))?document.getElementById(current).dataset.country:"";
+  if(l.classList.contains('sub')&&k&&cp&&(cp===k||cp.indexOf(k+'/')===0)){
+    show('o-'+PAR[k]); return;
+  }
   show(l.dataset.page);
 }));
 document.getElementById('home-link').addEventListener('click',()=>{
