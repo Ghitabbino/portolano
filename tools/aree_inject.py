@@ -166,8 +166,8 @@ def process(html):
                '<div class="paesi-grid">'+gcs+'</div>'+emptyg+'</section>')
     html=html.replace("<main>", "<main>"+home+"\n"+secs+"\n", 1)
 
-zones={}
-for zm in re.finditer(r'data-country="([^"]+/[^"]+)"[^>]*data-page="(p\d+)"[^>]*>([^<]{2,40})<', html):
+    zones={}
+    for zm in re.finditer(r'data-country="([^"]+/[^"]+)"[^>]*data-page="(p\d+)"[^>]*>([^<]{2,40})<', html):
     zones.setdefault(zm.group(1),(zm.group(2),zm.group(3).strip()))
     items='<a class="navlink country-link" data-country="" data-page="home" href="#home">\U0001F30D Aree</a>'
     for oid in ORDER:
