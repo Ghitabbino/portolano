@@ -282,8 +282,8 @@ def process(html):
         html=html.replace("</style>",
           ".paesi-grid .pflag{font-size:30px;line-height:1;height:40px;display:flex;align-items:center}"
           ".paesi-grid{grid-auto-rows:1fr}"
-          'section[id^="o-"], section[id^="c-"]{font-size:16.5px}'
-          'section[id^="o-"] h1, section[id^="c-"] h1{font-size:32px}'
+          'section.page{font-size:16.5px}'
+          'section.page h1{font-size:32px}'
           ".paesi-grid .pname{font-size:15.5px;text-align:center}"
           ".paesi-grid .pdesc{text-align:center}"
           ".paesi-grid .pstat{text-align:center}"
