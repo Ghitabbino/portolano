@@ -1,7 +1,8 @@
-# Ancoraggi
+# 08 — Ancoraggi
 
 **Ultimo aggiornamento: 23/08/2026**
 
-> ⚠️ Pagina in preparazione: dati in raccolta.
+
+**Little Bay**: jetty 300×30 ft, ancoraggio davanti con NE; chiamare VHF 16 prima. Baie sud in **zona d'esclusione vulcanica** ⚠️. Old Road Bay nord con mare calmo. — [MPA](https://mpa.ms/safety-and-security/) ★★★★
 
 Ultimo aggiornamento: 23/08/2026
