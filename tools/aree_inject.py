@@ -99,6 +99,9 @@ def process(html):
                '<div class="paesi-grid">'+cs+'</div>'+empty+'</section>')
     html=html.replace("<main>", "<main>"+home+"\n"+secs+"\n", 1)
 
+    zones={}
+    for zm in re.finditer(r'data-country="([^"]+/[^"]+)"[^>]*data-page="(p\d+)"[^>]*>([^<]{2,40})<', html):
+        zones.setdefault(zm.group(1),(zm.group(2),zm.group(3).strip()))
     items='<a class="navlink country-link" data-country="" data-page="home" href="#home">\U0001F30D Aree</a>'
     for oid in ORDER:
         kids=[k for k in PAESI if OCEANO_DI.get(k)==oid]
@@ -108,8 +111,12 @@ def process(html):
         for k in kids:
             cc,nome,_,_=PAESI[k]; pid=pid_of.get(k,"#")
             items+=('<a class="navlink country-link sub" data-country="'+k+'" data-page="'+pid+'" '
-                    'href="#'+pid+'" style="padding-left:22px;font-size:12px">'
+                    'href="#'+pid+'" >'
                     +svg(cc)+' '+nome+'</a>')
+            import html as _h
+            for zk,(zp,zn) in sorted(zones.items()):
+                if zk.split("/")[0]!=k: continue
+                items+=('<a class="navlink country-link zsub" data-country="'+zk+'" data-page="'+zp+'" href="#'+zp+'" class="zsub">'+_h.escape(zn)+'</a>')
     m=re.search(r'<div class="nav-countries">[\s\S]*?</div>', html)
     if m:
         html=html[:m.start()]+'<div class="nav-countries">'+items+'</div>'+html[m.end():]
@@ -121,13 +128,32 @@ def process(html):
     html=html.replace(
         "clinks.forEach(l=>l.classList.toggle('active',l.dataset.country===root));",
         "clinks.forEach(l=>l.classList.toggle('active',l.dataset.country===root||l.dataset.country===PAR[root]));",1)
-    html=html.replace("  window.scrollTo(0,0);",
-        "  const curO=PAR[root]||OC_IDS[root]?root:'';"
-        "document.querySelectorAll('.nav-countries .sub').forEach(l=>"
-        "{l.style.display=(curO&&PAR[l.dataset.country]===curO)?'':'none';});"
-        "document.querySelectorAll('.nav-countries .country-link').forEach(l=>"
-        "{if(OC_IDS[l.dataset.country])l.style.display=(!curO||l.dataset.country===curO)?'':'none';});"
-        "\n  window.scrollTo(0,0);",1)
+    NAVJS=("\n"      +"var oc=PAR[root]||OC_IDS[root]?root:\"\";"
+      +"var iz=c.indexOf(\"/\")>=0;"
+      +"var hz=false;"
+      +"document.querySelectorAll(\".zsub\").forEach(function(z){if(z.dataset.country.split(\"/\")[0]===root)hz=true;});"
+      +"document.querySelectorAll(\".nav-countries a\").forEach(function(l){"
+      +"var k=l.dataset.country||\"\";var vis=false;"
+      +"if(k===\"\"){vis=true;}"
+      +"else if(OC_IDS[k]){vis=!oc||k===oc;}"
+      +"else if(k.indexOf(\"/\")<0){vis=iz?(k===root):(!!oc&&PAR[k]===oc);}"
+      +"else{vis=k.split(\"/\")[0]===root;}"
+      +"l.style.display=vis?\"\":\"none\";"
+      +"l.classList.toggle(\"active\",k===oc||k===root||k===c);"
+      +"});"
+      +"plinks.forEach(function(l){var dk=l.dataset.country;"
+      +"var v=!!c&&dk===c&&(iz||!hz);l.style.display=v?\"\":\"none\";});"
+    )
+    html=html.replace("  window.scrollTo(0,0);","  "+NAVJS+"\n  window.scrollTo(0,0);",1)
+    # la regola plinks originale non serve più: la gestisce NAVJS (capitoli solo dentro l'isola, o paesi senza isole)
+    html=html.replace("plinks.forEach(l=>l.style.display=(c&&l.dataset.country===c)?'':'none');",
+                      "plinks.forEach(l=>l.style.display='none');",1)
+    # gerarchia visiva: classi CSS invece degli stili inline
+    html=html.replace("</style>",
+      ".nav-countries .sub{font-size:13px;padding-left:24px}"
+      ".nav-countries .zsub{font-size:12.5px;padding-left:40px;color:var(--muted)}"
+      ".nav-countries .zsub:before{content:\"·\";margin-right:6px;color:var(--accent)}"
+      ".nav-countries .zsub.active{color:#06231f}</style>",1)
 
     # ═══ FILO DI ARIANNA: Aree › Oceano › Paese › Pagina ═══
     sec_re=re.compile(r'<section id="(p\d+)" class="page" data-country="([^"]*)">([\s\S]*?)<h1[^>]*>([\s\S]*?)</h1>')
