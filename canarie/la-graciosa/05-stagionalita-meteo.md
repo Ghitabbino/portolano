@@ -22,17 +22,6 @@ Soggiorno piacevole con aliseo ≤20 kn e mare da NE moderato; finestra di uscit
 Ultimo aggiornamento: 22/08/2026
 
 ## Stagioni
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Venti locali
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Link meteo
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

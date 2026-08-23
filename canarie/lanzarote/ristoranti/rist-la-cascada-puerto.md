@@ -9,7 +9,7 @@
 | Specialità | Caldereta de pescado |
 | Costo | 💰€€ per persona senza bevande |
 | Location | ⚓ rustico sul porto |
-| Contatti | **DATO MANCANTE** |
+| Contatti | [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Cascada+Puerto+del+Carmen) |
 | Valutazioni |TA ★★★★|
 | Orari | pranzo/cena |
 
@@ -20,7 +20,6 @@
 
 **Chef**: ND
 
-
 **Note**: Animato, centro puerto
 
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

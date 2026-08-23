@@ -9,7 +9,7 @@
 | Specialità | Bienmesabe · cherne · pulpo |
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🏛️ casa storica ottocentesca |
-| Contatti | **DATO MANCANTE** |
+| Contatti | [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Hierbita+Santa+Cruz+de+Tenerife) |
 | Valutazioni |Guide ★★★★|
 | Orari | tutti i giorni 12–24 |
 
@@ -21,7 +21,6 @@
 
 **Chef**: ND
 
-
 **Note**: Familiare; prenotare il weekend
 
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

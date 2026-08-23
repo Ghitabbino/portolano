@@ -9,7 +9,7 @@
 | Specialità | Parrillada pescado/marisco del giorno |
 | Costo | 💰€€ per persona senza bevande |
 | Location | ⚓ terrazza sulla darsena |
-| Contatti | **DATO MANCANTE** |
+| Contatti | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cofradia+de+Pescadores+Puerto+de+Morgan+Gran+Canaria) |
 | Valutazioni |TA ★★★½ (prezzo ok, porzioni abbondanti)|
 | Orari | pranzo/cena |
 
@@ -20,7 +20,6 @@
 
 **Chef**: ND
 
-
 **Note**: Il pesce arriva dalla barca accanto
 
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

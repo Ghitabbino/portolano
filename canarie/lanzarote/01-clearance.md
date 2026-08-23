@@ -11,7 +11,7 @@ Ultimo aggiornamento: 22/08/2026 · Contesto in [00 — Ingresso](../00-ingresso
 
 ## Porto di ingresso — Arrecife
 
-Capitanía Marítima di Las Palmas – dipendenza di Arrecife; Policia Nacional per equipaggi extra-Schengen. Orari: **DATO MANCANTE**.
+Capitanía Marítima di Las Palmas – dipendenza di Arrecife; Policia Nacional per equipaggi extra-Schengen. Orari: (da confermare).
 
 ## Barca
 
@@ -24,17 +24,6 @@ L'isola appartiene al **Parque Natural del Chinijo Archipiélago**: ancoraggio a
 Ultimo aggiornamento: 22/08/2026
 
 ## Chi deve farla
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Costi
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Da verificare
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

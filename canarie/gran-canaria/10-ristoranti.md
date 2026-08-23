@@ -15,7 +15,6 @@ Selezione orientata alla crociera. Schede puntuali per locale in corso di raccol
 
 *Clicca sul nome per la scheda completa. Ogni punto rosso nella mappa apre la scheda.*
 
-
 ## Mappa dei ristoranti
 
 <div class="mapframe" data-slug="gran-canaria" data-minz="10" data-maxz="12" data-lat="27.815" data-lon="-15.763" data-markers='[[27.819, -15.764, "Cofradía de Pescadores"], [27.816, -15.7625, "Casa Mia"], [27.815, -15.761, "Restaurante Canario de Oro"], [27.8155, -15.7595, "Mogán Mar"]]'></div>
@@ -34,7 +33,4 @@ Selezione orientata alla crociera. Schede puntuali per locale in corso di raccol
 Ultimo aggiornamento: 22/08/2026
 
 ## App e fonti
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

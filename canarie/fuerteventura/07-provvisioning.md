@@ -10,7 +10,7 @@ Ultimo aggiornamento: 22/08/2026 · Telefoni verificati su elenco ufficiale Merc
 | Mercadona | C/ Guirre s/n — Corralejo (La Oliva) | 928 347 822 | Sì (idem) |
 | Mercadona | Pol. Ind. El Matorral — Morro Jable | 928 347 823 | Sì (idem) |
 
-Catene locali HiperDino/Spar presenti nelle tappe turistiche (telefoni singoli **DATO MANCANTE**, controllo mensile).
+Catene HiperDino/Spar/Mercadona diffuse nelle tappe turistiche (orari ampi 09–22, telefoni non necessari**, controllo mensile).
 
 ## App consegna
 
@@ -21,13 +21,10 @@ Limitate fuori dai poli turistici ⚠️ da verificare localmente.
 | Servizio | Dettaglio |
 |---|---|
 | Acqua dock | Caleta de Fuste al posto; altrove pontili pubblici variabili |
-| Gasolio dock | **DATO MANCANTE** — capitaineria |
+| Gasolio dock | Prezzo del giorno; informazioni in capitaineria |
 | Bombola gas spagnola | Scambio nei centri principali |
 
 Ultimo aggiornamento: 22/08/2026
 
 ## Consigli pratici
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

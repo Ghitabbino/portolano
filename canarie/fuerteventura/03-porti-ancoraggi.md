@@ -44,4 +44,4 @@ Ultimo aggiornamento: 22/08/2026 · Cartografia ufficiale Navionics/C-MAP/IHM.
 | Caleta de Fuste – Las Palmas | ~50 Mm | Facile con aliseo ≤20 kn |
 | Morro Jable – Puerto de Mogán (GC) | ~20 Mm | Stretto meridionale |
 
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

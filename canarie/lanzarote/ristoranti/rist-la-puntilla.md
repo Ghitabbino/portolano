@@ -9,7 +9,7 @@
 | Specialità | Vieja al horno con mojo |
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🪶 semplice locale |
-| Contatti | **DATO MANCANTE** |
+| Contatti | [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Puntilla+Arrecife) |
 | Valutazioni | ★★★★|
 | Orari | pranzo |
 
@@ -20,7 +20,6 @@
 
 **Chef**: ND
 
-
 **Note**: Istituzione locale sul Charco
 
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

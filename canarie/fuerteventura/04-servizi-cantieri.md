@@ -7,8 +7,8 @@ Ultimo aggiornamento: 22/08/2026
 | Servizio | Dettaglio |
 |---|---|
 | Posti | Modesti; comodi come tappa centrale |
-| Haul-out | Non presente — **DATO MANCANTE** alternative |
-| Fuel dock | **DATO MANCANTE** |
+| Haul-out | Non presente sull'isola: alternative a Tenerife o Gran Canaria |
+| Fuel dock | Al molo principale; orari tipici 08–18 ⚠️ confermare |
 | Acqua | Al posto |
 
 ## Altri punti
@@ -27,4 +27,4 @@ Water dock secondo tabella hub; altrove taniche.
 
 La più ventosa: marine e poche rade; costa ovest sempre esclusa. Per lavori importanti i riferimenti restano **Las Palmas (GC)** per carenaggio/attrezzatura pre-traversata e **Santa Cruz (Tenerife)** come logistica principale.
 
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

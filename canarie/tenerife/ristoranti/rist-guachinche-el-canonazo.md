@@ -9,7 +9,7 @@
 | Specialità | Parrilladas · papas con mojo |
 | Costo | 💰€ per persona senza bevande |
 | Location | 🌴 cortile tipico canario |
-| Contatti | **DATO MANCANTE** |
+| Contatti | [Google Maps](https://www.google.com/maps/search/?api=1&query=Guachinche+El+Canonazo+Santa+Cruz+de+Tenerife) |
 | Valutazioni |Guru 4,9/5 (2312) ★★★★★|
 | Orari | sera, chiusura variabile ⚠️ |
 
@@ -21,7 +21,6 @@
 
 **Chef**: ND
 
-
 **Note**: Il guachinche più votato della capitale
 
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

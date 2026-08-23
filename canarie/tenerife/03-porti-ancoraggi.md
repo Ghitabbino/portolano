@@ -36,7 +36,7 @@ Aliseo NE costante + swell atlantico: nessun riparo affidabile. Puerto de la Cru
 | Marina San Miguel / Amarilla | 344 | **610 777 280** | ★★★★ |
 | Radazul | 202 | **928 561 141** / 922 680 933 | puertosdecanarias.com ★★★★ |
 | Los Cristianos | 70 | 922 790 827 | ★★★★ |
-| Las Galletas | 100 | **DATO MANCANTE** | |
+| Las Galletas | 100 | (da confermare) | |
 
 Fonte capacità/telefoni: Autoridad Portuaria S/C Tenerife via.com ★★★★ · dettagli ingresso Marina Santa Cruz da guida ★★★★.
 
@@ -46,7 +46,6 @@ Fonte capacità/telefoni: Autoridad Portuaria S/C Tenerife via.com ★★★★ 
 |---|---|---|
 | Marina Santa Cruz (~12 m) | ~25–45 €/notte ⚠️ stima | Listino ufficiale TASAS su puertosdetenerife.org — confermare in ufficio |
 
-
 ## Distanze utili
 
 | Tratta | Distanza | Note |
@@ -55,4 +54,4 @@ Fonte capacità/telefoni: Autoridad Portuaria S/C Tenerife via.com ★★★★ 
 | Santa Cruz – Las Palmas (GC) | ~60–70 Mm | Notturna o partenza presto |
 | Santa Cruz – Radazul | ~8 Mm | Salto comodo |
 
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

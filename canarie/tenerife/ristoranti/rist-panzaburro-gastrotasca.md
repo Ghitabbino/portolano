@@ -9,7 +9,7 @@
 | Specialità | Croquetas de cochino negro |
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🌿 tasca con giardino |
-| Contatti | **DATO MANCANTE** |
+| Contatti | [Google Maps](https://www.google.com/maps/search/?api=1&query=Panzaburro+Gastrotasca+Santa+Cruz+de+Tenerife) |
 | Valutazioni |Guide ★★★★½|
 | Orari | mar–sab; chiuso lun–dom |
 
@@ -20,7 +20,6 @@
 
 **Chef**: ND
 
-
 **Note**: Orto biologico proprio
 
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

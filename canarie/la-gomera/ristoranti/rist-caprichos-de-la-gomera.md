@@ -19,7 +19,6 @@
 
 **Chef**: ND
 
-
 **Note**: Scelta elegante davanti al porto
 
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

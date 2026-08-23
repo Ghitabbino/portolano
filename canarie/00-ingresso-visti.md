@@ -51,4 +51,4 @@ Nessuno obbligatorio. Livelli sanitari spagnoli ottimi (ospedali eccellenti a Sa
 | **La Gomera** | San Sebastián; tranquilla |
 | **El Hierro** | La Restinga; la più remota |
 
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

@@ -19,7 +19,6 @@ Selezione orientata alla crociera. Schede puntuali per locale in corso di raccol
 
 *Clicca sul nome per la scheda completa. Ogni punto rosso nella mappa apre la scheda.*
 
-
 ## Mappa dei ristoranti
 
 <div class="mapframe" data-slug="fuerteventura" data-minz="10" data-maxz="12" data-lat="28.393" data-lon="-13.857" data-markers='[[28.39955, -13.8597, "Restaurante 15"], [28.40042, -13.85809, "Saxophone Caleta"], [28.39963, -13.85962, "O’Fado"], [28.39992, -13.85965, "El Patio Caleta"], [28.3945, -13.858, "Ascensión"], [28.7292, -13.8648, "Muelle Chico – pescherie con cucina"], [28.7265, -13.866, "Tierra de Libertad"], [28.727, -13.8685, "3 Calici"]]'Fado"], [28.3957, -13.8547, "El Patio Caleta"], [28.391, -13.8559, "Ascensión"], [28.731, -13.867, "Muelle Chico – pescherie con cucina"], [28.7266, -13.864, "Tierra de Libertad"], [28.725, -13.864, "3 Calici"]]'></div>
@@ -38,7 +37,4 @@ Selezione orientata alla crociera. Schede puntuali per locale in corso di raccol
 Ultimo aggiornamento: 22/08/2026
 
 ## App e fonti
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

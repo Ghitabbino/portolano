@@ -21,7 +21,6 @@
 
 **Chef**: ND
 
-
 **Note**: C. Méndez Núñez 20, 38004 · prenotare la terrazza interna · opzioni senza glutine, senza lattosio, vegane e vegetariane [Degusta Santa Cruz] · ingredienti dall'orto biologico
 
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

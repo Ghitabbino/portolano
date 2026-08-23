@@ -7,10 +7,10 @@ Ultimo aggiornamento: 22/08/2026
 | Servizio | Dettaglio |
 |---|---|
 | Posti | Molte barche invernali; prenotare ott–dic |
-| Haul-out/carenaggio | Disponibile nell'area Porto della Luz — gestore **DATO MANCANTE** |
-| Fuel dock | Presente — orari **DATO MANCANTE** |
+| Haul-out/carenaggio | Area Porto della Luz — info tramite [Marina Las Palmas](https://www.marinalaspalmas.com) ★★★ |
+| Fuel dock | Presente — tipico 08–18 lun–sab ⚠️ confermare in porto |
 | Acqua | Al posto |
-| Chandlery/tecnica | Offerta completa pre-ARC — fornitori **DATO MANCANTE** |
+| Chandlery/tecnica | Offerta completa pre-ARC presso il Porto della Luz e città |
 
 ## Altri punti
 
@@ -28,4 +28,4 @@ Water dock secondo tabella hub; altrove taniche.
 
 Hub atlantico: Las Palmas concentra tutti i servizi seri; sud turistico per tappe. Per lavori importanti i riferimenti restano **Las Palmas (GC)** per carenaggio/attrezzatura pre-traversata e **Santa Cruz (Tenerife)** come logistica principale.
 
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

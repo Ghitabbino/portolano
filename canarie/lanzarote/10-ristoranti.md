@@ -21,7 +21,6 @@ Selezione orientata alla crociera. Schede puntuali per locale in corso di raccol
 
 *Clicca sul nome per la scheda completa. Ogni punto rosso nella mappa apre la scheda.*
 
-
 ## Mappa dei ristoranti
 
 <div class="mapframe" data-slug="lanzarote" data-minz="10" data-maxz="12" data-lat="28.964" data-lon="-13.551" data-markers='[[28.9638, -13.5505, "Malecón Restaurante & Copas"], [28.95935, -13.5477, "Bar Strava"], [28.9635, -13.5515, "Mirador El Charco"], [28.9605, -13.548, "Naia"], [28.96194, -13.54408, "Charco Vivo"], [28.96027, -13.54681, "La Puntilla"], [28.9955, -13.8325, "Casa Rafa Restaurante de Mar"], [28.8688, -13.8172, "La Cocina de Colacho"], [28.86331, -13.80102, "Casa Carlos"], [28.9212, -13.6642, "La Cascada Puerto"]]'></div>
@@ -40,7 +39,4 @@ Selezione orientata alla crociera. Schede puntuali per locale in corso di raccol
 Ultimo aggiornamento: 22/08/2026
 
 ## App e fonti
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

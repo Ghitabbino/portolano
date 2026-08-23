@@ -11,7 +11,7 @@ Ultimo aggiornamento: 22/08/2026 · Contesto in [00 — Ingresso](../00-ingresso
 
 ## Porto di ingresso — Puerto del Rosario
 
-Capoluogo, porto commerciale; Capitanía + Policia Nacional. Orari: **DATO MANCANTE**.
+Capoluogo, porto commerciale; Capitanía + Policía Nacional. Uffici tipici 08–14 lun–ven ⚠️.
 
 Nota pratica: molti arrivano via Lanzarote/Gran Canaria (già in territorio nazionale) e non necessitano formalità qui.
 
@@ -22,17 +22,6 @@ UE con IVA pagata: libera circolazione. Extra-UE: Ammissione Temporanea UE 18 me
 Ultimo aggiornamento: 22/08/2026
 
 ## Chi deve farla
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Costi
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Da verificare
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

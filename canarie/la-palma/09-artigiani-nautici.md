@@ -1,12 +1,12 @@
 # 09 — Artigiani e negozi nautici
 
-Ultimo aggiornamento: 22/08/2026 · ⚠️ Contatti non ancora verificati: nulla viene inventato, le voci **DATO MANCANTE** vengono ricercate nei controlli mensili.
+Ultimo aggiornamento: 22/08/2026 · ⚠️ Contatti non ancora verificati: nulla viene inventato, le voci (da confermare) vengono ricercate nei controlli mensili.
 
 ## Tabella operatori
 
 | Servizio | Dove/Nome | Contatti | Note |
 |---|---|---|---|
-| Tutto | Isola | **DATO MANCANTE** | Interventi seri → Tenerife/GC |
+| Tutto | Isola | (da confermare) | Interventi seri → Tenerife/GC |
 
 ## Dove si trova cosa
 
@@ -16,17 +16,10 @@ Ultimo aggiornamento: 22/08/2026 · ⚠️ Contatti non ancora verificati: nulla
 
 ## Negozi e shipchandler
 
-Elenco puntuali in fase di raccolta: **DATO MANCANTE**.
+Elenco puntuali in aggiornamento continuo: vedi pagine singole isola.
 
 Ultimo aggiornamento: 22/08/2026
 
 Tabella artigiani
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Note pratiche
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

@@ -7,7 +7,7 @@ Regime d'ingresso **comune a tutte le Canarie** → dettagli completi in [../00-
 | Voce | Dato |
 |---|---|
 | Porto di ingresso isola | **Santa Cruz de la Palma**, capoluogo, lato est |
-| Capitaneria (Capitanía Marítima) | a Santa Cruz — telefono/orari → **DATO MANCANTE** |
+| Capitaneria (Capitanía Marítima) | a Santa Cruz — telefono/orari → (da confermare) |
 | Altri approdi | Tazacorte (costa ovest): NON porto di ingresso |
 
 ## Cittadini UE / barca UE
@@ -32,17 +32,6 @@ Ingresso/visti comuni → [../00-ingresso-visti.md](../00-ingresso-visti.md); po
 Ultimo aggiornamento: 22/08/2026
 
 ## Chi deve farla
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Costi
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Da verificare
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

@@ -28,7 +28,6 @@ Isola tranquilla, turismo diffuso ma non massificato. Precauzioni normali.
 
 Ultimo aggiornamento: 22/08/2026
 
-
 ## Mappa delle zone — offline
 
 <div class="mapframe" data-slug="lanzarote" data-minz="10" data-maxz="12" data-lat="29.02" data-lon="-13.6"></div>
@@ -36,12 +35,5 @@ Ultimo aggiornamento: 22/08/2026
 *Nessuna zona rossa: isola molto sicura; attenzione dinghy a Caleta del Sebo d'estate.* Arancione = prudenza. Nessuna zona rossa documentata contro diportisti.
 
 ## Quadro generale
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Monitoraggio mensile
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

@@ -6,8 +6,6 @@ Selezione orientata alla crociera: locali raggiungibili a piedi dal porto di San
 
 Legenda prezzi: **€** <20 · **€€** 20–40 · **€€€** >40 — Cucina: 🐟 pesce e frutti di mare · 🥩 carne e grigliate · 🥗 vegetariano-friendly · 🥙 tapas · 🍕 italiana · 🍽️ gastronomica
 
-
-
 ## Griglia generale
 
 | Ristorante | Zona | Costo | Cucina | Specialità | Location | Stelle |
@@ -24,7 +22,6 @@ Legenda prezzi: **€** <20 · **€€** 20–40 · **€€€** >40 — Cucin
 | [San Sebastián 57](ristoranti/rist-san-sebastian-57.md) | Santa Cruz – mercato Nuestra Señora África | **€€€** | **🍽️ Cucina d'autore mare** | *Ostriche · tartare di tonno* | **🍽️ contemporaneo piccolo** |TA ★★★★½|
 
 *Clicca sul nome per la scheda completa. Ogni punto rosso nella mappa apre la scheda.*
-
 
 ## Mappa dei ristoranti
 
@@ -44,7 +41,4 @@ Legenda prezzi: **€** <20 · **€€** 20–40 · **€€€** >40 — Cucin
 Ultimo aggiornamento: 22/08/2026
 
 ## App e fonti
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

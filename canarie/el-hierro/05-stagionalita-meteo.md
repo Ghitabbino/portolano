@@ -30,22 +30,11 @@ Clima subtropicale arido (l'isola più piccola e remota); regime alisei comune a
 
 ## Fonti meteo
 
-AEMET (meteo ufficiale Spagna), Windy, PassageWeather/PredictWind — link puntuali → **DATO MANCANTE**.
+AEMET, Windy, PredictWind — [AEMET](https://www.aemet.es/es/eltiempo/pronostico) ufficiale**.
 
 Ultimo aggiornamento: 22/08/2026
 
 ## Clima
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Venti locali
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Link meteo
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

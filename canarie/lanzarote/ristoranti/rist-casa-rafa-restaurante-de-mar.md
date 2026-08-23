@@ -9,7 +9,7 @@
 | Specialità | Caldereta · cherne |
 | Costo | 💰€€€ per persona senza bevande |
 | Location | 🌋 fronte lago verde dei Clicos |
-| Contatti | **DATO MANCANTE** |
+| Contatti | [Google Maps](https://www.google.com/maps/search/?api=1&query=Casa+Rafa+Restaurante+de+Mar+El+Golfo) |
 | Valutazioni |TA ★★★★ (Travellers' Choice storica)|
 | Orari | pranzo; weekend affollato |
 
@@ -20,7 +20,6 @@
 
 **Chef**: ND
 
-
 **Note**: Icona dell'isola: valga il giro
 
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

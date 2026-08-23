@@ -19,7 +19,6 @@
 
 **Chef**: ND
 
-
 **Note**: Zona bagno charco comoda
 
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

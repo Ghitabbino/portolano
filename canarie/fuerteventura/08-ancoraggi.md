@@ -17,14 +17,12 @@ Ultimo aggiornamento: 22/08/2026 · coordinate indicative, navigare con cartogra
 | 3 | Morro Jable | ★★ | sabbia | 5–8 m | Medio | Sud, pontile peschereccio |
 | 4 | Gran Tarajal | ★★ | sabbia | 4–7 m | Basso | Est, locale e tranquillo |
 
-
 ⛔ **Isla de Lobos**: Parque Natural — ancoraggio regolamentato/giornaliero, autorizzazione richiesta in passato ⚠️ verificare regole aggiornate prima di andare.
 
 ⛔ **Costa ovest** (El Cotilo, Cofete): swell atlantico costante, nessun riparo.
 ### Mappa generale degli ancoraggi
 
 <div class="mapframe" data-slug="fuerteventura" data-minz="10" data-maxz="12" data-lat="28.35" data-lon="-14.05" data-markers='[[28.393, -13.857, "Caleta de Fuste"], [28.731, -13.867, "Corralejo"], [28.05, -14.352, "Morro Jable"], [28.227, -14.02, "Gran Tarajal"], [28.741, -13.826, "Isla de Lobos"]]'></div>
-
 
 *Coordinate indicative; tasselli offline satellitari + carta nautica + segnaletica OpenSeaMap.*
 
@@ -40,4 +38,4 @@ Navionics/C-MAP aggiornate; cartografia spagnola IHM. Segnaletica IALA-A (come M
 4. Rotte ferry controllate?
 5. Previsto cambio meteo nelle 24h?
 
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

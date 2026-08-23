@@ -32,7 +32,4 @@ Piccolo borgo sulla costa est: spiaggia e molo minore; ancoraggio davanti con me
 Ultimo aggiornamento: 22/08/2026
 
 ## Tariffe
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

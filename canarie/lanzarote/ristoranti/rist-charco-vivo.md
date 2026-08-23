@@ -9,7 +9,7 @@
 | Specialità | Parrillada · bocadillos de pescado |
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🌿 terrazza marinara |
-| Contatti | **DATO MANCANTE** |
+| Contatti | [Google Maps](https://www.google.com/maps/search/?api=1&query=Charco+Vivo+Arrecife) |
 | Valutazioni |sito ★★★★|
 | Orari | lun–sab 12:30-16:30 |
 
@@ -19,7 +19,6 @@
 
 **Chef**: ND
 
-
 **Note**: Cucina onesta di prodotto
 
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

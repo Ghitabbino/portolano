@@ -6,7 +6,7 @@ Ultimo aggiornamento: 22/08/2026 · Isola piccola: pochi locali, tutti a Caleta 
 
 | Locale/tipologia | Dettaglio | Telefono |
 |---|---|---|
-| **Bar/chiringuiti di Caleta del Sebo** | Un paio di bar con cucina semplice di pesce ★ | **DATO MANCANTE** |
+| **Bar/chiringuiti di Caleta del Sebo** | Un paio di bar con cucina semplice di pesce ★ | (da confermare) |
 | Menu pesce del giorno | Da concordare al banco secondo pescato | — |
 
 Consiglio: pranzo semplice all'ancoraggio; cene organizzate con le famiglie locali su richiesta.
@@ -20,12 +20,5 @@ Consiglio: pranzo semplice all'ancoraggio; cene organizzate con le famiglie loca
 Ultimo aggiornamento: 22/08/2026
 
 ## Griglia generale
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## App e fonti
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

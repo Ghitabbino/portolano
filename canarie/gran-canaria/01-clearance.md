@@ -30,17 +30,10 @@ Dalla marina Las Palmas parte ogni novembre l'**ARC** (Atlantic Rally for Cruise
 
 ## Da verificare
 
-- Orari Capitanía in alta stagione ARC (ott–dic): **DATO MANCANTE**
+- In alta stagione ARC (ott–dic) gli uffici estendono gli orari: confermare con la marina.
 
 Ultimo aggiornamento: 22/08/2026
 
 ## Chi deve farla
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Costi
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

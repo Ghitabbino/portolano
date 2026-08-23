@@ -37,4 +37,4 @@ Vento da est/sahariano con polvere: visibilità ridotta, temperature su, calo im
 | [Windy / PredictWind] ★★★ | Modelli vento per pianificare |
 | Bollettini Capitanía | VHF, in marina |
 
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

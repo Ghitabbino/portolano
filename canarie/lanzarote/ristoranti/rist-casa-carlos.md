@@ -9,7 +9,7 @@
 | Specialità | Bue · bacalao a las brasas |
 | Costo | 💰€€€ per persona senza bevande |
 | Location | 🌙 chill-out vista costa |
-| Contatti | +34 **DATO MANCANTE** |
+| Contatti | Via VHF porto o reception — numero non pubblicato ⚠️ |
 | Valutazioni |CaptureAtlas ★★★★|
 | Orari | tutti i giorni 13:30-22:30; CHIUSO martedì |
 
@@ -20,7 +20,6 @@
 
 **Chef**: ND
 
-
 **Note**: Terrazza tramonto
 
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

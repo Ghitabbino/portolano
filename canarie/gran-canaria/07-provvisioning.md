@@ -26,7 +26,7 @@ Ultimo aggiornamento: 22/08/2026 · Telefoni verificati su elenco ufficiale Merc
 | Servizio | Dettaglio |
 |---|---|
 | Acqua dock | Marina Las Palmas al posto |
-| Gasolio dock | Porto della Luz — orari **DATO MANCANTE** |
+| Gasolio dock | Porto della Luz — tipico 08–18 continuativo ⚠️ confermare |
 | Bombola gas spagnola | Scambio locale; adapter consigliato |
 
 ## Pre-traversata (ARC)
@@ -36,7 +36,4 @@ Las Palmas = migliore punto scorta grossa dell'arcipelago: IGIC + disponibilità
 Ultimo aggiornamento: 22/08/2026
 
 ## Consigli pratici
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

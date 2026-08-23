@@ -20,7 +20,6 @@ Ultimo aggiornamento: 22/08/2026 · coordinate indicative, navigare con cartogra
 
 <div class="mapframe" data-slug="gran-canaria" data-minz="10" data-maxz="12" data-lat="27.9" data-lon="-15.6" data-markers='[[27.815, -15.763, "Mogán"], [27.757, -15.597, "Pasito Blanco"], [27.771, -15.586, "Puerto Rico"]]'></div>
 
-
 *Coordinate indicative; tasselli offline satellitari + carta nautica + segnaletica OpenSeaMap.*
 
 ## Cartografia ufficiale
@@ -35,4 +34,4 @@ Navionics/C-MAP aggiornate; cartografia spagnola IHM. Segnaletica IALA-A (come M
 4. Rotte ferry controllate?
 5. Previsto cambio meteo nelle 24h?
 
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

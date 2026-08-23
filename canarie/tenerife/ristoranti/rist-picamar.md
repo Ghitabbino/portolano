@@ -25,7 +25,6 @@
 
 **Chef**: David Rodríguez
 
-
 **Note**: Solo 10 tavoli, max 8 persone per gruppo: **prenotare obbligatoriamente** · piatti preparati al momento (alcuni escono anche dopo 15 min) · esperienza degustazione condividendo piatti · opzioni vegetariane [Canarias Lovers]
 
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

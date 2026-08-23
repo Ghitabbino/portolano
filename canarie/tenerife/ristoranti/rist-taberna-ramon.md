@@ -9,7 +9,7 @@
 | Specialità | Tapas · embutidos · pescaíto |
 | Costo | 💰€ per persona senza bevande |
 | Location | 🍺 tasca di quartiere |
-| Contatti | **DATO MANCANTE** |
+| Contatti | [Google Maps](https://www.google.com/maps/search/?api=1&query=Taberna+Ramon+Santa+Cruz+de+Tenerife) |
 | Valutazioni |TA positive ★★★★|
 | Orari | tutti i giorni pranzo/cena |
 
@@ -20,7 +20,6 @@
 
 **Chef**: ND
 
-
 **Note**: Vicino plaza de toros; economico e autentico
 
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

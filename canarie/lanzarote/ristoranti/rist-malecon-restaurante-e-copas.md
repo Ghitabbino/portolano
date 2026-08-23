@@ -9,7 +9,7 @@
 | Specialità | Papas arrugadas · sancocho |
 | Costo | 💰€ per persona senza bevande |
 | Location | 🌅 terrazza sul Charco |
-| Contatti | **DATO MANCANTE** |
+| Contatti | [Google Maps](https://www.google.com/maps/search/?api=1&query=Malecon+Restaurante+y+Copas+Arrecife) |
 | Valutazioni |CaptureAtlas ★★★★|
 | Orari | pranzo/cena |
 
@@ -20,7 +20,6 @@
 
 **Chef**: ND
 
-
 **Note**: Economico e scenografico
 
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

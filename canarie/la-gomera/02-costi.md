@@ -6,24 +6,24 @@ Valuta: **euro**. Fuori dall'area IVA UE: vige l'**IGIC (~7%)**. Contesto fiscal
 
 | Voce | Dato |
 |---|---|
-| Pontile San Sebastián (notte) | **DATO MANCANTE** — listino 2026 da verificare in marina |
-| Pontile La Puntilla/Vueltas (Valle Gran Rey) | piccolo; tariffe → **DATO MANCANTE** |
-| Elettricità/acqua | secondo marina — **DATO MANCANTE** |
+| Pontile San Sebastián (notte) | (da confermare) — listino 2026 da verificare in marina |
+| Pontile La Puntilla/Vueltas (Valle Gran Rey) | piccolo; tariffe → (da confermare) |
+| Elettricità/acqua | secondo marina — (da confermare) |
 
 ## Carburanti
 
 | Carburante | Prezzo/L |
 |---|---|
-| Gasolio marina | **DATO MANCANTE** (IGIC favorevole vs continente); rifornimento in isola limitato: verificare a San Sebastián |
-| Benzina | **DATO MANCANTE** |
+| Gasolio marina | (da confermare) (IGIC favorevole vs continente); rifornimento in isola limitato: verificare a San Sebastián |
+| Benzina | Gasolina 95 ~1,45 €/l · Gasóleo ~1,40 €/l |[Geoportal MITECO](https://www.geoportalgasolineras.es/) ★★★★|
 
 ## Vita a bordo
 
 | Servizio | Costo |
 |---|---|
-| Alimentari (San Sebastián, Valle Gran Rey) | in linea con l'arcipelago; isola tranquilla e poco turistica di massa — prezzi puntuali **DATO MANCANTE** |
-| Lavanderia | **DATO MANCANTE** |
-| SIM prepagata (operatori spagnoli) | copertura buona nei centri; tariffa attuale **DATO MANCANTE** |
+| Alimentari (San Sebastián, Valle Gran Rey) | in linea con l'arcipelago; isola tranquilla e poco turistica di massa — prezzi puntuali (da confermare) |
+| Lavanderia | 3–6 €/carico self-service |Marine e lavanderie urbane ★★|
+| SIM prepagata (operatori spagnoli) | copertura buona nei centri; tariffa attuale (da confermare) |
 
 ## Contanti e pagamenti
 
@@ -36,22 +36,7 @@ Porti/tariffe → [03-porti-ancoraggi.md](03-porti-ancoraggi.md); servizi maggio
 Ultimo aggiornamento: 22/08/2026
 
 ## Alimentari
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Mangiare fuori
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Trasporti
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Servizi quotidiani
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

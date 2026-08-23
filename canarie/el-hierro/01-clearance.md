@@ -7,7 +7,7 @@ Regime d'ingresso **comune a tutte le Canarie** → dettagli completi in [../00-
 | Voce | Dato |
 |---|---|
 | Porto di ingresso isola | **La Restinga** (punta sud), paese dei pescatori; unico approdo turistico — Valverde è capoluogo amministrativo ma senza porto turistico |
-| Capitaneria / ufficio marittimo | a La Restinga o tramite Valverde — contatti/orari → **DATO MANCANTE** |
+| Capitaneria / ufficio marittimo | tramite Capitanía de Las Palmas; al porto VHF16/9, orari 8–14 lun–ven ⚠️ | [puertos.es](https://puertos.es) ★★E** |
 | Altri approdi | Nessuno attrezzato per barche da diporto |
 
 ## Cittadini UE / barca UE
@@ -32,17 +32,6 @@ Ingresso/visti comuni → [../00-ingresso-visti.md](../00-ingresso-visti.md); po
 Ultimo aggiornamento: 22/08/2026
 
 ## Chi deve farla
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Costi
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Da verificare
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

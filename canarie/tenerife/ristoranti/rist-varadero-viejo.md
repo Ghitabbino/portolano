@@ -24,7 +24,6 @@
 
 **Chef**: ND
 
-
 **Note**: Calle Varadero 26, 38620 · opzioni vegetariane e senza glutine · carta Visa/Mastercard · ottimo rapporto qualità-prezzo secondo le recensioni; servizio elogiato ⚠️ qualcuno segnala professionalità disomogenea
 
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

@@ -15,7 +15,7 @@ Contesto spagnolo tranquillo. Attenzione standard nei grandi centri e nelle mari
 ## Quadro generale
 
 - Nessuna advisory restrittiva UE per le Canarie.
-- Las Palmas: città normale — prudenza serale fuori dalle zone portuali/turistiche; quartieri da evitare di notte come in ogni grande città (**DATO MANCANTE** dettaglio zone: controllo mensile).
+- Las Palmas: città normale — prudenza serale fuori dalle zone portuali/turistiche; quartieri da evitare di notte come in ogni grande città ((da confermare) dettaglio zone: controllo mensile).
 - Marina Las Palmas presidiata; alta presenza velisti in autunno = buon controllo sociale.
 
 ## Posti sicuri / attenzione
@@ -48,7 +48,4 @@ Contesto spagnolo tranquillo. Attenzione standard nei grandi centri e nelle mari
 Ultimo aggiornamento: 22/08/2026
 
 ## Monitoraggio mensile
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

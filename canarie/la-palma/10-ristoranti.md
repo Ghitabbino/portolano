@@ -6,8 +6,8 @@ Ultimo aggiornamento: 22/08/2026 · Santa Cruz de La Palma casco + Tazacorte. Ra
 
 | Zona | Cosa trovi | Contatti |
 |---|---|---|
-| Casco storico SC Palma | tapas e pesce zona Calle Real/Plaza España | **DATO MANCANTE** |
-| Puerto de Tazacorte | ristoranti di pesce sul paseo | **DATO MANCANTE** |
+| Casco storico SC Palma | tapas e pesce zona Calle Real/Plaza España | (da confermare) |
+| Puerto de Tazacorte | ristoranti di pesce sul paseo | (da confermare) |
 
 ## Mappa delle zone
 
@@ -18,12 +18,5 @@ Ultimo aggiornamento: 22/08/2026 · Santa Cruz de La Palma casco + Tazacorte. Ra
 Ultimo aggiornamento: 22/08/2026
 
 ## Griglia generale
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## App e fonti
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

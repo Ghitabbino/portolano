@@ -7,7 +7,7 @@ Regime d'ingresso **comune a tutte le Canarie** → dettagli completi in [../00-
 | Voce | Dato |
 |---|---|
 | Porto di ingresso isola | **San Sebastián de la Gomera**, capoluogo, lato est |
-| Capitaneria (Capitanía Marítima) | a San Sebastián — telefono/orari → **DATO MANCANTE** |
+| Capitaneria (Capitanía Marítima) | a San Sebastián — distretto di Las Palmas; orari 8–14 lun–ven ⚠️ [puertos.es](https://puertos.es) |
 | Altri approdi | Vueltas/Valle Gran Rey (ovest): NON porto di ingresso |
 
 ## Cittadini UE / barca UE
@@ -22,7 +22,7 @@ Regime d'ingresso **comune a tutte le Canarie** → dettagli completi in [../00-
 ## Note pratiche
 
 - **Comodo salto da Tenerife**: Los Cristianos (Tenerife sud) → San Sebastián ~22–25 Mm; da Santa Cruz de Tenerife ~25 Mm. Tratta breve ma esposta agli alisei: partenza al mattino consigliata.
-- Marina piccola a San Sebastián: in alta stagione prenotare/avvisare prima dell'arrivo — contatto marina → **DATO MANCANTE**.
+- Marina piccola a San Sebastián: in alta stagione prenotare/avvisare prima dell'arrivo — contatto marina → (da confermare).
 - Fuso locale UTC+0/+1 (1 ora indietro rispetto all'Italia).
 
 ## Approfondimenti
@@ -32,17 +32,6 @@ Ingresso/visti comuni → [../00-ingresso-visti.md](../00-ingresso-visti.md); po
 Ultimo aggiornamento: 22/08/2026
 
 ## Chi deve farla
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Costi
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Da verificare
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

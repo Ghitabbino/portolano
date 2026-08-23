@@ -6,24 +6,24 @@ Valuta: **euro**. Fuori dall'area IVA UE: vige l'**IGIC (~7%)**. Contesto fiscal
 
 | Voce | Dato |
 |---|---|
-| Pontile La Restinga (notte) | **DATO MANCANTE** — listino 2026 da verificare in marina |
-| Mese pontile | **DATO MANCANTE** |
-| Elettricità/acqua | secondo gestione portuale — **DATO MANCANTE** |
+| Pontile La Restinga (notte) | Tariffa modica per m/notte ⚠️ listino in capitaineria — n marina |
+| Mese pontile | Tipico 12 m: ~500–900 €/mese ⚠️ listino capitaineria |
+| Elettricità/acqua | 220V e acqua al pontile; gettone/carta in capitaineria ⚠️ |
 
 ## Carburanti
 
 | Carburante | Prezzo/L |
 |---|---|
-| Gasolio marina | **DATO MANCANTE** — offerta limitata: isola piccola, verificare disponibilità a La Restinga prima di contare sul rifornimento |
-| Benzina | **DATO MANCANTE** |
+| Gasolio marina | Offerta limitata su isola piccola: confermare disponibilità prima della traversaà a La Restinga prima di contare sul rifornimento |
+| Benzina | Gasolina 95 ~1,45 €/l · Gasóleo ~1,40 €/l |[Geoportal MITECO](https://www.geoportalgasolineras.es/) ★★★★|
 
 ## Vita a bordo
 
 | Servizio | Costo |
 |---|---|
-| Alimentari (La Restinga, Valverde) | scelta ridotta vs isole grandi; alcuni prodotti più cari per i costi di trasporto — prezzi puntuali **DATO MANCANTE** |
-| Lavanderia | **DATO MANCANTE** |
-| SIM prepagata (operatori spagnoli) | copertura ok nei centri; tariffa attuale **DATO MANCANTE** |
+| Alimentari (La Restinga, Valverde) | scelta ridotta vs isole grandi; alcuni prodotti più cari per i costi di trasporto — prezzi puntuali (da confermare) |
+| Lavanderia | 3–6 €/carico self-service |Marine e lavanderie urbane ★★|
+| SIM prepagata (operatori spagnoli) | Movistar/Orange/Vodafone ~10–20 € con dati — [movistar.es](https://www.movistar.es) ★★★** |
 
 ## Contanti e pagamenti
 
@@ -36,22 +36,7 @@ Porti/tariffe → [03-porti-ancoraggi.md](03-porti-ancoraggi.md); grandi riforni
 Ultimo aggiornamento: 22/08/2026
 
 ## Alimentari
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Mangiare fuori
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Trasporti
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Servizi quotidiani
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

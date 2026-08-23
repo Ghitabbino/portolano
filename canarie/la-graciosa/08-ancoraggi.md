@@ -15,12 +15,10 @@ Ultimo aggiornamento: 22/08/2026 · coordinate indicative, navigare con cartogra
 | 1 | Caleta del Sebo | ★★★ | sabbia | 4–8 m | Alto d'estate | Regole Parque Natural |
 | 2 | Pedro Barba | ★★ | sabbia | 4–7 m | Isolato | Solo meteo stabile |
 
-
 ⛔ Mai àncora su posidonia; zone consentite segnalate dalla riserva.
 ### Mappa generale degli ancoraggi
 
 <div class="mapframe" data-slug="la-graciosa" data-minz="11" data-maxz="13" data-lat="29.23" data-lon="-13.5" data-markers='[[29.23, -13.497, "Caleta del Sebo"], [29.222, -13.52, "Pedro Barba"]]'></div>
-
 
 *Coordinate indicative; tasselli offline satellitari + carta nautica + segnaletica OpenSeaMap.*
 
@@ -36,4 +34,4 @@ Navionics/C-MAP aggiornate; cartografia spagnola IHM. Segnaletica IALA-A (come M
 4. Rotte ferry controllate?
 5. Previsto cambio meteo nelle 24h?
 
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

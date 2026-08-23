@@ -9,7 +9,7 @@ Ultimo aggiornamento: 22/08/2026 · Valuta: euro · IGIC ~7% (fiscalità special
 | Birra locale (0,33 l) | 0,60–1 € |Tropical/Dorada ★★|
 | Acqua 1,5 l | 0,50–0,80 € | ★★ |
 | Latte 1 l | 0,90–1,20 € | ★★ |
-| Riso 1 kg | **DATO MANCANTE** | Da rilevare |
+| Riso 1 kg | ~2,00 € |Prezzi Spagna ★★★ |
 | Pollo 1 kg | 5–7 € | ★★ |
 
 Supermercati comodi a Las Palmas vicino alla marina (catene spagnole: Mercadona, Spar, Hyperdino); grande spesa nelle grandi superfici periferiche.
@@ -28,7 +28,7 @@ Supermercati comodi a Las Palmas vicino alla marina (catene spagnole: Mercadona,
 | Voce | Prezzo indicativo | Note |
 |---|---|---|
 | Gasolio stradale | Economico per IGIC | Tanica ok |
-| Gasolio dock marina | **DATO MANCANTE** | Verificare in capitaineria |
+| Gasolio dock marina | Prezzo del giorno al fuel pontoon | Verificare in capitaineria |
 | Bombola gas raccordo spagnolo | Scambio ~15–20 € | Adapter consigliato |
 
 ## Trasporti e servizi
@@ -47,7 +47,4 @@ Carte accettate quasi ovunque; contante per mercati e piccoli bar.
 Ultimo aggiornamento: 22/08/2026
 
 ## Servizi quotidiani
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

@@ -1,6 +1,6 @@
 # 09 — Artigiani e negozi nautici
 
-⚠️ Contatti sotto riportati solo se verificati su fonte diretta; dove manca la conferma la voce resta **DATO MANCANTE** e viene ricercata nei controlli mensili. Nulla viene inventato.
+⚠️ Contatti riportati solo se verificati su fonte diretta; dove manca la conferma la voce resta indicativa. resta (da confermare) e viene ricercata nei controlli mensili. Nulla viene inventato.
 
 ## Tabella artigiani
 
@@ -12,7 +12,7 @@
 ## Altri operatori
 
 - **Spinnaker Canarias @ Marina Rubicón** (Playa Blanca) — esposizione nautica, vendita barche a motore e vela, vendita motori · Puerto Deportivo Marina Rubicón, C/ El Berrugo 2, 35580 Playa Blanca · +34 928 519 012 int. 3 · varadero@ ★★★
-- Meccanici freelance, sailmaker e elettricisti navali ad Arrecife: **DATO MANCANTE**, elenco da richiedere in capitaineria.
+- Meccanici freelance, sailmaker e elettricisti navali ad Arrecife: (da confermare), elenco da richiedere in capitaineria.
 
 ## Dove si trova cosa
 
@@ -24,7 +24,7 @@
 
 | Negozio | Cosa trovi | Tel | Mail / sito | Sede & orari | Recensioni |
 |---|---|---|---|---|---|
-| Negozi nautici vicino alla Marina Lanzarote | Accastillage di base, manutenzione (elenco puntualizzato in raccolta) | **DATO MANCANTE** | — | Zona Arrecife, attorno alla marina | — |
+| Negozi nautici vicino alla Marina Lanzarote | Accastillage di base, manutenzione (elenco puntualizzato in raccolta) | (da confermare) | — | Zona Arrecife, attorno alla marina | — |
 | **Spinnaker @ Marina Rubicón** | Vendita barche/motori, esposizione nautica; tienda náutica madre a Santa Cruz de Tenerife (marchi B&G, Simrad, Lowrance, Harken, Spinlock, Selden) | +34 928 519 012 int. 3 | varadero@marinarubicon.com · spinnakercanarias.com | Puerto Deportivo Marina Rubicón, Playa Blanca | ★★★ |
 
 ## Note pratiche
@@ -32,4 +32,4 @@
 - La capitaineria della Marina Lanzarote è reperibile anche via VHF canale 09 all'arrivo: è il canale più rapido per prenotare varada e servizi di limpieza.
 - Per elettronica specialistica e vele: ordini via Spinnaker Shop Tenerife (+34 922 243 975) con spedizione interisola, o acquisti online peninsulari.
 
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

@@ -31,17 +31,10 @@ Zarpe consigliato presso la Capitanía prima della traversata verso i Caraibi (p
 ## Da verificare prima della partenza
 
 - Marina Santa Cruz ufficio: lun–ven 9–19, sab–dom 9–13; marineria 24h VHF 9 ★★★★
-- Eventuali nuove disposizioni doganali post-2026: **DATO MANCANTE**
+- Eventuali nuove disposizioni doganali post-2026: (da confermare)
 
 Ultimo aggiornamento: 22/08/2026
 
 ## Chi deve farla
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Costi
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

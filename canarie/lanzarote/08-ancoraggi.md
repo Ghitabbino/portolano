@@ -16,12 +16,10 @@ Ultimo aggiornamento: 22/08/2026 · coordinate indicative, navigare con cartogra
 | 2 | Playa Francesa (Graciosa O) | ★★ | sabbia | 5–8 m | Isolato | Solo meteo stabile |
 | 3 | Puerto del Carmen (rada) | ★★ | sabbia | 5–9 m | Turistico | Rolla la sera con aliseo rinforzato |
 
-
 ⛔ **Chinijo Archipelago**: mai àncora su posidonia; rispettare zone segnalate della riserva.
 ### Mappa generale degli ancoraggi
 
 <div class="mapframe" data-slug="lanzarote" data-minz="10" data-maxz="12" data-lat="29.02" data-lon="-13.65" data-markers='[[29.23, -13.497, "Caleta del Sebo (Graciosa)"], [28.921, -13.665, "Puerto del Carmen"], [28.956, -13.545, "Arrecife / Marina Lanzarote"]]'></div>
-
 
 *Coordinate indicative; tasselli offline satellitari + carta nautica + segnaletica OpenSeaMap.*
 
@@ -37,4 +35,4 @@ Navionics/C-MAP aggiornate; cartografia spagnola IHM. Segnaletica IALA-A (come M
 4. Rotte ferry controllate?
 5. Previsto cambio meteo nelle 24h?
 
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

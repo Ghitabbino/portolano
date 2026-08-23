@@ -30,7 +30,7 @@ Ultimo aggiornamento: 22/08/2026 · Cartografia ufficiale Navionics/C-MAP/IHM.
 
 | Struttura | Costo | Note |
 |---|---|---|
-| Marina Lanzarote (~12 m) | ~25–40 €/notte ⚠️ stima | Listino: **DATO MANCANTE** |
+| Marina Lanzarote (~12 m) | ~25–40 €/notte ⚠️ stima | Listino: (da confermare) |
 | Puerto Calero | Fascia alta | Calero Marinas: stesso gruppo Marina Lanzarote — tel capitaineria 928 663 263 |
 | Marina Rubicón (Playa Blanca) |547 posti fino 70 m · fuel · vigilanza 24h · **928 519 012** · VHF 9 · info@marinarubicon.com ★★★★|
 
@@ -42,4 +42,4 @@ Ultimo aggiornamento: 22/08/2026 · Cartografia ufficiale Navionics/C-MAP/IHM.
 | Arrecife – Corralejo (FV) via Bocaina | ~15–20 Mm | Bocaina al mattino |
 | Arrecife – Las Palmas (GC) | ~110 Mm | Notturna |
 
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

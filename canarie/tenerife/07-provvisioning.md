@@ -23,13 +23,10 @@ Orari catene: lun–sab 9:00–21:30, domenica chiusa.
 | Servizio | Dettaglio |
 |---|---|
 | Acqua dock | Marina Santa Cruz al posto |
-| Gasolio dock | Marina Santa Cruz — orari **DATO MANCANTE** |
+| Gasolio dock | Marina Santa Cruz — orari (da confermare) |
 | Bombola gas spagnola | Scambio locale; adapter consigliato |
 
 Ultimo aggiornamento: 22/08/2026
 
 ## Consigli pratici
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

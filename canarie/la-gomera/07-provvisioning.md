@@ -6,8 +6,8 @@ Ultimo aggiornamento: 22/08/2026 · Livello prezzi: medio-basso per IGIC (~7%). 
 
 | Negozio | Dove | Telefono | Consegna a domicilio | Note |
 |---|---|---|---|---|
-| **Spar / SuperDino** | San Sebastián | **DATO MANCANTE** | No | A pochi minuti dalla marina |
-| Negozi locali | Valle Gran Rey (Vueltas) | **DATO MANCANTE** | No | Freschi essenziali |
+| **Spar / SuperDino** | San Sebastián | (da confermare) | No | A pochi minuti dalla marina |
+| Negozi locali | Valle Gran Rey (Vueltas) | (da confermare) | No | Freschi essenziali |
 | Mercato/agricoltura locale | Valli interni | — | No | Formaggi, miele, frutta |
 
 ## Acqua e carburante
@@ -15,13 +15,10 @@ Ultimo aggiornamento: 22/08/2026 · Livello prezzi: medio-basso per IGIC (~7%). 
 | Servizio | Dettaglio |
 |---|---|
 | Acqua dock | Marina San Sebastián al posto |
-| Gasolio dock | Marina San Sebastián — orari: **DATO MANCANTE** |
+| Gasolio dock | Marina San Sebastián — orari: (da confermare) |
 | Bombola gas spagnola | Scambio a San Sebastián |
 
 Ultimo aggiornamento: 22/08/2026
 
 ## Consigli pratici
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

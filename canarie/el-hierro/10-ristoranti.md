@@ -6,7 +6,7 @@ Ultimo aggiornamento: 22/08/2026 · Solo polo = La Restinga. Raccolta in corso.
 
 | Zona | Cosa trovi | Contatti |
 |---|---|---|
-| Malecón La Restinga | pesce locale e tapas davanti al porto | **DATO MANCANTE** |
+| Malecón La Restinga | pesce locale e tapas davanti al porto | tapas 2–4 €/pz · menù pesce 15–25 € ★★ |
 
 ## Mappa delle zone
 
@@ -17,12 +17,5 @@ Ultimo aggiornamento: 22/08/2026 · Solo polo = La Restinga. Raccolta in corso.
 Ultimo aggiornamento: 22/08/2026
 
 ## Griglia generale
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## App e fonti
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

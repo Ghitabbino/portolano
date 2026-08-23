@@ -20,7 +20,6 @@
 
 **Chef**: ND
 
-
 **Note**: Vicino Vista Lobos
 
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

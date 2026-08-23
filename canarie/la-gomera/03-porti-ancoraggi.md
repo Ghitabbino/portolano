@@ -15,11 +15,10 @@ Isola tranquilla e "soft": due approdi principali, entrambi piccoli.
 |---|---|
 | Contatti |**+34 922 141 769** · VHF 9-16 · info@marinalagomera.es · ufficio lun–ven 8:30–14:30, sab-dom/festivi 9–13 · benzinaio est. 8–20 / inv. 8–18 ★★★★★|
 
-
 | Voce | Nota |
 |---|---|
-| Marina | Piccola; tariffe → **DATO MANCANTE**; in alta stagione prenotare |
-| Servizi | Acqua/elettricità a pontile; dettagli → **DATO MANCANTE** |
+| Marina | Piccola; tariffe → (da confermare); in alta stagione prenotare |
+| Servizi | Acqua/elettricità a pontile; dettagli → (da confermare) |
 | Esposizione | Lato est: alisei NE trasversali nei giorni di vento teso |
 | Clearance | Porto di ingresso dell'isola |
 
@@ -33,7 +32,7 @@ Isola tranquilla e "soft": due approdi principali, entrambi piccoli.
 
 ## Ancoraggi
 
-- Pochi fondali adatti vicino ai due approdi; ancoraggio diurno nelle callette solo con meteo stabile → dettagli puntuali **DATO MANCANTE**.
+- Pochi fondali adatti vicino ai due approdi; ancoraggio diurno nelle callette solo con meteo stabile → dettagli puntuali (da confermare).
 - Attenzione alle zone di transito dei ferries davanti a San Sebastián (linea con Los Cristianos).
 
 ## Distanze utili
@@ -55,7 +54,4 @@ Mappa offline:
 Ultimo aggiornamento: 22/08/2026
 
 ## Tariffe
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

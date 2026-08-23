@@ -27,7 +27,6 @@
 
 **Chef**: ND
 
-
 **Note**: Paseo de Berlín 5, 38650 · opzioni per celiaci e vegetariani · vini al calice · prenotare: tavoli pochi e richiestissimi ⚠️ chiuso la domenica e a pranzo
 
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

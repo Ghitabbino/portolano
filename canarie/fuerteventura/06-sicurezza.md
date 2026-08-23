@@ -28,7 +28,6 @@ Isola tranquilla. Precauzioni normali nei poli turistici (Corralejo, Morro Jable
 
 Ultimo aggiornamento: 22/08/2026
 
-
 ## Mappa delle zone — offline
 
 <div class="mapframe" data-slug="fuerteventura" data-minz="10" data-maxz="12" data-lat="28.35" data-lon="-14.05" data-zones='[[28.7310,-13.8670,500,"#ef6c00","Corralejo — furtini su spiagge in alta stagione"]]'></div>
@@ -36,12 +35,5 @@ Ultimo aggiornamento: 22/08/2026
 *Rischi minimi; attenzione oggetti incustoditi.* Arancione = prudenza. Nessuna zona rossa documentata contro diportisti.
 
 ## Quadro generale
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Monitoraggio mensile
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

@@ -14,12 +14,10 @@ Ultimo aggiornamento: 22/08/2026 · coordinate indicative, navigare con cartogra
 |---|---|---|---|---|---|---|
 | 1 | Tazacorte | ★★ | sabbia/scoglio | 5–10 m | Basso | Unica tappa del versante sottovento |
 
-
 Fondi che scendono rapidissime: mai àncora ravvicinata con mare mosso.
 ### Mappa generale degli ancoraggi
 
 <div class="mapframe" data-slug="la-palma" data-minz="10" data-maxz="12" data-lat="28.66" data-lon="-17.83" data-markers='[[28.642, -17.932, "Tazacorte"], [28.684, -17.76, "Marina SC Palma"]]'></div>
-
 
 *Coordinate indicative; tasselli offline satellitari + carta nautica + segnaletica OpenSeaMap.*
 
@@ -35,4 +33,4 @@ Navionics/C-MAP aggiornate; cartografia spagnola IHM. Segnaletica IALA-A (come M
 4. Rotte ferry controllate?
 5. Previsto cambio meteo nelle 24h?
 
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

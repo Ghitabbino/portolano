@@ -23,13 +23,13 @@ Isola ripida ("steep-to"): le profondità salgono rapidamente, gli ancoraggi son
 | Voce | Nota |
 |---|---|
 | Accesso | Solo con meteo gestibile: il lato ovest è sottovento ma aperto allo swell da N/O invernale |
-| Servizi | Tariffe e dotazioni → **DATO MANCANTE** |
+| Servizi | Tariffe e dotazioni → (da confermare) |
 | Uso tipico | Sosta operativa per visitare la costa ovest (Playa de los Guios, scogliere) |
 
 ## Ancoraggi
 
 - Costa steep-to, fondali profondi a ridosso: ancoraggio diurno possibile solo con mare piatto e vento debole.
-- Nessun ancoraggio notturno affidabile segnalato: usare marine/pontili. Dettagli puntuali per callette → **DATO MANCANTE**.
+- Nessun ancoraggio notturno affidabile segnalato: usare marine/pontili. Dettagli puntuali per callette → (da confermare).
 - Attenzione alle aree interdette dei porti commerciali (ferries a Santa Cruz).
 
 ## Distanze utili
@@ -47,7 +47,4 @@ Mappa offline:
 Ultimo aggiornamento: 22/08/2026
 
 ## Tariffe
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

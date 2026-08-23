@@ -20,7 +20,6 @@
 
 **Chef**: ND
 
-
 **Note**: Il nome dice tutto: tappa dei naviganti
 
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

@@ -18,7 +18,6 @@ Ultimo aggiornamento: 22/08/2026 · coordinate indicative, navigare con cartogra
 
 <div class="mapframe" data-slug="la-gomera" data-minz="10" data-maxz="12" data-lat="28.09" data-lon="-17.2" data-markers='[[28.086, -17.34, "Vueltas / Valle Gran Rey"], [28.092, -17.107, "San Sebastián"]]'></div>
 
-
 *Coordinate indicative; tasselli offline satellitari + carta nautica + segnaletica OpenSeaMap.*
 
 ## Cartografia ufficiale
@@ -33,4 +32,4 @@ Navionics/C-MAP aggiornate; cartografia spagnola IHM. Segnaletica IALA-A (come M
 4. Rotte ferry controllate?
 5. Previsto cambio meteo nelle 24h?
 
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

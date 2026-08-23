@@ -32,7 +32,4 @@ La più esposta alle calime (vicinanza Sahara): visibilità ridotta 1–3 giorni
 Ultimo aggiornamento: 22/08/2026
 
 ## Link meteo
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

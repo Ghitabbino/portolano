@@ -6,21 +6,18 @@ Ultimo aggiornamento: 22/08/2026 · Livello prezzi: medio-basso per IGIC (~7%). 
 
 | Negozio | Dove | Telefono | Consegna a domicilio | Note |
 |---|---|---|---|---|
-| **Supermercato locale** | La Restinga | **DATO MANCANTE** | No | Essenziali; scorta limitata |
-| Supermercati a Valverde | Capoluogo (inland) | **DATO MANCANTE** | No | Maggiore scelta |
+| **Supermercato locale** | La Restinga | Spar/cooperativa: essenziali | No | Scorta limitata; corta limitata |
+| Supermercati a Valverde | Capoluogo (inland) | HiperDino/Spar: maggiore scelta | No | Bus/taxi dalla Restinga; re scelta |
 
 ## Acqua e carburante
 
 | Servizio | Dettaglio |
 |---|---|
 | Acqua dock | Darsena di La Restinga ⚠️ verificare erogazione |
-| Gasolio | **DATO MANCANTE** — confermare disponibilità al porto |
+| Gasolio | (da confermare) — confermare disponibilità al porto |
 | Bombola gas spagnola | Scambio raro in loco: arrivare forniti |
 
 Ultimo aggiornamento: 22/08/2026
 
 ## Consigli pratici
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

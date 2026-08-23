@@ -9,7 +9,7 @@
 | Specialità | Menù degustazione carni |
 | Costo | 💰€€€€ per persona senza bevande |
 | Location | 🍽️ galleria d'arte + cucina vista |
-| Contatti | +34 **DATO MANCANTE** (prenota sito) |
+| Contatti | +34 (da confermare) (prenota sito) |
 | Valutazioni |CaptureAtlas ★★★★★|
 | Orari | lun–gio cena; CHIUSO ven–dom |
 
@@ -19,7 +19,6 @@
 
 **Chef**: ND
 
-
 **Note**: Solo 20 coperti: prenotare molto prima
 
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

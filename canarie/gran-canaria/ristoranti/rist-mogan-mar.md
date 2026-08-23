@@ -9,7 +9,7 @@
 | Specialità | Fusion due cucine |
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🌅 terrazza paseo |
-| Contatti | **DATO MANCANTE** |
+| Contatti | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mogan+Mar+Puerto+de+Morgan+Gran+Canaria) |
 | Valutazioni |sito ★★★|
 | Orari | pranzo/cena |
 
@@ -20,7 +20,6 @@
 
 **Chef**: ND
 
-
 **Note**: Varietà insolita nel borgo
 
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

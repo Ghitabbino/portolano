@@ -9,7 +9,7 @@
 | Specialità | Tablas ibéricas · pesce del giorno |
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🪶 informale conviviale |
-| Contatti | **DATO MANCANTE** |
+| Contatti | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bar+Strava+Arrecife) |
 | Valutazioni |TA ★★★★|
 | Orari | mezze porzioni per condividere |
 
@@ -20,7 +20,6 @@
 
 **Chef**: ND
 
-
 **Note**: Perfetto per gruppi
 
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

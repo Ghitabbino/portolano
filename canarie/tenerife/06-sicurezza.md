@@ -53,4 +53,4 @@ Contesto spagnolo molto sicuro. Rischi reali: microcriminalità turistica nel su
 | Portali nautici internazionali | Report diportisti | Mensile |
 | AEMET vigilance | Calime/temporali | Settimanale |
 
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

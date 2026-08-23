@@ -26,4 +26,4 @@ Water dock secondo tabella hub; altrove taniche.
 
 Costa steep-to profonda: marine/pontili quasi ovunque; ovest solo Tazacorte. Per lavori importanti i riferimenti restano **Las Palmas (GC)** per carenaggio/attrezzatura pre-traversata e **Santa Cruz (Tenerife)** come logistica principale.
 
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

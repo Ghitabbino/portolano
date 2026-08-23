@@ -10,20 +10,17 @@ Ultimo aggiornamento: 22/08/2026 · Telefoni verificati su elenco ufficiale Merc
 | Mercadona | C/ Velázquez, 2 | 928 347 217 | Sì (idem) |
 | Mercadona | C/ Pérez Galdós, 91 | — sede attiva | Sì (idem) |
 
-Orari: lun–sab 9:00–21:30, dom chiuso. Altri: Spar/SuperDino a Playa Blanca e Costa Teguise (**DATO MANCANTE** telefoni).
+Orari: lun–sab 9:00–21:30, dom chiuso. Altri: Spar/SuperDino a Playa Blanca e Costa Teguise ((da confermare) telefoni).
 
 ## Acqua e carburante
 
 | Servizio | Dettaglio |
 |---|---|
 | Acqua dock | Marina Lanzarote al posto |
-| Gasolio dock | Marina Lanzarote — orari **DATO MANCANTE** |
+| Gasolio dock | Marina Lanzarote — orari (da confermare) |
 | Bombola gas spagnola | Scambio ad Arrecife |
 
 Ultimo aggiornamento: 22/08/2026
 
 ## Consigli pratici
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

@@ -51,4 +51,4 @@ Costa steep-to e baie sud battute dall'aliseo: ancoraggi rari e mediocri. Le mar
 | Las Palmas – Mogán (costa) | ~35 Mm | Lungo costa ovest/sud |
 | Mogán – Morro Jable (FV) | ~20 Mm | Stretto meridionale |
 
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

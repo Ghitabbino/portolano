@@ -26,4 +26,4 @@ Water dock secondo tabella hub; altrove taniche.
 
 Isola-parco: servizi essenziali a Caleta del Sebo (vedi [07](07-provvisioning.md)). Per lavori importanti i riferimenti restano **Las Palmas (GC)** per carenaggio/attrezzatura pre-traversata e **Santa Cruz (Tenerife)** come logistica principale.
 
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

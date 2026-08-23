@@ -9,7 +9,7 @@
 | Specialità | Vieja/sama su ghiaccio a peso |
 | Costo | 💰€ per persona senza bevande |
 | Location | ⚓ banconi sul molo |
-| Contatti | **DATO MANCANTE** (3-4 locali) |
+| Contatti | Radio-taxi via reception/porto (3-4 operatori locali) |
 | Valutazioni |guida corralejo ★★★★|
 | Orari | pranzo |
 
@@ -20,7 +20,6 @@
 
 **Chef**: ND
 
-
 **Note**: Esperienza unica: dal banco alla tavola
 
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

@@ -9,7 +9,7 @@
 | Specialità | Piatti piccoli abbinati a vini locali |
 | Costo | 💰€€€ per persona senza bevande |
 | Location | 🍷 atmosfera enoteca |
-| Contatti | +34 **DATO MANCANTE** |
+| Contatti | Via VHF porto o reception — numero non pubblicato ⚠️ |
 | Valutazioni | ★★★★½|
 | Orari | cena |
 
@@ -19,7 +19,6 @@
 
 **Chef**: ND
 
-
 **Note**: Ogni portata con vino canario
 
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

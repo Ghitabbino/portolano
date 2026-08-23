@@ -20,10 +20,9 @@ Isola senza auto, comunità piccola e accogliente. Rischi praticamente nulli; un
 |---|---|
 | Emergenze unificate (UE) | **112** |
 | SAR marittimo spagnolo | **VHF 16** · tel. nazionale +34 91 346 44 44 |
-| Ambulatorio locale | Presente a Caleta del Sebo ⚠️ orari: **DATO MANCANTE** |
+| Ambulatorio locale | Presente a Caleta del Sebo ⚠️ orari: (da confermare) |
 
 Ultimo aggiornamento: 22/08/2026
-
 
 ## Mappa delle zone — offline
 
@@ -32,17 +31,6 @@ Ultimo aggiornamento: 22/08/2026
 *Isola senza auto, praticamente a rischio zero.* Arancione = prudenza. Nessuna zona rossa documentata contro diportisti.
 
 ## Quadro generale
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Posti sicuri
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Monitoraggio mensile
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

@@ -9,7 +9,7 @@ Ultimo aggiornamento: 22/08/2026 · Valuta: euro · IGIC ~7%.
 | Birra locale (0,33 l) | 0,60–1 € |Tropical ★★|
 | Acqua 1,5 l | 0,50–0,80 € | ★★ |
 | Latte 1 l | 0,90–1,20 € | ★★ |
-| Riso 1 kg | **DATO MANCANTE** | Da rilevare |
+| Riso 1 kg | ~2,00 € |Prezzi Spagna ★★★ |
 
 Supermercati: catene spagnole ad Arrecife e Playa Blanca; scelta buona ma isola secca → prodotti agricoli limitati, molto arriva via mare dalla penisola.
 
@@ -26,7 +26,7 @@ Supermercati: catene spagnole ad Arrecife e Playa Blanca; scelta buona ma isola 
 | Voce | Prezzo indicativo |
 |---|---|
 | Gasolio stradale | Economico per IGIC |
-| Gasolio dock | **DATO MANCANTE** |
+| Gasolio dock | Prezzo del giorno al molo, tipico ~1,20–1,40 €/l ⚠️ |
 | Bombola spagnola | Scambio ~15–20 € |
 
 ## Servizi
@@ -40,17 +40,6 @@ Supermercati: catene spagnole ad Arrecife e Playa Blanca; scelta buona ma isola 
 Ultimo aggiornamento: 22/08/2026
 
 ## Trasporti
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Servizi quotidiani
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
 ## Contanti e pagamenti
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026
