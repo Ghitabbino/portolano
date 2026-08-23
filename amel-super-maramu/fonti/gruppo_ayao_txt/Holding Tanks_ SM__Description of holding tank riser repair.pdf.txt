@@ -1,0 +1,79 @@
+From ALETES, SM#240 1999 with Jabsco manual pump: Head backflow and Holding Tanks 
+We have persistently had issues with holding tank backflow to the toilet requiring frequent cleaning or replacement of 
+the joker valve. Additional measures have included the addition of a Jabsco check valve as well as the installation of 
+the “locking” version of the Jabsco manual pump. Three layers of defense could not defeat the backflow problem, 
+apparently due to buildup of crystals on all the backflow preventive devices.    
+Also, we have experienced leakage at the connections of the riser hoses (both inlet and outlet) where they connect to 
+the tank. As others have noted, that connection on some models is a copper sleeve that is glassed into the tank, and 
+that copper corrodes over time developing pin-holes and associated leaks. Nasty. Band-aid fixes over the years usually 
+held for a time, but the corrosion keeps on working and leaks reappear. 
+During our latest effort at cleaning and replacing the valves we had a surprise. As anyone who has removed the riser 
+pipe that connects the pump to the tank knows, the contents of the entire riser drain out. Hence it is prudent to flush 
+with a significant volume of water prior to attempting the disconnect. By doing so, the contents that spill into the 
+shower pan are “mostly” clean water.  In this last removal, however, the contents of the ENTIRE holding tank spilled 
+into the shower pan (no further description required). So now we are apparently dealing with a third holding tank 
+issue. Time for a major effort in holding tank repair.  
+The internal workings of the holding tank have always been a bit of mystery as there is no access port and the 3 
+openings to the tank are rather small, basically 1.5”. We have not seen shop drawings or photos of the interior of the 
+tank, but from BB postings, our understanding has been that from the copper sleeve penetrating the fiberglass there is 
+a riser tube in the tank that delivers the waste and spills somewhere near the top of the tank. So before developing a 
+plan of attack for repairs, we removed the deck plate to get slightly larger access to the tank to see what was inside 
+and perhaps determine the problem. Here are the long-awaited photos of the inside of the tank looking down from the 
+deck plate. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+So as one can see, the copper sleeve also corroded within the tank and ultimately the riser extension within the tank 
+separated from it. Wastes were being pumped into the BOTTOM of the tank, and any disconnection of the riser hose in 
+the inboard side would drain any remaining contents within the tank above the drain sump. One curiosity is why the 
+riser within the tank would loop up and then back down so that the discharge point is low in the tank. We couldn’t see 
+but presume there is no vacuum breaker at the top of the loop, so as soon as the contents level would be above the 
+discharge end of the loop, the riser would not drain itself, and in fact become a siphon for backflow. Anyway, since it 
+seemed attached to the tank wall and/or top and we could not get into the tank to disconnect, we could not remove it 
+and it was abandoned in place. NOTE TO OTHERS who have experienced the corrosion of the copper sleeve below the 
+tank - this failure within the tank may be in your future as well. 
+1 copper sleeve 
+Mark Erdos on May 3, 2017 posted an excellent description of his fix for the inboard portion of the copper pipe 
+corrosion while leaving the upper copper pipe and its connection within the tank in place. This was not an option for us 
+due to the separation above. So, following his procedure but completely removing the copper, our solution was a 
+continuous piece of sanitary hose from check-valve near the pump all the way to the top of the holding tank, no 
+connections to leak.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+We reamed out the hole in the fiberglass with rotary rasp so the tubing would slip through. Flared the top of the hole a 
+bit to receive epoxy resin that would seal around the tubing and ooze down between the tube and the fiberglass. Putty 
+was placed around the internal end of the joint to prevent the epoxy from running out. The resin was delivered to the 
+flared opening at the top of the tube/fiberglass joint by pouring it down a PVC pipe/straw.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+After curing we filled the tank with clean water to test for leaks. There seemed to be none. However, overnight there 
+was evidence of a slight leak. We suspect there was insuffient gap between the tube and the fiberglass for the 
+somewhat viscous resin to fully flow and fill. Otherwise, this solution seems good. So now the plan is to remove the 
+tube, ream out the fiberglass a bit more to achieve, say, a 2mm gap between them and once again fill with resin.  
+Any comments, experiences, words of wisdom appreciated as we plan for this FINAL fix. 
+Mike Ondra, ALETES SM#240, Rock Hall, MD 
+3 Epoxy application straw 
+ 
+2 Pump out riser 

@@ -1,0 +1,11 @@
+DeckHoldingTank
+HoldingTank DumpThru HullValve
+HoldingTank DrainPipe
+WC Deck FittingVent/AftForwardHoldingTankSuctionStand-Pipe
+Gravity
+JokerValve
+SanitationHoseSizeChange
+Macerator Pump
+ToiletBowlSea WaterFillHull
+1.  The Holding Tank can be pumpedout by applying suction at the WC deck fitting and achieving a seal.  Thevent and standpipe that reaches nearly to the bottom of the tank allows the tank to be emptied.2. If the outlet of the holding tank becomesclogged, the outlet pipe can be probbedfrom above thru the WC Deck fitting dueto the allignment of the holding tanksuction drain standpipe with the holdingtank drain pipe.  There should beno need to probe the thru hull frombelow!
+Drawn by Gary S. Silver,  s/v Liahona   SM # 335Overflow22 April 2014

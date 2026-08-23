@@ -1,0 +1,734 @@
+
+--- pagina 1 ---
+Super Maramu 2000Super Maramu 2000Super Maramu 2000Super Maramu 2000
+User’s Guide
+Optional Equipment
+Le respect de la mer
+--- pagina 2 ---
+
+--- pagina 3 ---
+User’s guide – Optional equipment 3
+Contents
+7 Optional equipment........................................................... 7-1
+7.1 30 A charger...................................................................................7-1
+7.2 Holding tanks.................................................................................7-1
+7.3 50 litres / hour desalinator............................................................7-1
+7.3.1 Working ......................................................................................7-1
+7.3.2 Maintenance...............................................................................7-5
+7.4 150 litres / hour desalinator..........................................................7-6
+7.4.1 Working ......................................................................................7-6
+7.4.2 Maintenance...............................................................................7-9
+7.5 Fuel air heater..............................................................................7-10
+7.5.1 About the watertight bulkheads ................................................7-10
+7.5.2 Operation of the heater ............................................................7-11
+7.5.3 Maintenance.............................................................................7-15
+7.6 Fresh air ventilation ....................................................................7-15
+7.6.1 About the watertight bulkheads ................................................7-16
+7.6.2 Operation of the fresh air ventilation.........................................7-16
+7.6.3 Maintenance.............................................................................7-19
+7.7 DHI deck level running lights .....................................................7-19
+7.8 2 nd deep freezer ...........................................................................7-20
+7.9 Television.....................................................................................7-21
+7.10 SEAGULL freshwater filter .........................................................7-21
+7.10.1 Use...........................................................................................7-21
+7.10.2 Maintenance.............................................................................7-22
+7.11 Compressor for oxygen cylinder ...............................................7-23
+7.12 Rotary motor pilot unit................................................................7-24
+7.13 3 rd main mast halyard .................................................................7-24
+7.14 Dual RACOR filter........................................................................7-26
+--- pagina 4 ---
+ User’s guide – Optional equipment4
+7.15 Rope cutter.................................................................................. 7-27
+7.15.1 Use .......................................................................................... 7-27
+7.15.2 Maintenance ............................................................................ 7-27
+7.16 110 / 220 V transformer .............................................................. 7-28
+7.17 Fans ............................................................................................. 7-30
+7.18 Door locker.................................................................................. 7-31
+7.19 24 / 220 V inverter ....................................................................... 7-32
+7.20 Comfort pack...................................................................................32
+7.20.1 100 hp. main engine ....................................................................32
+7.20.2 175 A alternator ...........................................................................33
+7.20.3 Batteries.......................................................................................33
+7.20.4 100 A charger ..............................................................................33
+7.20.5 4 plate gas stove and oven ..........................................................34
+7.21 Propeller shaft alternator ........................................................... 7-35
+8 Index ...................................................................................8-1
+--- pagina 5 ---
+User’s guide – Optional equipment 7-1
+7 Optional equipment
+7.1 30 A charger
+You have chosen to fit out you boat with a 30 A charger, which allows you to charge your
+batteries from the shore power.
+To switch it on, switch on the circuit breaker on the 220 V panel in the galley (little charger
+icon).
+7.2 Holding tanks
+Your Super Maramu 2000 has 2 holding tanks (one in each toilet). You must not drain them
+but pump the waste in the equipped harbours.
+They can be rinsed with freshwater added of a little bleach.
+7.3 50 litres / hour desalinator
+7.3.1 Working
+CAUTION ! Read carefully the desalinator’s manual
+before use. It contains warnings concerning your own
+safety while operating and doing maintenance.
+Any maintenance work on mechanical or electrical parts
+on this device should be done by skilled workers, using
+appropriate tools and protections.
+The Super Maramu’s desalinator is especially made for AMEL. It’s able to produce 50 litres /
+hour (approx. 11 Imperial Gallons per hour, 14 U.S. Gallon) of freshwater. These values are
+only for information, because the rate of desalination depends extremely on the seawater
+characteristics. More the temperature is low, more weaker will be the volume of freshwater.
+This device works on 220 V through the 24 V battery charger (generator’s alternator) or on
+24 V (on the main engine’s alternator or on the batteries).
+--- pagina 6 ---
+ User’s guide – Optional equipment7-2
+Picture 1– Desalinator
+The desalinator has got 2 membranes to produce freshwater due to the reverse osmosis
+phenomena.
+Picture 2 – Desalinator’s membranes
+24 V motor
+220 V motor
+Membranes
+--- pagina 7 ---
+User’s guide – Optional equipment 7-3
+Picture 3– Quality sensor
+The installation has got a 5 microns filter. Right to this filter is a stop cock. The vertical
+position is the normal one, to treat seawater using this filter. Horizontally, it allows to flush
+and to clean the desalinator with freshwater.
+Picture 4 – 5 microns filter
+Filter On
+(seawater)
+--- pagina 8 ---
+ User’s guide – Optional equipment7-4
+Picture 5 – Freshwater rinsing position
+In the galley, above the portside sink, is the remote control panel of the desalinator. This
+panel is composed of many instruments :
+- 3 lighted quality indicators,
+- one On / Off switch,
+- one hour metre,
+- one flowmeter in glass, to measure the volume of freshwater delivered,
+- one tap delivering freshwater for check,
+- one high pressure manometer (in bars),
+- one high pressure control system (regulating wheel)
+Picture 6 – Desalinator control panel
+--- pagina 9 ---
+User’s guide – Optional equipment 7-5
+We give here a few simplified instructions for the desalinator, but refer to the manufacturer’s
+one too :
+/G81before using, check the opening of seacocks.
+/G82if the desalinator hasn’t work for a few days, rinse it with freshwater using the
+stop cock right to the 5 microns filter. Like for every rinsing, stop the desalinator
+and open the pressure regulator thoroughly (anticlockwise) for 2 minutes, and
+then replace this seacock in the Marche (seawater) position.
+/G83to start, regulator open, switch on the device, let it work 1 minute without
+pressure, and do a 1
+st setting with the needle in the green area. This is to eject
+air from the circuit ant to obtain a better pressure stability. Check the pressure
+and readjust if needed.
+/G84producing freshwater depends on seawater temperature and on the cleanness of
+the filter.
+/G85checking the freshwater quality and sending it in the tank is made using a quality
+sensor and integrated circuit automatically. If freshwater produced contains salt,
+it will be rejected.
+/G86a too much higher pressure setting lights the red default of the desalinator and
+stops the device ; in this case, set the pressure lower and start again.
+/G87to stop, set the pressure lower opening the regulating wheel thoroughly, stop
+and rinse like described at /G82.
+/G88 concerning the winter service, rinse every month or fill up with sterilizing agent.
+/G89 add some glycerine to the sterilizing agent if needed.
+/G8adon’t forget to drain the glass pipe of the flowmeter.
+7.3.2 Maintenance
+In case of freezing, refer to the manufacturer’s manual.
+The 5 microns filter must be checked regularly, because its lifetime depends on the boat’s
+navigation area regarding how clean the sea is.
+For the maintenance at long term of this appliance, refer to the manufacturer’s manual,
+section “Maintenance”.
+--- pagina 10 ---
+ User’s guide – Optional equipment7-6
+7.4 150 litres / hour desalinator
+CAUTION ! Read carefully the desalinator’s manual
+before use. It contains warnings concerning your own
+safety while operating and doing maintenance.
+Any maintenance work on mechanical or electrical parts
+on this device should be done by skilled workers, using
+appropriate tools and protections.
+7.4.1 Working
+You have chosen to equip your Super Maramu 2000 with a especially AMEL’s made
+desalinator. It can produce 150 litres / hour (33 Imperial Gallons per hour, 40 U.S. ). These
+values are only for information, because the rate of desalination depends extremely on the
+seawater characteristics. More the temperature is low, more weaker will be the volume of
+freshwater.
+This appliance runs on 220 V coming from the power generator.
+Picture 7 – Desalinator
+The desalinator has got 2 membranes to produce freshwater due to the reverse osmosis
+phenomena. The quality sensor give information about the freshwater produced.
+High pressure
+pump
+For check
+220 V motor
+--- pagina 11 ---
+User’s guide – Optional equipment 7-7
+Picture 8 – Desalinator’s membranes
+The installation has got 2 filters :
+- 25 microns : just after the seawater filter. It stops the biggest particles at the
+entry of the system.
+- 5 microns : to stop the finest ones.
+You must check these 2 filters regularly, because their lifetime depends on where the boat is
+used.
+Behind this low pressure pump (which is the primary pump for seawater suction), is the
+stopcock. The vertical position is the normal one, to treat seawater using this filter.
+Horizontally, it allows to flush and to clean the desalinator with freshwater.
+Membranes
+Quality
+sensor
+--- pagina 12 ---
+ User’s guide – Optional equipment7-8
+Picture 9 – 25 et 5 microns filters
+Picture 10 – Stopcock to drain the desalinator with freshwater
+In the galley, above the portside sink, is the remote control panel of the desalinator. This
+panel is composed of 3 different parts :
+- the first, in the upper left side, has 3 coloured lights to show the freshwater
+quality, the ON / OFF switch, and the horameter,
+- the 2 nd, in the lower left side, gives the way to start the installation,
+- the third, in the right side, has a flowmeter in glass, to measure the volume of
+freshwater delivered and 2 manometers :
+/Ga0 low pressure ( higher side) in bars,
+Low pressure
+pump
+Filters
+Stopcock
+(desalinator ON)
+To drain with
+freshwater
+--- pagina 13 ---
+User’s guide – Optional equipment 7-9
+/Ga0 high pressure (lower side) in bars too.
+A high pressure control system (regulating wheel) allows to adjust the quantity of freshwater
+produced.
+Picture 11 – Desalinator control panel
+We give here a few simplified instructions for the desalinator, but refer to the manufacturer’s
+one too :
+/G81before using, check the opening of seacocks.
+/G82if the desalinator hasn’t work for a few days, rinse it with freshwater using the 3
+ways stopcock right to the 5 microns pre-filter. Like for every rinsing, stop the
+desalinator and open the pressure regulator thoroughly (anticlockwise) for 2
+minutes, and then replace this seacock in the Marche (seawater) position.
+/G83to start, regulator open, switch on the device, let it work 1 minute without
+pressure, and do a 1
+st setting with the needle in the green area. This is to eject
+air from the circuit ant to obtain a better pressure stability. Check the pressure
+and readjust if needed.
+/G84producing freshwater depends on seawater temperature and on the cleanness of
+the filters.
+/G85checking the freshwater quality and sending it in the tank is made using a quality
+sensor and integrated circuit automatically. If freshwater produced contains salt,
+it will be rejected.
+/G86a too much higher pressure setting lights the red default of the desalinator and
+stops the device ; in this case, set the pressure lower and start again.
+/G87to stop, set the pressure lower opening the regulating wheel thoroughly, stop
+and rinse like described at /G82.
+/G88 concerning the winter service, rinse every month or fill up with sterilizing agent.
+/G89 add some glycerine to the sterilizing agent if needed.
+/G8adon’t forget to drain the glass pipe of the flowmeter.
+7.4.2 Maintenance
+--- pagina 14 ---
+ User’s guide – Optional equipment7-10
+In case of freezing, refer to the manufacturer’s manual.
+The filters must be checked regularly, because their lifetime depends on the boat’s
+navigation area regarding how clean the sea is.
+For the maintenance at long term of this appliance, refer to the manufacturer’s manual,
+section “Maintenance”.
+7.5 Fuel air heater
+DANGER !  The user’s manual gives some security
+information that must be respected for a secure use of
+this appliance. Refer to it before continuing.
+Any maintenance work on mechanical or electrical parts
+on this device should be done by skilled workers, using
+appropriate tools and protections.
+In case of leak in the fore peak or in the fore cabin, close
+the air outlet in the fore cabin : pull and fix the stainless
+steel lever in the portside saloon shelf (above the
+Fluxgate compass).
+Never obstruct all the outlets simultaneously when the
+device is working.
+Your boat is fitted out with a fuel air heater EBERSPÄCHER D5LC.
+7.5.1 About the watertight bulkheads
+In case of damage needing to set the fore watertight bulkhead, don’t forget to close
+the heater outlet in the fore cabin : pull and fix the stainless steel lever in the portside
+saloon shelf (above the Fluxgate compass).
+Picture 12 – Closing the heater outlet from the saloon
+--- pagina 15 ---
+User’s guide – Optional equipment 7-11
+7.5.2 Operation of the heater
+Before working the heater, be sure the outside air inlet
+(in the cockpit, inside of the ropes stock location at the foot of the mizzen mast) is not
+closed.
+The fuel heater works switching on the actuating unit right to the desalinator panel. 4
+temperature settings, a ventilation and an OFF position are available. The warmed air is
+dispatched in :
+- the saloon,
+- the fore cabin,
+- the aft cabin.
+The power is approximately 4800 W at maximum speed.
+Refer to the builder’s manual, section “Technical description” for more information.
+Each heating outlet can be closed independently of the other.
+Remark : in the fourth position, the consumption of this heater is approximately 0,58 litres of
+fuel per hour (0.13 Imperial Gallon, 0.15 U.S. Gallon)
+Picture 13 – Air heater actuating unit
+--- pagina 16 ---
+ User’s guide – Optional equipment7-12
+Picture 14 – Warmed air outlet in the saloon
+Picture 15 – Warmed air outlet in the aft cabin
+Air
+conditioning
+outlet
+Heater outlet
+--- pagina 17 ---
+User’s guide – Optional equipment 7-13
+Picture 16 – Warmed air outlet in the fore cabin
+After switched off the heater, wait 5 minutes that the fuel circuit cools too. Now you can
+switch off the 24 V circuit.
+The air heater device is located in the portside cockpit locker. The fuel comes from the
+decant filter. We can switch off the heater setting directly the shutoff on the filter. The
+exhaust is located at portside, on the hull.
+Picture 17 – Air heater
+--- pagina 18 ---
+ User’s guide – Optional equipment7-14
+Picture 18 – Shutoff on the decant filter
+Picture 19 – Fresh air inlet for the air heater appliance
+--- pagina 19 ---
+User’s guide – Optional equipment 7-15
+Picture 20 – Air heater exhaust
+A temperature sensor is placed in the saloon, above the portside shelves.
+7.5.3 Maintenance
+To obtain information about the maintenance of the heater, refer to its manual.
+7.6 Fresh air ventilation
+DANGER !  The user’s manual gives some security
+information that must be respected for a secure use of
+this appliance. Refer to it before continuing.
+Any maintenance work on mechanical or electrical parts
+on this device should be done by skilled workers, using
+appropriate tools and protections.
+In case of leak in the fore peak or in the fore cabin, close
+the air outlet in the fore cabin : pull and fix the stainless
+steel lever in the portside saloon shelf (above the
+Fluxgate compass).
+Never obstruct all the outlets simultaneously when the
+device is working.
+--- pagina 20 ---
+ User’s guide – Optional equipment7-16
+7.6.1 About the watertight bulkheads
+In case of damage needing to set the fore watertight bulkhead, don’t forget to close
+the heater outlet in the fore cabin : pull and fix the stainless steel lever in the portside
+saloon shelf (above the Fluxgate compass).
+Picture 21 – Closing the fresh air ventilation outlet from the saloon
+7.6.2 Operation of the fresh air ventilation
+Before working the fresh air ventilation, be sure the outside air inlet
+(in the cockpit, inside of the ropes stock location at the foot of the mizzen mast) is not
+closed.
+The fresh air ventilation is switched on when pushing the circuit breaker under the
+companionway. The fresh air is dispatched in :
+- the saloon,
+- the fore cabin,
+- the aft cabin.
+Each fresh air outlet can be closed independently of the other.
+The consumption is approximately 2 A under 24 V.
+The fresh air ventilation appliance is located in the portside cockpit locker.
+--- pagina 21 ---
+User’s guide – Optional equipment 7-17
+Picture 22 – Fresh air outlet in the saloon and circuit breaker
+Picture 23 – Fresh air outlet in the aft cabin
+Air
+conditioning
+outlet
+Fresh air outlet
+--- pagina 22 ---
+ User’s guide – Optional equipment7-18
+Picture 24 – Fresh air outlet in the fore cabin
+Picture 25 – Fresh air inlet for the fresh air ventilation appliance
+--- pagina 23 ---
+User’s guide – Optional equipment 7-19
+Picture 26 – Fresh air ventilation appliance
+7.6.3 Maintenance
+To obtain some information about the maintenance of this device, please refer to its own
+user’s manual.
+7.7 DHI deck level running lights
+You have chosen to equip your Super Maramu 2000 with the DHI deck level running lights :
+- portside : red (112,5 ° - 25 W ),
+- starboard : green (112,5° - 25 W),
+- stern : white (135° - 10 W).
+They are switched on when pushing the “Navigation lights on deck” circuit breaker at the 24
+V panel.
+--- pagina 24 ---
+ User’s guide – Optional equipment7-20
+Picture 27– Fore DHI deck navigation lights
+Picture 28– Aft DHI navigation light
+7.8 2 nd deep freezer
+You fitted out your boat with a 2 nd deep freezer in the saloon. It works is the same as the
+standard one. The circuit breaker is located on the 24 V panel, right to the fridge.
+--- pagina 25 ---
+User’s guide – Optional equipment 7-21
+7.9 Television
+You have chosen to equip your boat with a television on starboard. In the right shelf is the
+amplifier. The antenna is fixed at the top of the main mast.
+Picture 29 – Amplifier for television
+For the consumption, the power supply and the maintenance, please refer to the builder’s
+manual. Never leave this appliance switched on when it isn’t used.
+7.10 SEAGULL freshwater filter
+7.10.1 Use
+A SEAGULL IV freshwater filter is set under the starboard sink. It eliminates the bad tastes,
+dusts and metal particles. The shutoff which gives this freshwater is the portside one.
+--- pagina 26 ---
+ User’s guide – Optional equipment7-22
+Picture 30- SEAGULL freshwater shutoff
+Picture 31 – SEAGULL IV freshwater filter
+7.10.2 Maintenance
+The cartridge must be replaced every 4000 litres, or at least every year. Nevertheless, its
+capacity can vary due to the water quality.
+To replace the cartridge, please refer to the builder’s manual. Its characteristics are :
+SEAGULL freshwate
+r
+filter
+SEAGULL shutoff
+--- pagina 27 ---
+User’s guide – Optional equipment 7-23
+RS-1 cartridge for  SEAGULL IV freshwater filter
+Normal flow 4 litres / minute (pressure of 2,5 kg/cm 2,
+36.25 psi)
+Estimated capacity 4000 litres
+Micro filtration 0,4 microns
+Height 109 mm
+Diameter 99 mm
+7.11 Compressor for oxygen cylinder
+The compressor for diving bottles is located in the portside cockpit locker. Please refer to its
+builder’s manual for more information.
+A few characteristics are mentioned here :
+BAUER J II 3W
+Motor 24 V single-phase – 2,2 kW
+Flow 100 litres / minute
+Maximum inflation pressure 245 bars (3465 psi)
+To run this equipment, switch on the circuit breaker Compresseur at the 220 V panel. Check
+that the equipment is switched on.
+For the maintenance, see the builder’s manual.
+Picture 32 – Compressor for oxygen cylinder
+--- pagina 28 ---
+ User’s guide – Optional equipment7-24
+7.12 Rotary motor pilot unit
+Your have chosen to fit out your Super Maramu 2000 with a rotary motor pilot unit. It is
+located in the galley, above the sink. The choice of the one who works (linear or rotary) is
+made switching the toggle switch located in the shelf above the sink :
+- “1” position : linear,
+- “2” position : rotary,
+- straight up : no one works.
+Picture 33 – Rotary motor pilot unit
+DANGER !  Read carefully the electronic equipment’s
+manuals before use and sail. They content warnings
+concerning your own safety while operating and doing
+maintenance.
+This information must be read prior to sail and
+intervention.
+Any maintenance work on mechanical or electrical parts
+on these devices should be done by skilled workers,
+using appropriate tools and protections.
+7.13 3 rd main mast halyard
+You have chosen to equip your boat with a 3 rd main mast halyard, at starboard. You can
+hoist a gennaker or a spinnaker.
+The tack point is on the anchor fairlead.
+Pilot choice
+--- pagina 29 ---
+User’s guide – Optional equipment 7-25
+Picture 34 – Tack point on the anchor fairlead
+--- pagina 30 ---
+ User’s guide – Optional equipment7-26
+7.14 Dual RACOR filter
+You have chosen to fit out your boat with a dual gas oil RACOR filter. To chose the used
+one, select it with the shutoff between the two filters (the two filters can’t work together at the
+same time). The vertical position (as shown on the picture below) shuts off the two filters.
+Picture 35 – Dual RACOR filter
+--- pagina 31 ---
+User’s guide – Optional equipment 7-27
+7.15 Rope cutter
+DANGER ! Before any work, be sure the engine gas oil
+arrival is shut off.
+This equipment is very sharp ; you must wear protecting
+gloves.
+Any maintenance work on mechanical or electrical parts
+on this device should be done by skilled workers, using
+appropriate tools and protections.
+7.15.1 Use
+Your Super Maramu 2000 is equipped on his propeller shaft with a rope cutter. It cuts
+automatically a rope or a little wire which have been rolled around the propeller.
+Picture 36 – Rope cutter
+7.15.2 Maintenance
+The only maintenance which can be made is a cleaning and a little sharpening when the
+boat is lifted out of the water. It can be replaced during a propeller inspection.
+--- pagina 32 ---
+ User’s guide – Optional equipment7-28
+7.16 110 / 220 V transformer
+You boat is equipped with an 110 / 220 V transformer of 6000 W. The frequency isn’t
+changed and is the same as the frequency of the input voltage.
+To run the appliances with the 110 V :
+- switch off all the 220 V consumptions,
+- check that the circuit breaker on the left is on Arrêt,
+- connect the shore wire equipped with the 110 V on the 110 V shore plug,
+- from the engine room, just above the air conditioning pump, connect the wire in
+the plug called “220 V depuis transfo sur quai 110 V”,
+- on this panel, switch the circuit breaker on ( Marche).
+Remark : switch on this circuit breaker only if the boat is connected to the 110 V.
+The Picture 37 – 220 V obtained from the 110 V at the harbor shows what you must see.
+Picture 37 – 220 V obtained from the 110 V at the harbor
+The Picture 38 – 220 V obtained from the 220 V generator shows how must be the panel
+when the 220 V comes from the 220 V generator or from the 220 V shore power. The wire is
+connected directly at the « 220 V direct sur quai 220 V » plug.
+110 V circuit
+breaker
+--- pagina 33 ---
+User’s guide – Optional equipment 7-29
+Picture 38 – 220 V obtained from the 220 V generator
+The transformer is located in the engine room, at portside. Never obstruct the air inlets on
+each side : it may cause a dangerous overheating of the appliance.
+Picture 39 – 110 / 220 V transformer
+Remark : As the frequency of the tension is maintained to 60 Hz when electricity comes
+from the shore, a few appliances don’t work :
+- desalinator,
+- microwave oven,
+- clothes washer / dryer,
+- dish washer.
+They must be run with the 220 V generator.
+--- pagina 34 ---
+ User’s guide – Optional equipment7-30
+7.17 Fans
+Your boat is equipped with many supports for swivelling fans. They run on 24 V (the plug is
+behind the support). A fan can be set in another room unscrewing the wheel.
+To run the fan, turn the central wheel :
+- 1 st position : low speed,
+- 2 nd position : high speed.
+Picture 40 – Swivelling fan
+--- pagina 35 ---
+User’s guide – Optional equipment 7-31
+7.18 Door locker
+The companionway can be secured with a stainless steel cover, set in 2 plugs in the cockpit.
+2 padlocks avoid to go inside the boat.
+Picture 41 – Door locker with stainless steel cover
+Padlocks
+--- pagina 36 ---
+ User’s guide – Optional equipment7-32
+7.19 24 / 220 V inverter
+DANGER ! Read carefully the inverter’s manual before
+use. It contains warnings concerning your own safety
+while operating and doing maintenance.
+The user’s manual gives some security information that
+must be respected for a secure use of this appliance.
+Refer to it before continuing.
+Any maintenance work on mechanical or electrical parts
+on this device should be done by skilled workers, using
+appropriate tools and protections.
+An inverter changes a 24 V DC voltage (the batteries) to an alternating 220 V voltage. This
+type of appliance doesn’t allow to use “big consumers” (dish washer, washer / dryer
+machine).
+If we use the microwave oven with the inverter, the circuit breaker will switch it off 3 or 4
+minutes later : it’s normal. The functioning time of the microwave oven is intentionally limited
+to the necessary time for heating a cup of coffee for example, without starting the power
+generator.
+7.20 Comfort pack
+You have chosen to fit out your Super Maramu 2000 with a comfort pack. It contents a lot of
+elements, which are :
+7.20.1 100 hp. main engine
+Picture 42 – 100 hp. main engine
+Red handle
+for manual
+stop
+Decant filter
+Engine
+filter
+--- pagina 37 ---
+User’s guide – Optional equipment 33
+Engine specifications (for further details, refer to engine’s manual) :
+Diesel engine YANMAR 4JH3-HTE
+Type
+Turbo powered with intercooler Diesel
+engine, 4 strokes, 4 cylinders verticle in
+line direct injection
+Engine capacity 1995 cm 3
+Power 73,6 kW (100 hp.) à 3800 t/mn
+Minimum idling speed 900 ± 25 rpm
+Cooling system Freshwater with heat exchanger
+Engine battery alternator 12 V, 55 A
+Service batteries alternator 24 V, 175 A
+Fuel consumption (clean hull)
+Economical cruising
+(1800 rpm ; 6,5 knots) : 3,9 l/h
+Cruising (2000 rpm ; 7 knots) : 5,5 l/h
+7.20.2 175 A alternator
+A 24 V / 175 A alternator is coupled with this engine. He charges the 12 service batteries
+(see 7.20.3), from 1500 rpm.
+7.20.3 Batteries
+Your boat has twelve batteries (of 12 V / 105 A.h each) for all the 24 V equipment.
+Connected in line and parallel, it represents a full capacity of 630 A.h.
+7.20.4 100 A charger
+To charge the service batteries from the power generator, a 24 V / 100 A is installed. Switch
+on the circuit breaker on the 220 V panel (big charger icon, in the upper left corner) to run it.
+--- pagina 38 ---
+ User’s guide – Optional equipment34
+7.20.5 4 plate gas stove and oven
+This 4 plate gas stove and oven working with butane gas has the following characteristics :
+Burner power 1,0 kW – 2 x 1,5 kW – 2,2 kW
+Oven power 1,8 kW
+Grill power 1,6 kW
+Oven volume 36 litres
+Electronic lighting 1,5 V DC
+Don’t forget to switch on the circuit breaker of the electrical gas shutoff on the 24 V panel to
+use this appliance.
+To light the grill, use a manual gas-lighter.
+Picture 43 – 4 plate stove and oven
+--- pagina 39 ---
+User’s guide – Optional equipment 7-35
+7.21 Propeller shaft alternator
+You have chosen to equip your Super Maramu 2000 with a propeller shaft alternator. It gives
+up to 20 A, and is really efficient from 7 knots. It can be unclutched with an electrical shutoff
+located close to the transmission.
+Because of safety rules, don’t connect the propeller shaft alternator cruising with the engine.
+The control switch is located in the cockpit, close to the voltmeter and the temperature
+indicator.
+To use the propeller shaft alternator with the sails :
+- start the main engine without clutching it, to make the hydraulic brake free,
+- clutch in the rear sense (to spread the propeller’s blades), and then come back
+in the neutral position,
+- excite the alternator switching on (in the up position) the control switch,
+- stop the engine.
+- the indicator becomes green (the red indicator lights if the propeller’s rotation
+isn’t fast enough),
+To stop the propeller shaft alternator, stop the excitation (which allows the hydraulic brake to
+close up) switching in the lower position the control switch.
+Picture 44 – Propeller shaft alternator control switch
+--- pagina 40 ---
+ User’s guide – Optional equipment7-36
+Picture 45 – Propeller shaft alternator and his electrical shutoff
+There is no danger to damage something when running it in a wrong use by accident.
+Electrical
+shutoff
+--- pagina 41 ---
+User’s guide – Optional equipment 8-1
+8 Index
+A
+actuating unit............................................. 7-11
+air conditioning.......................................... 7-28
+air inlet ..................7-11, 7-14, 7-16, 7-18, 7-29
+alternator..........................7-1, 7-33, 7-35, 7-36
+amplifier .................................................... 7-21
+anchor fairlead ................................. 7-24, 7-25
+antenna..................................................... 7-21
+B
+batteries ...................................................... 7-1
+C
+cartridge........................................... 7-22, 7-23
+charger............................................... 7-1, 7-33
+circuit7-1, 7-5, 7-9, 7-13, 7-16, 7-17, 7-19, 7-
+20, 7-23, 7-28, 7-32, 7-33
+circuit breaker7-1, 7-16, 7-17, 7-19, 7-20, 7-23,
+7-28, 7-32, 7-33
+clothes washer / dryer............................... 7-29
+cockpit......... 7-11, 7-13, 7-16, 7-23, 7-31, 7-35
+comfort pack ............................................. 7-32
+compressor ............................................... 7-23
+consumption...................7-11, 7-16, 7-21, 7-33
+D
+deep freezer.............................................. 7-20
+desalinator7-1, 7-2, 7-3, 7-4, 7-5, 7-6, 7-7, 7-8,
+7-9, 7-11, 7-29
+dish washer...................................... 7-29, 7-32
+diving bottles ............................................. 7-23
+drain.......................................7-1, 7-5, 7-8, 7-9
+E
+electronic equipment................................. 7-24
+engine .. 7-1, 7-27, 7-28, 7-29, 7-32, 7-33, 7-35
+engine room ..................................... 7-28, 7-29
+exchanger ................................................. 7-33
+excitation................................................... 7-35
+exhaust ............................................ 7-13, 7-15
+F
+fan............................................................. 7-30
+filter ... 7-3, 7-5, 7-7, 7-9, 7-10, 7-13, 7-14, 7-26
+flowmeter ...............................7-4, 7-5, 7-8, 7-9
+flush ............................................................ 7-7
+frequency ......................................... 7-28, 7-29
+fresh air ventilation........................... 7-16, 7-18
+freshwater filter .......................7-21, 7-22, 7-23
+fuel ..........................................7-10, 7-11, 7-13
+fuel air heater............................................ 7-10
+G
+gas ..........................................7-26, 7-27, 7-33
+gas stove and oven ...................................7-33
+generator......... 7-1, 7-6, 7-28, 7-29, 7-32, 7-33
+gennaker ...................................................7-24
+H
+halyard ......................................................7-24
+heater .......... 7-10, 7-11, 7-13, 7-14, 7-15, 7-16
+high pressure........................................7-4, 7-9
+holding tank.................................................7-1
+hour metre...................................................7-4
+hydraulic brake..........................................7-35
+I
+Imperial Gallon ............................7-1, 7-6, 7-11
+inflation......................................................7-23
+inverter ......................................................7-32
+L
+light............................................................7-20
+linear .........................................................7-24
+M
+manometer ..................................................7-4
+mast .................................................7-21, 7-24
+measure ...............................................7-4, 7-8
+membranes ..........................................7-2, 7-6
+microwave ........................................7-29, 7-32
+O
+oil7-26, 7-27
+outlet7-10, 7-11, 7-12, 7-13, 7-15, 7-16, 7-17,
+7-18
+P
+power...................... 7-6, 7-11, 7-21, 7-32, 7-33
+pressure ................ 7-4, 7-5, 7-7, 7-8, 7-9, 7-23
+propeller ...........................................7-27, 7-35
+propeller shaft alternator ...........................7-35
+pump ...........................................7-1, 7-7, 7-28
+Q
+quality sensor ............................... 7-5, 7-6, 7-9
+R
+regulator ...............................................7-5, 7-9
+rinsing..........................................................7-4
+--- pagina 42 ---
+ User’s guide – Optional equipment8-2
+rope cutter................................................. 7-27
+rotary motor pilot unit ................................ 7-24
+S
+sail ............................................................ 7-24
+seawater ..................7-1, 7-3, 7-5, 7-6, 7-7, 7-9
+sensor...........................................7-3, 7-5, 7-9
+shore power ....................................... 7-1, 7-28
+shutoff .7-13, 7-21, 7-22, 7-26, 7-33, 7-35, 7-36
+spinnaker .................................................. 7-24
+stop cock.............................................. 7-3, 7-5
+stove and oven ......................................... 7-34
+suction ........................................................ 7-7
+T
+tack ........................................................... 7-24
+tank...................................................... 7-5, 7-9
+tap............................................................... 7-4
+television................................................... 7-21
+temperature 7-1, 7-5, 7-6, 7-9, 7-11, 7-15, 7-35
+temperature sensor ...................................7-15
+transformer.......................................7-28, 7-29
+transmission ..............................................7-35
+U
+U.S. Gallon..................................7-1, 7-6, 7-11
+V
+ventilation................................7-11, 7-15, 7-19
+voltage.......................................................7-32
+W
+watertight bulkhead ..........................7-10, 7-16
+wheel....................................7-4, 7-5, 7-9, 7-30
+--- pagina 43 ---
+User’s guide – Optional equipment 8-3
+Copy forbidden
+No part of this work may be reproduced,  without permission in writing from the Chantiers AMEL.
+Version 2.5
+November 2002

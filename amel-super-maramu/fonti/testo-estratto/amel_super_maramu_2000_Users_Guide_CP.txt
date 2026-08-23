@@ -1,0 +1,4228 @@
+
+--- pagina 1 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Super Maramu 2000 
+User’s Guide 
+    
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Le respect de la mer 
+    
+    
+    
+    
+    
+--- pagina 2 ---
+
+--- pagina 3 ---
+ 
+User’s guide 3
+Contents 
+ 
+ 
+1 Guided tour of the Super Maramu 2000 ...........................1-1 
+1.1 Electric power from the AMEL point of view .............................. 1-1 
+1.1.1 Power generator........................................................................ 1-2 
+1.1.2 Estimate of the electrical equipment' consumption. .................. 1-4 
+1.1.3 Ground circuit and protection against electrolysis..................... 1-5 
+1.2 Main engine ................................................................................... 1-7 
+1.2.1 Engine....................................................................................... 1-7  
+1.2.2 AMEL transmission ................................................................... 1-9 
+1.2.3 Propeller.................................................................................. 1-10  
+1.3 AMEL makes it easier to sail...................................................... 1-11  
+1.3.1 Cockpit.................................................................................... 1-11  
+1.3.2 AMEL bow thruster.................................................................. 1-12 
+1.3.3 AMEL rudder........................................................................... 1-15  
+1.3.4 AMEL rig and sail furling systems ........................................... 1-17 
+1.3.5 Watertight doors...................................................................... 1-43  
+1.4 Other equipment ......................................................................... 1-46 
+1.4.1 Fuel tank ................................................................................. 1-46 
+1.4.2 Seawater................................................................................. 1-51  
+1.4.3 Electrical pumps...................................................................... 1-55  
+1.4.4 Manual pumps ........................................................................ 1-61 
+1.4.5 Hot water heater...................................................................... 1-62 
+1.4.6 AMEL air conditioning and heating system ............................. 1-63 
+1.4.7 Convenience equipment ......................................................... 1-67 
+1.4.8 Windlass and chain................................................................. 1-75  
+1.4.9 Electronic equipment............................................................... 1-80 
+2 Check-list............................................................................2-1  
+2.1 Arrival on the boat ........................................................................ 2-1 
+2.2 Taking to the open sea ................................................................. 2-1 
+2.3 Arrival at the harbour.................................................................... 2-2 
+--- pagina 4 ---
+ 
+ User’s guide 4 
+2.4 Winter service ................................................................................2-4 
+2.4.1 Sails...........................................................................................2-4  
+2.4.2 Deck ..........................................................................................2-4  
+2.4.3 Fresh water................................................................................2-4  
+2.4.4 Bow thruster...............................................................................2-4  
+2.4.5 AMEL transmission....................................................................2-4  
+2.4.6 Main engine and generator........................................................2-5  
+2.5 Leaving for a long trip ...................................................................2-5 
+3 Maintenance.......................................................................3-1  
+3.1 Hull..................................................................................................3-1  
+3.2 Deck................................................................................................3-3  
+3.3 Wood...............................................................................................3-3  
+3.4 Batteries .........................................................................................3-4  
+3.5 Main engine and AMEL transmission ..........................................3-4 
+3.5.1 Main engine ...............................................................................3-4 
+3.5.2 Transmission .............................................................................3-5  
+3.5.3 Propeller ....................................................................................3-6  
+3.6 Generator .......................................................................................3-7  
+3.6.1 Fluids .........................................................................................3-7 
+3.6.2 Other components .....................................................................3-8 
+3.7 Fuel tank and fuel filter / water separator....................................3-8  
+3.8 Bow thruster ..................................................................................3-9  
+3.9 Sails and furling systems .............................................................3-9  
+3.9.1 Sails...........................................................................................3-9  
+3.9.2 Furling systems........................................................................3-10  
+3.10 Convenience equipment .............................................................3-11 
+3.10.1 Refrigerator..............................................................................3-11  
+3.10.2 Deep freezer............................................................................3-11  
+3.10.3 Clothes washer / dryer.............................................................3-11  
+3.10.4 Dish washer.............................................................................3-12  
+3.10.5 Microwave oven.......................................................................3-12  
+3.10.6 Gas stove and oven.................................................................3-13  
+--- pagina 5 ---
+ 
+User’s guide 5
+3.11 Toilets .......................................................................................... 3-13 
+3.12 Water circuits .............................................................................. 3-14 
+3.12.1 Sump....................................................................................... 3-14  
+3.12.2 Air conditioning and heating system........................................ 3-14 
+3.13 Miscellaneous ............................................................................. 3-15 
+3.13.1 AMEL steering system ............................................................ 3-15 
+3.13.2 Windlass and  anchor chain .................................................... 3-15 
+3.13.3 Hot water heater...................................................................... 3-15 
+3.14 Maintenance calendar................................................................. 3-16 
+4 AMEL all over the world ....................................................4-1  
+4.1 After sales  La Rochelle................................................................ 4-2 
+4.2 After sales Hyères......................................................................... 4-2  
+4.3 After sales Guadeloupe................................................................ 4-2  
+5 Used units – Conversion...................................................5-1  
+6 Index ...................................................................................6-1  
+--- pagina 6 ---
+
+--- pagina 7 ---
+ 
+User’s guide 7
+Super Maramu 2000 
+ 
+ 
+ 
+ 
+ 
+ 
+W
+ARNINGS  
+ 
+ 
+ 
+ 
+For a constant improvement of the quality of their product, the 
+AMEL Shipyard keep the right to make some modifications 
+without notice. 
+All the texts, illustrations, diagrams and photographs are not 
+contractual and can be modified by the AMEL Shipyard without 
+notice. 
+The owner is the only one responsible for respecting the safety 
+rules and the accordance of the rule concerning the boat with the 
+concerned law. 
+--- pagina 8 ---
+
+--- pagina 9 ---
+ 
+User’s guide 9
+Super Maramu 2000 
+ 
+ 
+ 
+ 
+ 
+Serial number 
+FR – AML SM  
+ 
+Name 
+ 
+ 
+Delivery date 
+ 
+ 
+Flag 
+ 
+ 
+Hailing port 
+ 
+ 
+Owner 
+ 
+--- pagina 10 ---
+
+--- pagina 11 ---
+ 
+User’s guide 11
+Dear customer, 
+ 
+ 
+Here you are on your wonderful and brand new Super Maramu 2000, and I 
+would like, in the name of all the AMEL team, to welcome you aboard your 
+yacht, and to thank you to have chosen the AMEL Shipyard to build it. 
+ 
+I am sure that you will have with your sailing partner all the delights and the 
+satisfactions that you are expecting during your cruises, and be assured that 
+all the AMEL team is here to help you if needed. 
+ 
+You will find in all the next pages of this “User’s guide” the entire information 
+you need to use the best way your Super Maramu 2000. 
+ 
+Best winds and sailings, to you and your crew. 
+ 
+ 
+Jean Jacques LEMONNIER 
+Chairman 
+ 
+ 
+ 
+ 
+--- pagina 12 ---
+
+--- pagina 13 ---
+ 
+User’s guide 1-1
+1 Guided tour of the Super Maramu 2000 
+1.1 Electric power from the AMEL point of view 
+ 
+Most of the electrical equipment in board of the Super Maramu 2000 works with in 24 V DC. 
+This energy is stored in batteries that need to be charged regularly. Ideally, charging 
+should be done promptly produce when needed. 
+ 
+ 
+When the boat is in a harbour, connected to the shore power, batteries are charged 
+automatically with the 30 A charger (optional) which is less greedy than the 100 A. 
+ 
+ 
+When the boat sails, a lot of 24 V equipment (automatic pilot, electronics, rig and sail furling 
+system, winches, refrigerators, lightning, …) work with the batteries’ energy. If we don’t pay 
+attention, they will be quickly discharged. Thus the generator should be switched on 
+regularly to charge the 24 V batteries with the 100 A charger. If it is possible, schedule not a 
+daily long time, but 3 shorter periods of 1 and a half to 2 hours. The next chart shows a 
+solution, but your own experience can improve it. 
+ 
+ 
+1 time early 
+in the morning 1 time near 13 or 14 PM 1 time near 19 or 20 PM 
+ 
+generator 
++ 
+100 A charger  
+ 
+ 
+During the night, automatic 
+pilot, lights, refrigerators, 
+electronics, have discharged 
+batteries. The generator 
+delivers 220 V, useful at 
+breakfast to warm water, wash 
+up, warm the boat, … 
+ 
+ 
+Good for batteries, generator, 
+refrigerators, pumps, … 
+220 V is useful for hot water, 
+microwave oven, dishwasher, 
+air conditioning, … 
+ 
+ 
+At dinner time, for the same 
+reasons as previously, and to 
+have good batteries for the 
+night. 
+ 
+ 
+At the harbour : 30 A charger 
+ 
+In the open sea : 100 A charger 
+ 
+ 
+5 to 6 hours seem to be reasonable, regarding to the needs of the crew. 
+When the boat is at anchorage, 24 V uses are less, and 3 to 4 hours of generator’s work 
+should be enough. 
+ 
+Batteries wear out, not due to their age, but according to their number of cycles of Charge / 
+Discharge. That is why batteries of an occupied boat, but most of the time connected to 
+shore power, will last longer (4 years max.) than batteries on a boat who sails or at the 
+anchorage most of the time. In that case, lifetime of the batteries will probably not exceed 18 
+months. 
+ 
+ 
+Batteries usually fail because they are not charged enough.
+--- pagina 14 ---
+ 
+ User’s guide 1-2 
+1.1.1 Power generator 
+ 
+ 
+DANGER !  Read carefully the generator’s manual 
+before use. It contains warnings concerning your own 
+safety while operating and doing maintenance. 
+Any maintenance work on mechanical or electrical parts 
+of the generator should be done by skilled workers, 
+using appropriate tools and protections. 
+  
+The power generator can be started from two control knobs : one in the galley and one on 
+the control panel on the generator itself. 
+ 
+The generator is located in the engine room portside. It uses diesel fuel. 
+ 
+The diesel fuel comes from the RACOR prefilter / water strainer, enters the electric priming 
+pump and the engine's filter, and then feeds the injection pump. The overflow returns straight 
+to the fuel tank. To bleed the fuel circuit on the generator, refer to generator owner's manual. 
+ 
+It is important to start the generator without load, meaning every 220V equipment is 
+switched off. Check the seacock for seawater intake (see 1.4.2). Check also for water 
+discharge from the hull exhaust outlet when the generator is running.  outlet. 
+ 
+Once the generator has been running for more than 1 hour at heavy load, before 
+stopping it, let it run 1 minute without load to let it cool down. 
+ 
+There are several circuit breakers and fault breakers on the generator control panel in the 
+engine room. Refer to generator's manual. 
+ 
+The seawater cooling circuit is fitted with an anti-siphon system to prevent seawater from 
+returning into the engine. 
+ 
+ 
+Here are the main specifications of the ONAN MDKAV 7kW generator. 
+For further information, refer to generator's manual. 
+ 
+ 
+Electric generator 
+Type 4-pole revolving field  
+Frequency 50 Hz +/- 1 Hz 
+Power available 7 kW 
+Cooling air 
+ 
+ 
+ 
+Diesel engine 
+Type  3 cylinders verticle in line 
+Capacity 1 124 cm 3 
+Rating 1 500 rpm 
+Charging alternator 10 A 
+Consumption at half load 2 l/h 
+Cooling system  Heat exchanger 
+ 
+--- pagina 15 ---
+ 
+User’s guide 1-3
+ 
+ 
+Picture 1 – Generator 
+ 
+ 
+ 
+About the exhaust circuit of the generator : 
+It is fitted with a muffler were the exhaust gas is mixed with seawater and therefore cooled 
+down. When the generator is running, make sure that seawater flows out of the exhaust 
+discharge outlet on the hull. 
+ 
+ 
+ 
+ 
+ 
+ 
+Control
+panel 
+--- pagina 16 ---
+ 
+ User’s guide 1-4 
+1.1.2 Estimate of the electrical equipment' consumption. 
+Following values should be taken for informative. 
+ 
+Equipment Power  
+(W) 
+Amperage
+[A]  
+Amperage on load 
+ [A] 
+24V Equipment 
+Freshwater pump 350 19 - 
+Seawater pump 200 8.7 - 
+Bilge pump 120 3 - 
+Bow thrusters 7000 570 - 
+Windlass 1200 36 95 
+Jib furling system 2000 50 100 
+Mainsail mast furling motor 450 8 15 
+Mainsail clew motor 450 12 50 à 100 
+Jib sheet winches 3000 70 200 
+Main sheet winch 1700 50 120 
+Masthead tricolour nav. light 25 1 - 
+Anchor light 10 0,4 - 
+Deck flood light 10 0,4 - 
+Deck navigation lights  60 2,4 - 
+Automatic pilot 250 5 - 
+Radar 100 3,5 - 
+Wind indicator - 0,5 - 
+VHF 100 1   in émission 
+GPS 10 0,5 - 
+SSB 500 2,9   in émission 
+Mini-M satellite phone 250 2   in émission 
+Ceiling lights 20 1 - 
+Bulkhead lights 20 1 - 
+Front cabin lighting 85 3.5 - 
+Central cabin lighting 265 11 - 
+Aft cabin lighting 170 7 - 
+Kitchen ventilation 48 1,8 - 
+Desalinator 370 22 - 
+Fridge 100 2.3 - 
+Deep freezer 60 2.5 - 
+ 
+Warning : electronics use a lot of power when permanently on 
+ 
+220V Equipment 
+Washing machine / dryer 1300 1 to 6.5 - 
+Dish washer 2000 10 - 
+Air conditioning (heating) 1300 5,4 - 
+Air conditioning (cooling) 925 3,2 - 
+A/C cooling pump 370 1,3 - 
+Hot water heater 750 3,2 - 
+Micro-wave oven 1300 6 - 
+Micro-wave + grill 2800 13  
+30 A charger  1500 7 - 
+100 A charger  2400 11 - 
+Desalinator - 11,4 - 
+100 A charger (boost)   8 
+30 A charger (boost)   3 
+ 
+Never leave any 220 V equipment on when the boat is unattended for several days. 
+--- pagina 17 ---
+ 
+User’s guide 1-5
+1.1.3 Ground circuit and protection against electrolysis 
+ 
+ 
+All the equipment in contact with water (pumps, engines, pipes, transmission, propeller, 
+toilets, …) are connected together to make a circuit, isolated from the other wires but linked 
+to the zinc anodes of the rudder. 
+ 
+ 
+This installation (green / yellow wire) represents a protection against the electrolysis : 
+anodes break up, but not the item being protected. 
+ 
+ 
+Warning : inspect anodes every 6 months. 
+ 
+ 
+Change anodes every year, maybe more often. Electrolysis depends on the environment of 
+the boat, ands especially if there is a metal boat close-by. 
+The Super Maramu 2000 has got in standard 2 ground plates on the rudder, used by the 
+SSB system. 
+ 
+If the boat hasn’t got any SSB, these plates are connected to the zinc anodes. 
+When setting up a SSB, disconnect ground plates of the anodes (behind the chart table). 
+ 
+ 
+ 
+ 
+ 
+When a new metallic material in contact with water is installed : 
+- be sure the alimentation wires (positive and negative) are isolated,  
+- link the metallic part to the ground circuit. 
+ 
+ 
+Maybe after having set a new electrical appliance, the mass circuit isn’t perfectly insulated 
+anymore from the 24 V positive or negative. Some electrical leaks and damages on the 
+appliances, equipment, seacocks or components of the boat linked to the mass circuit can 
+appear. 
+ 
+A leak detector is installed on the companion way’s bulkhead. You can search for an 
+electrical leak on the inside electrical circuit of the boat (but not on the electrical circuit of the 
+masts). 
+To use it, push the switch to “Masse +” position : if the light is on, it means that the mass 
+circuit is linked to the positive circuit of the boat; if nothing is on, push the switch in the 
+“Masse –“ position : if the light is on, it means that the mass circuit is linked to the negative 
+circuit of the boat. 
+In the case of a light on, the leak must be find and suppressed. 
+ 
+The leaks must be looked for at least twice a year, or more if necessary : if you see that your 
+anodes break up fast, if you have some metallic boats as neighbours, if you set a new 
+electrical appliance (computer, antenna, pump, radio, …) or to confirm electrolysis 
+symptoms. 
+ 
+ 
+--- pagina 18 ---
+ 
+ User’s guide 1-6 
+ 
+ 
+Pict. 2 – Damaged mass research switch 
+ 
+ 
+--- pagina 19 ---
+ 
+User’s guide 1-7
+1.2 Main engine 
+1.2.1 Engine 
+ 
+ 
+DANGER ! User's manuals for the main engine and the 
+hydraulic gearbox content safety warnings that must be 
+respected. Refer to these manuals before use. 
+Any mechanic or electrical work should be done by 
+skilled staff, using appropriate tools and equipment. 
+ 
+ 
+ 
+Warning 1 :  some drops of oil could be seen in the bilge below the engine. One must take 
+this for granted. This is not a symptom of a faulty engine. 
+ 
+Warning 2 : you must run the main engine everyday of sailing for 15 or 20 minutes (in 1 or 2 
+times) to drain the exhaust circuit (the waves fill in it). 
+ 
+ 
+ 
+ 
+Diesel fuel runs from the RACOR pre-filter/water-strainer to the engine's fuel filter and then 
+to the injection pump that feeds the injectors. Afterwards, the fuel overflow returns straight 
+into the fuel tank (see 1.4.1). On the injection pump, a red handle makes it possible to stop 
+the engine manually, in case the electrical stop doesn't work. 
+ 
+ 
+ 
+ 
+ 
+Picture 3 – Main engine 
+Red handle for 
+manual stop 
+Pre-filter / water-
+strainer 
+Engine’s
+fuel filter 
+--- pagina 20 ---
+ 
+ User’s guide 1-8 
+Engine specifications (for further details, refer to engine's manual) : 
+ 
+ 
+Diesel engine YANMAR 4JH3-HTE 
+Type  
+Turbo powered diesel engine with 
+intercooler 
+4-stroke, 4 cylinders verticle in line 
+direct injection 
+Engine capacity 1995 cm 3 
+Power  73,6 kW (100 hp.) at 3800 rpm 
+Minimum idling speed 900 ± 25 rpm 
+Cooling system Fresh water with heat exchanger 
+Engine battery alternator 12 V, 55 A 
+Service batteries alternator 24 V, 55 A 
+Fuel consumption (clean hull) 
+Economical cruising  
+(1800 rpm ; 6.5 knts) : 3.9 l/h 
+Cruising (2000 rpm ; 7 knts) : 5.5 l/h 
+ 
+ 
+ 
+When the engine has been running for a long time at high load, let it idle several minutes 
+before stopping to cool it down and to allow the turbocharger to slow down. 
+The seawater cooling circuit is fitted with an anti-siphon system to prevent seawater from 
+returning into the engine. 
+The transmission (to shift from forward to reverse) is hydraulic-powered. Refer to 
+manufacturer's manual for maintenance and further information. 
+While sailing, the hydraulic brake prevents the propeller shaft from turning and makes it 
+possible for the propeller to feather. 
+A rubber coupling dampens the shock of shifting the transmission. 
+ 
+ 
+ 
+Schema of the whole motoring system : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Engine Rubber 
+coupling 
+Hydraulic 
+brake 
+ 
+ 
+ 
+AMEL 
+ 
+Bevel 
+gear 
+drive 
+unit 
+ 
+P
+r
+o
+p
+Remote control lever 
+ 
+Transmission 
+--- pagina 21 ---
+ 
+User’s guide 1-9
+The coolant overflow container is situated above the engine, on the aft end (see Picture 46 – 
+Gas-oil tank). 
+ 
+About the exhaust circuit on the main engine : 
+It is fitted with a muffler where the exhaust gas are mixed with seawater and therefore cooled 
+down. When the engine is running, make sure that seawater flows out of the exhaust 
+discharge outlet on the hull (portside). 
+ 
+ 
+ 
+1.2.2 AMEL transmission 
+ 
+ 
+ 
+DANGER !  Don't touch or let clothes or hair get in 
+contact with the AMEL transmission while the engine is 
+running. The moving parts (shafts, wheels, coupling…) 
+could cause severe damage. Before starting the engine, 
+check that neither tools nor towels remain around it. The 
+transmission and the engine can get very hot while 
+running and  after use : avoid any contact with body or 
+clothes. 
+Any electrical or mechanic work should be done by 
+skilled staff,  with appropriate tools and protective 
+equipment (gloves, glasses …). 
+Before starting any work, make sure the engine is off 
+and disconnected from battery, shut off the fuel tank 
+outlet. 
+ 
+ 
+ 
+The AMEL transmission in front of the gearbox is made out of two pairs of bevel gears 
+running in a housing full of oil, making the transmission of power to the propeller safe, quiet 
+and reliable.  
+ 
+ 
+ 
+ 
+Picture 4 – Transmission 
+Hydraulic
+brake
+Transmission 
+Gearbox 
+--- pagina 22 ---
+ 
+ User’s guide 1-10 
+ 
+ 
+Picture 5 – Transmission oil tank 
+ 
+ 
+ 
+ 
+1.2.3 Propeller 
+ 
+ 
+DANGER !  Before any inspection or work, make sure 
+the engine is stopped and the fuel tank shut off. 
+Any mechanic work must should be done by skilled 
+workers with appropriate tools and safety equipment. 
+ 
+  
+The H6 AUTOPROP, diameter 566 mm – left hand – is a three-blade feathering bronze 
+propeller. Each blade is 360° free which allows optimal pitch at any power setting and 
+therefore maximum thrust, even reversing. Also, using the free blade rotation, the prop 
+feathers automatically when the engine is stopped, reducing its braking surface and resultant 
+drag. 
+ 
+Remark : in case of damage on the AUTOPROP, a spare 3 fixed-blade propeller can be 
+fitted. It is originally located under the front cabin starboard berth. Refer to chapter 1.1.1 for 
+replacing instructions. 
+ 
+ 
+AUTOPROP cleanness : 
+If the AUTOPROP is even a little fouled, the blades might not take the same pitch and 
+therefore make vibrations and drop rpm. Refer to chapter 3.5.3 for information about the 
+maintenance of the propeller. 
+Check the fouling on the AUTOPROP (and clean it if needed) especially after remaining 
+stationary 1 or 2 months in hot and sunny waters. 
+ 
+Filling oil in the
+transmission
+--- pagina 23 ---
+ 
+User’s guide 1-11
+ 
+ 
+Picture 6 – Propeller 
+ 
+ 
+ 
+1.3 AMEL makes it easier to sail 
+1.3.1 Cockpit 
+ 
+The Super Maramu 2000 has got a wide and well-sheltered cockpit where sails and engine 
+controls can be used from. Picture 7 – Cockpit shows the location of these controls. 
+ 
+ 
+ 
+Picture 7 – Cockpit 
+Feathering blade 
+Drive unit oil drain 
+Prop. Shaft 
+bushing 
+Engine controls 
+Bow thruster 
+controls 
+Autopilot 
+Clinometer 
+Sails and windlass 
+controls 
+Compass 
+Wind speed, boat speed, wind 
+angle, depth sounder, chain 
+counter 
+--- pagina 24 ---
+ 
+ User’s guide 1-12 
+1.3.2 AMEL bow thruster 
+ 
+ 
+ 
+DANGER ! Any electrical work should be done by skilled 
+staff, aware of safety rules and procedures, and 
+equipped with appropriate tools and protective 
+equipment. 
+Read carefully electric drawings before proceeding any 
+repair. 
+Before operating the bow thruster, make sure that 
+nobody swims or dives nearby, and that no litter 
+floats around the propeller. 
+Any maintenance on the bow thruster should be done in 
+a harbour. 
+ 
+ 
+ 
+Since 1985, every AMEL ship is fitted with our bow thruster. Its design is very reliable for 
+every underwater part is made out of GRP and therefore not subject to electrolysis. An 
+electrical jack moves it up and down using cables and pulleys. The propeller is driven by a 6 
+kW 24V electric motor. 
+The polyester propeller is mounted with 6 nylon screws with a diameter of 8 mm, able to 
+break if a floating rope gets caught into it. Thus, the propeller gets lost, but the bow thruster 
+is not damaged. 
+ 
+ 
+ 
+ 
+ 
+Picture 8 – Bow thruster 
+ 
+ 
+ 
+Your bow thruster is retractable and is therefore lifted while sailing. Just lower it a few 
+seconds before use : switch on the main control and use the up and down toggle switch to 
+set it in the operating position (until the lower light shows and rings). 
+ 
+--- pagina 25 ---
+ 
+User’s guide 1-13
+Then, you can use the bow thruster. Don't use it more than 30 seconds in one push. Don't 
+reverse rotation before the propeller has stopped (about one second). 
+ 
+ 
+It is made only for harbour use; never use it during navigation, or for another use than 
+it has been designed for. 
+ 
+ 
+The bowthruster is more efficient, and batteries less discharged, if you run the main engine, 
+the generator with the 100 A charger when using it. 
+ 
+When lifting the bow thruster, wait for the red light to show before switching off. 
+ 
+ 
+ 
+ 
+Picture 9 – Bow thruster controls 
+ 
+ 
+ 
+In case of  offshore navigation, secure the bow thruster unit with the stainless steel pin 
+(nearby the electric motor). Therefore, you have to move the switch on the way to the hole 
+for the pin, which shuts off the power supply, making any improper use or mistake 
+impossible. 
+ 
+ 
+Bow thruster
+UP/DOWN 
+Starboard / 
+Portside 
+ON / OFF 
+--- pagina 26 ---
+ 
+ User’s guide 1-14 
+ 
+ 
+Picture 1 – Bow thruster electric motor, jack and pin 
+ 
+The bow thrusters is located in a compartment witch is partly watertight. The gravity drain of 
+this compartment goes to the sump. It is connected with the draining chain locker.  A stop 
+cock under the bow thruster stops this flow. Refer to Picture 89– Drain stop cock 
+(photographed closed). 
+ 
+After a long mooring, have the bow thruster moved up and down several times to make sure 
+it is not stuck by marine growth. 
+ 
+If a rope gets caught by the propeller, the nylon screws will break. The propeller gets lost but 
+the bow thruster won't be further damaged. It is possible to replace the prop without diving or 
+having the boat taken out of the water, using a special tool that one can buy at AMEL'. 
+ 
+When the boat is on the hard, switch off the main circuit breaker (on the 24V panel) to avoid 
+any accident, and disconnect the plug inside the autopilot shelf, above the sink. 
+Bow thruster 
+secured with 
+the pin 
+Pin storage 
+--- pagina 27 ---
+ 
+User’s guide 1-15
+ 
+ 
+ 
+Picture 2 – Plug to disconnect when the boat is out of the water  
+ 
+1.3.3 AMEL rudder 
+ 
+The rudder blade is made out of fiberglass, reinforced with stainless steel plates. It is hollow 
+and a hole has been drilled at the bottom to let the water go when the boat is hauled on the 
+hard. The rudder blade is supported by three brackets or bushings. A zinc anode is mounted 
+on each side. The skeg is fitted with two ground plates for radio uses (optional). 
+The rudder stock through-hull is watertight using a stuffing-box which is serviceable from the 
+aft cabin, under the berth. 
+ 
+ 
+ 
+Picture 3 – Rudder and skeg 
+Zinc anode 
+Ground plates 
+--- pagina 28 ---
+ 
+ User’s guide 1-16 
+Opening the aft cabin berths' hatches gives access to the linear driving of the automatic pilot. 
+ 
+ 
+ 
+ 
+ 
+Picture 10 – Rudder stock and automatic pilot linear driving unit 
+ 
+ 
+ 
+  
+DANGER !  Before any inspection or work, make sure 
+nobody operates the rudder system. 
+For safety reasons, have this system checked by skilled 
+staff. 
+Any work should be done by skilled staff, equipped with 
+appropriate tools and protective gear. 
+ 
+ 
+ 
+ 
+ 
+ 
+Rudder stock 
+--- pagina 29 ---
+ 
+User’s guide 1-17
+1.3.4 AMEL rig and sail furling systems 
+ 
+ 
+The ballooner is located in the front starboard deck locker and the mizzen ballooner in the 
+cockpit aft portside locker. 
+ 
+ 
+The Super Maramu 2000 is equipped with 5 tri-radial cut sails: 
+- 3 are made out of Dacron fabric : the jib, the mainsail and the mizzen,, 
+- 2 are made out of nylon fabric : the ballooner and the mizzen ballooner. 
+ 
+Sails convert wind in energy to propel the boat, 
+ therefore they are elements witch are wearing out. 
+Sails must not be in contact with shrouds and rigging or it is  
+forbidden to let them shivering. 
+The normal wear or not adapted utilisations of sails are not  
+covered by the warranty period. 
+Anyway, every 5000 miles or in case of intensive navigation, sails have to be 
+inspected by a professional sail maker. 
+ 
+a) Winches 
+ 
+ 
+ 
+DANGER !  Don't let fingers, hair clothes or ties touch 
+the winches during operation. The rotating parts may 
+cause severe injuries. Before operation, make sure no 
+tool or towel is lying on the winch.  
+Don't leave children unattended while operating the 
+winches. 
+For safety reasons, have these equipment checked by 
+skilled staff. 
+Any electrical or mechanic work should be done by 
+skilled staff, using appropriate tools and protective gear. 
+ 
+ 
+ 
+ 
+The Super Maramu 2000 is equipped with 2 electric winches (type LEWMAR 58 CEST) for 
+the jib sheet. Under the mizzen mast is the electric winch (LEWMAR 40 CEST) for the main 
+sheet. 
+ 
+ 
+For further information, refer to their own manual. 
+ 
+ 
+The electric jib sheet winches have a twin control system : switches are located on the back 
+of the cockpit's benches and at the sails' control panel, nearby the steering wheel. 
+Make sure nobody leans against a winch while operating. 
+ 
+ 
+The electric winches can be used manually with a regular winch handle. No need to 
+disconnect or release anything. A circuit breaker for each one can be switched off, if there 
+are some children on board for example. Always remove the handle when operating 
+electrically. 
+ 
+ 
+--- pagina 30 ---
+ 
+ User’s guide 1-18 
+ 
+ 
+Picture 11 – Jib sheet electric winch 
+ 
+ 
+ 
+ 
+ 
+The control for the electric main sheet winch is on the portside of the mizzen mast. 
+ 
+ 
+ 
+ 
+Picture 12 – Main sheet electric winch 
+ 
+ 
+Main sheet control 
+Jib sheet winch 
+control 
+--- pagina 31 ---
+ 
+User’s guide 1-19
+The sails' control panel is located at the helm station. 
+ 
+ 
+ 
+ 
+ 
+Picture 13  – Sails controls 
+ 
+ 
+ 
+Warning : beware of loose halyards that could get caught in the jib furling system, especially 
+by the top of the mast. 
+ 
+ 
+ 
+On the passageway's ceiling, one hatch gives access to the circuit breakers for the main 
+sheet winch, starboard jib sheet winch and 24V outlet for the dinghy inflator in the lazaret (for 
+use with the batteries only). Another gives access to show the starboard winch motor. 
+ 
+ 
+The circuit breaker for the portside electric winch is located in the engine room. 
+ 
+ 
+ 
+Jib sheet winch
+twin controls 
+Mainsail in mast  
+furling control 
+Mainsail
+outhaul control 
+Jib furling 
+control 
+--- pagina 32 ---
+ 
+ User’s guide 1-20 
+The winch to operate the main sheet traveller is located in the cockpit, on starboard side. 
+ 
+Don’t hesitate to loose the main sheet car before to move it, and be careful of your 
+movements. 
+A locking pin can be set to starboard in order to move the traveller to starboard, or to 
+portside in order to move the traveller to port. 
+ 
+If no move is requested, this winch can be locked on both ways. 
+ 
+Once adjusted, remove the winch handle from the winch. 
+ 
+ 
+ 
+ 
+Picture 14 – Main sheet traveller control (locked on both ways) 
+ 
+ 
+ 
+ 
+Locking pin 
+--- pagina 33 ---
+ 
+User’s guide 1-21
+b) AMEL sails furling systems 
+ 
+ 
+ 
+DANGER !  Don't let fingers, hair clothes or ties touch 
+the winches during operation. The rotating parts may 
+cause severe injuries. Before operation, make sure no 
+tool or towel is lying on the winch.  
+Don't leave children unattended while operating the 
+winches. 
+For safety reasons, have these equipment checked by 
+skilled staff. 
+Any electric or mechanic work should be done by skilled 
+staff, using appropriate tools and protective gear. 
+ 
+ 
+ 
+ 
+Warning : Inside the jib furling tube, the forestay is coated with grease. In hot countries, this 
+grease may get fluid and drip at the bottom of the forestay. However, don't fear a leak on the 
+motor for its housing is sealed. 
+ 
+y The jib furling control switch
+ is in the cockpit. (see Picture 13  – Sails controls ). Grease 
+once a year the clutch pin. 
+ 
+ 
+ 
+ 
+ 
+Picture 4 – Jib furling motor 
+ 
+ During the navigation, if lines appear on the jib entirely unfurled, tighten the port halyard 
+using the winch. 
+ 
+ To use it manually, lift the clutch pin and turn it ¼ of a turn to lock it. Then set the rope 
+on the notched block as shown on Picture 15 – Using the jib manually , crossing it, to 
+handle it from the cockpit. 
+ 
+ 
+Furling 
+motor 
+Clutch pin 
+Bolt-rope guide 
+--- pagina 34 ---
+ 
+ User’s guide 1-22 
+ 
+ 
+Picture 15 – Using the jib manually 
+ 
+ 
+y The mainsail electric furler controls are in the cockpit (see Picture 13  – Sails controls ). 
+When unfurling in the mast, bring the outhaul backwards as well. 
+ 
+When sailing, if lines appear on the mainsail completely unfurled, harden up the 
+starboard halyard using the winch and to the traveller (see Picture 16 – Tightening the 
+mainsail halyard). Lift the clutch pin and turn it ¼ of a turn to unlock the traveller, move it 
+and take up the halyard on the winch. 
+ 
+ 
+ 
+ 
+Picture 16 – Tightening the mainsail halyard 
+Notched block 
+Guardrail ‘s blocks 
+--- pagina 35 ---
+ 
+User’s guide 1-23
+ 
+ 
+ 
+ 
+Picture 17 – Clutch pin 
+cccc
+dddd 
+--- pagina 36 ---
+ 
+ User’s guide 1-24 
+To use the mainsail mast furler manually, first put a winch handle in the furler and 
+loosen the 4 fastening screws that hold the motor. Then move the motor downwards in 
+order to free the clutch pin. The mast furler is now ready for hand use. (Caution : do not 
+tighten too tight when reassembling parts). 
+ 
+ 
+ 
+ 
+Picture 18 – Mainsail mast furling motor 
+ 
+ 
+ When releasing the motor of the mainsail furling system, the crank must be secured as 
+shown below. 
+ 
+ 
+ 
+Picture 19 – Release of the mainsail furling system 
+Jamming the 
+crank 
+Fastening screws 
+(on both sides) 
+Clutch pin 
+Motor 
+--- pagina 37 ---
+ 
+User’s guide 1-25
+y The electric clew  on the boom can be released too, unscrewing the screw on the top of 
+the block, and having set a rope in the embedded cleat, to maintain the clew. 
+ 
+ 
+ 
+ 
+Picture 20 – Release of the electric clew’s motor 
+ 
+ 
+ Now, the clew can be moved by hand with a rope in the sheet traveller ; after the 
+mainsail is trimmed, take a turn at the notched cleat of the boom, and sheet the mainsail 
+using the furling system. 
+ 
+ 
+ 
+ 
+Picture 21 – Clew of the boom moved by hand  
+Embedded 
+cleat 
+--- pagina 38 ---
+ 
+ User’s guide 1-26 
+About the sails : The AMEL Shipyard recommend to : 
+- don’t hoist the jib to windward, to avoid the jib lifting above the deck and against 
+the mast, 
+- hoist the mainsail and the mizzen between 0 and 40° of wind, to avoid their 
+rubbing against the mast. 
+ 
+ 
+--- pagina 39 ---
+ 
+User’s guide 1-27
+y Both booms of the Super Maramu 2000  can be fitted out with a supplied preventer 
+(equipped with a jamcleat), to limit the movement of the boom at wind free running. Don’t 
+forget to establish them when needed, especially to avoid gybing. 
+ 
+ 
+ 
+ 
+ 
+Picture 22 – Preventer of the main mast 
+ 
+ 
+ 
+ 
+ 
+ 
+Picture 23 – Preventer of the mizzen mast
+--- pagina 40 ---
+ 
+ User’s guide 1-28 
+c) AMEL jib sheet traveller remote control 
+ 
+The AMEL jib sheet traveller remote control allows the crew members to move it from the 
+cockpit. Use a regular winch handle to operate it. 
+It is fitted with a locking pin that can be left open while handling. It is easier to use if the sail 
+is not completely hardened. 
+ 
+ 
+ 
+ 
+Picture 24 –AMEL’s jib sheet traveller remote control 
+ 
+ 
+ 
+ 
+Picture 25 – Locking pin 
+Locking pin 
+Locking pin open 
+when set on the side 
+--- pagina 41 ---
+ 
+User’s guide 1-29
+d) AMEL twin pole system 
+2 pairs of poles and jockey poles are stowed on both sides of the front deck when not used. 
+The AMEL twin pole system allows to sail wind free up to 170° off maximum. Jib and 
+ballooner must imperatively be rigged on the same tube (of jib furler). When the AMEL twin 
+pole system is used, pole and jockey pole must imperatively be used simultaneously on each 
+side of the boat. Don’t use pole and jockey pole on a single side. When the true wind is more 
+than 15 knots, furl jib and ballooner together. 
+ 
+ 
+ 
+Picture 26 – Pole and jockey pole 
+Forward, the pole is plugged onto a pin (part of the stanchion). 
+ 
+ 
+ 
+Picture 27 – Stowage of the pole on the deck 
+--- pagina 42 ---
+ 
+ User’s guide 1-30 
+Backwards, the pole's block is set on the base of the stanchion. 
+ 
+ 
+ 
+Picture 28 – Aft stowage of the pole 
+ 
+ 
+ 
+ 
+To set the poles, you need 3 coloured (blue, yellow and red) ropes and a white toping lift.  
+First, set the pole on port side in order to sail with the jib while you set the pole on starboard. 
+ 
+Each pole is set as follows: 
+- hauled forward with the blue line 
+- hauled backward with the red line 
+- hauled down with the yellow line 
+- lifted up with the white toping lift 
+ 
+On each line, a mark shows what length is required. 
+ 
+ 
+ 
+Because of the location of the halyards, always set the jib on portside and the ballooner on 
+starboard side. 
+ 
+ 
+ 
+--- pagina 43 ---
+ 
+User’s guide 1-31
+y setting the poles :  
+- introduce the little pole in the ring of the shroud support ring, 
+- put the little pole in his location on the mast, 
+- stop it with the pin, 
+- insert the long pole in the little one, 
+- hook the pole to the guard-rail, 
+ 
+ 
+ 
+ 
+ 
+ 
+Picture 29 – Pole hooked to the guard-rail 
+ 
+ 
+ 
+Hooking at the 
+guardrail 
+--- pagina 44 ---
+ 
+ User’s guide 1-32 
+- set the 4 lines (they must pass outside the shroud and be connected to the right 
+hook) : - blue one goes through the fore block, and is made to the front cleat, 
+- red one is taken by the cleat behind the jib sheet traveller remote 
+control, 
+- yellow one is made on the cleat of the toe, behind the front lift u-bolt, 
+- thread the jib’s sheet in the block at the extremity of the pole, and lock with the 
+pin, 
+- (thread the ballooner’s sheet directly in the starboard block, instead of the jib’s 
+sheet), 
+- get the jib’s sheet on the electrical winch at portside, 
+- (get the ballooner’s (green) sheet on the electrical winch at starboard), 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Picture 30 – Attachment of the lines on the pole and way of jib’s sheet 
+ 
+ 
+ 
+ 
+--- pagina 45 ---
+ 
+User’s guide 1-33
+- send the pole running up the blue rope, and take it on the cleat, 
+ 
+ 
+ 
+ 
+Picture 31 – Blue and yellow ropes taken on their cleats 
+ 
+- hoist the pole with the toping lift, 
+- run up the lines until the pole follows the little pole. (Pole and jockey pole must 
+perfectly be in line). 
+- all the lines must be tightened, 
+ 
+ 
+ 
+Picture 32 – Pole set for the jib
+--- pagina 46 ---
+ 
+ User’s guide 1-34 
+- unfurl the jib and stop when the clew is at 1 m of the pole, 
+ 
+ 
+ 
+ 
+ 
+Picture 33 – Jib set 
+ 
+ 
+ 
+ 
+If case of rough sea, slacken blue, red and yellow lines, and hoist of 1 m more the 
+pole, to avoid they touch the waves. 
+--- pagina 47 ---
+ 
+User’s guide 1-35
+y Setting the ballooner :  
+- as previously, the twin pole must be set starboard. The ballooner’s sheet goes 
+through the block at the extremity of the pole,  
+- attach the extremity of the ballooner’s sheet on his clew, 
+- take the ballooner’s halyard, shackle on his two extremities, and pass it in front 
+of shrouds, 
+- engage top eye of the halyard in the slot of the hook fixed on the head of the 
+ballooner. Turn the jib boom so that free grooves will be facing the mast, 
+ 
+ 
+ 
+ 
+ 
+Picture 34 – Hook with ballooner’s halyard
+--- pagina 48 ---
+ 
+ User’s guide 1-36 
+- thread the hook in the starboard groove with the bolt-rope guide, 
+- set the bolt-rope in his guide, and then in the appropriate groove, 
+- somebody near the furler can help the sail to go in the groove and the guide, 
+ 
+ 
+ 
+ 
+ 
+Picture 35 – Hook engaged in the jib foil 
+ 
+ 
+ 
+- hoist thoroughly the ballooner by hand so that the hook locks in the swivel, 
+- before pulling out the foot, harden up the ballooner’s luff on the notched block, 
+- slacken the ballooner’s halyard. If it is well fastened, the sail should not go down, 
+- in case of difficulties for locking, be sure the grooves are in front of the mast, 
+- harden sheet,  
+- pull down the ballooner’s halyard, and secure it. 
+ 
+ 
+--- pagina 49 ---
+ 
+User’s guide 1-37
+If the true wind exceeds 15 knots, jib and ballooner can be furled together on the jib boom. 
+ 
+ 
+ 
+ 
+ 
+ 
+Picture 36 – Furling the jib and the ballooner together 
+ 
+--- pagina 50 ---
+ 
+ User’s guide 1-38 
+y To haul in the ballooner :  
+- take the ballooner’s halyard and shackle on his extremities, 
+- on the same shackle, fasten the dehooker (mouse) using its line, 
+ 
+ 
+ 
+ 
+ 
+ 
+Picture 37 – Fastening of the dehooker (mouse) 
+ 
+ 
+ 
+--- pagina 51 ---
+ 
+User’s guide 1-39
+- thread the dehooker (head at the top) in the middle groove, 
+- hoist the halyard until 20 cm (3 in) of the swivel, take a turn, slacken the tack’s 
+rope, 
+- luff up until reaching wind abeam. The ballooner will fold up above the deck,  
+- cast off 5 or 6 m (20 ft) of the sheet or more if the wind is stronger, 
+- hoist the dehooker thoroughly, 
+- there is a little snap in the hands, 
+- pull down the ballooner to haul in, 
+- put it back in place in the front starboard locker. Be sure is dry, 
+ 
+ 
+ 
+ 
+ 
+Picture 38 – Putting the ballooner in the front starboard locker 
+ 
+ 
+- bring the ballooner’s halyard back with his dehooker, 
+- DON’T furl the jib BEFORE having the dehooker. 
+ 
+ 
+To remove the twin pole system, do the same in the reverse order : first slacken the toping 
+lift. Be careful when bringing back the pole pulling on the red rope, because it may come 
+suddenly. You can check the lengths using the black strings on the rope. 
+ 
+ 
+ 
+ 
+DANGER ! The twin pole system, during working, must 
+never bump somebody or any equipment. It is absolutely 
+necessary to takes precautions for using them safety for 
+the safety of the people and the equipment. 
+ 
+--- pagina 52 ---
+ 
+ User’s guide 1-40 
+e) Mizzen ballooner 
+ 
+ 
+ 
+Sailing is possible with the mizzen ballooner up to 15 knots of true wind, for an angle 
+between 80 and 150°. 
+ 
+ 
+y To hoist the mizzen ballooner (portside or starboard) :
+ 
+- set the tack using the shackle at the eye in front of the roof, 
+ 
+ 
+ 
+Picture 39 – Setting the tack on the mizzen ballooner 
+ 
+ 
+--- pagina 53 ---
+ 
+User’s guide 1-41
+- set the two shackles on the same board, like shown on the Picture 40 – Way 
+from the mizzen ballooner ‘s sheet ‘ 
+- thread the sheet in the block backwards, 
+ 
+ 
+ 
+ 
+ 
+Picture 40 – Way from the mizzen ballooner ‘s sheet 
+ 
+--- pagina 54 ---
+ 
+ User’s guide 1-42 
+- set the halyard on the side on which you want install it, 
+- set the halyard at the head of the mizzen ballooner, 
+- using the automatic pilot, place the boat at 70° of the wind (suitable for hauling in 
+too), 
+- before hoisting, don’t forget to take a turn on the halyard,  
+- hoist the mizzen ballooner using the portside winch of the mizzen mast, 
+ 
+ 
+ 
+ 
+ 
+Picture 41 – Halyard secured before hoisting 
+ 
+ 
+ 
+ 
+- put it back in place in the portside locker, putting the 3 clews together to make 
+easier the next use. Be sure is dry. 
+ 
+--- pagina 55 ---
+ 
+User’s guide 1-43
+1.3.5 Watertight doors  
+ 
+ 
+ 
+The Super Maramu 2000 is equipped with many watertight bulkheads, which are shown on 
+the following drawing : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Picture 42 – Partitioning of the boat 
+ 
+ 
+ 
+The forward cabin can be made watertight : 
+- close the watertight door, 
+- set the wood bar (located in the shelf forward of the saloon berth) who press this 
+door on his gasket, 
+- lift the sole hatch and close the forward compartment seacock located under the 
+door. 
+ 
+ 
+Watertight door to set 
+in case of  
+seawater flooding 
+Watertight 
+compartment 
+Seacock to shut off in case of 
+seawater flooding 
+Watertight 
+bulkhead 
+Collision watertight  
+compartment
+Stern locker Aft cabin 
+waterti
+ght
+Front cabin 
+waterti
+ght 
+Engine room 
+waterti
+ght
+cccc ffffgggg eeee dddd
+--- pagina 56 ---
+ 
+ User’s guide 1-44 
+ 
+ 
+Picture 43 – Wood bar settled and forward compartment seacock (photographed closed) 
+ 
+ 
+ 
+ 
+The aft cabin could be watertight : 
+- close the watertight door, 
+- set the wood bar (located in the wardrobe of the passageway) who press this 
+door on his gasket, 
+- turn the aft compartment seacock near the door. 
+ 
+ 
+ 
+ 
+Picture 44 – Aft compartment seacock (photographed open) 
+Wood bar location 
+--- pagina 57 ---
+ 
+User’s guide 1-45
+ 
+ 
+Picture 45 – Storage of the aft wood bar 
+ 
+--- pagina 58 ---
+ 
+ User’s guide 1-46 
+1.4 Other equipment 
+1.4.1 Fuel tank 
+ 
+ 
+ 
+ 
+DANGER !  Any handling of fuel must be done 
+respecting the warnings of the sales company. Filling the 
+tank must be done in absence of spark, flame, 
+incandescent object (cigarette, …), or any other device 
+able to cause any events (like cellular phone). 
+Engine’s and generator’s manuals give warnings and 
+secure instructions for a safety use of this devices. Refer 
+to them before going on. 
+Any maintenance work on mechanical or electrical parts 
+should be done by skilled workers, using appropriate 
+tools and protections. 
+Use only appropriate gas-oil for marine diesel engines. 
+Never use other fuel like petrol, kerosene, … because 
+they may start a fire. 
+A non adapted fuel may cause faults of the diesel 
+injection system. 
+ 
+ 
+ 
+ 
+ 
+ 
+The gas-oil tank in stainless steel has got a capacity of 600 l (132 Imperial Gallons, 159 U.S. 
+Gallons) and is located in the engine room (starboard). 
+ 
+ 
+ 
+ 
+ 
+ 
+Picture 46 – Gas-oil tank 
+ 
+Gas-oil 
+tank 
+Engine cooling system 
+--- pagina 59 ---
+ 
+User’s guide 1-47
+The tank’s filing is made from the cockpit, lifting the starboard locker near the mizzen mast. 
+There is a vent who goes to the starboard passageway (this vent pass above the wardrobe). 
+Never fill to the overflowing. 
+ 
+ 
+ 
+ 
+Picture 47 – Starboard cockpit locker 
+ 
+ 
+ 
+Inside of the tank, there is a graduated dipstick. 
+ 
+ 
+ 
+ 
+Picture 48 – Graduated dipstick in plastic 
+Filling 
+gas oil 
+Vent 
+Cockpit shower
+stop-cock 
+--- pagina 60 ---
+ 
+ User’s guide 1-48 
+On the top, the tank has got 2 inspection hatches. The electric gauge sensor is on the 
+forward hatch. 
+ 
+ 
+ 
+Picture 49 – Top of the tank 
+ 
+ 
+There is a stop cock at the outlet of the tank, who can be operated equally from the engine 
+room or the passageway. This stop cock delivers gas-oil to the RACOR-filter. Turning off this 
+stop cock and the gas-oil isn’t delivered to the engine and the generator. 
+ 
+ 
+ 
+ 
+Picture 50 – Gas-oil electric gauge and lever for 
+stopping gas-oil delivery from the passageway 
+Inspection hatch 
+Electric gauge sensor  
+On / Off electric gauge  
+Pull for stopping gas-oil 
+--- pagina 61 ---
+ 
+User’s guide 1-49
+ 
+ 
+Picture 51 – Stopping gas-oil delivery from the engine room 
+ 
+ 
+ 
+ 
+ 
+The RACOR-filter delivers gas-oil to the main engine and the generator. 
+ 
+ 
+ 
+ 
+Picture 52 – RACOR-filter
+Filter 
+Decant-part 
+Drain cock 
+--- pagina 62 ---
+ 
+ User’s guide 1-50 
+The opening of the engine room is locked from the passageway, introducing a stainless steel 
+pin through the cover. 
+ 
+ 
+ 
+ 
+ 
+Picture 53 – Locking the opening of the engine room‘s cover
+--- pagina 63 ---
+ 
+User’s guide 1-51
+1.4.2 Seawater 
+ 
+ 
+There is only one water inlet in the Super Maramu 2000, located in the engine room, at 
+forward starboard. She is composed with a polyester seacock and a stop cock (to close, turn 
+it perpendicular to the pipe). Then there is the filter, which can be checked by unscrewing his 
+cover. It must be cleaned regularly, brushing the removable basket inside. If the filter has 
+been getting blocked, you will hear and see an alarm in the companionway (see  Picture 57 
+– Seawater and sump ). 
+ 
+ 
+ 
+Picture 54 – Seawater filter 
+ 
+ 
+ 
+Picture 55 – Seawater inlet stop cock (photographed open) 
+--- pagina 64 ---
+ 
+ User’s guide 1-52 
+ 
+ 
+Picture 56 – Blockage sensor of the seawater filter 
+ 
+ 
+ 
+ 
+ 
+Fresh water gauge can be locked in lower position, to prevent it scratching the 
+companionway’s bulkhead. 
+ 
+ 
+ 
+ 
+ 
+ Picture 57 – Seawater and sump alarm 
+ 
+Filling up sensor 
+Filling up alarm
+Fresh water 
+gauge Identification 
+sheet 
+--- pagina 65 ---
+ 
+User’s guide 1-53
+Seawater is delivered on the one hand to the main engine and the generator, and on the 
+other hand, through a stop cock, to the different pumps (toilets, air conditioning, desalinator 
+and anchor wash). 
+ 
+Fluid drawings shows the entire system. In the Super Maramu 2000, the clamping rings are 
+doubled on the seawater pipes. 
+ 
+ 
+ 
+ 
+Picture 58 – Seawater stop cock (other devices as main engine and generator) 
+ 
+ 
+ 
+If the boat is not use for a long time, seawater circuits of : 
+- main engine, 
+- generator, 
+- air conditioning, 
+- toilets, 
+- anchor wash, 
+have to be flushed with fresh water (or fresh water and antifreeze). It’s good to avoid 
+corrosion, obstructions and bad odours, especially in the toilets. 
+ 
+For the maintenance of the desalinator, refer to the manual. 
+ 
+Seawater stop
+cock (open) 
+--- pagina 66 ---
+ 
+ User’s guide 1-54 
+The drain cock of the water throwed by the desalinator, bilges pumps manual and electric, is 
+located in the engine room portside. 
+ 
+ 
+ 
+ 
+ 
+Picture 59 – Wasted water drain cock (photographed open) 
+ 
+ 
+ 
+ 
+ 
+About the sump :  the sump is located in the aft end of the keel. We can access to it from 
+the engine room. Wasted water (grey water) of the aft shower, galley’s sink, washing 
+machines, forward shower and anchor box flow into it. 
+Water of the sump is drained using 2 pumps : 
+- electrical bilge pump, 
+- manual bilge pump. 
+ 
+ 
+If needed, access to the sump is easier by releasing the plastic and the intakes pipes. Clean 
+with a brush (see 3.12.1) 
+ 
+Drain 
+cock 
+Draining electric
+bilge pump
+Draining
+desalinator
+Draining manual 
+Bil
+ge pump
+--- pagina 67 ---
+ 
+User’s guide 1-55
+1.4.3 Electrical pumps 
+ 
+ 
+ 
+DANGER !  Any maintenance work on mechanical or 
+electrical parts should be done by skilled workers, using 
+appropriate tools and protections. 
+User's manuals of this equipment content safety 
+warnings that must be respected. Refer to these 
+manuals before use. 
+Refer to electrical drawings (belonging to the boat or to 
+another device) before doing any work. 
+ 
+ 
+ 
+ 
+ 
+To know on which voltage work the different pumps, refer to the electrical drawings delivered 
+and to the manual’s manufacturer. 
+ 
+ 
+Fluid drawings (fresh water and sea water) shows intakes and exhausts. 
+ 
+ 
+ 
+ 
+ 
+ 
+Picture 60– General overview of few electrical pumps 
+ 
+ 
+ 
+ 
+ 
+Anchor 
+wash 
+       Ai
+r
+conditioning 
+Sump 
+Forward and 
+aft toilets 
+Fresh 
+water 
+--- pagina 68 ---
+ 
+ User’s guide 1-56 
+a) Bilge pump 
+ 
+ 
+The bilge pump is located in the engine room, above the sump. Her function is to intake the 
+wasted water in the sump, and to exhaust it outside of the boat. It works automatically using 
+the floating switch on the top of the plastic pipe. It can be operated from the 24 V panel in the 
+galley. 
+ 
+ 
+ 
+It intakes till 10 cm (4 in) from the bottom. To pump the rest (liquid and solid), use the 
+manual bilge pump. 
+ 
+ 
+ 
+Furthermore, behind the air conditioning pump, there is a sensor. The alarm is repeated on 
+the filling up sensor. It will start if the bilge pump is failed. 
+ 
+ 
+ 
+ 
+ 
+ 
+Picture 61 – Bilge pump 
+ 
+ 
+--- pagina 69 ---
+ 
+User’s guide 1-57
+ 
+ 
+Picture 62 – Floating switch 
+ 
+ 
+ 
+ 
+ 
+b) Seawater pumps 
+ 
+ 
+Many devices pump some seawater. There are :  
+- desalinator, 
+- anchor wash pump, 
+- toilets pump, 
+- air conditioning pump. 
+ 
+ 
+Refer to appropriate paragraph and manufacturer’s manual to know location and 
+characteristics of each one. 
+Floating 
+pipe
+Switch 
+--- pagina 70 ---
+ 
+ User’s guide 1-58 
+c) Anchor wash pump 
+ 
+The anchor wash pump is in the engine room portside. 
+ 
+ 
+ 
+ 
+Picture 63 – Anchor wash pump 
+ 
+ 
+ 
+ 
+ 
+--- pagina 71 ---
+ 
+User’s guide 1-59
+d) Fresh water pump 
+ 
+ 
+About fresh water :  
+Fresh water tank, with a 1000 l (220 Imperial Gallons , 264 U.S. Gallons ) capacity, is in the 
+keel. The pump is in the engine room. Don’t use it without water, because the bronze turbine 
+may break down prematurely. The fresh water level is given using a floating pipe, placed 
+portside of the companionway (see Picture 57 – Seawater and sump alarm). Filling up the 
+fresh water tank is made from the cockpit, unscrewing the cap under the steering wheel). 
+ 
+ 
+ 
+ 
+ 
+Picture 64 – Fresh water filling up 
+ 
+ 
+ 
+ 
+It has a priming hole (see the drawing of the manufacturer). 
+When it’s freezing, drain the pump, open all the taps (don’t forget the cockpit shower, see 
+Picture 47 – Starboard cockpit locker) and drain the hot water heater. 
+ 
+ 
+ 
+Manual bilge 
+pump 
+Fresh water 
+filling up 
+--- pagina 72 ---
+ 
+ User’s guide 1-60 
+ 
+ 
+Picture 65 – Fresh water pump
+Fresh water 
+pump 
+Air conditioning
+pump
+Sensor 
+--- pagina 73 ---
+ 
+User’s guide 1-61
+1.4.4 Manual pumps 
+a) Emergency fresh water pump 
+ 
+ 
+Under the dish washer, in the bilge, is installed an emergency fresh water pump. Instructions 
+for use are on it. This device is connected to a hose for an easier use, in case of the 
+electrical fresh water pump is down. 
+ 
+ 
+ 
+ 
+ 
+Picture 66 – Emergency fresh water pump 
+ 
+ 
+ 
+ 
+ 
+ 
+b) Bilge pump 
+ 
+ 
+The bilge pump is in the cockpit, under the steering wheel. It’s good to use it once per week, 
+to evacuate the liquids and solids in the bottom’s sump. The handle could me made by the 
+stainless steel leg of the removable cockpit table. It’s placed in the storage-locker. See the 
+Picture 64 – Fresh water filling up). 
+--- pagina 74 ---
+ 
+ User’s guide 1-62 
+1.4.5 Hot water heater 
+ 
+ 
+ 
+DANGER ! Read carefully the hot water heater’s manual 
+before use. It contains warnings concerning your own 
+safety while operating and doing maintenance. 
+Any maintenance work on mechanical or electrical parts 
+on this device should be done by skilled workers, using 
+appropriate tools and protections. 
+ 
+ 
+ 
+The hot water heater has got a capacity of 45 l (approx. 10 Imperial Gallons, 12 U.S. 
+Gallons) ; water is warmed by thermal exchange with the main engine (in 20 min) or by an 
+220 V electrical resistance unit (in 2 hours). Every 3 years, regarding the stored water 
+quantity, clean the tank to remove the calcified deposit. Replace the magnesium anode 
+inside. 
+ 
+ 
+ 
+ 
+ 
+Picture 67 – Hot water heater
+--- pagina 75 ---
+ 
+User’s guide 1-63
+1.4.6 AMEL air conditioning and heating system 
+ 
+ 
+The Super Maramu 2000 is equipped with 3 air conditioning devices, able to deliver cold or 
+warm air. 
+ 
+ 
+Setting one device is independent of the others. Temperature (of heating or cooling) is set 
+using the thermostatic control. The Cool / Heat switch has got a medium position who stops 
+it working. 
+ 
+ 
+Important remark :  
+- in the air conditioning (Cool) position, don’t turn the thermostatic control after 
+hearing a “clic”, 
+- in the heating (Heat) position, don’t set the ventilation on “Min”. prefer “Med” or 
+“Max”. 
+ 
+ 
+ 
+Picture 68 – Thermostatic control 
+ 
+ 
+Air conditioning systems are : 
+- in the saloon, under the portside bench. Remove the cushions and the plywood 
+seating, 
+- in the forward cabin. Remove the berths’ cushions and unscrew the centre 
+wheel. It allows to release the seating between portside and starboard, in front of 
+the bow thruster (it allows access to the drain cock of the chain locker’s flow to 
+the sump), 
+- in the aft shower (to bring air conditioning to the aft cabin). Remove the furniture 
+against the hull. 
+--- pagina 76 ---
+ 
+ User’s guide 1-64 
+Never obstruct the hole who delivers the conditioned air to the room (see Picture 94 – 
+Fluxgate compass). 
+ 
+The air conditioning systems have got an air inlet inside of the boat. Be careful never to 
+obstruct them or to hold up air flowing around them. 
+ 
+ 
+ 
+ 
+ 
+Picture 69 – Saloon air conditioning 
+ 
+ 
+ 
+ 
+ 
+Picture 70 – Forward cabin air conditioning  
+Air
+conditioning 
+system 
+Air inlet 
+Deep freezen 
+system 
+Air inlet 
+Cooling water seacock of the 3 
+air conditioning systems  
+--- pagina 77 ---
+ 
+User’s guide 1-65
+ 
+ 
+Picture 71 – Aft cabin air conditioning 
+ 
+ 
+ 
+ 
+For working, air conditioning systems need a pump, located in the engine room. It works in 
+220 V, and delivers water to the 3 air conditioning systems. 
+ 
+ 
+Air conditioning are equipped with starters delayings, to avoid a current peak on the 
+generator (if the switches were on at the generator start). 
+ 
+The air conditioners can operate on 50 or 60 cycles 220 V shore power. 
+ 
+--- pagina 78 ---
+ 
+ User’s guide 1-66 
+After many weeks of inactivity, turn a little by hand the pump with a screwdriver, like shown 
+on Picture 72 – Air conditioning pump . Before doing this, be sure the 220 V is switched 
+off.  
+ 
+ 
+ 
+ 
+ 
+ 
+Picture 72 – Air conditioning pump 
+ 
+ 
+ 
+ 
+ 
+  
+DANGER ! Read carefully the air conditioning’s manual 
+before use. It contains warnings concerning your own 
+safety while operating and doing maintenance. 
+Any maintenance work on mechanical or electrical parts 
+on this device should be done by skilled workers, using 
+appropriate tools and protections. 
+ 
+ 
+--- pagina 79 ---
+ 
+User’s guide 1-67
+1.4.7 Convenience equipment 
+ 
+a) Household electrical appliances 
+ 
+ 
+The Super Maramu 2000 is equipped with all household electrical appliances, like 
+microwave oven, gas stove and oven, refrigerator, deep freezer, dish washer, clothes 
+washer / dryer. 
+ 
+y The refrigerator
+ has got a fan to cool the motor and the compressor. This fan has can 
+turn at 2 different speeds : high speed (normal working and higher efficiency), medium 
+speed (silent working). 
+ 
+The fan is delivered adjusted at the high speed, to obtain more coldness and faster. 
+ 
+But, for more comfort when someone sleeps in the saloon, the fan can be adjust to the 
+medium speed, by pushing the switch at the bottom of the appliance. 
+ 
+Switching again it will set the high speed, which is the correct way to work for the 
+refrigerator. 
+ 
+ 
+ 
+ 
+Picture 73 – Switch for setting the speed of the fan 
+ 
+--- pagina 80 ---
+ 
+ User’s guide 1-68 
+y The deep freezer  can either be a refrigerator or a freezer, switching on the desired 
+position inside of the device. The thermostatic control who works is of the selected one. 
+ 
+ 
+ 
+Picture 74 – Deep freezer 
+ 
+ 
+ 
+ 
+y Dish washer and clothes washer / dryer
+ both need a water intake. They are under the 
+gas stove and oven and are both equipped of a stop cock. 
+ 
+ 
+Remark: the clothes washer / dryer uses fresh water. Wasted water goes into the sump. 
+These drains can be seen by lifting the cover under the companionway. 
+ 
+ 
+The refrigerator, the clothes washer / dryer and the deep freezer are equipped with an air 
+intake : never obstruct it. 
+ 
+ 
+Thermostats 
+--- pagina 81 ---
+ 
+User’s guide 1-69
+ 
+ 
+Picture 75 – Refrigerator’s air intake 
+ 
+ 
+ 
+ 
+The clothes’ washer / dryer has got its own air intake. 
+ 
+ 
+ 
+ 
+Picture 76 – Clothes’ washer / dryer intake 
+ 
+--- pagina 82 ---
+ 
+ User’s guide 1-70 
+ 
+ 
+Picture 77 – Deep freezer ‘s intake 
+ 
+ 
+ 
+ 
+  
+DANGER ! Read carefully the convenience equipment’s 
+manuals before use and sail. They content warnings 
+concerning your own safety while operating and doing 
+maintenance. 
+Any maintenance work on mechanical or electrical parts 
+on these devices should be done by skilled workers, 
+using appropriate tools and protections. 
+  
+ 
+ 
+--- pagina 83 ---
+ 
+User’s guide 1-71
+b) Wooden lee boards 
+ 
+The berths are equipped with removable wooden lee boards. Each board has got is own 
+storage and use location. Unscrew the wheels, fit the stainless steel leg in the right port 
+(except in the passageway where there are 2 wooden guides). 
+ 
+Storage location of the wooden lee boards :  
+- in the forward cabin, they are under the portside and starboard shelves, 
+- in the passageway, 
+- in the aft cabin, it is behind the aft shower door. 
+ 
+ 
+ 
+Picture 78 – Storage of the forward cabin’s wooden lee board 
+ 
+ 
+ 
+Picture 79 – Forward cabin’s wooden lee board set 
+--- pagina 84 ---
+ 
+ User’s guide 1-72 
+ 
+ 
+Picture 80 – Storage of the passageway’s wooden lee board 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Picture 81 – Passageway’s wooden lee board set 
+ 
+ 
+ 
+ 
+ 
+--- pagina 85 ---
+ 
+User’s guide 1-73
+ 
+ 
+Picture 82 – Storage of the aft cabin’s wooden lee board 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Picture 83 – Aft cabin’s wooden lee board set 
+ 
+ 
+--- pagina 86 ---
+ 
+ User’s guide 1-74 
+c) Safe 
+ 
+ 
+ 
+A safe (with personal code) is installed in a aft cabin’s shelf. To change the personal code 
+and know the characteristics of this equipment, refer to its own manual. It works on little dry 
+cell batteries. 
+ 
+If needed (code forgotten, no spare dry batteries,…), a key can open it. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Picture 84 – Safe 
+ 
+ 
+--- pagina 87 ---
+ 
+User’s guide 1-75
+1.4.8 Windlass and chain 
+ 
+ 
+ 
+ 
+DANGER ! Read carefully the windlass’s manual before 
+use and sail. It contains warnings concerning your own 
+safety while operating and doing maintenance. 
+Any maintenance work on mechanical or electrical parts 
+on this device should be done by skilled workers, using 
+appropriate tools and protections. 
+A switch, called “Guindeau On / Off” in the portside shelf 
+of the forward cabin, disconnect the controls, to avoid 
+that someone who is non-authorised uses it. 
+Never operate the chain on the windlass if the switch is 
+On. 
+Never put an arm in the chain locker when it is operated 
+by the windlass. 
+Never open the watertight door when using the windlass.
+ 
+ 
+ 
+ 
+ 
+a) Windlass 
+ 
+ 
+The Super Maramu 2000 has got a 1200 W windlass, working on 24 V. 
+ 
+A switch, called “Guindeau On / Off” in the portside shelf of the forward cabin, disconnect the 
+controls, to avoid that someone who is non-authorised uses it. We advise to switch off this 
+device when its use is not required (during sailing for example). 
+ 
+A screw locks this panel. 
+ 
+ 
+The windlass can be operated from the cockpit at the wheelhouse, or directly from the foot 
+controls on his top. Don’t let the anchor chain go all the way out (if it happens, lift 2 m). 
+Near the cockpit control, is the lever for the anchor wash. Wash the anchor from the 
+beginning to the end of each use. It keeps the chain locker clean. 
+ 
+ 
+Warning : stop the washing pump as soon as the anchor is in place at the bow, because the 
+anchor may obstruct the outlet. 
+ 
+ 
+--- pagina 88 ---
+ 
+ User’s guide 1-76 
+ 
+ 
+Picture 85 – Windlass’ controls 
+ 
+ 
+ 
+ 
+Picture 86 – Windlass 
+ 
+ 
+Here is a simplified manual of the windlass : 
+ 
+It can be released, unscrewing the wing nut at starboard ; the gipsy is now free. You can let 
+go the anchor free (be careful not to let it go completely !). 
+ 
+Furthermore, if the windlass is broken, the chain can be pulled up by hand : fit the crank 
+handle in the portside wheel. 
+Chain counter 
+Foot controls 
+Windlass’
+controls 
+Anchor wash 
+--- pagina 89 ---
+ 
+User’s guide 1-77
+The fitting on the bow of the Super Maramu 2000 is designed for 2 anchors. It has got an 
+auxiliary wheel (in he middle) too. 
+To fit or to remove an anchor in the fitting : 
+- unscrew the screw bolt on the wished board, 
+- turn the stainless steel arm, 
+- fit (or remove) the anchor, 
+- replace the screw. 
+ 
+ 
+ 
+ 
+ 
+Picture 87 – Fitting for 2 anchors 
+ 
+ 
+ 
+ 
+ 
+ 
+Eye screw 
+--- pagina 90 ---
+ 
+ User’s guide 1-78 
+b) Chain locker 
+ 
+In the shelf, starboard to the bow thruster, a tight door allows access to the chain locker. 
+A clinch links the chain and the boat. This rope is fastened on an eye-bolt. 
+If needed, let go wholly the anchor and cut the clinch (see Picture 90 – Clinch). 
+ 
+ 
+ 
+Picture 88 – Tight door if the chain locker 
+ 
+The chain locker is watertight. The gravity drain goes to the sump. A stop cock under the 
+bow thruster stops this flow. 
+ 
+ 
+ 
+Picture 89– Drain stop cock (photographed closed) 
+ 
+Stop cock 
+of chain 
+locker 
+Stop cock of 
+bow thruster 
+Flatness of air 
+conditioning 
+--- pagina 91 ---
+ 
+User’s guide 1-79
+ 
+ 
+Picture 90 – Clinch 
+ 
+ 
+ 
+ 
+ 
+c) Chain counter 
+ 
+ 
+ 
+A chain counter (with inductive sensor) is mounted on the windlass. His precision is approx. 
+10%. 
+ 
+The chain length (in meters) is given by a LCD display in the cockpit (see Picture 85 – 
+Windlass’ controls). It can be zeroed by pushing on “Z”. 
+ 
+ 
+ 
+ 
+Clinch 
+--- pagina 92 ---
+ 
+ User’s guide 1-80 
+1.4.9 Electronic equipment 
+ 
+ 
+The standard equipment of the Super Maramu 2000 includes many sailing instruments and 
+security electronic equipment. They are at the chart table. 
+Refer to each own manual for further details and functions description. 
+ 
+ 
+The racks in which are installed the electronic equipment are removable, unscrewing the 
+wheels underneath. 
+ 
+ 
+ 
+ 
+Picture 91 – Chart table 
+ 
+ 
+ 
+ 
+A few electronics devices work on 12 V. It comes from the 24/12 V transformer located under 
+the chart table, in an aired shelf. 
+ 
+ 
+ 
+Behind the devices is a way kept for the further installation of a SSB if the boat isn’t 
+equipped with. Refer to 1.1.3 for information about the ground circuit. 
+ 
+ 
+ 
+Wheel 
+--- pagina 93 ---
+ 
+User’s guide 1-81
+ 
+ 
+Picture 92 – Lifting the chart table 
+ 
+Hook 
+Way kept for the 
+SSB wires 
+--- pagina 94 ---
+ 
+ User’s guide 1-82 
+a) Automatic pilot 
+ 
+ 
+In the aft cabin is the linear driving unit of the automatic pilot (see Picture 10 – Rudder stock 
+and automatic pilot linear driving unit). 
+Accessing to the automatic pilot’s calculator is possible from the galley, above the sink. 
+ 
+ 
+ 
+ 
+ 
+ 
+Picture 93 – Automatic pilot’s calculator of the steering wheel 
+ 
+ 
+ 
+ 
+Remark :  accessing to rack gearing of the steering wheel the is possible from the galley, 
+above the sink. 
+ 
+In the portside corner, behind the dinette seat back bench, is the Fluxgate compass of the 
+automatic pilot. 
+ 
+Don’t stock any metallic object (especially in the toilets) within a radius of 50 cm 
+(approx. 20 in), because it may disturb the automatic pilot. 
+ 
+ 
+Rack gearing of 
+the steering 
+wheel 
+--- pagina 95 ---
+ 
+User’s guide 1-83
+ 
+ 
+Picture 94 – Fluxgate compass 
+ 
+ 
+ 
+b) Sonic Speed speedometer 
+ 
+Each sensor of the Sonic Speed speedometer are under the floating waterline on the hull. 
+The speedometer’s calculator is in the shelf at the front of the saloon’s berth (under the wood 
+bar in case of damage). Wires of these sensors are one under the traps and one behind the 
+back of the front berth in the saloon. 
+ 
+ 
+ 
+ 
+Picture 95 – Sonic Speed calculator 
+Fluxgate
+compass
+Air conditioning 
+outlet 
+--- pagina 96 ---
+ 
+ User’s guide 1-84 
+c) Miscellaneous 
+ 
+ 
+ 
+The GPS’ antenna is mounted on portside aft of the stainless steel guard-rail. 
+ 
+ 
+ 
+Picture 96 – GPS’ antenna 
+ 
+ 
+ 
+As standard, the triatic stay is electrically isolated, to become an antenna if an equipment is 
+added. 
+ 
+ 
+ 
+ 
+ 
+DANGER !  Read carefully the electronic equipment’s 
+manuals before use and sail. They content warnings 
+concerning your own safety while operating and doing 
+maintenance. 
+Any maintenance work on mechanical or electrical parts 
+on these devices should be done by skilled workers, 
+using appropriate tools and protections. 
+ 
+ 
+ 
+--- pagina 97 ---
+ 
+User’s guide 2-1
+2 Check-list 
+2.1 Arrival on the boat 
+ 
+At the harbour, when arriving on the boat, proceed to a general inspection of different 
+elements and of all the bilges (the 1
+st person who goes in the saloon must be very careful, 
+because some of the floor boards can be open). 
+ 
+Then, do the following operations : 
+- open the seawater inlet, 
+- switch on the batteries circuit breakers (“ Marche”), 
+- check all the oil and cooling liquid levels, 
+- check the filling of the diesel fuel tank, 
+- check the batteries’ charge level,  
+- connect the boat to shore power, 
+- check the batteries chargers are in function, 
+- disconnect the engine’s anti-theft device, 
+- run the main engine and the generator if needed, having a look on the exhaust, 
+- connect all that was disconnected for the departure, 
+- check the electronic and sailing equipment are usable, 
+- check the convenience equipment are ready for use, 
+- rinse the toilets before use. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.2 Taking to the open sea 
+ 
+For a safe sail, check a few points :  
+- check the filling of the tanks (fresh water, gas-oil, gas, …), 
+- check the oil levels, 
+- check the times of the next oil changing, 
+- set the sails,  
+- check the release of the jib furling motor and of the mainsail furling system, 
+- check the furling systems, 
+- remove the bow thruster’s pin (don’t forget to resecure it in open sea), 
+- check the bow thruster is usable, 
+- check the windlass use, and by hand too, 
+- be sure the electrical winches are usable, 
+- be sure the mainsail electrical clew can run, 
+- check that all the safety equipment are on board and can be use (using the law), 
+- don’t forget to disconnect the shore power. 
+ 
+ 
+ 
+ 
+Remark : in case of day or coastal sailings, 400 litres of fuel and 400 litres of freshwater can 
+be sufficient, in order to increase the boat’s performances under sails. 
+--- pagina 98 ---
+ 
+ User’s guide 2-2 
+2.3 Arrival at the harbour 
+ 
+ 
+If the boat will be uninhabited for a few weeks, do the following instructions : 
+- furl the sails, 
+- ease off the halyards for the jib, mainsail and mizzen, 
+- release the leach lines for the jib, mainsail and mizzen, 
+- put the jib in his sailbag, 
+- set the pin of the mizzen, 
+- put the plastic protections on the wheel house’s equipment, 
+- check the boat is well berthed, 
+- put out fenders, 
+- rinse with fresh water all the parts of the masts and equipment close to the 
+bottom (furling systems, windlass, winches, …), 
+- rinse the desalinator with fresh water, 
+- set the bow thruster pin, 
+- block up the deck hatches and the aft cabin hatch (setting the pin like on 
+the next pictures), 
+ 
+ 
+ 
+ 
+ 
+Picture 97 – Blocking up a deck hatch 
+ 
+ 
+--- pagina 99 ---
+ 
+User’s guide 2-3
+ 
+ 
+Picture 98 – Blocking up the aft cabin hatch 
+ 
+ 
+- clear out the sump, using the bilge pump and finish with the manual one, 
+- switch off the 220 V and bring the shore power cable on board, 
+- close and block up the lockers and covers, 
+- switch off all the electric equipment separately, 
+- fill in the fresh water tank, 
+- switch the batteries circuit breakers on “Arrêt”, 
+- the batteries’ compartment must remain closed, 
+- set the anti-theft device, 
+- lift the mattress which recently people had sleep on, 
+- open the doors of all the convenience equipment (refrigerator, deep freezer, dish 
+washer, clothes washer / dryer),  
+- shut off the seawater intake, 
+- always set the watertight doors and close the associated seacocks, when 
+you are in a harbour, mooring (on a mooring buoy or with the anchor) or in 
+open sea, and especially in dangerous areas (storm, hurricanes, …),  
+- block up the engine room’s cover, 
+- open the bottom traps, 
+- close and block up the companionway’s door. 
+ 
+ 
+ 
+--- pagina 100 ---
+ 
+ User’s guide 2-4 
+2.4 Winter service 
+2.4.1 Sails 
+ 
+- lower the jib and store it inside of the boat, 
+- furl the mainsail and the mizzen in the masts, unlock their clews, 
+- store the ballooner and the mizzen ballooner inside of the boat. 
+ 
+ 
+ 
+2.4.2 Deck 
+ 
+Clean and rinse the deck with fresh water, to remove all the salt, especially near the jib 
+furling motor, windlass, mainsail, winches and GPS antenna. Be insistent on the lower parts 
+of the masts. 
+ 
+ 
+ 
+2.4.3 Fresh water 
+ 
+- drain the fresh water pump, 
+- blow off the hot water heater, 
+- open all the taps and mixer taps (don’t forget the cockpit shower), 
+- open the desalinator’s tap in the galley, 
+- if the boat is left out of the water, pour out 0.2 l (approx. 0,05 Imperial Gallons) of 
+bleach in the fresh water tank, and then drain, 
+- drain and clean the sump, 
+- drain the electric and manual bilge pump, 
+- pour out 2 litres (approx. 0.5 Imperial Gallons, 0.6 U.S. Gallons) of antifreeze in 
+each toilets, pump until it disappears. 
+ 
+ 
+ 
+ 
+2.4.4 Bow thruster 
+ 
+Take down and drain every 2 years. Refill with 0,3 l (approx. 0,066 Imperial Gallons) of SAE 
+90 oil. 
+ 
+ 
+ 
+2.4.5 AMEL transmission 
+ 
+- drain and replace the propeller shaft bush and gaskets every 2 years or 800 
+hours, 
+- after a long stay in sea without sailing, operate the engine and reverse 
+immediately in astern. Do this several times to clean the propeller’s blades which 
+can be full of seaweed and marine growth, 
+- grease the propeller’s ball bearings each haulout. 
+ 
+ 
+ 
+ 
+--- pagina 101 ---
+ 
+User’s guide 2-5
+2.4.6 Main engine and generator 
+Drain the seawater circuits, and fill them up with fresh water (or antifreeze if needed) : 
+- shut off the seawater intake,  
+- open the filter’s cap,  
+- throw fresh water into the tank of the filter (using a pipe for example), 
+- run the engine and the generator during 1 minute.  
+- refer to the manufacturer’s manual for further details. 
+ 
+ 
+ 
+ 
+2.5 Leaving for a long trip 
+ 
+Before leaving for a long trip, many operations must be done, concerning miscellaneous 
+fields, for example : 
+- mechanics, 
+- electricity, 
+- polyester, 
+- ship’s and crew’s papers (certificate of registry, marine insurance, …), 
+- health and hygiene, 
+- sails, 
+- safety equipment, 
+- clothes adapted to conditions, 
+- manufacturers’ documentation, 
+- … 
+ 
+ 
+Be sure that for each field, are on board : 
+- tools (hammer, wrench, spanner, screwdriver, knife, marlin spike, pliers, wire 
+cutters, multimeter, …), 
+- components and spare parts (filters, preheating plugs for the generator, pumps, 
+driving belt, sail cloth, sewing kit, …), 
+- furniture (screws, nuts, gaskets, washers, rings, deck fittings, electric wires, 
+cable terminals, greases, oils, …), 
+- first aid box, vaccines, hypodermic syringe,… 
+- electric torch, dry batteries, 
+- chart at a well detailed scale, 
+- extinguishers, 
+- gas bottles, 
+- catalyst, glass cloth, gelcoat, … 
+- … 
+ 
+ 
+ 
+Before leaving, check that all the cleanings, replacements, oil changing and services have 
+been done, and that the next intervention will not be during the trip or the next month (in this 
+case, do it before). Plan if necessary to do some maintenance during sailing. Check all the 
+mechanic equipment (main engine, generator, bow thruster, AMEL transmission, …) and 
+electrical (pumps, desalinator, hot water heater, chargers, batteries, air conditioning system, 
+convenience appliances, …). 
+Check all the sailing help and security electronic equipment. 
+ 
+ 
+Do a complete haulout of the boat, and a close inspection of the hull and the deck. 
+ 
+ 
+Of course, this list isn’t an exhaustive one : 
+nothing can take over from your own experience ! 
+--- pagina 102 ---
+
+--- pagina 103 ---
+ 
+User’s guide 3-1
+3 Maintenance 
+3.1 Hull 
+ 
+Warning : the Chantiers AMEL advise that any repairs on the fiberglass hull of the Super 
+Maramu 2000 should be done by skilled workers, able to maintain and repair that kind of 
+material. 
+ 
+Using abrasive and / or corrosive products and equipment (harsh detergent, stiff brushes, …) 
+is forbidden. 
+ 
+Using a high pressure water machine is not advised, unless regarding the following 
+instructions :  
+- the distance between the hull and the pipe must be at least 20 cm (approx. 8 in), 
+- the stream’s pressure must not exceed 80 bars (approx. 1130 PSI), 
+- never add any abrasive (sand,..) to the stream, 
+- don’t use the stream perpendicularly to the hull, but at 45° only. 
+ 
+ 
+ 
+ 
+ 
+To maintain the hull above the floating waterline :  
+c put the boat out of the water, lifting it by the U-bolts forward and aft. Use 4 slings 
+of at least 6 m (approx. 20 feet) long each, taking care to make longer the 
+outside strands of the crane of a shackle length (to avoid the spring stay will 
+damaged by the crane’s hook). As the boat is out of the water, it can stand on 
+his ballast, but we STRONGLY recommend that screwstands be employed. 
+ 
+ 
+ 
+ 
+ 
+ 
+Picture 99 – Forward lift U-bolt 
+ 
+--- pagina 104 ---
+ 
+ User’s guide 3-2 
+ 
+ 
+Picture 100 – Aft lift U-bolt 
+ 
+ 
+ 
+Remark : the boat can be lift with adapted straps under the hull. 
+ 
+Take care not to damage the propelling system and the rudder, like the electronic sensors 
+(depth-sounder and Sonic Speed, …). 
+ 
+d switch off all the electric power supply (especially the bow thruster and the main 
+engine start). 
+e switch off the bilge pump, 
+f clean with non-abrasive sponge and fresh water (if necessary with soapy water) 
+all the parts, seacocks and appendixes of the boat’s hull. 
+g let dry. 
+ 
+To maintain the hull below the floating waterline :  
+c put the boat out of the water. 
+d switch off all the electric power supply (especially the bow thruster). 
+e switch off the bilge pump. 
+f clean with non-abrasive sponge and fresh water (if necessary with soapy water) 
+all the parts, seacocks and appendixes of the boat’s hull : 
+- ballast, 
+- skeg, 
+- rudder, 
+- propeller shaft, 
+- ground plates, 
+- sacrificial zinc anodes (if they have been changed this year), 
+- Sonic Speed, 
+- seacocks and scuppers. 
+g if some shells are stay on the hull, don’t use the high pressure machine but a 
+spatula. 
+h release the sacrificial zinc anodes, and replace by an equivalent model ; if they 
+are not eaten away, check the electrical continuity. 
+i apply an hard antifouling painting system (not a eroding one) on the hull and the 
+bow thruster’s foot. Don’t paint : 
+--- pagina 105 ---
+ 
+User’s guide 3-3
+- Sonic Speed sensors, 
+- ground plates, 
+- zinc anodes. 
+j apply on the propeller’s blades, after cleaning and greasing with silicon of the 
+rotating parts, an adapted primer, and then the antifouling painting system. 
+k let dry following the instructions of the manufacturer’s of the antifouling, before 
+launch. 
+ 
+ 
+Remark :  before putting the boat in the sea and removing the lifting system, be sure no 
+water is entering in the bilges. 
+ 
+ 
+ 
+ 
+ 
+3.2 Deck 
+ 
+ 
+Warning : the Chantiers AMEL advise that any repairs on the fiberglass hull of the Super 
+Maramu 2000 should be done by skilled workers, able to maintain and repair that kind of 
+material. 
+ 
+Using abrasive and / or corrosive products and equipment (harsh detergent, stiff brushes, …) 
+is forbidden. 
+ 
+Using a high pressure water machine is not advised, unless regarding the following 
+instructions :  
+- the distance between the hull and the pipe must be at least 20 cm (approx. 8 in), 
+- the stream’s pressure must not exceed 80 bars (approx. 1130 PSI), 
+- never add any abrasive (sand,..) to the stream, 
+- don’t use the stream perpendicularly to the hull, but at 45°. 
+ 
+If possible, clean with fresh water (if necessary with soapy water) after each navigation. To 
+avoid the salt deposits, be insistent on : 
+- lower parts of the masts, 
+- blocks, 
+- furling systems, 
+- windlass. 
+ 
+ 
+ 
+ 
+ 
+3.3 Wood 
+ 
+On the varnished wood, never use aggressive products (trichlorethlyene, acetone, alcohol, 
+…). Prefer product for glass, with a little quantity in alcohol, or some vinegary water or soapy 
+water. 
+ 
+About the teak, apply some Teac oil (rub down before if it had turned green). 
+ 
+ 
+--- pagina 106 ---
+ 
+ User’s guide 3-4 
+3.4 Batteries 
+ 
+Batteries don’t need any maintenance. Don’t refill with water (or another liquid) in the battery. 
+ 
+If accidentally a battery is completely discharged, it will be very difficult (and maybe 
+impossible) to charge it. Disconnect all the batteries from each other and from the boat. Then 
+charge individually each one with a charger who delivers 14 to 16 V with a current of 10 to 
+20 A. Don’t let the batteries alone! It’s a very long and approximate work, and sometimes 
+you need to replace all the batteries. If you replace the “lead – calcium” batteries by another 
+type, you have to check selectors inside each battery charger. Positions of the selectors 
+must imperatively correspond with electrical specifications of batteries. 
+ 
+The type of battery we choose is a simple one. He has got stainless steel terminals, easier to 
+connect. Furthermore, they don’t need any maintenance, are available everywhere, and can 
+operate a consumer of 500 A (bow thruster) or mA (electronic equipment). 
+ 
+Environment protection : lead-acid batteries can be recycled. They must be collected 
+separately. Give them to an agreed company. 
+ 
+ 
+ 
+3.5 Main engine and AMEL transmission 
+ 
+ 
+ 
+DANGER ! User's manuals for the main engine and the 
+hydraulic gearbox content safety warnings that must be 
+respected. Refer to these manuals before use. 
+Before any work, check that the power supply is 
+switched off, and stop the gas-oil delivery. 
+Disconnect the positive wire (red) of the starting battery 
+in the batteries compartment, to avoid any movement of 
+the propeller. 
+Any mechanic or electrical work should be done by 
+skilled staff, using appropriate tools and equipment. 
+ 
+ 
+ 
+3.5.1 Main engine 
+ 
+Refer to the manufacturer’s manual, section “Maintenance and inspection” for further details. 
+To drain the air in the gas-oil circuit, refer to the manufacturer’s manual, section “Operating”. 
+ 
+On the top of the engine are the filling oil cap and the gauge. Don’t fill above the max. level. 
+On portside is a pump to drain oil : fit the outlet hose of this pump in a jerry-can, and pump. 
+During the draining, replace the oil filter. 
+ 
+The gearbox is on the front of the engine and contains 2 l (approx. 0.5 Imperial Gallons, 0.6 
+U.S.  Gallons) of ATF (Automatic Transmission Fluid). The gauge is underneath the filling 
+cap. Don’t fill above the max. level. 
+ 
+--- pagina 107 ---
+ 
+User’s guide 3-5
+Every 200 hours, or every year : 
+- change main engine’s oil, 
+- change oil filter, 
+- change gas-oil filter, 
+- change gearbox’s oil, 
+- check the seawater pump’s turbine. 
+ 
+ 
+Checking the seawater pump, if some rubber blades are missing, of course replace them, 
+and search the pieces of the missing blades which can be blocked at the entrance of the 
+temperature exchanger. All missing blades must be found and removed. 
+ 
+ 
+ 
+ 
+3.5.2 Transmission 
+ 
+Maintaining the transmission has to be done during the haulout, when the boat is out of the 
+water. 
+Every 2 years, or 800 hours of engine, replace : 
+- oil, 
+- propeller shaft bushing. 
+ 
+This system contains 8 litres (approx. 1,76 Imperial Gallons, 2.1 U.S. Gallons) of diesel 
+engine‘s oil 15 W 40. 
+To replace the propeller shaft bushing and his gaskets : 
+- drain oil, 
+- remove the propeller, 
+- remove the shaft bushing, 
+- replace it (available at Chantiers AMEL for sale), 
+- replace the gaskets, 
+- put together again. 
+ 
+Deoxidize and degrease the hydraulic brake wheel. 
+ 
+ 
+ 
+ 
+ 
+ 
+--- pagina 108 ---
+ 
+ User’s guide 3-6 
+3.5.3 Propeller 
+ 
+ 
+DANGER ! Before any release, be sure the main engine 
+is switched off, and stop the gas-oil delivery. 
+For safety reasons, check this appliance by skilled 
+workers. 
+Any mechanic or electrical work should be done by 
+skilled staff, using appropriate tools and equipment. 
+  
+ 
+ 
+Inspect the propeller (cover, antifouling, blades, …) each time the boat is put out of the 
+water, but at least once a year. A damaged blade can be replaced separately from the 
+others. 
+ 
+While the boat is out of the water, grease the free rotation system of each blade. Use 
+waterproof and corrosion resistant grease : 
+- remove the pan heads screws from the grease channel on the blade, 
+- fit the grease nipple by screwing it into the grease channel on the blade and 
+connect to the grease gun, 
+- remove the grease exit screw in the retaining cap, 
+- your hub can now be applied with the grease. Pump the gun until the new 
+grease pushes through the grease exit hole. You may need to rotate the blade, 
+working the new grease around the bearing, 
+- clean any excess grease from the retaining cap and replace the pan head screw 
+with the O-ring, 
+- remove the grease nipple and clean the excess grease and replace the grease 
+channel screw, 
+- ensure that all three blades are greased as per instructions. 
+--- pagina 109 ---
+ 
+User’s guide 3-7
+If necessary, the removal of the AUTOPROP must be done as follow :  
+- remove the plastic nose cone by removing the screws, 
+- unscrew the shaft nut locking screw until it is clear of the shaft nut, 
+- unscrew the shaft nut remembering whether it has a right or left hand thread, 
+- you can now use your three legged puller to remove your AUTOPROP from the 
+shaft. With the extractor, screw the extractor plate on to the end of the propeller 
+boss using the socket head screws provided. Screw in the jacking screw and 
+tighten until the AUTOPROP loosens on the taper, and remove from the shaft, 
+- tape the key onto the shaft, or remove and keep in a safe place. 
+ 
+Reminder: cleaning regularly the propeller’s blades is important to obtain higher efficiency 
+and avoid higher gas-oil consumption. 
+ 
+Remark: if there are not so much dirty marks, it’s authorized to use the forward position and 
+afterwards the reverse position at high rpm. But it is always necessary to maintain each year 
+the propeller.   
+ 
+About the spare propeller :  it must be fitted with all the accessories given (nut and lock 
+nut). 
+ 
+ 
+3.6 Generator 
+ 
+ 
+ 
+DANGER !  Read carefully the generator’s  manual 
+before use. It contains warnings concerning your own 
+safety while operating and doing maintenance. 
+Any maintenance work on mechanical or electrical parts 
+of the generator should be done by skilled workers, 
+using appropriate tools and protections. 
+The very hot oil of the cover may causes some severe 
+burns on the skin. Wear adapted equipment, protecting 
+the whole body. 
+ 
+ 
+ 
+3.6.1 Fluids 
+a) Oil 
+ 
+There are 2 different holes for the oil refill. Both can be used. To change the oil, remove the 
+cap of the blue hose, and introduce it into a jerrycan. The gravity drain goes easier if the 
+engine is heaten (be careful : oil projections can cause severe damages. Wear special 
+equipment. 
+ 
+During the oil changing, replace the oil filter too. 
+ 
+To know the maintenance occurrences, and the way to do it, refer to the manufacturer’s 
+manual, section “Maintenance”. 
+ 
+ 
+Environment protection : wasted oil must be collected separately. Give it to an agreed 
+company. 
+--- pagina 110 ---
+ 
+ User’s guide 3-8 
+b) Cooling liquid 
+ 
+To know the maintenance occurrences, and the way to do it, refer to the manufacturer’s 
+manual, section “Maintenance”. 
+ 
+ 
+ 
+c) Gas-oil 
+ 
+To know the characteristics of this element, refer to the manufacturer’s manual, section 
+“Maintenance”. 
+ 
+ 
+ 
+ 
+ 
+3.6.2 Other components 
+ 
+The manufacturer’s manual, section “Maintenance”, gives some information about : 
+- components location, 
+- inspection, 
+- electric circuits, 
+- transmission belts, 
+- filters, 
+- exchangers, 
+- alternative current generator. 
+ 
+ 
+ 
+ 
+ 
+ 
+3.7 Fuel tank and fuel filter / water separator  
+ 
+The tank can be inspected using 2 hatches (see Picture 49 – Top of the tank) to clean it. 
+ 
+The decanting part of the filter can be drained : if some water is at the bottom of the 
+Plexiglas cap, unscrew the wheel and clean it. 
+Replace the filtering cartridge every 500 hours (main engine hours and generator hours), or 
+every year, with an equivalent one (30 microns). 
+ 
+ 
+ 
+--- pagina 111 ---
+ 
+User’s guide 3-9
+3.8 Bow thruster 
+ 
+ 
+ 
+DANGER ! Any electrical work should be done by skilled 
+staff, aware of safety rules and procedures, and 
+equipped with appropriate tools and protective 
+equipment. 
+Read carefully electric drawings before proceeding any 
+repair. 
+Before operating the bow thruster, make sure that 
+nobody swims or dive nearby, and that no litter 
+floats around the propeller. 
+Any maintenance on the bow thruster should be done in 
+a harbour. 
+ 
+ 
+ 
+When the bow thruster is in the down position, watertightness is made with a rubber joint, 
+compressed with the weight of the motor. If the pin is easier to fit, it means the system need 
+to be tight a little bit, with the locknut under the covering. 
+ 
+Every 2 years, remove the bow thruster’s foot to change oil and apply an antifouling painting 
+system inside the well and on the foot. 
+ 
+0,3 l (approx. 0,066 Imperial Gallons) of S.A.E 90 oil are contained in the bow thruster. 
+Remove the stainless steel ring at the basis of the motor in the forward cabin, and unscrew 
+the four 8 x 40 screws. 
+ 
+Before removing the last screw, someone must stand under the hull to catch the bow 
+thruster’s foot. 
+ 
+Turn over this assembly, to empty it from its oil. Let it drain during an hour. If the oil contains 
+a lot of water, replace the lip joint. Then, turn the foot to its normal position and refill from the 
+top with 0,3 litres (approx. 0.066 Imperial Gallons, 0.080 U.S. Gallons) oil. Replace foam 
+joints located inside the bow thruster in order to assure water tightness when the bow 
+thruster is up. 
+ 
+Fit the foot and block it with the 4 screws, new braking washers and the clamping ring.  
+ 
+A few grease at the base of the motor will make easier the next removal. 
+ 
+ 
+ 
+3.9 Sails and furling systems 
+3.9.1 Sails 
+ 
+If the sail is wet, let it dry before store it into his bag. 
+For the ballooner and the mizzen ballooner (which are made of nylon), it’s better to put them 
+in the bag, without furling them. 
+At the end of the nice season, rinse all the sails with fresh water to clean them from salt. 
+After 3 or 4 years of use, they must be cleaned with soap and water, and completely 
+checked by a professional. 
+ 
+ 
+a) Iron stain 
+- use a 5 to 10 % hydrochloric acid solution, 
+--- pagina 112 ---
+ 
+ User’s guide 3-10 
+- use a ammonium fluoride solution (like PANAMAX). 
+b) Blood 
+- if it is fresh, wash with cold fresh water, 
+- if it is dry, steep it in cold fresh water mixed a few bleach. 
+ 
+ 
+c) Hydrocarbon 
+Cut the cleaning as follow : 
+- let it soak with a fatty element,  
+- degrease with trichlorethlyene, 
+- wash with soap, 
+- rinse with fresh water. 
+ 
+ 
+d) Paint  
+For the paint stains, use the solvent specified on the painting.  
+ 
+ 
+ 
+e) Fatty elements 
+Use some trichlorethlyene. 
+ 
+ 
+f) Mould 
+For this type of stains : 
+- wash with soap and bleach, 
+- if the stains persists, use some sodium carbonate, but the greatest care must be 
+taken with it ! 
+ 
+3.9.2 Furling systems 
+ 
+ 
+ 
+DANGER !  Don't let fingers, hair clothes or ties touch 
+the winches during operation. The rotating parts may 
+cause severe injuries. Before operation, make sure no 
+tool or towel is lying on the winch.  
+Don't leave children unattended while operating the 
+winches. 
+For safety reasons, have these equipment checked by 
+skilled staff. 
+Any electrical or mechanic work should be done by 
+skilled staff, using appropriate tools and protective gear. 
+ 
+ 
+ 
+Always rinse with fresh water the motor’s covers as they have been exposed to seawater. 
+ 
+The jib furling system don’t need any maintenance. Check the clutch pin is sufficiently 
+greased. 
+ 
+Check before each navigation that all the releases of the furling systems (jib, mainsail and 
+clew) can work, and train to release them. 
+Check and clean if needed the brushes of the mast and boom every 2 years. Don’ forget to 
+make them watertight again. 
+ 
+--- pagina 113 ---
+ 
+User’s guide 3-11
+3.10 Convenience equipment 
+3.10.1 Refrigerator 
+Regularly, check the air intake of this appliance isn’t obstructed by any object. 
+ 
+The release of the refrigerator is possible unscrewing 2 wheels : 
+- lift the bottom trap in front of the companionway. The wheel is in front of the 
+refrigerator, portside forward. Unscrew it and remove the front. 
+- the 2
+nd wheel is underneath the sink, in the top of the cupboard. 
+After unscrewed these 2 wheels, disconnect the power supply (green wire and white wire at 
+the bottom), pull the refrigerator out of his seating, disconnect the condensation exhaust pipe 
+(copper connection). 
+ 
+3.10.2 Deep freezer 
+ 
+Regularly, check the air intake of this appliance isn’t obstructed by any object. 
+ 
+The AMEL deep freezer requires the same maintenance as a domestic one. Don’t use 
+abrasive products, neither steel tools. Prefer plastic or wooden tools. Don’t cut the little 
+channel of freezing gas. 
+ 
+3.10.3 Clothes washer / dryer 
+ 
+Before remove it, take care to turn off the fresh water stop cock under the sink. Switch off its 
+power supply on the 220 V panel too. 
+ 
+ 
+ 
+Picture 101 – Fresh water intakes stop cocks for the clothes washer / dryer 
+and dish washer (photographed open) 
+Fresh water intake 
+for the clothes 
+washer / dryer 
+Fresh water intake 
+for the dish washer 
+--- pagina 114 ---
+ 
+ User’s guide 3-12 
+ 
+Don’t forget to disconnect the 220 V power supply of the clothes washer / dryer : pass by the 
+bar on the right. 
+Then unscrew the 2 bolts on the front of the appliance. So the corner can be removed from 
+the assembly. 
+ 
+ 
+ 
+Picture 102 – Removal of the clothes washer / dryer 
+ 
+ 
+Pull the handcraft and set the 4 wheels. Then, disconnect the fresh water intake and wasted 
+water outlet pipes. 
+ 
+ 
+ 
+3.10.4 Dish washer 
+Before remove the dish washer, the wooden front must be lift by unscrewing the 2 screws on 
+the top, just above the dish washer (see Picture 101 – Fresh water intakes stop cocks for the 
+clothes washer / dryer ). After that you also have to shut off the fresh water intake and to 
+disconnect it. To end, slide the dish washer and disconnect its power supply and draining 
+pipe witch is connected at the sink pipe.  
+ 
+ 
+3.10.5 Microwave oven 
+ 
+The microwave oven is can’t go higher using a steel belt. She’s removable unscrewing 2 
+wheels, forward and aft. Lift lightly to remove. 
+Bolts to unscrew 
+--- pagina 115 ---
+ 
+User’s guide 3-13
+3.10.6 Gas stove and oven 
+ 
+ 
+Before any removal, switch off the electrical gas shut-off on the 24 V panel. Switch off the 
+pressure reducer on each gas bottle too. The gas stove and oven is removable unscrewing 
+the 2 rocking screws forward and aft. 
+ 
+There is, above the gas stove and oven, the ventilation’s filter. It must be inspected regularly, 
+and replaced if needed. The filter can be removed unscrewing 2 wheels, forward and aft. 
+ 
+ 
+ 
+DANGER ! Read carefully the convenience equipment’s 
+manuals before use and sail. They content warnings 
+concerning your own safety while operating and doing 
+maintenance. 
+Any maintenance work on mechanical or electrical parts 
+on these devices should be done by skilled workers, 
+using appropriate tools and protections. 
+  
+ 
+ 
+ 
+ 
+3.11 Toilets 
+ 
+ 
+DANGER !  Read carefully the toilets’ manual before 
+use. It contains warnings concerning your own safety 
+while operating and doing maintenance. 
+Any maintenance work on mechanical or electrical parts 
+on this device should be done by skilled workers, using 
+appropriate tools and protections. 
+ 
+ 
+Toilets don’t need any particular maintenance, except a regular and classical one. Don’t use 
+abrasive or aggressive products (deodorant and household cleaning materials, like pine for 
+example). 
+ 
+If the boat was unoccupied for a long time, rinse them with fresh water before use (use the 
+shower head). 
+ 
+The pump’s diaphragm must be replaced if there are some leaks or water lack, or if it doesn’t 
+work anymore. A suction box’s cleaning can be done if the suction doesn’t work. 
+ 
+The manufacturer’s manual gives some detailed information about maintenance of this 
+device. 
+Holding tanks can be rinsed with a mix of fresh water and bleach. 
+--- pagina 116 ---
+ 
+ User’s guide 3-14 
+ 
+3.12 Water circuits 
+ 
+If the boat will not be used for a long time, the followings seawater circuits have to be flushed 
+with fresh water (or fresh water and antifreeze) : 
+- main engine, 
+- generator, 
+- toilets, 
+- anchor wash, 
+- air conditioning, 
+For the maintenance at long term of this appliance, refer to the manufacturer’s manual, 
+section “Maintenance”. 
+ 
+ 
+ 
+3.12.1 Sump 
+ 
+The sump’s cleaning must be done after a long time of inactivity of the boat, and at least 
+yearly. 
+The PVC pipe can be removed : 
+- disconnect the switch’s wires, 
+- release the PVC pipe from its seating and take it from the top, 
+- release the suction pipes. 
+ 
+ 
+Then, with a brush, clean the PVC and suction pipes, and sump too. 
+As doing this, clean strum box of the bilge pump. 
+ 
+ 
+ 
+ 
+3.12.2 Air conditioning and heating system 
+ 
+ 
+  
+DANGER ! Read carefully the air conditioning’s manual 
+before use. It contains warnings concerning your own 
+safety while operating and doing maintenance. 
+Any maintenance work on mechanical or electrical parts 
+on this device should be done by skilled workers, using 
+appropriate tools and protections. 
+ 
+ 
+ 
+The manufacturer’s manual gives information about normal and exceptional maintenance 
+that must be done on the air conditioning systems. Nevertheless, remove the dust from the 
+devices, and clean (or replace) the air filters. In case of freezing, drain (like written in the 
+manufacturer’s manual, section “Maintenance”) the cooling water circuit, or add an antifreeze 
+liquid. 
+--- pagina 117 ---
+ 
+User’s guide 3-15
+3.13 Miscellaneous 
+3.13.1 AMEL steering system 
+ 
+The only maintenance is to tighten the stuffing box nylon nut a sixth of a rev in case of 
+dripping water. There is no need to grease the rudder cables. 
+ 
+ 
+ 
+ 
+3.13.2 Windlass and  anchor chain 
+ 
+Once a year you must : 
+- take apart and grease the gipsy, 
+- flush the anchor chain with fresh water, 
+- check the entire chain, especially the very beginning and the very end. 
+ 
+ 
+Every 5 years, change the oil in the windlass. 
+ 
+ 
+ 
+ 
+ 
+3.13.3 Hot water heater 
+ 
+Every 3 years, depending on the fresh water' s quality, have the tank cleaned, especially to 
+remove the scale. Replace the zinc anode inside. 
+ 
+ 
+--- pagina 118 ---
+ 
+ User’s guide 3-16 
+3.14 Maintenance calendar 
+ 
+Remark : this calendar isn’t exhaustive and is furnished only for information. 
+ 
+Periodicity Element Action 
+Check the state of charge of the batteries 
+Daily Batteries Check the means of charge of the 
+batteries 
+Check the pressures mini/maxi Fresh water Level of the fresh water tank 
+Clean the seawater filter / grease the 
+cover Seawater 
+Handle of the seacocks 
+Put cleaner in the bilge 
+Weekly 
+Wasted water Check the bilge floating switch 
+Change oil and filters 
+Change pump impeller 
+Check the drive belts 
+Check the general tightening of the bolts 
+Change oil of the gearbox 
+Engine 
+Check the cooling fluid 
+Change oil and filters 
+Change pump impeller 
+Check the drive belt 
+Check the general tightening of the bolts 
+200 hours 
+Generator 
+Check the cooling fluid 
+Engine and generator 
+hours = 500 Gas-oil Change the filter and clean the decant-
+part 
+Masts & booms Rinse with freshwater the masts on 4 m 
+height 
+Check the halyards Rigging Check the sheets 
+Check the tack and top fastening ropes Sheet traveller 
+tracks Check the tightening ropes 
+Rinse with freshwater the sails Sails Dry the sails 
+Put cleaner in the sump 
+After each cruising 
+Plumbing Put vaseline oil in the heads 
+Even if you do not have 200 hours 
+Check the rubber mounts 
+Check the gearbox cooling system 
+Clean the air filter element 
+Engine 
+Drain the fuel primary filter 
+Even if you do not have 200 hours 
+Check the rubber mounts 
+Clean the air filter element 
+Yearly 
+Generator 
+Change the zinc anode 
+--- pagina 119 ---
+ 
+User’s guide 3-17
+Check and clean Propeller Grease with silicone grease 
+Check the voltage balance 
+Invert the batteries and shake them Batteries 
+Grease the terminals 
+Check the oil and water leaks 
+Up / down 
+Check the protections of the switches Bow thruster 
+Check the propeller 
+Pulverize WD 40 on the connections Electrical panels Tighten the connections 
+Change the zinc anodes 
+Check the grounding circuit continuity Electrolysis 
+Check the electric leaks 
+Check the compressors fans Fridge and deep 
+freezer Check the thermostats 
+Check the ventilation 
+Check the seawater circulation Air conditioning 
+ 
+Check the thermostats 
+Clean the through hull fittings Seawater Check the seacocks 
+Change drinking water filter 
+Drain fresh water if freezing temperature Fresh water 
+Check the fresh water tank 
+Clean the sump Wasted water Check the bilge pump flaps 
+Change the filters 
+Clean the quality sensor 
+Sterilization of the membranes 
+Check the pump oil level 
+Desalinator 
+Check the pressure switch 
+Check the turnbuckles terminals 
+Check the tightening of the shrouds Rigging 
+Check the turnbuckles split pins 
+Check the spreaders fastening bolts Masts Check the halyards masthead rollers 
+Check the release system 
+Check the swivel of mainsail, jib, and 
+mizzen 
+Cleaning of the main sail motors 
+Check the carbon brushes for mainsail 
+motors 
+Roller furler 
+Check the switches protection 
+Check the springs 
+Check the catches 
+Check the self-tailing heads 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Yearly 
+Winches 
+Switches protections 
+--- pagina 120 ---
+ 
+ User’s guide 3-18 
+Check the slack on the steering wheel 
+Grease the cables housing knuckle 
+Check the stuffing-box of the stock Rudder 
+Check the rudder stops 
+Check the seal 
+Check the locks Hatches and 
+portholes 
+Greasing the hinges 
+Blocks Clean and check 
+Oil level (SAE 90) 
+Check the chain and the shackles 
+Clean the chain locker 
+Check the gipsy key 
+Check the switches protections 
+Windlass 
+Check the clinch 
+For winter storage take the jib away 
+Check the sewings Sails 
+Check the tack points 
+Descale the taps Plumbing Check and change the WC valves 
+Check the gas hoses 
+Clean and check the gas burner 
+Clean the washing machine soap 
+container 
+Convenience 
+equipment 
+Change the filter of the hood 
+Check the life raft (or more often 
+depending on the law) 
+Check validity of rockets (or more often 
+depending on the law) 
+Yearly 
+Liferaft 
+Check lifebelts and safety harnesses (or 
+more often depending on the law) 
+Drain the AMEL transmission oil (8 l oil 15 
+W 40) 
+Change the shaft bushing and seals (800 
+engine hours) 
+Check the hoses 
+Check the timing belt 
+Engine 
+Change the cooling fluid  
+Change the cooling fluid Generator Check the hoses 
+Change the oil (0,3 l SAE 90) 
+Change the seals 
+Change prop shaft lipseal  Bow thruster 
+Adjust the jack tightening 
+Cleaning of the boiler 
+Change the anode of boiler Fresh water 
+Check the pump turbine 
+Winches Clean and check 
+Check the screws of the tube on the block 
+2 years 
+Jib roller furler Check the release system 
+--- pagina 121 ---
+ 
+User’s guide 3-19
+Generator Cooling liquid 
+Propeller shaft bushing 
+Transmission oil (8 l 15 W 40) Engine 
+Gearbox oil (ATF) 
+4 years 
+Desalinator Change oil 
+5 years Seawater Change the seacocks 
+Engine See the maintenance book for the engine 
+Specific work Generator See the maintenance book for the 
+generator 
+ 
+ 
+ 
+--- pagina 122 ---
+
+--- pagina 123 ---
+ 
+User’s guide 4-1
+4 AMEL all over the world 
+ 
+ 
+Remark :  an identification number is engraved in a stainless steel sheet in the 
+companionway, and underneath the mulding starboard aft. We thank you to give this number 
+for a unequivocally identification of your boat. 
+ 
+Should you face any technical problem or question about the use or maintenance of your 
+Super Maramu 2000, AMEL remains at your disposal to help you wherever in the world: 
+ 
+Atlantic and rest of the world at AMEL La Rochelle : 
+Olivier BEAUTÉ and Christian DUFOURD during the guarantee 
+Jean Yves SELO after its expiry 
+Phone : 05 46 55 17 31 
+Fax : 05 46 45 43 03 
+Email  : amel@amel.fr 
+ 
+Mediterranean area at AMEL Hyères : 
+Michel DAVIET and Vincent ARNAUD 
+Phone : 04 94 57 60 80 
+Fax  : 04 94 57 36 41 
+Email  : amel.med@wanadoo.fr 
+ 
+In Guadeloupe : 
+Laurent COLONNA and Alban LEROY 
+Phone  : 0590 90 85 83 
+Fax  : 0590 90 85 83 
+Email  : amel.caraibes@wanadoo.fr 
+ 
+You can also get in touch with our local agents : 
+ 
+In Croatia, at Dubrovnik:  
+Djivo GJIVIC 
+Téléphone  : +385 (0)20 451 335 
+Email  : gjivic@hotmail.com 
+    djivo.gjivic@du.hinet.hr 
+ 
+In Lisbon / Portugal : 
+Mario SEREIJO 
+Phone  : (351) 21 474 50 35 
+Fax  : (351) 21 474 50 35 
+ 
+In Puerto Calero, on Lanzarote / Canary Islands : 
+Olivier YOUF  
+Phone  : (34) 928 51 59 01 
+Fax  : (34) 928 51 59 01 
+ 
+In Puerto de Mogan on Gran Canaria / Canary Islands : 
+Michel Henri FRAISSE  
+Phone  : (34) 607 18 25 30 
+Fax  : (34) 928 142 978 
+ 
+--- pagina 124 ---
+ 
+ User’s guide 4-2 
+ 
+In El Campello (Alicante), in Spain :  
+NAUTIC ULI – Mr Ulrich WIELAND 
+Phone  : (34) 965 63 51 84 
+Fax  : (34) 965 63 49 94 
+Email  : nautic-uli@ctv.es 
+In Fort Lauderdale / Florida / USA : 
+Ray EATON 
+Phone  : (954) 583 87 62 
+Fax  : (954) 792 88 83  
+ 
+ 
+4.1 After sales  La Rochelle 
+AMEL / La Rochelle takes care of the Atlantic area and the rest of the world. 
+ 
+Contact for the one year warranty period: Mr. Olivier BEAUTE. 
+ 
+Contact after warranty period : Jean-Yves SELO. 
+ 
+Chantiers AMEL 
+16, rue Joseph Cugnot 
+B.P. 15 
+17 182 PERIGNY Cedex / FRANCE 
+Phone : (33) 05 46 55 17 31 
+Fax : (33) 05 46 45 43 03 
+Internet web site : http://www.amel.fr 
+Email : amel@amel.fr 
+ 
+ 
+4.2 After sales Hyères 
+The AMEL base in Hyères takes care of the Mediterranean area. 
+Michel DAVIET and Vincent ARNAUD 
+ 
+Chantiers AMEL 
+Port Saint-Pierre 
+83 400 HYERES 
+Phone : (33) 04 94 57 60 80 
+Fax : (33) 04 94 57 36 41 
+Email : amel.med@wanadoo.fr 
+ 
+ 
+ 
+4.3 After sales Guadeloupe 
+Laurent COLONNA. 
+ 
+Chantiers AMEL 
+Marina Bas du Fort 
+97 110 POINTE-A-PITRE 
+Phone / Fax : (590) 90 85 83 
+Email : amel.caraibes@wanadoo.fr 
+--- pagina 125 ---
+ 
+User’s guide 5-1
+5 Used units – Conversion  
+ 
+Measure Unit Symbol Equivalent to… 
+Electric power intensity / 
+amperage Ampere A - 
+Battery capacity Ampere – hour Ah - 
+Voltage Volt V - 
+Metre m 1,094 yd 
+Nautical mile N mile 1852 m 
+Inch in 0.0254 m = 25.4 mm 
+Feet ft 12 in = 304,8 mm  
+= 0.3048 m 
+Length 
+Yard yd 36 in = 3 ft = 0,9144 m 
+Watt W 0.001341 hp 
+Power 
+Horse-power hp 746 W 
+Electric resistance Ohm Ω - 
+Pascal Pa - 
+Bar bar 100 000 Pa Pressure 
+Pound per square 
+Inch PSI 0.0707 bar  
+= 7070 Pa 
+Kilogram kg - 
+Pound lb. 0.4531 kg Weight 
+Ounce oz 0.02832 kg 
+Litre l -  
+Imperial Gallon  Imp. Gal. 4.546 dm 3 Volume 
+U.S. Gallon US Gal 3.785 dm 3 
+Fahrenheit degrees  °F T(°C) = 0.55 x T (°F) - 32
+Temperature 
+Centigrade degrees  °C T(°F) = 1.8 x T (°C) + 32 
+--- pagina 126 ---
+ 
+ User’s guide 5-2 
+ 
+--- pagina 127 ---
+ 
+User’s guide 6-1
+6 Index 
+ 
+ 
+A 
+abrasive ............................. 3-1, 3-3, 3-11, 3-13 
+air conditioning ............... 1-1, 1-53, 1-56, 1-57, 
+..........1-63, 1-64, 1-65, 1-66, 2-5, 3-14, 3-17 
+air inlet.......................................................1-64 
+air intake ................................. 1-68, 1-69, 3-11 
+alternator ............................................. 1-2, 1-8 
+Ampere........................................................5-1 
+Ampere – hour.............................................5-1 
+anchorage....................................................1-1 
+anode..........................1-5, 1-62, 3-2, 3-3, 3-15 
+antifouling .............................. 3-2, 3-3, 3-6, 3-9 
+anti-siphon system............................... 1-2, 1-8 
+anti-theft device ................................... 2-1, 2-3 
+automatic pilot ..........1-1, 1-4, 1-16, 1-42, 1-82 
+B 
+ballast .................................................. 3-1, 3-2 
+ballooner.............. 1-17, 1-29, 1-30, 1-32, 1-35, 
+.....................1-36, 1-37, 1-38, 1-39, 2-4, 3-9 
+bar ..........................1-44, 1-45, 1-83, 3-12, 5-1 
+batteries.......................1-1, 1-8, 1-74, 2-1, 2-3, 
+....................................... 2-5, 3-4, 3-16, 3-17 
+belts.............................................................3-8 
+berth .............................. 1-10, 1-15, 1-43, 1-83 
+block ..........................................................3-18 
+bolt-rope ....................................................1-36 
+boom............1-25, 1-35, 1-36, 1-37, 3-10, 3-16 
+bow thruster.................. 1-12, 1-13, 1-14, 1-63, 
+...................1-78, 2-1, 2-2, 2-5, 3-2, 3-4, 3-9, 
+..................................................... 3-17, 3-18 
+brushes......................................................3-10 
+bush.............................................................2-4 
+C 
+certificate of registry.....................................2-5 
+chain............1-63, 1-75, 1-76, 1-78, 1-79, 3-15 
+chain counter .............................................1-79 
+chain locker ............................ 1-63, 1-75, 1-78 
+charger ......................................... 1-1, 1-4, 3-4 
+chart table................................. 1-5, 1-80, 1-81 
+circuit .............1-2, 1-3, 1-5, 1-7, 1-8, 1-9, 1-14, 
+.............................................. 1-80, 3-4, 3-14 
+circuit breaker ...................... 1-2, 1-19, 2-1, 2-3 
+clew .............................................................1-4 
+clinch .........................................................1-78 
+clothes washer / dryer.............. 1-67, 1-68, 2-3, 
+..................................................... 3-11, 3-12 
+cockpit ................. 1-11, 1-17, 1-20, 1-21, 1-22, 
+..........1-28, 1-47, 1-59, 1-61, 1-75, 1-79, 2-4 
+cockpit shower................................... 1-59, 2-4 
+consumption ............................... 1-4, 1-10, 3-7 
+cooling liquid................................................2-1 
+covers................................................ 2-3, 3-10 
+D 
+deck hatch.......................................... 2-2, 3-18 
+deep freezer.....................1-67, 1-68, 2-3, 3-11 
+degrees....................................................... 5-1 
+dehooker.......................................... 1-38, 1-39 
+desalinator ...............1-4, 1-53, 1-54, 1-57, 2-2, 
+.......................................2-4, 2-5, 3-17, 3-19 
+dinghy inflator............................................ 1-19 
+dipstick...................................................... 1-47 
+dish washer......................1-67, 2-3, 3-11, 3-12 
+door.........................1-43, 1-44, 1-75, 1-78, 2-3 
+drain..............1-7, 1-14, 1-54, 1-59, 1-63, 1-78, 
+.......................... 2-4, 3-4, 3-5, 3-7, 3-9, 3-14 
+draining ....................................................... 3-4 
+drawing ..................................................... 1-59 
+E 
+electrical gas shut-off ................................ 3-13 
+electrical resistance .................................. 1-62 
+electrolysis ............................... 1-5, 1-12, 3-17 
+electronic equipment..........1-80, 1-84, 2-5, 3-4 
+engine ................ 1-2, 1-7, 1-8, 1-9, 1-10, 1-11, 
+.............. 1-49, 1-53, 1-62, 2-1, 2-4, 2-5, 3-2, 
+................ 3-4, 3-5, 3-6, 3-7, 3-8, 3-14, 3-16, 
+..................................................... 3-18, 3-19 
+engine room....................1-2, 1-19, 1-46, 1-48, 
+................1-49, 1-50, 1-51, 1-54, 1-56, 1-58, 
+..............................................1-59, 1-65, 2-3 
+exchanger ............................................ 1-8, 3-5 
+exhaust ............... 1-2, 1-3, 1-7, 1-9, 1-56, 3-11 
+F 
+Feet............................................................. 5-1 
+fiberglass.....................................1-15, 3-1, 3-3 
+filter1-2, 1-7, 1-51, 1-52, 2-5, 3-4, 3-5, 3-7, 3-8, 
+3-13 
+fire............................................................. 1-46 
+foot.....................................1-36, 1-75, 3-2, 3-9 
+forestay ..................................................... 1-21 
+fresh water ..............................3-16, 3-17, 3-18 
+fuel ...................... 1-2, 1-7, 1-9, 1-10, 1-46, 2-1 
+fuel filter / water separator........................... 3-8 
+furler...............................1-22, 1-24, 3-17, 3-18 
+furling system....................1-1, 1-4, 1-17, 1-19, 
+.............................1-21, 1-24, 1-25, 2-1, 2-2, 
+................................................3-3, 3-9, 3-10 
+G 
+gas ................................1-3, 1-9, 2-1, 2-5, 3-11 
+gas bottles................................................... 2-5 
+gas stove and oven.................1-67, 1-68, 3-13 
+gasket .............................................. 1-43, 1-44 
+gas-oil ......................1-46, 1-48, 1-49, 2-1, 3-4, 
+.........................................3-5, 3-6, 3-7, 3-16 
+--- pagina 128 ---
+ 
+ User’s guide 6-2 
+gauge ....................................... 1-48, 1-52, 3-4 
+gearbox ................................. 1-7, 1-9, 3-4, 3-5 
+generator ................... 1-1, 1-2, 1-3, 1-46, 1-48, 
+..............1-49, 1-53, 1-65, 2-1, 2-5, 3-7, 3-8, 
+.................................. 3-14, 3-16, 3-18, 3-19 
+GPS............................................ 1-4, 1-84, 2-4 
+grooves.............................................1-35, 1-36 
+ground plates....................... 1-5, 1-15, 3-2, 3-3 
+Guadeloupe..........................................4-1, 4-2 
+guard-rail ..........................................1-31, 1-84 
+guide..........................................................1-36 
+H 
+halyard................. 1-21, 1-22, 1-35, 1-36, 1-38, 
+.....................................................1-39, 1-42 
+haulout.......................................... 2-4, 2-5, 3-5 
+health...........................................................2-5 
+heating system .................................1-63, 3-14 
+helm...........................................................1-19 
+high pressure................................ 3-1, 3-2, 3-3 
+high pressure water machine................3-1, 3-3 
+hook........................ 1-31, 1-32, 1-35, 1-36, 3-1 
+Horse-power................................................5-1 
+hot water heater................. 1-59, 1-62, 2-4, 2-5 
+hydraulic brake .....................................1-8, 3-5 
+Hyères ..................................................4-1, 4-2 
+hygiene........................................................2-5 
+I 
+identification number ...................................4-1 
+Imperial Gallon ............... 1-46, 1-59, 1-62, 2-4, 
+.......................................... 3-4, 3-5, 3-9, 5-1 
+Inch..............................................................5-1 
+injectors .......................................................1-7 
+J 
+jack ...................................................1-12, 1-14 
+jib ........................ 1-17, 1-19, 1-21, 1-22, 1-26, 
+................................. 1-28, 1-29, 1-30, 1-32, 
+................................. 1-34, 1-35, 1-36, 1-37, 
+............................... 1-39, 2-1, 2-2, 2-4, 3-10 
+jib furling tube ............................................1-21 
+jib sheet traveller remote control.......1-28, 1-32 
+joint..............................................................3-9 
+K 
+keel...................................................1-54, 1-59 
+Kilogram ......................................................5-1 
+L 
+La Rochelle...........................................4-1, 4-2 
+lazaret........................................................1-19 
+length........................................ 1-30, 1-79, 3-1 
+liferaft.........................................................3-18 
+lift ..............................................................1-32 
+light........................................... 1-4, 1-12, 1-13 
+Lisbonne......................................................4-1 
+Litre .............................................................5-1 
+little pole ...........................................1-31, 1-33 
+lockers ........................................................ 2-3 
+luff.................................................... 1-36, 1-39 
+M 
+mainsail................1-17, 1-22, 1-24, 1-25, 1-26, 
+................................................ 2-1, 2-4, 3-10 
+mast.....................1-4, 2-2, 2-4, 3-3, 3-16, 3-17 
+Metre........................................................... 5-1 
+microwave oven........................ 1-1, 1-67, 3-12 
+mizzen ballooner...........1-17, 1-40, 1-41, 1-42, 
+......................................................... 2-4, 3-9 
+mizzen mast..........1-17, 1-18, 1-27, 1-42, 1-47 
+mooring..................................................... 1-14 
+mouse....................................................... 1-38 
+muffler.................................................. 1-3, 1-9 
+O 
+Ohm............................................................ 5-1 
+oil 1-7, 1-9, 1-10, 2-1, 2-4, 2-5, 3-3, 3-4, 3-5, 3-
+7, 3-9, 3-15 
+Ounce ......................................................... 5-1 
+outhaul...................................................... 1-22 
+outlet. 1-2, 1-3, 1-9, 1-19, 1-48, 1-75, 3-4, 3-12 
+P 
+paint................................................... 3-2, 3-10 
+Pascal......................................................... 5-1 
+passageway..................1-19, 1-44, 1-47, 1-48, 
+..................................................... 1-50, 1-71 
+personal code ........................................... 1-74 
+pin........................1-13, 1-14, 1-20, 1-21, 1-22, 
+.........................1-24, 1-28, 1-29, 1-31, 1-32, 
+.......................................1-50, 2-1, 2-2, 3-10 
+pole......................1-29, 1-30, 1-31, 1-32, 1-33, 
+............................................ 1-34, 1-35, 1-39 
+polyester ................................... 1-12, 1-51, 2-5 
+Pound ......................................................... 5-1 
+power....................1-1, 1-2, 1-4, 1-9, 1-13, 3-2, 
+.......................................3-4, 3-11, 3-12, 5-1 
+pressure............................................... 3-1, 3-3 
+preventer................................................... 1-27 
+propeller.....................1-5, 1-8, 1-9, 1-10, 1-12, 
+........................1-13, 1-14, 2-4, 3-2, 3-3, 3-5, 
+.........................................3-6, 3-7, 3-9, 3-17 
+PSI.............................................................. 5-1 
+pump..........................1-2, 1-4, 1-7, 1-54, 1-56, 
+.........................1-57, 1-58, 1-59, 1-60, 1-61, 
+......................1-65, 1-66, 1-75, 2-3, 2-4, 3-2, 
+.......................................3-4, 3-5, 3-13, 3-14 
+R 
+RACOR-filter.................................... 1-48, 1-49 
+radar ........................................................... 1-4 
+radio.......................................................... 1-15 
+refrigerator ..............1-61, 1-67, 1-68, 2-3, 3-11 
+releasing .......................................... 1-24, 1-54 
+removable cockpit table ............................ 1-61 
+rigging.............................................. 3-16, 3-17 
+rubber coupling ........................................... 1-8 
+rudder ..............1-5, 1-15, 1-16, 3-2, 3-15, 3-18 
+rudder stock .............................................. 1-15 
+--- pagina 129 ---
+ 
+User’s guide 6-3
+S 
+safe...................................... 1-9, 1-74, 2-1, 3-7 
+sail ................1-1, 1-11, 1-29, 1-36, 1-70, 1-75, 
+..............1-84, 2-1, 2-5, 3-9, 3-13, 3-16, 3-18 
+scuppers ......................................................3-2 
+seawater......................1-2, 1-3, 1-8, 1-9, 1-52, 
+........................1-53, 1-57, 2-1, 2-3, 2-5, 3-5, 
+.......................... 3-10, 3-14, 3-16, 3-17, 3-19 
+seawater intake............................. 1-2, 2-3, 2-5 
+sensor........................................................1-56 
+sensor.............................................. 1-48, 1-52 
+sensor........................................................1-56 
+sensor........................................................1-79 
+sensor........................................................1-83 
+sheet...................... 1-4, 1-17, 1-18, 1-19, 1-20, 
+.................1-25, 1-32, 1-35, 1-36, 1-39, 1-41 
+shore power......................................... 1-1, 2-1 
+skeg................................................... 1-15, 3-2 
+Sonic Speed ............................... 1-83, 3-2, 3-3 
+speedometer..............................................1-83 
+spring stay ...................................................3-1 
+SSB ............................................ 1-4, 1-5, 1-80 
+steering system..........................................3-15 
+stop cock ......................................... 3-11, 3-12 
+suction ............................................. 3-13, 3-14 
+sump............................. 1-51, 1-52, 1-54, 1-56, 
+......................... 1-59, 1-61, 1-63, 1-68, 1-78, 
+................................................ 2-3, 2-4, 3-14 
+support ring................................................1-31 
+T 
+tack.................................................. 1-39, 1-40 
+tank............................1-2, 1-7, 1-9, 1-10, 1-46, 
+....................1-47, 1-48, 1-59, 1-62, 2-1, 2-3, 
+................................................ 2-4, 3-8, 3-15 
+tap................................................................2-4 
+temperature .................................................3-5 
+thermostatic control ......................... 1-63, 1-68 
+toilets ........1-5, 1-53, 1-57, 2-1, 2-4, 3-13, 3-14 
+toping lift ................................. 1-30, 1-33, 1-39 
+transmission....................1-8, 1-9, 2-4, 2-5, 3-4 
+trap................................................... 1-43, 3-11 
+traveller ...................................1-20, 1-22, 1-25 
+triatic stay.................................................. 1-84 
+turbine................................................ 1-59, 3-5 
+twin pole.................................................... 1-29 
+U 
+U.S. Gallon......................1-46, 1-59, 1-62, 2-4, 
+...........................................3-4, 3-5, 3-9, 5-1 
+U-bolt ................................................... 3-1, 3-2 
+units ............................................................ 5-1 
+USA............................................................. 4-2 
+V 
+varnished wood........................................... 3-3 
+ventilation......................................... 1-63, 3-13 
+VHF............................................................. 1-4 
+Volt.............................................................. 5-1 
+voltage ...................................................... 1-55 
+W 
+washing............................................ 1-54, 1-75 
+wasted water.................................... 3-16, 3-17 
+watertight bulkhead................................... 1-43 
+Watt............................................................. 5-1 
+wheel... 1-17, 1-59, 1-61, 1-63, 1-76, 1-82, 2-2, 
+3-5, 3-8, 3-11 
+wheelhouse............................................... 1-75 
+winch......................1-4, 1-17, 1-18, 1-19, 1-20, 
+.........................1-21, 1-22, 1-24, 1-28, 1-32, 
+...................................1-42, 3-10, 3-17, 3-18 
+windlass ...................1-75, 1-76, 1-79, 2-1, 2-2, 
+.......................................2-4, 3-3, 3-15, 3-18 
+wooden lee boards..................1-71, 1-72, 1-73 
+Y 
+Yard ............................................................ 5-1 
+ 
+--- pagina 130 ---
+ 
+ User’s guide 6-4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduction forbidden 
+No part of this work may be reproduced, 
+without permission in writing from the Chantiers AMEL. 
+ 
+Version 2.9 
+October 2004 

@@ -1,0 +1,2052 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Wiki AMEL Super Maramu 2000</title>
+<style>
+:root { --bg:#0f1720; --panel:#16222e; --ink:#dbe7f1; --muted:#8aa2b5; --accent:#4db6ac; --line:#24384a; }
+* { box-sizing:border-box; }
+body { margin:0; display:flex; min-height:100vh; background:var(--bg); color:var(--ink);
+       font:15px/1.55 -apple-system, "Segoe UI", Roboto, sans-serif; }
+aside { width:290px; flex-shrink:0; background:var(--panel); border-right:1px solid var(--line);
+        padding:18px 14px; position:sticky; top:0; height:100vh; overflow-y:auto; }
+aside h1 { font-size:16px; margin:0 0 12px; color:var(--accent); }
+#search { width:100%; padding:8px 10px; margin-bottom:14px; border-radius:8px;
+          border:1px solid var(--line); background:#0b131b; color:var(--ink); font-size:14px; }
+.navlink { display:block; padding:7px 10px; border-radius:8px; color:var(--ink);
+           text-decoration:none; font-size:13.5px; cursor:pointer; }
+.navlink:hover { background:#1d3040; }
+.navlink.active { background:var(--accent); color:#06231f; font-weight:600; }
+main { flex:1; min-width:0; padding:28px clamp(14px,2.5vw,44px); }
+.page { display:none; }
+.page.visible { display:block; }
+h1,h2,h3 { color:#fff; line-height:1.25; }
+h2 { border-bottom:1px solid var(--line); padding-bottom:6px; margin-top:34px; }
+table { border-collapse:collapse; width:100%; margin:14px 0; font-size:14px; }
+th,td { border:1px solid var(--line); padding:7px 10px; text-align:left; vertical-align:top; word-break:break-word; }
+th { background:#1d3040; color:#fff; }
+tr:nth-child(even) td { background:#131e29; }
+img { max-width:100%; }
+code { background:#0b131b; border:1px solid var(--line); padding:1px 5px; border-radius:5px;
+       font-size:13px; color:#ffd54f; }
+pre code { display:block; padding:12px; overflow-x:auto; }
+blockquote { border-left:3px solid var(--accent); margin:14px 0; padding:4px 16px;
+             background:#131e29; color:var(--muted); }
+a { color:var(--accent); }
+hr { border:none; border-top:1px solid var(--line); margin:26px 0; }
+li { margin:3px 0; }
+@media (max-width:800px){ aside{position:static;width:auto;height:auto;} body{flex-direction:column;} }
+</style>
+</head>
+<body>
+<aside>
+  <h1>⛵ Super Maramu 2000</h1>
+  <input id="search" type="search" placeholder="Cerca nella wiki…">
+  <nav id="nav"><a class="navlink" href="#p0" data-page="p0">Indice wiki tecnica AMEL Super Maramu 2000</a>
+<a class="navlink" href="#p1" data-page="p1">Scheda tecnica AMEL Super Maramu 2000</a>
+<a class="navlink" href="#p2" data-page="p2">Motore principale Yanmar 4JH3-HTE</a>
+<a class="navlink" href="#p3" data-page="p3">Motore Volvo Penta MD22 / TMD22 / TAMD22 (workshop manual)</a>
+<a class="navlink" href="#p4" data-page="p4">Generatore Onan MDKAV 7 kW</a>
+<a class="navlink" href="#p5" data-page="p5">Impianto elettrico</a>
+<a class="navlink" href="#p6" data-page="p6">Bow thruster retrattile</a>
+<a class="navlink" href="#p7" data-page="p7">Trasmissione AMEL, elica AUTOPROP e albero elica</a>
+<a class="navlink" href="#p8" data-page="p8">Avvolgibili, alberatura e sartia</a>
+<a class="navlink" href="#p9" data-page="p9">Carrello boom extension (main boom car)</a>
+<a class="navlink" href="#p10" data-page="p10">Pompa Calpeda: sostituzione tenuta meccanica</a>
+<a class="navlink" href="#p11" data-page="p11">Idraulica, acqua e WC</a>
+<a class="navlink" href="#p12" data-page="p12">Optional Super Maramu 2000</a>
+<a class="navlink" href="#p13" data-page="p13">Manutenzione programmata</a>
+<a class="navlink" href="#p14" data-page="p14">Guasti e diagnostica</a>
+<a class="navlink" href="#p15" data-page="p15">Check-list operative</a>
+<a class="navlink" href="#p16" data-page="p16">Risorse online</a>
+<a class="navlink" href="#p17" data-page="p17">Rifitto batterie LiFePO4 nel vano originale</a></nav>
+</aside>
+<main>
+<section id="p0" class="page"><h1>Indice wiki tecnica AMEL Super Maramu 2000</h1><h1>00 — Indice wiki tecnica AMEL Super Maramu 2000</h1>
+<p>Wiki tecnica per manutenzione, imprevisti e lavori. Ogni pagina cita le fonti.</p>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Pagina</th>
+<th>Contenuto</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>01</td>
+<td><a href="#p1">Scheda tecnica</a></td>
+<td>Dati barca: motori, serbatoi, elettricità, alberatura, particolarità</td>
+</tr>
+<tr>
+<td>02</td>
+<td><a href="#p2">Motore Yanmar 4JH3-HTE</a></td>
+<td>Motore principale 100 CV + manutenzione</td>
+</tr>
+<tr>
+<td>03</td>
+<td><a href="#p3">Volvo MD22/TMD22/TAMD22</a></td>
+<td>Workshop manual: coppie, regolazioni, diagnostica</td>
+</tr>
+<tr>
+<td>04</td>
+<td><a href="#p4">Generatore Onan 7 kW</a></td>
+<td>MDKAV: specifiche e uso</td>
+</tr>
+<tr>
+<td>05</td>
+<td><a href="#p5">Impianto elettrico</a></td>
+<td>24/220/12 V, batterie, massa anti-elettrolisi</td>
+</tr>
+<tr>
+<td>06</td>
+<td><a href="#p6">Bow thruster</a></td>
+<td>Uso, ricambi con codici, revisione completa passo-passo</td>
+</tr>
+<tr>
+<td>07</td>
+<td><a href="#p7">Trasmissione ed elica</a></td>
+<td>Trasmissione AMEL, AUTOPROP H6, albero elica, tagliacime</td>
+</tr>
+<tr>
+<td>08</td>
+<td><a href="#p8">Avvolgibili e sartia</a></td>
+<td>Fiocco/randa/mezzana avvolgibili + riparazione furler box</td>
+</tr>
+<tr>
+<td>09</td>
+<td><a href="#p9">Carrello boom extension</a></td>
+<td>Ricostruzione carrello con piste a sfere</td>
+</tr>
+<tr>
+<td>10</td>
+<td><a href="#p10">Pompa Calpeda</a></td>
+<td>Sostituzione tenuta meccanica</td>
+</tr>
+<tr>
+<td>11</td>
+<td><a href="#p11">Idraulica, acqua, WC</a></td>
+<td>Presa a mare, sentina, dissalatori, svernaggio</td>
+</tr>
+<tr>
+<td>12</td>
+<td><a href="#p12">Optional</a></td>
+<td>Elenco opzioni v2.5 + Comfort Pack + stufa Eberspächer</td>
+</tr>
+<tr>
+<td>13</td>
+<td><a href="#p13">Manutenzione programmata</a></td>
+<td>Calendario giornaliero → 5 anni, alaggio, svernaggio</td>
+</tr>
+<tr>
+<td>14</td>
+<td><a href="#p14">Guasti e diagnostica</a></td>
+<td>Sintomo → causa → rimedio</td>
+</tr>
+<tr>
+<td>15</td>
+<td><a href="#p15">Check-list operative</a></td>
+<td>Bordo, uscita, porto, vela, ancora, inverno</td>
+</tr>
+<tr>
+<td>16</td>
+<td><a href="#p16">Risorse online</a></td>
+<td>supermaramu2000.com: procedure, manuali PDF, ricambi con part number</td>
+</tr>
+<tr>
+<td>17</td>
+<td><a href="#p17">Batterie LiFePO4</a></td>
+<td>Misure vano, config max 600 Ah, marche, costi, lavori collegati</td>
+</tr>
+</tbody>
+</table>
+<h2>Fonti (fonti/testo-estratto/)</h2>
+<table>
+<thead>
+<tr>
+<th>Documento originale (PDF)</th>
+<th>Lingua</th>
+<th>Note</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>manuale super maramu italiano pdf.pdf</td>
+<td>IT</td>
+<td><strong>Traduzione automatica Google</strong> del Users Guide EN v2.9 — nessun contenuto aggiuntivo</td>
+</tr>
+<tr>
+<td>amel_super_maramu_2000_Users_Guide_CP.pdf</td>
+<td>EN</td>
+<td>Users Guide v2.9 ott. 2004 — fonte principale</td>
+</tr>
+<tr>
+<td>…Users_Guide_CP…compressed.pdf</td>
+<td>EN</td>
+<td>Stesso contenuto del precedente (copia compressa)</td>
+</tr>
+<tr>
+<td>amel_super_maramu_2000_Optional_equipment.pdf</td>
+<td>EN</td>
+<td>Opzioni v2.5 nov. 2002</td>
+</tr>
+<tr>
+<td>volvo_tmd_22_workshop_manual.pdf</td>
+<td>EN</td>
+<td>Workshop manual MD22/TMD22/TAMD22 04-1999</td>
+</tr>
+<tr>
+<td>Bow Thruster overhaul Nikimat….pdf</td>
+<td>EN</td>
+<td>Resoconto pratico revisione thruster (#289, 2013)</td>
+</tr>
+<tr>
+<td>bow_thruster_overhaul_gary_silver_bill.pdf</td>
+<td>EN</td>
+<td>Procedura di riferimento thruster (#335/#BeBe)</td>
+</tr>
+<tr>
+<td>Furler Box shaft removal….pdf</td>
+<td>EN</td>
+<td>Estrazione albero furler outhaul (2013)</td>
+</tr>
+<tr>
+<td>boom extension car….pdf</td>
+<td>EN</td>
+<td>Ricostruzione carrello boma</td>
+</tr>
+<tr>
+<td>calpeda_pump_shaft_seal_replacement.pdf</td>
+<td>EN</td>
+<td>Tenuta meccanica pompa</td>
+</tr>
+<tr>
+<td>Amel_Electrical_SM2k_OM_Appendix_4_el_Drawing_Part2.pdf</td>
+<td>—</td>
+<td><strong>Solo immagini/scansione: nessun testo estraibile</strong> (7 pagine). Da integrare con schema elettrico leggibile</td>
+</tr>
+</tbody>
+</table>
+<h2>Convenzioni</h2>
+<ul>
+<li>Lingue multiple nei documenti = bene: le versioni in lingue diverse vengono <strong>confrontate tra loro</strong> per validare dati e procedure; le differenze vengono segnalate nelle pagine wiki.</li>
+<li>I testi estratti restano in <code>fonti/testo-estratto/</code> come riferimento citabile.</li>
+<li>Nuovi documenti: trascina i PDF nella chat → estrazione testo → nuova pagina wiki o aggiornamento di quelle esistenti.</li>
+</ul></section>
+<section id="p1" class="page"><h1>Scheda tecnica AMEL Super Maramu 2000</h1><h1>01 — Scheda tecnica AMEL Super Maramu 2000</h1>
+<p><strong>Fonti:</strong> Users Guide v2.9 (EN) (<a href="docs/users-guide-sm2k.pdf">copia locale</a>), Owner's Manual SM2K (EN) (<a href="docs/owners-manual-sm2k.pdf">copia locale</a>), Optional equipment v2.5 (EN), gruppo AmelYachtOwners</p>
+<h2>Motore e generatore</h2>
+<table>
+<thead>
+<tr>
+<th>Voce</th>
+<th>Valore</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Motore principale</td>
+<td><strong>Yanmar 4JH3-HTE</strong>, diesel turbo intercooler, 4 cil. in linea, iniezione diretta</td>
+</tr>
+<tr>
+<td>Cilindrata / potenza</td>
+<td>1.995 cm³ — 73,6 kW (<strong>100 CV</strong>) @ 3.800 giri</td>
+</tr>
+<tr>
+<td>Minimo</td>
+<td>900 ± 25 giri/min</td>
+</tr>
+<tr>
+<td>Consumi (scafo pulito)</td>
+<td>1.800 giri / 6,5 kn = <strong>3,9 l/h</strong> · 2.000 giri / 7 kn = <strong>5,5 l/h</strong></td>
+</tr>
+<tr>
+<td>Generatore</td>
+<td><strong>Onan MDKAV 7 kW</strong>, 50 Hz ± 1 Hz, 1.124 cm³ @ 1.500 giri, consumo ½ carico ~2 l/h</td>
+</tr>
+</tbody>
+</table>
+<h2>Serbatoi</h2>
+<table>
+<thead>
+<tr>
+<th>Serbatoio</th>
+<th>Capacità</th>
+<th>Ubicazione</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Gasolio</td>
+<td><strong>600 l</strong> (inox)</td>
+<td>Sala macchine tribordo; astina, 2 portelli ispezione, sensore livello</td>
+</tr>
+<tr>
+<td>Acqua dolce</td>
+<td><strong>1.000 l</strong></td>
+<td>Chiglia; rabbocco dal pozzetto sotto il volante</td>
+</tr>
+<tr>
+<td>Scaldabagno</td>
+<td>45 l</td>
+<td>Riscaldato da motore (~20 min) o resistenza 220 V (~2 h)</td>
+</tr>
+</tbody>
+</table>
+<p>Consiglio manuale: per navigazione costiera bastano 400 l gasolio + 400 l acqua (prestazioni migliori a vela).</p>
+<h2>Elettricità</h2>
+<ul>
+<li>Impianto principale <strong>24 V CC</strong>; strumenti 12 V via trasformatore 24/12 V sotto il tavolo carteggio; <strong>220 V</strong> da shore power o generatore.</li>
+<li>Caricabatterie 30 A (shore) e 100 A (da generatore).</li>
+<li>Batterie piombo-calcio senza manutenzione, terminali inox. Vita utile: max <strong>4 anni</strong> se sempre a terra con shore power, <strong>~18 mesi</strong> se navigazione/all'ancora (si guastano perché poco caricate). Recupero batteria scarica: carica individuale 14–16 V, 10–20 A.</li>
+<li>Regime consigliato in navigazione: 3 sessioni generatore/carica da 1,5–2 h (mattina, 13–14, 19–20); all'ancora 3–4 h/giorno.</li>
+</ul>
+<h3>Consumi tipici 24 V</h3>
+<table>
+<thead>
+<tr>
+<th>Utente</th>
+<th>W</th>
+<th>A nominali</th>
+<th>A picco</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Bow thruster</td>
+<td>7.000</td>
+<td>570</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Winch scotta fiocco (×2)</td>
+<td>3.000</td>
+<td>70</td>
+<td>200</td>
+</tr>
+<tr>
+<td>Winch scotta randa</td>
+<td>1.700</td>
+<td>50</td>
+<td>120</td>
+</tr>
+<tr>
+<td>Verricello ancora</td>
+<td>1.200</td>
+<td>36</td>
+<td>95</td>
+</tr>
+<tr>
+<td>Avvolgifiocco</td>
+<td>2.000</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Motore avvolgimento randa</td>
+<td>450</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Bugna elettrica randa</td>
+<td>450</td>
+<td>50–100</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Pilota automatico</td>
+<td>250</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Dissalatore</td>
+<td>370</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Frigo / congelatore</td>
+<td>100 / 60</td>
+<td>—</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+<h3>Consumi tipici 220 V</h3>
+<table>
+<thead>
+<tr>
+<th>Utente</th>
+<th>W</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Lavatrice/asciugatrice</td>
+<td>1.300</td>
+</tr>
+<tr>
+<td>Lavastoviglie</td>
+<td>2.000</td>
+</tr>
+<tr>
+<td>Clima (risc./raffr.)</td>
+<td>1.300 / 925 (+pompa 370)</td>
+</tr>
+<tr>
+<td>Scaldabagno</td>
+<td>750</td>
+</tr>
+<tr>
+<td>Microonde</td>
+<td>1.300 (2.800 con grill)</td>
+</tr>
+<tr>
+<td>Caricabatterie 30 A / 100 A</td>
+<td>1.500 / 2.400</td>
+</tr>
+</tbody>
+</table>
+<h2>Alberatura e vele</h2>
+<ul>
+<li>Riggo <strong>ketch</strong>: fiocco su forestay avvolgibile, <strong>randa avvolgibile in albero</strong>, <strong>mezzana avvolgibile in albero</strong>, bugna elettrica sul boma.</li>
+<li><strong>5 vele triradiali</strong>: 3 Dacron (fiocco, randa, mezzana) + 2 nylon (ballooner + ballooner di mezzana). Ispezione velaio ogni <strong>5.000 miglia</strong>.</li>
+<li><strong>Doppio tangone AMEL</strong>: portata fino a 170°; oltre <strong>15 nodi</strong> di vento reale si arrotolano insieme fiocco e ballooner; ballooner di mezzana fino a 15 kn tra 80° e 150°.</li>
+<li>Triatico isolato elettricamente di serie (utilizzabile come antenna).</li>
+</ul>
+<h3>Misure vele e rig — documento Amel "Sails dimensions of the Super Maramu" (TB 12/7/2011) ★★★</h3>
+<table>
+<thead>
+<tr>
+<th>Vela</th>
+<th>Area m²</th>
+<th>Luff m</th>
+<th>Leech m</th>
+<th>Foot m</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Fiocco (jib)</td>
+<td>67</td>
+<td>16,98</td>
+<td>16,57</td>
+<td>8,25</td>
+</tr>
+<tr>
+<td>Randa</td>
+<td>35</td>
+<td>15,50</td>
+<td>15,91</td>
+<td>4,52</td>
+</tr>
+<tr>
+<td>Ballooner</td>
+<td>68</td>
+<td>16,60</td>
+<td>16,40</td>
+<td>8,20</td>
+</tr>
+<tr>
+<td>Mezzana</td>
+<td>19</td>
+<td>11,29</td>
+<td>11,53</td>
+<td>3,22</td>
+</tr>
+<tr>
+<td>Ballooner di mezzana</td>
+<td>35</td>
+<td>11,37</td>
+<td>10,54</td>
+<td>4,92</td>
+</tr>
+</tbody>
+</table>
+<p>Rig: <strong>I</strong> 17,50 m · <strong>J</strong> 5,00 m · <strong>P</strong> 16,20 m · <strong>E</strong> 4,50 m · P mezzana 11,75 m · E mezzana 3,40 m.
+<a href="docs/segelmasse-sails-dimensions.docx">Documento originale</a></p>
+<h3>Cordiname (running rigging) — specifiche Amel via s/v Kimberlite ★★★</h3>
+<table>
+<thead>
+<tr>
+<th>Cima</th>
+<th>Ø mm</th>
+<th>Lunghezza m</th>
+<th>Materiale</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Drizza randa</td>
+<td>10</td>
+<td>17,2</td>
+<td>Vectran</td>
+</tr>
+<tr>
+<td>Scotta randa</td>
+<td>14</td>
+<td>23</td>
+<td>Poliestere</td>
+</tr>
+<tr>
+<td>Drizza fiocco</td>
+<td>12</td>
+<td>39</td>
+<td>Vectran</td>
+</tr>
+<tr>
+<td>Scotta fiocco</td>
+<td>16</td>
+<td>41</td>
+<td>Poliestere</td>
+</tr>
+<tr>
+<td>Bugna randa (boom rope)</td>
+<td>10</td>
+<td>9,50</td>
+<td>Kevlar</td>
+</tr>
+<tr>
+<td>Bugna mezzana</td>
+<td>10</td>
+<td>11,50</td>
+<td>Poliammide trecciata</td>
+</tr>
+<tr>
+<td>Carrello scotta fiocco</td>
+<td>10</td>
+<td>10,50</td>
+<td>Kevlar</td>
+</tr>
+<tr>
+<td>Carrello scotta randa</td>
+<td>10</td>
+<td>11,50</td>
+<td>Kevlar</td>
+</tr>
+<tr>
+<td>Gomena (tack rope)</td>
+<td>10</td>
+<td>11,50</td>
+<td>Kevlar</td>
+</tr>
+<tr>
+<td>Drizza mezzana</td>
+<td>10</td>
+<td>15</td>
+<td>Poliestere</td>
+</tr>
+<tr>
+<td>Scotta mezzana</td>
+<td>10</td>
+<td>13</td>
+<td>Poliestere</td>
+</tr>
+<tr>
+<td>Drizza ballooner mezzana</td>
+<td>10</td>
+<td>28</td>
+<td>Poliestere</td>
+</tr>
+<tr>
+<td>Scotta ballooner mezzana</td>
+<td>12</td>
+<td>10</td>
+<td>Poliestere</td>
+</tr>
+</tbody>
+</table>
+<p>Tangone: blu Ø14×17 m (segno a 11 m) · punta rossa Ø14×9,5 m (segno a 7,35 m) · gialla Ø14×6 m (segno a 4,11 m) · bianca alta Ø10×16 m poliestere (segno a 12,75 m).
+<a href="docs/running-rigging-specs.pdf">Documento originale</a></p>
+<h2>Particolarità costruttive</h2>
+<ul>
+<li><strong>Bow thruster retrattile interamente in vetroresina</strong> (standard dal 1985): nessuna parte metallica immersa → immune da elettrolisi; elica con 6 viti nylon sacrificali Ø8 mm.</li>
+<li><strong>Trasmissione AMEL</strong> a ingranaggi conici in bagno d'olio con freno idraulico: elica AUTOPROP in bandiera sotto vela.</li>
+<li><strong>Paratie stagne</strong>: compartimento collisione, cabine prua/poppa rendibili stagne (porta stagna + barra di compressione + valvole dedicate), sala macchine stagna, pozzo catena stagno.</li>
+<li><strong>Circuito di massa anti-elettrolisi</strong> + rilevatore dispersione di serie; piastre massa sul timone per SSB.</li>
+<li>Un'unica presa a mare centralizzata con filtro sorvegliato da allarme; fascette doppie sui tubi mare.</li>
+<li>Attacco prua per <strong>2 ancore</strong>, verricello 1.200 W con contacatena induttivo (~10% precisione).</li>
+<li>Winch elettrici Lewmar: 2× <strong>58 ST</strong> scotta fiocco, 1× <strong>40 ST</strong> scotta randa (usabili anche a mano).</li>
+<li>Cassaforte con codice in cabina poppa; numero scafo inciso in discesa e falchetta poppa-tribordo.</li>
+</ul>
+<h2>Dimensioni principali</h2>
+<table>
+<thead>
+<tr>
+<th>Voce</th>
+<th>Valore</th>
+<th>Fonte</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LOA</td>
+<td><strong>16,00 m</strong> (52,49 ft)</td>
+<td>boatsector.com / sailboatlab.com ★★★</td>
+</tr>
+<tr>
+<td>Lunghezza galleggiamento</td>
+<td>12,60 m (41,33 ft)</td>
+<td>idem ★★★</td>
+</tr>
+<tr>
+<td>Baglio</td>
+<td><strong>4,60 m</strong> (15,08 ft)</td>
+<td>idem ★★★</td>
+</tr>
+<tr>
+<td>Pescaggio</td>
+<td>~<strong>2,03 m</strong> (6,67 ft)</td>
+<td>idem ★★★</td>
+</tr>
+<tr>
+<td>Dislocamento</td>
+<td><strong>16.000 kg</strong> (35.274 lb)</td>
+<td>idem ★★★</td>
+</tr>
+<tr>
+<td>Ballast</td>
+<td>5.502 kg (34,4% del dislocamento) — wing keel</td>
+<td>idem ★★★</td>
+</tr>
+<tr>
+<td>Superficie velica</td>
+<td><strong>118,92 m²</strong> (1.280 ft²)</td>
+<td>idem ★★★</td>
+</tr>
+<tr>
+<td>Velocità scafo teorica</td>
+<td>8,61 kn</td>
+<td>idem ★★★</td>
+</tr>
+<tr>
+<td>Rapporti</td>
+<td>SA/D 19,12 · comfort ratio 32,90 · capsize screening 1,84</td>
+<td>idem ★★★</td>
+</tr>
+</tbody>
+</table>
+<h2>Particolarità costruttive (scafo/alberatura)</h2>
+<ul>
+<li><strong>Albero in alluminio</strong> a ponte (a differenza del Super Maramu precedente, che aveva l'albero in vetroresina); profili forestay avvolgibile in alluminio.</li>
+<li><strong>Passerella integrata</strong> a poppa.</li>
+<li>Scafo in vetroresina monolitico; chiglia a pinna con bulbo ad ala (wing keel).</li>
+</ul></section>
+<section id="p2" class="page"><h1>Motore principale Yanmar 4JH3-HTE</h1><h1>02 — Motore principale Yanmar 4JH3-HTE</h1>
+<p><strong>Fonte:</strong> Users Guide v2.9 (EN), Optional equipment v2.5 (EN)</p>
+<h2>Specifiche</h2>
+<table>
+<thead>
+<tr>
+<th>Voce</th>
+<th>Valore</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tipo</td>
+<td>Diesel turbo <strong>intercooler</strong>, 4 tempi, 4 cil. verticali in linea, iniezione diretta</td>
+</tr>
+<tr>
+<td>Cilindrata</td>
+<td>1.995 cm³</td>
+</tr>
+<tr>
+<td>Potenza</td>
+<td>73,6 kW (100 CV) @ 3.800 giri/min</td>
+</tr>
+<tr>
+<td>Minimo</td>
+<td>900 ± 25 giri/min</td>
+</tr>
+<tr>
+<td>Raffreddamento</td>
+<td>Acqua dolce con scambiatore di calore</td>
+</tr>
+<tr>
+<td>Alternatore motore</td>
+<td>12 V / 55 A</td>
+</tr>
+<tr>
+<td>Alternatore servizi</td>
+<td>24 V / 55 A (con Comfort Pack: <strong>24 V / 175 A</strong>, carica da 1.500 giri)</td>
+</tr>
+<tr>
+<td>Arresto emergenza</td>
+<td>Leva rossa sulla pompa d'iniezione (manuale)</td>
+</tr>
+</tbody>
+</table>
+<h2>Consumi (scafo pulito)</h2>
+<table>
+<thead>
+<tr>
+<th>Regime</th>
+<th>Velocità</th>
+<th>Consumo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1.800 giri (crociera economica)</td>
+<td>6,5 kn</td>
+<td><strong>3,9 l/h</strong></td>
+</tr>
+<tr>
+<td>2.000 giri (crociera)</td>
+<td>7 kn</td>
+<td><strong>5,5 l/h</strong></td>
+</tr>
+</tbody>
+</table>
+<h2>Manutenzione (dal calendario Users Guide)</h2>
+<table>
+<thead>
+<tr>
+<th>Intervallo</th>
+<th>Interventi</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Ogni 200 h o 1 anno</td>
+<td>Olio + filtri motore; girante pompa acqua mare; cinghie; serraggio bulloni; olio cambio (ATF); liquido refrigerante; supporti gomma; filtro aria</td>
+</tr>
+<tr>
+<td>500 h totali o 1 anno</td>
+<td>Cartuccia filtro <strong>RACOR 30 micron</strong> + pulizia decantatore</td>
+</tr>
+<tr>
+<td>4 anni</td>
+<td>Liquido raffreddamento; olio cambio ATF</td>
+</tr>
+</tbody>
+</table>
+<p>Vedi anche: <a href="#p11">11 — Manutenzione programmata</a>, <a href="#p7">07 — Trasmissione ed elica</a>.</p>
+<h2>Nota sul manuale Volvo TMD22 presente in archivio</h2>
+<p>L'archivio contiene il workshop manual della famiglia <strong>Volvo Penta MD22/TMD22/TAMD22</strong> (<a href="#p3">03</a>). Il Users Guide indica come motore standard/Comfort Pack lo Yanmar 4JH3-HTE: verificare quale motore è effettivamente installato sulla barca prima di applicare i dati Volvo (coppie, regolazioni). I due manuali NON sono intercambiabili.</p></section>
+<section id="p3" class="page"><h1>Motore Volvo Penta MD22 / TMD22 / TAMD22 (workshop manual)</h1><h1>03 — Motore Volvo Penta MD22 / TMD22 / TAMD22 (workshop manual)</h1>
+<p><strong>Fonte:</strong> Workshop manual "Engine Repair, Marine Engines MD22 • TMD22 • TAMD22", pubbl. 7738684-5, 04-1999 (EN)
+<strong>Varianti coperte:</strong> MD22A, MD22L-A/B, MD22P-B, TMD22A/B/P-C, TAMD22P-B</p>
+<blockquote>
+<p>⚠️ Il capitolo "Technical Data" (cilindrata, potenza, giochi assiali, pressione iniettori, termostati) NON è nell'estrazione. Verificare motore installato: la barca del Users Guide ha uno Yanmar 4JH3-HTE.</p>
+</blockquote>
+<h2>Architettura</h2>
+<ul>
+<li>4 cilindri in linea, 2 valvole/cil., blocco ghisa <strong>senza camicie</strong>, testa alluminio con alzo a bicchiere + <strong>shims</strong>.</li>
+<li>Albero motore ghisa sferoidale, 5 supporti, spinta assiale su semirondelle al supporto centrale.</li>
+<li>Distribuzione a <strong>cinghia dentata</strong>; pompa iniezione <strong>Bosch</strong> con pulegga a due scanalature: dente "A" = aspirati, dente "B" = turbo.</li>
+<li>Volano: corona <strong>104 denti</strong>. Riduttori citati: MS25, HS25, MS2, 120S, HBW250, SX-drive.</li>
+<li>Turbo con wastegate <strong>non regolabile</strong> (se difettosa si cambia il turbo): corsa stelo 0,38 mm @ 89–97 kPa (TMD22); 1 mm @ 135 kPa (TAMD22).</li>
+</ul>
+<h2>Coppie di serraggio (Nm)</h2>
+<table>
+<thead>
+<tr>
+<th>Giunto</th>
+<th>Coppia</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Viti testa</strong></td>
+<td>50 → 100 → <strong>+90°</strong> (sequenza; max 4 ritorni)</td>
+</tr>
+<tr>
+<td>Dadi bielle (dado sempre nuovo)</td>
+<td><strong>47</strong></td>
+</tr>
+<tr>
+<td>Viti supporti banco</td>
+<td><strong>112</strong> (a gradini)</td>
+</tr>
+<tr>
+<td>Vite centrale puleggia albero (3581332)</td>
+<td><strong>180</strong></td>
+</tr>
+<tr>
+<td>Dado pulegga pompa iniezione</td>
+<td><strong>60</strong></td>
+</tr>
+<tr>
+<td><strong>Volano</strong></td>
+<td><strong>65</strong></td>
+</tr>
+<tr>
+<td>Candele preriscaldamento (grasso HT)</td>
+<td><strong>20</strong></td>
+</tr>
+<tr>
+<td>Tappo scarico coppa olio</td>
+<td><strong>43</strong></td>
+</tr>
+<tr>
+<td>Coperchio camme</td>
+<td>22</td>
+</tr>
+<tr>
+<td>Pulegga camme: vite centrale / mozzo</td>
+<td>85 / 22</td>
+</tr>
+<tr>
+<td>Tenditore cinghia (viti bombate) / folle</td>
+<td>45 / 43</td>
+</tr>
+<tr>
+<td>Tubi alta pressione iniettori</td>
+<td>18</td>
+</tr>
+<tr>
+<td>Scambiatore/marmitta alla testa</td>
+<td>22</td>
+</tr>
+</tbody>
+</table>
+<p>Generale: M5=5 · M6=10 · M8=20 · M10=40 · M12=70 · M14=115. Controdadi Nylock ≥M8: −25%.</p>
+<h2>Regolazioni</h2>
+<h3>Gioco valvole (motore freddo, camma-bicchiere)</h3>
+<ul>
+<li>Aspirazione <strong>0,25–0,35 mm</strong> · Scarico <strong>0,35–0,45 mm</strong></li>
+<li>Con shims calcolare per <strong>0,30 asp / 0,40 scar</strong></li>
+<li>Sequenza camme: 1+3 → 2+5 → 6+8 → 4+7</li>
+</ul>
+<h3>Cinghia distribuzione (tensimetro 885036)</h3>
+<ul>
+<li>Nuova: <strong>425–465 N</strong> · Usata: <strong>340–370 N</strong></li>
+<li>Se usata scende ≤ 270 N → riportare a 340–370 N; ricontrollare fase pompa dopo 2 giri</li>
+</ul>
+<h3>Anticipo pompa iniezione</h3>
+<ul>
+<li>Comparatore sul tappo posteriore, precarico ~3,0 mm, azzerato al PMI</li>
+<li>Al PMS cil.1 lettura = alzata nominale ± <strong>0,05 mm</strong>; correzione ruotando la pompa (orario visto da dietro = aumenta)</li>
+</ul>
+<h3>Limiti usura principali</h3>
+<table>
+<thead>
+<tr>
+<th>Punto</th>
+<th>Limite</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Piano testa</td>
+<td>deformazione &gt; 0,10 mm = rettifica; altezza min. 119,85 mm</td>
+</tr>
+<tr>
+<td>Guida valvole</td>
+<td>gioco stelo max 0,13 mm; sporgenza 10 mm</td>
+</tr>
+<tr>
+<td>Perni albero</td>
+<td>usura/ovalizzazione max 0,03 mm; rettifica −0,3 mm</td>
+</tr>
+<tr>
+<td>Cilindri</td>
+<td>ovalizzazione max 0,15 mm; noiosura +0,50 mm (pistoni classe X)</td>
+</tr>
+<tr>
+<td>Volano</td>
+<td>eccentricità &lt; 0,30 mm; battuto ≤ 0,03 mm ogni 25 mm raggio</td>
+</tr>
+<tr>
+<td>Regime max</td>
+<td>dall'ultimo numero targhetta pompa (es. …/3200 = 3200 rpm); vite esterna sigillata</td>
+</tr>
+</tbody>
+</table>
+<h2>Sistemi</h2>
+<ul>
+<li><strong>Lubrificazione:</strong> pompa rotori (10/11 denti), filtro sul corpo pompa (solo originali), valvola relief non tarabile. Filtro nuovo: riempirlo d'olio, ungere guarnizione, <strong>serrare a mano</strong>.</li>
+<li><strong>Raffreddamento:</strong> circuiti chiuso+mare; scambiatore+marmitta+espansione in un'unica unità a dritta. Pompa circolazione mossa dalla <strong>cinghia di distribuzione</strong>. Anodo sacrificale. Inserto scambiatore estraibile se spazio ≥ 555 mm.</li>
+<li><strong>Alimentazione:</strong> pompa membrana; gasolio dal foro nel corpo = membrana rotta. Prova: manometro 0–70 kPa, 10 s avviamento; sostituire se &lt;75% della minima o dimezza in &lt;30 s. Spurgo: vite sopra filtro + leva manuale, poi dadi iniettori.</li>
+<li><strong>Elettrico:</strong> alternatore Valeo A13N147M 60 A (14 V); motorino con spazzole min 3,5 mm; candele: picco 27 A → 14 A dopo ~10 s, 11–12 V.</li>
+<li><strong>Turbo:</strong> dopo montaggio versare 100–140 ml olio nel corpo, pre-lubrificare col motorino, primi 3–4 min a basso regime. <strong>Mai spray di avviamento, mai senza filtro aria.</strong></li>
+</ul>
+<h2>Diagnostica rapida</h2>
+<table>
+<thead>
+<tr>
+<th>Sintomo</th>
+<th>Verifica</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cilindro "morto"</td>
+<td>Allentare i dadi tubi uno a uno a minimo alto: quello che non fa variare i giri è colpevole</td>
+</tr>
+<tr>
+<td>Parte e si ferma / irregolare</td>
+<td>Aria nel bassapressione → cercare perdita, spurgo completo</td>
+</tr>
+<tr>
+<td>Fumo nero + calo potenza a 2500 rpm</td>
+<td>Wastegate tarato basso</td>
+</tr>
+<tr>
+<td>Consumo olio elevato</td>
+<td>Vetratura canne → Flex-Hone + segmenti</td>
+</tr>
+<tr>
+<td>Spia carica / batteria scarica</td>
+<td>Procedura alternatore: 14 V costanti con carico 10–15 A</td>
+</tr>
+<tr>
+<td>Motorino lento, lampade brillanti</td>
+<td>Switch/cavi/connesse, non il motorino</td>
+</tr>
+</tbody>
+</table>
+<h2>Attrezzi speciali Volvo Penta</h2>
+<p>885036 tensimetro cinghia · 885037 perni di fase · 884955 comparatore anticipo (885139 per TMD22P/TAMD22) · 885027 estrattore pulegge · 885028 chiave elettrovalvola stop.
+Sigillanti: Loctite 574/572/241/243/648, Volvo 840879-1, 1161099-5, Permatex No.3/No.77. Grasso Shell Alvania R2.</p>
+<h2>Intervalli di manutenzione</h2>
+<p>Non presenti nel workshop manual: seguire il Maintenance Schedule Volvo Penta dedicato (obbligatorio per motori certificati). Pompa iniezione e iniettori solo officina autorizzata.</p></section>
+<section id="p4" class="page"><h1>Generatore Onan MDKAV 7 kW</h1><h1>04 — Generatore Onan MDKAV 7 kW</h1>
+<p><strong>Fonte:</strong> Users Guide v2.9 (EN)</p>
+<h2>Specifiche</h2>
+<table>
+<thead>
+<tr>
+<th>Voce</th>
+<th>Valore</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Modello</td>
+<td><strong>Onan MDKAV 7 kW</strong>, campo rotante 4 poli</td>
+</tr>
+<tr>
+<td>Frequenza</td>
+<td><strong>50 Hz ± 1 Hz</strong></td>
+</tr>
+<tr>
+<td>Motore</td>
+<td>Diesel 3 cil. in linea, 1.124 cm³ @ <strong>1.500 giri/min</strong></td>
+</tr>
+<tr>
+<td>Consumo</td>
+<td>~<strong>2 l/h</strong> a mezzo carico</td>
+</tr>
+<tr>
+<td>Raffreddamento</td>
+<td>Scambiatore di calore</td>
+</tr>
+<tr>
+<td>Alternatore carica batterie</td>
+<td>10 A</td>
+</tr>
+<tr>
+<td>Ubicazione</td>
+<td>Sala macchine, lato sinistro</td>
+</tr>
+<tr>
+<td>Avviamento</td>
+<td>Da cambusa o quadro sala macchine</td>
+</tr>
+</tbody>
+</table>
+<h2>Uso consigliato in navigazione</h2>
+<p>3 sessioni da 1,5–2 h al giorno (mattina, ~13–14, ~19–20), totale 5–6 h; all'ancora 3–4 h. Il generatore alimenta il caricabatterie 100 A e tutti i carichi 220 V.</p>
+<h2>Limiti a 60 Hz / 110 V</h2>
+<p>Con trasformatore 110/220 V 6.000 W (opzione) <strong>non funzionano a 60 Hz</strong>: dissalatore, microonde, lavatrice/asciugatrice, lavastoviglie → usare il generatore.</p>
+<h2>Manutenzione</h2>
+<p>Stessi intervalli del motore principale: olio+filtri ogni 200 h/1 anno, cartuccia RACOR 500 h/1 anno, liquido raffreddamento ogni 4 anni, risciacquo circuito mare in svernaggio.</p></section>
+<section id="p5" class="page"><h1>Impianto elettrico</h1><h1>05 — Impianto elettrico</h1>
+<p><strong>Fonte:</strong> Users Guide v2.9 (EN), Optional equipment v2.5 (EN)</p>
+<h2>Architettura</h2>
+<ul>
+<li><strong>24 V CC</strong> impianto principale · <strong>220 V</strong> da shore power o generatore · <strong>12 V</strong> per strumenti via trasformatore 24/12 V sotto il tavolo da carteggio.</li>
+<li>Quadro <strong>24 V in cucina</strong>: pompa sentina, generale bow thruster, shut-off elettrico gas, interruttori batterie Marche/Arrêt.</li>
+<li>Quadro <strong>220 V</strong>: elettrodomestici, clima, scaldabagno, caricabatterie.</li>
+<li><strong>Regola:</strong> non lasciare mai carichi 220 V attivi con barca incustodita per giorni.</li>
+</ul>
+<h2>Batterie e carica</h2>
+<ul>
+<li>Piombo-calcio senza manutenzione, terminali inox.</li>
+<li>Vita utile: max <strong>4 anni</strong> se sempre a terra con shore power; <strong>~18 mesi</strong> se navigazione/all'ancora (si guastano perché poco caricate).</li>
+<li>Recupero batteria scarica: carica individuale <strong>14–16 V, 10–20 A</strong>.</li>
+<li>Caricabatterie: <strong>30 A</strong> (shore, opzionale) / <strong>100 A</strong> (da generatore).</li>
+<li>Comfort Pack: 12 batterie 12 V/105 Ah serie-parallelo = <strong>630 Ah @ 24 V</strong>.</li>
+</ul>
+<h2>Sicurezza anti-elettrolisi</h2>
+<ul>
+<li><strong>Circuito di massa dedicato:</strong> tutte le parti a contatto con l'acqua collegate (cavo verde/giallo) agli anodi di zinco del timone.</li>
+<li><strong>Rilevatore di dispersione</strong> sulla paratia della discesa (posizioni "Masse +"/"Masse −"): individua perdite verso positivo/negativo dell'impianto interno (non verso gli alberi). Verificare <strong>almeno 2 volte/anno</strong>.</li>
+<li>Anodi zinci: ispezione ogni <strong>6 mesi</strong>, sostituzione annuale.</li>
+<li>Piastre di massa sul timone/skeg per SSB: da scollegare dagli anodi se installata la SSB.</li>
+<li>WD-40 sui connettori dei quadri (manutenzione annuale).</li>
+</ul>
+<h2>Opzioni energia (Optional equipment)</h2>
+<table>
+<thead>
+<tr>
+<th>Opzione</th>
+<th>Dettagli</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Trasformatore 110/220 V 6.000 W</td>
+<td>Sala macchine sinistra; a 60 Hz non funzionano dissalatore/microonde/lavatrice/lavastoviglie</td>
+</tr>
+<tr>
+<td>Inverter 24/220 V</td>
+<td>Non per grossi carichi: microonde fa scattare la protezione dopo 3–4 min (limite voluto)</td>
+</tr>
+<tr>
+<td>Alternatore albero elica</td>
+<td>Fino a 20 A, efficiente da 7 kn; disinseribile vicino alla trasmissione; <strong>mai innestato con motore in marcia</strong>; spia verde OK / rossa rotazione insufficiente</td>
+</tr>
+</tbody>
+</table>
+<h2>Consumi</h2>
+<p>Vedi tabelle complete in <a href="#p1">01 — Scheda tecnica</a>. Picchi notevoli: bow thruster 570 A, winch fiocco fino a 200 A → usare con motore/generatore+caricabatterie attivi.</p></section>
+<section id="p6" class="page"><h1>Bow thruster retrattile</h1><h1>06 — Bow thruster retrattile</h1>
+<p><strong>Fonti:</strong> Users Guide v2.9 (EN) · Gary Silver #335 / Bill Rouse "BeBe" (EN, 2007/2010, procedura di riferimento) · rapporto NIKIMAT #289 (EN, 2013)</p>
+<h2>Descrizione e uso</h2>
+<ul>
+<li>Standard AMEL dal <strong>1985</strong>; interamente in <strong>vetroresina</strong> (GRP) → nessuna parte metallica immersa, immune da elettrolisi.</li>
+<li>Movimento su/giù con martinetto elettrico su cavi e pulegge; elica in poliestere con <strong>6 viti nylon Ø 8 mm sacrificali</strong> (si rompono con una cima: si perde l'elica, non il thruster; sostituibile senza immersione con attrezzo AMEL).</li>
+<li>Motore elettrico <strong>6 kW 24 V</strong>. Uso <strong>solo in porto</strong>, max <strong>30 s consecutivi</strong>, non invertire rotazione prima dell'arresto (~1 s). Più efficiente con motore/generatore + caricabatterie 100 A attivi.</li>
+<li>In mare aperto: bloccare con <strong>perno inox</strong> (l'interruttore nella sede del perno toglie alimentazione).</li>
+<li>Compartimento parzialmente stagno con scarico a gravità verso sentina (valvola sotto il thruster).</li>
+<li>Contiene <strong>0,3 l di olio SAE 90</strong>.</li>
+<li>A secco: aprire interruttore generale e scollegare la spina sopra il lavello.</li>
+</ul>
+<h2>Ricambi (codici)</h2>
+<table>
+<thead>
+<tr>
+<th>Pezzo</th>
+<th>Codice</th>
+<th>Note</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Guarnizioni schiuma neoprene (3 pz)</td>
+<td>110×60</td>
+<td>Dal 2015 tutte e 3 uguali</td>
+</tr>
+<tr>
+<td>Cuscinetti (3 pz)</td>
+<td>6006 JEM (aperto)</td>
+<td>Da 2016: 2 chiusi 6006 2RS + 1 aperto</td>
+</tr>
+<tr>
+<td>Paraolio albero</td>
+<td>30×42×8</td>
+<td>Da 2016 Amel consiglia <strong>29×42×8</strong></td>
+</tr>
+<tr>
+<td>Paraolio interno</td>
+<td>60×80×12</td>
+<td>Si monta dall'interno, cabina prua</td>
+</tr>
+<tr>
+<td>O-ring</td>
+<td>78,00×3,00</td>
+<td></td>
+</tr>
+<tr>
+<td>O-ring</td>
+<td>40,00×2,50</td>
+<td></td>
+</tr>
+<tr>
+<td>Cuscinetto motore elettrico</td>
+<td>6204 2RS JEM</td>
+<td>In alto lato motore; mai sostituito</td>
+</tr>
+<tr>
+<td>Olio</td>
+<td>SAE 90, <strong>0,3 l</strong></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Strumento critico:</strong> "Amel Special Tool" in legno, galleggiante, per la rimonta in acqua.</p>
+<h2>Procedura revisione (in acqua o in secco)</h2>
+<p>Il gruppo piede pesa ~15 lbs (6 kg): fibra di carbonio e vetroresina. Tempo alla prima esperienza: 2 persone × 4 mezze giornate.</p>
+<ol>
+<li>Rimuovere materassi; doppia protezione zona; marcatura del thruster.</li>
+<li>Fascione (band clamp) attorno all'alloggiamento nero con corda a una bitta = sicurezza anticasco.</li>
+<li>Asciugamani per non perdere pezzi; servono pinze a 90°.</li>
+<li>Abbassare il thruster di 1 pollice per scaricare le tenute.</li>
+<li>Togliere il band clamp dalla base del motore (bussola 13 mm); poi le <strong>4 viti esagonali con rondelle elastiche</strong>: tolta l'ultima il piede cade → sostenere o montare lo strumento Amel (sigillare giunto con nastro, calare con corda; in secco scala/sostegno).</li>
+<li>Se cade un pezzo in sentina: provare togliendo il coperchio sopra il condizionatore.</li>
+<li>Capovolgere l'unità e scaricare l'olio in un secchio. <strong>Olio lattiginoso = acqua dentro</strong>: sciacquare più volte con solvente minerale/Stoddard finché chiaro, far drenare ore.</li>
+<li>Rimuovere guarnizione schiuma interna + 2 guarnizioni incollate (colla da contatto) sulla calotta antitorzione. Quella interna è diversa dalle altre due.</li>
+<li>Tenuta labbro superiore del pozzo: 2 viti di ritenzione; collassare il labbro con cacciavite; nuova tenuta imbottita di grasso fissata con RTV.</li>
+<li>Tenuta labbro dell'albero elica: slide hammer + viti minuscole. Punta da <strong>1/16"</strong>, perforare lentissimamente (la sede è in vetroresina). Fissare con RTV. Trucco (Colin Streeter #332): premere la nuova tenuta con filo piatto di lima finché sporge ~3 mm sotto il bordo esterno → sigilla perfettamente (test 2,5 h SAE90 senza perdite).</li>
+<li>Estrazione cuscinetti: uno a mano, l'altro con estrattore proteggendo la plastica tenera con <strong>4–5 monete</strong>. Montaggio: martello di gomma + tubo PVC; serve molta forza (NIKIMAT ha usato una gru idraulica d'auto).</li>
+<li>Trattare anticrosalivamente le zone del fondo motore; antivegetativa sull'unità (attenzione ad alcuni punti).</li>
+<li>Versare <strong>0,3 l SAE 90</strong>; grasso intorno all'albero; colla da contatto sulla guarnizione schiuma; distanziale circolare.</li>
+<li>Remozione: paraolio e guarnizione passano attraverso lo strumento Amel (grasso sul paraolio; piccolo peso subacqueo sullo strumento perché galleggia). Per rivitare può servire abbassare leggermente il motore elettrico.</li>
+<li>Riallineamento: le tenute nuove non compresse cambiano la quota di ritrazione → <strong>tirare il filo anteriore destro</strong> per comprimere le guarnizioni e allineare il foro del perno, poi inserire il perno.</li>
+</ol>
+<h3>Consigli pratici</h3>
+<ul>
+<li>Nastro adesivo comune meglio del rescue tape per sigillare i fori durante la calata (il rescue tape è troppo spesso per il pozzo).</li>
+<li>Nastro blu sul trapano per forare le viti di ritenzione solo alla profondità giusta.</li>
+<li>Bilanciamento: troppo peso a prua → barca a ~3 cm dall'acqua (pericoloso); dopo ribilanciamento ~7 cm.</li>
+</ul></section>
+<section id="p7" class="page"><h1>Trasmissione AMEL, elica AUTOPROP e albero elica</h1><h1>07 — Trasmissione AMEL, elica AUTOPROP e albero elica</h1>
+<p><strong>Fonti:</strong> Users Guide v2.9 (EN), Optional equipment v2.5 (EN)</p>
+<h2>Trasmissione AMEL</h2>
+<ul>
+<li>Davanti al riduttore idraulico: due coppie di <strong>ingranaggi conici in bagno d'olio</strong> → silenziosa e affidabile.</li>
+<li><strong>Freno idraulico</strong> che blocca l'albero in navigazione a vela: l'elica si mette in bandiera (feathering) riducendo la resistenza.</li>
+<li>Giunto elastico in gomma antiurto.</li>
+<li>Olio: <strong>8 l di 15W40</strong>, cambio ogni <strong>2 anni</strong>; cambio <strong>2 l ATF</strong> (ogni 4 anni o 800 h per bussola/guarnizioni albero).</li>
+</ul>
+<h2>Elica H6 AUTOPROP</h2>
+<ul>
+<li>Tre pale in bronzo a <strong>bandiera automatica</strong>, <strong>Ø 566 mm, mano sinistra</strong>; ogni pala libera 360° (passo ottimale avanti/indietro).</li>
+<li>Elica fissa di scorta a 3 pale sotto la cuccetta tribordo di prua.</li>
+<li>Incrostazioni anche lievi → vibrazioni e calo giri: pulire e ingrassare con silicone (annuale).</li>
+</ul>
+<h2>Albero elica con alternatore (opzione)</h2>
+<ul>
+<li>Fino a <strong>20 A</strong>, efficiente da <strong>7 nodi</strong>.</li>
+<li>Disinseribile elettricamente vicino alla trasmissione.</li>
+<li><strong>Mai innestato con motore in marcia.</strong></li>
+<li>Procedura d'innesto: motore avviato senza innesto → innesto in retro per aprire le pale → folle → eccitazione ON → motore spento.</li>
+<li>Spia verde = OK; rossa = rotazione insufficiente.</li>
+</ul>
+<h2>Tagliacime (opzione)</h2>
+<ul>
+<li>Montato sull'albero elica; taglia automaticamente cima/filo avvoltosi all'elica.</li>
+<li>Manutenzione: solo pulizia e piccola affilatura in secca; <strong>guanti obbligatori</strong>; chiudere l'erogazione gasolio prima di intervenire.</li>
+</ul>
+<h2>Sostituzione C-Drive — sequenza fotografica (s/v Kristy SM#243, gruppo AYAO) ★★★</h2>
+<p>Documenti originali: <a href="docs/cdrive-super-maramu.pdf">C Drive Super Maramu</a> · <a href="docs/cdrive-kit-isolation-yanmar.pdf">Kit isolamento Yanmar</a> · <a href="docs/cdrive-transmission-fonte.pdf">Trasmissione in fonte</a></p>
+<p>Sequenza foto dell'intervento (smontaggio → sostituzione → rimonta):</p>
+<p><img alt="C-Drive 1" src="docs/img/cdrive-01.jpg" />
+<img alt="C-Drive 2" src="docs/img/cdrive-02.jpg" />
+<img alt="C-Drive 3" src="docs/img/cdrive-03.jpg" />
+<img alt="C-Drive 4" src="docs/img/cdrive-04.jpg" />
+<img alt="C-Drive 5" src="docs/img/cdrive-05.jpg" />
+<img alt="C-Drive 6" src="docs/img/cdrive-06.jpg" /></p></section>
+<section id="p8" class="page"><h1>Avvolgibili, alberatura e sartia</h1><h1>08 — Avvolgibili, alberatura e sartia</h1>
+<p><strong>Fonti:</strong> Users Guide v2.9 (EN) · rapporto NIKIMAT "Furler Box shaft removal" (EN, 2013)</p>
+<h2>Configurazione</h2>
+<ul>
+<li>Ketch: fiocco su forestay avvolgibile, <strong>randa avvolgibile in albero</strong>, <strong>mezzana avvolgibile in albero</strong>, bugna elettrica sul boma.</li>
+<li>5 vele triradiali: 3 Dacron + 2 nylon (ballooner + ballooner mezzana). Ispezione velaio ogni <strong>5.000 miglia</strong>; pulizia professionale dopo 3–4 anni d'uso.</li>
+<li>Doppio tangone AMEL: fino a 170°; oltre <strong>15 kn</strong> reali arrotolare insieme fiocco e ballooner; ballooner mezzana fino a 15 kn tra 80° e 150°.</li>
+<li>Triatico isolato elettricamente (antenna).</li>
+</ul>
+<h2>Avvolgifiocco</h2>
+<ul>
+<li>Elettrico, comando in pozzetto; forestay ingrassato dentro il tubo (il grasso può colare nei paesi caldi; il motore è sigillato).</li>
+<li>Uso manuale di emergenza: sollevare il perno frizione e ruotarlo di ¼ di giro.</li>
+<li>Manutenzione annuale: ingrasso perno frizione; ogni 2 anni sistema di rilascio.</li>
+</ul>
+<h2>Randa in albero</h2>
+<ul>
+<li>Sblocco manuale: allentare le <strong>4 viti del motore</strong> e abbassarlo.</li>
+<li>Durante lo svolgimento tirare anche la bugna; drizze da tendere (babordo fiocco, tribordo randa) se compaiono pieghe.</li>
+<li>Bugna elettrica sbloccabile: vite superiore del bozzello + cima sulla bitta incorporata.</li>
+<li>Spazzole carboncine motori randa/boma: controllo annuale, ri-stagnatura ogni 2 anni.</li>
+</ul>
+<h2>Regole d'uso cantiere</h2>
+<ul>
+<li>Non issare il fiocco sopravvento.</li>
+<li>Issare randa/mezzana tra <strong>0 e 40°</strong> di vento per evitare sfregamenti sull'albero.</li>
+<li>Prima di ogni navigazione: verificare e provare <strong>tutti gli sblocchi di sicurezza</strong> degli avvolgibili.</li>
+</ul>
+<h2>Riparazione documentata — estrazione albero trasmissione furler/outhaul (NIKIMAT, 2013)</h2>
+<p>Sintomo: necessità di estrarre l'albero dalla trasmissione del furler dell'outhaul (motore elettrico collegato).</p>
+<ol>
+<li>Allentare il bullone inferiore (poi sostituirlo con uno <strong>molto più lungo</strong>, stessa filettatura).</li>
+<li>Cric idraulico d'auto sul ponte protetto da legno + piastra metallica.</li>
+<li>Sollevare lentamente: l'albero inizia a uscire; finire la spinta con il bullone lungo.</li>
+<li>Passaggi non fotografati: rimuovere le <strong>4 viti della trasmissione</strong> (con motore elettrico attaccato) e i <strong>3 bulloni scatola-motore</strong>.</li>
+<li>A lavoro concluso il motore elettrico viene assicurato all'albero (masto).</li>
+</ol>
+<p>Trucco chiave: bullone allungato + cric come estrattore a spinta. Proteggere sempre il ponte.</p>
+<h2>Sostituzione sfere cuscinetti del swivel del forestay (Lady Annila SM#232, 1998) ★★★</h2>
+<p>Guida fotografica completa: <a href="docs/forestay-swivel-ball-bearing.pdf">PDF originale</a> (Annsofie &amp; Jonas Svanberg, sailinglife.se)</p>
+<ul>
+<li>Il swivel si smonta <strong>solo dopo</strong> aver rimosso motore/riduttore del furler (vedi sotto).</li>
+<li>Tre parti: tubo GRP interno, parte interna swivel, parte esterna. Cuscinetti superiore e inferiore su sfere <strong>Ø 9,5 mm</strong>, inserite da fori laterali chiusi da tappini plastici.</li>
+<li>Il <strong>tubo GRP</strong> è il consumabile tipico: dopo ~60.000 miglia usura ~0,5 mm; Amel lo fornisce comunicando il <strong>diametro del profilo alluminio</strong> del forestay.</li>
+<li>Rimontaggio: i due anelli plastici di guida vanno montati attorno alla cima dall'alto, dopo il reinserimento della cima nel riduttore.</li>
+</ul>
+<p>Disegno del furler e piastra di innesto perno (dai documenti originali della cartella):</p>
+<p><img alt="Disegno furler fiocco" src="docs/img/jib-furler-drawing.jpg" />
+<img alt="Piastra innesto perno furler" src="docs/img/furler-pin-engagement-plate.jpg" /></p>
+<h2>Smontaggio motore/riduttore furler fiocco ★★</h2>
+<p>Procedura forum AYAO (Craig, s/v Sangaris SN#68): <a href="docs/furler-motor-service.doc">documento originale</a></p>
+<ol>
+<li>Forare i rivetti che fissano l'estrusione al forestay.</li>
+<li>Rolling hitch sull'estrusione con la drizza fiocco → winch per staccarla dal suo alloggiamento.</li>
+<li>Rimuovere il motore elettrico (cavi collegati) e legarlo fuori ingombro.</li>
+<li>Legare il riduttore al pulpito PRIMA di allentare il tenditore; abbassare lentamente usando la staffa come fulcro.</li>
+<li>Svitare i 2 bulloni della staffa. Occasione buona per estrarre, pulire e ingrassare la cima.</li>
+</ol>
+<p>⚠️ NON sostituire i rivetti con bulloni: Amel li ha progettati per cedere (come una spine) se si avvolge con la drizza ballooner bloccata — salvano l'estrusione.</p>
+<h2>Sartia volante / di emergenza ★★★</h2>
+<p>Documento tecnico produttore 595-305-E: <a href="docs/inner-forestay-fitting.pdf">PDF originale</a></p>
+<ul>
+<li>Posizione corretta: vicino alla testata, ~<strong>300 mm sotto il headbox</strong>, comunque <strong>sopra il 93% dell'altezza del forestay</strong> → sostenuta dall'astraggente, niente runner.</li>
+<li>Diametro uguale o uno sotto il forestay. Attacchi mast per occhi: Ø5 mm (517-904-01), Ø6 mm (517-905-01), Ø7–8 mm (517-911-01).</li>
+<li>Stivaggio: ripiegata davanti alle crocette, tirante leggero 4:1 per tenerla tesa e lontana da attriti.</li>
+</ul>
+<p>Foto della trinquette (staysail) dai documenti originali:</p>
+<p><img alt="Trinquette 1" src="docs/img/staysail-01.jpg" />
+<img alt="Trinquette 11" src="docs/img/staysail-11.jpg" /></p></section>
+<section id="p9" class="page"><h1>Carrello boom extension (main boom car)</h1><h1>09 — Carrello boom extension (main boom car)</h1>
+<p><strong>Fonte:</strong> rapporto NIKIMAT (EN)</p>
+<h2>Componente</h2>
+<p>Carrello principale del boom extension: piste a sfere, guscio superiore + 2 semigusci inferiori, gancio (shackle) su barra metallica.</p>
+<h2>Procedura ricostruzione</h2>
+<ol>
+<li>Irrigare ogni bullone/dado (6 bulloni) con <strong>ZEP 45</strong> e attendere.</li>
+<li>Smontaggio con bussola <strong>5,5 mm</strong> e cacciavite. In pratica 5 bulloni su 6 si spezzano.</li>
+<li>Bulloni originali: <strong>6-32 × 1″</strong>; dadi probabilmente <strong>M3</strong>. I 6-32 vanno bene comunque, solo più stretti da inserire.</li>
+<li>Estrarre i bulloni rotti: colpi di martello dal retro + chiave a morsetto (vice grip).</li>
+<li>Togliere coperchio superiore e semigusci inferiori; la barra del gancio scorre fuori.</li>
+<li>Montare il nuovo shackle Amel sulla barra (l'originale mancava della rondella plastica/nylon).</li>
+<li>Ripristino piste a sfere: un set diviso in 2 gruppi, sfere spinte una a una con un piccolo cacciavite lungo tutta la pista, prima un lato poi l'altro; ripetere capovolto per la pista inferiore.</li>
+<li>Rimontaggio coperchi con viti nuove <strong>3 mm × 25</strong> (a esagonale/incassato allen se non trovate Phillips).</li>
+<li><strong>Loctite</strong> sui bulloni inferiori.</li>
+</ol>
+<h2>Consigli</h2>
+<ul>
+<li>Tenere scorta di bulloni 3×25 con dadi.</li>
+<li>Se si ordina un carrello di ricambio (randa o mizzana), ordinare anche uno shackle extra: la spedizione non aumenta sensibilmente.</li>
+</ul></section>
+<section id="p10" class="page"><h1>Pompa Calpeda: sostituzione tenuta meccanica</h1><h1>10 — Pompa Calpeda: sostituzione tenuta meccanica</h1>
+<p><strong>Fonte:</strong> documento illustrato in 18 fotogrammi (modello pompa non specificato)</p>
+<h2>Sintomo</h2>
+<p>Perdita dalla pompa → sostituzione della tenuta meccanica dell'albero (shaft seal).</p>
+<h2>Procedura</h2>
+<ol>
+<li>Smontare il corpo pompa.</li>
+<li>Estrarre la girante.</li>
+<li>Rimuovere la <strong>chiavetta di albero</strong>.</li>
+<li>Smontare il corpo posteriore: esce <strong>insieme alla vecchia tenuta</strong>.</li>
+<li>Pulire accuratamente tenuta e sede.</li>
+<li>Nuova tenuta = due parti: <strong>grafite a superficie specchiata</strong> (fissa) + <strong>parte rotante</strong> solidale all'albero.</li>
+<li><strong>Immergere in acqua</strong> la parte in grafite e infilarla sull'albero con la superficie lucida rivolta verso di sé.</li>
+<li>Immergere in acqua anche la parte rotante e infilarla spingendola a mano fino in fondo.</li>
+<li>Spingere la parte rotante con un <strong>tubo</strong>, lasciando libero l'accesso alla sede della chiavetta.</li>
+<li>Reinserire la chiavetta con una pinza.</li>
+<li>Pulire la tenuta esterna del corpo pompa.</li>
+<li>Rimontare il corpo anteriore.</li>
+<li>Rimontare la girante bloccandola con <strong>doppio dado</strong>.</li>
+<li><strong>Prima dell'uso: far girare l'albero qualche minuto a bassa velocità</strong> per assestare le superfici di tenuta.</li>
+</ol>
+<h2>Consigli</h2>
+<ul>
+<li>Bagnare in acqua entrambe le facce della tenuta prima dell'infilaggio.</li>
+<li>Non dimenticare la chiavetta: la parte rotante deve lasciarne visibile la sede.</li>
+</ul></section>
+<section id="p11" class="page"><h1>Idraulica, acqua e WC</h1><h1>11 — Idraulica, acqua e WC</h1>
+<p><strong>Fonte:</strong> Users Guide v2.9 (EN)</p>
+<h2>Presa a mare (unica)</h2>
+<ul>
+<li>Sala macchine, prua-tribordo: seacock in poliestere + valvola + filtro con cestello pulibile e <strong>sensore di ostruzione con allarme acustico/visivo in discesa</strong>.</li>
+<li>Anelli di serraggio dopati sui tubi acqua di mare.</li>
+<li>Distribuzione a: motore, generatore, WC prua e poppa, clima, dissalatore, lavaggio ancora.</li>
+</ul>
+<h2>Sentina</h2>
+<ul>
+<li>Sump poppiera nella chiglia: raccoglie acque grigie di docce, lavello, lavatrici, gavone ancora.</li>
+<li>Pompa elettrica (aspira fino a 10 cm dal fondo, galleggiante + allarme guasto) e <strong>pompa manuale</strong> in pozzetto sotto il volante (manovella = gambo del tavolo del pozzetto; uso <strong>settimanale</strong> consigliato).</li>
+</ul>
+<h2>Acqua dolce</h2>
+<ul>
+<li>Serbatoio <strong>1.000 l</strong> nella chiglia; rabbocco dal pozzetto sotto il volante.</li>
+<li>Pompa acqua dolce in sala macchine (turbina in bronzo — <strong>non farla girare a secco</strong>).</li>
+<li>Pompa di emergenza sotto la lavastoviglie; livellino a tubo galleggiante in discesa.</li>
+<li>Filtro potabile SEAGULL IV (opzione): sotto lavello destro, cartuccia RS-1, 4 l/min, ~4.000 l o minimo annuale, microfiltrazione 0,4 µm.</li>
+</ul>
+<h2>Scaldabagno</h2>
+<p>45 l; riscaldato dal motore (~20 min) o resistenza 220 V (~2 h). Manutenzione: anodo annuale; pulizia interna da calcare + anodo magnesio ogni <strong>3 anni</strong>.</p>
+<h2>WC elettrici</h2>
+<ul>
+<li>Pompa a diaframma: sostituire in caso di perdite/mancanza aspirazione.</li>
+<li>Niente prodotti abrasivi/aggressivi; risciacquare con dolce dopo lunghi fermi.</li>
+<li>Serbatoi neri (opzione): vietato scaricarli in mare; svuotare solo in porti attrezzati; risciacquo con dolce + poco candeggina.</li>
+</ul>
+<h2>Dissalatori (opzioni)</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>50 l/h</th>
+<th>150 l/h</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Alimentazione</td>
+<td>220 V (via caricatore/gen.) o 24 V</td>
+<td>Solo 220 V da generatore</td>
+</tr>
+<tr>
+<td>Filtri</td>
+<td>5 µm</td>
+<td>25 µm + 5 µm</td>
+</tr>
+<tr>
+<td>Pannello</td>
+<td>In cucina sopra lavello sinistro: 3 spie qualità, ON/OFF, contatore ore, flussometro, manometro AP</td>
+<td>3 sezioni, 2 manometri BP/AP</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>Avvio: 1 min senza pressione poi taratura in zona verde; sensore qualità rigetta automaticamente l'acqua salata; eccesso pressione → spia rossa e arresto.</li>
+<li>Rubinetto a 3 vie: verticale = mare, orizzontale = risciacquo dolce.</li>
+<li>Svernaggio: risciacquo mensile o sterilizzante (+ glicerina); drenare il tubo di vetro del flussometro; sterilizzazione membrane annuale.</li>
+</ul>
+<h2>Svernaggio circuiti</h2>
+<p>Svuotare pompe/scaldabagno/rubinetti; 0,2 l candeggina nel serbatoio se a secco; <strong>2 l antigelo per ogni WC</strong>; risciacquare i circuiti mare (motore, generatore, WC, clima, lavaggio ancora) con dolce/antigelo.</p>
+<h2>Serbatoi neri — schema impianto e problemi noti (gruppo AYAO)</h2>
+<p>Schema disegnato da Gary Silver (s/v Liahona SM#335): <a href="docs/holding-tank-plumbing.pdf">PDF originale</a> ★★★</p>
+<ul>
+<li>Pump-out dal fitting pozzetto WC: aspirazione con guarnizione; il tubo verticale arriva quasi a fondo serbatoio → svuota completamente.</li>
+<li>Se la mandata si ottura si può sturare <strong>da sopra</strong> tramite il fitting pozzetto (standpipe e mandata sono allineati): niente accesso da sottobordo.</li>
+</ul>
+<p>Corrosione manica in rame e rifacimento (ALETES SM#240, 2019): <a href="docs/holding-tank-riser-repair.pdf">PDF originale</a> ★★★</p>
+<ul>
+<li>Su alcuni scafi il raccordo verticale è una <strong>manica in rame vetrificata nel serbatoio</strong>: col tempo buca per corrosione → perdite esterne e, dentro, distacco del riser: i rifiuti finiscono sul FONDO del serbatoio e scolando il riser si svuota tutto nella vasca doccia.</li>
+<li>Difese anti-ritorno a 3 livelli (joker valve + valvola di ritegno + pompa manuale "locking") inefficaci nel tempo per incrostazioni calcaree.</li>
+<li>Soluzione radicale documentata: rimuovere tutto il rame, alesare il passaggio vetroresina (<strong>+2 mm di gioco</strong>), passare un <strong>tubo sanitario continuo</strong> dalla valvola vicino alla pompa fino a cima serbatoio, sigillare con resina epossidica versata tramite tubo PVC (putty sotto il giunto per trattenere la resina).</li>
+</ul>
+<h2>Dissalatore — membrane FilmTec</h2>
+<p>Manuale tecnico ufficiale DuPont FilmTec RO membranes (v7, ago 2021) per manutenzione approfondita membrane: <a href="docs/filmtec-ro-membranes-manual.pdf">PDF originale</a> ★★★★</p></section>
+<section id="p12" class="page"><h1>Optional Super Maramu 2000</h1><h1>12 — Optional Super Maramu 2000</h1>
+<p><strong>Fonte:</strong> Optional equipment, sez. 7 manuale utente, v2.5 nov. 2002 (EN). Nessun prezzo riportato.</p>
+<h2>Energia</h2>
+<table>
+<thead>
+<tr>
+<th>Opzione</th>
+<th>Dettagli</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Caricabatterie 30 A</td>
+<td>Da banchina; interruttore sul quadro 220 V</td>
+</tr>
+<tr>
+<td>Caricabatterie 100 A (Comfort Pack)</td>
+<td>24 V/100 A da generatore</td>
+</tr>
+<tr>
+<td>Trasformatore 110/220 V 6.000 W</td>
+<td>Sala macchine sinistra; a 60 Hz non funzionano dissalatore/microonde/lavatrice/lavastoviglie</td>
+</tr>
+<tr>
+<td>Inverter 24/220 V</td>
+<td>Non per grossi carichi; microonde fa scattare la protezione dopo 3–4 min (limite voluto)</td>
+</tr>
+<tr>
+<td>Alternatore albero elica</td>
+<td>≤20 A da 7 kn; mai innestato con motore in marcia; vedi <a href="#p7">07</a></td>
+</tr>
+</tbody>
+</table>
+<h2>Acqua</h2>
+<ul>
+<li>Serbatoi neri ×2 (vietato scarico a mare; svuotamento solo in porto; risciacquo dolce + candeggina)</li>
+<li>Dissalatore 50 l/h / 150 l/h → <a href="#p11">11</a></li>
+<li>Filtro potabile SEAGULL IV, cartuccia RS-1 (~4.000 l)</li>
+</ul>
+<h2>Riscaldamento e ventilazione</h2>
+<h3>Stufa a gasolio EBERSPÄCHER D5LC</h3>
+<ul>
+<li>~4.800 W max; 4 temperature + ventilazione; uscite aria: dinette, cabina prua, poppa.</li>
+<li>Consumo in 4ª ~<strong>0,58 l/h</strong>; unità nel bagno di poppavia sinistra; gasolio dal filtro decantatore (con shut-off); scarico a sinistra sullo scafo; presa d'aria in pozzetto (portacime, piede albero mizzen).</li>
+<li><strong>Sicurezza:</strong> in caso di allagamento a prua o chiusura paratia stagna, chiudere l'uscita in cabina prua con la leva inox nella mensola sinistra della dinette (sopra la fluxgate). Non ostruire mai tutte le uscite insieme. Dopo lo spegnimento attendere <strong>5 min</strong> prima di togliere il 24 V.</li>
+</ul>
+<h3>Ventilazione aria fresca</h3>
+<ul>
+<li>Interruttore sotto il companionway; bocchette chiudibili in dinette/cabine; ~2 A @ 24 V; unità nel bagno di poppavia sinistra; stessa leva di chiusura emergenza.</li>
+</ul>
+<h3>Ventilatori girevoli</h3>
+<ul>
+<li>Supporti multipli, 24 V, 2 velocità, spostabili tra ambienti.</li>
+</ul>
+<h2>Navigazione e coperta</h2>
+<ul>
+<li>Luci di navigazione a livello ponte DHI: rosso 112,5° 25 W / verde 112,5° 25 W / bianco poppa 135° 10 W; interruttore "Navigation lights on deck" sul quadro 24 V.</li>
+<li>Pilota rotativo: commutatore in cucina sopra il lavello (pos.1 lineare, pos.2 rotativo, verticale = nessuno).</li>
+<li>3ª drizza albero maestro a tribordo (gennaker/spinnaker).</li>
+<li>Tagliacime su albero elica → <a href="#p7">07</a>.</li>
+<li>Filtro gasolio RACOR doppio: selezione con shut-off tra i due filtri (<strong>mai entrambi insieme</strong>; verticale = entrambi chiusi).</li>
+</ul>
+<h2>Comfort</h2>
+<ul>
+<li>2° congelatore in dinette; interruttore sul quadro 24 V accanto al frigo.</li>
+<li>Televisione: amplificatore mensola destra, antenna in testa all'albero maestro.</li>
+<li>Compressore ossigeno BAUER J II 3W: bagno di poppavia sinistra; 24 V, 2,2 kW, 100 l/min, max 245 bar; interruttore "Compresseur" sul quadro 220 V.</li>
+<li>Chiusura companionway con piastra inox + 2 lucchetti (door locker).</li>
+</ul>
+<h2>Comfort Pack</h2>
+<table>
+<thead>
+<tr>
+<th>Elemento</th>
+<th>Dettagli</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Motore</td>
+<td>Yanmar 4JH3-HTE 100 CV → <a href="#p2">02</a></td>
+</tr>
+<tr>
+<td>Alternatore servizi</td>
+<td>24 V/<strong>175 A</strong>, carica da 1.500 giri</td>
+</tr>
+<tr>
+<td>Batterie</td>
+<td>12× 12 V/105 Ah serie-parallelo = <strong>630 Ah @ 24 V</strong></td>
+</tr>
+<tr>
+<td>Caricabatterie</td>
+<td>100 A da generatore</td>
+</tr>
+<tr>
+<td>Cucina</td>
+<td>Gas 4 fuochi (1,0 + 2×1,5 + 2,2 kW) + forno 1,8 kW (36 l) + grill 1,6 kW; butano; accensione elettronica 1,5 V DC; ricordare l'interruttore valvola sicurezza gas sul quadro 24 V</td>
+</tr>
+</tbody>
+</table>
+<h2>Cucina e gas (standard)</h2>
+<p>Bombole con riduttore ciascuna; <strong>shut-off elettrico del gas sul quadro 24 V</strong>; filtro di ventilazione sopra il piano da ispezionare/sostituire; prima di qualsiasi intervento chiudere shut-off e riduttori.</p></section>
+<section id="p13" class="page"><h1>Manutenzione programmata</h1><h1>13 — Manutenzione programmata</h1>
+<p><strong>Fonte:</strong> Users Guide v2.9 (EN), calendario manutenzione</p>
+<h2>Calendario</h2>
+<table>
+<thead>
+<tr>
+<th>Intervallo</th>
+<th>Interventi</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Giornaliero</strong></td>
+<td>Stato di carica e metodo di ricarica batterie; pressioni mini/maxi acqua; livello acqua dolce</td>
+</tr>
+<tr>
+<td><strong>Settimanale</strong></td>
+<td>Pulizia filtro acqua di mare + ingrasso coperchio; prova leve seacock; detergente in sentina; controllo galleggiante pompa sentina; uso pompa manuale pozzetto</td>
+</tr>
+<tr>
+<td><strong>200 h o 1 anno</strong> (motore E generatore)</td>
+<td>Olio + filtri; girante pompa acqua mare; cinghie; serraggio bulloni; olio cambio (ATF); liquido refrigerante; supporti gomma; filtro aria</td>
+</tr>
+<tr>
+<td><strong>500 h totali o 1 anno</strong></td>
+<td>Cartuccia RACOR 30 micron + pulizia decantatore</td>
+</tr>
+<tr>
+<td><strong>6 mesi</strong></td>
+<td>Ispezione anodi zinci</td>
+</tr>
+<tr>
+<td><strong>Annuale</strong></td>
+<td>Anodi zinci; verifica dispersioni e continuità massa (rilevatore ≥2 volte/anno); ingrasso perno frizione avvolgifiocco; smontaggio+ingrasso gipsy verricello, risciacquo e controllo catena; pulizia sentina; anodo scaldabagno; pulizia scafo sottogalleggio + antivegetativa <strong>dura</strong> (non erodente, no vernice su sensori Sonic Speed/piastre massa/anodi); ingrasso silicone elica; WD-40 connettori quadri; filtri acqua potabile; sterilizzazione membrane dissalatore; controlli sartiame/tenditori/alberi; zattera/razzi/giubbotti; spazzole motori randa</td>
+</tr>
+<tr>
+<td><strong>2 anni</strong></td>
+<td>Olio trasmissione AMEL (<strong>8 l 15W40</strong>) + bussola e guarnizioni albero elica (o 800 h); olio bow thruster (<strong>0,3 l SAE 90</strong>) + antivegetativa nel pozzetto; spazzole carboncine alberi/boma (ri-stagnare); sistema di rilascio avvolgifiocco</td>
+</tr>
+<tr>
+<td><strong>3 anni</strong></td>
+<td>Pulizia interna scaldabagno (calcare) + anodo magnesio; pulizia professionale vele</td>
+</tr>
+<tr>
+<td><strong>4 anni</strong></td>
+<td>Liquido raffreddamento motore e generatore; olio cambio ATF</td>
+</tr>
+<tr>
+<td><strong>5 anni</strong></td>
+<td>Olio verricello; olio dissalatore; <strong>sostituzione seacock</strong></td>
+</tr>
+<tr>
+<td><strong>Ogni 5.000 miglia</strong></td>
+<td>Ispezione vele da velaio</td>
+</tr>
+<tr>
+<td><strong>Dopo ogni crociera</strong></td>
+<td>Risciacquo vele e alberi (primi 4 m); asciugatura vele; vaselina nelle testine idrauliche; detergente in sentina</td>
+</tr>
+</tbody>
+</table>
+<h2>Batterie — regola d'oro</h2>
+<p>Si guastano perché poco caricate: max 4 anni a terra con shore power, ~18 mesi in navigazione se non caricate abbastanza. Recupero: carica individuale 14–16 V, 10–20 A.</p>
+<h2>Scafo (alaggio)</h2>
+<ul>
+<li>Sollevamento con bulloni a U prua/poppa, <strong>4 cinghie ≥ 6 m</strong>, cavalletti a vite fortemente raccomandati.</li>
+<li>Idropulitrice: distanza ≥ 20 cm, <strong>pressione ≤ 80 bar (~1.130 PSI)</strong>, getto a 45°, senza abrasivi.</li>
+<li>Riparazioni vetroresina solo a personale qualificato.</li>
+</ul>
+<h2>Svernaggio</h2>
+<p>Vele ritirate/fiocco in sacca dentro; risciacquo ponte (sotto alberi, avvolgibili, verricello, winch, antenna GPS); svuotamento circuiti dolce e WC (antigelo 2 l/WC); risciacquo circuiti mare con dolce/antigelo; perno bow thruster impostato; portelli bloccati.</p>
+<h2>Timone — rimozione e revisione (SM2K, guida fotografica Olaf Bauer 2020) ★★★</h2>
+<p>Guida completa 33 pagine: <a href="docs/rudder-removal-sm2k.pdf">PDF originale</a></p>
+<ul>
+<li>Sintomo tipico: crepe del timone in basso su entrambe le lati (vetroresina degradata attorno all'anima).</li>
+<li>Esterno: supportare il timone con cavalletti + cric; aprire la <strong>staffa a U del cuscinetto centrale</strong> (viti piccole); il timone si estrae con i perni (pintle) inox superiore/centrale/inferiore — quello di fondo ha filo saldato sul bullone.</li>
+<li>Interno: sganciare il quadrante dall'albero (dado nylon → serve la <strong>chiave speciale Amel</strong> o cacciavite da officina; contropiastra prima), poi le 3 <strong>giranti dell'albero</strong> tagliate a angolo e reinserite in sequenza.</li>
+<li>Riparazione: pulizia a metallo sano, strati fibra di vetro + primer epossidico, verniciatura antivegetativa.</li>
+<li>Rimonta in ordine inverso: sigillante sui supporti cuscinetti, staffa a U serrata con assi di legno.</li>
+</ul></section>
+<section id="p14" class="page"><h1>Guasti e diagnostica</h1><h1>14 — Guasti e diagnostica</h1>
+<p>Raccolta per sintomo. Fonti: Users Guide v2.9, workshop manual Volvo TMD22, resoconti NIKIMAT/Gary Silver.</p>
+<h2>Motore (valide per diesel con pompa iniezione meccanica — vedi <a href="#p3">03</a>)</h2>
+<table>
+<thead>
+<tr>
+<th>Sintomo</th>
+<th>Causa probabile / verifica</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cilindro "morto"</td>
+<td>A minimo alto allentare i dadi dei tubi uno a uno: l'iniettore che non fa variare i giri è colpevole</td>
+</tr>
+<tr>
+<td>Parte e si ferma / gira irregolare</td>
+<td>Aria nel bassapressione → cercare perdita a monte, spurgo completo (vite filtro + leva manuale, poi dadi iniettori)</td>
+</tr>
+<tr>
+<td>Difficoltà avviamento a freddo</td>
+<td>Candele preriscaldamento: picco 27 A → 14 A dopo ~10 s, 11–12 V; lampada test su alimentazione/continuità</td>
+</tr>
+<tr>
+<td>Fumo nero + calo potenza</td>
+<td>Wastegate turbo tarato basso (TMD/TAMD)</td>
+</tr>
+<tr>
+<td>Consumo olio elevato</td>
+<td>Vetratura canne → Flex-Hone + segmenti; altrimenti tenute/turbina</td>
+</tr>
+<tr>
+<td>Spia carica / batteria scarica</td>
+<td>Alternatore: verificare 14 V costanti con carico 10–15 A; mai scollegare batteria a motore acceso</td>
+</tr>
+<tr>
+<td>Motorino lento ma lucide le luci</td>
+<td>Switch, connessioni, cavi — non il motorino</td>
+</tr>
+<tr>
+<td>Perdita gasolio dal foro della pompa alimentazione</td>
+<td>Membrana rotta → sostituire/ricondizionarla</td>
+</tr>
+<tr>
+<td>Pressione alimentazione insufficiente</td>
+<td>Manometro 0–70 kPa, 10 s avviamento: &lt;75% minima o dimezzamento &lt;30 s = pompa KO</td>
+</tr>
+</tbody>
+</table>
+<h2>Bow thruster</h2>
+<table>
+<thead>
+<tr>
+<th>Sintomo</th>
+<th>Verifica</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Olio lattiginoso nel piede</td>
+<td>Acqua dentro → sciacquare con solvente finché chiaro, sostituire paraoli (vedi <a href="#p6">06</a>)</td>
+</tr>
+<tr>
+<td>Gocciolamento sotto il piede</td>
+<td>Tenuta labbro albero: premere la nuova fino a ~3 mm sotto il bordo esterno</td>
+</tr>
+<tr>
+<td>Non ritira / quota cambiata</td>
+<td>Tenute nuove non compresse: tirare il filo anteriore destro per allineare il foro del perno</td>
+</tr>
+<tr>
+<td>Elica ferma dopo aggancio cima</td>
+<td>Viti nylon sacrificali rotte (normale): sostituire le 6 viti Ø8 mm senza immersione</td>
+</tr>
+</tbody>
+</table>
+<h2>Elettrico</h2>
+<table>
+<thead>
+<tr>
+<th>Sintomo</th>
+<th>Verifica</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Consumi anomali / elettrolisi</td>
+<td>Rilevatore dispersione sulla paratia discesa ("Masse +"/"Masse −"); continuità massa; anodi zinci</td>
+</tr>
+<tr>
+<td>Batterie esaurite di continuo</td>
+<td>Regime di carica insufficiente: 3 sessioni generatore/giorno in navigazione; recupero 14–16 V individuale</td>
+</tr>
+<tr>
+<td>Microonde fa scattare l'inverter</td>
+<td>Limite voluto dell'inverter 24/220: usare generatore</td>
+</tr>
+<tr>
+<td>Dissalatore si arresta, spia rossa</td>
+<td>Eccesso pressione: ritarare ruota pressione in zona verde dopo 1 min senza pressione</td>
+</tr>
+</tbody>
+</table>
+<h2>Idraulica</h2>
+<table>
+<thead>
+<tr>
+<th>Sintomo</th>
+<th>Verifica</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Allarme filtro acqua mare</td>
+<td>Cestello sporco → pulizia settimanale + ingrasso coperchio</td>
+</tr>
+<tr>
+<td>Pompa acqua dolce a secco</td>
+<td>Turbina bronzo: non farla girare a secco; controllare livellino e pompa emergenza sotto lavastoviglie</td>
+</tr>
+<tr>
+<td>WC non aspira</td>
+<td>Pompa a diaframma da sostituire</td>
+</tr>
+<tr>
+<td>Timone gocciola</td>
+<td>Premistoppa in cabina poppa sotto cuccetta: serrare dado nylon di 1/6 di giro (cavi NON lubrificare)</td>
+</tr>
+</tbody>
+</table>
+<h2>Avvolgibili</h2>
+<table>
+<thead>
+<tr>
+<th>Sintomo</th>
+<th>Verifica</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Randa non avvolge</td>
+<td>Sblocco manuale: allentare le 4 viti del motore e abbassarlo; durante lo svolgimento tirare la bugna</td>
+</tr>
+<tr>
+<td>Pieghe sulla vela arrotolata</td>
+<td>Tendere drizze (babordo fiocco, tribordo randa)</td>
+</tr>
+<tr>
+<td>Bugna bloccata</td>
+<td>Sblocco: vite superiore bozzello + cima sulla bitta incorporata</td>
+</tr>
+<tr>
+<td>Albero trasmissione furler/outhaul da estrarre</td>
+<td>Bullone lungo + cric idraulico → <a href="#p8">08</a></td>
+</tr>
+</tbody>
+</table>
+<h2>Carrello boom extension</h2>
+<p>Bulloni che si spezzano allo smontaggio (5 su 6): normale per usura; estrazione con martello dal retro + vice grip; rimontaggio con Loctite → <a href="#p9">09</a>.</p>
+<h2>Pompa Calpeda</h2>
+<p>Perdita dall'albero → sostituzione tenuta meccanica, facce bagnate in acqua, rodaggio a bassa velocità → <a href="#p10">10</a>.</p></section>
+<section id="p15" class="page"><h1>Check-list operative</h1><h1>15 — Check-list operative</h1>
+<p><strong>Fonte:</strong> Users Guide v2.9 (EN), cap. 2</p>
+<h2>Arrivo a bordo</h2>
+<ul>
+<li>Impostare le paratie stagne (porte + barre di compressione + valvole dedicate)</li>
+<li>Verifica batterie e stato carica</li>
+<li>Prova sblocchi di sicurezza avvolgibili</li>
+</ul>
+<h2>Uscita in mare</h2>
+<ul>
+<li>Motore: olio, raffreddamento, spurgo se necessario</li>
+<li>Sganciare il perno di blocco bow thruster solo in porto/manovra</li>
+<li>Vele: issare randa/mezzana tra 0 e 40° di vento; non issare il fiocco sopravvento</li>
+<li>Contacatena azzerato prima delle manovre ancora</li>
+</ul>
+<h2>Arrivo in porto</h2>
+<ul>
+<li>Bow thruster: max 30 s consecutivi, non invertire prima dell'arresto; più efficace con generatore/caricabatterie attivi</li>
+<li>A ormeggio concluso: perno inox di blocco thruster inserito</li>
+<li>Shut-off gas chiuso se si lascia la barca</li>
+</ul>
+<h2>Navigazione a vela</h2>
+<ul>
+<li>Freno idraulico trasmissione inserito → elica in bandiera</li>
+<li>Oltre 15 kn reali: arrotolare insieme fiocco e ballooner</li>
+<li>Ballooner mezzana: fino a 15 kn tra 80° e 150°</li>
+<li>Doppio tangone: tangone + contro-tangone sempre simultanei</li>
+</ul>
+<h2>Ancoraggio</h2>
+<ul>
+<li>Verricello 1.200 W: mai operare la catena con switch On, mai braccia nel pozzo, mai aprire la porta stagna durante l'uso</li>
+<li>Recupero manuale di emergenza: manovella sulla ruota babordo</li>
+<li>Lavare l'ancora con la pompa dedicata a ogni recupero; fermare la pompa quando l'ancora è a posto</li>
+<li>Catena vincolata con clinch su occhiello (tagliabile in emergenza)</li>
+</ul>
+<h2>Rimessaggio invernale</h2>
+<p>Vedi <a href="#p13">13 — Manutenzione programmata</a> §Svernaggio.</p>
+<h2>Partenza per lungo viaggio</h2>
+<ul>
+<li>Gasolio: 600 l pieni (400 l bastano per costiero); acqua idem</li>
+<li>Controllo zattera, razzi, giubbotti</li>
+<li>Verifica anodi, dispersioni, sartia</li>
+</ul></section>
+<section id="p16" class="page"><h1>Risorse online</h1><h1>16 — Risorse online</h1>
+<p><strong>Ultima verifica: 21/08/2026</strong></p>
+<h2>Gruppo AmelYachtOwners (groups.io) ★★★★</h2>
+<p><a href="https://amelyachtowners.groups.io/g/main">amelyachtowners.groups.io/g/main</a> — gruppo proprietari AMEL (registrazione con verifica di proprietà). Sezione <strong>Files</strong> organizzata per modello e sistema: per il Super Maramu vedi cartella <code>01 AMEL, SM (Super Maramu)</code> — manuali EN, schemi elettrici SM2000, trasmissione/elica C-Drive, serbatoi neri, cordiname, vele, rimozione timone, traveller Lewmar. Copie locali dei documenti citati nella wiki: <code>amel-super-maramu/docs/</code>.</p>
+<h2>supermaramu2000.com</h2>
+<p><a href="https://supermaramu2000.com/">supermaramu2000.com</a> — sito dell'ex proprietario dello s/y <strong>NIKIMAT</strong> (SM2K perso a Sint Maarten nell'uragano Irma, set. 2017), mantenuto online a beneficio dei proprietari. Contiene: procedure fotografiche passo-passo, manuali ufficiali in PDF, elenchi ricambi <strong>con part number trascritti dalle fatture Amel</strong> (La Rochelle e Martinique, 2012–2016).</p>
+<ul>
+<li>Riferimenti parti / manuali: ★★★ (dati oggettivi da acquisti reali, verificabili con Amel Spare Parts)</li>
+<li>Procedure fai-da-te: ★★ (esperienza di un singolo proprietario, sempre da confrontare col manuale ufficiale)</li>
+</ul>
+<h2>Manuali ospitati sul sito</h2>
+<table>
+<thead>
+<tr>
+<th>Documento</th>
+<th>Nota</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Owner Manual EN + Optional Equipment + Confort Pack EN/FR</td>
+<td><strong>Li abbiamo già</strong> in <code>fonti/testo-estratto/</code></td>
+</tr>
+<tr>
+<td>Volvo TMD22 Workshop + TMD22P spec</td>
+<td><strong>Già estratto</strong> (pagina <a href="#p3">03</a>)</td>
+</tr>
+<tr>
+<td><strong>Amel Electrical Drawings Part 1 e 2</strong></td>
+<td>⚠️ Il Part 2 che avevamo era scansione illeggibile → scaricare anche il <strong>Part 1</strong> (4,9 MB)</td>
+</tr>
+<tr>
+<td><strong>Polar Chart SM2K</strong> (53 MB)</td>
+<td>Prestazioni di progetto — unico posto dove trovarla</td>
+</tr>
+<tr>
+<td>Onan MDKAL: operator, service, parts + Kubota D1105 workshop</td>
+<td>Completa la pagina <a href="#p4">04</a></td>
+</tr>
+<tr>
+<td>Lofrans: manuale Cayman/Tigres/Falkon, parts list, breakdown post-2012, guida olio cambio</td>
+<td>Per <a href="#p13">13-manutenzione</a></td>
+</tr>
+<tr>
+<td>AutoProp H6: overhaul, bearing replacement kit, custom tools (Gary Silver s/v Liahona #335)</td>
+<td>Per <a href="#p7">07-trasmissione</a></td>
+</tr>
+<tr>
+<td>Dessalator CAT 277 pump: exploded view + specs</td>
+<td>Per <a href="#p11">11-idraulica</a></td>
+</tr>
+<tr>
+<td>Leroy Somer Minibloc MVA (trasmissioni boma/furler), Eumenia GS 5005/5500, Jabsco blower 35440, Bauer Junior II, Lewmar winch Ocean 58</td>
+<td>Manuali componenti specifici</td>
+</tr>
+</tbody>
+</table>
+<h2>Procedure fotografiche (indice per sistema)</h2>
+<h3>Bow thruster → dettagli in <a href="#p6">06</a></h3>
+<p>Overhaul completo · sensore acqua alta · sensori · centralina comando · comando plancia · elica persa · elica bloccata</p>
+<h3>Alberatura e vele → <a href="#p8">08</a></h3>
+<p>Estrazione albero trasmissione outhaul randa · <strong>Leroy Somer vs Bonfiglioli</strong> (trasmissioni) · carrello boma rotto e ricostruzione · carrello mezzana · pennoni spinnaker/bowsprit · carboncini avvolgifiocco elettrico · pista fine mezzana · staysail</p>
+<h3>Motore e trasmissione → <a href="#p3">03</a> / <a href="#p7">07</a></h3>
+<p>ZF Hurth HBW250 sostituzione raffreddamento · gomito scarico Volvo 3582512 · scarico Volvo · turbo TMD22 · tubazioni mancanti · sifone break · presa aria sala macchine · ventole sala macchine · molle a gas portello · sensore temperatura sala macchiine · guarnizioni carta fai-da-te</p>
+<h3>Generatore Onan → <a href="#p4">04</a></h3>
+<p>Sostituzione gomito scarico · regolazione tensione · pulizia pompa acqua · schede MDKAL B 12 V (Kubota D1105)</p>
+<h3>Elettrico → <a href="#p5">05</a></h3>
+<p>Isolatore galvanico · multimetro AC Blue Sea 8247 · deviatori quadro 24 V e 220 V · luce verde quadro 220 V · luci spargitore · massa ground strap</p>
+<h3>Idraulica → <a href="#p10">10</a> / <a href="#p11">11</a></h3>
+<p>Calpeda: sostituzione tenuta albero · pompa acqua dolce AMFA 66B/Reya A66B + pressostato piastra D · filtro a mare Vetus FTR1320 (cestello e coperchio) · sensori otturazione seacock/filtro · pompe sentina AMFA Marina ZZ e Henderson Mk5 · filtri sentina aggiuntivi · serbatoio acqua overflow · dissalatore Duo D60 · sbrinamento frigo · rimozione frigo · lavastoviglie accesso · WC poppiera switch</p>
+<h3>Cucina e comfort → <a href="#p12">12</a></h3>
+<p>Forno/piano Eno: rimozione, pulizia, rimonta · stufa Espar D5LC (+ cambio switch) · Climma Marine Compact 9 EH sostituzione A/C · compressore sub Bauer Junior II + stoccaggio bombole</p>
+<h3>Ancoraggio e pontone</h3>
+<p>Rocna 33 kg + 90 m catena 10 mm con WASI Power Ball · roller àncora · passerella · scaletta bagno · daviti · gomone in lazarette + gonfiatore 24 V · bimini (configurazioni) · tendalino · parafanghi e protezioni cavi ormeggio</p>
+<h3>Punti di ancoraggio carichi (segnali/tarps)</h3>
+<p>Poppiera · cabina prow · pilot berth · macchina da cucire</p>
+<h2>Ricambi NIKIMAT con part number (da fatture)</h2>
+<h3>Pompa Calpeda B-CM20E (A/C) — Coastal Climate Control USA [★★★]</h3>
+<table>
+<thead>
+<tr>
+<th>Ref</th>
+<th>Parte</th>
+<th>Prezzo 2013</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>M3335H</td>
+<td>Kit tenute pompa</td>
+<td>73,59 $</td>
+</tr>
+<tr>
+<td>M3335K</td>
+<td>O-ring copertura frontale</td>
+<td>31,20 $</td>
+</tr>
+<tr>
+<td>M74475B</td>
+<td>Girante 50 Hz</td>
+<td>71,40 $</td>
+</tr>
+<tr>
+<td>M3524 / M3326 / M3527 / M3502 / M75335A</td>
+<td>Condensatori 40+10 / 10 / 3,15 / 2 / 10 µF</td>
+<td>12–40 $</td>
+</tr>
+</tbody>
+</table>
+<h3>Frigo/freezer — Coastal Climate Control [★★★]</h3>
+<p>Termostati freezer E250700 e frigo E250500 (38 $, 2014) · termostato meccanico M3151 · ventola 120×120 mm 12 V 0,38 A E51335C (Capri 50/AH/AV)</p>
+<h3>Dissalatore Duo 60 (Dessalator/Great Water) [★★★]</h3>
+<p>Pressostato HP PRES_CAT 100027 (214 $) · raccordi e flessibili HP DE-PL-EMBO_HP / DE-PL-FLEX_HP · <strong>sonda qualità DE-EL-SONDE (4.100 $!)</strong> · kit O-ring pompa HP 277 (461 $) · condensatore 20 µF · cinghie Gate XPA730 e XPZ925 (28 $) · puleggia completa ruota libera (357 €) · metabisolfito sodio sterilizzante (Amel ref. 3160, 52 €)</p>
+<h3>Varie Amel [★★★]</h3>
+<p>Supporto antenna SSB Amel ref. 1915 (86,88 €, 2015; mount Marcucci 5795426/5795425) · maniglia portelli Goiot Crystal Amel ref. 3208 (52,88 €, 2012)</p>
+<h2>Ordini tipo ad Amel</h2>
+<p>Il sito pubblica 5 ordini reali 2015–2016 (ott. 2015, mar/apr/giu 2016) con riferimenti, prezzi e modalità: utile come esempio di come strutturare un ordine ricambi ad Amel.</p>
+<h2>Azioni suggerite</h2>
+<ol>
+<li>Scaricare dal sito: Electrical Drawings <strong>Part 1</strong>, Polar Chart, manuali Onan/Lofrans/AutoProp/Dessalator → trascinarli in chat per estrazione.</li>
+<li>Le tabelle ricambi sopra vanno incrociate con la <a href="#p15">checklist ricambi</a>.</li>
+</ol></section>
+<section id="p17" class="page"><h1>Rifitto batterie LiFePO4 nel vano originale</h1><h1>17 — Rifitto batterie LiFePO4 nel vano originale</h1>
+<p><strong>Ultima verifica: 21/08/2026</strong></p>
+<h2>Misure del vano batterie (config 1+8)</h2>
+<p>Fonte: <a href="https://supermaramu2000.com/battery_compartment_space.html">supermaramu2000.com/battery_compartment_space.html</a> (s/y NIKIMAT #289, misurazioni dirette ★★★)</p>
+<table>
+<thead>
+<tr>
+<th>Quota</th>
+<th>Valore</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Lunghezza totale</td>
+<td><strong>~162 cm</strong></td>
+</tr>
+<tr>
+<td>Larghezza</td>
+<td>39 cm (si restringe a <strong>33,5 cm</strong> vicino al connettore batterie)</td>
+</tr>
+<tr>
+<td>Altezza utile a prua</td>
+<td><strong>23 cm</strong> (31 cm meno 8 cm di piano in legno)</td>
+</tr>
+<tr>
+<td>Altezza utile a poppa</td>
+<td><strong>21 cm</strong> (25 cm meno 4 cm di piano)</td>
+</tr>
+</tbody>
+</table>
+<p>⚠️ Il piano di appoggio in legno è disomogeneo: prua 8 cm, poppiera 4 cm → l'altezza disponibile NON è uniforme lungo il vano.</p>
+<h2>Vincoli fisici per le LiFePO4</h2>
+<table>
+<thead>
+<tr>
+<th>Vincolo</th>
+<th>Conseguenza</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Altezza ≤ 210 mm solo a poppiera, ≥ 218 mm solo a prua/media</td>
+<td>Batterie alte 215–218 mm vanno messe nella metà prua/media</td>
+</tr>
+<tr>
+<td>Larghezza min 33,5 cm</td>
+<td>Una sola fila di batterie larghe ≤ 330 mm; niente doppia fila con modelli standard</td>
+</tr>
+<tr>
+<td>Limite parallelo BMS</td>
+<td>La maggior parte dei produttori consente <strong>max 4 batterie identiche in parallelo</strong> → il teorico 1.200 Ah (12 mini) non è configurabile in garanzia</td>
+</tr>
+<tr>
+<td>⚠️ Victron Smart 12,8 V (270 mm di altezza; 200Ah = 232 mm)</td>
+<td><strong>NON entrano</strong> nel vano → escluse</td>
+</tr>
+</tbody>
+</table>
+<h2>Configurazione massimale consigliata — 600 Ah servizio</h2>
+<p><strong>3 × 12V 200Ah LiFePO4</strong> (es. Redodo/LiTime standard, ingombro ~533×208×216 mm):</p>
+<table>
+<thead>
+<tr>
+<th>Check</th>
+<th>Calcolo</th>
+<th>Esito</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Lunghezza</td>
+<td>3 × 533 = 1.599 mm ≤ 1.620</td>
+<td>✅ (giusto di 2 cm: poli superiori, ok)</td>
+</tr>
+<tr>
+<td>Larghezza</td>
+<td>208 ≤ 335</td>
+<td>✅</td>
+</tr>
+<tr>
+<td>Altezza</td>
+<td>216 ≤ 230 (prua/media)</td>
+<td>✅ ma ❌ a poppiera (210) → disporre tutte in zona prua/media</td>
+</tr>
+<tr>
+<td>Parallelo</td>
+<td>3 ≤ 4</td>
+<td>✅</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><strong>Capacità servizio: 600 Ah @ 12 V ≈ 7,7 kWh utilizzabili (~6,2 kWh al 80% DoD)</strong></li>
+<li>Peso banco: ~62 kg (contro ~240 kg delle 8 al piombo originali)</li>
+<li>⚠️ Avviamento: nel vano non rimane spazio → mantenere la batteria di avviamento nella sua posizione dedicata (AGM o LiFePO4 dual-purpose/marine cranking)</li>
+<li>Nota: 1.599 su 1.620 mm è al limite — <strong>misurare sul posto prima dell'acquisto</strong>; in alternativa 2×200Ah + 1×100Ah Mini (vedi sotto)</li>
+</ul>
+<h3>Configurazione alternativa "tutto nel vano" — 500 Ah</h3>
+<p>2 × 200Ah (prua) + 2 × 100Ah Mini 260×156×208 mm (poppiera, dove entrano solo batterie basse):
+- Lunghezza: 1.066 + 520 = 1.586 mm ✅ · una delle Mini può fare da <strong>avviamento</strong> (versione dual-purpose)
+- Servizio 500 Ah ≈ 6,4 kWh + avviamento dedicato</p>
+<h2>Marche e costi (prezzi promo 2026, variabili ★★)</h2>
+<table>
+<thead>
+<tr>
+<th>Prodotto</th>
+<th>Dimensioni</th>
+<th>Prezzo indicativo</th>
+<th>Fonte</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Redodo 12V 200Ah (BMS 100 A, IP65)</td>
+<td>533×208×216, 20,8 kg</td>
+<td><strong>~315–350 €</strong> (promo $339.99; listino $699)</td>
+<td>redodopower.com ago 2026 ★★★</td>
+</tr>
+<tr>
+<td>LiTime 12V 200Ah (BMS 100 A)</td>
+<td>522×240×218</td>
+<td><strong>~400–460 €</strong> ($439.99 promo; 4-pack $1.707)</td>
+<td>litime.com ago 2026 ★★★</td>
+</tr>
+<tr>
+<td>LiTime 12V 200Ah <strong>Plus</strong> (BMS 200 A)</td>
+<td>idem</td>
+<td>~370 € in DE (idealo) / $1.024 USA</td>
+<td>idealo.de ★★★</td>
+</tr>
+<tr>
+<td>LiTime/Redodo 12V 100Ah Mini</td>
+<td>260×156×208, ~8,2 kg</td>
+<td>~180–250 €</td>
+<td>siti ufficiali ★★★</td>
+</tr>
+<tr>
+<td>Renogy 12V 200Ah</td>
+<td>—</td>
+<td>~$950 (sconsigliato rapporto prezzo)</td>
+<td>ufinebattery feb 2026 ★★★</td>
+</tr>
+</tbody>
+</table>
+<h3>Budget stimato</h3>
+<table>
+<thead>
+<tr>
+<th>Config</th>
+<th>Componenti</th>
+<th>Costo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Max potenza</strong></td>
+<td>3 × 200Ah Redodo/LiTime</td>
+<td><strong>~1.000–1.300 €</strong></td>
+</tr>
+<tr>
+<td>Equilibrata</td>
+<td>2 × 200Ah + 2 × 100Ah Mini</td>
+<td>~1.150–1.400 €</td>
+</tr>
+<tr>
+<td>Premium (BMS 200 A, alta corrente)</td>
+<td>3 × 200Ah Plus</td>
+<td>~1.200–1.600 €</td>
+</tr>
+</tbody>
+</table>
+<h2>⚠️ Lavori collegati obbligatori (non negoziabili)</h2>
+<ol>
+<li><strong>Caricatore 220 V</strong>: riprofilare/sostituire per curva LiFePO4 (14,2–14,6 V assorbimento, float 13,5 V) — il caricatore Amel originale è per piombo</li>
+<li><strong>Alternatore</strong>: regolazione LiFePO4 (regolatore esterno tipo Balmar/Wakespeed o DC-DC) per evitare surriscaldamento con assorbimento iniziale elevato</li>
+<li><strong>Protezioni</strong>: fusibile principale ridimensionato + sezionatore; cavi verificati per corrente maggiore</li>
+<li><strong>Bassa temperatura</strong>: in navigazione nord le LiFePO4 standard non si caricano sotto 0 °C → preferire versioni self-heating/low-temp se si naviga fuori dai tropici</li>
+<li><strong>Monitor</strong>: shunt/battery monitor (Victron SmartShunt o simile) — le LiFePO4 non sono leggibili col densimetro/tensione semplice</li>
+</ol>
+<h2>Fonti</h2>
+<ul>
+<li>Misure vano: supermaramu2000.com (NIKIMAT #289) ★★★</li>
+<li>Dimensioni/prezzi batterie: schede tecniche Redodo e LiTime, idealo.de (ago 2026) ★★★</li>
+<li>Limiti parallelo: manuali LiTime/Redodo (max 4P) ★★★</li>
+</ul></section>
+</main>
+<script>
+const links=[...document.querySelectorAll('.navlink')];
+function show(id){
+  document.querySelectorAll('.page').forEach(p=>p.classList.toggle('visible',p.id===id));
+  links.forEach(l=>l.classList.toggle('active',l.dataset.page===id));
+  window.scrollTo(0,0);
+}
+links.forEach(l=>l.addEventListener('click',e=>{e.preventDefault();show(l.dataset.page);}));
+document.addEventListener('click',e=>{
+  const a=e.target.closest('main a[href^="#"]');
+  if(!a)return;
+  const el=document.getElementById(a.getAttribute('href').slice(1));
+  if(!el)return;
+  e.preventDefault();
+  const page=el.closest('.page');
+  if(page&&!page.classList.contains('visible'))show(page.id);
+  setTimeout(()=>el.scrollIntoView({behavior:'smooth',block:'start'}),60);
+});
+window.addEventListener('hashchange',()=>{const id=location.hash.slice(1);if(document.getElementById(id))show(id);});
+document.getElementById('search').addEventListener('input',e=>{
+  const q=e.target.value.toLowerCase();
+  links.forEach(l=>{
+    const page=document.getElementById(l.dataset.page);
+    l.style.display=(!q||page.textContent.toLowerCase().includes(q))?'':'none';
+  });
+});
+show('p0');
+</script>
+</body>
+</html>

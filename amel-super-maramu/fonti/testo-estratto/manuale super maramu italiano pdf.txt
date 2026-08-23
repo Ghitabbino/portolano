@@ -1,0 +1,2863 @@
+
+--- pagina 1 ---
+Super  Maramu  2000
+Guida  per  l'utente
+Rispetto  per  il  mare
+Machine Translated by Google
+--- pagina 2 ---
+Machine Translated by Google
+--- pagina 3 ---
+1.2.3  Elica..................................................................................  1-10
+1.4  Altre  apparecchiature .........................................................................  1-46
+1.4.3  Pompe  elettriche......................................................................  1-55
+1.4.5  Scaldabagno......................................................................  1-62
+1.2.2  Trasmissione  AMEL ...................................................................  1-9
+1.3  AMEL  rende  più  facile  navigare......................................................  1-11
+1.3.2  Elica  di  prua  AMEL..................................................................  1-12
+1.4.4  Pompe  manuali ........................................................................  1-61
+1.3.4  Sistemi  di  armamento  e  avvolgimento  delle  vele  AMEL ...........................................  1-17
+1.3.1  Cabina  di  pilotaggio....................................................................................  1-11
+1.4.7  Attrezzature  di  convenienza .........................................................  1-67
+1.4.6  Sistema  di  climatizzazione  e  riscaldamento  AMEL .............................  1-63
+2.3  Arrivo  al  porto....................................................................  2-2
+1.2  Motore  principale ...................................................................................  1-7
+1.1.2  Stima  del  consumo  delle  apparecchiature  elettriche. ..................  1-4
+1.1  Energia  elettrica  dal  punto  di  vista  di  AMEL ..............................  1-1
+1.1.1  Generatore  di  corrente........................................................................  1-2
+1.2.1  Motore.......................................................................................  1-7
+1.4.1  Serbatoio  del  carburante .................................................................................  1-46
+1.1.3  Circuito  di  terra  e  protezione  contro  l'elettrolisi.....................  1-5
+1.4.9  Apparecchiature  elettroniche...............................................................  1-80
+2.1  Arrivo  in  barca ........................................................................  2-1
+1.3.3  Timone  AMEL..................................................................................  1-15
+1.4.8  Salpa  ancora  e  catena.................................................................  1-75
+1.4.2  Acqua  di  mare.................................................................................  1-51
+1.3.5  Porte  a  tenuta  stagna......................................................................  1-43
+2.2  Prendere  il  largo .................................................................  2-1
+Contenuto
+2  Lista  di  controllo............................................................................2-1
+1  Visita  guidata  del  Super  Maramu  2000 ...........................1-1
+3Guida  per  l'utente
+Machine Translated by Google
+--- pagina 4 ---
+3  Manutenzione.......................................................................3-1
+3.9.2  Sistemi  di  avvolgimento........................................................................3-10
+3.10.3  Lavatrice/asciugatrice.............................................................3-11
+3.5.3  Elica ....................................................................................3-6
+3.10.2  Congelatore  a  pozzetto............................................................................3-11
+2.4.6  Motore  principale  e  generatore........................................................2-5
+2.4.1  Vele...........................................................................................2-4
+2.4.2  Ponte ..........................................................................................2-4
+3.9  Vele  e  sistemi  di  avvolgimento .............................................................3-9
+2.4.3  Acqua  dolce................................................................................2-4
+3.9.1  Vele...........................................................................................3-9
+3.3  Legno...............................................................................................3-3
+3.8  Elica  di  prua ..................................................................................3-9
+3.4  Batterie .........................................................................................3-4
+2.5  Partenza  per  un  lungo  viaggio...................................................................2-5
+3.10.1  Frigorifero..............................................................................3-11
+3.5.2  Trasmissione .............................................................................3-5
+3.6.1  Fluidi .........................................................................................3-7
+2.4.4  Elica  di  prua...............................................................................2-4
+3.2  Ponte................................................................................................3-3
+3.10.4  Lavastoviglie.............................................................................3-12
+3.5.1  Motore  principale ...............................................................................3-4
+3.10  Attrezzature  di  convenienza .............................................................3-11
+3.1  Scafo..................................................................................................3-1
+3.6  Generatore .......................................................................................3-7
+3.7  Serbatoio  del  carburante  e  filtro  carburante /  separatore  d'acqua....................................3-8
+2.4  Servizio  invernale ................................................................................2-4
+2.4.5  Trasmissione  AMEL....................................................................2-4
+3.10.5  Forno  a  microonde.......................................................................3-12
+3.5  Motore  principale  e  trasmissione  AMEL ..........................................3-4
+3.6.2  Altri  componenti .....................................................................3-8
+3.10.6  Piano  cottura  e  forno  a  gas.................................................................3-13
+4 Guida  per  l'utente
+Machine Translated by Google
+--- pagina 5 ---
+6  Indice ...................................................................................6-1
+4  AMEL  in  tutto  il  mondo ....................................................4-1
+5  unità  usate  –  Conversione...................................................5-1
+3.14  Calendario  di  manutenzione.................................................................  3-16
+3.12.2  Impianto  di  climatizzazione  e  riscaldamento........................................  3-14
+3.12  Circuiti  idraulici ..............................................................................  3-14
+3.11  Servizi  igienici ..........................................................................................  3-13
+3.12.1  Pozzetto.......................................................................................  3-14
+3.13  Varie .............................................................................  3-15
+3.13.2  Salpa  ancora  e  catena  dell'ancora ....................................................  3-15
+3.13.1  Sistema  di  sterzo  AMEL ............................................................  3-15
+4.2  Post-vendita  Hyères..................................................................................  4-2
+4.3  Assistenza  post-vendita  Guadalupa................................................................  4-2
+4.1  Post-vendita  La  Rochelle............................................................  4-2
+3.13.3  Scaldabagno......................................................................  3-15
+5Guida  per  l'utente
+Machine Translated by Google
+--- pagina 6 ---
+Machine Translated by Google
+--- pagina 7 ---
+Guida  per  l'utente 7
+Super  Maramu  2000
+regole  e  la  conformità  della  regola  relativa  all'imbarcazione  con  la
+senza  preavviso.
+Per  un  costante  miglioramento  della  qualità  del  loro  prodotto,
+AVVERTENZE
+Il  cantiere  navale  AMEL  si  riserva  il  diritto  di  apportare  alcune  modifiche
+Tutti  i  testi,  le  illustrazioni,  i  diagrammi  e  le  fotografie  non  sono
+contrattuale  e  può  essere  modificato  dal  cantiere  navale  AMEL  senza
+avviso.
+legge  in  questione.
+Il  proprietario  è  l'unico  responsabile  del  rispetto  della  sicurezza
+Machine Translated by Google
+--- pagina 8 ---
+Machine Translated by Google
+--- pagina 9 ---
+Bandiera
+Nome
+Numero  di  serie
+Data  di  consegna
+Proprietario
+Porto  di  accoglienza
+Super  Maramu  2000
+FR  –  AML  SM
+9Guida  per  l'utente
+Machine Translated by Google
+--- pagina 10 ---
+Machine Translated by Google
+--- pagina 11 ---
+11Guida  per  l'utente
+yacht,  e  per  ringraziarvi  di  aver  scelto  il  cantiere  navale  AMEL  per  la  sua  costruzione.
+Vorremmo,  a  nome  di  tutto  il  team  AMEL,  darvi  il  benvenuto  a  bordo  del  vostro
+Gentile  Cliente,
+Eccoti  qui  sulla  tua  meravigliosa  e  nuovissima  Super  Maramu  2000,  e  io
+Sono  sicuro  che  avrai  con  il  tuo  compagno  di  navigazione  tutte  le  delizie  e  le
+le  soddisfazioni  che  ti  aspetti  durante  le  tue  crociere  e  sii  certo  che
+Tutto  il  team  AMEL  è  a  tua  disposizione  per  aiutarti,  se  necessario.
+devi  usare  il  modo  migliore  per  il  tuo  Super  Maramu  2000.
+Jean  Jacques  LEMONNIER
+Presidente
+Vi  auguro  il  meglio  in  termini  di  vento  e  buone  navigazioni,  a  voi  e  al  vostro  equipaggio.
+Troverete  in  tutte  le  pagine  successive  di  questa  “Guida  per  l’utente”  tutte  le  informazioni
+Machine Translated by Google
+--- pagina 12 ---
+Machine Translated by Google
+--- pagina 13 ---
+1-1Guida  per  l'utente
+Quando  l'imbarcazione  è  in  porto,  collegata  alla  rete  elettrica  di  terra,  le  batterie  vengono  caricate  automaticamente  con  il  caricabatterie  
+da  30  A  (opzionale),  che  consuma  meno  energia  rispetto  a  quello  da  100  A.
+Questa  energia  viene  immagazzinata  in  batterie  che  devono  essere  caricate  regolarmente.  Idealmente,  la  ricarica  dovrebbe  essere  
+effettuata  tempestivamente  per  poter  utilizzare  le  batterie  quando  necessario.
+Caricabatterie  da  100  A
+Al  porto:  30  Caricabatterie
+In  mare  aperto:  caricabatterie  da  100  A
+Quando  l'imbarcazione  è  all'ancora,  il  consumo  di  energia  a  24  V  è  minore  e  3  o  4  ore  di  funzionamento  del  generatore  dovrebbero  
+essere  sufficienti.
++
+generatore
+Le  batterie  di  solito  si  guastano  perché  non  sono  sufficientemente  caricate.
+La  maggior  parte  delle  apparecchiature  elettriche  a  bordo  del  Super  Maramu  2000  funziona  a  24  V  CC.
+1  volta  al  mattino  
+presto
+Una  volta  verso  le  13  o  le  14  del  pomeriggio,  una  volta  verso  le  19  o  le  20  del  pomeriggio.
+Quando  la  barca  naviga,  molte  apparecchiature  a  24  V  (pilota  automatico,  elettronica,  sistema  di  avvolgimento  delle  vele  e  
+dell'attrezzatura,  verricelli,  frigoriferi,  illuminazione,  ecc.)  funzionano  con  l'energia  delle  batterie.  Se  non  si  presta  attenzione,  queste  si  
+scaricheranno  rapidamente.  Pertanto,  è  necessario  accendere  regolarmente  il  generatore  per  caricare  le  batterie  a  24  V  con  un  
+caricabatterie  da  100  A.  Se  possibile,  programmate  non  un'unica  lunga  sessione  giornaliera,  ma  3  sessioni  più  brevi  da  un'ora  e  mezza  
+a  due  ore.  Il  grafico  seguente  mostra  una  soluzione,  ma  la  vostra  esperienza  personale  vi  permetterà  di  migliorarla.
+Dalle  5  alle  6  ore  sembrano  un  lasso  di  tempo  ragionevole,  tenendo  conto  delle  esigenze  dell'equipaggio.
+Le  batterie  si  usurano  non  a  causa  dell'età,  ma  in  base  al  numero  di  cicli  di  carica/ scarica.  Per  questo  motivo,  le  batterie  di  
+un'imbarcazione  occupata,  ma  per  lo  più  collegata  alla  rete  elettrica  di  terra,  dureranno  più  a  lungo  (massimo  4  anni)  
+rispetto  a  quelle  di  un'imbarcazione  che  naviga  o  rimane  all'ancora  per  la  maggior  parte  del  tempo.  In  quest'ultimo  caso,  la  
+durata  utile  delle  batterie  probabilmente  non  supererà  i  18  mesi.
+1.  Visita  guidata  del  Super  Maramu  2000
+1.1  L'energia  elettrica  dal  punto  di  vista  di  AMEL
+All'ora  di  cena,  per  le  stesse  
+ragioni  di  prima,  e  per  avere  
+buone  batterie  per  la  notte.
+Ideale  per  batterie,  generatori,  
+frigoriferi,  pompe,  …
+Durante  la  notte,  il  pilota  
+automatico,  le  luci,  i  
+frigoriferi,  l'elettronica,  hanno  
+scaricato  le  batterie.  Il  
+generatore  fornisce  220  V,  
+utili  a  colazione  per  scaldare  
+l'acqua,  lavare  i  piatti,  riscaldare  la  barca,  …
+220  V  è  utile  per  acqua  calda,  
+forno  a  microonde,  lavastoviglie,  
+aria  condizionata,  …
+Machine Translated by Google
+--- pagina 14 ---
+Tipo
+Il  gasolio  proviene  dal  prefiltro/filtro  acqua  RACOR,  entra  nella  pompa  di  adescamento  elettrica  e  nel  filtro  del  motore,  per  poi  
+alimentare  la  pompa  di  iniezione.  Il  carburante  in  eccesso  ritorna  direttamente  al  serbatoio.  Per  spurgare  il  circuito  del  carburante  
+del  generatore,  fare  riferimento  al  manuale  d'uso  del  generatore.
+Alternatore  di  carica
+PERICOLO!  Leggere  attentamente  il  manuale  del  generatore  prima  dell'uso.  
+Contiene  avvertenze  relative  alla  propria  sicurezza  durante  il  funzionamento  
+e  la  manutenzione.
+Qualsiasi  intervento  di  manutenzione  sulle  parti  meccaniche  o  elettriche  del  
+generatore  deve  essere  eseguito  da  personale  qualificato,  utilizzando  
+strumenti  e  dispositivi  di  protezione  adeguati.
+È  importante  avviare  il  generatore  senza  carico,  ovvero  spegnendo  tutte  le  apparecchiature  a  220  V.  
+Verificare  l'eventuale  ingresso  di  acqua  di  mare  dalla  valvola  di  presa  (vedere  1.4.2).  Verificare  inoltre  
+l'eventuale  fuoriuscita  di  acqua  dallo  scarico  dello  scafo  quando  il  generatore  è  in  funzione.
+Dopo  che  il  generatore  ha  funzionato  per  più  di  un'ora  a  pieno  carico,  prima  di  spegnerlo,  lasciarlo  in  funzione  per  un  
+minuto  a  vuoto  per  consentirne  il  raffreddamento.
+Capacità
+Consumo  a  metà  carico
+Potenza  disponibile
+Per  ulteriori  informazioni,  consultare  il  manuale  del  generatore.
+Generatore  elettrico  a  
+campo  rotante  a  4  poli
+50  Hz  +/-  1  Hz  7  
+kW  aria
+Valutazione
+Tipo
+Sul  pannello  di  controllo  del  generatore,  situato  nella  sala  macchine,  sono  presenti  diversi  interruttori  automatici  e  interruttori  
+differenziali.  Consultare  il  manuale  del  generatore.
+Scambiatore  di  calore
+Il  generatore  di  corrente  può  essere  avviato  tramite  due  manopole  di  controllo:  una  in  cucina  e  una  sul  pannello  di  controllo  del  
+generatore  stesso.
+1.500  giri/minuto
+Frequenza
+Sistema  di  raffreddamento
+Il  generatore  è  situato  nella  sala  macchine  sul  lato  sinistro.  Funziona  a  gasolio.
+Ecco  le  principali  specifiche  del  generatore  ONAN  MDKAV  da  7  kW.
+Il  circuito  di  raffreddamento  ad  acqua  di  mare  è  dotato  di  un  sistema  antisifone  per  impedire  che  l'acqua  di  mare  ritorni  nel  
+motore.
+3  cilindri  verticali  in  linea  1  124  
+cm3
+10  A  
+2  l/h
+Raffreddamento
+motore  diesel
+1.1.1  Generatore  di  corrente
+1-2 Guida  per  l'utente
+Machine Translated by Google
+--- pagina 15 ---
+Informazioni  sul  circuito  di  scarico  del  generatore:  è  dotato  di  un  
+silenziatore  in  cui  i  gas  di  scarico  vengono  miscelati  con  acqua  di  mare  e  quindi  raffreddati.  Quando  il  generatore  è  in  funzione,  assicurarsi  
+che  l'acqua  di  mare  fuoriesca  dall'uscita  di  scarico  sullo  scafo.
+Immagine  1  –  Generatore
+Controllare
+pannello
+1-3Guida  per  l'utente
+Machine Translated by Google
+--- pagina 16 ---
+1-4 Guida  per  l'utente
+Apparecchiature  a  24  V
+1.1.2  Stima  del  consumo  delle  apparecchiature  elettriche.
+Apparecchiature  a  220  V
+Aria  condizionata  (riscaldamento)
+Caricabatterie  da  30  A
+-
+350  
+200  
+120  
+7000  
+1200  
+2000  
+450  
+450  
+3000  
+1700  
+25  
+10  
+10  
+60  
+250  
+100
+1300  
+2000  
+1300  
+925  
+370  
+750  
+1300  
+2800  
+1500  
+2400
+(IN)
+8  
+3
+-
+-
+Lavatrice/asciugatrice
+Desalinizzatore
+-
+da  1  a  6,5  
+10  
+5,4  
+3,2  
+1,3  
+3,2  
+6  
+13  
+7  
+11  
+11,4
+in  trasmissione
+-
+-
+Energia
+-
+-
+-
+-
+-
+Aria  condizionata  (raffreddamento)
+Caricabatterie  da  30  A  (boost)
+-
+-
+-
+-
+Attrezzatura
+-
+-
+-
+nella  trasmissione  
+nella  trasmissione
+Scaldabagno
+-
+19  
+8,7  
+3  
+570  
+36  
+50  
+8  
+12  
+70  
+50  
+1  
+0,4  
+0,4  
+2,4  
+5  
+3,5  
+0,5  
+1  
+0,5  
+2,9  
+2  1  
+1  
+3,5  11  7  1,8  22  2,3  2,5
+-
+Forno  a  microonde
+Caricabatterie  da  100  A
+-
+-
+Amperaggio
+I  seguenti  valori  devono  essere  considerati  a  scopo  informativo.
+-
+Amperaggio  sotto  carico
+[UN]
+-
+Non  lasciare  mai  accese  apparecchiature  a  220  V  quando  l'imbarcazione  è  incustodita  per  diversi  giorni.
+Pompa  di  raffreddamento  dell'aria  condizionata
+Lavastoviglie
+Caricabatterie  da  100  A  (boost)
+-
+-
+[UN]
+-
+-
+Microonde  +  grill
+Attenzione:  i  dispositivi  elettronici  consumano  molta  energia  quando  sono  accesi  in  modo  permanente.
+-
+-
+100  
+10  
+500  
+250  
+20  
+20  
+85  
+265  
+170  
+48  
+370  
+100  
+60
+-
+-
+Pompa  acqua  dolce  
+Pompa  acqua  di  
+mare  Pompa  
+di  sentina  Eliche  
+di  prua  
+Salpa  ancora  Sistema  
+di  avvolgimento  fiocco  Motore  
+avvolgitore  albero  randa  
+Motore  bugna  randa  
+Winch  scotta  fiocco  
+Winch  scotta  randa  Luce  di  
+navigazione  
+tricolore  in  testa  
+d'albero  Luce  ancora  Faro  di  
+coperta  Luci  di  
+navigazione  di  
+coperta  Pilota  automatico  
+Radar  Indicatore  
+del  vento  VHF  GPS  
+Telefono  satellitare  SSB  
+Mini-M  Luci  a  soffitto  Luci  
+paratia  Illuminazione  
+cabina  anteriore  
+Illuminazione  
+cabina  
+centrale  Illuminazione  cabina  di  poppa  Ventilazione  cucina  Dissalatore  Frigorifero  Congelatore
+95  
+100  
+15  
+Da  50  a  
+100  
+200  120
+-
+Machine Translated by Google
+--- pagina 17 ---
+Quando  viene  installato  un  nuovo  materiale  metallico  a  contatto  con  l'acqua:
+Quando  si  configura  un  SSB,  scollegare  le  piastre  di  terra  degli  anodi  (dietro  il  tavolo  da  carteggio).
+Attenzione:  ispezionare  gli  anodi  ogni  6  mesi.
+Tutte  le  apparecchiature  a  contatto  con  l'acqua  (pompe,  motori,  tubi,  trasmissione,  elica,  servizi  igienici,  ecc.)  sono  
+collegate  tra  loro  a  formare  un  circuito,  isolato  dagli  altri  cavi  ma  collegato  agli  anodi  di  zinco  del  timone.
+Questo  impianto  (cavo  verde/giallo)  rappresenta  una  protezione  contro  l'elettrolisi:  gli  anodi  si  disintegrano,  ma  non  
+l'oggetto  protetto.
+Il  Super  Maramu  2000  è  dotato  di  serie  di  2  piastre  di  massa  sul  timone,  utilizzate  dal  sistema  SSB.
+Se  l'imbarcazione  non  è  dotata  di  SSB,  queste  piastre  sono  collegate  agli  anodi  di  zinco.
+Cambia  gli  anodi  ogni  anno,  forse  anche  più  spesso.  L'elettrolisi  dipende  dall'ambiente  in  cui  si  trova  l'imbarcazione,  
+soprattutto  se  nelle  vicinanze  c'è  un'altra  imbarcazione  metallica.
+-  assicurarsi  che  i  fili  di  alimentazione  (positivo  e  negativo)  siano  isolati,  -  collegare  la  parte  
+metallica  al  circuito  di  terra.
+Un  rilevatore  di  perdite  è  installato  sulla  paratia  del  tambuccio.  È  possibile  cercare  una  perdita  elettrica  nel  circuito  elettrico  
+interno  dell'imbarcazione  (ma  non  nel  circuito  elettrico  degli  alberi).
+Potrebbe  accadere  che,  dopo  aver  installato  un  nuovo  apparecchio  elettrico,  il  circuito  di  massa  non  sia  più  perfettamente  
+isolato  dalla  tensione  di  24  V  positiva  o  negativa.  Potrebbero  quindi  verificarsi  dispersioni  elettriche  e  danni  agli  apparecchi,  
+alle  apparecchiature,  alle  valvole  di  scarico  o  ai  componenti  dell'imbarcazione  collegati  al  circuito  di  massa.
+Per  utilizzarlo,  spingere  l'interruttore  in  posizione  “Masse  +”:  se  la  spia  è  accesa,  significa  che  il  circuito  della  massa  è  
+collegato  al  circuito  positivo  dell'imbarcazione;  se  non  è  accesa,  spingere  l'interruttore  in  posizione  “Masse  –”:  se  la  spia  è  
+accesa,  significa  che  il  circuito  della  massa  è  collegato  al  circuito  negativo  dell'imbarcazione.
+Nel  caso  in  cui  si  accenda  una  spia,  è  necessario  individuare  e  bloccare  la  perdita.
+Le  perdite  devono  essere  controllate  almeno  due  volte  l'anno,  o  più  spesso  se  necessario:  se  si  nota  che  gli  anodi  si  
+rompono  rapidamente,  se  si  hanno  imbarcazioni  metalliche  come  vicini,  se  si  installa  un  nuovo  apparecchio  elettrico  
+(computer,  antenna,  pompa,  radio,  ecc.)  o  per  confermare  la  presenza  di  sintomi  di  elettrolisi.
+1.1.3  Circuito  di  terra  e  protezione  contro  l'elettrolisi
+Guida  per  l'utente 1-5
+Machine Translated by Google
+--- pagina 18 ---
+Figura  2  –  Interruttore  di  ricerca  di  massa  danneggiato
+Guida  per  l'utente1-6
+Machine Translated by Google
+--- pagina 19 ---
+1-7Guida  per  l'utente
+1.2.1  Motore
+1.2  Motore  principale
+Maniglia  rossa  per  
+l'arresto  manuale
+Avvertenza  2:  è  necessario  far  funzionare  il  motore  principale  ogni  giorno  di  navigazione  per  15  o  20  minuti  (in  1  o  2  volte)  
+per  svuotare  il  circuito  di  scarico  (le  onde  lo  riempiono).
+Avvertenza  1:  potrebbero  essere  presenti  alcune  gocce  d'olio  nella  sentina  sotto  il  motore.  È  bene  tenerlo  presente.  Questo  
+non  è  sintomo  di  un  malfunzionamento  del  motore.
+PERICOLO!  I  manuali  d'uso  del  motore  principale  e  del  riduttore  idraulico  
+contengono  avvertenze  di  sicurezza  che  devono  essere  rispettate.  
+Consultare  questi  manuali  prima  dell'uso.
+Qualsiasi  lavoro  meccanico  o  elettrico  deve  essere  eseguito  da  personale  
+qualificato,  utilizzando  strumenti  e  attrezzature  adeguati.
+Il  gasolio  passa  dal  prefiltro/filtro  acqua  RACOR  al  filtro  del  carburante  del  motore  e  quindi  alla  pompa  di  iniezione  che  
+alimenta  gli  iniettori.  Successivamente,  il  carburante  in  eccesso  ritorna  direttamente  nel  serbatoio  (vedere  1.4.1).  Sulla  
+pompa  di  iniezione,  una  maniglia  rossa  permette  di  arrestare  manualmente  il  motore,  nel  caso  in  cui  l'arresto  elettrico  non  
+funzioni.
+Prefiltro /  filtro  
+dell'acqua
+Motore
+Immagine  3  –  Motore  principale
+filtro  carburante
+Machine Translated by Google
+--- pagina 20 ---
+1-8 Guida  per  l'utente
+R
+Motore  diesel  YANMAR  4JH3-HTE
+Motore  diesel  turbocompresso  con  
+intercooler,  
+4  tempi,  4  cilindri  in  linea  verticali  a  iniezione  
+diretta,  1995  cm³
+freno  idraulico
+cilindrata  del  motore
+Il  circuito  di  raffreddamento  ad  acqua  di  mare  è  dotato  di  un  sistema  antisifone  per  impedire  che  l'acqua  di  mare  ritorni  nel  
+motore.
+Giunto  in  
+gomma
+Leva  di  comando  a  distanza
+La  trasmissione  (per  passare  dalla  marcia  avanti  alla  retromarcia)  è  a  comando  idraulico.  Per  la  manutenzione  e  
+ulteriori  informazioni,  consultare  il  manuale  del  produttore.
+Durante  la  navigazione  a  vela,  il  freno  idraulico  impedisce  all'albero  dell'elica  di  girare  e  permette  all'elica  di  mettersi  in  
+bandiera.
+Batterie  di  servizio  alternatore
+Motore  batteria  alternatore
+Schema  dell'intero  sistema  motorizzato:
+P
+P
+unità  di  
+trasmissione  
+a  ingranaggi
+Specifiche  del  motore  (per  ulteriori  dettagli,  fare  riferimento  al  manuale  del  motore):
+Energia
+Trasmissione
+AZIONE
+Consumo  di  carburante  (scafo  pulito)
+Quando  il  motore  è  rimasto  acceso  a  lungo  ad  alto  carico,  lasciarlo  al  minimo  per  alcuni  minuti  prima  di  spegnerlo,  in  modo  
+che  si  raffreddi  e  il  turbocompressore  possa  rallentare.
+Motore
+Velocità  minima  al  minimo
+Sistema  di  raffreddamento
+73,6  kW  (100  CV)  a  3800  giri/min  900  ±  
+25  giri/min  Acqua  
+dolce  con  scambiatore  di  calore  12  V,  55  A  
+24  V,  55  A  
+Crociera  
+economica  (1800  giri/min;  
+6,5  nodi):  3,9  l/h  Crociera  (2000  giri/
+min;  7  nodi):  5,5  l/h
+Un  giunto  in  gomma  smorza  lo  shock  del  cambio  di  marcia.
+Tipo
+Smusso
+IL
+Machine Translated by Google
+--- pagina 21 ---
+1.2.2  Trasmissione  AMEL
+Cambio
+Trasmissione
+Informazioni  sul  circuito  di  scarico  del  motore  principale:  è  
+dotato  di  un  silenziatore  in  cui  i  gas  di  scarico  si  miscelano  con  l'acqua  di  mare  e  quindi  si  raffreddano.  Quando  il  motore  è  
+in  funzione,  assicurarsi  che  l'acqua  di  mare  fuoriesca  dall'uscita  di  scarico  sullo  scafo  (lato  sinistro).
+Il  contenitore  di  espansione  del  liquido  di  raffreddamento  è  situato  sopra  il  motore,  nella  parte  posteriore  (vedere  Figura  46  -  
+Serbatoio  del  gasolio).
+PERICOLO!  Non  toccare  né  lasciare  che  indumenti  o  capelli  entrino  in  
+contatto  con  la  trasmissione  AMEL  mentre  il  motore  è  in  funzione.  Le  parti  
+mobili  (alberi,  ruote,  giunti…)  potrebbero  causare  gravi  danni.  Prima  di  
+avviare  il  motore,  verificare  che  non  vi  siano  attrezzi  o  asciugamani  nelle  
+vicinanze.  La  trasmissione  e  il  motore  possono  diventare  molto  caldi  
+durante  il  funzionamento  e  dopo  l'uso:  evitare  qualsiasi  contatto  con  il  
+corpo  o  gli  indumenti.
+Prima  di  iniziare  qualsiasi  lavoro,  assicurarsi  che  il  motore  sia  spento  e  
+scollegato  dalla  batteria,  e  chiudere  il  rubinetto  del  carburante.
+La  trasmissione  AMEL,  posta  davanti  al  riduttore,  è  composta  da  due  coppie  di  ingranaggi  conici  che  ruotano  all'interno  di  
+un  alloggiamento  pieno  d'olio,  garantendo  una  trasmissione  della  potenza  all'elica  sicura,  silenziosa  e  affidabile.
+Qualsiasi  lavoro  elettrico  o  meccanico  deve  essere  eseguito  da  personale  
+qualificato,  con  strumenti  adeguati  e  dispositivi  di  protezione  individuale  
+(guanti,  occhiali…).
+Idraulico
+freno
+Immagine  4  –  Trasmissione
+1-9Guida  per  l'utente
+Machine Translated by Google
+--- pagina 22 ---
+Guida  per  l'utente1-10
+PERICOLO!  Prima  di  qualsiasi  ispezione  o  intervento,  assicurarsi  che  il  
+motore  sia  spento  e  che  il  serbatoio  del  carburante  sia  chiuso.
+trasmissione
+Riempire  l'olio  nel
+Immagine  5  –  Serbatoio  dell'olio  della  trasmissione
+L'elica  H6  AUTOPROP,  diametro  566  mm  –  sinistra  –  è  un'elica  a  tre  pale  in  bronzo  a  passo  variabile.  Ogni  pala  ruota  
+liberamente  a  360°,  consentendo  un  passo  ottimale  a  qualsiasi  regime  di  potenza  e  quindi  la  massima  spinta,  anche  in  
+retromarcia.  Inoltre,  grazie  alla  rotazione  libera  delle  pale,  l'elica  si  mette  automaticamente  in  bandiera  allo  spegnimento  
+del  motore,  riducendo  la  superficie  frenante  e  la  conseguente  resistenza.
+Qualsiasi  intervento  meccanico  deve  essere  eseguito  da  operai  qualificati  
+muniti  di  strumenti  e  dispositivi  di  sicurezza  adeguati.
+Nota:  in  caso  di  danni  all'autopropulsore,  è  possibile  montare  un'elica  di  ricambio  a  3  pale  fisse.  Originariamente  si  trova  
+sotto  la  cuccetta  di  dritta  della  cabina  di  prua.  Fare  riferimento  al  capitolo  1.1.1  per  le  istruzioni  di  sostituzione.
+Verificare  la  presenza  di  incrostazioni  sull'autopropulsore  (e  pulirlo  se  necessario),  soprattutto  dopo  essere  rimasto  
+fermo  per  1  o  2  mesi  in  acque  calde  e  soleggiate.
+Pulizia  dell'AUTOPROP:  Se  
+l'AUTOPROP  è  anche  solo  leggermente  sporca,  le  pale  potrebbero  non  assumere  lo  stesso  passo  e  quindi  causare  
+vibrazioni  e  una  riduzione  dei  giri  al  minuto.  Fare  riferimento  al  capitolo  3.5.3  per  informazioni  sulla  manutenzione  
+dell'elica.
+1.2.3  Elica
+Machine Translated by Google
+--- pagina 23 ---
+1-11Guida  per  l'utente
+Autopilota
+Immagine  6  –  Elica
+scarico  dell'olio  dell'unità  di  trasmissione
+lama  a  piuma
+Boccola  dell'albero  
+di  trasmissione
+Il  Super  Maramu  2000  è  dotato  di  un  pozzetto  ampio  e  ben  riparato  da  cui  è  possibile  azionare  i  comandi  delle  
+vele  e  del  motore.  La  Figura  7  -  Pozzetto  mostra  la  posizione  di  questi  comandi.
+velocità  del  vento,  velocità  
+dell'imbarcazione,  angolo  del  vento,  
+ecoscandaglio,  contacatena
+Controllo  del  motore
+Bussola
+Clinometro
+Comandi  delle  vele  e  
+del  verricello
+comandi  
+dell'elica  di  prua
+Immagine  7  –  Cabina  di  pilotaggio
+1.3  AMEL  rende  più  facile  navigare
+1.3.1  Cabina  di  pilotaggio
+Machine Translated by Google
+--- pagina 24 ---
+L'elica  di  prua  è  retrattile  e  quindi  si  solleva  durante  la  navigazione.  È  sufficiente  abbassarla  pochi  secondi  prima  dell'uso:  
+accendere  il  comando  principale  e  utilizzare  l'interruttore  a  levetta  su  e  giù  per  impostarla  nella  posizione  di  funzionamento  
+(finché  la  spia  inferiore  non  si  accende  e  suona).
+Dal  1985,  ogni  nave  AMEL  è  equipaggiata  con  la  nostra  elica  di  prua.  Il  suo  design  è  estremamente  affidabile,  poiché  ogni  
+parte  immersa  è  realizzata  in  vetroresina  e  quindi  non  soggetta  a  elettrolisi.  Un  martinetto  elettrico  ne  aziona  il  movimento  
+verticale  tramite  cavi  e  pulegge.  L'elica  è  azionata  da  un  motore  elettrico  da  6  kW  a  24  V.
+Prima  di  azionare  l'elica  di  prua,  assicurarsi  che  nessuno  nuoti  o  si  
+immerga  nelle  vicinanze  e  che  non  vi  siano  rifiuti  galleggianti  intorno  
+all'elica.
+PERICOLO!  Qualsiasi  lavoro  elettrico  deve  essere  eseguito  da  personale  
+qualificato,  a  conoscenza  delle  norme  e  delle  procedure  di  sicurezza  e  dotato  
+di  strumenti  e  dispositivi  di  protezione  adeguati.
+Leggere  attentamente  gli  schemi  elettrici  prima  di  procedere  con  qualsiasi  
+riparazione.
+L'elica  in  poliestere  è  fissata  con  6  viti  in  nylon  del  diametro  di  8  mm,  che  possono  rompersi  se  una  cima  galleggiante  vi  si  
+impiglia.  In  questo  modo,  l'elica  si  perde,  ma  l'elica  di  prua  non  subisce  danni.
+Immagine  8  –  Elica  di  prua
+Qualsiasi  intervento  di  manutenzione  sull'elica  di  prua  deve  essere  effettuato  
+in  porto.
+1.3.2  Elica  di  prua  AMEL
+1-12 Guida  per  l'utente
+Machine Translated by Google
+--- pagina 25 ---
+Quando  si  solleva  l'elica  di  prua,  attendere  che  si  accenda  la  spia  rossa  prima  di  spegnerla.
+È  progettato  esclusivamente  per  l'uso  portuale;  non  utilizzarlo  mai  durante  la  navigazione  o  per  scopi  diversi  da  
+quelli  per  cui  è  stato  concepito.
+Dopodiché,  puoi  utilizzare  l'elica  di  prua.  Non  utilizzarla  per  più  di  30  secondi  consecutivi.  Non  invertire  la  rotazione  prima  
+che  l'elica  si  sia  fermata  (circa  un  secondo).
+L'elica  di  prua  è  più  efficiente  e  le  batterie  si  scaricano  meno  se,  durante  l'utilizzo  del  motore  principale,  si  aziona  il  
+generatore  con  il  caricabatterie  da  100  A.
+ON /  OFF
+Triangolo /
+Portside
+SU/GIÙ
+In  caso  di  navigazione  in  mare  aperto,  fissare  l'elica  di  prua  con  il  perno  in  acciaio  inox  (vicino  al  motore  elettrico).  
+Pertanto,  è  necessario  spostare  l'interruttore  in  corrispondenza  del  foro  per  il  perno,  il  che  interrompe  l'alimentazione,  
+rendendo  impossibile  qualsiasi  uso  improprio  o  errore.
+Immagine  9  –  Comandi  dell'elica  di  prua
+elica  di  prua
+1-13Guida  per  l'utente
+Machine Translated by Google
+--- pagina 26 ---
+L'elica  di  prua  è  alloggiata  in  un  compartimento  parzialmente  stagno.  Lo  scarico  a  gravità  di  questo  compartimento  
+confluisce  nella  vasca  di  raccolta.  È  collegato  al  gavone  di  scarico  della  catena.  Un  rubinetto  di  intercettazione  situato  
+sotto  l'elica  di  prua  interrompe  questo  flusso.  Si  veda  la  Figura  89  –  Rubinetto  di  intercettazione  dello  scarico  (fotografato  
+chiuso).
+Immagine  1  –  Motore  elettrico  dell'elica  di  prua,  martinetto  e  perno
+Conservazione  dei  perni
+Elica  di  prua  fissata  
+con  il  perno
+Dopo  un  lungo  periodo  di  ormeggio,  muovere  l'elica  di  prua  su  e  giù  più  volte  per  assicurarsi  che  non  sia  bloccata  da  
+incrostazioni  marine.
+Se  una  cima  si  impiglia  nell'elica,  le  viti  in  nylon  si  rompono.  L'elica  si  perde,  ma  l'elica  di  prua  non  subisce  ulteriori  
+danni.  È  possibile  sostituire  l'elica  senza  immergersi  o  tirare  la  barca  fuori  dall'acqua,  utilizzando  un  apposito  strumento  
+acquistabile  da  AMEL'.
+Quando  la  barca  è  in  secca,  spegnere  l'interruttore  generale  (sul  pannello  a  24  V)  per  evitare  incidenti  e  scollegare  la  
+spina  all'interno  del  ripiano  dell'autopilota,  sopra  il  lavello.
+Guida  per  l'utente1-14
+Machine Translated by Google
+--- pagina 27 ---
+1.3.3  Timone  Amel
+anodo  di  zinco
+Il  passascafo  dell'asse  del  timone  è  a  tenuta  stagna  grazie  a  una  premistoppa  accessibile  dalla  cabina  di  poppa,  
+sotto  la  cuccetta.
+Immagine  2  –  Spina  da  scollegare  quando  la  barca  è  fuori  dall'acqua
+La  pala  del  timone  è  realizzata  in  fibra  di  vetro,  rinforzata  con  piastre  in  acciaio  inossidabile.  È  cava  e  presenta  un  
+foro  nella  parte  inferiore  per  consentire  il  deflusso  dell'acqua  quando  l'imbarcazione  viene  tirata  a  secco.  La  pala  
+del  timone  è  supportata  da  tre  staffe  o  boccole.  Su  ciascun  lato  è  montato  un  anodo  di  zinco.  La  deriva  è  dotata  di  
+due  piastre  di  massa  per  l'utilizzo  con  la  radio  (opzionale).
+Immagine  3  –  Timone  e  deriva
+Piastre  di  messa  a  terra
+Guida  per  l'utente 1-15
+Machine Translated by Google
+--- pagina 28 ---
+Asta  del  timone
+Aprendo  i  portelli  delle  cuccette  della  cabina  di  poppa  si  accede  alla  modalità  di  guida  lineare  del  pilota  automatico.
+Immagine  10  –  Asta  del  timone  e  unità  di  azionamento  lineare  del  pilota  automatico
+Per  motivi  di  sicurezza,  si  consiglia  di  far  controllare  questo  sistema  da  personale  
+qualificato.
+Qualsiasi  lavoro  deve  essere  svolto  da  personale  qualificato,  dotato  di  strumenti  e  
+dispositivi  di  protezione  adeguati.
+PERICOLO!  Prima  di  qualsiasi  ispezione  o  intervento,  assicurarsi  che  nessuno  aziona  
+il  sistema  del  timone.
+1-16 Guida  per  l'utente
+Machine Translated by Google
+--- pagina 29 ---
+1-17Guida  per  l'utente
+a)  Verricelli
+1.3.4  Sistemi  di  armamento  e  avvolgimento  delle  vele  AMEL
+I  winch  elettrici  per  le  scotte  del  fiocco  hanno  un  doppio  sistema  di  comando:  gli  interruttori  sono  situati  sul  retro  delle  
+panche  del  pozzetto  e  sul  pannello  di  controllo  delle  vele,  vicino  al  timone.
+Le  vele  non  devono  essere  a  contatto  con  sartie  e  sartiame,  altrimenti  è  vietato  
+lasciarle  sventolare.
+La  mongolfiera  è  posizionata  nel  gavone  di  prua  sul  ponte  di  dritta,  mentre  la  mongolfiera  di  mezzana  si  trova  nel  gavone  di  poppa  sul  
+lato  sinistro  della  cabina  di  pilotaggio.
+Assicurarsi  che  nessuno  si  appoggi  al  verricello  durante  il  funzionamento.
+In  ogni  caso,  ogni  5000  miglia  o  in  caso  di  navigazione  intensiva,  le  vele  devono  essere  ispezionate  
+da  un  velaio  professionista.
+Le  vele  convertono  il  vento  in  energia  per  spingere  
+l'imbarcazione,  pertanto  sono  elementi  soggetti  a  usura.
+Non  lasciare  i  bambini  incustoditi  durante  l'utilizzo  degli  argani.
+Per  ulteriori  informazioni,  consultare  il  relativo  manuale.
+I  verricelli  elettrici  possono  essere  azionati  manualmente  con  una  normale  manovella.  Non  è  necessario  scollegare  o  
+rilasciare  nulla.  È  possibile  disattivare  l'interruttore  automatico  di  ciascun  verricello,  ad  esempio  in  presenza  di  bambini  a  
+bordo.  Rimuovere  sempre  la  manovella  durante  l'azionamento  elettrico.
+PERICOLO!  Non  lasciare  che  dita,  capelli,  vestiti  o  cravatte  tocchino  gli  
+argani  durante  il  funzionamento.  Le  parti  rotanti  possono  causare  gravi  
+lesioni.  Prima  dell'uso,  assicurarsi  che  nessun  attrezzo  o  asciugamano  si  
+trovi  sull'argano.
+Il  Super  Maramu  2000  è  equipaggiato  con  5  vele  a  taglio  triradiale:  3  sono  
+realizzate  in  tessuto  Dacron:  il  fiocco,  la  randa  e  la  mezzana,  -  2  sono  realizzate  in  tessuto  
+di  nylon:  il  pontone  e  il  pontone  di  mezzana.
+-
+La  normale  usura  o  l'utilizzo  improprio  delle  vele  non  sono  coperti  dalla  
+garanzia.
+Per  motivi  di  sicurezza,  fate  controllare  queste  apparecchiature  da  
+personale  qualificato.
+Il  Super  Maramu  2000  è  equipaggiato  con  2  winch  elettrici  (tipo  LEWMAR  58  CEST)  per  la  scotta  del  fiocco.  Sotto  l'albero  
+di  mezzana  si  trova  il  winch  elettrico  (LEWMAR  40  CEST)  per  la  scotta  della  randa.
+Qualsiasi  lavoro  elettrico  o  meccanico  deve  essere  eseguito  da  personale  
+qualificato,  utilizzando  strumenti  e  dispositivi  di  protezione  adeguati.
+Machine Translated by Google
+--- pagina 30 ---
+Guida  per  l'utente1-18
+Controllo  del  foglio  principale
+Immagine  11  –  Verricello  elettrico  per  scotta  del  braccio
+comando  del  verricello  della  
+scotta  del  fiocco
+Il  comando  del  verricello  elettrico  della  scotta  della  randa  si  trova  sul  lato  sinistro  dell'albero  di  mezzana.
+Immagine  12  –  Verricello  elettrico  della  scotta  principale
+Machine Translated by Google
+--- pagina 31 ---
+Guida  per  l'utente 1-19
+Immagine  13  –  Comandi  delle  vele
+controllo  di  trazione
+Comando  di  avvolgimento  
+della  randa  sull'albero
+Il  pannello  di  controllo  delle  vele  si  trova  nella  postazione  di  comando.
+comando  di  
+avvolgimento  del  fiocco
+Verricello  per  scotta  del  fiocco
+doppi  comandi
+Randa
+Attenzione:  fate  attenzione  alle  drizze  allentate  che  potrebbero  impigliarsi  nel  sistema  di  avvolgimento  del  fiocco,  soprattutto  in  cima  
+all'albero.
+Sul  soffitto  del  corridoio,  un  portello  dà  accesso  agli  interruttori  automatici  del  verricello  della  scotta  della  randa,  del  verricello  della  scotta  
+del  fiocco  di  dritta  e  alla  presa  da  24  V  per  il  gonfiatore  del  tender  nel  gavone  (da  utilizzare  solo  con  le  batterie).  Un  altro  portello  permette  
+di  vedere  il  motore  del  verricello  di  dritta.
+L'interruttore  automatico  del  verricello  elettrico  di  sinistra  si  trova  nella  sala  macchine.
+Machine Translated by Google
+--- pagina 32 ---
+Se  non  viene  richiesto  alcun  movimento,  questo  verricello  può  essere  bloccato  in  entrambe  le  direzioni.
+Non  esitare  a  sganciare  il  vagone  principale  prima  di  spostarlo  e  fai  attenzione  ai  tuoi  movimenti.
+Il  verricello  per  azionare  il  carrello  della  scotta  della  randa  si  trova  in  pozzetto,  sul  lato  di  dritta.
+Un  perno  di  bloccaggio  può  essere  impostato  a  dritta  per  spostare  il  carrello  a  dritta,  oppure  a  sinistra  per  spostarlo  a  sinistra.
+Una  volta  regolato,  rimuovere  la  manovella  del  verricello  dal  verricello  stesso.
+Perno  di  bloccaggio
+Immagine  14  –  Comando  del  carrello  della  scotta  di  randa  (bloccato  in  entrambe  le  direzioni)
+Guida  per  l'utente1-20
+Machine Translated by Google
+--- pagina 33 ---
+1-21Guida  per  l'utente
+b)  Sistemi  di  avvolgimento  delle  vele  AMEL
+Durante  la  navigazione,  se  le  cime  del  fiocco  risultano  completamente  spiegate,  tendere  la  drizza  di  sinistra  utilizzando  
+il  verricello.
+Qualsiasi  lavoro  elettrico  o  meccanico  deve  essere  eseguito  da  personale  
+qualificato,  utilizzando  strumenti  e  dispositivi  di  protezione  adeguati.
+Per  motivi  di  sicurezza,  fate  controllare  queste  apparecchiature  da  personale  
+qualificato.
+PERICOLO!  Non  lasciare  che  dita,  capelli,  vestiti  o  cravatte  tocchino  gli  
+argani  durante  il  funzionamento.  Le  parti  rotanti  possono  causare  gravi  
+lesioni.  Prima  dell'uso,  assicurarsi  che  nessun  attrezzo  o  asciugamano  si  
+trovi  sull'argano.
+Non  lasciare  i  bambini  incustoditi  durante  l'utilizzo  degli  argani.
+Attenzione:  all'interno  del  tubo  di  avvolgimento  del  fiocco,  lo  strallo  di  prua  è  rivestito  di  grasso.  Nei  paesi  caldi,  questo  
+grasso  potrebbe  liquefarsi  e  gocciolare  nella  parte  inferiore  dello  strallo.  Tuttavia,  non  c'è  da  temere  perdite  dal  motore,  
+poiché  il  suo  alloggiamento  è  sigillato.
+L'interruttore  per  l'avvolgimento  del  fiocco  si  trova  in  pozzetto  (vedi  Figura  13  -  Comandi  delle  vele).  Lubrificare  il  perno  
+della  frizione  una  volta  all'anno.
+Perno  di  bloccaggio
+Motore  
+avvolgibile
+Per  azionarlo  manualmente,  sollevare  il  perno  della  frizione  e  ruotarlo  di  ¼  di  giro  per  bloccarlo.  Quindi  posizionare  la  
+cima  sulla  puleggia  dentellata  come  mostrato  nella  Figura  15  –  Utilizzo  del  fiocco  manualmente,  incrociandolo,  per  
+manovrarlo  dalla  cabina  di  pilotaggio.
+Immagine  4  –  Motore  per  l'avvolgimento  del  fiocco
+Guida  alla  fune  di  ancoraggio
+Machine Translated by Google
+--- pagina 34 ---
+1-22 Guida  per  l'utente
+Immagine  16  –  Tendere  la  drizza  della  randa
+Blocchi  del  guardrail
+Blocco  intagliato
+Immagine  15  –  Utilizzo  manuale  del  braccio
+Quando  si  srotola  l'albero,  tirare  indietro  anche  la  scotta  di  base.
+Durante  la  navigazione,  se  le  cime  della  randa  appaiono  completamente  spiegate,  tendere  la  drizza  di  dritta  
+utilizzando  il  verricello  e  il  carrello  (vedere  Figura  16  -  Tendere  la  drizza  della  randa).  Sollevare  il  perno  di  bloccaggio  
+e  ruotarlo  di  ¼  di  giro  per  sbloccare  il  carrello,  spostarlo  e  recuperare  la  drizza  sul  verricello.
+I  comandi  dell'avvolgifiocco  elettrico  della  randa  si  trovano  in  pozzetto  (vedi  Figura  13  –  Comandi  delle  vele).
+Machine Translated by Google
+--- pagina 35 ---
+Immagine  17  –  Spilla  di  chiusura
+1-23Guida  per  l'utente
+Machine Translated by Google
+--- pagina 36 ---
+Immagine  19  –  Sblocco  del  sistema  di  avvolgimento  della  randa
+Bloccare  la  
+manovella
+Motore
+Per  azionare  manualmente  l'avvolgifiocco  dell'albero  della  randa,  inserire  innanzitutto  la  manovella  del  
+verricello  nell'avvolgifiocco  e  allentare  le  4  viti  di  fissaggio  del  motore.  Quindi  spostare  il  motore  verso  il  basso  
+per  liberare  il  perno  della  frizione.  L'avvolgifiocco  è  ora  pronto  per  l'uso  manuale.  (Attenzione:  non  serrare  
+eccessivamente  durante  il  rimontaggio  dei  componenti).
+Perno  di  bloccaggio
+Immagine  18  –  Motore  di  avvolgimento  dell'albero  della  randa
+Quando  si  aziona  il  motore  dell'avvolgifiocco  della  randa,  la  manovella  deve  essere  bloccata  come  mostrato  di  seguito.
+Viti  di  fissaggio  (su  
+entrambi  i  lati)
+Guida  per  l'utente1-24
+Machine Translated by Google
+--- pagina 37 ---
+Tacchetto  
+incorporato
+Immagine  20  –  Rilascio  del  motore  della  gru  elettrica
+Anche  la  bugna  elettrica  sul  boma  può  essere  sganciata  svitando  la  vite  sulla  parte  superiore  del  bozzello  e,  dopo  aver  
+fissato  una  cima  alla  bitta  incorporata,  mantenendo  la  bugna  in  posizione.
+Ora,  la  bugna  può  essere  spostata  manualmente  con  una  cima  nel  carrello  della  scotta;  dopo  aver  regolato  la  randa,  si  
+fa  un  giro  alla  galloccia  del  boma  e  si  cazza  la  randa  usando  il  sistema  di  avvolgimento.
+Immagine  21  –  La  forcella  del  boma  viene  spostata  a  mano
+1-25Guida  per  l'utente
+Machine Translated by Google
+--- pagina 38 ---
+1-26 Guida  per  l'utente
+-  non  issare  il  fiocco  sottovento,  per  evitare  che  il  fiocco  si  sollevi  sopra  il  ponte  e  contro
+Informazioni  sulle  vele:  Il  cantiere  navale  AMEL  raccomanda  di:
+l'albero  maestro,
+sfregando  contro  l'albero.
+-  issare  la  randa  e  la  mezzana  tra  0  e  40°  di  vento,  per  evitare  che
+Machine Translated by Google
+--- pagina 39 ---
+Guida  per  l'utente 1-27
+Immagine  23  –  Paranco  dell'albero  di  mezzana
+Entrambi  i  boma  del  Super  Maramu  2000  possono  essere  equipaggiati  con  un  dispositivo  di  limitazione  del  movimento  del  boma  
+(munito  di  strozzascotte),  fornito  in  dotazione,  per  limitare  il  movimento  del  boma  in  assenza  di  vento.  Non  dimenticate  di  installarli  
+quando  necessario,  soprattutto  per  evitare  virate  brusche.
+Immagine  22  –  Dispositivo  di  sicurezza  dell'albero  maestro
+Machine Translated by Google
+--- pagina 40 ---
+Guida  per  l'utente1-28
+c)  Telecomando  per  carrello  scotta  braccio  AMEL
+Immagine  24  –  Comando  a  distanza  del  carrello  della  scotta  del  fiocco  di  Amel
+È  dotato  di  un  perno  di  bloccaggio  che  può  essere  lasciato  aperto  durante  la  manipolazione.  È  più  facile  da  usare  se  la  vela  non  è  completamente  indurita.
+Il  comando  remoto  del  carrello  della  scotta  del  fiocco  AMEL  consente  ai  membri  dell'equipaggio  di  azionarlo  dalla  cabina  di  pilotaggio.  Per  azionarlo,  utilizzare  
+la  normale  manovella  del  verricello.
+Perno  di  bloccaggio
+Il  perno  di  bloccaggio  rimane  
+aperto  quando  posizionato  lateralmente.
+Immagine  25  –  Perno  di  bloccaggio
+Machine Translated by Google
+--- pagina 41 ---
+1-29Guida  per  l'utente
+d)  Sistema  a  doppio  polo  AMEL
+Immagine  26  –  Palo  e  palo  di  sostegno  In  
+avanti,  il  palo  è  innestato  su  un  perno  (parte  del  montante).
+Quando  non  vengono  utilizzate,  due  paia  di  pali  e  relativi  bracci  di  sostegno  vengono  riposti  su  entrambi  i  lati  del  ponte  anteriore.
+Il  sistema  a  doppio  tangone  AMEL  consente  di  navigare  senza  vento  fino  a  un  angolo  massimo  di  170°.  Il  fiocco  e  il  pontone  
+devono  essere  obbligatoriamente  armati  sullo  stesso  tubo  (dell'avvolgifiocco).  Quando  si  utilizza  il  sistema  a  doppio  tangone  
+AMEL,  il  tangone  e  il  tangone  di  supporto  devono  essere  obbligatoriamente  utilizzati  simultaneamente  su  entrambi  i  lati  
+dell'imbarcazione.  Non  utilizzare  tangone  e  tangone  su  un  solo  lato.  Quando  il  vento  reale  supera  i  15  nodi,  avvolgere  fiocco  e  
+pontone  di  supporto  contemporaneamente.
+Immagine  27  –  Stivaggio  del  palo  sul  ponte
+Machine Translated by Google
+--- pagina 42 ---
+Guida  per  l'utente1-30
+A  causa  della  posizione  delle  drizze,  issare  sempre  il  fiocco  a  sinistra  e  la  mongolfiera  a  destra.
+-
+Immagine  28  –  Riponimento  a  poppa  del  palo
+In  senso  inverso,  il  blocco  del  palo  viene  posizionato  sulla  base  del  montante.
+Per  installare  i  pali,  sono  necessarie  3  corde  colorate  (blu,  gialla  e  rossa)  e  un  sistema  di  sollevamento  bianco.
+Ogni  palo  è  impostato  come  segue:  
+-  tirato  in  avanti  con  la  linea  blu  -  tirato  indietro  
+con  la  linea  rossa  -  tirato  verso  il  basso  con  la  
+linea  gialla  -  sollevato  con  la  cima  bianca
+Su  ciascuna  riga,  un  segno  indica  la  lunghezza  richiesta.
+Innanzitutto,  posiziona  il  tangone  a  sinistra  per  poter  navigare  con  il  fiocco  mentre  posizioni  il  tangone  a  destra.
+Machine Translated by Google
+--- pagina 43 ---
+-
+impostazione  dei  pali:
+-  introdurre  il  piccolo  palo  nell'anello  dell'anello  di  supporto  della  sartia,  -  
+posizionare  il  piccolo  palo  nella  sua  posizione  sull'albero,  -  
+bloccarlo  con  il  perno,  
+inserire  il  palo  lungo  in  quello  piccolo,
+Agganciare  al  
+guardrail
+Immagine  29  –  Palo  agganciato  al  guardrail
+-  agganciare  il  palo  al  guardrail,
+Guida  per  l'utente 1-31
+Machine Translated by Google
+--- pagina 44 ---
+1-32 Guida  per  l'utente
+spillo,
+-  quello  giallo  è  fatto  sulla  tacca  della  punta,  dietro  il  bullone  a  U  di  sollevamento  
+anteriore,  -  infila  la  scotta  del  fiocco  nel  bozzello  all'estremità  del  palo  e  blocca  con  il
+-  posizionare  le  4  cime  (devono  passare  all'esterno  della  sartia  ed  essere  collegate  al  gancio  
+destro):  -  quella  blu  passa  attraverso  il  bozzello  di  prua  e  si  fissa  alla  galloccia  anteriore,  -  
+quella  rossa  si  fissa  alla  galloccia  dietro  il  carrello  della  scotta  del  fiocco
+controllare,
+foglio),
+-  (infilare  la  scotta  del  pallone  direttamente  nel  bozzello  di  dritta,  invece  che  in  quello  del  fiocco)
+-  mettere  la  scotta  del  fiocco  sul  verricello  elettrico  a  babordo,  -  
+(mettere  la  scotta  della  mongolfiera  (verde)  sul  verricello  elettrico  a  tribordo),
+Immagine  30  –  Fissaggio  delle  cime  al  palo  e  alla  scotta  del  fiocco
+Machine Translated by Google
+--- pagina 45 ---
+1-33Guida  per  l'utente
+Immagine  32  –  Palo  per  il  braccio
+Immagine  31  –  Corde  blu  e  gialle  agganciate  alle  bitte
+-  far  scorrere  il  palo  lungo  la  corda  blu  e  agganciarlo  alla  tacca,
+sollevare  il  palo  con  il  sollevatore  
+superiore,  -  far  scorrere  le  linee  fino  a  quando  il  palo  segue  il  palo  piccolo.  (Palo  e  palo  di  supporto  devono
+-
+-
+perfettamente  allineate).  
+tutte  le  linee  devono  essere  tese,
+Machine Translated by Google
+--- pagina 46 ---
+Guida  per  l'utente1-34
+In  caso  di  mare  mosso,  allentare  le  cime  blu,  rosse  e  gialle  e  issare  l'asta  di  1  metro  in  più,  per  
+evitare  che  tocchino  le  onde.
+-  dispiegare  il  fiocco  e  fermarsi  quando  la  bugna  è  a  1  m  dal  palo,
+Immagine  33  –  Set  di  braccio
+Machine Translated by Google
+--- pagina 47 ---
+-  inserire  l'occhiello  superiore  della  drizza  nella  fessura  del  gancio  fissato  sulla  testa  del  pallone.  
+Ruotare  il  boma  del  fiocco  in  modo  che  le  scanalature  libere  siano  rivolte  verso  l'albero,
+attraverso  il  blocco  all'estremità  del  palo,  -  fissare  
+l'estremità  della  scotta  del  mongolfierista  alla  sua  bugna,  -  prendere  la  
+drizza  del  mongolfierista,  agganciarla  alle  sue  due  estremità  e  passarla  davanti
+Preparazione  del  pallone  aerostatico:
+-  come  in  precedenza,  il  palo  gemello  deve  essere  posizionato  a  dritta.  La  scotta  del  mongolfierista  va
+Immagine  34  –  Gancio  con  drizza  da  mongolfiera
+di  sudari,
+Guida  per  l'utente 1-35
+Machine Translated by Google
+--- pagina 48 ---
+-
+Immagine  35  –  Gancio  agganciato  al  foil  del  fiocco
+-  infilare  il  gancio  nella  scanalatura  di  dritta  con  la  guida  della  cima  di  ormeggio,  -  
+posizionare  la  cima  di  ormeggio  nella  sua  guida  e  quindi  nella  scanalatura  appropriata,  
+-  qualcuno  vicino  all'avvolgifiocco  può  aiutare  la  vela  a  entrare  nella  scanalatura  e  nella  guida,
+-  issare  completamente  la  mongolfiera  a  mano  in  modo  che  il  gancio  si  blocchi  nella  girella,  -  prima  
+di  estrarre  il  piede,  tendere  la  randa  della  mongolfiera  sul  bozzello  dentellato,  -  allentare  la  drizza  della  
+mongolfiera.  Se  è  ben  fissata,  la  vela  non  dovrebbe  scendere,  in  caso  di  difficoltà  di  bloccaggio,  assicurarsi  
+che  le  scanalature  siano  davanti  all'albero,  -  tendere  la  scotta,  tirare  giù  la  drizza  della  
+mongolfiera  e  fissarla.
+-
+1-36 Guida  per  l'utente
+Machine Translated by Google
+--- pagina 49 ---
+Guida  per  l'utente 1-37
+Immagine  36  –  Avvolgimento  simultaneo  del  fiocco  e  della  mongolfiera.
+Se  il  vento  reale  supera  i  15  nodi,  il  fiocco  e  la  mongolfiera  possono  essere  avvolti  insieme  sul  boma  del  fiocco.
+Machine Translated by Google
+--- pagina 50 ---
+-  prendere  la  drizza  del  mongolfierista  e  legarla  alle  sue  estremità,  -  sulla  stessa  
+cima,  fissare  il  dispositivo  di  sgancio  (topo)  usando  la  sua  fune,
+Per  trainare  la  mongolfiera:
+Immagine  37  –  Fissaggio  del  dispositivo  di  sgancio  (per  topi)
+Guida  per  l'utente1-38
+Machine Translated by Google
+--- pagina 51 ---
+-  rimettilo  al  suo  posto  nel  gavone  anteriore  di  dritta.  Assicurati  che  sia  asciutto,
+-  sciogliere  5  o  6  m  (20  piedi)  della  scotta  o  di  più  se  il  vento  è  più  forte,  issare  completamente  
+il  gancio  di  sgancio,  -  c'è  un  piccolo  
+scatto  nelle  mani,  tirare  giù  il  mongolfierista  per  
+tirarlo  a  bordo,
+-
+-  infilare  il  dispositivo  di  sgancio  (testa  in  alto)  nella  scanalatura  centrale,
+issare  la  drizza  fino  a  20  cm  (3  pollici)  dalla  girella,  fare  un  giro,  allentare  la  cima  della  mura,  orzare  fino  a  
+raggiungere  il  vento  al  traverso.  Il  pallone  si  ripiegherà  sopra  il  ponte,
+-
+-
+-
+Immagine  38  –  Posizionamento  della  mongolfiera  nel  gavone  anteriore  di  dritta
+-  riportare  indietro  la  drizza  del  mongolfierista  con  il  suo  sganciatore,  -  
+NON  avvolgere  il  fiocco  PRIMA  di  aver  sganciato  l'operatore.
+Per  rimuovere  il  sistema  a  doppio  palo,  procedere  in  ordine  inverso:  allentare  prima  la  puleggia  di  sollevamento.  Prestare  
+attenzione  quando  si  tira  il  palo  tirando  la  corda  rossa,  perché  potrebbe  sganciarsi  improvvisamente.  È  possibile  verificare  
+le  lunghezze  utilizzando  i  fili  neri  sulla  corda.
+PERICOLO!  Il  sistema  a  doppio  palo,  durante  il  funzionamento,  non  deve  
+mai  urtare  persone  o  attrezzature.  È  assolutamente  necessario  adottare  
+precauzioni  per  un  utilizzo  sicuro,  a  tutela  delle  persone  e  delle  attrezzature.
+Guida  per  l'utente 1-39
+Machine Translated by Google
+--- pagina 52 ---
+Immagine  39  –  Impostazione  della  virata  sulla  mongolfiera  di  mezzana
+-  fissare  il  puntone  utilizzando  il  grillo  all'occhiello  davanti  al  tetto,
+Con  la  mongolfiera  di  mezzana  è  possibile  navigare  fino  a  15  nodi  di  vento  reale,  per  un  angolo  compreso  tra  80  e  150°.
+Per  issare  la  mongolfiera  di  mezzana  (a  babordo  o  a  tribordo):
+e)  Mongolfiera  di  mezzana
+1-40 Guida  per  l'utente
+Machine Translated by Google
+--- pagina 53 ---
+Immagine  40  –  Via  dalla  scotta  della  mongolfiera  di  mezzana
+'-  posizionare  i  due  grilli  sulla  stessa  tavola,  come  mostrato  nell'immagine  40  –  Via  dal  foglio  del  veliero  di  
+mezzana
+-  infilare  il  foglio  nel  blocco  al  contrario,
+Guida  per  l'utente 1-41
+Machine Translated by Google
+--- pagina 54 ---
+-  Rimettilo  al  suo  posto  nel  gavone  di  sinistra,  unendo  le  3  bitte  per  facilitarne  l'utilizzo  successivo.  Assicurati  
+che  sia  asciutto.
+-  prima  di  issare,  non  dimenticare  di  fare  un  giro  sulla  drizza,  -  issare  il  pallone  
+di  mezzana  usando  il  verricello  di  sinistra  dell'albero  di  mezzana,
+-  posizionare  la  drizza  sul  lato  in  cui  si  desidera  installarla,  -  posizionare  la  
+drizza  in  testa  del  pallone  di  mezzana,  -  utilizzando  il  pilota  automatico,  
+posizionare  la  barca  a  70°  del  vento  (adatto  per  il  traino  in
+pure),
+Immagine  41  –  Drizza  fissata  prima  del  sollevamento
+Guida  per  l'utente1-42
+Machine Translated by Google
+--- pagina 55 ---
+1-43Guida  per  l'utente
+1.3.5  Porte  a  tenuta  stagna
+Immagine  42  –  Suddivisione  della  barca
+Stella  libera
+compartimento  stagno  in  
+caso  di  collisione
+Il  Super  Maramu  2000  è  dotato  di  numerose  paratie  stagne,  illustrate  nel  disegno  seguente:
+Sala  macchine  a  
+tenuta  stagna
+cabina  di  
+poppa  stagna
+Cabina  anteriore  
+impermeabile
+Porta  stagna  da  installare  in  
+caso  di  
+allagamento  da  acqua  di  mare.
+Paratia  a  tenuta  
+stagnaValvola  di  scarico  da  chiudere  in  caso  di  
+allagamento  da  acqua  di  mare
+La  cabina  di  prua  può  essere  resa  stagna:  -  chiudere  la  porta  
+stagna,  -  impostare  la  barra  di  legno  
+(situata  nella  mensola  davanti  alla  cuccetta  del  salone)  che  preme  questa
+Porta  sulla  sua  guarnizione,  
+sollevare  il  portello  inferiore  e  chiudere  la  valvola  di  scarico  del  compartimento  anteriore  situata  sotto  la  porta.-
+Compartimento  
+a  tenuta  stagna
+Machine Translated by Google
+--- pagina 56 ---
+1-44 Guida  per  l'utente
+Immagine  44  –  Valvola  di  scarico  del  compartimento  di  poppa  (fotografata  aperta)
+Immagine  43  –  Barra  di  legno  posizionata  e  valvola  di  scarico  del  compartimento  anteriore  (fotografata  chiusa)
+Posizione  del  bar  in  legno
+La  cabina  di  poppa  potrebbe  essere  stagna:  -  
+chiudere  la  porta  stagna,  -  impostare  la  
+barra  di  legno  (situata  nell'armadio  del  corridoio)  che  preme  questa
+porta  sulla  sua  guarnizione,  
+-  girare  la  valvola  di  scarico  del  compartimento  di  poppa  vicino  alla  porta.
+Machine Translated by Google
+--- pagina 57 ---
+Immagine  45  –  Stoccaggio  del  bar  di  poppa  in  legno
+Guida  per  l'utente 1-45
+Machine Translated by Google
+--- pagina 58 ---
+1-46 Guida  per  l'utente
+1.4  Altre  attrezzature
+1.4.1  Serbatoio  del  carburante
+Utilizzare  esclusivamente  gasolio  adatto  ai  motori  diesel  marini.
+Qualsiasi  intervento  di  manutenzione  su  parti  meccaniche  o  elettriche  deve  essere  
+eseguito  da  personale  qualificato,  utilizzando  strumenti  e  dispositivi  di  protezione  
+adeguati.
+PERICOLO!  Qualsiasi  manipolazione  del  carburante  deve  essere  effettuata  nel  rispetto  
+delle  avvertenze  della  società  di  vendita.  Il  rifornimento  del  serbatoio  deve  essere  
+effettuato  in  assenza  di  scintille,  fiamme,  oggetti  incandescenti  (sigarette,  ecc.)  o  
+qualsiasi  altro  dispositivo  in  grado  di  provocare  incidenti  (come  ad  esempio  un  telefono  
+cellulare).
+I  manuali  del  motore  e  del  generatore  contengono  avvertenze  e  istruzioni  di  sicurezza  
+per  un  utilizzo  corretto  di  questi  dispositivi.  Consultateli  prima  di  procedere.
+Non  utilizzare  mai  altri  combustibili  come  benzina,  cherosene,  ecc.,  perché  potrebbero  
+provocare  un  incendio.
+L'utilizzo  di  un  carburante  non  idoneo  può  causare  malfunzionamenti  al  sistema  di  
+iniezione  diesel.
+Il  serbatoio  del  gasolio  in  acciaio  inox  ha  una  capacità  di  600  l  (132  galloni  imperiali,  159  US
+Sistema  di  raffreddamento  del  motore
+serbatoio  
+di  gasolio
+Immagine  46  –  Serbatoio  di  gasolio
+Galloni)  e  si  trova  nella  sala  macchine  (lato  di  dritta).
+Machine Translated by Google
+--- pagina 59 ---
+1-47Guida  per  l'utente
+Sfogo
+Non  riempire  mai  fino  a  traboccare.
+Il  riempimento  del  serbatoio  viene  effettuato  dalla  cabina  di  pilotaggio,  sollevando  il  gavone  di  dritta  vicino  all'albero  di  mezzana.
+C'è  una  presa  d'aria  che  conduce  al  corridoio  di  dritta  (questa  presa  d'aria  passa  sopra  l'armadio).
+Riempimento  di  gasolio
+Doccia  in  pozzetto
+rubinetto  di  intercettazione
+All'interno  del  serbatoio  è  presente  un'astina  graduata.
+Immagine  48  –  Asta  graduata  in  plastica
+Immagine  47  –  Gavone  di  prua  sul  lato  di  dritta
+Machine Translated by Google
+--- pagina 60 ---
+Immagine  49  –  Parte  superiore  del  serbatoio
+sensore  di  misuratore  elettrico
+Nella  parte  superiore,  il  serbatoio  presenta  2  portelli  di  ispezione.  Il  sensore  del  livello  elettrico  si  trova  sul  portello  
+anteriore.
+Sportello  di  ispezione
+All'uscita  del  serbatoio  è  presente  una  valvola  di  intercettazione,  azionabile  sia  dalla  sala  macchine  che  dal  corridoio.  
+Questa  valvola  convoglia  il  gasolio  al  filtro  RACOR.  Chiudendo  questa  valvola,  il  gasolio  non  viene  più  erogato  al  motore  
+e  al  generatore.
+Indicatore  elettrico  On/Off
+Tirare  per  arrestare  il  gasolio
+Immagine  50  –  Manometro  elettrico  del  gasolio  e  leva  per  
+interrompere  l'erogazione  del  gasolio  dal  condotto
+1-48 Guida  per  l'utente
+Machine Translated by Google
+--- pagina 61 ---
+rubinetto  di  scarico
+Filtro
+Immagine  51  –  Interruzione  dell'erogazione  di  gasolio  dalla  sala  macchine
+Il  filtro  RACOR  fornisce  gasolio  al  motore  principale  e  al  generatore.
+Immagine  52  –  Filtro  RACOR
+Parte  decantata
+Guida  per  l'utente 1-49
+Machine Translated by Google
+--- pagina 62 ---
+Guida  per  l'utente1-50
+L'apertura  della  sala  macchine  è  bloccata  dal  corridoio,  inserendo  un  perno  in  acciaio  inossidabile  
+attraverso  il  coperchio.
+Immagine  53  –  Chiusura  del  coperchio  della  sala  macchine
+Machine Translated by Google
+--- pagina 63 ---
+Immagine  55  –  Rubinetto  di  ingresso  dell'acqua  di  mare  (fotografato  aperto)
+Nel  Super  Maramu  2000  è  presente  un  solo  ingresso  dell'acqua,  situato  in  sala  macchine,  a  prua  sul  lato  di  dritta.  È  composto  da  una  
+valvola  di  scarico  in  poliestere  e  da  una  valvola  di  intercettazione  (per  chiuderla,  ruotarla  perpendicolarmente  al  tubo).  È  presente  
+anche  un  filtro,  il  cui  controllo  si  effettua  svitando  il  coperchio.  Il  filtro  deve  essere  pulito  regolarmente,  spazzolando  il  cestello  
+removibile  al  suo  interno.  Se  il  filtro  si  ostruisce,  si  attiverà  un  allarme  acustico  e  visivo  nella  discesa  (vedi  Figura  57  –  Acqua  di  mare  
+e  pozzetto ).
+Immagine  54  –  Filtro  per  acqua  di  mare
+1.4.2  Acqua  di  mare
+Guida  per  l'utente 1-51
+Machine Translated by Google
+--- pagina 64 ---
+Immagine  57  –  Allarme  acqua  di  mare  e  pozzetto  di  raccolta
+misura
+L'indicatore  del  livello  dell'acqua  dolce  può  essere  bloccato  in  posizione  inferiore  per  evitare  che  graffi  la  paratia  del  tambuccio.
+Sensore  di  riempimento
+Immagine  56  –  Sensore  di  ostruzione  del  filtro  dell'acqua  di  mare
+Foglio  identificativo
+Allarme  di  riempimento
+Acqua  dolce
+Guida  per  l'utente1-52
+Machine Translated by Google
+--- pagina 65 ---
+1-53Guida  per  l'utente
+gallo  (aperto)
+fermata  dell'acqua  di  mare
+L'acqua  di  mare  viene  convogliata  da  un  lato  al  motore  principale  e  al  generatore  e,  dall'altro,  tramite  una  valvola  di  
+intercettazione,  alle  diverse  pompe  (WC,  aria  condizionata,  dissalatore  e  lavaggio  ancore).
+I  disegni  fluidodinamici  mostrano  l'intero  sistema.  Nel  Super  Maramu  2000,  gli  anelli  di  serraggio  sono  raddoppiati  sui  
+tubi  dell'acqua  di  mare.
+Immagine  58  –  Rubinetto  di  intercettazione  dell'acqua  di  mare  (altri  dispositivi  come  motore  principale  e  generatore)
+Se  l'imbarcazione  non  viene  utilizzata  per  lungo  tempo,  i  circuiti  dell'acqua  di  mare  di:
+-  motore  principale,  -  
+generatore,  aria  
+condizionata,  servizi  
+igienici,  
+-  lavaggio  dell'ancora,
+-
+Devono  essere  sciacquati  con  acqua  dolce  (o  acqua  dolce  e  antigelo).  È  bene  evitare  corrosione,  ostruzioni  e  cattivi  
+odori,  soprattutto  nei  servizi  igienici.
+Per  la  manutenzione  del  dissalatore,  fare  riferimento  al  manuale.
+-
+Machine Translated by Google
+--- pagina 66 ---
+Guida  per  l'utente1-54
+rubinetto  
+di  scarico
+desalinizzatore
+Scarico  elettrico
+Il  rubinetto  di  scarico  dell'acqua  espulsa  dal  dissalatore,  dalle  pompe  di  sentina  manuali  ed  elettriche,  si  trova  nella  sala  macchine  sul  
+lato  sinistro.
+pompa  di  sentina
+Manuale  di  drenaggio
+Pompa  di  sentina
+drenaggio
+Immagine  59  –  Rubinetto  di  scarico  delle  acque  reflue  (fotografato  aperto)
+Informazioni  sulla  vasca  di  raccolta:  la  vasca  di  raccolta  si  trova  nella  parte  poppiera  della  chiglia.  Vi  si  può  accedere  dalla  sala  
+macchine.  Le  acque  reflue  (acque  grigie)  della  doccia  di  poppa,  del  lavello  della  cucina,  delle  lavatrici,  della  doccia  di  prua  e  del  
+gavone  dell'ancora  confluiscono  in  essa.
+L'acqua  della  pompa  di  sentina  viene  drenata  tramite  2  pompe:  -  
+pompa  di  sentina  elettrica,  -  pompa  
+di  sentina  manuale.
+Se  necessario,  l'accesso  alla  coppa  dell'olio  è  facilitato  sganciando  il  coperchio  di  plastica  e  i  tubi  di  aspirazione.  Pulire  con  una  
+spazzola  (vedere  3.12.1).
+Machine Translated by Google
+--- pagina 67 ---
+1-55Guida  per  l'utente
+1.4.3  Pompe  elettriche
+Aria
+Per  sapere  a  quale  tensione  funzionano  le  diverse  pompe,  fare  riferimento  agli  schemi  elettrici  forniti  e  al  manuale  del  produttore.
+Prima  di  iniziare  qualsiasi  lavoro,  consultare  gli  schemi  elettrici  (relativi  
+all'imbarcazione  o  ad  altri  dispositivi).
+PERICOLO!  Qualsiasi  intervento  di  manutenzione  su  parti  meccaniche  o  
+elettriche  deve  essere  eseguito  da  personale  qualificato,  utilizzando  strumenti  
+e  dispositivi  di  protezione  adeguati.
+I  manuali  d'uso  di  questa  apparecchiatura  contengono  avvertenze  di  sicurezza  
+che  devono  essere  rispettate.  Consultare  questi  manuali  prima  dell'uso.
+I  disegni  dei  fluidi  (acqua  dolce  e  acqua  di  mare)  mostrano  le  prese  e  gli  scarichi.
+Lavaggio  
+dell'ancora Toilette  a  prua  e  
+a  poppa
+condizionata
+Immagine  60  –  Panoramica  generale  di  alcune  pompe  elettriche
+Acqua  
+dolce
+Pozzetto
+Machine Translated by Google
+--- pagina 68 ---
+Guida  per  l'utente1-56
+a)  Pompa  di  sentina
+Aspira  fino  a  10  cm  (4  pollici)  dal  fondo.  Per  pompare  il  resto  (liquido  e  solido),  utilizzare  la  pompa  di  sentina  manuale.
+La  pompa  di  sentina  si  trova  in  sala  macchine,  sopra  la  vasca  di  raccolta.  La  sua  funzione  è  quella  di  aspirare  l'acqua  di  scarico  
+dalla  vasca  e  di  espellerla  all'esterno  dell'imbarcazione.  Funziona  automaticamente  tramite  l'interruttore  a  galleggiante  posto  
+sulla  parte  superiore  del  tubo  di  plastica.  Può  essere  azionata  anche  dal  pannello  a  24  V  in  cucina.
+Inoltre,  dietro  la  pompa  dell'aria  condizionata  è  presente  un  sensore.  L'allarme  si  ripete  sul  sensore  di  riempimento.  Si  attiverà  
+in  caso  di  guasto  della  pompa  di  sentina.
+Immagine  61  –  Pompa  di  sentina
+Machine Translated by Google
+--- pagina 69 ---
+1-57Guida  per  l'utente
+Molti  dispositivi  pompano  acqua  di  mare.  Tra  questi:  -  dissalatore,  -  
+pompa  per  il  lavaggio  
+dell'ancora,  pompa  per  WC,  
+pompa  per  l'aria  
+condizionata.
+Immagine  62  –  Interruttore  galleggiante
+Tubo  
+galleggiante
+Interruttore
+-
+-
+Consultare  il  paragrafo  appropriato  e  il  manuale  del  produttore  per  conoscere  la  posizione  e  le  caratteristiche  di  ciascuno.
+b)  Pompe  per  acqua  di  mare
+Machine Translated by Google
+--- pagina 70 ---
+La  pompa  per  il  lavaggio  dell'ancora  si  trova  nella  sala  macchine,  sul  lato  sinistro.
+Immagine  63  –  Pompa  di  lavaggio  Anchor
+c)  Pompa  di  lavaggio  dell'ancora
+1-58 Guida  per  l'utente
+Machine Translated by Google
+--- pagina 71 ---
+pompa  di  sentina  
+manuale
+Acqua  dolce
+Informazioni  sull'acqua  
+dolce:  il  serbatoio  dell'acqua  dolce,  con  una  capacità  di  1000  litri  (220  galloni  imperiali,  264  galloni  USA) ,  si  trova  nella  chiglia.  
+La  pompa  è  in  sala  macchine.  Non  utilizzarla  senza  acqua,  perché  la  turbina  in  bronzo  potrebbe  guastarsi  prematuramente.  Il  
+livello  dell'acqua  dolce  è  indicato  da  un  tubo  galleggiante,  posizionato  a  sinistra  della  discesa  (vedere  Figura  57  -  Allarme  
+acqua  di  mare  e  pozzetto).  Il  riempimento  del  serbatoio  dell'acqua  dolce  si  effettua  dal  pozzetto,  svitando  il  tappo  sotto  il  
+volante.
+riempirsi
+È  dotato  di  un  foro  di  innesco  (vedere  il  disegno  del  produttore).
+Immagine  64  –  Riempimento  con  acqua  dolce
+Quando  fa  gelo,  svuotate  la  pompa,  aprite  tutti  i  rubinetti  (non  dimenticate  la  doccia  in  pozzetto,  vedi  Figura  47  –  Gavone  di  
+dritta  in  pozzetto)  e  svuotate  lo  scaldabagno.
+d)  Pompa  dell'acqua  dolce
+Guida  per  l'utente 1-59
+Machine Translated by Google
+--- pagina 72 ---
+pompa
+pompa
+Sensore
+Acqua  dolce
+Immagine  65  –  Pompa  dell'acqua  dolce
+Aria  condizionata
+1-60 Guida  per  l'utente
+Machine Translated by Google
+--- pagina 73 ---
+Immagine  66  –  Pompa  di  emergenza  per  acqua  dolce
+Sotto  la  lavastoviglie,  nella  sentina,  è  installata  una  pompa  di  emergenza  per  l'acqua  dolce.  Le  istruzioni  per  l'uso  
+sono  riportate  sulla  pompa  stessa.  Questo  dispositivo  è  collegato  a  un  tubo  flessibile  per  facilitarne  l'utilizzo  in  caso  di  
+guasto  della  pompa  elettrica  dell'acqua  dolce.
+La  pompa  di  sentina  si  trova  in  pozzetto,  sotto  il  volante.  È  consigliabile  utilizzarla  una  volta  alla  settimana  per  svuotare  
+la  sentina  dai  liquidi  e  dai  solidi  presenti  sul  fondo.  La  maniglia  può  essere  realizzata  con  la  gamba  in  acciaio  inox  del  
+tavolo  rimovibile  del  pozzetto.  Si  trova  nel  gavone  di  stivaggio  (vedere  l'  immagine  64  -  Riempimento  con  acqua  dolce ).
+a)  Pompa  di  emergenza  per  l'acqua  dolce
+1.4.4  Pompe  manuali
+b)  Pompa  di  sentina
+1-61Guida  per  l'utente
+Machine Translated by Google
+--- pagina 74 ---
+Galloni);  l'acqua  viene  riscaldata  tramite  scambio  termico  con  il  motore  principale  (in  20  min)  o  tramite  un'unità  di  resistenza  
+elettrica  a  220  V  (in  2  ore).  Ogni  3  anni,  in  base  alla  quantità  di  acqua  immagazzinata,  pulire  il  serbatoio  per  rimuovere  i  
+depositi  calcificati.  Sostituire  l'anodo  di  magnesio  all'interno.
+Lo  scaldabagno  ha  una  capacità  di  45  l  (circa  10  galloni  imperiali,  12  US
+PERICOLO!  Leggere  attentamente  il  manuale  dello  scaldabagno  prima  
+dell'uso.  Contiene  avvertenze  relative  alla  propria  sicurezza  durante  il  
+funzionamento  e  la  manutenzione.
+Qualsiasi  intervento  di  manutenzione  su  parti  meccaniche  o  elettriche  di  
+questo  dispositivo  deve  essere  eseguito  da  personale  qualificato,  utilizzando  
+strumenti  e  dispositivi  di  protezione  adeguati.
+Immagine  67  –  Scaldabagno
+1.4.5  Scaldabagno
+Guida  per  l'utente1-62
+Machine Translated by Google
+--- pagina 75 ---
+1-63Guida  per  l'utente
+1.4.6  Sistema  di  climatizzazione  e  riscaldamento  AMEL
+Immagine  68  –  Controllo  termostatico
+-  nella  posizione  riscaldamento  (Heat),  non  impostare  la  ventilazione  su  “Min”.  Preferire  “Med”  o
+La  configurazione  di  un  dispositivo  è  indipendente  dagli  altri.  La  temperatura  (di  riscaldamento  o  raffreddamento)  si  imposta  
+tramite  il  termostato.  L'  interruttore  Raffreddamento/ Riscaldamento  ha  una  posizione  intermedia  che  ne  arresta  il  
+funzionamento.
+Il  Super  Maramu  2000  è  dotato  di  3  dispositivi  di  climatizzazione,  in  grado  di  erogare  aria  fredda  o  calda.
+Nota  importante:
+sentendo  un  “clic”,
+“Max”.
+-  nella  posizione  aria  condizionata  (Cool),  non  girare  il  controllo  del  termostato  dopo
+nel  salone,  sotto  la  panca  di  sinistra.  Rimuovere  i  cuscini  e  la  seduta  in  compensato,  nella  cabina  di  prua.  
+Rimuovere  
+i  cuscini  delle  cuccette  e  svitare  la  ruota  centrale.  Ciò  consente  di  liberare  la  seduta  tra  sinistra  e  dritta,  
+davanti  all'elica  di  prua  (consente  l'accesso  al  rubinetto  di  scarico  del  flusso  del  gavone  delle  catene  verso  
+la  pompa  di  sentina),  nella  doccia  di  poppa  (per  portare  l'aria  condizionata  nella  cabina  di  poppa).  
+Rimuovere  i  
+mobili  contro  lo  scafo.
+-
+-
+I  sistemi  di  condizionamento  dell'aria  sono:
+-
+Machine Translated by Google
+--- pagina 76 ---
+1-64 Guida  per  l'utente
+sistema  di  
+condizionamento
+Aria
+Non  ostruire  mai  il  foro  che  immette  l'aria  condizionata  nella  stanza  (vedi  Figura  94  –  Bussola  Fluxgate).
+Gli  impianti  di  climatizzazione  hanno  una  presa  d'aria  all'interno  dell'imbarcazione.  Fare  attenzione  a  non  ostruirla  e  a  non  bloccare  il  flusso  
+d'aria  intorno  ad  essa.
+Ingresso  aria
+sistema  di  
+congelamento  profondo
+Immagine  69  –  Aria  condizionata  del  salone
+Ingresso  aria
+Immagine  70  –  Aria  condizionata  nella  cabina  anteriore
+Valvola  di  scarico  dell'acqua  di  raffreddamento  
+dei  3  impianti  di  climatizzazione
+Machine Translated by Google
+--- pagina 77 ---
+Guida  per  l'utente 1-65
+Per  funzionare,  gli  impianti  di  climatizzazione  necessitano  di  una  pompa,  situata  nella  sala  macchine.  Funziona  a  220  V  e  fornisce  acqua  
+ai  3  impianti  di  climatizzazione.
+Immagine  71  –  Aria  condizionata  nella  cabina  di  poppa
+I  condizionatori  d'aria  sono  dotati  di  dispositivi  di  ritardo  all'avviamento,  per  evitare  picchi  di  corrente  sul  generatore  (qualora  gli  interruttori  
+fossero  accesi  all'avvio  del  generatore).
+I  condizionatori  d'aria  possono  funzionare  con  alimentazione  di  rete  a  50  o  60  Hz  e  220  V.
+Machine Translated by Google
+--- pagina 78 ---
+Qualsiasi  intervento  di  manutenzione  su  parti  meccaniche  o  elettriche  di  
+questo  dispositivo  deve  essere  eseguito  da  personale  qualificato,  utilizzando  
+strumenti  e  dispositivi  di  protezione  adeguati.
+Immagine  72  –  Pompa  dell'aria  condizionata
+Dopo  diverse  settimane  di  inattività,  ruotare  leggermente  la  pompa  a  mano  con  un  cacciavite,  come  mostrato  nella  Figura  
+72  -  Pompa  del  condizionatore.  Prima  di  farlo,  assicurarsi  che  l'alimentazione  a  220  V  sia  disattivata.
+PERICOLO!  Leggere  attentamente  il  manuale  del  condizionatore  prima  
+dell'uso.  Contiene  avvertenze  relative  alla  propria  sicurezza  durante  il  
+funzionamento  e  la  manutenzione.
+Guida  per  l'utente1-66
+Machine Translated by Google
+--- pagina 79 ---
+Guida  per  l'utente 1-67
+1.4.7  Attrezzature  di  convenienza
+a)  Apparecchi  elettrici  domestici
+Ma,  per  un  maggiore  comfort  quando  qualcuno  dorme  in  salone,  la  ventola  può  essere  regolata  a  velocità  media,  premendo  
+l'interruttore  posto  nella  parte  inferiore  dell'apparecchio.
+La  ventola  viene  fornita  già  impostata  alla  massima  velocità,  per  ottenere  un  raffreddamento  più  rapido  ed  efficace.
+Il  Super  Maramu  2000  è  dotato  di  tutti  gli  elettrodomestici  di  casa,  come  forno  a  microonde,  piano  cottura  e  forno  a  gas,  frigorifero,  
+congelatore,  lavastoviglie,  lavatrice/asciugatrice.
+Il  frigorifero  è  dotato  di  una  ventola  per  raffreddare  il  motore  e  il  compressore.  Questa  ventola  può  funzionare  a  2  velocità  
+diverse:  alta  velocità  (funzionamento  normale  e  maggiore  efficienza),  velocità  media  (funzionamento  silenzioso).
+Accendendo  nuovamente  il  pulsante,  si  imposterà  la  velocità  massima,  che  è  la  modalità  di  funzionamento  corretta  per  il  
+frigorifero.
+Immagine  73  –  Interruttore  per  la  regolazione  della  velocità  della  ventola
+Machine Translated by Google
+--- pagina 80 ---
+1-68 Guida  per  l'utente
+Sia  la  lavastoviglie  che  la  lavasciuga  necessitano  di  un  allacciamento  idrico.  Si  trovano  sotto  il  piano  cottura  e  il  forno  
+a  gas  ed  entrambe  sono  dotate  di  un  rubinetto  di  intercettazione.
+Immagine  74  –  Congelatore
+Il  congelatore  può  essere  sia  un  frigorifero  che  un  congelatore,  a  seconda  della  modalità  di  funzionamento  selezionata.  
+Il  controllo  termostatico  che  lo  gestisce  è  quello  scelto.
+Termostati
+Nota:  la  lavatrice/ asciugatrice  utilizza  acqua  pulita.  L'acqua  di  scarto  finisce  nella  vasca  di  raccolta.
+Questi  scarichi  sono  visibili  sollevando  il  coperchio  sotto  la  scaletta  di  accesso.
+Il  frigorifero,  la  lavatrice/asciugatrice  e  il  congelatore  sono  dotati  di  una  presa  d'aria:  non  ostruirla  mai.
+Machine Translated by Google
+--- pagina 81 ---
+Guida  per  l'utente 1-69
+La  lavatrice/asciugatrice  è  dotata  di  una  propria  presa  d'aria.
+Immagine  75  –  Presa  d'aria  del  frigorifero
+Immagine  76  –  Ingresso  lavatrice/ asciugatrice
+Machine Translated by Google
+--- pagina 82 ---
+riguardo  alla  tua  sicurezza  personale  durante  le  operazioni  e  la  
+manutenzione.
+Immagine  77  –  Presa  del  congelatore
+PERICOLO!  Leggere  attentamente  i  manuali  delle  attrezzature  di  bordo  
+prima  dell'uso  e  della  navigazione.  Contengono  avvertenze
+Qualsiasi  intervento  di  manutenzione  su  parti  meccaniche  o  elettriche  di  
+questi  dispositivi  deve  essere  eseguito  da  personale  qualificato,  utilizzando  
+strumenti  e  dispositivi  di  protezione  adeguati.
+Guida  per  l'utente1-70
+Machine Translated by Google
+--- pagina 83 ---
+1-71Guida  per  l'utente
+b)  Tavole  di  legno  per  il  riparo
+-
+-
+Le  cuccette  sono  dotate  di  paratie  di  protezione  in  legno  rimovibili.  Ogni  paratia  ha  il  suo  alloggiamento  e  il  suo  utilizzo.  Svitare  
+le  ruote,  inserire  la  gamba  in  acciaio  inox  nell'apposito  alloggiamento  (tranne  nel  corridoio  dove  sono  presenti  2  guide  in  legno).
+Posizione  di  stoccaggio  delle  tavole  di  protezione  in  legno:  
+nella  cabina  di  prua,  si  trovano  sotto  le  mensole  di  babordo  e  tribordo,  nel  corridoio;  nella  cabina  
+di  poppa,  si  trovano  dietro  
+la  porta  della  doccia  di  poppa.-
+Immagine  78  –  Conservazione  della  tavola  di  protezione  in  legno  della  cabina  di  prua
+Immagine  79  –  Set  di  tavole  di  protezione  in  legno  della  cabina  di  prua
+Machine Translated by Google
+--- pagina 84 ---
+Guida  per  l'utente1-72
+Immagine  81  –  Set  di  tavole  di  protezione  in  legno  del  passaggio
+Immagine  80  –  Conservazione  della  tavola  di  protezione  in  legno  del  passaggio
+Machine Translated by Google
+--- pagina 85 ---
+Immagine  82  –  Rimessaggio  della  tavola  di  protezione  in  legno  della  cabina  di  poppa
+Immagine  83  –  Set  di  tavole  di  protezione  in  legno  della  cabina  di  poppa
+Guida  per  l'utente 1-73
+Machine Translated by Google
+--- pagina 86 ---
+Guida  per  l'utente1-74
+c)  Sicuro
+Immagine  84  –  Cassaforte
+Una  cassaforte  (con  codice  personale)  è  installata  su  una  mensola  nella  cabina  di  poppa.  Per  modificare  il  codice  personale  e  conoscere  le  
+caratteristiche  di  questo  apparecchio,  consultare  il  relativo  manuale.  Funziona  con  piccole  batterie  a  secco.
+Se  necessario  (codice  dimenticato,  batterie  di  riserva  non  disponibili,  ecc.),  è  possibile  aprirlo  con  una  chiave.
+Machine Translated by Google
+--- pagina 87 ---
+Vicino  alla  plancia  di  comando  si  trova  la  leva  per  il  lavaggio  dell'ancora.  Lavare  l'ancora  dall'inizio  alla  fine  di  ogni  utilizzo.  In  questo  
+modo  si  mantiene  pulito  il  gavone  della  catena.
+Non  aprire  mai  lo  sportello  stagno  quando  si  utilizza  il  verricello.
+Un  interruttore,  denominato  "Guindeau  On/ Off",  situato  sul  ripiano  di  sinistra  
+della  cabina  di  prua,  disconnette  i  comandi  per  impedire  che  vengano  utilizzati  
+da  personale  non  autorizzato.
+PERICOLO!  Leggere  attentamente  il  manuale  del  verricello  prima  dell'uso  e  
+della  navigazione.  Contiene  avvertenze  relative  alla  propria  sicurezza  durante  
+l'utilizzo  e  la  manutenzione.
+Qualsiasi  intervento  di  manutenzione  su  parti  meccaniche  o  elettriche  di  questo  
+dispositivo  deve  essere  eseguito  da  personale  qualificato,  utilizzando  strumenti  
+e  dispositivi  di  protezione  adeguati.
+Non  inserire  mai  un  braccio  nel  gavone  della  catena  quando  questo  è  azionato  
+dal  verricello.
+Il  Super  Maramu  2000  è  dotato  di  un  verricello  da  1200  W,  funzionante  a  24  V.
+Non  azionare  mai  la  catena  del  verricello  se  l'interruttore  è  in  posizione  "On".
+Un  bullone  blocca  questo  pannello.
+Il  verricello  può  essere  azionato  dalla  cabina  di  pilotaggio  in  timoneria,  oppure  direttamente  dai  comandi  a  pedale  sulla  sua  sommità.  
+Non  lasciare  che  la  catena  dell'ancora  si  srotoli  completamente  (se  dovesse  succedere,  sollevarla  di  2  m).
+Attenzione:  arrestare  la  pompa  di  lavaggio  non  appena  l'ancora  è  in  posizione  a  prua,  poiché  l'ancora  potrebbe  ostruire  lo  scarico.
+Un  interruttore,  denominato  “Guindeau  On/ Off”,  situato  sul  ripiano  di  sinistra  della  cabina  di  prua,  disconnette  i  comandi  per  impedire  
+l'utilizzo  da  parte  di  persone  non  autorizzate.  Si  consiglia  di  disattivare  questo  dispositivo  quando  non  è  necessario  utilizzarlo  (ad  
+esempio,  durante  la  navigazione).
+1.4.8  Salpa  ancora  e  catena
+a)  Salpa  ancora
+Guida  per  l'utente 1-75
+Machine Translated by Google
+--- pagina 88 ---
+Può  essere  sganciato  svitando  il  dado  a  farfalla  a  dritta;  la  cima  di  ormeggio  è  ora  libera.  Puoi  lasciare  andare  l'ancora  (fai  
+attenzione  a  non  lasciarla  andare  completamente!).
+Lavaggio  dell'ancora
+Verricello
+contatore  a  catena
+controlli
+Sviluppo  del  piede
+Immagine  86  –  Verricello
+Immagine  85  –  Comandi  del  verricello
+Inoltre,  se  il  verricello  è  rotto,  la  catena  può  essere  tirata  su  a  mano:  basta  inserire  la  manovella  nella  ruota  di  sinistra.
+Ecco  un  manuale  semplificato  del  verricello:
+Guida  per  l'utente1-76
+Machine Translated by Google
+--- pagina 89 ---
+Immagine  87  –  Attacco  per  2  ancoraggi
+-
+L'attacco  a  prua  del  Super  Maramu  2000  è  progettato  per  2  ancore.  Dispone  inoltre  di  una  ruota  ausiliaria  (al  
+centro).
+Per  montare  o  smontare  un  tassello  nel  raccordo:  -  
+svitare  il  bullone  sulla  tavola  desiderata,  -  ruotare  il  braccio  
+in  acciaio  inox,  montare  (o  smontare)  
+il  tassello,  -  riavvitare  la  vite.
+Vite  ad  occhiello
+Guida  per  l'utente 1-77
+Machine Translated by Google
+--- pagina 90 ---
+Guida  per  l'utente1-78
+b)  Armadietto  a  catena
+Immagine  88  –  Porta  stretta  se  l'armadietto  a  catena
+Se  necessario,  mollare  completamente  l'ancoraggio  e  tagliare  la  presa  (vedi  Figura  90  –  Presa).
+Sul  ripiano,  a  dritta  dell'elica  di  prua,  uno  sportello  stretto  consente  l'accesso  al  gavone  della  catena.
+Un  morsetto  collega  la  catena  all'imbarcazione.  Questa  fune  è  fissata  a  un  golfare.
+Il  gavone  della  catena  è  a  tenuta  stagna.  Lo  scarico  a  gravità  confluisce  nella  vasca  di  raccolta.  Un  rubinetto  sotto  l'elica  di  prua  blocca  
+questo  flusso.
+Arrestare  il  cane  
+dell'elica  di  prua
+Uniformità  dell'aria  
+condizionata
+Immagine  89  –  Rubinetto  di  intercettazione  dello  scarico  (fotografato  chiuso)
+Arrestare  il  
+meccanismo  di  
+chiusura  della  catena
+Machine Translated by Google
+--- pagina 91 ---
+c)  Contatore  a  catena
+Immagine  90  –  Clinch
+Abbraccio
+Sul  verricello  è  montato  un  contacatena  (con  sensore  induttivo).  La  sua  precisione  è  di  circa  il  10%.
+La  lunghezza  della  catena  (in  metri)  è  visualizzata  su  un  display  LCD  in  cabina  di  pilotaggio  (vedere  Figura  85  –  Comandi  del  verricello).  
+Può  essere  azzerata  premendo  il  pulsante  “Z”.
+1-79Guida  per  l'utente
+Machine Translated by Google
+--- pagina 92 ---
+1-80 Guida  per  l'utente
+1.4.9  Apparecchiature  elettroniche
+Dietro  i  dispositivi  è  presente  un  passaggio  predisposto  per  l'eventuale  installazione  di  un  SSB  qualora  l'imbarcazione  non  ne  
+fosse  già  dotata.  Fare  riferimento  alla  sezione  1.1.3  per  informazioni  sul  circuito  di  terra.
+Per  ulteriori  dettagli  e  descrizioni  delle  funzioni,  fare  riferimento  al  rispettivo  manuale.
+L'equipaggiamento  standard  del  Super  Maramu  2000  comprende  numerosi  strumenti  di  navigazione  e  apparecchiature  elettroniche  
+di  sicurezza.  Sono  posizionati  sul  tavolo  da  carteggio.
+I  rack  su  cui  sono  installate  le  apparecchiature  elettroniche  sono  rimovibili  svitando  le  ruote  sottostanti.
+Alcuni  dispositivi  elettronici  funzionano  a  12  V.  L'alimentazione  proviene  dal  trasformatore  24/12  V  situato  sotto  il  tavolo  da  
+carteggio,  in  uno  scaffale  ventilato.
+Immagine  91  –  Tabella  dei  grafici
+Ruota
+Machine Translated by Google
+--- pagina 93 ---
+Fili  SSB
+Gancio
+Via  mantenuta  per  il
+Immagine  92  –  Sollevamento  del  tavolo  operatorio
+Guida  per  l'utente 1-81
+Machine Translated by Google
+--- pagina 94 ---
+Immagine  93  –  Calcolatrice  del  pilota  automatico  sul  volante
+Dalla  cambusa,  sopra  il  lavello,  è  possibile  accedere  alla  calcolatrice  del  pilota  automatico.
+Nella  cabina  di  poppa  si  trova  l'unità  di  azionamento  lineare  del  pilota  automatico  (vedere  Figura  10  –  Asta  del  timone  e  
+unità  di  azionamento  lineare  del  pilota  automatico).
+Cremagliera  dello  
+sterzo
+Nota:  l'accesso  alla  cremagliera  del  volante  è  possibile  dalla  cucina,  sopra  il  lavello.
+Non  lasciare  oggetti  metallici  (specialmente  nei  bagni)  entro  un  raggio  di  50  cm  (circa  20  pollici),  perché  potrebbero  
+interferire  con  il  pilota  automatico.
+Nell'angolo  di  sinistra,  dietro  lo  schienale  della  panca  della  dinette,  si  trova  la  bussola  Fluxgate  del  pilota  automatico.
+a)  Pilota  automatico
+1-82 Guida  per  l'utente
+Machine Translated by Google
+--- pagina 95 ---
+b)  Tachimetro  Sonic  Speed
+Immagine  94  –  Bussola  Fluxgate
+bussola
+presa  di  corrente
+Fluxgate
+Ciascun  sensore  del  tachimetro  Sonic  Speed  è  posizionato  sotto  la  linea  di  galleggiamento  dello  scafo.
+Il  calcolatore  del  tachimetro  si  trova  nella  mensola  davanti  alla  cuccetta  del  salone  (sotto  la  barra  di  legno  in  caso  di  
+danni).  I  fili  di  questi  sensori  sono  uno  sotto  le  trappole  e  uno  dietro  la  parte  posteriore  della  cuccetta  anteriore  nel  
+salone.
+Immagine  95  –  Calcolatore  della  velocità  del  suono
+1-83Guida  per  l'utente
+Machine Translated by Google
+--- pagina 96 ---
+Guida  per  l'utente1-84
+c)  Varie
+Immagine  96  –  Antenna  GPS
+L'antenna  del  GPS  è  montata  sul  lato  sinistro,  a  poppa  della  ringhiera  di  protezione  in  acciaio  inossidabile.
+Di  serie,  il  tirante  triatico  è  elettricamente  isolato,  per  fungere  da  antenna  qualora  venga  aggiunta  un'apparecchiatura.
+riguardo  alla  tua  sicurezza  personale  durante  le  operazioni  e  la  manutenzione.
+Qualsiasi  intervento  di  manutenzione  su  parti  meccaniche  o  elettriche  di  questi  
+dispositivi  deve  essere  eseguito  da  personale  qualificato,  utilizzando  strumenti  
+e  dispositivi  di  protezione  adeguati.
+PERICOLO!  Leggere  attentamente  i  manuali  delle  apparecchiature  elettroniche  
+prima  dell'uso  e  della  navigazione.  Contengono  avvertenze
+Machine Translated by Google
+--- pagina 97 ---
+Nota:  in  caso  di  navigazione  diurna  o  costiera,  400  litri  di  carburante  e  400  litri  di  acqua  dolce  possono  essere  sufficienti  
+per  migliorare  le  prestazioni  dell'imbarcazione  a  vela.
+Risciacquare  i  WC  prima  dell'uso.
+Al  porto,  all'arrivo  a  bordo,  procedere  a  un'ispezione  generale  dei  diversi  elementi  e  di  tutte  le  sentine  (la  prima  persona  
+che  entra  nel  salone  deve  fare  molta  attenzione,  perché  alcune  assi  del  pavimento  potrebbero  essere  aperte).
+Quindi,  eseguire  le  seguenti  operazioni:  -  
+aprire  la  presa  dell'acqua  di  mare,  
+-  accendere  gli  interruttori  automatici  delle  batterie  ("Marche"),  -  
+controllare  tutti  i  livelli  dell'olio  e  del  liquido  di  
+raffreddamento,  -  controllare  il  riempimento  del  
+serbatoio  del  gasolio,  -  controllare  il  livello  di  
+carica  delle  batterie,  -  collegare  l'imbarcazione  
+alla  rete  elettrica  di  terra,  -  controllare  che  i  caricabatterie  
+siano  funzionanti,  -  scollegare  il  dispositivo  antifurto  del  
+motore,  -  avviare  il  motore  principale  e  il  generatore  se  necessario,  controllando  lo  scarico,  -  ricollegare  
+tutto  ciò  che  era  stato  scollegato  per  la  partenza,  -  controllare  che  le  
+apparecchiature  elettroniche  e  di  navigazione  siano  utilizzabili,  -  controllare  
+che  le  dotazioni  di  comfort  siano  pronte  all'uso,
+Per  una  navigazione  sicura,  controlla  alcuni  
+punti:  -  controlla  il  riempimento  dei  serbatoi  (acqua  dolce,  gasolio,  gas,  …),  -  
+controlla  i  livelli  dell'olio,  -  
+controlla  i  tempi  del  prossimo  cambio  dell'olio,  -  issa  le  
+vele,  -  controlla  lo  
+sblocco  del  motore  dell'avvolgifiocco  e  del  sistema  di  avvolgimento  della  randa,  -  controlla  i  sistemi  
+di  avvolgimento,  -  rimuovi  il  perno  
+dell'elica  di  prua  (non  dimenticare  di  fissarlo  nuovamente  in  mare  aperto),  -  controlla  che  l'elica  
+di  prua  sia  utilizzabile,  -  controlla  l'utilizzo  del  
+verricello,  sia  manualmente  che  a  mano,  -  assicurati  che  
+i  winch  elettrici  siano  utilizzabili,  -  assicurati  che  la  bugna  
+elettrica  della  randa  possa  funzionare,  -  controlla  che  tutte  le  
+dotazioni  di  sicurezza  siano  a  bordo  e  utilizzabili  (secondo  la  legge),  -  non  dimenticare  di  scollegare  
+l'alimentazione  da  terra.
+-
+2  Lista  di  controllo
+2.1  Arrivo  in  barca
+2.2  Prendere  il  largo
+Guida  per  l'utente 2-1
+Machine Translated by Google
+--- pagina 98 ---
+Immagine  97  –  Bloccare  un  portello  di  coperta
+fondo  (sistemi  di  avvolgimento,  verricello,  argani,  …),
+Se  la  barca  sarà  disabitata  per  alcune  settimane,  eseguire  le  seguenti  istruzioni:  avvolgere  le  
+vele,  allentare  
+le  drizze  del  fiocco,  della  randa  e  della  mezzana,  rilasciare  le  cime  di  
+balumina  del  fiocco,  della  randa  e  della  mezzana,  mettere  il  fiocco  nella  
+sua  sacca,  impostare  il  perno  della  
+mezzana,  mettere  le  protezioni  in  
+plastica  sull'attrezzatura  della  timoneria,  controllare  che  la  barca  sia  ben  
+ormeggiata,  mettere  i  parabordi,  sciacquare  
+con  acqua  dolce  tutte  le  
+parti  degli  alberi  e  dell'attrezzatura  vicino  al
+-
+le  prossime  immagini),
+-  risciacquare  il  dissalatore  con  acqua  dolce,  -  
+impostare  il  perno  dell'elica  di  
+prua,  -  bloccare  i  portelli  del  ponte  e  il  portello  della  cabina  di  poppa  (impostando  il  perno  come  su
+2.3  Arrivo  al  porto
+2-2 Guida  per  l'utente
+Machine Translated by Google
+--- pagina 99 ---
+Guida  per  l'utente 2-3
+-
+- riempire  il  serbatoio  dell'acqua  dolce,
+Immagine  98  –  Chiusura  del  portello  della  cabina  di  poppa
+-  svuotare  la  sentina  utilizzando  la  pompa  di  sentina  e  terminare  con  quella  manuale,  -  
+spegnere  la  220  V  e  portare  a  bordo  il  cavo  di  alimentazione  da  terra,  -  chiudere  e  
+bloccare  gli  armadietti  e  i  coperchi,  -  spegnere  tutte  le  
+apparecchiature  elettriche  separatamente,
+-  accendere  gli  interruttori  automatici  delle  batterie  “Arrêt”,
+sollevare  il  materasso  su  cui  hanno  dormito  di  recente  delle  
+persone,  -  aprire  le  porte  di  tutti  gli  elettrodomestici  (frigorifero,  congelatore,  lavastoviglie,  lavatrice/
+asciugatrice),
+-  il  vano  batterie  deve  rimanere  chiuso,  -  impostare  il  dispositivo  
+antifurto,
+-  bloccare  il  portello  della  sala  macchine,  -  
+aprire  le  botole  di  fondo,  -  
+chiudere  e  bloccare  la  porta  della  scala  di  accesso.
+-  chiudere  la  presa  d'acqua  di  mare,  -  
+impostare  sempre  le  porte  stagne  e  chiudere  le  relative  valvole  di  scarico  quando  ci  si  trova  in  
+porto,  all'ormeggio  (su  una  boa  di  ormeggio  o  con  l'ancora)  o  in  mare  aperto,  e  soprattutto  in  
+zone  pericolose  (tempeste,  uragani,  …),
+Machine Translated by Google
+--- pagina 100 ---
+Guida  per  l'utente2-4
+2.4.3  Acqua  dolce
+2.4.2  Ponte
+2.4  Servizio  invernale
+2.4.1  Vele
+2.4.4  Elica  di  prua
+2.4.5  Trasmissione  AMEL
+-  Dopo  una  lunga  permanenza  in  mare  senza  navigare,  avviare  il  motore  e  innestare  immediatamente  la  
+retromarcia.  Ripetere  questa  operazione  più  volte  per  pulire  le  pale  dell'elica,  che  possono  essere  piene  
+di  alghe  e  incrostazioni  marine.  -  Ingrassare  i  cuscinetti  
+a  sfera  dell'elica  ad  ogni  alaggio.
+-  svuotare  la  pompa  dell'acqua  dolce,  -  
+spurgare  lo  scaldabagno,  -  aprire  tutti  i  
+rubinetti  e  i  miscelatori  (non  dimenticare  la  doccia  in  pozzetto),  -  aprire  il  rubinetto  del  
+dissalatore  in  cucina,
+-
+-  abbassare  il  fiocco  e  riporlo  all'interno  della  barca,  avvolgere  
+la  randa  e  la  mezzana  negli  alberi,  sbloccare  le  bugne,
+-  Riporre  la  mongolfiera  e  la  mongolfiera  di  mezzana  all'interno  dell'imbarcazione.
+se  la  barca  viene  lasciata  fuori  dall'acqua,  versare  0,2  l  (circa  0,05  galloni  imperiali)  di  candeggina  nel  
+serbatoio  dell'acqua  dolce  e  poi  svuotarlo,  -  svuotare  e  
+pulire  la  pompa  di  sentina,  -  svuotare  
+la  pompa  di  sentina  elettrica  e  manuale,  -  versare  2  litri  
+(circa  0,5  galloni  imperiali,  0,6  galloni  USA)  di  antigelo  in  ogni  WC,  pompare  fino  a  quando  non  scompare.
+-
+Pulisci  e  risciacqua  il  ponte  con  acqua  dolce  per  rimuovere  tutto  il  sale,  soprattutto  in  prossimità  del  motore  
+dell'avvolgifiocco,  del  verricello,  della  randa,  dei  winch  e  dell'antenna  GPS.  Insisti  sulla  parte  inferiore  degli  alberi.
+ore,
+-  svuotare  e  sostituire  la  boccola  e  le  guarnizioni  dell'albero  dell'elica  ogni  2  anni  o  800
+Smontare  e  svuotare  ogni  2  anni.  Riempire  con  0,3  l  (circa  0,066  galloni  imperiali)  di  olio  SAE  90.
+Machine Translated by Google
+--- pagina 101 ---
+- …
+Verificare  tutte  le  apparecchiature  elettroniche  di  assistenza  alla  navigazione  e  di  sicurezza.
+Svuotare  i  circuiti  dell'acqua  di  mare  e  riempirli  con  acqua  dolce  (o  antigelo,  se  necessario):
+-
+-
+…
+-  attrezzi  (martello,  chiave  inglese,  chiave  a  brugola,  cacciavite,  coltello,  punteruolo,  pinze,  tronchesi,  
+multimetro,  …),  -  componenti  
+e  pezzi  di  ricambio  (filtri,  tappi  di  preriscaldamento  per  il  generatore,  pompe,  cinghia  di  trasmissione,  tela  
+per  vele,  kit  da  cucito,  …),  -  mobili  (viti,  dadi,  
+guarnizioni,  rondelle,  anelli,  accessori  di  coperta,  cavi  elettrici,  terminali  per  cavi,  grassi,  oli,  …),  cassetta  di  
+pronto  soccorso,  vaccini,  siringa  
+ipodermica,…  torcia  elettrica,  batterie  a  secco,  -  carta  
+nautica  in  scala  dettagliata,  -  
+estintori,  -  bombole  del  gas,  catalizzatore,  
+tela  per  vetri,  gelcoat,  
+…
+Naturalmente,  questo  elenco  non  è  esaustivo:  niente  
+può  sostituire  la  tua  esperienza  personale!
+Prima  di  partire,  verificare  che  tutte  le  pulizie,  le  sostituzioni,  i  cambi  d'olio  e  i  tagliandi  siano  stati  effettuati  e  che  il  
+prossimo  intervento  non  sia  previsto  durante  la  navigazione  o  nel  mese  successivo  (in  tal  caso,  eseguirlo  prima).  
+Pianificare,  se  necessario,  di  effettuare  alcuni  interventi  di  manutenzione  durante  la  navigazione.  Controllare  tutte  le  
+apparecchiature  meccaniche  (motore  principale,  generatore,  elica  di  prua,  trasmissione  AMEL,  ecc.)  ed  elettriche  
+(pompe,  dissalatore,  scaldabagno,  caricabatterie,  batterie,  impianto  di  climatizzazione,  elettrodomestici,  ecc.).
+Assicurati  che  per  ogni  campo  siano  a  bordo:
+Effettuare  un  alaggio  completo  dell'imbarcazione  e  un'attenta  ispezione  dello  scafo  e  del  ponte.
+-
+-  documenti  della  nave  e  dell'equipaggio  (certificato  di  registrazione,  assicurazione  marittima,  
+…),  -  salute  e  igiene,  vele,  -  
+dispositivi  di  sicurezza,  -  
+abbigliamento  adatto  alle  condizioni,  -  
+documentazione  del  produttore,
+Per  ulteriori  dettagli,  consultare  il  manuale  del  produttore.
+-  Chiudere  la  presa  dell'acqua  di  mare,  -  
+Aprire  il  tappo  del  filtro,  -  
+Versare  acqua  dolce  nel  serbatoio  del  filtro  (utilizzando  ad  esempio  un  tubo),  -  Far  funzionare  
+il  motore  e  il  generatore  per  1  minuto.
+Prima  di  partire  per  un  lungo  viaggio,  è  necessario  eseguire  molte  operazioni  riguardanti  vari  settori,  ad  esempio:  -  
+meccanica,  elettricità,  
+poliestere,
+-
+-
+-
+-
+-
+2.4.6  Motore  principale  e  generatore
+2.5  Partire  per  un  lungo  viaggio
+Guida  per  l'utente 2-5
+Machine Translated by Google
+--- pagina 102 ---
+Machine Translated by Google
+--- pagina 103 ---
+3-1Guida  per  l'utente
+Per  mantenere  lo  scafo  sopra  la  linea  di  galleggiamento:  tirare  
+la  barca  fuori  dall'acqua,  sollevandola  tramite  i  bulloni  a  U  a  prua  e  a  poppa.  Utilizzare  4  cinghie  di  almeno  
+6  m  (circa  20  piedi)  ciascuna,  avendo  cura  di  allungare  i  cavi  esterni  della  gru  di  una  lunghezza  pari  a  
+quella  di  un  grillo  (per  evitare  che  il  tirante  elastico  venga  danneggiato  dal  gancio  della  gru).  Poiché  la  
+barca  è  fuori  dall'acqua,  può  appoggiarsi  sulla  sua  zavorra,  ma  si  consiglia  VIVAMENTE  l'utilizzo  di  
+cavalletti  a  vite.
+Si  sconsiglia  l'utilizzo  di  una  macchina  ad  alta  pressione,  salvo  quanto  previsto  dalle  seguenti  istruzioni:
+Attenzione:  i  cantieri  AMEL  raccomandano  che  qualsiasi  riparazione  sullo  scafo  in  vetroresina  del  Super  Maramu  2000  
+venga  eseguita  da  personale  qualificato,  in  grado  di  manutenere  e  riparare  questo  tipo  di  materiale.
+È  vietato  l'uso  di  prodotti  e  attrezzature  abrasive  e/ o  corrosive  (detergenti  aggressivi,  spazzole  rigide,  ecc.).
+Immagine  99  –  Bullone  a  U  per  sollevamento  anteriore
+-  la  distanza  tra  lo  scafo  e  il  tubo  deve  essere  di  almeno  20  cm  (circa  8  pollici),  -  la  pressione  del  getto  non  
+deve  superare  gli  80  bar  (circa  1130  PSI),  -  non  aggiungere  mai  abrasivi  (sabbia,  ecc.)  al  
+getto,  -  non  utilizzare  il  getto  perpendicolarmente  allo  scafo,  ma  
+solo  a  45°.
+3  Manutenzione
+3.1  Scafo
+Machine Translated by Google
+--- pagina 104 ---
+Interrompere  l'alimentazione  elettrica  di  tutta  l'imbarcazione  (in  particolare  dell'elica  di  prua  e  
+dell'avviamento  
+del  motore  principale).  Spegnere  
+la  pompa  di  sentina,  pulire  con  una  spugna  non  abrasiva  e  acqua  dolce  (se  necessario  con  acqua  
+saponata)  tutte  le  parti,  le  valvole  di  scarico  e  gli  accessori  dello  scafo.  
+Lasciare  asciugare.
+Nota:  l'imbarcazione  può  essere  sollevata  con  apposite  cinghie  poste  sotto  lo  scafo.
+Immagine  100  –  Bullone  a  U  di  sollevamento  posteriore
+Fai  attenzione  a  non  danneggiare  il  sistema  di  propulsione  e  il  timone,  così  come  i  sensori  elettronici  (ecoscandaglio  e  
+tachimetro,  ecc.).
+Per  mantenere  lo  scafo  sotto  la  linea  di  galleggiamento:  mettere  
+la  barca  fuori  dall'acqua.  Spegnere  
+tutta  l'alimentazione  elettrica  (in  particolare  l'elica  di  prua).  Spegnere  la  pompa  di  
+sentina.  Pulire  con  una  spugna  
+non  abrasiva  e  acqua  dolce  (se  necessario  con  acqua  saponata)  tutte  le  parti,  le  valvole  di  scarico  e  gli  
+accessori  dello  scafo  della  barca:  zavorra,  -  skeg,  -  timone,  -  albero  
+dell'elica,  
+-  piastre  di  
+base,  anodi  
+sacrificali  di  zinco  (se  
+sono  stati  sostituiti  
+quest'anno),  -  Sonic  Speed,  -  valvole  di  scarico  e  ombrinali.
+-
+-
+Se  alcuni  gusci  rimangono  sullo  scafo,  non  usare  la  macchina  ad  alta  pressione  ma  una  spatola.  
+Rimuovere  
+gli  anodi  sacrificali  di  zinco  e  sostituirli  con  un  modello  equivalente;  se  non  sono  corrosi,  controllare  la  
+continuità  elettrica.  Applicare  un  sistema  di  verniciatura  
+antivegetativa  dura  (non  corrosiva)  sullo  scafo  e  sul  piede  dell'elica  di  prua.  Non  verniciare:
+Guida  per  l'utente3-2
+Machine Translated by Google
+--- pagina 105 ---
+3.2  Ponte
+3.3  Legno
+-
+Si  sconsiglia  l'utilizzo  di  una  macchina  ad  alta  pressione,  salvo  quanto  previsto  dalle  seguenti  istruzioni:
+Nota:  prima  di  mettere  l'imbarcazione  in  mare  e  rimuovere  il  sistema  di  sollevamento,  assicurarsi  che  non  penetri  acqua  in  
+sentina.
+-  Sensori  di  velocità  sonica,  -  
+piastre  di  massa,  -  anodi  
+di  zinco.  Applicare  
+sulle  pale  dell'elica,  dopo  aver  pulito  e  lubrificato  con  silicone  le  parti  rotanti,  un  primer  adatto  e  poi  il  sistema  
+di  verniciatura  antivegetativa.  Lasciare  asciugare  seguendo  le  istruzioni  del  produttore  
+dell'antivegetativa,  prima  del  varo.
+Attenzione:  i  cantieri  AMEL  raccomandano  che  qualsiasi  riparazione  sullo  scafo  in  vetroresina  del  Super  Maramu  2000  
+venga  eseguita  da  personale  qualificato,  in  grado  di  manutenere  e  riparare  questo  tipo  di  materiale.
+-  la  distanza  tra  lo  scafo  e  il  tubo  deve  essere  di  almeno  20  cm  (circa  8  pollici),  -  la  pressione  del  getto  non  deve  
+superare  gli  80  bar  (circa  1130  PSI),  -  non  aggiungere  mai  abrasivi  (sabbia,  ecc.)  al  getto,  -  non  
+utilizzare  il  getto  perpendicolarmente  allo  scafo,  ma  a  45°.
+Se  possibile,  pulire  con  acqua  dolce  (se  necessario  con  acqua  saponata)  dopo  ogni  navigazione.  Per  evitare  i  depositi  di  
+sale,  insistere  sulla  pulizia  di:  -  parti  inferiori  degli  
+alberi,  -  bozzelli,  sistemi  di  
+avvolgimento,  
+-  verricello.
+È  vietato  l'uso  di  prodotti  e  attrezzature  abrasive  e/ o  corrosive  (detergenti  aggressivi,  spazzole  rigide,  ecc.).
+Sul  legno  verniciato,  non  utilizzare  mai  prodotti  aggressivi  (tricloroetilene,  acetone,  alcol,  ecc.).  Preferire  un  prodotto  per  vetri,  
+diluito  in  piccole  quantità  con  alcol,  oppure  acqua  e  aceto  o  acqua  saponata.
+Per  quanto  riguarda  il  teak,  applicate  un  po'  di  olio  di  teak  (se  si  è  ingiallito,  strofinatelo  prima).
+Guida  per  l'utente 3-3
+Machine Translated by Google
+--- pagina 106 ---
+Guida  per  l'utente3-4
+3.5.1  Motore  principale
+3.4  Batterie
+3.5  Motore  principale  e  trasmissione  AMEL
+Qualsiasi  lavoro  meccanico  o  elettrico  deve  essere  eseguito  da  personale  
+qualificato,  utilizzando  strumenti  e  attrezzature  adeguati.
+Tutela  dell'ambiente:  le  batterie  al  piombo-acido  sono  riciclabili.  Devono  essere  raccolte  separatamente  e  consegnate  a  
+un'azienda  autorizzata.
+Se  accidentalmente  una  batteria  si  scarica  completamente,  sarà  molto  difficile  (e  forse  impossibile)  ricaricarla.  Scollegate  
+tutte  le  batterie  l'una  dall'altra  e  dall'imbarcazione.  Quindi  caricatele  singolarmente  con  un  caricabatterie  che  eroghi  da  14  
+a  16  V  con  una  corrente  da  10  a  20  A.  Non  lasciate  le  batterie  incustodite!  È  un  lavoro  molto  lungo  e  approssimativo,  e  a  
+volte  è  necessario  sostituire  tutte  le  batterie.  Se  sostituite  le  batterie  al  piombo-calcio  con  un  altro  tipo,  dovete  controllare  i  
+selettori  all'interno  di  ogni  caricabatterie.  Le  posizioni  dei  selettori  devono  assolutamente  corrispondere  alle  specifiche  
+elettriche  delle  batterie.
+Le  batterie  non  necessitano  di  manutenzione.  Non  riempire  la  batteria  con  acqua  (o  altri  liquidi).
+Il  tipo  di  batteria  che  abbiamo  scelto  è  semplice.  Ha  terminali  in  acciaio  inossidabile,  più  facili  da  collegare.  Inoltre,  non  
+necessita  di  manutenzione,  è  reperibile  ovunque  e  può  alimentare  un  utenza  da  500  A  (elica  di  prua)  o  mA  (apparecchiature  
+elettroniche).
+PERICOLO!  I  manuali  d'uso  del  motore  principale  e  del  riduttore  idraulico  
+contengono  avvertenze  di  sicurezza  che  devono  essere  rispettate.  
+Consultare  questi  manuali  prima  dell'uso.
+Prima  di  iniziare  qualsiasi  lavoro,  verificare  che  l'alimentazione  elettrica  sia  
+disattivata  e  interrompere  la  fornitura  di  gasolio.
+Scollegare  il  cavo  positivo  (rosso)  della  batteria  di  avviamento  nel  vano  
+batterie,  per  evitare  qualsiasi  movimento  dell'elica.
+Per  ulteriori  dettagli,  fare  riferimento  al  manuale  del  produttore,  sezione  "Manutenzione  e  ispezione".
+Per  spurgare  l'aria  dal  circuito  gasolio,  fare  riferimento  al  manuale  del  produttore,  sezione  "Funzionamento".
+Durante  lo  svuotamento,  sostituire  il  filtro  dell'olio.
+Nella  parte  superiore  del  motore  si  trovano  il  tappo  di  riempimento  dell'olio  e  l'indicatore  di  livello.  Non  rabboccare  oltre  il  livello  massimo.
+Sul  lato  sinistro  si  trova  una  pompa  per  scaricare  l'olio:  collegare  il  tubo  di  uscita  di  questa  pompa  a  una  tanica  e  pompare.
+Il  cambio  si  trova  nella  parte  anteriore  del  motore  e  contiene  2  litri  (circa  0,5  galloni  imperiali,  0,6  galloni  statunitensi)  di  
+ATF  (fluido  per  trasmissioni  automatiche).  L'indicatore  di  livello  si  trova  sotto  il  tappo  di  riempimento.  Non  riempire  oltre  il  
+livello  massimo.
+Machine Translated by Google
+--- pagina 107 ---
+3.5.2  Trasmissione
+Disossidare  e  sgrassare  la  ruota  del  freno  idraulico.
+Questo  sistema  contiene  8  litri  (circa  1,76  galloni  imperiali,  2,1  galloni  statunitensi)  di  olio  per  motori  diesel  15  W  40.
+La  manutenzione  della  trasmissione  deve  essere  effettuata  durante  il  varo,  quando  l'imbarcazione  è  fuori  dall'acqua.
+Ogni  200  ore,  o  ogni  anno:  -  cambiare  
+l'olio  del  motore  principale,  -  cambiare  
+il  filtro  dell'olio,  -  cambiare  
+il  filtro  del  gasolio,  -  cambiare  
+l'olio  del  cambio,  -  controllare  la  
+turbina  della  pompa  dell'acqua  di  mare.
+Controllando  la  pompa  dell'acqua  di  mare,  se  mancano  delle  pale  in  gomma,  ovviamente  sostituitele  e  cercate  i  pezzi  delle  
+pale  mancanti  che  potrebbero  essere  incastrati  all'ingresso  dello  scambiatore  di  temperatura.  Tutte  le  pale  mancanti  devono  
+essere  trovate  e  rimosse.
+-
+Per  sostituire  la  boccola  dell'albero  dell'elica  e  le  relative  guarnizioni:  -  
+scaricare  l'olio,  
+-  rimuovere  l'elica,  -  rimuovere  la  
+boccola  dell'albero,  -  sostituirla  
+(disponibile  in  vendita  presso  Chantiers  AMEL),  -  sostituire  le  
+guarnizioni,  -  rimontare  il  tutto.
+Ogni  2  anni,  o  800  ore  di  funzionamento  del  motore,  sostituire:  
+olio,  -  boccola  dell'albero  dell'elica.
+3-5Guida  per  l'utente
+Machine Translated by Google
+--- pagina 108 ---
+-  rimuovere  la  vite  di  uscita  del  grasso  nel  tappo  di  ritegno,  -  ora  è  
+possibile  applicare  il  grasso  al  mozzo.  Pompare  la  pistola  finché  il  nuovo  grasso  non  fuoriesce  dal  foro  di  uscita  
+del  grasso.  Potrebbe  essere  necessario  ruotare  la  lama,  facendo  circolare  il  nuovo  grasso  attorno  al  
+cuscinetto,
+-
+Qualsiasi  lavoro  meccanico  o  elettrico  deve  essere  eseguito  da  personale  
+qualificato,  utilizzando  strumenti  e  attrezzature  adeguati.
+PERICOLO!  Prima  di  qualsiasi  rilascio,  assicurarsi  che  il  motore  principale  
+sia  spento  e  interrompere  l'erogazione  di  gasolio.
+Per  motivi  di  sicurezza,  questo  apparecchio  deve  essere  controllato  da  personale  
+qualificato.
+Mentre  la  barca  è  fuori  dall'acqua,  ingrassare  il  sistema  di  rotazione  libera  di  ciascuna  pala.  Utilizzare  grasso  impermeabile  
+e  resistente  alla  corrosione:  -  rimuovere  le  viti  a  testa  
+piatta  dal  canale  di  ingrassaggio  sulla  pala,
+montare  il  nipplo  di  ingrassaggio  avvitandolo  nel  canale  di  ingrassaggio  sulla  lama  e  collegarlo  alla  pistola  
+per  grasso,
+Controlla  l'elica  (copertura,  antivegetativa,  pale,  ecc.)  ogni  volta  che  la  barca  viene  tirata  fuori  dall'acqua,  ma  almeno  una  
+volta  all'anno.  Una  pala  danneggiata  può  essere  sostituita  separatamente  dalle  altre.
+-  pulire  il  grasso  in  eccesso  dal  tappo  di  ritegno  e  riavvitare  la  vite  a  testa  bombata
+con  l'O-ring,
+-  rimuovere  il  nipplo  di  ingrassaggio,  pulire  il  grasso  in  eccesso  e  sostituire  il  grasso
+vite  di  regolazione  
+del  canale,  -  assicurarsi  che  tutte  e  tre  le  lame  siano  lubrificate  secondo  le  istruzioni.
+3.5.3  Elica
+Guida  per  l'utente3-6
+Machine Translated by Google
+--- pagina 109 ---
+a)  Petrolio
+3.6  Generator
+3.6.1  Fluidi
+Nota:  se  non  sono  presenti  molti  segni  di  sporco,  è  consentito  utilizzare  la  posizione  di  marcia  avanti  e  successivamente  
+la  posizione  di  retromarcia  ad  alti  regimi.  Tuttavia,  è  sempre  necessario  effettuare  la  manutenzione  dell'elica  ogni  anno.
+Promemoria:  pulire  regolarmente  le  pale  dell'elica  è  importante  per  ottenere  una  maggiore  efficienza  ed  evitare  un  
+consumo  eccessivo  di  gasolio.
+Se  necessario,  la  rimozione  dell'AUTOPROP  deve  essere  effettuata  come  segue:  -  
+rimuovere  il  cono  anteriore  in  plastica  rimuovendo  le  viti,  -  svitare  la  vite  di  
+bloccaggio  del  dado  dell'albero  fino  a  liberarlo  dal  dado  dell'albero,  -  svitare  il  dado  
+dell'albero  ricordando  se  ha  una  filettatura  destra  o  sinistra,  -  ora  è  possibile  utilizzare  l'estrattore  a  tre  
+gambe  per  rimuovere  l'AUTOPROP  dall'albero.  Con  l'estrattore,  avvitare  la  piastra  dell'estrattore  sull'estremità  
+del  mozzo  dell'elica  utilizzando  le  viti  a  testa  esagonale  in  dotazione.  Avvitare  la  vite  di  sollevamento  e  
+serrare  fino  a  quando  l'AUTOPROP  si  allenta  sul  cono  e  rimuoverla  dall'albero,
+-  Fissare  la  chiave  all'albero  con  del  nastro  adesivo  oppure  rimuoverla  e  conservarla  in  un  luogo  sicuro.
+Per  quanto  riguarda  l'elica  di  ricambio:  deve  essere  montata  con  tutti  gli  accessori  forniti  (dado  e  controdado).
+PERICOLO!  Leggere  attentamente  il  manuale  del  generatore  prima  
+dell'uso.  Contiene  avvertenze  relative  alla  propria  sicurezza  durante  il  
+funzionamento  e  la  manutenzione.
+Qualsiasi  intervento  di  manutenzione  sulle  parti  meccaniche  o  elettriche  
+del  generatore  deve  essere  eseguito  da  personale  qualificato,  utilizzando  
+strumenti  e  dispositivi  di  protezione  adeguati.
+Ci  sono  2  fori  diversi  per  il  rabbocco  dell'olio.  Entrambi  possono  essere  utilizzati.  Per  cambiare  l'olio,  rimuovere  il  tappo  
+del  tubo  blu  e  inserirlo  in  una  tanica.  Lo  scarico  per  gravità  è  più  facile  se  il  motore  è  caldo  (attenzione:  gli  schizzi  d'olio  
+possono  causare  gravi  danni.  Indossare  dispositivi  di  protezione  individuale).
+Durante  il  cambio  dell'olio,  sostituite  anche  il  filtro  dell'olio.
+Per  conoscere  gli  interventi  di  manutenzione  e  le  relative  procedure,  fare  riferimento  al  manuale  del  produttore,  sezione  
+"Manutenzione".
+Tutela  dell'ambiente:  l'olio  esausto  deve  essere  raccolto  separatamente.  Consegnarlo  a  un'azienda  autorizzata.
+L'olio  bollente  contenuto  nella  copertura  può  causare  gravi  ustioni  alla  
+pelle.  Indossare  indumenti  protettivi  adeguati  che  proteggano  tutto  il  corpo.
+3-7Guida  per  l'utente
+Machine Translated by Google
+--- pagina 110 ---
+3-8 Guida  per  l'utente
+3.7  Serbatoio  del  carburante  e  filtro  del  carburante /  separatore  d'acqua
+c)  Gasolio
+b)  Liquido  di  raffreddamento
+3.6.2  Altri  componenti
+Sostituire  la  cartuccia  filtrante  ogni  500  ore  (ore  del  motore  principale  e  ore  del  generatore),  ovvero  ogni  anno,  con  
+una  equivalente  (30  micron).
+Il  manuale  del  produttore,  sezione  "Manutenzione",  fornisce  alcune  informazioni  su:  -  posizione  dei  
+componenti,  -  ispezione,  -  
+circuiti  elettrici,  -  
+cinghie  di  trasmissione,  
+filtri,  -  scambiatori,  -  
+generatore  di  
+corrente  alternativo.
+Per  conoscere  gli  interventi  di  manutenzione  e  le  relative  procedure,  fare  riferimento  al  manuale  del  produttore,  
+sezione  "Manutenzione".
+Per  conoscere  le  caratteristiche  di  questo  elemento,  fare  riferimento  al  manuale  del  produttore,  sezione  "Manutenzione".
+Il  serbatoio  può  essere  ispezionato  tramite  2  sportelli  (vedere  Figura  49  -  Parte  superiore  del  serbatoio)  per  consentirne  la  pulizia.
+La  parte  di  decantazione  del  filtro  può  essere  svuotata:  se  sul  fondo  del  tappo  in  plexiglas  è  presente  dell'acqua,  
+svitare  la  rotella  e  pulirla.
+-
+Machine Translated by Google
+--- pagina 111 ---
+Prima  di  azionare  l'elica  di  prua,  assicurarsi  che  nessuno  nuoti  o  si  
+immerga  nelle  vicinanze  e  che  non  vi  siano  rifiuti  galleggianti  intorno  
+all'elica.
+PERICOLO!  Qualsiasi  lavoro  elettrico  deve  essere  eseguito  da  personale  
+qualificato,  a  conoscenza  delle  norme  e  delle  procedure  di  sicurezza  e  
+dotato  di  strumenti  e  dispositivi  di  protezione  adeguati.
+Dopo  3  o  4  anni  di  utilizzo,  devono  essere  puliti  con  acqua  e  sapone  e  controllati  completamente  da  un  professionista.
+Qualsiasi  intervento  di  manutenzione  sull'elica  di  prua  deve  essere  
+effettuato  in  porto.
+Capovolgere  questo  gruppo  per  svuotarlo  dall'olio.  Lasciarlo  scolare  per  un'ora.  Se  l'olio  contiene  molta  acqua,  sostituire  
+il  raccordo  a  labbro.  Quindi,  riportare  il  piede  nella  sua  posizione  normale  e  riempire  dall'alto  con  0,3  litri  (circa  0,066  
+galloni  imperiali,  0,080  galloni  statunitensi)  di  olio.  Sostituire  i  raccordi  in  schiuma  situati  all'interno  dell'elica  di  prua  per  
+garantire  la  tenuta  stagna  quando  l'elica  di  prua  è  sollevata.
+Se  la  vela  è  bagnata,  lasciatela  asciugare  prima  di  riporla  nella  sua  sacca.
+Per  la  mongolfiera  e  la  mongolfiera  di  mezzana  (che  sono  fatte  di  nylon),  è  meglio  metterle  nella  sacca,  senza  arrotolarle.
+Prima  di  rimuovere  l'ultima  vite,  qualcuno  deve  posizionarsi  sotto  lo  scafo  per  afferrare  il  piede  dell'elica  di  prua.
+Al  termine  della  bella  stagione,  sciacquate  tutte  le  vele  con  acqua  dolce  per  pulirle  dal  sale.
+Rimuovere  l'anello  in  acciaio  inox  alla  base  del  motore  nella  cabina  anteriore  e  svitare  le  quattro  viti  8  x  40.
+Ogni  2  anni,  smontare  la  base  dell'elica  di  prua  per  cambiare  l'olio  e  applicare  un  sistema  di  verniciatura  antivegetativa  
+all'interno  del  pozzetto  e  sulla  base  stessa.
+-  utilizzare  una  soluzione  di  acido  cloridrico  al  5-10%,
+Leggere  attentamente  gli  schemi  elettrici  prima  di  procedere  con  qualsiasi  
+riparazione.
+Quando  l'elica  di  prua  è  in  posizione  abbassata,  la  tenuta  stagna  è  garantita  da  un  giunto  in  gomma,  compresso  dal  peso  
+del  motore.  Se  il  perno  è  più  facile  da  inserire,  significa  che  il  sistema  deve  essere  stretto  un  po',  con  il  controdado  sotto  
+il  rivestimento.
+Nell'elica  di  prua  sono  contenuti  0,3  litri  (circa  0,066  galloni  imperiali)  di  olio  SAE  90.
+Montare  il  piedino  e  bloccarlo  con  le  4  viti,  le  nuove  rondelle  di  frenatura  e  l'anello  di  serraggio.
+Un  po'  di  grasso  alla  base  del  motore  faciliterà  la  successiva  rimozione.
+a)  Macchia  di  ferro
+3.9  Vele  e  sistemi  di  avvolgimento
+3.8  Elica  di  prua
+3.9.1  Vele
+Guida  per  l'utente 3-9
+Machine Translated by Google
+--- pagina 112 ---
+3-10 Guida  per  l'utente
+Utilizzare  del  tricloroetilene.
+-
+-  utilizzare  una  soluzione  di  fluoruro  di  ammonio  (come  PANAMAX).  b)  
+Sangue
+Se  è  fresco,  lavalo  con  acqua  fredda  fresca;  se  è  
+asciutto,  immergilo  in  acqua  fredda  fresca  con  l'aggiunta  di  un  po'  di  candeggina.
+Risciacquare  sempre  con  acqua  dolce  le  coperture  del  motore,  poiché  sono  state  esposte  all'acqua  di  mare.
+Per  le  macchie  di  pittura,  utilizzare  il  solvente  specificato  sul  dipinto.
+Prima  di  ogni  navigazione,  verificare  che  tutti  i  meccanismi  di  sgancio  degli  avvolgifiocco,  randa  e  bugna  siano  funzionanti  e  
+allenarsi  a  sganciarli.
+Per  questo  tipo  di  macchie:  
+lavare  con  sapone  e  candeggina;  se  le  
+macchie  persistono,  utilizzare  del  carbonato  di  sodio,  ma  con  la  massima  cautela!-
+Controllate  e,  se  necessario,  pulite  le  spazzole  dell'albero  e  del  boma  ogni  2  anni.  Non  dimenticate  di  renderle  nuovamente  
+impermeabili.
+Il  sistema  di  avvolgimento  del  fiocco  non  necessita  di  manutenzione.  Verificare  che  il  perno  della  frizione  sia  sufficientemente  
+lubrificato.
+-
+Procedere  alla  pulizia  come  segue:  
+lasciare  in  ammollo  con  un  elemento  
+grasso,  -  sgrassare  con  tricloroetilene,  -  lavare  
+con  sapone,  -  risciacquare  
+con  acqua  pulita.
+-
+Non  lasciare  i  bambini  incustoditi  durante  l'utilizzo  degli  argani.
+Per  motivi  di  sicurezza,  fate  controllare  queste  apparecchiature  da  personale  
+qualificato.
+Qualsiasi  lavoro  elettrico  o  meccanico  deve  essere  eseguito  da  personale  
+qualificato,  utilizzando  strumenti  e  dispositivi  di  protezione  adeguati.
+PERICOLO!  Non  lasciare  che  dita,  capelli,  vestiti  o  cravatte  tocchino  gli  
+argani  durante  il  funzionamento.  Le  parti  rotanti  possono  causare  gravi  
+lesioni.  Prima  dell'uso,  assicurarsi  che  nessun  attrezzo  o  asciugamano  si  
+trovi  sull'argano.
+f)  Muffa
+d)  Dipingere
+c)  Idrocarburo
+e)  Elementi  grassi
+3.9.2  Sistemi  di  avvolgimento
+Machine Translated by Google
+--- pagina 113 ---
+Verificare  periodicamente  che  la  presa  d'aria  di  questo  apparecchio  non  sia  ostruita  da  alcun  oggetto.
+Dopo  aver  svitato  queste  2  ruote,  scollegare  l'alimentazione  (cavo  verde  e  cavo  bianco  in  basso),  estrarre  il  frigorifero  dalla  
+sua  sede,  scollegare  il  tubo  di  scarico  della  condensa  (raccordo  in  rame).
+Verificare  periodicamente  che  la  presa  d'aria  di  questo  apparecchio  non  sia  ostruita  da  alcun  oggetto.
+Per  estrarre  il  frigorifero  è  possibile  svitare  2  ruote:  sollevare  il  coperchio  inferiore  
+davanti  al  vano  di  accesso.  La  ruota  si  trova  davanti  al  frigorifero,  sul  lato  sinistro  in  avanti.  Svitarla  e  
+rimuovere  il  pannello  frontale.  -  La  seconda  ruota  si  trova  sotto  il  lavello,  nella  
+parte  superiore  del  mobile.
+Il  congelatore  AMEL  richiede  la  stessa  manutenzione  di  un  congelatore  domestico.  Non  utilizzare  prodotti  abrasivi  né  
+utensili  in  acciaio.  Preferire  utensili  in  plastica  o  legno.  Non  forare  il  piccolo  canale  del  gas  refrigerante.
+Prima  di  rimuoverlo,  assicurarsi  di  chiudere  il  rubinetto  dell'acqua  dolce  sotto  il  lavello.  Interrompere  anche  l'alimentazione  
+elettrica  dal  quadro  elettrico  a  220  V.
+-
+Presa  d'acqua  pulita  per  
+la  lavatrice/
+asciugatrice
+Immagine  101  –  Rubinetti  di  intercettazione  dell'acqua  dolce  per  lavatrice/ asciugatrice  e  
+lavastoviglie  (fotografati  aperti)
+Presa  d'acqua  dolce  per  
+la  lavastoviglie
+3.10.3  Lavatrice/asciugatrice
+3.10.1  Frigorifero
+3.10  Attrezzature  di  convenienza
+3.10.2  Congelatore
+Guida  per  l'utente 3-11
+Machine Translated by Google
+--- pagina 114 ---
+3.10.5  Forno  a  microonde
+3.10.4  Lavastoviglie
+Il  forno  a  microonde  non  può  essere  alzato  ulteriormente  utilizzando  una  cinghia  d'acciaio.  È  rimovibile  svitando  2  ruote,  
+anteriore  e  posteriore.  Sollevare  leggermente  per  rimuoverlo.
+Quindi  svitare  i  2  bulloni  sulla  parte  anteriore  dell'apparecchio.  In  questo  modo  l'angolo  potrà  essere  rimosso  dal  gruppo.
+Non  dimenticare  di  scollegare  l'alimentazione  a  220  V  della  lavatrice/asciugatrice:  passa  accanto  alla  barra  sulla  destra.
+Bulloni  da  svitare
+Tirare  l'imbarcazione  e  posizionare  le  4  ruote.  Quindi,  scollegare  i  tubi  di  aspirazione  dell'acqua  potabile  e  di  scarico  delle  
+acque  reflue.
+Prima  di  rimuovere  la  lavastoviglie,  è  necessario  sollevare  il  pannello  frontale  in  legno  svitando  le  2  viti  poste  nella  parte  
+superiore,  appena  sopra  la  lavastoviglie  (vedere  Figura  101  -  Rubinetti  di  intercettazione  dell'acqua  pulita  per  lavatrice/
+asciugatrice).  Successivamente,  è  necessario  chiudere  anche  il  rubinetto  dell'acqua  pulita  e  scollegarlo.  Infine,  estrarre  la  
+lavastoviglie  e  scollegare  l'alimentazione  elettrica  e  il  tubo  di  scarico  collegato  al  lavello.
+Immagine  102  –  Rimozione  della  lavatrice/ asciugatrice
+Guida  per  l'utente3-12
+Machine Translated by Google
+--- pagina 115 ---
+3-13Guida  per  l'utente
+3.11  Servizi  igienici
+3.10.6  Piano  cottura  e  forno  a  gas
+Il  diaframma  della  pompa  deve  essere  sostituito  in  caso  di  perdite,  mancanza  d'acqua  o  se  non  funziona  più.  La  pulizia  della  scatola  di  
+aspirazione  può  essere  effettuata  se  l'aspirazione  non  funziona.
+Qualsiasi  intervento  di  manutenzione  su  parti  meccaniche  o  elettriche  di  questi  
+dispositivi  deve  essere  eseguito  da  personale  qualificato,  utilizzando  strumenti  e  
+dispositivi  di  protezione  adeguati.
+Sopra  il  piano  cottura  e  il  forno  a  gas  si  trova  il  filtro  di  ventilazione.  Deve  essere  ispezionato  regolarmente  e  sostituito  se  necessario.  Il  
+filtro  può  essere  rimosso  svitando  due  rotelle,  una  anteriore  e  una  posteriore.
+Prima  di  procedere  alla  rimozione,  spegnere  l'interruttore  elettrico  del  gas  sul  pannello  a  24  V.  Chiudere  anche  il  riduttore  di  pressione  
+su  ciascuna  bombola  del  gas.  Il  piano  cottura  e  il  forno  a  gas  sono  rimovibili  svitando  le  2  viti  a  bilanciere,  una  in  avanti  e  una  all'indietro.
+PERICOLO!  Leggere  attentamente  i  manuali  delle  attrezzature  di  bordo  prima  
+dell'uso  e  della  navigazione.  Contengono  avvertenze
+PERICOLO!  Leggere  attentamente  il  manuale  di  istruzioni  del  WC  prima  dell'uso.  
+Contiene  avvertenze  relative  alla  propria  sicurezza  durante  l'utilizzo  e  la  
+manutenzione.
+Qualsiasi  intervento  di  manutenzione  su  parti  meccaniche  o  elettriche  di  questo  
+dispositivo  deve  essere  eseguito  da  personale  qualificato,  utilizzando  strumenti  e  
+dispositivi  di  protezione  adeguati.
+riguardo  alla  tua  sicurezza  personale  durante  le  operazioni  e  la  manutenzione.
+Se  l'imbarcazione  è  rimasta  inutilizzata  per  lungo  tempo,  sciacquare  gli  oggetti  con  acqua  dolce  prima  dell'uso  (utilizzando  il  soffione  
+della  doccia).
+I  serbatoi  di  raccolta  possono  essere  risciacquati  con  una  miscela  di  acqua  dolce  e  candeggina.
+Il  manuale  del  produttore  fornisce  informazioni  dettagliate  sulla  manutenzione  di  questo  dispositivo.
+I  WC  non  necessitano  di  particolare  manutenzione,  se  non  quella  ordinaria  e  classica.  Non  utilizzare  prodotti  abrasivi  o  aggressivi  
+(deodoranti  e  detergenti  per  la  casa,  come  ad  esempio  quelli  a  base  di  pino).
+Machine Translated by Google
+--- pagina 116 ---
+Qualsiasi  intervento  di  manutenzione  su  parti  meccaniche  o  elettriche  di  questo  
+dispositivo  deve  essere  eseguito  da  personale  qualificato,  utilizzando  strumenti  e  
+dispositivi  di  protezione  adeguati.
+La  pulizia  della  coppa  dell'olio  deve  essere  effettuata  dopo  un  lungo  periodo  di  inattività  dell'imbarcazione  e  almeno  una  volta  all'anno.
+-
+Se  l'imbarcazione  non  verrà  utilizzata  per  un  lungo  periodo,  i  seguenti  circuiti  dell'acqua  di  mare  devono  essere  lavati  con  acqua  
+dolce  (o  acqua  dolce  e  antigelo):  -  motore  principale,  -  generatore,  
+servizi  igienici,  -  lavaggio  
+ancora,  aria  
+condizionata.  Per  la  
+manutenzione  a  lungo  
+termine  di  questo  apparecchio,  fare  riferimento  al  manuale  del  produttore,  sezione  "Manutenzione".
+-
+Il  tubo  in  PVC  può  essere  rimosso:  -  scollegare  
+i  fili  dell'interruttore,  -  sganciare  il  tubo  in  PVC  
+dalla  sua  sede  e  rimuoverlo  dall'alto,  -  scollegare  i  tubi  di  aspirazione.
+Quindi,  con  una  spazzola,  pulire  i  tubi  in  PVC  e  di  aspirazione,  e  anche  la  vasca  di  raccolta.
+Così  facendo,  pulire  la  scatola  di  azionamento  della  pompa  di  sentina.
+Il  manuale  del  produttore  fornisce  informazioni  sulla  manutenzione  ordinaria  e  straordinaria  da  effettuare  sugli  impianti  di  
+climatizzazione.  In  ogni  caso,  rimuovere  la  polvere  dagli  apparecchi  e  pulire  (o  sostituire)  i  filtri  dell'aria.  In  caso  di  congelamento,  
+svuotare  (come  indicato  nel  manuale  del  produttore,  sezione  "Manutenzione")  il  circuito  dell'acqua  di  raffreddamento  oppure  
+aggiungere  un  liquido  antigelo.
+PERICOLO!  Leggere  attentamente  il  manuale  del  condizionatore  prima  dell'uso.  
+Contiene  avvertenze  relative  alla  propria  sicurezza  durante  il  funzionamento  e  la  
+manutenzione.
+3.12.1  Pozzetto  di  raccolta
+3.12  Circuiti  idraulici
+3.12.2  Impianto  di  climatizzazione  e  riscaldamento
+Guida  per  l'utente3-14
+Machine Translated by Google
+--- pagina 117 ---
+Una  volta  all'anno  è  
+necessario:  -  smontare  e  ingrassare  il  
+gipsy,  -  sciacquare  la  catena  dell'ancora  con  
+acqua  dolce,  -  controllare  l'intera  catena,  in  particolare  l'inizio  e  la  fine.
+L'unica  manutenzione  necessaria  consiste  nel  serrare  il  dado  in  nylon  della  premistoppa  di  un  sesto  di  giro  
+in  caso  di  perdite  d'acqua.  Non  è  necessario  lubrificare  i  cavi  del  timone.
+Ogni  5  anni,  cambiare  l'olio  del  verricello.
+Ogni  3  anni,  a  seconda  della  qualità  dell'acqua  dolce,  è  necessario  pulire  la  vasca,  soprattutto  per  rimuovere  
+il  calcare.  Sostituire  l'anodo  di  zinco  interno.
+3.13.1  Sistema  di  sterzo  AMEL
+3.13  Varie
+3.13.2  Salpa  ancora  e  catena  dell'ancora
+3.13.3  Scaldabagno
+3-15Guida  per  l'utente
+Machine Translated by Google
+--- pagina 118 ---
+3-16 Guida  per  l'utente
+3.14  Calendario  di  manutenzione
+Gasolio
+Carrello  della  scotta  Controllare  il  puntone  e  le  cime  di  fissaggio  superiori
+Versare  il  detergente  nella  sentina
+Vele
+Controllare  il  liquido  di  raffreddamento
+Anche  se  non  hai  200  ore
+Annuale
+Generatore
+Motore
+Periodicità
+Idraulica
+Acqua  dolce
+Cambio  olio  e  filtri
+Controllare  il  sistema  di  raffreddamento  del  cambio
+Pulire  l'elemento  filtrante  dell'aria
+Motore
+Risciacquare  con  acqua  dolce  gli  alberi  a  un'altezza  
+di  4  m
+Azione
+Controllare  le  pressioni  mini/maxi
+Manico  delle  valvole  di  scarico
+Anche  se  non  hai  200  ore
+Generatore
+Acqua  di  mare
+Sostituire  la  girante  della  pompa
+Controlla  le  schede
+Controllare  il  tensionamento  delle  corde
+Controllare  le  cinghie  di  trasmissione
+Verificare  il  serraggio  generale  dei  bulloni.
+Settimanale
+Controllare  la  cinghia  di  trasmissione
+Batterie
+Controllare  i  supporti  in  gomma
+Cambio  olio  e  filtri
+Dopo  ogni  crociera
+Controllare  i  supporti  in  gomma
+200  ore
+Risciacquare  le  vele  con  acqua  dolce
+Nota:  questo  calendario  non  è  esaustivo  ed  è  fornito  solo  a  titolo  informativo.
+Elemento
+Verificare  il  metodo  di  ricarica  delle  batterieQuotidiano
+Cambiare  l'olio  del  cambio
+Controllare  il  liquido  di  raffreddamento
+Pulire  il  filtro  dell'acqua  di  mare /  lubrificare  il  coperchio
+Ore  di  funzionamento  del  motore  e  
+del  generatore  =  500
+Verificare  il  serraggio  generale  dei  bulloni.
+Asciugare  le  vele
+Versare  il  detergente  nella  vasca  di  raccolta
+Metti  dell'olio  di  vaselina  nelle  testine
+Svuotare  il  filtro  primario  del  carburante
+Pulire  l'elemento  filtrante  dell'aria
+Acqua  sprecata
+Livello  del  serbatoio  dell'acqua  dolce
+Controllare  l'interruttore  galleggiante  della  sentina
+Cambiare  il  filtro  e  pulire  la  parte  di  decantazione
+Sartiame
+Verificare  lo  stato  di  carica  delle  batterie
+tracce
+Sostituire  l'anodo  di  zinco
+Controllare  le  drizze
+Alberi  e  boma
+Sostituire  la  girante  della  pompa
+Machine Translated by Google
+--- pagina 119 ---
+Guida  per  l'utente 3-17
+Pulire  la  vasca  di  raccolta
+Sartiame
+Elettrolisi
+Controllare  il  livello  dell'olio  della  pompa.
+Verricelli
+Controlla  l'elica
+Verificare  il  sistema  di  rilascio
+Frigorifero  e  congelatore  Controllare  i  compressori  e  le  ventole  del  
+congelatore
+Aria  condizionata
+Modifica  i  filtri
+Acqua  sprecata
+Desalinizzatore
+Controllare  i  perni  di  sicurezza  dei  tenditori
+Capovolgi  le  batterie  e  agitale
+Controllare  i  terminali  dei  tenditori
+Pulizia  dei  motori  principali  delle  vele
+Sostituire  il  filtro  dell'acqua  potabile
+Su/giù
+Protezioni  degli  interruttori
+Pulire  i  passascafi.
+Elica
+Controllare  i  bulloni  di  fissaggio  dei  distanziatori
+Controllare  la  ventilazione
+Alberi
+Sterilizzazione  delle  membrane
+Controllare  i  rulli  di  testa  d'albero  delle  drizze
+Spruzzare  WD-40  sui  connettori
+Controlla  i  termostati
+Verificare  la  presenza  di  perdite  di  olio  e  acqua.
+Verificare  la  circolazione  dell'acqua  di  mare
+Verificare  il  bilanciamento  della  tensione
+Svuotare  l'acqua  se  la  temperatura  è  sotto  zero.
+Controllare  e  pulire
+Controlla  le  testine  auto-incollanti
+Ingrassare  i  terminali
+Verificare  le  protezioni  degli  interruttori
+Controlla  le  valvole  di  scarico
+Controllare  le  valvole  della  pompa  di  sentina
+Sostituire  gli  anodi  di  zinco
+Verificare  la  presenza  di  dispersioni  elettriche
+Verificare  il  serraggio  delle  sartie.
+Stringere  i  collegamenti
+Annuale
+Acqua  dolce
+Controlla  i  termostati
+Controllare  le  spazzole  di  carbone  dei  motori  della  
+randa
+Pulire  il  sensore  di  qualità
+Acqua  di  mare
+Ingrassare  con  grasso  al  silicone
+Controlla  le  prese
+Quadri  elettrici
+Controllare  il  serbatoio  dell'acqua  dolce
+Controllare  il  pressostato
+Avvolgitore
+Verificare  la  continuità  del  circuito  di  messa  a  terra.
+Controlla  le  molle
+Batterie
+Controllare  il  meccanismo  di  rotazione  della  randa,  del  fiocco  e  
+della  mezzana.
+Verificare  la  protezione  degli  interruttori
+elica  di  prua
+Machine Translated by Google
+--- pagina 120 ---
+3-18 Guida  per  l'utente
+Controllare  il  sigillo
+Pulizia  della  caldaia
+elica  di  prua
+Acqua  dolce
+Controlla  la  guarnizione  del  calcio
+Cambia  il  filtro  della  cappa
+Verricelli
+Livello  dell'olio  (SAE  90)
+In  40)
+Controllare  la  turbina  della  pompa
+Sostituire  il  liquido  di  raffreddamento
+Verificare  le  protezioni  degli  interruttori
+Controllare  i  salvagenti  e  le  cinture  di  sicurezza  (o  più  
+spesso  a  seconda  della  legge).
+Scaricare  l'olio  della  trasmissione  AMEL  (8  l  di  olio  15
+Controllare  le  cuciture
+Idraulica
+Verificare  la  validità  dei  razzi  (o  più  spesso  a  seconda  
+della  legge).
+Pulire  e  controllare  il  bruciatore  a  gas
+Controlla  il  gioco  del  volante
+Controllare  le  viti  del  tubo  sul  blocco
+Pulire  e  controllare
+Controlla  la  chiave  zingara
+Pulire  il  gavone  della  catena
+Controllare  i  tubi  flessibili
+Salpa  ancora
+Controllare  i  tubi  flessibili
+Cambiare  l'anodo  della  caldaia
+Annuale
+Cambiare  le  guarnizioni
+Controlla  i  punti  di  fissaggio
+attrezzature  di  
+convenienza
+Sostituire  la  guarnizione  del  labbro  dell'albero  di  trasmissione
+2  anni
+Controlla  la  catena  e  i  ganci
+Controllare  e  sostituire  le  valvole  del  WC
+Disincrostare  i  rubinetti
+Controlla  le  serrature
+Boccaporti  e  
+oblò
+Cambio  dell'olio  (0,3  l  SAE  90)
+Sostituire  il  liquido  di  raffreddamento
+Controllare  i  finecorsa  del  timone
+Controllare  la  zattera  di  salvataggio  (o  più  
+spesso  a  seconda  della  legge).
+Pulire  e  controllare
+Ingrassare  le  cerniere
+Verificare  il  sistema  di  rilascio
+Ingrassare  il  giunto  dell'alloggiamento  dei  cavi
+Per  il  rimessaggio  invernale,  togliere  il  fiocco
+Vele
+Controllare  i  tubi  del  gas
+Zattera  di  salvataggio
+Motore
+Regolare  il  serraggio  del  cric
+Generatore
+Sostituire  la  boccola  e  le  guarnizioni  dell'albero  (a  800  ore  di  
+funzionamento  del  motore)
+Timone
+Controllare  la  cinghia  di  distribuzione
+Pulire  il  contenitore  del  detersivo  della  lavatrice
+Controlla  la  presa
+Avvolgifiocco
+Blocchi
+Machine Translated by Google
+--- pagina 121 ---
+Boccola  dell'albero  dell'elica
+Generatore
+Cambiare  le  valvole  di  scarico
+Olio  per  trasmissione  (8  l  15  W  40)
+Desalinizzatore
+Motore
+Acqua  di  mare
+Consultare  il  libretto  di  manutenzione  del  motore.
+Olio  per  cambio  (ATF)
+5  anni
+Liquido  di  raffreddamento
+Cambio  dell'olio
+Generatore
+Lavoro  specifico Consultare  il  libretto  di  manutenzione  del  
+generatore.
+Motore4  anni
+Guida  per  l'utente 3-19
+Machine Translated by Google
+--- pagina 122 ---
+Machine Translated by Google
+--- pagina 123 ---
+Telefono
+Fax:  (351)  21  474  50  35
+A  Puerto  de  Mogan  a  Gran  Canaria /  Isole  Canarie :
+Nota:  un  numero  identificativo  è  inciso  su  una  lamiera  di  acciaio  inossidabile  nella  discesa  e  sotto  la  falchetta  a  poppa  
+sul  lato  di  dritta.  Vi  preghiamo  di  comunicarci  questo  numero  per  un'identificazione  univoca  della  vostra  imbarcazione.
+Telefono:  (34)  928  51  59  01
+:  +385  (0)20  451  335 :  
+gjivic@hotmail.com  
+djivo.gjivic@du.hinet.hr
+Fax:  (34)  928  51  59  01
+Mario  SEREIJO
+Telefono:  (34)  607  18  25  30
+E-mail
+Michel  Henri  Fraisse
+Atlantico  e  resto  del  mondo  presso  AMEL  La  Rochelle:  Olivier  BEAUTÉ  e  Christian  
+DUFOURD  durante  la  garanzia  Jean  Yves  SELO  dopo  la  sua  scadenza  Telefono:  05  46  55  17  31  
+Fax:  05  46  45  43  03  Email:  amel@amel.fr
+Qualora  doveste  riscontrare  problemi  tecnici  o  domande  sull'utilizzo  o  sulla  manutenzione  del  vostro
+Super  Maramu  2000,  AMEL  resta  a  tua  disposizione  per  aiutarti  ovunque  nel  mondo:
+In  Guadalupa:  
+Laurent  COLONNA  e  Alban  LEROY  Telefono:  
+0590  90  85  83  Fax:  0590  90  
+85  83  Email:  
+amel.caraibes@wanadoo.fr
+Area  mediterranea  presso  AMEL  Hyères:  Michel  
+DAVIET  e  Vincent  ARNAUD  Telefono:  +33  4  94  
+57  60  80  Fax:  +33  4  94  57  36  
+41  E-mail:  amel.med@wanadoo.fr
+Puoi  anche  contattare  i  nostri  agenti  locali:
+Djivo  GJIVIC
+A  Puerto  Calero,  a  Lanzarote /  Isole  Canarie:
+A  Lisbona /  Portogallo:
+Telefono:  (351)  21  474  50  35
+Fax:  (34)  928  142  978
+Olivier  YOUF
+In  Croazia,  a  Dubrovnik:
+4  AMEL  in  tutto  il  mondo
+4-1Guida  per  l'utente
+Machine Translated by Google
+--- pagina 124 ---
+4.2  Assistenza  post-vendita  Hyères
+4.1  Assistenza  post-vendita  La  Rochelle
+4.3  Assistenza  post-vendita  in  Guadalupa
+Cantieri  navali  AMEL,  
+Port  Saint-Pierre,  
+83400  Hyères,  Francia.  
+Telefono:  +33  4  94  57  60  80.  Fax:  +33  
+4  94  57  36  41.  E-mail:  
+amel.med@wanadoo.fr
+Dopo  il  periodo  di  garanzia,  contattare:  Jean-Yves  SELO.
+Per  usufruire  della  garanzia  di  un  anno,  contattare  il  Sig.  Olivier  BEAUTE.
+A  El  Campello  (Alicante),  in  Spagna:  NAUTIC  
+ULI  –  Mr  Ulrich  WIELAND  Telefono:  (34)  965  
+63  51  84  Fax:  (34)  965  63  49  94  
+Email:  nautic-uli@ctv.es  A  Fort  
+Lauderdale /  Florida /  USA:  Ray  
+EATON  Telefono:  (6927)  Fax:  (954)  792  88  83
+AMEL /  La  Rochelle  si  occupa  della  zona  atlantica  e  del  resto  del  mondo.
+AMEL  Construction  
+Sites ,  16  rue  Joseph  Cugnot,  
+BP  15,  
+17182  PERIGNY  Cedex,  FRANCIA.  Telefono:  
++33  5  46  55  17  31.  Fax:  +33  5  46  45  
+43  03.  Sito  web:  http:// www.amel.fr.  E-
+mail:  amel@amel.fr
+La  sede  AMEL  di  Hyères  si  occupa  dell'area  del  Mediterraneo.
+Michel  Daviet  e  Vincent  Arnaud
+Laurent  COLONNA.  
+Cantieri  navali  AMEL,  
+Marina  Bas  du  Fort,  
+97110  Pointe-à-Pitre,  telefono/fax:  
+(590)  90  85  83,  e-mail:  
+amel.caraibes@wanadoo.fr
+Guida  per  l'utente4-2
+Machine Translated by Google
+--- pagina 125 ---
+Guida  per  l'utente 5-1
+5  unità  usate  –  Conversione
+kg
+libbre.
+Intensità  di  potenza  elettrica /  
+amperaggio
+T(°C)  =  0,55  x  T  (°F)  -  32
+Sterlina  per  metro  quadro
+-
+36  pollici  =  3  piedi  =  0,9144  metri
+Ohm
+-
+Volume
+Chilogrammo
+12  pollici  =  304,8  mm  
+=  0,3048  m
+Unità
+Gallone  imperiale
+Equivalente  a…
+Litro
+Ah
+PSI
+sbarra
+Galloni  imperiali
+Peso
+Piedi
+In
+Capacità  della  batteria
+1.094  iarde
+0,0707  bar  =  
+7070  Pa
+Volt In
+IN
+3,785  dm3
+yd
+Fascal
+Cortile
+°C
+Energia
+Voltaggio
+miglio  nautico
+Gal  statunitense
+Pollice
+OH
+4,546  dm3
+BENE
+Libbra
+Pollice
+-
+°F
+l
+Misura
+Miglio  N
+piedi
+cavalli  vapore
+-
+Pressione
+-
+100.000  Pa
+Temperatura
+1852  m
+Lunghezza
+UN
+Resistenza  elettrica
+Metro
+Simbolo
+Ampere
+-
+Ampere-ora
+Watt
+0,0254  m  =  25,4  mm
+0,4531  kg
+T(°F)  =  1,8  x  T  (°C)  +  32
+-
+oz
+0,001341  CV
+746  Whp
+Sbarra
+M
+Gallone  statunitense
+Oncia
+gradi  centigradi
+gradi  Fahrenheit
+0,02832  kg
+Machine Translated by Google
+--- pagina 126 ---
+5-2 Guida  per  l'utente
+Machine Translated by Google
+--- pagina 127 ---
+Guida  per  l'utente 6-1
+G
+C
+UN
+6  Indice
+D
+F
+EB
+Interruzione  elettrica  del  gas ................................  3-13  
+Resistenza  elettrica ..................................  1-62
+zavorra ..................................................  3-1,  3-2  pallone  
+aerostatico..............1-17,  1-29,  1-30,  1-32,  
+1-35, .....................1-36,  1-37,  1-38,  1-39,  2-4,  3-9  
+barra ..........................1-44,  1-45,  1-83,  3-12,  5-1  
+batterie.......................1-1,  1-8,  1-74,  2-1,  
+2-3, .......................................  2-5,  3-4,  3-16,  3-17  
+cinghie.............................................................3-8  
+cuccetta ..............................  1-10,  1-15,  1-43,  1-83  
+blocco ..........................................................3-18  fune  di  
+ancoraggio ....................................................1-36  
+braccio............1-25,  1-35,  1-36,  1-37,  3-10,  3-16  elica  di  
+prua..................  1-12,  1-13,  1-14,  1-63, ...................1-78,  2-1,  
+2-2,  2-5,  3-2,  3-4,  3-9, .....................................................  
+3-17,  3-18  spazzole......................................................3-10  
+spazzola.............................................................2-4
+abrasivo.............................  3-1,  3-3,  3-11,  3-13  aria  
+condizionata ...............  1-1,  1-53,  1-56,  1-57, ..........1-63,  
+1-64,  1-65,  1-66,  2-5,  3-14,  3-17  presa  
+d'aria.......................................................1-64  presa  
+d'aria.................................  1-68,  1-69,  3-11  
+alternatore .............................................  1-2,  1-8  
+Ampere........................................................5-1  Ampere  –  
+ora.............................................5-1  
+ancoraggio....................................................1-1  
+anodo..........................1-5,  1-62,  3-2,  3-3,  3-15  
+antivegetativa ..............................  3-2,  3-3,  3-6,  3-9  sistema  
+antisifone...............................  1-2,  1-8  antifurto  
+dispositivo ...................................  2-1,  2-3  pilota  
+automatico ..........1-1,  1-4,  1-16,  1-42,  1-82
+boccaporto  di  coperta..........................................  2-2,  3-18  
+congelatore.....................1-67,  1-68,  2-3,  3-11  
+gradi.......................................................  5-1  
+sganciatore..........................................  1-38,  1-39  
+dissalatore ...............1-4,  1-53,  1-54,  1-57,  
+2-2, .......................................2-4,  2-5,  3-17,  3-19  gonfiatore  
+per  gommone............................................  1-19  astina  di  
+livello......................................................  1-47  
+lavastoviglie......................1-67,  2-3,  3-11,  3-12  
+porta.........................1-43,  1-44,  1-75,  1-78,  2-3  
+scarico..............1-7,  1-14,  1-54,  1-59,  1-63,  
+1-78, ..........................  2-4,  3-4,  3-5,  3-7,  3-9,  3-14  
+drenaggio .......................................................  3-4  
+prelievo .....................................................  1-59
+elettrolisi ...............................  1-5,  1-12,  3-17  apparecchiature  
+elettroniche..........1-80,  1-84,  2-5,  3-4  motore ................  1-2,  
+1-7,  1-8,  1-9,  1-10,  1-11, ..............  1-49,  1-53,  1-62,  2-1,  2-4,  
+2-5,  3-2, ................  3-4,  3-5,  3-6,  3-7,  3-8,  3-14,  
+3-16, .....................................................  3-18,  3-19  sala  
+macchine....................1-2,  1-19,  1-46,  1-48, ................1-49,  
+1-50,  1-51,  1-54,  1-56,  1-58, ..............................................1-59,  
+1-65,  2-3  scambiatore ............................................  1-8,  
+3-5  scarico ...............  1-2,  1-3,  1-7,  1-9,  1-56,  3-11
+certificato  di  registrazione.....................................2-5  
+catena............1-63,  1-75,  1-76,  1-78,  1-79,  3-15  contatore  
+catena .............................................1-79  armadietto  
+catena ............................  1-63,  1-75,  1-78  
+caricabatterie .........................................  1-1,  1-4,  3-4  tabella  
+cartesiana.................................  1-5,  1-80,  1-81  
+circuito .............1-2,  1-3,  1-5,  1-7,  1-8,  1-9,  
+1-14, ..............................................  1-80,  3-4,  3-14  
+interruttore  automatico ......................  1-2,  1-19,  2-1,  2-3  
+bitta .............................................................1-4  
+pinza .........................................................1-78  lavatrice/
+asciugatrice..............  1-67,  1-68,  
+2-3, .....................................................  3-11,  3-12  cabina  
+di  pilotaggio .................1-11,  1-17,  1-20,  1-21,  1-22, ..........1-28,  
+1-47,  1-59,  1-61,  1-75,  1-79,  2-4  doccia  cabina  di  
+pilotaggio...................................  1-59,  2-4  
+consumo ...............................  1-4,  1-10,  3-7  liquido  di  
+raffreddamento................................................2-1  
+coperture................................................  2-3,  3-10
+Piedi.............................................................  5-1  fibra  di  
+vetro.....................................1-15,  3-1,  3-3  filtro1-2,  1-7,  1-51,  
+1-52,  2-5,  3-4,  3-5,  3-7,  3-8,
+gas ................................1-3,  1-9,  2-1,  2-5,  3-11  bombole  di  
+gas...................................................  2-5  fornello  e  forno  a  
+gas.................1-67,  1-68,  3-13  
+guarnizione ..............................................  1-43,  1-44  
+gasolio ......................1-46,  1-48,  1-49,  2-1,  
+3-4, .........................................3-5,  3-6,  3-7,  3-16
+fuoco.............................................................  1-46  
+piede.....................................1-36,  1-75,  3-2,  3-9  strallo  di  
+prua.....................................................  1-21  acqua  
+dolce ..............................3-16,  3-17,  3-18  
+carburante ......................  1-2,  1-7,  1-9,  1-10,  1-46,  2-1  filtro  
+carburante /  separatore  acqua...........................  3-8  
+avvolgifiocco...............................1-22,  1-24,  3-17,  3-18  
+sistema  di  avvolgimento....................1-1,  1-4,  1-17,  
+1-19, .............................1-21,  1-24,  1-25,  2-1,  
+2-2, ................................................3-3,  3-9,  3-10
+3-13
+Machine Translated by Google
+--- pagina 128 ---
+Guida  per  l'utente6-2
+jack ...................................................1-12,  1-14  
+jib ........................  1-17,  1-19,  1-21,  1-22,  
+1-26, .................................  1-28,  1-29,  1-30,  
+1-32, .................................  1-34,  1-35,  1-36,  
+1-37, ...............................  1-39,  2-1,  2-2,  2-4,  3-10  tubo  
+avvolgifiocco ............................................1-21  comando  
+remoto  carrello  scotta  fiocco.......1-28,  1-32  
+giunto..............................................................3-9
+Ohm............................................................  5-1  olio  1-7,  1-9,  
+1-10,  2-1,  2-4,  2-5,  3-3,  3-4,  3-5,  3-
+armadietti ........................................................  2-3  
+stivali....................................................  1-36,  1-39
+calibro .......................................  1-48,  1-52,  3-4  
+cambio .................................  1-7,  1-9,  3-4,  3-5  
+generatore ...................  1-1,  1-2,  1-3,  1-46,  1-48, ..............1-49,  
+1-53,  1-65,  2-1,  2-5,  3-7,  3-8, ..................................  3-14,  
+3-16,  3-18,  3-19  GPS............................................  1-4,  
+1-84,  2-4  scanalature.............................................1-35,  1-36  
+piastre  di  terra.......................  1-5,  1-15,  3-2,  3-3  
+Guadalupa..........................................4-1,  4-2  
+guardrail ..........................................1-31,  1-84  
+guida..........................................................1-36
+randa................1-17,  1-22,  1-24,  1-25,  
+1-26, ................................................  2-1,  2-4,  3-10  
+albero.....................1-4,  2-2,  2-4,  3-3,  3-16,  3-17  
+Metro...........................................................  5-1  forno  a  
+microonde........................  1-1,  1-67,  3-12  mongolfiera  di  
+mezzana...........1-17,  1-40,  1-41,  
+1-42, .........................................................  2-4,  3-9  albero  
+di  mezzana..........1-17,  1-18,  1-27,  1-42,  1-47  
+ormeggio.....................................................  1-14  
+topo.......................................................  1-38  
+marmitta..................................................  1-3,  1-9
+7,  3-9,  3-15  
+once .........................................................  5-1  
+outhaul......................................................  1-22  outlet.  1-2,  
+1-3,  1-9,  1-19,  1-48,  1-75,  3-4,  3-12
+vernice...................................................  3-2,  3-10  
+Pascal.........................................................  5-1
+drizza.................  1-21,  1-22,  1-35,  1-36,  
+1-38, .....................................................1-39,  1-42  
+alaggio..........................................  2-4,  2-5,  3-5  
+salute...........................................................2-5  impianto  di  
+riscaldamento .................................1-63,  3-14  
+timone...........................................................1-19  alta  
+pressione................................  3-1,  3-2,  3-3  macchina  per  
+acqua  ad  alta  pressione................3-1,  3-3  gancio........................  
+1-31,  1-32,  1-35,  1-36,  3-1  cavalli................................................5-1  
+scaldabagno.................  1-59,  1-62,  2-4,  2-5  freno  
+idraulico .....................................1-8,  3-5  
+Hyères ..................................................4-1,  4-2  
+igiene........................................................2-5
+lingua..................................................1-54,  1-59  
+Chilogrammo ......................................................5-1
+La  Rochelle...........................................4-1,  4-2  
+lazaret........................................................1-19  
+lunghezza........................................  1-30,  1-79,  3-1  zattera  
+di  salvataggio.........................................................3-18  
+sollevamento ..............................................................1-32  
+luce...........................................  1-4,  1-12,  1-13  
+Lisbonne......................................................4-1  
+Litre .............................................................5-1  piccolo  
+palo ...........................................1-31,  1-33
+frigorifero ..............1-61,  1-67,  1-68,  2-3,  3-11  
+rilascio ..........................................  1-24,  1-54  tavolo  pozzetto  
+rimovibile ............................  1-61  
+attrezzatura..............................................  3-16,  3-17  giunto  in  
+gomma ...........................................  1-8  timone ..............1-5,  
+1-15,  1-16,  3-2,  3-15,  3-18  asse  del  
+timone ..............................................  1-15
+numero  di  identificazione ...................................4-1  Gallone  
+imperiale ...............  1-46,  1-59,  1-62,  
+2-4, ..........................................  3-4,  3-5,  3-9,  5-1  
+Pollici..............................................................5-1  
+iniettori .......................................................1-7
+Filtro  RACOR....................................  1-48,  1-49  
+radar.........................................................  1-4  
+radio........................................................  1-15
+passaggio..................1-19,  1-44,  1-47,  
+1-48, .....................................................  1-50,  1-71  codice  
+personale ...........................................  1-74  
+spillo........................1-13,  1-14,  1-20,  1-21,  
+1-22, .........................1-24,  1-28,  1-29,  1-31,  
+1-32, .......................................1-50,  2-1,  2-2,  3-10  
+palo......................1-29,  1-30,  1-31,  1-32,  
+1-33, ............................................  1-34,  1-35,  1-39  
+poliestere ...................................  1-12,  1-51,  2-5  
+libbre .........................................................  5-1  
+potenza....................1-1,  1-2,  1-4,  1-9,  1-13,  
+3-2, .......................................3-4,  3-11,  3-12,  5-1  
+pressione...............................................  3-1,  3-3  
+preventer...................................................  1-27  
+elica.....................1-5,  1-8,  1-9,  1-10,  1-12, ........................1-13,  
+1-14,  2-4,  3-2,  3-3,  3-5, .........................................3-6,  
+3-7,  3-9,  3-17  PSI..............................................................  
+5-1  pompa..........................1-2,  1-4,  1-7,  1-54,  
+1-56, .........................1-57,  1-58,  1-59,  1-60,  
+1-61, ......................1-65,  1-66,  1-75,  2-3,  2-4,  
+3-2, .......................................3-4,  3-5,  3-13,  3-14
+P
+IL
+M
+H
+IO
+J
+K
+L R
+Machine Translated by Google
+--- pagina 129 ---
+6-3Guida  per  l'utente
+IN
+In
+S
+IN
+E
+T
+Cortile ............................................................  5-1
+lavaggio............................................  1-54,  1-75  acqua  
+sprecata....................................  3-16,  3-17  paratia  
+stagna...................................  1-43  
+Watt.............................................................  5-1  ruota...  1-17,  
+1-59,  1-61,  1-63,  1-76,  1-82,  2-2,  3-5,  3-8,  3-11
+sicuro......................................  1-9,  1-74,  2-1,  3-7  
+vela ................1-1,  1-11,  1-29,  1-36,  1-70,  1-75, ..............1-84,  
+2-1,  2-5,  3-9,  3-13,  3-16,  3-18  
+ombrinali ......................................................3-2  acqua  di  
+mare......................1-2,  1-3,  1-8,  1-9,  1-52, ........................1-53,  
+1-57,  2-1,  2-3,  2-5,  3-5, ..........................3-10,  3-14,  3-16,  
+3-17,  3-19  presa  d'acqua  di  mare.............................  1-2,  
+2-3,  2-5  sensore........................................................1-56  
+sensore..............................................  1-48,  1-52  
+sensore........................................................1-56  
+sensore........................................................1-79  
+sensore........................................................1-83  
+foglio......................1-4,  1-17,  1-18,  1-19,  1-20, .................1-25,  
+1-32,  1-35,  1-36,  1-39,  1-41  alimentazione  da  
+terra.........................................  1-1,  2-1  
+pinna...................................................  1-15,  3-2  Velocità  
+sonica ...............................  1-83,  3-2,  3-3  
+tachimetro..............................................1-83  supporto  
+molla ...................................................3-1  
+SSB ............................................  1-4,  1-5,  1-80  sistema  di  
+sterzo..........................................3-15  rubinetto  di  
+arresto .........................................  3-11,  3-12  
+aspirazione .............................................  3-13,  3-14  
+pozzetto.............................  1-51,  1-52,  1-54,  
+1-56, .........................1-59,  1-61,  1-63,  1-68,  
+1-78, ................................................  2-3,  2-4,  3-14  anello  
+di  supporto................................................1-31
+trasmissione....................1-8,  1-9,  2-4,  2-5,  3-4  
+trappola...................................................  1-43,  3-11  
+cursore ...................................1-20,  1-22,  1-25  tirante  
+triatico..................................................  1-84  
+turbina................................................  1-59,  3-5  polo  
+doppio....................................................  1-29
+Gallone  USA......................1-46,  1-59,  1-62,  
+2-4, ...........................................3-4,  3-5,  3-9,  5-1  Bullone  
+a  U ...................................................  3-1,  3-2  
+unità ............................................................  5-1  
+USA.............................................................  4-2
+timoneria...............................................  1-75  
+verricello......................1-4,  1-17,  1-18,  1-19,  
+1-20, .........................1-21,  1-22,  1-24,  1-28,  
+1-32, ...................................1-42,  3-10,  3-17,  3-18  salpa  
+ancora ...................1-75,  1-76,  1-79,  2-1,  
+2-2, .......................................2-4,  3-3,  3-15,  3-18  tavole  di  
+protezione  in  legno..................1-71,  1-72,  1-73
+punto  di  ancoraggio..................................................  1-39,  
+1-40  serbatoio............................1-2,  1-7,  1-9,  1-10,  
+1-46, ....................1-47,  1-48,  1-59,  1-62,  2-1,  
+2-3, ................................................  2-4,  3-8,  3-15  
+rubinetto................................................................2-4  
+temperatura .................................................3-5  controllo  
+termostatico .........................  1-63,  1-68  servizi  igienici ........1-5,  
+1-53,  1-57,  2-1,  2-4,  3-13,  3-14  sollevamento  di  
+copertura .................................  1-30,  1-33,  1-39
+legno  verniciato...........................................  3-3  
+ventilazione.........................................  1-63,  3-13  
+VHF.............................................................  1-4  
+Volt..............................................................  5-1  
+tensione ......................................................  1-55
+Machine Translated by Google
+--- pagina 130 ---
+Versione  2.9  
+Ottobre  2004
+Riproduzione  vietata.  Nessuna  
+parte  di  quest'opera  può  essere  riprodotta  senza  
+l'autorizzazione  scritta  dei  Chantiers  AMEL.
+6-4 Guida  per  l'utente
+Machine Translated by Google

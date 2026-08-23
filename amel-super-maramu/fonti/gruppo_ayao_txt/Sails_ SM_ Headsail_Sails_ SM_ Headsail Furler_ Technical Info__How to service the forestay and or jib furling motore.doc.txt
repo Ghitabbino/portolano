@@ -1,0 +1,9 @@
+How to service the forestay and or jib furling motore/gearbox:
+Amel Yahoo Forum March 17, 2014
+    You do have to remove the forestay, but it's not too difficult. First drill out the rivets holding the furling extrusion. Then put a rolling hitch around the extrusion using the end of the jib halyard and winch the extrusion up the headstay a bit so it clears out of its socket. You'll have a gap in which you can see the headstay.
+    Next, remove the electric motor and lash it clear of the gear housing - you don't have to remove the electric wires.  Then undo the headstay turnbuckle, but first lash the gear box to the bow pulpit, lest it crash down on the deck when the headstay come free.  Carefully lower the gear box to the deck, taking care not to bend the support bracket, which will act like a fulcrum to lower the gear box.  As you lower it down, the headstay will slide out - take care not to bend it too much. Finally, remove the two bolts of the bracket - and Bob's your Uncle.
+     Now you can disassemble the furler - you'll want to replace the seals in addition to the bearing, of course.  It's a good time to go up the mast, pop the headstay off. Then you can lower it to a dock, pull the stay out of the extrusion, clean it up and regrease it as you reinsert it.  
+     On reassembly, I don't recall the exact size of the rivets, but you may need a larger size riveter than the usual hardware store carries - they are readily available, though.  I would not use bolts because I believe Amel engineered it with the aluminum pop rivets to provide a breakaway capability (like a sheer pin). Thus, if you forget to lower the ballooner halyard and try to furl, the rivets will break before you distort the extrusion (no need to ask how I know that :-)
+     Good luck with it.
+Craig
+s/v Sangaris, SN#68

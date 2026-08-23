@@ -1,0 +1,103 @@
+
+--- pagina 1 ---
+BOW THRUSTER OVERHAUL   
+AMEL SM HULL # 335 by Gary Silver 5-1-2007 Reprinted by Bill Rouse s/v BeBe 3/1/10 
+ 
+GENERAL POINTS.   
+1. Can be done in the water or on the hard. 
+2. The thruster foot assembly weighs only about 15 lbs (6 kg). It is mostly 
+carbon fiber and fiberglass. 
+3. Tools and supplies needed: 
+a. Small quantity contact cement. 
+b. Small quantity RTV 
+c. 13 mm socket & ratchet 
+d. 6 mm Allen Wrench (Hex wrench) 
+e. Blade screwdriver & hammer 
+f. 90 wt gear oil (0.32 quarts) 
+g. Amel Special Tool for removal in  the water if taking this route. 
+ 
+DEFINITIONS: See the pictures sections of the Yahoo site entitled “SM227” and 
+“BOW THRUSTER SERVICE”. 
+ 
+1.  THRUSTER TRUNK: the rectangular shaft, fiber glassed into the hull 
+of the boat, in which the bow thruster foot assembly rides up and down. 
+2.  THRUSTER FOOT:  the assembly consisting of the following;  
+ a.  “V” shaped FAIRING and its supports 
+ b. propeller gear and seal support HUB 
+ c. rectangular ANTI-TORQUE CAP 
+ d. and the vertical cylindr ical THRUSTER SHAFT HOUSING. 
+3.  BAND CLAMP:  The band that was retro-fitted by Amel at lower part of 
+the motor to prevent the hex screws from loosening and the bow thruster 
+shaft housing from dropping out due to repetitive wave motion.  When the 
+bow of the boat hobby horses without proper sealing or if the thruster foot 
+drops out of the boat in rough water, water can slosh up through the 
+thruster trunk and sink the boat. 
+ 
+PROCEDURE: 
+ 
+1. Place a large worm clamp (hose cl amp) around the black bow thruster 
+shaft housing as a safety measure to make sure the thruster foot doesn’t 
+fall out the bottom of the boat during the next few steps. 
+2. Lower the thruster 1-inch to  take pressure off the seals. 
+3. Using a 13 mm socket and ratchet re move the special band clamp from 
+the lower base of the motor.  Be careful not to drop items into the bilge 
+area. But if you do and can’t see it, try removing the cover over the air 
+conditioner. 
+4. Next remove the f our hex headed screws and lock washers from the base 
+of the motor.  The screws come all the way out and when the last one is 
+--- pagina 2 ---
+removed the thruster foot assembly will drop down out of the trunk so be 
+ready to support it or hold on to it.   
+a. At this point if you are doing this  in the water fit the Amel special 
+tool to the foot assembly shaft housing and be sure to apply some 
+tape at the joint to seal it to prevent water entry as you lower it out 
+of the trunk using the tool’s rope. 
+b. If doing this on the hard, outside the boat, place a ladder or a 
+person to support the foot assembly, then remove the previously 
+placed safety worm clamp. 
+5. Drain the oil into a bucke t by inverting the thruster. 
+6. If water is present in the thruster , as indicated by milky appearing oil, 
+repeatedly flush the thruster system with mineral spirits or Stoddard 
+solvent until clear, and then allow it to drain for several hours. 
+7. Remove the inside foam seal
+ and the two foam seals adhered to the 
+top of the rectangular anti-torque cap. (These are held in place by 
+contact cement) Note added by BeBe: the 1 “inside foam seal” is different 
+from the “two foam seals.”  Examine the new foam seals carefully and you 
+will see the difference.  The two like foam seals go together. 
+8. To replace the trunk lip seal, remove the two screws and retaining 
+washers from the top of the bow thruster trunk.  Use a screwdriver to 
+collapse this seal or try carefully prying it out.  It is a very loose fit. 
+a. When installing the new lip seal, pa ck it with grease, press it into its 
+recess using RTV to seal it and hold it.  Replace the retaining 
+screws and washers. 
+9. To remove the prop shaft lip seal
+ you need a slide hammer and very tiny 
+screws.  It is difficult to drill into this bearing with out the drill slipping off 
+and damaging the fiberglass recess, so use a 1/16th inch drill and drill 
+really slowly to avoid slipping off.  Once two screws are threaded into this 
+seal a slide hammer easily removes it. 
+10. Seal this new seal into place with RTV as well.  It is a tighter fit than the 
+upper seal but still relatively loose compared to the main prop shaft seal. 
+<<<Added May 2012>>>   
+With the seal pushed in further now not even a hint of oil moisture coming 
+through after 2.5 hrs with only the correct SAE90 gear oil in. 
+What we did is carefully but pretty firmly pressed the new seal in (with 
+the flat edge of a file) so that it has gone about 3mm beyond level with 
+the outer edge. In this position it cannot go any further in and it now has 
+a perfect seal. Colin Streeter Island Pearl II - SM2k #332 
+11. Corrosion-treat any areas on the motor bottom that might need it. 
+12.  Add 0.3 liters (about 9 ozs or 0.32 US quarts) of 90-wt gear oil Re-install 
+the thruster and before testing make sure everything is clear beneath the 
+boat. 
+13. The height that the bow thrust retracts, and thus the alignment of the 
+retaining-pin-hole, will be somewhat different now due to the new 
+thickness of the various seals (i.e. not compressed). Note added by BeBe: 
+To align the holes pull on the right front wire to compress the new foam 
+seals and align the pin holes, then insert the pin. 
+--- pagina 3 ---
+ 
+ 
+ 
+--- pagina 4 ---
+ 

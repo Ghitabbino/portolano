@@ -1,0 +1,998 @@
+TO BE KEPT WITH BOAT DOCUMENTSBEI DEN SCHIFFSPAPIEREN AUFBEWAHRENA CONSERVER AVEC LES DOCUMENTS DU BATEAUPA ADJUNTAR A LA DOCUMENTACI
+ÓN DE LA EMBARCACION
+BÖR FÖRVARAS I BÅTEN
+Ocean Hardware
+Spares Manual
+Issue 7
+Page 2
+ Page 3
+CONTENTS 1. INTRODUCTION
+CONTENTS Page
+1. Introduction
+ 1.1 Service & Maintenance 3
+ 1.2 Mounting 3
+ 1.3 Identiﬁcation 3
+ 1.4 Service & Spares 3
+2. Cars
+ 2.1 Size 0 Cars 4-5
+ 2.2 Size 0 End Stops 6-7
+ 2.3 Size 1 Cars 8-9
+ 2.4 SIze 1 End Stops 10-11
+ 2.5 Size 2 Cars 12-13
+ 2.6 Size 2 End Stops 14-15
+ 2.7 Size 3 Cars 16-17
+ 2.8 Size 3 End Stops 18-19
+3. Genoa Cars with Stainless Stirrup
+ 3.1 Size 1 Genoa Cars 20-21
+ 3.2 Size 2 & 3 Genoa Cars 22-23
+4. T-Track Genoa Cars
+ 4.1 Size 1, 2 & 3 Cars 24
+5. Tri-Roller Genoa Cars
+ 5.1 Size 2 Tri-Roller Cars 25
+6. Rope Clutches
+ 6.1 Type D1 26-27
+ 6.2 Type D2 28-29
+Notes  30 
+Lewmar Limited Warranty 31
+Lewmar hardware is produced to the same high standard as our 
+winches. Our commitment to research and development has produced 
+a range of hardware that has captured the world’s attention for its 
+design, function and engineering integrity.
+The objective of this manual is to help the yachtsman by explaining 
+how the equipment is assembled and how it can be maintained for 
+optimum performance.
+The Lewmar worldwide network of ofﬁces and distributors is able to 
+supply all of the parts listed and can assist in the maintenance and 
+repair of all items.
+1.1  Service and Maintenance
+ For satisfactory long term performance and product life a few 
+simple procedures should be followed.
+ The most important and simplest aspect of maintenance is to 
+regularly wash down all equipment with fresh water to remove 
+salt and sand deposits. This can be further improved by using hot 
+soapy water to remove any ingrained or oily deposits.
+ Cars that have been in use for a long time may require additional 
+attention. WD-40 or similar may be sprayed into the ball races to 
+help initial movement but should later be washed out to avoid 
+attracting dust and sand.
+ When ﬁtting additional control line assemblies, ensure that the 
+screws are coated with the anti-seize paste provided or Locktite 
+Studlock. If end caps are removed to change balls or slide rods 
+Locktite must be used on the screw threads.
+ All standard cars can run on re-circulating balls or slide rods can 
+be up-graded to run on balls to reduce the tow load on all sizes. 
+Delrin balls can be changed for T orlon balls (size 1 and 2).
+1.2 Mounting
+ The new Ocean sliding bolt track adds a smooth clean image to any 
+boat deck, it eliminates dirt traps and unlike other designs uses a 
+washer between the track and the deck to ensure a leak-free ﬁt.
+ The bolt spacing as stated in the catalogue should not be varied if 
+the Safe Working Load is to be achieved. The washer ﬁtted between 
+each bolt and the deck must be well coated in sealant to create 
+the best seal.
+ Control line end stops are supplied with bolts to locate in the track 
+proﬁle. Small track inserts are supplied to provide a tight ﬁt for the 
+ﬁxing bolts that pass into the track.
+ Additional control line sheave assemblies come with different length 
+bolts so that they may be ﬁtted to either car or end stop.
+ When ﬁtting additional sheaves to an end stop the outer of the 
+two screws must be used so that the sheave is mounted in the 
+centre of the end stop. This is important since the screw lengths 
+are selected to ensure full location in the track, without which the 
+end stop will not achieve the designed working load.
+1.3 Identiﬁcation
+ All of the standard Ocean range hardware is listed in this manual, 
+the size of the equipment in question can be identiﬁed by the track 
+width:-
+ Size 0 - 19 mm
+ Size 1 - 23 mm
+ Size 2 - 30 mm
+ Size 3 - 35 mm
+1.4 Service and Spares
+ Full service facilities for Lewmar products are provided at our 
+factory and subsidiary companies and by our distributor and service 
+centres worldwide. A full listing can be found in our catalogue.
+ Part pricing is subject to change. Apply to your nearest Lewmar 
+ofﬁce or distributor for current prices.
+Page 4
+ Page 5
+2. CARS2. CARS
+ Item Description Part Number Assembly Number
+ 1 Genoa Stirrup Assembly  28000801
+ 2 Angled Rubber Upstand 25002313
+ 3 Spirol Pin 
+ 4 Plunger Cam  29170048 5 Plunger Spring 
+ 6 Plunger
+ 7 Control Line Sheave 25000133 
+ 8 End Cap Kit (Inc. Screws)  29170045 10 Use Locktite Nutloc 242E
+ 11 Car Spirol Pin 6 x 35 B1549
+ 12 Delrin Ball 3/16” x 98  29170022
+ 13 Slide Rod (Pair)  29170026
+ 14 Spirol Pin B1548
+ 15 Shackle 25000007
+ 16 Lewmar Label 25000022
+2.1 Size 0 Cars2.1 Size 0 Cars
+8
+16
+Page 6
+ Page 7
+2. CARS 2. CARS
+ Item Description Part Number Assembly Number
+ 1 Pozi Screw B0326-A4
+ 2 Cam Cleat Assembly  B2830/Assy
+ 3 Cam Plate (Pair)  29171020
+ 4 Washer M5 B1210-A4
+ 5 Nyloc Nut M5 B1078
+ 6 Screw M6 x 25 B4205
+ 7 Grease Vial 28000810
+ 8 Control Line Sheave (S0) 25000133
+ 9 Sleeve (For Dead Eye) B4306
+ 10 Rubber Buffer x 2 (Including Fixings)  29170046
+ 12 Flat Track Insert B4300
+ 13 Beam Track Insert B4311
+ 14 End Stop Cover 25000137
+ 15 Screw M4 x 16 B4200
+ 16 Control Line Sheave (S1) 25000009
+ 17 Control Line Bearing 25000010
+ 18 Single Sheave Strap 25000001
+ 19 Screw M4 x 20 B4129
+ 20 Screw M6 x 40 Single Cam Ends B4210
+ 21 Lewmar Label 25000022
+2.2 Size 0 End Stops2.2 Size 0 End Stops
+21
+Page 8
+ Page 9
+2. CARS 2. CARS
+ Item Description Part Number Assembly Number
+ 1 Genoa Stirrup Assembly  28000801
+ 2 Angled Rubber Upstand 25002313
+ 3 Spirol Pin
+ 4 Plunger Cam
+ 5 Plunger Spring  29171048
+ 6 Plunger
+ 7 Plunger Sleeve
+ 8 Control Line Bearing 25000010
+ 9 End Cap Kit (Inc. Screws)  29171045 11 Use Loctite Nutloc 242E 
+ 12 Control Line Sheave 25000009
+ 13 Shackle Pin Standard Car 25000008
+ 14 Shackle Pin 266mm Car 25000386
+ 15 Delrin Ball 1/4” x 84  29171022
+ 16 Torlon Ball 1/4” x 84  29171021
+ 17 Slide Rod (Pair)  29171026
+ 18 Gease Vial 28000810
+ 19 Screw M6 x 17 B4202
+ 20 Screw M4 x 16 B4200
+ 21 Shackle 25000007
+ 22 Mainsheet Link
+ 23 Split Ring
+ 24 Mainsheet Link Spring  29171024
+ 25 Mainsheet Link Cup - Bag of 10 29171043 
+ 26 Clevis Pin
+ 27 Lewmar Label 25000022
+2.3 Size 1 Cars2.3 Size 1 Cars
+11
+9
+27
+Page 10
+ Page 11
+2. CARS 2. CARS
+2.4 Size 1 End Stops2.4 Size 1 End Stops
+26
+ Item Description Part Number Assembly Number
+ 1 Pozi Screw B0326-A4
+ 2 Cam Cleat Assembly  B2830/Assy.
+ 3 Cam Plate (Pair)  29171020
+ 4 Washer M5 B1210-A4
+ 5 Nyloc Nut M5 B1078
+ 6 Control Line Bearing 25000010
+ 7 Screw M6 x 30 B4206
+ 8 Rubber Buffer x 2 (Including Fixings)  29171046
+ 10 Sleeve (for dead eye) B4304
+ 11 Control Line Sheave 25000009
+ 12 Flat Track Insert B4300
+ 13 Beam Track Insert B4312  
+ 14 End Stop Cover 25000014
+ 15 Screw M4 x 16 B4200
+ 16 Grease Vial 28000810 
+ 17 Single Sheave Strap 25000001
+ 18 Screw M4 x 20 - Single Cam Car Ends B4129
+ 19 Screw M6 x 30 - Single Car B4206
+ 20 Screw M6 x 43 - Single Ends B4211
+ 21 Screw M6 x 33 - Single Cam Car B4207
+ 22 Screw M6 x 45 - Single Cam Ends B4212
+ 23 Friction Stop Adjuster
+ 24 Washer  29171082
+ 25 Friction Pad
+ 31 Lewmar Label 25000022
+Page 12
+ Page 13
+2. CARS 2. CARS
+ Item Description Part Number Assembly Number
+ 1 Genoa Stirrup Assembly  28000802
+ 2 Angled Rubber Upstand 25002321
+ 4 Genoa Sheave
+ 5 Genoa Spindle  29172054
+ 6 Genoa Screw
+ 7 High Spec. Thrust Washer 25000188
+ 8 High Spec. Genoa Sheave 25000186 
+29172027 9 Torlon Bearing Assembly 15000018
+ 10 High Spec. Genoa Spindle 25000187
+ 11 Mainsheet Link Cup - Bag of 10 29172043
+ 11a Mainsheet Link for Size 1 Racing - Bag of 10 29905124 
+ 12 Mainsheet Link Spring
+ 13 Clevis Pin  29172024
+ 14 Mainsheet Link
+ 15 Split Ring
+ 16 Shackle 25000047
+ 17 Screw M5 x 20 B4201
+ 18 Screw M6 x 20 25000591
+ 19 Shackle Pin Standard Car 25000048
+ 20 Shackle Pin 257mm Car 25000204
+ 21 Shackle Pin 380mm Car 25000189
+ 22 Slide Rod (Pair)  29172026
+ 23 Delrin Ball 5/16” x 84  29172022
+ 24 Torlon Ball 5/16” x 84  29172021
+ 25 Control Line Sheave 25000031
+ 26 End Cap Kit - Plastic (Including Screws)  29172045
+ 26 End Cap Kit - Alloy (Including Screws)  29172044
+ 28 Use Loctite Nutloc 242E
+ 29 Sheave Bearing 25000037
+ 30 Plunger Sleeve 
+ 31 Plunger
+ 32 Plunger Spring  29172048
+ 33 Plunger Cam
+ 34 Spirol Pin
+ 35 Grease Vial 28000810
+ 36 Lewmar Label 25000022
+2.5 Size 2 Cars2.5 Size 2 Cars
+26
+36
+1 11 1a
+Page 14
+ Page 15
+2. CARS 2. CARS
+ Item Description Part Number Assembly Number
+ 1 Pozi Screw B0326-A4
+ 2 Cam Cleat Assembly  B2830/Assy.
+ 3 Cam Plate (Pair)  29172020
+ 4 Washer M5 B1210-A4
+ 5 Nyloc Nut M5 B1078
+ 6 Control Line Bearing 25000037
+ 7 Grease Vial 28000810
+ 8 Screw M6 x 35 25000592
+ 9 Sleeve (For Dead Eye) B4304
+ 10 Rubber Buffer x 2 (Including Fixing Screws)  29172046
+ 12 Control Line Sheave 25000031
+ 13 Track Insert (Flat & Beam Track) B4301
+ 14 End Stop Cover 25000036
+ 15 Screw M5 x 20 B4201
+ 16 Double Sheave Strap 25000043
+ 17 Screw M5 x 35 - Double Cam Car Ends B4132
+ 18 Screw M6 x 50 - Double Car 25000594
+ 19 Screw M6 x 60 - Double Ends 25000596
+ 20 Screw M6 x 53 - Double Cam Car 25000595
+ 21 Screw M6 x 70 - Double Cam Ends 25000597
+ 22 Single Sheave Strap 25000038
+ 23 Screw M5 x 20 - Single Cam Car Ends B4131
+ 24 Screw M6 x 35 - Single Car 25000592
+ 25 Screw M6 x 50 - Single Ends 25000594
+ 26 Screw M6 x 38 - Single Cam Car Ends 25000593
+ 27 Screw M6 x 50 - Single Cam Ends 25000594
+ 28 Friction Stop Adjuster
+ 29 Washer  29172028
+ 30 Pressure Pad
+ 31 Lewmar Label 25000022
+2.6 Size 2 End Stops2.6 Size 2 End Stops
+31
+Page 16
+ Page 17
+2. CARS 2. CARS
+ Item Description Part Number Assembly Number
+ 1 Genoa Stirrup Assembly  28000803
+ 2 Angled Rubber Upstand 25002321
+ 3 Genoa Sheave 
+ 4 Genoa Bolt  29173054
+ 5 Genoa Spindle 
+ 6 High Spec. Thrust Washer 25000198
+ 7 High Spec. Genoa Sheave 25000195 29173027 8 Torlon Roller x 18 25000197
+ 9 High Spec. Genoa Spindle 25000325
+ 10 Mainsheet Link Cup - Bag of 10 29173043
+ 11 Mainsheet Link Spring 
+ 12 Clevis Pin  29173024
+ 13 Mainsheet Link
+ 14 Split Ring
+ 15 Shackle 25000047
+ 16 Screw M6 x 23 B4204
+ 17 Screw M8 x 23 25000584
+ 18 Grease Vial 28000810
+ 19 Shackle Pin Standard Car 25000048
+ 20 Shackle Pin 305mm Car 25000212
+ 21 Shackle Pin 403mm Car 25000199
+ 22 Slide Rod (Pair)  29173026
+ 23 Torlon Ball 3/8” x 84  29173021
+ 24 Control Line Sheave 25000104
+ 25 End Cap Kit - Delrin (Including Screws)  29173047
+ 25 End Cap Kit - Alloy (Including Screws)  29173044
+ 27 Use Loctite Nutloc 242E
+ 28 Sheave Bearing 25000103
+ 29 Plunger Slee-ve 
+ 30 Plunger
+ 31 Plunger Spring  29173048
+ 32 Plunger Cam
+ 33 Spirol Pin
+ 34 Lewmar Label 25000025
+2.7 Size 3 Cars2.7 Size 3 Cars
+7 8 96
+25
+34
+Page 18
+ Page 19
+2. CARS 2. CARS
+ Item Description Part Number Assembly Number
+ 1 Pozi Screw B0337
+ 2 Cam Cleat Assembly  B2827/Assy.
+ 3 Cam Plate (Pair)  29173020
+ 4 Washer M5 B1210-A4
+ 5 Nyloc Nut M5 B1078
+ 6 Grease Vial 28000810
+ 7 Screw M6 x 25 B4205
+ 8 Screw M8 x 40 25000585
+ 9 Control Line Bearing (& Dead Eye) 25000103
+ 10 Rubber Buffer x 2 (Including Fixing Screws)  29173046
+ 12 Control Line Sheave 25000104
+ 13 Track Insert (Flat & Beam Track) 25000120
+ 14 End Stop Cover 25000111
+ 15 Double Sheave Strap 25000107
+ 16 Screw M6 x 40 - Double Cam Car Ends B4133
+ 17 Screw M8 x 58 - Double Car 25000588
+ 18 Screw M8 x 70 - Double Ends 25000590
+ 19 Screw M8 x 60 - Double Cam Car 25000589
+ 20 Screw M8 x 70 - Double Cam Ends 25000590
+ 21 Single Sheave Strap 25000106
+ 22 Screw M6 x 25 - Single Cam Car Ends B4125
+ 23 Screw M8 x 40 - Single Car 25000585
+ 24 Screw M8 x 55 - Single Ends 25000587
+ 25 Screw M8 x 43 - Single Cam Car 25000586
+ 26 Screw M8 x 60 - Single Cam Ends 25000589
+ 27 Friction Stop Adjuster
+ 28 Washer  29173028
+ 29 Pressure Pad
+ 30 Lewmar Label 25000025
+2.8 Size 3 End Stops2.8 Size 3 End Stops
+30
+Page 20
+ Page 21
+3. GENOA CARS
+ Item Description Part Number Assembly Number
+ 1 M8 x 12 Button Head Screw B4234-A4
+ 2 M8 Washer B1207-A4
+ 3 Mk 2 Genoa Spindle - S22 25002166
+ 4 S21 Genoa Sheave Mk 2 25002090
+ 5 Genoa Spacer 25002173
+ 6 M8 Washer B1207-A4
+ 7 M8 x 12 Button Head Screw B4234-A4
+ 8 3 x 20 MD Spirol Pin 
+ 9 Cam Arm Machining
+ 10 Spring  29171048
+ 11 Plunger
+ 12 Plunger Sleeve
+ 13 S21 Car Body ST STL Genoa 25001453
+ 14 S21 OR Stirrup 25001366
+ 15 M4 x 16 Button Head Screw B4200
+ 16 M4 Nylatron Washer B4408
+ 17 M8 Form Washer B1207-A4
+ 18 M8 Nylatron B4411
+ 19 M8 Form Washer B1207-A4
+ 20 Stainless Steel Spring B5074
+ 21 M8 Form Washer B1207-A4
+ 22 M4 x 16 Slot Cheese Screw B0352
+ 23 Delrin Ball 1/4” x 84  29171022
+ 24 S21 Slide Rod (Pair)  29171026
+ 25 Torlon Ball 1/4” x 84  29171021
+ 26 Traveller Label S21-2  25000022
+3.1 Size 1 Genoa Cars
+3. GENOA CARS
+3.1 Size 1 Genoa Cars
+1 2 3 4 5 6 7
+9
+8
+10
+11
+13
+12
+22
+25
+23
+18
+16
+15
+14
+17 19 20
+26
+21
+24
+Page 22
+ Page 23
+3. GENOA CARS
+ Item Description Part Number Assembly Number
+ 1 Stainless Steel Stirrup  28002231
+ 2 High Spec. Thrust Washer 25000198
+ 3 High Spec. Genoa Sheave 25000195 29173027 4 Torlon Rollers x 18 25000197
+ 5 High Spec. Genoa Spindle 25000325
+ 6 Genoa Spindle 25000329
+ 7 Genoa Sheave 25000105
+ 8 Cone Washer 25000350
+ 9 Genoa Bolt 25000264
+ 10 Rubber Collar 15230310
+ 11 Shackle Pin 25000347
+ 12 Slide Rod (Pair) (Size 2 Cars) 29172026
+ 12 Male Slide Rod (H.L. Cars Only) (Size 3 Cars) 25000425
+ 13 Female Slide Rod (H.L. Cars Only) (Size 3 Cars) 25000426
+ 14 Use Loctite Nutloc 242E
+ 15 End Cap Kit - Plastic (Including Screws) (Size 2 Cars)  29172045
+ 15 End Cap Kit - Alloy (Including Screws) (Size 2 Cars)  29172044
+ 15 End Cap Kit - Delrin (Including Screws) (Size 3 Cars)  29173047
+ 15 End Cap Kit - Alloy (Including Screws) (Size 3 Cars)  29173044
+ 17 Torlon Ball 5/16” x 84 (Size 2 Cars) 29172021
+ 17 Torlon Ball 3/8” x 84 (Size 3 Cars) 29173021
+ 18 Sheave Bearing (For Dead Eye) 25000103
+ 18a Control Line Sheave (Size 2 Cars) 25000031
+ 18a Control Line Sheave (Size 3 Cars) 25000104
+ 19 Grease Vial 28000810
+ 20 Screw M6 x 20 (Size 2 Cars) 25000591
+ 20 Screw M8 x 23 (Size 3 Cars) 25000584
+ 21 Plunger Assembly  29173050
+ 22 Screw M5 x 20 (Size 2 Cars) B4201
+ 22 Screw M6 x 23 (Size 3 Cars) B4204
+ 23 Lewmar Label 25000025
+3.2 Genoa Cars with Stainless Steel Stirrup
+3. GENOA CARS
+3.2 Genoa Cars with Stainless Steel Stirrup
+14
+26
+23
+17
+36
+18a
+Page 24
+ Page 25
+5. TRI-ROLLER CARS
+ Item Description Part Number Assembly Number
+ 1 M8 x 16 SKT CSK Set Screw – A4 B0821-A4
+ 2 Nylon 66 Washer 17 x 8.4 x 0.25 B4419
+ 3 Sz 2 Genoa Spindle Mk 2 25002166
+ 4 Sz 2 Genoa Sheave Mk 2 25002090
+ 5 Sz 2 Tri-Roller Pin 25002623
+ 6 Heyco Shouldered Bush B5937
+ 7 Sz 2 Side Roller Anodised 28002624
+ 8 Heyco Shouldered Bush B5937
+ 9 3 x 24 Spirol Pin B1526
+ 10 Cam Arm Machining 25000216
+ 11 Spring 15200175
+ 12 Plunger 25002146
+ 13 Plunger Sleeve 25000220
+ 14 Sz 2 Tri-Roller Genoa Car M/C 25002623
+ 15 Nylon 66 Washer 17 x 8.4 x 0.25 B4419
+ 16 M8 x 16 SKT CSK Set Screw – A4 B0821-A4
+ 17 Sz 2 Genoa Car R/H Insert 15200188
+ 18 Sz 2 Genoa Car L/H Insert 15200187
+5.1 Size 2 Tri-Roller Cars
+21 3 4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+18 17
+1615
+14
+4. T-TRACK CARS
+4.1 Size 1, 2 & 3 T-Track Cars
+ Item Description Part Number Assembly Number
+ 1 3 x 24mm Spirol Pin B1526
+ 2 Plunger Cam
+ 3 Spring  29172049 4 Plunger
+ 5 Plunger Sleeve
+ 6 Size 3 Pin B4601
+ 7 Size 2 Pin B1579
+ 8 Size 1 Pin 25000008
+ 9 Insert L/H Size 1 & 2 15200187
+ 10 Insert R/H Size 1 & 2 15200188
+ 11 Insert L/H Size 3 15200177
+ 12 Insert R/H Size 3 15200178
+ 14 Screw M5 (Size 1 Only) B4201
+ 16 Grease Vial 28000810
+  Lewmar Label 25000022
+ NOTE: From Jan 95, rubber buffers were not ﬁtted to T-Track Cars. Car body ends machined with rounded end.
+17
+Page 26
+ Page 27
+6. ROPE CLUTCHES
+ Item Description Part Number Assembly Number
+ 1 M4 x 50 Pozi Screw (Double Clutch) B4668-A4
+ 2 M4 x 76 Pozi Pan A4 20 Min Thread (Triple Clutch) B4667-A4
+ 3 SBC Centre Cheek 25002295
+ 4 M4 x 25 Pozi Screw (Single Clutch) B4666-A4
+ 5 SBC R/H Cheek 25002294
+ 6 SBC Handle  
+ 7 Crinkle Washer  29100010 
+ 8 SBC Clutch Link 
+ 9 Retaining Pin
+ 10 Ferrule 25000907
+ 11 SBC Upper Case Plate 25002307
+ 12 SBC 6 – 8 mm Domino Set  28002296
+ 13 SBC 10 – 12 mm Domino Set  28002297
+ 14 SBC Lower Base Plate 25002308
+ 15 Ferrule 25000907
+ 16 SBC L/H Cheek 25002293
+ 17 M4 Nut B5011-A4
+ 18 SBC 6 – 8 mm Label 28002309
+ 19 SBC 10 – 12 mm Label 28002310
+ 20 SBC Clutch Spring 25002741
+6.1 D1 Rope Clutch
+6. ROPE CLUTCHES
+6.1 D1 Rope Clutch
+2
+1 3
+54
+19
+18
+76 109
+16 1714 1513
+12
+11
+20
+8
+Page 28
+ Page 29
+6. ROPE CLUTCHES
+ Item Description Part Number Assembly Number
+ 1 Right Hand Cheek 25000165
+ 2 Left Hand Cheek 25000164
+ 3 Middle Cheek 25000167
+ 4 Handle Assembly 8 – 10
+ 5 Handle Assembly 10 – 12  28000185 6 Handle Assembly 12 – 14
+ 7 Handle Assembly 14 – 16
+ 8 Dome Plug & Spring  29100001
+ 9 Domino Assembly 8 – 10  28000177
+ 10 Domino Assembly 10 – 12  28000184
+ 11 Domino Assembly 12 – 14  28000179
+ 12 Domino Assembly 14 – 16  28000178
+ 13 Cheek Screw Single B4660
+ 14 Cheek Screw Double B4661
+ 15 Cheek Stud Triple 25000176
+ 16 M5 Nut B5007-A4
+ 17 Spreader Plate 25000154
+ 19 Reinforcing Plate 25000190
+ 20 Crinkle Washer B4402
+ 21 Handle Pin - Single 25000173
+ 22 Handle Pin - Double 25000174
+ 23 Handle Pin - Triple 25000175
+ 24 Slotted Nut 28000182
+ 25 Stainless Steel Ferrule 25000156
+ 26 Label Function Sheet 25002323
+6.2 D2 Rope Clutch
+6. ROPE CLUTCHES
+6.2 D2 Rope Clutch
+24
+Page 30
+ Page 31
+ Lewmar garantiert für einen Zeitraum von drei Jahren ab Kaufdatum – den normalen Gebrauch der Produkte 
+vorausgesetzt -, daß seine Produkte keine Herstellungs- oder Materialfehler aufweisen. Diese Gewährleistung erfolgt 
+zu den Bedingungen und mit den Beschränkungen und Ausnahmen, die nachstehend aufgeführt sind. Teile, die sich 
+bei normalem Gebrauch während der dreijährigen Garantiezeit als fehlerhaft erweisen, werden von Lewmar repariert 
+oder aufgrund Lewmar’s Entscheidung ausgetauscht.
+A BEDINGUNGEN UND EINSCHRÄNKUNGEN
+i Die Haftung von Lewmar ist auf die Reparatur oder den Austausch der Teile beschränkt, die Material- oder 
+Herstellungsfehler aufweisen.
+ii Die Feststellung, ob das Material für die vom Käufer bezweckte Verwendungsart geeignet ist, fällt unter die 
+alleinige Verantwortung des Käufers. Lewmar übernimmt keine Haftung im Zusammenhang mit einer solchen 
+Eignungsfeststellung.
+iii Lewmar kann nicht haftbar gemacht werden für:
+a Versagen, Verlust oder Schäden aufgrund der Nutzung der Produkte in Anwendungen, für die sie nicht bestimmt 
+sind.
+b Versagen, Verlust oder Schäden durch Korrosion, UV-Zersetzung, normalen Verschleiß oder falsche Installation.
+c Versagen, Verlust oder Schäden durch falsche Wartung.
+d Versagen, Verlust oder Schäden durch Überbeanspruchung der Produkte.
+iv Produkte, für die Garantieansprüche geltend gemacht werden, müssen an Lewmar zwecks Prüfung zurückgesandt 
+werden, es sei denn, daß Lewmar schriftlich eine andere Vereinbarung bestätigt hat. 
+v Lewmar übernimmt keine Frachtkosten oder Kosten für Installationsarbeiten im Zusammenhang mit einem 
+Garantieanspruch.
+vi Diese Garantie verfällt, wenn andere Personen als zugelassene Lewmar-Vertreter Servicearbeiten in Bezug auf die Produkte 
+durchführen, es sei denn, daß diese Arbeiten den Richtlinien und Herstellungsstandards von Lewmar entsprechen. 
+vii Lewmar Produkte sind ausschliesslich für den Einsatz im Wassersport- bereich konzipiert. Käufer , die diese Produkte 
+für jeglichen anderen Zweck benutzen wollen , sollten das Einverständnis von Lewmar einholen; Lewmar unterliegt 
+dabei keiner Haftung durch den Gebrauch, den Lewmar nicht ausdrücklich gebilligt hat.
+B AUSNAHMEN
+ Die Garantie ist in folgenden Fällen für die Zeitdauer  eines Jahres, beginnend mit dem Datum des Verkaufes 
+befristet:
+ • Bugstrahlruder
+ • Elektrische Motoren und elektrische Ausrüstung
+ • Elektronische Steuerungen
+ • Hydraulische Pumpen, Ventile und Drehzahlregler
+ • Wetterdichtungen
+ • Produkte im „Grand Prix“-Einsatz
+C HAFTUNG 
+i Die Haftung seitens Lewmar schließt alle anderen Garantien und Verantwortlichkeiten (in dem Maße, wie das Gesetz 
+dies zuläßt) aus. Insbesondere (jedoch nicht limitativ):
+a haftet Lewmar nicht für 
+ • eventuelle indirekte Schäden oder Folgeschäden einschließlich (jedoch ohne Begrenzung) entgangener erwarteter 
+Gewinne, des Verlusts von erwartetem zukünftigem Geschäfte, Schädigung von Ruf oder Goodwill sowie einschließlich 
+Schäden, Kosten oder Aufwendungen, die an Dritte zahlbar sind sowie einschließlich anderer indirekter Verluste;
+ • Schäden an Yachten oder Ausrüstung;
+ • Tod oder Personenschäden (ausgenommen verursacht durch Fahrlässigkeit von Lewmar).
+b Lewmar gewährt keine Garantie bezüglich der Eignung der Produkte hinsichtlich der vom Käufer bezweckten Nutzung, 
+des Gebrauchs, der Art, der Marktgängigkeit oder der befriedigenden Qualität der Produkte.
+ii Wenn die relevanten Gesetzes des betreffenden Landes den Ausschluß von Garantien nicht erlauben, wird die Garantie, 
+falls die Gesetze dies zulassen, auf ein (1) Jahr beschränkt.
+D ABTRENNBARKEIT EINZELNER BESTIMMUNGEN
+ Falls eine oder mehrere dieser Garantiebestimmungen von einer zuständigen Behörde ganz oder teilweise für nicht 
+gültig oder nicht einklagbar erachtet werden, mindert dies nicht die Gültigkeit der übrigen Bestimmungen dieser 
+Garantie und des Rests der betreffenden Bestimmung.
+E Aufgrund dieser Garantie haben Sie bestimmte gesetzmäßige Rechte; darüber hinaus stehen Ihnen gegebenenfalls 
+von Land zu Land unterschiedliche sonstige gesetzmäßige Rechte zu.  
+ Werden die Produkte im UK unter Verbraucherbedingungen verkauft, sind die gesetzmässigen Rechte des Käufers 
+nicht betroffen.
+ Lewmar  Limited behält sich das Recht vor, das Design, die Konstruktion und die Speziﬁkationen von Produkten ohne 
+vorherige Ankündigung zu ändern. 
+ GARANTIE VON LEWMAR LIMITED 
+ ALLGEMEINE VERKAUFSBEDINGUNGEN
+ Alle Verkäufe unterliegen den Allgemeinen Verkaufsbedingungen von Lewmar in ihrer vollständigen Fassung, die auf 
+Anfrage bei der Hauptniederlassung von Lewmar Marine in Havant, Großbritannien, erhältlich ist. Die obige Garantie 
+und die folgenden allgemeinen Verkaufsbedingungen sind Bestandteil und Ergänzung dieser vollständigen Allgemeinen 
+Verkaufsbedingungen von Lewmar. Im Falle von Widersprüchen zwischen der obigen Garantie und den folgenden 
+allgemeinen Verkaufsbedingungen einerseits und den vollständigen Allgemeinen Verkaufsbedingungen von Lewmar 
+andererseits sind die vollständigen Allgemeinen Verkaufsbedingungen maßgeblich.
+ PREISE
+ Alle Preise unterliegen eventuellen Änderungen ohne vorherige Ankündigung aufgrund von ﬂuktuierenden Material- 
+und Lohnkosten. Die Preise verstehen sich ab Lager und ohne Mehrwertsteuer (die in Rechnung gestellt wird, falls 
+anwendbar) und sind die Preise, wie sie am Versanddatum gelten.  
+ ANGEBOTE
+ Alle Angebote sind für den Zeitraum von 30 Tagen ab dem Angebotsdatum gültig. Angebote gelten nur als verbindlich, 
+wenn sie schriftlich unterbreitet wurden. (Mündliche Aussagen dienen nur zu Indikationszwecken.)
+ RÜCKSENDUNG VON WAREN
+ ZURÜCKGESANDTE WAREN WERDEN NUR DANN ANGENOMMEN UND GUTGESCHRIEBEN, WENN LEWMAR DER 
+RÜCKSENDUNG SCHRIFTLICH ZUGESTIMMT HAT.
+ Eine Genehmigung wird bei Zustimmung zur Rücksendung ausgestellt.
+ Alle Frachtkosten für Rücksendungen müssen vom Rücksender im voraus bezahlt werden.
+ Alle zurückgesandten Waren, die angenommen und später wieder an unser Lager zurückgesandt wurden, unterliegen 
+einer Wiedereinlagerungsgebühr in Höhe von 15% des Warenwertes. 
+ Artikel, die in beschädigtem Zustand zurückgesandt wurden, werden nicht zum vollen Wert gutgeschrieben. 
+ Sonderanfertigungen sind von der Rücknahme ausdrücklich ausgeschlossen.
+ KATALOGE
+ Katalog- und Prospektmaterial sowie Produkthandbücher sind auf Anfrage bei Lewmar erhältlich. Diese Artikel können 
+auch auf unserer Internetseite angefordert werden. 
+ BEZUGSMÖGLICHKEITEN
+ Unsere Produkte können Sie bei Ihrer örtlichen Werft oder dem ortsansässigen Lewmar-Händler beziehen. Wir teilen 
+Ihnen gerne die Anschrift des Lieferanten in Ihrer Nähe mit. 
+ LEWMAR garantit ses produits, dans des conditions normales d’utilisation, contre toutes pièces défectueuses ou 
+défauts de fabrication pendant trois ans à partir de la date d’achat par l’acheteur d’origine, sous réserve des conditions, 
+restrictions et exceptions listées ci-après. Toute pièce qui s’avère défectueuse à la suite d’une utilisation normale au 
+cours de cette période de trois ans sera réparée ou remplacée par LEWMAR, qui sera seul juge du bien-fondé de sa 
+décision de réparer ou remplacer ladite pièce.
+A Conditions et restrictions
+i La responsabilité de LEWMAR sera limitée à la réparation ou au remplacement des marchandises ou pièces présentant 
+des défauts de matériel ou de fabrication.
+ii Il incombe à l’acheteur seul de déterminer si le matériel est adapté à l’usage auquel il le destine et LEWMAR ne saurait 
+être tenu responsable de toute décision en ce domaine.
+iii LEWMAR ne reconnaît aucune responsabilité pour:
+a Les pannes, pertes et détériorations consécutives à une utilisation inadéquate des produits.
+b Les pannes, pertes et détériorations causées par la corrosion, la dégradation par ultraviolets, l’usure normale ou une 
+installation inadéquate.
+c Les pannes, pertes et détériorations dues à un entretien inadéquat.
+d Les pannes, pertes et détériorations dues à des conditions qui ne sont pas prévues par les spéciﬁcations du 
+produit.
+iv Tout produit faisant l’objet d’une réclamation sous garantie devra être renvoyé à LEWMAR pour être examiné, sauf 
+stipulation contraire par écrit de LEWMAR.
+v LEWMAR n’est pas responsable des frais d’expédition ou de main d’œuvre associés à toute réclamation sous 
+garantie.
+vi Tout entretien effectué par quiconque autre que les représentants agréés LEWMAR annulera cette garantie, sauf s’il 
+est effectué en accord avec les directives et normes de fabrication de LEWMAR.
+vii Les produits LEWMAR sont destinés à un usage marin. Les acheteurs destinant les produits LEWMAR à un usage autre 
+que celui-ci doivent préalablement prendre conseil auprès de LEWMAR, qui décline toute responsabilité vis-à-vis 
+d’un type d’usage qui n’aurait pas été approuvé par LEWMAR.
+B  Exceptions
+ La garantie est limitée à une période d’un an à compter de la date d’achat pour les produits suivants:
+ • Propulseur d’étrave
+ • Moteurs électriques et équipement électrique
+ • Commandes électroniques
+ • Pompes hydrauliques, valves et dispositifs de commande
+ • Joints étanches
+ • Produits utilisés dans les épreuves de type «Grands Prix»
+C Responsabilité
+i La responsabilité de LEWMAR dans le cadre de la présente garantie exclut toutes autres garanties ou responsabilités, 
+sous réserve du respect des dispositions légales en vigueur et il est entendu que :
+a LEWMAR décline toute responsabilité pour:
+ • tout dommage indirect or tout préjudice ﬁnancier consécutif incluant notamment, sans que la liste soit exhaustive, 
+la perte de revenus anticipée, l’atteinte à la réputation ou à la clientèle, la perte de prospects, les dommages et intérêts, 
+le coût et les dépenses qui doivent être payés à une tierce personne ou toute autre perte indirecte;
+ • tout dommage causé aux yachts ou aux équipements;
+ • le décès ou les dommages corporels des tiers (sauf en cas de faute établie de LEWMAR).
+b Il n’existe aucune garantie de vendabilité ni d’aptitude au but ou à l’usage ni de qualité satisfaisante de la 
+marchandise.
+ii Certains pays interdisent toute exclusion de garantie. Dans ce cas, la garantie, si la loi l’autorise, sera limitée à une 
+période d’un an.
+D Séparation de clause
+ Si l’une des clauses de cette garantie était invalidée ou jugée inapplicable par une autorité compétente, en tout ou 
+partie, la validité des autres clauses de cette garantie, ou la partie non contestée de la clause en question, ne serait 
+pas affectée.
+E Cette garantie vous donne des droits particuliers, mais vous pouvez également bénéﬁcier d’autres droits qui varient 
+selon les pays.
+ Lorsque les produits sont vendus au Royaume-Uni dans le cadre d’une opération de vente au public, les droits 
+fondamentaux de l’acheteur restent sans changement.
+ LEWMAR Ltd se réserve le droit de modiﬁer la conception et les spéciﬁcations de ses produits sans avertissement 
+préalable.
+ GARANTIE LIMITÉE & CONDITIONS GÉNÉRALES DE VENTE
+ CONDITIONS GENERALES DE VENTE
+ Toute vente est soumise aux Conditions Générales de Vente de LEWMAR qui peuvent être obtenues sur demande 
+adressée à Lewmar Limited Head Ofﬁce, Havant.
+ Les précédentes clauses de garantie ainsi que les conditions générales de ventes qui suivent y compris les suppléments 
+font partie intégrante des Conditions Générales de Vente de LEWMAR et viennent les compléter. En cas de conﬂit entre 
+d’une part les précédentes clauses de garantie et les conditions générales de vente qui suivent et d’autre part l’intégralité 
+des Conditions Générales de Vente de LEWMAR, il est entendu que ce sont ces dernières qui prévaudront.
+ Prix
+ Tous les prix peuvent être modiﬁés sans avis préalable en fonction des variations des prix des matériaux et du coût de 
+la main d’œuvre. Les prix sont ex-entrepôt et correspondent aux prix en cours à la date d’envoi; les prix ne comprennent 
+pas la TVA qui sera appliquée au taux en vigueur.
+ Devis
+ Tout devis reste soumis à réserve d’acceptation pendant une période de 30 jours suivant la date portée sur le devis. 
+Les devis ne sont considérés comme déﬁnitifs que lorsqu’ils sont donnés par écrit (les devis verbaux sont donnés 
+uniquement à titre indicatif).
+ Renvoi de marchandises
+ LES MARCHANDISES RETOURNEES NE SERONT PAS ACCEPTEES ET AUCUN REMBOURSEMENT NE SERA ACCORDE 
+SANS AUTORISATION ECRITE DE LEWMAR.
+ Une autorisation sera délivrée à l’acceptation du retour.
+ Tous les frais de retour des marchandises doivent être réglés d’avance.
+ Toutes les marchandises acceptées et renvoyées ultérieurement à nos magasins seront soumises à 15% de frais de 
+remise en stock. Les articles retournés en mauvais état ne seront pas remboursés dans leur totalité.
+ Les articles ou pièces fabriqués sur mesure ne peuvent pas être retournés.
+ Catalogues
+ Des catalogues, prospectus et manuels d’utilisation des produits LEWMAR seront expédiés par LEWMAR sur demande. 
+Les articles ﬁgurant dans les documents énumérés ci-dessus peuvent également être commandés à partir de notre 
+site Web.
+ Disponibilité
+ Les marchandises sont en vente chez votre chantier ou shipchandler local. Nous serons heureux de vous indiquer 
+l’adresse du fournisseur le plus proche de votre domicile.
+ Lewmar garantiza sus productos en uso normal como exentos de defectos en materiales y mano de obra por un período 
+de tres años a partir de la fecha de la compra por el comprador original, con sujeción a las condiciones, limitaciones y 
+excepciones indicadas a continuación. Cualquier pieza que se demuestre que es defectuosa en su uso normal durante 
+el dicho período de tres años será reparada o, a elección de Lewmar, sustituida por Lewmar.
+A  CONDICIONES Y LIMITACIONES
+i La responsabilidad de Lewmar se limitará a la reparación o sustitución de las mercancías o piezas defectuosas en sus 
+materiales o fabricación.
+ii La determinación de la adecuación del material para el uso que le pretende dar el comprador es responsabilidad única 
+del comprador y Lewmar no tendrá responsabilidad alguna respecto a tal adecuación.
+iii Lewmar no tendrá responsabilidad alguna por:
+a Averías, perdidas o daños debidas al uso de productos en aplicaciones para las que no fueron diseñados.
+b  Averías perdidas o daños debidas a la corrosión, degradación por rayos ultravioleta, desgaste normal o instalación 
+inadecuada.
+c  Averías perdidas o daños debidas a mantenimiento incorrecto.
+d  Averías perdidas o daños debidas a uso en condiciones que exceden las especiﬁcaciones de utilización del 
+producto.
+iv El producto sujeto a reclamación de garantía ha de enviarse a Lewmar para su examen a no ser que se acuerde de 
+otra manera por escrito por Lewmar.
+v Lewmar no será responsable de los gastos de transporte ni del trabajo de instalación correspondiente a cualquier 
+reclamación de garantía.
+vi El mantenimiento llevado a cabo por cualquiera que no sea un representante autorizado de Lewmar causará que la 
+presente garantía quede anulada a no ser que sea hecho de acuerdo con las directrices y normas de mano de obra 
+de Lewmar.
+vii Los productos Lewmar están destinados solamente para uso en aplicaciones marinas. Los compradores que pretendan 
+utilizarlos en cualquier otra aplicación deben consultarlo a Lewmar, y Lewmar no tendrá ninguna responsabilidad 
+surgida en una utilización no aprobada por Lewmar.
+B EXCEPCIONES
+ La garantía se limita a un periodo de un año a partir de la fecha de la compra en los casos siguientes:
+ • Propulsores de proa
+ • Motores eléctricos y equipo eléctrico
+ • Controles electrónicos
+ • Bombas, válvulas y actuadores hidráulicos
+ • Juntas de estanqueidad
+ • Productos usados en aplicaciones de competición tipo “Grand Prix”
+C  RESPONSABILIDAD
+i La responsabilidad de Lewmar bajo esta garantía excluye la aplicación de cualquier otra garantía o responsabilidad 
+(dentro de los limites permitidos por la ley). Particularmente (pero no exclusivamente):
+a Lewmar no será responsable de:
+ • Cualquier daño indirecto o consecuencia incluyendo (sin limitación) cualquier perdida de beneﬁcios previstos, 
+daño a la reputación o crédito, perdida de futuros negocios esperados, daños, costes o gastos pagaderos a terceras 
+partes o cualquier otra perdida.
+ • Cualquier daño a yates o su equipo.
+ • Muerte o lesiones a personas (excepto si son debidas a negligencia por parte de Lewmar).
+b Lewmar no otorga garantías en lo referente a la adecuación al propósito, uso, naturaleza, comerciabilidad o calidad 
+satisfactoria de los productos
+ii Cuando las leyes de un país no permitan la exclusión de una garantía, dicha garantía estará limitada a un año, si la 
+ley de tal país lo permite.
+D CLÁUSULA DE SEPARACIÓN
+ Si alguna cláusula de esta garantía es dada como invalida o no aplicable en todo o en parte por alguna autoridad 
+competente, la validez de la demás cláusulas y del resto de la cláusula en cuestión no se vera afectada.
+E Esta garantía le da a usted derechos legales especíﬁcos, y puede tener además otros derechos legales que varían de 
+un país a otro.
+ Cuando los productos son vendidos en el Reino Unido (UK) en una transacción de consumo los derechos del estatuto 
+del comprador no quedan afectados.
+ Lewmar Limited se reserva el derecho a cambiar el diseño y las especiﬁcaciones sin aviso previo.
+ *Esta garantía cubre todos los productos presentados en los catálogos de Lewmar a partir de 1992 comprados después 
+del 1 de Julio de 1992.
+ GARANTIA 
+ CONDICIONES GENERALES DE VENTA
+ Todas las ventas están sujetas a las condiciones generales de venta de Lewmar, disponibles en la oﬁcina principal de 
+Lewmar Marine Ltd en Havant (UK). La garantía precedente y las siguientes condiciones generales de venta son solo 
+una parte de las condiciones generales de venta de Lewmar.
+ Precios
+ Todos los precios quedan sujetos a cambio sin previo aviso debido a la ﬂuctuación de los costes de los materiales y 
+salarlos. Los precios se entienden por los materiales en nuestro almacén y serán los vigentes en la fecha del despacho 
+y no incluyen el IVA que se cargará según sea apropiado.
+ Presupuestos
+ Cualquier presupuesto queda sujeto a su aceptación antes de transcurridos 30 días a partir de la fecha del mismo. 
+Los presupuestos únicamente pueden considerarse en ﬁrme si se presentan por escrito (las estimaciones verbales 
+se hacen puramente con ﬁnes indicativos).
+ Devolución de mercancías
+ LAS MERCANCÍAS DEVUELTAS NO SERÁN ACEPTADAS NI ABONADAS A NO SER QUE LA DEVOLUCIÓN ESTÉ 
+AUTORIZADA POR ESCRITO POR LEWMAR.
+ Si se aprueba una devolución se emitirá una autorización.
+ Todos los gastos de transporte de las mercancías devueltas tienen que ser a portes pagados.
+ Todas las mercancías cuya devolución sea aceptada y que, consiguientemente sean devueltas a nuestros stocks 
+quedarán sujetas a un cargo del 15% por gastos reinserción en stock. Los artículos que se devuelvan deteriorados no 
+serán abonados por la totalidad de su valor.
+ Los artículos o piezas fabricados por encargo o según especiﬁcaciones del cliente no serán aceptados para 
+devolución.
+ Catálogos
+ Pueden obtenerse folletos de los productos dirigiéndose a Lewmar.
+ Disponibilidad
+ Nuestros productos se pueden obtener a través de astilleros y revendedores locales. Tendremos mucho gusto en 
+informarle de su proveedor Lewmar más cercano. 
+ Lewmar garanterar att företagets produkter i normalt bruk är fria från defekter med avseende på material och utförande 
+under en period av tre år från och med datum för inköp av den ursprungliga köparen med förbehåll för de villkor, 
+begränsningar och undantag enligt nedanstående förteckning. Någon del som visar sig vara defekt i normalt bruk 
+under denna treårsperiod kommer att repareras eller bytas ut av Lewmar.
+A VILLKOR OCH BEGRÄNSNINGAR.
+i Lewmars ansvarsskyldighet skal begränsas till reparation eller utbyte av de artiklar eller de delar som är bristfälliga 
+med avseende på material eller utförande.
+ii Att fastställa materialets lämplighet för den av köparen avsedda andvändningen är uteslutande köparens ansvar och 
+Lewmar skall inte ha någon ansvarsskyldighet med anknytning till sådan lämplighet.
+iii Lewmar skall inte på något sätt vara ansvarig för:
+a Bristfälligheter, förlust eller skada till följd av produkternas användning inom områden, som de inte är avsedda för.
+b Bristfälligheter, förlust eller skada till följd av korrosion, ultraviolett nedbrytning, förslitning eller felaktig installation.
+c Bristfälligheter, förlust eller skada till följd av felaktigt underhåll.
+d Bristfälligheter, förlust eller skada till följd av förhållanden som överskrider produktens prestandaspeciﬁkation.
+iv Produkt som är föremål för anspråk enligt garantin måste returernas till Lewmar för undersökning såvida ej annat 
+förfaringssätt skriftligen har medgivits av Lewmar.
+v Lewmar skall inte vara ansvarig för speditionsavgifter eller arbetskostnader för installation i samband med något anspråk 
+enligt garantin.
+vi Underhållsarbete av någon annan person eller ﬁrma än av Lewmars auktoriserade representanter gör denna garanti 
+ogiltig om detta arbete inte överensstämmer med Lewmars riktlinjer och normer för utförande.
+Vii    Lewmars produkter är ämnade för endast marint bruk. Kunder vilka har för avsikt att använda produkterna till annat 
+ändamål, måste söka råd från Lewmar och Lewmar kan aldrig belastas för användning som Lewmar inte har godkänt.   
+B UNDANTAG
+ Garantin begränsas till en period av ett år från inköpsdatum, för följande produkter:
+ • Bogpropellrar
+ • Elmotorer och elektrisk utrustning
+ • Elektroniska styranordningar
+ • Hydrauliska pumpar, ventiler och stäIldon
+ • Väderbeständiga förslutningar
+ • Produkter som används i “Grand Prix-tävlingar”
+C ANSVAR
+ Lewmar skall inte ansvara för:
+ • Någon indirekt förlust inklusive (utan begränsning) förväntade vinster, fördärvat rykte, eller goodwill, förlust av 
+framtida affärer, skador kostnader eller utgifter till tredje part eller någon annan indirekt kostnad
+ • Någon skada på farkost eller utrustning
+ • Dödsfall eller personlig skada (förutsatt att ej åsamkats av Lewmars försumlighet).
+ Det ﬁnns inga garantier i syfte på säljbarhet av något slag, uttryckligen eller antydd, och inga garantier skall göras 
+gällande enligt lag. Varaktigheten av sådana garantier som inte desto mindre görs gällande enligt lag till förmån för 
+konsumenten skall begränsas tiIl en period av ett år från och med nyinköp av användaren.  I vissa länder medges inte 
+begränsningar på hur länge en antydd garanti varar, varför ovanstående kanske inte gäller för Er.
+D DELNINGS KLAUSUL
+ Lewmar skall inte vara ansvarig för följdskador på segelbåtar, utrustning eller annan egendom eller personer till följd av 
+någon bristfällighet hos Lewmars utrustning. I vissa länder medges inte uteslutning eller begränsning av oförutsedda 
+skador eller följdskador, varför ovanstående uteslutning kanske inte gäller för Er.
+E Denna garanti ger Er bestämda laga rättigheter och Ni kan även ha andra laga rättigheter som kan avvika från land till 
+land.
+ Lewmar Marine Ltd. förbehåller sig rätten att ändra konstruktion och speciﬁkation utan förvarning.
+ LEWMARS BEGRÄNSADE GARANTI 
+ ALLMÄNNA FÖRSÄLJNINGS VILLKOR
+ Våra detaljerade försäljningsvillkor kan anskaffas från vårt inregistrerade kontor i Havant, England. Vid en pågående 
+reklamation under de gällande försäljnings villkoren från respektive part.  Om eventuell konﬂikt mellan dessa parter 
+skulle uppstå, gäller Lewmars generella försäljningsvillkor.
+ Priser
+ Samtliga priser underkastas förändringar utan förvarning till följd av ﬂuktuerande kostnader av material och arbetslöner. 
+Priserna är fritt från lager och är de som gäller vid datum  för avsändning och exklusive moms som kommer att debiteras 
+enligt gällande förordningar.
+ Offerter
+ Alla offerter avges med förbehåll för godtagande under en period om 30 dagar från och med offertdatum.  Offerter 
+kan endast betraktas som fasta offerter när de avlämnas skriftligen (muntliga beräkningar avges endast i angivande 
+syfte).
+ Returnering av varor
+ RETURNERADE VAROR KOMMER INTE ATT ACCEPTERAS ELLER KREDITERAS SÅVIDA INTE RETURNERINGEN 
+SKRIFTLIGEN ÄR BEMYNDIGAD AV LEWMAR.
+ Ett bemyndigande kommer att utfärdas vid godkännande av returneringen.
+ Alla transportkostnader på returnerade varor måste vara förutbetalda.
+ Alla returvaror som accepterats och som därefter returernas till vårt lager blir föremål för en återlagringsavgift av 15% 
+av varans pris. Artiklar som returernas i skadat skick kommer inte att krediteras till fullt värde.
+ Specialtillverkade artiklar eller delar kommer inte att accepteras för returnering.
+ Kataloger
+ Produktbroschyrer kan anskaffas från Lewmar på begäran. Dessa kan dessutom beställas över vår Hemsida på 
+Internet.
+ Tillgänglighet
+ Varor kan anskaffas från Er lokala båtbyggare eller, återförsäljare av båtutrustning.
+ 
+ Lewmar warrants its products in normal usage to be free of defects in materials and workmanship for a period of three 
+years from date of purchase by the original purchaser, subject to the conditions, limitations and exceptions listed 
+below. Any part, which proves to be defective in normal usage during that three-year period, will be repaired or at 
+Lewmar’s option, replaced by Lewmar.
+A CONDITIONS AND LIMITATIONS
+i Lewmar’s liability shall be limited to repair or replacement of the goods or parts defective in materials or 
+workmanship.
+ii Determination of the suitability of the material for the use contemplated by the buyer is the sole responsibility of the 
+buyer and Lewmar shall have no responsibility in connection with such suitability.
+iii Lewmar shall not be liable in any way for:
+a Failures, loss or damage due to use of products in applications for which they are not intended.
+b Failures, loss or damage due to corrosion, ultra violet degradation, wear and tear or improper installation.
+c Failures, loss or damage due to incorrect maintenance.
+d Failures, loss or damage due to conditions that exceed the product’s performance speciﬁcations.
+iv Product subject to warranty claim must be returned to Lewmar for examination unless otherwise agreed by Lewmar in 
+writing.
+v Lewmar shall not be responsible for shipping charges nor installation labour associated with any warranty claim.
+vi Service by anyone other than authorised Lewmar representatives shall void this warranty unless it accords with Lewmar 
+guidelines and standards of workmanship.
+Vii Lewmar’s products are intended for use only for marine purposes. Buyers intending to use them for any other purpose 
+should seek advice from Lewmar, and Lewmar shall be under no liability arising from use, which Lewmar has not 
+approved.
+B  EXCEPTIONS
+ Warranty is limited to a period of one year from the date of purchase in the case of the following:
+ • Bow thrusters
+ • Electric motors and electrical equipment
+ • Electronic controls
+ • Hydraulic pumps, valves and actuators
+ • Weather seals
+ • Products used in “Grand Prix” racing applications
+C LIABILITY
+i Lewmar’s liability under this warranty shall be to the exclusion of all other warranties or liabilities (to the extent permitted 
+by law). In particular (but without limitation):
+a Lewmar shall not be liable for:
+ • Any indirect or consequential loss including (without limitation) any loss of anticipated proﬁts, damage to reputation 
+or goodwill, loss of expected future business, damages, costs or expenses payable to any third party or any other indirect 
+losses.
+ • Any damage to yachts or equipment.
+ • Death or personal Injury (unless caused by Lewmar’s negligence).
+b Lewmar grants no warranties regarding the ﬁtness for purpose, use, nature or satisfactory quality of the goods.
+ii Where the laws of the country do not permit a warranty to be excluded, then such warranty, if permitted by that country’s 
+law, shall be limited to a period of one year.
+D SEVERANCE CLAUSE
+ If any clause of these warranties is held by any competent authority to be invalid or unenforceable in whole or in part 
+of the validity of the other clauses of this warranty and the remainder of the clause in question shall not be affected.
+E This warranty gives you speciﬁc legal rights, and you may also have other legal rights, which vary, from country to 
+country.
+ Where the products are sold in the UK under a consumer transaction, the buyer’s statutory rights are not affected
+ Lewmar Limited reserves the right to alter design and speciﬁcation without prior notice.
+ TERMS AND CONDITIONS OF SALE
+ All sales are subject to Lewmar’s General Terms and Conditions of Sale, which can be obtained from Lewmar Limited 
+Head Ofﬁce in Havant. The foregoing warranty and the following General Conditions of Sale form part only of, but 
+also supplement, Lewmar’s General Terms and Conditions of Sale.  In the event of any conﬂict between the foregoing 
+warranty and the following General Conditions of Sale on the one hand and Lewmar’s full General Terms and Conditions 
+of Sale on the other, Lewmar’s full General Terms and Conditions of Sale shall prevail.
+ Prices
+ All prices are subject to change without prior notice due to the ﬂuctuating costs of materials and wages. Prices are 
+ex-warehouse and are those ruling at the date of despatch and exclude VAT, which will be charged as appropriate.
+ Quotations
+ Any quotation is open for acceptance for a period of 30 days from the date of quotation. Quotations can only be 
+regarded as ﬁrm when they are put in writing. (Verbal estimates are made purely for indicative purposes.)
+ Return of goods
+ RETURNED GOODS WILL NOT BE ACCEPTED NOR CREDIT ISSUED UNLESS THE RETURN IS AUTHORISED BY 
+LEWMAR IN WRITING.
+ An authorisation will be issued on approval of return.
+ All carriage charges on returned goods must be prepaid. 
+ All returned goods accepted and subsequently returned to our stock will be subject to a 15% restocking charge.
+ Items returned in a damaged condition will not be credited at full value.
+ Custom fabricated items or parts will not be accepted for return.
+ Catalogues
+ Sales literature and product manuals are available from Lewmar on request.  These items can also be ordered from 
+our Web site.
+ Availability
+ Goods can be obtained from your local boat builder or chandler. We will be pleased to inform you of your nearest 
+supplier.
+ LEWMAR  WARRANTY NOTES
+Produced by T. Connell UK (+44) 023 9263 9265  Ref:T1725/07/2004
+www.lewmar.com
+© Copyright 2004 Lewmar Ltd. All rights reserved.
+B10401

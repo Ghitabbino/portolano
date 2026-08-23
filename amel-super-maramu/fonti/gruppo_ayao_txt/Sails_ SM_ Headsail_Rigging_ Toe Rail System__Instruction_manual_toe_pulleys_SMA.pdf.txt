@@ -1,0 +1,88 @@
+Old toe pulley
+Upper sleeve & stop pin
+Safety pin at rod bottom
+ANCELLE
+ba@ancelle.net
+2018 December 13
+Instruction manual
+Replacement of toe pulleys kit
+Super Maramu Amel
+V 0.99
+Introduction
+The replacement of toe pulleys is made in 4 phases :
+- disassembly of current pulleys,
+- cleaning of the rod, bearings and sleeves,
+- screewing of the new pulley on the rod, and
+- setting up of the rod with pulley.
+Disassembly of a current pulley
+The first step of the replacement is the disassembly of old pulleys with care about the
+stainless steel rod (axis of rotation).
+Disassembly of the rod and pulley assembly on the boat :
+- loosen the rope and undo the knot of the rope,
+-remove the safety pin at the bottom of the rod under the pulley,
+-pull back the upper stop pin and at the same time raise the rod assembly just a little in order to get
+the bottom of the rod out of the bottom bearing,
+- remove the upper plastic sleeve,
+- go down the rod with pulley through the hole of the stainless upper tube and at the same time tilt the
+rod-pulley assembly (out of the bottom bearing).
+1 /  4
+Bottom view
+ Side view
+Screws cuttings
+Corrosion misshaped rod
+Top and bottom plastic sleeves are normally hard to remove, but pay attention not to lose or damage
+them.
+Disassembly of the pulley
+Now is the next step to pull apart the pulley from the rod. Due to the corrosion of the aluminum pulley
+the best way is to cut the stainless assembly screws from the middle of the groove.
+Be careful not to cut the stainless rod !
+Use an electric grinder with a thin disk for metal on an holder to do precise cuts, parallel to the top of
+the pulley.
+Depending of the strength of the pulley and the “corrosion gluing” you can have to cut the groove
+almost up to the stainless rod !
+If the stainless rod is misshaped by the corrosion, use a plain stainless
+steel rod of diameter just below the rod hole diameter to reshape it
+with a hammer before continuing.
+Normally the pulley breaks apart when screws are cut. But the stainless rod can be
+misshaped and disassembly difficult.
+On the test boat one pulley breaks in 6 parts as soon as the 3d screw was cut.
+The other pulley was severely corroded but remained glued to the rod by the corrosion
+: a larger area had to be cut. 
+Don’t hesitate at using a ball bearing puller tool, but pay attention to not bend the rod.
+2 /  4
+Rods ready to reassemble
+Prototype assembly
+Screws perpendicular to pulley
+Clean carefully all pieces, paying attention to the soft plastic parts and to traces of corrosion on all
+parts.
+The whole traces of corrosion must have disappeared.
+Assembly of the new pulley
+The assembly uses the opposite path :
+- first assemble the pulley on the rod and
+- next put back the rod in its bearings.
+Assembly of the pulley on the rod :
+- put the pulley on the bottom of the stainless rod,
+- put the 3 screws paying attention to put the screws perpendicular to the pulley and
+- tighten the screws (torque not more than 1 mN).
+Do not hesitate at using general purpose threadlocker of medium bond strength.
+Assembly of the rod on boat :
+- grease bottom and upper sleeves before putting the rod,
+- tilt the rod and put its upper part into the upper sleeve from below (with the stop pin pulled),
+- raise the rod above the upper sleeve,
+- lower the rod when putting the bottom end into the bottom sleeve,
+- check the clearance of the rod in the sleeves and its free rotation and
+- put the safety pin on the rod hole at its bottom end.
+3 /  4
+Rod fitted with grease
+Upper bearing
+Safety pin hole
+Prototype on boat
+The assembly looks like this picture :
+Next reassemble the rope in the groove and make the knot on the trolley.
+Enjoy.
+Troubleshootings
+In case of troubleshootings mails can be sent to ba@ancelle.net with details and pictures.
+Content of the kit
+2 toe pulleys
+6 stainless steel screws
+4 /  4

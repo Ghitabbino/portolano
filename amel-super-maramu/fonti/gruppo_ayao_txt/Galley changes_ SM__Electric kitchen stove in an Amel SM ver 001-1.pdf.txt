@@ -1,0 +1,53 @@
+Installing electric stove in an Amel Super Maramu
+On Lady Annila (SM 232) we have had an ENO stove, propane driven, that have served us well 
+over the years. When it was time to change we started to think about leaving propane and going 
+electric. There are different options for doing this and also the question if one want to make 
+adjustments to the space designated for the stove. On the Super Maramu this space is less wide than
+on Super Maramu 2000 with the big Eno stove.
+After going through the market, actors offering electric stoves, we soon found that combining our 
+demands to the market offering met some problems. We where looking for Induction cook top and a
+convection oven. We found that this combination was hard to find but changing to ceramic cooking 
+top changed the situation. But, been cooking food on a propane stove going over to ceramic cooking
+top was not the preferred choice.
+So, we decided to design a stainless steel box that would contain both the cooking top and the 
+convection oven with a design to evacuate hot air aft of the unit and see to that the fresh air intake 
+was less compromised by hot air. The size of the box is slightly wider and higher than the old ENO 
+stove.
+
+In parallel we started to look for separate units for cooking top and convection oven. Induction 
+cooking top are getting more common and our choice at the end was Kenyon Silken 2 induction 
+cook top (www.cookingwithkenyon.com ) design for out door kitchen use. To find a convection 
+oven was far harder, our choice at the end was a unit from German producer Steba, KB E350, a 
+table top model that was very well insulated (www.steba.com). 
+What we looked for outside the above demands was that the units worked with AC 220v/60Hz, the 
+European standard, energy efficiency, and well insulated oven to avoid unnecessary heat going 
+outside the unit and of course fitted in the stainless steel box.
+What about power demands? 
+The stoves maximum consumption is 3400W which made us choose an inverter providing 4000W. 
+We decided to upgrade our charging system and solar panels to latest version. The charging system 
+is delivered by Swiss producer Studer and the solar panels from Sun Power (366w/panel, 96 cell, 
+60v and efficiency around 22-23%) with the moderate size of 1m*1.5m. In total we have 3 panels 
+on our arch and 2 panels on the fixed roof over the cockpit.
+We decided to wait updating our battery bank so the present bank of 8 Trojan 6v 225Ah Golf Cart 
+batteries would serve over the first season.
+Put it in place
+Installing the new stove was a plug and play process. The propane connection was disconnected, the
+old wall mat was taken away and a thins metal film was glued in place replacing the mat. On the 
+sides small squares where glued to protect the Mahogany sides from over heating. Using the same 
+holes for hanging the unit worked perfectly.
+
+Our experience after 2 months sailing and only being on anchor
+ The change has worked far better than expected, much less heat in the kitchen (due to induction 
+cook top and well insulated oven), far less power consumption than expected and last but not least 
+the greasy surface that always was the case around the old stove is gone. 
+What about power consumption, we used our diesel generator for a total of 1.5 hours during this test
+period meaning all power came from the solar panels and the old battery bank. Did we do any 
+change in our cooking habits, the only one was that we started cooking dinner a little earlier to 
+make us of the solar panels when cooking. 
+Would we recommend this change, absolutely. We found the Steba oven working very well and did 
+not experience any problems with warm sides. This was tested during a cooking session over in 
+total 2 hours use of both cooking top and oven.
+Do you have to have as much solar panel capacity as we have? No, you have your diesel generator 
+(Onan) that happily will provide you with the needed power. We use the extra power to manage 
+power to our warm water heater and water maker which leave us to run the Onan when we use the 
+washing machine or the dishwasher.

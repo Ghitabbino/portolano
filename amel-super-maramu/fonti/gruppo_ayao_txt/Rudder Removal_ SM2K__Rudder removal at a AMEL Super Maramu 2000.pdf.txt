@@ -1,0 +1,525 @@
+                                                                                       
+ 
+Date :  Monday, 13 April 2020                                                                                                                                                                      
+Last saved by:  Olaf Bauer | External Miltenyi Biotec                Filename:  Rudder removal from a AMEL Super 
+Maramu 2000.docx 
+© Olaf Bauer, olaf.bauer@gmx.ch  Site 1 of 33 
+ 
+ 
+ 
+ 
+ 
+Rudder removal from an  
+AMEL Super Maramu 2000 
+  
+                                                                                       
+ 
+Date :  Monday, 13 April 2020                                                                                                                                                                      
+Last saved by:  Olaf Bauer | External Miltenyi Biotec                Filename:  Rudder removal from a AMEL Super 
+Maramu 2000.docx 
+© Olaf Bauer, olaf.bauer@gmx.ch  Site 2 of 33 
+CONTENT 
+ FIGURES 3 
+ AS-IS SITUATION 5 
+ PREPARATION FOR RUDDER REMOVAL 7 
+3.1  OUTSIDE PREPARATION  7 
+3.1.1 S TARBOARD SIDE  7 
+3.1.2 P ORT SIDE  9 
+3.2  INSIDE PREPARATION  10  
+ RUDDER REMOVAL 10 
+4.1  OUTSIDE  10  
+4.2  INSIDE  16  
+ THE REPAIR 18  
+ PAINTING 20  
+ RE-INSTALLATION 21  
+7.1  OUTSIDE  21  
+7.2  INSIDE  30  
+ FINAL WORK 31  
+ 
+  
+                                                                                       
+ 
+Date :  Monday, 13 April 2020                                                                                                                                                                      
+Last saved by:  Olaf Bauer | External Miltenyi Biotec                Filename:  Rudder removal from a AMEL Super 
+Maramu 2000.docx 
+© Olaf Bauer, olaf.bauer@gmx.ch  Site 3 of 33 
+ 
+ FIGURES  
+Figure 1 - Cracks in the rudder at the bottom on starboard side ........................................................... 5 
+Figure 2 - Cracks in the rudder at the bottom on port side .................................................................... 6 
+Figure 3 - Cracks in the rudder at the bottom on starboard side which could be easily opened with a 
+srew driver ............................................................................................................................................... 6 
+Figure 4 - Stainless steel pintle bearing (middle and bottom) of starboard side .................................... 7 
+Figure 5 - Bottom bearing with welded wire on the mounting bolt ....................................................... 8 
+Figure 6 - Stainless steel pintle bearing (middle and bottom) of port side ............................................. 9 
+Figure 7 - The quadrant in the aft cabine which has to release from the top shaft ............................. 10 
+Figure 8 - Small bolts at the U-shaped middle bearing stainless steel stripe ....................................... 11 
+Figure 9 - Support the rudder with wooden blocks and a vehicle jack ................................................. 11 
+Figure 10 - The opened up U-shaped middle bearing stainless steel stripe ......................................... 12 
+Figure 11 - Removing the rudder carefully ............................................................................................ 13 
+Figure 12 - The removed rudder. Ready for detailed inspection/examination .................................... 14 
+Figure 13 - Removed rudder with the bottom mounting and the wire with welded bolt .................... 15 
+Figure 14 - Super Maramu 2000 Redline w/o rudder ........................................................................... 15 
+Figure 15 - The removed quadrant and the nylon nut .......................................................................... 16 
+Figure 16 - Counter plate which has to unscrew first to remove the nylon nut ................................... 16 
+Figure 17 - I borrowed this wrench from a worker at the boatyard to unscrew the nylon nut. Later I 
+received the AMEL tool for re-installing the nut. .................................................................................. 17 
+Figure 18 - AMEL tool for the nylon nut ................................................................................................ 17 
+Figure 19 - Removed counter part, nylon nut and shaft packing .......................................................... 18 
+Figure 20 - The rudder cleaned down to sane material (bottom with major cracks) ........................... 19 
+Figure 21 - The rudder cleaned down to sane material ........................................................................ 19 
+Figure 22 - The repaired rudder with first layer of epoxy primer ......................................................... 20 
+Figure 23 - The wooden block is in position for re-installation ............................................................. 21 
+Figure 24 - Bring the rudder on the wooden block ............................................................................... 22 
+Figure 25 - Bottom mounting bearing at the bottom of the rudder shaft ............................................ 23 
+Figure 26 - Vehicle jack between the wooden blocks ........................................................................... 24 
+Figure 27 - Applied sealant at the bearing areas................................................................................... 25 
+Figure 28 - Liftung up the rudder in its final position ............................................................................ 26 
+                                                                                       
+ 
+Date :  Monday, 13 April 2020                                                                                                                                                                      
+Last saved by:  Olaf Bauer | External Miltenyi Biotec                Filename:  Rudder removal from a AMEL Super 
+Maramu 2000.docx 
+© Olaf Bauer, olaf.bauer@gmx.ch  Site 4 of 33 
+Figure 29 - U-shaped middle bearing stainless steel stripe Squeezed with wooden planks ................ 27 
+Figure 30 - Installed bolts for the bearings ........................................................................................... 28 
+Figure 31 - The re-installed rudder ........................................................................................................ 29 
+Figure 32 - The re-installed rudder ........................................................................................................ 30 
+Figure 33 - The packing has to cut at an angle ...................................................................................... 30 
+Figure 34 – The three shaft packings has to insert into place like above ............................................. 31 
+Figure 35 - First layer of Epoxy primer on starboard side ..................................................................... 32 
+Figure 36 - First layer of Epoxy primer on port side .............................................................................. 32 
+Figure 37 - One layer of fiberglas matts on starboard side ................................................................... 33 
+Figure 38 - One layer of fiberglas matts on starboard side ................................................................... 33 
+ 
+ 
+ 
+                                                                                       
+ 
+Date :  Monday, 13 April 2020                                                                                                                                                                      
+Last saved by:  Olaf Bauer | External Miltenyi Biotec                Filename:  Rudder removal from a AMEL Super 
+Maramu 2000.docx 
+© Olaf Bauer, olaf.bauer@gmx.ch  Site 5 of 33 
+ AS-IS SITUATION  
+After sanding down the old antifouling I noticed that the rudder had some cracks at the bottom 
+mounting.  
+I discussed that with the AMEL forum, with an AMEL surveyor and also AMEL directly.  
+The answers were different: from “it is not necessary to repair”, “we sailed with those cracks 
+30,000NM and nothing happened” to “it has to be repaired”. I decided to repair these cracks because 
+the rudder is one of the most important things aboard for safety.  
+Cracks in the rudder at the lower mounting at the starboard site which are going around to the port 
+side:  
+ 
+Figure 1 - Cracks in the rudder at the bottom on starboard side 
+  
+
+                                                                                       
+ 
+Date :  Monday, 13 April 2020                                                                                                                                                                      
+Last saved by:  Olaf Bauer | External Miltenyi Biotec                Filename:  Rudder removal from a AMEL Super 
+Maramu 2000.docx 
+© Olaf Bauer, olaf.bauer@gmx.ch  Site 6 of 33 
+The cracks on the port side:  
+ 
+Figure 2 - Cracks in the rudder at the bottom on port side 
+ 
+ 
+Figure 3 - Cracks in the rudder at the bottom on starboard side which could be easily opened with a srew driver 
+ 
+
+                                                                                       
+ 
+Date :  Monday, 13 April 2020                                                                                                                                                                      
+Last saved by:  Olaf Bauer | External Miltenyi Biotec                Filename:  Rudder removal from a AMEL Super 
+Maramu 2000.docx 
+© Olaf Bauer, olaf.bauer@gmx.ch  Site 7 of 33 
+ PREPARATION FOR RUDDER REMOVAL  
+3.1  OUTSIDE PREPARATION  
+3.1.1  STARBOARD SIDE 
+Sand / grind down the GRP where the stainless steel pintle bearing (bottom) and intermediate 
+bearing are bolted through. Be careful when you reach the screws not to sand them down.  
+To uncover the wire between the middle and lower mounting I used a ripping chisel and hammer:  
+ 
+Figure 4 - Stainless steel pintle bearing (middle and bottom) of starboard side  
+Notice that the wire is welded at the screw (of the lower mouting). Do not cut it, remove it complete 
+(the wire with the screw):  
+
+                                                                                       
+ 
+Date :  Monday, 13 April 2020                                                                                                                                                                      
+Last saved by:  Olaf Bauer | External Miltenyi Biotec                Filename:  Rudder removal from a AMEL Super 
+Maramu 2000.docx 
+© Olaf Bauer, olaf.bauer@gmx.ch  Site 8 of 33 
+ 
+Figure 5 - Bottom bearing with welded wire on the mounting bolt  
+  
+
+                                                                                       
+ 
+Date :  Monday, 13 April 2020                                                                                                                                                                      
+Last saved by:  Olaf Bauer | External Miltenyi Biotec                Filename:  Rudder removal from a AMEL Super 
+Maramu 2000.docx 
+© Olaf Bauer, olaf.bauer@gmx.ch  Site 9 of 33 
+3.1.2  PORT SIDE 
+Sand/grind down the surface until you see the mountings on the port side of the skeg:  
+ 
+Figure 6 - Stainless steel pintle bearing (middle and bottom) of port side 
+ 
+  
+
+                                                                                       
+ 
+Date :  Monday, 13 April 2020                                                                                                                                                                      
+Last saved by:  Olaf Bauer | External Miltenyi Biotec                Filename:  Rudder removal from a AMEL Super 
+Maramu 2000.docx 
+© Olaf Bauer, olaf.bauer@gmx.ch  Site 10 of 33 
+3.2  INSIDE PREPARATION 
+In the aft cabine remove the bolts and release the quadrant to release it from the shaft. It is not 
+necessary to unscrew the grounding cable (yellow/green) linking to copper plate:  
+ 
+Figure 7 - The quadrant in the aft cabine which has to release from the top shaft  
+ RUDDER REMOVAL  
+4.1  OUTSIDE  
+To remove and handle the rudder easily you need as minimum 2 strong people, better would be 
+three. All positioned outside. Inside no one is required but you can positioning an additionall person 
+inside.  
+Be sure that you have enough space between the rudder and the ground to allow the rudder slipping 
+down. You need as minimum ca. 60cm clearance between the rudder and the ground.  
+Support the rudder with wooden blocks and a vehicle jack.  
+Remove all bolts of the middle and the bottom bearing.  
+You need to open up the U-shaped middle bearing stainless steel stripe (see “Figure 10 - The 
+opened up U-shaped middle bearing stainless steel stripe”). For that you have to unscrew the small 
+bolts.  
+ 
+
+                                                                                       
+ 
+Date :  Monday, 13 April 2020                                                                                                                                                                      
+Last saved by:  Olaf Bauer | External Miltenyi Biotec                Filename:  Rudder removal from a AMEL Super 
+Maramu 2000.docx 
+© Olaf Bauer, olaf.bauer@gmx.ch  Site 11 of 33 
+ 
+Figure 8 - Small bolts at the U-shaped middle bearing stainless steel stripe 
+ 
+Then slowly drop down the rudder blade with the vehicle jack. Be sure that the rudder drop down 
+w/o changing the angle/cranking the rudder until it is complete removed and you see the top of the 
+shaft.  
+ 
+Figure 9 - Support the rudder with wooden blocks and a vehicle jack 
+
+                                                                                       
+ 
+Date :  Monday, 13 April 2020                                                                                                                                                                      
+Last saved by:  Olaf Bauer | External Miltenyi Biotec                Filename:  Rudder removal from a AMEL Super 
+Maramu 2000.docx 
+© Olaf Bauer, olaf.bauer@gmx.ch  Site 12 of 33 
+ 
+ 
+Figure 10 - The open ed up U-shaped middle bearing stainless steel stripe 
+ 
+Lay down the rudder on a pallet of some wooden blocks. Now it is ready to inspect, check for more 
+cracks, bubbles in the GRP and/or  faulty repairs etc.  
+I also used the chance to check if between the zink anodes mountings on port and starboard side and 
+the bottom shaft is electrical flow. You should do that as-well to be sure that nothing of the inside 
+connections brokes.  
+Also use the chance to inspect the skeg if there are also any cracks, faulty repairs etc. 
+ 
+
+                                                                                       
+ 
+Date :  Monday, 13 April 2020                                                                                                                                                                      
+Last saved by:  Olaf Bauer | External Miltenyi Biotec                Filename:  Rudder removal from a AMEL Super 
+Maramu 2000.docx 
+© Olaf Bauer, olaf.bauer@gmx.ch  Site 13 of 33 
+ 
+Figure 11 - Removing the rudder carefully 
+
+                                                                                       
+ 
+Date :  Monday, 13 April 2020                                                                                                                                                                      
+Last saved by:  Olaf Bauer | External Miltenyi Biotec                Filename:  Rudder removal from a AMEL Super 
+Maramu 2000.docx 
+© Olaf Bauer, olaf.bauer@gmx.ch  Site 14 of 33 
+ 
+Figure 12 - The removed rudder. Ready for detailed inspection/examination 
+
+                                                                                       
+ 
+Date :  Monday, 13 April 2020                                                                                                                                                                      
+Last saved by:  Olaf Bauer | External Miltenyi Biotec                Filename:  Rudder removal from a AMEL Super 
+Maramu 2000.docx 
+© Olaf Bauer, olaf.bauer@gmx.ch  Site 15 of 33 
+ 
+Figure 13 - Removed rudder with the bottom mounting and the wire with welded bolt 
+ 
+Figure 14 - Super Maramu 2000 Redline w/o rudder 
+
+                                                                                       
+ 
+Date :  Monday, 13 April 2020                                                                                                                                                                      
+Last saved by:  Olaf Bauer | External Miltenyi Biotec                Filename:  Rudder removal from a AMEL Super 
+Maramu 2000.docx 
+© Olaf Bauer, olaf.bauer@gmx.ch  Site 16 of 33 
+ 
+4.2  INSIDE  
+Under the quadrant is the nylon nut which has to unscrew. For that you have to unscrew the counter 
+plate (see Figure 16 - Counter plate which has to unscrew first to remove the nylon nut). This counter 
+plate at the nut is to stop it from turning and remove it. 
+Under the nylon nut you will find 3 layers of packing for sealing. I took the chance to renew the shaft 
+packing (see chapter 7.2 “inside ”).  
+ 
+Figure 15 - The removed quadrant and the nylon nut 
+ 
+ 
+Figure 16 - Counter plate which has to unscrew first to remove the nylon nut 
+
+                                                                                       
+ 
+Date :  Monday, 13 April 2020                                                                                                                                                                      
+Last saved by:  Olaf Bauer | External Miltenyi Biotec                Filename:  Rudder removal from a AMEL Super 
+Maramu 2000.docx 
+© Olaf Bauer, olaf.bauer@gmx.ch  Site 17 of 33 
+ 
+ 
+Figure 17 - I borrowed this wrench from a worker at the boatyard to unscrew the nylon nut. Later I received the AMEL 
+tool for re-installing the nut.  
+ 
+ 
+Figure 18 - AMEL tool for the nylon nut  
+ 
+
+                                                                                       
+ 
+Date :  Monday, 13 April 2020                                                                                                                                                                      
+Last saved by:  Olaf Bauer | External Miltenyi Biotec                Filename:  Rudder removal from a AMEL Super 
+Maramu 2000.docx 
+© Olaf Bauer, olaf.bauer@gmx.ch  Site 18 of 33 
+ 
+Figure 19 - Removed counter part, nylon nut and shaft packing  
+ THE REPAIR  
+Do all necessary repairs using proper methods: clean down to sane material, rebuild using resin fiber 
+cloth before protecting.  
+My rudder was repaired by a professional company.  
+When sanding down to sane material the repair shop found out that the rudder had some bubbles in 
+the GRP. They must be from the initial building.  
+They used two layers of Biax fiberglass. One big layer for both sides. The layers were not cut in the 
+front of the rudder: each fiberglass layer was placed around in the front of the rudder.  
+ 
+
+                                                                                       
+ 
+Date :  Monday, 13 April 2020                                                                                                                                                                      
+Last saved by:  Olaf Bauer | External Miltenyi Biotec                Filename:  Rudder removal from a AMEL Super 
+Maramu 2000.docx 
+© Olaf Bauer, olaf.bauer@gmx.ch  Site 19 of 33 
+ 
+Figure 20 - The rudder cleaned down to sane material (bottom with major cracks) 
+ 
+ 
+Figure 21 - The rudder cleaned down to sane material  
+ 
+
+                                                                                       
+ 
+Date :  Monday, 13 April 2020                                                                                                                                                                      
+Last saved by:  Olaf Bauer | External Miltenyi Biotec                Filename:  Rudder removal from a AMEL Super 
+Maramu 2000.docx 
+© Olaf Bauer, olaf.bauer@gmx.ch  Site 20 of 33 
+ 
+Figure 22 - The repaired rudder with first layer of epoxy primer 
+ PAINTING  
+Before replacing back the rudder you should take the chance to paint as minimum all areas where 
+you cannot reach when the rudder is reinstalled, i.e. the skeg where the front part of the rudder will 
+cover it, the front side of rudder itself.   
+I painted the complete skeg (w/o the area which you have to laminate back) with 3 layers of epoxy 
+primer and than one layer of antifouling.  
+I also organized a spray gun to spray epoxy primer into the rudder to protect the repaired areas 
+inside. For that I used the holes in the top and bottom and the both holes for the zink anodes (port 
+and starboard side).  
+ 
+
+                                                                                       
+ 
+Date :  Monday, 13 April 2020                                                                                                                                                                      
+Last saved by:  Olaf Bauer | External Miltenyi Biotec                Filename:  Rudder removal from a AMEL Super 
+Maramu 2000.docx 
+© Olaf Bauer, olaf.bauer@gmx.ch  Site 21 of 33 
+ 
+ RE-INSTALLATION  
+7.1  OUTSIDE  
+And now all the way back…  
+Bring back the wooden blocks in their position to support the rudder. You need again as minimum 2 
+strong guys, better would be 3 guys.  
+ 
+Figure 23 - The wooden block is in position for re-installation  
+
+                                                                                       
+ 
+Date :  Monday, 13 April 2020                                                                                                                                                                      
+Last saved by:  Olaf Bauer | External Miltenyi Biotec                Filename:  Rudder removal from a AMEL Super 
+Maramu 2000.docx 
+© Olaf Bauer, olaf.bauer@gmx.ch  Site 22 of 33 
+ 
+Bring the rudder to the skeg and lay it on the wooden support. One person should hold the rudder all 
+the time.  
+ 
+Figure 24 - Bring the rudder on the wooden block 
+ 
+  
+
+                                                                                       
+ 
+Date :  Monday, 13 April 2020                                                                                                                                                                      
+Last saved by:  Olaf Bauer | External Miltenyi Biotec                Filename:  Rudder removal from a AMEL Super 
+Maramu 2000.docx 
+© Olaf Bauer, olaf.bauer@gmx.ch  Site 23 of 33 
+Put the stainless steel mounting block back in place at the bottom of the shaft.  
+ 
+Figure 25 - Bottom mounting bearing at the bottom of the rudder shaft 
+ 
+  
+
+                                                                                       
+ 
+Date :  Monday, 13 April 2020                                                                                                                                                                      
+Last saved by:  Olaf Bauer | External Miltenyi Biotec                Filename:  Rudder removal from a AMEL Super 
+Maramu 2000.docx 
+© Olaf Bauer, olaf.bauer@gmx.ch  Site 24 of 33 
+Put the vehicle jack between the wooden blocks.  
+ 
+Figure 26 - Vehicle jack between the wooden blocks 
+ 
+  
+
+                                                                                       
+ 
+Date :  Monday, 13 April 2020                                                                                                                                                                      
+Last saved by:  Olaf Bauer | External Miltenyi Biotec                Filename:  Rudder removal from a AMEL Super 
+Maramu 2000.docx 
+© Olaf Bauer, olaf.bauer@gmx.ch  Site 25 of 33 
+Apply sealant at the areas where the stainless steel bearings has to mount. Use this sealant also for 
+the bolts.  
+ 
+Figure 27 - Applied sealant at the bearing areas  
+ 
+  
+
+                                                                                       
+ 
+Date :  Monday, 13 April 2020                                                                                                                                                                      
+Last saved by:  Olaf Bauer | External Miltenyi Biotec                Filename:  Rudder removal from a AMEL Super 
+Maramu 2000.docx 
+© Olaf Bauer, olaf.bauer@gmx.ch  Site 26 of 33 
+Lift up the rudder with the vehicle jack in its correct position.  
+ 
+Figure 28 - Liftung up the rudder in its final position  
+ 
+  
+
+                                                                                       
+ 
+Date :  Monday, 13 April 2020                                                                                                                                                                      
+Last saved by:  Olaf Bauer | External Miltenyi Biotec                Filename:  Rudder removal from a AMEL Super 
+Maramu 2000.docx 
+© Olaf Bauer, olaf.bauer@gmx.ch  Site 27 of 33 
+The opened U-shaped middle bearing stainless steel stripe has to squeeze so that it is possible to 
+mount with the bolts. We used long wooden planks tied at each ends together.  
+ 
+Figure 29 - U-shaped middle bearing stainless steel stripe Squeezed with wooden planks 
+ 
+  
+
+                                                                                       
+ 
+Date :  Monday, 13 April 2020                                                                                                                                                                      
+Last saved by:  Olaf Bauer | External Miltenyi Biotec                Filename:  Rudder removal from a AMEL Super 
+Maramu 2000.docx 
+© Olaf Bauer, olaf.bauer@gmx.ch  Site 28 of 33 
+Install the bolts back with marine sealant.  
+ 
+ 
+Figure 30 - Installed bolts for the bearings 
+ 
+  
+
+                                                                                       
+ 
+Date :  Monday, 13 April 2020                                                                                                                                                                      
+Last saved by:  Olaf Bauer | External Miltenyi Biotec                Filename:  Rudder removal from a AMEL Super 
+Maramu 2000.docx 
+© Olaf Bauer, olaf.bauer@gmx.ch  Site 29 of 33 
+Finally the rudder is re-installed.  
+ 
+Figure 31 - The re-installed rudder 
+ 
+
+                                                                                       
+ 
+Date :  Monday, 13 April 2020                                                                                                                                                                      
+Last saved by:  Olaf Bauer | External Miltenyi Biotec                Filename:  Rudder removal from a AMEL Super 
+Maramu 2000.docx 
+© Olaf Bauer, olaf.bauer@gmx.ch  Site 30 of 33 
+ 
+Figure 32 - The re-installed rudder 
+ 
+7.2  INSIDE  
+Also inside your have to re-install the sealant packing, the nylon nut and the quadrant.   
+ 
+For the shaft packing  I used 70cm of PTFE Flax shaft packing 5/16” which have to cut into three 
+pieces. Cut the corners at an angle for a better sealing. 
+I never remember the length of each part but you can use the old packings or the hole for 
+measurement.  
+When installing the new packing coat them with silicon grease.  
+ 
+Figure 33 - The packing has to cut at an angle 
+ 
+
+                                                                                       
+ 
+Date :  Monday, 13 April 2020                                                                                                                                                                      
+Last saved by:  Olaf Bauer | External Miltenyi Biotec                Filename:  Rudder removal from a AMEL Super 
+Maramu 2000.docx 
+© Olaf Bauer, olaf.bauer@gmx.ch  Site 31 of 33 
+When taking into place be sure that the cuts are as fare away from each other for better sealing: 
+ 
+Figure 34 – The three shaft packings has to insert into place like above  
+ 
+ 
+Screwing the nylon nut after each navigation until well tightened (but not too much!).  
+Check bolts on square section regularly, they could come unfastened with rudder motion if not 
+checked. 
+ 
+ FINAL WORK  
+The final work is to bring the open areas at the bearings and between in shape:  
+1.  First I used epoxy primer to fill the area of the bearings and the wire. Sand it down to nearly 
+the final shape.  
+2.  Then I overlayed the areas with a fiberglass mat and sanded as-well.  
+3.  Use the epoxy primer for a last final adjustment of the final shape.  
+4.  Paint it with epoxy primer and than with antifouling.  
+
+                                                                                       
+ 
+Date :  Monday, 13 April 2020                                                                                                                                                                      
+Last saved by:  Olaf Bauer | External Miltenyi Biotec                Filename:  Rudder removal from a AMEL Super 
+Maramu 2000.docx 
+© Olaf Bauer, olaf.bauer@gmx.ch  Site 32 of 33 
+ 
+Figure 35 - First layer of Epoxy primer on starboard side 
+ 
+ 
+Figure 36 - First layer of Epoxy primer on port side 
+ 
+
+                                                                                       
+ 
+Date :  Monday, 13 April 2020                                                                                                                                                                      
+Last saved by:  Olaf Bauer | External Miltenyi Biotec                Filename:  Rudder removal from a AMEL Super 
+Maramu 2000.docx 
+© Olaf Bauer, olaf.bauer@gmx.ch  Site 33 of 33 
+ 
+Figure 37 - One layer of fiberglas matts on starboard side  
+ 
+Figure 38 - One layer of fiberglas matts on starboard side  
+ 
+ 
+ 
