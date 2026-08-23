@@ -223,6 +223,7 @@ h1,h2,h3 { color:#fff; line-height:1.25; }
 h2 { border-bottom:1px solid var(--line); padding-bottom:6px; margin-top:34px; }
 .tw { overflow-x:auto; margin:14px 0; border-radius:8px; }
 .paesi-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(200px,1fr)); gap:12px; margin:14px 0; }
+.pcard { min-width:0; overflow-wrap:anywhere; }
 .pcard { border:1px solid var(--line); border-radius:10px; background:#101b26;
          padding:12px 10px; display:flex; flex-direction:column; align-items:center; gap:4px; }
 .pcard:hover { border-color:var(--accent); }
