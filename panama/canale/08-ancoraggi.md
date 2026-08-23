@@ -39,7 +39,7 @@
 
 ### Mappa generale degli ancoraggi
 
-<div class="mapframe" data-slug="panama-caribe" data-minz="10" data-maxz="12" data-lat="9.45" data-lon="-79.6" data-markers='[[8.912, -79.53, "Amador/Causeway", "anc-amador"], [9.3275, -79.9515, "Foce Chagres", "anc-chagres"], [8.622, -79.036, "Contadora", "anc-contadora"], [9.631, -79.564, "Isla Grande", "anc-isla-grande"], [9.5788, -79.5224, "Linton Bay", "anc-linton-bay"], [8.379, -78.976, "Pedro González", "anc-pedro-gonzalez"], [9.553, -79.652, "Portobelo", "anc-portobelo"], [9.463, -78.967, "San Telmo / Isla del Rey", "anc-san-telmo"], [9.358, -79.951, "Shelter Bay", "anc-shelter-bay"], [8.793, -79.553, "Taboga", "anc-taboga"]]'</div>
+<div class="mapframe" data-slug="panama-caribe" data-minz="7" data-maxz="13" data-lat="9.45" data-lon="-79.6" data-markers='[[8.912, -79.53, "Amador/Causeway", "anc-amador"], [9.3275, -79.9515, "Foce Chagres", "anc-chagres"], [8.622, -79.036, "Contadora", "anc-contadora"], [9.631, -79.564, "Isla Grande", "anc-isla-grande"], [9.5788, -79.5224, "Linton Bay", "anc-linton-bay"], [8.379, -78.976, "Pedro González", "anc-pedro-gonzalez"], [9.553, -79.652, "Portobelo", "anc-portobelo"], [9.463, -78.967, "San Telmo / Isla del Rey", "anc-san-telmo"], [9.358, -79.951, "Shelter Bay", "anc-shelter-bay"], [8.793, -79.553, "Taboga", "anc-taboga"]]'</div>
 
 
 ## Cartografia ufficiale

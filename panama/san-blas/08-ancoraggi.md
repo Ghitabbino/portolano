@@ -32,7 +32,7 @@
 
 ### Mappa generale degli ancoraggi
 
-<div class="mapframe" data-slug="san-blas" data-minz="10" data-maxz="12" data-lat="9.42" data-lon="-78.35" data-markers='[[9.3709, -78.2606, "Banedup (Holandeses)", "anc-banedup"], [9.3709, -78.2606, "Coco Bandero", "anc-coco-bandero"], [9.3417, -78.2967, "Dog Island", "anc-dog-island"], [9.3598, -78.2375, "Eastern Lemmons", "anc-eastern-lemons"], [9.3434, -78.3137, "Isla Perro", "anc-isla-perro"], [9.452, -78.5865, "Nargana / Río Sidra", "anc-nargana"], [9.3119, -78.2323, "Playón Chico / Ukupseni", "anc-playon-chico"], [9.559, -78.946, "Porvenir / Gaigirgordub", "anc-porvenir"], [9.367, -78.2567, "Salardup / Snug Harbour", "anc-salardup-snug"], [9.3249, -78.2361, "West Lemmons", "anc-west-lemons"]]'</div>
+<div class="mapframe" data-slug="san-blas" data-minz="7" data-maxz="13" data-lat="9.42" data-lon="-78.35" data-markers='[[9.3709, -78.2606, "Banedup (Holandeses)", "anc-banedup"], [9.3709, -78.2606, "Coco Bandero", "anc-coco-bandero"], [9.3417, -78.2967, "Dog Island", "anc-dog-island"], [9.3598, -78.2375, "Eastern Lemmons", "anc-eastern-lemons"], [9.3434, -78.3137, "Isla Perro", "anc-isla-perro"], [9.452, -78.5865, "Nargana / Río Sidra", "anc-nargana"], [9.3119, -78.2323, "Playón Chico / Ukupseni", "anc-playon-chico"], [9.559, -78.946, "Porvenir / Gaigirgordub", "anc-porvenir"], [9.367, -78.2567, "Salardup / Snug Harbour", "anc-salardup-snug"], [9.3249, -78.2361, "West Lemmons", "anc-west-lemons"]]'</div>
 
 
 ## Cartografia ufficiale
