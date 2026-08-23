@@ -2,6 +2,7 @@
 
 Valutazione: **4/5**
 
+⚠️ Furto dinghy documentato in baia (2024, non bloccato) — catena sempre
 Furtini da dinghy nelle baie frequentate: catene + oggetti al sicuro.
 
 | Emergenza | Numero |
