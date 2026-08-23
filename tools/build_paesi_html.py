@@ -131,7 +131,6 @@ def render(md_path: Path, title: str, sec_id: str, country: str = ""):
 
 
 register(ROOT / "00-indice.md", "Indice portolano")
-register(ROOT / "sistema-fonti.md", "Sistema fonti e rank")
 
 for country_dir in sorted(p for p in ROOT.iterdir() if p.is_dir() and not p.name.startswith(".")):
     pages = sorted(country_dir.glob("*.md"))
