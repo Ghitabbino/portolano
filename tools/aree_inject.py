@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
-"""Post-processore: inietta Home Aree + pagine Oceani negli HTML generati.
-Chiamato automaticamente alla fine di build_paesi_html.py."""
+"""Post-processore: Home Aree + pagine Oceani."""
 from pathlib import Path
-import json
+import re
 
 ROOT = Path(__file__).resolve().parent.parent
 
@@ -11,27 +10,27 @@ OCEANO_DI = {"cabo-verde": "atlantico", "canarie": "atlantico",
              "martinica": "caraibi", "panama": "caraibi"}
 
 OCEANI = [
- ("atlantico",    "🌊", "Oceano Atlantico", "Capo Verde · Canarie"),
- ("caraibi",      "🌴", "Mar dei Caraibi",  "Grenadine · Guadalupa · Martinica · Panama"),
- ("mar-rosso",    "🔴", "Mar Rosso",        "in preparazione"),
- ("pacifico",     "🌊", "Oceano Pacifico",  "in preparazione"),
- ("mediterraneo", "⛱️", "Mediterraneo",     "in preparazione"),
- ("indiano",      "🌍", "Oceano Indiano",   "in preparazione"),
+ ("atlantico",    "&#127758;", "Oceano Atlantico"),
+ ("caraibi",      "&#127807;", "Mar dei Caraibi"),
+ ("mar-rosso",    "&#128308;", "Mar Rosso"),
+ ("pacifico",     "&#127758;", "Oceano Pacifico"),
+ ("mediterraneo", "&#9969;",   "Mediterraneo"),
+ ("indiano",      "&#127757;", "Oceano Indiano"),
 ]
 
-META_PAESI = {
- "cabo-verde": ("🇨🇻", "Capo Verde",
-   "9 isole: hub Mindelo, Sal turistica, vulcano Fogo; EASE pre-registrazione.", "✅ v1"),
- "canarie": ("🇪🇸", "Canarie",
-   "Tenerife, Gran Canaria, Lanzarote e le altre: marine complete e alisei costanti.", "🚧 v0"),
- "grenadine": ("🇻🇨", "Grenadine",
-   "Tobago Cays, Bequia, Mustique: reef, mooring e Basil's Bar.", "🚧 v0"),
- "guadalupa": ("🇬🇵", "Guadalupa",
-   "Les Saintes, Petite Terre, Cousteau: gli ancoraggi più belli delle Antille.", "✅ v1"),
- "martinica": ("🇲🇶", "Martinica",
-   "Hub Le Marin: base servizi n.1 dei Caraibi orientali.", "✅ v1"),
- "panama": ("🇵🇦", "Panama",
-   "Canale + San Blas: transito, Colón, comarca Guna Yala.", "🚧 v0"),
+PAESI = {
+ "cabo-verde": ("&#127463;&#127479;", "Capo Verde",
+   "9 isole: hub Mindelo, Sal turistica, vulcano Fogo.", "\u2705 v1"),
+ "canarie":    ("&#127466;&#127480;", "Canarie",
+   "Tenerife, Gran Canaria, Lanzarote e le altre.", "&#128679; v0"),
+ "grenadine":  ("&#127483;&#127479;", "Grenadine",
+   "Tobago Cays, Bequia, Mustique.", "&#128679; v0"),
+ "guadalupa":  ("&#127467;&#127479;", "Guadalupa",
+   "Les Saintes, Petite Terre, Cousteau.", "\u2705 v1"),
+ "martinica":  ("&#127469;&#127478;", "Martinica",
+   "Hub Le Marin.", "\u2705 v1"),
+ "panama":     ("&#127477;&#127470;", "Panama",
+   "Canale + San Blas.", "&#128679; v0"),
 }
 
 def _pcard(href, flag, nome, desc, st):
@@ -41,61 +40,59 @@ def _pcard(href, flag, nome, desc, st):
 
 def inject(html):
     if 'id="home"' in html:
-        return html  # già iniettato
+        return html
 
-    # mappa slug -> pid della pagina 00-ingresso (dalla nav)
     pid_of = {}
     for m in re.finditer(r'data-country="([^"/]+)"[^>]*data-page="(p\d+)"', html):
         slug = m.group(1)
         if slug not in pid_of:
             pid_of[slug] = m.group(2)
 
-    # home Aree
     area_cards = "".join(_pcard("#o-" + oid, em, nm, ds,
-                                ("apri" if any(OCEANO_DI.get(k) == oid for k in META_PAESI)
-                                 else "in preparazione")) for oid, em, nm, ds in OCEANI)
+        ("apri &#8594;" if any(OCEANO_DI.get(k) == oid for k in PAESI)
+         else "in preparazione")) for oid, em, nm in OCEANI)
+
     home = ('<section id="home" class="page" data-country="">'
             '<h1>Portolano</h1>'
-            '<p><strong>Metodo</strong>: ogni informazione porta rank di attendibilità '
-            '+ data + fonte (quando disponibile).</p>'
-            '<p><strong>L\'intero sistema viene aggiornato con periodicità mensile.</strong></p>'
+            '<p><strong>L\'intero sistema viene aggiornato con periodicit\u00e0 mensile.</strong></p>'
             '<h2>Aree</h2><div class="paesi-grid">' + area_cards + "</div></section>")
 
-    # pagine oceano
     ocean_secs = []
-    for oid, em, nm, ds in OCEANI:
+    for oid, em, nm in OCEANI:
         cards = ""
-        for slug, meta in META_PAESI.items():
+        for slug, meta in PAESI.items():
             if OCEANO_DI.get(slug) != oid:
                 continue
             pid = pid_of.get(slug, "#")
             cards += _pcard("#" + pid, meta[0], meta[1], meta[2], meta[3])
-        empty = "" if cards else '<p><em>In preparazione — contenuti in arrivo.</em></p>'
+        empty = "" if cards else "<p><em>In preparazione.</em></p>"
         ocean_secs.append(
-            '<section id="o-' + oid + '" class="page" data-country="">'
-            '<p><a class="backlink" href="#home">← Aree</a></p>'
+            '<section id="o-' + oid + '" class="page" data-country="' + oid + '">'
+            '<p><a class="backlink" href="#home">&#8592; Aree</a></p>'
             "<h1>" + nm + '</h1><div class="paesi-grid">' + cards + "</div>" + empty + "</section>")
 
-    # inietta dopo <main>
-    new_secs = "".join(ocean_secs)
-    html = html.replace("<main>", "<main>" + home + "\n" + new_secs + "\n", 1)
+    new_secs = home + "".join(ocean_secs)
+    html = html.replace("<main>", "<main>" + new_secs + "\n", 1)
 
-    # CSS backlink
-    html = html.replace("</style>",
-        ".backlink { color:var(--accent); font-size:13px; text-decoration:none; }\n</style>", 1)
+    # sidebar: sostituisci paesi con mari
+    nav_old = re.search(r'<div class="nav-countries">.*?</div>', html, re.S)
+    if nav_old:
+        nav_oc = "".join(f'<a class="navlink country-link" href="#o-{oid}">{em} {nm}</a>'
+                        for oid, em, nm in OCEANI)
+        html = html[:nav_old.start()] + \
+               f'<div class="nav-countries"><a class="navlink country-link" href="#home">Aree</a>{nav_oc}</div>' + \
+               html[nav_old.end():]
 
     # prima pagina = home
     html = re.sub(r"show\('p1'\)", "show('home')", html, count=1)
 
     return html
 
-import re
 for fn in [ROOT / "paesi.html", ROOT / "paesi-mobile.html"]:
     p = Path(fn)
     h = p.read_text(encoding="utf-8")
     nh = inject(h)
     if nh != h:
         p.write_text(nh, encoding="utf-8")
-        print("✓ aree iniettate:", p.name)
 
 print("DONE aree_inject")
