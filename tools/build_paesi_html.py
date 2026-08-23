@@ -411,6 +411,12 @@ plinks.forEach(l=>l.addEventListener('click',e=>{e.preventDefault();show(l.datas
 [...document.querySelectorAll('.zonelink')].forEach(l=>l.addEventListener('click',e=>{
   e.preventDefault();
   const s=document.getElementById('search'); s.value='';
+  const cp=(current&&document.getElementById(current))?document.getElementById(current).dataset.country:"";
+  if(cp&&cp.indexOf('/')>=0&&cp===l.dataset.country){
+    const nat=cp.split('/')[0];
+    const n=document.querySelector('.nav-countries a.sub[data-country="'+nat+'"]');
+    if(n){show(n.dataset.page);return;}
+  }
   show(l.dataset.page);
 }));
 document.addEventListener('click',e=>{

@@ -99,9 +99,6 @@ def process(html):
                '<div class="paesi-grid">'+cs+'</div>'+empty+'</section>')
     html=html.replace("<main>", "<main>"+home+"\n"+secs+"\n", 1)
 
-    zones={}
-    for zm in re.finditer(r'data-country="([^"]+/[^"]+)"[^>]*data-page="(p\d+)"[^>]*>([^<]{2,40})<', html):
-        zones.setdefault(zm.group(1),(zm.group(2),zm.group(3).strip()))
     items='<a class="navlink country-link" data-country="" data-page="home" href="#home">\U0001F30D Aree</a>'
     for oid in ORDER:
         kids=[k for k in PAESI if OCEANO_DI.get(k)==oid]
@@ -113,10 +110,6 @@ def process(html):
             items+=('<a class="navlink country-link sub" data-country="'+k+'" data-page="'+pid+'" '
                     'href="#'+pid+'" >'
                     +svg(cc)+' '+nome+'</a>')
-            import html as _h
-            for zk,(zp,zn) in sorted(zones.items()):
-                if zk.split("/")[0]!=k: continue
-                items+=('<a class="navlink country-link zsub" data-country="'+zk+'" data-page="'+zp+'" href="#'+zp+'" class="zsub">'+_h.escape(zn)+'</a>')
     m=re.search(r'<div class="nav-countries">[\s\S]*?</div>', html)
     if m:
         html=html[:m.start()]+'<div class="nav-countries">'+items+'</div>'+html[m.end():]
@@ -131,7 +124,7 @@ def process(html):
     NAVJS=("\n"      +"var iz=c.indexOf(\"/\")>=0;"
       +"var isOc=!!(c&&OC_IDS[c]);"
       +"var hz=false;"
-      +"document.querySelectorAll(\".zsub\").forEach(function(z){if(z.dataset.country.split(\"/\")[0]===root)hz=true;});"
+      +"document.querySelectorAll(\".zonelink\").forEach(function(z){if((z.dataset.country||\"\").split(\"/\")[0]===root)hz=true;});"
       +"document.querySelectorAll(\".nav-countries a\").forEach(function(l){"
       +"var k=l.dataset.country||\"\";var vis=false;"
       +"if(k===\"\"){vis=true;}"
