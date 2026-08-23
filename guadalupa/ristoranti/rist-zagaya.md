@@ -10,12 +10,12 @@
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🏖️ spiaggia, tramonto |
 | Contatti | **DATO MANCANTE** |
-| Valutazioni | Google positive → ★★★★ |
+| Valutazioni |Google positive → ★★★★|
 | Orari | **DATO MANCANTE** |
 
 ## Menu
 
-- Crabe farci *(granchio ripieno)*
+- Crabe fa*(granchio ripieno)*
 - Dorade al riso nero
 
 **Chef**: ND

@@ -10,7 +10,7 @@
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🪶 semplice locale |
 | Contatti | **DATO MANCANTE** |
-| Valutazioni | TurismoLanzarote ★★★★ |
+| Valutazioni | ★★★★|
 | Orari | pranzo |
 
 ## Menu

@@ -10,7 +10,7 @@
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🪶 casuale, colazione/pranzo/cena |
 | Contatti | 0596 65 55 31 / 0696 94 44 65 |
-| Valutazioni | TA 4,1/5 (303) → ★★★★ |
+| Valutazioni |TA 4,1/5 (303) → ★★★★|
 | Orari | lun–sab 6–24 · dom 10–24 |
 
 ## Menu

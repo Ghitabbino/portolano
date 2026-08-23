@@ -10,7 +10,7 @@
 | Costo | 💰€€€ per persona senza bevande |
 | Location | 🍽️ moderno curato |
 | Contatti | **DATO MANCANTE** |
-| Valutazioni | CaptureAtlas ★★★★½ |
+| Valutazioni |CaptureAtlas ★★★★½|
 | Orari | mar–dom 13-15:30 / 19:30-22:30 |
 
 ## Menu

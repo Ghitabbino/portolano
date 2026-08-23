@@ -11,8 +11,8 @@
 
 | Voce | Dato |
 |---|---|
-| Pontile notte ~12 m | Shelter Bay ~$1,50/ft/notte [sito ★★★] — DATO MANCANTE listino 2026 |
-| Boa notte | Linton Bay ~$25–35 [sito ★★★] — DATO MANCANTE aggiornamento |
+| Pontile notte ~12 m |Shelter Bay ~$1,50/ft/notte ★★★ — DATO MANCANTE listino 2026|
+| Boa notte |Linton Bay ~$25–35 ★★★ — DATO MANCANTE aggiornamento|
 | Mese pontile | Shelter Bay ~$18–20/ft; Flamenco simile — DATO MANCANTE |
 | Elettricità/acqua | incluse o $5–10/giorno secondo marina |
 | Ancoraggio | gratuito ovunque fuori dai canali segnalati |

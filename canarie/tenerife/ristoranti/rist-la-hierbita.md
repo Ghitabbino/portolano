@@ -10,7 +10,7 @@
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🏛️ casa storica ottocentesca |
 | Contatti | **DATO MANCANTE** |
-| Valutazioni | Guide ★★★★ |
+| Valutazioni |Guide ★★★★|
 | Orari | tutti i giorni 12–24 |
 
 ## Menu

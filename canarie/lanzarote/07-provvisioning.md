@@ -1,6 +1,6 @@
 # 07 — Provvisioning
 
-Ultimo aggiornamento: 22/08/2026 · Telefoni verificati su elenco ufficiale Mercadona [★★★]
+Ultimo aggiornamento: 22/08/2026 · Telefoni verificati su elenco ufficiale Mercadona ★★★
 
 ## Supermercati Arrecife (a ~10 min a piedi/taxi da Marina Lanzarote)
 

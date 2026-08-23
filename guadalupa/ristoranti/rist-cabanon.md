@@ -10,7 +10,7 @@
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🪶 piccolo, curato |
 | Contatti | **DATO MANCANTE** |
-| Valutazioni | Google 4,9/5 (148) → ★★★★★ |
+| Valutazioni |Google 4,9/5 (148) → ★★★★★|
 | Orari | **DATO MANCANTE** |
 
 ## Menu

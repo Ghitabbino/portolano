@@ -10,7 +10,7 @@
 | Costo | 💰€€€ per persona senza bevande |
 | Location | 🍽️ elegante informale, cocktails |
 | Contatti | **DATO MANCANTE** |
-| Valutazioni | Google 4,9/5 (~250) → ★★★★★ |
+| Valutazioni |Google 4,9/5 (~250) → ★★★★★|
 | Orari | **DATO MANCANTE** |
 
 ## Menu

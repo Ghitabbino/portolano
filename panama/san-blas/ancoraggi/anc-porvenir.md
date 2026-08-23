@@ -2,11 +2,11 @@
 
 [← Tutti gli ancoraggi](../08-ancoraggi.md)
 
-**9°33.7′N 78°57.8′W** [CruisersWiki ★★]
+**9°33.7′N 78°57.8′W** ★★
 
 | Campo | Dettaglio |
 |---|---|
-| **Profondità** | 6–12 m davanti al villaggio [CruisersWiki ★★] |
+| **Profondità** |6–12 m davanti al villaggio ★★|
 | **Tenuta àncora** | Buona |
 | **Venti/riparo** | Aperto a N: swell nord fastidioso |
 | **Pericoli** | Pista aerea; nasse vicino al molo |

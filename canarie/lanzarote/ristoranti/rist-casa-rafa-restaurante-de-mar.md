@@ -10,7 +10,7 @@
 | Costo | 💰€€€ per persona senza bevande |
 | Location | 🌋 fronte lago verde dei Clicos |
 | Contatti | **DATO MANCANTE** |
-| Valutazioni | TA ★★★★ (Travellers' Choice storica) |
+| Valutazioni |TA ★★★★ (Travellers' Choice storica)|
 | Orari | pranzo; weekend affollato |
 
 ## Menu

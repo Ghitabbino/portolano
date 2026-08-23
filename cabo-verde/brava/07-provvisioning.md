@@ -6,9 +6,9 @@ Ultimo aggiornamento: 22/08/2026 · Offerta minima ma con sorprese: **scorta bas
 
 | Tipo | Dettaglio |
 |---|---|
-| Supermercato di Nova Sintra | "Sorprendentemente grande" per un'isola così remota, secondo i naviganti [Noonsite commenti 2019 ★★] |
+| Supermercato di Nova Sintra |"Sorprendentemente grande" per un'isola così remota, secondo i naviganti ★★|
 | Minimercati di Furna e borgate | Base secca, acqua, uova |
-| Ristoranti a riva | Pasti semplici; a Nova Sintra due locali (Maria aperto ogni giorno) [Noonsite commenti ★★] |
+| Ristoranti a riva |Pasti semplici; a Nova Sintra due locali (Maria aperto ogni giorno) ★★|
 | Pesca locale | Pesce fresco a Furna e Fajã d'Água |
 
 ## Specialità locali

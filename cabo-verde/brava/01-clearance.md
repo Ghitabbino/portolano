@@ -1,10 +1,10 @@
 # 01 — Clearance doganale della barca
 
-**Ultima verifica: 22/08/2026** · Fonte principale: Noonsite Cape Verdes ★★★
+**Ultima verifica: 22/08/2026** · Fonte principale: Cape Verdes ★★★
 
 ## Punto chiave
 
-**Brava non è un punto di ingresso ufficiale**: primo ingresso in Capo Verde solo a Mindelo, Palmeira o Praia. [Noonsite ★★★]
+**Brava non è un punto di ingresso ufficiale**: primo ingresso in Capo Verde solo a Mindelo, Palmeira o Praia. ★★★
 
 - Equipaggio UE: pre-registrazione **EASE** online prima dell'arrivo nel paese.
 - Clear-in consigliato a **Praia** se si naviga il Sotavento (vedere paesi/cabo-verde/santiago/01-clearance.md).

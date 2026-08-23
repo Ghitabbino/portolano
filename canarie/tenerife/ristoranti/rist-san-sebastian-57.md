@@ -10,7 +10,7 @@
 | Costo | 💰€€€ per persona senza bevande |
 | Location | 🍽️ contemporaneo piccolo |
 | Contatti | +34 822 104 325 |
-| Valutazioni | TA ★★★★½ |
+| Valutazioni |TA ★★★★½|
 | Orari | pranzo/cena su prenotazione |
 
 ## Menu

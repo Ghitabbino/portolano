@@ -1,12 +1,12 @@
 # Linton Bay {#anc-linton-bay}
 
 [← Tutti gli ancoraggi](../08-ancoraggi.md)
-**9°25.0′N 79°44.7′W** [CruisersWiki ★★]
+**9°25.0′N 79°44.7′W** ★★
 
 | Campo | Dettaglio |
 |---|---|
-| **Profondità** | 5–12 m su sabbia [CruisersWiki ★★] |
-| **Tenuta àncora** | Buona; boa della marina disponibili (~$25–35/notte) [sito marina ★★★] |
+| **Profondità** |5–12 m su sabbia ★★|
+| **Tenuta àncora** |Buona; boa della marina disponibili (~$25–35/notte) ★★★|
 | **Venti/riparo** | Ottimo riparo dagli alisei NE; anse interne tranquille |
 | **Pericoli** | Scogliere segnalate all'ingresso sud |
 | **Affollamento** | Basso-medio |

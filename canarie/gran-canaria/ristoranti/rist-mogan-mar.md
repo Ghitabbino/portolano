@@ -10,7 +10,7 @@
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🌅 terrazza paseo |
 | Contatti | **DATO MANCANTE** |
-| Valutazioni | sito ★★★ |
+| Valutazioni |sito ★★★|
 | Orari | pranzo/cena |
 
 ## Menu

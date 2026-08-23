@@ -10,7 +10,7 @@
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🌿 terrazza su viale animato |
 | Contatti | +34 637 56 42 02 |
-| Valutazioni | Canarias-Lovers ★★★★ |
+| Valutazioni | ★★★★|
 | Orari | sera; festivi anche pranzo |
 
 ## Menu

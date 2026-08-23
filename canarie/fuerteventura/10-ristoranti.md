@@ -8,14 +8,14 @@ Selezione orientata alla crociera. Schede puntuali per locale in corso di raccol
 
 | Ristorante | Zona | Costo | Cucina | Specialità | Location | Stelle |
 |---|---|---|---|---|---|---|
-| [Restaurante 15](ristoranti/rist-restaurante-15.md) | Caleta de Fuste – Playa del Castillo | **€€** | **🍽️ Cocina de mercado** | *Menù originale stagionale* | **🍽️ moderno curato** | Canarias-Lovers ★★★★ |
-| [Saxophone Caleta](ristoranti/rist-saxophone-caleta.md) | Caleta de Fuste – Playa del Castillo | **€** | **🍺 Birreria canaria-twist** | *Tapas canarie rivisitate* | **🍺 terrazza spiaggia** | Canarias-Lovers ★★★★ |
-| [O'Fado](ristoranti/rist-ofado.md) | Caleta de Fuste – paseo | **€€** | **🥘 Mercado + portoghese** | *Pesce del giorno · cataplana* | **🌴 terrazza palme** | Canarias-Lovers ★★★★ |
-| [El Patio Caleta](ristoranti/rist-el-patio-caleta.md) | Caleta de Fuste – paseo | **€€** | **🐟 Paellas y marisco** | *Paella · gambas · mejillones* | **🎶 terrazza animata live** | Canarias-Lovers ★★★★ |
-| [Ascensión](ristoranti/rist-ascension.md) | Caleta de Fuste – centro | **€€€** | **🍽️ Sofisticata** | *Pesce · carne roja creativa* | **🍽️ sobrio elegante** | Canarias-Lovers ★★★★½ |
-| [Muelle Chico – pescherie con cucina](ristoranti/rist-muelle-chico-–-pescherie-con-cucina.md) | Corralejo – molo peschereccio | **€** | **🐟 Scegli-e-cucinano** | *Vieja/sama su ghiaccio a peso* | **⚓ banconi sul molo** | guida corralejo ★★★★ |
-| [Tierra de Libertad](ristoranti/rist-tierra-de-libertad.md) | Corralejo – centro | **€€€** | **🍷 Brasserie wine-pairing** | *Piatti piccoli abbinati a vini locali* | **🍷 atmosfera enoteca** | Canarias-Lovers ★★★★½ |
-| [3 Calici](ristoranti/rist-3-calici.md) | Corralejo – CC El Campanario | **€€€** | **🍝 Tapas italiane e vini** | *Pasta fresca · selezione vini* | **🍷 enoteca rilassata** | Canarias-Lovers ★★★★½ |
+| [Restaurante 15](ristoranti/rist-restaurante-15.md) | Caleta de Fuste – Playa del Castillo | **€€** | **🍽️ Cocina de mercado** | *Menù originale stagionale* | **🍽️ moderno curato** | ★★★★|
+| [Saxophone Caleta](ristoranti/rist-saxophone-caleta.md) | Caleta de Fuste – Playa del Castillo | **€** | **🍺 Birreria canaria-twist** | *Tapas canarie rivisitate* | **🍺 terrazza spiaggia** | ★★★★|
+| [O'Fado](ristoranti/rist-ofado.md) | Caleta de Fuste – paseo | **€€** | **🥘 Mercado + portoghese** | *Pesce del giorno · cataplana* | **🌴 terrazza palme** | ★★★★|
+| [El Patio Caleta](ristoranti/rist-el-patio-caleta.md) | Caleta de Fuste – paseo | **€€** | **🐟 Paellas y marisco** | *Paella · gambas · mejillones* | **🎶 terrazza animata live** | ★★★★|
+| [Ascensión](ristoranti/rist-ascension.md) | Caleta de Fuste – centro | **€€€** | **🍽️ Sofisticata** | *Pesce · carne roja creativa* | **🍽️ sobrio elegante** | ★★★★½|
+| [Muelle Chico – pescherie con cucina](ristoranti/rist-muelle-chico-–-pescherie-con-cucina.md) | Corralejo – molo peschereccio | **€** | **🐟 Scegli-e-cucinano** | *Vieja/sama su ghiaccio a peso* | **⚓ banconi sul molo** |guida corralejo ★★★★|
+| [Tierra de Libertad](ristoranti/rist-tierra-de-libertad.md) | Corralejo – centro | **€€€** | **🍷 Brasserie wine-pairing** | *Piatti piccoli abbinati a vini locali* | **🍷 atmosfera enoteca** | ★★★★½|
+| [3 Calici](ristoranti/rist-3-calici.md) | Corralejo – CC El Campanario | **€€€** | **🍝 Tapas italiane e vini** | *Pasta fresca · selezione vini* | **🍷 enoteca rilassata** | ★★★★½|
 
 *Clicca sul nome per la scheda completa. Ogni punto rosso nella mappa apre la scheda.*
 
@@ -26,7 +26,7 @@ Selezione orientata alla crociera. Schede puntuali per locale in corso di raccol
 
 *Clicca un punto rosso: apre la scheda del ristorante.*
 
-## App e fonti
+## App utili sul posto
 
 | Piattaforma | Uso locale |
 |---|---|

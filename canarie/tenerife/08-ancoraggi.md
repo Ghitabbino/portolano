@@ -18,7 +18,7 @@ Ultimo aggiornamento: 22/08/2026 · coordinate indicative, navigare con cartogra
 
 ### Mappa generale degli ancoraggi
 
-<div class="mapframe" data-slug="tenerife" data-minz="10" data-maxz="12" data-lat="28.3985219" data-lon="-16.5869319" data-markers='[]'></div>
+<div class="mapframe" data-slug="tenerife" data-minz="10" data-maxz="12" data-lat="28.3985219" data-lon="-16.5869319" data-markers=''></div>
 
 *Coordinate indicative; tasselli offline satellitari + carta nautica + segnaletica OpenSeaMap.*
 

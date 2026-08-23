@@ -2,7 +2,7 @@
 
 **Ultimo aggiornamento: 22/08/2026**
 
-Selezione orientata alla crociera: locali raggiungibili a piedi dal porto di Santa Cruz, dalla Marina del Sur di Las Galletas, dai moli di Los Cristianos e da Puerto Colón ([03 Porti e ancoraggi](03-porti-ancoraggi.md)). Valutazione ponderata = media Google + TripAdvisor, verificata il 22/08/2026. Prezzi indicativi per persona senza bevande.
+Selezione orientata alla crociera: locali raggiungibili a piedi dal porto di Santa Cruz, dalla Marina del Sur di Las Galletas, dai moli di Los Cristianos e da Puerto Colón ([03 Porti e ancoraggi](03-porti-ancoraggi.md)). Valutazione ponderata = media Google +, verificata il 22/08/2026. Prezzi indicativi per persona senza bevande.
 
 Legenda prezzi: **€** <20 · **€€** 20–40 · **€€€** >40 — Cucina: 🐟 pesce e frutti di mare · 🥩 carne e grigliate · 🥗 vegetariano-friendly · 🥙 tapas · 🍕 italiana · 🍽️ gastronomica
 
@@ -12,16 +12,16 @@ Legenda prezzi: **€** <20 · **€€** 20–40 · **€€€** >40 — Cucin
 
 | Ristorante | Zona | Costo | Cucina | Specialità | Location | Stelle |
 |---|---|---|---|---|---|---|
-| [Taberna Ramón](ristoranti/rist-taberna-ramon.md) | Santa Cruz – casco viejo | **€** | **🥩 Spagnola-mediterranea** | *Tapas · embutidos · pescaíto* | **🍺 tasca di quartiere** | TA positive ★★★★ |
-| [Guachinche El Cañonazo](ristoranti/rist-guachinche-el-canonazo.md) | Santa Cruz – zona La Salud | **€** | **🥩 Canaria guachinche** | *Parrilladas · papas con mojo* | **🌴 cortile tipico canario** | Guru 4,9/5 (2312) ★★★★★ |
-| [La Hierbita](ristoranti/rist-la-hierbita.md) | Santa Cruz – casco viejo | **€€** | **🥗 Canaria tradizionale** | *Bienmesabe · cherne · pulpo* | **🏛️ casa storica ottocentesca** | Guide ★★★★ |
-| [D'Tapas 26](ristoranti/rist-dtapas-26.md) | Santa Cruz – Plaza del Príncipe | **€€** | **🥙 Tapas creative** | *Papas negras con bacalao* | **🌿 terrazza su viale animato** | Canarias-Lovers ★★★★ |
-| [Labeche](ristoranti/rist-labeche.md) | Santa Cruz – Iglesia de la Concepción | **€€** | **🍽️ Bistrot canario** | *Tortilla · croquetas · ensaladilla* | **🌿 terrazza** | Canarias-Lovers ★★★★½ |
-| [El Aguarde](ristoranti/rist-el-aguarde.md) | Santa Cruz – Plaza de los Patos | **€€** | **🥘 Canaria tradizionale** | *Huevos rotos · mariscada* | **🌳 terrazza** | Canarias-Lovers ★★★★ |
-| [Panzaburro Gastrotasca](ristoranti/rist-panzaburro-gastrotasca.md) | Santa Cruz – García Sanabria | **€€** | **🥗 Creativa orto-biologica** | *Croquetas de cochino negro* | **🌿 tasca con giardino** | Guide ★★★★½ |
-| [Sagrario](ristoranti/rist-sagrario.md) | Santa Cruz – García Sanabria | **€€€** | **🍽️ Tradizionale elevata** | *Pesca fresca · carnes rojas* | **🍽️ elegante sobrio** | Canarias-Lovers ★★★★½ |
-| [Jaxana](ristoranti/rist-jaxana.md) | Santa Cruz – Plaza España | **€€€** | **🍣 Fusion asiatica-canaria** | *Uramaki obako (banana+capra)* | **🍽️ design dimesso** | Canarias-Lovers ★★★★ |
-| [San Sebastián 57](ristoranti/rist-san-sebastian-57.md) | Santa Cruz – mercato Nuestra Señora África | **€€€** | **🍽️ Cucina d'autore mare** | *Ostriche · tartare di tonno* | **🍽️ contemporaneo piccolo** | TA ★★★★½ |
+| [Taberna Ramón](ristoranti/rist-taberna-ramon.md) | Santa Cruz – casco viejo | **€** | **🥩 Spagnola-mediterranea** | *Tapas · embutidos · pescaíto* | **🍺 tasca di quartiere** |TA positive ★★★★|
+| [Guachinche El Cañonazo](ristoranti/rist-guachinche-el-canonazo.md) | Santa Cruz – zona La Salud | **€** | **🥩 Canaria guachinche** | *Parrilladas · papas con mojo* | **🌴 cortile tipico canario** |Guru 4,9/5 (2312) ★★★★★|
+| [La Hierbita](ristoranti/rist-la-hierbita.md) | Santa Cruz – casco viejo | **€€** | **🥗 Canaria tradizionale** | *Bienmesabe · cherne · pulpo* | **🏛️ casa storica ottocentesca** |Guide ★★★★|
+| [D'Tapas 26](ristoranti/rist-dtapas-26.md) | Santa Cruz – Plaza del Príncipe | **€€** | **🥙 Tapas creative** | *Papas negras con bacalao* | **🌿 terrazza su viale animato** | ★★★★|
+| [Labeche](ristoranti/rist-labeche.md) | Santa Cruz – Iglesia de la Concepción | **€€** | **🍽️ Bistrot canario** | *Tortilla · croquetas · ensaladilla* | **🌿 terrazza** | ★★★★½|
+| [El Aguarde](ristoranti/rist-el-aguarde.md) | Santa Cruz – Plaza de los Patos | **€€** | **🥘 Canaria tradizionale** | *Huevos rotos · mariscada* | **🌳 terrazza** | ★★★★|
+| [Panzaburro Gastrotasca](ristoranti/rist-panzaburro-gastrotasca.md) | Santa Cruz – García Sanabria | **€€** | **🥗 Creativa orto-biologica** | *Croquetas de cochino negro* | **🌿 tasca con giardino** |Guide ★★★★½|
+| [Sagrario](ristoranti/rist-sagrario.md) | Santa Cruz – García Sanabria | **€€€** | **🍽️ Tradizionale elevata** | *Pesca fresca · carnes rojas* | **🍽️ elegante sobrio** | ★★★★½|
+| [Jaxana](ristoranti/rist-jaxana.md) | Santa Cruz – Plaza España | **€€€** | **🍣 Fusion asiatica-canaria** | *Uramaki obako (banana+capra)* | **🍽️ design dimesso** | ★★★★|
+| [San Sebastián 57](ristoranti/rist-san-sebastian-57.md) | Santa Cruz – mercato Nuestra Señora África | **€€€** | **🍽️ Cucina d'autore mare** | *Ostriche · tartare di tonno* | **🍽️ contemporaneo piccolo** |TA ★★★★½|
 
 *Clicca sul nome per la scheda completa. Ogni punto rosso nella mappa apre la scheda.*
 
@@ -32,7 +32,7 @@ Legenda prezzi: **€** <20 · **€€** 20–40 · **€€€** >40 — Cucin
 
 *Clicca un punto rosso: apre la scheda del ristorante.*
 
-## App e fonti
+## App utili sul posto
 
 | Piattaforma | Uso locale |
 |---|---|

@@ -4,7 +4,7 @@
 
 ## Marina Bas-du-Fort (Pointe-à-Pitre) — hub tecnico
 
-Gestione Compagnie Générale Portuaire (CGP). [Bloc Marine/Figaro Nautisme ★★★★]
+Gestione Compagnie Générale Portuaire (CGP). ★★★★
 
 | Servizio | Dettaglio |
 |---|---|
@@ -17,23 +17,23 @@ Gestione Compagnie Générale Portuaire (CGP). [Bloc Marine/Figaro Nautisme ★�
 | Contatti | VHF 9 (7h–9h) · +590 590 936 620 · contact@marinaguadeloupe.com · marinaguadeloupe.com |
 | Concierge | Guadeloupe Yacht Concierge +590 690 72 88 09 |
 
-Note dai crocieristi: porto ben protetto ma **odore di fogne segnalato** in alcuni periodi; ponti nord chiusi fino a nuovo avviso. [Bloc Marine ★★★★; noforeignland ★★★]
+Note dai crocieristi: porto ben protetto ma **odore di fogne segnalato** in alcuni periodi; ponti nord chiusi fino a nuovo avviso. ★★★★
 
 ## Caraïbes Docks Services (chantier naval)
 
-Carénage, riparazione e manutenzione navale. Tel **+590 690 61 78 25** · docks971.com. Recensioni miste sulla pulizia delle strutture; personale non sempre anglofono. [sito ufficiale ★★★; noforeignland ★3,3]
+Carénage, riparazione e manutenzione navale. Tel **+590 690 61 78 25** ·. Recensioni miste sulla pulizia delle strutture; personale non sempre anglofono. ★★★
 
 ## Jarry (Baie-Mahault)
 
-La maggiore zona industriale/commerciale dei Caraibi (3.500 imprese): fornitori industriali, refrigerazione, elettronica, concessionarie. Qui si trovano pezzi che altrove nelle Piccole Antille mancano. [★★]
+La maggiore zona industriale/commerciale dei Caraibi (3.500 imprese): fornitori industriali, refrigerazione, elettronica, concessionarie. Qui si trovano pezzi che altrove nelle Piccole Antille mancano. ★★
 
 ## Gas e bombole
 
-Scambio bottiglie standard francesi (butane/propane) a Jarry e nei punti Super U; attenzione ai raccordi. Niente rabbocco. [★★]
+Scambio bottiglie standard francesi (butane/propane) a Jarry e nei punti Super U; attenzione ai raccordi. Niente rabbocco. ★★
 
 ## Acqua dolce
 
-Water dock a Marina Bas-du-Fort (incluso nel posto), Saint-François, Deshaies (pontile municipio), Rivière Sens. [★★]
+Water dock a Marina Bas-du-Fort (incluso nel posto), Saint-François, Deshaies (pontile municipio), Rivière Sens. ★★
 
 ## Note strategiche
 

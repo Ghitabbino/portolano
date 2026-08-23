@@ -10,7 +10,7 @@
 | Costo | 💰€ per persona senza bevande |
 | Location | 🍺 terrazza spiaggia |
 | Contatti | +34 624 53 10 55 |
-| Valutazioni | Canarias-Lovers ★★★★ |
+| Valutazioni | ★★★★|
 | Orari | pomeriggio/sera |
 
 ## Menu

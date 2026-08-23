@@ -10,7 +10,7 @@
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🏖️ fronte spiaggia |
 | Contatti | **DATO MANCANTE** |
-| Valutazioni | Google 4,5/5 (199) → ★★★★½ |
+| Valutazioni |Google 4,5/5 (199) → ★★★★½|
 | Orari | **DATO MANCANTE** |
 
 ## Menu

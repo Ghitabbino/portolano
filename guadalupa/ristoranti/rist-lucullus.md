@@ -10,7 +10,7 @@
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🌅 terrazza |
 | Contatti | **DATO MANCANTE** |
-| Valutazioni | Google 4,3/5 (1366) → ★★★★ |
+| Valutazioni |Google 4,3/5 (1366) → ★★★★|
 | Orari | **DATO MANCANTE** |
 
 ## Menu

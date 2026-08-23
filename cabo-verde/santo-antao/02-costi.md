@@ -8,10 +8,10 @@ Isola rurale e povera: costi bassi per vitto e alloggio, offerta turistica essen
 
 | Voce | Prezzo indicativo | Note |
 |---|---|---|
-| Pasto locale (restaurante popular) | **DATO MANCANTE** | Pesce, catchupa, fagioli; economico [★★] |
+| Pasto locale (restaurante popular) | **DATO MANCANTE** |Pesce, catchupa, fagioli; economico ★★|
 | Alloggio guesthouse Ponta do Sol/Paul | **DATO MANCANTE** | Fascia economica; verificare sul posto |
-| Grogue (grappa di canna) | Economico | Produzione locale nella valle do Paul [★★] |
-| Mercato di Porto Novo | Economico | Frutta e verdura dell'isola (banane, canna, mango) [★★] |
+| Grogue (grappa di canna) | Economico |Produzione locale nella valle do Paul ★★|
+| Mercato di Porto Novo | Economico |Frutta e verdura dell'isola (banane, canna, mango) ★★|
 
 ## Trasporti interni
 

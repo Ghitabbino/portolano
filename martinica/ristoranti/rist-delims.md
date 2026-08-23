@@ -10,7 +10,7 @@
 | Costo | 💰€€€ per persona senza bevande |
 | Location | 🍽️ raffinato |
 | Contatti | 0696 35 48 59 (prenotazioni 0696 75 49 13) |
-| Valutazioni | TA 4,7/5 (140) → ★★★★½ |
+| Valutazioni |TA 4,7/5 (140) → ★★★★½|
 | Orari | lun-gio-ven-sab 19–22 · sab-dom 12–15 · chiuso mar–mer |
 
 ## Menu
@@ -23,7 +23,7 @@
 **Chef**: Marie-Claude (cucina), sorella Marie-Laure in sala
 
 
-**Note**: Avenue Nelson Mandela · ledelims.com · anche traiteur · pizze d'asporto la sera
+**Note**: Avenue Nelson Mandela · · anche traiteur · pizze d'asporto la sera
 
 **Extra**: email ledelims@gmail.com
 

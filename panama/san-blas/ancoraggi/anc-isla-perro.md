@@ -2,11 +2,11 @@
 
 [← Tutti gli ancoraggi](../08-ancoraggi.md)
 
-**9°35.5′N 78°52.1′W** [CruisersWiki ★★]
+**9°35.5′N 78°52.1′W** ★★
 
 | Campo | Dettaglio |
 |---|---|
-| **Profondità** | 3–7 m [CruisersWiki ★★] |
+| **Profondità** |3–7 m ★★|
 | **Tenuta àncora** | Buona |
 | **Venti/riparo** | Come Banedup |
 | **Pericoli** | Relitto affiorante sul lato N |

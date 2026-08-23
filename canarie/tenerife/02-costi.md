@@ -8,12 +8,12 @@ Ultimo aggiornamento: 22/08/2026 · Valuta: **euro** · Fiscalità speciale IGIC
 
 | Voce | Prezzo indicativo | Note |
 |---|---|---|
-| Birra locale supermercato (0,33 l) | 0,60–1 € | Dorada/Tropical [★★] |
-| Acqua imbottigliata 1,5 l | 0,50–0,80 € | [★★] |
-| Latte 1 l | 0,90–1,20 € | [★★] |
+| Birra locale supermercato (0,33 l) | 0,60–1 € |Dorada/Tropical ★★|
+| Acqua imbottigliata 1,5 l | 0,50–0,80 € | ★★ |
+| Latte 1 l | 0,90–1,20 € | ★★ |
 | Riso 1 kg | **DATO MANCANTE** | Da rilevare |
-| Pollo fresco 1 kg | 5–7 € | [★★] |
-| Frutta/verdura locale | Economica | Mercati municipali [★★★] |
+| Pollo fresco 1 kg | 5–7 € | ★★ |
+| Frutta/verdura locale | Economica |Mercati municipali ★★★|
 
 ## Mangiare fuori
 

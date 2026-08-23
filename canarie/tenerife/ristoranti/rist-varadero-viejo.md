@@ -10,7 +10,7 @@
 | Costo | 💰€€ per persona senza bevande (porzioni generose, qualche piatto può risultare caro) [TA] |
 | Location | 🏖️ terrazza sul mare con vista oceano |
 | Contatti | 822 14 46 52 · restaurantevaraderoviejo.es · tenerifechevere@gmail.com |
-| Valutazioni | TA 4,5/5 (951), nº3 su 58 a Las Galletas · Travellers' Choice 2025 → ★★★★½ |
+| Valutazioni |TA 4,5/5 (951), nº3 su 58 a Las Galletas · Travellers' Choice 2025 → ★★★★½|
 | Orari | tutti i giorni, aperto fino alle 22:30 |
 
 ## Menu

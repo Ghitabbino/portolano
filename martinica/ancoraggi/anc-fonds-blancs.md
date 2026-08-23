@@ -9,7 +9,7 @@
 | **Venti/riparo** | Parzialmente riparato dagli îlets; alisei presenti |
 | **Pericoli** | **Batimetria insidiosa**: ingressi tra i banchi da fare con sole alto e occhio alla carta; passaggi dei tour boat |
 | **Affollamento** | Festivi e week-end affollatissimi (gommoni in picnic); in settimana più calmo |
-| **Divieti** | Baie du François tra le zone regolamentate >50 m; rispettare boe ZMEL e zone dei club nautici/vélico con passaggio riservato; piano di balisaggio comunale Le François da verificare [Observatoire ★★★★] |
+| **Divieti** |Baie du François tra le zone regolamentate >50 m; rispettare boe ZMEL e zone dei club nautici/vélico con passaggio riservato; piano di balisaggio comunale Le François da verificare ★★★★|
 | **Nota** | Voce costruita su conoscenza diffusa dei portolani → dettagli profondità/passaggi **da verificare su carta locale** |
 
 <div class="mapframe" data-slug="fonds-blancs" data-lat="14.613" data-lon="-60.902"></div>
@@ -25,14 +25,14 @@
 | SHOM 6898 (GA) | Mer des Caraïbes | Pianificazione rotte inter-isole |
 | NV Charts pack Caraibi/Antille | Arc antillano completo | Alternativa plaisance, WGS84, ~95 € |
 
-- Le carte SHOM riportano le zone regolamentate e i chenal; acquistabili da rivenditori autorizzati (Picksea, Eau Bleue, NV Charts PoD). [★★★★]
-- **Cartografia amministrativa gratuita**: mappe interattive della Direction de la Mer + "Mémento réglementaire de la mer" (Memorandum normativo del mare) PDF (ODE) con tutte le zone ZMEL/interdette. [★★★★]
+- Le carte SHOM riportano le zone regolamentate e i chenal; acquistabili da rivenditori autorizzati (Picksea, Eau Bleue, NV Charts PoD). ★★★★
+- **Cartografia amministrativa gratuita**: mappe interattive della Direction de la Mer + "Mémento réglementaire de la mer" (Memorandum normativo del mare) PDF (ODE) con tutte le zone ZMEL/interdette. ★★★★
 - Per la navigazione quotidiana: carta elettronica ufficiale SHOM/Navionics sul plotter + le carte cartacee sopra come riserva obbligatoria.
 
 ## Non inclusi (per ora)
 
 - **Baie des Anglais** (sud, Cap Salomon): citata spesso come selvaggia e bella → dati insufficienti, **da verificare**
-- **Anse Couleuvre / Le Prêcheur** (nord): esposti, solo meteo stabile [Navily ★★★]
+- **Anse Couleuvre / Le Prêcheur** (nord): esposti, solo meteo stabile ★★★
 - **Baie du Vauclin / Robert / Trinité** (costa atlantica): belle ma esposte agli alisei e piene di nasse → vedi [06 Sicurezza](../06-sicurezza.md)
 
 ## Checklist àncora per la Martinica

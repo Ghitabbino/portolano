@@ -4,7 +4,7 @@ Ultimo aggiornamento: 22/08/2026 · Isola a nord-ovest di São Vicente, separata
 
 ## Onestamente: poca nautica
 
-Santo Antão è un'isola da **terra**: montagne (Cova, Ribeira Grande, valle do Paul), trekking e paesaggi. Nessuna marina, servizi nautici quasi nulli. La base logistica resta **Mindelo**, lasciando la barca al Porto Grande e prendendo il ferry. [Sea-Seek ★★]
+Santo Antão è un'isola da **terra**: montagne (Cova, Ribeira Grande, valle do Paul), trekking e paesaggi. Nessuna marina, servizi nautici quasi nulli. La base logistica resta **Mindelo**, lasciando la barca al Porto Grande e prendendo il ferry. ★★
 
 ## Approdi
 

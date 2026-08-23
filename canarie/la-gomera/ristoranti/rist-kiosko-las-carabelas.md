@@ -10,7 +10,7 @@
 | Costo | 💰€ per persona senza bevande |
 | Location | ⛵ piazza sopra il molo |
 | Contatti | **922 87 07 00** |
-| Valutazioni | Turismo Canarias ★★★½ |
+| Valutazioni | ★★★½|
 | Orari | tutto il giorno |
 
 ## Menu

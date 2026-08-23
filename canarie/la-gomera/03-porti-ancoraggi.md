@@ -13,7 +13,7 @@ Isola tranquilla e "soft": due approdi principali, entrambi piccoli.
 
 | **Marina La Gomera** | 335 posti (100 transito) · fino 20 m · fuel station · varadero · minimarket · marineria 24h |
 |---|---|
-| Contatti | **+34 922 141 769** · VHF 9-16 · info@marinalagomera.es · ufficio lun–ven 8:30–14:30, sab-dom/festivi 9–13 · benzinaio est. 8–20 / inv. 8–18 [sito ufficiale ★★★★★] |
+| Contatti |**+34 922 141 769** · VHF 9-16 · info@marinalagomera.es · ufficio lun–ven 8:30–14:30, sab-dom/festivi 9–13 · benzinaio est. 8–20 / inv. 8–18 ★★★★★|
 
 
 | Voce | Nota |

@@ -10,7 +10,7 @@
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🍽️ moderno curato |
 | Contatti | prenota 15restaurant.com |
-| Valutazioni | Canarias-Lovers ★★★★ |
+| Valutazioni | ★★★★|
 | Orari | pranzo/cena |
 
 ## Menu

@@ -10,7 +10,7 @@
 | Costo | 💰€€€ per persona senza bevande |
 | Location | 🍷 enoteca rilassata |
 | Contatti | +34 651 386 701 |
-| Valutazioni | Canarias-Lovers ★★★★½ |
+| Valutazioni | ★★★★½|
 | Orari | cena; prenotare |
 
 ## Menu

@@ -10,7 +10,7 @@
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🌅 fronte mare La Puntilla |
 | Contatti | **922 805 447** |
-| Valutazioni | 1460 recensioni Google ★★★★ |
+| Valutazioni |1460 recensioni Google ★★★★|
 | Orari | pranzo/cena |
 
 ## Menu

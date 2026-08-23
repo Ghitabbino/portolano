@@ -12,26 +12,26 @@ Tutti i natanti da diporto, qualsiasi nazionalità e bandiera, che:
 ## Procedura online (dal 01/09/2024)
 
 1. Creare un **account** sul portale e conservarlo: i documenti restano salvati e riutilizzabili.
-   - URL attuale: `https://demarche.numerique.gouv.fr/commencer/declaration-clearance-antilles` [martinique.gouv.fr 30/01/2026 ★★★★★]
-   - URL storico ancora funzionante: `https://www.demarches-simplifiees.fr/commencer/declaration-clearance-antilles` [Guide Boat 2024 ★★★★★; confermato operativo da naviganti dic. 2024 ★★ e feb. 2025 ★★★]
+ - URL attuale: `https://demarche.numerique.gouv.fr/commencer/declaration-clearance-antilles` [martinique.gouv.fr 30/01/2026 ★★★★★]
+ - URL storico ancora funzionante: `https://www.demarches-simplifiees.fr/commencer/declaration-clearance-antilles` ★★★★★
 2. Compilare la dichiarazione con: dati natante (nome, immatricolazione, bandiera, MMSI, tipo, lunghezza, stazza…), proprietario, **lista equipaggio/passeggeri** (nome, data nascita, nazionalità, n° passaporto/documento), merce da dichiarare, paese precedente e successivo, data/ora/luogo arrivo e partenza, durata prevista, firma del capitano.
 3. Inviare: l'attestation arriva via email ed è salvata nell'account.
 
-### Trucco utile (Salty Dawg, feb 2025 ★★★)
+### Trucco utile (, feb 2025 ★★★)
 Nella piattaforma si può **duplicare una dichiarazione precedente** e cambiare solo date/porti: per la partenza si duplica quella d'ingresso e si aggiorna la data. Risparmia tutto il re-inserimento.
 
 ## Copia cartacea timbrata
 
-- Finché gli altri stati caraibici non riconoscono la dichiarazione elettronica, **stampare l'attestation**: serve in carta per il check-in nei paesi NON francesi (es. Santa Lucia). [martinique.gouv.fr ★★★★★; SDSA feb 2025 ★★★]
-- Con il solo modulo online **non è obbligatorio entrare in un porto ufficiale**, salvo necessità del timbro. [Noonsite, agg. ~feb 2026 ★★★]
-- Il timbro si ottiene in un **Point agréé Clearance** (lista ufficiale v15/12/2025): ci si porta il file su telefono/tablet o si accede al portale dal loro computer; stampano e timbrano. Costo **5 €**. [SDSA feb 2025 ★★★; Noonsite ★★★]
+- Finché gli altri stati caraibici non riconoscono la dichiarazione elettronica, **stampare l'attestation**: serve in carta per il check-in nei paesi NON francesi (es. Santa Lucia). [martinique.gouv.fr ★★★★★; feb 2025 ★★★]
+- Con il solo modulo online **non è obbligatorio entrare in un porto ufficiale**, salvo necessità del timbro. ★★★
+- Il timbro si ottiene in un **Point agréé Clearance** (lista ufficiale v15/12/2025): ci si porta il file su telefono/tablet o si accede al portale dal loro computer; stampano e timbrano. Costo **5 €**. ★★★
 
 ## Costi
 
 | Voce | Costo | Fonte |
 |---|---|---|
 | Dichiarazione online | **Gratuita** | martinique.gouv.fr ★★★★★ |
-| Stampa+timbro attestation in Point agréé (opzionale) | **5 €** | Noonsite ★★★ + SDSA feb 2025 ★★★ |
+| Stampa+timbro attestation in Point agréé (opzionale) | **5 €** |Fonti diportiste aggregate ★★★ + SDSA feb 2025 ★★★|
 
 ## Punti agréé in Martinica (lista ufficiale 15/12/2025 ★★★★★)
 
@@ -52,16 +52,16 @@ Nella piattaforma si può **duplicare una dichiarazione precedente** e cambiare 
 
 ## Dogana regionale
 
-Direction Interrégionale des douanes Antilles-Guyane, Plateau Roy-Cluny, 97261 Fort-de-France · +596 596 707 272 · di-antilles-guyane@douane.finances.gouv.fr [★★★★★]
+Direction Interrégionale des douanes Antilles-Guyane, Plateau Roy-Cluny, 97261 Fort-de-France · +596 596 707 272 · di-antilles-guyane@douane.finances.gouv.fr ★★★★★
 
 ## Esperienze dei crocieristi
 
-- Le Marin capitainerie: procedura rapida, file corte al mattino presto. [noforeignland/Noonsite ★★]
-- CAP Ponton: comodo per clearance+fuel insieme; affollato sabato. [Noonsite commenti ★★]
+- Le Marin capitainerie: procedura rapida, file corte al mattino presto. ★★
+- CAP Ponton: comodo per clearance+fuel insieme; affollato sabato. ★★
 
 ## Sanzioni
 
-Mancata dichiarazione = perseguibile ex art. 410 code des douanes, art. 43 ord. 2016-1687, art. L.5242-2 code des transports. L'attestation va conservata e presentabile a qualunque amministrazione francese o estera. [Guide Boat 2024 ★★★★★]
+Mancata dichiarazione = perseguibile ex art. 410 code des douanes, art. 43 ord. 2016-1687, art. L.5242-2 code des transports. L'attestation va conservata e presentabile a qualunque amministrazione francese o estera. ★★★★★
 
 ## Da verificare prima della crociera
 

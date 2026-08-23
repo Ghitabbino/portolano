@@ -10,7 +10,7 @@
 | Costo | 💰€€€ per persona senza bevande |
 | Location | 🌙 chill-out vista costa |
 | Contatti | +34 **DATO MANCANTE** |
-| Valutazioni | CaptureAtlas ★★★★ |
+| Valutazioni |CaptureAtlas ★★★★|
 | Orari | tutti i giorni 13:30-22:30; CHIUSO martedì |
 
 ## Menu

@@ -10,7 +10,7 @@
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🌅 bistrot sul mare |
 | Contatti | 0596 28 63 70 / 0607 76 45 92 |
-| Valutazioni | TA 4,7/5 (138), Travellers' Choice 2025 (n°5/777 a Sainte-Luce) → ★★★★★ |
+| Valutazioni |TA 4,7/5 (138), Travellers' Choice 2025 (n°5/777 a Sainte-Luce) → ★★★★★|
 | Orari | mer–dom 12–14 / 18–21 · chiuso lun–mar |
 
 ## Menu

@@ -9,7 +9,7 @@ Ultimo aggiornamento: 22/08/2026 · Isola piccola: servizi essenziali, niente gr
 | **Alimentari** | Negozio di alimentari a Caleta del Sebo | **DATO MANCANTE** | Base: pane, freschi essenziali, scorta rapida |
 | **Macelleria** | A Caleta del Sebo | **DATO MANCANTE** | Carne locale |
 | **Bar (2)** | Un paio di bar nel villaggio | **DATO MANCANTE** | Caffè/bocadillos; orari variabili |
-| **Carburante** | **Disponibile al porto** [voce diretta ★] | **DATO MANCANTE** | Comodissimo per chi è alla àncora: confermare modalità (tanica/pompa) all'arrivo |
+| **Carburante** | **Disponibile al porto** ★ | **DATO MANCANTE** | Comodissimo per chi è alla àncora: confermare modalità (tanica/pompa) all'arrivo |
 
 ## Consigli
 

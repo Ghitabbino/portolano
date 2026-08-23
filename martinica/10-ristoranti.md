@@ -2,7 +2,7 @@
 
 **Ultimo aggiornamento: 21/08/2026**
 
-Selezione orientata alla crociera: locali raggiungibili a piedi dagli ancoraggi e marine del portolano ([08 Ancoraggi](08-ancoraggi.md)). Valutazione ponderata = media Google + TripAdvisor (+ Petit Futé dove presente), verificata il 21/08/2026. Prezzi indicativi per persona senza bevande.
+Selezione orientata alla crociera: locali raggiungibili a piedi dagli ancoraggi e marine del portolano ([08 Ancoraggi](08-ancoraggi.md)). Valutazione ponderata = media Google + (+ dove presente), verificata il 21/08/2026. Prezzi indicativi per persona senza bevande.
 
 Legenda prezzi: **€** <20 · **€€** 20–40 · **€€€** >40 — Cucina: 🐟 pesce e frutti di mare · 🥩 carne e grigliate · 🥗 vegetariano-friendly · 🥙 street food creolo · 🍰 crêperie e dolci
 
@@ -31,15 +31,14 @@ Legenda prezzi: **€** <20 · **€€** 20–40 · **€€€** >40 — Cucin
 | [Sous le Vent](ristoranti/rist-sous-le-vent.md) | Sainte-Luce | **€€** | **🐟 Bistronomico pesce** | *Orata scottata · aragosta fiammeggiata* | **🌅 bistrot sul mare** | ★★★★★ |
 | [Le Zandoli](ristoranti/rist-zandoli.md) | Fort d'Alet | **€€€** | **🍽️ Gastronomica fusion** | *Menu degustazione 70/95 €* | **🏛️ boutique hotel 5*, vista baia** | ★★★★ |
 
-## App e fonti
+## App utili sul posto
 
 | Piattaforma | Uso locale |
 |---|---|
 | [TheFork/LaFourchette](https://www.thefork.fr) | Copertura parziale nelle Antille; sconti −20/−30/−50% dove presente ⚠️ verificare ristorante per ristorante |
 | [TripAdvisor](https://www.tripadvisor.fr) | Ampio, buono per confrontare valutazioni |
 | Google Maps recensioni | Il più aggiornato; orari spesso errati fuori stagione |
-| [Petit Futé Antilles](https://www.petitfute.com) | Guida francese storica, buona per i lolo creoli |
 | Facebook locale | Pagine dei ristoranti: menu e chiusure in tempo reale |
-| [Uber Eats](https://www.ubereats.com) | Attivo a Fort-de-France dal 2021 (consegna 11–14:30 / 18–23) [France-Antilles ★★★] |
+| [Uber Eats](https://www.ubereats.com) |Attivo a Fort-de-France dal 2021 (consegna 11–14:30 / 18–23) ★★★|
 
 Ultimo aggiornamento: 22/08/2026

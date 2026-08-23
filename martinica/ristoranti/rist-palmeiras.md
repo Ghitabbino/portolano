@@ -10,7 +10,7 @@
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🌅 vista Rocher, tramonto |
 | Contatti | 0596 76 12 99 |
-| Valutazioni | Google 4,4/5 (880) · TA 4,2/5 (1029) → ★★★★½ |
+| Valutazioni |Google 4,4/5 (880) · TA 4,2/5 (1029) → ★★★★½|
 | Orari | lun 12–23 · mer–sab 12–23 · dom 12–15 · chiuso martedì |
 
 ## Menu

@@ -1,6 +1,6 @@
 # 05 — Stagionalità e meteo
 
-Ultimo aggiornamento: 22/08/2026 · Fuori dalla fascia uragani. Il cono del **Pico do Fogo (2.829 m, secondo vulcano dell'Atlantico dopo il Teide)** genera un microclima tutto suo. [Noonsite ★★★]
+Ultimo aggiornamento: 22/08/2026 · Fuori dalla fascia uragani. Il cono del **Pico do Fogo (2.829 m, secondo vulcano dell'Atlantico dopo il Teide)** genera un microclima tutto suo. ★★★
 
 ## Stagioni
 

@@ -2,11 +2,11 @@
 
 [← Tutti gli ancoraggi](../08-ancoraggi.md)
 
-**9°31.2′N 78°55.8′W** [CruisersWiki ★★]
+**9°31.2′N 78°55.8′W** ★★
 
 | Campo | Dettaglio |
 |---|---|
-| **Profondità** | 5–12 m baia tra reef [CruisersWiki ★★] |
+| **Profondità** |5–12 m baia tra reef ★★|
 | **Tenuta àncora** | Eccellente |
 | **Venti/riparo** | Il meglio protetto dagli alisei di San Blas |
 | **Pericoli** | Ingresso stretto: guardia a vista |

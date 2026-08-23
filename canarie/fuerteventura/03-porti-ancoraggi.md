@@ -30,11 +30,11 @@ Ultimo aggiornamento: 22/08/2026 · Cartografia ufficiale Navionics/C-MAP/IHM.
 
 | Porto | Posti | Telefono |
 |---|---|---|
-| **Puerto El Castillo (Caleta de Fuste)** | 99 (fino 16 m) | **928 163 514** [Autorità ★★★★] |
-| Corralejo | 110 | **928 866 524** [★★★★] |
-| Morro Jable | 50 (fino 30 m) | **928 540 374** [★★★★] |
-| Gran Tarajal | 170 | **928 164 101** [★★★★] |
-| Puerto del Rosario | 184 | **928 860 200** [★★★★] |
+| **Puerto El Castillo (Caleta de Fuste)** | 99 (fino 16 m) | **928 163 514** ★★★★ |
+| Corralejo | 110 | **928 866 524** ★★★★ |
+| Morro Jable | 50 (fino 30 m) | **928 540 374** ★★★★ |
+| Gran Tarajal | 170 | **928 164 101** ★★★★ |
+| Puerto del Rosario | 184 | **928 860 200** ★★★★ |
 
 ## Distanze utili
 

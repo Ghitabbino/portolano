@@ -1,6 +1,6 @@
 # 07 — Provvisioning
 
-Ultimo aggiornamento: 22/08/2026 · Telefoni verificati su elenco ufficiale Mercadona/HiperDino + Páginas Amarillas [★★★]
+Ultimo aggiornamento: 22/08/2026 · Telefoni verificati su elenco ufficiale Mercadona/HiperDino + Páginas Amarillas ★★★
 
 ## Supermercati Santa Cruz (zona porto in grassetto)
 
@@ -16,7 +16,7 @@ Orari catene: lun–sab 9:00–21:30, domenica chiusa.
 
 ## App consegna
 
-Uber Eats e Just Eat consegnano **spesa supermercato** a Santa Cruz (HiperDino tra i negozi partner) ✓ — raggio zona porto da verificare sul posto; consegna al cancello marina, non a bordo.
+ e consegnano **spesa supermercato** a Santa Cruz (HiperDino tra i negozi partner) ✓ — raggio zona porto da verificare sul posto; consegna al cancello marina, non a bordo.
 
 ## Acqua e carburante
 

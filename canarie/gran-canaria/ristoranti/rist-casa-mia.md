@@ -10,7 +10,7 @@
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🍽️ intimo lungo canale |
 | Contatti | **DATO MANCANTE** |
-| Valutazioni | Google 4,9/5 (456) ★★★★★ |
+| Valutazioni |Google 4,9/5 (456) ★★★★★|
 | Orari | cena; chiusura ⚠️ |
 
 ## Menu

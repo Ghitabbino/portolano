@@ -10,7 +10,7 @@
 | Costo | 💰€€ per persona senza bevande |
 | Location | ⚓ terrazza sulla darsena |
 | Contatti | **DATO MANCANTE** |
-| Valutazioni | TA ★★★½ (prezzo ok, porzioni abbondanti) |
+| Valutazioni |TA ★★★½ (prezzo ok, porzioni abbondanti)|
 | Orari | pranzo/cena |
 
 ## Menu

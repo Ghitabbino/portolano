@@ -4,8 +4,8 @@ Ultimo aggiornamento: 22/08/2026 · **Valutazione sicurezza: 3/5** (urbano Minde
 
 ## Quadro
 
-- Stagione 2023/24: furti a bordo di barche all'ancoraggio e più elemosina in città. Dal 2024 la Marina Mindelo ha stretto la collaborazione con le autorità: pattugliamenti terra/mare potenziati, videosorveglianza ampliata, tempi di risposta migliorati. [Noonsite ★★★]
-- A Praia e in alcune zone turistiche dell'arcipelago sono segnalate ondate di criminalità contro turisti (borseggi, aggressioni notturne). Advisory UK attive. [Noonsite ★★★; gov.uk ★★★★]
+- Stagione 2023/24: furti a bordo di barche all'ancoraggio e più elemosina in città. Dal 2024 la Marina Mindelo ha stretto la collaborazione con le autorità: pattugliamenti terra/mare potenziati, videosorveglianza ampliata, tempi di risposta migliorati. ★★★
+- A Praia e in alcune zone turistiche dell'arcipelago sono segnalate ondate di criminalità contro turisti (borseggi, aggressioni notturne). Advisory UK attive. ★★★
 
 ## Regole pratiche
 

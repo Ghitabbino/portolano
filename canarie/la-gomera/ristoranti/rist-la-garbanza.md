@@ -10,7 +10,7 @@
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🏊 accanto piscina naturale |
 | Contatti | **922 805 456** |
-| Valutazioni | Instagram attivo ★★★★ |
+| Valutazioni |Instagram attivo ★★★★|
 | Orari | pranzo/cena |
 
 ## Menu

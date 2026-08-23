@@ -10,7 +10,7 @@
 | Costo | 💰€€ ~30 € per persona senza bevande [Viajando por el Mundo] |
 | Location | 🌿 tasca gastrotasca con terrazza-giardino interno tropicale |
 | Contatti | 922 28 42 52 / WhatsApp 922 28 42 52 · panzaburro@gmail.com |
-| Valutazioni | Google 4,4/5 (1.342) · TA 4,3/5 (616) → ★★★★½ |
+| Valutazioni |Google 4,4/5 (1.342) · TA 4,3/5 (616) → ★★★★½|
 | Orari | mar–sab 13–16:30 / 20–23 (sab fino 23:30) · dom e lun chiuso ⚠️ fonti divergenti sulla domenica |
 
 ## Menu

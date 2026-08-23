@@ -10,7 +10,7 @@
 | Costo | 💰€ per persona senza bevande |
 | Location | 🪶 sala ampia familiare |
 | Contatti | **DATO MANCANTE** |
-| Valutazioni | Google 2600+ voti ★★★★ |
+| Valutazioni |Google 2600+ voti ★★★★|
 | Orari | tutti i giorni |
 
 ## Menu

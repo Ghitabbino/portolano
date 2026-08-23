@@ -6,12 +6,12 @@
 
 | Servizio | Nome | Contatti | Note | Fonte |
 |---|---|---|---|---|
-| Marina hub / varadero | **Marina Lanzarote** (Calero Marinas) | Av. Olof Palme s/n, Arrecife · Capitaineria +34 928 663 263 / +34 648 524 649 · VHF 09 · marina@marinalanzarote.com | Ufficio 8–20 tutti i giorni · **VARADERO** con servizi di manutenzione/limpieza contrattabili direttamente in marina · negozi nautici nelle vicinanze | [guida masmar ★★★] |
-| Manutenzione ordinaria in varada | Squadre della Marina Lanzarote (limpieza, antivegetativa, interventi leggeri) | Contrattabili tramite capitaineria (vedi riga sopra) | Preventivo richiesto in capitaineria; prenotare in alta stagione | [guida masmar ★★★] |
+| Marina hub / varadero | **Marina Lanzarote** (Calero Marinas) | Av. Olof Palme s/n, Arrecife · Capitaineria +34 928 663 263 / +34 648 524 649 · VHF 09 · marina@marinalanzarote.com | Ufficio 8–20 tutti i giorni · **VARADERO** con servizi di manutenzione/limpieza contrattabili direttamente in marina · negozi nautici nelle vicinanze | ★★★ |
+| Manutenzione ordinaria in varada | Squadre della Marina Lanzarote (limpieza, antivegetativa, interventi leggeri) | Contrattabili tramite capitaineria (vedi riga sopra) | Preventivo richiesto in capitaineria; prenotare in alta stagione | ★★★ |
 
 ## Altri operatori
 
-- **Spinnaker Canarias @ Marina Rubicón** (Playa Blanca) — esposizione nautica, vendita barche a motore e vela, vendita motori · Puerto Deportivo Marina Rubicón, C/ El Berrugo 2, 35580 Playa Blanca · +34 928 519 012 int. 3 · varadero@marinarubicon.com [sito Spinnaker Canarias ★★★]
+- **Spinnaker Canarias @ Marina Rubicón** (Playa Blanca) — esposizione nautica, vendita barche a motore e vela, vendita motori · Puerto Deportivo Marina Rubicón, C/ El Berrugo 2, 35580 Playa Blanca · +34 928 519 012 int. 3 · varadero@ ★★★
 - Meccanici freelance, sailmaker e elettricisti navali ad Arrecife: **DATO MANCANTE**, elenco da richiedere in capitaineria.
 
 ## Dove si trova cosa
@@ -25,7 +25,7 @@
 | Negozio | Cosa trovi | Tel | Mail / sito | Sede & orari | Recensioni |
 |---|---|---|---|---|---|
 | Negozi nautici vicino alla Marina Lanzarote | Accastillage di base, manutenzione (elenco puntualizzato in raccolta) | **DATO MANCANTE** | — | Zona Arrecife, attorno alla marina | — |
-| **Spinnaker @ Marina Rubicón** | Vendita barche/motori, esposizione nautica; tienda náutica madre a Santa Cruz de Tenerife (marchi B&G, Simrad, Lowrance, Harken, Spinlock, Selden) | +34 928 519 012 int. 3 | varadero@marinarubicon.com · spinnakercanarias.com | Puerto Deportivo Marina Rubicón, Playa Blanca | [sito ★★★] |
+| **Spinnaker @ Marina Rubicón** | Vendita barche/motori, esposizione nautica; tienda náutica madre a Santa Cruz de Tenerife (marchi B&G, Simrad, Lowrance, Harken, Spinlock, Selden) | +34 928 519 012 int. 3 | varadero@marinarubicon.com · spinnakercanarias.com | Puerto Deportivo Marina Rubicón, Playa Blanca | ★★★ |
 
 ## Note pratiche
 

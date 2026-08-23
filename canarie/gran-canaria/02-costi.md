@@ -6,11 +6,11 @@ Ultimo aggiornamento: 22/08/2026 · Valuta: euro · IGIC ~7% (fiscalità special
 
 | Voce | Prezzo indicativo | Note |
 |---|---|---|
-| Birra locale (0,33 l) | 0,60–1 € | Tropical/Dorada [★★] |
-| Acqua 1,5 l | 0,50–0,80 € | [★★] |
-| Latte 1 l | 0,90–1,20 € | [★★] |
+| Birra locale (0,33 l) | 0,60–1 € |Tropical/Dorada ★★|
+| Acqua 1,5 l | 0,50–0,80 € | ★★ |
+| Latte 1 l | 0,90–1,20 € | ★★ |
 | Riso 1 kg | **DATO MANCANTE** | Da rilevare |
-| Pollo 1 kg | 5–7 € | [★★] |
+| Pollo 1 kg | 5–7 € | ★★ |
 
 Supermercati comodi a Las Palmas vicino alla marina (catene spagnole: Mercadona, Spar, Hyperdino); grande spesa nelle grandi superfici periferiche.
 

@@ -4,7 +4,7 @@
 
 ## Clima
 
-- Temperatura media **26 °C tutto l'anno**, clima marittimo con **alisei moderati** e rovesci intensi. [Noonsite Facts, agg. ~feb/mar 2026 ★★★]
+- Temperatura media **26 °C tutto l'anno**, clima marittimo con **alisei moderati** e rovesci intensi. ★★★
 
 ## Stagioni
 
@@ -13,7 +13,7 @@
 | **Dicembre – aprile/maggio** | Stagione secca e fresca, alisei stabili: **periodo migliore per la crociera** |
 | **Luglio – novembre** | **Stagione degli uragani**: molti assicuratori impongono aree/limiti; il Marin ha "trou à cyclone" (riparo ciclonico) ma nessun riparo è garantito |
 
-[Noonsite ★★★; consignes cycloniques Marina du Marin ★★★★]
+★★★
 
 ## Consignes cicloniche (ufficiale ★★★★)
 
@@ -25,12 +25,12 @@ Stagione **giugno–novembre**, picco agosto–ottobre. La Martinica è stata co
 
 ## Venti locali
 
-- Alisei da ENE tipici delle Windward; raffiche scese dai rilievi nelle baie della costa ovest. [Noonsite commenti ★★]
-- Traversate inter-isole (canale Santa Lucia): attenzione alle collisioni con cetacei — un catamarano colpito da una balena nel canale nel 2017, terzo caso in pochi mesi secondo il capitano portuale. [Noonsite commenti 2017 ★★]
+- Alisei da ENE tipici delle Windward; raffiche scese dai rilievi nelle baie della costa ovest. ★★
+- Traversate inter-isole (canale Santa Lucia): attenzione alle collisioni con cetacei — un catamarano colpito da una balena nel canale nel 2017, terzo caso in pochi mesi secondo il capitano portuale. ★★
 
 ## Finestre tipiche
 
-Traversate Martinica→Sainte-Lucie (22 M N) o →Dominica (30 M NW): fattibili con aliseo ≤20 kn, meglio mattino presto quando il vento è minimo. Il canale Santa Lucia (110 M verso Guadalupa) si naviga con finestra post-frontale in stagione secca. [Bloc Marine ★★★★; esperienza crocieristi ★★]
+Traversate Martinica→Sainte-Lucie (22 M N) o →Dominica (30 M NW): fattibili con aliseo ≤20 kn, meglio mattino presto quando il vento è minimo. Il canale Santa Lucia (110 M verso Guadalupa) si naviga con finestra post-frontale in stagione secca. ★★★★
 
 ## Link meteo e carte locali
 

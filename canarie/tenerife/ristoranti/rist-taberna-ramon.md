@@ -10,7 +10,7 @@
 | Costo | 💰€ per persona senza bevande |
 | Location | 🍺 tasca di quartiere |
 | Contatti | **DATO MANCANTE** |
-| Valutazioni | TA positive ★★★★ |
+| Valutazioni |TA positive ★★★★|
 | Orari | tutti i giorni pranzo/cena |
 
 ## Menu

@@ -32,7 +32,7 @@ Ultimo aggiornamento: 22/08/2026 · Cartografia ufficiale Navionics/C-MAP/IHM.
 |---|---|---|
 | Marina Lanzarote (~12 m) | ~25–40 €/notte ⚠️ stima | Listino: **DATO MANCANTE** |
 | Puerto Calero | Fascia alta | Calero Marinas: stesso gruppo Marina Lanzarote — tel capitaineria 928 663 263 |
-| Marina Rubicón (Playa Blanca) | 547 posti fino 70 m · fuel · vigilanza 24h · **928 519 012** · VHF 9 · info@marinarubicon.com [guida masmar ★★★★] |
+| Marina Rubicón (Playa Blanca) |547 posti fino 70 m · fuel · vigilanza 24h · **928 519 012** · VHF 9 · info@marinarubicon.com ★★★★|
 
 ## Distanze utili
 

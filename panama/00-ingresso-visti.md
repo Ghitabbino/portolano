@@ -1,6 +1,6 @@
 # 00 — Ingresso, documenti e visti
 
-Scheda **comune** a tutto Panama: vale sia per il Canale che per San Blas/Guna Yala (che aggiunge regole proprie della comarca → vedi *Panama · San Blas*). Fonte principale: [Noonsite ★★★] aggiornata 2025–2026, [travelsketchsailing ★★ 2026], [embassyofpanama.org ★★★★★].
+Scheda **comune** a tutto Panama: vale sia per il Canale che per San Blas/Guna Yala (che aggiunge regole proprie della comarca → vedi *Panama · San Blas*). Fonte principale: ★★★ aggiornata 2025–2026, ★★, ★★★★★.
 
 ## Status
 
@@ -14,29 +14,29 @@ Scheda **comune** a tutto Panama: vale sia per il Canale che per San Blas/Guna Y
 
 | Paese UE | Turismo |
 |---|---|
-| Tutti i paesi UE (Italia inclusa) | Nessun visto per soggiorni turistici: **90 giorni** prorogabili una volta [tourismpanama.com ★★★★★ 2025] |
+| Tutti i paesi UE (Italia inclusa) |Nessun visto per soggiorni turistici: **90 giorni** prorogabili una volta ★★★★★|
 
 | Requisiti all'arrivo | Dettaglio |
 |---|---|
-| Passaporto | Validità ≥ **3 mesi** oltre l'ingresso [embassyofpanama.org ★★★★★] |
+| Passaporto |Validità ≥ **3 mesi** oltre l'ingresso ★★★★★|
 | Biglietto/titolo di continuazione | Richiesto (per chi arriva via mare vale lo zarpe verso il paese successivo) |
-| Prova di solvibilità | ~**US$500** a persona [embassyofpanama.org ★★★★★] |
+| Prova di solvibilità |~**US$500** a persona ★★★★★|
 | Vaccini | Febbre gialla richiesta solo da paesi endemici (non UE); nessun'altra vaccinazione obbligatoria |
 
 ## Nota importante per chi arriva via mare
 
 | Passo | Dettaglio |
 |---|---|
-| Preavviso email | Fino a **72 h prima**: zarpe, licenza di navigazione, passaporti → Colón side: regionalcolon@migracion.gob.pa [travelsketchsailing ★★ 2026] |
-| Presentazione entro **72 h** | Equipaggio a Migración + Capitaneria del primo porto; senza timbro d'ingresso multa fino a **US$1.000/persona** [Noonsite ★★★] |
-| Uffici succursale ("sucursal") | Balboa YC, Flamenco, Linton Bay, Porvenir: rilasciano **solo** il permesso 72 h; il visto vero si fa negli uffici principali (Colón/Cristóbal o Diablo, Panama City) [Noonsite ★★★] |
+| Preavviso email |Fino a **72 h prima**: zarpe, licenza di navigazione, passaporti → Colón side: regionalcolon@migracion.gob.pa ★★|
+| Presentazione entro **72 h** | Equipaggio a Migración + Capitaneria del primo porto; senza timbro d'ingresso multa fino a **US$1.000/persona** ★★★ |
+| Uffici succursale ("sucursal") |Balboa YC, Flamenco, Linton Bay, Porvenir: rilasciano **solo** il permesso 72 h; il visto vero si fa negli uffici principali (Colón/Cristóbal o Diablo, Panama City) ★★★|
 
 ## E dopo i 90 giorni?
 
 | Opzione | Costo |
 |---|---|
 | Proroga permesso turistico (una volta) | presso ufficio Migración principale |
-| **Visto marinaio (seaman's visa)** 12 mesi | ~**US$105/persona**, solo se arrivati in barca; si annulla lasciando il paese (rientro aereo = permesso normale) [Noonsite ★★★] |
+| **Visto marinaio (seaman's visa)** 12 mesi |~**US$105/persona**, solo se arrivati in barca; si annulla lasciando il paese (rientro aereo = permesso normale) ★★★|
 
 ## La barca: Permiso de Navegación (cruising permit)
 
@@ -44,9 +44,9 @@ Nessuna temporanea import separata: la legalità della barca = **Permiso de Nave
 
 | Voce | Dato |
 |---|---|
-| Obbligatorio oltre | **3 giorni** in acque panamensi [Noonsite ★★★] |
-| Durata/costo base | 1 anno, **US$185–193** (tot ~US$235–240 con agenzia locale) [Noonsite ★★★; travelsketchsailing ★★ 2026] |
-| Rinnovi | 2 volte × 12 mesi [travelsketchsailing ★★ 2026] |
+| Obbligatorio oltre |**3 giorni** in acque panamensi ★★★|
+| Durata/costo base |1 anno, **US$185–193** (tot ~US$235–240 con agenzia locale) ★★★|
+| Rinnovi |2 volte × 12 mesi ★★|
 | Dove | AMP Colón (Atlantico) / Diablo (Pacifico) |
 
 ## Vaccini

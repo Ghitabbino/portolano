@@ -30,12 +30,12 @@ Costa steep-to e baie sud battute dall'aliseo: ancoraggi rari e mediocri. Le mar
 
 | Marina | Posti | Telefono | Web/mail |
 |---|---|---|---|
-| **Muelle Deportivo Las Palmas** (Palmasport) | ~1000, fino a 50 m | **+34 928 214 400** | palmasport.es · marina@palmasport.es [ufficiale ★★★★★] |
-| Puerto Deportivo Las Palmas G.C. | 1000 | 928 300 464 | [muchaplaya/Autorità ★★★★] |
-| Puerto de Mogán | 208 (fino 45 m) | **928 565 668** | [★★★★] |
-| Puerto Rico de Gran Canaria | 531 (fino 45 m) | **928 561 143** | puertoricosa.com [★★★★] |
-| Club Yates Pasito Blanco | 386 | **928 142 194** | [★★★★] |
-| Anfi del Mar | 89 | **928 150 120** / 798 | anfidelmar.com [★★★★] |
+| **Muelle Deportivo Las Palmas** (Palmasport) | ~1000, fino a 50 m | **+34 928 214 400** |palmasport.es · marina@palmasport.es ★★★★★|
+| Puerto Deportivo Las Palmas G.C. | 1000 | 928 300 464 | ★★★★ |
+| Puerto de Mogán | 208 (fino 45 m) | **928 565 668** | ★★★★ |
+| Puerto Rico de Gran Canaria | 531 (fino 45 m) | **928 561 143** |puertoricosa.com ★★★★|
+| Club Yates Pasito Blanco | 386 | **928 142 194** | ★★★★ |
+| Anfi del Mar | 89 | **928 150 120** / 798 |anfidelmar.com ★★★★|
 
 ## Tariffe indicative
 

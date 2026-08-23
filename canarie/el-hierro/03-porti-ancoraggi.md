@@ -13,7 +13,7 @@ Isola più piccola e remota dell'arcipelago: **un solo approdo** per i diportist
 | Voce | Nota |
 |---|---|
 | Marina | 22 ormeggi fino 20 m · pescaggio max 8 m · travelift 5 t + gru · dry dock · tariffe → **DATO MANCANTE** [puertoscanarios ★★★★] |
-| Contatti | **+34 922 557 081** · acqua/elettricità a pontile · centro diving nel paese [★★★★] |
+| Contatti |**+34 922 557 081** · acqua/elettricità a pontile · centro diving nel paese ★★★★|
 | Esposizione | Protetta dai venti dominanti NE grazie alla posizione sulla punta sud; sensibile a swell da S |
 | Clearance | Porto di ingresso dell'isola |
 

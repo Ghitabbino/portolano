@@ -6,8 +6,8 @@
 
 | Servizio | Nome | Contatti | Note | Fonte |
 |---|---|---|---|---|
-| Shipchandler | **Las Palmas Shipchandler** – Canary Islands Ship Supplies (dal 1984) | Pol. Ind. El Sebadal, 35008 Las Palmas · Mob +34 604 37 54 15 (7 giorni su 7, 24h) · supply@laspalmasshipchandler.com | Provisioning completo pre-traversata, consegne in porto | [sito ★★★] |
-| Shipchandler | **ShipGoldChandler** | Calle OPDR s/n, 35008 Las Palmas · +34 928 46 89 91 / +34 659 94 60 19 · sales@shipgoldchandler.com | Servizio 24/7, zona portuale OPDR/darsena commerciale | [sito ★★★] |
+| Shipchandler | **Las Palmas Shipchandler** – Canary Islands Ship Supplies (dal 1984) | Pol. Ind. El Sebadal, 35008 Las Palmas · Mob +34 604 37 54 15 (7 giorni su 7, 24h) · supply@laspalmasshipchandler.com | Provisioning completo pre-traversata, consegne in porto | ★★★ |
+| Shipchandler | **ShipGoldChandler** | Calle OPDR s/n, 35008 Las Palmas · +34 928 46 89 91 / +34 659 94 60 19 · sales@shipgoldchandler.com | Servizio 24/7, zona portuale OPDR/darsena commerciale | ★★★ |
 | Capitaineria / servizi tecnici | **Marina Las Palmas** (area Porto della Luz) | **DATO MANCANTE** da confermare | Servizi tecnici e area yard del Porto della Luz; elenco artigiani autorizzati da richiedere in capitaineria | — |
 
 ## Altri operatori
@@ -25,8 +25,8 @@
 
 | Negozio | Cosa trovi | Tel | Mail / sito | Sede & orari | Recensioni |
 |---|---|---|---|---|---|
-| **Las Palmas Shipchandler** (Canary Islands Ship Supplies, dal 1984) | Provisioning completo: freschi e secchi, bevande, ricambi, attrezzatura di coperta, consegna a bordo | +34 604 37 54 15 (7/24) | supply@laspalmasshipchandler.com | Pol. Ind. El Sebadal, 35008 Las Palmas · reperibile 7 giorni su 7, 24 ore | [sito ★★★] |
-| **ShipGoldChandler** | Provisioning nave/yacht, ordini urgenti anche notturni | +34 928 46 89 91 / +34 659 94 60 19 | sales@shipgoldchandler.com | Calle OPDR s/n, 35008 Las Palmas · servizio 24/7 | [sito ★★★] |
+| **Las Palmas Shipchandler** (Canary Islands Ship Supplies, dal 1984) | Provisioning completo: freschi e secchi, bevande, ricambi, attrezzatura di coperta, consegna a bordo | +34 604 37 54 15 (7/24) | supply@laspalmasshipchandler.com | Pol. Ind. El Sebadal, 35008 Las Palmas · reperibile 7 giorni su 7, 24 ore | ★★★ |
+| **ShipGoldChandler** | Provisioning nave/yacht, ordini urgenti anche notturni | +34 928 46 89 91 / +34 659 94 60 19 | sales@shipgoldchandler.com | Calle OPDR s/n, 35008 Las Palmas · servizio 24/7 | ★★★ |
 
 ## Note pratiche
 

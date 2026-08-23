@@ -1,10 +1,10 @@
 # 01 — Clearance doganale della barca
 
-**Ultima verifica: 22/08/2026** · Fonte principale: Noonsite Cape Verdes ★★★
+**Ultima verifica: 22/08/2026** · Fonte principale: Cape Verdes ★★★
 
 ## Punto chiave
 
-**Maio non è un punto di ingresso ufficiale**: i soli porti di primo ingresso in Capo Verde sono Mindelo, Palmeira e Praia. [Noonsite ★★★]
+**Maio non è un punto di ingresso ufficiale**: i soli porti di primo ingresso in Capo Verde sono Mindelo, Palmeira e Praia. ★★★
 
 - Arrivo diretto dall'estero a Maio = violazione delle formalità d'ingresso. Prima sosta obbligatoria a **Praia** (il più comodo per il Sotavento).
 - Da isola a isola: presentarsi alla delegazione locale della Capitania do Porto / Polícia Marítima a Porto Inglês per segnalare il movimento interno; la prassi è informale ma va rispettata.

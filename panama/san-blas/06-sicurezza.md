@@ -10,7 +10,7 @@
 |---|---|
 | Isole turistiche (Lemmons, Holandeses) | Tranquille; venditori in canoa di giorno; di notte isolate |
 | Villaggi sulla costa | Sicuri con rispetto delle regole comunitarie |
-| Confine colombiano (est, oltre Playón Chico/Mamitupu) | ⚠️ Presenza occasionale di traffico illegale: evitare l'area orientale [Noonsite ★★★] |
+| Confine colombiano (est, oltre Playón Chico/Mamitupu) |⚠️ Presenza occasionale di traffico illegale: evitare l'area orientale ★★★|
 
 ## Mappa delle zone — offline
 
@@ -25,11 +25,11 @@
 
 ## Furti ai danni dei crocieristi
 
-Casi sporadici di boarding notturno su barche isolate (2016–2024, Noonsite/CSSN ★★★): difese perimetrali, luci, oggetti fuori bordo riposti. Le comunità puniscono severamente i ladri: segnalare sempre agli abitanti.
+Casi sporadici di boarding notturno su barche isolate (2016–2024, / ★★★): difese perimetrali, luci, oggetti fuori bordo riposti. Le comunità puniscono severamente i ladri: segnalare sempre agli abitanti.
 
 ## A bordo e a terra
 
-Non lasciare il dinghy al largo di notte; chiedere permesso prima di sbarcare nei villaggi; vestizione sobria; chiedere prima di fotografare le persone [usanza Guna ★★★].
+Non lasciare il dinghy al largo di notte; chiedere permesso prima di sbarcare nei villaggi; vestizione sobria; chiedere prima di fotografare le persone ★★★.
 
 ## Navigazione
 
@@ -48,6 +48,6 @@ Non lasciare il dinghy al largo di notte; chiedere permesso prima di sbarcare ne
 
 ## Monitoraggio mensile sicurezza
 
-Fonti: Noonsite Security, CSSN, gruppi FB "San Blas Cruising". Aggiornare valutazione e mappa.
+Fonti: Security,, gruppi FB "San Blas Cruising". Aggiornare valutazione e mappa.
 
 Ultimo aggiornamento: 22/08/2026

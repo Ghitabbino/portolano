@@ -4,8 +4,8 @@
 
 ## Livello prezzi generale
 
-- Alimentari ~+30–40% vs Francia metropolitana, in linea con la Martinica; più economici delle Grenadine secondo i naviganti. [Noonsite commenti ★★]
-- Prodotti locali convenienti: pesce dai pescatori, frutta/verdura dei mercati, pane/boulangerie. [Petit Futé ★★★]
+- Alimentari ~+30–40% vs Francia metropolitana, in linea con la Martinica; più economici delle Grenadine secondo i naviganti. ★★
+- Prodotti locali convenienti: pesce dai pescatori, frutta/verdura dei mercati, pane/boulangerie. ★★★
 
 ## Supermercati
 
@@ -16,7 +16,7 @@
 | Super U / Leader Price | Pointe-à-Pitre, Le Gosier, Sainte-Anne, Saint-François, Basse-Terre | Diffusi ovunque |
 | Supermercati Bas-du-Fort | accanto alla marina | Comodo per rifornimento rapido |
 
-La zona **Jarry** (3.500 imprese) è il maggiore polo commerciale dei Caraibi: qui si trova praticamente tutto, compresi pezzi industriali e ricambi. [★★]
+La zona **Jarry** (3.500 imprese) è il maggiore polo commerciale dei Caraibi: qui si trova praticamente tutto, compresi pezzi industriali e ricambi. ★★
 
 ## Mercati
 

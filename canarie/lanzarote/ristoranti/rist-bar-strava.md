@@ -10,7 +10,7 @@
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🪶 informale conviviale |
 | Contatti | **DATO MANCANTE** |
-| Valutazioni | TA ★★★★ |
+| Valutazioni |TA ★★★★|
 | Orari | mezze porzioni per condividere |
 
 ## Menu

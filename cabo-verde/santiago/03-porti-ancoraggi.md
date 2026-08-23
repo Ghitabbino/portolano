@@ -8,7 +8,7 @@ Ultimo aggiornamento: 22/08/2026 · Coordinate indicative; navigare con cartogra
 |---|---|
 | Natura | Porto container/ferry attivo; niente pontoni per diporto |
 | Ingresso rada | Tra Ponta Temerosa (con il faro Dona Maria Pia) e la costa N; attenzione alle reti dei pescatori |
-| Ancoraggio | Fondo sabbioso, tenuta buona; esposto a S/SW → rollìo quasi costante [Noonsite ★★★] |
+| Ancoraggio |Fondo sabbioso, tenuta buona; esposto a S/SW → rollìo quasi costante ★★★|
 
 - Il molo commerciale è riservato a cargo/ferry: mai ormeggiare senza permesso della Capitania.
 - "Dock Praia": piccolo scalo/arsenale per unità locali; nessun servizio dedicato agli yachts verificabile. Contatti: **DATO MANCANTE**.
@@ -17,7 +17,7 @@ Ultimo aggiornamento: 22/08/2026 · Coordinate indicative; navigare con cartogra
 
 | Tenuta | Note |
 |---|---|
-| ★★★ | Guardia notturna, barche locali, aiuto all'ormeggio dai residenti; l'opzione più usata dai naviganti per notti brevi [Noonsite commenti ★★] |
+| ★★★ |Guardia notturna, barche locali, aiuto all'ormeggio dai residenti; l'opzione più usata dai naviganti per notti brevi ★★|
 
 ## Altri approdi sull'isola
 

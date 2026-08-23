@@ -4,7 +4,7 @@ Ultimo aggiornamento: 22/08/2026 · Contesto generale in [00 — Ingresso](../00
 
 ## Porto Novo
 
-Porto Novo è elencato tra gli approdi di Capo Verde su Noonsite ed è il principale porto dell'isola (scalo dei ferries da Mindelo). [Noonsite ★★★]
+Porto Novo è elencato tra gli approdi di Capo Verde su ed è il principale porto dell'isola (scalo dei ferries da Mindelo). ★★★
 
 | Voce | Dettaglio |
 |---|---|
@@ -15,6 +15,6 @@ Porto Novo è elencato tra gli approdi di Capo Verde su Noonsite ed è il princi
 
 ## Consiglio pratico
 
-Per quasi tutti i naviganti la clearance nazionale si fa a **Mindelo** (9 Mm) e si visita Santo Antão in regime inter-isole: notificare comunque le autorità locali all'arrivo — lo zarpe isola→isola non è richiesto ma consigliato. [Noonsite ★★★; Ocean Posse ★★★]
+Per quasi tutti i naviganti la clearance nazionale si fa a **Mindelo** (9 Mm) e si visita Santo Antão in regime inter-isole: notificare comunque le autorità locali all'arrivo — lo zarpe isola→isola non è richiesto ma consigliato. ★★★
 
 Ultimo aggiornamento: 22/08/2026

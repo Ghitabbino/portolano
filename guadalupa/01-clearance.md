@@ -11,25 +11,25 @@ Tutti i natanti da diporto, qualsiasi nazionalità e bandiera, che:
 
 ## Procedura online (obbligatoria dal 09/2024)
 
-Tutte le Antille francesi usano lo stesso portale: **https://www.demarches-simplifiees.fr/commencer/declaration-clearance-antilles** — dichiarazione d'ingresso e di partenza per natanti da/per l'estero. [Figaro Nautisme/Bloc Marine ★★★★; Guide Boat 2024, martinique.gouv.fr ★★★★★]
+Tutte le Antille francesi usano lo stesso portale: **https://www.demarches-simplifiees.fr/commencer/declaration-clearance-antilles** — dichiarazione d'ingresso e di partenza per natanti da/per l'estero. [/ ★★★★;  2024, martinique.gouv.fr ★★★★★]
 
 1. Compilare il modulo online (nave, equipaggio, provenienza/destinazione) **prima** dell'arrivo o subito dopo.
 2. Conservare la ricevuta PDF ricevuta via mail: è il documento da mostrare in caso di controllo.
 3. Nessun timbro, nessuna fila: i punti agréé servono solo se si vuole/vuole assistenza o non si ha internet.
 
-Dopo la prima clearance in un porto francese delle Antille, gli spostamenti tra Martinica, Guadalupa, Saint-Barth e Saint-Martin sono **liberi e senza formalità** (stesso territorio doganale). [Guide Boat 2024 ★★★★★]
+Dopo la prima clearance in un porto francese delle Antille, gli spostamenti tra Martinica, Guadalupa, Saint-Barth e Saint-Martin sono **liberi e senza formalità** (stesso territorio doganale). ★★★★★
 
 ## Copia cartacea timbrata
 
 - Finché gli altri stati caraibici non riconoscono la dichiarazione elettronica, **stampare l'attestation**: serve in carta per il check-in nei paesi NON francesi (es. Antigua, Dominica). [martinique.gouv.fr ★★★★★]
-- Il timbro (se richiesto) si ottiene in un **Point agréé Clearance** al costo di **5 €**; con il solo modulo online non è obbligatorio entrare in un porto ufficiale. [Noonsite ★★★]
+- Il timbro (se richiesto) si ottiene in un **Point agréé Clearance** al costo di **5 €**; con il solo modulo online non è obbligatorio entrare in un porto ufficiale. ★★★
 
 ## Costi
 
 | Voce | Costo | Fonte |
 |---|---|---|
 | Dichiarazione online | **Gratuita** | martinique.gouv.fr ★★★★★ |
-| Stampa+timbro attestation in Point agréé (opzionale) | **5 €** | Noonsite ★★★ |
+| Stampa+timbro attestation in Point agréé (opzionale) | **5 €** |Fonti diportiste aggregate ★★★|
 
 ## Punti agréé Guadalupa (lista ufficiale dogane, v. 12/2025)
 
@@ -48,13 +48,13 @@ Fonte: lista ufficiale "Points agréés clearance plaisance" (Punti autorizzati 
 
 ## Dogana regionale
 
-Direction Régionale des Douanes de Guadeloupe — 151 allée Maurice Micaux, 97102 Basse-Terre · +590 590 994 530 · dr-guadeloupe@douane.finances.gouv.fr [★★★★★]
+Direction Régionale des Douanes de Guadeloupe — 151 allée Maurice Micaux, 97102 Basse-Terre · +590 590 994 530 · dr-guadeloupe@douane.finances.gouv.fr ★★★★★
 
 ## Esperienze dei crocieristi
 
-- Les Saintes (ISM): check-in semplice, 14h–16h; internet e lavanderia disponibili in loco. [noforeignland ★★★]
-- Deshaies: procedura rapida ma personale a volte assente negli orari dichiarati — evitare l'ora di pranzo. [noforeignland ★★★]
-- Pointe-à-Pitre (Bas-du-Fort): ufficio affollato al mattino e a pranzo; clearance elettronica in capitaineria 8h–17h30 (8h–13h/14h–17h30 fuori stagione), dom/festivi 8h–12h. [noforeignland ★★★; Bloc Marine ★★★★]
+- Les Saintes (ISM): check-in semplice, 14h–16h; internet e lavanderia disponibili in loco. ★★★
+- Deshaies: procedura rapida ma personale a volte assente negli orari dichiarati — evitare l'ora di pranzo. ★★★
+- Pointe-à-Pitre (Bas-du-Fort): ufficio affollato al mattino e a pranzo; clearance elettronica in capitaineria 8h–17h30 (8h–13h/14h–17h30 fuori stagione), dom/festivi 8h–12h. ★★★
 
 ## Sanzioni
 

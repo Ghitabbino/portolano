@@ -10,7 +10,7 @@
 | Costo | 💰€ per persona senza bevande |
 | Location | 🌴 cortile tipico canario |
 | Contatti | **DATO MANCANTE** |
-| Valutazioni | Guru 4,9/5 (2312) ★★★★★ |
+| Valutazioni |Guru 4,9/5 (2312) ★★★★★|
 | Orari | sera, chiusura variabile ⚠️ |
 
 ## Menu

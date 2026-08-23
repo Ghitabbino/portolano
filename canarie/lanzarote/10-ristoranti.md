@@ -8,16 +8,16 @@ Selezione orientata alla crociera. Schede puntuali per locale in corso di raccol
 
 | Ristorante | Zona | Costo | Cucina | Specialità | Location | Stelle |
 |---|---|---|---|---|---|---|
-| [Malecón Restaurante & Copas](ristoranti/rist-malecon-restaurante-e-copas.md) | Arrecife – Charco de San Ginés | **€** | **🥘 Canaria fronte laguna** | *Papas arrugadas · sancocho* | **🌅 terrazza sul Charco** | CaptureAtlas ★★★★ |
-| [Bar Strava](ristoranti/rist-bar-strava.md) | Arrecife – centro | **€€** | **🥙 Raciones spagnole** | *Tablas ibéricas · pesce del giorno* | **🪶 informale conviviale** | TA ★★★★ |
-| [Mirador El Charco](ristoranti/rist-mirador-el-charco.md) | Arrecife – Charco de San Ginés | **€€** | **🐟 Pesce e arroz** | *Pescado fresco · arroces* | **🌅 vista Charco** | IG/TripAdvisor ★★★★ |
-| [Naia](ristoranti/rist-naia.md) | Arrecife – centro | **€€€** | **🍽️ Creativa spagnola** | *Arroz de setas* | **🍽️ moderno curato** | CaptureAtlas ★★★★½ |
-| [Charco Vivo](ristoranti/rist-charco-vivo.md) | Arrecife – Charco | **€€** | **🔥 Grill canaria** | *Parrillada · bocadillos de pescado* | **🌿 terrazza marinara** | sito ★★★★ |
-| [La Puntilla](ristoranti/rist-la-puntilla.md) | Arrecife – sul Charco | **€€** | **🐟 Pesce tradizionale** | *Vieja al horno con mojo* | **🪶 semplice locale** | TurismoLanzarote ★★★★ |
-| [Casa Rafa Restaurante de Mar](ristoranti/rist-casa-rafa-restaurante-de-mar.md) | El Golfo (escursione ovest) | **€€€** | **🐟 Pesce alla lavica** | *Caldereta · cherne* | **🌋 fronte lago verde dei Clicos** | TA ★★★★ (Travellers' Choice storica) |
-| [La Cocina de Colacho](ristoranti/rist-la-cocina-de-colacho.md) | Playa Blanca – vicino Marina Rubicón | **€€€€** | **🍽️ Gourmet d'autore** | *Menù degustazione carni* | **🍽️ galleria d'arte + cucina vista** | CaptureAtlas ★★★★★ |
-| [Casa Carlos](ristoranti/rist-casa-carlos.md) | Playa Blanca – costa | **€€€** | **🥩 Asador mediterraneo** | *Bue · bacalao a las brasas* | **🌙 chill-out vista costa** | CaptureAtlas ★★★★ |
-| [La Cascada Puerto](ristoranti/rist-la-cascada-puerto.md) | Puerto del Carmen – varadero | **€€** | **🐟 Caldereta e gambas** | *Caldereta de pescado* | **⚓ rustico sul porto** | TA ★★★★ |
+| [Malecón Restaurante & Copas](ristoranti/rist-malecon-restaurante-e-copas.md) | Arrecife – Charco de San Ginés | **€** | **🥘 Canaria fronte laguna** | *Papas arrugadas · sancocho* | **🌅 terrazza sul Charco** |CaptureAtlas ★★★★|
+| [Bar Strava](ristoranti/rist-bar-strava.md) | Arrecife – centro | **€€** | **🥙 Raciones spagnole** | *Tablas ibéricas · pesce del giorno* | **🪶 informale conviviale** |TA ★★★★|
+| [Mirador El Charco](ristoranti/rist-mirador-el-charco.md) | Arrecife – Charco de San Ginés | **€€** | **🐟 Pesce e arroz** | *Pescado fresco · arroces* | **🌅 vista Charco** | ★★★★|
+| [Naia](ristoranti/rist-naia.md) | Arrecife – centro | **€€€** | **🍽️ Creativa spagnola** | *Arroz de setas* | **🍽️ moderno curato** |CaptureAtlas ★★★★½|
+| [Charco Vivo](ristoranti/rist-charco-vivo.md) | Arrecife – Charco | **€€** | **🔥 Grill canaria** | *Parrillada · bocadillos de pescado* | **🌿 terrazza marinara** |sito ★★★★|
+| [La Puntilla](ristoranti/rist-la-puntilla.md) | Arrecife – sul Charco | **€€** | **🐟 Pesce tradizionale** | *Vieja al horno con mojo* | **🪶 semplice locale** | ★★★★|
+| [Casa Rafa Restaurante de Mar](ristoranti/rist-casa-rafa-restaurante-de-mar.md) | El Golfo (escursione ovest) | **€€€** | **🐟 Pesce alla lavica** | *Caldereta · cherne* | **🌋 fronte lago verde dei Clicos** |TA ★★★★ (Travellers' Choice storica)|
+| [La Cocina de Colacho](ristoranti/rist-la-cocina-de-colacho.md) | Playa Blanca – vicino Marina Rubicón | **€€€€** | **🍽️ Gourmet d'autore** | *Menù degustazione carni* | **🍽️ galleria d'arte + cucina vista** |CaptureAtlas ★★★★★|
+| [Casa Carlos](ristoranti/rist-casa-carlos.md) | Playa Blanca – costa | **€€€** | **🥩 Asador mediterraneo** | *Bue · bacalao a las brasas* | **🌙 chill-out vista costa** |CaptureAtlas ★★★★|
+| [La Cascada Puerto](ristoranti/rist-la-cascada-puerto.md) | Puerto del Carmen – varadero | **€€** | **🐟 Caldereta e gambas** | *Caldereta de pescado* | **⚓ rustico sul porto** |TA ★★★★|
 
 *Clicca sul nome per la scheda completa. Ogni punto rosso nella mappa apre la scheda.*
 
@@ -28,7 +28,7 @@ Selezione orientata alla crociera. Schede puntuali per locale in corso di raccol
 
 *Clicca un punto rosso: apre la scheda del ristorante.*
 
-## App e fonti
+## App utili sul posto
 
 | Piattaforma | Uso locale |
 |---|---|

@@ -10,7 +10,7 @@
 | Costo | 💰€€ per persona senza bevande |
 | Location | ⚓ rustico sul porto |
 | Contatti | **DATO MANCANTE** |
-| Valutazioni | TA ★★★★ |
+| Valutazioni |TA ★★★★|
 | Orari | pranzo/cena |
 
 ## Menu

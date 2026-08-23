@@ -10,7 +10,7 @@
 | Costo | 💰€€ per persona senza bevande |
 | Location | ⚓ a due passi dalla darsena di Vueltas |
 | Contatti | **922 806 167** |
-| Valutazioni | Turismo Canarias ★★★★ |
+| Valutazioni | ★★★★|
 | Orari | pranzo/cena |
 
 ## Menu

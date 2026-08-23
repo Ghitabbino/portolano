@@ -10,7 +10,7 @@
 | Costo | 💰€ per persona senza bevande |
 | Location | 🥙 snack da strada |
 | Contatti | 0696 50 01 93 / 0596 76 28 46 |
-| Valutazioni | Google 4,7/5 (305) · TA 4,7/5 (316), Travellers' Choice → ★★★★½ |
+| Valutazioni |Google 4,7/5 (305) · TA 4,7/5 (316), Travellers' Choice → ★★★★½|
 | Orari | lun-gio-ven-sab-dom 10:30–15 · chiusura settimanale divergente ⚠️ |
 
 ## Menu

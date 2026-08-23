@@ -1,6 +1,6 @@
 # 07 — Provvisioning
 
-Ultimo aggiornamento: 22/08/2026 · Telefoni verificati [★★★]
+Ultimo aggiornamento: 22/08/2026 · Telefoni verificati ★★★
 
 ## Supermercati Santa Cruz de la Palma
 

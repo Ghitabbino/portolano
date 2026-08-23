@@ -10,7 +10,7 @@
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🎶 terrazza animata live |
 | Contatti | +34 928 547 721 |
-| Valutazioni | Canarias-Lovers ★★★★ |
+| Valutazioni | ★★★★|
 | Orari | pranzo/cena |
 
 ## Menu

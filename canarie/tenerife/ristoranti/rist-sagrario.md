@@ -10,7 +10,7 @@
 | Costo | 💰€€€ per persona senza bevande |
 | Location | 🍽️ elegante sobrio |
 | Contatti | +34 922 102 788 |
-| Valutazioni | Canarias-Lovers ★★★★½ |
+| Valutazioni | ★★★★½|
 | Orari | cena |
 
 ## Menu

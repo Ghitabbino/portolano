@@ -6,13 +6,13 @@ Ultimo aggiornamento: 22/08/2026 · Valutazione arcipelago: **4/5**. Praia è l'
 
 Storia documentata di aggressioni a yachts ancorati a Praia:
 
-- Nov 2017: quattro assalti armati segnalati in pochi giorni. [Noonsite ★★★]
-- Gen 2020: bordata a coltello e rapina a bordo. [Noonsite ★★★]
-- Apr 2021: rapina violenta con equipaggio legato. [Noonsite ★★★]
+- Nov 2017: quattro assalti armati segnalati in pochi giorni. ★★★
+- Gen 2020: bordata a coltello e rapina a bordo. ★★★
+- Apr 2021: rapina violenta con equipaggio legato. ★★★
 
-Noonsite sconsiglia di passare la notte in rada e raccomanda, se si ferma comunque: guardia armata a bordo (la polizia può richiederla o far firmare un disclaimer di responsabilità — prassi riportata dai naviganti), niente luci, valore a bordo ridotto, sorveglianza reciproca tra barche. [Noonsite ★★★]
+ sconsiglia di passare la notte in rada e raccomanda, se si ferma comunque: guardia armata a bordo (la polizia può richiederla o far firmare un disclaimer di responsabilità — prassi riportata dai naviganti), niente luci, valore a bordo ridotto, sorveglianza reciproca tra barche. ★★★
 
-- Il porto pesca con guardia notturna è considerato più sicuro della rada aperta. [Noonsite ★★]
+- Il porto pesca con guardia notturna è considerato più sicuro della rada aperta. ★★
 - Dinghy mai lasciata incustodita di notte su moli o spiagge.
 
 ## A terra

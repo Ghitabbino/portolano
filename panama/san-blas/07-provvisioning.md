@@ -8,7 +8,7 @@ Alto per qualità bassa: nella comarca si integra, non si fa spesa vera. Grande 
 
 | Zona | Negozi |
 |---|---|
-| Comarca | Tiendas di base a Nargana e Porvenir: farina, olio, tonno, bibite [cruiser ★★] |
+| Comarca |Tiendas di base a Nargana e Porvenir: farina, olio, tonno, bibite ★★|
 | Ultimo supermercato vero | Linton Bay/Colón (35–90 NM) |
 
 ## Mercati / barca
@@ -23,7 +23,7 @@ Alto per qualità bassa: nella comarca si integra, non si fa spesa vera. Grande 
 | Servizio | Dettaglio |
 |---|---|
 | Acqua serbatoi | Non disponibile: arrivare pieni + riserva in buste |
-| Gasolio/benzina | Da barche Guna ~$5–6/gallone, filtrare sempre [forum ★★] |
+| Gasolio/benzina |Da barche Guna ~$5–6/gallone, filtrare sempre ★★|
 
 ## Consigli pratici
 

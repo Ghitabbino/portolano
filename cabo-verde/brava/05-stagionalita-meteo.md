@@ -10,7 +10,7 @@ Ultimo aggiornamento: 22/08/2026 · Fuori dalla fascia uragani. Brava è la più
 | Ago–Ott | Piogge, isola rigogliosa al massimo; finestre di calma più frequenti |
 | Dic–Feb | Harmattan possibile; fresco sulle alture |
 
-[Noonsite ★★★]
+★★★
 
 ## In pratica
 

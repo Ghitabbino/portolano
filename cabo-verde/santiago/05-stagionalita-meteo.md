@@ -10,7 +10,7 @@ Ultimo aggiornamento: 22/08/2026 · Capo Verde è **fuori dalla fascia uragani**
 | Ago–Ott | Stagione delle piogge: acquazzoni nell'interno, umidità alta, alisei attenuati; paesaggio verde |
 | Dic–Feb | Possibile harmattan: polvere sahariana, visibilità ridotta |
 
-[Noonsite ★★★]
+★★★
 
 ## A Praia in pratica
 

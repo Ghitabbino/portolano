@@ -19,20 +19,20 @@ Legenda prezzi: **€** <15 · **€€** 15–30 · **€€€** 30–60 · **
 
 | Locale | Zona | Costo | Cucina | Note | Fonte |
 |---|---|---|---|---|---|
-| Ristorante della **Shelter Bay Marina** | Colón (ex Fort Sherman) | **DATO MANCANTE** | 🍽️ internazionale | In marina, frequentato da equipaggi in preparazione al transito; menu e orari da verificare | [sito ★★★] |
-| Ristoranti lungo l'**Amador Causeway** | Panama City | **€–€€€** (fascia da confermare) | 🐟 pesce · 🥩 grill · 🍽️ internazionale | Fila di locali sulla calzata con vista skyline; raggiungibili dalle boe/ancoraggio di Amador; nomi e valutazioni: **DATO MANCANTE** | [BYC/CruisersWiki ★★] |
+| Ristorante della **Shelter Bay Marina** | Colón (ex Fort Sherman) | **DATO MANCANTE** | 🍽️ internazionale | In marina, frequentato da equipaggi in preparazione al transito; menu e orari da verificare | ★★★ |
+| Ristoranti lungo l'**Amador Causeway** | Panama City | **€–€€€** (fascia da confermare) | 🐟 pesce · 🥩 grill · 🍽️ internazionale | Fila di locali sulla calzata con vista skyline; raggiungibili dalle boe/ancoraggio di Amador; nomi e valutazioni: **DATO MANCANTE** | ★★ |
 | Locali del **Casco Viejo** | Panama City | **€€€+** | 🍽️ internazionale/creola | Fascia alta della città ($30+ a testa): zona valida per cena "da terra" | [02 Costi] |
 
 Per il costo medio dei pasti nella zona → [02](02-costi.md).
 
-## App e fonti
+## App utili sul posto
 
 | Piattaforma | Uso locale |
 |---|---|
 | Google Maps recensioni | Il più aggiornato; orari spesso errati fuori stagione |
 | [TripAdvisor](https://www.tripadvisor.com) | Buono per confrontare valutazioni su Causeway e Casco Viejo |
 | Facebook locale | Pagine dei ristoranti: menu, eventi e chiusure in tempo reale |
-| [Noonsite](https://www.noonsite.com) | Sezione Panama: info pratiche e segnalazioni dei crocieristi |
+| Portali diportisti aggregati | Info pratiche e segnalazioni dei crocieristi |
 | Uber / taxi app | Trasferimenti sicuri dai dock ai locali di Panama City → [02](02-costi.md) |
 
 Ultimo aggiornamento: 22/08/2026

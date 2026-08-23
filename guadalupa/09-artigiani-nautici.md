@@ -8,15 +8,15 @@
 
 | Servizio | Nome | Contatti | Note | Fonte |
 |---|---|---|---|---|
-| Chantier navale | **Caraïbes Docks Services** | +590 690 61 78 25 · docks971.com | Carénage, riparazioni, manutenzione; recensioni miste su pulizia strutture | sito ★★★; noforeignland ★★★ |
-| Shipchandler | **USHIP** | — | Votato miglior chandlery dei Caraibi dai crocieristi: assortimento pesca+nautica completo | noforeignland ★★★★★ |
-| Shipchandler | **Captain' Nautic** | — | Ben fornito, personale anglofono | noforeignland ★★★★★ |
-| Concierge/servizi barca | Guadeloupe Yacht Concierge | +590 690 72 88 09 | Assistenza in marina Bas-du-Fort | Bloc Marine ★★★★ |
-| Capitaineria | Marina Bas-du-Fort | +590 590 936 620 · contact@marinaguadeloupe.com · VHF 9 | Travelift 35 t, dock 700 t | Bloc Marine ★★★★ |
-| Marina | Saint-François capitainerie | +590 596 738 405 · marina@ville-saintfrancois.fr | Fuel, water, carenaggio leggero | lista dogane ★★★★★ |
-| Marina/rifugio | Sud Ancrage (Rivière Sens) | +590 590 867 943 · sudancrage@orange.fr | Ottimo riparo sud-ovest, clearance | lista dogane ★★★★★ |
-| Marina/rifugio | Barracuda Marina (Rivière Sens) | +590 590 922 786 | Clearance + ristorante | lista dogane ★★★★★ |
-| Multiservizi | I.S.M Les Saintes | +590 590 815 357 · lessaintesmultiservices@gmail.com | Clearance, internet, lavanderia | lista dogane ★★★★★ |
+| Chantier navale | **Caraïbes Docks Services** | +590 690 61 78 25 · docks971.com | Carénage, riparazioni, manutenzione; recensioni miste su pulizia strutture |sito ★★★|
+| Shipchandler | **USHIP** | — | Votato miglior chandlery dei Caraibi dai crocieristi: assortimento pesca+nautica completo |★★★★★|
+| Shipchandler | **Captain' Nautic** | — | Ben fornito, personale anglofono |★★★★★|
+| Concierge/servizi barca | Guadeloupe Yacht Concierge | +590 690 72 88 09 | Assistenza in marina Bas-du-Fort |★★★★|
+| Capitaineria | Marina Bas-du-Fort | +590 590 936 620 · contact@marinaguadeloupe.com · VHF 9 | Travelift 35 t, dock 700 t |★★★★|
+| Marina | Saint-François capitainerie | +590 596 738 405 · marina@ville-saintfrancois.fr | Fuel, water, carenaggio leggero |lista dogane ★★★★★|
+| Marina/rifugio | Sud Ancrage (Rivière Sens) | +590 590 867 943 · sudancrage@orange.fr | Ottimo riparo sud-ovest, clearance |lista dogane ★★★★★|
+| Marina/rifugio | Barracuda Marina (Rivière Sens) | +590 590 922 786 | Clearance + ristorante |lista dogane ★★★★★|
+| Multiservizi | I.S.M Les Saintes | +590 590 815 357 · lessaintesmultiservices@gmail.com | Clearance, internet, lavanderia |lista dogane ★★★★★|
 
 ## Altri operatori utili
 
@@ -33,8 +33,8 @@
 
 | Negozio | Zona | Note | Fonte |
 |---|---|---|---|
-| **USHIP** | Baie-Mahault/Grande-Terre | Votato miglior chandlery dei Caraibi dai crocieristi: assortimento pesca+nautica completo | noforeignland ★★★★★ |
-| **Captain' Nautic** | Grande-Terre | Ben fornito, personale anglofono | noforeignland ★★★★★ |
+| **USHIP** | Baie-Mahault/Grande-Terre | Votato miglior chandlery dei Caraibi dai crocieristi: assortimento pesca+nautica completo |★★★★★|
+| **Captain' Nautic** | Grande-Terre | Ben fornito, personale anglofono |★★★★★|
 
 ## Note pratiche
 

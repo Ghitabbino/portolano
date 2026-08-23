@@ -4,30 +4,30 @@
 
 ## Regole generali di ancoraggio (prima di tutto)
 
-- Àncora libera consentita quasi ovunque fuori dai **canali di accesso ai porti** (Cristóbal, Balboa) e dalle zone portuali controllate dalla Capitaneria [Noonsite ★★★].
-- Rispettare le zone dei **castelli/transito**: nel lago Gatún e negli approcci alle chiuse ancorare solo dove indicato dall'advisor PCA [pancanal.com ★★★★★].
+- Àncora libera consentita quasi ovunque fuori dai **canali di accesso ai porti** (Cristóbal, Balboa) e dalle zone portuali controllate dalla Capitaneria ★★★.
+- Rispettare le zone dei **castelli/transito**: nel lago Gatún e negli approcci alle chiuse ancorare solo dove indicato dall'advisor PCA ★★★★★.
 - Segnalazione **IALA-B invertita** rispetto all'Italia (rossa a dritta entrando).
 - Aree marine di San Blas: regole proprie della comarca → vedi *Panama · San Blas*.
-- Parco nazionale Portobelo: ancoraggio consentito in baia; divieto di pesca [ANAM ★★].
+- Parco nazionale Portobelo: ancoraggio consentito in baia; divieto di pesca ★★.
 
 ## Tabella riassuntiva — i migliori ancoraggi
 
 | # | Ancoraggio | Riparo | Tenuta | Profondità | Affollamento | Giudizio |
 |---|---|---|---|---|---|---|
-| 1 | [Shelter Bay](ancoraggi/anc-shelter-bay.md) | ★★★★★ | ★★★★★ fango/sabbia | 8–15 m | Marina + poche àncore | ★4,6/5 [NFL] |
-| 2 | [Linton Bay](ancoraggi/anc-linton-bay.md) | ★★★★★ | ★★★★ sabbia | 5–12 m | Basso-medio | ★4,4/5 [NFL] |
-| 3 | [Portobelo](ancoraggi/anc-portobelo.md) | ★★★★★ | ★★★★ fango | 6–12 m | Medio | ★4,5/5 [NFL] |
-| 4 | [Isla Grande](ancoraggi/anc-isla-grande.md) | ★★★★ | ★★★ sabbia/erba | 4–10 m | Alto week-end | ★4,2/5 [NFL] |
-| 5 | [Foce Chagres](ancoraggi/anc-chagres.md) | ★★★ | ★★★ sabbia | 5–9 m | Quasi deserto | ★4,3/5 [NFL] |
-| 6 | [Amador/Causeway](ancoraggi/anc-amador.md) | ★★★★ | ★★★★ fango (boe) | boe 3–6 m | Molto frequentato | ★4,1/5 [NFL] |
-| 7 | [Taboga](ancoraggi/anc-taboga.md) | ★★★ | ★★★★ sabbia | 5–10 m | Medio | ★4,2/5 [NFL] |
-| 8 | [Contadora](ancoraggi/anc-contadora.md) | ★★★★ | ★★★★ sabbia | 4–9 m | Medio | ★4,3/5 [NFL] |
-| 9 | [San Telmo / Isla del Rey](ancoraggi/anc-san-telmo.md) | ★★★★ | ★★★★ sabbia | 4–8 m | Basso | ★4,4/5 [NFL] |
-| 10 | [Pedro González](ancoraggi/anc-pedro-gonzalez.md) | ★★★ | ★★★★ sabbia | 4–8 m | Basso | ★4,3/5 [NFL] |
+| 1 | [Shelter Bay](ancoraggi/anc-shelter-bay.md) | ★★★★★ | ★★★★★ fango/sabbia | 8–15 m | Marina + poche àncore |★4,6/5 [NFL]|
+| 2 | [Linton Bay](ancoraggi/anc-linton-bay.md) | ★★★★★ | ★★★★ sabbia | 5–12 m | Basso-medio |★4,4/5 [NFL]|
+| 3 | [Portobelo](ancoraggi/anc-portobelo.md) | ★★★★★ | ★★★★ fango | 6–12 m | Medio |★4,5/5 [NFL]|
+| 4 | [Isla Grande](ancoraggi/anc-isla-grande.md) | ★★★★ | ★★★ sabbia/erba | 4–10 m | Alto week-end |★4,2/5 [NFL]|
+| 5 | [Foce Chagres](ancoraggi/anc-chagres.md) | ★★★ | ★★★ sabbia | 5–9 m | Quasi deserto |★4,3/5 [NFL]|
+| 6 | [Amador/Causeway](ancoraggi/anc-amador.md) | ★★★★ | ★★★★ fango (boe) | boe 3–6 m | Molto frequentato |★4,1/5 [NFL]|
+| 7 | [Taboga](ancoraggi/anc-taboga.md) | ★★★ | ★★★★ sabbia | 5–10 m | Medio |★4,2/5 [NFL]|
+| 8 | [Contadora](ancoraggi/anc-contadora.md) | ★★★★ | ★★★★ sabbia | 4–9 m | Medio |★4,3/5 [NFL]|
+| 9 | [San Telmo / Isla del Rey](ancoraggi/anc-san-telmo.md) | ★★★★ | ★★★★ sabbia | 4–8 m | Basso |★4,4/5 [NFL]|
+| 10 | [Pedro González](ancoraggi/anc-pedro-gonzalez.md) | ★★★ | ★★★★ sabbia | 4–8 m | Basso |★4,3/5 [NFL]|
 
 ## Mappa generale
 
-<div class="mapframe" data-slug="panama-caribe" data-minz="10" data-maxz="12" data-lat="9.45" data-lon="-79.75" data-markers='[]'></div>
+<div class="mapframe" data-slug="panama-caribe" data-minz="10" data-maxz="12" data-lat="9.45" data-lon="-79.75" data-markers=''></div>
 
 *Lato Atlantico · mappa offline*
 

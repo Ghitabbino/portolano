@@ -1,12 +1,12 @@
 # Shelter Bay {#anc-shelter-bay}
 
 [← Tutti gli ancoraggi](../08-ancoraggi.md)
-**9°21.5′N 79°57.1′W** [CruisersWiki ★★]
+**9°21.5′N 79°57.1′W** ★★
 
 | Campo | Dettaglio |
 |---|---|
-| **Profondità** | 8–15 m su fango/sabbia davanti alla marina [CruisersWiki ★★] |
-| **Tenuta àncora** | Ottima [NFL ★★] |
+| **Profondità** |8–15 m su fango/sabbia davanti alla marina ★★|
+| **Tenuta àncora** |Ottima ★★|
 | **Venti/riparo** | Riparato da tutti i quadranti tranne O; alisei NE ben schermati dal Fort Sherman |
 | **Pericoli** | Traffico canale nelle vicinanze; chiatte notturne |
 | **Affollamento** | Basso (la maggior parte sta al pontile) |

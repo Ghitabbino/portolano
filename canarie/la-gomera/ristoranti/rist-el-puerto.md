@@ -10,7 +10,7 @@
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🌊 fronte mare posizione unica |
 | Contatti | **DATO MANCANTE** |
-| Valutazioni | sito ristoratori ★★★★ |
+| Valutazioni |sito ristoratori ★★★★|
 | Orari | pranzo/cena |
 
 ## Menu

@@ -8,7 +8,7 @@
 |---|---|---|---|---|
 | Assistenza ordinaria / varada | Capitainerie dei porti diportuali (Corralejo, Caleta de Fuste, Morro Jable) | **DATO MANCANTE** | Elenco artigiani locali da richiedere in capitaineria | — |
 | Meccanica locale | Caleta de Fuste / Corralejo | **DATO MANCANTE** | Solo interventi leggeri, nessuna officina nautica strutturale verificata | — |
-| Riferimento full-service più vicino | **Spinnaker @ Marina Rubicón** (Playa Blanca, Lanzarote) | +34 928 519 012 int. 3 · varadero@marinarubicon.com | Vendita barche/motori; tienda náutica madre a Santa Cruz de Tenerife (B&G, Simrad, Lowrance, Harken, Spinlock, Selden) | [sito Spinnaker ★★★] |
+| Riferimento full-service più vicino | **Spinnaker @ Marina Rubicón** (Playa Blanca, Lanzarote) | +34 928 519 012 int. 3 · varadero@marinarubicon.com | Vendita barche/motori; tienda náutica madre a Santa Cruz de Tenerife (B&G, Simrad, Lowrance, Harken, Spinlock, Selden) | ★★★ |
 
 ## Altri operatori
 

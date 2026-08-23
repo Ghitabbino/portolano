@@ -4,8 +4,8 @@
 
 ## Livello prezzi generale
 
-- Alimentari più cari che in Francia metropolitana (importazione); comunque **più economici delle Grenadine** secondo i naviganti. [Noonsite commenti ★★]
-- Prodotti locali convenienti: pesce (portofisherman al Marin), frutta/verdura mercati, pane/boulangerie. [Petit Futé ★★★]
+- Alimentari più cari che in Francia metropolitana (importazione); comunque **più economici delle Grenadine** secondo i naviganti. ★★
+- Prodotti locali convenienti: pesce (portofisherman al Marin), frutta/verdura mercati, pane/boulangerie. ★★★
 
 ## Supermercati
 
@@ -13,17 +13,17 @@
 
 | Negozio | Ubicazione | Distanza dalla marina | A piedi? | Note | Fonte |
 |---|---|---|---|---|---|
-| **Carrefour Market** | Nouveau Bassin, area marina | ~200–400 m | ✅ sì | Lun–sab 8–20, dom/festivi 8–13 · tel +596 596 74 85 85 · completo anche di freschi, pesce, panetteria; nel piccolo centro commerciale con libreria, souvenir, fast-food | PagesJaunes/118000 ★★★ + Petit Futé ★★★ |
-| **Leader Price** | Avenue Aimé Césaire / Montgérald | ~1–2 km | ✅ sì (15–20 min) | Discount francese, buono per base scorta | Mappy ★★★ |
-| **Auchan** | Lotissement Mondésir | ~2–3 km | ⚠️ possibile ma scomodo col carico | Ipermercato: la scelta più ampia per grandi scorte; taxi/bus | Mappy ★★★ |
-| **Ecomax** | ZAC Duprey | ~2 km | ✅ sì | Discount | Mappy ★★★ |
-| **La Vie Claire** | Usine du Marin | ~1,5 km | ✅ sì | Bio/vegetale | Mappy ★★★ |
+| **Carrefour Market** | Nouveau Bassin, area marina | ~200–400 m | ✅ sì | Lun–sab 8–20, dom/festivi 8–13 · tel +596 596 74 85 85 · completo anche di freschi, pesce, panetteria; nel piccolo centro commerciale con libreria, souvenir, fast-food |★★★|
+| **Leader Price** | Avenue Aimé Césaire / Montgérald | ~1–2 km | ✅ sì (15–20 min) | Discount francese, buono per base scorta |Mappy ★★★|
+| **Auchan** | Lotissement Mondésir | ~2–3 km | ⚠️ possibile ma scomodo col carico | Ipermercato: la scelta più ampia per grandi scorte; taxi/bus |Mappy ★★★|
+| **Ecomax** | ZAC Duprey | ~2 km | ✅ sì | Discount |Mappy ★★★|
+| **La Vie Claire** | Usine du Marin | ~1,5 km | ✅ sì | Bio/vegetale |Mappy ★★★|
 
-Chandler in zona marina per ricambi nautici (prezzi ok rispetto alle Grenadine). [Noonsite commenti ★★]
+Chandler in zona marina per ricambi nautici (prezzi ok rispetto alle Grenadine). ★★
 
 ### Sainte-Anne
 
-Borgo con épiceries/superette raggiungibili **a piedi dal pontile dinghy** (centro a poche centinaia di metri). Scorta limitata: per il grosso si va al Marin. [voce generica da resoconti ★★ — elenco negozi esatto **da verificare**]
+Borgo con épiceries/superette raggiungibili **a piedi dal pontile dinghy** (centro a poche centinaia di metri). Scorta limitata: per il grosso si va al Marin. ★★
 
 ### Fort-de-France
 
@@ -31,9 +31,9 @@ Grande scelta urbana (supermercati in centro e periferia), comoda se si è alla 
 
 ## Mercati
 
-- **Mercato del pesce del Marin**: porto pescatori, pescato fresco quotidiano. [MarinaSpots ★★★]
-- Marché communal de Sainte-Anne: frutta/verdura nel bourg, mattino. [Petit Futé ★★★]
-- Fort-de-France: Grand Marché in centro — spezie, frutta, pesce. [Petit Futé ★★★]
+- **Mercato del pesce del Marin**: porto pescatori, pescato fresco quotidiano. ★★★
+- Marché communal de Sainte-Anne: frutta/verdura nel bourg, mattino. ★★★
+- Fort-de-France: Grand Marché in centro — spezie, frutta, pesce. ★★★
 
 ## Acqua e carburante
 

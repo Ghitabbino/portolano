@@ -10,7 +10,7 @@
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🌴 terrazza palme |
 | Contatti | +34 928 163 369 |
-| Valutazioni | Canarias-Lovers ★★★★ |
+| Valutazioni | ★★★★|
 | Orari | pranzo/cena |
 
 ## Menu

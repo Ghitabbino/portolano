@@ -10,7 +10,7 @@
 | Costo | 💰€€€ per persona senza bevande |
 | Location | 🌅 paseo terminal ferry |
 | Contatti | +34 629 650 889 |
-| Valutazioni | sito ufficiale ★★★★ |
+| Valutazioni |sito ufficiale ★★★★|
 | Orari | cena |
 
 ## Menu

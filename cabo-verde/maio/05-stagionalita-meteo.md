@@ -10,11 +10,11 @@ Ultimo aggiornamento: 22/08/2026 · Fuori dalla fascia uragani. Isola piatta (ma
 | Ago–Ott | Alisei attenuati, qualche pioggia; periodo migliore per visitare |
 | Dic–Feb | Possibile harmattan con foschia sahariana |
 
-[Noonsite ★★★]
+★★★
 
 ## A Porto Inglês in pratica
 
-- Il problema non è il vento ma lo **swell da S/SW**: rada aperta verso sud → notti rollanti frequenti anche con aliseo moderato. [Noonsite commenti ★★]
+- Il problema non è il vento ma lo **swell da S/SW**: rada aperta verso sud → notti rollanti frequenti anche con aliseo moderato. ★★
 - Con aliseo pieno da NE l'ancoraggio resta comodo ma il mare lungo la costa N è mosso.
 - Spiagge deserte sconsigliate per bagni con swell alto: correnti di ritorno forti.
 

@@ -10,7 +10,7 @@
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🌅 vista Charco |
 | Contatti | **928 730 247** [IG ufficiale] |
-| Valutazioni | IG/TripAdvisor ★★★★ |
+| Valutazioni | ★★★★|
 | Orari | pranzo/cena |
 
 ## Menu

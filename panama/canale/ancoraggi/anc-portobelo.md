@@ -1,11 +1,11 @@
 # Portobelo {#anc-portobelo}
 
 [← Tutti gli ancoraggi](../08-ancoraggi.md)
-**9°33.2′N 79°39.1′W** [CruisersWiki ★★]
+**9°33.2′N 79°39.1′W** ★★
 
 | Campo | Dettaglio |
 |---|---|
-| **Profondità** | 6–12 m su fango, baia profonda e riparata [CruisersWiki ★★] |
+| **Profondità** |6–12 m su fango, baia profonda e riparata ★★|
 | **Tenuta àncora** | Ottima |
 | **Venti/riparo** | Eccellente da ogni quadrante; colline tutt'intorno |
 | **Pericoli** | Pioggia intensa nelle raffiche; mosquitos dopo le piogge |

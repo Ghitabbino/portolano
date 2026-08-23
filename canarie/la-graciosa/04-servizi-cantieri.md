@@ -8,7 +8,7 @@ Ultimo aggiornamento: 22/08/2026
 |---|---|
 | Posti | Molo piccolo; manovre delicate con N forte |
 | Haul-out | Non presente → Marina Lanzarote |
-| Fuel | Al porto [voce diretta 22/08/2026 ★] |
+| Fuel |Al porto ★|
 
 ## Altri punti
 

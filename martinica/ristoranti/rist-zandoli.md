@@ -10,7 +10,7 @@
 | Costo | 💰€€€ per persona senza bevande |
 | Location | 🏛️ boutique hotel 5*, vista baia |
 | Contatti | 0596 59 88 00 |
-| Valutazioni | TA 4,2/5 (809) → ★★★★ |
+| Valutazioni |TA 4,2/5 (809) → ★★★★|
 | Orari | ven–sab 19–22 (ultima comanda a tavola) |
 
 ## Menu

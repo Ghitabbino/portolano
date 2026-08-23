@@ -4,7 +4,7 @@
 
 | Artigianato | Dettaglio |
 |---|---|
-| Molas (pannelli cuciti) | Produzione artigiana delle donne Guna; prezzo $10–40 secondo qualità e dimensione; acquisto direttamente in canoa o nei villaggi [usanza ★★★] |
+| Molas (pannelli cuciti) |Produzione artigiana delle donne Guna; prezzo $10–40 secondo qualità e dimensione; acquisto direttamente in canoa o nei villaggi ★★★|
 | Ceste e fibra di cocco | nei villaggi interni |
 | Perle e conchiglie | Porvenir, Nargana |
 
@@ -16,7 +16,7 @@ Regole di rispetto: chiedere prima di fotografare le persone; contrattare con ga
 |---|---|
 | Negozi di attrezzature | ❌ Nessuno — ultimo rifornimento Linton Bay/Colón |
 | Shipchandler | ❌ |
-| Sommozzatore/elica | Talvolta tra i villaggi, da concordare in ancoraggio [forum ★★] |
+| Sommozzatore/elica |Talvolta tra i villaggi, da concordare in ancoraggio ★★|
 
 ## Dove si trova cosa
 

@@ -10,7 +10,7 @@
 | Costo | 💰€€€ per persona senza bevande |
 | Location | 🍽️ sobrio elegante |
 | Contatti | **DATO MANCANTE** |
-| Valutazioni | Canarias-Lovers ★★★★½ |
+| Valutazioni | ★★★★½|
 | Orari | cena |
 
 ## Menu

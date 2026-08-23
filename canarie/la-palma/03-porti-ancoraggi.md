@@ -14,7 +14,7 @@ Isola ripida ("steep-to"): le profondità salgono rapidamente, gli ancoraggi son
 | Voce | Nota |
 |---|---|
 | Posti | 180 + 140 di transito · fino 20 m · pescaggio 6–10 m [Autorità Portuaria ★★★★★] |
-| Contatti | **+34 922 410 289** · VHF 09 · info@marinalapalma.es · marinalapalma.es [★★★★★] |
+| Contatti |**+34 922 410 289** · VHF 09 · info@marinalapalma.es · marinalapalma.es ★★★★★|
 | Esposizione | Lato est: alisei NE trasversali al molo d'ingresso nei giorni di vento teso |
 | Clearance | Porto di ingresso dell'isola |
 

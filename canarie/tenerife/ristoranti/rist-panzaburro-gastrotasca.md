@@ -10,7 +10,7 @@
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🌿 tasca con giardino |
 | Contatti | **DATO MANCANTE** |
-| Valutazioni | Guide ★★★★½ |
+| Valutazioni |Guide ★★★★½|
 | Orari | mar–sab; chiuso lun–dom |
 
 ## Menu

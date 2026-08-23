@@ -6,9 +6,9 @@ Ultimo aggiornamento: 22/08/2026 · Valuta: euro · IGIC ~7%.
 
 | Voce | Prezzo indicativo | Note |
 |---|---|---|
-| Birra locale (0,33 l) | 0,60–1 € | Tropical [★★] |
-| Acqua 1,5 l | 0,50–0,80 € | [★★] |
-| Latte 1 l | 0,90–1,20 € | [★★] |
+| Birra locale (0,33 l) | 0,60–1 € |Tropical ★★|
+| Acqua 1,5 l | 0,50–0,80 € | ★★ |
+| Latte 1 l | 0,90–1,20 € | ★★ |
 | Riso 1 kg | **DATO MANCANTE** | Da rilevare |
 
 Supermercati: catene spagnole a Corralejo, Puerto del Rosario, Morro Jable. Isola arida: molta spesa arriva dalla penisola → scelta inferiore a Tenerife/GC.

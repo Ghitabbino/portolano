@@ -10,7 +10,7 @@
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🌅 vista mare |
 | Contatti | **DATO MANCANTE** |
-| Valutazioni | Google 4,5/5 (568) → ★★★★½ |
+| Valutazioni |Google 4,5/5 (568) → ★★★★½|
 | Orari | **DATO MANCANTE** |
 
 ## Menu

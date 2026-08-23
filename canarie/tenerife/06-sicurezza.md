@@ -50,7 +50,7 @@ Contesto spagnolo molto sicuro. Rischi reali: microcriminalità turistica nel su
 
 | Fonte | Cosa monitorare | Frequenza |
 |---|---|---|
-| Noonsite Canary Islands | Report diportisti | Mensile |
+| Portali nautici internazionali | Report diportisti | Mensile |
 | AEMET vigilance | Calime/temporali | Settimanale |
 
 Ultimo aggiornamento: 22/08/2026

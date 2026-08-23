@@ -14,7 +14,7 @@ Ultimo aggiornamento: 22/08/2026 · Mindelo è il posto migliore dell'arcipelago
 | WiFi | A pagamento a pacchetti dati; 100 MB gratuiti al check-in; rete locale a volte lenta |
 | Sicurezza | Sorveglianza 24h e telecamere rafforzate dal 2024 in accordo con le autorità |
 
-[Noonsite ★★★]
+★★★
 
 ## Manodopera e cantieri
 
@@ -26,8 +26,8 @@ Ultimo aggiornamento: 22/08/2026 · Mindelo è il posto migliore dell'arcipelago
 
 ## Consigli
 
-- Vento costante 15–25 kn: proteggere cavi, teli e sartie durante la permanenza. [Noonsite ★★★]
-- Internet lento o intermittente: non contarci per lavoro urgente; SIM locale migliore del WiFi marina. [Noonsite ★★★]
+- Vento costante 15–25 kn: proteggere cavi, teli e sartie durante la permanenza. ★★★
+- Internet lento o intermittente: non contaper lavoro urgente; SIM locale migliore del WiFi marina. ★★★
 - Particelle di rame e ricambi: ordinarli dall'estero con largo anticipo.
 
 Ultimo aggiornamento: 22/08/2026

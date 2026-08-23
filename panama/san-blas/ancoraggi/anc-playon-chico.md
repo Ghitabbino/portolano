@@ -2,11 +2,11 @@
 
 [← Tutti gli ancoraggi](../08-ancoraggi.md)
 
-**9°19.8′N 78°13.8′W** [CruisersWiki ★★]
+**9°19.8′N 78°13.8′W** ★★
 
 | Campo | Dettaglio |
 |---|---|
-| **Profondità** | 6–15 m [CruisersWiki ★★] |
+| **Profondità** |6–15 m ★★|
 | **Tenuta àncora** | Buona |
 | **Venti/riparo** | Costa bassa: nessun swell dentro la laguna |
 | **Pericoli** | Pista aerea; pontili lunghi sul mare |

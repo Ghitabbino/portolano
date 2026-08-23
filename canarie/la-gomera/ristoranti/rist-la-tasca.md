@@ -10,7 +10,7 @@
 | Costo | 💰€ per persona senza bevande |
 | Location | 🪶 casco storico |
 | Contatti | **922 141 598** |
-| Valutazioni | Turismo Canarias ★★★½ |
+| Valutazioni | ★★★½|
 | Orari | sera |
 
 ## Menu

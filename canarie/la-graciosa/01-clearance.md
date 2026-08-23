@@ -20,7 +20,7 @@ Ultimo aggiornamento: 22/08/2026 · Contesto generale in [00 — Ingresso](../00
 
 ## Servizi chiave
 
-Alimentari, macelleria, alcuni bar nel villaggio; **carburante disponibile al porto** [voce diretta, 22/08/2026 ★].
+Alimentari, macelleria, alcuni bar nel villaggio; **carburante disponibile al porto** ★.
 
 Ultimo aggiornamento: 22/08/2026
 

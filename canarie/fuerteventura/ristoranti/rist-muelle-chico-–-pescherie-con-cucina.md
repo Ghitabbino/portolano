@@ -10,7 +10,7 @@
 | Costo | 💰€ per persona senza bevande |
 | Location | ⚓ banconi sul molo |
 | Contatti | **DATO MANCANTE** (3-4 locali) |
-| Valutazioni | guida corralejo ★★★★ |
+| Valutazioni |guida corralejo ★★★★|
 | Orari | pranzo |
 
 ## Menu

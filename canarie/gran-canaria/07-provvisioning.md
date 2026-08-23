@@ -1,6 +1,6 @@
 # 07 — Provvisioning
 
-Ultimo aggiornamento: 22/08/2026 · Telefoni verificati su elenco ufficiale Mercadona/Páginas Amarillas [★★★]
+Ultimo aggiornamento: 22/08/2026 · Telefoni verificati su elenco ufficiale Mercadona/Páginas Amarillas ★★★
 
 ## Supermercati Las Palmas
 
@@ -19,7 +19,7 @@ Ultimo aggiornamento: 22/08/2026 · Telefoni verificati su elenco ufficiale Merc
 
 ## App consegna
 
-Glovo/Uber Eats attivi a Las Palmas: pasti e mini-spesa fino alla zona porto ⚠️ raggio esatto da verificare sul posto. Nessuna consegna "a bordo" dichiarata: usare indirizzo marina e accogliere al cancello.
+/ attivi a Las Palmas: pasti e mini-spesa fino alla zona porto ⚠️ raggio esatto da verificare sul posto. Nessuna consegna "a bordo" dichiarata: usare indirizzo marina e accogliere al cancello.
 
 ## Acqua e carburante
 

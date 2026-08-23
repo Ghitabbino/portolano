@@ -6,9 +6,9 @@ Ultimo aggiornamento: 22/08/2026 · Isola agricola: ottima frutta e verdura loca
 
 | Posto | Cosa | Note |
 |---|---|---|
-| Mercato/di Porto Novo | Frutta, verdura, pesce | Banane, mango, canna da zucchero, igname [★★] |
-| Negozi di Ponta do Sol e valle do Paul | Secchi base | Assortimento minimo; orari irregolari [★★] |
-| Produttori lungo la strada del Paul | Miele, grogue, formaggio caprino | Acquisto diretto, qualità buona [★★] |
+| Mercato/di Porto Novo | Frutta, verdura, pesce |Banane, mango, canna da zucchero, igname ★★|
+| Negozi di Ponta do Sol e valle do Paul | Secchi base |Assortimento minimo; orari irregolari ★★|
+| Produttori lungo la strada del Paul | Miele, grogue, formaggio caprino |Acquisto diretto, qualità buona ★★|
 
 ## Consigli
 

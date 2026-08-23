@@ -1,10 +1,10 @@
 # 06 — Sicurezza
 
-Ultimo aggiornamento: 22/08/2026 · Valutazione arcipelago: **4/5**. Brava è percepita come l'isola più sicura e accogliente: "le persone più aperte e calorose che abbiamo incontrato a Capo Verde" [Noonsite commenti 2019 ★★].
+Ultimo aggiornamento: 22/08/2026 · Valutazione arcipelago: **4/5**. Brava è percepita come l'isola più sicura e accogliente: "le persone più aperte e calorose che abbiamo incontrato a Capo Verde" ★★.
 
 ## In rada / al porto
 
-- Nessuna segnalazione di criminalità contro yacht. [Noonsite ★★★ — assenza di report]
+- Nessuna segnalazione di criminalità contro yacht. ★★★
 - Il rischio dominante è **nautico**, non criminale: ancoraggi esposti, ormeggio a Furna insostenibile con aliseo pieno, deriva notturna possibile.
 - Dinghy: precauzioni standard, non incustodita sui moli.
 

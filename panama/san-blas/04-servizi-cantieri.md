@@ -7,7 +7,7 @@
 | Servizio | Disponibilità |
 |---|---|
 | Meccanico/rigger | ❌ Nessuno residente; passaggi di tecnici itineranti segnalati via radio/FB — DATO MANCANTE contatti |
-| Sommozzatore per eliche/scafo | Talvolta tra i villaggi Guna — chiedere in ancoraggio [forum ★★] |
+| Sommozzatore per eliche/scafo |Talvolta tra i villaggi Guna — chiedere in ancoraggio ★★|
 | Sailmaker/velai | ❌ |
 | Elettricisti | ❌ |
 

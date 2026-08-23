@@ -2,11 +2,11 @@
 
 [← Tutti gli ancoraggi](../08-ancoraggi.md)
 
-**9°27.5′N 78°51.0′W** [CruisersWiki ★★]
+**9°27.5′N 78°51.0′W** ★★
 
 | Campo | Dettaglio |
 |---|---|
-| **Profondità** | 6–14 m fango/sabbia davanti ai villaggi [CruisersWiki ★★] |
+| **Profondità** |6–14 m fango/sabbia davanti ai villaggi ★★|
 | **Tenuta àncora** | Buona |
 | **Venti/riparo** | Villaggi costieri riparati dallo swell |
 | **Pericoli** | Tronchi galleggianti dal fiume dopo le piogge |

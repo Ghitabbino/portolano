@@ -6,9 +6,9 @@
 
 | Servizio | Nome | Contatti | Note | Fonte |
 |---|---|---|---|---|
-| Tienda náutica | **Spinnaker Shop** (Spinnaker Canarias, dal 1990) | C/ San Francisco 52, 38001 Santa Cruz de Tenerife · +34 922 243 975 · info@spinnakercanarias.com | A 5 min a piedi da Marina Santa Cruz · cabos, poleas, elettronica, pompe, vele, gommoni, motori · distributore esclusivo di molti marchi: **B&G, Simrad, Lowrance, Harken, Spinlock, Selden**, Eno, Brig | [sito ★★★] |
-| Varadero / officina | **Varaderos Anaga** (gruppo Spinnaker) | Vía Transversal 1, Dársena Pesquera, 38180 Santa Cruz · +34 922 591 313 · vanaga@spinnakercanarias.com | Varada, lavaggio a pressione, trattamento osmosi, taller mecánico, riparazioni elettriche/elettroniche, antifouling, saldatura, lavori di jarcia | [sito ★★★] |
-| Vendita barche/motori + marina | **Náutica y Deportes Tenerife** (gruppo Nadetesa) | +34 922 59 12 47 · WhatsApp 670 84 63 91 · nauticaydeportes.com | Quasi 40 anni di attività; gestisce Marina Tenerife; oltre 33.000 m² tra vendita barche, motori e accessori | [sito ★★★] |
+| Tienda náutica | **Spinnaker Shop** (Spinnaker Canarias, dal 1990) | C/ San Francisco 52, 38001 Santa Cruz de Tenerife · +34 922 243 975 · info@spinnakercanarias.com | A 5 min a piedi da Marina Santa Cruz · cabos, poleas, elettronica, pompe, vele, gommoni, motori · distributore esclusivo di molti marchi: **B&G, Simrad, Lowrance, Harken, Spinlock, Selden**, Eno, Brig | ★★★ |
+| Varadero / officina | **Varaderos Anaga** (gruppo Spinnaker) | Vía Transversal 1, Dársena Pesquera, 38180 Santa Cruz · +34 922 591 313 · vanaga@spinnakercanarias.com | Varada, lavaggio a pressione, trattamento osmosi, taller mecánico, riparazioni elettriche/elettroniche, antifouling, saldatura, lavori di jarcia | ★★★ |
+| Vendita barche/motori + marina | **Náutica y Deportes Tenerife** (gruppo Nadetesa) | +34 922 59 12 47 · WhatsApp 670 84 63 91 · nauticaydeportes.com | Quasi 40 anni di attività; gestisce Marina Tenerife; oltre 33.000 m² tra vendita barche, motori e accessori | ★★★ |
 | Assistenza autorizzata Raymarine | — | **DATO MANCANTE** | Distribuzione ufficiale Spagna = Azimut Electronics; nessun service Tenerife confermato: da verificare | — |
 
 ## Altri operatori
@@ -27,13 +27,13 @@
 
 | Negozio | Cosa trovi | Tel | Mail / sito | Sede & orari | Recensioni |
 |---|---|---|---|---|---|
-| **Spinnaker Shop** | Tienda náutica completa: cime, pulegge, elettronica, pompe, velería, neumatiche, motori, accessori + vendita imbarcazioni | +34 922 243 975 | info@spinnakercanarias.com · spinnakercanarias.com | C/ San Francisco 52, 38001 Santa Cruz · a 5 min a piedi da Marina Santa Cruz | [sito ★★★] |
+| **Spinnaker Shop** | Tienda náutica completa: cime, pulegge, elettronica, pompe, velería, neumatiche, motori, accessori + vendita imbarcazioni | +34 922 243 975 | info@spinnakercanarias.com · spinnakercanarias.com | C/ San Francisco 52, 38001 Santa Cruz · a 5 min a piedi da Marina Santa Cruz | ★★★ |
 | Shipchandler dedicato (provisioning nave) | — | **DATO MANCANTE** | — | Zona portuale Santa Cruz | — |
 
 ## Note pratiche
 
 - Spinnaker Shop è raggiungibile a piedi dalla marina: comodo per acquisti rapidi senza taxi; ordini telefonici/mail con ritiro in negozio.
-- Varaderos Anaga lavora su prenotazione: contattare vanaga@spinnakercanarias.com indicando stazza e lavori previsti.
+- Varaderos Anaga lavora su prenotazione: contattare vanaga@ indicando stazza e lavori previsti.
 - Per marchi non trattati localmente (es. Raymarine) valutare ordine online peninsulare o assistenza a Las Palmas.
 
 Ultimo aggiornamento: 22/08/2026

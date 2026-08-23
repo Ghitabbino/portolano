@@ -10,7 +10,7 @@
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🎶 musica live, animato |
 | Contatti | 0596 66 15 93 |
-| Valutazioni | Petit Futé 3,6/5 → ★★★½ |
+| Valutazioni |★★★½|
 | Orari | 7/7 servizio continuato 11:30–23 (mezzanotte nel week-end) |
 
 ## Menu
@@ -26,7 +26,7 @@
 **Chef**: ND
 
 
-**Note**: Village Créole, rue du Chacha, Les Trois-Îlets · havana-cafe-martinique.fr
+**Note**: Village Créole, rue du Chacha, Les Trois-Îlets · 
 
 **Extra**: email havanacafemartinique@gmail.com
 

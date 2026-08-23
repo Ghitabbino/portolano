@@ -2,11 +2,11 @@
 
 [← Tutti gli ancoraggi](../08-ancoraggi.md)
 
-**9°33.0′N 78°57.5′W** [CruisersWiki ★★]
+**9°33.0′N 78°57.5′W** ★★
 
 | Campo | Dettaglio |
 |---|---|
-| **Profondità** | 4–8 m su sabbia [CruisersWiki ★★] |
+| **Profondità** |4–8 m su sabbia ★★|
 | **Tenuta àncora** | Ottima |
 | **Venti/riparo** | Buono da NE; raro swell nord entra a N |
 | **Pericoli** | Nasse pescatori segnalate |

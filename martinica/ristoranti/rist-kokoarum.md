@@ -10,7 +10,7 @@
 | Costo | 💰€€ per persona senza bevande |
 | Location | ⚓ marina, musica live |
 | Contatti | 0596 48 02 21 |
-| Valutazioni | Google 4,0/5 (747) · TA 3,5/5 (281) → ★★★½ |
+| Valutazioni |Google 4,0/5 (747) · TA 3,5/5 (281) → ★★★½|
 | Orari | serale · happy hour 17–19 · concerti mer e ven |
 
 ## Menu

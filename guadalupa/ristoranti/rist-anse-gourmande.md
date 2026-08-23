@@ -10,7 +10,7 @@
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🪶 locale nuovo |
 | Contatti | **DATO MANCANTE** |
-| Valutazioni | Google 4,9/5 (35) — pochi dati → ★★★★★* |
+| Valutazioni |Google 4,9/5 (35) — pochi dati → ★★★★★*|
 | Orari | **DATO MANCANTE** |
 
 ## Menu

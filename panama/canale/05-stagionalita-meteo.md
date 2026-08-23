@@ -32,7 +32,7 @@ Panama è **fuori dalla fascia uragani** (lat <10°N): rischio diretto quasi nul
 
 | Fonte | Uso |
 |---|---|
-| [meteo.go.cr / ETESA ★★★★★] | meteo Panama ufficiale |
+| ★★★★★ | meteo Panama ufficiale |
 | NOAA NHC | solo onde residue uragani |
 | Windy · PassageWeather · PredictWind | previsioni alisei/raffiche |
 

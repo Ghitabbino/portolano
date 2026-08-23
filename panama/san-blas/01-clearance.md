@@ -18,27 +18,27 @@ Non esiste procedura online per la comarca: tutto di persona/in contanti. Preavv
 
 | Voce | Dato |
 |---|---|
-| Permesso Guna barca | **US$50** [blue-joline ★★★ 2026] |
+| Permesso Guna barca |**US$50** ★★★|
 | Permesso Guna persona | **US$20/persona** [id.] |
 | Validità | **1 mese**, rinnovabile |
-| Tassa turistica comarca | **$22–23/persona** (checkpoint Cartí; applicata anche ai diportisti) [sanblasfrontera ★★★ 2026] |
-| Ricevute | Sempre rilasciate: esigerle (controlli in ancoraggio SENAN/Guna) [Noonsite ★★★] |
-| Riscossione | A bordo da rappresentanti Guna oppure ufficio Congresso a Porvenir [Noonsite ★★★; blue-joline ★★★] |
+| Tassa turistica comarca |**$22–23/persona** (checkpoint Cartí; applicata anche ai diportisti) ★★★|
+| Ricevute |Sempre rilasciate: esigerle (controlli in ancoraggio SENAN/Guna) ★★★|
+| Riscossione |A bordo da rappresentanti Guna oppure ufficio Congresso a Porvenir ★★★|
 
 ## Uffici
 
 | Ufficio | Dove | Note |
 |---|---|---|
-| Immigration Porvenir | Gaigirgordub | Timbro passaporti con zarpe colombiano; equipaggio presente; portare copie [noforeignland ★★★★ 2026] |
+| Immigration Porvenir | Gaigirgordub |Timbro passaporti con zarpe colombiano; equipaggio presente; portare copie ★★★★|
 | Congresso Generale Guna | adiacente immigration Porvenir | Permesso comarca |
-| Capitaneria | ❌ non a Porvenir | Entro 72 h: Linton Bay o Colón ($180–205/anno); alternativa est: Puerto Obaldia (~$12) [Noonsite ★★★ agg. 07/2025] |
+| Capitaneria | ❌ non a Porvenir |Entro 72 h: Linton Bay o Colón ($180–205/anno); alternativa est: Puerto Obaldia (~$12) ★★★|
 
 ## Esperienze dei crocieristi
 
 | Fonte | Sintesi |
 |---|---|
-| noforeignland ★★★★ 2026 | Immigration Porvenir rapida (2–15 min) se si hanno copie pronte ed equipaggio completo |
-| Noonsite ★★★ 07/2025 | ⚠️ Giu–lug 2025 tensioni Guna-Governo: uffici chiusi temporaneamente, riaperti da luglio; massima cautela, tutto a chiave |
+| ★★★★ 2026 | Immigration Porvenir rapida (2–15 min) se si hanno copie pronte ed equipaggio completo |
+| Fonti diportiste aggregate ★★★ 07/2025 | ⚠️ Giu–lug 2025 tensioni Guna-Governo: uffici chiusi temporaneamente, riaperti da luglio; massima cautela, tutto a chiave |
 
 ## Sanzioni
 

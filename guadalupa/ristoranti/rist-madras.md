@@ -10,7 +10,7 @@
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🪶 bordo mare, set TV |
 | Contatti | **DATO MANCANTE** |
-| Valutazioni | Google 4,3/5 (398) → ★★★★ |
+| Valutazioni |Google 4,3/5 (398) → ★★★★|
 | Orari | **DATO MANCANTE** |
 
 ## Menu

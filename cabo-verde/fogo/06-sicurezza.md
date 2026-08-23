@@ -4,7 +4,7 @@ Ultimo aggiornamento: 22/08/2026 · Valutazione arcipelago: **4/5**. A Fogo i ri
 
 ## In rada
 
-- Nessuna segnalazione di criminalità contro yacht. [Noonsite ★★★ — assenza di report]
+- Nessuna segnalazione di criminalità contro yacht. ★★★
 - Rischio vero = **deriva notturna** negli ancoraggi di fortuna: fondo profondo, swell W, katabatiche. Ancora pesante + allarme GPS + turni di guardia se si resta la notte.
 
 ## A terra

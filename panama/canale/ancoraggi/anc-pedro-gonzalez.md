@@ -1,11 +1,11 @@
 # Pedro González {#anc-pedro-gonzalez}
 
 [← Tutti gli ancoraggi](../08-ancoraggi.md)
-**8°24.3′N 78°52.8′W** [CruisersWiki ★★]
+**8°24.3′N 78°52.8′W** ★★
 
 | Campo | Dettaglio |
 |---|---|
-| **Profondità** | 4–8 m su sabbia davanti alla spiaggia lunga [CruisersWiki ★★] |
+| **Profondità** |4–8 m su sabbia davanti alla spiaggia lunga ★★|
 | **Tenuta àncora** | Buona |
 | **Venti/riparo** | Discreto da NE; esposto a S/E con swell |
 | **Pericoli** | Raffiche pomeridiane stagione umida |

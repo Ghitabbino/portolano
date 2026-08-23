@@ -2,11 +2,11 @@
 
 [← Tutti gli ancoraggi](../08-ancoraggi.md)
 
-**9°36.6′N 78°48.0′W** [CruisersWiki ★★]
+**9°36.6′N 78°48.0′W** ★★
 
 | Campo | Dettaglio |
 |---|---|
-| **Profondità** | 4–9 m [CruisersWiki ★★] |
+| **Profondità** |4–9 m ★★|
 | **Tenuta àncora** | Buona |
 | **Venti/riparo** | Esposo a E: alisei tesi |
 | **Pericoli** | Relitto sommerso segnalato da boe |

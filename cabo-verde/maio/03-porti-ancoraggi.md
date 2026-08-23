@@ -1,6 +1,6 @@
 # 03 — Porti e marine
 
-Ultimo aggiornamento: 22/08/2026 · Coordinate indicative; navigare con cartografia ufficiale. Porto Maio anchorage ≈ **15°08'20"N, 23°13'00"W**. [Noonsite ★★★]
+Ultimo aggiornamento: 22/08/2026 · Coordinate indicative; navigare con cartografia ufficiale. Porto Maio anchorage ≈ **15°08'20"N, 23°13'00"W**. ★★★
 
 ## Porto Inglês / Porto de Porto Inglês
 
@@ -8,9 +8,9 @@ Nessuna marina: banchina commerciale piccola (ferry e cargo occasionale), porto 
 
 | Tenuta | Note |
 |---|---|
-| ★★★ | Fondo misto sabbia e roccia: scegliere bene il punto di gettata. Swell meridionale frequente → rollìo e spiaggia difficile per lo sbarco in dinghy; alcuni equipaggi nuotano a riva col tender di legno. [Noonsite commenti ★★] |
+| ★★★ |Fondo misto sabbia e roccia: scegliere bene il punto di gettata. Swell meridionale frequente → rollìo e spiaggia difficile per lo sbarco in dinghy; alcuni equipaggi nuotano a riva col tender di legno. ★★|
 
-- Sbarco alternativo: scalinata in pietra a E del porto o il lungo molo a W. [Noonsite commenti ★★]
+- Sbarco alternativo: scalinata in pietra a E del porto o il lungo molo a W. ★★
 - Dinghy: mai lasciata incustodita sulla spiaggia di giorno pieno.
 
 ## Altri approdi sull'isola

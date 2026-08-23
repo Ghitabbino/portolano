@@ -2,7 +2,7 @@
 
 **Ultimo aggiornamento: 21/08/2026**
 
-Valuta: **euro**. Livello prezzi: alimentari ~**+40%** vs Francia metropolitana; carburante regolato come in metropoli. [Bloc Marine ★★★★; Noonsite ★★★]
+Valuta: **euro**. Livello prezzi: alimentari ~**+40%** vs Francia metropolitana; carburante regolato come in metropoli. ★★★★
 
 > ⚠️ Le voci di questo elenco sono le stesse per tutti i paesi del portolano. Dove il dato non è stato ancora trovato dalle fonti si scrive **DATO MANCANTE**: viene ricercato al controllo mensile (vedi [00 Indice](../00-indice.md)).
 
@@ -10,10 +10,10 @@ Valuta: **euro**. Livello prezzi: alimentari ~**+40%** vs Francia metropolitana;
 
 | Voce | Prezzo indicativo | Note |
 |---|---|---|
-| Birra locale supermercato (0,33 l) | 1–1,5 € | Lorraine/Bièreh [★★] |
-| Caffè al bancone | 1,50–2,50 € | Bar del bourg [★★] |
-| Baguette | ~1,20 € | Prezzo regolato francese [★★★] |
-| Acqua imbottigliata 1,5 l | 0,80–1,50 € | Supermercato [★★] |
+| Birra locale supermercato (0,33 l) | 1–1,5 € |Lorraine/Bièreh ★★|
+| Caffè al bancone | 1,50–2,50 € |Bar del bourg ★★|
+| Baguette | ~1,20 € |Prezzo regolato francese ★★★|
+| Acqua imbottigliata 1,5 l | 0,80–1,50 € |Supermercato ★★|
 | Latte 1 l | **DATO MANCANTE** | Da rilevare a supermercato |
 | Riso 1 kg | **DATO MANCANTE** | Da rilevare a supermercato |
 | Pollo fresco 1 kg | **DATO MANCANTE** | Da rilevare a supermercato |
@@ -34,8 +34,8 @@ Prezzi specifici per locale → [10 Ristoranti](10-ristoranti.md).
 
 | Voce | Prezzo indicativo | Note |
 |---|---|---|
-| Gasolio | ~1,0–1,2 €/l | Regolato francese [Bloc Marine ★★★★] |
-| Benzina SP95 | ~1,3–1,5 €/l | Regolato francese [Bloc Marine ★★★★] |
+| Gasolio | ~1,0–1,2 €/l |Regolato francese ★★★★|
+| Benzina SP95 | ~1,3–1,5 €/l |Regolato francese ★★★★|
 | Benzina SP98 | **DATO MANCANTE** | |
 | Bombola gas (scambio) | **DATO MANCANTE** | Solo scambio bombole → [04](04-servizi-cantieri.md) |
 
@@ -44,17 +44,17 @@ Prezzi specifici per locale → [10 Ristoranti](10-ristoranti.md).
 | Voce | Prezzo indicativo | Note |
 |---|---|---|
 | Bus locale | **DATO MANCANTE** | Rete Mozeau/CTCS |
-| Collegamento marittimo locale (navetta baie FdF) | ~5–7 €/tratta ⚠️ da verificare | Pointe du Bout/Trois-Îlets [★★] |
-| Noleggio auto giornaliero | 35–55 € | Agenzie Le Marin/FdF/aeroporto [★★] |
-| Taxi | Costoso, tariffe non regulate | Concordare prima [★★] |
+| Collegamento marittimo locale (navetta baie FdF) | ~5–7 €/tratta ⚠️ da verificare |Pointe du Bout/Trois-Îlets ★★|
+| Noleggio auto giornaliero | 35–55 € |Agenzie Le Marin/FdF/aeroporto ★★|
+| Taxi | Costoso, tariffe non regulate |Concordare prima ★★|
 
 ## Servizi quotidiani
 
 | Voce | Prezzo indicativo | Note |
 |---|---|---|
-| Lavanderia self-service | ~5–8 €/carico | Marina du Marin [★★] |
-| SIM prepagata con dati | 10–20 € | Orange/Digicel [★★★] |
-| Lavaggio scafo (hull dive) | ~2–3 €/piede | Diver marina, confermare sul posto [★★] |
+| Lavanderia self-service | ~5–8 €/carico |Marina du Marin ★★|
+| SIM prepagata con dati | 10–20 € |Orange/Digicel ★★★|
+| Lavaggio scafo (hull dive) | ~2–3 €/piede |Diver marina, confermare sul posto ★★|
 
 ## Contanti e pagamenti
 

@@ -8,10 +8,10 @@ Selezione orientata alla crociera. Schede puntuali per locale in corso di raccol
 
 | Ristorante | Zona | Costo | Cucina | Specialità | Location | Stelle |
 |---|---|---|---|---|---|---|
-| [Cofradía de Pescadores](ristoranti/rist-cofradia-de-pescadores.md) | Puerto de Mogán – molo peschereccio | **€€** | **🐟 Pesce alla brace** | *Parrillada pescado/marisco del giorno* | **⚓ terrazza sulla darsena** | TA ★★★½ (prezzo ok, porzioni abbondanti) |
-| [Casa Mia](ristoranti/rist-casa-mia.md) | Puerto de Mogán – canali | **€€** | **🍝 Italiana di mare** | *Pasta fresca · pesce* | **🍽️ intimo lungo canale** | Google 4,9/5 (456) ★★★★★ |
-| [Restaurante Canario de Oro](ristoranti/rist-restaurante-canario-de-oro.md) | Puerto de Mogán – paseo | **€** | **🥘 Canaria popolare** | *Papas arrugadas · mojo · rancho* | **🪶 sala ampia familiare** | Google 2600+ voti ★★★★ |
-| [Mogán Mar](ristoranti/rist-mogan-mar.md) | Puerto de Mogán – paseo | **€€** | **🥘 Canaria-messicana** | *Fusion due cucine* | **🌅 terrazza paseo** | sito ★★★ |
+| [Cofradía de Pescadores](ristoranti/rist-cofradia-de-pescadores.md) | Puerto de Mogán – molo peschereccio | **€€** | **🐟 Pesce alla brace** | *Parrillada pescado/marisco del giorno* | **⚓ terrazza sulla darsena** |TA ★★★½ (prezzo ok, porzioni abbondanti)|
+| [Casa Mia](ristoranti/rist-casa-mia.md) | Puerto de Mogán – canali | **€€** | **🍝 Italiana di mare** | *Pasta fresca · pesce* | **🍽️ intimo lungo canale** |Google 4,9/5 (456) ★★★★★|
+| [Restaurante Canario de Oro](ristoranti/rist-restaurante-canario-de-oro.md) | Puerto de Mogán – paseo | **€** | **🥘 Canaria popolare** | *Papas arrugadas · mojo · rancho* | **🪶 sala ampia familiare** |Google 2600+ voti ★★★★|
+| [Mogán Mar](ristoranti/rist-mogan-mar.md) | Puerto de Mogán – paseo | **€€** | **🥘 Canaria-messicana** | *Fusion due cucine* | **🌅 terrazza paseo** |sito ★★★|
 
 *Clicca sul nome per la scheda completa. Ogni punto rosso nella mappa apre la scheda.*
 
@@ -22,7 +22,7 @@ Selezione orientata alla crociera. Schede puntuali per locale in corso di raccol
 
 *Clicca un punto rosso: apre la scheda del ristorante.*
 
-## App e fonti
+## App utili sul posto
 
 | Piattaforma | Uso locale |
 |---|---|

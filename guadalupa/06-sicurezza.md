@@ -8,9 +8,9 @@ Crimini violenti contro turisti e crocieristi **rari**; rischio principale = fur
 
 ## Quadro generale
 
-- **CSSN**: incidenti segnalati in Guadalupa negli ultimi anni, prevalentemente furti notturni a bordo e tentati scassi in marina; caso tipico: uomo scalato il cancello chiuso del guest dock alla **Marina Bas-du-Fort** di notte (allarme dei diportisti, intervento sicurezza). Furto documentato nel 2025 (incidente n. 3893). [thecssn.org ★★★]
+- ****: incidenti segnalati in Guadalupa negli ultimi anni, prevalentemente furti notturni a bordo e tentati scassi in marina; caso tipico: uomo scalato il cancello chiuso del guest dock alla **Marina Bas-du-Fort** di notte (allarme dei diportisti, intervento sicurezza). Furto documentato nel 2025 (incidente n. 3893). ★★★
 - **Statistiche ufficiali**: bilancio prefettura conferma criminalità concentrata nei quartieri urbani dell'agglomerato pointois (Les Abymes, Pointe-à-Pitre nord, Baie-Mahault); narcotraffico genera violenze endogene non dirette ai turisti. [préfecture de Guadeloupe, bilan annuel ★★★★★]
-- **Advisory Canada**: sole precauzioni normali; raccomandata attenzione nelle spiagge isolate e trasporti notturni. [voyage.gc.ca ★★★★]
+- **Advisory Canada**: sole precauzioni normali; raccomandata attenzione nelle spiagge isolate e trasporti notturni. ★★★★
 
 ## Mappa delle zone — offline
 
@@ -30,7 +30,7 @@ Crimini violenti contro turisti e crocieristi **rari**; rischio principale = fur
 ## Furti ai danni dei crocieristi
 
 - Dinghy/fuoribordo: episodi ricorrenti nei porti della Grande-Terre; catene antitaglio + motore rimosso di notte restano lo standard.
-- Scasso a bordo: preferire barche illuminate, serrature secondarie, oggetti di valore nascosti; i casi CSSN avvengono quasi sempre tra 01h e 04h.
+- Scasso a bordo: preferire barche illuminate, serrature secondarie, oggetti di valore nascosti; i casi avvengono quasi sempre tra 01h e 04h.
 - In marina: segnalare sconosciuti sui pontili alla guardia; il caso Bas-du-Fort è stato risolto proprio dalla reazione tempestiva dei diportisti.
 
 ## A bordo e a terra
@@ -41,8 +41,8 @@ Crimini violenti contro turisti e crocieristi **rari**; rischio principale = fur
 
 ## Navigazione
 
-- **Nasse e reti** sulla costa atlantica della Grande-Terre (Le Moule, Port-Louis, Anse-Bertrand): boe con lenze quasi invisibili anche oltre 3 miglia — navigare a sud di esse o con sole alto. [noforeignland ★★★]
-- **Swell da nord-ovest**: raro ma fa rollare tutti i mouillage della costa ovest (Deshaies, Malendure, Ravine Paul Thomas); monitorare lo swell (*houle*) prima di fermarsi. [Bloc Marine ★★★★]
+- **Nasse e reti** sulla costa atlantica della Grande-Terre (Le Moule, Port-Louis, Anse-Bertrand): boe con lenze quasi invisibili anche oltre 3 miglia — navigare a sud di esse o con sole alto. ★★★
+- **Swell da nord-ovest**: raro ma fa rollare tutti i mouillage della costa ovest (Deshaies, Malendure, Ravine Paul Thomas); monitorare lo swell (*houle*) prima di fermarsi. ★★★★
 - **Riserve naturali** (Cousteau, Petite Terre): ancoraggio regolamentato/vietato, sorveglianza attiva → vedi [08 Ancoraggi](08-ancoraggi.md).
 
 ## Salvataggio ed emergenze
@@ -58,11 +58,11 @@ Crimini violenti contro turisti e crocieristi **rari**; rischio principale = fur
 
 | Fonte | Cosa monitorare | Frequenza |
 |---|---|---|
-| thecssn.org/search-incidents | Nuovi incidenti "Guadeloupe" | Mensile |
-| noforeignland.com/guides/countries/gp | Recensioni recenti mouillage/sicurezza | Mensile |
-| RCI Guadeloupe / France-Antilles | Rapine, aggressioni contro turisti | Mensile |
+| Rete sicurezza diportisti (ricerca incidenti) | Nuovi incidenti "Guadeloupe" | Mensile |
+| Portali nautici diportisti | Recensioni recenti mouillage/sicurezza | Mensile |
+| Radio locale Guadalupa / Stampa locale antillana | Rapine, aggressioni contro turisti | Mensile |
 | préfecture de la Guadeloupe (bilan délinquance) | Statistiche annuali/trimestrali | Trimestrale |
 | voyage.gc.ca / diplomatie.gouv.fr | Advisory aggiornati | Mensile |
-| Noonsite Guadeloupe | Report diportisti | Mensile |
+| Portali nautici internazionali | Report diportisti | Mensile |
 
 Ultimo aggiornamento: 22/08/2026

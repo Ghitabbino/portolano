@@ -11,10 +11,10 @@
 
 | Passo | Dettaglio |
 |---|---|
-| Preavviso email | Fino a 72 h prima dell'arrivo: zarpe, licenza, passaporti → regionalcolon@migracion.gob.pa (lato Atlantico) [travelsketchsailing ★★ 2026] |
-| Migración | Ufficio principale Colón/Cristóbal o succursali (Balboa YC, Flamenco, Linton Bay): le succursali danno solo il timbro 72 h [Noonsite ★★★] |
-| Capitaneria + AMP | Permiso de Navegación 1 anno US$185–193 (+agenzia ~US$235–240 tot) [Noonsite ★★★ 2025] |
-| PCA (transito) | Registrazione su pancanal.com, admeasuring della barca, pagamento pedaggi e deposito, assegnazione slot [pancanal.com ★★★★★] |
+| Preavviso email |Fino a 72 h prima dell'arrivo: zarpe, licenza, passaporti → regionalcolon@migracion.gob.pa (lato Atlantico) ★★|
+| Migración |Ufficio principale Colón/Cristóbal o succursali (Balboa YC, Flamenco, Linton Bay): le succursali danno solo il timbro 72 h ★★★|
+| Capitaneria + AMP |Permiso de Navegación 1 anno US$185–193 (+agenzia ~US$235–240 tot) ★★★|
+| PCA (transito) |Registrazione su pancanal.com, admeasuring della barca, pagamento pedaggi e deposito, assegnazione slot ★★★★★|
 
 ## Transito del Canale — procedura
 
@@ -32,9 +32,9 @@
 
 | Voce | Dato |
 |---|---|
-| Pedaggi yacht <20 m (65 ft) | Ordine di grandezza **~US$1.600–2.000** secondo misura e chiuse; tariffa ufficiale aggiornata → DATO MANCANTE (verificare su pancanal.com prima del transito) [Noonsite ★★★] |
+| Pedaggi yacht <20 m (65 ft) |Ordine di grandezza **~US$1.600–2.000** secondo misura e chiuse; tariffa ufficiale aggiornata → DATO MANCANTE (verificare su pancanal.com prima del transito) ★★★|
 | Deposito cauzionale | Rimborsabile se nessun danno; importo variabile → DATO MANCANTE |
-| Agenzia locale (opzionale ma comune) | ~US$350–500 gestisce carta, slot, advisor, noleggio attrezzatura [forum ★★] |
+| Agenzia locale (opzionale ma comune) |~US$350–500 gestisce carta, slot, advisor, noleggio attrezzatura ★★|
 
 ## Copia cartacea timbrata
 
@@ -53,14 +53,14 @@ Conservare: zarpe d'ingresso, timbri passaporti, Permiso de Navegación, ricevut
 
 | Fonte | Sintesi |
 |---|---|
-| Noonsite ★★★ 2024–2025 | Succursali comode ma limitate: per visti lunghi serve l'ufficio principale; agenti accelerano tutto |
+| Fonti diportiste aggregate ★★★ 2024–2025 | Succursali comode ma limitate: per visti lunghi serve l'ufficio principale; agenti accelerano tutto |
 | Forum ★★ | Transito piccolo ben organizzato; prenotare con settimane di anticipo in alta stagione (gen–apr) |
 
 ## Sanzioni
 
 | Violazione | Sanzione |
 |---|---|
-| Nessun timbro entro 72 h | Fino a US$1.000/persona [Noonsite ★★★] |
+| Nessun timbro entro 72 h |Fino a US$1.000/persona ★★★|
 | Barca senza Permiso >3 giorni | Multa AMP + obbligo regolarizzazione |
 
 ## Da verificare prima della crociera

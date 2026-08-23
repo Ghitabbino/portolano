@@ -16,18 +16,18 @@ Il hub nautico assoluto dell'arcipelago, in pieno centro storico sul Cais Alfân
 | Reception | lun–ven 8–18, sab–dom 9–16 |
 | Servizi | Acqua, elettricità, carburante, LPG, docce/WC, sicurezza 24h e videosorveglianza, lavanderia a servizio, WiFi (100 MB gratis al check-in), Sailor's Bar galleggiante, chandlery limitata, sailmaker |
 
-[sito ufficiale marina ★★★★; Noonsite ★★★]
+★★★★
 
 ## Ancoraggio Porto Grande
 
 | Tenuta | Note |
 |---|---|
-| ★★★★ | Baia ampia e ben riparata, fondo tenuto bene; vento costante 15–25 kn: cavi e catenari sotto stress, controllare l'ancora dopo le raffiche [Noonsite ★★★; Sea-Seek ★★] |
+| ★★★★ |Baia ampia e ben riparata, fondo tenuto bene; vento costante 15–25 kn: cavi e catenari sotto stress, controllare l'ancora dopo le raffiche ★★★|
 
-- **Ingresso**: passati Ilhéu dos Pássaros e la roccia centrale, tenersi verso nord della baia; ~100 m di distanza dal molo commerciale. Di notte luci difficili da distinguere da quelle a terra: chartplotter indispensabile; nuovi boe verdi di channel (dic 2024) facilitano l'arrivo notturno — ancorare E/SE delle boe verdi, lontano da ferries e relitti. Riferimento notturno utile: ferry bianco/rosso ARMOS/ARMAS all'estremità del molo commerciale, lasciarlo a sinistra. [Noonsite ★★★]
-- **Attenzione ai relitti**: restano elementi affioranti (<1 m) vicino alle boe all'uscita del "port japonais". [Sea-Seek ★★]
-- Dinghy dock presso la marina (permesso + piccola tariffa). [Noonsite ★★★]
-- Mindelo Yacht Club: servizi base per visitatori (docce, bar). [Ocean Posse ★★★]
+- **Ingresso**: passati Ilhéu dos Pássaros e la roccia centrale, tenersi verso nord della baia; ~100 m di distanza dal molo commerciale. Di notte luci difficili da distinguere da quelle a terra: chartplotter indispensabile; nuovi boe verdi di channel (dic 2024) facilitano l'arrivo notturno — ancorare E/SE delle boe verdi, lontano da ferries e relitti. Riferimento notturno utile: ferry bianco/rosso ARMOS/ARMAS all'estremità del molo commerciale, lasciarlo a sinistra. ★★★
+- **Attenzione ai relitti**: restano elementi affioranti (<1 m) vicino alle boe all'uscita del "port japonais". ★★
+- Dinghy dock presso la marina (permesso + piccola tariffa). ★★★
+- Mindelo Yacht Club: servizi base per visitatori (docce, bar). ★★★
 
 ## Altri approdi sull'isola
 

@@ -10,7 +10,7 @@
 | Costo | 💰€€€ per persona senza bevande |
 | Location | 🍽️ elegante informale |
 | Contatti | 0596 76 75 43 |
-| Valutazioni | TA 4,7/5 (372) · Petit Futé 4,4/5 (127) → ★★★★½ |
+| Valutazioni |★★★★½|
 | Orari | lun chiuso · mer–sab 12–14:30 / 19–21:30 · dom pranzo |
 
 ## Menu
@@ -22,6 +22,6 @@
 **Chef**: Kévin Julians
 
 
-**Note**: Rue du bord de mer · le-mrestaurant.com · stessi gestori del Paille Coco
+**Note**: Rue du bord de mer · · stessi gestori del Paille Coco
 
 Ultimo aggiornamento: 22/08/2026

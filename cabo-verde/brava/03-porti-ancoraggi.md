@@ -4,11 +4,11 @@ Ultimo aggiornamento: 22/08/2026 · Coordinate indicative; navigare con cartogra
 
 ## Furna (Porto de Furna, costa NE)
 
-L'unico approccio "strutturato": porto minuscolo sul angolo NE dell'isola. [Noonsite ★★★]
+L'unico approccio "strutturato": porto minuscolo sul angolo NE dell'isola. ★★★
 
 | Tenuta | Note |
 |---|---|
-| ★★ | Banchina dei pescatori con muretto; ormeggio laterale possibile con mare piatto. Aperta al NE: con aliseo pieno il porticciolo lavora e l'ormeggio diventa insostenibile [Noonsite ★★★] |
+| ★★ |Banchina dei pescatori con muretto; ormeggio laterale possibile con mare piatto. Aperta al NE: con aliseo pieno il porticciolo lavora e l'ormeggio diventa insostenibile ★★★|
 
 - Da Furna: strada ripida fino a Nova Sintra (capital) in auto o camionetta locale.
 
@@ -18,7 +18,7 @@ Borgata di pescatori su una falesia bassa: ancoraggio diurno solo con mare piatt
 
 ## Nova Sintra (ancoraggio segnalato)
 
-Ancoraggio "ragionevole" davanti alla capitale secondo i naviganti: tenuta discreta, qualche strascico riportato; due ristoranti a riva (Maria aperto ogni giorno). [Noonsite commenti 2019 ★★]
+Ancoraggio "ragionevole" davanti alla capitale secondo i naviganti: tenuta discreta, qualche strascico riportato; due ristoranti a riva (Maria aperto ogni giorno). ★★
 
 ## Consenso onesto
 

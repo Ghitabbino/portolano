@@ -10,7 +10,7 @@
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🌿 terrazza |
 | Contatti | +34 922 270 596 |
-| Valutazioni | Canarias-Lovers ★★★★½ |
+| Valutazioni | ★★★★½|
 | Orari | pranzo/cena, riposo settimanale ⚠️ |
 
 ## Menu

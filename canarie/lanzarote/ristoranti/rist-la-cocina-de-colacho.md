@@ -10,7 +10,7 @@
 | Costo | 💰€€€€ per persona senza bevande |
 | Location | 🍽️ galleria d'arte + cucina vista |
 | Contatti | +34 **DATO MANCANTE** (prenota sito) |
-| Valutazioni | CaptureAtlas ★★★★★ |
+| Valutazioni |CaptureAtlas ★★★★★|
 | Orari | lun–gio cena; CHIUSO ven–dom |
 
 ## Menu

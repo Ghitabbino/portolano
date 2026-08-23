@@ -10,7 +10,7 @@
 | Costo | 💰€€ 25–40 € per persona senza bevande [Canarias Lovers] |
 | Location | 🌅 terrazza rialzata vista paseo marítimo e baia, tramonti |
 | Contatti | 629 33 22 06 · picamar-tapas-bistro.eatbu.com · dajesuccess@gmail.com |
-| Valutazioni | TA 4,9/5 (488), nº35 su 498 a Costa Adeje, Certificato di Eccellenza → ★★★★★ |
+| Valutazioni |TA 4,9/5 (488), nº35 su 498 a Costa Adeje, Certificato di Eccellenza → ★★★★★|
 | Orari | mer–dom 18:30–22:30 · lun e mar chiusi ⚠️ solo cena |
 
 ## Menu

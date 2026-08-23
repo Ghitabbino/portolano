@@ -19,7 +19,7 @@ La Guadalupa è un **dipartimento francese d'oltremare (DROM)**: parte dell'UE (
 ## Nota importante per chi arriva via mare
 
 - Controlli **persone** (police) separati dalla **clearance barca** (dogane): la clearance è obbligatoria per tutti i natanti da/per l'estero → vedi [01 — Clearance](01-clearance.md).
-- Arrivando direttamente da isola estera (Dominica, Antigua, Montserrat) tenere pronti i documenti di tutto l'equipaggio: la dichiarazione online li richiede uno per uno. [Guide Boat 2024, martinique.gouv.fr ★★★★★]
+- Arrivando direttamente da isola estera (Dominica, Antigua, Montserrat) tenere pronti i documenti di tutto l'equipaggio: la dichiarazione online li richiede uno per uno. [ 2024, martinique.gouv.fr ★★★★★]
 
 ## E dopo i 3 mesi? (cittadini italiani/UE)
 
@@ -40,10 +40,10 @@ In pratica: **si resta a tempo indeterminato** (turismo) con la sola carta d'ide
 | **UE con IVA pagata** (caso tipico: barca italiana) | Territorio doganale UE → **libera circolazione, nessun limite di tempo, nessun cruising permit**. Solo clearance dichiarativa online all'arrivo/partenza da extra-UE | douane.gouv.fr ★★★★★ |
 | Extra-UE | **Admission Temporaire (AT)**: max **18 mesi** nel territorio doganale UE (artt. 250–253 CDU); rinnovabile uscendo dal territorio UE (tocco porto terzo sul log-book = prova); tetto cumulativo 10 anni. In Antille valida anche nel Marché Unique Antillais/OECS | douane.gouv.fr "Régime particulier : l'admission temporaire" (Regime particolare: ammissione temporanea), agg. 15/02/2024 ★★★★★; CDUE art. 251 ★★★★★; bateaux-antilles.fr ★★★ |
 
-⚠️ Barca extra-UE sotto AT: vietato noleggio e vendita in UE, uso privato da residenti extra-UE soltanto — violazione = tassazione immediata. [CDUE artt. 250–253 ★★★★★]
+⚠️ Barca extra-UE sotto AT: vietato noleggio e vendita in UE, uso privato da residenti extra-UE soltanto — violazione = tassazione immediata. ★★★★★
 
 ## Vaccini
 
-Nessun vaccino obbligatorio dall'UE. Raccomandata protezione antilarvale (dengue presente). [voyage.gc.ca ★★★★]
+Nessun vaccino obbligatorio dall'UE. Raccomandata protezione antilarvale (dengue presente). ★★★★
 
 Ultimo aggiornamento: 22/08/2026

@@ -10,7 +10,7 @@
 | Costo | 💰€ per persona senza bevande |
 | Location | 🪶 semplice, locale |
 | Contatti | 0696 85 87 55 / 0696 27 61 64 |
-| Valutazioni | TA 4,0/5 (205) → ★★★★ |
+| Valutazioni |TA 4,0/5 (205) → ★★★★|
 | Orari | tutti i giorni, pranzo e sera |
 
 ## Menu

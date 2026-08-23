@@ -2,11 +2,11 @@
 
 [← Tutti gli ancoraggi](../08-ancoraggi.md)
 
-**9°36.0′N 78°50.3′W** [CruisersWiki ★★]
+**9°36.0′N 78°50.3′W** ★★
 
 | Campo | Dettaglio |
 |---|---|
-| **Profondità** | 3–8 m acqua limpida su sabbia [CruisersWiki ★★] |
+| **Profondità** |3–8 m acqua limpida su sabbia ★★|
 | **Tenuta àncora** | Eccellente |
 | **Venti/riparo** | Holandeses ben schermati da NE |
 | **Pericoli** | Passo corallino: solo luce alta |

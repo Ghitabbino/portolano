@@ -14,7 +14,7 @@ L'isola più povera e remota del gruppo: costi bassissimi, scelta minima. **Cont
 
 ## Alimentari
 
-- Supermercato di Nova Sintra sorprendentemente fornito per l'isola più remota [Noonsite commenti 2019 ★★]; minimercati minuscoli altrove.
+- Supermercato di Nova Sintra sorprendentemente fornito per l'isola più remota ★★; minimercati minuscoli altrove.
 - Frutta subtropicale dell'isola (mango, avocado, banane) ottima ed economica.
 - Prodotti importati: costosi e intermittenti (arrivano via ferry).
 

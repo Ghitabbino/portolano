@@ -19,7 +19,7 @@ La Martinica è un **dipartimento francese d'oltremare (DROM)**: parte dell'UE (
 ## Nota importante per chi arriva via mare
 
 - I controlli **persone** (police) sono separati dalla **clearance della barca** (dogane): la clearance è obbligatoria per TUTTI i natanti che arrivano da/portano verso l'estero, indipendentemente dalla nazionalità dell'equipaggio → vedi [01 — Clearance](01-clearance.md).
-- In caso di arrivo diretto da un'isola estera (es. Santa Lucia), tenere pronti documenti identità di tutto l'equipaggio: la dichiarazione online li richiede (nome, data nascita, nazionalità, n° documento). [Guide Boat 2024, martinique.gouv.fr ★★★★★]
+- In caso di arrivo diretto da un'isola estera (es. Santa Lucia), tenere pronti documenti identità di tutto l'equipaggio: la dichiarazione online li richiede (nome, data nascita, nazionalità, n° documento). [ 2024, martinique.gouv.fr ★★★★★]
 
 ## E dopo i 3 mesi? (cittadini italiani/UE)
 
@@ -40,8 +40,8 @@ In pratica: **si può restare a tempo indeterminato** (turismo) con carta d'iden
 | **UE con IVA pagata** (caso tipico: barca italiana) | Territorio doganale UE → **libera circolazione, nessun limite di tempo, nessun cruising permit**. Solo la clearance dichiarativa online all'arrivo/partenza extra-UE | douane.gouv.fr, regime UE ★★★★★ |
 | Extra-UE | **Admission Temporaire (AT)**: max **18 mesi** nel territorio doganale UE (artt. 250–253 CDU); si rinnova uscendo dal territorio UE (tocco porto terzo = prova); tetto cumulativo 10 anni. In Antille valida anche nel Marché Unique Antillais/OECS | douane.gouv.fr "Régime particulier : l'admission temporaire" (Regime particolare: ammissione temporanea), agg. 15/02/2024 ★★★★★; Codice Doganale UE art. 251 ★★★★★; bateaux-antilles.fr ★★★ |
 
-⚠️ Barca extra-UE sotto AT: niente noleggio, niente vendita in UE, uso esclusivamente privato da parte di residenti extra-UE — la violazione comporta tassazione immediata del natante. [Codice Doganale UE art. 250–253 ★★★★★]
+⚠️ Barca extra-UE sotto AT: niente noleggio, niente vendita in UE, uso esclusivamente privato da parte di residenti extra-UE — la violazione comporta tassazione immediata del natante. ★★★★★
 
 ## Vaccini
 
-Nessun vaccino obbligatorio per ingresso da paesi UE. Raccomandata protezione antilarvale (dengue presente). [Air Caraïbes, aggiornato 16/03/2026 ★★★; voyage.gc.ca 29/07/2026 ★★★★]
+Nessun vaccino obbligatorio per ingresso da paesi UE. Raccomandata protezione antilarvale (dengue presente). ★★★

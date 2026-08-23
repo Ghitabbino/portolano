@@ -10,7 +10,7 @@
 | Costo | 💰€ per persona senza bevande |
 | Location | 🪶 semplice vicino darsena |
 | Contatti | **922 806 041** |
-| Valutazioni | Turismo Canarias ★★★ |
+| Valutazioni | ★★★|
 | Orari | sera |
 
 ## Menu

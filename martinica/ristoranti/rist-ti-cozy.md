@@ -10,7 +10,7 @@
 | Costo | 💰€ per persona senza bevande |
 | Location | 🪶 rustico curato |
 | Contatti | 0696 05 44 10 / 0596 97 74 89 |
-| Valutazioni | TA 5,0/5 (198), Travellers' Choice 2024 → ★★★★★ |
+| Valutazioni |TA 5,0/5 (198), Travellers' Choice 2024 → ★★★★★|
 | Orari | 11–21:30 · chiusura settimanale divergente tra le fonti ⚠️ chiamare |
 
 ## Menu

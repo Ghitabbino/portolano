@@ -10,7 +10,7 @@
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🌴 case créole in giardino |
 | Contatti | **DATO MANCANTE** |
-| Valutazioni | Google 4,7/5 (217) → ★★★★★ |
+| Valutazioni |Google 4,7/5 (217) → ★★★★★|
 | Orari | **DATO MANCANTE** |
 
 ## Menu

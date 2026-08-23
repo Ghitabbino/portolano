@@ -4,7 +4,7 @@ Ultimo aggiornamento: 22/08/2026 · Contesto generale in [00 — Ingresso](../00
 
 ## Mindelo = porto d'ingresso principale
 
-Mindelo (Porto Grande, São Vicente) è il **porto di entrata/uscita** più usato dai naviganti in Atlantico: giudicato il più semplice e "yacht-friendly" dell'arcipelago. [Noonsite ★★★; Ocean Posse ★★★]
+Mindelo (Porto Grande, São Vicente) è il **porto di entrata/uscita** più usato dai naviganti in Atlantico: giudicato il più semplice e "yacht-friendly" dell'arcipelago. ★★★
 
 ## Procedura
 
@@ -17,19 +17,19 @@ Mindelo (Porto Grande, São Vicente) è il **porto di entrata/uscita** più usat
 | Costi | Formalità generalmente gratuite |
 | Nave | Possibile trattenuta del documento di registrazione per la durata del soggiorno |
 
-[Noonsite ★★★; Ocean Posse ★★★; Sea-Seek ★★]
+★★★
 
 ## Contatti
 
 | Ufficio | Telefono |
 |---|---|
 | Capitania do Porto / Polícia Marítima de São Vicente | **DATO MANCANTE** — da verificare (nessun numero confermato su fonte affidabile) |
-| Marina Mindelo | **+238 230 00 32** · VHF 72 · reception@marinamindelo.cv [sito ufficiale marina ★★★★] |
+| Marina Mindelo |**+238 230 00 32** · VHF 72 · reception@marinamindelo.cv ★★★★|
 
 ## Partenza
 
-- Richiedere lo **zarpe** alla Capitania prima della partenza verso l'estero (Caraibi, Brasile, Europa, Africa occidentale): sarà richiesto al paese successivo. [Ocean Posse ★★★]
-- Annullare/cancellare il documento di clearance se si resta oltre il piano o si sposta l'ancoraggio: i naviganti riportano controlli a campione. [SV The Dream ★★]
+- Richiedere lo **zarpe** alla Capitania prima della partenza verso l'estero (Caraibi, Brasile, Europa, Africa occidentale): sarà richiesto al paese successivo. ★★★
+- Annullare/cancellare il documento di clearance se si resta oltre il piano o si sposta l'ancoraggio: i naviganti riportano controlli a campione. ★★
 
 ## Da verificare prima della partenza
 

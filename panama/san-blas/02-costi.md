@@ -6,7 +6,7 @@ Valuta USD in contanti: nella comarca **non** si usano carte. Prezzi guidati dal
 
 | Prodotto | Prezzo | Note |
 |---|---|---|
-| Pesce fresco da canoe | $2–5/pesco | aragosta $5–10 secondo stagione [cruiser ★★] |
+| Pesce fresco da canoe | $2–5/pesco |aragosta $5–10 secondo stagione ★★|
 | Verdura/frutta dalle canoe | $1–3/sacchetto | disponibilità incerta |
 | Acqua in buste | ~$1/6 buste | da barche Guna |
 | Birra | $1–2/lattina | scorte limitate |
@@ -15,7 +15,7 @@ Valuta USD in contanti: nella comarca **non** si usano carte. Prezzi guidati dal
 
 | Voce | Prezzo |
 |---|---|
-| Cena aragosta in lodge/isola | $10–20 [guide ★★★] |
+| Cena aragosta in lodge/isola | $10–20 ★★★ |
 | Colazione semplice | $3–5 |
 | Birra al lodge | $2–3 |
 
@@ -23,7 +23,7 @@ Valuta USD in contanti: nella comarca **non** si usano carte. Prezzi guidati dal
 
 | Carburante | Prezzo | Note |
 |---|---|---|
-| Gasolio dalle barche Guna | ~$5–6/gallone [forum ★★] | qualità variabile: filtrare |
+| Gasolio dalle barche Guna | ~$5–6/gallone ★★ | qualità variabile: filtrare |
 | Benzina fuoribordo | ~$5/gallone | |
 | Bombole gas | ricarica impossibile in comarca → rifornirsi prima (Linton/Colón) | |
 
@@ -32,7 +32,7 @@ Valuta USD in contanti: nella comarca **non** si usano carte. Prezzi guidati dal
 | Mezzo | Dettaglio |
 |---|---|
 | Lance Guna (taxi mare) | $20–50 a seconda distanza/isola |
-| Volo Panama City ↔ Porvenir | ~$80–120 a tratta [AirPanama ★★] — orari DATO MANCANTE |
+| Volo Panama City ↔ Porvenir |~$80–120 a tratta ★★ — orari DATO MANCANTE|
 
 ## Servizi quotidiani
 

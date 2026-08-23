@@ -10,7 +10,7 @@
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🌿 terrazza marinara |
 | Contatti | **DATO MANCANTE** |
-| Valutazioni | sito ★★★★ |
+| Valutazioni |sito ★★★★|
 | Orari | lun–sab 12:30-16:30 |
 
 ## Menu

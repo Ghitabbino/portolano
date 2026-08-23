@@ -10,7 +10,7 @@
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🏖️ sulla spiaggia |
 | Contatti | 0696 32 67 92 |
-| Valutazioni | TA 4,1/5 (406) · Petit Futé 4,5/5 (26) → ★★★★ |
+| Valutazioni |★★★★|
 | Orari | tutti i giorni |
 
 ## Menu

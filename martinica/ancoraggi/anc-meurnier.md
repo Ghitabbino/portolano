@@ -3,10 +3,10 @@
 [← Tutti gli ancoraggi](../08-ancoraggi.md)
 | Campo | Dettaglio |
 |---|---|
-| **Profondità** | **2,5–3 m** [NFL ★★] |
-| **Tenuta** | Buona su sabbia [NFL ★★] |
+| **Profondità** |**2,5–3 m** ★★|
+| **Tenuta** |Buona su sabbia ★★|
 | **Venti/riparo** | Discreto riparo |
-| **Affollamento** | Week-end presidiati dai charter; **in settimana tranquilla** [NFL ★★] |
+| **Affollamento** |Week-end presidiati dai charter; **in settimana tranquilla** ★★|
 | **Divieti** | Nessuno specifico noto |
 | **Extra** | Spiaggia bella, ambiente rilassato |
 

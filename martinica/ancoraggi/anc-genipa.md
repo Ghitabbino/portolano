@@ -5,11 +5,11 @@
 |---|---|
 | **Dove** | Fondale della baia di Fort-de-France, canali tra mangrovie |
 | **Profondità** | 2–5 m circa nei canali |
-| **Tenuta** | Ottima su fango [NFL ★★] |
-| **Venti/riparo** | Swell praticamente zero, riparo totale; senza vento arrivano zanzare [NFL ★★] |
+| **Tenuta** |Ottima su fango ★★|
+| **Venti/riparo** |Swell praticamente zero, riparo totale; senza vento arrivano zanzare ★★|
 | **Pericoli** | Passaggi tra mangrovie: serve attenzione alla batimetria all'ingresso |
-| **Affollamento** | Bassa densità, atmosfera tranquilla [NFL ★★] |
-| **Divieti** | Verificare cartografia ZMEL/interdizioni della baia di Fort-de-France prima di entrare [Observatoire ★★★★] |
+| **Affollamento** |Bassa densità, atmosfera tranquilla ★★|
+| **Divieti** |Verificare cartografia ZMEL/interdizioni della baia di Fort-de-France prima di entrare ★★★★|
 
 <div class="mapframe" data-slug="genipa" data-lat="14.5520" data-lon="-61.0650"></div>
 *Vista mappa Baie de Genipa (coord. indicative) — zoom con i pulsanti +/−; menu in alto a destra per passare a Carta nautica e Segnali nautici · mappa offline*

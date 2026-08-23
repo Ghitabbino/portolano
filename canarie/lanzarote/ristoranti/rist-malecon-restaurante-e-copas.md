@@ -10,7 +10,7 @@
 | Costo | 💰€ per persona senza bevande |
 | Location | 🌅 terrazza sul Charco |
 | Contatti | **DATO MANCANTE** |
-| Valutazioni | CaptureAtlas ★★★★ |
+| Valutazioni |CaptureAtlas ★★★★|
 | Orari | pranzo/cena |
 
 ## Menu

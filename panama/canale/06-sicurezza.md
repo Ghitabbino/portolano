@@ -6,7 +6,7 @@
 
 ## Mappa delle zone — offline
 
-<div class="mapframe" data-slug="panama-caribe" data-minz="10" data-maxz="12" data-lat="9.36" data-lon="-79.9" data-zones='[[9.3600,-79.9000,1500,"#ef6c00","Colón centro — prudenza furti minori di giorno, evitare di notte [Noonsite ★★★]"]]'></div>
+<div class="mapframe" data-slug="panama-caribe" data-minz="10" data-maxz="12" data-lat="9.36" data-lon="-79.9" data-zones='★★★"]]'></div>
 
 *Colón = unico punto urbano con microcriminalità documentata; resto zona Canale tranquillo in marina/ancoraggi.* Arancione = prudenza. Nessuna zona rossa documentata contro diportisti.
 
@@ -15,7 +15,7 @@
 | Zona | Giudizio |
 |---|---|
 | Colón città | Alta criminalità comune: non lasciare la barca incustodita al molo, evitare spostamenti a piedi dopo il tramonto |
-| Shelter Bay / Linton Bay / Portobelo / Isla Grande | Tranquilli; furti opportunistici in ancoraggio rari ma riportati [Noonsite Security ★★★] |
+| Shelter Bay / Linton Bay / Portobelo / Isla Grande |Tranquilli; furti opportunistici in ancoraggio rari ma riportati ★★★|
 | Causeway Amador (Pacifico) | Sicura, pattugliata, turistica |
 
 ## Mappa delle zone — offline
@@ -31,7 +31,7 @@
 
 ## Furti ai danni dei crocieristi
 
-Casi sporadici di boarding notturno in ancoraggi non presidiati (2023–2025, Noonsite ★★★): difese perimetrali e luci consigliate; niente episodi violenti recenti segnalati sui crocieristi nel Canale.
+Casi sporadici di boarding notturno in ancoraggi non presidiati (2023–2025, ★★★): difese perimetrali e luci consigliate; niente episodi violenti recenti segnalati sui crocieristi nel Canale.
 
 ## A bordo e a terra
 
@@ -53,6 +53,6 @@ Chiudere tutto di notte; a Colón usare taxi/marine shuttle; documenti a bordo s
 
 ## Monitoraggio mensile sicurezza
 
-Fonti: Noonsite Security, noforeignland, gruppi FB "Panama Cruising". Aggiornare valutazione e mappa a ogni controllo.
+Fonti: Security,, gruppi FB "Panama Cruising". Aggiornare valutazione e mappa a ogni controllo.
 
 Ultimo aggiornamento: 22/08/2026

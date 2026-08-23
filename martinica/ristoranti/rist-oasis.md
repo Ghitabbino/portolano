@@ -10,7 +10,7 @@
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🌅 terrazza sul mare |
 | Contatti | 0596 48 00 69 |
-| Valutazioni | Petit Futé → ★★★★ (stima) → ★★★★ |
+| Valutazioni |★★★★|
 | Orari | mer–dom · chiusura annuale set–ott |
 
 ## Menu

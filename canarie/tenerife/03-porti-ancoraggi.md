@@ -30,15 +30,15 @@ Aliseo NE costante + swell atlantico: nessun riparo affidabile. Puerto de la Cru
 
 | Marina | Posti | Telefono | Note |
 |---|---|---|---|
-| **Marina Santa Cruz** | ~230 (fino a 80 m) | **+34 922 292 184** · VHF 9 (24h) · marineria **649 800 946** | reservas@marinasantacruz.com · ufficio lun–ven 9–19, sab–dom 9–13 [guida masmar ★★★★] |
-| Puerto Colón (Costa Adeje) | 364 | **922 714 211** | puertocolon.com [Autorità Portuale ★★★★] |
-| Los Gigantes | 356 | **922 868 002** | losgigantesmarina.com [★★★★] |
-| Marina San Miguel / Amarilla | 344 | **610 777 280** | [★★★★] |
-| Radazul | 202 | **928 561 141** / 922 680 933 | puertosdecanarias.com [★★★★] |
-| Los Cristianos | 70 | 922 790 827 | [★★★★] |
+| **Marina Santa Cruz** | ~230 (fino a 80 m) | **+34 922 292 184** · VHF 9 (24h) · marineria **649 800 946** |reservas@marinasantacruz.com · ufficio lun–ven 9–19, sab–dom 9–13 ★★★★|
+| Puerto Colón (Costa Adeje) | 364 | **922 714 211** |puertocolon.com ★★★★|
+| Los Gigantes | 356 | **922 868 002** |losgigantesmarina.com ★★★★|
+| Marina San Miguel / Amarilla | 344 | **610 777 280** | ★★★★ |
+| Radazul | 202 | **928 561 141** / 922 680 933 | puertosdecanarias.com ★★★★ |
+| Los Cristianos | 70 | 922 790 827 | ★★★★ |
 | Las Galletas | 100 | **DATO MANCANTE** | |
 
-Fonte capacità/telefoni: Autoridad Portuaria S/C Tenerife via muchaplaya.com [★★★★] · dettagli ingresso Marina Santa Cruz da guida masmar [★★★★].
+Fonte capacità/telefoni: Autoridad Portuaria S/C Tenerife via.com ★★★★ · dettagli ingresso Marina Santa Cruz da guida ★★★★.
 
 ## Tariffe indicative
 

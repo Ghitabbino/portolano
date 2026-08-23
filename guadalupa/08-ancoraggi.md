@@ -5,15 +5,15 @@
 ## Regole generali di ancoraggio (prima di tutto)
 
 - **Barche fino a 50 m**: àncora libera consentita ovunque SALVO le riserve qui sotto e le zone portuali regolamentate.
-- **Segnalazione IALA-B invertita** rispetto all'Italia. [Noonsite ★★★]
+- **Segnalazione IALA-B invertita** rispetto all'Italia. ★★★
 - Fondi corallini del Parc National: àncora e catena non devono appoggiare su corallo.
 
 ### ⛔ Riserve e divieti
 
 | Zona | Regola |
 |---|---|
-| **Réserve Cousteau** (îlets Pigeon) | Cuore del Parc National: **ancoraggio vietato**, solo boe (per natanti <8 m); snorkeling/diving regolamentati [reserve-cousteau.com ★★★; Parc National ★★★★] |
-| **Petite Terre** | Réserve naturelle nationale: ancoraggio vietato, **solo boe** (9×10 t + 1×30 t), prenotazione consigliata [noforeignland ★★★] |
+| **Réserve Cousteau** (îlets Pigeon) |Cuore del Parc National: **ancoraggio vietato**, solo boe (per natanti <8 m); snorkeling/diving regolamentati ★★★|
+| **Petite Terre** |Réserve naturelle nationale: ancoraggio vietato, **solo boe** (9×10 t + 1×30 t), prenotazione consigliata ★★★|
 | Grand Cul-de-Sac marin / Petit Cul-de-Sac | Parc National: zone di protezione, ancoraggio regolamentato sui fondi corallini |
 | Porti e passi | Mouillage regolamentato nella rada di Pointe-à-Pitre |
 
@@ -21,22 +21,22 @@
 
 | # | Ancoraggio | Riparo alisei | Tenuta | Profondità | Affollamento | Giudizio comunità |
 |---|---|---|---|---|---|---|
-| 1 | [Les Saintes](ancoraggi/anc-les-saintes.md) | ★★★★ | ★★★★ sabbia | 6–12 m | Alta stagione molto pieno | iconica [NFL ★★★] |
-| 2 | [Deshaies](ancoraggi/anc-deshaies.md) | ★★★ (roll NW) | ★★★★ sabbia | 5–7 m | Medio | villaggio top [NFL ★★★] |
-| 3 | [Malendure/Cousteau](ancoraggi/anc-malendure-cousteau.md) | ★★★ | ★★★ sabbia | 4–8 m | Medio-alto | snorkeling n°1 [NFL ★★★] |
-| 4 | [Ravine Paul Thomas](ancoraggi/anc-ravine-paul-thomas.md) | ★★★★★ | ★★★★★ sabbia | 5–8 m | Basso-medio | ★4,9/5 [NFL] |
-| 5 | [Pointe-à-Pitre Bas-du-Fort](ancoraggi/anc-pointe-a-pitre.md) | ★★★★★ | — pontile | 4,5 m | Marina 1200 posti | hub logistico [Bloc Marine ★★★★] |
+| 1 | [Les Saintes](ancoraggi/anc-les-saintes.md) | ★★★★ | ★★★★ sabbia | 6–12 m | Alta stagione molto pieno |iconica ★★★|
+| 2 | [Deshaies](ancoraggi/anc-deshaies.md) | ★★★ (roll NW) | ★★★★ sabbia | 5–7 m | Medio |villaggio top ★★★|
+| 3 | [Malendure/Cousteau](ancoraggi/anc-malendure-cousteau.md) | ★★★ | ★★★ sabbia | 4–8 m | Medio-alto |snorkeling n°1 ★★★|
+| 4 | [Ravine Paul Thomas](ancoraggi/anc-ravine-paul-thomas.md) | ★★★★★ | ★★★★★ sabbia | 5–8 m | Basso-medio |★4,9/5 [NFL]|
+| 5 | [Pointe-à-Pitre Bas-du-Fort](ancoraggi/anc-pointe-a-pitre.md) | ★★★★★ | — pontile | 4,5 m | Marina 1200 posti |hub logistico ★★★★|
 | 6 | [Îlet du Gosier](ancoraggi/anc-ilet-gosier.md) | ★★★★ | ★★★★ sabbia | 3–6 m | Weekend affollato | tappa facile |
 | 7 | [Saint-François](ancoraggi/anc-saint-francois.md) | ★★★★★ laguna | — pontile | 2–4 m | Turistico | base isole est |
-| 8 | [Petite Terre](ancoraggi/anc-petite-terre.md) | ★★★ | — solo boe | boe 10/30 t | Prenotazione consigliata | riserva da sogno [NFL ★★★] |
+| 8 | [Petite Terre](ancoraggi/anc-petite-terre.md) | ★★★ | — solo boe | boe 10/30 t | Prenotazione consigliata |riserva da sogno ★★★|
 | 9 | [Marie-Galante St-Louis](ancoraggi/anc-marie-galante.md) | ★★ finestra | ★★★ sabbia | 4–8 m | Basso | rum e spiagge vuote |
 | 10 | [Désirade Baie Mahault](ancoraggi/anc-desireade.md) | ★★★★ | ★★★ sabbia/erba | 4–7 m | Basso | l'unica baia riparata |
 
-*Clicca sul nome per aprire la scheda completa. Legenda: riparo/tenuta = valutazione qualitativa dalle fonti citate (più ★ = meglio). NFL = noforeignland.*
+*Clicca sul nome per aprire la scheda completa. Legenda: riparo/tenuta = valutazione qualitativa dalle fonti citate (più ★ = meglio). =.*
 
 ### Mappa generale degli ancoraggi
 
-<div class="mapframe" data-slug="guadalupa" data-minz="10" data-maxz="12" data-lat="16.0946247" data-lon="-61.5588956" data-markers='[]'></div>
+<div class="mapframe" data-slug="guadalupa" data-minz="10" data-maxz="12" data-lat="16.0946247" data-lon="-61.5588956" data-markers=''></div>
 
 *Marker cliccabili: il popup apre direttamente la scheda dell'ancoraggio. Tasselli locali zoom 10–12 (satellitare / carta nautica / segnali OpenSeaMap).*
 

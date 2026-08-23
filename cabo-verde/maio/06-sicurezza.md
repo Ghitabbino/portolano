@@ -4,7 +4,7 @@ Ultimo aggiornamento: 22/08/2026 · Valutazione arcipelago: **4/5**. Maio è tra
 
 ## In rada / al porto
 
-- Nessuna segnalazione recente di aggressioni a yachts. [Noonsite ★★★ — assenza di report]
+- Nessuna segnalazione recente di aggressioni a yachts. ★★★
 - Piccoli furti opportunistici possibili: dinghy e motorino fuori bordo non incustoditi su spiagge/moli.
 - Con swell S la rada si svuota: controllare l'ancora, nessuno si accorgerebbe di una deriva notturna.
 

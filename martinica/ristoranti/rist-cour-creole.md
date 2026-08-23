@@ -10,7 +10,7 @@
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🌴 patio creolo |
 | Contatti | 0596 62 59 18 / 0696 28 44 39 |
-| Valutazioni | TA 4,5/5 (344) → ★★★★½ |
+| Valutazioni |TA 4,5/5 (344) → ★★★★½|
 | Orari | mar–mer 10–18 · gio–sab 10–21 · dom 10–18 · lun chiuso |
 
 ## Menu

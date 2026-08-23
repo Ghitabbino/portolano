@@ -8,7 +8,7 @@ Ultimo aggiornamento: 22/08/2026
 |---|---|
 | Posti | Moderna/rinnovata |
 | Haul-out | Travelift SÌ · slipway no [Autorità Portuaria ★★★★★] |
-| Fuel/Acqua | Fuel dock sì · acqua/elec individuali · wi-fi · vigilanza 24h [★★★★★] |
+| Fuel/Acqua |Fuel dock sì · acqua/elec individuali · wi-fi · vigilanza 24h ★★★★★|
 
 ## Altri punti
 
