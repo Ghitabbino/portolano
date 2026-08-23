@@ -14,7 +14,7 @@
 | **Divieti** | Nessuno |
 | **A terra** | Tiendas base, carburante Guna, vita autentica |
 
-<div class="mapframe" data-slug="nargana" data-lat="9.447" data-lon="-78.585"></div>
+<div class="mapframe" data-slug="nargana" data-lat="9.452" data-lon="-78.5865"></div>
 *Vista mappa Nargana / Río Sidra · mappa offline*
 
 Ultimo aggiornamento: 22/08/2026

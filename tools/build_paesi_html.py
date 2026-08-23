@@ -13,6 +13,7 @@ md = markdown.Markdown(extensions=["tables", "fenced_code", "attr_list"])
 
 nav_pages, sections = [], []
 page_map = {}  # Path risolto -> id sezione
+scope_pid = {}  # (paese, titolo-norm) -> id
 queue = []     # (Path, titolo, id, paese)
 countries = [] # (chiave paese, id copertina)
 
@@ -29,10 +30,15 @@ def strip_zone_suffix(title: str, sub_name: str) -> str:
     return title
 
 
+def norm_title(s: str) -> str:
+    return re.sub(r"[^a-z0-9]", "", s.lower())
+
+
 def register(md_path: Path, title: str, country: str = "", in_nav: bool = True):
     pid = f"p{len(queue) + 1}"
     page_map[md_path.resolve()] = pid
     queue.append((md_path, title, pid, country))
+    scope_pid[(country, norm_title(title))] = pid
     if in_nav:
         nav_pages.append(f'<a class="navlink pagelink" data-country="{country}" '
                          f'href="#{pid}" data-page="{pid}">{title}</a>')
@@ -75,10 +81,15 @@ def render(md_path: Path, title: str, sec_id: str, country: str = ""):
             lbl = norm(str(p_[2]))
             if not lbl:
                 continue
-            for k, v in title_pid.items():
-                if lbl == k or (len(lbl) > 3 and (lbl in k or k in lbl)):
-                    p_.append(v)
-                    break
+            scoped = [v for k, v in scope_pid.items()
+                      if k[1] == lbl and k[0] == country]
+            if scoped:
+                p_.append(scoped[0])
+            else:
+                globl = [v for k, v in title_pid.items() if k == lbl]
+                if len(globl) == 1:
+                    p_.append(globl[0])
+                # 0 o multipli senza scope: resta senza link, niente pagine sbagliate
         return "data-markers='" + json.dumps(pts, ensure_ascii=False) + "'"
 
     text = re.sub(r"data-markers='([^']+)'", link_markers, text)
@@ -293,7 +304,8 @@ function initMaps(root){
   const isAnc=/ancoraggi/i.test((root.querySelector('h1')||{textContent:''}).textContent||'')
             || !!root.querySelector('h1[id^="anc"]');
   const ancIcon=L.divIcon({className:'anch-ic',
-    html:'<div class="ic">⚓</div>',iconSize:[26,26],iconAnchor:[13,21]});
+    html:'<div style="filter:drop-shadow(0 1px 4px rgba(0,0,0,.85))"><svg viewBox=\"0 0 24 24\" width=\"26\" height=\"26\"><path d=\"M12 2a3 3 0 0 1 1 5.83V9h4v2h-4v8.9A8 8 0 0 0 19.7 14H22a10 10 0 0 1-20 0h2.3A8 8 0 0 0 11 19.9V11H7V9h4V7.83A3 3 0 0 1 12 2z\" fill=\"#FFD54F\" stroke=\"#0b131b\" stroke-width=\"1.4\"/></svg></div>',
+    iconSize:[26,26],iconAnchor:[13,21]});
   root.querySelectorAll('.mapframe:not(.lmap)').forEach(el=>{
     el.classList.add('lmap');
     const slug=el.dataset.slug;

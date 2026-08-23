@@ -18,7 +18,7 @@ Ultimo aggiornamento: 22/08/2026 · coordinate indicative, navigare con cartogra
 
 ### Mappa generale degli ancoraggi
 
-<div class="mapframe" data-slug="gran-canaria" data-minz="10" data-maxz="12" data-lat="27.9" data-lon="-15.6" data-markers='[[27.815, -15.763, "Mogán"], [27.757, -15.597, "Pasito Blanco"], "Portolano degli ancoraggi"]'></div>
+<div class="mapframe" data-slug="gran-canaria" data-minz="10" data-maxz="12" data-lat="27.9" data-lon="-15.6" data-markers='[]'></div>
 
 *Coordinate indicative; tasselli offline satellitari + carta nautica + segnaletica OpenSeaMap.*
 

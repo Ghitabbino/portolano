@@ -8,6 +8,12 @@ Wiki di navigazione per paese: ingresso, clearance, costi, porti, servizi, stagi
 
 <div class="paesi-grid">
   <div class="pcard">
+    <div class="pflag">🇨🇻</div>
+    <a class="pname" href="cabo-verde/00-ingresso-visti.md">Capo Verde</a>
+    <div class="pdesc">Arcipelago atlantico: hub Mindelo, saline di Maio, vulcano Fogo; pre-registrazione EASE.</div>
+    <div class="pstat">🚧 v0 — 22/08/2026</div>
+  </div>
+  <div class="pcard">
     <div class="pflag">🇪🇸</div>
     <a class="pname" href="canarie/00-ingresso-visti.md">Canarie</a>
     <div class="pdesc">RUP spagnola nell'Atlantico: hub ARC a Las Palmas, alisei costanti tutto l'anno, trampolino per la traversata.</div>

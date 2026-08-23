@@ -27,7 +27,7 @@
 
 ## Mappa generale
 
-<div class="mapframe" data-slug="panama-caribe" data-minz="10" data-maxz="12" data-lat="9.45" data-lon="-79.75" data-markers='[[9.358, -79.951, "Shelter Bay", "anc-shelter-bay"], [9.417, -79.745, "Linton Bay", "anc-linton-bay"], "Portolano degli ancoraggi"]'></div>
+<div class="mapframe" data-slug="panama-caribe" data-minz="10" data-maxz="12" data-lat="9.45" data-lon="-79.75" data-markers='[]'></div>
 
 *Lato Atlantico · mappa offline*
 

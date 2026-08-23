@@ -44,7 +44,7 @@ Testi integrali e mappe ufficiali: pagina "Les zones d'interdiction de mouillage
 
 ### Mappa generale degli ancoraggi
 
-<div class="mapframe" data-slug="martinica" data-minz="10" data-maxz="12" data-lat="14.60" data-lon="-61.03" data-markers='[[14.4383, -60.885, "Sainte-Anne", "anc-sainte-anne"], [14.4636, -60.861, "Le Marin Est/Sud", "anc-marin-est"], "Portolano degli ancoraggi"]'></div>
+<div class="mapframe" data-slug="martinica" data-minz="10" data-maxz="12" data-lat="14.60" data-lon="-61.03" data-markers='[]'></div>
 
 *Marker cliccabili: il popup apre direttamente la scheda dell'ancoraggio. Tasselli locali zoom 10–12 (satellitare / carta nautica / segnali OpenSeaMap).*
 

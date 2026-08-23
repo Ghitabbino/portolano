@@ -18,7 +18,7 @@ Ultimo aggiornamento: 22/08/2026 · coordinate indicative, navigare con cartogra
 Fondi che scendono rapidissime: mai àncora ravvicinata con mare mosso.
 ### Mappa generale degli ancoraggi
 
-<div class="mapframe" data-slug="la-palma" data-minz="10" data-maxz="12" data-lat="28.66" data-lon="-17.83" data-markers='[[28.642, -17.932, "Tazacorte"], [28.684, -17.76, "Marina SC Palma"], "Portolano degli ancoraggi"]'></div>
+<div class="mapframe" data-slug="la-palma" data-minz="10" data-maxz="12" data-lat="28.66" data-lon="-17.83" data-markers='[]'></div>
 
 *Coordinate indicative; tasselli offline satellitari + carta nautica + segnaletica OpenSeaMap.*
 

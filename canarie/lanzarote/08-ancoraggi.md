@@ -20,7 +20,7 @@ Ultimo aggiornamento: 22/08/2026 · coordinate indicative, navigare con cartogra
 ⛔ **Chinijo Archipelago**: mai àncora su posidonia; rispettare zone segnalate della riserva.
 ### Mappa generale degli ancoraggi
 
-<div class="mapframe" data-slug="lanzarote" data-minz="10" data-maxz="12" data-lat="29.02" data-lon="-13.6" data-markers='[[29.23, -13.497, "Caleta del Sebo (Graciosa)"], [28.921, -13.665, "Pto del Carmen"], "Portolano degli ancoraggi"]'></div>
+<div class="mapframe" data-slug="lanzarote" data-minz="10" data-maxz="12" data-lat="29.02" data-lon="-13.6" data-markers='[]'></div>
 
 *Coordinate indicative; tasselli offline satellitari + carta nautica + segnaletica OpenSeaMap.*
 

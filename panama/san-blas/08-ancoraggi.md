@@ -27,7 +27,7 @@
 
 ## Mappa generale
 
-<div class="mapframe" data-slug="san-blas" data-minz="10" data-maxz="12" data-lat="9.4" data-lon="-78.35" data-markers='[[9.583, -78.992, "Coco Bandero", "anc-coco-bandero"], [9.55, -78.958, "West Lemmons", "anc-west-lemons"], "Portolano degli ancoraggi"]'></div>
+<div class="mapframe" data-slug="san-blas" data-minz="10" data-maxz="12" data-lat="9.4" data-lon="-78.35" data-markers='[]'></div>
 *Comarca Guna Yala · coordinate indicative su carte datate [CruisersWiki ★★] · mappa offline*
 
 ## Cartografia ufficiale

@@ -13,7 +13,7 @@
 | **Divieti** | Nessuno rilevato |
 | **A terra** | Ufficio clearance succursale in marina; Puerto Lindo village |
 
-<div class="mapframe" data-slug="linton-bay" data-lat="9.47" data-lon="-79.539"></div>
+<div class="mapframe" data-slug="linton-bay" data-lat="9.4735" data-lon="-79.5515"></div>
 *Vista mappa Linton Bay · mappa offline*
 
 Ultimo aggiornamento: 22/08/2026
