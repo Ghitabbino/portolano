@@ -99,7 +99,7 @@ def process(html):
                '<div class="paesi-grid">'+cs+'</div>'+empty+'</section>')
     html=html.replace("<main>", "<main>"+home+"\n"+secs+"\n", 1)
 
-    items='<a class="navlink country-link" data-country="" data-page="home" href="#home">\U0001F3E0 Aree</a>'
+    items='<a class="navlink country-link" data-country="" data-page="home" href="#home">\U0001F30D Aree</a>'
     for oid in ORDER:
         kids=[k for k in PAESI if OCEANO_DI.get(k)==oid]
         items+=('<a class="navlink country-link" data-country="'+oid+'" data-page="o-'+oid+'" '
@@ -125,6 +125,8 @@ def process(html):
         "  const curO=PAR[root]||OC_IDS[root]?root:'';"
         "document.querySelectorAll('.nav-countries .sub').forEach(l=>"
         "{l.style.display=(curO&&PAR[l.dataset.country]===curO)?'':'none';});"
+        "document.querySelectorAll('.nav-countries .country-link').forEach(l=>"
+        "{if(OC_IDS[l.dataset.country])l.style.display=(!curO||l.dataset.country===curO)?'':'none';});"
         "\n  window.scrollTo(0,0);",1)
 
     html=re.sub(r"show\('p1'\)","show('home')",html,count=1)
