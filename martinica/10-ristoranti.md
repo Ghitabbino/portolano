@@ -42,9 +42,3 @@ Legenda prezzi: **€** <20 · **€€** 20–40 · **€€€** >40 — Cucin
 | [Uber Eats](https://www.ubereats.com) |Attivo a Fort-de-France dal 2021 (consegna 11–14:30 / 18–23) ★★★|
 
 Ultimo aggiornamento: 22/08/2026
-
-## App e fonti
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
-Ultimo aggiornamento: 22/08/2026

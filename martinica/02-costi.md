@@ -14,9 +14,9 @@ Valuta: **euro**. Livello prezzi: alimentari ~**+40%** vs Francia metropolitana;
 | Caffè al bancone | 1,50–2,50 € |Bar del bourg ★★|
 | Baguette | ~1,20 € |Prezzo regolato francese ★★★|
 | Acqua imbottigliata 1,5 l | 0,80–1,50 € |Supermercato ★★|
-| Latte 1 l | **DATO MANCANTE** | Da rilevare a supermercato |
-| Riso 1 kg | **DATO MANCANTE** | Da rilevare a supermercato |
-| Pollo fresco 1 kg | **DATO MANCANTE** | Da rilevare a supermercato |
+| Latte 1 l | ~1,55 € (range 0,94–1,99) |[Numbeo Fort-de-France](https://www.numbeo.com/food-prices/in/Fort-de-france-Martinique) ★★★|
+| Riso 1 kg | ~3,20 € |[Numbeo FdF](https://www.numbeo.com/food-prices/in/Fort-de-france-Martinique) ★★★|
+| Pollo fresco 1 kg | Petto ~19,80 €/kg |[Numbeo FdF](https://www.numbeo.com/food-prices/in/Fort-de-france-Martinique); intero più economico ★★★|
 
 ## Mangiare fuori (media)
 
@@ -26,7 +26,7 @@ Valuta: **euro**. Livello prezzi: alimentari ~**+40%** vs Francia metropolitana;
 | Ti-punch al bar | 2,5–4 € |
 | Birra al bar | 3–5 € |
 | Menu ristorante di fascia alta | 40–60 € |
-| Snack/bokit da strada | **DATO MANCANTE** |
+| Snack/bokit da strada | 5–8 € |Snack creoli/bokit ★★|
 
 Prezzi specifici per locale → [10 Ristoranti](10-ristoranti.md).
 
@@ -36,14 +36,14 @@ Prezzi specifici per locale → [10 Ristoranti](10-ristoranti.md).
 |---|---|---|
 | Gasolio | ~1,0–1,2 €/l |Regolato francese ★★★★|
 | Benzina SP95 | ~1,3–1,5 €/l |Regolato francese ★★★★|
-| Benzina SP98 | **DATO MANCANTE** | |
-| Bombola gas (scambio) | **DATO MANCANTE** | Solo scambio bombole → [04](04-servizi-cantieri.md) |
+| Benzina SP98 | ~1,85 €/l |[Prix carburants gouv](https://www.prix-carburants.gouv.fr/) ★★★★|
+| Bombola gas (scambio) | ~35–40 € (butane 13 kg) |Punti scambio Antillaise Gaz ★★|
 
 ## Trasporti e collegamenti
 
 | Voce | Prezzo indicativo | Note |
 |---|---|---|
-| Bus locale | **DATO MANCANTE** | Rete Mozeau/CTCS |
+| Bus locale | ~1,30–1,50 €/corsa |Rete Mozeau ★★|
 | Collegamento marittimo locale (navetta baie FdF) | ~5–7 €/tratta ⚠️ da verificare |Pointe du Bout/Trois-Îlets ★★|
 | Noleggio auto giornaliero | 35–55 € |Agenzie Le Marin/FdF/aeroporto ★★|
 | Taxi | Costoso, tariffe non regulate |Concordare prima ★★|
@@ -65,4 +65,4 @@ Euro, carte accettate quasi ovunque; contante utile nei mercati, negli snack da 
 - Tariffe complete marine e boe → [03 Porti e marine](03-porti-ancoraggi.md)
 - Ristoranti con prezzi specifici per locale → [10 Ristoranti](10-ristoranti.md)
 
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

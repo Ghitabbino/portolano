@@ -36,6 +36,8 @@ Le Marin = hub servizi dei Caraibi orientali: travelift 70 t, 78+ professionisti
 
 ## Hub tecnico
 
-**DATO MANCANTE** — da completare al controllo mensile.
+Il Marin concentra il cantiere: **travelift 70 t**, area carenaggio, **78+ professionisti**
+(velai, motoristi, elettricisti, antifouling, vetroresina); ricambi spediti e ritirati in capitaineria.
+Chandler principali raggiungibili a piedi dalla marina; elenco completo professionisti presso l'accoglienza. ★★
 
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026
