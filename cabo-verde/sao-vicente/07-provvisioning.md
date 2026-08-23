@@ -40,3 +40,8 @@ Ultimo aggiornamento: 22/08/2026
 **DATO MANCANTE** — da completare al controllo mensile.
 
 Ultimo aggiornamento: 22/08/2026
+
+- Acqua marina: ~**2 US$/100 l** al pontile [velmundi ★★★★]
+- I mercati di Mindelo sono tra i **più forniti dell'arcipelago**: pesce fresco, produttori, generi vari — fare scorte qui prima delle isole remote [superyacht.pro ★★★★]
+
+Ultimo aggiornamento: 22/08/2026

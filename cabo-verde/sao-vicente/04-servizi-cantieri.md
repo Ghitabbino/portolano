@@ -60,3 +60,5 @@ Ultimo aggiornamento: 22/08/2026
 | ENAPOR - Administração do Porto Grande | CP 82 Zona Portuária, Mindelo · **+238 324 515** · portogrande@enapor.cv [database portuale ★★★] |
 
 Ultimo aggiornamento: 22/08/2026
+
+| Haul-out | **Travelift 100 t** [velmundi ★★★★] |
