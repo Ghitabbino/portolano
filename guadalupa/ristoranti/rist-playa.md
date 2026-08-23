@@ -9,9 +9,9 @@
 | Specialità | Pesce · boudin créole |
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🏖️ beach front |
-| Contatti | **DATO MANCANTE** |
+| Contatti | [Mappa](https://www.google.com/maps/search/?api=1&query=restaurant+Playa+Marie-Galante+Guadeloupe) |
 | Valutazioni |Google positive → ★★★★|
-| Orari | **DATO MANCANTE** |
+| Orari | Locale rivisitato fronte mare; orari stagionali ⚠️ |
 
 ## Menu
 
@@ -19,7 +19,6 @@
 - Boudin créole *(salsiccia creola)*
 
 **Chef**: ND
-
 
 **Note**: Da abbinare al giro dell'isola in scooter · da 25 €
 

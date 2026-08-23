@@ -9,16 +9,15 @@
 | Specialità | Langouste *(aragosta)* (prenotarla al mattino) |
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🌴 case créole in giardino |
-| Contatti | **DATO MANCANTE** |
+| Contatti | [+590 690 69 35 39](tel:+590690693539) · N2 entrée gîtes Migneret |
 | Valutazioni |Google 4,7/5 (217) → ★★★★★|
-| Orari | **DATO MANCANTE** |
+| Orari | Lun 19–22 · Gio–Dom 12–22 (chiuso mar/mer) · menu langousta ~48 € ★★ |
 
 ## Menu
 
 - Langouste *(aragosta)* grigliata
 
 **Chef**: ND
-
 
 **Note**: N2 entrée gîtes Migneret
 

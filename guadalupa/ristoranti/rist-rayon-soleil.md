@@ -9,16 +9,15 @@
 | Specialità | Menù degustazione |
 | Costo | 💰€€€ per persona senza bevande |
 | Location | 🌅 vista oceano atlantico |
-| Contatti | **DATO MANCANTE** |
+| Contatti | [Mappa](https://www.google.com/maps/search/?api=1&query=Rayon+Soleil+Anse-Bertrand+Guadeloupe) |
 | Valutazioni |Google positive → ★★★★|
-| Orari | **DATO MANCANTE** |
+| Orari | Cucina creativa locale; pranzo, cena su prenotazione ⚠️ |
 
 ## Menu
 
 - Menù degustazione
 
 **Chef**: ND
-
 
 **Note**: Hôtel Toubana · dopo la visita alla Pointe de la Grande Vigie · menu 25–60 €
 

@@ -9,9 +9,9 @@
 | Specialità | Tataki de thon *(tataki di tonno)* · pesce |
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🌅 terrazza rilassata |
-| Contatti | **DATO MANCANTE** |
+| Contatti | [Mappa]( https://www.google.com/maps/search/?api=1&query=Le+Balaou+restaurant+Sainte-Anne+Guadeloupe) |
 | Valutazioni |Google 4,3/5 (405) → ★★★★|
-| Orari | **DATO MANCANTE** |
+| Orari | Cena dal tramonto; chiusura giorno variabile ⚠️ chiamare prima |
 
 ## Menu
 
@@ -19,7 +19,6 @@
 - Pesce
 
 **Chef**: ND
-
 
 **Note**: Buona carta dei vini
 

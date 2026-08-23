@@ -9,16 +9,15 @@
 | Specialità | Menu creativo stagionale |
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🪶 piccolo, curato |
-| Contatti | **DATO MANCANTE** |
+| Contatti | [Mappa](https://www.google.com/maps/search/?api=1&query=Le+Cabanon+Sainte-Anne+Guadeloupe) |
 | Valutazioni |Google 4,9/5 (148) → ★★★★★|
-| Orari | **DATO MANCANTE** |
+| Orari | Pranzo 12–15 · cena su stagione ⚠️ |
 
 ## Menu
 
 - Menu creativo stagionale
 
 **Chef**: ND
-
 
 **Note**: Prenotare, pochi coperti
 

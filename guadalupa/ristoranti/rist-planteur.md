@@ -9,9 +9,9 @@
 | Specialità | Poulet boucané *(pollo affumicato)* · ouassous |
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🌴 corte creola |
-| Contatti | **DATO MANCANTE** |
+| Contatti | [Mappa](https://www.google.com/maps/search/?api=1&query=Le+Planteur+Gosier+Guadeloupe) |
 | Valutazioni |Google positive → ★★★★|
-| Orari | **DATO MANCANTE** |
+| Orari | Poulet boucané a pranzo; cena weekend ⚠️ |
 
 ## Menu
 
@@ -20,7 +20,6 @@
 - Ouassous *(gamberi d'acqua dolce)*
 
 **Chef**: ND
-
 
 **Note**: Tappa comoda dall'Îlet du Gosier ⚠️ verificare approdo · da 20 €
 

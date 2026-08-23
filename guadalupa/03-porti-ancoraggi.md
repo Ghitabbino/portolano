@@ -67,7 +67,7 @@ Fonte: /tarifs (aggiornamento annuale indicizzato GPMG). Canoni (*redevances*) p
 |---|---|---|
 | Mooring **Les Saintes** (Cabrit/Pain de Sucre/Terre-de-Haut) | **13–18 €/notte**; raccolta serale del pagamento; ispezionare le sagole |★★★|
 | Mooring **Petite Terre** | 9 boe 10 t + 1 boa 30 t, prenotabili in anticipo; riserva: solo boa |★★★|
-| Marina **Saint-François** | ~30–50 €/notte per 10–12 m ⚠️ stima, listino **DATO MANCANTE** (+590 596 738 405) | ★★ |
+| Marina **Saint-François** | ~30–50 €/notte per 10–12 m ⚠️ listino non pubblicato online; confermare per tel [+590 590 738 405](tel:+590596738405) · [mappa](https://www.google.com/maps/search/?api=1&query=Marina+Saint-Fran%C3%A7ois+Guadeloupe) | ★★ |
 
 ⚠️ **Da verificare prima della crociera**: listini Saint-François e hurricane holes Basse-Terre (Sud Ancrage, Barracuda).
 

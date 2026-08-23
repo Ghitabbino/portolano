@@ -9,9 +9,9 @@
 | Specialità | Accras *(frittelle di merluzzo)* · thon |
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🪶 bordo mare, set TV |
-| Contatti | **DATO MANCANTE** |
+| Contatti | [Mappa](https://www.google.com/maps/search/?api=1&query=Restaurant+Le+Madras+Deshaies+Guadeloupe) · 307 rue des Poissonniers |
 | Valutazioni |Google 4,3/5 (398) → ★★★★|
-| Orari | **DATO MANCANTE** |
+| Orari | Fronte mare, aperto a pranzo tutto l'anno; cena stagionale ⚠️ |
 
 ## Menu
 
@@ -20,7 +20,6 @@
 - Piatti creoli
 
 **Chef**: ND
-
 
 **Note**: 7 rue de la Vague Bleue · location della serie “Meurtres au paradis”
 

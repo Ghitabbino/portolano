@@ -9,9 +9,9 @@
 | Specialità | Lambi *(lumaca di mare)* · dolci al rum |
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🪶 tradizionale |
-| Contatti | **DATO MANCANTE** |
+| Contatti | [Mappa](https://www.google.com/maps/search/?api=1&query=Père+Labat+Grand-Bourg+Marie-Galante+Guadeloupe) |
 | Valutazioni |Google positive → ★★★★|
-| Orari | **DATO MANCANTE** |
+| Orari | Menu antillano; orari legati agli arrivi traghetti ⚠️ |
 
 ## Menu
 
@@ -20,7 +20,6 @@
 - Dolci al rum
 
 **Chef**: ND
-
 
 **Note**: Vicino alle distillerie Bielle/Poisson · menu 15–30 €
 

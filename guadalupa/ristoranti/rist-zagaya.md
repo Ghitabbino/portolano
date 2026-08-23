@@ -9,9 +9,9 @@
 | Specialità | Crabe farci *(granchio ripieno)* · dorade al riso nero |
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🏖️ spiaggia, tramonto |
-| Contatti | **DATO MANCANTE** |
+| Contatti | [Mappa](https://www.google.com/maps/search/?api=1&query=Zagaya+Saint-François+Guadeloupe) |
 | Valutazioni |Google positive → ★★★★|
-| Orari | **DATO MANCANTE** |
+| Orari | Pieds dans l'eau: pranzo fino a tardo pomeriggio ⚠️ cena stagionale |
 
 ## Menu
 
@@ -19,7 +19,6 @@
 - Dorade al riso nero
 
 **Chef**: ND
-
 
 **Note**: Comodo dalla marina/laguna · carta ampia 10–50 €
 

@@ -41,7 +41,4 @@ Water dock a Marina Bas-du-Fort (incluso nel posto), Saint-François, Deshaies (
 - **Hivernage**: posti a secco limitati; prenotare con largo anticipo per giugno–novembre; assicurazioni richiedono piano uragano scritto (dock flottante o ashore).
 
 ## Hub tecnico
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
 Ultimo aggiornamento: 22/08/2026
