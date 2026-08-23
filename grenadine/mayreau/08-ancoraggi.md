@@ -1,5 +1,13 @@
 # 08 — Portolano degli ancoraggi
 
+## Ancoraggi in dettaglio
+
+| # | Ancoraggio | Riparo | Fondo | Prof. | Boe |
+|---|---|---|---|---|---|
+| 1 | [Salt Whistle Bay](ancoraggi/anc-salt-whistle.md) | ★★★★ | Sabbia | 3–6 m | Boe resort ~US$20–35 ⚠️ |
+
+
+
 Ultimo aggiornamento: 22/08/2026
 
 ## Tabella riassuntiva

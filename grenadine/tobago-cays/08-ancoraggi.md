@@ -1,5 +1,13 @@
 # 08 — Portolano degli ancoraggi
 
+## Ancoraggi in dettaglio
+
+| # | Ancoraggio | Riparo | Fondo | Prof. | Boe |
+|---|---|---|---|---|---|
+| 1 | [Horseshoe Reef](ancoraggi/anc-horseshoe.md) | ★★★★★ | Sabbia | 3–9 m | Boe TCMP EC$60/24h + entry EC$15 pp |
+
+
+
 Ultimo aggiornamento: 22/08/2026
 
 ## Tabella riassuntiva

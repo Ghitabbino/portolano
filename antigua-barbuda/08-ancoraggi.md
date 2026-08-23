@@ -1,5 +1,15 @@
 # 08 — Ancoraggi
 
+## Ancoraggi in dettaglio
+
+| # | Ancoraggio | Riparo | Fondo | Prof. | Boe |
+|---|---|---|---|---|---|
+| 1 | [English Harbour (Freeman)](ancoraggi/anc-english-harbour.md) | ★★★★★ | Sabbia | 4–10 m | No (parco ~US$15/notte ⚠️) |
+| 2 | [Falmouth Harbour](ancoraggi/anc-falmouth.md) | ★★★★ | Sabbia e fango | 5–12 m | Boe AYC Marina ⚠️ |
+| 3 | [Jolly Harbour](ancoraggi/anc-jolly.md) | ★★★ | Sabbia | 4–6 m | Marina US$1,80–2,50/piede/notte; boe esterne no |
+
+
+
 **Ultimo aggiornamento: 23/08/2026**
 
 

@@ -1,5 +1,16 @@
 # 08 — Ancoraggi
 
+## Ancoraggi in dettaglio
+
+| # | Ancoraggio | Riparo | Fondo | Prof. | Boe |
+|---|---|---|---|---|---|
+| 1 | [Basseterre (Port Zante)](ancoraggi/anc-basseterre.md) | ★★★★ | Sabbia | ~7 m | No |
+| 2 | [Whitehouse Bay](ancoraggi/anc-whitehouse.md) | ★★★★ | Sabbia ed erba | 5–9 m | Boe private non utilizzabili |
+| 3 | [Charlestown (Nevis)](ancoraggi/anc-charlestown.md) | ★★★★ | Sabbia | 5–8 m | Boe OBBLIGATORIE (tassa al porto) ⚠️ |
+| 4 | [Pinney's Beach (Nevis)](ancoraggi/anc-pinneys.md) | ★★★★ | Sabbia con chiazze erba | 4–7 m | Boe con tariffa porto Charlestown |
+
+
+
 **Ultimo aggiornamento: 23/08/2026**
 
 

@@ -1,5 +1,14 @@
 # 08 — Portolano degli ancoraggi
 
+## Ancoraggi in dettaglio
+
+| # | Ancoraggio | Riparo | Fondo | Prof. | Boe |
+|---|---|---|---|---|---|
+| 1 | [Blue Lagoon](ancoraggi/anc-blue-lagoon-svg.md) | ★★★★ | Sabbia | 4–10 m | Boe marina ⚠️ |
+| 2 | [Wallilabou](ancoraggi/anc-wallilabou.md) | ★★★ | Sabbia/roccia | 4–8 m | Boe locali ⚠️ |
+
+
+
 Ultimo aggiornamento: 22/08/2026
 
 ## Tabella riassuntiva

@@ -1,5 +1,14 @@
 # 08 — Ancoraggi
 
+## Ancoraggi in dettaglio
+
+| # | Ancoraggio | Riparo | Fondo | Prof. | Boe |
+|---|---|---|---|---|---|
+| 1 | [Fort Bay](ancoraggi/anc-fort-bay.md) | ★★ | ND | ND | No (boe park altrove) |
+| 2 | [Well's Bay](ancoraggi/anc-wells-bay.md) | ★★ | Sabbia | max 15 | Boe gialle parco ⚠️ |
+
+
+
 **Ultimo aggiornamento: 23/08/2026**
 
 

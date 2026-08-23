@@ -1,5 +1,20 @@
 # 08 — Ancoraggi
 
+## Ancoraggi in dettaglio
+
+| # | Ancoraggio | Riparo | Fondo | Prof. | Boe |
+|---|---|---|---|---|---|
+| 1 | [The Baths (Virgin Gorda)](ancoraggi/anc-the-baths.md) | ★★ | Roccia/blocchi | 4–8 m | Boe rosse NPT (~$30/g yacht <25 m) |
+| 2 | [North Sound (Virgin Gorda)](ancoraggi/anc-north-sound.md) | ★★★★★ | Sabbia/erba | 4–12 m | Boe varie + 4 marine |
+| 3 | [The Bight (Norman)](ancoraggi/anc-bight-norman.md) | ★★★★ | Fango/erba profondità | 4,5–6 m | Oltre 100 boe ~US$30–40/g (BoatyBall) |
+| 4 | [White Bay (Jost Van Dyke)](ancoraggi/anc-white-bay-jvd.md) | ★★★ | Sabbia (scaffale ripido) | 4,5–6 m a riva; 18+ centro | Boe locali BoatyBall ⚠️ |
+| 5 | [Great Harbour (Jost Van Dyke)](ancoraggi/anc-great-harbour-jvd.md) | ★★★ | Sabbia | 4,5–6 m a riva; 18+ centro | Boe locali ⚠️ |
+| 6 | [Cruz Bay (St John)](ancoraggi/anc-cruz-bay.md) | ★★★ | Sabbia | 4–8 m | Boe NPS ~US$15/notte (Lind Point) |
+| 7 | [Soper's Hole (West End)](ancoraggi/anc-sopers-hole.md) | ★★★★★ | Sabbia | 4–10 interno; 15–21 esterno | Marina 18 boe + 43 posti |
+| 8 | [Nanny Cay (Tortola)](ancoraggi/anc-nanny-cay.md) | ★★★★ | Sabbia | 3–8 m | Marina + boe ⚠️ |
+
+
+
 **Ultimo aggiornamento: 23/08/2026**
 
 

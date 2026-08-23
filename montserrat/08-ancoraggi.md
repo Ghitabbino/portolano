@@ -1,5 +1,13 @@
 # 08 — Ancoraggi
 
+## Ancoraggi in dettaglio
+
+| # | Ancoraggio | Riparo | Fondo | Prof. | Boe |
+|---|---|---|---|---|---|
+| 1 | [Little Bay](ancoraggi/anc-little-bay-msr.md) | ★★★ | Sabbia/sedimento vulcanico | 10–15 m | No |
+
+
+
 **Ultimo aggiornamento: 23/08/2026**
 
 

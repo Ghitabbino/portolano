@@ -1,5 +1,13 @@
 # 08 — Portolano degli ancoraggi
 
+## Ancoraggi in dettaglio
+
+| # | Ancoraggio | Riparo | Fondo | Prof. | Boe |
+|---|---|---|---|---|---|
+| 1 | [Britannia Bay](ancoraggi/anc-britannia.md) | ★★★★ | Sabbia | 4–8 m | SOLO boe Mustique Co. (min 3 notti ⚠️) |
+
+
+
 Ultimo aggiornamento: 22/08/2026
 
 ## Tabella riassuntiva

@@ -1,5 +1,15 @@
 # 08 — Ancoraggi
 
+## Ancoraggi in dettaglio
+
+| # | Ancoraggio | Riparo | Fondo | Prof. | Boe |
+|---|---|---|---|---|---|
+| 1 | [Gustavia](ancoraggi/anc-gustavia.md) | ★★★ | Sabbia/fango | 3–5 int; 10–20 est | Boe interne (tariffa porto) ⚠️ |
+| 2 | [Anse de Colombier](ancoraggi/anc-colombier.md) | ★★★ | Sabbia (prateria protetta) | 8–12 m | Eco-boe Riserva (gratuite) |
+| 3 | [Île Fourchue](ancoraggi/anc-fourchue.md) | ★★★ | Sabbia | ~4 m | 8 boe Riserva (gratuite) |
+
+
+
 **Ultimo aggiornamento: 23/08/2026**
 
 

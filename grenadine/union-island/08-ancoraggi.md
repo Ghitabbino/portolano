@@ -1,5 +1,14 @@
 # 08 — Ancoraggi
 
+## Ancoraggi in dettaglio
+
+| # | Ancoraggio | Riparo | Fondo | Prof. | Boe |
+|---|---|---|---|---|---|
+| 1 | [Clifton](ancoraggi/anc-clifton.md) | ★★★★★ | Sabbia/erba | 3–7 m | Alcune boe locali ⚠️ |
+| 2 | [Chatham Bay](ancoraggi/anc-chatham.md) | ★★★ | Sabbia | 5–12 m | No |
+
+
+
 **Ultimo aggiornamento: 23/08/2026**
 
 

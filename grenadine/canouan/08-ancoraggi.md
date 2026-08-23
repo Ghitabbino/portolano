@@ -1,5 +1,13 @@
 # 08 — Portolano degli ancoraggi
 
+## Ancoraggi in dettaglio
+
+| # | Ancoraggio | Riparo | Fondo | Prof. | Boe |
+|---|---|---|---|---|---|
+| 1 | [Charlestown](ancoraggi/anc-charlestown-nevis.md) | ★★★★ | Sabbia | 4–8 m | Boe resort ⚠️ |
+
+
+
 Ultimo aggiornamento: 22/08/2026
 
 ## Tabella riassuntiva

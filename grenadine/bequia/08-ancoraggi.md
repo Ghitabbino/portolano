@@ -1,5 +1,15 @@
 # 08 — Ancoraggi
 
+## Ancoraggi in dettaglio
+
+| # | Ancoraggio | Riparo | Fondo | Prof. | Boe |
+|---|---|---|---|---|---|
+| 1 | [Admiralty Nord (Princess Margaret)](ancoraggi/anc-admiralty-nord.md) | ★★★★★ | Sabbia | 4–8 m | Boe Daffodil ~US$30/notte |
+| 2 | [Lower Bay](ancoraggi/anc-lower-bay.md) | ★★★★ | Sabbia | 5–10 m | No |
+| 3 | [Friendship Bay](ancoraggi/anc-friendship.md) | ★★★ | Sabbia | 4–7 m | No |
+
+
+
 **Ultimo aggiornamento: 23/08/2026**
 
 

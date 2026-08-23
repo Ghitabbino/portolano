@@ -1,5 +1,16 @@
 # 08 — Ancoraggi
 
+## Ancoraggi in dettaglio
+
+| # | Ancoraggio | Riparo | Fondo | Prof. | Boe |
+|---|---|---|---|---|---|
+| 1 | [Baie de Marigot](ancoraggi/anc-marigot.md) | ★★★ | Sabbia | 2–4 m | No — tassa €9,20/gg <12 m (+50% multi) ⚠️ |
+| 2 | [Grand Case](ancoraggi/anc-grand-case.md) | ★★★★ | Sabbia | 3–10 m | No |
+| 3 | [Anse Marcel](ancoraggi/anc-anse-marcel.md) | ★★★★ | Sabbia | ND | Marina in baia |
+| 4 | [Simpson Bay Lagoon](ancoraggi/anc-simpson-bay.md) | ★★★★★ | Fango | 2–5 m | No — ancoraggio libero |
+
+
+
 **Ultimo aggiornamento: 23/08/2026**
 
 

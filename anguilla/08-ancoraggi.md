@@ -1,5 +1,14 @@
 # 08 — Ancoraggi
 
+## Ancoraggi in dettaglio
+
+| # | Ancoraggio | Riparo | Fondo | Prof. | Boe |
+|---|---|---|---|---|---|
+| 1 | [Road Bay (Sandy Ground)](ancoraggi/anc-road-bay.md) | ★★★ | Sabbia morbida | 3–5 m | No |
+| 2 | [Crocus Bay](ancoraggi/anc-crocus-bay.md) | ★★★ | Sabbia | 4–7 m | Boe obbligatorie a Little Bay ⚠️ |
+
+
+
 **Ultimo aggiornamento: 23/08/2026**
 
 
