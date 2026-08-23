@@ -10,12 +10,12 @@ OCEANO_DI = {"cabo-verde": "atlantico", "canarie": "atlantico",
              "martinica": "caraibi", "panama": "caraibi"}
 
 OCEANI = [
- ("atlantico",    "&#127758;", "Oceano Atlantico"),
- ("caraibi",      "&#127807;", "Mar dei Caraibi"),
- ("mar-rosso",    "&#128308;", "Mar Rosso"),
- ("pacifico",     "&#127758;", "Oceano Pacifico"),
- ("mediterraneo", "&#9969;",   "Mediterraneo"),
- ("indiano",      "&#127757;", "Oceano Indiano"),
+ ("atlantico",    "&#127758;", "Oceano Atlantico", "Capo Verde - Canarie"),
+ ("caraibi",      "&#127807;", "Mar dei Caraibi", "Grenadine - Guadalupa - Martinica - Panama"),
+ ("mar-rosso",    "&#128308;", "Mar Rosso", "in preparazione"),
+ ("pacifico",     "&#127758;", "Oceano Pacifico", "in preparazione"),
+ ("mediterraneo", "&#9969;",   "Mediterraneo", "in preparazione"),
+ ("indiano",      "&#127757;", "Oceano Indiano", "in preparazione"),
 ]
 
 PAESI = {
