@@ -284,6 +284,7 @@ def process(html):
            'section.page h1{font-size:32px}'
            ".paesi-grid{grid-auto-rows:1fr}"
            ".paesi-grid .pname{font-size:15px}"
+          ".paesi-grid .pcard{min-height:175px}"
            ".crumbs{font-size:12px;color:var(--muted,#8899aa);margin:0 0 6px}"
           ".crumbs a{color:var(--accent,#3fa7ff);text-decoration:none}"
           ".crumbs b{color:inherit}</style>",1)
