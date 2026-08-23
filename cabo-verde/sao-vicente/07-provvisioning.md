@@ -24,3 +24,19 @@ Ultimo aggiornamento: 22/08/2026 · Mindelo offre i **rifornimenti migliori dell
 Ricambi nautici, farmaci specifici e marche alimentari europee: portarli dalle Canarie o ordinarli in anticipo.
 
 Ultimo aggiornamento: 22/08/2026
+
+## Supermercati
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Acqua e carburante
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Consigli pratici
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+Ultimo aggiornamento: 22/08/2026

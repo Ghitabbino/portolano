@@ -31,14 +31,20 @@ Legenda prezzi: **€** <20 · **€€** 20–40 · **€€€** >40 — Cucin
 | [Sous le Vent](ristoranti/rist-sous-le-vent.md) | Sainte-Luce | **€€** | **🐟 Bistronomico pesce** | *Orata scottata · aragosta fiammeggiata* | **🌅 bistrot sul mare** | ★★★★★ |
 | [Le Zandoli](ristoranti/rist-zandoli.md) | Fort d'Alet | **€€€** | **🍽️ Gastronomica fusion** | *Menu degustazione 70/95 €* | **🏛️ boutique hotel 5*, vista baia** | ★★★★ |
 
-## App utili sul posto
+## App e fonti
 
 | Piattaforma | Uso locale |
 |---|---|
 | [TheFork/LaFourchette](https://www.thefork.fr) | Copertura parziale nelle Antille; sconti −20/−30/−50% dove presente ⚠️ verificare ristorante per ristorante |
-| [TripAdvisor](https://www.tripadvisor.fr) | Ampio, buono per confrontare valutazioni |
+| Confronto valutazioni online | Ampio, buono per confrontare |
 | Google Maps recensioni | Il più aggiornato; orari spesso errati fuori stagione |
 | Facebook locale | Pagine dei ristoranti: menu e chiusure in tempo reale |
 | [Uber Eats](https://www.ubereats.com) |Attivo a Fort-de-France dal 2021 (consegna 11–14:30 / 18–23) ★★★|
+
+Ultimo aggiornamento: 22/08/2026
+
+## App e fonti
+
+**DATO MANCANTE** — da completare al controllo mensile.
 
 Ultimo aggiornamento: 22/08/2026

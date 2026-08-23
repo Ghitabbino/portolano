@@ -27,3 +27,24 @@ Ultimo aggiornamento: 22/08/2026 · Capo Verde è **fuori dalla fascia uragani**
 | Da/per Mindelo | Meglio con aliseo moderato; mai sottovalutare la corrente lungo la costa W di Santiago |
 
 Ultimo aggiornamento: 22/08/2026
+
+## Clima
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Venti locali
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Finestre tipiche
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Link meteo
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+Ultimo aggiornamento: 22/08/2026

@@ -13,7 +13,7 @@
 | **Divieti** | Area parco San Lorenzo |
 | **A terra** | Fortaleza San Lorenzo (UNESCO), giungla |
 
-<div class="mapframe" data-slug="chagres" data-lat="9.3275" data-lon="-79.9515"></div>
+<div class="mapframe" data-slug="anc-chagres" data-lat="9.3275" data-lon="-79.9515"></div>
 *Vista mappa Foce Chagres · mappa offline*
 
 Ultimo aggiornamento: 22/08/2026

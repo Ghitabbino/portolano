@@ -79,6 +79,13 @@ Dati ** Caribbean Safety and Security Net** (the.org ★★★), controllo 21/08
 | Mont Pelée | Vulcano attivo (1902: 30.000 morti); osservatorio sorveglia, seguire le istruzioni (*consignes*) |Fonti diportiste aggregate Facts ★★★|
 | Narcotraffico in mare | Sequestri record di cocaina in mare (21,8 t zona Antille-Guyana 2024; 500 kg su un voilier apr 2026): segnalare pacchi sospetti in mare, non recuperare ballotte |La 1ère/JIRS ★★★|
 
+## Numeri di emergenza
+
+| Emergenza | Numero |
+|---|---|
+| Numero unico emergenze | **112** |
+
+
 ## Salvataggio ed emergenze
 
 - Numeri: **15 SAMU · 17 polizia · 18 pompieri · 112 UE · CROSS Antilles-Guyane 0596 70 92 92** (soccorso in mare, *secours en mer*).

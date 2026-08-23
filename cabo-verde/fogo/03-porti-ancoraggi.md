@@ -32,3 +32,9 @@ La maggior parte dei circumnavigatori vede Fogo **da terra**: ferry da Praia o v
 | Fogo – Praia | ~90 Mm | Bolina lunga contro aliseo |
 
 Ultimo aggiornamento: 22/08/2026
+
+## Tariffe
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+Ultimo aggiornamento: 22/08/2026

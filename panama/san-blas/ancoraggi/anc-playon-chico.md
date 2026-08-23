@@ -14,7 +14,7 @@
 | **Divieti** | Nessuno |
 | **A terra** | Villaggio grande autentico, zero turismo |
 
-<div class="mapframe" data-slug="playon-chico" data-lat="9.3119" data-lon="-78.2323"></div>
+<div class="mapframe" data-slug="anc-playon-chico" data-lat="9.3119" data-lon="-78.2323"></div>
 *Vista mappa Playón Chico / Ukupseni · mappa offline*
 
 Ultimo aggiornamento: 22/08/2026

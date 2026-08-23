@@ -18,3 +18,19 @@ Porto Novo è elencato tra gli approdi di Capo Verde su ed è il principale port
 Per quasi tutti i naviganti la clearance nazionale si fa a **Mindelo** (9 Mm) e si visita Santo Antão in regime inter-isole: notificare comunque le autorità locali all'arrivo — lo zarpe isola→isola non è richiesto ma consigliato. ★★★
 
 Ultimo aggiornamento: 22/08/2026
+
+## Chi deve farla
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Costi
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Da verificare
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+Ultimo aggiornamento: 22/08/2026

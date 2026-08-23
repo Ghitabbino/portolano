@@ -30,3 +30,9 @@ L'isola è piatta e a scarso rilievo: nessun riparo dal vento NE, che spira quas
 | Porto Inglês – Vale de Cavaleiros (Fogo) | ~50 Mm | Attraversata comoda, attenzione ai bassi fondali a N di Maio |
 
 Ultimo aggiornamento: 22/08/2026
+
+## Tariffe
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+Ultimo aggiornamento: 22/08/2026

@@ -24,3 +24,24 @@ L'isola più povera e remota del gruppo: costi bassissimi, scelta minima. **Cont
 - Carte praticamente inutilizzabili fuori da poche guesthouse.
 
 Ultimo aggiornamento: 22/08/2026
+
+## Mangiare fuori
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Carburanti
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Trasporti
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Servizi quotidiani
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+Ultimo aggiornamento: 22/08/2026

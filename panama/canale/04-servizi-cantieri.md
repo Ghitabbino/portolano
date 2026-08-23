@@ -21,6 +21,19 @@ Hub tecnico lato Atlantico: **Shelter Bay** (cantiere + travelift, meccanici, ri
 
 Acqua in dock alle marine; jerrycan dagli abitanti a Portobelo/Isla Grande (~$1–2 riempimento).
 
+## Shelter Bay Marina — hub Caraibico (contatti ufficiali)
+
+| Voce | Dettaglio |
+|---|---|
+| Indirizzo | 30 Butner Street, Fort Sherman, Colón |
+| Telefono | **+507 433-3581** · **+507 6781-6631** (WhatsApp) · Yard Mgr 6780-9641 |
+| Radio | **VHF 74** |
+| Email | info@shelterbaymarina.com |
+| GPS | 9°22'17"N 79°56'51"W |
+| Servizi | Marina, boat yard, dry storage, sail loft, chandlery, dinghy dock |
+
+[Cámara Marítima de Panamá ★★★★; sito ufficiale ★★★★]
+
 ## Agenti per il transito del Canale (verificati)
 
 | Agente | Contatti | Note | Fonte |

@@ -31,3 +31,32 @@ Ultimo aggiornamento: 22/08/2026 · Mindelo è il posto migliore dell'arcipelago
 - Particelle di rame e ricambi: ordinarli dall'estero con largo anticipo.
 
 Ultimo aggiornamento: 22/08/2026
+
+## Hub tecnico
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Gas e bombole
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Acqua dolce
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Note strategiche
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+Ultimo aggiornamento: 22/08/2026
+
+## Autorità portuaria Porto Grande
+
+| Voce | Dettaglio |
+|---|---|
+| ENAPOR - Administração do Porto Grande | CP 82 Zona Portuária, Mindelo · **+238 324 515** · portogrande@enapor.cv [database portuale ★★★] |
+
+Ultimo aggiornamento: 22/08/2026

@@ -32,13 +32,19 @@ Legenda prezzi: **€** <20 · **€€** 20–40 · **€€€** >40 — Cucin
 
 *Clicca un punto rosso: apre la scheda del ristorante.*
 
-## App utili sul posto
+## App e fonti
 
 | Piattaforma | Uso locale |
 |---|---|
-| Google Maps recensioni | Il più aggiornato |
-| TripAdvisor | Confronto valutazioni |
-| TheFork | Attivo in Spagna: sconti dove presente |
-| Glovo / Uber Eats | Consegna nei centri ⚠️ raggio da verificare |
+| Recensioni geolocalizzate | Le più aggiornate |
+| Confronto valutazioni online | Ampio |
+| Piattaforma prenotazioni con sconti | Dove presente |
+| App consegna pasti | Nei centri ⚠️ raggio da verificare |
+
+Ultimo aggiornamento: 22/08/2026
+
+## App e fonti
+
+**DATO MANCANTE** — da completare al controllo mensile.
 
 Ultimo aggiornamento: 22/08/2026

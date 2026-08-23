@@ -18,3 +18,14 @@ Ultimo aggiornamento: 22/08/2026 · ⚠️ Contatti non verificati sul posto: vo
 **DATO MANCANTE** — raccolta in corso.
 
 Ultimo aggiornamento: 22/08/2026
+
+Tabella artigiani
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Note pratiche
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+Ultimo aggiornamento: 22/08/2026

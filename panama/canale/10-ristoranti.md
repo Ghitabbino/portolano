@@ -25,14 +25,20 @@ Legenda prezzi: **€** <15 · **€€** 15–30 · **€€€** 30–60 · **
 
 Per il costo medio dei pasti nella zona → [02](02-costi.md).
 
-## App utili sul posto
+## App e fonti
 
 | Piattaforma | Uso locale |
 |---|---|
 | Google Maps recensioni | Il più aggiornato; orari spesso errati fuori stagione |
-| [TripAdvisor](https://www.tripadvisor.com) | Buono per confrontare valutazioni su Causeway e Casco Viejo |
+| Confronto valutazioni online | Buono per le zone turistiche |
 | Facebook locale | Pagine dei ristoranti: menu, eventi e chiusure in tempo reale |
 | Portali diportisti aggregati | Info pratiche e segnalazioni dei crocieristi |
 | Uber / taxi app | Trasferimenti sicuri dai dock ai locali di Panama City → [02](02-costi.md) |
+
+Ultimo aggiornamento: 22/08/2026
+
+## App e fonti
+
+**DATO MANCANTE** — da completare al controllo mensile.
 
 Ultimo aggiornamento: 22/08/2026

@@ -34,3 +34,9 @@ Ancoraggio "ragionevole" davanti alla capitale secondo i naviganti: tenuta discr
 | Furna – Mindelo | ~110 Mm | Lunga bolina contro aliseo |
 
 Ultimo aggiornamento: 22/08/2026
+
+## Tariffe
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+Ultimo aggiornamento: 22/08/2026

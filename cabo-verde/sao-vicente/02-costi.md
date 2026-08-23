@@ -33,3 +33,29 @@ Ultimo aggiornamento: 22/08/2026 · Valuta: **escudo (CVE)**, cambio fisso ≈ 1
 Contante indispensabile nei mercati, tassi e piccoli negozi; carte accettate in marina, hotel e ristoranti turistici. Bancomat presenti in centro Mindelo.
 
 Ultimo aggiornamento: 22/08/2026
+
+## Alimentari
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Mangiare fuori
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Carburanti
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Trasporti
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Servizi quotidiani
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+Ultimo aggiornamento: 22/08/2026

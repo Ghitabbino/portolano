@@ -13,7 +13,7 @@
 | **Divieti** | Rispettare villaggi Guna presenti sulle Perlas orientali |
 | **A terra** | Villaggio pescatori; natura intatta |
 
-<div class="mapframe" data-slug="san-telmo" data-lat="9.463" data-lon="-78.967"></div>
+<div class="mapframe" data-slug="anc-san-telmo" data-lat="9.463" data-lon="-78.967"></div>
 *Vista mappa San Telmo · mappa offline*
 
 Ultimo aggiornamento: 22/08/2026

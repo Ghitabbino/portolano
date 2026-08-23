@@ -23,8 +23,14 @@ Selezione orientata alla crociera: Valle Gran Rey (Vueltas/La Playa) e San Sebas
 
 <div class="mapframe" data-slug="la-gomera" data-minz="10" data-maxz="12" data-lat="28.0895" data-lon="-17.2250" data-markers='[[28.0875, -17.339, "Paraiso del Mar"], [28.0885, -17.3398, "Rincón del Marinero"], [28.0866, -17.3378, "El Puerto"], [28.0889, -17.3381, "La Garbanza"], [28.0863, -17.3401, "El Sultán"], [28.0922, -17.109, "Kiosko Las Carabelas"], [28.09, -17.11, "Caprichos de La Gomera"], [28.0924, -17.1119, "La Tasca"]]'></div>
 
-## App utili sul posto
+## App e fonti
 
  · · [.com](https://www..com) portale ufficiale turismo Canarie
+
+Ultimo aggiornamento: 22/08/2026
+
+## App e fonti
+
+**DATO MANCANTE** — da completare al controllo mensile.
 
 Ultimo aggiornamento: 22/08/2026

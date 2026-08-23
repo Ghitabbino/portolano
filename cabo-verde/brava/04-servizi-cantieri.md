@@ -20,3 +20,24 @@ Ultimo aggiornamento: 22/08/2026 · **Il meno servito di tutto l'arcipelago.** L
 Nessun guasto si risolve a Brava: barca perfettamente efficiente prima di puntare sull'isola, piano B sempre pronto su Fogo.
 
 Ultimo aggiornamento: 22/08/2026
+
+## Hub tecnico
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Gas e bombole
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Acqua dolce
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Note strategiche
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+Ultimo aggiornamento: 22/08/2026

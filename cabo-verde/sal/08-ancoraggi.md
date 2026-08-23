@@ -23,3 +23,9 @@ Ultimo aggiornamento: 22/08/2026 · Cartografia DHN capoverdiana datata + Navion
 4. Contante per accordi locali?
 
 Ultimo aggiornamento: 22/08/2026
+
+## Cartografia ufficiale
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+Ultimo aggiornamento: 22/08/2026

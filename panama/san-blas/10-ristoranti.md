@@ -37,7 +37,13 @@ Ultimo aggiornamento: 22/08/2026
 **DATO MANCANTE** — da completare al controllo mensile.
 
 
-## App utili sul posto
+## App e fonti
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+Ultimo aggiornamento: 22/08/2026
+
+## App e fonti
 
 **DATO MANCANTE** — da completare al controllo mensile.
 

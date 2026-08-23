@@ -45,3 +45,5 @@ In pratica: **si può restare a tempo indeterminato** (turismo) con carta d'iden
 ## Vaccini
 
 Nessun vaccino obbligatorio per ingresso da paesi UE. Raccomandata protezione antilarvale (dengue presente). ★★★
+
+Ultimo aggiornamento: 22/08/2026

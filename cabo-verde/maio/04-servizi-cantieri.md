@@ -17,3 +17,24 @@ Ultimo aggiornamento: 22/08/2026 · Onesto fin dall'inizio: **a Maio non esiston
 - Ancoraggio con swell S: controllare l'ancora due volte al giorno; le notti rollanti logorano gavetti e connessioni.
 
 Ultimo aggiornamento: 22/08/2026
+
+## Hub tecnico
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Gas e bombole
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Acqua dolce
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Note strategiche
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+Ultimo aggiornamento: 22/08/2026

@@ -5,6 +5,7 @@
 | Costa | Zone |
 |---|---|
 | Atlantico (ingresso Canale) | Shelter Bay (Fort Sherman), Puerto Lindo/Linton Bay, Portobelo, Isla Grande |
+| ↳ contatti | 30 Butner St, Fort Sherman, Colón · **+507 433-3581** / **6781-6631** (WA) · VHF **74** · info@shelterbaymarina.com · GPS 9°22'17"N 79°56'51"W [Cámara Marítima/sito ★★★★] |
 | Pacifico (uscita) | Amador/Causeway (Balboa YC, Flamenco Marina), isole Perlas |
 
 ## Tariffe ormeggi e marine

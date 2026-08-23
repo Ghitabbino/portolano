@@ -26,3 +26,19 @@ Supermercati di catena presenti in città (es. catena Ramires) con assortimento 
 Lavanderie, parrucchieri, officine e tutto ciò che serve a una capitale: disponibile ma da chiedere in loco. Tariffe: **DATO MANCANTE**.
 
 Ultimo aggiornamento: 22/08/2026
+
+## Mangiare fuori
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Carburanti
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Trasporti
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+Ultimo aggiornamento: 22/08/2026

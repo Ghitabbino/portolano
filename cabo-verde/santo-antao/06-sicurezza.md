@@ -25,3 +25,36 @@ Santo Antão è considerata tra le isole più tranquille dell'arcipelago: piccol
 ⚠️ Numeri da ricontrollare prima della crociera: fonte locale non verificata di recente.
 
 Ultimo aggiornamento: 22/08/2026
+
+## Quadro generale
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Posti sicuri
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Salvataggio ed emergenze
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Monitoraggio mensile
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+Ultimo aggiornamento: 22/08/2026
+
+## Salvataggio ed emergenze
+
+| Emergenza | Numero |
+|---|---|
+| Polizia | **132** |
+| Ambulanza / medico | **130** |
+| Vigili del fuoco | **131** |
+| SAR marittimo | **VHF 16** · São Vicente Radio (D4A) ascolto continuo · tel +238 232 2158 |
+| JRCC Cabo Verde (SPOC) | **+238 232 5555** · jrcc.cv@gmail.com [elenco SAR ufficiale ★★★★] |
+
+Ultimo aggiornamento: 22/08/2026

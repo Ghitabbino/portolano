@@ -13,7 +13,7 @@
 | **Divieti** | ⛔ Pesca vietata (parco nazionale); fortezze UNESCO sulla riva: non ormeggiare sui ruderi |
 | **A terra** | Borgo storico (fortificazioni UNESCO), tiendas di base, customs locale |
 
-<div class="mapframe" data-slug="portobelo" data-lat="9.553" data-lon="-79.652"></div>
+<div class="mapframe" data-slug="anc-portobelo" data-lat="9.553" data-lon="-79.652"></div>
 *Vista mappa Portobelo · mappa offline*
 
 Ultimo aggiornamento: 22/08/2026

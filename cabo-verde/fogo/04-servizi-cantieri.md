@@ -21,3 +21,24 @@ Ultimo aggiornamento: 22/08/2026 · **Zero servizi nautici.** Nessuna marina, ne
 Qualunque lavoro serio sulla barca = Praia o Mindelo. A Fogo ci si ferma solo con barca in perfetta efficienza e previsione di mare piatto.
 
 Ultimo aggiornamento: 22/08/2026
+
+## Hub tecnico
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Gas e bombole
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Acqua dolce
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Note strategiche
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+Ultimo aggiornamento: 22/08/2026

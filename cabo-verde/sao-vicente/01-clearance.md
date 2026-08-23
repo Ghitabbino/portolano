@@ -37,3 +37,14 @@ Mindelo (Porto Grande, São Vicente) è il **porto di entrata/uscita** più usat
 - Eventuali novità doganali post-2026: **DATO MANCANTE**
 
 Ultimo aggiornamento: 22/08/2026
+
+## Chi deve farla
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Costi
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+Ultimo aggiornamento: 22/08/2026

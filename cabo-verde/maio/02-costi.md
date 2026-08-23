@@ -24,3 +24,24 @@ Isola povera e poco turistica: vita economica ma scelta quasi nulla. **Contante 
 - Nessuna carta accettata fuori dagli hotel più grandi.
 
 Ultimo aggiornamento: 22/08/2026
+
+## Mangiare fuori
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Carburanti
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Trasporti
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Servizi quotidiani
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+Ultimo aggiornamento: 22/08/2026

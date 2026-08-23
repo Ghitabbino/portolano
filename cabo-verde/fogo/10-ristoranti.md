@@ -9,11 +9,22 @@ Selezione orientata alla crociera. Schede puntuali per locale in corso di raccol
 - Zona portuaria/paesana principale: cucina canaria-capoverdiana di pesce (cachupa, pesce del giorno).
 - Locali gestiti dalle famiglie: prezzi onesti, prenotare il pesce al mattino.
 
-## App utili sul posto
+## App e fonti
 
 | Piattaforma | Uso locale |
 |---|---|
-| Google Maps recensioni | Il più aggiornato |
+| Recensioni geolocalizzate | Le più aggiornate |
 | Contatto diretto | Fuori dai poli turistici funziona meglio delle app |
+
+Ultimo aggiornamento: 22/08/2026
+
+## Griglia generale
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## App e fonti
+
+**DATO MANCANTE** — da completare al controllo mensile.
 
 Ultimo aggiornamento: 22/08/2026

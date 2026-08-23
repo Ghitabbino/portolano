@@ -23,3 +23,19 @@
 3. Check-out finale solo nei porti ufficiali: rientro a Praia prima della partenza dall'arcipelago.
 
 Ultimo aggiornamento: 22/08/2026
+
+## Chi deve farla
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Costi
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Da verificare
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+Ultimo aggiornamento: 22/08/2026

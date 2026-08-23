@@ -13,7 +13,7 @@
 | **Divieti** | Nessuno rilevato |
 | **A terra** | Villaggio pittoresco ("isola dei fiori"), spiagge, ristoranti semplici |
 
-<div class="mapframe" data-slug="taboga" data-lat="8.793" data-lon="-79.553"></div>
+<div class="mapframe" data-slug="anc-taboga" data-lat="8.793" data-lon="-79.553"></div>
 *Vista mappa Taboga · mappa offline*
 
 Ultimo aggiornamento: 22/08/2026

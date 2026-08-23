@@ -20,3 +20,14 @@ Ultimo aggiornamento: 22/08/2026 · ⚠️ Contatti non ancora verificati sul po
 Elenco puntuale in raccolta: **DATO MANCANTE**.
 
 Ultimo aggiornamento: 22/08/2026
+
+Tabella artigiani
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Note pratiche
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+Ultimo aggiornamento: 22/08/2026

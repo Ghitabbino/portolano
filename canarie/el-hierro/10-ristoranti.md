@@ -15,3 +15,14 @@ Ultimo aggiornamento: 22/08/2026 · Solo polo = La Restinga. Raccolta in corso.
 *Schede puntuali in arrivo al prossimo controllo mensile.*
 
 Ultimo aggiornamento: 22/08/2026
+
+## Griglia generale
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## App e fonti
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+Ultimo aggiornamento: 22/08/2026

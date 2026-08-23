@@ -26,3 +26,19 @@ Ultimo aggiornamento: 22/08/2026 · Il migliore del gruppo Sotavento: è la capi
 Scorta completa a Praia (o a Mindelo se si viene dal nord) prima delle tappe su Maio, Fogo e Brava, dove l'offerta cala drasticamente.
 
 Ultimo aggiornamento: 22/08/2026
+
+## Supermercati
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Acqua e carburante
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Consigli pratici
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+Ultimo aggiornamento: 22/08/2026

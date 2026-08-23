@@ -14,7 +14,7 @@
 | **Divieti** | Cena al lodge su prenotazione |
 | **A terra** | Snorkeling sul relitto; bar sulla spiaggia |
 
-<div class="mapframe" data-slug="isla-perro" data-lat="9.3434088" data-lon="-78.3136904"></div>
+<div class="mapframe" data-slug="anc-isla-perro" data-lat="9.3434088" data-lon="-78.3136904"></div>
 *Vista mappa Isla Perro · mappa offline*
 
 Ultimo aggiornamento: 22/08/2026

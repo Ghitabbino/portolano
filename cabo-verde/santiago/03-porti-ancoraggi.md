@@ -36,3 +36,9 @@ Ultimo aggiornamento: 22/08/2026 · Coordinate indicative; navigare con cartogra
 | Praia – Mindelo | ~170 Mm | Rientro sempre controvento |
 
 Ultimo aggiornamento: 22/08/2026
+
+## Tariffe
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+Ultimo aggiornamento: 22/08/2026

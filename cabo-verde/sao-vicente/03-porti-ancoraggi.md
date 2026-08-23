@@ -45,3 +45,9 @@ Il hub nautico assoluto dell'arcipelago, in pieno centro storico sul Cais Alfân
 | Mindelo – Tarrafal (São Nicolau) | ~60 Mm | Canale São Vicente–Santa Luzia con correnti di marea forti |
 
 Ultimo aggiornamento: 22/08/2026
+
+## Tariffe
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+Ultimo aggiornamento: 22/08/2026

@@ -21,3 +21,14 @@ Collegamenti quotidiani con i catamarani CV Interilhas (~1 h); orari variabili p
 ⚠️ Ancoraggi notturni sull'isola: nessun sito affidabile documentato dalle fonti consultate → **DATO MANCANTE**.
 
 Ultimo aggiornamento: 22/08/2026
+
+## Tariffe
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Distanze utili
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+Ultimo aggiornamento: 22/08/2026

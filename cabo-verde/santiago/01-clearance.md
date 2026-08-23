@@ -39,3 +39,14 @@ Molti equipaggi evitano consapevolmente la clearance a Praia per la sicurezza in
 - Tariffe ufficiali di clearance aggiornate.
 
 Ultimo aggiornamento: 22/08/2026
+
+## Chi deve farla
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Costi
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+Ultimo aggiornamento: 22/08/2026

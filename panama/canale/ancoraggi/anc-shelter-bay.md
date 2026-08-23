@@ -13,7 +13,7 @@
 | **Divieti** | Zona militare attigua: non sbarcare fuori dalla marina |
 | **A terra** | Marina con ristorante, navetta per Colón; base perfetta per preparare il transito |
 
-<div class="mapframe" data-slug="shelter-bay" data-lat="9.358" data-lon="-79.951"></div>
+<div class="mapframe" data-slug="anc-shelter-bay" data-lat="9.358" data-lon="-79.951"></div>
 *Vista mappa Shelter Bay — menu in alto a destra per Carta nautica e Segnali nautici · mappa offline*
 
 Ultimo aggiornamento: 22/08/2026

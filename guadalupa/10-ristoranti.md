@@ -30,14 +30,20 @@ Legenda prezzi: **€** <20 · **€€** 20–40 · **€€€** >40 — Cucin
 | [Le Planteur](ristoranti/rist-planteur.md) | Gosier | **€€** | **🥩 Poulet boucané** | *Pollo affumicato · gamberi d'acqua dolce* | **🌴 corte creola** | ★★★★ |
 | [Le Rayon de Soleil](ristoranti/rist-rayon-soleil.md) | Anse-Bertrand | **€€€** | **🍽️ Creativa locale** | *Menù degustazione* | **🌅 vista oceano atlantico** | ★★★★ |
 
-## App utili sul posto
+## App e fonti
 
 | Piattaforma | Uso locale |
 |---|---|
 | [TheFork/LaFourchette](https://www.thefork.fr) | Copertura parziale nelle Antille; sconti −20/−30/−50% dove presente ⚠️ verificare ristorante per ristorante |
-| [TripAdvisor](https://www.tripadvisor.fr) | Ampio, buono per confrontare valutazioni |
+| Confronto valutazioni online | Ampio, buono per confrontare |
 | Google Maps recensioni | Il più aggiornato; orari spesso errati fuori stagione |
 | Facebook locale | Pagine dei ristoranti: menu e chiusure in tempo reale |
 | [Uber Eats](https://www.ubereats.com) |Attivo a Pointe-à-Pitre/Les Abymes/Baie-Mahault dal 2021 (consegna 11–14:30 / 18–23) ★★★|
+
+Ultimo aggiornamento: 22/08/2026
+
+## App e fonti
+
+**DATO MANCANTE** — da completare al controllo mensile.
 
 Ultimo aggiornamento: 22/08/2026

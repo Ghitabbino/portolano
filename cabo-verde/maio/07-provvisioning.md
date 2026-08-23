@@ -22,3 +22,19 @@ Ultimo aggiornamento: 22/08/2026 · Offerta minima: **fare scorta a Praia prima 
 - Il vero motivo per fermarsi qui sono le **spiagge deserte** (Ponta Preta, Bitche Rotcha) e le **saline storiche** di Porto Inglês, non la spesa.
 
 Ultimo aggiornamento: 22/08/2026
+
+## Supermercati
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Acqua e carburante
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Consigli pratici
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+Ultimo aggiornamento: 22/08/2026

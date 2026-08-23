@@ -6,7 +6,7 @@
 
 ## Mappa delle zone — offline
 
-<div class="mapframe" data-slug="panama-caribe" data-minz="10" data-maxz="12" data-lat="9.36" data-lon="-79.9" data-zones='★★★"]]'></div>
+<div class="mapframe" data-slug="panama-caribe" data-minz="10" data-maxz="12" data-lat="9.36" data-lon="-79.9" data-zones='[[9.3600,-79.9000,1500,"#ef6c00","Colón centro - prudenza furti di giorno, evitare di notte"]]'></div>
 
 *Colón = unico punto urbano con microcriminalità documentata; resto zona Canale tranquillo in marina/ancoraggi.* Arancione = prudenza. Nessuna zona rossa documentata contro diportisti.
 
@@ -14,6 +14,7 @@
 
 | Zona | Giudizio |
 |---|---|
+\| Numero unico emergenze \| **911** \|
 | Colón città | Alta criminalità comune: non lasciare la barca incustodita al molo, evitare spostamenti a piedi dopo il tramonto |
 | Shelter Bay / Linton Bay / Portobelo / Isla Grande |Tranquilli; furti opportunistici in ancoraggio rari ma riportati ★★★|
 | Causeway Amador (Pacifico) | Sicura, pattugliata, turistica |

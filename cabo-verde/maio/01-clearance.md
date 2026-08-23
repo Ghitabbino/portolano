@@ -23,3 +23,19 @@
 4. All'uscita da Capo Verde: formalità finali solo nei porti di ingresso ufficiali — pianificare il check-out a Praia, non da Maio.
 
 Ultimo aggiornamento: 22/08/2026
+
+## Chi deve farla
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Costi
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Da verificare
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+Ultimo aggiornamento: 22/08/2026

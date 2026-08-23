@@ -8,6 +8,7 @@
 
 | Zona | Giudizio |
 |---|---|
+\| Numero unico emergenze \| **911** \|
 | Isole turistiche (Lemmons, Holandeses) | Tranquille; venditori in canoa di giorno; di notte isolate |
 | Villaggi sulla costa | Sicuri con rispetto delle regole comunitarie |
 | Confine colombiano (est, oltre Playón Chico/Mamitupu) |⚠️ Presenza occasionale di traffico illegale: evitare l'area orientale ★★★|
