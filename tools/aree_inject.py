@@ -30,7 +30,7 @@ GRUPPO_DI = {}
 for _g in GRUPPI:
     for _m in _g[3]: GRUPPO_DI[_m] = _g[0]
 
-ORDER = ["atlantico","caraibi","mar-rosso","pacifico","mediterraneo","indiano"]
+ORDER = ["caraibi","mar-rosso","mediterraneo","atlantico","indiano","pacifico"]  # ordine alfabetico per nome
 
 PAESI = {
  "cabo-verde": ("cv", "Capo Verde", "9 isole: hub Mindelo, Sal turistica, vulcano Fogo.", "\u2705 v1 \u00b7 ver. 23/08/26"),
