@@ -1,15 +1,12 @@
 # 03 — Porti e marine
 
-Ultimo aggiornamento: 22/08/2026
+**Ultimo aggiornamento: 23/08/2026**
 
-## Ancoraggi e approdi
 
-| Posto | Fondo | Prof. | Note |
-|---|---|---|---|
-| Britannia Bay | sabbia | 3–9 m | Mooring balls; clearance nell'ufficio sul molo |
+**Britannia Bay**: **solo boe** (niente ancoraggio libero); arrivare presto in stagione; possibile **minimo 3 notti** — [Guida CCA nov 2025](https://cruisingclub.org/sites/default/files/events/Grenadines%20Info%20%26%20Local%20Resources%2025.11.23.pdf) ★★★★
 
-## Marine
+- Gestione: Mustique Company — [mustique-island.com](https://www.mustique-island.com) ★★★
+- Basil's Bar sul molo: lunch/dinner; **Blues Festival** l'ultima settimana di gennaio (musica ogni sera); jump-up il mercoledì ★★★
+- Cotton House: pranzo/cena su prenotazione ★★★
 
-Clearance Britannia Bay presso l'harbour office della Mustique Company.
-
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 23/08/2026

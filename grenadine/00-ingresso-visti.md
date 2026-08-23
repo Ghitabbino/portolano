@@ -1,28 +1,30 @@
-# 00 — Ingresso, documenti e visti
+# 00 — Grenadine: ingresso, documenti e visti
 
-Scheda **comune** a St. Vincent e Grenadine (SVG): stato indipendente del Commonwealth · lingua inglese · valuta **dollaro dei Caraibi orientali XCD (~2,70/US$)** · fuso **UTC−4**.
+**Ultimo aggiornamento: 23/08/2026**
 
-## Cittadini UE — ingresso
 
-| Voce | Regola |
-|---|---|
-| Visto | Non richiesto per soggiorni turistici brevi (tipicamente fino a 1-6 mesi secondo nazionalità) — durata esatta timbrata all'arrivo |
-| Documenti | Passaporto consigliato; biglietto/titolo di proseguimento richiesto |
+**Stato**: St Vincent e le Grenadines (SVG). Valuta: **EC$** (2,7 = 1 US$). Visto: non necessario per molti paesi, soggiorno fino a **6 mesi**. ★★★★
 
-## Arrivo via mare — clearance
+## Uffici doganali SVG
 
-SVG usa un **sistema di clearance online ufficiale** per yacht (e-seaClear/portale marittimo governativo) ⚠️ verificare URL corrente su fonte governativa svg.gov.vc. Porti approved principali: **Kingstown (St Vincent), Bequia (Port Elizabeth), Union Island (Clifton), Canouan**.
+**Chateaubelair · Wallilabou · Kingstown · Blue Lagoon · Bequia (Port Elizabeth) · Canouan · Union Island (Clifton)** — tutti sul sistema [SailClear](https://sailclear.com) ★★★★
 
-## La barca
+- Orari: **08:00–12:00 / 13:00–16:00**; extra-orari maggiorati; sabato mattina in alcuni uffici [Guida CCA nov 2025](https://cruisingclub.org/sites/default/files/events/Grenadines%20Info%20%26%20Local%20Resources%2025.11.23.pdf) ★★★★
+- **Blue Lagoon Marina (St Vincent)**: lun–ven 08–16, sab 08:30–12; clearance "semplice" ★★★★
+- Cruise tax **EC$35/pers/mese** (o EC$5/g max 7 gg); charter fuori SVG **EC$5/piede** ★★★★
+- Cruising permit 30 gg al check-in, estendibile ★★★★
 
-Cruising permit SVG richiesta dopo l'ingresso: si paga in dogana (Kingstown/Bequia/Clifton); tariffa settimanale indicativa **EC$50–80** ⚠️ confermare all'arrivo ★★
+## Rete diportista
 
-## Zone del portolano
+- **Cruisers Net VHF 68 — lun/mer/ven 08:00** (meteo + info) [Guida CCA nov 2025](https://cruisingclub.org/sites/default/files/events/Grenadines%20Info%20%26%20Local%20Resources%2025.11.23.pdf) ★★★★
 
-Bequia (hub) · St Vincent · Tobago Cays (parco marino) · Mayreau · Union Island · Canouan · Mustique.
+## Meteo e notizie
 
-## Vaccini
+- [Doyle Guides — aggiornamenti Windward](https://doyleguides.com/windward-updated-guides/) ★★★★
+- [Caribbean Compass](https://caribbeancompass.com/) — mensile di zona ★★★★
 
-Nessuno obbligatorio; dengue presente → protezione antizanzare.
+## Da verificare
+
+- Tariffa cruising permit 2026–27 (eventuali aggiornamenti Noonsite)
 
 Ultimo aggiornamento: 23/08/2026

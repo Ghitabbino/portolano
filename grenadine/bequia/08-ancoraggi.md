@@ -1,12 +1,32 @@
-# 08 — Portolano degli ancoraggi
+# 08 — Ancoraggi
 
-Ultimo aggiornamento: 22/08/2026
+**Ultimo aggiornamento: 23/08/2026**
 
-## Tabella riassuntiva
 
-| # | Ancoraggio | Fondo | Prof. | Note |
-|---|---|---|---|---|
-| 1 | Admiralty Bay (Port Elizabeth) | sabbia | 4–10 m | Mooring balls + àncora libera; dinghy dock; clearance nel porto |
-| 2 | Friendship Bay | sabbia | 5–10 m | Più solitaria, sud-ovest |
+## Admiralty Bay
 
-Ultimo aggiornamento: 22/08/2026
+Uno dei migliori porti naturali dei Caraibi orientali: a "U" profonda, riparata dal swell atlantico ★★★★
+
+| Zona | Dettagli |
+|---|---|
+| **Metà nord, davanti Princess Margaret** | Sabbia buona, **4–8 m** — [SVG Yachting](https://www.svgyachting-grenadines.com/blog/bequia-yacht-charter-guide) ★★★★ |
+| Boe **Daffodil** | In tutta la baia, **~US$30/notte** ★★★★ |
+| ⚠️ Evitare | Basse acque lungo Belmont Walkway; scogli marcati sul lato sud ★★★★ |
+| ⚠️ Rotta traghetto | Restare liberi dal corridoio verso il molo principale — [insandoutsofsvg](https://www.insandoutsofsvg.com/articles/beaches-anchorages) ★★★ |
+| Princess Margaret | Obbligatorio **ancorare ≥200 iarde da riva** per i bagnanti; dinghy dock ★★★★ |
+
+## Altre baie
+
+| Ancoraggio | Note |
+|---|---|
+| **Lower Bay** | Grande spiaggia; ristoranti a riva (Keegan's, De Reef, Dawn's, Petra's) ★★★★ |
+| **Friendship Bay** | Mezzaluna riparata a sud; snorkel/dive; Bequia Beach Hotel (day-pass US$75) ★★★ |
+| Spring / Industry (est) | Deserte, kitesurf; Crescent Beach; Sugar Reef Café — solo con meteo stabile ★★ |
+| **Petit Nevis** | Day anchorage; isola-quartiere ex baleniera ★★★ |
+| **Isle à Quatre** | Notte tranquilla tra Bequia e Mustique [Guida CCA nov 2025](https://cruisingclub.org/sites/default/files/events/Grenadines%20Info%20%26%20Local%20Resources%2025.11.23.pdf) ★★★ |
+
+## Eventi
+
+- **Bequia Easter Regatta** (4 giorni a Pasqua): baia piena — festa o da evitare, a gusto ★★★★
+
+Ultimo aggiornamento: 23/08/2026

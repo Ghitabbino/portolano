@@ -1,22 +1,26 @@
 # 10 — Ristoranti
 
-Fonte: recensioni TA Salt Whistle Bay Club + resoconti naviganti (beach BBQ dei barcaioli).
+**Ultimo aggiornamento: 23/08/2026**
 
-Legenda: **€** <20 · **€€** 20–40 · **€€€** >40 — prezzi in EC$ (~0,37 EUR)
 
-## Griglia generale
+Elenco completo verificato — [Guida CCA nov 2025](https://cruisingclub.org/sites/default/files/events/Grenadines%20Info%20%26%20Local%20Resources%2025.11.23.pdf) ★★★★
 
-| Ristorante | Costo | Specialità | Location |
-|---|---|---|---|
-| Salt Whistle Bay Club | **€€**  | Ristorante+bar sulla mezzaluna, aperto tutti i giorni | 🏖️ spiaggia iconica |
-| Black Boy & Debbie's BBQ | **€€**  | Aragosta alla griglia su ordinazione dai barcaioli | 🔥 beach BBQ serale su accordo VHF |
+**Costa ovest:**
 
-## Post-Beryl
+| Locale | Note |
+|---|---|
+| Mayreau Beach Club | ★★ |
+| Island Paradise | ★★ |
+| Denis' Hideaway | ★★ |
+| D'View Sports Bar & Restaurant | ★★ |
+| The Ranch Escapade | ★★ |
 
-Operativi: **The Last Bar Before the Jungle** · **Mr. Wonderful** (pane, pesce, banana bread). [Fonte](https://horizonyachtcharters.com/213/2249/update-on-the-grenadines-following-hurricane-beryl-july-2024) ★★★
+**Salt Whistle Bay:**
 
-## App utili sul posto
-
-Google Maps recensioni · contatto diretto VHF/WhatsApp · prenotare aragosta al mattino
+| Locale | Note |
+|---|---|
+| Coconut Restaurant & Bar | ★★★ |
+| **The Last Bar Before the Jungle** | Icona della baia ★★★ |
+| Nadie's Bar & Restaurant | ★★ |
 
 Ultimo aggiornamento: 23/08/2026
