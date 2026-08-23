@@ -18,6 +18,18 @@ OC_NAME = {
  "mar-rosso": "Mar Rosso",        "pacifico": "Oceano Pacifico",
  "indiano":   "Oceano Indiano",   "mediterraneo": "Mediterraneo",
 }
+GRUPPI = [
+ ("grandi-antille",   "\U0001F3D4", "Grandi Antille",                ["cuba","ispaniola","giamaica","porto-rico","cayman"]),
+ ("sopravento-sett",  "\U0001F334", "Sopravento Settentrionali",     ["virgin-islands","anguilla","saint-martin","saint-barth","antigua-barbuda","st-kitts-nevis","montserrat","saba","st-eustatius"]),
+ ("sopravento-merid", "\U0001F334", "Sopravento Meridionali",        ["guadalupa","dominica","martinica","santa-lucia","grenadine","barbados","grenada"]),
+ ("sottovento-abc",   "\u2600",     "Sottovento (ABC e Trinidad)",   ["aruba","curacao","bonaire","venezuela","trinidad-tobago"]),
+ ("lucayano",         "\U0001F41A", "Arcipelago Lucayano",           ["bahamas","turks-caicos"]),
+ ("centro-america",   "\u26F5",     "America Centrale",              ["panama","belize","honduras","costarica","nicaragua"]),
+]
+GRUPPO_DI = {}
+for _g in GRUPPI:
+    for _m in _g[3]: GRUPPO_DI[_m] = _g[0]
+
 ORDER = ["atlantico","caraibi","mar-rosso","pacifico","mediterraneo","indiano"]
 
 PAESI = {
@@ -27,12 +39,45 @@ PAESI = {
  "guadalupa":  ("fr", "Guadalupa",  "Les Saintes, Petite Terre, Riserva Cousteau.",      "\u2705 v1 \u00b7 ver. 23/08/26"),
  "martinica":  ("fr", "Martinica",  "Hub Le Marin, base servizi n.1 Antille.",           "\u2705 v1 \u00b7 ver. 23/08/26"),
  "panama":     ("pa", "Panama",     "Canale + San Blas: transito, Colon, comarca Guna Yala.", "\u2705 v1 \u00b7 ver. 23/08/26"),
+ "cuba":         ("\U0001F1E8\U0001F1FA", "Cuba",          "L'isola maggiore dei Caraibi.",              "\U0001F6A7 v0 · ver. 23/08/2026"),
+ "ispaniola":    ("\U0001F1E9\U0001F1F4", "Ispaniola",     "Repubblica Dominicana + Haiti.",             "\U0001F6A7 v0 · ver. 23/08/2026"),
+ "giamaica":     ("\U0001F1EF\U0001F1F2", "Giamaica",      "Nord-ovest Caraibi.",                        "\U0001F6A7 v0 · ver. 23/08/2026"),
+ "porto-rico":   ("\U0001F1F5\U0001F1F7", "Porto Rico",    "Territorio USA.",                            "\U0001F6A7 v0 · ver. 23/08/2026"),
+ "cayman":       ("\U0001F1F0\U0001F1FE", "Isole Cayman",  "George Town, banking e dive.",               "\U0001F6A7 v0 · ver. 23/08/2026"),
+ "dominica":     ("\U0001F1E9\U0001F1F2", "Dominica",      "Natura selvaggia, Champagne Reef.",          "\U0001F6A7 v0 · ver. 23/08/2026"),
+ "santa-lucia":  ("\U0001F1F1\U0001F1E8", "Santa Lucia",   "Pitons, marina Rodney Bay.",                 "\U0001F6A7 v0 · ver. 23/08/2026"),
+ "barbados":     ("\U0001F1E7\U0001F1E7", "Barbados",      "Carlisle Bay, Atlantic side.",               "\U0001F6A7 v0 · ver. 23/08/2026"),
+ "grenada":      ("\U0001F1EC\U0001F1E9", "Grenada",       "Grande Anse, spezie, Annage.",               "\U0001F6A7 v0 · ver. 23/08/2026"),
+ "antigua-barbuda":("\U0001F1E6\U0001F1EC","Antigua e Barbuda","English Harbour, 365 spiagge.",           "\U0001F6A7 v0 · ver. 23/08/2026"),
+ "saint-martin": ("\U0001F1F8\U0001F1FD", "Saint-Martin / Sint Maarten", "Doppia nazione FR/NL.",        "\U0001F6A7 v0 · ver. 23/08/2026"),
+ "saint-barth":  ("\U0001F1E7\U0001F1F1", "Saint-Barthélemy","Gustavia, chic francese.",                 "\U0001F6A7 v0 · ver. 23/08/2026"),
+ "anguilla":     ("\U0001F1E6\U0001F1EE", "Anguilla",      "Road Bay, spiagge bianche.",                 "\U0001F6A7 v0 · ver. 23/08/2026"),
+ "st-kitts-nevis":("\U0001F1F0\U0001F1F3","St-Kitts e Nevis","Basseterre, Charlestown.",                 "\U0001F6A7 v0 · ver. 23/08/2026"),
+ "montserrat":   ("\U0001F1F2\U0001F1F8", "Montserrat",    "Little Bay, vulcano Soufrière.",             "\U0001F6A7 v0 · ver. 23/08/2026"),
+ "saba":         ("\U0001F1E7\U0001F1F6", "Saba",          "Fort Bay, marine park, dive.",               "\U0001F6A7 v0 · ver. 23/08/2026"),
+ "st-eustatius": ("\U0001F1E7\U0001F1F6", "St-Eustatius",  "Oranje Bay, STENAPA.",                       "\U0001F6A7 v0 · ver. 23/08/2026"),
+ "virgin-islands":("\U0001F1FB\U0001F1EC","Isole Vergini", "BVI + USVI: Baths, Norman, St John.",        "\U0001F6A7 v0 · ver. 23/08/2026"),
+ "aruba":        ("\U0001F1E6\U0001F1FC", "Aruba",         "ABC: fuori belt uragani.",                   "\U0001F6A7 v0 · ver. 23/08/2026"),
+ "curacao":      ("\U0001F1E8\U0001F1FC", "Curaçao",       "Willemstad, Schottegat.",                    "\U0001F6A7 v0 · ver. 23/08/2026"),
+ "bonaire":      ("\U0001F1E7\U0001F1F6", "Bonaire",       "Klein Bonaire, dive paradise.",              "\U0001F6A7 v0 · ver. 23/08/2026"),
+ "trinidad-tobago":("\U0001F1F9\U0001F1F9","Trinidad e Tobago","Carnival, Chaguaramas cantieri.",        "\U0001F6A7 v0 · ver. 23/08/2026"),
+ "bahamas":      ("\U0001F1E7\U0001F1F8", "Bahamas",       "700 isole: Exuma, Abaco.",                   "\U0001F6A7 v0 · ver. 23/08/2026"),
+ "turks-caicos": ("\U0001F1F9\U0001F1E8", "Turks e Caicos","Grace Bay, barriera di corallo.",            "\U0001F6A7 v0 · ver. '+D+'"),
+ "venezuela":    ("\U0001F1FB\U0001F1EA", "Venezuela",     "Costa caraibica: Los Roques.",               "\U0001F6A7 v0 · ver. '+D+'"),
+ "panama":       ("\U0001F1F5\U0001F1E6", "Panama",        "Canale + San Blas: transito, Colon, comarca Guna Yala.", "\u2705 v1 · ver. '+D+'"),
+ "belize":       ("\U0001F1E7\U0001F1FF", "Belize",        "Barriera corallina, cayes.",                 "\U0001F6A7 v0 · ver. '+D+'"),
+ "honduras":     ("\U0001F1ED\U0001F1F3", "Honduras",      "Bay Islands: Roatán.",                       "\U0001F6A7 v0 · ver. '+D+'"),
+ "costarica":    ("\U0001F1E8\U0001F1F7", "Costa Rica",    "Golfo Dulce, Drake Bay.",                    "\U0001F6A7 v0 · ver. '+D+'"),
+ "nicaragua":    ("\U0001F1F3\U0001F1EE", "Nicaragua",     "San Juan del Sur, Pearl Cays.",              "\U0001F6A7 v0 · ver. '+D+'"),
 }
 OCEANO_DI = {"cabo-verde":"atlantico","canarie":"atlantico",
              "grenadine":"caraibi","guadalupa":"caraibi",
-             "martinica":"caraibi","panama":"caraibi"}
+             "martinica":"caraibi","panama":"caraibi",
+             "cuba":"caraibi","ispaniola":"caraibi","giamaica":"caraibi","porto-rico":"caraibi","cayman":"caraibi","dominica":"caraibi","santa-lucia":"caraibi","barbados":"caraibi","grenada":"caraibi","aruba":"caraibi","curacao":"caraibi","bonaire":"caraibi","trinidad-tobago":"caraibi","bahamas":"caraibi","turks-caicos":"caraibi","antigua-barbuda":"caraibi","saint-martin":"caraibi","saint-barth":"caraibi","anguilla":"caraibi","st-kitts-nevis":"caraibi","montserrat":"caraibi","saba":"caraibi","st-eustatius":"caraibi","virgin-islands":"caraibi",}
 
 def svg(code):
+    if code not in ("cv","es","vc","fr","pa"):
+        return code  # emoji o html gia' pronto
     import math
     W,H=24,16
     def rect(x,y,w,h,c): return f'<rect x="{x}" y="{y}" width="{w}" height="{h}" fill="{c}"/>'
@@ -61,6 +106,9 @@ def svg(code):
         b=rect(0,0,W,H,"#888")
     return '<svg width="21" height="14" viewBox="0 0 24 16" style="border-radius:2px;vertical-align:-2px">'+b+'</svg>'
 
+def flag_html(cc):
+    return svg(cc) if cc in ("cv","es","vc","fr","pa") else cc
+
 def pcard(href, flaghtml, nome, desc, st):
     nome=nome.replace("'","\u2019"); desc=desc.replace("'","\u2019")
     return ('<div class="pcard"><div class="pflag">'+flaghtml+'</div>'
@@ -79,8 +127,10 @@ def process(html):
     cards=""
     for oid in ORDER:
         kids=[k for k in PAESI if OCEANO_DI.get(k)==oid]
-        cards+=pcard("#o-"+oid, OC_ICON[oid], OC_NAME[oid],
-            ", ".join(PAESI[k][1] for k in kids) if kids else "in preparazione",
+        dsc = ("5 gruppi: Grandi Antille, Sopravento, Sottovento, Lucayano, Centro America"
+               if oid=="caraibi" else
+               ", ".join(PAESI[k][1] for k in kids) if kids else "in preparazione")
+        cards+=pcard("#o-"+oid, OC_ICON[oid], OC_NAME[oid], dsc,
             "apri \u2192" if kids else "")
     home=('<section id="home" class="page" data-country="">'
           '<h1>Portolano</h1>'
@@ -90,13 +140,30 @@ def process(html):
     secs=""
     for oid in ORDER:
         cs=""
-        for k,(cc,nome,desc,st) in PAESI.items():
-            if OCEANO_DI.get(k)!=oid: continue
-            cs+=pcard("#"+pid_of.get(k,"#"), svg(cc), nome, desc, st)
+        if oid=="caraibi":
+            for gid,gicon,gname,members in GRUPPI:
+                n=len([m for m in members if m in PAESI])
+                cs+=pcard("#c-"+gid, gicon, gname,
+                          str(n)+" paesi" if n<len(members) else str(n)+" paesi", "apri \u2192")
+        else:
+            for k,(cc,nome,desc,st) in PAESI.items():
+                if OCEANO_DI.get(k)!=oid: continue
+                cs+=pcard("#"+pid_of.get(k,"#"), flag_html(cc), nome, desc, st)
         empty="<p><em>In preparazione.</em></p>" if not cs else ""
         secs+=('<section id="o-'+oid+'" class="page" data-country="'+oid+'">'
                '<p><a href="#home">\u2190 Aree</a></p><h1>'+OC_NAME[oid]+'</h1>'
                '<div class="paesi-grid">'+cs+'</div>'+empty+'</section>')
+    # pagine dei 6 gruppi caraibici
+    for gid,gicon,gname,members in GRUPPI:
+        gcs=""
+        for slug in members:
+            if slug in PAESI:
+                cc=PAESI[slug][0]
+                gcs+=pcard("#"+pid_of.get(slug,"#"), flag_html(cc), PAESI[slug][1], PAESI[slug][2], PAESI[slug][3])
+        emptyg="<p><em>In preparazione.</em></p>" if not gcs else ""
+        secs+=('<section id="c-'+gid+'" class="page" data-country="caraibi/'+gid+'">'
+               '<p><a href="#o-caraibi">\u2190 Caraibi</a></p><h1>'+gname+'</h1>'
+               '<div class="paesi-grid">'+gcs+'</div>'+emptyg+'</section>')
     html=html.replace("<main>", "<main>"+home+"\n"+secs+"\n", 1)
 
     items='<a class="navlink country-link" data-country="" data-page="home" href="#home">\U0001F30D Aree</a>'
@@ -104,6 +171,10 @@ def process(html):
         kids=[k for k in PAESI if OCEANO_DI.get(k)==oid]
         items+=('<a class="navlink country-link" data-country="'+oid+'" data-page="o-'+oid+'" '
                 'href="#o-'+oid+'">'+OC_ICON[oid]+' '+OC_NAME[oid]+'</a>')
+        if oid=="caraibi":
+            for gid,gicon,gname,members in GRUPPI:
+                items+=('<a class="navlink country-link sub" data-country="caraibi/'+gid+'" data-page="c-'+gid+'" href="#c-'+gid+'" >'+gicon+' '+gname+'</a>')
+            continue
         if not kids: continue
         for k in kids:
             cc,nome,_,_=PAESI[k]; pid=pid_of.get(k,"#")
@@ -116,20 +187,25 @@ def process(html):
 
     ocids="{"+",".join('"'+k+'":1' for k in ORDER)+"}"
     html=html.replace("function show(id){",
-        "const PAR="+json.dumps(OCEANO_DI)+";const OC_IDS="+ocids+
+        "const PAR="+json.dumps(OCEANO_DI)+";const OC_IDS="+ocids+";const GRP="+json.dumps(GRUPPO_DI)+
         ";\nfunction show(id){",1)
     html=html.replace(
         "clinks.forEach(l=>l.classList.toggle('active',l.dataset.country===root));",
         "clinks.forEach(l=>l.classList.toggle('active',l.dataset.country===root||l.dataset.country===PAR[root]));",1)
     NAVJS=("\n"      +"var iz=c.indexOf(\"/\")>=0;"
       +"var isOc=!!(c&&OC_IDS[c]);"
+      +"var isGrp=c.indexOf(\"caraibi/\")===0;"
       +"var hz=false;"
       +"document.querySelectorAll(\".zonelink\").forEach(function(z){if((z.dataset.country||\"\").split(\"/\")[0]===root)hz=true;});"
       +"document.querySelectorAll(\".nav-countries a\").forEach(function(l){"
       +"var k=l.dataset.country||\"\";var vis=false;"
       +"if(k===\"\"){vis=true;}"
       +"else if(OC_IDS[k]){vis=(c===\"\")||k===c;}"
-      +"else if(k.indexOf(\"/\")<0){vis=isOc?(PAR[k]===c):(iz?false:(k===c));}"
+      +"else if(k.indexOf(\"caraibi/\")===0){vis=(c===\"caraibi\")||(k===c);}"
+      +"else if(k.indexOf(\"/\")<0){"
+      +"if(isOc){vis=(c!==\"caraibi\")&&PAR[k]===c;}"
+      +"else if(isGrp){vis=GRP[k]===c.split(\"/\")[1];}"
+      +"else{vis=iz?false:(k===c);}}"
       +"else{vis=isOc?false:(iz?(k===c):(k.split(\"/\")[0]===c));}"
       +"l.style.display=vis?\"\":\"none\";"
       +"l.classList.toggle(\"active\",k===c);"
@@ -172,7 +248,17 @@ def process(html):
             seg=None
             crumbs='<a href="#home">Aree</a>'
             oc=OCEANO_DI.get(root)
-            if oc:
+            if root=="caraibi" or (c and c.startswith("caraibi/")):
+                crumbs+=' \u203a <a href="#o-caraibi">Mar dei Caraibi</a>'
+                if c and c.startswith("caraibi/"):
+                    g=c.split("/")[1]
+                    gn=[x[2] for x in GRUPPI if x[0]==g]
+                    crumbs+=' \u203a <a href="#c-'+g+'">'+(gn[0] if gn else g)+'</a>'
+                    if "/" not in c[len("caraibi/"):] and c!="caraibi/"+g:
+                        pass
+                if "/" in c[len("caraibi/"):] if c and c.startswith("caraibi/") else False:
+                    pass
+            elif oc:
                 crumbs+=' \u203a <a href="#o-'+oc+'">'+OC_NAME[oc]+'</a>'
             if "/" in c:
                 crumbs+=' \u203a <a href="#'+pid_of.get(root,"#")+'">'+PAESI[root][1]+'</a>'
