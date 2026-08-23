@@ -50,7 +50,7 @@ def inject(html):
 
     area_cards = "".join(_pcard("#o-" + oid, em, nm, ds,
         ("apri &#8594;" if any(OCEANO_DI.get(k) == oid for k in PAESI)
-         else "in preparazione")) for oid, em, nm in OCEANI)
+         else "in preparazione")) for oid, em, nm, ds in OCEANI)
 
     home = ('<section id="home" class="page" data-country="">'
             '<h1>Portolano</h1>'
@@ -78,7 +78,7 @@ def inject(html):
     nav_old = re.search(r'<div class="nav-countries">.*?</div>', html, re.S)
     if nav_old:
         nav_oc = "".join(f'<a class="navlink country-link" href="#o-{oid}">{em} {nm}</a>'
-                        for oid, em, nm in OCEANI)
+                        for oid, em, nm, ds in OCEANI)
         html = html[:nav_old.start()] + \
                f'<div class="nav-countries"><a class="navlink country-link" href="#home">Aree</a>{nav_oc}</div>' + \
                html[nav_old.end():]
