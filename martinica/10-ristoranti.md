@@ -8,7 +8,7 @@ Legenda prezzi: **€** <20 · **€€** 20–40 · **€€€** >40 — Cucin
 
 ## Mappa dei ristoranti
 
-<div class="mapframe" data-slug="martinica" data-minz="10" data-maxz="12" data-lat="14.60" data-lon="-61.03" data-markers='[[14.4700,-60.9980,"Zanzibar"],[14.4717,-60.9990,"KokOaRum"],[14.4440,-60.8830,"Basilic Beach"],[14.4448,-60.8842,"Pirates Beach"],[14.4355,-60.8800,"Ti Cozy"],[14.4360,-60.8795,"Boubou Bokits"],[14.4370,-60.8785,"Le M"],[14.4365,-60.8790,"La Cour Créole"],[14.4360,-60.8800,"La Daurade"],[14.4355,-60.8790,"Delim’s"],[14.4940,-61.0860,"Kreol K Fé"],[14.4870,-61.0890,"L’Oasis"],[14.4796,-61.0249,"Palmeiras Karaïb"],[14.4567,-60.9439,"Sous le Vent"],[14.5390,-61.0360,"Havana Café"],[14.5970,-61.0790,"Le Zandoli"]]'></div>
+<div class="mapframe" data-slug="martinica" data-minz="10" data-maxz="12" data-lat="14.60" data-lon="-61.03" data-markers='[[14.47, -60.998, "Zanzibar"], [14.4717, -60.999, "KokOaRum"], [14.444, -60.883, "Basilic Beach"], [14.4448, -60.8842, "Pirates Beach"], [14.4355, -60.88, "Ti Cozy"], [14.436, -60.8795, "Boubou Bokits"], [14.437, -60.8785, "Le M"], [14.4365, -60.879, "La Cour Créole"], [14.436, -60.88, "La Daurade"], [14.4355, -60.879, "Delim’s"], [14.494, -61.086, "Kreol K Fé"], [14.487, -61.089, "L’Oasis"], [14.4796, -61.0249, "Palmeiras Karaïb"], [14.4567, -60.9439, "Sous le Vent"], [14.539, -61.036, "Havana Café"], [14.597, -61.079, "Le Zandoli"]]'></div>
 
 ## Griglia generale
 
