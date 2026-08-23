@@ -512,4 +512,3 @@ mob = mob.replace('<script src="assets/leaflet.js">', drawer + '<script src="ass
 OUTM = ROOT / "paesi-mobile.html"
 OUTM.write_text(mob, encoding="utf-8")
 print(f'OK -> {OUTM} ({OUTM.stat().st_size} byte) [smartphone]')
-exec(open(Path(__file__).resolve().parent / "aree_inject.py").read())
