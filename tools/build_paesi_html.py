@@ -195,7 +195,8 @@ TEMPLATE = """<!DOCTYPE html>
 <meta http-equiv="Cache-Control" content="no-store, no-cache, must-revalidate">
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="0">
-<title>Portolano — Wiki paesi</title>
+<title>SailTropics · Portolano</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 52'%3E%3Ccircle cx='19' cy='20' r='10' fill='%23F0705A'/%3E%3Cpath d='M28 2 C41 13 47 30 44 48 L28 48 Z' fill='%231E5A9E'/%3E%3Cpath d='M6 48 q10 -8 22 -2 t 28 1' stroke='%232BB3A3' stroke-width='6' fill='none' stroke-linecap='round'/%3E%3C/svg%3E">
 <link rel="stylesheet" href="assets/leaflet.css">
 <style>
 :root { --bg:#0f1720; --panel:#16222e; --ink:#dbe7f1; --muted:#8aa2b5; --accent:#4db6ac; --line:#24384a; }
@@ -275,7 +276,17 @@ li { margin:3px 0; }
 </head>
 <body>
 <aside>
-  <h1 style="cursor:pointer" id="home-link">🧭 Portolano</h1>
+  <div id="home-link" style="cursor:pointer;display:flex;align-items:center;gap:9px;margin:0 0 2px">
+<svg viewBox="0 0 64 52" width="30" height="26" aria-hidden="true" style="flex-shrink:0">
+<circle cx="19" cy="20" r="9" fill="#F0705A"/>
+<path d="M28 4 C40 14 46 30 43 46 L28 46 Z" fill="#1E5A9E"/>
+<path d="M26 12 L26 46 L14 46 C18 34 21 22 26 12 Z" fill="#16406F"/>
+<path d="M6 47 q9 -7 20 -2 t 30 1" stroke="#2BB3A3" stroke-width="4.5" fill="none" stroke-linecap="round"/>
+<path d="M12 51 q8 -5 17 -1 t 22 0" stroke="#57CFC0" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+</svg>
+<span style="font-size:17px;font-weight:700;letter-spacing:.01em;color:var(--ink)">Sail<span style="color:var(--accent)">Tropics</span></span>
+</div>
+<div style="font-size:11px;color:var(--muted);margin:0 0 12px;letter-spacing:.08em;text-transform:uppercase">Portolano</div>
   <input id="search" type="search" placeholder="Cerca paese o pagina…">
   <nav id="nav">__NAV__</nav>
 </aside>
