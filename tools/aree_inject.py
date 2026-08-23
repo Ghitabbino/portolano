@@ -166,6 +166,9 @@ def process(html):
                '<div class="paesi-grid">'+gcs+'</div>'+emptyg+'</section>')
     html=html.replace("<main>", "<main>"+home+"\n"+secs+"\n", 1)
 
+zones={}
+for zm in re.finditer(r'data-country="([^"]+/[^"]+)"[^>]*data-page="(p\d+)"[^>]*>([^<]{2,40})<', html):
+    zones.setdefault(zm.group(1),(zm.group(2),zm.group(3).strip()))
     items='<a class="navlink country-link" data-country="" data-page="home" href="#home">\U0001F30D Aree</a>'
     for oid in ORDER:
         kids=[k for k in PAESI if OCEANO_DI.get(k)==oid]
@@ -180,6 +183,10 @@ def process(html):
             items+=('<a class="navlink country-link sub" data-country="'+k+'" data-page="'+pid+'" '
                     'href="#'+pid+'" >'
                     +svg(cc)+' '+nome+'</a>')
+            import html as _h
+            for zk,(zp,zn) in sorted(zones.items()):
+                if zk.split("/")[0]!=k: continue
+                items+=('<a class="navlink country-link zsub" data-country="'+zk+'" data-page="'+zp+'" href="#'+zp+'">'+_h.escape(zn)+'</a>')
     m=re.search(r'<div class="nav-countries">[\s\S]*?</div>', html)
     if m:
         html=html[:m.start()]+'<div class="nav-countries">'+items+'</div>'+html[m.end():]
@@ -205,7 +212,7 @@ def process(html):
       +"if(isOc){vis=(c!==\"caraibi\")&&PAR[k]===c;}"
       +"else if(isGrp){vis=GRP[k]===c.split(\"/\")[1];}"
       +"else{vis=iz?false:(k===c);}}"
-      +"else{vis=isOc?false:(iz?(k===c):(k.split(\"/\")[0]===c));}"
+      +"else{vis=isOc?false:(iz?(k===c):false);}"
       +"l.style.display=vis?\"\":\"none\";"
       +"l.classList.toggle(\"active\",k===c);"
       +"});"

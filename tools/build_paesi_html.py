@@ -309,7 +309,7 @@ function show(id){
     const lk=l.dataset.country;
     let vis=false;
     if(c){
-      if(c.includes('/')) vis=(lk===c);            // dentro zona: solo la sua intestazione
+      if(c.includes('/')) vis=false;             // il nome isola sta nel menu paesi (zsub)
       else vis=(lk.split('/')[0]===root);          // a livello paese: tutte le sue zone
     }
     l.style.display=vis?'':'none';                 // senza paese (Indice): nascoste
