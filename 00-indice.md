@@ -2,7 +2,7 @@
 
 Wiki di navigazione per paese: ingresso, clearance, costi, porti, servizi, stagionalità, sicurezza.
 
-**Metodo**: ogni informazione porta rank di attendibilità + data (+ fonte tra parentesi quando disponibile) → [sistema-fonti.md](sistema-fonti.md).
+**Metodo**: ogni informazione porta rank di attendibilità + data + fonte (quando disponibile) → [sistema-fonti.md](sistema-fonti.md).
 
 ## Paesi
 
