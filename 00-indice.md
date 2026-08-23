@@ -82,4 +82,10 @@ Ultimo controllo completo: **21/08/2026** (creazione v1 Martinica).
 | File | Contenuto |
 |---|---|
 | `fonti/guide_boat.txt` | Guide Boat Clearance 2024 (martinique.gouv.fr) |
-| `fonti/points_clearance.txt` | Lista punti agréé clearance Antille francesi v15/12/2025 (martinique.gouv.fr) |
+| `fonti/points_clearance.txt` | Lista punti agréé clearance Antille francesi v15/12/2025 (martinique.gouv.fr) |  <div class="pcard">
+    <div class="pflag">🇻🇨</div>
+    <a class="pname" href="grenadine/00-ingresso-visti.md">Grenadine</a>
+    <div class="pdesc">Tobago Cays, Bequia, Mustique: reef, mooring e Basil's Bar.</div>
+    <div class="pstat">🚧 v0 — 22/08/2026</div>
+  </div>
+
