@@ -1,5 +1,21 @@
 # 05 — Stagionalità e meteo
 
+## Clima
+
+Tropicale secco, 27–30 °C stabile tutto l'anno; acqua 28 °C. ★★★★
+
+## Venti locali
+
+Clifton (laguna reef) piatta anche con 25 kn; **Chatham Bay esposta a SO**: swell di fondo con passaggi frontali. Accelerazione nel Cano Canouan–Union al mattino. Spot kitesurf di fama mondiale: vento >15 kn il 95% dei giorni da dic a feb. ★★★★
+
+## Finestre tipiche
+
+| Finestra | Vento | Note |
+|---|---|---|
+| Dic–Feb | 20–27 kn | Kite/wing top; dinghy a Clifton vivace |
+| Mar–Mag | 15–20 kn | Round-trip Cays comodo |
+| Giu–Ago | 10–15 kn | Ottimo rapporto vento/folla |
+
 Ultimo aggiornamento: 23/08/2026
 
 Alisei NE dic-giu; stagione umida lug-nov (bordo S della fascia uragani: rischio basso ma reale).

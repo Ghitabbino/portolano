@@ -1,5 +1,21 @@
 # 05 — Stagionalità e meteo
 
+## Clima
+
+Tropicale, 26–30 °C, secco dic–mag; verde tutto l'anno grazie alla rugiada. ★★★
+
+## Venti locali
+
+Alisei NE 15–25 kn; Britannia Bay (sud) ben riparata; **effetto promontorio** a Pasture/Laman: vento raddoppia in pochi metri virando attorno alle punte. Raffiche katabatiche serali dalle colline. ★★★
+
+## Finestre tipiche
+
+| Finestra | Vento | Note |
+|---|---|---|
+| Dic–Feb | 18–25 kn | Christmas Winds: pontili mossi |
+| Mar–Giu | 12–18 kn | Nuoto/snorkel ottimi al mattino |
+| Lug–Ott | variabile | Molti resort chiudono lavori |
+
 Ultimo aggiornamento: 23/08/2026
 
 Alisei NE dic-giu; stagione umida lug-nov (bordo S della fascia uragani: rischio basso ma reale).

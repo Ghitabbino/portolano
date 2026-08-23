@@ -1,5 +1,21 @@
 # 05 — Stagionalità e meteo
 
+## Clima
+
+Tropicale umido sul versante windward: piogge orografiche quasi quotidiane sui morne; costa sud/ovest molto più asciutta. ★★★★
+
+## Venti locali
+
+Canale di Saint Vincent accelerato (**+5–10 kn**) lungo la costa sud tra i promontori; raffiche forti a Wallilabou e Blue Lagoon nel pomeriggio. Squall di stagione umida fino a 35–40 kn con scarso preavviso tra i valloni. ★★★
+
+## Finestre tipiche
+
+| Finestra | Vento | Note |
+|---|---|---|
+| Dic–Apr | 18–25 kn | Navigazione costiera veloce, mare corto |
+| Mag–Lug | 12–18 kn | Migliore per il lato atlantico |
+| Ago–Nov | variabile | Monitorare onde tropicali |
+
 Ultimo aggiornamento: 23/08/2026
 
 Alisei NE dic-giu; stagione umida lug-nov (bordo S della fascia uragani: rischio basso ma reale).

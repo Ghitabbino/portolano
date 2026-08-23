@@ -1,5 +1,21 @@
 # 05 — Stagionalità e meteo
 
+## Clima
+
+Tropicale asciutto, 26–30 °C; il più arido dell'arcipelago dopo le Cays. ★★★
+
+## Venti locali
+
+Alisei NE 15–25 kn; Salt Whistle (nord-ovest) riparata dal **nuovo breakwater** post-Beryl; la costa est è battuta dallo swell atlantico: evitare approcci windward con mare formato. Effetto venturi sui colli centrali. ★★★
+
+## Finestre tipiche
+
+| Finestra | Vento | Note |
+|---|---|---|
+| Dic–Apr | 15–25 kn | Salt Whistle comoda anche con alisei forti |
+| Mag–Lug | 12–18 kn | Migliore tenuta swell ovest |
+| Ago–Ott | <15 kn | Umidità, rovesci mattutini |
+
 Ultimo aggiornamento: 23/08/2026
 
 Alisei NE dic-giu; stagione umida lug-nov (bordo S della fascia uragani: rischio basso ma reale).

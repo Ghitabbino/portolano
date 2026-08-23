@@ -1,5 +1,21 @@
 # 05 — Stagionalità e meteo
 
+## Clima
+
+Tropicale secco al sud delle SVG, 26–30 °C; pioggia minima dic–apr. ★★★★
+
+## Venti locali
+
+Alisei NE 15–25 kn; **accelerazione nel Cano tra Canouan e Union** (Canouan Passage): +5–8 kn rispetto al largo. Lato atlantico (Charlestown est) con mare mosso; Grand Bay riparata. Squall da ENE visibili all'orizzonte con anticipo. ★★★
+
+## Finestre tipiche
+
+| Finestra | Vento | Note |
+|---|---|---|
+| Dic–Feb | 20–25 kn | Trasferimenti veloci, raffiche passaggio |
+| Mar–Mag | 15–20 kn | Ideale Cays + Mayreau |
+| Giu–Ago | 10–15 kn | Meno barche, prezzi giù |
+
 Ultimo aggiornamento: 23/08/2026
 
 Alisei NE dic-giu; stagione umida lug-nov (bordo S della fascia uragani: rischio basso ma reale).

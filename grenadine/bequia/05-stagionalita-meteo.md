@@ -1,5 +1,22 @@
 # 05 — Stagionalità e meteo
 
+## Clima
+
+Tropicale marittimo, 26–30 °C tutto l'anno; stagione secca dic–mag. ★★★★
+
+## Venti locali
+
+Alisei NE 15–25 kn in stagione; **Christmas Winds** fino a 25 kn dic–feb.
+Admiralty Bay aperta a NE: raffiche discendenti dai colli nelle ore pomeridiane; ancoraggi sud (Princess Margaret, Lower Bay) più miti. ★★★
+
+## Finestre tipiche
+
+| Finestra | Vento | Note |
+|---|---|---|
+| Gen–Mar | 18–25 kn | Ottimo sailing, baie affollate |
+| Apr–Giu | 12–18 kn | Il migliore compromesso |
+| Set–Ott | 10–15 kn | Caldo umido, rischio uragani basso ma reale |
+
 Ultimo aggiornamento: 23/08/2026
 
 Alisei NE dic-giu; stagione umida lug-nov (bordo S della fascia uragani: rischio basso ma reale).

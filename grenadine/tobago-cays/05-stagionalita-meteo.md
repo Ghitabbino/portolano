@@ -1,5 +1,21 @@
 # 05 — Stagionalità e meteo
 
+## Clima
+
+Tropicale arido, 27–31 °C; nessuna fonte d'acqua dolce, sole costante. ★★★★
+
+## Venti locali
+
+Dentro Horseshoe Reef alisei costanti 15–25 kn con mare piatto; **il passaggio (cut) tra Petit Rameau e Petit Bateau canalizza**: raffiche e correnti incrociate in ingresso. Swell atlantico sentito solo sui mooring esterni. ★★★
+
+## Finestre tipiche
+
+| Finestra | Vento | Note |
+|---|---|---|
+| Dic–Mar | 18–25 kn | Snorkel migliore a mattino presto |
+| Apr–Giu | 12–18 kn | Massima trasparenza acqua |
+| Set–Ott | <15 kn | Calafreddo: park quasi deserto |
+
 Ultimo aggiornamento: 23/08/2026
 
 Alisei NE dic-giu; stagione umida lug-nov (bordo S della fascia uragani: rischio basso ma reale).
