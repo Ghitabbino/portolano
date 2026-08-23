@@ -126,7 +126,7 @@ def process(html):
 
     cards=""
     for oid in ORDER:
-        kids=[k for k in PAESI if OCEANO_DI.get(k)==oid]
+        kids=sorted([k for k in PAESI if OCEANO_DI.get(k)==oid], key=lambda s: PAESI[s][1])
         dsc = ("Grandi Antille, Sopravento Settentrionali e Meridionali, Sottovento, Lucayano, Centro America"
                if oid=="caraibi" else
                ", ".join(PAESI[k][1] for k in kids) if kids else "in preparazione")
@@ -156,7 +156,7 @@ def process(html):
     # pagine dei 6 gruppi caraibici
     for gid,gicon,gname,members in GRUPPI:
         gcs=""
-        for slug in members:
+        for slug in sorted(members, key=lambda s: PAESI.get(s, ("","","","",s))[1]):
             if slug in PAESI:
                 cc=PAESI[slug][0]
                 gcs+=pcard("#"+pid_of.get(slug,"#"), flag_html(cc), PAESI[slug][1], PAESI[slug][2], PAESI[slug][3])
