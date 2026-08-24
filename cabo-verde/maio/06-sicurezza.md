@@ -1,47 +1,68 @@
 # 06 — Sicurezza
 
-Ultimo aggiornamento: 22/08/2026 · Valutazione arcipelago: **4/5**. Maio è tra le isole più tranquille.
+**Ultima verifica completa: 24/08/2026** · Prossimo controllo mensile: **24/09/2026**
 
-## In rada / al porto
+## Valutazione sicurezza: **3 / 5**
 
-- Nessuna segnalazione recente di aggressioni a yachts. ★★★
-- Piccoli furti opportunistici possibili: dinghy e motorino fuori bordo non incustoditi su spiagge/moli.
-- Con swell S la rada si svuota: controllare l'ancora, nessuno si accorgerebbe di una deriva notturna.
+| Aspetto | Voto | Motivazione |
+|---|---|---|
+| Sicurezza personale (turisti/crocieristi) | 3/5 | Borseggi/aggressioni isolate in città (Praia/Mindelo) di notte; nessuna violenza sistematica su velisti ★★ |
+| Furti materiali a bordo | 2/5 | Dinghy/fuoribordo a rischio se lasciati incustoditi di notte ★★ |
+| Contesto generale isola maio | 3/5 | Isola tranquilla di giorno; precauzioni notturne standard |
 
-## A terra
+*Scala 0=terribile → 5=molto sicuro.*
 
-- Vila do Maio tranquilla anche la sera; popolazione piccola e socievole.
-- Precauzioni standard: non lasciare oggetti in vista nella dinghy, chiudere la barca.
-
-## Salute
-
-- Centro di salute base in vila; casi seri = evacuazione a Praia (aereo o ferry).
-
-## Emergenze
-
-112 · Polícia Marítima via VHF 16.
-
-Ultimo aggiornamento: 22/08/2026
-
-Valutazione sicurezza
 ## Quadro generale
-## Posti sicuri
-## Salvataggio ed emergenze
-## Monitoraggio mensile
-Ultimo aggiornamento: 22/08/2026
 
-## Salvataggio ed emergenze
+- Advisory UK/CA: adottare normali precauzioni, evitare zone isolate di notte, spiagge deserte dopo tramonto. ★★★★
+- Mindelo/Praia: episodi di furto con destrezza; Brava/Maio/São Nicolau molto tranquille. ★★
+- Nessun attacco armato a velisti documentato nelle fonti aggregate ultimi 5 anni su maio. ★★
+
+## Posti sicuri / da evitare
+
+### ✅ Posti sicuri
+| Zona | Note |
+|---|---|
+| Porto/marina di giorno | Presidiato, passaggio frequente |
+| Centro cittadino di giorno | Vivace, attenzione solo a borseggi |
+| Ancoraggio con altre barche | Effetto gruppo |
+
+### ⛔ Attenzione
+| Zona | Rischio |
+|---|---|
+| Spiagge isolate di notte | Evitare |
+| Quartieri periferici poco illuminati | Evitare a piedi di notte, usare taxi |
+| Dinghy lasciato in spiaggia di notte | Furto possibile |
+
+## Furti ai danni dei crocieristi
+
+- Nessun database CSSN specifico per maio; casi sporadici di furto dinghy riportati su forum naviganti. Contromisure: catena + lucchetto, motore bloccato, dinghy sollevato di notte, nulla in vista. ★★
+
+## A bordo e a terra
+
+| Rischio | Contromisura |
+|---|---|
+| Borseggio mercato | Marsupio interno, copie documenti |
+| Truffe taxi | Concordare prezzo prima |
+| Navigazione notturna | Nasse/pesca artigianale poco segnalata: watch continuo |
+
+## Numeri di emergenza
 
 | Emergenza | Numero |
 |---|---|
+| Numero unico | **112** |
 | Polizia | **132** |
-| Ambulanza / medico | **130** |
+| Ambulanza | **130** |
 | Vigili del fuoco | **131** |
-| Protezione civile | 800 11 12 |
-| SAR marittimo | **VHF 16** · São Vicente Radio (D4A) ascolto continuo · tel +238 232 2158 |
-| JRCC Cabo Verde (SPOC) | **+238 232 5555** · jrcc.cv@gmail.com [elenco SAR ufficiale ★★★★] |
-| SAR marittimo | **VHF 16** · MRCC Praia [+238 232 5555](tel:+2382325555) | ★★★★ |
+| SAR marittimo | **VHF 16** · São Vicente Radio D4A · JRCC +238 232 5555 |
 
-[numerazioni ufficiali verificate]
+## Monitoraggio mensile sicurezza
 
-Ultimo aggiornamento: 22/08/2026
+| # | Fonte | Cosa cercare |
+|---|---|---|
+| 1 | thecssn.org | Furti a velisti |
+| 2 | voyage.gc.ca / gov.uk / diplomatie.gouv.fr | Variazioni advisory |
+| 3 | Stampa locale (A Semana, Inforpress) | Cronaca |
+| 4 | Forum naviganti / FB Cruisers Cabo Verde | Avvisi rapidi |
+
+Ultimo aggiornamento: 24/08/2026

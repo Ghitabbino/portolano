@@ -1,37 +1,43 @@
 # 05 — Stagionalità e meteo
 
-Ultimo aggiornamento: 22/08/2026 · Fuori dalla fascia uragani. Il cono del **Pico do Fogo (2.829 m, secondo vulcano dell'Atlantico dopo il Teide)** genera un microclima tutto suo. ★★★
+**Ultima verifica: 24/08/2026** · Capo Verde è **fuori dalla fascia uragani**: nessun ciclone diretto documentato.
+
+## Clima
+
+- Temperatura **23–28 °C** tutto l'anno, escursione ridotta; acqua 22–26 °C. ★★★
+- Aliseo NE dominante, più forte dic–giu; harmattan polveroso dic–feb. ★★★
 
 ## Stagioni
 
-| Periodo | Regime |
+| Periodo | Caratteristiche |
 |---|---|
-| Nov–Giu | Aliseo NE 15–25 kn: lato E dell'isola battuto e coperto di nubi; lato W più riparato dal vento ma esposto allo swell |
-| Ago–Ott | Piogge nell'interno; finestre di calma marittima più frequenti |
-| Dic–Feb | Harmattan possibile; sulla cima temperature vicine a 0 °C |
+| **Nov–Giu** | Aliseo NE 15–25 kn, asciutto, mare formato nei canali: **migliore per navigare** |
+| **Dic–Feb** | Harmattan E/NE con polvere sahariana, visibilità ridotta ★★ |
+| **Lug–Ott** | Caldo umido, alisei deboli, qualche pioggia (ago–ott), bonacce possibili |
 
-## Fenomeni locali da conoscere
+## Uragani
 
-- **Katabatiche**: raffiche discendenti dal cono nelle prime ore della notte anche con aliseo moderato.
-- **Swell W**: il lato "riparato" dall'aliseo prende l'oceano aperto — è il motivo per cui gli ancoraggi sono raramente comodi.
-- **Eruzioni**: l'ultima (nov 2014 – feb 2015) seppellì le frazioni di Portela e Bangaeira a Chã das Caldeiras; i villaggi furono ricostruiti. Il vulcano è attivo e monitorato: in caso di allerta seguire solo le indicazioni ufficiali.
+Fuori dalla *main hurricane belt*; rischio cicloni quasi nullo, ma onde lunghe da uragani caraibici possibili set–ott. ★★★
 
-## Finestre di navigazione
-
-| Tratta | Finestra consigliata |
-|---|---|
-| Brava → Fogo | Partenza all'alba con aliseo <15 kn; mare corto tra le due isole |
-| Fogo → Praia | Poppiera/traverso facile quasi sempre |
-
-Ultimo aggiornamento: 22/08/2026
-
-## Clima
 ## Venti locali
-## Finestre tipiche
-## Link meteo### Siti meteo locali
 
-- [INMG Cabo Verde](http://www.inmg.gov.cv) — Istituto Nazionale Meteorologia e Geofisica, ufficiale ⚠️ sito talvolta lento ★★★
-- [Windguru Cabo Verde](https://www.windguru.cz/253) — Mindelo/São Vicente ★★★
-- [Windy Capo Verde](https://www.windy.com/16.0/-24.0) ★★★
-- Harmattan (dic–feb): polvere sahariana → visibilità ridotta, monitorare [CAMs Copernicus](https://atmosphere.copernicus.eu) ★★★
-Ultimo aggiornamento: 22/08/2026
+- Accelerazioni tra le isole (effetto Venturi nei canali): +5–10 kn vs vento sinottico. ★★
+- Brezze termiche costiere pomeridiane su isole alte (Santo Antão, Fogo, São Nicolau). ★★
+
+## Finestre tipiche
+
+| Tratta | Finestra |
+|---|---|
+| Tra le isole Barlavento | Partenza all'alba, aliseo <20 kn |
+| Verso Caraibi (ARC+) | Nov–gen da Mindelo/Sal |
+| Sotavento (Santiago–Fogo–Brava) | Bolina lunga, meglio con aliseo moderato |
+
+## Link meteo e carte locali
+
+- [INMG Cabo Verde](http://www.inmg.gov.cv) ★★★ — ufficiale
+- [Windguru fogo](https://www.windguru.cz) ★★★
+- [Windy](https://www.windy.com) · [PassageWeather](http://www.passageweather.com) ★★★
+- [NOAA NHC](https://www.nhc.noaa.gov) per stagione uragani atlantici ★★★★★
+- Polvere sahariana: [Copernicus CAMS](https://atmosphere.copernicus.eu) ★★★
+
+Ultimo aggiornamento: 24/08/2026

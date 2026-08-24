@@ -287,7 +287,8 @@ def process(html):
            ".crumbs{font-size:12px;color:var(--muted,#8899aa);margin:0 0 6px}"
           ".crumbs a{color:var(--accent,#3fa7ff);text-decoration:none}"
           ".crumbs b{color:inherit}</style>",1)
-    html=re.sub(r"show\('p1'\)","show('home')",html,count=1)
+    html=re.sub(r"show\\('p1'\\)","show('home')",html,count=1)
+    html=html.replace("<script>","<script>window.onerror=function(m,s,l,c){var d=document.createElement('pre');d.style.cssText='position:fixed;top:0;left:0;z-index:99999;background:#900;color:#fff;padding:8px;font:12px monospace';d.textContent='JSERR '+m+' @riga '+l;document.body.appendChild(d);};",1)
     return html
 
 for fn in [ROOT/"paesi.html", ROOT/"paesi-mobile.html"]:

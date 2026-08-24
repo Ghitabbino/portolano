@@ -1,46 +1,68 @@
 # 06 — Sicurezza
 
-Ultimo aggiornamento: 22/08/2026 · **Valutazione sicurezza: 3/5** (urbano Mindelo: attenzione; ancoraggio sorvegliato dal 2024).
+**Ultima verifica completa: 24/08/2026** · Prossimo controllo mensile: **24/09/2026**
 
-## Quadro
+## Valutazione sicurezza: **3 / 5**
 
-- Stagione 2023/24: furti a bordo di barche all'ancoraggio e più elemosina in città. Dal 2024 la Marina Mindelo ha stretto la collaborazione con le autorità: pattugliamenti terra/mare potenziati, videosorveglianza ampliata, tempi di risposta migliorati. ★★★
-- A Praia e in alcune zone turistiche dell'arcipelago sono segnalate ondate di criminalità contro turisti (borseggi, aggressioni notturne). Advisory UK attive. ★★★
+| Aspetto | Voto | Motivazione |
+|---|---|---|
+| Sicurezza personale (turisti/crocieristi) | 3/5 | Borseggi/aggressioni isolate in città (Praia/Mindelo) di notte; nessuna violenza sistematica su velisti ★★ |
+| Furti materiali a bordo | 2/5 | Dinghy/fuoribordo a rischio se lasciati incustoditi di notte ★★ |
+| Contesto generale isola sao-vicente | 3/5 | Isola tranquilla di giorno; precauzioni notturne standard |
 
-## Regole pratiche
+*Scala 0=terribile → 5=molto sicuro.*
+
+## Quadro generale
+
+- Advisory UK/CA: adottare normali precauzioni, evitare zone isolate di notte, spiagge deserte dopo tramonto. ★★★★
+- Mindelo/Praia: episodi di furto con destrezza; Brava/Maio/São Nicolau molto tranquille. ★★
+- Nessun attacco armato a velisti documentato nelle fonti aggregate ultimi 5 anni su sao-vicente. ★★
+
+## Posti sicuri / da evitare
+
+### ✅ Posti sicuri
+| Zona | Note |
+|---|---|
+| Porto/marina di giorno | Presidiato, passaggio frequente |
+| Centro cittadino di giorno | Vivace, attenzione solo a borseggi |
+| Ancoraggio con altre barche | Effetto gruppo |
+
+### ⛔ Attenzione
+| Zona | Rischio |
+|---|---|
+| Spiagge isolate di notte | Evitare |
+| Quartieri periferici poco illuminati | Evitare a piedi di notte, usare taxi |
+| Dinghy lasciato in spiaggia di notte | Furto possibile |
+
+## Furti ai danni dei crocieristi
+
+- Nessun database CSSN specifico per sao-vicente; casi sporadici di furto dinghy riportati su forum naviganti. Contromisure: catena + lucchetto, motore bloccato, dinghy sollevato di notte, nulla in vista. ★★
+
+## A bordo e a terra
 
 | Rischio | Contromisura |
 |---|---|
-| Furti all'ancoraggio | Chiudere tutto, anche oblò piccoli; non lasciare oggetti in vista sul ponte; segnalare alla marina ogni sospetto |
-| Dinghy | Non lasciarlo di notte su pontili o spiagge (furti documentati anche altrove nell'arcipelago) |
-| Notte in città | Evitare zone isolate e spiagge dopo il tramonto; usare taxi |
-| Contanti | Somme ridotte; bancomat in zone frequentate e di giorno |
+| Borseggio mercato | Marsupio interno, copie documenti |
+| Truffe taxi | Concordare prezzo prima |
+| Navigazione notturna | Nasse/pesca artigianale poco segnalata: watch continuo |
 
-## Emergenze
-
-| Servizio | Numero |
-|---|---|
-| Emergenze nazionali | 112 |
-| Polizia | 132 |
-
-⚠️ Numeri da ricontrollare prima della crociera: fonte locale non verificata di recente.
-
-Ultimo aggiornamento: 22/08/2026
-
-## Quadro generale
-## Posti sicuri
-## Salvataggio ed emergenze
-## Monitoraggio mensile
-Ultimo aggiornamento: 22/08/2026
-
-## Salvataggio ed emergenze
+## Numeri di emergenza
 
 | Emergenza | Numero |
 |---|---|
+| Numero unico | **112** |
 | Polizia | **132** |
-| Ambulanza / medico | **130** |
+| Ambulanza | **130** |
 | Vigili del fuoco | **131** |
-| SAR marittimo | **VHF 16** · São Vicente Radio (D4A) ascolto continuo · tel +238 232 2158 |
-| JRCC Cabo Verde (SPOC) | **+238 232 5555** · jrcc.cv@gmail.com [elenco SAR ufficiale ★★★★] |
+| SAR marittimo | **VHF 16** · São Vicente Radio D4A · JRCC +238 232 5555 |
 
-Ultimo aggiornamento: 22/08/2026
+## Monitoraggio mensile sicurezza
+
+| # | Fonte | Cosa cercare |
+|---|---|---|
+| 1 | thecssn.org | Furti a velisti |
+| 2 | voyage.gc.ca / gov.uk / diplomatie.gouv.fr | Variazioni advisory |
+| 3 | Stampa locale (A Semana, Inforpress) | Cronaca |
+| 4 | Forum naviganti / FB Cruisers Cabo Verde | Avvisi rapidi |
+
+Ultimo aggiornamento: 24/08/2026

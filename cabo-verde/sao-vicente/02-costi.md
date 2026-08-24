@@ -1,42 +1,55 @@
 # 02 — Costo della vita
 
-Ultimo aggiornamento: 22/08/2026 · Valuta: **escudo (CVE)**, cambio fisso ≈ 110,26 CVE = 1 EUR · l'euro è accettato in molte attività turistiche ma il resto arriva in CVE.
+**Ultimo aggiornamento: 24/08/2026** · Valuta **CVE** (110,26 CVE = 1 EUR) · Mindelo riferimento arcipelago, prezzi medi, marina con servizi a pagamento.
 
-⚠️ Voci con (da confermare in loco) vengono ricercate al controllo mensile.
-
-## Marina e ormeggi
+## Alimentari e spesa di bordo
 
 | Voce | Prezzo indicativo | Note |
 |---|---|---|
-| Posto barca Marina Mindelo | (da confermare in loco) |Tariffa a mq; acqua/elettricità/WiFi spesso escluse dal canone base ★★★|
-| Ancoraggio Porto Grande | Gratuito |Boe/dinghy dock a pagamento presso la marina (~4 €/giorno segnalato per il dinghy) ★★|
+| Birra Strela 0,33 l supermercato | 100–150 CVE (~0,9–1,4 €) | ★★ |
+| Birra al bar | 200–250 CVE (~1,8–2,3 €) | ★★ |
+| Baguette/pane | 60–100 CVE | Forni centro ★★ |
+| Acqua 1,5 l | 80–120 CVE | ★★ |
+| Pollo 1 kg | 600–900 CVE | Variabile ★★ |
+| Riso 1 kg | 150–250 CVE | ★★ |
 
-## Vitto e quotidiano
+## Mangiare fuori
 
-| Voce | Prezzo indicativo | Note |
+| Voce | Prezzo |
+|---|---|
+| Cachupa / pesce del giorno | 500–900 CVE ★★ |
+| Ristorante medio Mindelo | 1.000–2.000 CVE |
+| Snack pastéis | 100–200 CVE |
+
+## Carburanti
+
+| Voce | Prezzo | Note |
 |---|---|---|
-| Pasto ristorante locale | Moderato, sotto i livelli UE |Cucina crioula: catchupa, pesce fresco ★★|
-| Birra locale al bar | (da confermare in loco) | Stessa (birra nazionale) |
-| Mercato municipale di Mindelo | Economico |Verdure/frutta importate o locali, prezzi variabili ★★|
-| Lavanderia (servizio marina) | Concorrenziale vs self-service UE |Ritiro ore 10, consegna ore 17 stesso giorno, qualità buona ★★|
-| SIM prepagata CV Movel/Unitel T+ | ~50 € per 15 GB (resoconto 2023) |Rivenditori vicino alla marina; rete a volte lenta ★★|
+| Gasolio marina dock | 95–115 CVE/l | Prezzo regolato ★★★ |
+| Benzina | 120–140 CVE/l | |
+| Bombola gas LPG | **DATO MANCANTE** | Via reception marina |
+| Acqua pontile | ~2 US $/100 l | Marina Mindelo ★★★ |
 
-## Carburante
+## Trasporti
 
-| Voce | Prezzo indicativo | Note |
-|---|---|---|
-| Gasolio marina dock | (da confermare in loco) | Disponibile alla marina; listino da verificare in reception |
-| Bombola gas (LPG) | (da confermare in loco) |Ricariche gestite via marina ★★★|
+| Voce | Prezzo |
+|---|---|
+| Taxi urbano Mindelo | 150 CVE giorno / 200 notte; 200/250 centro–periferia ★★★ |
+| Taxi aeroporto–Mindelo | 1.000–1.100 CVE |
+| Aluguer urbano | 100–150 CVE |
+| Yasi Baía das Gatas | ~150 CVE |
+
+## Servizi quotidiani
+
+| Voce | Prezzo |
+|---|---|
+| Lavanderia marina (ritiro 10 consegna 17) | 500–800 CVE/kg ★★ |
+| SIM Unitel/CVMovel 10 GB | ~2.000 CVE |
+| WiFi marina pacchetto | 500 CVE/giorno |
+| Lavaggio scafo | **DATO MANCANTE** |
 
 ## Contanti e pagamenti
 
-Contante indispensabile nei mercati, tassi e piccoli negozi; carte accettate in marina, hotel e ristoranti turistici. Bancomat presenti in centro Mindelo.
+CVE indispensabili per mercati/aluguer; euro accettati con resto in CVE. Bancomat in centro Mindelo. Carte in marina/hotel ristoranti turistici.
 
-Ultimo aggiornamento: 22/08/2026
-
-## Alimentari
-## Mangiare fuori
-## Carburanti
-## Trasporti
-## Servizi quotidiani
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 24/08/2026

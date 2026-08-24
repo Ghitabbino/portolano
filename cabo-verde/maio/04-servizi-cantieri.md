@@ -1,25 +1,27 @@
 # 04 — Servizi, cantieri e manutenzione
 
-Ultimo aggiornamento: 22/08/2026 · Onesto fin dall'inizio: **a Maio non esistono servizi nautici**. L'isola si visita da diporto, non per fermarsi a lavorare sulla barca.
-
-| Servizio | Situazione |
-|---|---|
-| Marina/pontoni | Nessuno |
-| Cantiere/travel lift | Nessuno |
-| Meccanica navale | Nessun tecnico dedicato; qualche meccanico auto/diesel generico |
-| Fuel | Distributori stradali in Vila do Maio; jerrycan e carrello a mano fino alla spiaggia |
-| Gas (LPG) | Ricarica bombolle locali possibile con adattatori improvvisati |
-| Ricezione pezzi | Solo via ferry da Praia: tempi incerti |
-
-## Strategia
-
-- Qualunque guasto serio = tornare a Praia o Mindelo.
-- Ancoraggio con swell S: controllare l'ancora due volte al giorno; le notti rollanti logorano gavetti e connessioni.
-
-Ultimo aggiornamento: 22/08/2026
+**Ultima verifica: 24/08/2026** · maio: servizi essenziali, per lavori importanti andare a Mindelo.
 
 ## Hub tecnico
-## Gas e bombole
-## Acqua dolce
+
+Nessun travelift/cantiere turistico a maio; alaggio solo per pescherecci locali. **DATO MANCANTE** per gru vela verificata.
+
+## Servizi disponibili
+
+| Servizio | Dove | Note |
+|---|---|---|
+| Carburante | Porto principale distributore | Prezzo regolato 95–115 CVE/l |
+| Acqua | Banchina porto | Razionata, chiedere capitania |
+| Gas LPG | Negozi capoluogo | Scambio bombole, disponibilità variabile |
+| Elettricità | **DATO MANCANTE** | Banchina pescherecci se disponibile |
+| Meccanica | Artigiani locali su richiesta | **DATO MANCANTE** — chiedere in capitania/porto |
+
+## Artigiani
+
+**DATO MANCANTE** — nessun contatto verificato stabile fuori Mindelo; passaparola locale via marina/porto.
+
 ## Note strategiche
-Ultimo aggiornamento: 22/08/2026
+
+Portare ricambi critici da Mindelo/Praia o dalle Canarie; tempi di approvvigionamento lunghi.
+
+Ultimo aggiornamento: 24/08/2026

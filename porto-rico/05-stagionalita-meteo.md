@@ -29,6 +29,13 @@
 - Fajardo→Culebra/Vieques: traversata breve (17–20 M) fattibile quasi ogni giorno con aliseo ≤20 kn; preferibile partenza mattutina. ★★★★
 - Porto Rico→USVI/BVI verso est: bolina con aliseo — finestra migliore con aliseo moderato (<18 kn) e assenza di onda lunga da E. ★★★
 
+## Cartografia e risorse locali
+
+| Carta | Copertura |
+|---|---|
+| NOAA ENC US5PR01M / Coast Pilot 5 | Porto Rico e Isole Vergini — ufficiale USA ★★★★★ |
+| NV Charts / Imray | Arc caraibico — alternativa plaisance |
+
 ## Link meteo ufficiali e utili
 
 | Risorsa | Uso |

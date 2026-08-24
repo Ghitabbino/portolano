@@ -5,10 +5,10 @@
 ## New Providence (Nassau) — hub principale
 
 ### Hurricane Hole Superyacht Marina — Paradise Island ⚓ base uragani
-- **25°04.700'N 077°19.180'W** · **VHF 16 & 11** · hurricaneholemarina.com ★★★★★
+- **25°04.700'N 077°19.180'W** · **VHF 16 & 11** · hurricaneholemarina.com · tel marina **242-363-3798** (da verificare) ★★★★★
 - **MLW 14,5 ft (4,4 m)**, **LOA max 420 ft (128 m)**, **54 slips** mega-yacht, bunkeraggio, 480V/240V, **riparo ciclonico** certificato (Hurricane Hole = buco per uragani) ★★★★★
 - Tariffa: **$4,50–6,00 / ft / notte** secondo LOA e stagione ★★★★
-- Fuel dock **7:30–17:30**, acqua RO, Sawyer's Fresh Market a piedi. ★★★★
+- Fuel dock **7:30–17:30**, acqua RO **$0,20–0,25/gal**, **Sawyer's Fresh Market dentro marina a piedi (0 m)** — per spesa grossa taxi 15–25 min a **Solomon's Harbour Bay 242-605-5130** / Old Fort 242-677-7280 con delivery (vedi [07](07-provvisioning.md)) ★★★★
 - Clearance: **Nassau Harbour Control VHF 16 — H24** per tutte le marine di Nassau. ★★★★★
 
 ### Atlantis Marina — Paradise Island
@@ -34,7 +34,7 @@
 ## Abacos
 
 ### Abaco Beach Resort & Boat Harbour Marina — Marsh Harbour
-- **Marsh Harbour** · **198 slips** · **$3–4 / ft / notte** · hub Abacos, fuel, Maxwells supermarket vicino ★★★★
+- **Marsh Harbour** · **198 slips** · **$3–4 / ft / notte** · hub Abacos, fuel, **Maxwell's Supermarket a 400–800 m a piedi (5–10 min) — tel 242-367-2648 DATO MANCANTE aggiornato, delivery su richiesta** (vedi [07](07-provvisioning.md)) ★★★★
 
 ### Green Turtle Club & Marina — Green Turtle Cay ⚓ Porto d'ingresso
 - **Green Turtle Cay** · **Port of Entry** · **$3,00 / ft circa** · dogana, fuel, ristorante ★★★★
@@ -58,13 +58,13 @@
 ## Exumas — la catena più ambita dai crocieristi
 
 ### Highbourne Cay Marina ⚓ Resort privata
-- **Highbourne Cay, Northern Exumas** · **Port of Entry** · **$5–7 / ft + $30 resort fee / giorno** · **40 slips**, acqua RO cara, shop limitato, bellissima sosta nord Exumas ★★★★
+- **Highbourne Cay, Northern Exumas** · **Port of Entry** · **$5–7 / ft + $30 resort fee / giorno** · **40 slips**, acqua RO cara **$0,40–0,50/gal**, **Marina Shop 0 m** — assortimento limitato, caro (pane/lattine/ghiaccio) tel 242-355-1009 (vedi [07](07-provvisioning.md)) ★★★★
 
 ### Staniel Cay Yacht Club
-- **Staniel Cay, Central Exumas** · **Port of Entry** · **$4–6 / ft** · fuel, ristorante famoso, **mooring $35** davanti ★★★★
+- **Staniel Cay, Central Exumas** · **Port of Entry** · **$4–6 / ft** · fuel, ristorante famoso, **mooring $35** davanti · **Shop 100 m in marina + Isles General Store** — essenziale, caro — tel SCYC 242-355-2024 ★★★★
 
 ### Exuma Yacht Club — George Town ⚓ Capitale Exumas
-- **George Town, Great Exuma** · **Port of Entry** · **$2,50–4,00 / ft** · fuel, provisioning (Exuma Markets), lavanderia ★★★★
+- **George Town, Great Exuma** · **Port of Entry** · **$2,50–4,00 / ft** · fuel, **Exuma Markets 200–400 m dal dinghy dock — tel 242-336-2658/2401 DATO MANCANTE, delivery golf-cart**, lavanderia ★★★★
 
 ### Compass Cay Marina
 - **Compass Cay** · **mooring $35 / notte** · famosa per gli squali nutrice al molo ★★★

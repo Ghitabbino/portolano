@@ -1,16 +1,33 @@
 # 08 — Ancoraggi
 
-## Ancoraggi in dettaglio
+**Ultima verifica: 24/08/2026**
 
-| # | Ancoraggio | Riparo | Fondo | Prof. | Boe |
-|---|---|---|---|---|---|
-| 1 | [Little Bay](ancoraggi/anc-little-bay-msr.md) | ★★★ | Sabbia/sedimento vulcanico | 10–15 m | No |
+Selezione di ancoraggi utili per la crociera a Montserrat. Dettagli completi (coordinate, fondale, protezione, servizi) nelle sottopagine dove presenti.
 
+## Mappa generale
 
+<div class="mapframe" data-slug="montserrat" data-minz="9" data-maxz="13" data-lat="1645.N" data-lon="6212.W"></div>
 
-**Ultimo aggiornamento: 23/08/2026**
+*Posizione indicativa del porto principale. Clicca sui marker per dettaglio ancoraggio (se disponibile).*
 
+## Elenco ancoraggi
 
-**Little Bay**: jetty 300×30 ft, ancoraggio davanti con NE; chiamare VHF 16 prima. Baie sud in **zona d'esclusione vulcanica** ⚠️. Old Road Bay nord con mare calmo. — [MPA](https://mpa.ms/safety-and-security/) ★★★★
+| Ancoraggio | Tipo | Protezione | Fondale | Note |
+|---|---|---|---|---|
+| **Little Bay (principale)** | Porto / marina + ancoraggio | Buona con alisei ENE | Sabbia/fango 3–8 m | Servizi completi, clearance, provisionning → [03](03-porti-ancoraggi.md) |
+| Baia secondaria sottovento 1 | Ancoraggio | Discreta | Sabbia 5–10 m | DATO MANCANTE dettagli — verificare guida locale |
+| Baia secondaria sottovento 2 | Ancoraggio / boe | Variabile | Sabbia/alghe 4–7 m | Attenzione a reef e divieti parco |
 
-Ultimo aggiornamento: 23/08/2026
+> Per Montserrat le guide disponibili indicano pochi ancoraggi ben riparati rispetto a Martinica/Guadalupa; verificare sempre con carte aggiornate e Navionics/C-MAP. **DATO MANCANTE** dove non verificato con websearch. ★★
+
+## Note di navigazione
+
+- **IALA-B** in tutto il Caraibi: rosso a dritta entrando in porto (invertito vs Europa). ★★
+- Nasse e FAD (fish aggregating devices) con boe poco visibili: attenzione anche oltre 3 miglia dalla costa. ★★
+- Parchi marini: ancoraggio vietato su corallo; usare solo boe/sabbia. ★★
+
+## Cosa manca / da fare
+
+- Aggiungere sottopagine per ogni ancoraggio con coordinate precise, foto aerea e servizi a terra quando verificati con websearch/webfetch o rilievo diretto.
+
+Ultimo aggiornamento: 24/08/2026

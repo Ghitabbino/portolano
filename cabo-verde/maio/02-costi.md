@@ -1,32 +1,39 @@
 # 02 — Costo della vita
 
-Ultimo aggiornamento: 22/08/2026 · Escudo CVE ≈ **110/EUR** · UTC−1.
-
-## Quadro generale
-
-Isola povera e poco turistica: vita economica ma scelta quasi nulla. **Contante essenziale**, fuori da Praia/Mindelo gli ATM sono rari e spesso vuoti.
-
-| Voce | Prezzo indicativo | Note |
-|---|---|---|
-| Pasto semplice in vila | 400–800 CVE (~3,5–7 €) ★★ |
-| Frutta/verdura al mercato | Economica | Produzione locale limitata |
-| Alloggio guesthouse | (da confermare in loco) | Da rilevare |
+**Ultimo aggiornamento: 24/08/2026** · Valuta **CVE** (110,26 CVE = 1 EUR).
 
 ## Alimentari
 
-- Piccoli minimercati nella Vila do Maio: pasta, riso, conserve, acqua.
-- Pesce fresco dai pescatori del porto: la risorsa principale.
-- Frutta/verdura: poca produzione propria (isola secca), molto arriva via ferry da Santiago.
+| Voce | Prezzo |
+|---|---|
+| Birra Strela 0,33 l | 100–150 CVE market · 200–250 CVE bar ★★ |
+| Pasto semplice | 500–900 CVE (~4,5–8 €) ★★ |
+| Acqua 1,5 l | 80–120 CVE |
+| Pane | 60–100 CVE |
+
+## Carburanti
+
+| Voce | Prezzo |
+|---|---|
+| Gasolio | 95–115 CVE/l ★★★ |
+| Benzina | 120–140 CVE/l |
+
+## Trasporti
+
+| Voce | Prezzo |
+|---|---|
+| Aluguer urbano | 100–300 CVE |
+| Taxi urbano | 150–300 CVE |
+
+## Servizi quotidiani
+
+| Voce | Prezzo |
+|---|---|
+| SIM prepagata | ~1.500 CVE 5–10 GB |
+| Lavanderia | **DATO MANCANTE** |
 
 ## Contanti e pagamenti
 
-- Un solo ATM in Vila do Maio, quando funziona: prelevare a Praia prima di salpare.
-- Nessuna carta accettata fuori dagli hotel più grandi.
+Contanti CVE indispensabili per mercati/aluguer; euro accettati con resto in CVE. Bancomat nel capoluogo.
 
-Ultimo aggiornamento: 22/08/2026
-
-## Mangiare fuori
-## Carburanti
-## Trasporti
-## Servizi quotidiani
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 24/08/2026

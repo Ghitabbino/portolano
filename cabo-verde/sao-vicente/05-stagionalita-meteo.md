@@ -1,40 +1,43 @@
 # 05 — Stagionalità e meteo
 
-Ultimo aggiornamento: 22/08/2026 · Capo Verde è **fuori dalla fascia uragani**: nessun ciclone diretto documentato sull'arcipelago.
+**Ultima verifica: 24/08/2026** · Capo Verde è **fuori dalla fascia uragani**: nessun ciclone diretto documentato.
+
+## Clima
+
+- Temperatura **23–28 °C** tutto l'anno, escursione ridotta; acqua 22–26 °C. ★★★
+- Aliseo NE dominante, più forte dic–giu; harmattan polveroso dic–feb. ★★★
 
 ## Stagioni
 
-| Periodo | Regime |
+| Periodo | Caratteristiche |
 |---|---|
-| Nov–Giu | Aliseo NE pieno: 15–25 kn quasi costanti a Mindelo; clima asciutto, mare mosso sui canali |
-| Dic–Feb | Aliseo + **harmattan**: vento da E/NE con polvere/sabbia dal Sahara, visibilità ridotta |
-| Lug–Ott | Alisei calano, umidità in aumento; più caldo, qualche pioggia tardiva (agosto–ottobre); periodo meno ventilato |
+| **Nov–Giu** | Aliseo NE 15–25 kn, asciutto, mare formato nei canali: **migliore per navigare** |
+| **Dic–Feb** | Harmattan E/NE con polvere sahariana, visibilità ridotta ★★ |
+| **Lug–Ott** | Caldo umido, alisei deboli, qualche pioggia (ago–ott), bonacce possibili |
 
-★★★
+## Uragani
 
-## A Mindelo in pratica
+Fuori dalla *main hurricane belt*; rischio cicloni quasi nullo, ma onde lunghe da uragani caraibici possibili set–ott. ★★★
 
-- Vento permanente 15–25 kn nel Porto Grande: linee tese di continuo, gavetti rumorosi, dinghy sottovento. ★★★
-- Occasionale swell da W che rende scomodi ancoraggio e pontoni. ★★★
-- Canale tra São Vicente e Santa Luzia (verso São Nicolau): correnti di marea forti e mare increspato. ★★
-
-## Finestre di navigazione
-
-| Tratta | Finestra consigliata |
-|---|---|
-| Verso Caraibi (ARC+) | Nov–Gen: partenza classica dopo il rifornimento a Mindelo |
-| Isola→isola Barlavento | Contro aliseo: valutare partenze prestissimo o giornate di aliseo debole |
-| Sotavento (Santiago, Fogo, Brava) | Meglio con aliseo moderato; bolina lunga da Mindelo |
-
-Ultimo aggiornamento: 22/08/2026
-
-## Clima
 ## Venti locali
-## Finestre tipiche
-## Link meteo### Siti meteo locali
 
-- [INMG Cabo Verde](http://www.inmg.gov.cv) — Istituto Nazionale Meteorologia e Geofisica, ufficiale ⚠️ sito talvolta lento ★★★
-- [Windguru Cabo Verde](https://www.windguru.cz/253) — Mindelo/São Vicente ★★★
-- [Windy Capo Verde](https://www.windy.com/16.0/-24.0) ★★★
-- Harmattan (dic–feb): polvere sahariana → visibilità ridotta, monitorare [CAMs Copernicus](https://atmosphere.copernicus.eu) ★★★
-Ultimo aggiornamento: 22/08/2026
+- Accelerazioni tra le isole (effetto Venturi nei canali): +5–10 kn vs vento sinottico. ★★
+- Brezze termiche costiere pomeridiane su isole alte (Santo Antão, Fogo, São Nicolau). ★★
+
+## Finestre tipiche
+
+| Tratta | Finestra |
+|---|---|
+| Tra le isole Barlavento | Partenza all'alba, aliseo <20 kn |
+| Verso Caraibi (ARC+) | Nov–gen da Mindelo/Sal |
+| Sotavento (Santiago–Fogo–Brava) | Bolina lunga, meglio con aliseo moderato |
+
+## Link meteo e carte locali
+
+- [INMG Cabo Verde](http://www.inmg.gov.cv) ★★★ — ufficiale
+- [Windguru sao-vicente](https://www.windguru.cz) ★★★
+- [Windy](https://www.windy.com) · [PassageWeather](http://www.passageweather.com) ★★★
+- [NOAA NHC](https://www.nhc.noaa.gov) per stagione uragani atlantici ★★★★★
+- Polvere sahariana: [Copernicus CAMS](https://atmosphere.copernicus.eu) ★★★
+
+Ultimo aggiornamento: 24/08/2026

@@ -33,3 +33,23 @@ Ultimo aggiornamento: 22/08/2026
 
 ## Tariffe
 Ultimo aggiornamento: 22/08/2026
+
+## Tariffe ormeggi e marine
+
+| Voce | Costo | Note |
+|---|---|---|
+| Posto pontile/peschereccio | **DATO MANCANTE** — concordare in capitania/porto | Nessun listino turistico pubblicato |
+| Boa | **DATO MANCANTE** | |
+| Ancoraggio | **Gratuito** fuori zone regolamentate | |
+| Acqua | **DATO MANCANTE** | Chiedere in porto |
+| Elettricità | **DATO MANCANTE** | |
+
+## Distanze utili
+
+| Tratta | Distanza | Note |
+|---|---|---|
+| Mindelo – Sal | ~110 Mm | Aliseo NE |
+| Praia – Fogo | ~30 Mm | |
+| Fogo – Brava | ~15 Mm | |
+
+Ultimo aggiornamento: 24/08/2026

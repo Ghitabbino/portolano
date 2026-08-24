@@ -1,40 +1,43 @@
 # 05 — Stagionalità e meteo
 
-Ultimo aggiornamento: 22/08/2026 · Capo Verde è **fuori dalla fascia uragani**; Santiago è l'isola più verde del gruppo perché riceve le piogge estive.
+**Ultima verifica: 24/08/2026** · Capo Verde è **fuori dalla fascia uragani**: nessun ciclone diretto documentato.
+
+## Clima
+
+- Temperatura **23–28 °C** tutto l'anno, escursione ridotta; acqua 22–26 °C. ★★★
+- Aliseo NE dominante, più forte dic–giu; harmattan polveroso dic–feb. ★★★
 
 ## Stagioni
 
-| Periodo | Regime |
+| Periodo | Caratteristiche |
 |---|---|
-| Nov–Giu | Aliseo NE pieno 15–25 kn; asciutto e ventilato; mare mosso sulle coste esposte a NE |
-| Ago–Ott | Stagione delle piogge: acquazzoni nell'interno, umidità alta, alisei attenuati; paesaggio verde |
-| Dic–Feb | Possibile harmattan: polvere sahariana, visibilità ridotta |
+| **Nov–Giu** | Aliseo NE 15–25 kn, asciutto, mare formato nei canali: **migliore per navigare** |
+| **Dic–Feb** | Harmattan E/NE con polvere sahariana, visibilità ridotta ★★ |
+| **Lug–Ott** | Caldo umido, alisei deboli, qualche pioggia (ago–ott), bonacce possibili |
 
-★★★
+## Uragani
 
-## A Praia in pratica
+Fuori dalla *main hurricane belt*; rischio cicloni quasi nullo, ma onde lunghe da uragani caraibici possibili set–ott. ★★★
 
-- La baia è aperta a S/SW: **swell meridionale persistente** che rende notti rollanti; peggio con onde lunghe da S generate da temporali tropicali lontani.
-- Vento incanalato lungo la costa tra il porto e Ponta Temerosa: raffiche al tramonto.
-- Piogge estive: attenzione ai colmi di torrente (ribeiras) e alle discariche galleggianti in rada dopo gli acquazzoni.
-
-## Finestre di navigazione
-
-| Tratta | Finestra consigliata |
-|---|---|
-| Praia → Maio | Aliseo moderato, partenza all'alba; rientro facile con poppiera |
-| Praia → Fogo/Brava | Bolina lunga contro aliseo: meglio Lug–Ott o giorni di aliseo <15 kn |
-| Da/per Mindelo | Meglio con aliseo moderato; mai sottovalutare la corrente lungo la costa W di Santiago |
-
-Ultimo aggiornamento: 22/08/2026
-
-## Clima
 ## Venti locali
-## Finestre tipiche
-## Link meteo### Siti meteo locali
 
-- [INMG Cabo Verde](http://www.inmg.gov.cv) — Istituto Nazionale Meteorologia e Geofisica, ufficiale ⚠️ sito talvolta lento ★★★
-- [Windguru Cabo Verde](https://www.windguru.cz/253) — Mindelo/São Vicente ★★★
-- [Windy Capo Verde](https://www.windy.com/16.0/-24.0) ★★★
-- Harmattan (dic–feb): polvere sahariana → visibilità ridotta, monitorare [CAMs Copernicus](https://atmosphere.copernicus.eu) ★★★
-Ultimo aggiornamento: 22/08/2026
+- Accelerazioni tra le isole (effetto Venturi nei canali): +5–10 kn vs vento sinottico. ★★
+- Brezze termiche costiere pomeridiane su isole alte (Santo Antão, Fogo, São Nicolau). ★★
+
+## Finestre tipiche
+
+| Tratta | Finestra |
+|---|---|
+| Tra le isole Barlavento | Partenza all'alba, aliseo <20 kn |
+| Verso Caraibi (ARC+) | Nov–gen da Mindelo/Sal |
+| Sotavento (Santiago–Fogo–Brava) | Bolina lunga, meglio con aliseo moderato |
+
+## Link meteo e carte locali
+
+- [INMG Cabo Verde](http://www.inmg.gov.cv) ★★★ — ufficiale
+- [Windguru santiago](https://www.windguru.cz) ★★★
+- [Windy](https://www.windy.com) · [PassageWeather](http://www.passageweather.com) ★★★
+- [NOAA NHC](https://www.nhc.noaa.gov) per stagione uragani atlantici ★★★★★
+- Polvere sahariana: [Copernicus CAMS](https://atmosphere.copernicus.eu) ★★★
+
+Ultimo aggiornamento: 24/08/2026

@@ -53,11 +53,15 @@ Il carburante in banchina è il più caro dei Caraibi dopo Bermuda — fare pien
 
 | Voce | Prezzo indicativo | Note |
 |---|---|---|
-| Jitney (bus locale Nassau) | **$1,25–1,50 / corsa** | Solo New Providence ★★★ |
-| Taxi corsa breve (Nassau) | **$15–25** | Tariffe non tassametrate, concordare prima ★★★ |
-| Taxi aeroporto–centro Nassau | **$30–35** | + supplemento bagagli ★★ |
-| Noleggio auto giornaliero | **DATO MANCANTE** |  |
-| Traghetto Bahamas Ferries (Nassau–Exuma/Abaco/Eleuthera) | **DATO MANCANTE** |  |
+| Jitney (bus locale Nassau) | **$1,25–1,50 / corsa** cash a bordo | Solo New Providence. Fermate a richiesta su Bay St./East Bay St., frequenza 10–20 min lun–sab 6:30–19, dom ridotta 20–30 min. Scomodo con carichi — vedi [07 Provisioning](07-provvisioning.md) ★★★ |
+| Taxi corsa breve (Nassau) | **$15–25** | Tariffe non tassametrate, concordare prima. Dispatch **242-323-3030 / 242-325-3333** ★★★ |
+| Taxi aeroporto–centro Nassau | **$30–35** | + supplemento bagagli $2/collo ★★ |
+| Taxi Hurricane Hole → Harbour Bay (Solomon's) | **$18–28 A/R** stimato | Con attesa 30 min spesa — concordare chiuso ★★ |
+| Taxi Freeport (Grand Bahama) | **$15–20** breve / **$25–30** aeroporto–Lucayan | **DATO MANCANTE** dispatch verificato — chiedere in marina ★★ |
+| Taxi Marsh Harbour / Georgetown | **$10–20** (golf-cart taxi) | Abacos/Exumas: poche auto, più golf-cart ★★ |
+| Noleggio auto / golf-cart giornaliero | **$50–120 / giorno** auto · **$60–90** golf-cart Abacos/Exumas | Nassau/Freeport auto; Marsh Harbour/Georgetown/Staniel golf-cart — **DATO MANCANTE** per tariffa 2026 esatta |
+| Traghetto Bahamas Ferries | **DATO MANCANTE** su prezzo tratta | Da **Potter's Cay Dock, Nassau — 242-323-2166 ext. 250** → Harbour Island, Eleuthera, Marsh Harbour, Exuma. Uffici isole: Freeport 242-807-8018, Exuma 242-808-0658, Marsh Harbour 242-808-0581. Prenotazione: booking.bahamasferries.com ★★★★ |
+| Mail boat / ferry minori | **DATO MANCANTE** | Collegamenti settimanali cays remoti — chiedere in marina VHF 16 |
 
 ## Servizi quotidiani
 

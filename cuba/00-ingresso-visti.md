@@ -8,46 +8,52 @@
 
 ## Status
 
-Cuba è una repubblica socialista insulare; non fa parte dell'UE né di Schengen. L'ingresso per turismo richiede passaporto e autorizzazione elettronica preventiva.
+Cuba è una repubblica socialista insulare; non fa parte dell'UE né di Schengen né dell'area Caraibi UE. L'ingresso per turismo richiede passaporto e autorizzazione elettronica preventiva. L'economia è in crisi strutturale 2025-26.
 
 ## Cittadini UE/italiani — visto obbligatorio
 
 | Voce | Regola | Fonte |
 |---|---|---|
-| Visto | **eVisa obbligatorio** prima della partenza, **90 giorni** prorogabili di **90 giorni** (max 180) presso ufficio immigrazione | evisacuba.cu ★★★★★; Viaggiare Sicuri - Cuba ★★★★★; Esteri San Marino 02/04/2025 ★★★★★ |
-| Dal 01/07/2025 | Carta turistica cartacea verde/rosa **abolita**: solo eVisa elettronico single-entry, validità 12 mesi per entrare, fee **~50 USD** pagata al consolato prima della domanda online (processing ~3 gg) | evisacuba.cu ★★★★★ |
+| Visto | **eVisa obbligatorio** prima della partenza, **90 giorni** prorogabili di **90 giorni** (max 180) presso ufficio immigrazione (Dirección de Inmigración y Extranjería) | evisacuba.cu ★★★★★; Viaggiare Sicuri - Cuba ★★★★★; Esteri San Marino 02/04/2025 ★★★★★ |
+| Dal 01/07/2025 | Carta turistica cartacea verde/rosa **abolita**: solo eVisa elettronico single-entry, validità 12 mesi per entrare, fee **~50 USD** pagata al consolato prima della domanda online (processing ~3 gg, 10 caratteri codice) | evisacuba.cu ★★★★★ |
 | D'Viajeros | Formulario digitale **obbligatorio** su `https://dviajeros.mitrans.gob.cu` entro **7 giorni** dall'arrivo; genera QR da mostrare al check-in e all'immigrazione | Aduana General de Cuba ★★★★★ |
-| Documenti | **Passaporto con 6 mesi residui** (richiesto dalle compagnie), biglietto A/R, prova fondi **~50 USD/giorno p.p.**, prova alloggio prima notte, **polizza sanitaria** valida a Cuba (se non dimostrabile si acquista Asistur all'arrivo +53 7 86 44 99) | Viaggiare Sicuri ★★★★★; EDA Svizzera ★★★★★ |
-| ESTA USA | Chi ha visitato Cuba (anche solo transito) **perde l'ESTA** per gli USA | Viaggiare Sicuri ★★★★★ |
+| Documenti | **Passaporto con 6 mesi residui** (richiesto dalle compagnie), biglietto A/R o prova uscita, prova fondi **~50 USD/giorno p.p.**, prova alloggio prima notte, **polizza sanitaria** valida a Cuba (se non dimostrabile si acquista Asistur all'arrivo +53 7 86 44 99) | Viaggiare Sicuri ★★★★★; EDA Svizzera ★★★★★ |
+| ESTA USA — ATTENZIONE | Chi ha visitato Cuba **dal 12/01/2021** (anche solo transito) **perde l'ESTA** per gli USA e deve richiedere **visto B1/B2** in ambasciata USA (designazione State Sponsor of Terrorism). Vale anche per doppia cittadinanza. Una volta perso l'ESTA, resta ineligibile anche dopo uscita dalla lista. | Viaggiare Sicuri ★★★★★; U.S. CBP ★★★★★; EDA Svizzera ★★★★★ |
+| Minori | Stesse regole adulti, eVisa individuale | evisacuba.cu ★★★★★ |
 
 ## Nota importante per chi arriva via mare
 
-- L'eVisa si ottiene anche via mare: all'arrivo in porto d'ingresso viene rilasciato visto turistico 90 gg per l'equipaggio.
-- Il QR D'Viajeros è richiesto anche per arrivi marittimi; associare il codice eVisa (10 caratteri) al formulario.
-- Tenere a bordo passaporti, crew list e clearance dell'ultimo porto.
+- L'eVisa si ottiene anche via mare: all'arrivo in porto d'ingresso viene rilasciato visto turistico 90 gg per l'equipaggio (se non già ottenuto online). Meglio ottenerlo prima online per evitare attese.
+- Il QR D'Viajeros è richiesto **anche per arrivi marittimi**; associare il codice eVisa (10 caratteri) al formulario prima dell'arrivo.
+- Tenere a bordo passaporti originali, **3 copie crew list**, registro nave, bandiera, clearance dell'ultimo porto, assicurazione, lista medicine/alcol/elettronica.
+- Chiamata VHF 16/72 a 5-12 miglia, bandiera Q issata fino a via libera.
 
 ## E dopo i 3 mesi? (cittadini italiani/UE)
 
 | Situazione | Regola | Fonte |
 |---|---|---|
-| Proroga 90 gg | Richiesta all'ufficio immigrazione cubano prima della scadenza, estensione di 90 gg | evisacuba.cu ★★★★★ |
-| Oltre 180 gg | Non consentito con visto turistico; serve cambio status o uscita e nuova richiesta | Viaggiare Sicuri ★★★★★ |
-| Lavoro | Vietato con visto turistico; espulsione in caso di violazione | ★★★ |
+| Proroga 90 gg | Richiesta all'ufficio immigrazione cubano **prima della scadenza** (es. Calle 17 e K, Vedado L'Avana o capoluoghi), estensione di 90 gg, fee ~25-30 USD | evisacuba.cu ★★★★★ |
+| Oltre 180 gg | Non consentito con visto turistico; serve cambio status (residenza, visto familiare) o uscita e nuova richiesta eVisa (single-entry = nuova domanda) | Viaggiare Sicuri ★★★★★ |
+| Lavoro | **Vietato** con visto turistico; espulsione e multa in caso di violazione | ★★★ |
+| Overstay | Multa giornaliera + difficoltà all'uscita, possibile divieto reingresso | Aduana ★★★ |
 
 ## La barca: importazione temporanea
 
 | Barca | Regola | Fonte |
 |---|---|---|
-| Tutte le bandiere | **Cruising permit / despacho** rilasciato all'ingresso (fee inclusa nei costi clearance); valido per navigazione costiera con obbligo di despacho interno ad ogni spostamento tra porti | Noonsite ★★★★; Yacht Pilot ★★★ |
-| Durata | Non esiste limite pubblicato per lo scafo oltre la validità del visto equipaggio (90+90); per soste lunghe verificare con Aduana/Guarda Frontera al porto d'ingresso | **DATO MANCANTE** per tetto ufficiale |
+| Tutte le bandiere (UE/extra-UE) | **Cruising permit / despacho** rilasciato all'ingresso (fee inclusa nei costi clearance ~57 USD); valido per navigazione costiera con obbligo di **despacho interno** ad ogni spostamento tra porti (firma Guarda Frontera) | Noonsite ★★★★; Yacht Pilot ★★★ |
+| Durata scafo | **Non esiste limite pubblicato per lo scafo** oltre la validità del visto equipaggio (90+90); per soste lunghe (>6 mesi) verificare con Aduana/Guarda Frontera al porto d'ingresso; nessuna tassa di importazione temporanea pubblicata come in UE | **DATO MANCANTE** per tetto ufficiale — da verificare in loco |
+| Obblighi | Despacho sempre a bordo, bandiera Q fino a clearance, divieto tender a terra fuori marina sull'isola principale, divieto ancoraggio 0-5 miglia nord | Marlin ★★★★ |
+| Svernamento | Nessun marina offre contratto svernamento ciclonico garantito; Hemingway ha qualche posto annuale ma senza riparo certificato | Marlin ★★ |
 
-## Vaccini
+## Vaccini e sanità
 
 | Voce | Regola | Fonte |
 |---|---|---|
 | Da Italia/UE | **Nessun vaccino obbligatorio** | Viaggiare Sicuri ★★★★★; TravelHealthPro ★★★★★ |
 | Febbre gialla | **Obbligatoria** solo se si arriva/transita >12h da paese a rischio, con certificato valido a vita dal 2016 | TravelHealthPro ★★★★★ |
-| Raccomandati | Epatite A/B, tifo fuori resort, tetano, morbillo-parotite-rosolia; focolaio Chikungunya segnalato dal 26/09/2025 | CDC ★★★ |
-| Nota | Carenza di medicinali sull'isola: portare scorta di farmaci essenziali | EDA Svizzera ★★★★★ |
+| Raccomandati | Epatite A/B, tifo fuori resort, tetano, morbillo-parotite-rosolia; focolaio **Chikungunya segnalato dal 26/09/2025** e dengue endemica (zanzare) | CDC ★★★; Viaggiare Sicuri ★★★★★ |
+| Assicurazione | **Obbligatoria**: polizza sanitaria con copertura Cuba; in mancanza si acquista **Asistur** all'arrivo +53 7 86 44 99 | EDA Svizzera ★★★★★ |
+| Nota | **Carenza di medicinali sull'isola**: portare scorta di farmaci essenziali, kit pronto soccorso, antibiotici, antimalarici se richiesti dal medico | EDA Svizzera ★★★★★; US Embassy 12/08/2026 ★★★★★ |
 
 Ultimo aggiornamento: 24/08/2026

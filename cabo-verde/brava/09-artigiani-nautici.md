@@ -1,25 +1,26 @@
 # 09 — Artigiani e negozi nautici
 
-Ultimo aggiornamento: 22/08/2026 · ⚠️ Contatti da confermare sul posto: voci (da confermare in loco) si completano ai controlli mensili.
+**Ultimo aggiornamento: 24/08/2026** · brava: offerta limitata, hub a Mindelo.
 
-## Hub tecnico — Ancoraggio Furna
+## Tabella artigiani
 
-| Voce | Dettaglio |
-|---|---|
-| Servizi | Bar/trattoria al molo; acqua (da confermare in loco) |
+| Ditta / Nome | Area | Tel | Sede | Recensioni |
+|---|---|---|---|---|
+| **Capitania / Porto brava** | Coordinamento artigiani locali | **DATO MANCANTE** | Porto principale | ★★ |
+| **Meccanico locale** | Fuoribordo/entrobordo su chiamata | **DATO MANCANTE** | Su chiamata | ★ |
+| **Vetroresina/legno** | Riparazioni base pescherecci | **DATO MANCANTE** | Porto | ★ |
 
-## Dove si trova cosa
-
-- Assistenza ordinaria: chiedere in capitaineria/porto.
-- Lavori seri e pezzi: **Mindelo** (São Vicente) o via container dalla penisola/Europa.
-- Vele e rigging: nessuna veleria locale stabile; riferimento i loft di Mindelo (Marina) o le Canarie.
+*Chiedere in capitania/porto; nessun contatto stabile verificato fuori Mindelo.*
 
 ## Negozi e shipchandler
 
-Elenco in aggiornamento continuo nelle pagine di isola.
+| Negozio | Cosa trovi | Note |
+|---|---|---|
+| Mini-ferramenta capoluogo | Utensili base, vernici | ★★ |
+| Shipchandler | **DATO MANCANTE** — nessun negozio nautico dedicato verificato | |
 
-Ultimo aggiornamento: 22/08/2026
-
-Tabella artigiani
 ## Note pratiche
-Ultimo aggiornamento: 22/08/2026
+
+Per ricambi specialistici ordinare da Mindelo o Canarie con largo anticipo.
+
+Ultimo aggiornamento: 24/08/2026

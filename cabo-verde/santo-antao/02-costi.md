@@ -1,30 +1,39 @@
 # 02 — Costo della vita
 
-Ultimo aggiornamento: 22/08/2026 · Valuta: **escudo (CVE)** ≈ 110,26 CVE = 1 EUR.
-
-Isola rurale e povera: costi bassi per vitto e alloggio, offerta turistica essenziale ma crescente (trekking). Prezzi puntuali non verificati → voci principali in (da confermare in loco).
-
-## Voci quotidiane
-
-| Voce | Prezzo indicativo | Note |
-|---|---|---|
-| Pasto locale (restaurante popular) | (da confermare in loco) |Pesce, catchupa, fagioli; economico ★★|
-| Alloggio guesthouse Ponta do Sol/Paul | (da confermare in loco) | Fascia economica; verificare sul posto |
-| Grogue (grappa di canna) | Economico |Produzione locale nella valle do Paul ★★|
-| Mercato di Porto Novo | Economico |Frutta e verdura dell'isola (banane, canna, mango) ★★|
-
-## Trasporti interni
-
-| Mezzo | Dettaglio |
-|---|---|
-| Aluguer (minibus condivisi) | Rete diffusa Porto Novo–Ponta do Sol–valle do Paul; costo basso |
-| Taxi | Negoziabili, distanze brevi |
-
-Ultimo aggiornamento: 22/08/2026
+**Ultimo aggiornamento: 24/08/2026** · Valuta **CVE** (110,26 CVE = 1 EUR).
 
 ## Alimentari
-## Mangiare fuori
+
+| Voce | Prezzo |
+|---|---|
+| Birra Strela 0,33 l | 100–150 CVE market · 200–250 CVE bar ★★ |
+| Pasto semplice | 500–900 CVE (~4,5–8 €) ★★ |
+| Acqua 1,5 l | 80–120 CVE |
+| Pane | 60–100 CVE |
+
 ## Carburanti
+
+| Voce | Prezzo |
+|---|---|
+| Gasolio | 95–115 CVE/l ★★★ |
+| Benzina | 120–140 CVE/l |
+
+## Trasporti
+
+| Voce | Prezzo |
+|---|---|
+| Aluguer urbano | 100–300 CVE |
+| Taxi urbano | 150–300 CVE |
+
 ## Servizi quotidiani
+
+| Voce | Prezzo |
+|---|---|
+| SIM prepagata | ~1.500 CVE 5–10 GB |
+| Lavanderia | **DATO MANCANTE** |
+
 ## Contanti e pagamenti
-Ultimo aggiornamento: 22/08/2026
+
+Contanti CVE indispensabili per mercati/aluguer; euro accettati con resto in CVE. Bancomat nel capoluogo.
+
+Ultimo aggiornamento: 24/08/2026

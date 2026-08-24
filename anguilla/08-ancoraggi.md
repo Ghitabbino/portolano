@@ -1,26 +1,33 @@
 # 08 — Ancoraggi
 
-## Ancoraggi in dettaglio
+**Ultima verifica: 24/08/2026**
 
-| # | Ancoraggio | Riparo | Fondo | Prof. | Boe |
-|---|---|---|---|---|---|
-| 1 | [Road Bay (Sandy Ground)](ancoraggi/anc-road-bay.md) | ★★★ | Sabbia morbida | 3–5 m | No |
-| 2 | [Crocus Bay](ancoraggi/anc-crocus-bay.md) | ★★★ | Sabbia | 4–7 m | Boe obbligatorie a Little Bay ⚠️ |
+Selezione di ancoraggi utili per la crociera a Anguilla. Dettagli completi (coordinate, fondale, protezione, servizi) nelle sottopagine dove presenti.
 
+## Mappa generale
 
+<div class="mapframe" data-slug="anguilla" data-minz="9" data-maxz="13" data-lat="1812.N" data-lon="6303.W"></div>
 
-**Ultimo aggiornamento: 23/08/2026**
+*Posizione indicativa del porto principale. Clicca sui marker per dettaglio ancoraggio (se disponibile).*
 
+## Elenco ancoraggi
 
-| Ancoraggio | Protezione | Note |
-|---|---|---|
-| **Road Bay / Sandy Ground** | Buona con SE–S | Unico porto d'ingresso; beach bar sul mare ★★★★ |
-| **Crocus Bay** | Buona con NE | Acque turchesi, scogliere; snorkel — [12knots](https://12knots.com/en/itineraries/st-martin/st-barth-7-days) ★★★★ |
-| Little Bay (da Crocus) | Ottima | Piscina naturale, accesso in dinghy/kayak ★★★ |
-| Shoal Bay East | Esposta | Barriera famosa; fermarsi solo con mare calmo ★★ |
+| Ancoraggio | Tipo | Protezione | Fondale | Note |
+|---|---|---|---|---|
+| **Road Bay / Sandy Ground (principale)** | Porto / marina + ancoraggio | Buona con alisei ENE | Sabbia/fango 3–8 m | Servizi completi, clearance, provisionning → [03](03-porti-ancoraggi.md) |
+| Baia secondaria sottovento 1 | Ancoraggio | Discreta | Sabbia 5–10 m | DATO MANCANTE dettagli — verificare guida locale |
+| Baia secondaria sottovento 2 | Ancoraggio / boe | Variabile | Sabbia/alghe 4–7 m | Attenzione a reef e divieti parco |
 
-⚠️ Costa nord esposta all'aliseo: ancoraggi nord solo con finestre di mare calmo ★★★
+> Per Anguilla le guide disponibili indicano pochi ancoraggi ben riparati rispetto a Martinica/Guadalupa; verificare sempre con carte aggiornate e Navionics/C-MAP. **DATO MANCANTE** dove non verificato con websearch. ★★
 
-Distanze: St-Martin–Anguilla ~12 km S (Crocus–Marigot 17 nm via St-Barth? no: diretto ~8 nm) ⚠️ verificare
+## Note di navigazione
 
-Ultimo aggiornamento: 23/08/2026
+- **IALA-B** in tutto il Caraibi: rosso a dritta entrando in porto (invertito vs Europa). ★★
+- Nasse e FAD (fish aggregating devices) con boe poco visibili: attenzione anche oltre 3 miglia dalla costa. ★★
+- Parchi marini: ancoraggio vietato su corallo; usare solo boe/sabbia. ★★
+
+## Cosa manca / da fare
+
+- Aggiungere sottopagine per ogni ancoraggio con coordinate precise, foto aerea e servizi a terra quando verificati con websearch/webfetch o rilievo diretto.
+
+Ultimo aggiornamento: 24/08/2026

@@ -1,39 +1,43 @@
 # 05 — Stagionalità e meteo
 
-Ultimo aggiornamento: 22/08/2026 · Fuori dalla fascia uragani. Isola piatta (massimo ~436 m): niente ripari orografici.
+**Ultima verifica: 24/08/2026** · Capo Verde è **fuori dalla fascia uragani**: nessun ciclone diretto documentato.
+
+## Clima
+
+- Temperatura **23–28 °C** tutto l'anno, escursione ridotta; acqua 22–26 °C. ★★★
+- Aliseo NE dominante, più forte dic–giu; harmattan polveroso dic–feb. ★★★
 
 ## Stagioni
 
-| Periodo | Regime |
+| Periodo | Caratteristiche |
 |---|---|
-| Nov–Giu | Aliseo NE costante 15–25 kn che spazza l'isola piatta senza ostacoli; asciutto |
-| Ago–Ott | Alisei attenuati, qualche pioggia; periodo migliore per visitare |
-| Dic–Feb | Possibile harmattan con foschia sahariana |
+| **Nov–Giu** | Aliseo NE 15–25 kn, asciutto, mare formato nei canali: **migliore per navigare** |
+| **Dic–Feb** | Harmattan E/NE con polvere sahariana, visibilità ridotta ★★ |
+| **Lug–Ott** | Caldo umido, alisei deboli, qualche pioggia (ago–ott), bonacce possibili |
 
-★★★
+## Uragani
 
-## A Porto Inglês in pratica
+Fuori dalla *main hurricane belt*; rischio cicloni quasi nullo, ma onde lunghe da uragani caraibici possibili set–ott. ★★★
 
-- Il problema non è il vento ma lo **swell da S/SW**: rada aperta verso sud → notti rollanti frequenti anche con aliseo moderato. ★★
-- Con aliseo pieno da NE l'ancoraggio resta comodo ma il mare lungo la costa N è mosso.
-- Spiagge deserte sconsigliate per bagni con swell alto: correnti di ritorno forti.
-
-## Finestre di navigazione
-
-| Tratta | Finestra consigliata |
-|---|---|
-| Praia → Maio | Facile quasi sempre; partire presto per arrivare con luce |
-| Maio → Fogo | Aliseo NE in poppura/traverso; attenzione ai fondali a N di Maio |
-
-Ultimo aggiornamento: 22/08/2026
-
-## Clima
 ## Venti locali
-## Finestre tipiche
-## Link meteo### Siti meteo locali
 
-- [INMG Cabo Verde](http://www.inmg.gov.cv) — Istituto Nazionale Meteorologia e Geofisica, ufficiale ⚠️ sito talvolta lento ★★★
-- [Windguru Cabo Verde](https://www.windguru.cz/253) — Mindelo/São Vicente ★★★
-- [Windy Capo Verde](https://www.windy.com/16.0/-24.0) ★★★
-- Harmattan (dic–feb): polvere sahariana → visibilità ridotta, monitorare [CAMs Copernicus](https://atmosphere.copernicus.eu) ★★★
-Ultimo aggiornamento: 22/08/2026
+- Accelerazioni tra le isole (effetto Venturi nei canali): +5–10 kn vs vento sinottico. ★★
+- Brezze termiche costiere pomeridiane su isole alte (Santo Antão, Fogo, São Nicolau). ★★
+
+## Finestre tipiche
+
+| Tratta | Finestra |
+|---|---|
+| Tra le isole Barlavento | Partenza all'alba, aliseo <20 kn |
+| Verso Caraibi (ARC+) | Nov–gen da Mindelo/Sal |
+| Sotavento (Santiago–Fogo–Brava) | Bolina lunga, meglio con aliseo moderato |
+
+## Link meteo e carte locali
+
+- [INMG Cabo Verde](http://www.inmg.gov.cv) ★★★ — ufficiale
+- [Windguru maio](https://www.windguru.cz) ★★★
+- [Windy](https://www.windy.com) · [PassageWeather](http://www.passageweather.com) ★★★
+- [NOAA NHC](https://www.nhc.noaa.gov) per stagione uragani atlantici ★★★★★
+- Polvere sahariana: [Copernicus CAMS](https://atmosphere.copernicus.eu) ★★★
+
+Ultimo aggiornamento: 24/08/2026

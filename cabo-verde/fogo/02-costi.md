@@ -1,32 +1,39 @@
 # 02 — Costo della vita
 
-Ultimo aggiornamento: 22/08/2026 · Escudo CVE ≈ **110/EUR** · UTC−1.
-
-## Quadro generale
-
-Isola rurale, costi bassissimi fuori dal turismo del vulcano. **Contante essenziale**: ATM limitati a São Filipe.
-
-| Voce | Prezzo indicativo | Note |
-|---|---|---|
-| Pasto locale (cachupa, funge) | 350–700 CVE (~3–6,5 €) ★★ |
-| Guesthouse a São Filipe | 2500–4000 CVE/notte ⚠️ ★★ |
-| Guida per il Pico do Fogo | ~2000–3000 CVE/gruppo + ingresso parco ⚠️ | Tariffa in loco (Chã das Caldeiras) ★★ |loco |
+**Ultimo aggiornamento: 24/08/2026** · Valuta **CVE** (110,26 CVE = 1 EUR).
 
 ## Alimentari
 
-- Mercato di São Filipe: frutta e verdura dell'isola (mango, papaya, banane, mandioca) ottima e economica; il lato W è più fertile.
-- Caffè e vino di Fogo prodotti in loco: acquisto diretto dalle cooperative a Chã das Caldeiras.
-- Tutto ciò che è importato (latticini, conserve raffinate) costa come a Praia o di più.
+| Voce | Prezzo |
+|---|---|
+| Birra Strela 0,33 l | 100–150 CVE market · 200–250 CVE bar ★★ |
+| Pasto semplice | 500–900 CVE (~4,5–8 €) ★★ |
+| Acqua 1,5 l | 80–120 CVE |
+| Pane | 60–100 CVE |
+
+## Carburanti
+
+| Voce | Prezzo |
+|---|---|
+| Gasolio | 95–115 CVE/l ★★★ |
+| Benzina | 120–140 CVE/l |
+
+## Trasporti
+
+| Voce | Prezzo |
+|---|---|
+| Aluguer urbano | 100–300 CVE |
+| Taxi urbano | 150–300 CVE |
+
+## Servizi quotidiani
+
+| Voce | Prezzo |
+|---|---|
+| SIM prepagata | ~1.500 CVE 5–10 GB |
+| Lavanderia | **DATO MANCANTE** |
 
 ## Contanti e pagamenti
 
-- Un ATM a São Filipe: prelevare a Praia prima di salpare.
-- Carte accettate solo in poche strutture turistiche.
+Contanti CVE indispensabili per mercati/aluguer; euro accettati con resto in CVE. Bancomat nel capoluogo.
 
-Ultimo aggiornamento: 22/08/2026
-
-## Mangiare fuori
-## Carburanti
-## Trasporti
-## Servizi quotidiani
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 24/08/2026

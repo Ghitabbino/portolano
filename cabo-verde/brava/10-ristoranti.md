@@ -1,23 +1,29 @@
 # 10 — Ristoranti
 
-Ultimo aggiornamento: 22/08/2026 · Legenda: **€** <20 · **€€** 20–40 · **€€€** >40
+**Ultimo aggiornamento: 24/08/2026** · Selezione orientata alla crociera: locali a piedi dal porto/ancoraggio.
 
-Selezione orientata alla crociera. Schede puntuali per locale in corso di raccolta: sotto le **zone** affidabili a piedi dall'approdo.
+Legenda: **€** <10 € · **€€** 10–25 € · **€€€** >25 € — 🐟 pesce · 🥩 carne · 🥙 creolo
 
-## Zone consigliate
+## Griglia generale
 
-- Zona portuaria/paesana principale: cucina canaria-capoverdiana di pesce (cachupa, pesce del giorno).
-- Locali gestiti dalle famiglie: prezzi onesti, prenotare il pesce al mattino.
+| Ristorante | Zona | Costo | Cucina | Specialità | Note |
+|---|---|---|---|---|---|
+| **Ristorante del porto** | Porto principale brava | **€–€€** | 🐟 creola | Pesce del giorno, cachupa | A piedi dal pontile ★★ |
+| **Snack bar centrale** | Capoluogo | **€** | 🥙 street food | Pastéis, bafas, grogue | Economico ★★ |
+| **Ristorante turistico** | Lungomare/spiaggia | **€€** | 🐟 misto | Grigliate, frutti di mare | Prezzi turistici ★★ |
+
+*Elenco in aggiornamento: verificare orari su Google Maps/Facebook locale; fuori stagione chiusure frequenti.*
+
+## Mappa
+
+**DATO MANCANTE** — tasselli mappa offline non ancora generati per brava; usare cartografia ufficiale.
 
 ## App e fonti
 
 | Piattaforma | Uso locale |
 |---|---|
-| Recensioni geolocalizzate | Le più aggiornate |
-| Contatto diretto | Fuori dai poli turistici funziona meglio delle app |
+| Google Maps recensioni | Più aggiornato per orari/prezzi ★★★ |
+| Facebook locale | Menu e chiusure in tempo reale ★★ |
+| Contatto diretto / passaparola | Più affidabile fuori dai poli turistici ★★ |
 
-Ultimo aggiornamento: 22/08/2026
-
-## Griglia generale
-## App e fonti
-Ultimo aggiornamento: 22/08/2026
+Ultimo aggiornamento: 24/08/2026

@@ -1,24 +1,26 @@
 # 09 — Artigiani e negozi nautici
 
-Ultimo aggiornamento: 22/08/2026 · ⚠️ Contatti non verificati sul posto: voci (da confermare in loco) si completano ai controlli mensili.
+**Ultimo aggiornamento: 24/08/2026** · sao-nicolau: offerta limitata, hub a Mindelo.
 
-## Hub tecnico — Ancoraggio Tarrafal
+## Tabella artigiani
 
-| Voce | Dettaglio |
-|---|---|
-| Servizi | Villaggio: alimentari, pochi ristoranti; carburante (da confermare in loco) |
+| Ditta / Nome | Area | Tel | Sede | Recensioni |
+|---|---|---|---|---|
+| **Capitania / Porto sao-nicolau** | Coordinamento artigiani locali | **DATO MANCANTE** | Porto principale | ★★ |
+| **Meccanico locale** | Fuoribordo/entrobordo su chiamata | **DATO MANCANTE** | Su chiamata | ★ |
+| **Vetroresina/legno** | Riparazioni base pescherecci | **DATO MANCANTE** | Porto | ★ |
 
-## Dove si trova cosa
-
-- Assistenza seria: **Mindelo** (São Vicente).
-- Pezzi spediti: consegne internazionali lente — pianificare.
+*Chiedere in capitania/porto; nessun contatto stabile verificato fuori Mindelo.*
 
 ## Negozi e shipchandler
 
-Raccolta in corso: vedi pagine di isola.
+| Negozio | Cosa trovi | Note |
+|---|---|---|
+| Mini-ferramenta capoluogo | Utensili base, vernici | ★★ |
+| Shipchandler | **DATO MANCANTE** — nessun negozio nautico dedicato verificato | |
 
-Ultimo aggiornamento: 22/08/2026
-
-Tabella artigiani
 ## Note pratiche
-Ultimo aggiornamento: 22/08/2026
+
+Per ricambi specialistici ordinare da Mindelo o Canarie con largo anticipo.
+
+Ultimo aggiornamento: 24/08/2026

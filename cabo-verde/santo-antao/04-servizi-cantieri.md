@@ -1,22 +1,27 @@
 # 04 — Servizi, cantieri e manutenzione
 
-Ultimo aggiornamento: 22/08/2026
-
-Servizi nautici **praticamente assenti**: nessun cantiere, nessuna gru, nessuna chandlery documentata. Qualsiasi lavoro alla barca si fa a **Mindelo** (vedi [sao-vicente/04](../sao-vicente/04-servizi-cantieri.md)).
-
-| Voce | Dettaglio |
-|---|---|
-| Meccanica nautica | (da confermare in loco) — solo officine generiche per veicoli |
-| Carburante | Stazione stradale a Porto Novo (taniche) |
-| Gas LPG | Ricariche artigianali in paese; procedura da verificare |
-| Meccanici/artigiani contatti | (da confermare in loco) |
-
-Per tutto il resto l'isola offre: guide di trekking, guesthouse, noleggio auto/pick-up in città principali.
-
-Ultimo aggiornamento: 22/08/2026
+**Ultima verifica: 24/08/2026** · santo-antao: servizi essenziali, per lavori importanti andare a Mindelo.
 
 ## Hub tecnico
-## Gas e bombole
-## Acqua dolce
+
+Nessun travelift/cantiere turistico a santo-antao; alaggio solo per pescherecci locali. **DATO MANCANTE** per gru vela verificata.
+
+## Servizi disponibili
+
+| Servizio | Dove | Note |
+|---|---|---|
+| Carburante | Porto principale distributore | Prezzo regolato 95–115 CVE/l |
+| Acqua | Banchina porto | Razionata, chiedere capitania |
+| Gas LPG | Negozi capoluogo | Scambio bombole, disponibilità variabile |
+| Elettricità | **DATO MANCANTE** | Banchina pescherecci se disponibile |
+| Meccanica | Artigiani locali su richiesta | **DATO MANCANTE** — chiedere in capitania/porto |
+
+## Artigiani
+
+**DATO MANCANTE** — nessun contatto verificato stabile fuori Mindelo; passaparola locale via marina/porto.
+
 ## Note strategiche
-Ultimo aggiornamento: 22/08/2026
+
+Portare ricambi critici da Mindelo/Praia o dalle Canarie; tempi di approvvigionamento lunghi.
+
+Ultimo aggiornamento: 24/08/2026

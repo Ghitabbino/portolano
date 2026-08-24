@@ -39,7 +39,7 @@ Le Bahamas **non sono un hub cantieristico economico** come Florida o Martinica:
 
 ## Acqua dolce
 
-- Acqua **dissalata RO** ovunque: **$0,10–0,25 / gal** in banchina (vedi [07 Provisioning](07-provvisioning.md)). Nessun razionamento strutturale come in Martinica, ma nei **cays remoti (Exumas)** la disponibilità dipende dal dissalatore della marina — fare riserva. ★★★★
+- Acqua **dissalata RO** ovunque: **$0,10–0,25 / gal** a Nassau/Georgetown, **$0,40–0,50 / gal** a Highbourne/Staniel (vedi dettaglio per zona in [07 Provisioning](07-provvisioning.md)). Nessun razionamento strutturale come in Martinica, ma nei **cays remoti (Exumas)** la disponibilità dipende dal dissalatore della marina — fare riserva. Tel marine acqua: Hurricane Hole VHF 11, Highbourne 242-355-1009, Staniel 242-355-2024. ★★★★
 
 ## Emergenza e soccorso in mare
 

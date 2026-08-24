@@ -1,28 +1,28 @@
 # 09 — Artigiani e negozi nautici
 
-Ultimo aggiornamento: 22/08/2026 · ⚠️ Contatti da confermare sul posto: voci (da confermare in loco) si completano ai controlli mensili.
+**Ultimo aggiornamento: 24/08/2026** · Mindelo concentra l'offerta dell'arcipelago.
 
-## Hub tecnico — Marina de Mindelo
+## Tabella artigiani
 
-| Voce | Dettaglio |
-|---|---|
-| Posti | ~120, fino a 30 m |
-| Contatti | **+238 230 00 32** · VHF 72 · reception@marinamindelo.cv [sito ufficiale ★★★★] |
-| Fuel/Acqua | Al pontile; gas bombole locali |
-| Varadero | Haul-out e meccanica in area marina — dettagli (da confermare in loco) |
+| Ditta / Nome | Area | Tel | Mail | Sede & orari | Recensioni |
+|---|---|---|---|---|---|
+| **Marina Mindelo Technical Service** | Meccanica, elettrica, varo | +238 230 0032 | reception@marinamindelo.cv | Marina Mindelo, lun–sab 8–18 | ★★★★ |
+| **ENAPOR Porto Grande** | Servizi portuali, ormeggi | +238 324 515 | portogrande@enapor.cv | Zona portuaria Mindelo | ★★★ |
+| **Sailmaker Mindelo** (in marina) | Vele, cuciture | **DATO MANCANTE** | — | Marina | ★★ |
+| **Artigiani freelance** (meccanica/vetroresina) | Su chiamata via marina | **DATO MANCANTE** | — | Mindelo | ★★ |
 
-## Dove si trova cosa
-
-- Assistenza ordinaria: chiedere in capitaineria/porto.
-- Lavori seri e pezzi: **Mindelo** (São Vicente) o via container dalla penisola/Europa.
-- Vele e rigging: nessuna veleria locale stabile; riferimento i loft di Mindelo (Marina) o le Canarie.
+*Per lavori importanti chiedere sempre preventivo scritto (devis) e tempi; alta stagione dic–apr saturazione.*
 
 ## Negozi e shipchandler
 
-Elenco in aggiornamento continuo nelle pagine di isola.
+| Negozio | Cosa trovi | Tel | Sede |
+|---|---|---|---|
+| **Chandlery Marina Mindelo** | Ferramenta base, cime, ancore leggere | +238 230 0032 | Dentro la marina ★★★ |
+| **Moave / Central** | Ferramenta generale, forniture | +238 230 3100 | Av. Marginal 90 ★★ |
 
-Ultimo aggiornamento: 22/08/2026
-
-Tabella artigiani
 ## Note pratiche
-Ultimo aggiornamento: 22/08/2026
+
+- Ricambi dall'Europa 1–3 settimane via DHL; spedire a: Marina Mindelo, Cais Alfândega Velha, Mindelo, indicando nome barca e telefono.
+- Pagamenti contanti/CVE o bonifico; chiedere fattura.
+
+Ultimo aggiornamento: 24/08/2026

@@ -63,6 +63,20 @@
 
 VHF 16 monitorato da USCG 24/7. Per soccorso in mare chiamare **USCG Sector San Juan** o **911**.
 
+## Monitoraggio mensile sicurezza
+
+Ogni mese riesaminare queste fonti cercando **furti, scippi, rapine, omicidi** a danno di turisti/crocieristi:
+
+| # | Fonte | Cosa cercare |
+|---|---|---|
+| 1 | CSSN (safetyandsecuritynet.org) | Incidenti Porto Rico / Spanish Virgins |
+| 2 | News locali (El Nuevo Día, Primera Hora) | Fatti di cronaca San Juan/Fajardo |
+| 3 | USCG District 7 / CBP news | Sequestri, avvisi |
+| 4 | Noonsite / ActiveCaptain | Report diportisti |
+| 5 | Gruppo FB "Puerto Rico Cruisers" | Avvisi rapidi |
+
+All'esito aggiornare valutazione 0–5 e mappa zone.
+
 ## Mappa delle zone — offline
 
 <div class="mapframe" data-slug="porto-rico" data-minz="8" data-maxz="13" data-lat="18.20" data-lon="-66.50" data-zones='[[18.465,-66.116,2000,"#d32f2f","San Juan La Perla — evitare notte"],[18.20,-67.14,1800,"#ef6c00","Mayagüez — attenzione notte"],[18.00,-66.61,1500,"#ef6c00","Ponce — borseggi"]]'></div>
