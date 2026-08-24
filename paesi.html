@@ -92,6 +92,13 @@ li { margin:3px 0; }
 
 #nav .navlink{line-height:1.9!important;margin:6px 0!important;}
 #nav .navlink.pagelink{margin:7px 0!important;}
+
+/* ===== gerarchia menu: oceani/aree/paesi piu grandi + icona acqua ===== */
+#nav a.country-link{line-height:1.9!important;}
+#nav a.lvl-mare{font-size:17px!important;font-weight:900!important;}
+#nav a.lvl-area{font-size:16px!important;font-weight:800!important;}
+#nav a.lvl-paese{font-size:15px!important;font-weight:700!important;}
+#nav .ico-wave{margin-right:4px;}
 </style>
 </head>
 <body>
@@ -58357,6 +58364,22 @@ Buon vento e buone rotte. ⛵
 <script>
 const plinks=[...document.querySelectorAll('.pagelink')];
 const clinks=[...document.querySelectorAll('.country-link')];
+(function(){
+  const oc=["caraibi","mar-rosso","mediterraneo","atlantico","indiano","pacifico"];
+  document.querySelectorAll('#nav .nav-countries a.country-link').forEach(function(l){
+    const k=l.dataset.country||"";
+    if(k==="")return;
+    if(oc.indexOf(k)>=0){l.classList.add('lvl-mare');
+      l.innerHTML=l.innerHTML.replace(/^[^\sA-Za-z\u00C0-\u02AF]+\s*/,'\u200B').replace('\u200B','<span class="ico-wave">\uD83C\uDF0A</span> ');
+    } else if(k.indexOf("/")===0||k.indexOf("caraibi/")===0&&k.split("/").length===2){
+      l.classList.add('lvl-area');
+      l.innerHTML=l.innerHTML.replace(/^[^\sA-Za-z\u00C0-\u02AF]+\s*/,'\u200B').replace('\u200B','<span class="ico-wave">\uD83C\uDF0A</span> ');
+    } else {
+      l.classList.add('lvl-paese');
+    }
+  });
+})();
+
 let current='p1';
 const PAR={"madeira": "atlantico", "cabo-verde": "atlantico", "canarie": "atlantico", "grenadine": "caraibi", "guadalupa": "caraibi", "martinica": "caraibi", "panama": "caraibi", "cuba": "caraibi", "ispaniola": "caraibi", "giamaica": "caraibi", "porto-rico": "caraibi", "cayman": "caraibi", "dominica": "caraibi", "santa-lucia": "caraibi", "barbados": "caraibi", "grenada": "caraibi", "aruba": "caraibi", "curacao": "caraibi", "bonaire": "caraibi", "trinidad-tobago": "caraibi", "bahamas": "caraibi", "turks-caicos": "caraibi", "antigua-barbuda": "caraibi", "saint-martin": "caraibi", "saint-barth": "caraibi", "anguilla": "caraibi", "st-kitts-nevis": "caraibi", "montserrat": "caraibi", "saba": "caraibi", "st-eustatius": "caraibi", "virgin-islands": "caraibi"};const OC_IDS={"caraibi":1,"mar-rosso":1,"mediterraneo":1,"atlantico":1,"indiano":1,"pacifico":1};const GRP={"cuba": "grandi-antille", "ispaniola": "grandi-antille", "giamaica": "grandi-antille", "porto-rico": "grandi-antille", "cayman": "grandi-antille", "virgin-islands": "sopravento-sett", "anguilla": "sopravento-sett", "saint-martin": "sopravento-sett", "saint-barth": "sopravento-sett", "antigua-barbuda": "sopravento-sett", "st-kitts-nevis": "sopravento-sett", "montserrat": "sopravento-sett", "saba": "sopravento-sett", "st-eustatius": "sopravento-sett", "guadalupa": "sopravento-merid", "dominica": "sopravento-merid", "martinica": "sopravento-merid", "santa-lucia": "sopravento-merid", "grenadine": "sopravento-merid", "barbados": "sopravento-merid", "grenada": "sopravento-merid", "aruba": "sottovento-abc", "curacao": "sottovento-abc", "bonaire": "sottovento-abc", "trinidad-tobago": "sottovento-abc", "bahamas": "lucayano", "turks-caicos": "lucayano", "panama": "centro-america", "belize": "centro-america", "honduras": "centro-america", "costarica": "centro-america", "nicaragua": "centro-america", "venezuela": "centro-america"};
 function show(id){
