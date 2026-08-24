@@ -167,7 +167,28 @@ def process(html):
         secs+=('<section id="c-'+gid+'" class="page" data-country="caraibi/'+gid+'">'
                '<p><a href="#o-caraibi">\u2190 Caraibi</a></p><h1>'+gname+'</h1>'
                '<div class="paesi-grid">'+gcs+'</div>'+emptyg+'</section>')
-    html=html.replace("<main>", "<main>"+home+"\n"+secs+"\n", 1)
+    chi=('<section id="chi-siamo" class="page" data-country="">'
+         '<h1>Chi siamo &amp; Contatti</h1>'
+         '<p><b>SailTropics</b> \u00e8 un portolano diportista indipendente e gratuito: informazioni '
+         'verificate con data, fonte e livello di affidabilit\u00e0, aggiornato con periodicit\u00e0 mensile.</p>'
+         '<h2>Contatti</h2>'
+         '<p>PayPal: <b>Giovanni Natale</b> \u00b7 @bekana<br>'
+         '<a href="https://paypal.me/bekana" target="_blank" rel="noopener">paypal.me/bekana</a></p>'
+         '<h2>Supporta il progetto</h2>'
+         '<p>Le donazioni servono a pagare <b>server, mappe offline e manutenzione delle fonti</b>: '
+         'nessun banner pubblicitario, nessun dato rivenduto.</p>'
+         '<h2>Disclaimer e responsabilit\u00e0</h2>'
+         '<div class="disc-box">Le informazioni di SailTropics hanno finalit\u00e0 esclusivamente divulgative '
+         'e di supporto alla pianificazione. <b>Non costituiscono documentazione ufficiale nautica</b> e non '
+         'sostituiscono le fonti ufficiali (autorit\u00e0 marittime, carte nautiche ufficiali, bollettini '
+         'meteomarini, avvisi ai naviganti). I dati possono essere incompleti, non aggiornati o variabili nel tempo.</div>'
+         '<p>La conduzione della nave e ogni decisione di navigazione sono <b>responsabilit\u00e0 esclusiva e '
+         'indelegabile del comandante</b>, che deve verificare ogni informazione presso le fonti ufficiali '
+         'prima dell\u2019uso. <b>SailTropics non si assume alcuna responsabilit\u00e0</b> per danni, perdite, '
+         'sanzioni o eventi derivanti da decisioni basate sui contenuti del sito. L\u2019uso delle informazioni '
+         'implica accettazione integrale delle presenti condizioni.</p>'
+         '</section>')
+    html=html.replace("<main>", "<main>"+home+"\n"+chi+"\n"+secs+"\n", 1)
 
     zones={}
     for zm in re.finditer(r'data-country="([^"]+/[^"]+)"[^>]*data-page="(p\d+)"[^>]*>([^<]{2,40})<', html):
@@ -294,7 +315,10 @@ def process(html):
            ".paesi-grid{grid-auto-rows:1fr}"
            ".paesi-grid .pname{font-size:15px}"
            ".disc-box{background:rgba(255,193,7,.08);border:1px solid rgba(255,193,7,.45);border-left:4px solid #ffc107;border-radius:10px;padding:10px 14px;margin:10px 0;font-size:13px}"
-           ".crumbs{font-size:12px;color:var(--muted,#8899aa);margin:0 0 6px}"
+           ".disc-box{background:rgba(255,193,7,.08);border:1px solid rgba(255,193,7,.45);border-left:4px solid #ffc107;border-radius:10px;padding:10px 14px;margin:10px 0;font-size:13px}"
+           ".nav-countries a.sub,.nav-countries a.zsub{display:none}"
+".nav-pages a{display:none}"
+".crumbs{font-size:12px;color:var(--muted,#8899aa);margin:0 0 6px}"
           ".crumbs a{color:var(--accent,#3fa7ff);text-decoration:none}"
           ".crumbs b{color:inherit}</style>",1)
     html=re.sub(r"show\('p1'\)","show('home')",html)
