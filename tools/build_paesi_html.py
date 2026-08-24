@@ -335,7 +335,7 @@ function show(id){
   current=id;
   const p=document.getElementById(id);
   document.querySelectorAll('.page').forEach(x=>x.classList.toggle('visible',x===p));
-  const c=p?p.dataset.country:'';
+  const c=(p&&p.dataset.country)||'';
   const root=c?c.split('/')[0]:'';
   clinks.forEach(l=>l.classList.toggle('active',l.dataset.country===root));
   plinks.forEach(l=>l.style.display=(c&&l.dataset.country===c)?'':'none');
