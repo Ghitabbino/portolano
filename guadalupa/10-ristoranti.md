@@ -8,7 +8,7 @@ Legenda prezzi: **€** <20 · **€€** 20–40 · **€€€** >40 — Cucin
 
 ## Mappa dei ristoranti
 
-<div class="mapframe" data-slug="guadalupa" data-minz="10" data-maxz="12" data-lat="16.10" data-lon="-61.39" data-markers='[[15.867, -61.583, "Le Toumbana"], [16.305, -61.795, "Chez Ketty"], [16.307, -61.796, "La Savane"], [16.306, -61.797, "Le Madras"], [16.306, -61.798, "Chez Raf"], [16.3065, -61.796, "L’Anse Gourmande"], [16.229, -61.38, "Le Lucullus"], [16.228, -61.379, "Le Cabanon"], [16.2295, -61.381, "Le Coquillage"], [16.2285, -61.3805, "Le Balaou"], [16.239, -61.272, "Le Zagaya"], [15.953, -61.038, "La Playa"], [15.949, -61.042, "Table du Père Labat"], [16.222, -61.493, "Le Planteur"], [16.512, -61.509, "Le Rayon de Soleil"]]'></div>
+<div class="mapframe" data-slug="guadalupa" data-minz="10" data-maxz="12" data-lat="16.10" data-lon="-61.39" data-markers='[[15.867, -61.583, "Le Toumbana", "p418"], [16.305, -61.795, "Chez Ketty", "p409"], [16.307, -61.796, "La Savane", "p417"], [16.306, -61.797, "Le Madras", "p411"], [16.306, -61.798, "Chez Raf", "p415"], [16.3065, -61.796, "L’Anse Gourmande", "p395"], [16.229, -61.38, "Le Lucullus", "p410"], [16.228, -61.379, "Le Cabanon", "p407"], [16.2295, -61.381, "Le Coquillage", "p408"], [16.2285, -61.3805, "Le Balaou", "p406"], [16.239, -61.272, "Le Zagaya", "p419"], [15.953, -61.038, "La Playa", "p414"], [15.949, -61.042, "Table du Père Labat", "p412"], [16.222, -61.493, "Le Planteur", "p413"], [16.512, -61.509, "Le Rayon de Soleil", "p416"]]'></div>
 
 ## Griglia generale
 

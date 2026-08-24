@@ -368,7 +368,9 @@ function initMaps(root){
          .bindPopup('<b>'+z[4]+'</b>').addTo(m);
       });
       if(hasPts)pts.forEach(p=>{
-        const mk=(isAnc?L.marker([p[0],p[1]],{icon:ancIcon}):L.circleMarker([p[0],p[1]],{radius:8,color:'#ff5252',weight:3,fillColor:'#ff5252',fillOpacity:.85})).addTo(m);
+        const isRist=/ristorant/i.test((root.querySelector('h1')||{textContent:''}).textContent||'');
+        const ristIcon=L.divIcon({className:'rist-ic',html:'<div style="filter:drop-shadow(0 1px 4px rgba(0,0,0,.85));font-size:22px;line-height:1">🍴</div>',iconSize:[24,24],iconAnchor:[12,20]});
+        const mk=(isAnc?L.marker([p[0],p[1]],{icon:ancIcon}):(isRist?L.marker([p[0],p[1]],{icon:ristIcon}):L.circleMarker([p[0],p[1]],{radius:8,color:'#ff5252',weight:3,fillColor:'#ff5252',fillOpacity:.85}))).addTo(m);
         if(p[3]){
           mk.on('add',()=>{if(mk._path)mk._path.style.cursor='pointer';});
           mk.bindTooltip(p[2]+' \u2014 clic per aprire la scheda',{direction:'top',offset:[0,-9],className:'anch-label'});
@@ -404,6 +406,7 @@ clinks.forEach(l=>l.addEventListener('click',e=>{
   const k=l.dataset.country||"";
   const cp=(current&&document.getElementById(current))?document.getElementById(current).dataset.country:"";
   if(l.classList.contains('sub')&&k&&cp&&(cp===k||cp.indexOf(k+'/')===0)){
+    if(cp!==l.dataset.page){show(l.dataset.page);return;}
     if(k.indexOf('caraibi/')===0){show('o-caraibi');return;}
     var g=GRP[k]; if(g){show('c-'+g);return;}
     show('o-'+PAR[k]); return;
