@@ -226,6 +226,13 @@ def process(html):
     # la regola plinks originale non serve più: la gestisce NAVJS (capitoli solo dentro l'isola, o paesi senza isole)
     html=html.replace("plinks.forEach(l=>l.style.display=(c&&l.dataset.country===c)?'':'none');",
                       "plinks.forEach(l=>l.style.display='none');",1)
+    # trap errori visibile in pagina (diagnosi)
+    trap=("<script>window.addEventListener('error',function(e){var d=document.createElement('pre');"
+          "d.style.cssText='position:fixed;top:0;left:0;z-index:99999;background:#b00;color:#fff;"
+          "padding:10px;font:13px monospace;max-width:92%;white-space:pre-wrap';"
+          "d.textContent='JSERR: '+(e.message||e.error)+' @ riga '+(e.lineno||'?');"
+          "document.body.appendChild(d);});</script>")
+    html=html.replace("</head>", trap+"</head>",1)
     # gerarchia visiva: classi CSS invece degli stili inline
     html=html.replace("</style>",
       ".nav-countries .sub{font-size:13px;padding-left:24px}"
