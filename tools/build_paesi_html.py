@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Genera paesi.html navigabile a partire dai markdown in paesi/ (per paese)."""
 import json
-import re, os
+import re
 from pathlib import Path
 
 import markdown
@@ -16,31 +16,7 @@ page_map = {}  # Path risolto -> id sezione
 scope_pid = {}  # (paese, titolo-norm) -> id
 queue = []     # (Path, titolo, id, paese)
 LABELS_IT={'cabo-verde':'Capo Verde'}
-
-REGIONE_PER_PAESE = {
-    # Caraibi
-    'anguilla': 'Caraibi', 'antigua-barbuda': 'Caraibi', 'aruba': 'Caraibi',
-    'bahamas': 'Caraibi', 'barbados': 'Caraibi', 'belize': 'Caraibi',
-    'bonaire': 'Caraibi', 'cayman': 'Caraibi', 'cuba': 'Caraibi',
-    'curacao': 'Caraibi', 'dominica': 'Caraibi', 'grenada': 'Caraibi',
-    'grenadine': 'Caraibi', 'guadalupa': 'Caraibi', 'honduras': 'Caraibi',
-    'ispaniola': 'Caraibi', 'giamaica': 'Caraibi', 'martinica': 'Caraibi',
-    'montserrat': 'Caraibi', 'nicaragua': 'Caraibi', 'panama': 'Caraibi',
-    'porto-rico': 'Caraibi', 'saba': 'Caraibi', 'saint-barth': 'Caraibi',
-    'saint-martin': 'Caraibi', 'santa-lucia': 'Caraibi', 'st-eustatius': 'Caraibi',
-    'st-kitts-nevis': 'Caraibi', 'trinidad-tobago': 'Caraibi', 'turks-caicos': 'Caraibi',
-    'venezuela': 'Caraibi', 'virgin-islands': 'Caraibi',
-    # Atlantico
-    'cabo-verde': 'Atlantico', 'canarie': 'Atlantico', 'madeira': 'Atlantico', 'azzorre': 'Atlantico',
-    # Pacifico
-    'costarica': 'Pacifico',
-    # Mediterraneo (futuro)
-}
-
-REGIONI_ORDINE = ['Caraibi', 'Atlantico', 'Pacifico', 'Mediterraneo']
-
 countries = [] # (chiave paese, id copertina)
-country_to_region = {}
 
 
 def strip_zone_suffix(title: str, sub_name: str) -> str:
@@ -200,25 +176,15 @@ for country_dir in sorted(p for p in ROOT.iterdir() if p.is_dir() and not p.name
                 title = re.sub(r"\s*\{#[^}]*\}", "", title).strip()
                 register(f, title, country=gkey, in_nav=False)
     countries.append((key, queue[start][2]))
-    country_to_region[key] = REGIONE_PER_PAESE.get(key, 'Altro')
 
 for md_path, title, sec_id, country in queue:
     render(md_path, title, sec_id, country)
 
-# Build region -> countries mapping
-region_to_countries = {}
-for ctry, reg in country_to_region.items():
-    region_to_countries.setdefault(reg, []).append(ctry)
-
 nav_html = ('<div class="nav-countries">'
-            + "".join(
-                f'<div class="country region-header" data-region="{reg}">{reg}</div>'
-                + "".join(f'<a class="navlink country-link" data-country="{k}" '
-                          f'data-page="{pid}" href="#{pid}">'
-                          f'{LABELS_IT.get(k, (" · ".join(p.capitalize() for p in k.split("/"))).replace("-", " "))}</a>'
-                          for k, pid in sorted(countries) if country_to_region.get(k) == reg)
-                for reg in REGIONI_ORDINE if reg in region_to_countries
-            )
+            + "".join(f'<a class="navlink country-link" data-country="{k}" '
+                      f'data-page="{pid}" href="#{pid}">'
+                      f'{LABELS_IT.get(k, (" · ".join(p.capitalize() for p in k.split("/"))).replace("-", " "))}</a>'
+                      for k, pid in sorted(countries))
             + '</div><div class="nav-pages">' + "\n".join(nav_pages) + "</div>")
 
 TEMPLATE = """<!DOCTYPE html>
@@ -343,7 +309,7 @@ function show(id){
     const lk=l.dataset.country;
     let vis=false;
     if(c){
-      if(c.includes('/')) vis=false;             // il nome isola sta nel menu paesi (zsub)
+      if(c.includes('/')) vis=(lk===c);            // dentro zona: solo la sua intestazione
       else vis=(lk.split('/')[0]===root);          // a livello paese: tutte le sue zone
     }
     l.style.display=vis?'':'none';                 // senza paese (Indice): nascoste
@@ -402,9 +368,7 @@ function initMaps(root){
          .bindPopup('<b>'+z[4]+'</b>').addTo(m);
       });
       if(hasPts)pts.forEach(p=>{
-        const isRist=/ristorant/i.test((root.querySelector('h1')||{textContent:''}).textContent||'');
-        const ristIcon=L.divIcon({className:'rist-ic',html:'<div style="filter:drop-shadow(0 1px 4px rgba(0,0,0,.85));font-size:22px;line-height:1">🍴</div>',iconSize:[24,24],iconAnchor:[12,20]});
-        const mk=(isAnc?L.marker([p[0],p[1]],{icon:ancIcon}):(isRist?L.marker([p[0],p[1]],{icon:ristIcon}):L.circleMarker([p[0],p[1]],{radius:8,color:'#ff5252',weight:3,fillColor:'#ff5252',fillOpacity:.85}))).addTo(m);
+        const mk=(isAnc?L.marker([p[0],p[1]],{icon:ancIcon}):L.circleMarker([p[0],p[1]],{radius:8,color:'#ff5252',weight:3,fillColor:'#ff5252',fillOpacity:.85})).addTo(m);
         if(p[3]){
           mk.on('add',()=>{if(mk._path)mk._path.style.cursor='pointer';});
           mk.bindTooltip(p[2]+' \u2014 clic per aprire la scheda',{direction:'top',offset:[0,-9],className:'anch-label'});
@@ -439,21 +403,13 @@ clinks.forEach(l=>l.addEventListener('click',e=>{
   const s=document.getElementById('search'); s.value='';
   const k=l.dataset.country||"";
   const cp=(current&&document.getElementById(current))?document.getElementById(current).dataset.country:"";
-  if(l.classList.contains('country-link')&&k&&cp&&cp!==k){
-    show(l.dataset.page);return;
+  if(l.classList.contains('sub')&&k&&cp&&(cp===k||cp.indexOf(k+'/')===0)){
+    if(k.indexOf('caraibi/')===0){show('o-caraibi');return;}
+    var g=GRP[k]; if(g){show('c-'+g);return;}
+    show('o-'+PAR[k]); return;
   }
   if(OC_IDS[k]&&k&&cp===k){show('home');return;}
-  if(l.classList.contains('zsub')&&k&&cp&&cp===k){
-    const nat=k.split('/')[0];
-    const n=document.querySelector('.nav-countries a.country-link[data-country="'+nat+'"]');
-    if(n){show(n.dataset.page);return;}
-  }
   show(l.dataset.page);
-}));
-document.querySelectorAll('.region-header').forEach(h=>h.addEventListener('click',e=>{
-  e.preventDefault();
-  const s=document.getElementById('search'); s.value='';
-  show('p1');
 }));
 document.getElementById('home-link').addEventListener('click',()=>{
   const s=document.getElementById('search'); s.value='';
@@ -466,7 +422,7 @@ plinks.forEach(l=>l.addEventListener('click',e=>{e.preventDefault();show(l.datas
   const cp=(current&&document.getElementById(current))?document.getElementById(current).dataset.country:"";
   if(cp&&cp.indexOf('/')>=0&&cp===l.dataset.country){
     const nat=cp.split('/')[0];
-    const n=document.querySelector('.nav-countries a.country-link[data-country="'+nat+'"]');
+    const n=document.querySelector('.nav-countries a.sub[data-country="'+nat+'"]');
     if(n){show(n.dataset.page);return;}
   }
   show(l.dataset.page);
@@ -503,21 +459,16 @@ document.getElementById('search').addEventListener('input',e=>{
     const k=l.dataset.country;
     l.style.display=(l.textContent.toLowerCase().includes(q)||rootVis[k])?'':'none';
   });
-  document.querySelectorAll('.region-header').forEach(h=>{
-    const reg=h.dataset.region;
-    h.style.display=rootVis[reg]?'':'none';
-  });
 });
 show('__FIRST__');
 </script>
-<script>setTimeout(function(){if(!document.querySelector('.page.visible')){var h=document.getElementById('home');if(h)h.classList.add('visible');}},150);</script>
 <script src="assets/leaflet.js"></script>
 </body>
 </html>
 """
 
 html = TEMPLATE.replace("__NAV__", nav_html).replace("__SECTIONS__", "\n".join(sections)).replace("__FIRST__", "p1")
-_tmp=OUT.with_suffix(".tmp"); _tmp.write_text(html, encoding="utf-8"); _tmp.replace(OUT)
+OUT.write_text(html, encoding="utf-8")
 print(f"OK -> {OUT} ({OUT.stat().st_size} byte, {len(queue)} pagine)")
 
 
