@@ -58503,8 +58503,8 @@ function initMaps(root){
     const satLo=L.tileLayer('mappe/'+slug+'/sat/{z}/{x}_{y}.jpg',{minZoom:minz,maxZoom:Math.max(maxz,19)});
     const cartoOn=L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',{minZoom:Math.min(minz,10),maxZoom:Math.max(maxz,20),subdomains:'abcd',attribution:'© OpenStreetMap · © CARTO'});
     const baseLo=L.tileLayer('mappe/'+slug+'/base/{z}/{x}_{y}.png',{minZoom:minz,maxZoom:Math.max(maxz,19)});
-    const seaOn=L.tileLayer('https://tiles.openseamap.org/seamark/{z}/{x}/{y}.png',{minZoom:minz,maxZoom:maxz,attribution:'Segnali © OpenSeaMap'});
-    const seaLo=L.tileLayer('mappe/'+slug+'/sea/{z}/{x}_{y}.png',{minZoom:minz,maxZoom:maxz});
+    const seaOn=L.tileLayer('https://tiles.openseamap.org/seamark/{z}/{x}/{y}.png',{minZoom:minz,maxZoom:Math.max(maxz,17),attribution:'Segnali © OpenSeaMap'});
+    const seaLo=L.tileLayer('mappe/'+slug+'/sea/{z}/{x}_{y}.png',{minZoom:minz,maxZoom:Math.max(maxz,17)});
     const gSat=L.layerGroup([esriOn,satLo]).addTo(m);
     const gBase=L.layerGroup([cartoOn,baseLo]);
     const gSea=L.layerGroup([seaOn,seaLo]);
