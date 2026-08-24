@@ -287,7 +287,7 @@ def process(html):
            ".crumbs{font-size:12px;color:var(--muted,#8899aa);margin:0 0 6px}"
           ".crumbs a{color:var(--accent,#3fa7ff);text-decoration:none}"
           ".crumbs b{color:inherit}</style>",1)
-    html=re.sub(r"show\\('p1'\\)","show('home')",html,count=1)
+    html=re.sub(r"show\('p1'\)","show('home')",html)
     html=html.replace("<script>","<script>",1)
     return html
 
