@@ -10,9 +10,9 @@
 | Costo | 💰€€€ per persona senza bevande |
 | Location | 🌅 vista oceano atlantico |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Rayon+de+Soleil+Anse-Bertrand) |
-| Contatti | **DATO MANCANTE** |
+| Contatti | [Mappa](https://www.google.com/maps/search/?api=1&query=Rayon+Soleil+Anse-Bertrand) |
 | Valutazioni | Google positive → ★★★★ |
-| Orari | **DATO MANCANTE** |
+| Orari | pranzo · cena su prenotazione ⚠️ |
 
 ## Menu
 

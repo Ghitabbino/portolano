@@ -10,9 +10,9 @@
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🪶 locale nuovo |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=L'Anse+Gourmande+Deshaies) |
-| Contatti | **DATO MANCANTE** |
+| Contatti | [Mappa](https://www.google.com/maps/search/?api=1&query=Anse+Gourmande+Deshaies) |
 | Valutazioni | Google 4,9/5 (35) — pochi dati → ★★★★★* |
-| Orari | **DATO MANCANTE** |
+| Orari | novità 2025-26: orari in definizione ⚠️ |
 
 ## Menu
 

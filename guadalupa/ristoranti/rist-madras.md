@@ -10,9 +10,9 @@
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🪶 bordo mare, set TV |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Madras+Deshaies) |
-| Contatti | **DATO MANCANTE** |
+| Contatti | [Mappa](https://www.google.com/maps/search/?api=1&query=Restaurant+Le+Madras+Deshaies) |
 | Valutazioni | Google 4,3/5 (398) → ★★★★ |
-| Orari | **DATO MANCANTE** |
+| Orari | pranzo tutto l'anno · cena stagionale ⚠️ |
 
 ## Menu
 

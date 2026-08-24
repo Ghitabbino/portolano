@@ -10,9 +10,9 @@
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🌅 terrazza rilassata |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Balaou+Sainte-Anne) |
-| Contatti | **DATO MANCANTE** |
+| Contatti | [Mappa](https://www.google.com/maps/search/?api=1&query=Le+Balaou+Sainte-Anne+Guadeloupe) |
 | Valutazioni | Google 4,3/5 (405) → ★★★★ |
-| Orari | **DATO MANCANTE** |
+| Orari | cena dal tramonto · chiusura variabile ⚠️ |
 
 ## Menu
 

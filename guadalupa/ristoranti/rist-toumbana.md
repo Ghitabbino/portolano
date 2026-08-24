@@ -10,9 +10,9 @@
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🌴 giardino tropicale |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Toumbana+Terre-de-Haut+(Les+Saintes)) |
-| Contatti | **DATO MANCANTE** |
+| Contatti | [Mappa](https://www.google.com/maps/search/?api=1&query=Toumbana+Terre-de-Haut+Les+Saintes) |
 | Valutazioni | Google positive → ★★★★ |
-| Orari | **DATO MANCANTE** |
+| Orari | pranzo e cena · chiuso fuori stagione ⚠️ |
 
 ## Menu
 

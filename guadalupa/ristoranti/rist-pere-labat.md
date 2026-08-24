@@ -10,9 +10,9 @@
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🪶 tradizionale |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Table+du+Père+Labat+Grand-Bourg) |
-| Contatti | **DATO MANCANTE** |
+| Contatti | [Mappa](https://www.google.com/maps/search/?api=1&query=Pere+Labat+Grand-Bourg+Marie-Galante) |
 | Valutazioni | Google positive → ★★★★ |
-| Orari | **DATO MANCANTE** |
+| Orari | orari legati ai traghetti ⚠️ |
 
 ## Menu
 

@@ -10,9 +10,9 @@
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🏖️ spiaggia, tramonto |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Zagaya+Saint-François) |
-| Contatti | **DATO MANCANTE** |
+| Contatti | [Mappa](https://www.google.com/maps/search/?api=1&query=Zagaya+Saint-Francois+Guadeloupe) |
 | Valutazioni | Google positive → ★★★★ |
-| Orari | **DATO MANCANTE** |
+| Orari | pieds dans l'eau · cena stagionale ⚠️ |
 
 ## Menu
 

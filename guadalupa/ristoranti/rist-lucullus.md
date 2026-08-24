@@ -10,9 +10,9 @@
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🌅 terrazza |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Lucullus+Sainte-Anne) |
-| Contatti | **DATO MANCANTE** |
+| Contatti | [Scheda TripAdvisor](https://www.tripadvisor.fr/Restaurant_Review-g147303-d1945770-Reviews-Le_Lucullus-Sainte_Anne_Grande_Terre_Island_Guadeloupe.html) |
 | Valutazioni | Google 4,3/5 (1366) → ★★★★ |
-| Orari | **DATO MANCANTE** |
+| Orari | aperto tutto l'anno · 12–15 / 19–22:30 tipici ⚠️ |
 
 ## Menu
 

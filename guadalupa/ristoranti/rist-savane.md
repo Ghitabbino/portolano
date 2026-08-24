@@ -10,9 +10,9 @@
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🌅 vista mare |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Savane+Deshaies) |
-| Contatti | **DATO MANCANTE** |
+| Contatti | 0590 91 39 58 · la-savane.com |
 | Valutazioni | Google 4,5/5 (568) → ★★★★½ |
-| Orari | **DATO MANCANTE** |
+| Orari | tutti i giorni 11:30–22:30 (serv. 12–14/18–21) |
 
 ## Menu
 

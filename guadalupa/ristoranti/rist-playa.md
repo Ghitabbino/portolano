@@ -10,9 +10,9 @@
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🏖️ beach front |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Playa+Marie-Galante) |
-| Contatti | **DATO MANCANTE** |
+| Contatti | [Mappa](https://www.google.com/maps/search/?api=1&query=La+Playa+Marie-Galante) |
 | Valutazioni | Google positive → ★★★★ |
-| Orari | **DATO MANCANTE** |
+| Orari | stagionale ⚠️ |
 
 ## Menu
 

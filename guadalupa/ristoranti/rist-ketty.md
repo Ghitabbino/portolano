@@ -10,9 +10,9 @@
 | Costo | 💰€€ per persona senza bevande |
 | Location | 🌴 case créole in giardino |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chez+Ketty+Deshaies) |
-| Contatti | **DATO MANCANTE** |
+| Contatti | +590 690 69-3539 |
 | Valutazioni | Google 4,7/5 (217) → ★★★★★ |
-| Orari | **DATO MANCANTE** |
+| Orari | lun 19–22 · gio–dom 12–22 · chiuso mar/mer |
 
 ## Menu
 
