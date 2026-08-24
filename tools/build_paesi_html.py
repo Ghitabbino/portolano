@@ -369,7 +369,7 @@ function initMaps(root){
       });
       if(hasPts)pts.forEach(p=>{
         const isRist=/ristorant/i.test((root.querySelector('h1')||{textContent:''}).textContent||'');
-        const ristIcon=L.divIcon({className:'rist-ic',html:'<div style="filter:drop-shadow(0 1px 4px rgba(0,0,0,.85));font-size:22px;line-height:1">🍴</div>',iconSize:[24,24],iconAnchor:[12,20]});
+        const ristIcon=L.divIcon({className:'rist-ic',html:'<div style="background:#ff6f00;border:2px solid #fff;border-radius:50%;width:30px;height:30px;display:flex;align-items:center;justify-content:center;font-size:18px;filter:drop-shadow(0 2px 6px rgba(0,0,0,.85))">🍽️</div>',iconSize:[30,30],iconAnchor:[15,15]});
         const mk=(isAnc?L.marker([p[0],p[1]],{icon:ancIcon}):(isRist?L.marker([p[0],p[1]],{icon:ristIcon}):L.circleMarker([p[0],p[1]],{radius:8,color:'#ff5252',weight:3,fillColor:'#ff5252',fillOpacity:.85}))).addTo(m);
         if(p[3]){
           mk.on('add',()=>{if(mk._path)mk._path.style.cursor='pointer';});
