@@ -1,40 +1,23 @@
 # 01 — Clearance doganale della barca
 
-**Ultima verifica: 24/08/2026**
+**Ultimo aggiornamento: 23/08/2026**
 
-## Chi deve farla
-
-Tutti i natanti da diporto che **entrano** da acque straniere o **escono** verso l'estero. Anche gli spostamenti tra isole dello stesso arcipelago possono richiedere zarpe/clearance a seconda del paese. ★★
-
-## Dove farla — Turks e Caicos
-
-- Porto d'ingresso ufficiale: **Providenciales / Grand Turk** — Immigration & Customs / Port Authority. ★★
-- Orari tipici: lun–ven 8–16, sab 8–12; fuori orario possibile overtime a pagamento — **DATO MANCANTE** tariffa esatta, verificare in loco. ★★
-- VHF: **16** per chiamare Port Control / autorità all'arrivo. ★★
 
 ## Procedura
 
-1. Arrivare con bandiera Q issata; non sbarcare prima dell'autorizzazione se richiesto.
-2. Presentarsi a Immigration (persone) + Customs (barca) + Port Authority con: passaporti equipaggio, documenti barca, lista equipaggio, ultimo zarpe/port clearance.
-3. Compilare moduli e pagare tasse (se previste): **DATO MANCANTE** importo esatto — stimato 10–50 USD a seconda della lunghezza. ★★
-4. Ricevere zarpe/clearance timbrata per la prossima destinazione — conservarla a bordo. ★★
+- **SailClear obbligatorio ≥24 h prima** ★★★★
+- Porti: Providenciales (South Dock, Blue Haven, South Bank, Southside, Sapodilla Bay) · Grand Turk · Cockburn Harbour (South Caicos) ★★★★
 
-## Costi indicativi
+## Costi
 
-| Voce | Costo | Fonte |
-|---|---|---|
-| Immigration / visto | DATO MANCANTE | Verificare sul posto |
-| Customs / Port Authority | DATO MANCANTE | — |
-| Overtime fuori orario | DATO MANCANTE | — |
-| Tassa ambientale / parco marino | DATO MANCANTE | Se applicabile |
+| Voce | Importo |
+|---|---|
+| Inbound | **US$50** |
+| Outbound | **US$50** |
+| Extra-tempo | 10–15 US$/h |
 
-## Sanzioni
+## Emergenze
 
-Mancata clearance = sanzioni amministrative e possibile fermo barca. Conservare sempre l'attestazione e presentarla a richiesta delle autorità. ★★
+**911** · VHF 16 ★★★★
 
-## Da verificare prima della crociera
-
-- Lista aggiornata dei porti d'ingresso ufficiali (pubblicata dalle autorità locali / Noonsite).
-- Eventuali preregistrazioni online (eSeaClear, SailClear) dove attive.
-
-Ultimo aggiornamento: 24/08/2026
+Ultimo aggiornamento: 23/08/2026

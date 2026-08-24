@@ -1,27 +1,22 @@
 # 10 — Ristoranti
 
-**Ultimo aggiornamento: 24/08/2026**
+**Ultimo aggiornamento: 23/08/2026**
 
-Selezione orientata alla crociera: locali raggiungibili a piedi dagli ancoraggi/marine ([08 Ancoraggi](08-ancoraggi.md)). Prezzi indicativi per persona senza bevande. Valutazione stelle da verificare su Google al controllo mensile.
 
-Legenda prezzi: **€** <20 · **€€** 20–40 · **€€€** >40 — Cucina: 🐟 pesce · 🥩 carne · 🥗 vegetariano · 🥙 street food · 🍰 dolci
+Grand Case = capitale gastronomica dei Caraibi: fila di ristoranti francesi in case creole sul Boulevard ★★★★
 
-## Griglia generale
+| Locale | Zona | Prezzi | Cucina | Note |
+|---|---|---|---|---|
+| [Le Pressoir](https://lepressoirsxm.com) | Grand Case | €€€ | Francese fine | Creole cottage, prenotare ★★★★ |
+| Villa Royale | Grand Case, 47 bd de Grand Case, tel 0590 87 07 42 | €€ | Haitiana/creola | Djon-djon rice ★★★ |
+| Lolos di Grand Case | Grand Case | € | Grigliate stradali | Johnny cakes, brochettes ★★★★ |
+| Friar's Bay Beach Café | Friar's Bay | €€ | Bistro | Spiaggia, tramonto ★★★ |
+| Le Bistro Nu | Marigot, 23 rue Perrinon | €€ | Francese | ★★★ |
+| 978 Beach Lounge | Friar's Bay | €€ | Creola | Beach lounge ★★ |
 
-| Ristorante | Zona | Costo | Cucina | Specialità | Location | Stelle |
-|---|---|---|---|---|---|---|
-| DATO MANCANTE — verifica sul posto | Marina / waterfront Marigot / Philipsburg | **€€** | 🐟 Pesce creolo | Pesce fresco del giorno | ⚓ marina | ★★ |
-| DATO MANCANTE — bar della marina | Marina principale | **€** | 🥙 Street food | Roti / fish & chips | 🥙 casual | ★★ |
-| DATO MANCANTE — ristorante spiaggia | Spiaggia principale | **€€** | 🐟 Grill | Lobster / BBQ | 🏖️ spiaggia | ★★ |
+## Provvisioning
 
-> I nominativi con **DATO MANCANTE** non sono stati verificati con websearch/webfetch in questa sessione; verranno cercati al controllo mensile con Google/TheFork. Mai inventare nomi. ★★
+- **Marigot**: Marché Central, supermercati francesi (Leader Price), panetterie ★★★★
+- **Simpson Bay lagoon**: chandler e supermercati olandesi ★★★
 
-## App e fonti
-
-| Piattaforma | Uso locale |
-|---|---|
-| Google Maps recensioni | Il più aggiornato; orari spesso errati fuori stagione |
-| Facebook locale | Pagine ristoranti: menu e chiusure in tempo reale |
-| TheFork/LaFourchette | Copertura limitata nei Caraibi |
-
-Ultimo aggiornamento: 24/08/2026
+Ultimo aggiornamento: 23/08/2026

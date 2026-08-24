@@ -1,40 +1,28 @@
 # 01 — Clearance doganale della barca
 
-**Ultima verifica: 24/08/2026**
+**Ultimo aggiornamento: 23/08/2026**
 
-## Chi deve farla
 
-Tutti i natanti da diporto che **entrano** da acque straniere o **escono** verso l'estero. Anche gli spostamenti tra isole dello stesso arcipelago possono richiedere zarpe/clearance a seconda del paese. ★★
+## Porti d'ingresso (5)
 
-## Dove farla — Santa Lucia
-
-- Porto d'ingresso ufficiale: **Rodney Bay / Marigot Bay** — Immigration & Customs / Port Authority. ★★
-- Orari tipici: lun–ven 8–16, sab 8–12; fuori orario possibile overtime a pagamento — **DATO MANCANTE** tariffa esatta, verificare in loco. ★★
-- VHF: **16** per chiamare Port Control / autorità all'arrivo. ★★
+**Rodney Bay Marina** · Marigot Bay · Castries · Soufrière · Vieux Fort ★★★★
 
 ## Procedura
 
-1. Arrivare con bandiera Q issata; non sbarcare prima dell'autorizzazione se richiesto.
-2. Presentarsi a Immigration (persone) + Customs (barca) + Port Authority con: passaporti equipaggio, documenti barca, lista equipaggio, ultimo zarpe/port clearance.
-3. Compilare moduli e pagare tasse (se previste): **DATO MANCANTE** importo esatto — stimato 10–50 USD a seconda della lunghezza. ★★
-4. Ricevere zarpe/clearance timbrata per la prossima destinazione — conservarla a bordo. ★★
+- Pre-arrivo: [SailClear](https://sailclear.com) + **form immigrazione online per tutto l'equipaggio** su [travelslu.govt.lc](https://travelslu.govt.lc) + Maritime Declaration of Health ★★★★
+- Clearance entro **24 h**; sosta fino a **3 mesi** (estensione EC$100/21 gg a Castries) — [turismo ufficiale](https://stlucia.org/en/plan-your-saint-lucia-trip/navigation-clearance/) ★★★★
+- Orari 08:00–16:30 (Rodney Bay 7/7); a Rodney Bay tutti gli uffici nello stesso edificio: Health → Customs → Immigration → SLASPA ★★★★
 
-## Costi indicativi
+## Costi
 
-| Voce | Costo | Fonte |
-|---|---|---|
-| Immigration / visto | DATO MANCANTE | Verificare sul posto |
-| Customs / Port Authority | DATO MANCANTE | — |
-| Overtime fuori orario | DATO MANCANTE | — |
-| Tassa ambientale / parco marino | DATO MANCANTE | Se applicabile |
+| Voce | Importo |
+|---|---|
+| Ingresso yacht tipico (orari normali) | **EC$50** |
+| Clearance | EC$5 (<40 ft) · EC$15 (>40 ft) |
+| Boe SMMA (Soufrière) | EC$54/notte · EC$324/sett ★★★★ |
 
-## Sanzioni
+## Emergenze
 
-Mancata clearance = sanzioni amministrative e possibile fermo barca. Conservare sempre l'attestazione e presentarla a richiesta delle autorità. ★★
+**911** ⚠️ Furti da barche segnalati a Rodney Bay/Vieux Fort/Soufrière: sicurezza a bordo — [Noonsite](https://www.noonsite.com/place/st-lucia) ★★★★
 
-## Da verificare prima della crociera
-
-- Lista aggiornata dei porti d'ingresso ufficiali (pubblicata dalle autorità locali / Noonsite).
-- Eventuali preregistrazioni online (eSeaClear, SailClear) dove attive.
-
-Ultimo aggiornamento: 24/08/2026
+Ultimo aggiornamento: 23/08/2026

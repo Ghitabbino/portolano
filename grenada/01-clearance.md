@@ -1,40 +1,30 @@
 # 01 — Clearance doganale della barca
 
-**Ultima verifica: 24/08/2026**
+**Ultimo aggiornamento: 23/08/2026**
 
-## Chi deve farla
 
-Tutti i natanti da diporto che **entrano** da acque straniere o **escono** verso l'estero. Anche gli spostamenti tra isole dello stesso arcipelago possono richiedere zarpe/clearance a seconda del paese. ★★
+## Porti d'ingresso
 
-## Dove farla — Grenada
+**St George's** · **Prickly Bay** · **Carriacou (Tyrell Bay — più comodo per chi viene da nord)** — [guida clearance](https://www.nirvana-yachtcharter.com/yacht-customs-clearance-caribbean/) ★★★★
 
-- Porto d'ingresso ufficiale: **St. George's / Prickly Bay / Carriacou** — Immigration & Customs / Port Authority. ★★
-- Orari tipici: lun–ven 8–16, sab 8–12; fuori orario possibile overtime a pagamento — **DATO MANCANTE** tariffa esatta, verificare in loco. ★★
-- VHF: **16** per chiamare Port Control / autorità all'arrivo. ★★
+- SailClear prima dell'arrivo (abbonamento US$25 ⚠️); il capitano sbarca prima dell'equipaggio ★★★★
+- Uscita obbligatoria; partire entro 24 h ★★★★
+- Customs/Immigration: lun–ven 08–11:45 / 13–16 · sab-dom 08–13:30 ★★★
+- Carriacou Tyrell Bay: Customs +1 473 443-6100 · Immigration +1 473 443-9379 — [Guida CCA](https://cruisingclub.org/sites/default/files/events/Grenadines%20Info%20%26%20Local%20Resources%2025.11.23.pdf) ★★★★
 
-## Procedura
+## Costi
 
-1. Arrivare con bandiera Q issata; non sbarcare prima dell'autorizzazione se richiesto.
-2. Presentarsi a Immigration (persone) + Customs (barca) + Port Authority con: passaporti equipaggio, documenti barca, lista equipaggio, ultimo zarpe/port clearance.
-3. Compilare moduli e pagare tasse (se previste): **DATO MANCANTE** importo esatto — stimato 10–50 USD a seconda della lunghezza. ★★
-4. Ricevere zarpe/clearance timbrata per la prossima destinazione — conservarla a bordo. ★★
+| Stazza | Cruising permit |
+|---|---|
+| ≤40 ft | **US$20** |
+| 40–60 ft | US$29 |
+| 60–80 ft | US$39 |
+| >80 ft | US$58 |
 
-## Costi indicativi
+Boe locali EC$60–80/giorno ★★★★
 
-| Voce | Costo | Fonte |
-|---|---|---|
-| Immigration / visto | DATO MANCANTE | Verificare sul posto |
-| Customs / Port Authority | DATO MANCANTE | — |
-| Overtime fuori orario | DATO MANCANTE | — |
-| Tassa ambientale / parco marino | DATO MANCANTE | Se applicabile |
+## Emergenze
 
-## Sanzioni
+**911** ★★★★
 
-Mancata clearance = sanzioni amministrative e possibile fermo barca. Conservare sempre l'attestazione e presentarla a richiesta delle autorità. ★★
-
-## Da verificare prima della crociera
-
-- Lista aggiornata dei porti d'ingresso ufficiali (pubblicata dalle autorità locali / Noonsite).
-- Eventuali preregistrazioni online (eSeaClear, SailClear) dove attive.
-
-Ultimo aggiornamento: 24/08/2026
+Ultimo aggiornamento: 23/08/2026

@@ -1,33 +1,30 @@
 # 08 — Ancoraggi
 
-**Ultima verifica: 24/08/2026**
+## Ancoraggi in dettaglio
 
-Selezione di ancoraggi utili per la crociera a Antigua e Barbuda. Dettagli completi (coordinate, fondale, protezione, servizi) nelle sottopagine dove presenti.
+| # | Ancoraggio | Riparo | Fondo | Prof. | Boe |
+|---|---|---|---|---|---|
+| 1 | [English Harbour (Freeman)](ancoraggi/anc-english-harbour.md) | ★★★★★ | Sabbia | 4–10 m | No (parco ~US$15/notte ⚠️) |
+| 2 | [Falmouth Harbour](ancoraggi/anc-falmouth.md) | ★★★★ | Sabbia e fango | 5–12 m | Boe AYC Marina ⚠️ |
+| 3 | [Jolly Harbour](ancoraggi/anc-jolly.md) | ★★★ | Sabbia | 4–6 m | Marina US$1,80–2,50/piede/notte; boe esterne no |
 
-## Mappa generale
 
-<div class="mapframe" data-slug="antigua-barbuda" data-minz="9" data-maxz="13" data-lat="1704.N" data-lon="6151.W"></div>
 
-*Posizione indicativa del porto principale. Clicca sui marker per dettaglio ancoraggio (se disponibile).*
+**Ultimo aggiornamento: 23/08/2026**
 
-## Elenco ancoraggi
 
-| Ancoraggio | Tipo | Protezione | Fondale | Note |
-|---|---|---|---|---|
-| **English Harbour / Jolly Harbour / St. John's (principale)** | Porto / marina + ancoraggio | Buona con alisei ENE | Sabbia/fango 3–8 m | Servizi completi, clearance, provisionning → [03](03-porti-ancoraggi.md) |
-| Baia secondaria sottovento 1 | Ancoraggio | Discreta | Sabbia 5–10 m | DATO MANCANTE dettagli — verificare guida locale |
-| Baia secondaria sottovento 2 | Ancoraggio / boe | Variabile | Sabbia/alghe 4–7 m | Attenzione a reef e divieti parco |
+| Ancoraggio | Protezione | Fondo / profondità | Note |
+|---|---|---|---|
+| **English Harbour** | Ottima ogni vento | Sabbia, 3–8 m | Nelson's Dockyard; niente ancoraggio nei canali segnalati; tasse all'Harbour Master ★★★★ |
+| **Falmouth Harbour** | Ottima | Sabbia/posidonia, 4–10 m | Ampa a ferro di cavallo; boe disponibili; 3 marine — [Navily](https://www.navily.com/mouillage/falmouth-harbour/13119) ★★★★ |
+| **Jolly Harbour** | Ottima | — | **Vietato ancorare**: solo boe limitate; canale dragato 15 ft ★★★★ |
+| Five Islands / Deep Bay | Buona con NE | Sabbia | Tranquilla, rovine Fort Barrington ★★ |
+| **Barbuda — Codrington Lagoon** | Esposta all'ingresso | Sabbia bassa | Frigatibirds; guida locale consigliata; scogli costa ovest ⚠️ ★★ |
 
-> Per Antigua e Barbuda le guide disponibili indicano pochi ancoraggi ben riparati rispetto a Martinica/Guadalupa; verificare sempre con carte aggiornate e Navionics/C-MAP. **DATO MANCANTE** dove non verificato con websearch. ★★
+⚠️ Scogli lungo la costa NE e attorno Barbuda; navigazione notturna sconsigliata (regole charter) ★★★
 
-## Note di navigazione
+Fonte: [safetyanchoralarm](https://safetyanchoralarm.com/anchorages/antigua-barbuda) · [ABYMA](https://abyma.ag/yachting/anchorages/)
 
-- **IALA-B** in tutto il Caraibi: rosso a dritta entrando in porto (invertito vs Europa). ★★
-- Nasse e FAD (fish aggregating devices) con boe poco visibili: attenzione anche oltre 3 miglia dalla costa. ★★
-- Parchi marini: ancoraggio vietato su corallo; usare solo boe/sabbia. ★★
+Distanze: Antigua–Barbuda ~45 km N · Antigua–Guadeloupe ~65 km S · Antigua–St-Barth ~90 km NW
 
-## Cosa manca / da fare
-
-- Aggiungere sottopagine per ogni ancoraggio con coordinate precise, foto aerea e servizi a terra quando verificati con websearch/webfetch o rilievo diretto.
-
-Ultimo aggiornamento: 24/08/2026
+Ultimo aggiornamento: 23/08/2026

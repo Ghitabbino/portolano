@@ -1,27 +1,16 @@
 # 10 — Ristoranti
 
-**Ultimo aggiornamento: 24/08/2026**
-
-Selezione orientata alla crociera: locali raggiungibili a piedi dagli ancoraggi/marine ([08 Ancoraggi](08-ancoraggi.md)). Prezzi indicativi per persona senza bevande. Valutazione stelle da verificare su Google al controllo mensile.
-
-Legenda prezzi: **€** <20 · **€€** 20–40 · **€€€** >40 — Cucina: 🐟 pesce · 🥩 carne · 🥗 vegetariano · 🥙 street food · 🍰 dolci
-
 ## Griglia generale
 
 | Ristorante | Zona | Costo | Cucina | Specialità | Location | Stelle |
 |---|---|---|---|---|---|---|
-| DATO MANCANTE — verifica sul posto | Marina / waterfront Road Town | **€€** | 🐟 Pesce creolo | Pesce fresco del giorno | ⚓ marina | ★★ |
-| DATO MANCANTE — bar della marina | Marina principale | **€** | 🥙 Street food | Roti / fish & chips | 🥙 casual | ★★ |
-| DATO MANCANTE — ristorante spiaggia | Spiaggia principale | **€€** | 🐟 Grill | Lobster / BBQ | 🏖️ spiaggia | ★★ |
-
-> I nominativi con **DATO MANCANTE** non sono stati verificati con websearch/webfetch in questa sessione; verranno cercati al controllo mensile con Google/TheFork. Mai inventare nomi. ★★
+| [Foxy's Bar](ristoranti/rist-foxys.md) | Great Harbour, Jost Van Dyke | **€€** | **🍹 Bar leggendario** | *Grill · rum* | **⚓ porto d'ingresso** | ★★★★ |
+| [Soggy Dollar Bar](ristoranti/rist-soggydollar.md) | White Bay, Jost Van Dyke | **€€** | **🍹 Beach bar** | *Painkiller (nato qui)* | **🏖️ si approda a nuoto** | ★★★★ |
+| [Willy T (William Thornton)](ristoranti/rist-willyt.md) | The Bight, Norman Island | **€€** | **🍹 Bar galleggiante** | *—* | **⛵ schooner galleggiante** | ★★★★ |
+| [Cooper Island Beach Club](ristoranti/rist-cooperisland.md) | Manchioneel Bay, Cooper | **€€€** | **🍽️ Eco-resort** | *Craft rum distillery* | **🌱 sostenibile** | ★★★ |
+| [Bitter End Yacht Club](ristoranti/rist-bitterend.md) | North Sound, Virgin Gorda | **€€€** | **🍽️ Resort nautico** | *—* | **⚓ icona North Sound** | ★★★ |
+| [Indigo Beach House](ristoranti/rist-indigo.md) | Cane Garden Bay, Tortola | **€€** | **🐟 Caraibica** | *—* | **🏖️ baia famosa** | ★★ |
 
 ## App e fonti
 
-| Piattaforma | Uso locale |
-|---|---|
-| Google Maps recensioni | Il più aggiornato; orari spesso errati fuori stagione |
-| Facebook locale | Pagine ristoranti: menu e chiusure in tempo reale |
-| TheFork/LaFourchette | Copertura limitata nei Caraibi |
-
-Ultimo aggiornamento: 24/08/2026
+Google Maps recensioni · contatto VHF/WhatsApp

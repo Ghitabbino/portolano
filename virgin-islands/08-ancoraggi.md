@@ -1,33 +1,35 @@
 # 08 — Ancoraggi
 
-**Ultima verifica: 24/08/2026**
+## Ancoraggi in dettaglio
 
-Selezione di ancoraggi utili per la crociera a Isole Vergini (BVI/USVI). Dettagli completi (coordinate, fondale, protezione, servizi) nelle sottopagine dove presenti.
+| # | Ancoraggio | Riparo | Fondo | Prof. | Boe |
+|---|---|---|---|---|---|
+| 1 | [The Baths (Virgin Gorda)](ancoraggi/anc-the-baths.md) | ★★ | Roccia/blocchi | 4–8 m | Boe rosse NPT (~$30/g yacht <25 m) |
+| 2 | [North Sound (Virgin Gorda)](ancoraggi/anc-north-sound.md) | ★★★★★ | Sabbia/erba | 4–12 m | Boe varie + 4 marine |
+| 3 | [The Bight (Norman)](ancoraggi/anc-bight-norman.md) | ★★★★ | Fango/erba profondità | 4,5–6 m | Oltre 100 boe ~US$30–40/g (BoatyBall) |
+| 4 | [White Bay (Jost Van Dyke)](ancoraggi/anc-white-bay-jvd.md) | ★★★ | Sabbia (scaffale ripido) | 4,5–6 m a riva; 18+ centro | Boe locali BoatyBall ⚠️ |
+| 5 | [Great Harbour (Jost Van Dyke)](ancoraggi/anc-great-harbour-jvd.md) | ★★★ | Sabbia | 4,5–6 m a riva; 18+ centro | Boe locali ⚠️ |
+| 6 | [Cruz Bay (St John)](ancoraggi/anc-cruz-bay.md) | ★★★ | Sabbia | 4–8 m | Boe NPS ~US$15/notte (Lind Point) |
+| 7 | [Soper's Hole (West End)](ancoraggi/anc-sopers-hole.md) | ★★★★★ | Sabbia | 4–10 interno; 15–21 esterno | Marina 18 boe + 43 posti |
+| 8 | [Nanny Cay (Tortola)](ancoraggi/anc-nanny-cay.md) | ★★★★ | Sabbia | 3–8 m | Marina + boe ⚠️ |
 
-## Mappa generale
 
-<div class="mapframe" data-slug="virgin-islands" data-minz="9" data-maxz="13" data-lat="1826.N" data-lon="6437.W"></div>
 
-*Posizione indicativa del porto principale. Clicca sui marker per dettaglio ancoraggio (se disponibile).*
+**Ultimo aggiornamento: 23/08/2026**
 
-## Elenco ancoraggi
 
-| Ancoraggio | Tipo | Protezione | Fondale | Note |
-|---|---|---|---|---|
-| **Road Town / Nanny Cay / Charlotte Amalie (principale)** | Porto / marina + ancoraggio | Buona con alisei ENE | Sabbia/fango 3–8 m | Servizi completi, clearance, provisionning → [03](03-porti-ancoraggi.md) |
-| Baia secondaria sottovento 1 | Ancoraggio | Discreta | Sabbia 5–10 m | DATO MANCANTE dettagli — verificare guida locale |
-| Baia secondaria sottovento 2 | Ancoraggio / boe | Variabile | Sabbia/alghe 4–7 m | Attenzione a reef e divieti parco |
+| Ancoraggio | Protezione | Note |
+|---|---|---|
+| **The Baths (Virgin Gorda)** | Day-use | Grotte di granito; boe NPT $30/g yacht <25 m; affollato: arrivare presto ★★★★ |
+| **North Sound (Virgin Gorda)** | Ottima | Bitter End, Leverick Bay, Saba Rock, Oil Nut Bay: mooring e servizi ★★★★ |
+| **The Bight (Norman Is.)** | Ottima | Campo boe + **Willy T** bar galleggiante; Indians/Caves snorkel ★★★★ |
+| White Bay (Jost Van Dyke) | Media | **Soggy Dollar Bar**, painkiller; day anchorage, max 40 m — [yachtharbours](https://www.yachtharbours.com/country/british-virgin-islands) ★★★★ |
+| Great Harbour (Jost Van Dyke) | Buona | Porto d'ingresso, **Foxy's** ★★★★ |
+| Cooper Island (Manchioneel Bay) | Buona | Beach club + mooring ★★★ |
+| Marina Cay / Trellis Bay | Buona | Reef protetta; Last Resort su Bellamy Cay ★★★ |
+| Cane Garden Bay (Tortola) | Buona | Spiaggia, distilleria Callwood ★★★ |
+| Cruz Bay / St John (USVI) | Media | Base SNBA; mooring nei cays (Honeymoon, Waterlemon) ★★★ |
 
-> Per Isole Vergini (BVI/USVI) le guide disponibili indicano pochi ancoraggi ben riparati rispetto a Martinica/Guadalupa; verificare sempre con carte aggiornate e Navionics/C-MAP. **DATO MANCANTE** dove non verificato con websearch. ★★
+⚠️ BVI: navigazione facile ma boe obbligatorie nei parchi; catamarani ovunque ★★★
 
-## Note di navigazione
-
-- **IALA-B** in tutto il Caraibi: rosso a dritta entrando in porto (invertito vs Europa). ★★
-- Nasse e FAD (fish aggregating devices) con boe poco visibili: attenzione anche oltre 3 miglia dalla costa. ★★
-- Parchi marini: ancoraggio vietato su corallo; usare solo boe/sabbia. ★★
-
-## Cosa manca / da fare
-
-- Aggiungere sottopagine per ogni ancoraggio con coordinate precise, foto aerea e servizi a terra quando verificati con websearch/webfetch o rilievo diretto.
-
-Ultimo aggiornamento: 24/08/2026
+Ultimo aggiornamento: 23/08/2026

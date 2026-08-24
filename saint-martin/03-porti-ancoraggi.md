@@ -1,39 +1,14 @@
 # 03 — Porti e marine
 
-**Ultima verifica: 24/08/2026** · Coordinate in gradi decimali come da fonte
+**Ultimo aggiornamento: 23/08/2026**
 
-## Porto principale — Marigot / Simpson Bay Lagoon
 
-- **18°04'N 63°03'W** · VHF 16/09 (verificare canale locale) ★★
-- Marina/porto principale di Saint-Martin / Sint Maarten: posti a pontile e ancoraggio antistante; servizi base (acqua, carburante, ristorazione) disponibili. Per dettagli tariffe chiedere in capitainerie. ★★
-- Clearance in loco (vedi [01](01-clearance.md)). ★★
-- Protezione: buon riparo dagli alisei salvo swell da nord/ovest secondo esposizione; verificare bollettino locale prima dell'ingresso. ★★
-
-## Altri ancoraggi / baie utili
-
-- Baie secondarie lungo costa sottovento: ancoraggio su sabbia/fango, profondità 3–10 m; attenzione a reef e parchi marini con divieto di ancoraggio. ★★
-- Dove presenti **boe / mooring**: uso obbligatorio o raccomandato nelle riserve marine — **DATO MANCANTE** tariffa esatta, stimata 10–30 USD/notte. ★★
-- Pontile dinghy: verificare tenuta con mare e corrente; chiudere sempre dinghy e fuoribordo con lucchetto. ★★
-
-## Tariffe ormeggi e marine
-
-> Stesse voci per tutti i paesi; **DATO MANCANTE** = da ricercare al controllo mensile.
-
-| Voce | Costo | Note |
-|---|---|---|
-| Posto pontile / notte (~12 m) | DATO MANCANTE | Chiedere in capitainerie |
-| Boa / mooring / notte | DATO MANCANTE | Pagamento in loco o via app |
-| Elettricità | DATO MANCANTE | — |
-| Acqua | DATO MANCANTE | — |
-| Ancoraggio libero | Gratuito fuori zone regolamentate | Rispettare divieti parco |
-
-## Distanze utili
-
-| Tratta | Distanza |
+| Marina | Note |
 |---|---|
-| Traversate inter-isole Leeward | 15–45 M tra isole vicine |
-| Saint-Martin / Sint Maarten ↔ hub vicino (Antigua / St. Martin) | DATO MANCANTE — verificare carta |
+| [Marina Fort Louis](https://www.marinafortlouis.com) (Marigot) | borne clearance FR ★★★ |
+| [Port de Marigot / Port La Royale](https://www.portdemarigot.com) | tel +590 590 87 54 03 ⚠️ ★★★ |
+| [Simpson Bay Marina (IGY)](https://www.igymarinas.com/marinas/simpson-bay-marina/) | [+1 721 545-5230](tel:+17215455230) · VHF 16/12 ★★★★ |
+| Anse Marcel Marine | cove riparata, clearance FR ★★★ |
+| Dock Maarten (Simpson Bay) | ⚠️ da verificare ★ |
 
-⚠️ **Da verificare prima della crociera**: disponibilità posti in alta stagione (dic–apr), prenotazione consigliata, prezzi boe e restrizioni parco marino.
-
-Ultimo aggiornamento: 24/08/2026
+Ultimo aggiornamento: 23/08/2026
