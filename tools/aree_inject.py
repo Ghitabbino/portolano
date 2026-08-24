@@ -232,7 +232,7 @@ def process(html):
           "padding:10px;font:13px monospace;max-width:92%;white-space:pre-wrap';"
           "d.textContent='JSERR: '+(e.message||e.error)+' @ riga '+(e.lineno||'?');"
           "document.body.appendChild(d);});</script>")
-    html=html.replace("</head>", trap+"</head>",1)
+    html=html.replace("<script>document.addEventListener('DOMContentLoaded',function(){setTimeout(function(){var v=[].slice.call(document.querySelectorAll('.nav-countries a')).filter(function(e){return e.style.display!=='none'});var d=document.createElement('div');d.setAttribute('id','NAVDIAG');d.style.cssText='position:fixed;bottom:0;left:0;z-index:99999;background:#060;color:#fff;padding:8px;font:12px monospace;max-width:95%';d.textContent='NAVDIAG visibili:'+v.length+' | '+v.slice(0,10).map(function(e){return (e.dataset.country||'aree')}).join(', ');document.body.appendChild(d);},600);});</script></head>", trap+"</head>",1)
     # gerarchia visiva: classi CSS invece degli stili inline
     html=html.replace("</style>",
       ".nav-countries .sub{font-size:13px;padding-left:24px}"
