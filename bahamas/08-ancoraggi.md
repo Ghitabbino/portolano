@@ -27,7 +27,7 @@ Testi integrali: Bahamas National Trust (bnt.bs) per il parco Exuma; Harbour Con
 
 | # | Ancoraggio | Riparo alisei | Tenuta | Profondità | Affollamento | Giudizio comunità |
 |---|---|---|---|---|---|---|
-| 1 | **Highbourne Cay — 24°43.5'N 077°49.2'W** | ★★★★ | ★★★★ sabbia | 2–4 m | Medio-alto | ★4,2/5 — sosta nord Exumas |
+| 1 | **Highbourne Cay — 24°42.6'N 076°49.4'W** | ★★★★ | ★★★★ sabbia | 2–4 m | Medio-alto | ★4,2/5 — sosta nord Exumas |
 | 2 | **Norman's Cay** | ★★★★ | ★★★★ sabbia | 2–5 m | Medio | ★4,0/5 — relitto aereo famoso |
 | 3 | **Shroud Cay** | ★★★★★ | ★★★★★ sabbia/fango | 1,5–3 m | Basso | ★4,5/5 — mangrovie, selvaggio |
 | 4 | **Warderick Wells (Exuma Park) — mooring $35–40** | ★★★★★ | — mooring | 3–6 m | Alto (parco) | ★4,7/5 — solo boe, parco |
@@ -41,7 +41,7 @@ Testi integrali: Bahamas National Trust (bnt.bs) per il parco Exuma; Harbour Con
 
 ### Mappa generale degli ancoraggi
 
-<div class="mapframe" data-slug="bahamas" data-minz="6" data-maxz="13" data-lat="24.50" data-lon="-76.00" data-markers='[[25.078,-77.32,"Hurricane Hole — Paradise"],[25.082,-77.322,"Atlantis Marina"],[24.725,-76.815,"Highbourne Cay"],[24.616,-76.815,"Norman’s Cay"],[24.393,-76.63,"Warderick Wells — Park"],[24.183,-76.525,"Cambridge — Compass"],[24.183,-76.458,"Staniel Cay"],[23.533,-75.766,"Georgetown — Exuma"]]'></div>
+<div class="mapframe" data-slug="bahamas" data-minz="6" data-maxz="13" data-lat="24.50" data-lon="-76.00" data-markers='[[25.0801,-77.3207,"Hurricane Hole — Paradise"],[25.0827,-77.3220,"Atlantis Marina"],[24.7092,-76.8230,"Highbourne Cay"],[24.5922,-76.8127,"Norman’s Cay"],[24.3950,-76.6320,"Warderick Wells — Park"],[24.2618,-76.5128,"Cambridge — Compass"],[24.1700,-76.4400,"Staniel Cay"],[23.5333,-75.7667,"Georgetown — Exuma"]]'></div>
 
 *Marker gialli — clic per nome.*
 

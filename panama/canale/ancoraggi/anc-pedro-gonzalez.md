@@ -13,7 +13,7 @@
 | **Divieti** | Nessuno rilevato |
 | **A terra** | Spiaggia deserta, eco-resort, scimmie nella foresta interna |
 
-<div class="mapframe" data-slug="anc-pedro-gonzalez" data-lat="8.379" data-lon="-78.976"></div>
+<div class="mapframe" data-slug="anc-pedro-gonzalez" data-lat="8.405" data-lon="-79.108"></div>
 *Vista mappa Pedro González · mappa offline*
 
 ## Cartografia ufficiale

@@ -30,7 +30,7 @@
 
 ### Mappa generale degli ancoraggi
 
-<div class="mapframe" data-slug="ispaniola" data-minz="7" data-maxz="13" data-lat="18.80" data-lon="-70.50" data-markers='[[19.905,-70.957,"Luperón — Puerto Blanco"],[19.835,-70.725,"Ocean World — Cofresi"],[19.1897,-69.353,"Samaná — Puerto Bahía"],[18.4972,-68.3686,"Cap Cana"],[18.392,-68.901,"Casa de Campo"],[18.45,-69.61,"Boca Chica"],[18.11,-73.695,"Ile-a-Vache — Port Morgan"]]'></div>
+<div class="mapframe" data-slug="ispaniola" data-minz="7" data-maxz="13" data-lat="18.80" data-lon="-70.50" data-markers='[[19.9026,-70.9542,"Luperón — Puerto Blanco"],[19.8272,-70.7316,"Ocean World — Cofresi"],[19.1943,-69.3554,"Samaná — Puerto Bahía"],[18.5018,-68.3815,"Cap Cana"],[18.3976,-68.9004,"Casa de Campo"],[18.4455,-69.6243,"Boca Chica"],[18.105,-73.695,"Ile-a-Vache — Port Morgan"]]'></div>
 
 *Marker gialli — clic per nome.*
 

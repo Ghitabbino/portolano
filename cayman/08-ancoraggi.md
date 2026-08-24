@@ -36,7 +36,7 @@ Oltre alle boe DOE da 3h, esistono **moorings arancioni per sosta più lunga** (
 
 ### Mappa generale degli ancoraggi
 
-<div class="mapframe" data-slug="cayman" data-minz="10" data-maxz="13" data-lat="19.30" data-lon="-81.30" data-markers='[[19.3013,-81.3593,"Barcadere Marina — George Town"],[19.2944,-81.3288,"Harbour House — Prospect"],[19.713,-79.79,"Cayman Brac — Scott\u2019s Bay"],[19.683,-80.05,"Little Cayman — South Town"]]'></div>
+<div class="mapframe" data-slug="cayman" data-minz="10" data-maxz="13" data-lat="19.30" data-lon="-81.30" data-markers='[[19.3028,-81.3588,"Barcadere Marina — George Town"],[19.2949,-81.3282,"Harbour House — Prospect"],[19.7140,-79.8490,"Cayman Brac — Scott\u2019s Bay"],[19.6594,-80.0838,"Little Cayman — South Town"]]'></div>
 
 *Marker gialli — clic per nome.*
 

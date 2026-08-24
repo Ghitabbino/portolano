@@ -16,7 +16,7 @@ Ultimo aggiornamento: 22/08/2026 · coordinate indicative, navigare con cartogra
 
 ### Mappa generale degli ancoraggi
 
-<div class="mapframe" data-slug="la-gomera" data-minz="10" data-maxz="12" data-lat="28.09" data-lon="-17.2" data-markers='[[28.086, -17.34, "Vueltas / Valle Gran Rey"], [28.092, -17.107, "San Sebastián"]]'></div>
+<div class="mapframe" data-slug="la-gomera" data-minz="10" data-maxz="12" data-lat="28.09" data-lon="-17.2" data-markers='[[28.082, -17.332, "Vueltas / Valle Gran Rey"], [28.091, -17.109, "San Sebastián"]]'></div>
 
 *Coordinate indicative; tasselli offline satellitari + carta nautica + segnaletica OpenSeaMap.*
 

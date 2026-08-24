@@ -33,7 +33,7 @@ Porto Rico applica regolamenti federali USA; l'ancoraggio è libero salvo **divi
 
 ### Mappa generale degli ancoraggi
 
-<div class="mapframe" data-slug="porto-rico" data-minz="8" data-maxz="13" data-lat="18.20" data-lon="-66.50" data-markers='[[18.3067,-65.6333,"Ensenada Honda — Culebra"],[18.338,-65.317,"Bahía Flamenco — Culebra"],[18.0966,-65.475,"Esperanza — Vieques"],[18.3533,-65.575,"Palomino — Cordillera"],[18.4583,-66.1166,"San Juan Bay"],[17.8916,-66.6166,"Caja de Muertos — Ponce"],[17.975,-67.033,"Guánica / La Parguera"]]'></div>
+<div class="mapframe" data-slug="porto-rico" data-minz="8" data-maxz="13" data-lat="18.20" data-lon="-66.50" data-markers='[[18.3027,-65.2863,"Ensenada Honda — Culebra"],[18.3317,-65.3181,"Bahía Flamenco — Culebra"],[18.0972,-65.4708,"Esperanza — Vieques"],[18.3486,-65.5681,"Palomino — Cordillera"],[18.4522,-66.1142,"San Juan Bay"],[17.8947,-66.5189,"Caja de Muertos — Ponce"],[17.9736,-67.0467,"Guánica / La Parguera"]]'></div>
 
 *Marker gialli — clic per nome.*
 

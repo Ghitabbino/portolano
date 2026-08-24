@@ -13,7 +13,7 @@
 | **Pericoli** | Traffico cargo/RoRo; onda da NW; party |
 | **A terra** | Sandy Ground beach bar, clearance |
 
-<div class="mapframe" data-slug="anc-road-bay" data-lat="18.183" data-lon="-63.118"></div>
+<div class="mapframe" data-slug="anc-road-bay" data-lat="18.1993" data-lon="-63.0948"></div>
 *Mappa offline Road Bay (Sandy Ground) — zoom con i pulsanti +/−; menu in alto a destra per Carta nautica e Segnali*
 
 Ultimo aggiornamento: 23/08/2026

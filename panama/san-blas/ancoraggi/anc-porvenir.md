@@ -14,7 +14,7 @@
 | **Divieti** | Nessuno |
 | **A terra** | Immigration+Congresso qui; dispensario; voli |
 
-<div class="mapframe" data-slug="anc-porvenir" data-lat="9.559" data-lon="-78.946"></div>
+<div class="mapframe" data-slug="anc-porvenir" data-lat="9.5589" data-lon="-78.9486"></div>
 *Vista mappa Porvenir / Gaigirgordub · mappa offline*
 
 Ultimo aggiornamento: 22/08/2026

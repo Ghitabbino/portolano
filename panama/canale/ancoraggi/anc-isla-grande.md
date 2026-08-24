@@ -13,7 +13,7 @@
 | **Divieti** | Nessuno rilevato |
 | **A terra** | Ristoranti in spiaggia, surf sul lato est, tienda |
 
-<div class="mapframe" data-slug="anc-isla-grande" data-lat="9.631" data-lon="-79.564"></div>
+<div class="mapframe" data-slug="anc-isla-grande" data-lat="9.633" data-lon="-79.56"></div>
 *Vista mappa Isla Grande · mappa offline*
 
 Ultimo aggiornamento: 22/08/2026

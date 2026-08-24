@@ -14,7 +14,7 @@
 | **Divieti** | Isole private con cabanas: chiedere prima |
 | **A terra** | Venditori molas in canoa; snorkeling eccellente |
 
-<div class="mapframe" data-slug="anc-coco-bandero" data-lat="9.3709458" data-lon="-78.2605746"></div>
+<div class="mapframe" data-slug="anc-coco-bandero" data-lat="9.595" data-lon="-78.815"></div>
 *Vista mappa Coco Bandero · mappa offline*
 
 Ultimo aggiornamento: 22/08/2026

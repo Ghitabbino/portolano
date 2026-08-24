@@ -14,7 +14,7 @@
 | **Divieti** | Nessuno |
 | **A terra** | Le acque più belle della comarca; kayak/snorkel |
 
-<div class="mapframe" data-slug="anc-banedup" data-lat="9.3709458" data-lon="-78.2605746"></div>
+<div class="mapframe" data-slug="anc-banedup" data-lat="9.582" data-lon="-78.773"></div>
 *Vista mappa Banedup (Holandeses) · mappa offline*
 
 Ultimo aggiornamento: 22/08/2026

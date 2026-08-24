@@ -18,7 +18,7 @@ Ultimo aggiornamento: 22/08/2026 · coordinate indicative, navigare con cartogra
 
 ### Mappa generale degli ancoraggi
 
-<div class="mapframe" data-slug="tenerife" data-minz="10" data-maxz="12" data-lat="28.3" data-lon="-16.55" data-markers='[[28.01, -16.668, "Las Galletas"], [28.24, -16.84, "Los Gigantes"], [28.5, -16.19, "Bahía de Anaza"]]'></div>
+<div class="mapframe" data-slug="tenerife" data-minz="10" data-maxz="12" data-lat="28.3" data-lon="-16.55" data-markers='[[28.007, -16.660, "Las Galletas"], [28.247, -16.842, "Los Gigantes"], [28.424, -16.293, "Bahía de Añaza"]]'></div>
 
 *Coordinate indicative; tasselli offline satellitari + carta nautica + segnaletica OpenSeaMap.*
 

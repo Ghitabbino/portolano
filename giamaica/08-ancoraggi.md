@@ -27,7 +27,7 @@
 
 ### Mappa generale degli ancoraggi
 
-<div class="mapframe" data-slug="giamaica" data-minz="8" data-maxz="13" data-lat="18.12" data-lon="-77.30" data-markers='[[18.1805,-76.4538,"Errol Flynn Marina — Port Antonio"],[18.467,-77.92,"Montego Bay Yacht Club"],[17.9447,-76.777,"Royal Jamaica YC — Kingston"],[18.407,-76.95,"Oracabessa"],[18.407,-77.1076,"Ocho Rios"],[17.883,-77.095,"Bowden Harbour"]]'></div>
+<div class="mapframe" data-slug="giamaica" data-minz="8" data-maxz="13" data-lat="18.12" data-lon="-77.30" data-markers='[[18.1805,-76.4538,"Errol Flynn Marina — Port Antonio"],[18.462,-77.942,"Montego Bay Yacht Club"],[17.9454,-76.7723,"Royal Jamaica YC — Kingston"],[18.403,-76.949,"Oracabessa"],[18.411,-77.1075,"Ocho Rios"],[17.883,-76.342,"Bowden Harbour"]]'></div>
 
 *Marker gialli — clic per nome. Tasselli zoom 8–13.*
 

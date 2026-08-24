@@ -8,7 +8,7 @@ Legenda prezzi: **€/CI$** <20 · **€€/CI$$** 20–40 · **€€€/CI$$$*
 
 ## Mappa dei ristoranti
 
-<div class="mapframe" data-slug="cayman" data-minz="10" data-maxz="13" data-lat="19.30" data-lon="-81.30" data-markers='[[19.301,-81.381,"Casanova"],[19.295,-81.38,"Lobster Pot"],[19.28,-81.38,"Grand Old House"],[19.32,-81.38,"The Wharf — Seven Mile"],[19.301,-81.359,"GTYC — Barcadere"]]'></div>
+<div class="mapframe" data-slug="cayman" data-minz="10" data-maxz="13" data-lat="19.30" data-lon="-81.30" data-markers='[[19.2987,-81.3817,"Casanova"],[19.3033,-81.3828,"Lobster Pot"],[19.2781,-81.3914,"Grand Old House"],[19.3072,-81.3842,"The Wharf — Seven Mile"],[19.3028,-81.3588,"GTYC — Barcadere"]]'></div>
 
 ## George Town — waterfront
 

@@ -37,7 +37,7 @@ Mémento: carte con zone interdette su sito Marlin e guide Nigel Calder.
 
 ### Mappa generale degli ancoraggi
 
-<div class="mapframe" data-slug="cuba" data-minz="6" data-maxz="13" data-lat="22.00" data-lon="-79.80" data-markers='[[21.85,-84.95,"Los Morros (Cabo San Antonio)"],[22.88,-83.512,"Cayo Levisa"],[23.089,-82.508,"Marina Hemingway"],[21.618,-81.565,"Cayo Largo Marina"],[21.5,-81.83,"Canarreos — Cayo Campos"],[22.125,-80.453,"Cienfuegos"],[21.71,-79.98,"Trinidad / Casilda"],[19.97,-75.87,"Santiago de Cuba"],[21.07,-75.92,"Puerto Vita"]]'></div>
+<div class="mapframe" data-slug="cuba" data-minz="6" data-maxz="13" data-lat="22.00" data-lon="-79.80" data-markers='[[21.901,-84.908,"Los Morros (Cabo San Antonio)"],[22.884,-83.524,"Cayo Levisa"],[23.087,-82.497,"Marina Hemingway"],[21.621,-81.559,"Cayo Largo Marina"],[21.560,-81.840,"Canarreos — Cayo Campos"],[22.126,-80.455,"Cienfuegos"],[21.737,-79.994,"Trinidad / Casilda"],[19.968,-75.865,"Santiago de Cuba"],[21.071,-75.954,"Puerto Vita"]]'></div>
 
 *Marker gialli ancoraggi — clic per nome. Tasselli zoom 6–13.*
 

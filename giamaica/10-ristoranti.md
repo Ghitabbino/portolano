@@ -25,7 +25,7 @@ Legenda prezzi: **€** <15 · **€€** 15-30 · **€€€** >30 — Cucina:
 
 ## Mappa dei ristoranti
 
-<div class="mapframe" data-slug="giamaica" data-minz="8" data-maxz="13" data-lat="18.12" data-lon="-77.30" data-markers='[[18.17,-76.45,"Boston Jerk Centre"],[18.18,-76.455,"Norma’s at the Marina"],[18.481,-77.92,"Scotchies Montego Bay"],[18.471,-77.92,"Houseboat Grill"],[17.97,-76.78,"Gloria’s Seafood City"]]'></div>
+<div class="mapframe" data-slug="giamaica" data-minz="8" data-maxz="13" data-lat="18.12" data-lon="-77.30" data-markers='[[18.152,-76.438,"Boston Jerk Centre"],[18.18,-76.454,"Norma’s at the Marina"],[18.478,-77.918,"Scotchies Montego Bay"],[18.46,-77.939,"Houseboat Grill"],[17.938,-76.842,"Gloria’s Seafood City"]]'></div>
 
 ## App e fonti
 

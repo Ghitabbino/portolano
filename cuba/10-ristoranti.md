@@ -24,7 +24,7 @@ Legenda prezzi: **€** <15 · **€€** 15-30 · **€€€** >30 — Cucina:
 
 ## Mappa dei ristoranti
 
-<div class="mapframe" data-slug="cuba" data-minz="6" data-maxz="13" data-lat="22.00" data-lon="-79.80" data-markers='[[23.138,-82.359,"La Guarida"],[23.135,-82.36,"San Cristóbal"],[23.14,-82.32,"Doña Eutimia"],[23.12,-82.42,"Vista Mar"],[23.14,-81.28,"La Vicaria"],[23.139,-81.28,"Varadero 60"],[23.141,-81.285,"Salsa Suárez"],[23.142,-81.29,"Waco'\u2019s Club"]]'></div>
+<div class="mapframe" data-slug="cuba" data-minz="6" data-maxz="13" data-lat="22.00" data-lon="-79.80" data-markers='[[23.138,-82.368,"La Guarida"],[23.136,-82.370,"San Cristóbal"],[23.140,-82.352,"Doña Eutimia"],[23.119,-82.418,"Vista Mar"],[23.140,-81.280,"La Vicaria"],[23.139,-81.282,"Varadero 60"],[23.141,-81.285,"Salsa Suárez"],[23.142,-81.290,"Waco'\u2019s Club"]]'></div>
 
 ## App e fonti
 

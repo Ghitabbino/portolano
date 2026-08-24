@@ -13,7 +13,7 @@
 | **Pericoli** | Cut con correnti incrociate; vietato àncora su praterie (tartarughe); Petit Tabac vietato |
 | **A terra** | BBQ boat boys, snorkel Baradal |
 
-<div class="mapframe" data-slug="anc-horseshoe" data-lat="12.633" data-lon="-61.363"></div>
+<div class="mapframe" data-slug="anc-horseshoe" data-lat="12.633" data-lon="-61.357"></div>
 *Mappa offline Horseshoe Reef — zoom con i pulsanti +/−; menu in alto a destra per Carta nautica e Segnali*
 
 Ultimo aggiornamento: 23/08/2026

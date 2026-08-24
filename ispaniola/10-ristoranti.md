@@ -31,7 +31,7 @@ Legenda stelle: ★ solo stelle = recensioni diportiste aggregate; ★ con fonte
 
 ## Mappa dei ristoranti
 
-<div class="mapframe" data-slug="ispaniola" data-minz="7" data-maxz="13" data-lat="18.80" data-lon="-70.50" data-markers='[[19.90,-70.95,"Puerto Blanco Restaurant"],[19.84,-70.73,"Ocean World"],[19.20,-69.32,"Puerto Bahía"],[18.50,-68.37,"Cap Cana — Api Beach"],[18.39,-68.90,"La Casita Casa de Campo"]]'></div>
+<div class="mapframe" data-slug="ispaniola" data-minz="7" data-maxz="13" data-lat="18.80" data-lon="-70.50" data-markers='[[19.9026,-70.9542,"Puerto Blanco Restaurant"],[19.8272,-70.7316,"Ocean World"],[19.1943,-69.3554,"Puerto Bahía"],[18.5018,-68.3815,"Cap Cana — Api Beach"],[18.3976,-68.9004,"La Casita Casa de Campo"]]'></div>
 
 ## Dettagli utili per il diportista
 
