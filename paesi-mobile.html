@@ -59133,6 +59133,32 @@ document.getElementById('search').addEventListener('input',e=>{
   });
 });
 show('home');
+    
+(function(){
+  const oc=["caraibi","mar-rosso","mediterraneo","atlantico","indiano","pacifico"];
+  document.querySelectorAll('#nav .nav-countries a.country-link').forEach(function(l){
+    if(l.dataset.ico)return;
+    const k=l.dataset.country||"";
+    if(!k)return;
+    if(["caraibi","mar-rosso","mediterraneo","atlantico","indiano","pacifico"].indexOf(k)>=0){
+      l.dataset.ico="1";
+      l.classList.add("lvl-mare");
+      const m=l.innerHTML.match(/^\s*((?:\uD83C[\uDDE6-\uDDFF]){2}|[^<\s]\uFE0F?)\s*/u);
+      if(m&&m[1]){
+        l.innerHTML='<span class="emo">'+m[1]+'</span> '+l.innerHTML.slice(m[0].length);
+      }
+    }else if(k.indexOf("/")>=0||k.indexOf("caraibi/")===0&&k.split("/").length===2){
+      l.dataset.ico="1";
+      l.classList.add("lvl-area");
+      const m=l.innerHTML.match(/^\s*((?:\uD83C[\uDDE6-\uDDFF]){2}|[^<\s]\uFE0F?)\s*/u);
+      if(m&&m[1]){
+        l.innerHTML='<span class="emo">'+m[1]+'</span> '+l.innerHTML.slice(m[0].length);
+      }
+    }else{
+      l.classList.add("lvl-paese");
+    }
+  });
+})();
 </script>
 <script>
 function toggleNav(force){const a=document.querySelector('aside'),b=document.getElementById('backdrop');
@@ -59140,6 +59166,32 @@ function toggleNav(force){const a=document.querySelector('aside'),b=document.get
  a.classList.toggle('open',open);b.classList.toggle('show',open);}
 document.querySelectorAll('aside a').forEach(a=>a.addEventListener('click',()=>toggleNav(false)));
 document.addEventListener('keydown',e=>{if(e.key==='Escape')toggleNav(false);});
+    
+(function(){
+  const oc=["caraibi","mar-rosso","mediterraneo","atlantico","indiano","pacifico"];
+  document.querySelectorAll('#nav .nav-countries a.country-link').forEach(function(l){
+    if(l.dataset.ico)return;
+    const k=l.dataset.country||"";
+    if(!k)return;
+    if(["caraibi","mar-rosso","mediterraneo","atlantico","indiano","pacifico"].indexOf(k)>=0){
+      l.dataset.ico="1";
+      l.classList.add("lvl-mare");
+      const m=l.innerHTML.match(/^\s*((?:\uD83C[\uDDE6-\uDDFF]){2}|[^<\s]\uFE0F?)\s*/u);
+      if(m&&m[1]){
+        l.innerHTML='<span class="emo">'+m[1]+'</span> '+l.innerHTML.slice(m[0].length);
+      }
+    }else if(k.indexOf("/")>=0||k.indexOf("caraibi/")===0&&k.split("/").length===2){
+      l.dataset.ico="1";
+      l.classList.add("lvl-area");
+      const m=l.innerHTML.match(/^\s*((?:\uD83C[\uDDE6-\uDDFF]){2}|[^<\s]\uFE0F?)\s*/u);
+      if(m&&m[1]){
+        l.innerHTML='<span class="emo">'+m[1]+'</span> '+l.innerHTML.slice(m[0].length);
+      }
+    }else{
+      l.classList.add("lvl-paese");
+    }
+  });
+})();
 </script>
 <script>
 document.addEventListener('click',function(e){
@@ -59150,6 +59202,32 @@ document.addEventListener('click',function(e){
   e.preventDefault();
   if(el.id!==current){show(el.id);}else{window.scrollTo(0,0);}
 });
+    
+(function(){
+  const oc=["caraibi","mar-rosso","mediterraneo","atlantico","indiano","pacifico"];
+  document.querySelectorAll('#nav .nav-countries a.country-link').forEach(function(l){
+    if(l.dataset.ico)return;
+    const k=l.dataset.country||"";
+    if(!k)return;
+    if(["caraibi","mar-rosso","mediterraneo","atlantico","indiano","pacifico"].indexOf(k)>=0){
+      l.dataset.ico="1";
+      l.classList.add("lvl-mare");
+      const m=l.innerHTML.match(/^\s*((?:\uD83C[\uDDE6-\uDDFF]){2}|[^<\s]\uFE0F?)\s*/u);
+      if(m&&m[1]){
+        l.innerHTML='<span class="emo">'+m[1]+'</span> '+l.innerHTML.slice(m[0].length);
+      }
+    }else if(k.indexOf("/")>=0||k.indexOf("caraibi/")===0&&k.split("/").length===2){
+      l.dataset.ico="1";
+      l.classList.add("lvl-area");
+      const m=l.innerHTML.match(/^\s*((?:\uD83C[\uDDE6-\uDDFF]){2}|[^<\s]\uFE0F?)\s*/u);
+      if(m&&m[1]){
+        l.innerHTML='<span class="emo">'+m[1]+'</span> '+l.innerHTML.slice(m[0].length);
+      }
+    }else{
+      l.classList.add("lvl-paese");
+    }
+  });
+})();
 </script>
 <script>
 (function(){
@@ -59163,6 +59241,32 @@ document.addEventListener('click',function(e){
     return x.textContent.trim().localeCompare(y.textContent.trim(),'it');
   });
   items.forEach(l=>cont.appendChild(l));
+})();
+    
+(function(){
+  const oc=["caraibi","mar-rosso","mediterraneo","atlantico","indiano","pacifico"];
+  document.querySelectorAll('#nav .nav-countries a.country-link').forEach(function(l){
+    if(l.dataset.ico)return;
+    const k=l.dataset.country||"";
+    if(!k)return;
+    if(["caraibi","mar-rosso","mediterraneo","atlantico","indiano","pacifico"].indexOf(k)>=0){
+      l.dataset.ico="1";
+      l.classList.add("lvl-mare");
+      const m=l.innerHTML.match(/^\s*((?:\uD83C[\uDDE6-\uDDFF]){2}|[^<\s]\uFE0F?)\s*/u);
+      if(m&&m[1]){
+        l.innerHTML='<span class="emo">'+m[1]+'</span> '+l.innerHTML.slice(m[0].length);
+      }
+    }else if(k.indexOf("/")>=0||k.indexOf("caraibi/")===0&&k.split("/").length===2){
+      l.dataset.ico="1";
+      l.classList.add("lvl-area");
+      const m=l.innerHTML.match(/^\s*((?:\uD83C[\uDDE6-\uDDFF]){2}|[^<\s]\uFE0F?)\s*/u);
+      if(m&&m[1]){
+        l.innerHTML='<span class="emo">'+m[1]+'</span> '+l.innerHTML.slice(m[0].length);
+      }
+    }else{
+      l.classList.add("lvl-paese");
+    }
+  });
 })();
 </script>
 <script>
@@ -59180,7 +59284,59 @@ document.addEventListener('click',function(e){
     last[k]=l;
   });
 })();
+    
+(function(){
+  const oc=["caraibi","mar-rosso","mediterraneo","atlantico","indiano","pacifico"];
+  document.querySelectorAll('#nav .nav-countries a.country-link').forEach(function(l){
+    if(l.dataset.ico)return;
+    const k=l.dataset.country||"";
+    if(!k)return;
+    if(["caraibi","mar-rosso","mediterraneo","atlantico","indiano","pacifico"].indexOf(k)>=0){
+      l.dataset.ico="1";
+      l.classList.add("lvl-mare");
+      const m=l.innerHTML.match(/^\s*((?:\uD83C[\uDDE6-\uDDFF]){2}|[^<\s]\uFE0F?)\s*/u);
+      if(m&&m[1]){
+        l.innerHTML='<span class="emo">'+m[1]+'</span> '+l.innerHTML.slice(m[0].length);
+      }
+    }else if(k.indexOf("/")>=0||k.indexOf("caraibi/")===0&&k.split("/").length===2){
+      l.dataset.ico="1";
+      l.classList.add("lvl-area");
+      const m=l.innerHTML.match(/^\s*((?:\uD83C[\uDDE6-\uDDFF]){2}|[^<\s]\uFE0F?)\s*/u);
+      if(m&&m[1]){
+        l.innerHTML='<span class="emo">'+m[1]+'</span> '+l.innerHTML.slice(m[0].length);
+      }
+    }else{
+      l.classList.add("lvl-paese");
+    }
+  });
+})();
 </script>
-<script src="assets/leaflet.js"></script>
+<script src="assets/leaflet.js">    
+(function(){
+  const oc=["caraibi","mar-rosso","mediterraneo","atlantico","indiano","pacifico"];
+  document.querySelectorAll('#nav .nav-countries a.country-link').forEach(function(l){
+    if(l.dataset.ico)return;
+    const k=l.dataset.country||"";
+    if(!k)return;
+    if(["caraibi","mar-rosso","mediterraneo","atlantico","indiano","pacifico"].indexOf(k)>=0){
+      l.dataset.ico="1";
+      l.classList.add("lvl-mare");
+      const m=l.innerHTML.match(/^\s*((?:\uD83C[\uDDE6-\uDDFF]){2}|[^<\s]\uFE0F?)\s*/u);
+      if(m&&m[1]){
+        l.innerHTML='<span class="emo">'+m[1]+'</span> '+l.innerHTML.slice(m[0].length);
+      }
+    }else if(k.indexOf("/")>=0||k.indexOf("caraibi/")===0&&k.split("/").length===2){
+      l.dataset.ico="1";
+      l.classList.add("lvl-area");
+      const m=l.innerHTML.match(/^\s*((?:\uD83C[\uDDE6-\uDDFF]){2}|[^<\s]\uFE0F?)\s*/u);
+      if(m&&m[1]){
+        l.innerHTML='<span class="emo">'+m[1]+'</span> '+l.innerHTML.slice(m[0].length);
+      }
+    }else{
+      l.classList.add("lvl-paese");
+    }
+  });
+})();
+</script>
 </body>
 </html>
