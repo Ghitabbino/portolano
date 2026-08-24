@@ -58665,7 +58665,7 @@ const clinks=[...document.querySelectorAll('.country-link')];
     l.dataset.emo="1";
     const t=l.innerHTML;
     if(t.charAt(0)==='<')return;
-    const m=t.match(/^\s*((?:\uD83C[\uDDE6-\uDDFF]){2}|[^<\s]\uFE0F?)\s*/u);
+    const m=t.match(/^\s*((?:\p{RI}){2}|[^<\s]\uFE0F?)\s*/u);
     if(m&&m[1]){
       l.innerHTML='<span class="emo">'+m[1]+'</span> '+t.slice(m[0].length);
     }
