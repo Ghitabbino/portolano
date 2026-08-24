@@ -295,6 +295,6 @@ for fn in [ROOT/"paesi.html", ROOT/"paesi-mobile.html"]:
     p=Path(fn); h=p.read_text(encoding="utf-8")
     nh=process(h)
     nh.encode("utf-8")
-    p.write_text(nh, encoding="utf-8")
+    _tmp=p.with_suffix(".tmp"); _tmp.write_text(nh, encoding="utf-8"); _tmp.replace(p)
     print("OK", p.name)
 print("DONE v2")
