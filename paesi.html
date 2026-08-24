@@ -58370,11 +58370,8 @@ Buon vento e buone rotte. ⛵
 const plinks=[...document.querySelectorAll('.pagelink')];
 const clinks=[...document.querySelectorAll('.country-link')];
 (function(){
-  const oc=["caraibi","mar-rosso","mediterraneo","atlantico","indiano","pacifico"];
   document.querySelectorAll('#nav .nav-countries a.country-link').forEach(function(l){
     if(l.dataset.emo)return;
-    const k=l.dataset.country||"";
-    if(oc.indexOf(k)<0)return;
     l.dataset.emo="1";
     const t=l.innerHTML;
     const m=t.match(/^\s*([^<\s])\s*/u);
