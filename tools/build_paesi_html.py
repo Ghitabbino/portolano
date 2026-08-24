@@ -510,6 +510,7 @@ document.getElementById('search').addEventListener('input',e=>{
 });
 show('__FIRST__');
 </script>
+<script>setTimeout(function(){if(!document.querySelector('.page.visible')){var h=document.getElementById('home');if(h)h.classList.add('visible');}},150);</script>
 <script src="assets/leaflet.js"></script>
 </body>
 </html>

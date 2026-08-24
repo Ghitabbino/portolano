@@ -113535,6 +113535,7 @@ document.getElementById('search').addEventListener('input',e=>{
 });
 show('p1');
 </script>
+<script>setTimeout(function(){if(!document.querySelector('.page.visible')){var h=document.getElementById('home');if(h)h.classList.add('visible');}},150);</script>
 <script>
 function toggleNav(force){const a=document.querySelector('aside'),b=document.getElementById('backdrop');
  const open=(force!==undefined)?force:!a.classList.contains('open');
