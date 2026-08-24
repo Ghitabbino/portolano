@@ -33,6 +33,7 @@ for _g in GRUPPI:
 ORDER = ["caraibi","mar-rosso","mediterraneo","atlantico","indiano","pacifico"]  # ordine alfabetico per nome
 
 PAESI = {
+ "madeira":     ("\U0001F1F5\U0001F1F9", "Madeira",     "Portogallo: Funchal, Porto Santo; porta dell'Atlantico.", "\U0001F6A7 v0 · ver. 24/08/2026"),
  "cabo-verde": ("cv", "Capo Verde", "9 isole: hub Mindelo, Sal turistica, vulcano Fogo.", "\u2705 v1 \u00b7 ver. 23/08/26"),
  "canarie":    ("es", "Canarie",    "Tenerife, Gran Canaria, Lanzarote e le altre.",     "\U0001F6A7 v0 \u00b7 ver. 23/08/26"),
  "grenadine":  ("vc", "Grenadine",  "Tobago Cays, Bequia, Mustique.",                    "\U0001F6A7 v0 \u00b7 ver. 23/08/26"),
@@ -70,7 +71,7 @@ PAESI = {
  "costarica":    ("\U0001F1E8\U0001F1F7", "Costa Rica",    "Golfo Dulce, Drake Bay.",                    "\U0001F6A7 v0 · ver. '+D+'"),
  "nicaragua":    ("\U0001F1F3\U0001F1EE", "Nicaragua",     "San Juan del Sur, Pearl Cays.",              "\U0001F6A7 v0 · ver. '+D+'"),
 }
-OCEANO_DI = {"cabo-verde":"atlantico","canarie":"atlantico",
+OCEANO_DI = {"madeira":"atlantico","cabo-verde":"atlantico","canarie":"atlantico",
              "grenadine":"caraibi","guadalupa":"caraibi",
              "martinica":"caraibi","panama":"caraibi",
              "cuba":"caraibi","ispaniola":"caraibi","giamaica":"caraibi","porto-rico":"caraibi","cayman":"caraibi","dominica":"caraibi","santa-lucia":"caraibi","barbados":"caraibi","grenada":"caraibi","aruba":"caraibi","curacao":"caraibi","bonaire":"caraibi","trinidad-tobago":"caraibi","bahamas":"caraibi","turks-caicos":"caraibi","antigua-barbuda":"caraibi","saint-martin":"caraibi","saint-barth":"caraibi","anguilla":"caraibi","st-kitts-nevis":"caraibi","montserrat":"caraibi","saba":"caraibi","st-eustatius":"caraibi","virgin-islands":"caraibi",}
@@ -134,6 +135,7 @@ def process(html):
             "apri \u2192" if kids else "")
     home=('<section id="home" class="page visible" data-country="">'
           '<h1>Portolano</h1>'
+          '<div class="disc-box">\u26A0\uFE0F <b>Uso responsabile</b>: informazioni a scopo divulgativo, non documentazione ufficiale. La navigazione \u00e8 responsabilit\u00e0 esclusiva del comandante: verifica sempre le fonti ufficiali. <a href="#chi-siamo">Dettagli</a></div>'
           '<p><strong>L\'intero sistema viene aggiornato con periodicit\u00e0 mensile.</strong></p>'
           '<h2>Aree</h2><div class="paesi-grid">'+cards+'</div></section>')
 
@@ -284,6 +286,7 @@ def process(html):
            'section.page h1{font-size:32px}'
            ".paesi-grid{grid-auto-rows:1fr}"
            ".paesi-grid .pname{font-size:15px}"
+           ".disc-box{background:rgba(255,193,7,.08);border:1px solid rgba(255,193,7,.45);border-left:4px solid #ffc107;border-radius:10px;padding:10px 14px;margin:10px 0;font-size:13px}"
            ".crumbs{font-size:12px;color:var(--muted,#8899aa);margin:0 0 6px}"
           ".crumbs a{color:var(--accent,#3fa7ff);text-decoration:none}"
           ".crumbs b{color:inherit}</style>",1)
