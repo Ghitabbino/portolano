@@ -150,6 +150,7 @@ th,td{padding:8px 10px;}
 #nav a[data-country="indiano"],#nav a[data-country="pacifico"]
 {font-size:16px!important;}
 a.pname[href^="#o-"]{font-size:16px!important;}
+#nav .emo{font-size:20px!important;line-height:1;}
 </style>
 </head>
 <body>
@@ -58416,6 +58417,21 @@ Buon vento e buone rotte. ⛵
 <script>
 const plinks=[...document.querySelectorAll('.pagelink')];
 const clinks=[...document.querySelectorAll('.country-link')];
+(function(){
+  const oc=["caraibi","mar-rosso","mediterraneo","atlantico","indiano","pacifico"];
+  document.querySelectorAll('#nav .nav-countries a.country-link').forEach(function(l){
+    if(l.dataset.emo)return;
+    const k=l.dataset.country||"";
+    if(oc.indexOf(k)<0)return;
+    l.dataset.emo="1";
+    const t=l.innerHTML;
+    const m=t.match(/^\s*([^<\s])\s*/u);
+    if(m&&m[1]){
+      l.innerHTML='<span class="emo">'+m[1]+'</span> '+t.slice(m[0].length);
+    }
+  });
+})();
+
 
 let current='p1';
 const PAR={"madeira": "atlantico", "cabo-verde": "atlantico", "canarie": "atlantico", "grenadine": "caraibi", "guadalupa": "caraibi", "martinica": "caraibi", "panama": "caraibi", "cuba": "caraibi", "ispaniola": "caraibi", "giamaica": "caraibi", "porto-rico": "caraibi", "cayman": "caraibi", "dominica": "caraibi", "santa-lucia": "caraibi", "barbados": "caraibi", "grenada": "caraibi", "aruba": "caraibi", "curacao": "caraibi", "bonaire": "caraibi", "trinidad-tobago": "caraibi", "bahamas": "caraibi", "turks-caicos": "caraibi", "antigua-barbuda": "caraibi", "saint-martin": "caraibi", "saint-barth": "caraibi", "anguilla": "caraibi", "st-kitts-nevis": "caraibi", "montserrat": "caraibi", "saba": "caraibi", "st-eustatius": "caraibi", "virgin-islands": "caraibi"};const OC_IDS={"caraibi":1,"mar-rosso":1,"mediterraneo":1,"atlantico":1,"indiano":1,"pacifico":1};const GRP={"cuba": "grandi-antille", "ispaniola": "grandi-antille", "giamaica": "grandi-antille", "porto-rico": "grandi-antille", "cayman": "grandi-antille", "virgin-islands": "sopravento-sett", "anguilla": "sopravento-sett", "saint-martin": "sopravento-sett", "saint-barth": "sopravento-sett", "antigua-barbuda": "sopravento-sett", "st-kitts-nevis": "sopravento-sett", "montserrat": "sopravento-sett", "saba": "sopravento-sett", "st-eustatius": "sopravento-sett", "guadalupa": "sopravento-merid", "dominica": "sopravento-merid", "martinica": "sopravento-merid", "santa-lucia": "sopravento-merid", "grenadine": "sopravento-merid", "barbados": "sopravento-merid", "grenada": "sopravento-merid", "aruba": "sottovento-abc", "curacao": "sottovento-abc", "bonaire": "sottovento-abc", "trinidad-tobago": "sottovento-abc", "bahamas": "lucayano", "turks-caicos": "lucayano", "panama": "centro-america", "belize": "centro-america", "honduras": "centro-america", "costarica": "centro-america", "nicaragua": "centro-america", "venezuela": "centro-america"};
