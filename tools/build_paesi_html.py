@@ -191,7 +191,7 @@ for country_dir in sorted(p for p in ROOT.iterdir() if p.is_dir() and not p.name
         if has_groups:
             lbl = sub.name.replace("-", " ").title()
             pid = queue[len(queue) - len(gpages)][2]
-            nav_pages.insert(hpos, f'<a class="navlink zonelink" data-country="{gkey}" '
+            nav_pages.insert(hpos, f'<a style="display:none" class="navlink zonelink" data-country="{gkey}" '
                                   f'data-page="{pid}" href="#{pid}">{lbl}</a>')
         for sub2 in sorted(p for p in sub.iterdir() if p.is_dir() and not p.name.startswith(".")):
             for f in sorted(sub2.glob("*.md")):

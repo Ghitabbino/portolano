@@ -205,12 +205,12 @@ def process(html):
         for k in kids:
             cc,nome,_,_=PAESI[k]; pid=pid_of.get(k,"#")
             items+=('<a class="navlink country-link sub" data-country="'+k+'" data-page="'+pid+'" '
-                    'href="#'+pid+'" >'
+                    'href="#'+pid+'" style="display:none" >'
                     +svg(cc)+' '+nome+'</a>')
             import html as _h
             for zk,(zp,zn) in sorted(zones.items(), key=lambda kv: kv[1][1]):
                 if zk.split("/")[0]!=k: continue
-                items+=('<a class="navlink country-link zsub" data-country="'+zk+'" data-page="'+zp+'" href="#'+zp+'">'+_h.escape(zn)+'</a>')
+                items+=('<a class="navlink country-link zsub" data-country="'+zk+'" data-page="'+zp+'" href="#'+zp+'" style="display:none">'+_h.escape(zn)+'</a>')
     m=re.search(r'<div class="nav-countries">[\s\S]*?</div>', html)
     if m:
         html=html[:m.start()]+'<div class="nav-countries">'+items+'</div>'+html[m.end():]
