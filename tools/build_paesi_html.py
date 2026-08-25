@@ -246,8 +246,10 @@ def render(md_path: Path, title: str, sec_id: str, country: str = ""):
         return m.group(1)+m.group(4)+(
             f'<div class="dms">📍 {_dms(m.group(2),"N","S")} {_dms(m.group(3),"E","W")} · WGS84</div>')
     html=RE_FRAME.sub(_add_dms,html)
+    stem=md_path.stem
+    hook=f'<span id="{stem}"></span>' if re.match(r'^(anc|rist)-',stem) else ''
     sections.append(f'<section id="{sec_id}" class="page" data-country="{country}">'
-                    f'{badge}<h1{attrs}>{title}</h1>{html}</section>')
+                    f'{hook}{badge}<h1{attrs}>{title}</h1>{html}</section>')
 
 
 register(ROOT / "00-indice.md", "Aree")

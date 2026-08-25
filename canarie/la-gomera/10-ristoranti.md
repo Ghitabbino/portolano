@@ -21,7 +21,7 @@ Selezione orientata alla crociera: Valle Gran Rey (Vueltas/La Playa) e San Sebas
 
 ## Mappa dei ristoranti
 
-<div class="mapframe" data-slug="la-gomera" data-minz="10" data-maxz="12" data-lat="28.0895" data-lon="-17.2250" data-markers='[[28.0875, -17.339, "Paraiso del Mar"], [28.0885, -17.3398, "Rincón del Marinero"], [28.0866, -17.3378, "El Puerto"], [28.0889, -17.3381, "La Garbanza"], [28.0863, -17.3401, "El Sultán"], [28.0922, -17.109, "Kiosko Las Carabelas"], [28.09, -17.11, "Caprichos de La Gomera"], [28.0924, -17.1119, "La Tasca"]]'></div>
+<div class="mapframe" data-slug="la-gomera" data-minz="10" data-maxz="12" data-lat="28.0895" data-lon="-17.2250" data-markers='[[28.0875, -17.339, "Paraiso del Mar", "rist-paraiso-del-mar-2"], [28.0885, -17.3398, "Rincón del Marinero", "rist-rincon-del-marinero"], [28.0866, -17.3378, "El Puerto", "rist-el-puerto-2"], [28.0889, -17.3381, "La Garbanza", "rist-la-garbanza-2"], [28.0863, -17.3401, "El Sultán", "rist-el-sultan"], [28.0922, -17.109, "Kiosko Las Carabelas", "rist-kiosko-las-carabelas-2"], [28.09, -17.11, "Caprichos de La Gomera", "rist-caprichos-de-la-gomera-2"], [28.0924, -17.1119, "La Tasca", "rist-la-tasca-2"]]'></div>
 
 ## App e fonti
 

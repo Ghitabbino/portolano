@@ -25,7 +25,7 @@ Legenda prezzi: **€** <20 · **€€** 20–40 · **€€€** >40 — Cucin
 
 ## Mappa dei ristoranti
 
-<div class="mapframe" data-slug="tenerife" data-minz="10" data-maxz="12" data-lat="28.4635" data-lon="-16.25" data-markers='[[28.46941, -16.25963, "Taberna Ramón"], [28.4651, -16.2511, "Guachinche El Cañonazo"], [28.46611, -16.24974, "La Hierbita"], [28.46825, -16.25153, "D’Tapas 26"], [28.4619, -16.2509, "Labeche"], [28.4701, -16.2579, "El Aguarde"], [28.46969, -16.2544, "Panzaburro Gastrotasca"], [28.474, -16.25277, "Sagrario"], [28.4635, -16.25, "Jaxana"], [28.46364, -16.25317, "San Sebastián 57"], [28.01, -16.6675, "Restaurante Varadero Viejo"]]'></div>
+<div class="mapframe" data-slug="tenerife" data-minz="10" data-maxz="12" data-lat="28.4635" data-lon="-16.25" data-markers='[[28.46941, -16.25963, "Taberna Ramón", "rist-taberna-ramon-2"], [28.4651, -16.2511, "Guachinche El Cañonazo", "rist-guachinche-el-canonazo-2"], [28.46611, -16.24974, "La Hierbita", "rist-la-hierbita-2"], [28.46825, -16.25153, "D’Tapas 26", "rist-dtapas-26-2"], [28.4619, -16.2509, "Labeche", "rist-labeche-2"], [28.4701, -16.2579, "El Aguarde", "rist-el-aguarde-2"], [28.46969, -16.2544, "Panzaburro Gastrotasca", "rist-panzaburro-gastrotasca-2"], [28.474, -16.25277, "Sagrario", "rist-sagrario-2"], [28.4635, -16.25, "Jaxana", "rist-jaxana-2"], [28.46364, -16.25317, "San Sebastián 57", "rist-san-sebastian-57-2"], [28.01, -16.6675, "Restaurante Varadero Viejo", "rist-restaurante-varadero-viejo"]]'></div>
 
 *Clicca un punto rosso: apre la scheda del ristorante.*
 

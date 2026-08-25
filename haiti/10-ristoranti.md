@@ -10,7 +10,7 @@
 
 ## Mappa dei ristoranti
 
-<div class="mapframe" data-slug="ispaniola" data-minz="7" data-maxz="13" data-lat="18.80" data-lon="-70.50" data-markers='[[18.1050,-73.6950,"Port Morgan Hotel Restaurant"]]'></div>
+<div class="mapframe" data-slug="ispaniola" data-minz="7" data-maxz="13" data-lat="18.80" data-lon="-70.50" data-markers='[[18.105, -73.695, "Port Morgan Hotel Restaurant", "rist-port-morgan-hotel-restaurant"]]'></div>
 
 
 ## Dettagli utili per il diportista

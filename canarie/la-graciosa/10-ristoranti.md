@@ -13,7 +13,7 @@ Consiglio: pranzo semplice all'ancoraggio; cene organizzate con le famiglie loca
 
 ## Mappa
 
-<div class="mapframe" data-slug="la-graciosa" data-minz="11" data-maxz="13" data-lat="29.2300" data-lon="-13.5000" data-markers='[[29.23, -13.5, "Bar Caleta del Sebo"]]'></div>
+<div class="mapframe" data-slug="la-graciosa" data-minz="11" data-maxz="13" data-lat="29.2300" data-lon="-13.5000" data-markers='[[29.23, -13.5, "Bar Caleta del Sebo", "rist-bar-caleta-del-sebo"]]'></div>
 
 *Il punto rosso corrisponde al villaggio: schede individuali quando recupereremo nomi/telefoni.*
 
