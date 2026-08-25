@@ -13,7 +13,7 @@
 - [x] venezuela — completato 25/08/2026
 - [x] belize — completato 25/08/2026 (pubblicato)
 - [x] honduras — completato 25/08/2026 (pubblicato)
-- [ ] nicaragua — 11 pagine
+- [x] nicaragua — completato 25/08/2026 (pubblicato)
 - [ ] costarica — 11 pagine
 
 ### Scheletri → riempimento (C4)
