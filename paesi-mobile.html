@@ -69838,8 +69838,8 @@ function initMaps(root){
       let la=[lat],lo=[lon];
       if(hasPts){la=la.concat(pts.map(p=>p[0]));lo=lo.concat(pts.map(p=>p[1]));}
       if(hasZones)zones.forEach(z=>{const r=z[2]/111320,c=Math.cos(z[0]*Math.PI/180);la.push(z[0]+r,z[0]-r);lo.push(z[1]+r/c,z[1]-r/c);});
-      const pl=Math.max(.04,(Math.max(...la)-Math.min(...la))*.15+.02);
-      const po=Math.max(.06,(Math.max(...lo)-Math.min(...lo))*.15+.03);
+      const pl=Math.max(.015,(Math.max(...la)-Math.min(...la))*.06+.008);
+      const po=Math.max(.025,(Math.max(...lo)-Math.min(...lo))*.06+.012);
       HOMEB=[[Math.min(...la)-pl*.5,Math.min(...lo)-po*.5],[Math.max(...la)+pl*.5,Math.max(...lo)+po*.5]];
       m.fitBounds(HOMEB);
       m.setMaxBounds([[Math.min(...la)-pl,Math.min(...lo)-po],[Math.max(...la)+pl,Math.max(...lo)+po]]);
