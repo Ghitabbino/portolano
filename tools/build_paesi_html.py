@@ -383,7 +383,7 @@ aside h1 { font-size:16px; margin:0 0 12px; color:var(--accent); }
 #search { width:100%; padding:8px 10px; margin-bottom:14px; border-radius:8px;
           border:1px solid var(--line); background:#0b131b; color:var(--ink); font-size:14px; }
 .navlink { display:block; padding:7px 10px; border-radius:8px; color:var(--ink);
-           text-decoration:none; font-size:13.5px; cursor:pointer; }
+           text-decoration:none; font-size:15.5px; cursor:pointer; line-height:1.7; }
 .navlink:hover { background:#1d3040; }
 .navlink.active { background:var(--accent); color:#06231f; font-weight:600; }
 #aree-head { display:flex; align-items:center; gap:8px; font-weight:800; font-size:15px;
@@ -755,7 +755,7 @@ function initMaps(root){
       const po=Math.max(.025,(Math.max(...lo)-Math.min(...lo))*.06+.012);
       HOMEB=[[Math.min(...la)-pl*.5,Math.min(...lo)-po*.5],[Math.max(...la)+pl*.5,Math.max(...lo)+po*.5]];
       m.fitBounds(HOMEB);
-      if(m.getZoom()<11)m.setZoom(11);
+      if(m.getZoom()<12)m.setZoom(12);
       m.setMaxBounds([[Math.min(...la)-pl,Math.min(...lo)-po],[Math.max(...la)+pl,Math.max(...lo)+po]]);
       if(hasZones)zones.forEach(z=>{
         L.circle([z[0],z[1]],{radius:z[2],color:z[3]||'#d32f2f',weight:4,dashArray:'6 4',fillColor:z[3]||'#d32f2f',fillOpacity:.25})
