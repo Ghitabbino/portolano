@@ -1,18 +1,16 @@
 # 06 — Sicurezza
-
-**Ultima verifica completa: 24/08/2026** · Prossimo controllo mensile: **24/09/2026**
-
-## Valutazione sicurezza: RD **3,0–3,5 / 5** · Haiti **0,5 / 5**
+## Valutazione sicurezza: **3,0–3,5 / 5**
 
 | Area | Voto | Motivazione |
 |---|---|---|
 | **Repubblica Dominicana** — sicurezza personale turisti/crocieristi | **3,0–3,5/5** | Reati predatori (furto, scippo, truffa) diffusi nelle aree urbane e turistiche, ma **violenza mirata contro i diportisti rara** se si rispettano le zone gated/marina ★★★ |
 | **Haiti** — sicurezza generale | **0,5/5** | **Estremo: evitare**. Controllo territoriale di gang armate, rapimenti, collasso servizi, colera endemico. Sconsigliato da tutte le fonti governative e da Noonsite ★★★★★ |
-| Furti materiali a bordo (RD) | **2,5/5** | Furti opportunistici (dinghy non legato, oggetti in pozzetto) nelle baie isolate e nei centri urbani; meno frequenti nelle marine sorvegliate |
+| Furti materiali a bordo | **2,5/5** | Furti opportunistici (dinghy non legato, oggetti in pozzetto) nelle baie isolate e nei centri urbani; meno frequenti nelle marine sorvegliate |
 
 *Scala: 0 = terribile → 5 = molto sicuro. Valutazione nostra, sintesi delle fonti sotto.*
 
-**Perché non di più (RD)**: microcriminalità urbana persistente, truffe ai turisti, traffico stradale pericoloso; di notte alcune zone di Santo Domingo e Boca Chica richiedono cautela. **Perché non di meno**: le **marine resort gated** (Cap Cana, Casa de Campo, Ocean World) e la comunità cruiser di **Luperón** restano ambienti controllati con incidenza bassa di episodi violenti.
+**Perché non di più**: microcriminalità urbana persistente, truffe ai turisti, traffico stradale pericoloso; di notte alcune zone di Santo Domingo e Boca Chica richiedono cautela. **Perché non di meno**: le **marine resort gated** (Cap Cana, Casa de Campo, Ocean World) e la comunità cruiser di **Luperón** restano ambienti controllati con incidenza bassa di episodi violenti.
+
 
 ## Quadro generale — Repubblica Dominicana
 
@@ -21,11 +19,6 @@
 - **Luperón**: baia con forte comunità cruiser stanziale, considerata **sicura all'ancora** (controllo sociale alto), ma con povertà diffusa a terra: non esibire oggetti di valore, chiudere la barca. ★★
 - Advisory estere (Canada, UK, USA) su RD: livello **"esercitare normali precauzioni con attenzione elevata in città"** — borseggi, scippi in moto, truffe taxi. Nessun divieto di viaggio generalizzato per la RD. ★★★★
 
-## Quadro generale — Haiti
-
-- **Evitare la navigazione da diporto in acque haitiane** se non per emergenza. Noonsite: **"Haiti — gang, colera, sconsigliato"**; servizi di soccorso e autorità portuali intermittenti. ★★★★
-- **Colera endemico** e carenze sanitarie; strutture ospedaliere limitate. ★★★★
-- In caso di emergenza umanitaria/sicurezza, contattare l'ambasciata del proprio paese accreditata per Haiti (spesso a Santo Domingo). ★★★
 
 ## Mappa delle zone — offline
 
@@ -33,9 +26,10 @@
 
 *Legenda: cerchio rosso = zona da evitare di notte · arancio = furti tender.*
 
+
 ## Posti sicuri / posti da evitare — RD
 
-### ✅ Posti sicuri (RD)
+### ✅ Posti sicuri
 
 | Zona | Note | Fonte |
 |---|---|---|
@@ -44,7 +38,7 @@
 | **Samaná — Puerto Bahía e cittadina di giorno** | Turistica e presidiata | ★★ |
 | **Zona Colonial Santo Domingo (di giorno, con POLITUR)** | Molto pattugliata; restare su assi turistici | ★★★ |
 
-### ⛔ Posti da evitare o con cautela (RD)
+### ⛔ Posti da evitare o con cautela
 
 | Zona | Rischio | Fonte |
 |---|---|---|
@@ -54,11 +48,13 @@
 | **Pontili dinghy non custoditi di notte** | Furti opportunistici di dinghy/motore | ★★ |
 | **Traffico stradale** | Guida aggressiva, moto senza luci, buche: principale rischio fisico per chi noleggia scooter/auto | ★★★ |
 
-## Furti ai danni dei crocieristi (RD)
+
+## Furti ai danni dei crocieristi
 
 - Incidenza **moderata-bassa** nelle marine gated; più alta all'ancora isolata e in città. Hotspot storici: dinghy lasciato in acqua di notte senza catena, motori fuoribordo 15 hp, oggetti in pozzetto. ★★
 - Contromisure efficaci: **catena + lucchetto** passante per golfare, **motore bloccato al dinghy e al pushpit con cavo d'acciaio**, dinghy **sollevato in davits o sul ponte di notte**, niente elettronica in vista, luci di cortesia/pozzetto accese. ★★
 - Segnalazione: denuncia alla **POLITUR** + Armada + CSSN (Caribbean Safety and Security Net) per avvisi alla comunità. ★★
+
 
 ## Navigazione — rischi specifici Hispaniola
 
@@ -69,6 +65,7 @@
 | **Canale della Mona** | Corrente e vento incrociati tra RD e Puerto Rico: onda ripida, traffico commerciale | ★★★ |
 | **Foci fluviali** (Ozama, Yasica, Yaque) | Corrente e tronchi dopo piogge; acqua torbida | ★★ |
 | **IALA-B** (USA) | **"Red right returning"**: boe rosse a dritta entrando — **sistema invertito** rispetto all'Europa | ★★★ |
+
 
 ## Numeri di emergenza
 
@@ -92,11 +89,13 @@
 | Ambulanza / pompieri | **116** |
 | Semanah / MRCC Haiti | **VHF 16** (copertura limitata) | ★★
 
+
 ## Salvataggio ed emergenze in mare
 
 - **CROSS / MRCC RD**: coordinato dall'Armada Dominicana; chiamata primaria **VHF 16** + **911** a terra. Tenere a bordo coordinate WGS84 pronte e lista POB. ★★★★
 - Caso recente: soccorsi coordinati Armada RD nel Canale della Mona e su costa nord (stagione invernale swell) — seguire sempre bollettini INDOMET prima di uscire. ★★
 - Kit consigliato: EPIRB registrato, PLB, AIS, zattera revisionata, cassetta medica con antibiotici/antidolorifici (colera/dengue risk in area haitiana). ★★
+
 
 ## Monitoraggio mensile sicurezza
 
@@ -105,7 +104,7 @@ Riesaminare ogni mese, cercando **furti, scippi, rapine, omicidi** — soprattut
 | # | Fonte | Cosa cercare | Rank |
 |---|---|---|---|
 | 1 | cssn.org (incidenti Hispaniola/RD) | Furti/burglary a velisti, hotspot nuovi | ★★★ |
-| 2 | Listin Diario / Diario Libre (RD) — faits divers | Rapine, omicidi, aggressioni | ★★★ |
+| 2 | Listin Diario / Diario Libre — faits divers | Rapine, omicidi, aggressioni | ★★★ |
 | 3 | Noonsite.com — Dominican Republic / Haiti | Avvisi cruiser, gang Haiti, colera | ★★★ |
 | 4 | voyage.gc.ca · viaggiare sicuri (esteri.it) · gov.uk FCDO | Variazioni advisory RD/Haiti | ★★★★ |
 | 5 | Forum cruiser (Cruisers Forum, Facebook "Dominican Republic Cruisers" / "Luperón cruisers") | Avvisi rapidi dei naviganti | ★★ |

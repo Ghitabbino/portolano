@@ -41,7 +41,7 @@ Testi integrali: Bahamas National Trust (bnt.bs) per il parco Exuma; Harbour Con
 
 ### Mappa generale degli ancoraggi
 
-<div class="mapframe" data-slug="bahamas" data-minz="6" data-maxz="13" data-lat="24.50" data-lon="-76.00" data-markers='[[25.0801,-77.3207,"Hurricane Hole — Paradise"],[25.0827,-77.3220,"Atlantis Marina"],[24.7092,-76.8230,"Highbourne Cay"],[24.5922,-76.8127,"Norman’s Cay"],[24.3950,-76.6320,"Warderick Wells — Park"],[24.2618,-76.5128,"Cambridge — Compass"],[24.1700,-76.4400,"Staniel Cay"],[23.5333,-75.7667,"Georgetown — Exuma"]]'></div>
+<div class="mapframe" data-slug="bahamas" data-minz="6" data-maxz="13" data-lat="24.50" data-lon="-76.00" data-markers='[[25.0801,-77.3207,"Hurricane Hole — Paradise"],[25.0827,-77.3220,"Atlantis Marina"],[24.7092,-76.8230,"Highbourne Cay"],[24.5922,-76.8127,"Norman’s Cay"],[24.3950,-76.6320,"Warderick Wells — Park"],[24.2618,-76.5128,"Cambridge — Compass"],[24.1735,-76.4485,"Staniel Cay"],[23.5047,-75.7660,"Georgetown — Exuma"]]'></div>
 
 *Marker gialli — clic per nome.*
 

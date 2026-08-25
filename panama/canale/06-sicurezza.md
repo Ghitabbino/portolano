@@ -1,5 +1,11 @@
 # 06 — Sicurezza
 
+> ⚠️ **AGGIORNAMENTO 25/08/2026 (verifica critica)** — 2026: aggressione armata a
+> Portobello (21/04, equipaggio sequestrato ~20 min, ricerca stupefacenti); furti/tentativi
+> seriali di dinghy a Linton Bay (feb-mag) e Bocas del Toro. Corridoi narcotraffico marittimi:
+> massima cautela di notte e nei transiti (Travel.gc.ca). Fonte: CSSN ★★★. Dettagli in
+> *Panama · Ingresso* (banner).
+
 ## Valutazione sicurezza
 
 **2,5/5** — zone portuali di Colón da evitare; marine e ancoraggi turistici tranquilli con normali precauzioni.

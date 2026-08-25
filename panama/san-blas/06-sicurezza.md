@@ -1,5 +1,10 @@
 # 06 — Sicurezza
 
+> ⚠️ **AGGIORNAMENTO 25/08/2026 (verifica critica)** — Guna Yala resta l'area più tranquilla
+> di Panama, ma il quadro generale del paese è peggiorato nel 2026: aggressione armata a
+> Portobello (aprile) e furti seriali a Linton Bay/Bocas. Rimanere vigili sui transiti verso
+> il continente e nelle ore notturne. Fonte: CSSN ★★★. Dettagli in *Panama · Ingresso*.
+
 ## Valutazione sicurezza
 
 **3/5** — ambiente pacifico e sorvegliato informalmente dalle comunità Guna; furti opportunistici in ancoraggio possibili, violenza rara.

@@ -15,7 +15,12 @@ nav_pages, sections = [], []
 page_map = {}  # Path risolto -> id sezione
 scope_pid = {}  # (paese, titolo-norm) -> id
 queue = []     # (Path, titolo, id, paese)
-LABELS_IT={'cabo-verde':'Capo Verde'}
+LABELS_IT = {'cabo-verde': 'Capo Verde', 'costarica': 'Costa Rica',
+             'haiti': 'Haiti', 'repubblica-dominicana': 'Repubblica Dominicana',
+             'virgin-islands': 'Isole Vergini',
+             'trinidad-tobago': 'Trinidad e Tobago', 'turks-caicos': 'Turks e Caicos',
+             'st-kitts-nevis': 'St-Kitts e Nevis', 'st-eustatius': 'Sint Eustatius',
+             'antigua-barbuda': 'Antigua e Barbuda', 'saint-martin': 'Saint-Martin/Sint Maarten'}
 
 REGIONE_PER_PAESE = {
     # Caraibi
@@ -24,12 +29,12 @@ REGIONE_PER_PAESE = {
     'bonaire': 'Caraibi', 'cayman': 'Caraibi', 'cuba': 'Caraibi',
     'curacao': 'Caraibi', 'dominica': 'Caraibi', 'grenada': 'Caraibi',
     'grenadine': 'Caraibi', 'guadalupa': 'Caraibi', 'honduras': 'Caraibi',
-    'ispaniola': 'Caraibi', 'giamaica': 'Caraibi', 'martinica': 'Caraibi',
+    'giamaica': 'Caraibi', 'haiti': 'Caraibi', 'martinica': 'Caraibi',
     'montserrat': 'Caraibi', 'nicaragua': 'Caraibi', 'panama': 'Caraibi',
     'porto-rico': 'Caraibi', 'saba': 'Caraibi', 'saint-barth': 'Caraibi',
     'saint-martin': 'Caraibi', 'santa-lucia': 'Caraibi', 'st-eustatius': 'Caraibi',
     'st-kitts-nevis': 'Caraibi', 'trinidad-tobago': 'Caraibi', 'turks-caicos': 'Caraibi',
-    'venezuela': 'Caraibi', 'virgin-islands': 'Caraibi',
+    'repubblica-dominicana': 'Caraibi', 'venezuela': 'Caraibi', 'virgin-islands': 'Caraibi',
     # Atlantico
     'cabo-verde': 'Atlantico', 'canarie': 'Atlantico', 'madeira': 'Atlantico', 'azzorre': 'Atlantico',
     # Pacifico
@@ -37,7 +42,59 @@ REGIONE_PER_PAESE = {
     # Mediterraneo (futuro)
 }
 
-REGIONI_ORDINE = ['Caraibi', 'Atlantico', 'Pacifico', 'Mediterraneo']
+REGIONI_ORDINE = ['Caraibi', 'Atlantico', 'Pacifico', 'Mediterraneo', 'Mar Rosso', 'Oceano Indiano']
+
+# Icona + etichetta per ogni area (menu e card home)
+AREA_ICONA = {'Caraibi': '🌴', 'Atlantico': '🌊', 'Pacifico': '🐚', 'Mediterraneo': '⛵',
+              'Mar Rosso': '🐠', 'Oceano Indiano': '🏝️'}
+AREA_LABEL = {'Caraibi': 'Mar dei Caraibi'}
+
+# Gruppi geografici del Mar dei Caraibi (definizione utente) + coste continentali
+MACRO_ORDINE = ['Arcipelago Lucayano', 'Grandi Antille',
+                'Isole Sopravento Settentrionali', 'Isole Sopravento Meridionali',
+                'Isole Sottovento', 'Isole Caraibiche Occidentali',
+                'Isole del Canale e della Costa Continentale',
+                'Coste dell’America Centrale']
+MACRO_ICONA = {'Arcipelago Lucayano': '🏖️', 'Grandi Antille': '🗺️',
+               'Isole Sopravento Settentrionali': '🧭', 'Isole Sopravento Meridionali': '🦜',
+               'Isole Sottovento': '☀️', 'Isole Caraibiche Occidentali': '🤿',
+               'Isole del Canale e della Costa Continentale': '⚓',
+               'Coste dell’America Centrale': '🛶'}
+MACRO_CARAIBI = {
+    'bahamas': 'Arcipelago Lucayano', 'turks-caicos': 'Arcipelago Lucayano',
+    'cuba': 'Grandi Antille', 'haiti': 'Grandi Antille',
+    'repubblica-dominicana': 'Grandi Antille',
+    'giamaica': 'Grandi Antille', 'porto-rico': 'Grandi Antille',
+    'virgin-islands': 'Isole Sopravento Settentrionali', 'anguilla': 'Isole Sopravento Settentrionali',
+    'saint-martin': 'Isole Sopravento Settentrionali', 'saint-barth': 'Isole Sopravento Settentrionali',
+    'saba': 'Isole Sopravento Settentrionali', 'st-eustatius': 'Isole Sopravento Settentrionali',
+    'st-kitts-nevis': 'Isole Sopravento Settentrionali', 'antigua-barbuda': 'Isole Sopravento Settentrionali',
+    'montserrat': 'Isole Sopravento Settentrionali', 'guadalupa': 'Isole Sopravento Settentrionali',
+    'dominica': 'Isole Sopravento Meridionali', 'martinica': 'Isole Sopravento Meridionali',
+    'santa-lucia': 'Isole Sopravento Meridionali', 'grenadine': 'Isole Sopravento Meridionali',
+    'grenada': 'Isole Sopravento Meridionali', 'barbados': 'Isole Sopravento Meridionali',
+    'aruba': 'Isole Sottovento', 'curacao': 'Isole Sottovento',
+    'bonaire': 'Isole Sottovento',
+    'cayman': 'Isole Caraibiche Occidentali',
+    'trinidad-tobago': 'Isole del Canale e della Costa Continentale',
+    'belize': 'Coste dell’America Centrale', 'honduras': 'Coste dell’America Centrale',
+    'nicaragua': 'Coste dell’America Centrale', 'panama': 'Coste dell’America Centrale',
+    'venezuela': 'Coste dell’America Centrale',
+}
+
+# Bandiere per le tessere isola del menu centrale
+BANDIERE = {
+    'anguilla': '🇦🇮', 'antigua-barbuda': '🇦🇬', 'aruba': '🇦🇼', 'azzorre': '🇵🇹',
+    'bahamas': '🇧🇸', 'barbados': '🇧🇧', 'belize': '🇧🇿', 'bonaire': '🇧🇶',
+    'cabo-verde': '🇨🇻', 'canarie': '🇪🇸', 'cayman': '🇰🇾', 'costarica': '🇨🇷',
+    'cuba': '🇨🇺', 'curacao': '🇨🇼', 'dominica': '🇩🇲', 'giamaica': '🇯🇲',
+    'grenada': '🇬🇩', 'grenadine': '🇻🇨', 'guadalupa': '🇬🇵', 'honduras': '🇭🇳',
+    'haiti': '🇭🇹', 'madeira': '🇵🇹', 'repubblica-dominicana': '🇩🇴', 'martinica': '🇲🇶', 'montserrat': '🇲🇸',
+    'nicaragua': '🇳🇮', 'panama': '🇵🇦', 'porto-rico': '🇵🇷', 'saba': '🇳🇱',
+    'saint-barth': '🇧🇱', 'saint-martin': '🇲🇫', 'santa-lucia': '🇱🇨',
+    'st-eustatius': '🇳🇱', 'st-kitts-nevis': '🇰🇳', 'trinidad-tobago': '🇹🇹',
+    'turks-caicos': '🇹🇨', 'venezuela': '🇻🇪', 'virgin-islands': '🇻🇮',
+}
 
 countries = [] # (chiave paese, id copertina)
 country_to_region = {}
@@ -54,6 +111,22 @@ def strip_zone_suffix(title: str, sub_name: str) -> str:
         return re.sub(r"\s*\([^)]+\)\s*$", "", title)
     return title
 
+
+# Icone per le zone/isole interne (uniche, con attinenza al luogo)
+ZONA_ICONA = {
+    'cabo-verde/sal': '🏖️', 'cabo-verde/boa-vista': '🏜️', 'cabo-verde/maio': '🌿',
+    'cabo-verde/santiago': '🏛️', 'cabo-verde/fogo': '🌋', 'cabo-verde/brava': '💐',
+    'cabo-verde/sao-nicolau': '⛰️', 'cabo-verde/sao-vicente': '🎵',
+    'cabo-verde/santo-antao': '🥾',
+    'canarie/tenerife': '🗻', 'canarie/gran-canaria': '⛳', 'canarie/fuerteventura': '🏄',
+    'canarie/lanzarote': '🔥', 'canarie/la-gomera': '🌲', 'canarie/la-palma': '🍌',
+    'canarie/la-graciosa': '🚲', 'canarie/el-hierro': '🦎',
+    'grenadine/bequia': '🐋', 'grenadine/mustique': '💎', 'grenadine/canouan': '🏌️',
+    'grenadine/mayreau': '⛱️', 'grenadine/st-vincent': '🎬',
+    'grenadine/tobago-cays': '🐢', 'grenadine/union-island': '🪁',
+    'panama/canale': '🚢', 'panama/san-blas': '🐬',
+}
+zona_icons={}
 
 def norm_title(s: str) -> str:
     return re.sub(r"[^a-z0-9]", "", s.lower())
@@ -150,13 +223,25 @@ def render(md_path: Path, title: str, sec_id: str, country: str = ""):
             if not title:
                 title=place
         badge=f'<div class="loc-badge">{place}</div>'
+    if 'ancoraggi' in title.lower() and country:
+        html=('<blockquote><b>⚠️ Coordinate indicative</b> — tutte le posizioni sono espresse '
+              'in <b>gradi decimali, datum WGS84</b>, e segnalano in modo approssimativo la '
+              'rada o l\u2019ancoraggio, non punti di precisione. Confermare sempre con carta '
+              'nautica ufficiale WGS84 e osservazione in loco. '
+              '<b>Nessuna responsabilità per l\u2019uso di questi dati: la sicurezza resta al Comandante.</b></blockquote>'
+              +html)
     sections.append(f'<section id="{sec_id}" class="page" data-country="{country}">'
                     f'{badge}<h1{attrs}>{title}</h1>{html}</section>')
 
 
-register(ROOT / "00-indice.md", "Indice portolano")
+register(ROOT / "00-indice.md", "Aree")
+register(ROOT / "chi-siamo.md", "Chi siamo", country="", in_nav=False)
+CHI_PID = queue[-1][2]
 
-for country_dir in sorted(p for p in ROOT.iterdir() if p.is_dir() and not p.name.startswith(".")):
+NON_PAESE = {'controllo', 'fonti', 'tools', 'assets', 'mappe', 'gruppi'}
+for country_dir in sorted(p for p in ROOT.iterdir() if p.is_dir()
+                          and not p.name.startswith(".")
+                          and p.name not in NON_PAESE):
     pages = sorted(country_dir.glob("*.md"))
     if not pages:
         continue
@@ -181,6 +266,7 @@ for country_dir in sorted(p for p in ROOT.iterdir() if p.is_dir() and not p.name
         if not gpages:
             continue
         gkey = key + "/" + sub.name
+        zona_icons[gkey] = ZONA_ICONA.get(gkey, "🐬")
         hpos = len(nav_pages)
         for f in gpages:
             first = f.read_text(encoding="utf-8").splitlines()[0].lstrip("# ").strip()
@@ -191,8 +277,9 @@ for country_dir in sorted(p for p in ROOT.iterdir() if p.is_dir() and not p.name
         if has_groups:
             lbl = sub.name.replace("-", " ").title()
             pid = queue[len(queue) - len(gpages)][2]
+            zic = ZONA_ICONA.get(gkey, "🐬")
             nav_pages.insert(hpos, f'<a style="display:none" class="navlink zonelink" data-country="{gkey}" '
-                                  f'data-page="{pid}" href="#{pid}">{lbl}</a>')
+                                  f'data-page="{pid}" href="#{pid}"><span class="zic">{zic}</span>{lbl}</a>')
         for sub2 in sorted(p for p in sub.iterdir() if p.is_dir() and not p.name.startswith(".")):
             for f in sorted(sub2.glob("*.md")):
                 first = f.read_text(encoding="utf-8").splitlines()[0].lstrip("# ").strip()
@@ -210,16 +297,50 @@ region_to_countries = {}
 for ctry, reg in country_to_region.items():
     region_to_countries.setdefault(reg, []).append(ctry)
 
-nav_html = ('<div class="nav-countries">'
-            + "".join(
-                f'<div class="country region-header" data-region="{reg}">{reg}</div>'
-                + "".join(f'<a class="navlink country-link" data-country="{k}" '
-                          f'data-page="{pid}" href="#{pid}">'
-                          f'{LABELS_IT.get(k, (" · ".join(p.capitalize() for p in k.split("/"))).replace("-", " "))}</a>'
-                          for k, pid in sorted(countries) if country_to_region.get(k) == reg)
-                for reg in REGIONI_ORDINE if reg in region_to_countries
-            )
-            + '</div><div class="nav-pages">' + "\n".join(nav_pages) + "</div>")
+def paese_label(k: str) -> str:
+    if k in LABELS_IT:
+        return LABELS_IT[k]
+    part = {'e', 'di', 'del', 'della', 'delle', 'dei', 'degli', 'a', 'da',
+            'in', 'su', 'per', 'con', 'tra', 'fra'}
+    ws = base = k.split("/")[-1].split("-")
+    ws = [w.capitalize() if i == 0 or w not in part else w
+          for i, w in enumerate(base)]
+    return " ".join(ws)
+
+albero_regioni = []
+for reg in REGIONI_ORDINE:
+    paesi_reg = sorted(k for k, _ in countries if country_to_region.get(k) == reg)
+    if reg == 'Caraibi':
+        subs = [{'k': f'Caraibi/{m}', 'l': m, 'i': MACRO_ICONA.get(m, '🗺️'),
+                 'p': [k for k in paesi_reg if MACRO_CARAIBI.get(k) == m]}
+                for m in MACRO_ORDINE
+                if any(MACRO_CARAIBI.get(k) == m for k in paesi_reg)]
+        diretti = [k for k in paesi_reg if k not in MACRO_CARAIBI]
+    else:
+        subs, diretti = [], paesi_reg
+    # Mediterraneo: niente paesi ancora → includiamo comunque come "in arrivo"
+    pronta = bool(paesi_reg)
+    albero_regioni.append({'k': reg, 'l': AREA_LABEL.get(reg, reg),
+                           'i': AREA_ICONA.get(reg, '🌊'),
+                           'subs': subs, 'p': diretti, 'ready': pronta})
+
+ALBERO = {
+    'regions': albero_regioni,
+    'cover': {k: pid for k, pid in countries},
+    'lbl': {k: paese_label(k) for k, _ in countries},
+    'flag': {k: BANDIERE.get(k, '🏝️') for k, _ in countries},
+    'mlbl': {f'Caraibi/{m}': m for m in MACRO_ORDINE},
+    'zona': zona_icons,
+    'macroOf': {k: m for k, m in MACRO_CARAIBI.items()
+                if country_to_region.get(k) == 'Caraibi'},
+    'regionOf': {**{f'Caraibi/{m}': 'Caraibi' for m in MACRO_ORDINE},
+                 **{k: r for k, r in country_to_region.items()}},
+}
+
+nav_html = ('<div id="aree-head" title="Tutti i mari e gli oceani">🌍 Aree</div>'
+            '<div id="navtitle"></div>'
+            '<div id="tree"></div>'
+            '<div class="nav-pages">' + "\n".join(nav_pages) + "</div>")
 
 TEMPLATE = """<!DOCTYPE html>
 <html lang="it">
@@ -233,7 +354,8 @@ TEMPLATE = """<!DOCTYPE html>
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 52'%3E%3Ccircle cx='19' cy='20' r='10' fill='%23F0705A'/%3E%3Cpath d='M28 2 C41 13 47 30 44 48 L28 48 Z' fill='%231E5A9E'/%3E%3Cpath d='M6 48 q10 -8 22 -2 t 28 1' stroke='%232BB3A3' stroke-width='6' fill='none' stroke-linecap='round'/%3E%3C/svg%3E">
 <link rel="stylesheet" href="assets/leaflet.css">
 <style>
-:root { --bg:#0f1720; --panel:#16222e; --ink:#dbe7f1; --muted:#8aa2b5; --accent:#4db6ac; --line:#24384a; }
+:root { --bg:#0f1720; --panel:#16222e; --ink:#dbe7f1; --muted:#8aa2b5;
+        --accent:#4db6ac; --line:#24384a; }
 * { box-sizing:border-box; }
 body { margin:0; display:flex; min-height:100vh; background:var(--bg); color:var(--ink);
        font:15px/1.55 -apple-system, "Segoe UI", Roboto, sans-serif; }
@@ -246,20 +368,80 @@ aside h1 { font-size:16px; margin:0 0 12px; color:var(--accent); }
            text-decoration:none; font-size:13.5px; cursor:pointer; }
 .navlink:hover { background:#1d3040; }
 .navlink.active { background:var(--accent); color:#06231f; font-weight:600; }
-.country { display:block; margin:14px 0 4px; padding:4px 10px; color:var(--muted);
-           font-size:11px; letter-spacing:.12em; text-transform:uppercase; }
-.nav-countries { margin-bottom:12px; padding-bottom:10px; border-bottom:1px solid var(--line); }
-.country-link { font-weight:700; font-size:14.5px; }
+#aree-head { display:flex; align-items:center; gap:8px; font-weight:800; font-size:15px;
+             color:var(--accent); cursor:pointer; padding:7px 10px; border-radius:8px;
+             margin:2px 0 6px; }
+#aree-head:hover { background:#1d3040; }
+#navtitle { display:none; align-items:center; gap:10px; padding:9px 12px; margin:0 0 8px;
+            background:#101b26; border:1px solid var(--accent); border-radius:10px;
+            cursor:pointer; }
+#navtitle:hover { background:#14222f; }
+#navtitle .ic { font-size:26px; line-height:1; flex-shrink:0; width:auto; text-align:center; }
+#navtitle .tx { font-weight:800; font-size:21px; color:var(--accent); flex:1;
+                min-width:0; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+#navtitle-c { display:none; align-items:center; gap:14px; padding:14px 18px;
+              margin:6px 0 20px; background:#101b26; border:1px solid var(--line);
+              border-left:5px solid var(--accent); border-radius:12px; cursor:pointer; }
+#navtitle-c:hover { background:#14222f; }
+#navtitle-c .ic { font-size:38px; line-height:1; flex-shrink:0; width:auto; text-align:center; }
+#navtitle-c .tx { font-weight:800; font-size:27px; color:var(--accent); flex:1;
+                  min-width:0; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+#navtitle .car, #navtitle-c .car { color:var(--muted); font-weight:400; font-size:20px; }
+#tree .titem { display:flex; align-items:center; gap:9px; border-radius:8px; cursor:pointer;
+               color:var(--accent); text-decoration:none; font-weight:700; font-size:15px;
+               padding:8px 10px; }
+#tree .titem:hover { background:#1d3040; }
+#tree .titem .car { margin-left:auto; color:var(--muted); font-weight:400; }
+#tree .titem.reg { margin-top:6px; background:#101b26; border:1px solid var(--line);
+                   border-radius:10px; padding:10px 12px; }
+#tree .titem.reg:hover { background:#14222f; border-color:var(--accent); }
+#tree .titem.mac { padding-left:26px; margin-top:8px; }
+#tree .titem.cty { padding-left:42px; }
+#tree .titem .ic { font-size:18px; line-height:1; flex-shrink:0; width:24px; text-align:center; }
+#tree .titem .tx { flex:1; min-width:0; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+.soon, .area-card .soon { font-size:11px; font-weight:600; letter-spacing:.04em;
+  color:var(--accent); border:1px solid var(--line); border-radius:20px;
+  padding:3px 10px; white-space:nowrap; }
+#tree .titem.reg.dis { cursor:default; opacity:.8; }
+#tree .titem.reg.dis:hover { background:#101b26; border-color:var(--line); }
+.area-card.soon { opacity:.85; cursor:default; }
+.area-card.soon:hover { border-color:var(--line); background:#101b26; }
 .zonelink { font-weight:800; font-size:15.5px; color:var(--accent); margin-top:10px; }
+.zonelink .zic { margin-right:7px; }
 .loc-badge { color:var(--accent); font-weight:700; font-size:17px;
              letter-spacing:.02em; margin-bottom:-8px; }
-.pagelink { font-size:13px; padding-left:18px; }
-main { flex:1; min-width:0; padding:28px clamp(14px,2.5vw,44px); }
+.pagelink { font-size:15px; padding-left:20px; line-height:1.45; }
+#brand-c { display:flex; align-items:center; flex-wrap:wrap; gap:4px 16px;
+           margin:10px 0 24px; padding-bottom:18px; border-bottom:1px solid var(--line); }
+#brand-c .bw { font-size:27px; font-weight:800; letter-spacing:.01em; color:#fff; line-height:1; }
+#brand-c .bt2 { color:var(--accent); }
+#brand-c .bs { font-size:11px; color:var(--accent); letter-spacing:.08em;
+               text-transform:uppercase; margin-left:auto; text-align:right; }
+body.searching #navtitle, body.searching #tree,
+body.searching #navgrid, body.searching #disc-home, body.searching #navtitle-c { display:none!important; }
+#disc-home { display:none; border:1px solid #ffb74d; background:rgba(255,183,77,.07);
+             border-radius:12px; padding:12px 16px; font-size:13px; line-height:1.6;
+             color:var(--ink); margin:2px 0 14px; }
+#disc-home b { color:#ffb74d; }
+#navgrid { display:none; grid-template-columns:repeat(auto-fill,minmax(250px,1fr));
+           gap:16px; margin:8px 0 16px; }
+#navgrid .fi { font-size:42px; }
+#navgrid .area-card .soon { margin-top:2px; }
+main { flex:1; min-width:0; padding:clamp(30px,3.5vw,58px) clamp(14px,2.5vw,44px) 44px; }
 .page { display:none; }
 .page.visible { display:block; }
 h1,h2,h3 { color:#fff; line-height:1.25; }
 h2 { border-bottom:1px solid var(--line); padding-bottom:6px; margin-top:34px; }
 .tw { overflow-x:auto; margin:14px 0; border-radius:8px; }
+.aree-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(250px,1fr)); gap:16px;
+             margin:26px 0 12px; }
+.area-card { display:flex; flex-direction:column; gap:7px; align-items:center;
+             border:1px solid var(--line); border-radius:14px; background:#101b26;
+             padding:18px 16px; cursor:pointer; text-decoration:none; text-align:center; }
+.area-card:hover { border-color:var(--accent); background:#132230; }
+.area-card .ic { font-size:32px; line-height:1; }
+.area-card .nm { font-weight:800; font-size:17px; color:var(--accent); }
+.area-card .ds { font-size:11.5px; color:var(--accent); opacity:.72; line-height:1.55; }
 .paesi-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(200px,1fr)); gap:12px; margin:14px 0; }
 .pcard { min-width:0; overflow-wrap:anywhere; }
 .pcard { border:1px solid var(--line); border-radius:10px; background:#101b26;
@@ -325,33 +507,185 @@ li { margin:3px 0; }
   <nav id="nav">__NAV__</nav>
 </aside>
 <main>
+<div id="brand-c">
+<svg viewBox="0 0 64 52" width="46" height="40" aria-hidden="true" style="flex-shrink:0">
+<circle cx="19" cy="20" r="9" fill="#F0705A"/>
+<path d="M28 4 C40 14 46 30 43 46 L28 46 Z" fill="#1E5A9E"/>
+<path d="M26 12 L26 46 L14 46 C18 34 21 22 26 12 Z" fill="#16406F"/>
+<path d="M6 47 q9 -7 20 -2 t 30 1" stroke="#2BB3A3" stroke-width="4.5" fill="none" stroke-linecap="round"/>
+</svg>
+<span class="bw">Sail<span class="bt2">Tropics</span></span>
+<span class="bs">Un portolano amatoriale fatto da velisti per i velisti</span>
+</div>
+<div id="disc-home">
+<b>⚠️ Portolano amatoriale — sito non commerciale.</b>
+Informazioni e coordinate provengono da fonti pubbliche e segnalazioni di naviganti:
+sono <b>indicative</b>, possono essere imprecise, superate o errate e <b>non sostituiscono</b>
+la cartografia ufficiale, le guide ufficiali né il controllo diretto in loco.
+Ancoraggi, accessi, regolamenti e condizioni del mare vanno sempre verificati dal Comandante
+prima e durante la navigazione. <b>Ogni decisione e responsabilità è esclusivamente del Comandante.</b>
+Gli autori non assumono alcuna responsabilità per danni, perdite, sanzioni o incidenti
+derivanti dall'uso di questi contenuti.
+</div>
+<div id="navtitle-c"></div>
+<div id="navgrid"></div>
 __SECTIONS__
 </main>
 <script>
 const plinks=[...document.querySelectorAll('.pagelink')];
-const clinks=[...document.querySelectorAll('.country-link')];
-let current='__FIRST__';
+const TREE=__TREE__;
+let current='__FIRST__', state='';
+function esc(s){return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/"/g,'&quot;');}
+function chain(st){
+  if(!st)return[];
+  if(st.startsWith('r:'))return[{t:'r',k:st}];
+  if(st.startsWith('m:')){
+    const mk=st.slice(2);
+    return[{t:'r',k:'r:'+TREE.regionOf[mk]},{t:'m',k:st}];
+  }
+  if(st.includes('/'))return chain(st.split('/')[0]).concat([{t:'z',k:st}]);
+  const c=[{t:'r',k:'r:'+TREE.regionOf[st]}];
+  if(TREE.macroOf[st])c.push({t:'m',k:'m:'+TREE.regionOf[st]+'/'+TREE.macroOf[st]});
+  return c.concat([{t:'c',k:st}]);
+}
+const PARTICOLI=['e','di','del','della','delle','dei','degli','d','a','da','in','su','per','con','tra','fra'];
+function capWord(w){return w.toLowerCase().split(/([\u2019'])/).map(function(seg,i){
+  if(i%2)return seg;
+  return seg.charAt(0).toUpperCase()+seg.slice(1);}).join('');}
+function capIt(s){return s.split(/(\\s+)/).map(function(w,i){
+  if(/^\\s+$/.test(w))return w;
+  const low=w.toLowerCase();
+  if(i>1&&PARTICOLI.indexOf(low)>=0)return low;
+  return capWord(low);
+}).join('');}
+function lbl(n){
+  const k=n.k.replace(/^[rm]:/,'');
+  if(n.t==='c')return TREE.lbl[k]||capIt(k.replace(/-/g,' '));
+  if(n.t==='r'){const r=TREE.regions.find(x=>x.k===k);return r?r.l:k;}
+  if(n.t==='m')return (TREE.mlbl&&TREE.mlbl[k])||capIt((k.includes('/')?k.split('/').pop():k).replace(/-/g,' '));
+  return capIt(k.split('/').pop().replace(/-/g,' '));
+}
+function parentOf(st){
+  if(!st)return null;
+  const ch=chain(st),up=ch[ch.length-2];
+  return up?up.k:'';
+}
+function flagTile(k){
+  return '<a class="area-card" data-open="'+esc(k)+'"><span class="ic fi">'+(TREE.flag[k]||'🏝️')
+    +'</span><span class="nm">'+esc(TREE.lbl[k]||k)+'</span></a>';
+}
+function renderNav(){
+  const ch=chain(state);
+  const cur=ch[ch.length-1];
+  const nt=document.getElementById('navtitle'),tr=document.getElementById('tree');
+  let tit='';
+  if(ch.length){
+    const n=ch[ch.length-1];let ic='';
+    if(n.t==='r'){const rr=TREE.regions.find(x=>'r:'+x.k===n.k);ic=rr?rr.i:'🌊';}
+    else if(n.t==='m'){ic='🏝️';
+      for(const rr of TREE.regions){const s=rr.subs.find(x=>x.k===n.k.slice(2));if(s){ic=s.i||ic;break;}}}
+    else if(n.t==='c')ic=TREE.flag[n.k]||'🏝️';
+    else ic=TREE.zona[n.k]||'\u2693';
+    tit='<span class="ic">'+ic+'</span><span class="tx">'+esc(lbl(n))
+       +'</span><span class="car">‹</span>';
+    nt.innerHTML=tit;nt.style.display='flex';
+  }else{nt.innerHTML='';nt.style.display='none';}
+  let h='';
+  if(!state){
+    h=TREE.regions.map(r=>{
+      if(r.ready===false)
+        return '<a class="titem reg dis"><span class="ic">'+r.i+'</span><span class="tx">'
+          +esc(r.l)+'</span><span class="soon">in preparazione</span></a>';
+      return '<a class="titem reg" data-go="r:'+esc(r.k)+'">'
+        +'<span class="ic">'+r.i+'</span><span class="tx">'+esc(r.l)+'</span>'
+        +' <span class="car">›</span></a>';
+    }).join('');
+  }else{
+    if(cur.t==='r'){
+      const r=TREE.regions.find(x=>'r:'+x.k===cur.k);
+      if(r)h=r.subs.map(s=>'<a class="titem mac" data-go="m:'+esc(s.k)+'"><span class="ic">'
+        +(s.i||'🏝️')+'</span><span class="tx">'+esc(s.l)+'</span><span class="car">›</span></a>').join('')
+        +r.p.map(k=>'<a class="titem cty" data-open="'+esc(k)+'"><span class="ic">'+(TREE.flag[k]||'🏝️')
+        +'</span><span class="tx">'+esc(TREE.lbl[k])+'</span><span class="car">›</span></a>').join('');
+    }else if(cur.t==='m'){
+      for(const r of TREE.regions){
+        const s=r.subs.find(x=>x.k===cur.k.slice(2));
+        if(s){h=s.p.map(k=>'<a class="titem cty" data-open="'+esc(k)+'"><span class="ic">'+(TREE.flag[k]||'🏝️')
+          +'</span><span class="tx">'+esc(TREE.lbl[k])+'</span><span class="car">›</span></a>').join('');break;}
+      }
+    }
+  }
+  tr.innerHTML=h;
+  tr.querySelectorAll('[data-go]').forEach(el=>el.addEventListener('click',()=>go(el.dataset.go)));
+  tr.querySelectorAll('[data-open]').forEach(el=>el.addEventListener('click',()=>show(TREE.cover[el.dataset.open])));
+  const ng=document.getElementById('navgrid');
+  const ctry=(state&&!/^[rm]:/.test(state))?state:'';
+  let g='';
+  if(!state){
+    g=TREE.regions.map(r=>r.ready===false
+      ?'<a class="area-card soon"><span class="ic">'+r.i+'</span><span class="nm">'+esc(r.l)
+        +'</span><span class="soon">in preparazione</span></a>'
+      :'<a class="area-card" data-go="r:'+esc(r.k)+'"><span class="ic">'+r.i
+        +'</span><span class="nm">'+esc(r.l)+'</span><span class="ds">'
+        +esc(r.subs.length?r.subs.map(s=>s.l).join(' · ')
+                          :r.p.map(k=>TREE.lbl[k]).join(' · '))+'</span></a>').join('');
+  }else if(cur.t==='r'){
+    const r=TREE.regions.find(x=>'r:'+x.k===cur.k);
+    if(r)g=r.subs.map(s=>'<a class="area-card" data-go="m:'+esc(s.k)+'"><span class="ic">'+(s.i||'🗺️')
+        +'</span><span class="nm">'+esc(s.l)+'</span><span class="ds">'
+        +esc(s.p.map(k=>TREE.lbl[k]).join(' · '))+'</span></a>').join('')
+      +r.p.map(flagTile).join('');
+  }else if(cur.t==='m'){
+    for(const rr of TREE.regions){
+      const s=rr.subs.find(x=>x.k===cur.k.slice(2));
+      if(s){g=s.p.map(flagTile).join('');break;}
+    }
+  }else if(ctry&&!ctry.includes('/')){
+    const zs=[...document.querySelectorAll('.zonelink')]
+      .filter(z=>z.dataset.country.split('/')[0]===ctry&&z.dataset.country!==ctry);
+    if(zs.length)g=zs.map(z=>{
+      var lbl=z.textContent.trim(),zi=TREE.zona[z.dataset.country];
+      if(zi&&lbl.indexOf(zi)===0)lbl=lbl.slice(zi.length).trim();
+      return '<a class="area-card" data-openzone="'+esc(z.dataset.country)
+      +'" data-page="'+esc(z.dataset.page)+'"><span class="ic">'+(zi||'🐬')
+      +'</span><span class="nm">'+esc(lbl)+'</span></a>';}).join('');
+  }
+  ng.innerHTML=g;
+  ng.style.display=g?'grid':'none';
+  const ntc=document.getElementById('navtitle-c');
+  if(g&&state){ntc.innerHTML=tit;ntc.style.display='flex';}
+  else{ntc.innerHTML='';ntc.style.display='none';}
+  document.getElementById('disc-home').style.display=(!state)?'block':'none';
+  if(g&&!ctry)document.querySelectorAll('.page').forEach(x=>x.classList.remove('visible'));
+  plinks.forEach(l=>l.style.display=(ctry&&l.dataset.country===ctry)?'':'none');
+  document.querySelectorAll('.zonelink').forEach(l=>{
+    const lk=l.dataset.country;let v=false;
+    if(ctry)v=ctry.includes('/')?(lk===ctry):(lk.split('/')[0]===ctry);
+    l.style.display=v?'':'none';
+  });
+}
+function go(k){
+  if(k===''){state='';renderNav();window.scrollTo(0,0);
+    if(typeof toggleNav==='function')toggleNav(false);return;}
+  state=k;renderNav();
+}
+function setState(s){state=s;renderNav();}
 function show(id){
   current=id;
   const p=document.getElementById(id);
   document.querySelectorAll('.page').forEach(x=>x.classList.toggle('visible',x===p));
-  const c=(p&&p.dataset.country)||'';
-  const root=c?c.split('/')[0]:'';
-  clinks.forEach(l=>l.classList.toggle('active',l.dataset.country===root));
-  plinks.forEach(l=>l.style.display=(c&&l.dataset.country===c)?'':'none');
-  document.querySelectorAll('.zonelink').forEach(l=>{
-    const lk=l.dataset.country;
-    let vis=false;
-    if(c){
-      if(c.includes('/')) vis=(lk===c);            // dentro zona: solo la sua intestazione
-      else vis=(lk.split('/')[0]===root);          // a livello paese: tutte le sue zone
-    }
-    l.style.display=vis?'':'none';                 // senza paese (Indice): nascoste
-  });
+  if(p&&p.dataset.special){
+    document.getElementById('navgrid').style.display='none';
+    document.getElementById('disc-home').style.display='none';
+    window.scrollTo(0,0);
+    return;
+  }
+  setState((p&&p.dataset.country)||'');
   window.scrollTo(0,0);
   if(p)initMaps(p);
 }
 function initMaps(root){
+  if(typeof L==='undefined')return;
   const isAnc=/ancoraggi/i.test((root.querySelector('h1')||{textContent:''}).textContent||'')
             || !!root.querySelector('h1[id^="anc"]');
   const ancIcon=L.divIcon({className:'anch-ic',
@@ -434,77 +768,66 @@ function initMaps(root){
     setTimeout(()=>m.invalidateSize(),100);
   });
 }
-clinks.forEach(l=>l.addEventListener('click',e=>{
-  e.preventDefault();
-  const s=document.getElementById('search'); s.value='';
-  const k=l.dataset.country||"";
-  const cp=(current&&document.getElementById(current))?document.getElementById(current).dataset.country:"";
-  if(l.classList.contains('country-link')&&k&&cp&&cp!==k){
-    show(l.dataset.page);return;
-  }
-  if(l.classList.contains('zsub')&&k&&cp&&cp===k){
-    const nat=k.split('/')[0];
-    const n=document.querySelector('.nav-countries a.country-link[data-country="'+nat+'"]');
-    if(n){show(n.dataset.page);return;}
-  }
-  show(l.dataset.page);
-}));
-document.querySelectorAll('.region-header').forEach(h=>h.addEventListener('click',e=>{
-  e.preventDefault();
-  const s=document.getElementById('search'); s.value='';
-  show('p1');
-}));
-document.getElementById('home-link').addEventListener('click',()=>{
-  const s=document.getElementById('search'); s.value='';
-  show(document.querySelector('.page').id);
+document.getElementById('aree-head').addEventListener('click',()=>{
+  document.getElementById('search').value='';
+  document.body.classList.remove('searching');
+  go('');
 });
-plinks.forEach(l=>l.addEventListener('click',e=>{e.preventDefault();show(l.dataset.page);}));
+document.getElementById('home-link').addEventListener('click',()=>{
+  esciRicerca();
+  if(typeof toggleNav==='function')toggleNav(false);
+  show('__CHI__');
+});
+document.getElementById('navtitle').addEventListener('click',()=>{go(parentOf(state)||'');});
+document.getElementById('navtitle-c').addEventListener('click',()=>{go(parentOf(state)||'');});
+document.getElementById('navgrid').addEventListener('click',e=>{
+  const oz=e.target.closest('[data-openzone]');
+  if(oz){setState(oz.dataset.openzone);show(oz.dataset.page);return;}
+  const o=e.target.closest('[data-open]');
+  if(o){show(TREE.cover[o.dataset.open]);return;}
+  const t=e.target.closest('[data-go]');
+  if(t)go(t.dataset.go);
+});
+function esciRicerca(){document.getElementById('search').value='';document.body.classList.remove('searching');}
+plinks.forEach(l=>l.addEventListener('click',e=>{e.preventDefault();esciRicerca();show(l.dataset.page);}));
 [...document.querySelectorAll('.zonelink')].forEach(l=>l.addEventListener('click',e=>{
   e.preventDefault();
-  const s=document.getElementById('search'); s.value='';
-  const cp=(current&&document.getElementById(current))?document.getElementById(current).dataset.country:"";
-  if(cp&&cp.indexOf('/')>=0&&cp===l.dataset.country){
-    const nat=cp.split('/')[0];
-    const n=document.querySelector('.nav-countries a.country-link[data-country="'+nat+'"]');
-    if(n){show(n.dataset.page);return;}
-  }
-  show(l.dataset.page);
+  document.getElementById('search').value='';
+  document.body.classList.remove('searching');
+  const lk=l.dataset.country;
+  if(state===lk){const nat=lk.split('/')[0];setState(nat);show(TREE.cover[nat]);}
+  else{setState(lk);show(l.dataset.page);}
 }));
 document.addEventListener('click',e=>{
+  const ar=e.target.closest('[data-area]');
+  if(ar){e.preventDefault();
+    document.getElementById('search').value='';
+    document.body.classList.remove('searching');
+    go('r:'+ar.dataset.area);return;}
   const a=e.target.closest('main a[href^="#"]');
   if(!a)return;
   const el=document.getElementById(a.getAttribute('href').slice(1));
   if(!el)return;
   e.preventDefault();
   const page=el.closest('.page');
+  esciRicerca();
   if(page&&!page.classList.contains('visible'))show(page.id);
   setTimeout(()=>el.scrollIntoView({behavior:'smooth',block:'start'}),60);
 });
 window.addEventListener('hashchange',()=>{const id=location.hash.slice(1);if(document.getElementById(id))show(id);});
 document.getElementById('search').addEventListener('input',e=>{
   const q=e.target.value.toLowerCase().trim();
-  if(!q){show(current);return;}
-  const rootVis={};
+  document.body.classList.toggle('searching',!!q);
+  if(!q){renderNav();return;}
+  const hitC={};
   plinks.forEach(l=>{
     const pg=document.getElementById(l.dataset.page);
     const hit=!!(pg&&pg.textContent.toLowerCase().includes(q));
     l.style.display=hit?'':'none';
-    if(hit){
-      const c0=l.dataset.country.split('/')[0];
-      rootVis[c0]=1;
-      if(l.dataset.country.includes('/')) rootVis[l.dataset.country]=1;
-    }
+    if(hit)hitC[l.dataset.country]=1;
   });
   document.querySelectorAll('#nav .zonelink').forEach(h=>{
-    h.style.display=rootVis[h.dataset.country]?'':'none';
-  });
-  clinks.forEach(l=>{
-    const k=l.dataset.country;
-    l.style.display=(l.textContent.toLowerCase().includes(q)||rootVis[k])?'':'none';
-  });
-  document.querySelectorAll('.region-header').forEach(h=>{
-    const reg=h.dataset.region;
-    h.style.display=rootVis[reg]?'':'none';
+    h.style.display=hitC[h.dataset.country]?'':'none';
   });
 });
 show('__FIRST__');
@@ -514,8 +837,20 @@ show('__FIRST__');
 </html>
 """
 
-html = TEMPLATE.replace("__NAV__", nav_html).replace("__SECTIONS__", "\n".join(sections)).replace("__FIRST__", "p1")
+html = (TEMPLATE.replace("__NAV__", nav_html)
+        .replace("__TREE__", json.dumps(ALBERO, ensure_ascii=False))
+        .replace("__SECTIONS__", "\n".join(sections))
+        .replace(f'<section id="{CHI_PID}" class="page"',
+                 f'<section id="{CHI_PID}" class="page" data-special="1"', 1)
+        .replace("__CHI__", CHI_PID)
+        .replace("__FIRST__", "p1"))
 OUT.write_text(html, encoding="utf-8")
+# Manifesto pagine per audit/verifiche automatiche
+(Path(__file__).resolve().parent / 'pagine_manifest.json').write_text(
+    json.dumps([{'file': str(pth.relative_to(ROOT)), 'id': pid,
+                 'paese': cntry, 'titolo': ttl}
+                for pth, ttl, pid, cntry in queue],
+               ensure_ascii=False), encoding='utf-8')
 print(f"OK -> {OUT} ({OUT.stat().st_size} byte, {len(queue)} pagine)")
 
 
@@ -541,10 +876,23 @@ th,td{padding:8px 10px;}
 .mapframe{height:275px;}
 .navlink{padding:11px 12px;font-size:15px;}
 .zonelink{font-size:17px;margin-top:13px;}
+#brand-c{margin:2px 0 14px;gap:2px 10px;}
+#brand-c .bw{font-size:19px;}
+#brand-c .bs{display:none;}
+#tree .titem{padding-top:10px;padding-bottom:10px;font-size:15px;}
+#tree .mac{padding-left:26px;margin-top:12px;}
+#tree .cty{padding-left:42px;}
+#aree-head{padding:9px 10px;font-size:16px;margin-top:4px;}
 .loc-badge{font-size:15px;margin-bottom:-7px;}
 .paesi-grid{grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px;}
+.aree-grid{grid-template-columns:1fr 1fr;gap:10px;}
+#navgrid{grid-template-columns:1fr 1fr;gap:10px;}
+#navgrid .fi{font-size:30px;}
+.area-card{padding:14px 12px;}
+.area-card .ic{font-size:26px;}
+.area-card .nm{font-size:15.5px;}
 /* Telefono grande / tablet verticale */
-@media(min-width:601px) and (max-width:800px){
+ @media(min-width:601px) and (max-width:800px){
  .mapframe{height:340px;} table{min-width:540px;font-size:14.5px;} h1{font-size:1.5rem;}
  main{padding:74px 20px 44px;} }
 /* TABLET orizzontale / laptop piccolo: barra laterale compatta, niente hamburger */
@@ -554,8 +902,10 @@ th,td{padding:8px 10px;}
  aside h1{font-size:15px;margin:0 0 10px;}
  #search{font-size:13px;padding:7px 9px;}
  .navlink{padding:9px 10px;font-size:13.5px;}
- .pagelink{font-size:12.5px;padding-left:16px;}
+ .pagelink{font-size:14px;padding-left:18px;}
  .zonelink{font-size:15px;margin-top:11px;}
+ #tree .titem{padding-top:8px;padding-bottom:8px;font-size:13.5px;}
+ #tree .mac{margin-top:10px;}
  main{padding:24px 20px 40px;}
  h1{font-size:1.45rem;} h2{font-size:1rem;}
  table{min-width:600px;font-size:14.5px;}
@@ -576,7 +926,7 @@ drawer = """<script>
 function toggleNav(force){const a=document.querySelector('aside'),b=document.getElementById('backdrop');
  const open=(force!==undefined)?force:!a.classList.contains('open');
  a.classList.toggle('open',open);b.classList.toggle('show',open);}
-document.querySelectorAll('aside a').forEach(a=>a.addEventListener('click',()=>toggleNav(false)));
+document.querySelectorAll('aside a:not(.reg):not(.mac)').forEach(a=>a.addEventListener('click',()=>toggleNav(false)));
 document.addEventListener('keydown',e=>{if(e.key==='Escape')toggleNav(false);});
 </script>
 """

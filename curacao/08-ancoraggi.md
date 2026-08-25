@@ -6,7 +6,7 @@ Selezione di ancoraggi utili per la crociera a Curaçao. Dettagli completi (coor
 
 ## Mappa generale
 
-<div class="mapframe" data-slug="curacao" data-minz="9" data-maxz="13" data-lat="1207.N" data-lon="6856.W"></div>
+<div class="mapframe" data-slug="curacao" data-minz="9" data-maxz="13" data-lat="12.117" data-lon="-68.933"></div>
 
 *Posizione indicativa del porto principale. Clicca sui marker per dettaglio ancoraggio (se disponibile).*
 

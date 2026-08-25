@@ -1,7 +1,4 @@
 # 08 — Portolano degli ancoraggi
-
-**Ultima verifica: 24/08/2026**
-
 ## Regole generali di ancoraggio (prima di tutto)
 
 - **Despacho obbligatorio** per ogni spostamento tra porti/baie dominicane: va richiesto all'Armada prima di salpare e presentato all'arrivo. Navigare senza despacho espone a fermo e sanzione. ★★★★★
@@ -10,6 +7,7 @@
 - **Luperón No-Work Zone**: divieto di lavori in baia (vedi [04 Servizi](04-servizi-cantieri.md)). ★★★★★
 - **Reef e pesca**: molte baie hanno FAD/boe di pesca e reti quasi invisibili; attenzione in entrata con sole basso. ★★
 - Fondali tipici RD: **sabbia e fango** con ottima tenuta (Luperón, Samaná, Salinas), **sabbia/corallo** con tenuta variabile (Saona, Catalina, Águilas) — sempre calare con maschera o sonar per scegliere chiazza di sabbia. ★★
+
 
 ## Tabella riassuntiva — i migliori ancoraggi (RD sottovento)
 
@@ -33,6 +31,7 @@
 <div class="mapframe" data-slug="ispaniola" data-minz="7" data-maxz="13" data-lat="18.80" data-lon="-70.50" data-markers='[[19.9026,-70.9542,"Luperón — Puerto Blanco"],[19.8272,-70.7316,"Ocean World — Cofresi"],[19.1943,-69.3554,"Samaná — Puerto Bahía"],[18.5018,-68.3815,"Cap Cana"],[18.3976,-68.9004,"Casa de Campo"],[18.4455,-69.6243,"Boca Chica"],[18.105,-73.695,"Ile-a-Vache — Port Morgan"]]'></div>
 
 *Marker gialli — clic per nome.*
+
 
 ## Schede sintetiche
 
@@ -66,13 +65,6 @@ Rada cittadina poco turistica, utile come scalo tecnico per la costa sud-ovest. 
 ### 10 — Las Salinas / Bahía de Ocoa
 Costa sud arida e ventosa, saline e dune. Baie ampie e poco frequentate, buone con aliseo leggero; ancoraggi su sabbia con fondale che degrada regolare. ★★
 
-## Haiti — ancoraggi (navigazione sconsigliata)
-
-| Ancoraggio | Coordinate | Note |
-|---|---|---|
-| **Île-à-Vache — Port Morgan** | **18°06.30′N 73°41.70′W** | Baia a sud con resort; l'unica rada haitiana con minima accoglienza yacht, ma contesto sicurezza sconsigliato |
-| **Labadee** | **19°46′N 72°12′W** | Enclave privata crocieristica, non accessibile senza autorizzazione |
-| Port-au-Prince / Jacmel / Les Cayes | **DATO MANCANTE** | Porti commerciali, non ancoraggi diportistici |
 
 ## Cartografia ufficiale
 
@@ -86,7 +78,8 @@ Costa sud arida e ventosa, saline e dune. Baie ampie e poco frequentate, buone c
 - Le carte cartacee RD non sempre dettagliano l'ultimo balisage dei canali (Luperón, Boca Chica): **incrociare con elettronica aggiornata e waypoint cruiser verificati**, entrando con sole alto. ★★
 - Cartografia amministrativa parchi: **Ministerio de Medio Ambiente RD** (mappe Los Haitises, Del Este, Jaragua). ★★★★
 
-## Checklist àncora per Ispaniola (RD)
+
+## Checklist àncora per Ispaniola
 
 1. Despacho richiesto e a bordo per ogni tappa ✓
 2. Waypoint d'ingresso con sole alto, occhio al reef ✓

@@ -16,6 +16,11 @@ Tropicale umido, 26–31 °C; più ventilato delle Antille grazie agli alisei co
 
 Zona fuori fascia (<10°N): rischio diretto quasi nullo; solo onde residue da sistemi caraibici settentrionali.
 
+> 📡 **Aggiornamento 25/08/2026** — Stagione Atlantico 2026 **sotto la media**
+> (NOAA 75% prob. sotto-normale per super El Niño; picco ASO comunque aperto fino a
+> metà ottobre). Rischio principale residuo: rovesci eccessivi e alluvioni flash.
+> Fonti: noaa.gov ★★★★★, rcc.cimh.edu.bb ★★★★.
+
 ## Venti locali
 
 | Vento | Effetto |

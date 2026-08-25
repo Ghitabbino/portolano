@@ -1,8 +1,5 @@
 # 03 — Porti e marine
-
-**Ultima verifica: 24/08/2026** · Coordinate in WGS84, VHF dove indicato
-
-## Repubblica Dominicana — costa nord (Atlantico)
+## Costa nord (Atlantico)
 
 ### Luperón — Puerto Blanco ⚓ hurricane hole storico
 
@@ -28,7 +25,8 @@
 - Servizi: ristorante Marina + pool, fuel dock, assistenza all'ingresso, colmados a 10 min a piedi in paese. ★★
 - Vicino a Los Haitises (parco nazionale, accesso regolato con guida). ★★★★
 
-## Repubblica Dominicana — costa est e sud-est (Punta Cana / La Romana)
+
+## Costa est e sud-est (Punta Cana / La Romana)
 
 ### Cap Cana Marina (Punta Cana)
 
@@ -44,7 +42,8 @@
 - **Shipyard Casa de Campo**: travelift (capacità **DATO MANCANTE**), lavori vetroresina/motori (vedi [04](04-servizi-cantieri.md)). ★★★
 - Base ideale per Isla Catalina / Isla Saona (15–20 M). ★★
 
-## Repubblica Dominicana — costa sud (Santo Domingo / Boca Chica / Barahona)
+
+## Costa sud (Santo Domingo / Boca Chica / Barahona)
 
 ### Santo Domingo — Rio Ozama (Marina Sans Souci / Don Diego / Casa de Campo?)
 
@@ -63,19 +62,8 @@
 - Porto commerciale e banchine pescherecci; limitata ospitalità yacht. Punto utile per rotta verso Giamaica o per Bahía de las Águilas con despacho. ★★
 - Coordinate **DATO MANCANTE** · VHF **16** · Servizi cittadini base (colmados, mercato). Acqua/carburante **DATO MANCANTE**.
 
-## Haiti — porti (quadro sintetico, navigazione sconsigliata)
 
-| Porto | Coordinate | VHF | Note |
-|---|---|---|---|
-| **Port-au-Prince** | **DATO MANCANTE** | 16 | Porto commerciale principale; sicurezza critica, **non base diportistica** — non disponibile per insicurezza |
-| **Cap-Haïtien / Labadee** | **19°46′N 72°12′W** (Labadee) | 16 | Labadee è penisola privata Royal Caribbean, **non aperta ai diportisti** senza permesso |
-| **Jacmel** (sud) | **DATO MANCANTE** | **DATO MANCANTE** | Rada aperta, non disponibile per insicurezza |
-| **Les Cayes** (sud-ovest) | **DATO MANCANTE** | **DATO MANCANTE** | Rada, non disponibile per insicurezza |
-| **Île-à-Vache — Port Morgan** | **18°06.30′N 73°41.70′W** | 16 | Baia riparata con resort; **unico punto haitiano con minima infrastruttura per yacht**, ma contesto generale sconsigliato — verificare sicurezza giornaliera | ★★
-
-> **Haiti**: dettagli operativi (tariffe, acqua, luce) **DATO MANCANTE / non disponibile per insicurezza** al 24/08/2026. In caso di emergenza, valutare trasferimento in RD (Ocean World / Casa de Campo) con zarpe internazionale.
-
-## Tariffe ormeggi e marine — RD (stesse voci per tutti i paesi)
+## Tariffe ormeggi e marine (stesse voci per tutti i paesi)
 
 > **DATO MANCANTE** = da ricercare al controllo mensile. Tariffe RD in **USD** (alcune marine fatturano in DOP). Richiedere sempre preventivo scritto con elettricità/acqua incluse o extra.
 
@@ -101,6 +89,7 @@
 | Acqua (m³) | DATO MANCANTE | DATO MANCANTE | DATO MANCANTE | DATO MANCANTE | Truck a chiamata |
 | Fuel dock (DOP/l) | MICM + servizio | MICM + servizio | MICM + servizio | MICM + servizio | Jerry can via Andy (~135 USD servizio) |
 
+
 ## Distanze utili (M = miglia nautiche)
 
 | Tratta | Distanza | Note |
@@ -114,6 +103,7 @@
 | Barahona – Bahía de las Águilas | ~60 M SW | Selvaggia |
 | Cap Cana – Puerto Rico (Mayagüez) via Mona Passage | ~210 M E | Traversata impegnativa, Canale della Mona 25–30 kt possibili |
 | Luperón – Turks & Caicos (South Caicos) | ~220 M N | Rotta verso Bahamas |
+
 
 ## Note strategiche per ormeggio
 

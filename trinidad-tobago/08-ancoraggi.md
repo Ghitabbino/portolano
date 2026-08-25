@@ -6,7 +6,7 @@ Selezione di ancoraggi utili per la crociera a Trinidad e Tobago. Dettagli compl
 
 ## Mappa generale
 
-<div class="mapframe" data-slug="trinidad-tobago" data-minz="9" data-maxz="13" data-lat="1040.N" data-lon="6131.W"></div>
+<div class="mapframe" data-slug="trinidad-tobago" data-minz="9" data-maxz="13" data-lat="10.667" data-lon="-61.517"></div>
 
 *Posizione indicativa del porto principale. Clicca sui marker per dettaglio ancoraggio (se disponibile).*
 

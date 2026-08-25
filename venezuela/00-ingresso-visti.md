@@ -7,4 +7,14 @@ Farnesina/Viaggiare Sicuri (aggiorn. lug 2026) ★★★: viaggi in Venezuela **
 - **Esenzione visto specifica per cittadini italiani 2025-26**: **DATO MANCANTE** (nessuna conferma recente trovata). L'Ambasciata VE in Italia elenca la "Visa de Turista (T)" tra i visti rilasciabili [Embajada VE en Italia, pag. visas, 2024] ★★. Verificare prima della partenza presso consmaracas/con ambasciata.
 - **Nota pratica cruiser**: un cittadino USA nel 2017 entrato via mare a Los Roques ottenne un "transit visa" sul posto pagando $40 extra [commento Noonsite, 2017] ★.
 
-**Ultimo aggiornamento: 24/08/2026**
+## Fonti ufficiali
+
+| Ente | Link | A cosa serve |
+|---|---|---|
+| SAIME — Immigrazione | [saime.gob.ve](https://www.saime.gob.ve) | proroghe di permanenza, visti |
+| INEA — Istituto Nazionale dei Canali Acquatici | [inea.gob.ve](https://www.inea.gob.ve) | Capitanerie di Porto, permessi di navigazione |
+| SENIAT — Dogana | [seniat.gob.ve](http://www.seniat.gob.ve) | dogana, dichiarazioni |
+| Farnesina — Viaggiare Sicuri | [viaggiare.sicuri.it/venezuela](https://www.viaggiare.sicuri.it/america-centro-sud/venezuela) | advisory ufficiale italiano |
+| Ambasciata d'Italia a Caracas | [ambcaracas.esteri.it](https://ambcaracas.esteri.it) | assistenza consolare · seg.ambcaracas@esteri.it |
+
+Ultimo aggiornamento: 25/08/2026

@@ -6,7 +6,7 @@ Selezione di ancoraggi utili per la crociera a Bonaire. Dettagli completi (coord
 
 ## Mappa generale
 
-<div class="mapframe" data-slug="bonaire" data-minz="9" data-maxz="13" data-lat="1209.N" data-lon="6817.W"></div>
+<div class="mapframe" data-slug="bonaire" data-minz="9" data-maxz="13" data-lat="12.150" data-lon="-68.283"></div>
 
 *Posizione indicativa del porto principale. Clicca sui marker per dettaglio ancoraggio (se disponibile).*
 

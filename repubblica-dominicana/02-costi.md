@@ -1,13 +1,4 @@
 # 02 — Costo della vita
-
-**Ultima verifica: 24/08/2026**
-
-Valute: **Repubblica Dominicana: peso dominicano (DOP/RD$)** · **Haiti: gourde haitiana (HTG)**. Cambio indicativo: **1 USD ≈ 58–60 DOP** (2026, fluttuante) · **1 USD ≈ 130 HTG** (indicativo, molto volatile). ★★★
-
-> ⚠️ Le voci di questo elenco sono le stesse per tutti i paesi del portolano. Dove il dato non è stato ancora trovato dalle fonti si scrive **DATO MANCANTE**: viene ricercato al controllo mensile (vedi [00 Indice](../00-indice.md)).
-
-## Repubblica Dominicana
-
 ### Alimentari e spesa di bordo
 
 | Voce | Prezzo indicativo | Fonte / Note |
@@ -40,7 +31,7 @@ Valute: **Repubblica Dominicana: peso dominicano (DOP/RD$)** · **Haiti: gourde 
 
 Prezzi specifici per locale → [10 Ristoranti](10-ristoranti.md).
 
-### Carburanti (RD) — prezzi amministrati MICM
+### Carburanti — prezzi amministrati MICM
 
 | Voce | Prezzo indicativo | Fonte |
 |---|---|---|
@@ -51,7 +42,7 @@ Prezzi specifici per locale → [10 Ristoranti](10-ristoranti.md).
 
 > Prezzi **amministrati e aggiornati settimanalmente dal Ministerio de Industria, Comercio y Mipymes (MICM)** — verificare listino settimanale MICM per la settimana di rifornimento. Fuel dock marine applicano lo stesso prezzo + piccolo ricarico servizio. ★★★★★
 
-### Trasporti e collegamenti (RD)
+### Trasporti e collegamenti
 
 | Voce | Prezzo indicativo | Note |
 |---|---|---|
@@ -65,7 +56,7 @@ Prezzi specifici per locale → [10 Ristoranti](10-ristoranti.md).
 
 *Dettaglio taxi/bus per ancoraggio (numeri, fermate, frequenze, costi) → [07 Provvisioning](07-provvisioning.md) tabelle per zona.*
 
-### Servizi quotidiani (RD)
+### Servizi quotidiani
 
 | Voce | Prezzo indicativo | Fonte |
 |---|---|---|
@@ -77,33 +68,12 @@ Prezzi specifici per locale → [10 Ristoranti](10-ristoranti.md).
 | Lavaggio scafo / hull dive (pulizia carena in acqua) | **DATO MANCANTE** — indicativo **2–4 USD/piede** | Diver locale su chiamata, chiedere in marina ★★ |
 | Ferramenta nautica / viti inox | Prezzi variabili | Pisces Marine Santo Domingo / chandler Ocean World ★★ |
 
-## Haiti
-
-### Carburanti (Haiti) — dopo rincaro del **02/04/2026**
-
-| Voce | Prezzo indicativo | Fonte |
-|---|---|---|
-| **Benzina** | **725 gourdes/gallone** (**~5,58 USD/gal**) | Governo Haiti / stampa locale 02/04/2026 ★★★★ |
-| **Diesel** | **850 gourdes/gallone** (**~6,54 USD/gal**) | Governo Haiti / stampa locale 02/04/2026 ★★★★ |
-| **Kerosene** | **DATO MANCANTE** | — |
-| Variazione vs precedente | **+29–37%** a seconda del prodotto (aumento deciso ad aprile 2026) | ★★★★ |
-
-> 1 gallone USA = 3,785 litri → benzina ≈ 1,47 USD/l · diesel ≈ 1,73 USD/l al cambio indicato. Disponibilità irregolare per blocchi stradali e insicurezza.
-
-### Costo della vita Haiti
-
-| Voce | Prezzo indicativo | Fonte |
-|---|---|---|
-| **Single, spese incl. affitto** | **~593 USD/mese** | CityCost Haiti ★★★ |
-| Famiglia 4 persone | **DATO MANCANTE** | — |
-| Pasti, alimentari, mercato | **DATO MANCANTE** — scaffali irregolari, prezzi volatili | Contesto inflattivo e disponibilità discontinua ★★ |
-| Elettricità / acqua | **DATO MANCANTE** | Rete intermittente, generatori privati |
-| Sicurezza e logistica | Costi extra significativi per scorta/trasporto sicuro | ★★ |
 
 ## Contanti e pagamenti
 
 - **RD**: pesos dominicani ovunque; **USD accettati** nelle marine resort (Cap Cana, Casa de Campo, Ocean World) ma con cambio sfavorevole (5–10%). Carte **Visa/Mastercard** accettate nei supermercati e marine; **contante indispensabile** a Luperón e nei villaggi. Bancomat (cajeros) a Luperón, Puerto Plata, Samaná, Santo Domingo — commissione **DATO MANCANTE**. ★★
 - **Haiti**: gourdes; USD talvolta accettati ma sconsigliato esporre contante. Commissioni bancomat **DATO MANCANTE** per insicurezza. ★★
+
 
 ## Approfondimenti
 

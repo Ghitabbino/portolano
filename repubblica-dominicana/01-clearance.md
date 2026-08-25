@@ -1,9 +1,4 @@
 # 01 — Clearance doganale della barca
-
-**Ultima verifica: 24/08/2026** · Fonti principali: Armada de República Dominicana, Dirección General de Migración, Dirección General de Aduanas RD ★★★★★; per Haiti: Administration Générale des Douanes d'Haïti / iKat gouv.ht ★★★★★
-
-## Repubblica Dominicana
-
 ### Principi generali
 
 - **SailClear non utilizzato** in RD: la procedura è esclusivamente **cartacea e in presenza** presso le autorità in porto. ★★★★
@@ -24,7 +19,7 @@
 
 > Altri punti con presenza Armada possono autorizzare l'ingresso solo come scalo tecnico/emergenza: confermare via VHF con la Comandancia più vicina.
 
-### Procedura d'ingresso (RD)
+### Procedura d'ingresso
 
 1. **Chiamata radio** in avvicinamento (VHF 16) alla Comandancia/Armada del porto d'ingresso. ★★★★
 2. **Presentazione in banchina/ufficio** con documenti nave ed equipaggio: passaporti, registro/documento di bandiera, lista equipaggio, assicurazione, eventuale zarpe del porto precedente. ★★★★★
@@ -32,7 +27,7 @@
 4. **Ispezione a bordo** possibile (soprattutto Agricultura per alimenti freschi). ★★★★
 5. Rilascio di **permesso di navigazione / despacho d'ingresso** e timbri passaporti.
 
-### Costi indicativi (RD)
+### Costi indicativi
 
 | Voce | Importo | Fonte |
 |---|---|---|
@@ -54,21 +49,6 @@
 - Fotocopie di tutti i documenti (almeno 4 copie) accelerano la pratica. ★★
 - Agente doganale **non obbligatorio** ma utile a Santo Domingo/Cap Cana per velocizzare; compenso a parte. ★★
 
-## Haiti — clearance (quadro sintetico)
-
-> ⚠️ **Situazione generale sconsigliata**: Noonsite e diversi avvisi governativi segnalano per Haiti un contesto di **instabilità, attività di gang armate e colera endemico**; la navigazione da diporto è **fortemente sconsigliata** salvo necessità. Chi decide di procedere deve applicare precauzioni estreme e aggiornamento quotidiano della situazione. ★★★★
-
-| Porto / Rada | Coordinate | Note |
-|---|---|---|
-| **Port-au-Prince** (baia) | **DATO MANCANTE** | Capitale; porto commerciale, sicurezza critica |
-| **Cap-Haïtien / Labadee** | **19°46′N 72°12′W** (Labadee) | Nord; Labadee è enclave privata crocieristica |
-| **Jacmel** | **DATO MANCANTE** | Costa sud |
-| **Les Cayes** | **DATO MANCANTE** | Sud-ovest |
-| **Île-à-Vache — Port Morgan** | **18°06.30′N 73°41.70′W** | Rada sud, resort/bay per yacht | ★★
-
-- **iKat obbligatorio** per via mare come per via aerea: compilare su `https://delidoc.gouv.ht/ikat` entro **72 ore** dall'arrivo e conservare il **QR code**. ★★★★★
-- Procedura locale: presentazione a **Immigrazione / Douane / APN (Autorité Portuaire Nationale) / Semanah (Service Maritime)** con possibile ispezione; zarpe/despacho secondo prassi locale — **DATO MANCANTE** per dettaglio diritti aggiornati. ★★
-- VHF di chiamata: **16** (ove presidiato). ★★
 
 ## Numeri utili clearance
 

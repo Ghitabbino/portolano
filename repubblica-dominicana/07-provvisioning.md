@@ -1,7 +1,4 @@
 # 07 — Provvisioning
-
-**Ultima verifica: 24/08/2026**
-
 ## Livello prezzi generale
 
 - **Repubblica Dominicana**: disponibilità ampia e moderna; prodotti locali (mango, avocado, banane, ananas, papaya, riso, fagioli, uova, pollo, pesce fresco) a prezzi contenuti; importati UE/USA più cari ma reperibili ovunque nelle catene nazionali. Supermercati di livello medio-alto caraibico. ★★
@@ -11,6 +8,7 @@
 > Le catene sotto accettano carte; orario tipico **08:00–21:00**, dom 09:00–18:00/20:00. I colmados di villaggio chiudono tardi ma assortimento limitato. ★★
 
 ---
+
 
 ## Catene nazionali — Repubblica Dominicana (quadro per il diportista)
 
@@ -25,6 +23,7 @@
 > Nessuna catena pubblicizza consegna diretta **in banchina** per yacht; la prassi è taxi/furgone o agente della marina. Verificare al check-in se la marina offre servizio carrello + van. ★★
 
 ---
+
 
 ## Supermercati per zona — dettaglio diportista
 
@@ -197,24 +196,20 @@ La capitale offre la scelta più ampia dell'isola; ideale per grande cambusa pri
 | OMSA bus urbano | Fermate cittadine | Frequente | **15–25 DOP** | Affollato |
 
 ---
+### 7) Haiti — provvisioning
 
-### 7) Haiti — Port Morgan (Île-à-Vache) ⚓ *navigazione sconsigliata*
-
-| Negozio | Ubicazione | Distanza | A piedi? | Telefono | Consegna a bordo? | Note |
-|---|---|---|---|---|---|---|
-| **Mini-market / dispensa Port Morgan Resort** | Île-à-Vache, Port Morgan **18°06.30′N 73°41.70′W** | In baia, dinghy dock resort | ✅ sì (in resort) | **DATO MANCANTE** / **non disponibile per insicurezza** | ❌ non disponibile | Scorte limitate, prezzi alti, scaffali irregolari — solo emergenza. ★★ |
-| **Mercati Port-au-Prince / Les Cayes / Jacmel** | Haiti continentale | **DATO MANCANTE** | — | **DATO MANCANTE** | **non disponibile per insicurezza** | **Sconsigliato** raggiungere per cambusa — rischio gang, posti di blocco, rapimenti. ★★★★ |
-| Qualsiasi supermercato haitiano | — | — | — | **DATO MANCANTE** | **non disponibile per insicurezza** | Approvvigionamento critico — preferire RD. |
-
-> Per Haiti: **DATO MANCANTE** = recapito/dettaglio non verificabile per situazione di insicurezza; da considerare **non disponibile** al 24/08/2026. Vedi [06 Sicurezza](06-sicurezza.md) e [01 Clearance](01-clearance.md). ★★★★
+Nessun provvisioning affidabile in Haiti: per dettagli e contesto sicurezza vedi la
+pagina *Haiti · 07 Provvisioning*. Considerare RD come unico hub di cambusa della zona. ★★★★
 
 ---
 
-## Mercati, pesce e fresco (RD)
+
+## Mercati, pesce e fresco
 
 - **Mercato del pesce** in ogni porto peschereccio (Luperón, Puerto Plata, Samaná, Boca Chica, Malecón Santo Domingo): pescato del giorno **05:30–09:00**, prezzi trattabili, chiedere ai pescatori su ciguatera (barracuda/taglie grandi di reef). ★★
 - **Mercati ortofrutticoli (mercados)** a Luperón, Puerto Plata, Samaná, Santo Domingo: frutta/verdura locale abbondante ed economica; mercato mattutino migliore. ★★
 - **Panaderías** ovunque: pane fresco, dolci locali, pan de agua. ★★
+
 
 ## Acqua e carburante
 
@@ -225,6 +220,7 @@ La capitale offre la scelta più ampia dell'isola; ideale per grande cambusa pri
 | **Fuel dock** | Ocean World, Cap Cana, Casa de Campo, Puerto Bahía (diesel/benzina) | Prezzi MICM settimanali → [02 Costi](02-costi.md) |
 | **Jerry can / truck** | A Luperón e baie minori: consegna in taniche — es. **Andy a Luperón** **~135 USD** per servizio + costo carburante (da confermare, trattabile) | ★★ |
 | **Gas GPL** | Truck GPL a chiamata in tutte le marine; bombole USA 20 lb comuni | Portare adattatori USA/EU. ★★ |
+
 
 ## Consigli pratici del diportista
 

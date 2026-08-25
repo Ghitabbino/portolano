@@ -12,7 +12,7 @@
 | Negozio | Ubicazione | Distanza dall'ancoraggio | A piedi? | Telefono | Consegna a bordo? | Note | Fonte |
 |---|---|---|---|---|---|---|---|
 | **NESSUN supermercato nelle Cays** | — | — | — | — | — | Parco marino disabitato: divieto di costruzioni/negozi | Parco Tobago Cays ★★★★ |
-| **Rifornimento più vicino: Clifton, Union Island** | Clifton Harbour, Union Island | ~3–4 NM (~30–45 min di barca) | ❌ solo via barca propria o water taxi | Vedi [Union Island 07](paesi/grenadine/union-island/07-provvisioning.md) | ✅ sì — molti shop di Clifton consegnano via taxi-boat su accordo telefonico | Fare spesa completa prima di entrare nel parco | ★★★ |
+| **Rifornimento più vicino: Clifton, Union Island** | Clifton Harbour, Union Island | ~3–4 NM (~30–45 min di barca) | ❌ solo via barca propria o water taxi | Vedi [Union Island 07](../union-island/07-provvisioning.md) | ✅ sì — molti shop di Clifton consegnano via taxi-boat su accordo telefonico | Fare spesa completa prima di entrare nel parco | ★★★ |
 | **Barge / Boat-boys in rada** | Passano tra le barche (Baradal, Petit Bateau) | A fianco della barca | — | VHF 68 / a voce | ✅ sì — vendita diretta in banchina | Frutta/verdura, pane, pesce, aragosta (in stagione), ghiaccio occasionale, souvenir; prezzi da contrattare, qualità variabile | Cruiser reports ★★ |
 | **Alternative a nord: Mayreau / Canouan / Bequia** | — | 5–15 NM | — | — | — | Per grande scorta meglio Bequia (Doris/Knights) — qualità superiore a Clifton | ★★ |
 

@@ -1,8 +1,5 @@
 # 04 — Servizi, cantieri e manutenzione
-
-**Ultima verifica: 24/08/2026**
-
-## Repubblica Dominicana — hub tecnici
+## Hub tecnici
 
 L'isola lato RD ha **due poli con travelift e piazzale** per i diportisti: **Ocean World (70 T) a nord** e **Casa de Campo a est**. Luperón è **No-Work Zone**. Per grandi raddobbi o ricambi, il riferimento cittadino è **Santo Domingo / Santiago**.
 
@@ -41,6 +38,7 @@ L'isola lato RD ha **due poli con travelift e piazzale** per i diportisti: **Oce
 - **Ferramenta limitata** in paese: viti base, vernici di base, corde, utensili; ricambi specifici da ordinare a Santiago/Santo Domingo o via importazione USA. ★★
 - **Elettricità**: generatori privati; banchina limitata. **DATO MANCANTE** per tariffa kWh a Luperón. ★★
 
+
 ## Servizi trasversali RD — tabella sintetica
 
 | Servizio | Dove / Come | Telefono / VHF | Orario | Note |
@@ -60,11 +58,6 @@ L'isola lato RD ha **due poli con travelift e piazzale** per i diportisti: **Oce
 | **Lavanderia** | Luperón paese (lavandaia), marine resort | — | — | **DATO MANCANTE** tariffa 2026 |
 | **SIM dati** | Claro / Altice / Viva | Negozi città/marina | — | Pacchetti dati vedi [02 Costi](02-costi.md) ★★ |
 
-## Haiti — servizi
-
-- **Nessun cantiere affidabile** per diportisti segnalato come sicuro e continuativo al 24/08/2026. Attrezzature minime a Port-au-Prince e Cap-Haïtien per pescherecci locali, non per yacht da crociera; disponibilità intermittente, sicurezza critica. ★★
-- **Travelift / chandlery / veleria in Haiti**: **DATO MANCANTE / non disponibile per insicurezza** — da considerare **non disponibile** al 24/08/2026. ★★
-- In caso di necessità urgente (avaria, via d'acqua), valutare **trasferimento in Repubblica Dominicana (Ocean World / Casa de Campo)** con despacho/zarpe internazionale e assistenza Armada RD VHF 16 / 911. ★★
 
 ## Note strategiche per il diportista
 

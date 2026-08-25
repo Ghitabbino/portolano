@@ -15,6 +15,12 @@ Tropicale umido; Atlantico più piovoso del Pacifico. Temperatura aria 26–32 �
 
 Panama è **fuori dalla fascia uragani** (lat <10°N): rischio diretto quasi nullo; onde residue possibili da sistemi a nord.
 
+> 📡 **Aggiornamento 25/08/2026** — Stagione 2026: Atlantico **sotto la media**
+> (NOAA 75% prob., super El Niño; CSU: 9 tempeste/1 maggiore) ma **Pacifico orientale
+> SOPRA la media** (15-22 tempeste): il versante Pacifico di Panama guarda a quella
+> stagione. Rischio principale in ASO: piogge eccessive e alluvioni flash (CariCOF).
+> Fonti: noaa.gov ★★★★★, tropical.colostate.edu ★★★★, rcc.cimh.edu.bb ★★★★.
+
 ## Venti locali
 
 | Vento | Note |

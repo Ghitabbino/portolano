@@ -1,12 +1,4 @@
 # 10 — Ristoranti
-
-**Ultima verifica: 24/08/2026**
-
-Selezione orientata alla crociera: locali raggiungibili a piedi o con breve taxi dagli ancoraggi e marine del portolano ([08 Ancoraggi](08-ancoraggi.md) · [03 Porti e marine](03-porti-marine.md)). Prezzi indicativi per persona senza bevande, salvo dove indicato.
-
-Legenda prezzi: **€** <15 USD · **€€** 15–35 USD · **€€€** >35 USD — Cucina: 🐟 pesce e frutti di mare · 🥩 carne e grigliate · 🥗 creola/internazionale · 🥙 street food creolo · 🍰 dolci/gelato
-Legenda stelle: ★ solo stelle = recensioni diportiste aggregate; ★ con fonte governativa nominata quando disponibile (qui non applicabile, salvo dove indicato)
-
 ## Griglia generale — Repubblica Dominicana
 
 | Ristorante | Zona | Costo | Cucina | Specialità | Location | Stelle |
@@ -21,17 +13,11 @@ Legenda stelle: ★ solo stelle = recensioni diportiste aggregate; ★ con fonte
 | **Api Beach** | Cap Cana | **€€€** | 🐟 Beach gourmet | Crudos, sushi, grill di pesce | **🏖️ beach club di lusso** | ★★★★ |
 | **La Casita** | Casa de Campo Marina | **€€€** | 🐟 Pesce / 🥩 carne | Paella, churrasco, lobster | **⚓ marina resort** | ★★★★ |
 
-## Haiti — unico punto con ristorazione per yacht
-
-| Ristorante | Zona | Costo | Cucina | Specialità | Location | Stelle |
-|---|---|---|---|---|---|---|
-| **Port Morgan Hotel Restaurant** | Île-à-Vache (Port Morgan) **18°06.30′N 73°41.70′W** | **€€** | 🐟 Pesce creolo / 🥩 grill | Langouste, lambi, grill | **⚓ baia riparata, resort** | ★★★ |
-
-> In Haiti la ristorazione fuori da Port Morgan è **DATO MANCANTE** per sicurezza e continuità — navigazione sconsigliata (vedi [06 Sicurezza](06-sicurezza.md)).
 
 ## Mappa dei ristoranti
 
 <div class="mapframe" data-slug="ispaniola" data-minz="7" data-maxz="13" data-lat="18.80" data-lon="-70.50" data-markers='[[19.9026,-70.9542,"Puerto Blanco Restaurant"],[19.8272,-70.7316,"Ocean World"],[19.1943,-69.3554,"Puerto Bahía"],[18.5018,-68.3815,"Cap Cana — Api Beach"],[18.3976,-68.9004,"La Casita Casa de Campo"]]'></div>
+
 
 ## Dettagli utili per il diportista
 
@@ -40,6 +26,7 @@ Legenda stelle: ★ solo stelle = recensioni diportiste aggregate; ★ con fonte
 - **Cap Cana / Casa de Campo**: ristorazione di livello resort, **prenotazione consigliata** e dress code smart-casual la sera; **Api Beach (Cap Cana)** per pranzo in spiaggia, **La Casita (Casa de Campo)** per cena in marina. ★★
 - **Ocean World**: ristoranti interni al resort, utili se a terra per lavori (travelift 70 T). ★★
 - **Isla Saona / Catalina / Águilas**: **nessun ristorante** — cambusa autonoma obbligatoria. Chiringuitos stagionali solo per escursioni giornaliere 10:00–16:00. ★★
+
 
 ## App e fonti
 

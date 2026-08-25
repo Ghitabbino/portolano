@@ -1,9 +1,4 @@
 # 09 — Artigiani e negozi nautici
-
-**Ultima verifica: 24/08/2026**
-
-Hub tecnico lato RD sono **Ocean World (Puerto Plata)** a nord e **Casa de Campo (La Romana)** a est; per ricambi cittadini il polo è **Santo Domingo / Santiago**. A Luperón solo ferramenta di base. In Haiti **nessun servizio affidabile** per yacht da diporto al 24/08/2026. Contatto tipico via telefono/WhatsApp; si parla spagnolo e, nelle marine resort, inglese. Chiedere sempre **preventivo scritto (devis)** con tempi, tariffa oraria e ricambi.
-
 ## Tabella artigiani e servizi — Repubblica Dominicana
 
 | Ditta / Nome | Referente | Area di intervento | Dealer / Marchi | Tel / VHF | Mail / Sito | Sede & orari | Recensioni |
@@ -19,6 +14,7 @@ Hub tecnico lato RD sono **Ocean World (Puerto Plata)** a nord e **Casa de Campo
 
 *Legenda: **DATO MANCANTE** = recapito o dettaglio non verificato da fonte primaria al 24/08/2026; verrà ricercato al controllo mensile. Stars: ★★★★ = verificato multi-fonte, ★★ = segnalazione diportista singola.*
 
+
 ## Dove si trova cosa
 
 - **Alaggio / carena / verniciatura**: **Ocean World 70 T** (nord) e **Casa de Campo** (est) — gli unici travelift affidabili per diportisti sul lato RD. Per monoscafi leggeri valutare anche scivoli locali con gru mobile (su verifica locale, a rischio). ★★★
@@ -28,6 +24,7 @@ Hub tecnico lato RD sono **Ocean World (Puerto Plata)** a nord e **Casa de Campo
 - **Inox / saldatura / biminis**: artigiani a Santiago/Santo Domingo; a Luperón solo saldature semplici su acciaio dolce. Per alluminio (alberi, boma) solo specialisti cittadini. ★★
 - **Antivegetativa e ferramenta**: piccola disponibilità a Luperón (International base); assortimento completo da **Pisces Marine (Santo Domingo)** e chandler di Ocean World/Casa de Campo (Jotun, Hempel, International). ★★
 - **Frigoristi / aria condizionata**: tecnici Santo Domingo/Santiago; a Luperón intervento solo itinerante. ★★
+
 
 ## Negozi di attrezzature e shipchandler — tabella
 
@@ -39,6 +36,7 @@ Hub tecnico lato RD sono **Ocean World (Puerto Plata)** a nord e **Casa de Campo
 | **Ferramentas Luperón** (generiche: El Centro, Jenny) | Viti, vernici, resine base, utensili, corde, minuteria inox base | — | — | — | Luperón centro · 08:00–18:00 | Per emergenze, non per raddobbo completo ★★ |
 | **North Sails Loft** | Vele, riparazioni, canvas | North Sails | **DATO MANCANTE** | northsails.com | Santo Domingo | Su appuntamento ★★ |
 
+
 ## Note pratiche
 
 - **Preventivi**: chiedere sempre **devis scritto** con tempi, manodopera/ora e ricambi inclusi/esclusi; in alta stagione (dic–apr) gli atelier sono saturi — prenotare con 2–4 settimane di anticipo. Tariffa oraria indicativa RD **DATO MANCANTE** — chiedere in loco (stimata 40–80 USD/h in marina resort). ★★
@@ -48,10 +46,3 @@ Hub tecnico lato RD sono **Ocean World (Puerto Plata)** a nord e **Casa de Campo
 - **Luperón No-Work**: nessun lavoro in baia — portare la barca in cantiere autorizzato per qualsiasi intervento di carena o vernice; pena sanzione. ★★★★★
 - **Per barche AMEL o alluminio**: lavorazioni specialistiche (albero, saldature alluminio, avvolgitori) solo a Santo Domingo/Santiago con artigiano referenziato; verificare referenze cruiser prima di affidare lo scafo. Chiedere a Ocean World se hanno esperienza su ketch Amel. ★★
 - **Contatti rapidi**: VHF marina sempre presidiato 08:00–17:00; fuori orario WhatsApp del dockmaster (chiedere in banchina). ★★
-
-## Haiti
-
-- **Nessun chandler o artigiano affidabile** segnalato per yacht da diporto al 24/08/2026. Ferramenta di base a Port-au-Prince/Cap-Haïtien per pescherecci locali, non adatta a raddobbi yacht; qualità e sicurezza non verificabili. ★★
-- In caso di avaria, considerare **trasferimento in RD (Ocean World / Casa de Campo)** con zarpe internazionale e assistenza Armada RD VHF 16 / 911. **DATO MANCANTE** per qualsiasi travelift/chandlery/veleria in Haiti — da considerare **non disponibile per insicurezza**. ★★
-
-Ultimo aggiornamento: 24/08/2026

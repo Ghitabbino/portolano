@@ -6,7 +6,7 @@ Selezione di ancoraggi utili per la crociera a Aruba. Dettagli completi (coordin
 
 ## Mappa generale
 
-<div class="mapframe" data-slug="aruba" data-minz="9" data-maxz="13" data-lat="1231.N" data-lon="7002.W"></div>
+<div class="mapframe" data-slug="aruba" data-minz="9" data-maxz="13" data-lat="12.517" data-lon="-70.033"></div>
 
 *Posizione indicativa del porto principale. Clicca sui marker per dettaglio ancoraggio (se disponibile).*
 

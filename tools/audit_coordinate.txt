@@ -1,0 +1,48 @@
+AUDIT POSIZIONI (ristoranti marker + ancoraggi pin)
+
+anguilla/10-ristoranti.md: nessuna mappa
+antigua-barbuda/10-ristoranti.md: nessuna mappa
+aruba/10-ristoranti.md: nessuna mappa
+barbados/10-ristoranti.md: nessuna mappa
+belize/10-ristoranti.md: nessuna mappa
+bonaire/10-ristoranti.md: nessuna mappa
+costarica/10-ristoranti.md: nessuna mappa
+curacao/10-ristoranti.md: nessuna mappa
+dominica/10-ristoranti.md: nessuna mappa
+grenada/10-ristoranti.md: nessuna mappa
+honduras/10-ristoranti.md: nessuna mappa
+montserrat/10-ristoranti.md: nessuna mappa
+nicaragua/10-ristoranti.md: nessuna mappa
+saba/10-ristoranti.md: nessuna mappa
+saint-barth/10-ristoranti.md: nessuna mappa
+saint-martin/10-ristoranti.md: nessuna mappa
+santa-lucia/10-ristoranti.md: nessuna mappa
+st-eustatius/10-ristoranti.md: nessuna mappa
+st-kitts-nevis/10-ristoranti.md: nessuna mappa
+trinidad-tobago/10-ristoranti.md: nessuna mappa
+turks-caicos/10-ristoranti.md: nessuna mappa
+venezuela/10-ristoranti.md: nessuna mappa
+virgin-islands/10-ristoranti.md: nessuna mappa
+cabo-verde/boa-vista/10-ristoranti.md: nessuna mappa
+cabo-verde/brava/10-ristoranti.md: nessuna mappa
+cabo-verde/fogo/10-ristoranti.md: nessuna mappa
+cabo-verde/maio/10-ristoranti.md: nessuna mappa
+cabo-verde/sal/10-ristoranti.md: nessuna mappa
+cabo-verde/santiago/10-ristoranti.md: nessuna mappa
+cabo-verde/santo-antao/10-ristoranti.md: nessuna mappa
+cabo-verde/sao-nicolau/10-ristoranti.md: nessuna mappa
+cabo-verde/sao-vicente/10-ristoranti.md: nessuna mappa
+grenadine/bequia/10-ristoranti.md: nessuna mappa
+grenadine/canouan/10-ristoranti.md: nessuna mappa
+grenadine/mayreau/10-ristoranti.md: nessuna mappa
+grenadine/mustique/10-ristoranti.md: nessuna mappa
+grenadine/st-vincent/10-ristoranti.md: nessuna mappa
+grenadine/tobago-cays/10-ristoranti.md: nessuna mappa
+grenadine/union-island/10-ristoranti.md: nessuna mappa
+panama/canale/10-ristoranti.md: nessuna mappa
+panama/san-blas/10-ristoranti.md: nessuna mappa
+coordinate condivise (19.9026, -70.9542): ['haiti/10-ristoranti.md:Puerto Blanco Restaurant', 'repubblica-dominicana/10-ristoranti.md:Puerto Blanco Restaurant']
+coordinate condivise (19.8272, -70.7316): ['haiti/10-ristoranti.md:Ocean World', 'repubblica-dominicana/10-ristoranti.md:Ocean World']
+coordinate condivise (19.1943, -69.3554): ['haiti/10-ristoranti.md:Puerto Bahía', 'repubblica-dominicana/10-ristoranti.md:Puerto Bahía']
+coordinate condivise (18.5018, -68.3815): ['haiti/10-ristoranti.md:Cap Cana — Api Beach', 'repubblica-dominicana/10-ristoranti.md:Cap Cana — Api Beach']
+coordinate condivise (18.3976, -68.9004): ['haiti/10-ristoranti.md:La Casita Casa de Campo', 'repubblica-dominicana/10-ristoranti.md:La Casita Casa de Campo']

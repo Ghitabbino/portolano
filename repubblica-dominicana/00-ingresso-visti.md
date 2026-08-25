@@ -1,8 +1,5 @@
 # 00 — Ingresso, documenti e visti
-
-**Ultima verifica: 24/08/2026** · Ispaniola comprende due Stati sovrani sull'isola di Hispaniola: **Repubblica Dominicana (RD)** a est e **Haiti** a ovest, trattati qui separatamente
-
-## Repubblica Dominicana — cittadini italiani
+## Cittadini italiani
 
 ### Visto turistico
 
@@ -47,15 +44,6 @@ Consiglio pratico: anche durante l'eccezione, molte compagnie aeree continuano a
 | Marburg / Guinea Equatoriale | Sospensione temporanea ingressi per emergenza sanitaria legata al virus di Marburg in Guinea Equatoriale (misura contingente) — verificare vigenza prima di partire | Ministerio de Salud Pública ★★★★ |
 | Colera / dengue | Presenti a livello regionale; nessuna vaccinazione obbligatoria per provenienza dall'Europa, ma raccomandate misure igienico-sanitarie | OMS / Ministerio de Salud Pública ★★★ |
 
-## Haiti — quadro d'ingresso
-
-| Voce | Regola | Fonte |
-|---|---|---|
-| iKat (dichiarazione elettronica) | **Obbligatorio per tutti** (aria, mare e terra) da compilare entro **72 ore** prima dell'arrivo su `https://delidoc.gouv.ht/ikat` con generazione di **QR code** da esibire all'ingresso | Gouvernement d'Haïti / Ministère de l'Intérieur ★★★★★ |
-| Visto per italiani | **DATO MANCANTE** — normativa subject to change e non verificata da fonte governativa haitiana al 24/08/2026; verificare con ambasciata/consolato haitiano prima della partenza | **DATO MANCANTE** |
-| Vaccini | **Colera endemico** in Haiti; febbre gialla e altre vaccinazioni raccomandate secondo provenienza e itinerario | Ministère de la Santé Publique et de la Population (MSPP) / OMS ★★★★ |
-
-> ⚠️ **Avvertenza Haiti**: numerose fonti ufficiali (tra cui Noonsite e avvisi governativi) **sconsigliano** viaggi via mare in Haiti per instabilità, presenza di gang e rischio colera — vedi [06 Sicurezza](06-sicurezza.md) e [01 Clearance](01-clearance.md).
 
 ## Contatti utili visti
 

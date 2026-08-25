@@ -12,7 +12,7 @@
 | **Divieti** |Baie du François tra le zone regolamentate >50 m; rispettare boe ZMEL e zone dei club nautici/vélico con passaggio riservato; piano di balisaggio comunale Le François da verificare ★★★★|
 | **Nota** | Voce costruita su conoscenza diffusa dei portolani → dettagli profondità/passaggi **da verificare su carta locale** |
 
-<div class="mapframe" data-slug="fonds-blancs" data-lat="14.613" data-lon="-60.902"></div>
+<div class="mapframe" data-slug="fonds-blancs" data-lat="14.6200" data-lon="-60.8800"></div>
 *Vista mappa Fonds Blancs du François (coord. indicative) — zoom con i pulsanti +/−; menu in alto a destra per passare a Carta nautica e Segnali nautici · mappa offline*
 
 ## Cartografia ufficiale

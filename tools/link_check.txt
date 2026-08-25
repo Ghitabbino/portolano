@@ -1,0 +1,2 @@
+BROKEN [ERR TimeoutError] http://www.seniat.gob.ve
+BROKEN [ERR URLError] https://www.viaggiare.sicuri.it/america-centro-sud/venezuela
