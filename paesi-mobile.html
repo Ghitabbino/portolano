@@ -69843,7 +69843,7 @@ function initMaps(root){
       HOMEB=[[Math.min(...la)-pl*.5,Math.min(...lo)-po*.5],[Math.max(...la)+pl*.5,Math.max(...lo)+po*.5]];
       m.fitBounds(HOMEB);
       const span=Math.max(Math.max(...la)-Math.min(...la),(Math.max(...lo)-Math.min(...lo))*0.9);
-      const fl=span>0.5?0:(span>0.18?11:13);
+      const fl=span>0.6?0:(span>0.25?10:12);
       if(fl&&m.getZoom()<fl)m.setZoom(fl);
       m.setMaxBounds([[Math.min(...la)-pl,Math.min(...lo)-po],[Math.max(...la)+pl,Math.max(...lo)+po]]);
       if(hasZones)zones.forEach(z=>{
