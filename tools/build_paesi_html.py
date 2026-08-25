@@ -234,7 +234,7 @@ def render(md_path: Path, title: str, sec_id: str, country: str = ""):
             title=title[:mt.start()].rstrip()
             if not title:
                 title=place
-        badge=f'<div class="loc-badge">{place}</div>'
+        badge=f'<a class="loc-badge" data-back="1" href="#" title="Torna indietro di un livello">← {place}</a>'
     if 'ancoraggi' in title.lower() and country:
         html=('<blockquote><b>⚠️ Coordinate indicative</b> — tutte le posizioni sono espresse '
               'in <b>gradi decimali, datum WGS84</b>, e segnalano in modo approssimativo la '
@@ -424,8 +424,11 @@ aside h1 { font-size:16px; margin:0 0 12px; color:var(--accent); }
 .area-card.soon:hover { border-color:var(--line); background:#101b26; }
 .zonelink { font-weight:800; font-size:15.5px; color:var(--accent); margin-top:10px; }
 .zonelink .zic { margin-right:7px; }
-.loc-badge { color:var(--accent); font-weight:700; font-size:17px;
-             letter-spacing:.02em; margin-bottom:-8px; }
+.loc-badge { color:var(--accent); font-weight:800; font-size:26px;
+             letter-spacing:.02em; margin:0 0 10px; display:inline-block;
+             cursor:pointer; text-decoration:none; border-bottom:2px solid transparent; }
+.loc-badge:hover { border-bottom-color:var(--accent); }
+.loc-badge .bk { font-size:15px; font-weight:700; opacity:.85; }
 .pagelink { font-size:15px; padding-left:20px; line-height:1.45; }
 #brand-c { display:flex; align-items:center; flex-wrap:wrap; gap:4px 16px;
            margin:10px 0 24px; padding-bottom:18px; border-bottom:1px solid var(--line); }
@@ -807,6 +810,10 @@ document.getElementById('home-link').addEventListener('click',()=>{
   show('__CHI__');
 });
 document.getElementById('navtitle').addEventListener('click',()=>{go(parentOf(state)||'');});
+document.addEventListener('click',e=>{
+  const bk=e.target.closest('[data-back]');
+  if(bk){e.preventDefault();go(parentOf(state)||'');}
+});
 document.getElementById('navtitle-c').addEventListener('click',()=>{go(parentOf(state)||'');});
 document.getElementById('navgrid').addEventListener('click',e=>{
   const oz=e.target.closest('[data-openzone]');
@@ -911,7 +918,7 @@ th,td{padding:8px 10px;}
 #tree .mac{padding-left:26px;margin-top:12px;}
 #tree .cty{padding-left:42px;}
 #aree-head{padding:9px 10px;font-size:16px;margin-top:4px;}
-.loc-badge{font-size:15px;margin-bottom:-7px;}
+.loc-badge{font-size:21px;margin-bottom:8px;}
 .paesi-grid{grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px;}
 .aree-grid{grid-template-columns:1fr 1fr;gap:10px;}
 #navgrid{grid-template-columns:1fr 1fr;gap:10px;}
@@ -939,7 +946,7 @@ th,td{padding:8px 10px;}
  table{min-width:600px;font-size:14.5px;}
  th,td{padding:8px 10px;}
  .mapframe{height:360px;}
- .loc-badge{font-size:16px;} }
+ .loc-badge{font-size:19px;} }
 /* Desktop ampio: layout classico completo */
 @media(min-width:1151px){
  .burger,#backdrop{display:none!important;}
