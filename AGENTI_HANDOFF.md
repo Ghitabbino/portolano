@@ -76,6 +76,15 @@ python3 tools/download_mappe.py       # tasselli mappa offline
     ⚠️ AUDIT OBBLIGATORIO: tutti i paesi già pubblicati vanno portati a
     questa scala e verificati uguali al livello Martinica (struttura 08 con
     tabella+schede+cartina, densità fonti, DM→0).
+9c. TASSELLI LUNGO LA COSTA (nuova 25/08/2026): le overview offline coprono
+    il paese intero solo fino a zoom ~8; da zoom 9 in su i tasselli esistono
+    SOLO in patch attorno agli ancoraggi/marker (span 1–2), MAI a quadrato
+    sull'interno dell'isola (caso emerso: Santiago de Cuba — lo zoom deve
+    funzionare su TUTTA la costa, l'interno non serve). Il tool
+    `tools/download_mappe.py` estrae automaticamente i marker dai .md e
+    scarica le patch costiere. Architettura carte: UNA mappa generale per
+    paese con tutte le àncore, zoomabile fino al dettaglio di ogni
+    ancoraggio; le schede anc-* con minimappa restano dove già esistono.
 
 ## ✅ COMPLETATO (non rifare)
 
