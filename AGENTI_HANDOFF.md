@@ -53,6 +53,16 @@ python3 tools/download_mappe.py       # tasselli mappa offline
    Barra freccia indietro fissa in alto: mostra il LIVELLO CORRENTE (es. "← Mar dei
    Caraibi") e sale di un livello al click; solo 🌍 Aree/breadcrumb riporta agli oceani.
    Ispaniola divisa in Repubblica Dominicana e Haiti (24/08 dati ereditati, da verificare).
+9. CARTINE & COORDINATE (nuova 25/08/2026, vale per TUTTI gli agenti):
+   - Ogni cartina deve mostrare almeno DUE PUNTI REALI verificati
+     (es. àncora dell'ancoraggio + un riferimento a terra: molo, faro, marina, pontile).
+   - I marker degli ANCORAGGI stanno SOLO IN MARE, mai a terra: verifica
+     sulla vista satellitare prima di inserire ogni coordinata.
+   - Coordinate sempre datum WGS84, espresse in gradi-minuti-secondi
+     (formato 14°28'32" N 61°02'15" W); il build genera il rendering DMS
+     automaticamente dagli attributi decimale data-lat/data-lon del mapframe.
+   - MAI coordinate inventate: se non verificate su fonte attendibile →
+     `**DATO MANCANTE**` (vale anche per i pin delle cartine).
 
 ## ✅ COMPLETATO (non rifare)
 
@@ -144,12 +154,7 @@ Scala stelle: ★★★★★ fonte ufficiale governativa · ★★★★ enti/l
 | File | Contenuto |
 |---|---|
 | `fonti/guide_boat.txt` | Guide Boat Clearance 2024 (martinique.gouv.fr) |
-| `fonti/points_clearance.txt` | Lista punti agréé clearance Antille francesi v15/12/2025 (martinique.gouv.fr) |  <div class="pcard">
-    <div class="pflag">🇻🇨</div>
-    <a class="pname" href="grenadine/00-ingresso-visti.md">Grenadine</a>
-    <div class="pdesc">Tobago Cays, Bequia, Mustique: reef, mooring e Basil's Bar.</div>
-    <div class="pstat">🚧 v0 — 22/08/2026</div>
-  </div>
+| `fonti/points_clearance.txt` | Lista punti agréé clearance Antille francesi v15/12/2025 (martinique.gouv.fr) |
 
 ## Formato standard per paese
 
