@@ -69810,6 +69810,13 @@ function initMaps(root){
            .bindPopup('<b>'+p[2]+'</b>');
         }
       });
+    let stacked=false;
+        for(let i=0;i<mks.length&&!stacked;i++)for(let j=i+1;j<mks.length;j++){
+          if(m.project(mks[i].getLatLng(),13).distanceTo(m.project(mks[j].getLatLng(),13))<18){stacked=true;break}}
+        if(stacked&&mks.length>2){
+          const g=L.markerClusterGroup({maxClusterRadius:42,showCoverageOnHover:false,spiderfyDistanceMultiplier:1.6});
+          g.addLayers(mks);g.addTo(m);
+        } else mks.forEach(k=>k.addTo(m));
     }
     const esriOn=L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',{minZoom:minz,maxZoom:maxz,attribution:'Immagini © Esri'});
     const satLo=L.tileLayer('mappe/'+slug+'/sat/{z}/{x}_{y}.jpg',{minZoom:minz,maxZoom:maxz});
@@ -69820,13 +69827,6 @@ function initMaps(root){
     const gSat=L.layerGroup([esriOn,satLo]).addTo(m);
     const gBase=L.layerGroup([cartoOn,baseLo]);
     const gSea=L.layerGroup([seaOn,seaLo]);
-    let stacked=false;
-      for(let i=0;i<mks.length&&!stacked;i++)for(let j=i+1;j<mks.length;j++){
-        if(m.project(mks[i].getLatLng(),13).distanceTo(m.project(mks[j].getLatLng(),13))<18){stacked=true;break}}
-      if(stacked&&mks.length>2){
-        const g=L.markerClusterGroup({maxClusterRadius:42,showCoverageOnHover:false,spiderfyDistanceMultiplier:1.6});
-        g.addLayers(mks);g.addTo(m);
-      } else mks.forEach(k=>k.addTo(m));
       L.control.layers({'Satellitare':gSat,'Carta nautica':gBase},{'Segnali nautici':gSea},{collapsed:false}).addTo(m);
     const HM=L.Control.extend({options:{position:'topleft'},onAdd(){
       const d=L.DomUtil.create('div','leaflet-bar');
