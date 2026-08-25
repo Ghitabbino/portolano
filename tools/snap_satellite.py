@@ -42,8 +42,7 @@ def sample(lat, lon, z, slug):
             except Exception:
                 continue
             px = int((fx - dx) * 256), int((fy - dy) * 256)
-            if not (3 <= px[0] < 253 and 3 <= px[1] < 253):
-                continue
+            px = (min(max(px[0], 3), 252), min(max(px[1], 3), 252))
             box = im.crop((px[0]-2, px[1]-2, px[0]+3, px[1]+3))
             data = list(box.getdata())
             n = len(data)
