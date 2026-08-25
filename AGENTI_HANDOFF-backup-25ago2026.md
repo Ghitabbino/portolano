@@ -53,41 +53,6 @@ python3 tools/download_mappe.py       # tasselli mappa offline
    Barra freccia indietro fissa in alto: mostra il LIVELLO CORRENTE (es. "← Mar dei
    Caraibi") e sale di un livello al click; solo 🌍 Aree/breadcrumb riporta agli oceani.
    Ispaniola divisa in Repubblica Dominicana e Haiti (24/08 dati ereditati, da verificare).
-9. CARTINE & COORDINATE (nuova 25/08/2026, vale per TUTTI gli agenti):
-   - Ogni cartina deve mostrare almeno DUE PUNTI REALI verificati
-     (es. àncora dell'ancoraggio + un riferimento a terra: molo, faro, marina, pontile).
-   - I marker degli ANCORAGGI stanno SOLO IN MARE, mai a terra: verifica
-     sulla vista satellitare prima di inserire ogni coordinata.
-   - Coordinate sempre datum WGS84, espresse in gradi-minuti-secondi
-     (formato 14°28'32" N 61°02'15" W); il build genera il rendering DMS
-     automaticamente dagli attributi decimale data-lat/data-lon del mapframe.
-   - MAI coordinate inventate: se non verificate su fonte attendibile →
-     `**DATO MANCANTE**` (vale anche per i pin delle cartine).
-9b. SCALA CARTE ZOOMMABILI (nuova 25/08/2026): ogni ancoraggio segnalato DEVE
-    avere una cartina interattiva zoomabile stile Google Maps (pan + zoom
-    continuo fino al dettaglio della baia, MAI immagini fisse). Scala di
-    RIFERIMENTO CERTIFICATA = BAHAMAS: mappa generale ancoraggi zoom **6–13** ·
-    ristoranti **6–13** · sicurezza **6–12** · minimappa scheda ancoraggio
-    **12–15** (default del build). Paesi-isola piccoli possono partire da 7,
-    il massimo resta 13. Tasselli offline generati con
-    `tools/download_mappe.py` per ogni livello usato (base/sat/sea); il
-    build aggiunge da solo il fallback online Esri/CARTO/OpenSeaMap.
-    NO mapframe senza tasselli locali (vedi regola 6).
-    ⚠️ AUDIT OBBLIGATORIO: tutti i paesi già pubblicati vanno portati a
-    questa scala e verificati uguali al livello Martinica (struttura 08 con
-    tabella+schede+cartina, densità fonti, DM→0).
-9c. CARTE E TASSELLI — REGOLA GENERALE (25/08/2026, decisione finale utente):
-    • ARCHITETTURA = MARTINICA/GUADALUPA per TUTTE le isole, nessuna esclusione:
-      mappa generale del paese nel 08 con àncore CLICCABILI (marker a 4 campi
-      [lat, lon, "nome", "anc-slug"]) che aprono la scheda anc-* di dettaglio;
-      ogni scheda porta la minimappa zoomabile 12–15 del singolo ancoraggio.
-      Vietato lasciare un paese con sola mappa generale.
-    • TASSELLI: le overview offline coprono il paese fino a zoom ~8; da zoom 9
-      in su i tasselli esistono SOLO in patch attorno agli ancoraggi/marker
-      (span 1–2), MAI a quadrato sull'interno (caso Santiago de Cuba: lo zoom
-      deve funzionare su TUTTA la costa, l'interno non serve).
-    • TOOL: `tools/download_mappe.py` estrae automaticamente i marker dai .md
-      e scarica sia le patch costiere sia i tasselli dettaglio delle schede.
 
 ## ✅ COMPLETATO (non rifare)
 
@@ -179,7 +144,12 @@ Scala stelle: ★★★★★ fonte ufficiale governativa · ★★★★ enti/l
 | File | Contenuto |
 |---|---|
 | `fonti/guide_boat.txt` | Guide Boat Clearance 2024 (martinique.gouv.fr) |
-| `fonti/points_clearance.txt` | Lista punti agréé clearance Antille francesi v15/12/2025 (martinique.gouv.fr) |
+| `fonti/points_clearance.txt` | Lista punti agréé clearance Antille francesi v15/12/2025 (martinique.gouv.fr) |  <div class="pcard">
+    <div class="pflag">🇻🇨</div>
+    <a class="pname" href="grenadine/00-ingresso-visti.md">Grenadine</a>
+    <div class="pdesc">Tobago Cays, Bequia, Mustique: reef, mooring e Basil's Bar.</div>
+    <div class="pstat">🚧 v0 — 22/08/2026</div>
+  </div>
 
 ## Formato standard per paese
 
