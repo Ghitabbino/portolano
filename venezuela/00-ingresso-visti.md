@@ -11,10 +11,10 @@ Farnesina/Viaggiare Sicuri (aggiorn. lug 2026) ★★★: viaggi in Venezuela **
 
 | Ente | Link | A cosa serve |
 |---|---|---|
-| SAIME — Immigrazione | [saime.gob.ve](https://www.saime.gob.ve) | proroghe di permanenza, visti |
+| SAIME — Immigrazione | [saime.gob.ve](https://saime.gob.ve) | proroghe di permanenza, visti |
 | INEA — Istituto Nazionale dei Canali Acquatici | [inea.gob.ve](https://www.inea.gob.ve) | Capitanerie di Porto, permessi di navigazione |
 | SENIAT — Dogana | [seniat.gob.ve](http://www.seniat.gob.ve) | dogana, dichiarazioni |
-| Farnesina — Viaggiare Sicuri | [viaggiare.sicuri.it/venezuela](https://www.viaggiare.sicuri.it/america-centro-sud/venezuela) | advisory ufficiale italiano |
+| Farnesina — Viaggiare Sicuri | [viaggiare.sicuri.it/venezuela](https://www.viaggiare.sicuri.it/venezuela) | advisory ufficiale italiano |
 | Ambasciata d'Italia a Caracas | [ambcaracas.esteri.it](https://ambcaracas.esteri.it) | assistenza consolare · seg.ambcaracas@esteri.it |
 
 Ultimo aggiornamento: 25/08/2026
