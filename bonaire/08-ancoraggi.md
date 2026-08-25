@@ -14,7 +14,7 @@
 
 ## Mappa generale
 
-<div class="mapframe" data-slug="bonaire" data-minz="9" data-maxz="13" data-lat="12.150" data-lon="-68.283" data-markers='[[12.1557, -68.2804, "Campo boe Kralendijk (unico campo notte)"], [12.1623, -68.2887, "Harbour Village Marina — ingresso"]]'></div>
+<div class="mapframe" data-slug="bonaire" data-minz="9" data-maxz="13" data-lat="12.150" data-lon="-68.283" data-markers='[[12.1557, -68.2804, "Campo boe Kralendijk (unico campo notte)", "anc-kralendijk-boe"], [12.1623, -68.2887, "Harbour Village Marina — ingresso", "anc-harbour-village"]]'></div>
 
 *Marker cliccabili · coordinate multi-fonte verificate · il resto della costa è riserva integrale senza ormeggi.*
 

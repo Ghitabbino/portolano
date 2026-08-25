@@ -11,7 +11,7 @@ Lo **sdoganamento yacht avviene solo a Barcadera**: il vecchio punto nel porto d
 
 ## Mappa generale
 
-<div class="mapframe" data-slug="aruba" data-minz="9" data-maxz="13" data-lat="12.517" data-lon="-70.033" data-markers='[[12.5169, -70.0391, "Wind Creek Marina — ingresso"], [12.5214, -70.0452, "Oranjestad — molo dogana H"], [12.4806, -70.0072, "Barcadera — boa d’ingresso"], [12.4809, -70.0002, "Barcadera — molo dogana"], [12.5085, -70.0341, "Surfside Beach"], [12.5786, -70.0493, "Hadicurari"], [12.6017, -70.0583, "Malmok — relitto Antilla"]]'></div>
+<div class="mapframe" data-slug="aruba" data-minz="9" data-maxz="13" data-lat="12.517" data-lon="-70.033" data-markers='[[12.5169, -70.0391, "Wind Creek Marina — ingresso", "anc-wind-creek"], [12.5214, -70.0452, "Oranjestad — molo dogana H", "anc-hans-dock"], [12.4806, -70.0072, "Barcadera — boa d’ingresso", "anc-barcadera-ingresso"], [12.4809, -70.0002, "Barcadera — molo dogana", "anc-barcadera-dogana"], [12.5085, -70.0341, "Surfside Beach", "anc-surfside"], [12.5786, -70.0493, "Hadicurari", "anc-hadicurari"], [12.6017, -70.0583, "Malmok — relitto Antilla", "anc-malmok-antilla"]]'></div>
 
 *Marker cliccabili con nome del punto · coordinate multi-fonte verificate (v. tabella) · zoomabile fino al dettaglio della baia.*
 

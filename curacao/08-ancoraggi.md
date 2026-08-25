@@ -6,7 +6,7 @@
 
 ## Mappa generale
 
-<div class="mapframe" data-slug="curacao" data-minz="9" data-maxz="13" data-lat="12.117" data-lon="-68.933" data-markers='[[12.0806, -68.8624, "Spaanse Water — zona A"], [12.0620, -68.8530, "Spaanse Water — entrata laguna"], [12.0500, -68.8333, "Fuik Baai — lato ovest"]]'></div>
+<div class="mapframe" data-slug="curacao" data-minz="9" data-maxz="13" data-lat="12.117" data-lon="-68.933" data-markers='[[12.0806, -68.8624, "Spaanse Water — zona A", "anc-spanish-water-a"], [12.062, -68.853, "Spaanse Water — entrata laguna", "anc-spanish-water-entrata"], [12.05, -68.8333, "Fuik Baai — lato ovest", "anc-fuik"]]'></div>
 
 *Marker cliccabili · coordinate multi-fonte verificate · le altre aree designate sono in tabella in attesa di satellite-check.*
 
