@@ -148,6 +148,7 @@ OVERVIEWS = [
     ("curacao", 12.20, -69.05, [10, 11, 12, 13], {10: 1, 11: 1, 12: 2, 13: 2}),
     ("bonaire", 12.16, -68.29, [10, 11, 12, 13], {10: 1, 11: 1, 12: 2, 13: 2}),
     ("aruba", 12.52, -69.97, [10, 11, 12, 13], {10: 1, 11: 1, 12: 2, 13: 2}),
+    ("santa-lucia", 14.01, -60.97, [8, 9], {8: 1, 9: 2}),
 ]
 
 
@@ -279,10 +280,36 @@ def scarica(slug, lat, lon, zooms, span):
 STATS = {"ok": 0, "skip": 0, "empty": 0, "fail": 0}
 
 
+def schede_da_md():
+    """Slug delle minimappe delle schede anc-* (frame senza data-markers nei percorsi ancoraggi/)."""
+    import re
+    from pathlib import Path
+    res = []
+    for md in sorted(Path(ROOT).rglob("*.md")):
+        if "ancoragg" not in str(md.parent).lower():
+            continue
+        try:
+            t = md.read_text(encoding="utf-8")
+        except Exception:
+            continue
+        for m in re.finditer(r"<div class=\"mapframe\"[^>]*>", t):
+            tag = m.group(0)
+            if "data-markers" in tag:
+                continue
+            sg = re.search(r'data-slug="([^"]+)"', tag)
+            la = re.search(r'data-lat="(-?[\\d.]+)"', tag)
+            lo = re.search(r'data-lon="(-?[\\d.]+)"', tag)
+            if sg and la and lo:
+                res.append((sg.group(1), float(la.group(1)), float(lo.group(1))))
+    return res
+
+
 def main():
     want = {a for a in sys.argv[1:] if not a.startswith("-")}
     patches = marker_da_md()
-    print(f"patch costiere trovate nei .md: {len(patches)}", flush=True)
+    schede = schede_da_md()
+    print(f"patch costiere nei .md: {len(patches)} · minimappe schede: {len(schede)}", flush=True)
+    viste_schede = set()
     if want:
         # modalità mirata: scarica SOLO gli slug indicati (riprendibile, idempotente)
         visti = set()
@@ -304,8 +331,13 @@ def main():
             for slug, lat, lon in patches:
                 if slug == s and (slug, lat, lon) not in visti:
                     visti.add((slug, lat, lon))
-                    scarica(f"{slug}", lat, lon, PATCH_ZOOMS, PATCH_SPAN)
+                    scarica(slug, lat, lon, PATCH_ZOOMS, PATCH_SPAN)
                     n += 1
+                    done = True
+            for slug, lat, lon in schede:
+                if slug == s and (slug, lat, lon) not in viste_schede:
+                    viste_schede.add((slug, lat, lon))
+                    scarica(slug, lat, lon, ZOOMS, SPAN)
                     done = True
             if not done:
                 print(f"{s}: SLUG SCONOSCIUTO (0 overview, 0 patch)", flush=True)
@@ -325,6 +357,11 @@ def main():
             continue
         visti.add((slug, lat, lon))
         scarica(slug, lat, lon, PATCH_ZOOMS, PATCH_SPAN)
+    for slug, lat, lon in schede:
+        if (slug, lat, lon) in viste_schede:
+            continue
+        viste_schede.add((slug, lat, lon))
+        scarica(slug, lat, lon, ZOOMS, SPAN)
     print(STATS)
     return 0
 
