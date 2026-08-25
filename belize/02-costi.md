@@ -1,20 +1,18 @@
 # 02 — Costo della vita
 
-Carburanti — prezzo medio nazionale **giugno 2026** (Statistical Institute of Belize ★★★★★):
+**Ultima verifica: 25/08/2026** · Cambio **fisso**: 1 USD = **2 BZ$**
 
-| Prodotto | Prezzo |
-|---|---|
-| Benzina premium | BZD$15,55/gal |
-| Benzina regolare | BZD$13,78/gal |
-| Diesel | BZD$15,33/gal (≈ US$7,66/gal) |
-| GPL bombola 100 lb | BZD$138,35 |
+| Voce | Costo indicativo | Fonte/rank |
+|---|---|---|
+| Permit Port Authority | BZ$240 / 30 gg (~US$120) | Old Belize ★★ |
+| Estensione immigrazione | BZ$25 / 30 gg per persona | Immigration ★★★★ |
+| Marina Belize City (Cucumber Beach, Radisson FG) | **DATO MANCANTE** — listini non pubblicati online | — |
+| Ristoranti turistici cayes | piatti US$10–25 | osservazione generale ★ |
+| Supermercati (Belize City, San Pedro, Placencia) | livello caraibico-turistico: ~20-30% sopra USA per importati | ★★ |
 
-Nota: listino calmierato gen-2025 (SI 28/2025, nationalassembly.gov.bz ★★★★★) fissava diesel BZD$11,68/gal — forte risalita nel 2025-26.
+## Pagamenti
 
-Altri costi indicativi Belize City (numbeo giu-2026 ★★ crowdsourced): benzina al litro ≈ US$2,36 · pasto economico ≈ US$6,29 · birra locale pinta ≈ US$2,55 · corsa taxi partenza ≈ US$4,49 · cena per due ristorante medio US$29–75.
+- USD accettati ovunque al cambio fisso; carte nei punti turistici; contante necessario
+  nelle cayes e mercati ★★★
 
-Water taxi Belize City–San Pedro A/R **BZD$81**; Caye Caulker A/R BZD$61 (belizewatertaxi.com ★★★★). Port fee BPA salita da BZ$2 a BZ$3 dal 1/1/2025 (San Pedro Sun ★★★★).
-
-Boe di ormeggio alle cayes: **US$15–25/notte** (listino Moorings apr-2026 ★★★★).
-
-**Ultimo aggiornamento: 24/08/2026**
+Ultimo aggiornamento: 25/08/2026

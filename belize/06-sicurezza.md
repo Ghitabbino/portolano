@@ -1,17 +1,23 @@
 # 06 — Sicurezza
 
-Numeri emergenza:
+**Ultima verifica: 25/08/2026**
 
-| Servizio | Contatto |
-|---|---|
-| Polizia/Ambulanza | **911** (travel.state.gov ★★★★★) |
-| Maritime Communication Center 24/7 | tel **232-9440**, VHF 16 (Port Authority ★★★★★) |
-| Coast Guard | **222-5260 / 222-5262**, VHF 16 |
-| Hotline emergenze | **966** |
+## Valutazione sicurezza: **3 / 5**
 
-- Advisory USA: polizia con risorse limitate, crimini spesso irrisolti, evacuazioni mediche frequentemente necessarie (travel.state.gov ★★★★★)
-- Furti in ancoraggio documentati (CSSN #2368, Placencia Harbour 2019: imbarco notturno su catamarano) (thecssn.org ★★★)
-- **Belize City**: furti frequenti a bordo e formalità lunghe — la maggior parte dei velisti evita di sostare (Noonsite ★★★)
-- Precauzioni: zanzariere/chiusure, allarmi cockpit, rete VHF tra barche ancorate (CSSN ★★★)
+| Area | Voto | Motivazione |
+|---|---|---|
+| Caye e barriera (turismo nautico) | **4/5** | Ambienti controllati, presenze turistiche, reati contro yacht rari ★★★ |
+| Belize City | **2/5** | Reati comuni elevati in quartieri sud; cautela anche in centro e ai moli di notte ★★★★ |
+| Frontiera Guatemala (Petén) | **2,5/5** | Controversia confinaria attiva: alcune mappe/guatemala indicano il confine più a sud; evitare attraversamenti terrestri non ufficiali ★★★ |
 
-**Ultimo aggiornamento: 24/08/2026**
+*Scala: 0 = terribile → 5 = molto sicuro.*
+
+## Quadro generale
+
+- I reati contro yacht in ancoraggio sono poco frequenti ma non nulli: dinghy sempre
+  chiuse e alzate, luci notturne ★★★
+- Narcotraffico attivo lungo la barriera sud e costa: **non toccare pacchi in mare**,
+  segnalare alle autorità ★★★★
+- Emergenza: **911** · Police 114 · Coast Guard VHF 16 ★★★★
+
+Ultimo aggiornamento: 25/08/2026

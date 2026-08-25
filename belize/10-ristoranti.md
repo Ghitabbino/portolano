@@ -1,27 +1,14 @@
 # 10 — Ristoranti
 
-# Estel's Dine by the Sea {#rist-estels}
-San Pedro, sull'acqua dal 1988; colazioni in spiaggia (belizesailingvacations ★★).
+**Ultima verifica: 25/08/2026** · Cucina beliziana: riso-e-fagioli, pesce fresco,
+gallinita pibil, fry jacks.
 
-# Wayo's Beach Bar {#rist-wayos}
-San Pedro Boca del Rio, over-the-water; happy hour 14-18, live (belizesailingvacations ★★).
+| Ristorante | Dove | Note |
+|---|---|---|
+| **El Fogón** | San Pedro | Tradizionale beliziana su legna, istituzione locale ★★★ |
+| **Wish Willy's** | Placencia/Caye Caulker? | Grill caraibico **verificare apertura stagionale** ★★ |
+| Resort dining | South Water Caye, Sapodilla | Solo ospiti/prenotazione ★★ |
 
-# Blue Water Grill {#rist-bluewater}
-Waterfront San Pedro; cucina belizeana, ceviche, sushi mar/gio (sandypointresorts ★★).
+DATO MANCANTE: recensioni aggiornate 2025-26 per le cayes esterne.
 
-# Tranquility Bay Bar & Grill {#rist-tranquility}
-Punta nord Ambergris; bar in legno sull'acqua, snapper sotto il molo (belizesailingvacations ★★).
-
-# Yoli's Over Da Water {#rist-yolis}
-Placencia — definita "a cruiser's mecca"; cribbage/trivia/poker (belizesailingvacations ★★).
-
-# Barefoot Beach Bar {#rist-barefoot}
-Placencia sidewalk; musica live, serata salsa (belizesailingvacations ★★).
-
-# De Tatch {#rist-detatch}
-Placencia beach; il più popolare della penisola, cucina belizeana (bzeconcierge ★★).
-
-# Sea Urchin Bar & Restaurant {#rist-seaurchin}
-Whipray Caye; pescato locale, classica delle rotte veliche (wiyachts ★★★).
-
-**Ultimo aggiornamento: 24/08/2026**
+Ultimo aggiornamento: 25/08/2026

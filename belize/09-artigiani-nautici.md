@@ -1,9 +1,12 @@
 # 09 — Artigiani e negozi nautici
 
-- Sailmaker/riparazione vele: **DATO MANCANTE**
-- Fiberglass & verniciature: **A. Martinez & Son** e **In & Out** presso Hummingbird Marina (hummingbirdmarina.com ★★★★)
-- Cantieristica: **Waterborne**, Mile 21 Placencia Rd (boatbuilder registrati ★★★★); **Captain Sharks**, San Pedro (refurbishing/compositi ★★★★)
-- Ricambi outboard: Humbingbird (dealer Honda/Suzuki) ★★★★; Captain Sharks shop ★★★★
-- Elettricisti marini dedicati: **DATO MANCANTE**
+**Ultima verifica: 25/08/2026**
 
-**Ultimo aggiornamento: 24/08/2026**
+| Servizio | Dove | Note |
+|---|---|---|
+| Haul-out/travelift | Cucumber Beach Marina (Belize City) | Riferimento principale ★★ |
+| Meccanica fuoribordo | San Pedro, Placencia | Officine piccole, su chiamata ★★ |
+| Chandlery strutturata | **DATO MANCANTE** | Ricambi via Miami/Houston ★★ |
+| Veleria | **DATO MANCANTE** | Lavori maggiori: Guatemala (Rio Dulce) o Messico |
+
+Ultimo aggiornamento: 25/08/2026

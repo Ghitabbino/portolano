@@ -1,10 +1,26 @@
 # 05 — Stagionalità e meteo
 
-- **Stagione secca**: novembre → metà aprile. **Umida/uragani**: giugno → novembre (NauticEd ★★; shunculture ★★)
-- Alisei da **E 10–20 kn** nella stagione secca; giorno tipico 10–15 kn con raffiche 20–25, calo al tramonto (ambergriscaye.com ★★★)
-- **"Nortes"**: fronti freddi dic-feb con venti da N forti e notti fresche (shunculture ★★)
-- Uragani rari ma possibili, picco **agosto-settembre**; sistema di allerta efficace (ambergriscaye ★★★)
-- Miglior periodo: **febbraio-inizio maggio**; atolli esterni ideali nov-feb (charternavigator ★★★)
-- Dentro la barriera: mare mosso da wind-chop, swell solo fuori barriera; acqua 26–28 °C (shunculture ★★)
+**Ultima verifica: 25/08/2026**
 
-**Ultimo aggiornamento: 24/08/2026**
+## Stagioni
+
+| Periodo | Caratteristiche |
+|---|---|
+| **Febbraio – maggio** | Secca, alisei E-SE 10-18 kt, migliore visibilità sulla barriera — **massima stagione** ★★★★ |
+| **Giugno – novembre** | Stagione umida/ciclonica: Belize è **direttamente nella fascia uragani** (colpo diretto storico ricorrente: es. uragano Lisa a Belize City, nov 2022) ★★★★ |
+| Dicembre – gennaio | Fronti freddi "nortes" da N con raffiche 25+ kt e swell sulla barriera ★★★ |
+
+## Uragani
+
+> 📡 **Aggiornamento 25/08/2026** — Stagione Atlantico 2026 sotto-normale (NOAA 75%,
+> super El Niño) ma il Belize resta a rischio diretto in ASO: piano ciclone obbligatorio
+> (rifugi interni alla barriera o haul-out). Fonti: nhc.noaa.gov ★★★★★, hydromet.gov.bz ★★★★
+
+## Link meteo
+
+| Servizio | Link |
+|---|---|
+| Belize Met Service (ufficiale) | [hydromet.gov.bz](https://www.hydromet.gov.bz) |
+| NOAA NHC | [nhc.noaa.gov](https://www.nhc.noaa.gov) |
+
+Ultimo aggiornamento: 25/08/2026
