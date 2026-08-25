@@ -120,22 +120,34 @@ SPAN = 1  # raggio in tasselli attorno al centro per ogni zoom
 
 # Mappe generali: (slug, lat, lon, zooms, span) — span crescente per coprire l'isola
 OVERVIEWS = [
-    ("martinica", 14.60, -61.03, [10, 11, 12], {10: 1, 11: 2, 12: 3}),
-    ("guadalupa", 16.10, -61.39, [10, 11, 12], {10: 2, 11: 3, 12: 5}),
+    ("martinica", 14.60, -61.03, [10, 11, 12, 13], {10: 1, 11: 2, 12: 3, 13: 4}),
+    ("guadalupa", 16.10, -61.39, [10, 11, 12, 13], {10: 2, 11: 3, 12: 5, 13: 5}),
 
     # Panama
-    ("panama-caribe", 9.45, -79.75, [10, 11, 12], {10: 2, 11: 3, 12: 5}),
-    ("panama-pacifico", 8.70, -79.20, [9, 10, 11], {9: 1, 10: 2, 11: 4}),
-    ("san-blas", 9.53, -78.75, [10, 11, 12], {10: 1, 11: 2, 12: 4}),
+    ("panama-caribe", 9.45, -79.75, [10, 11, 12, 13], {10: 2, 11: 3, 12: 5, 13: 5}),
+    ("panama-pacifico", 8.70, -79.20, [9, 10, 11, 12], {9: 1, 10: 2, 11: 4, 12: 5}),
+    ("san-blas", 9.53, -78.75, [10, 11, 12, 13], {10: 1, 11: 2, 12: 4, 13: 4}),
     # Canarie
-    ("tenerife", 28.30, -16.55, [10, 11, 12], {10: 1, 11: 2, 12: 4}),
-    ("gran-canaria", 27.90, -15.60, [10, 11, 12], {10: 1, 11: 2, 12: 4}),
-    ("fuerteventura", 28.35, -14.05, [10, 11, 12], {10: 1, 11: 3, 12: 5}),
-    ("lanzarote", 29.02, -13.65, [10, 11, 12], {10: 1, 11: 2, 12: 4}),
-    ("la-palma", 28.65, -17.83, [10, 11, 12], {10: 1, 11: 1, 12: 3}),
-    ("la-gomera", 28.09, -17.20, [10, 11, 12], {10: 1, 11: 1, 12: 2}),
-    ("el-hierro", 27.73, -18.03, [10, 11, 12], {10: 1, 11: 1, 12: 2}),
-    ("la-graciosa", 29.23, -13.50, [11, 12, 13], {11: 1, 12: 2, 13: 3}),
+    ("tenerife", 28.30, -16.55, [10, 11, 12, 13], {10: 1, 11: 2, 12: 4, 13: 4}),
+    ("gran-canaria", 27.90, -15.60, [10, 11, 12, 13], {10: 1, 11: 2, 12: 4, 13: 4}),
+    ("fuerteventura", 28.35, -14.05, [10, 11, 12, 13], {10: 1, 11: 3, 12: 5, 13: 5}),
+    ("lanzarote", 29.02, -13.65, [10, 11, 12, 13], {10: 1, 11: 2, 12: 4, 13: 4}),
+    ("la-palma", 28.65, -17.83, [10, 11, 12, 13], {10: 1, 11: 1, 12: 3, 13: 3}),
+    ("la-gomera", 28.09, -17.20, [10, 11, 12, 13], {10: 1, 11: 1, 12: 2, 13: 2}),
+    ("el-hierro", 27.73, -18.03, [10, 11, 12, 13], {10: 1, 11: 1, 12: 2, 13: 2}),
+    ("la-graciosa", 29.23, -13.50, [11, 12, 13, 14], {11: 1, 12: 2, 13: 3, 14: 3}),
+    # ═══ Fix audit 25/08/2026: overview mancanti (regola 6) — scala certificata
+    # Bahamas + dettaglio aumentato su richiesta utente (25/08) ═══
+    ("bahamas", 24.50, -76.00, [6, 7, 8, 9, 10], {6: 1, 7: 2, 8: 3, 9: 2, 10: 3}),
+    ("cuba", 21.60, -79.00, [6, 7, 8, 9, 10], {6: 1, 7: 2, 8: 4, 9: 4, 10: 6}),
+    ("ispaniola", 18.90, -70.70, [7, 8, 9, 10, 11], {7: 1, 8: 2, 9: 3, 10: 5, 11: 6}),
+    ("porto-rico", 18.22, -66.45, [8, 9, 10, 11, 12], {8: 1, 9: 1, 10: 2, 11: 4, 12: 5}),
+    ("giamaica", 18.15, -77.35, [8, 9, 10, 11, 12, 13], {8: 1, 9: 1, 10: 2, 11: 3, 12: 5, 13: 6}),
+    ("cayman", 19.32, -81.25, [9, 10, 11, 12, 13], {9: 1, 10: 1, 11: 2, 12: 3, 13: 3}),
+    ("trinidad-tobago", 10.55, -61.30, [9, 10, 11, 12, 13], {9: 1, 10: 2, 11: 3, 12: 5, 13: 5}),
+    ("curacao", 12.20, -69.05, [10, 11, 12, 13], {10: 1, 11: 1, 12: 2, 13: 2}),
+    ("bonaire", 12.16, -68.29, [10, 11, 12, 13], {10: 1, 11: 1, 12: 2, 13: 2}),
+    ("aruba", 12.52, -69.97, [10, 11, 12, 13], {10: 1, 11: 1, 12: 2, 13: 2}),
 ]
 
 
@@ -237,6 +249,27 @@ STATS = {"ok": 0, "skip": 0, "empty": 0, "fail": 0}
 
 
 def main():
+    want = {a for a in sys.argv[1:] if not a.startswith("-")}
+    if want:
+        # modalità mirata: scarica SOLO gli slug indicati (riprendibile, idempotente)
+        for s in want:
+            done = False
+            for slug, lat, lon, zooms, span in OVERVIEWS:
+                if slug == s:
+                    scarica(slug, lat, lon, zooms, span)
+                    done = True
+            for slug, lat, lon in ANCHORAGES:
+                if slug == s:
+                    scarica(slug, lat, lon, ZOOMS, SPAN)
+                    done = True
+            for slug, lat, lon in RESTAURANTS:
+                if slug == s:
+                    scarica(slug, lat, lon, REST_ZOOMS, SPAN)
+                    done = True
+            if not done:
+                print(f"{s}: SLUG SCONOSCIUTO", flush=True)
+        print(STATS)
+        return 0
     for slug, lat, lon in ANCHORAGES:
         scarica(slug, lat, lon, ZOOMS, SPAN)
     for slug, lat, lon, zooms, span in OVERVIEWS:
@@ -244,6 +277,7 @@ def main():
     for slug, lat, lon in RESTAURANTS:
         scarica(slug, lat, lon, REST_ZOOMS, SPAN)
     print(STATS)
+    return 0
 
 
 if __name__ == "__main__":
