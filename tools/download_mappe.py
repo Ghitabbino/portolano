@@ -187,8 +187,8 @@ RESTAURANTS = [
     ("rist-coquillage", 16.2295, -61.3810),
     ("rist-balaou", 16.2245, -61.5195),
     ("rist-zagaya", 16.2390, -61.2720),
-    ("rist-playa", 15.9515, -61.1045),
-    ("rist-pere-labat", 15.9485, -61.1175),
+    ("rist-playa", 15.9500, -61.1320),
+    ("rist-pere-labat", 15.9465, -61.1365),
     ("rist-planteur", 16.2220, -61.4930),
     ("rist-rayon-soleil", 16.5120, -61.5090),
 ]

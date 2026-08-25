@@ -371,6 +371,8 @@ TEMPLATE = """<!DOCTYPE html>
 <title>SailTropics · Portolano</title>
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 52'%3E%3Ccircle cx='19' cy='20' r='10' fill='%23F0705A'/%3E%3Cpath d='M28 2 C41 13 47 30 44 48 L28 48 Z' fill='%231E5A9E'/%3E%3Cpath d='M6 48 q10 -8 22 -2 t 28 1' stroke='%232BB3A3' stroke-width='6' fill='none' stroke-linecap='round'/%3E%3C/svg%3E">
 <link rel="stylesheet" href="assets/leaflet.css">
+<link rel="stylesheet" href="assets/markercluster.css">
+<link rel="stylesheet" href="assets/markercluster-default.css">
 <style>
 :root { --bg:#0f1720; --panel:#16222e; --ink:#dbe7f1; --muted:#8aa2b5;
         --accent:#4db6ac; --line:#24384a; }
@@ -749,6 +751,7 @@ function initMaps(root){
       mk0.bindTooltip(el.dataset.name||'Posizione',{permanent:true,direction:'top',offset:[0,-9],className:'anch-label'}).addTo(m);
     }else{
       let la=[lat],lo=[lon];
+      const mks=[];
       if(hasPts){la=la.concat(pts.map(p=>p[0]));lo=lo.concat(pts.map(p=>p[1]));}
       if(hasZones)zones.forEach(z=>{const r=z[2]/111320,c=Math.cos(z[0]*Math.PI/180);la.push(z[0]+r,z[0]-r);lo.push(z[1]+r/c,z[1]-r/c);});
       const pl=Math.max(.015,(Math.max(...la)-Math.min(...la))*.06+.008);
@@ -766,7 +769,8 @@ function initMaps(root){
       if(hasPts)pts.forEach(p=>{
         const isRist=/ristorant/i.test((root.querySelector('h1')||{textContent:''}).textContent||'');
         const ristIcon=L.divIcon({className:'rist-ic',html:'<div style="background:#ff6f00;border:2px solid #fff;border-radius:50%;width:30px;height:30px;display:flex;align-items:center;justify-content:center;font-size:18px;filter:drop-shadow(0 2px 6px rgba(0,0,0,.85))">🍽️</div>',iconSize:[30,30],iconAnchor:[15,15]});
-        const mk=(isAnc?L.marker([p[0],p[1]],{icon:ancIcon}):(isRist?L.marker([p[0],p[1]],{icon:ristIcon}):L.circleMarker([p[0],p[1]],{radius:8,color:'#ff5252',weight:3,fillColor:'#ff5252',fillOpacity:.85}))).addTo(m);
+        const mk=(isAnc?L.marker([p[0],p[1]],{icon:ancIcon}):(isRist?L.marker([p[0],p[1]],{icon:ristIcon}):L.circleMarker([p[0],p[1]],{radius:8,color:'#ff5252',weight:3,fillColor:'#ff5252',fillOpacity:.85}));
+        mks.push(mk);
         if(p[3]){
           mk.on('add',()=>{if(mk._path)mk._path.style.cursor='pointer';});
           mk.bindTooltip(p[2]+' \u2014 clic per aprire la scheda',{direction:'top',offset:[0,-9],className:'anch-label'});
@@ -792,7 +796,14 @@ function initMaps(root){
     const gSat=L.layerGroup([esriOn,satLo]).addTo(m);
     const gBase=L.layerGroup([cartoOn,baseLo]);
     const gSea=L.layerGroup([seaOn,seaLo]);
-    L.control.layers({'Satellitare':gSat,'Carta nautica':gBase},{'Segnali nautici':gSea},{collapsed:false}).addTo(m);
+    let stacked=false;
+      for(let i=0;i<mks.length&&!stacked;i++)for(let j=i+1;j<mks.length;j++){
+        if(m.project(mks[i].getLatLng(),13).distanceTo(m.project(mks[j].getLatLng(),13))<18){stacked=true;break}}
+      if(stacked&&mks.length>2){
+        const g=L.markerClusterGroup({maxClusterRadius:42,showCoverageOnHover:false,spiderfyDistanceMultiplier:1.6});
+        g.addLayers(mks);g.addTo(m);
+      } else mks.forEach(k=>k.addTo(m));
+      L.control.layers({'Satellitare':gSat,'Carta nautica':gBase},{'Segnali nautici':gSea},{collapsed:false}).addTo(m);
     const HM=L.Control.extend({options:{position:'topleft'},onAdd(){
       const d=L.DomUtil.create('div','leaflet-bar');
       const a=L.DomUtil.create('a','',d);
@@ -874,6 +885,7 @@ document.getElementById('search').addEventListener('input',e=>{
 show('__FIRST__');
 </script>
 <script src="assets/leaflet.js"></script>
+<script src="assets/markercluster.js"></script>
 </body>
 </html>
 """
