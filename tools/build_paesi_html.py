@@ -9,6 +9,18 @@ import markdown
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "paesi.html"
 
+def _dms(val, pos, neg):
+    v = float(val)
+    hemi = pos if v >= 0 else neg
+    v = abs(v)
+    d = int(v); m_f = (v - d) * 60
+    m = int(m_f); sec = int(round((m_f - m) * 60))
+    if sec == 60: m += 1; sec = 0
+    return f"{d}°{m:02d}'{sec:02d}\" {hemi}"
+
+RE_FRAME = re.compile(r'(<div class="mapframe"[^>]*data-lat="(-?[\d.]+)"[^>]*data-lon="(-?[\d.]+)"[^>]*>)(</div>)')
+
+
 md = markdown.Markdown(extensions=["tables", "fenced_code", "attr_list"])
 
 nav_pages, sections = [], []
@@ -230,6 +242,10 @@ def render(md_path: Path, title: str, sec_id: str, country: str = ""):
               'nautica ufficiale WGS84 e osservazione in loco. '
               '<b>Nessuna responsabilità per l\u2019uso di questi dati: la sicurezza resta al Comandante.</b></blockquote>'
               +html)
+    def _add_dms(m):
+        return m.group(1)+m.group(4)+(
+            f'<div class="dms">📍 {_dms(m.group(2),"N","S")} {_dms(m.group(3),"E","W")} · WGS84</div>')
+    html=RE_FRAME.sub(_add_dms,html)
     sections.append(f'<section id="{sec_id}" class="page" data-country="{country}">'
                     f'{badge}<h1{attrs}>{title}</h1>{html}</section>')
 
@@ -433,6 +449,7 @@ main { flex:1; min-width:0; padding:clamp(30px,3.5vw,58px) clamp(14px,2.5vw,44px
 h1,h2,h3 { color:#fff; line-height:1.25; }
 h2 { border-bottom:1px solid var(--line); padding-bottom:6px; margin-top:34px; }
 .tw { overflow-x:auto; margin:14px 0; border-radius:8px; }
+.dms { font-size:11px; color:var(--muted); margin:-6px 0 14px; letter-spacing:.03em; }
 .aree-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(250px,1fr)); gap:16px;
              margin:26px 0 12px; }
 .area-card { display:flex; flex-direction:column; gap:7px; align-items:center;
