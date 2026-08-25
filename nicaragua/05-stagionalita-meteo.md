@@ -1,9 +1,14 @@
 # 05 — Stagionalità e meteo
 
-- Uragani **giu-nov**: Bluefields uragano pieno ~ogni 31 anni (Joan cat4 1988, 148 morti; Eta+Iota 2020 ~700 mln $ danni; Bonnie giu 2022; Julia ott 2022 ravvicinato) (HurricaneCity/NHC ★★★; AP ★★★)
-- Corn: secca **mar-mar** (+ settembre secco); spalle giu-ago e dic-feb mosse; ott-nov i più piovani (SallySees/Noonsite ★★)
-- Alisei NE prevalenti tutto l'anno (climatologia ★★)
-- Bollettini ufficiali: INETER servmet.ineter.gob.ni/Maritimo (gov ★★★★★)
-- Pacifico riferimento transito: Papagayo dic-mar fino 35 kn (Ocean Posse ★★★★)
+**Ultima verifica: 25/08/2026**
 
-**Ultimo aggiornamento: 24/08/2026**
+| Periodo | Caratteristiche |
+|---|---|
+| **Novembre – aprile** | Secca sul Pacifico, alisei NE 15-25 kt con raffiche nel Lago Nicaragua — **migliore stagione Pacifico** ★★★★ |
+| **Maggio – ottobre** | Umida; swell da S-SW sul Pacifico (baie esposte: roll a San Juan del Sur mag-ott) ★★★ |
+| Giugno – novembre | Uragani: rischio diretto basso ma passaggi e piogge estreme (costa caraibica colpita più spesso) ★★★ |
+
+- **Rio San Juan/Lago**: temporali pomeridiani quasi quotidiani in stagione umida ★★★
+- Meteo ufficiale: INETER (ineter.gob.ni) ★★★★
+
+Ultimo aggiornamento: 25/08/2026

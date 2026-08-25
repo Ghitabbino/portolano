@@ -1,8 +1,16 @@
 # 03 — Porti e marine
 
-- **Nessuna marina su tutta la costa caraibica** (Noonsite/Ocean Posse ★★★★)
-- Unica full-service del Paese: **Marina Puesta del Sol** — Pacifico, POE, dock mobili, fuel, haul-out, canale ~2,4 m (Ocean Posse ★★★★); tariffe: DATO MANCANTE
-- Commerciali EPN: **Bluefields** (rada 6,4-7,6 m, banchina 3,4-4,6 m) ed **El Bluff** (molo 160 m, pescaggio 5 m); **Puerto Cabezas** molo 280 m (Cogoport/EPN ★★★)
-- Corn Islands: solo ancoraggio, niente docks yacht (DATO MANCANTE banchine)
+**Ultima verifica: 25/08/2026**
 
-**Ultimo aggiornamento: 24/08/2026**
+| Porto/Marina | Note |
+|---|---|
+| **San Juan del Sur** (Pacifico sud) | POE principale per cruiser, villaggio turistico, baia aperta a S-SW ★★★ |
+| **Marina Puesta del Sol** (Pacifico NW) | Marina con POE, protetta dietro mangrovie ★★★ |
+| **Corinto** (Pacifico) | POE commerciale ★★ |
+| **Puerto Sandino** (Pacifico) | POE, terminale petrolifero ★★ |
+| **El Bluff / Bluefields** (Caraibi) | POE, porta del Rio Escondido ★★ |
+| **Corn Island** (Caraibi) | POE ★★ |
+| **Granada** (Lago Nicaragua) | POE fluviale/lago via Rio San Juan ★★★ |
+| **San Carlos** | POE alla confluenza Rio San Juan ★★ |
+
+Ultimo aggiornamento: 25/08/2026

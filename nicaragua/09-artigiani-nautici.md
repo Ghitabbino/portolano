@@ -1,7 +1,10 @@
 # 09 — Artigiani e negozi nautici
 
-"Bluefields Marine Supply" (fuel/acqua, elettrico-meccanico) citato da Ocean Posse ★★★ (elenco rally, non verificato indipendentemente).
+**Ultima verifica: 25/08/2026**
 
-Chandlery vera sulla costa caraibica: **DATO MANCANTE**; rifornimenti seri a Managua e marinas del Pacifico (Ocean Posse ★★★★). Servizi velici/vetroresina citati solo a San Juan del Sur (Pacifico).
+- San Juan del Sur: meccanica marina, fiberglass, veleria base, metalwork segnalati
+  [Ocean Posse] ★★ — contatti precisi **DATO MANCANTE**
+- Bluefields Marine Supply: elettrico/meccanico base, fuel/water ★★
+- Haul-out e lavori maggiori: **DATO MANCANTE** → riferimenti regionali Costa Rica/Panama
 
-**Ultimo aggiornamento: 24/08/2026**
+Ultimo aggiornamento: 25/08/2026

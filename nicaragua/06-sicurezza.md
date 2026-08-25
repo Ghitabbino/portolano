@@ -1,17 +1,22 @@
 # 06 — Sicurezza
 
-| Servizio | Contatto |
-|---|---|
-| Polizia | **118** |
-| Croce Rossa/ambulanza | **128** |
-| Vigili | 115 (120 alcune zone) |
-| RCC caraibico | Bluefields Control Tower +505 0824-4 |
+**Ultima verifica: 25/08/2026** · Fonti: GOV.UK/travel.state ★★★★ · Ocean Posse ★★★
 
-Operatori non anglofoni; risposta lenta fuori città (Ocean Posse ★★★★).
-- Microcriminalità frequente nei quartieri poveri di **Bluefields** e RACN; sanità scarsa sulla costa (travel.gc.ca ★★★★★)
-- Sequestri lampo coi taxi abusivi; rapine diurne riportate a Pearl Lagoon (Bucketlist2Life ★★)
-- **Droni vietati** (Legge 1230/2024, consegna obbligatoria) (Gov.UK ★★★★★)
-- Evitare manifestazioni e commenti politici; arresti arbitrari possibili; nessuna missione UK residente (Gov.UK/OSAC ★★★★★)
-- Narcotraffico attivo attorno Bluefields/Pearl Lagoon; base navale alle Big Corn (Noonsite ★★)
+## Valutazione sicurezza: **2,5 / 5**
 
-**Ultimo aggiornamento: 24/08/2026**
+| Area | Voto | Motivazione |
+|---|---|---|
+| Pacifico (SJdS, Corinto, Puesta del Sol) | **3/5** | Piccoli furti, contesto tranquillo di giorno ★★★ |
+| Costa Caraibica (Bluefields, PC) | **1,5/5** | Rotte narcotraffico, presenze armate, servizi minimi ★★★★ |
+| Interno/lago | **2,5/5** | Politicamente sensibile: evitare manifestazioni ★★★ |
+
+*Scala: 0 = terribile → 5 = molto sicuro.*
+
+## Note
+
+- Contesto politico: evitare raduni pubblici; le autorità possono applicare regole in
+  modo arbitrario (advisory internazionali) ★★★★
+- Non sbarcare di notte sulle spiagge isolate del Pacifico ★★
+- Emergenza: **118** police · VHF 16 presidio limitato ★★
+
+Ultimo aggiornamento: 25/08/2026

@@ -1,9 +1,34 @@
 # 00 — Ingresso, documenti e visti
 
-Italiani e UE: **esonero visto, 90 giorni CA-4 condivisi** tra Nicaragua/Guatemala/Honduras/El Salvador (non si azzerano ai confini interni); proroga +30 gg a pagamento prima della scadenza; overstay ~2 USD/gg (Gov.UK agg. dic 2025 ★★★★★).
+**Ultima verifica: 25/08/2026** · Fonti: Decreto DGTA/MTI ★★★★ · Ocean Posse ★★★ · Cruisers Wiki ★★★ · Nica-Biz ★★★
 
-- Passaporto ≥6 mesi + biglietto di proseguo (Gov.UK ★★★★★)
-- **Turist Card ~10 USD cash** all'arrivo (BizLatinHub ★★★)
-- ⚠️ Provvedimento 002-2026 (feb 2026): visto all'arrivo eliminato per ~128 nazionalità; UE resta esente — ricontrollare fonte consolare prima di partire (portale visti ★★)
+## Status
 
-**Ultimo aggiornamento: 24/08/2026**
+| Voce | Dato |
+|---|---|
+| Visto italiani/UE | **Non richiesto** — "Categoria A" visa exempt ★★★★ |
+| **Tourist Card** | **US$10** a persona (aria/mare/terra) + US$3 servizi ai confini terrestri ★★★ |
+| Soggiorno | **90 giorni CA-4** condivisi con Guatemala/Honduras/El Salvador; **una sola proroga** di 30 gg ★★★ |
+| Overstay | **US$3/giorno** + US$10 "exit visa" non residente [Legge 1033] ★★★ |
+| Passaporto | Validità ≥6 mesi ★★★ |
+
+## Arrivo via mare
+
+| Voce | Dato |
+|---|---|
+| POE marittimi | **San Juan del Sur · Corinto · Marina Puesta del Sol · Puerto Sandino** (Pacifico) · **El Bluff/Bluefields · Puerto Cabezas · Corn Island** (Caraibi) · fluviale **Granada/San Carlos** (Rio San Juan) [Decreto DGTA] ★★★★ |
+| Documenti | Zarpe ultimo porto, registro nave, crew list, assicurazione ★★★ |
+| Autorità all'arrivo | Capitanería de Puerto (Forza Navale), Migración, DGA dogana, IPSA, MINSA ★★★★ |
+| Autorizzazione navigazione | Rilasciata dalla **DGTA**, valida **2 anni rinnovabili** [Decreto Art.14] ★★★★ |
+| Particolare | Obbligo di esporre la **bandiera nicaraguense in cima** all'albero mentre si è in acque NI, sotto quella nazionale ★★★★ |
+
+## Divieti dogana
+
+- **Carni in scatola e latticini PROIBITI** ★★★
+- Farmaci solo con prescrizione; armi e valuta ≥10k USD da dichiarare ★★★
+
+## Permessi speciali
+
+Corn Islands, Bluefields e Puerto Cabezas richiedono **permesso preventivo da Managua** [Cruisers Wiki] ★★★
+
+Ultimo aggiornamento: 25/08/2026

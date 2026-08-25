@@ -1,21 +1,16 @@
 # 08 — Portolano degli ancoraggi
 
-# Big Corn — Brigg Bay {#anc-bigcorn}
-Zona dock tragetti/panga; fondo e tenuta: DATO MANCANTE; Port Captain alla base navale a sud di Arsenal Beach (Noonsite ★★).
+> ⚠️ Coordinate indicative WGS84 — confermare con carta e osservazione.
 
-# Little Corn — lato ovest / Otto Beach {#anc-littlecorn}
-Sbarco panga unico, niente veicoli; fondale/holding pubblicati: DATO MANCANTE (CruisersWiki template vuoto 2018 ★★).
+| Ancoraggio | Lat | Lon | Prof. | Note |
+|---|---|---|---|---|
+| **San Juan del Sur** | 11.1520 | -85.6970 | 8-12 m | Sud baia, 10 m line; swell mag-ott ★★★ |
+| **Isla San Fernando** | 11.1300 | -85.6800 | 4-6 m | Ancoraggio isolato sud ★★ |
+| **Corinto** | 12.4800 | -87.1700 | — | Dentro il porto ★★ |
+| **Marina Puesta del Sol** | 12.5890 | -87.0230 | canale | Dietro mangrovie, solo canale balisato ★★★ |
+| **Granada (lago)** | 11.9350 | -85.9560 | 2-4 m | Muelle turistico; swell nel lago con nortes ★★★ |
+| **San Carlos** (Rio San Juan) | 11.1280 | -84.7760 | — | Punto partenza Rio San Juan ★★ |
+| **Corn Island** | 12.1600 | -83.0500 | 3-6 m | Lato ovest riparato ★★ |
+| **Bluefields** | 12.0100 | -83.7600 | — | Via Rio Escondido, pilota locale consigliato ★★ |
 
-# Cayos Perlas {#anc-perlas}
-18 cays a ~16 nm NE da Pearl Lagoon; **Rifugio Faunistico (Legge 738/2010)**, nidificazione tartaruga hawksbill (progetto WCS); navigazione interna ai coralli con pilota locale; pernottamenti soggetti a permessi; tariffe: DATO MANCANTE (Wikipedia/VisitCentroAmérica ★★★).
-
-# Pearl Lagoon {#anc-pearl}
-Laguna costiera più grande del Paese, 49 km N di Bluefields, acque riparate; fondali interni DATO MANCANTE (VisitCentroAmérica ★★★).
-
-# Wawa Bar / Karata {#anc-wawa}
-Panga da Bilwi 100 C$ (dato EAAI ★★★★★); ancoraggi documentati DATO MANCANTE; costa Miskito bassa, insabbiata di reef, storicamente off-limits (Noonsite ★★★).
-
-# Río Grande / Cabo Gracias {#anc-riogrande}
-Nessun report crocieristico verificabile 2023-26: DATO MANCANTE.
-
-**Ultimo aggiornamento: 24/08/2026**
+Ultimo aggiornamento: 25/08/2026

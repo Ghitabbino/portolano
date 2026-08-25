@@ -1,13 +1,24 @@
 # 01 — Clearance doganale della barca
 
-**POE costa Atlantica: El Bluff e Puerto Cabezas (Bilwi)**; le Corn Islands NON figurano come POE ufficiali — ma in pratica (gen 2025) il check-in avviene alle Big Corn: Port Captain nella base navale a sud di Arsenal Beach, le autorità salgono a bordo alla fonda (Noonsite ★★★ + comment cruiser ★★).
+**Ultima verifica: 25/08/2026** · Fonti: Noonsite ★★★ · Ocean Posse ★★★ · cruiserswiki ★★★
 
-Costi reali gen 2025: Immigrazione $30 · Agricoltura $40 · Sanità $30 · Port Captain $80 · zarpe interinsulare $20 (dom $40) · zarpe internazionale $80 ⇒ **totale ≈ 200-300 USD** (Noonsite comment ★★); Ocean Posse dà range gratis-150 ★★★★.
+## San Juan del Sur (POE più usato)
 
-- Procedura: banda gialla Q, rotta al POE, contatto VHF se possibile, ispezione possibile
-- ⚠️ **Telefoni satellitari illegali/sequestrabili** (Ocean Posse ★★★★)
-- Documenti: passaporti, registrazione originale, zarpe precedente, crew list, assicurazione, licenza radio; portare ≥10 copie (Ocean Posse ★★★★)
-- RCC Control Tower Bluefields: +505 0824-4 / Aerocivile 375-1308 (sarcontacts ★★★★); VHF dedicato Capitanerie: DATO MANCANTE
-- El Bluff: pilota obbligatorio per i commerciali (EPN gov ★★★★★)
+1. All'ingresso della baia (0,5 mi larga, boa bianca Fl(6)3s sul reef a P): ancorare a sud,
+   linea dei 10 m, mai entro 91 m dalla riva (swell mag-ott)
+2. Bordo dei rappresentanti della Capitanería (ufficio in stile bavarese sulla collina):
+   processo dello zarpe d'ingresso, ricerca leggera armadi possibile
+3. **Costi riscontrati**: ingresso immigrazione US$15 barca + ~$2/pax · **zarpe internazionale
+   d'uscita US$25** (qualche discussione su $25 vs $40) ★★★
+4. Immigrazione e Capitaneria sono adiacenti al molo: 20-30 minuti totali ★★★
 
-**Ultimo aggiornamento: 24/08/2026**
+## Puesta del Sol (Marina, Pacifico nord)
+
+POE attivo; clearance d'uscita interna US$15 riportata dai cruiser ★★★
+
+## Caraibi
+
+El Bluff/Bluefields, Corn Island, Puerto Cabezas: POE ma **permesso speciale da Managua**
+per visitarle; costa caraibica con servizi minimi ★★★
+
+Ultimo aggiornamento: 25/08/2026

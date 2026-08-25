@@ -1,9 +1,11 @@
 # 04 — Servizi, cantieri e manutenzione
 
-- Riparazioni a Bluefields classificate "limited" (Cogoport ★★★)
-- Diesel a Bluefields e Bilwi senza fuel-dock yacht: a bidone coordinandosi in anticipo (Ocean Posse ★★★★)
-- GPL compatibilità bombole estere problematica: arrivare pieni dal Pacifico (Ocean Posse ★★★★)
-- Travel-lift/slipway caraibici per yacht: **DATO MANCANTE** (più vicino Puesta del Sol, Pacifico)
-- Camera iperbarica del Paese: **solo Puerto Cabezas**, a ~5 ore di speedboat dalle Corn (Gov.UK ★★★★★)
+**Ultima verifica: 25/08/2026**
 
-**Ultimo aggiornamento: 24/08/2026**
+- Meccanica/fiberglass/sail repair segnalate a **San Juan del Sur** [Ocean Posse] ★★
+- Forniture marine a Bluefields (fuel/water/elettrico/meccanica base) ★★
+- Haul-out strutturato: **DATO MANCANTE** — riferimenti regionali: Costa Rica (Puntarenas)
+  o Panama (PLC) ★★★
+- Ricambi importati: via USA, tempi lunghi, dogana burocratica ★★
+
+Ultimo aggiornamento: 25/08/2026

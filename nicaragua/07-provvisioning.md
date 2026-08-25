@@ -1,10 +1,14 @@
 # 07 — Provvisioning
 
-- Poli di rifornimento: **Bluefields e Puerto Cabezas**; base locale riso/fagioli/in scatola + pesce fresco (Ocean Posse ★★★★)
-- Corn Islands: essenziali minimi, latticini cari (Noonsite ★★); negozi essenziali a LC (Globetrottergirls ★★)
-- **ATM solo a Bluefields e Big Corn**; tutto cash; USD accettati solo perfetti (Bucketlist2Life ★★)
-- Acqua bottiglia ~$0,9-1/1,5 L (aggregatori ★★)
-- Mercato centrale Bluefields frutta/pesce (guide locali ★★)
-- Gas: vedi pagina 04
+**Ultima verifica: 25/08/2026**
 
-**Ultimo aggiornamento: 24/08/2026**
+| Zona | Dove | Note |
+|---|---|---|
+| **San Juan del Sur** | Supermercati in paese + mercato pesce al molo | Buono per il Pacifico sud; ceviche fresco consigliato ★★★ |
+| **Granada** | Supermercati città coloniale | Il migliore del lago ★★★ |
+| **Bluefields/Corn Island** | Minimi | Solo essenziali ★★ |
+| Grande cambusa | Managua (Walmart/La Colonia) via agente/taxi | ★★★ |
+
+- **Vietato importare carn in scatola/latticini** — attenzione alle scorte prima dell'arrivo ★★★
+
+Ultimo aggiornamento: 25/08/2026
