@@ -446,13 +446,13 @@ body.searching #navgrid, body.searching #disc-home, body.searching #navtitle-c {
            gap:16px; margin:8px 0 16px; }
 #navgrid .fi { font-size:42px; }
 #navgrid .area-card .soon { margin-top:2px; }
-main { flex:1; min-width:0; padding:clamp(30px,3.5vw,58px) clamp(14px,2.5vw,44px) 44px; }
+main { flex:1; min-width:0; padding:clamp(30px,3.5vw,58px) clamp(14px,2.5vw,44px) 44px; font-size:18px; }
 .page { display:none; }
 .page.visible { display:block; }
 h1,h2,h3 { color:#fff; line-height:1.25; }
 h3 { font-size:22px; }
 h2 { border-bottom:1px solid var(--line); padding-bottom:6px; margin-top:34px; font-size:27px; }
-.tw { overflow-x:auto; margin:14px 0; border-radius:8px; }
+.tw { overflow-x:auto; margin:14px 0; border-radius:8px; font-size:17.5px; }
 .dms { font-size:11px; color:var(--muted); margin:-6px 0 14px; letter-spacing:.03em; }
 .aree-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(250px,1fr)); gap:16px;
              margin:26px 0 12px; }
