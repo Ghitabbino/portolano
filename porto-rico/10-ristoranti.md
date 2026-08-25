@@ -52,6 +52,6 @@ Selezione orientata alla crociera: locali raggiungibili a piedi o con breve taxi
 
 ## Mappa dei ristoranti
 
-<div class="mapframe" data-slug="porto-rico" data-minz="8" data-maxz="13" data-lat="18.20" data-lon="-66.50" data-markers='[[18.3475, -65.6366, "Pasión por el Fogón — Fajardo", "rist-pasion-por-el-fogon-fajardo"], [18.36, -65.638, "La Estación", "rist-la-estacion"], [18.3022, -65.2989, "Dinghy Dock — Culebra", "rist-dinghy-dock-culebra"], [18.0972, -65.4708, "Esperanza — Vieques", "rist-esperanza-vieques"]]'></div>
+<div class="mapframe" data-slug="porto-rico" data-minz="7" data-maxz="15" data-lat="18.20" data-lon="-66.50" data-markers='[[18.3475, -65.6366, "Pasión por el Fogón — Fajardo", "rist-pasion-por-el-fogon-fajardo"], [18.36, -65.638, "La Estación", "rist-la-estacion"], [18.3022, -65.2989, "Dinghy Dock — Culebra", "rist-dinghy-dock-culebra"], [18.0972, -65.4708, "Esperanza — Vieques", "rist-esperanza-vieques"]]'></div>
 
 Ultimo aggiornamento: 24/08/2026

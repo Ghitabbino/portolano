@@ -63,6 +63,6 @@ Prezzi specifici per locale sotto; per Nassau centro e Fish Fry calcolare **+ VA
 
 ## Mappa dei ristoranti
 
-<div class="mapframe" data-slug="bahamas" data-minz="6" data-maxz="13" data-lat="24.50" data-lon="-76.00" data-markers='[[25.0829, -77.3625, "Arawak Cay — Fish Fry", "rist-arawak-cay-fish-fry"], [25.0843, -77.3192, "Fish by José Andrés — Atlantis", "rist-fish-by-jose-andres-atlantis"], [24.17, -76.44, "Staniel Cay YC", "rist-staniel-cay-yc"], [23.5192, -75.756, "Chat ’N’ Chill — Stocking", "rist-chat-n-chill-stocking"]]'></div>
+<div class="mapframe" data-slug="bahamas" data-minz="7" data-maxz="15" data-lat="24.50" data-lon="-76.00" data-markers='[[25.0829, -77.3625, "Arawak Cay — Fish Fry", "rist-arawak-cay-fish-fry"], [25.0843, -77.3192, "Fish by José Andrés — Atlantis", "rist-fish-by-jose-andres-atlantis"], [24.17, -76.44, "Staniel Cay YC", "rist-staniel-cay-yc"], [23.5192, -75.756, "Chat ’N’ Chill — Stocking", "rist-chat-n-chill-stocking"]]'></div>
 
 Ultimo aggiornamento: 24/08/2026

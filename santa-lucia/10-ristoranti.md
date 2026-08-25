@@ -8,7 +8,7 @@ Legenda prezzi: **€** <20 · **€€** 20–40 · **€€€** >40 — Cucin
 
 ## Mappa dei ristoranti
 
-<div class="mapframe" data-slug="santa-lucia" data-minz="10" data-maxz="13" data-lat="14.02" data-lon="-60.99" data-markers='[[14.0728, -60.954, "Jacques Waterfront Dining", "rist-jacques-waterfront-dining"], [14.0701, -60.9539, "Big Chef Steakhouse", "rist-big-chef-steakhouse"], [14.0751, -60.9537, "Buzz Seafood & Grill", "rist-buzz-seafood-grill"], [14.0764, -60.9546, "Spinnakers Beach Bar", "rist-spinnakers-beach-bar"], [14.0704, -60.9551, "Keebees", "rist-keebees-2"], [13.9672, -61.0259, "DOOlittle’s Marigot Bay", "rist-doolittles-marigot-bay"]]'></div>
+<div class="mapframe" data-slug="santa-lucia" data-minz="7" data-maxz="15" data-lat="14.02" data-lon="-60.99" data-markers='[[14.0728, -60.954, "Jacques Waterfront Dining", "rist-jacques-waterfront-dining"], [14.0701, -60.9539, "Big Chef Steakhouse", "rist-big-chef-steakhouse"], [14.0751, -60.9537, "Buzz Seafood & Grill", "rist-buzz-seafood-grill"], [14.0764, -60.9546, "Spinnakers Beach Bar", "rist-spinnakers-beach-bar"], [14.0704, -60.9551, "Keebees", "rist-keebees-2"], [13.9672, -61.0259, "DOOlittle’s Marigot Bay", "rist-doolittles-marigot-bay"]]'></div>
 
 *Marker tracciati SOLO su coordinate verificate (link Google Maps ufficiali/elenco business). Orlando's e Dasheene non hanno coordinate verificate → vedi griglia.*
 

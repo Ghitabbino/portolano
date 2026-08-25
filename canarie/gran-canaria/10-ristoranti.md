@@ -17,7 +17,7 @@ Selezione orientata alla crociera. Schede puntuali per locale in corso di raccol
 
 ## Mappa dei ristoranti
 
-<div class="mapframe" data-slug="gran-canaria" data-minz="10" data-maxz="12" data-lat="27.815" data-lon="-15.763" data-markers='[[27.819, -15.764, "Cofradía de Pescadores", "rist-cofradia-de-pescadores-2"], [27.816, -15.7625, "Casa Mia", "rist-casa-mia-2"], [27.815, -15.761, "Restaurante Canario de Oro", "rist-restaurante-canario-de-oro-2"], [27.8155, -15.7595, "Mogán Mar", "rist-mogan-mar-2"]]'></div>
+<div class="mapframe" data-slug="gran-canaria" data-minz="7" data-maxz="15" data-lat="27.815" data-lon="-15.763" data-markers='[[27.819, -15.764, "Cofradía de Pescadores", "rist-cofradia-de-pescadores-2"], [27.816, -15.7625, "Casa Mia", "rist-casa-mia-2"], [27.815, -15.761, "Restaurante Canario de Oro", "rist-restaurante-canario-de-oro-2"], [27.8155, -15.7595, "Mogán Mar", "rist-mogan-mar-2"]]'></div>
 
 *Clicca un punto rosso: apre la scheda del ristorante.*
 

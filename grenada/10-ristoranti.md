@@ -8,7 +8,7 @@ Legenda prezzi: **€** <20 · **€€** 20–40 · **€€€** >40 — Cucin
 
 ## Mappa dei ristoranti
 
-<div class="mapframe" data-slug="grenada" data-minz="10" data-maxz="12" data-lat="12.02" data-lon="-61.74" data-markers='[[12.048834, -61.753004, "BB'"'"'s Crabback"], [12.048994, -61.752682, "Sails"], [12.000751, -61.768858, "Dodgy Dock"], [12.0066, -61.764992, "One Love"], [12.023697, -61.761941, "Umbrella'"'"'s"], [12.027376, -61.756093, "Esther'"'"'s"], [12.003358, -61.723877, "The Lightship"]]'></div>
+<div class="mapframe" data-slug="grenada" data-minz="7" data-maxz="15" data-lat="12.02" data-lon="-61.74" data-markers='[[12.048834, -61.753004, "BB'"'"'s Crabback"], [12.048994, -61.752682, "Sails"], [12.000751, -61.768858, "Dodgy Dock"], [12.0066, -61.764992, "One Love"], [12.023697, -61.761941, "Umbrella'"'"'s"], [12.027376, -61.756093, "Esther'"'"'s"], [12.003358, -61.723877, "The Lightship"]]'></div>
 
 *Roger's Barefoot Beach Bar (Hog Island) non in mappa: coordinate non ancora verificate.*
 

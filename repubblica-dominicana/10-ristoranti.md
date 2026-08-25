@@ -16,7 +16,7 @@
 
 ## Mappa dei ristoranti
 
-<div class="mapframe" data-slug="ispaniola" data-minz="7" data-maxz="13" data-lat="18.80" data-lon="-70.50" data-markers='[[19.9026, -70.9542, "Puerto Blanco Restaurant", "rist-puerto-blanco-restaurant"], [19.8272, -70.7316, "Ocean World", "rist-ocean-world"], [19.1943, -69.3554, "Puerto Bahía", "rist-puerto-bahia"], [18.5018, -68.3815, "Cap Cana — Api Beach", "rist-cap-cana-api-beach"], [18.3976, -68.9004, "La Casita Casa de Campo", "rist-la-casita-casa-de-campo"]]'></div>
+<div class="mapframe" data-slug="ispaniola" data-minz="7" data-maxz="15" data-lat="18.80" data-lon="-70.50" data-markers='[[19.9026, -70.9542, "Puerto Blanco Restaurant", "rist-puerto-blanco-restaurant"], [19.8272, -70.7316, "Ocean World", "rist-ocean-world"], [19.1943, -69.3554, "Puerto Bahía", "rist-puerto-bahia"], [18.5018, -68.3815, "Cap Cana — Api Beach", "rist-cap-cana-api-beach"], [18.3976, -68.9004, "La Casita Casa de Campo", "rist-la-casita-casa-de-campo"]]'></div>
 
 
 ## Dettagli utili per il diportista
