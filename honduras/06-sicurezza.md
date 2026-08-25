@@ -1,6 +1,5 @@
 # 06 — Sicurezza
 
-**Ultima verifica: 25/08/2026** · Fonti: travel.state.gov ★★★★ · GOV.UK ★★★★ · travel.gc.ca ★★★★
 
 ## Valutazione sicurezza: **2,5 / 5**
 
@@ -14,7 +13,6 @@
 
 ## Quadro generale
 
-- Violent crime e gang sul mainland restano "widespread" (travel.state.gov): le
   **Bay Islands sono l'unica zona consigliata** per la navigazione ★★★★
 - Furti a dinghy segnalati storicamente a Roatán/Utila: chiusure doppie ★★
 - Narcotraffico: non toccare pacchi in mare, segnalare ★★★★

@@ -65,14 +65,3 @@
 | Segnaletica **IALA-B** | Sistema americano **red right returning** (invertito rispetto all'Europa) | ★★★ |
 | Reef / corallo | Rischio ambientale e legale: sanzioni fino a CI$ 500k → [08 Ancoraggi](08-ancoraggi.md) | DOE ★★★★★ |
 
-## Monitoraggio mensile
-
-| # | Fonte | Cosa cercare |
-|---|---|---|
-| 1 | cssn.org (Cayman) | Nuovi incidenti a danno di cruiser |
-| 2 | gov.ky / RCIPS (polizia) | Bollettini criminalità |
-| 3 | travel.state.gov (USA) | Variazioni Level 1 |
-| 4 | caymancompass.com | Cronaca locale |
-| 5 | NoForeignLand / forum cruiser | Segnalazioni recenti |
-
-Ultimo aggiornamento: 24/08/2026

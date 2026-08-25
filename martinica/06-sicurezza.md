@@ -46,7 +46,6 @@
 | Zona | Rischio | Fonte |
 |---|---|---|
 | Fort-de-France: Terres-Sainville, Dillon, Trénelle-Citron, Châteauboeuf, Sainte-Thérèse, Volga-Plage | Quartieri sensibili: violenza armata e rapine; **evitare dopo il tramonto** (consiglio: non muoversi da soli dopo le 19:30) |stampa locale/guide ★★★|
-| Spiagge deserte e zone isolate di notte | Advisory esplicita: evitare |voyage.gc.ca ★★★★|
 | Feste popolari notturne su spiaggia ("after yoles", eventi in margine al Tour des Yoles) | Spari documentati ago 2026 (Anse Moustique, Anse Meurnier) tra presenti locali |Stampa locale antillana/La 1ère ★★★|
 | Pontili dinghy del Marin di notte | Furti anche di imbarcazioni incatenate |★★★|
 | Baie de Fort-de-France per la balneazione | Inquinamento urbano/portuale (rischio sanitario, non criminale) |guide locali ★★|
@@ -92,20 +91,3 @@ Dati ** Caribbean Safety and Security Net** (the.org ★★★), controllo 21/08
 - CROSS coordina SAR nella zona (bilanci annuali pubblicati dalla Direction de la Mer ★★★★★). VHF 16 sempre monitorato.
 - Caso recente: velista disperso tra Union Island e Martinica, 3 naufraghi soccorsi (11/03/2026) ★★★.
 
-## Monitoraggio mensile sicurezza
-
-Ogni mese, a partire da oggi, riesaminare queste fonti cercando **furti, scippi, rapine, omicidi** — soprattutto a danno di turisti e in particolare di crocieristi:
-
-| # | Fonte | Cosa cercare | Rank |
-|---|---|---|---|
-| 1 | thecssn.org (incidenti Martinica) | Furti/burglary a velisti, hotspot nuovi | ★★★ |
-| 2 | rci.fm/martinique (faits divers, braquage) | Rapine, omicidi, aggressioni | ★★★ |
-| 3 | martinique.franceantilles.fr (faits divers) | Cronaca nera locale | ★★★ |
-| 4 | la1ere.franceinfo.fr/martinique | Bilanci prefettura (febbraio), cronaca | ★★★ |
-| 5 | Portali nautici diportisti/view/security | Report sicurezza naviganti | ★★★ |
-| 6 | Forum anchorages.co Martinica + gruppo FB "Martinique Cruisers" | Avvisi rapidi dei naviganti | ★★ |
-| 7 | voyage.gc.ca · fr.diplomatie.gouv.fr · gov.uk | Variazioni advisory | ★★★★ |
-
-All'esito: aggiornare la **valutazione 0–5**, la tabella posti sicuri/da evitare, i cerchi sulla mappa e questa data. Eventuali variazioni si riflettono anche in 08-ancoraggi.md (divieti/avvertenze per singolo ancoraggio).
-
-Ultimo aggiornamento: 22/08/2026

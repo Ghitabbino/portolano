@@ -1,6 +1,5 @@
 # 00 — Ingresso, documenti e visti
 
-**Ultima verifica: 25/08/2026** · Fonti: merchantmarine.gob.hn ★★★★ · inm.gob.hn ★★★★ · GOV.UK/travel.state.gov ★★★★ · travel.gc.ca ★★★★
 
 ## Status
 

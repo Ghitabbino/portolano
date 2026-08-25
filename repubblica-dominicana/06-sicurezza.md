@@ -44,7 +44,6 @@
 |---|---|---|
 | **Santo Domingo: Capotillo, La Ciénega, Guachupita, Herrera, Los Alcarrizos** | Quartieri ad alta criminalità: rapine, spaccio; **evitare sempre**, soprattutto di notte | Stampa locale / advisory ★★★ |
 | **Boca Chica / Juan Dolio di notte** | Scippi, prostituzione, truffe; spiagge isolate dopo il tramonto | ★★ |
-| **Spiagge deserte e strade isolate di notte (ovunque)** | Advisory esplicita: evitare | voyage.gc.ca / gov.uk ★★★★ |
 | **Pontili dinghy non custoditi di notte** | Furti opportunistici di dinghy/motore | ★★ |
 | **Traffico stradale** | Guida aggressiva, moto senza luci, buche: principale rischio fisico per chi noleggia scooter/auto | ★★★ |
 
@@ -97,19 +96,3 @@
 - Kit consigliato: EPIRB registrato, PLB, AIS, zattera revisionata, cassetta medica con antibiotici/antidolorifici (colera/dengue risk in area haitiana). ★★
 
 
-## Monitoraggio mensile sicurezza
-
-Riesaminare ogni mese, cercando **furti, scippi, rapine, omicidi** — soprattutto a danno di turisti e crocieristi:
-
-| # | Fonte | Cosa cercare | Rank |
-|---|---|---|---|
-| 1 | cssn.org (incidenti Hispaniola/RD) | Furti/burglary a velisti, hotspot nuovi | ★★★ |
-| 2 | Listin Diario / Diario Libre — faits divers | Rapine, omicidi, aggressioni | ★★★ |
-| 3 | Noonsite.com — Dominican Republic / Haiti | Avvisi cruiser, gang Haiti, colera | ★★★ |
-| 4 | voyage.gc.ca · viaggiare sicuri (esteri.it) · gov.uk FCDO | Variazioni advisory RD/Haiti | ★★★★ |
-| 5 | Forum cruiser (Cruisers Forum, Facebook "Dominican Republic Cruisers" / "Luperón cruisers") | Avvisi rapidi dei naviganti | ★★ |
-| 6 | COE RD (coe.gob.do) + INDOMET | Allerte sicurezza meteo/civile | ★★★★ |
-
-All'esito: aggiornare la **valutazione 0–5**, la tabella posti sicuri/da evitare e questa data. Eventuali variazioni si riflettono anche in [08 Portolano ancoraggi](08-ancoraggi.md).
-
-Ultimo aggiornamento: 24/08/2026

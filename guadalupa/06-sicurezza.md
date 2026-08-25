@@ -54,15 +54,3 @@ Crimini violenti contro turisti e crocieristi **rari**; rischio principale = fur
 | **+590 590 99 26 35** | CROSS Antilles-Guyana (SAR marittimo) — VHF 16 |
 | Gendarmerie maritime Terre-de-Haut | +590 590 85 80 13 ⚠️ da verificare |
 
-## Monitoraggio mensile sicurezza
-
-| Fonte | Cosa monitorare | Frequenza |
-|---|---|---|
-| Rete sicurezza diportisti (ricerca incidenti) | Nuovi incidenti "Guadeloupe" | Mensile |
-| Portali nautici diportisti | Recensioni recenti mouillage/sicurezza | Mensile |
-| Radio locale Guadalupa / Stampa locale antillana | Rapine, aggressioni contro turisti | Mensile |
-| préfecture de la Guadeloupe (bilan délinquance) | Statistiche annuali/trimestrali | Trimestrale |
-| voyage.gc.ca / diplomatie.gouv.fr | Advisory aggiornati | Mensile |
-| Portali nautici internazionali | Report diportisti | Mensile |
-
-Ultimo aggiornamento: 22/08/2026

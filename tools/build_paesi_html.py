@@ -755,7 +755,7 @@ function initMaps(root){
       m.fitBounds(HOMEB);
       m.setMaxBounds([[Math.min(...la)-pl,Math.min(...lo)-po],[Math.max(...la)+pl,Math.max(...lo)+po]]);
       if(hasZones)zones.forEach(z=>{
-        L.circle([z[0],z[1]],{radius:z[2],color:z[3]||'#d32f2f',weight:2,dashArray:'6 4',fillColor:z[3]||'#d32f2f',fillOpacity:.13})
+        L.circle([z[0],z[1]],{radius:z[2],color:z[3]||'#d32f2f',weight:4,dashArray:'6 4',fillColor:z[3]||'#d32f2f',fillOpacity:.25})
          .bindPopup('<b>'+z[4]+'</b>').addTo(m);
       });
       if(hasPts)pts.forEach(p=>{

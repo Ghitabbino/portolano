@@ -74,21 +74,6 @@ Dati **CSSN** agg. 2025:
 
 BASRA coordina il soccorso in mare con volontari — donazioni ben accette.
 
-## Monitoraggio mensile sicurezza
-
-Ogni mese, a partire da oggi, riesaminare queste fonti cercando **furti, scippi, rapine, omicidi** — soprattutto a danno di turisti e crocieristi:
-
-| # | Fonte | Cosa cercare | Rank |
-|---|---|---|---|
-| 1 | cssn.org (incidenti Bahamas) | Furti/burglary a velisti, hotspot | ★★★★ |
-| 2 | US State Dept. travel.state.gov (Bahamas) | Variazioni Level 2 / alert | ★★★★★ |
-| 3 | gov.uk / canada.ca travel advisories | Allineamento advisory | ★★★★ |
-| 4 | tribune242.com / bahamaspress.com | Cronaca locale Nassau | ★★★ |
-| 5 | Forum cruisers / Facebook "Bahamas Cruisers" | Avvisi rapidi naviganti | ★★ |
-| 6 | BASRA reports | Incidenti SAR | ★★ |
-
-All'esito: aggiornare la **valutazione 0–5**, la tabella posti sicuri/da evitare e questa data.
-
 ## Mappa delle zone — offline
 
 <div class="mapframe" data-slug="bahamas" data-minz="6" data-maxz="12" data-lat="24.50" data-lon="-76.00" data-zones='[[25.07,-77.34,3000,"#d32f2f","Nassau Over the Hill — evitare"],[26.53,-78.687,2000,"#ef6c00","Freeport — attenzione notte"],[24.39,-76.48,1500,"#ef6c00","Highbourne — furti tender"]]'></div>

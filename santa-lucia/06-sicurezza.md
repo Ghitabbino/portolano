@@ -18,7 +18,6 @@
 
 - **Dati CSSN (Caribbean Safety and Security Net), controllo 25/08/2026 ★★★**: Santa Lucia ha registrato **5 incidenti nel 2025, −55% rispetto agli 11 del 2024**; 3 dei 5 incidenti 2025 a Rodney Bay. Tipologia dominante: furti di dinghy e fuoribordo.
 - **Furti dinghy/fuoribordo ANCHE IN MARINA IGY Rodney Bay**: episodi ricorrenti segnalati al CSSN a dicembre 2025, marzo 2026 e luglio 2026. La videosorveglianza non è bastata → contromisura raccomandata dai naviganti: **sollevare il dinghy a bordo o chiuderlo/incatenarlo comunque**, motore sempre bloccato con lucchetto specifico. ★★★
-- Advisory governative (voyage.gc.ca · gov.uk · travel.state.gov): livello tipico per le isole Windward = "normali precauzioni"; **DATO MANCANTE** per l'aggiornamento corrente — riverificare al prossimo controllo mensile. ★★
 - Criminalità comune: borseggi e furtini opportunistici nelle zone affollate e sulle spiagge; violenza armata legata ad ambienti locali, raramente rivolta ai crocieristi. ★★
 - Stampa locale e gruppi cruisers: nessun episodio grave contro velisti emerso in questa sessione; **da riverificare mensilmente**. ★★
 
@@ -52,7 +51,6 @@
 
 ## Furti ai danni dei crocieristi
 
-Dati **Caribbean Safety and Security Net** (thecssn.org ★★★★), controllo 25/08/2026:
 
 - **5 incidenti verificati nel 2025 (−55% vs 11 nel 2024)**; 3 su 5 a Rodney Bay.
 - Serie storica recente concentrata su: furti dinghy/outboard (Rodney Bay rada e marina, Pigeon Island 2024 #3260/#3762, Canaries), burglary a bordo occasionale.
@@ -98,18 +96,3 @@ Fonte: Nagico St Lucia emergency numbers ★★★ · elenco ufficiale IGY Rodne
 - VHF **16** sempre monitorato da coast guard e marina; in area SMMA i ranger ascoltano VHF 16/68. ★★★
 - Ospedale di riferimento nord: **Tapion Hospital** e Victoria Hospital (Castries); Gros Islet Polyclinic +1 758 450 9661; Rodney Bay Medical Center +1 758 452 8621. [Nagico/elenco Shops at RBM ★★★]
 
-## Monitoraggio mensile sicurezza
-
-Ogni mese riesaminare queste fonti cercando **furti, rapine, aggressioni** — soprattutto a danno di turisti e crocieristi:
-
-| # | Fonte | Cosa cercare | Rank |
-|---|---|---|---|
-| 1 | thecssn.org (incidenti Santa Lucia) | Furti/burglary a velisti, hotspot nuovi | ★★★★ |
-| 2 | voyage.gc.ca · gov.uk · travel.state.gov | Variazioni advisory | ★★★★ |
-| 3 | Stampa locale (St Lucia Times, Loop SLU, HTS) | Cronaca nera, rapine a turisti | ★★★ |
-| 4 | Gruppo FB "St Lucia Cruisers" / forum CruisersWiki | Avvisi rapidi dei naviganti | ★★ |
-| 5 | Noonsite St Lucia security page | Report diportistici | ★★★ |
-
-All'esito: aggiornare la **valutazione 0–5**, la tabella posti sicuri/da evitare, i cerchi sulla mappa e questa data. Eventuali variazioni si riflettono anche in [08 Ancoraggi](08-ancoraggi.md) (avvertenze per singolo ancoraggio).
-
-Ultimo aggiornamento: 25/08/2026

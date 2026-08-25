@@ -6,7 +6,6 @@
 > ~20 min cercando stupefacenti) e furti ripetuti di dinghy/barche a Linton Bay e Bocas del
 > Toro (feb-mag 2026). Corridoi del narcotraffico marittimi pericolosi di notte.
 > **Prudenza rafforzata**: evitare soste notturne a Portobelo, doppie chiusure e luci,
-> monitorare VHF. Fonti: CSSN thecssn.org ★★★ (rapporti 1a mano 2026), Travel.gc.ca ★★★★.
 > Verificato da agente il 25/08/2026 · Rivalutazione prevista entro il 24/09/2026
 
 Scheda **comune** a tutto Panama: vale sia per il Canale che per San Blas/Guna Yala (che aggiunge regole proprie della comarca → vedi *Panama · San Blas*). Fonte principale: ★★★ aggiornata 2025–2026, ★★, ★★★★★.

@@ -52,8 +52,3 @@ Non lasciare il dinghy al largo di notte; chiedere permesso prima di sbarcare ne
 | Assistenza tra yacht | VHF 72 (rete crocieristi) |
 | Medico più vicino | Dispensario a Porvenir/Nargana; ospedale a Colón |
 
-## Monitoraggio mensile sicurezza
-
-Fonti: Security,, gruppi FB "San Blas Cruising". Aggiornare valutazione e mappa.
-
-Ultimo aggiornamento: 22/08/2026

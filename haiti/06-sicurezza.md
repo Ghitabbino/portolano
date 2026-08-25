@@ -54,19 +54,3 @@
   antibiotici/antidolorifici (colera/dengue risk in area haitiana). ★★
 
 
-## Monitoraggio mensile sicurezza
-
-Riesaminare ogni mese, cercando **furti, scippi, rapine, omicidi** — soprattutto a danno di turisti e crocieristi:
-
-| # | Fonte | Cosa cercare | Rank |
-|---|---|---|---|
-| 1 | cssn.org (incidenti Hispaniola/RD) | Furti/burglary a velisti, hotspot nuovi | ★★★ |
-| 2 | Listin Diario / Diario Libre (RD) — faits divers | Rapine, omicidi, aggressioni | ★★★ |
-| 3 | Noonsite.com — Dominican Republic / Haiti | Avvisi cruiser, gang Haiti, colera | ★★★ |
-| 4 | voyage.gc.ca · viaggiare sicuri (esteri.it) · gov.uk FCDO | Variazioni advisory RD/Haiti | ★★★★ |
-| 5 | Forum cruiser (Cruisers Forum, gruppi Facebook Haiti cruisers) | Avvisi rapidi dei naviganti | ★★ |
-| 6 | UHM (meteo Haiti) + NHC | Allerte meteo/cicloni | ★★★ |
-
-All'esito: aggiornare la **valutazione 0–5**, la tabella posti sicuri/da evitare e questa data. Eventuali variazioni si riflettono anche in [08 Portolano ancoraggi](08-ancoraggi.md).
-
-Ultimo aggiornamento: 24/08/2026

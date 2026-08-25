@@ -58,8 +58,3 @@ Chiudere tutto di notte; a Colón usare taxi/marine shuttle; documenti a bordo s
 | SENAN (guardacoste) | VHF 16 |
 | Marina più vicina assistita | Shelter Bay / Flamenco |
 
-## Monitoraggio mensile sicurezza
-
-Fonti: Security,, gruppi FB "Panama Cruising". Aggiornare valutazione e mappa a ogni controllo.
-
-Ultimo aggiornamento: 22/08/2026

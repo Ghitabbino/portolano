@@ -87,14 +87,3 @@ Dati Caribbean Safety and Security Net (CSSN ★★★★), controllo 24/08/2026
 - Ospedali: University Hospital of the West Indies, Medical Associates, Andrews Memorial (Kingston), Cornwall Regional (Montego Bay) — lista US Embassy 07/2025 ★★★★★.
 - US Embassy Kingston +1-876-702-6000, Consular Agency Montego Bay +1-876-953-0620.
 
-## Monitoraggio mensile sicurezza
-
-| # | Fonte | Cosa cercare | Rank |
-|---|---|---|---|
-| 1 | thecssn.org | Furti/burglary, hotspot nuovi | ★★★★ |
-| 2 | travel.state.gov Jamaica | Variazioni advisory Level | ★★★★★ |
-| 3 | gov.uk FCDO Jamaica | Crime update + Melissa recovery | ★★★★★ |
-| 4 | visitjamaica.com/travel-alerts | Porti/servizi post-Melissa | ★★★★ |
-| 5 | cruisersforum + NoForeignLand | Avvisi rapidi velisti | ★★ |
-
-Ultimo aggiornamento: 24/08/2026

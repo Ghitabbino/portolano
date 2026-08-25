@@ -14,9 +14,7 @@
 
 ## Quadro generale
 
-- Advisory canadese/UK/USA: **verificare al controllo mensile** (voyage.gc.ca, gov.uk, travel.state.gov) — livello tipico per le Leeward è "normali precauzioni". ★★
 - Furti opportunistici (borseggi, furti in auto, dinghy) sono il rischio principale riportato dai naviganti; violenza contro i crocieristi rara ma non inesistente. ★★
-- Segnalazioni recenti: **DATO MANCANTE** — da ricercare su thecssn.org e stampa locale al controllo mensile. ★★
 
 ## Posti sicuri / posti da evitare
 
@@ -37,7 +35,6 @@
 
 ## Furti ai danni dei crocieristi
 
-Dati **Caribbean Safety and Security Net (CSSN)** — controllo 24/08/2026: **DATO MANCANTE** incidenti verificati per Bonaire in questa sessione; consultare thecssn.org al controllo mensile. Contromisure: catena corta + lucchetto, motore bloccato al dinghy, dinghy sollevato a bordo di notte, niente oggetti in vista. ★★
 
 ## Navigazione
 
@@ -54,8 +51,3 @@ Dati **Caribbean Safety and Security Net (CSSN)** — controllo 24/08/2026: **DA
 | Numero unico emergenze | **911 / 112** (verificare locale) |
 | VHF soccorso | **16** |
 
-## Monitoraggio mensile sicurezza
-
-Ogni mese riesaminare: thecssn.org, stampa locale, voyage.gc.ca / gov.uk / travel.state.gov, gruppi FB cruisers. Aggiornare valutazione 0–5 e mappa zone.
-
-Ultimo aggiornamento: 24/08/2026

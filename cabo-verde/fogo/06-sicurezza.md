@@ -56,13 +56,3 @@
 | Vigili del fuoco | **131** |
 | SAR marittimo | **VHF 16** · São Vicente Radio D4A · JRCC +238 232 5555 |
 
-## Monitoraggio mensile sicurezza
-
-| # | Fonte | Cosa cercare |
-|---|---|---|
-| 1 | thecssn.org | Furti a velisti |
-| 2 | voyage.gc.ca / gov.uk / diplomatie.gouv.fr | Variazioni advisory |
-| 3 | Stampa locale (A Semana, Inforpress) | Cronaca |
-| 4 | Forum naviganti / FB Cruisers Cabo Verde | Avvisi rapidi |
-
-Ultimo aggiornamento: 24/08/2026

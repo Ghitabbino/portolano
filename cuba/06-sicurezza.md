@@ -100,16 +100,3 @@ Contromisure: catena heavy-duty + lucchetto inox, dinghy sollevato a bordo di no
 - Consigliato **STEP enrollment** (US Embassy) e **Dovesiamonelmondo** per italiani; tenere EPIRB registrato e contatti Guarda Frontera della marina più vicina.
 - Ospedali: Cira Garcia (Habana) per stranieri, ma carenza farmaci/energia nel 2026.
 
-## Monitoraggio mensile sicurezza
-
-| # | Fonte | Cosa cercare | Rank |
-|---|---|---|---|
-| 1 | thecssn.org (Cuba) | Furti/burglary a velisti, hotspot nuovi | ★★★★ |
-| 2 | travel.state.gov Cuba Advisory | Variazioni Level, blackout, crime | ★★★★★ |
-| 3 | osac.gov Country Report Cuba | Crime stats, update annuale | ★★★★★ |
-| 4 | cibercuba.com / elToque / 14ymedio | Cronaca, crisi carburante/elettricità, jineteros | ★★★ |
-| 5 | cruisersforum + Noonsite + Triton | Avvisi rapidi velisti Cuba | ★★ |
-| 6 | viaggaresicuri.it + EDA Svizzera | Aggiornamenti Farnesina/EDA | ★★★★★ |
-| 7 | rci.fm antillano per comparazione | — | ★★ |
-
-Ultimo aggiornamento: 24/08/2026
