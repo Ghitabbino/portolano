@@ -185,7 +185,7 @@ RESTAURANTS = [
     ("rist-lucullus", 16.2290, -61.3800),
     ("rist-cabanon", 16.2280, -61.3790),
     ("rist-coquillage", 16.2295, -61.3810),
-    ("rist-balaou", 16.2285, -61.3805),
+    ("rist-balaou", 16.2245, -61.5195),
     ("rist-zagaya", 16.2390, -61.2720),
     ("rist-playa", 15.9530, -61.0380),
     ("rist-pere-labat", 15.9490, -61.0420),
