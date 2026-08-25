@@ -150,6 +150,9 @@ OVERVIEWS = [
     ("aruba", 12.52, -69.97, [10, 11, 12, 13], {10: 1, 11: 1, 12: 2, 13: 2}),
     ("santa-lucia", 14.01, -60.97, [8, 9], {8: 1, 9: 2}),
     ("grenada", 12.05, -61.72, [8, 9], {8: 1, 9: 2}),
+    ("dominica", 15.42, -61.40, [8, 9], {8: 1, 9: 2}),
+    ("barbados", 13.18, -59.55, [8, 9], {8: 1, 9: 2}),
+    ("turks-caicos", 21.62, -71.75, [8, 9], {8: 1, 9: 2}),
 ]
 
 
@@ -298,8 +301,8 @@ def schede_da_md():
             if "data-markers" in tag:
                 continue
             sg = re.search(r'data-slug="([^"]+)"', tag)
-            la = re.search(r'data-lat="(-?[\\d.]+)"', tag)
-            lo = re.search(r'data-lon="(-?[\\d.]+)"', tag)
+            la = re.search(r'data-lat="(-?[\d.]+)"', tag)
+            lo = re.search(r'data-lon="(-?[\d.]+)"', tag)
             if sg and la and lo:
                 res.append((sg.group(1), float(la.group(1)), float(lo.group(1))))
     return res

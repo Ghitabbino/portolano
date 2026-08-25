@@ -716,7 +716,8 @@ function initMaps(root){
     if(el.dataset.markers){try{pts=JSON.parse(el.dataset.markers)}catch(e){pts=null}}
     if(el.dataset.zones){try{zones=JSON.parse(el.dataset.zones)}catch(e){zones=null}}
     const lat=+el.dataset.lat, lon=+el.dataset.lon;
-    const m=L.map(el,{maxBoundsViscosity:.8});
+    const m=L.map(el,{maxBoundsViscosity:1});
+    let HOMEB=null;const HOME=[lat,lon];const HOMEZ=14;
     const FS=L.Control.extend({options:{position:'topleft'},onAdd(){
       const d=L.DomUtil.create('div','leaflet-bar');
       const a=L.DomUtil.create('a','',d);
@@ -746,7 +747,8 @@ function initMaps(root){
       if(hasZones)zones.forEach(z=>{const r=z[2]/111320,c=Math.cos(z[0]*Math.PI/180);la.push(z[0]+r,z[0]-r);lo.push(z[1]+r/c,z[1]-r/c);});
       const pl=Math.max(.04,(Math.max(...la)-Math.min(...la))*.15+.02);
       const po=Math.max(.06,(Math.max(...lo)-Math.min(...lo))*.15+.03);
-      m.fitBounds([[Math.min(...la)-pl*.5,Math.min(...lo)-po*.5],[Math.max(...la)+pl*.5,Math.max(...lo)+po*.5]]);
+      HOMEB=[[Math.min(...la)-pl*.5,Math.min(...lo)-po*.5],[Math.max(...la)+pl*.5,Math.max(...lo)+po*.5]];
+      m.fitBounds(HOMEB);
       m.setMaxBounds([[Math.min(...la)-pl,Math.min(...lo)-po],[Math.max(...la)+pl,Math.max(...lo)+po]]);
       if(hasZones)zones.forEach(z=>{
         L.circle([z[0],z[1]],{radius:z[2],color:z[3]||'#d32f2f',weight:2,dashArray:'6 4',fillColor:z[3]||'#d32f2f',fillOpacity:.13})
@@ -782,6 +784,15 @@ function initMaps(root){
     const gBase=L.layerGroup([cartoOn,baseLo]);
     const gSea=L.layerGroup([seaOn,seaLo]);
     L.control.layers({'Satellitare':gSat,'Carta nautica':gBase},{'Segnali nautici':gSea},{collapsed:false}).addTo(m);
+    const HM=L.Control.extend({options:{position:'topleft'},onAdd(){
+      const d=L.DomUtil.create('div','leaflet-bar');
+      const a=L.DomUtil.create('a','',d);
+      a.href='#'; a.innerHTML='⌂'; a.title='Ricentra la mappa';
+      a.style.fontSize='16px'; a.style.lineHeight='26px';
+      L.DomEvent.on(a,'click',e=>{L.DomEvent.stop(e);if(HOMEB)m.fitBounds(HOMEB);else m.setView(HOME,HOMEZ);});
+      return d;
+    }});
+    m.addControl(new HM());
     setTimeout(()=>m.invalidateSize(),100);
   });
 }
