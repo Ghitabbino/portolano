@@ -30,7 +30,7 @@ Legenda prezzi: **€** <15 USD · **€€** 15-30 USD · **€€€** >30 USD
 
 ## Mappa dei ristoranti
 
-<div class="mapframe" data-slug="cuba" data-minz="6" data-maxz="13" data-lat="22.00" data-lon="-79.80" data-markers='[[23.138,-82.368,"La Guarida"],[23.136,-82.370,"San Cristóbal"],[23.140,-82.352,"Doña Eutimia"],[23.142,-82.427,"El Cocinero"],[23.119,-82.418,"Vista Mar"],[23.115,-82.420,"La Fontana"],[23.140,-81.280,"La Vicaria"],[23.139,-81.282,"Varadero 60"],[23.141,-81.285,"Salsa Suárez"],[23.142,-81.290,"Waco’s Club"],[22.120,-80.450,"El Lagarto - Cienfuegos"],[22.115,-80.455,"Finca del Mar"],[20.020,-75.830,"Paladar Aché - Santiago"]]’ data-zones=’[]'></div>
+<div class="mapframe" data-slug="cuba" data-minz="6" data-maxz="13" data-lat="22.00" data-lon="-79.80" data-markers='[[23.138,-82.368,"La Guarida"],[23.136,-82.370,"San Cristóbal"],[23.140,-82.352,"Doña Eutimia"],[23.142,-82.427,"El Cocinero"],[23.119,-82.418,"Vista Mar"],[23.115,-82.420,"La Fontana"],[23.140,-81.280,"La Vicaria"],[23.139,-81.282,"Varadero 60"],[23.141,-81.285,"Salsa Suárez"],[23.142,-81.290,"Waco’s Club"],[22.120,-80.450,"El Lagarto - Cienfuegos"],[22.115,-80.455,"Finca del Mar"],[20.020,-75.830,"Paladar Aché - Santiago"]]' data-zones='[]'></div>
 
 *Marker gialli — clic per nome. Tasselli zoom 6–13. Distanza marina: Cienfuegos 5 min taxi/piedi, Hemingway 15-35 USD taxi.*
 
