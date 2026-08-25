@@ -46416,7 +46416,7 @@ Ultimo aggiornamento: 22/08/2026</section>
 <p>Selezione orientata alla crociera: locali raggiungibili a piedi dagli ancoraggi e marine del portolano (<a href="#p639">08 Ancoraggi</a>). Valutazione ponderata = media Google + (+ dove presente), verificata il 21/08/2026. Prezzi indicativi per persona senza bevande.</p>
 <p>Legenda prezzi: <strong>€</strong> &lt;20 · <strong>€€</strong> 20–40 · <strong>€€€</strong> &gt;40 — Cucina: 🐟 pesce e frutti di mare · 🥩 carne e grigliate · 🥗 vegetariano-friendly · 🥙 street food creolo · 🍰 crêperie e dolci</p>
 <h2>Mappa dei ristoranti</h2>
-<div class="mapframe" data-slug="guadalupa" data-minz="10" data-maxz="12" data-lat="16.10" data-lon="-61.39" data-markers='[[15.867, -61.583, "Le Toumbana", "rist-toumbana"], [16.305, -61.795, "Chez Ketty", "rist-ketty"], [16.307, -61.79454, "La Savane", "rist-savane"], [16.30509, -61.79645, "Le Madras", "rist-madras"], [16.30425, -61.798, "Chez Raf", "rist-raf"], [16.30549, -61.79628, "L’Anse Gourmande", "rist-anse-gourmande"], [16.2234, -61.5189, "Le Lucullus", "rist-lucullus"], [16.2252, -61.5201, "Le Cabanon", "rist-cabanon"], [16.226, -61.521, "Le Coquillage", "rist-coquillage"], [16.2245, -61.5195, "Le Balaou", "rist-balaou"], [16.24077, -61.27583, "Le Zagaya", "rist-zagaya"], [15.9515, -61.1045, "La Playa", "rist-playa"], [15.9485, -61.1175, "Table du Père Labat", "rist-pere-labat"], [16.222, -61.493, "Le Planteur", "rist-planteur"], [16.50463, -61.50172, "Le Rayon de Soleil", "rist-rayon-soleil"]]'></div><div class="dms">📍 16°06'00" N 61°23'24" W · WGS84</div>
+<div class="mapframe" data-slug="guadalupa" data-minz="7" data-maxz="12" data-lat="16.10" data-lon="-61.39" data-markers='[[15.867, -61.583, "Le Toumbana", "rist-toumbana"], [16.305, -61.795, "Chez Ketty", "rist-ketty"], [16.307, -61.79454, "La Savane", "rist-savane"], [16.30509, -61.79645, "Le Madras", "rist-madras"], [16.30425, -61.798, "Chez Raf", "rist-raf"], [16.30549, -61.79628, "L’Anse Gourmande", "rist-anse-gourmande"], [16.2234, -61.5189, "Le Lucullus", "rist-lucullus"], [16.2252, -61.5201, "Le Cabanon", "rist-cabanon"], [16.226, -61.521, "Le Coquillage", "rist-coquillage"], [16.2245, -61.5195, "Le Balaou", "rist-balaou"], [16.24077, -61.27583, "Le Zagaya", "rist-zagaya"], [15.9515, -61.1045, "La Playa", "rist-playa"], [15.9485, -61.1175, "Table du Père Labat", "rist-pere-labat"], [16.222, -61.493, "Le Planteur", "rist-planteur"], [16.50463, -61.50172, "Le Rayon de Soleil", "rist-rayon-soleil"]]'></div><div class="dms">📍 16°06'00" N 61°23'24" W · WGS84</div>
 
 <h2>Griglia generale</h2>
 <div class="tw"><table>
@@ -69779,7 +69779,9 @@ function initMaps(root){
       const po=Math.max(.025,(Math.max(...lo)-Math.min(...lo))*.06+.012);
       HOMEB=[[Math.min(...la)-pl*.5,Math.min(...lo)-po*.5],[Math.max(...la)+pl*.5,Math.max(...lo)+po*.5]];
       m.fitBounds(HOMEB);
-      if(m.getZoom()<12)m.setZoom(12);
+      const span=Math.max(Math.max(...la)-Math.min(...la),(Math.max(...lo)-Math.min(...lo))*0.9);
+      const fl=span>0.5?0:(span>0.18?11:13);
+      if(fl&&m.getZoom()<fl)m.setZoom(fl);
       m.setMaxBounds([[Math.min(...la)-pl,Math.min(...lo)-po],[Math.max(...la)+pl,Math.max(...lo)+po]]);
       if(hasZones)zones.forEach(z=>{
         L.circle([z[0],z[1]],{radius:z[2],color:z[3]||'#d32f2f',weight:4,dashArray:'6 4',fillColor:z[3]||'#d32f2f',fillOpacity:.25})

@@ -755,7 +755,9 @@ function initMaps(root){
       const po=Math.max(.025,(Math.max(...lo)-Math.min(...lo))*.06+.012);
       HOMEB=[[Math.min(...la)-pl*.5,Math.min(...lo)-po*.5],[Math.max(...la)+pl*.5,Math.max(...lo)+po*.5]];
       m.fitBounds(HOMEB);
-      if(m.getZoom()<12)m.setZoom(12);
+      const span=Math.max(Math.max(...la)-Math.min(...la),(Math.max(...lo)-Math.min(...lo))*0.9);
+      const fl=span>0.5?0:(span>0.18?11:13);
+      if(fl&&m.getZoom()<fl)m.setZoom(fl);
       m.setMaxBounds([[Math.min(...la)-pl,Math.min(...lo)-po],[Math.max(...la)+pl,Math.max(...lo)+po]]);
       if(hasZones)zones.forEach(z=>{
         L.circle([z[0],z[1]],{radius:z[2],color:z[3]||'#d32f2f',weight:4,dashArray:'6 4',fillColor:z[3]||'#d32f2f',fillOpacity:.25})
