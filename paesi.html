@@ -69816,7 +69816,7 @@ function initMaps(root){
         if(stacked&&mks.length>2){
           const g=L.markerClusterGroup({maxClusterRadius:42,showCoverageOnHover:false,spiderfyDistanceMultiplier:1.6});
           g.addLayers(mks);g.addTo(m);
-        } else mks.forEach(k=>k.addTo(m));
+        mks.forEach(k=>k.addTo(m));
     }
     const esriOn=L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',{minZoom:minz,maxZoom:maxz,attribution:'Immagini © Esri'});
     const satLo=L.tileLayer('mappe/'+slug+'/sat/{z}/{x}_{y}.jpg',{minZoom:minz,maxZoom:maxz});
@@ -69910,5 +69910,6 @@ show('p1');
 </script>
 <script src="assets/leaflet.js"></script>
 <script src="assets/markercluster.js"></script>
+<script>window.onerror=function(m,u,l){try{document.title="ERRORE: "+m+" @riga "+l;var d=document.createElement("div");d.style.cssText="position:fixed;inset:auto 0 0 0;z-index:99999;background:#b71c1c;color:#fff;padding:10px;font:13px monospace";d.textContent=document.title;(document.body||document.documentElement).appendChild(d);}catch(e){}};</script>
 </body>
 </html>
