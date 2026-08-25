@@ -21,6 +21,8 @@ cd paesi
 python3 tools/build_paesi_html.py     # rigenera i 2 HTML (sempre dopo ogni modifica .md)
 git add -A && git commit -m "..." && git push   # pubblica online
 python3 tools/controllo_mensile.py [--paese XX]  # revisione mensile (DM + fonti)
+python3 tools/verifica_critica.py     # coda paesi >15gg senza revisione critica
+                                      # poi segui AGENTI_VERIFICA_CRITICA.md (max 5 paesi/sessione)
 python3 tools/download_mappe.py       # tasselli mappa offline
 ```
 
@@ -33,16 +35,30 @@ python3 tools/download_mappe.py       # tasselli mappa offline
    08 Portolano degli ancoraggi · 09 Artigiani e negozi nautici · 10 Ristoranti;
    schede ristorante = `# Nome` senza numero; schede ancoraggio = `# Nome {#anc-slug}`).
 3. **VIETO dati inventati**: se non verificato → `**DATO MANCANTE**`.
+3b. **VIETO copy-paste dalle fonti** (Noonsite, Waterway Guide, gov, ecc.): le informazioni
+   si **riformulano sempre in italiano originale**; della fonte si riporta solo nome + link +
+   rank. Citazioni testuali brevi ammesse solo se indispensabili e tra apici con fonte.
 4. Citazioni: fonti governative col nome; le altre → solo stelle ★, oppure
    fonte tra parentesi quando disponibile (nuova direttiva utente).
 5. Numeri emergenza per paese: Spagna/Antille FR **112** · Panama **911** ·
    Capo Verde **132/130/131**.
 6. NO blocchi `<div class="mapframe">` dove non esistono tasselli in `paesi/mappe/<slug>/`.
 7. Prima riga file: `# NN — Titolo`; ultima riga: data aggiornamento.
-8. Menu laterale: intestazioni verdi zona sopra le voci; voci pulite senza nome zona ripetuto.
+8. Menu laterale ad ALBERO (25/08/2026): 🌍 Aree → area (macro-zone solo Caraibi:
+   Lucayano, Grandi Antille, Soprav. Settentr., Soprav. Merid., Sottovento,
+   Occidentali, Canale/Costa, Coste A.C.) → isola → pagine in bianco.
+   Griglia centrale specchio del menu (tessere icone/bandiere, testi verdi centrati).
+   Gerarchia in VERDE accent (#4db6ac, stesso del logo) sia a sinistra che al centro;
+   bianco solo per voci contenuto. Disclaimer home + coordinate indicative su ogni 08.
+   Barra freccia indietro fissa in alto: mostra il LIVELLO CORRENTE (es. "← Mar dei
+   Caraibi") e sale di un livello al click; solo 🌍 Aree/breadcrumb riporta agli oceani.
+   Ispaniola divisa in Repubblica Dominicana e Haiti (24/08 dati ereditati, da verificare).
 
 ## ✅ COMPLETATO (non rifare)
 
+- (25/08/2026) Navigazione ad albero Aree→gruppi→isole con menu centrale a tessere,
+  breadcrumb, freccia indietro, ricerca piatta; icone univoche; Haiti + Rep. Dominicana
+  separate da ispaniola
 - Wiki base: Guadalupa, Martinica, Panama (Canale+San Blas) complete
 - Canarie: 9 zone ×10 pagine + comune; Capo Verde: 9 zone ×10 pagine + comune
 - Grenadine: struttura 7 zone ×10 voci + comune (contenuti da arricchire)
@@ -61,16 +77,31 @@ python3 tools/download_mappe.py       # tasselli mappa offline
 | # | Compito | Note |
 |---|---|---|
 | 0 | ⚠️ DOPO OGNI NUOVO PAESE: verificare che la card sia in 00-indice.md E nel build; poi push | ricorrente |
+| 0b | ⚠️ A OGNI PUBLISH: `index.html` = copia di `paesi.html` (la radice del sito serve index!) | ricorrente dal 24/08 |
 
-| 1 | Arricchire GRENDINE con ricerca web | fee Tobago Cays Marine Park, entry Mustique,
-    telefoni Bequia (Mac's Pizza, Frangipani), Union Island Clifton services |
+**Coda completamento CARAIBI (audit 24/08/2026, campione = Martinica):**
+
+| # | Compito | Note |
+|---|---|---|
+| C1 | Nuove voci verificate: **Haiti** (separata da ispaniola), **Colombia** (San Andrés/Providencia/Cartagena), **Messico** (Isla Mujeres/Cozumel/Chinchorro), **Guatemala** (Rio Dulce) | fonti: Cruisers Wiki/Haiti, Noonsite/Colombia, CruisingWorld/YachtingWorld, sail-world Rio Dulce (~1000 yacht) |
+| C2 | **Venezuela offshore** con alert sicurezza (Los Roques/Las Aves/Blanquilla); sotto-voce Klein Curaçao in curacao; Mona in porto-rico | ALERT Noonsite/Caribbean Compass set-2025: alto rischio |
+| C3 | VUOTE da creare ex-novo (formato Martinica 10 pagine): **venezuela** (142 B!), belize, honduras, nicaragua, costarica | solo segnaposto ora |
+| C4 | SCHELETRO da riempire: virgin-islands, antigua-barbuda, saint-martin, saint-barth, anguilla, st-kitts-nevis, saba, st-eustatius, montserrat | VI il traffico n°1 dei Caraibi; sub-cartelle VI già parziali |
+| C5 | PARZIALI da arricchire: grenadine (7 sotto-isole scarse), santa-lucia, grenada, dominica, barbados, turks-caicos (03+08 vuoti), trinidad-tobago, aruba/bonaire/curacao (01-clearance stub ~300 B) | tabelle presenti ma piene di DATO MANCANTE |
+| C6 | COMPLETE: colmare DATO MANCANTE residui — ispaniola(180!), porto-rico(74), bahamas(61), cuba(58), giamaica(45), cayman(37) | puntuale, non strutturale |
+
+| # | Compito | Note |
+|---|---|---|
+| C7 | ⚠️ MARKER ANCORAGGI MANCANTI (audit tools/audit_coordinate.txt): ~40 schede anc-* senza pin
+    sulla mappa satellitare (Anguilla, Antigua, Grenadine zone, Saba, St-Barth, St-Martin,
+    Statia, St-Kitts/Nevis, VI, Montserrat) + label marker↔schede da allineare (Cuba, Giamaica,
+    Canarie, RD, PR, Cayman). Serve ricerca coordinate verificate — MAI inventate | ricorrente |
 | 2 | Completare dati CV sal/boa-vista/sao-nicolau | stesse fonti: Navily blog, Ocean Posse,
     velmundi, yachtmollymawk, blog naviganti multilingua |
 | 3 | Revisione generale finale + audit (`audit_uniformita --fix`, deep_audit) | 0 deviazioni |
-| 4 | Push GitHub Pages | dopo GO dell'utente |
-| 5 | Multilingua: infrastruttura en/fr/es/de + selettore lingue home | ~45 min |
-| 6 | Traduzioni: EN piena qualità (4–6h batch); FR/ES/DE DeepL-assistite 1–2h/lng | dopo ok utente |
-| 7 | Donazioni: Ko-fi o Liberapay — fondo menu laterale + card discreta home (~25 min) | serve username utente |
+| 4 | Multilingua: infrastruttura en/fr/es/de + selettore lingue home | ~45 min |
+| 5 | Traduzioni: EN piena qualità (4–6h batch); FR/ES/DE DeepL-assistite 1–2h/lng | dopo ok utente |
+| 6 | Donazioni: Ko-fi o Liberapay — fondo menu laterale + card discreta home (~25 min) | serve username utente |
 
 ## 🔍 FONTI PER LA RICERCA DATI (usate e affidabili)
 
