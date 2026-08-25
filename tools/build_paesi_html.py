@@ -463,7 +463,7 @@ h2 { border-bottom:1px solid var(--line); padding-bottom:6px; margin-top:34px; f
              padding:18px 16px; cursor:pointer; text-decoration:none; text-align:center; }
 .area-card:hover { border-color:var(--accent); background:#132230; }
 .area-card .ic { font-size:32px; line-height:1; }
-.area-card .nm { font-weight:800; font-size:17px; color:var(--accent); }
+.area-card .nm { font-size:21px; font-weight:800; font-size:17px; color:var(--accent); }
 .area-card .ds { font-size:11.5px; color:var(--accent); opacity:.72; line-height:1.55; }
 .paesi-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(200px,1fr)); gap:12px; margin:14px 0; }
 .pcard { min-width:0; overflow-wrap:anywhere; }
