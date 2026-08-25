@@ -1,8 +1,8 @@
 # 02 — Costo della vita
 
-**Ultimo aggiornamento: 24/08/2026**
+**Ultimo aggiornamento: 25/08/2026**
 
-Valuta: **XCD**. Livello prezzi: isola caraibica con forte importazione; alimentari +20–40% vs Europa/USA, ristorazione turistica cara nelle zone marina. ★★
+Valuta: **dollaro dei Caraibi Orientali (XCD)**, parità fissa **US$1 = EC$2,70** (ECCB). Alimentari +20–40% vs Europa/USA; **IVA 12,5%**, azzerata dal 02/08/2025 su 70 generi base. [St Lucia Times 18/08/2025 ★★★]
 
 > ⚠️ Le voci di questo elenco sono le stesse per tutti i paesi del portolano. Dove il dato non è stato ancora trovato dalle fonti si scrive **DATO MANCANTE**: viene ricercato al controllo mensile (vedi [00 Indice](../00-indice.md)).
 
@@ -10,57 +10,60 @@ Valuta: **XCD**. Livello prezzi: isola caraibica con forte importazione; aliment
 
 | Voce | Prezzo indicativo | Note |
 |---|---|---|
-| Birra locale supermercato (0,33 l) | 1,5–3,0 USD/EUR | Locale/importata ★★ |
-| Caffè al bancone | 2–4 USD | Bar del bourg/marina ★★ |
-| Baguette / pane | 1,5–3 USD | Panetteria ★★ |
-| Acqua imbottigliata 1,5 l | 1–2,5 USD | Supermercato ★★ |
-| Latte 1 l | DATO MANCANTE | Verificare Numbeo locale ★★ |
-| Riso 1 kg | DATO MANCANTE | — |
-| Pollo fresco 1 kg | DATO MANCANTE | — |
+| Birra nazionale supermercato (0,5 l) | EC$5,40 (4–8,60) | [HikersBay 2025](https://hikersbay.com/prices/stlucia?lang=en) ★★ |
+| Birra importata 0,33 l | EC$8,60 (6–15) | HikersBay 2025 ★★ |
+| Pane fresco 500 g | EC$3,70 (2,50–6,60) | HikersBay 2025 ★★ |
+| Acqua imbottigliata 1,5 l | EC$3,00 (2,20–4,00) | HikersBay 2025 ★★ |
+| Latte 1 l | EC$5,90 (5–8); UHT Massy EC$6,55 | HikersBay ★★ + Massy Stores ★★★★ |
+| Riso 1 kg | EC$4,90 (2,50–6,60) | HikersBay 2025 ★★ |
+| Pollo fresco 1 kg | Petto EC$28 (12–33); ali da 18,50 a 14,99/kg post-IVA-zero | HikersBay ★★ + St Lucia Times ago 2025 ★★★ |
+| Frutta (mele/pomodori/banane al kg) | EC$20 / 24 / 4,20 | HikersBay 2025 ★★ |
 
 ## Mangiare fuori (media)
 
 | Voce | Prezzo indicativo |
 |---|---|
-| Menu creolo / pesce ristorante medio | 15–30 USD/EUR |
-| Birra al bar | 4–7 USD |
-| Cocktail / punch | 6–12 USD |
-| Menu ristorante fascia alta | 40–70 USD |
-| Street food / roti / bokit | 5–12 USD |
+| Pasto economico ristorante locale | EC$20 (15–25) ≈ US$7,40 ·HikersBay 2025 ★★|
+| Cena per due, ristorante medio | ~EC$198 ≈ US$73,50 ·[Nomad Capitalist lug 2025](https://nomadcapitalist.com/expat/cost-of-living-st-lucia/) ★★★|
+| Menu fascia alta/resort | **DATO MANCANTE** |
+| Street food (roti, BBQ) | **DATO MANCANTE** |
 
 Prezzi specifici per locale → [10 Ristoranti](10-ristoranti.md).
 
 ## Carburanti
 
+Prezzi retail regolati dal governo, revisione bimestrale con sussidi. Benzina e gasolio **parificati**; fuel duty-free per yacht presso IGY Rodney Bay e Capella Marigot Bay [stlucia.org ★★★★].
+
 | Voce | Prezzo indicativo | Note |
 |---|---|---|
-| Gasolio | 1,1–1,6 USD/l | Variabile per isola ★★ |
-| Benzina | 1,3–1,8 USD/l | — |
-| Bombola gas (scambio) | DATO MANCANTE | Punti scambio locali ★★ |
+| Benzina / gasolio | **EC$3,52/l** (= US$16/gallone imperiale), stabile 2025–26 | [govt.lc, mag 2026](https://www.govt.lc/news/fuel-price-adjustment-for-the-period-may-11-to-may-31-2026) ★★★★★; GPP 10/08/2026 EC$3,685 ★★★ |
+| Bombola gas 20 lb (9,07 kg) | EC$34–36 (sussidio ~EC$40) | [govt.lc 2025–26](https://www.govt.lc/news/fuel-price-adjustments-sep-1-to-21) ★★★★★ |
 
 ## Trasporti e collegamenti
 
 | Voce | Prezzo indicativo | Note |
 |---|---|---|
-| Bus locale | 1–2 USD/corsa | Minibus ★★ |
-| Taxi marina↔centro | 10–30 USD | Concordare prima ★★ |
-| Noleggio auto giornaliero | 40–70 USD | Agenzie locali/aeroporto ★★ |
+| Minibus (targa verde M) | Tariffa regolata: Castries↔Rodney Bay/Gros Islet **EC$2,75** (notturna EC$4); Castries↔Soufrière o Vieux Fort EC$9; range isola EC$2,50–8 | [Gazzetta ufficiale Route 1A](http://attorneygeneralchambers.com/laws-of-saint-lucia/motor-vehicles-and-road-traffic-act/section-3-02) ★★★★★; [stlucia.org](https://stlucia.org/en/plan-your-saint-lucia-trip/getting-around/) ★★★★ |
+| Taxi (targa azzurra TX) | Tariffe libere, concordare sempre prima; tabella ufficiale assente → tratte specifiche **DATO MANCANTE** | stlucia.org ★★★★ |
+| Noleggio auto giornaliero | **DATO MANCANTE** | Verificare agenzie Rodney Bay/aeroporto |
 
 ## Servizi quotidiani
 
 | Voce | Prezzo indicativo | Note |
 |---|---|---|
-| Lavanderia self-service | 5–10 USD/carico | Marina ★★ |
-| SIM prepagata con dati | 10–30 USD | Digicel/Flow ★★ |
-| Lavaggio scafo | DATO MANCANTE | Diver locale ★★ |
+| Posto barca IGY Rodney Bay (transito) | ~US$1,0–1,5/piede/notte (42 ft ≈ US$42–63); −30% lunga permanenza | [PortZante 07/08/2026](https://portzante.com/cheapest-marinas-eastern-caribbean/) ★★; [IGY](https://www.igymarinas.com/marinas/rodney-bay-marina/) tariffe su richiesta ★★★★; storico crocieristi US$0,65–0,75/ft ★★ |
+| Acqua/luce in marina | US$0,10/gallone · US$0,70/kWh | [Realty St Lucia 2022](https://realtystlucia.com/rodney-bay-marina/) ★★ |
+| Lavanderia self-service | **DATO MANCANTE** | Presente in marina [IGY ★★★★] |
+| SIM prepagata con dati | Digicel 7 gg/10 GB **EC$32,80**; pacchetti turistici aeroporto da EC$20; Flow analogo | [Digicel](https://www.digicelgroup.com/lc/en/mobile/prepaid) ★★★★; guide connectivity lug 2026 ★★ |
+| Lavaggio scafo (hull dive) | **DATO MANCANTE** | Chiedere ai diver del boatyard IGY |
 
 ## Contanti e pagamenti
 
-Carte accettate in marina e supermercati; contante utile per mercati, bus e piccole spese. Bancomat a Castries e zone turistiche.
+Carte ovunque in marina, supermercati e ristoranti del nord; contante per minibus, mercati, barche frutta/verdura tra i pontoni e beach bar. Bancomat a Rodney Bay (JQ Mall), Castries, Gros Islet. [slucia.com ★★]
 
 ## Approfondimenti
 
-- Tariffe marine e boe → [03 Porti e marine](03-porti-ancoraggi.md)
+- Tariffe marine e boe → [03 Porti e ancoraggi](03-porti-ancoraggi.md)
 - Ristoranti con prezzi per locale → [10 Ristoranti](10-ristoranti.md)
 
-Ultimo aggiornamento: 24/08/2026
+Ultimo aggiornamento: 25/08/2026

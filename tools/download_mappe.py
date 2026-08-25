@@ -290,7 +290,7 @@ def schede_da_md():
     from pathlib import Path
     res = []
     for md in sorted(Path(ROOT).rglob("*.md")):
-        if "ancoragg" not in str(md.parent).lower():
+        if ("ancoragg" not in str(md.parent).lower()) and ("ristoranti" not in str(md.parent).lower()):
             continue
         try:
             t = md.read_text(encoding="utf-8")

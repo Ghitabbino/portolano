@@ -1,4 +1,4 @@
-# 00 — Santa Lucia: ingresso e visti
+# 00 — Ingresso, documenti e visti
 
 **Ultima verifica: 25/08/2026**
 

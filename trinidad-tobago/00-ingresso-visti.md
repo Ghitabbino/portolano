@@ -1,4 +1,4 @@
-# 00 — Trinidad Tobago: ingresso e visti
+# 00 — Ingresso, documenti e visti
 
 **Ultima verifica: 25/08/2026** · Fonti: gov.uk ★★★★ · Noonsite ★★★ · MSATT/YSATT ★★★ · gotrinidadandtobago.com ★★★
 

@@ -450,7 +450,8 @@ main { flex:1; min-width:0; padding:clamp(30px,3.5vw,58px) clamp(14px,2.5vw,44px
 .page { display:none; }
 .page.visible { display:block; }
 h1,h2,h3 { color:#fff; line-height:1.25; }
-h2 { border-bottom:1px solid var(--line); padding-bottom:6px; margin-top:34px; }
+h3 { font-size:22px; }
+h2 { border-bottom:1px solid var(--line); padding-bottom:6px; margin-top:34px; font-size:27px; }
 .tw { overflow-x:auto; margin:14px 0; border-radius:8px; }
 .dms { font-size:11px; color:var(--muted); margin:-6px 0 14px; letter-spacing:.03em; }
 .aree-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(250px,1fr)); gap:16px;

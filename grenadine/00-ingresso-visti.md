@@ -1,4 +1,4 @@
-# 00 — Grenadine: ingresso, documenti e visti
+# 00 — Ingresso, documenti e visti
 
 **Ultimo aggiornamento: 23/08/2026**
 
