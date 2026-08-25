@@ -73,8 +73,11 @@ def main():
 
     # 2) mappa generale: inserisci se manca
     if "<div class=\"mapframe\"" not in txt:
+        def clean(nome):
+            # regola trappola apostrofi: mai ASCII ' dentro data-markers
+            return str(nome).replace("'", "\u2019")
         mk = ", ".join(
-            json.dumps([s["lat"], s["lon"], s["nome"], s["slug"]], ensure_ascii=False)
+            json.dumps([s["lat"], s["lon"], clean(s["nome"]), s["slug"]], ensure_ascii=False)
             for s in cfg["schede"]
         )
         frame = ("## Mappa generale degli ancoraggi\n\n"

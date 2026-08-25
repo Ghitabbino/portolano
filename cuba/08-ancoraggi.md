@@ -40,7 +40,7 @@ Mémento: carte con zone interdette su sito Marlin e guide Nigel Calder Cruising
 
 ### Mappa generale degli ancoraggi
 
-<div class="mapframe" data-slug="cuba" data-minz="6" data-maxz="13" data-lat="22.00" data-lon="-79.80" data-markers='[[21.901,-84.908,"Los Morros (Cabo San Antonio)"],[22.884,-83.524,"Cayo Levisa"],[23.087,-82.497,"Marina Hemingway"],[21.621,-81.559,"Cayo Largo Marina"],[21.560,-81.840,"Canarreos — Cayo Campos"],[22.126,-80.455,"Cienfuegos"],[21.737,-79.994,"Trinidad / Casilda"],[19.968,-75.865,"Santiago de Cuba"],[21.071,-75.954,"Puerto Vita"],[22.590,-78.670,"Cayo Guillermo"]]' data-zones='[]'></div>
+<div class="mapframe" data-slug="cuba" data-minz="6" data-maxz="13" data-lat="22.00" data-lon="-79.80" data-markers='[[21.901, -84.908, "Los Morros (Cabo San Antonio)", "anc-los-morros"], [22.884, -83.524, "Cayo Levisa", "anc-cayo-levisa"], [23.087, -82.497, "Marina Hemingway", "anc-hemingway"], [21.621, -81.559, "Cayo Largo Marina", "anc-cayo-largo"], [21.56, -81.84, "Canarreos — Cayo Campos", "anc-cayo-campos"], [22.126, -80.455, "Cienfuegos", "anc-cienfuegos"], [21.737, -79.994, "Trinidad / Casilda", "anc-casilda"], [19.968, -75.865, "Santiago de Cuba", "anc-santiago"], [21.071, -75.954, "Puerto Vita", "anc-puerto-vita"], [22.59, -78.67, "Cayo Guillermo", "anc-cayo-guillermo"]]’ data-zones=’[]'></div>
 
 *Marker gialli ancoraggi — clic per nome. Tasselli zoom 6–13. Mappa offline con coordinate Marlin.*
 

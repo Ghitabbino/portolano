@@ -12,7 +12,7 @@ Trinidad è l'hub cantieri/haul-out dei Caraibi meridionali (Chaguaramas); Tobag
 
 ## Mappa generale
 
-<div class="mapframe" data-slug="trinidad-tobago" data-minz="9" data-maxz="13" data-lat="10.95" data-lon="-61.15" data-markers='[[10.6785, -61.6362, "Chaguaramas — ancoraggio cantieri"], [10.6864, -61.6381, "CrewsInn — clearance yacht"], [10.6828, -61.6208, "Hart’s Cut Bay — boe TTSA"], [10.6747, -61.5688, "Port of Spain — T&T Yacht Club"], [11.1562, -60.8410, "Store Bay (Tobago)"], [11.1853, -60.7386, "Scarborough — clearance (Tobago)"], [11.3238, -60.5500, "Charlotteville — Man-o-War Bay"]]'></div>
+<div class="mapframe" data-slug="trinidad-tobago" data-minz="9" data-maxz="13" data-lat="10.95" data-lon="-61.15" data-markers='[[10.6785, -61.6362, "Chaguaramas — ancoraggio cantieri", "anc-chaguaramas"], [10.6864, -61.6381, "CrewsInn — clearance yacht", "anc-crewsinn"], [10.6828, -61.6208, "Hart’s Cut Bay — boe TTSA", "anc-harts-cut"], [10.6747, -61.5688, "Port of Spain — T&T Yacht Club", "anc-port-of-spain"], [11.1562, -60.841, "Store Bay (Tobago)", "anc-store-bay"], [11.1853, -60.7386, "Scarborough — clearance (Tobago)", "anc-scarborough"], [11.3238, -60.55, "Charlotteville — Man-o-War Bay", "anc-charlotteville"]]'></div>
 
 *Marker cliccabili · coordinate multi-fonte verificate · zoomabile fino al dettaglio delle baie.*
 
