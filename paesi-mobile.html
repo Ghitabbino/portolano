@@ -146,6 +146,13 @@ body[data-navlevel="area"] .nav-area{display:block;}
 body[data-navlevel="area"] .nav-country,
 body[data-navlevel="paese"] .nav-country{display:block;}
 body[data-navlevel="paese"] .nav-zone{display:block;}
+
+<style>
+/* NASCONDI TUTTO tranne home e oceani */
+#nav .nav-countries a.country-link:not(.nav-home):not(.nav-ocean):not(.vis-sub){display:none!important;}
+/* Mostra esplicitamente le voci contrassegnate */
+#nav .nav-countries a.vis-sub{display:block!important;}
+</style>
 </style>
 </style>
 </head>
@@ -114484,6 +114491,110 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape')toggleNav(false);});
   document.addEventListener('DOMContentLoaded', function() {
     updateNavLevel("");
   });
+})();
+</script>
+
+
+<script>
+// Drill-down: mostra/nasconde voci del menu in base al livello
+(function(){
+  var OCEANS=["caraibi","mar-rosso","mediterraneo","atlantico","indiano","pacifico"];
+  var GRPMAP={
+    "caraibi/lucayano":["bahamas","turks-caicos"],
+    "caraibi/grandi-antille":["cuba","ispaniola","giamaica","porto-rico","cayman"],
+    "caraibi/sopravento-sett":["anguilla","antigua-barbuda","saint-martin","saint-barth","saba","st-eustatius","st-kitts-nevis","montserrat","virgin-islands"],
+    "caraibi/sopravento-merid":["grenadine","guadalupa","martinica","dominica","santa-lucia","grenada","barbados"],
+    "caraibi/sottovento-abc":["aruba","curacao","bonaire","trinidad-tobago"],
+    "caraibi/centro-america":["belize","honduras","nicaragua","costarica","venezuela"]
+  };
+  var PARMAP={"madeira":"atlantico","cabo-verde":"atlantico","canarie":"atlantico"};
+  
+  function updateMenu(){
+    var p=document.querySelector('.page.visible');
+    var c=(p&&p.dataset.country)||"";
+    var root=c?c.split('/')[0]:"";
+    
+    // Rimuovi tutte le classi vis-sub
+    document.querySelectorAll('#nav .vis-sub').forEach(function(l){l.classList.remove('vis-sub');});
+    
+    // Home: mostra solo gruppi sotto caraibi
+    if(root==="caraibi"){
+      document.querySelectorAll('#nav a[data-country^="caraibi/"]').forEach(function(l){l.classList.add('vis-sub');});
+    }
+    // Gruppo selezionato: mostra i suoi paesi
+    else if(c.indexOf("caraibi/")===0){
+      var groupSlug=c;
+      // Mostra tutti i gruppi caraibi
+      document.querySelectorAll('#nav a[data-country^="caraibi/"]').forEach(function(l){l.classList.add('vis-sub');});
+      // Mostra i paesi di QUESTO gruppo
+      var members=GRPMAP[c]||[];
+      members.forEach(function(ms){
+        var link=document.querySelector('#nav a[data-country="'+ms+'"]');
+        if(link)link.classList.add('vis-sub');
+      });
+    }
+    // Oceano selezionato: mostra i paesi di quell'oceano
+    else if(OCEANS.indexOf(root)>=0 && root!=="caraibi"){
+      document.querySelectorAll('#nav a[data-country]').forEach(function(l){
+        var k=l.dataset.country||"";
+        if(k.indexOf("/")<0 && PARMAP[k]===root) l.classList.add('vis-sub');
+      });
+    }
+    // Paese selezionato: mostra i paesi dello stesso gruppo + zone
+    else if(c.indexOf("/")>=0){
+      var nat=c.split("/")[0];
+      var grp=null;
+      for(var g in GRPMAP){if(GRPMAP[g].indexOf(nat)>=0){grp=g;break;}}
+      if(grp){
+        GRPMAP[grp].forEach(function(ms){
+          var link=document.querySelector('#nav a[data-country="'+ms+'"]');
+          if(link)link.classList.add('vis-sub');
+        });
+      }else if(PARMAP[nat]){
+        document.querySelectorAll('#nav a[data-country="'+PARMAP[nat]+'"]').forEach(function(l){l.classList.add('vis-sub');});
+        var link=document.querySelector('#nav a[data-country="'+nat+'"]');
+        if(link)link.classList.add('vis-sub');
+      }
+      // Zone del paese
+      document.querySelectorAll('#nav a[data-country^="'+c+'/"]').forEach(function(l){l.classList.add('vis-sub');});
+      // Il paese stesso
+      var self=document.querySelector('#nav a[data-country="'+c+'"]');
+      if(self)self.classList.add('vis-sub');
+    }
+    // Paese semplice selezionato (no zone)
+    else if(c){
+      var grp2=null;
+      for(var g2 in GRPMAP){if(GRPMAP[g2].indexOf(c)>=0){grp2=g2;break;}}
+      if(grp2){
+        // Gruppo padre
+        var gl=document.querySelector('#nav a[data-country="'+grp2+'"]');
+        if(gl)gl.classList.add('vis-sub');
+        // Paesi fratelli
+        GRPMAP[grp2].forEach(function(ms){
+          var link=document.querySelector('#nav a[data-country="'+ms+'"]');
+          if(link)link.classList.add('vis-sub');
+        });
+      }else if(PARMAP[c]){
+        var ol=document.querySelector('#nav a[data-country="'+PARMAP[c]+'"]');
+        if(ol)ol.classList.add('vis-sub');
+      }
+      // Se stesso
+      var sl=document.querySelector('#nav a[data-country="'+c+'"]');
+      if(sl)sl.classList.add('vis-sub');
+    }
+  }
+  
+  // Hook su show()
+  var origShow=window.show;
+  if(origShow){
+    window.show=function(id){
+      origShow(id);
+      setTimeout(updateMenu,10);
+    };
+  }
+  
+  // Esegui al caricamento
+  setTimeout(updateMenu,100);
 })();
 </script>
 
