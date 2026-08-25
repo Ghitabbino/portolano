@@ -63,6 +63,19 @@ python3 tools/download_mappe.py       # tasselli mappa offline
      automaticamente dagli attributi decimale data-lat/data-lon del mapframe.
    - MAI coordinate inventate: se non verificate su fonte attendibile →
      `**DATO MANCANTE**` (vale anche per i pin delle cartine).
+9b. SCALA CARTE ZOOMMABILI (nuova 25/08/2026): ogni ancoraggio segnalato DEVE
+    avere una cartina interattiva zoomabile stile Google Maps (pan + zoom
+    continuo fino al dettaglio della baia, MAI immagini fisse). Scala di
+    RIFERIMENTO CERTIFICATA = BAHAMAS: mappa generale ancoraggi zoom **6–13** ·
+    ristoranti **6–13** · sicurezza **6–12** · minimappa scheda ancoraggio
+    **12–15** (default del build). Paesi-isola piccoli possono partire da 7,
+    il massimo resta 13. Tasselli offline generati con
+    `tools/download_mappe.py` per ogni livello usato (base/sat/sea); il
+    build aggiunge da solo il fallback online Esri/CARTO/OpenSeaMap.
+    NO mapframe senza tasselli locali (vedi regola 6).
+    ⚠️ AUDIT OBBLIGATORIO: tutti i paesi già pubblicati vanno portati a
+    questa scala e verificati uguali al livello Martinica (struttura 08 con
+    tabella+schede+cartina, densità fonti, DM→0).
 
 ## ✅ COMPLETATO (non rifare)
 
