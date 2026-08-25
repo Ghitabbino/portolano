@@ -1,14 +1,33 @@
 # 01 — Clearance doganale della barca
 
-**Pre-arrivo DGMM online consigliato** (jotform ufficiale cevamhn-dgmm) + form separato per lo zarpe d'uscita; portare screenshot approvazione (Ocean Posse ★★★★; NoForeignLand ★★★).
+**Ultima verifica: 25/08/2026** · Fonti: DGMM/jotform ufficiale ★★★★ · Ocean Posse ★★★
 
-Porti ufficiali: Puerto Cortés, Puerto Castilla, La Ceiba, Puerto Lempira, San Lorenzo — ma in pratica si entra dove gli ufficiali conoscono gli yacht: **Coxen Hole (Roatán), East Harbour (Utila), Bonacca (Guanaja), La Ceiba** (Ocean Posse ★★★; Noonsite agg. 2026 ★★★★).
+## Procedura (tutto digitale)
 
-- **Coxen Hole**: immigrazione + Capitaneria sul molo commerciale; procedura rapida, check-in gratuito 2024 (Noonsite/NoForeignLand ★★★)
-- **Utila**: capitaneria e immigrazione nello stesso edificio al molo pubblico (~30 min); funzionari immigrazione non sempre presenti (Noonsite ★★★)
-- **Guanaja**: check-in ~15 min; pre-registrazione online via QR consigliata (NoForeignLand ★★★)
-- Costi: gratuiti a Coxen Hole 2024; fee immigrazione $3/pax riportate altrove; cruising permit legato al visto equipaggio (Noonsite ★★★)
-- Servizio clearance privato Barefoot Cay: $350/barca fino a 4 pax + $50/pax extra +15% tassa (barefootcay.com ★★★★★)
-- **Zarpe internazionale obbligatorio** per uscire (DGMM ★★★★); VHF cruisers: Barefoot Cay Ch 18A (8-16); net attivo sulle Bay Islands
+| Passo | Come |
+|---|---|
+| 1. Aviso de Arribo | jotform DGMM "International Recreational Arrivals", **≥48h prima** |
+| 2. All'arrivo | Contattare la Capitanería competente (Roatán/Utila/Guanaja/La Ceiba…) |
+| 3. Visita ufficiale | DGMM + INM (immigrazione) + DGA (dogana) |
+| 4. Uscita | **Zarpe Internacional Recreativo** sempre via jotform; validità zarpe ≤24h |
 
-**Ultimo aggiornamento: 24/08/2026**
+## Capitanerie di Porto (tel.)
+
+| Porto | Telefono |
+|---|---|
+| **Roatán (French Harbour)** | +504 2445-1262 |
+| Utila | +504 2425-3116 |
+| Guanaja | +504 2453-4321 |
+| La Ceiba | +504 2440-8141 |
+| Puerto Cortés | +504 2665-1309 |
+| San Lorenzo / Amapala (Pacifico) | +504 2795-8643 |
+
+Email capitaneria Roatán: cp.roatan@marinamercante.gob.hn
+
+## Note
+
+- Il primo ingresso deve avvenire in un porto abilitato; poi libera circolazione interna ★★★
+- Overstay: multe consistenti all'uscita ★★★
+- Golfo de Fonseca (Pacifico): coordinare ingresso con Puerto Cortés/San Lorenzo ★★
+
+Ultimo aggiornamento: 25/08/2026

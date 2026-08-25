@@ -1,29 +1,15 @@
 # 08 — Portolano degli ancoraggi
 
-# West End / Half Moon Bay {#anc-westend}
-Boe del marine park; ottimo snorkeling; esposta nei northers — solo con meteo buono; sabbia ~20 ft (SailScanner ★★★; cruisers ★★).
+> ⚠️ Coordinate indicative WGS84 da confermare con carta ufficiale e osservazione in loco.
 
-# French Harbour {#anc-french}
-Marine e mooring; boe mal tenute, fee non riscosse a dic 2023; traffico tour crociere (OFL/blog sli.dk ★★★).
+| Ancoraggio | Lat | Lon | Prof. | Note |
+|---|---|---|---|---|
+| **Roatán — French Harbour** | 16.3200 | -86.4200 | 4-8 m | Baia riparata, capitaneria ★★★ |
+| **Roatán — Port Royal** | 16.3500 | -86.3800 | 4-7 m | Baia storica est, protetta ★★★ |
+| **Roatán — Oak Ridge** | 16.3400 | -86.4000 | 3-6 m | Villaggio su palafitte ★★ |
+| **Roatán — West End / Half Moon Bay** | 16.2900 | -86.5300 | 3-6 m | Comodo ma aperto a N ★★★ |
+| **Roatán — Coxen Hole** | 16.3200 | -86.5200 | 4-6 m | Rifornimenti ★★ |
+| **Utila — harbour** | 16.1000 | -86.9000 | 3-6 m | Davanti al villaggio ★★★ |
+| **Guanaja — Bonacca/El Bight** | 16.4500 | -85.8800 | 4-8 m | Molto riparato ★★★ |
 
-# Port Royal {#anc-portroyal}
-Ex base pirata con Fort George; ingresso dal passaggio in boa luce; 15-40 ft sabbia buon holding, ottimo riparo dagli easterlies (Wander the Blue/Ocean Posse ★★★).
-
-# Oak Ridge & Jonesville Bight {#anc-oakridge}
-Profondi e riparati, holding sabbia 12-40 ft; villaggi sull'acqua ("Venice of Roatán") (Wander the Blue/SailScanner ★★★).
-
-# Calabash Bight {#anc-calabash}
-Acque calme, ottimo holding (Ocean Posse ★★★).
-
-# Utila East Harbour {#anc-utila}
-Unico approdo; holding variabile (erba su sabbia); ancorarsi largo dal track del ferry e dai wake dei dive boat (SailScanner/OFL ★★★).
-
-# Guanaja — El Bight {#anc-elbight}
-10 ft sabbia/erba, protezione eccellente; pizza da Hans' (Noonsite commenti 2023 ★★).
-
-# Cayos Cochinos {#anc-cochinos}
-Riserva HCRF/ICF: fee internazionali **$23/pax**, registrazione obbligatoria, supervisione navy (stayatcayoscochinos ★★★); report Navily 2024 ~$92/2 pax+34 ft/mese ★★; forum OCC: no anchoring + permit $30 + $10/passaporto ★★ — usare le boe dove presenti e pagare i ranger; fonti discordanti sull'ancoraggio libero.
-
-Entrate nelle lagune/bights sempre con sole alto, mai notturno (SailScanner ★★★).
-
-**Ultimo aggiornamento: 24/08/2026**
+Ultimo aggiornamento: 25/08/2026

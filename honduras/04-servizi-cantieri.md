@@ -1,10 +1,12 @@
 # 04 — Servizi, cantieri e manutenzione
 
-- Haul-out strutturato nelle Bay Islands: **DATO MANCANTE** su fonti 2023-26 (genericità su French Harbour) (SailScanner ★★★)
-- Meccanici/fiberglass: elenchi generici senza recapiti verificati — DATO MANCANTE
-- **Diving tecnico**: Utila hub mondiale (16 dive shop), trimix allo Utila Dive Centre; camera iperbarica consortile (utilaguide/Moon ★★★)
-- Prezzi diving: PADI OW $299–375, doppia bottiglia Utila $78 (Moon/SallySees ★★)
+**Ultima verifica: 25/08/2026**
 
-Per lavori seri il riferimento regionale resta Rio Dulce (consenso cruisers ★★★).
+- **Palmetto Bay Plantation (Roatán)**: storico haul-out/travelift delle Bay Islands;
+  verificare disponibilità attuale ★★
+- Meccanica/diving-tech a Roatán West End e Utila: officine piccole per fuoribordo ★★
+- Lavori maggiori, veleria, elettronica specialistica: riferimento regionale =
+  **Rio Dulce (Guatemala)** — fiume interno sicuro per stagione ciclonica ★★★★
+- Ricambi: importazione via USA (Miami/Houston), 1-3 settimane ★★
 
-**Ultimo aggiornamento: 24/08/2026**
+Ultimo aggiornamento: 25/08/2026

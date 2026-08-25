@@ -1,10 +1,14 @@
 # 07 — Provvisioning
 
-- **Eldon's Supermarket** — French Harbour (+ sedi Coxen Hole): tel +504-2455-7715, 7-20 lun-sab, miglior import (roatanyp/shevstrolls ★★★)
-- Ramirez (Sandy Bay/Coxen Hole) · Coconut Tree (frutta West End) · Woody's (Half Moon Bay) · Roa Market liquori con cash-back USD (shevstrolls ★★)
-- Delivery: Eldon's personal shopping ~$15-20; servizio Sompopo apprezzato (Nomad Watch ★★)
-- La Ceiba: provisioning importante indicato dalle guide ma nomi mercados = DATO MANCANTE
-- Acqua: rubinetto NON potabile; garrafón $3; RO ai pontici ($0,10/gal Jonesville, $0,19 Barefoot ★★★★)
-- GPL: ricariche a Jonesville Point e French Harbour ★★★
+**Ultima verifica: 25/08/2026**
 
-**Ultimo aggiornamento: 24/08/2026**
+| Zona | Dove | Note |
+|---|---|---|
+| **Roatán — Coxen Hole** | Eldon's Supermarket + mercato municipale | La spesa completa delle Bay Islands ★★★ |
+| **Roatán — French Harbour** | Pesce fresco dai pescherecci al molo ★★★ |
+| **Utila** | Grocery piccoli, prezzi alti | Base per diving ★★ |
+| **La Ceiba (mainland)** | Grande supermercati | Per cambusa grossa via terra ★★ |
+
+- Acqua in bottiglia o RO; carburante ai dock di French Harbour/Coxen Hole ★★
+
+Ultimo aggiornamento: 25/08/2026

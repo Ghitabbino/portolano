@@ -1,29 +1,14 @@
 # 10 — Ristoranti
 
-# Hole in the Wall {#rist-holeinthewall}
-Jonesville Bight — raggiungibile SOLO in barca (shuttle proprio dalle 12); istituzione cruiser, domenica aragosta/BBQ all-you-can-eat (roatanonline/Ocean Posse ★★★).
+**Ultima verifica: 25/08/2026**
 
-# Sundowners {#rist-sundowners}
-Half Moon Bay, West End — il tramonto per eccellenza, quiz serali (Caribbean Colors ★★).
+| Ristorante | Dove | Note |
+|---|---|---|
+| **Bite on the Beach** | West End, Roatán | Sul molo, cucina fusion ★★ |
+| **Cannibal's Café** | West End, Roatán | Carne/grill locale ★★ |
+| Ristoranti resort French Harbour | Roatán | Level resort ★★ |
+| Utila | Ristoranti lungo il porto | Diving crowd ★★ |
 
-# Cannibal Café {#rist-cannibal}
-West End — miglior messicano, tacos de león (lionfish) (Caribbean Colors ★★).
+DATO MANCANTE: recensioni aggiornate sistematiche.
 
-# Drunken Sailor {#rist-drunkensailor}
-West End — pizza e cucina italiana, aperto tardi ★★.
-
-# Argentinean Grill {#rist-argentinean}
-Half Moon Bay — griglia argentina, tenderloin ~$20 (roatanet ★★).
-
-# Mila del Mar at The Beach House {#rist-miladelmar}
-Half Moon Bay — seafood e tramonto, preferito 2025 (liannandtheo ★★).
-
-# Blue Marlin {#rist-bluemarlin}
-West End — karaoke giovedì, vita notturna ★★.
-
-# Captain's Table {#rist-captainstable}
-Roatan Yacht Club, French Harbour (sito marina ★★★★).
-
-Bonus Guanaja: Mi Casa II (lionfish), Manati's (sabato), pizza da Hans' (Noonsite ★★).
-
-**Ultimo aggiornamento: 24/08/2026**
+Ultimo aggiornamento: 25/08/2026

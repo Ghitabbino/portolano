@@ -1,7 +1,11 @@
 # 09 — Artigiani e negozi nautici
 
-- Chandlery nautico dedicato: **DATO MANCANTE** (rifornimenti seri indicati a Rio Dulce) 
-- Riparazioni motori/fibra: recapiti verificati DATO MANCANTE (CruiserFix generico ★★)
-- Filiera sub ben documentata: 16 dive shop a Utila + PADI 5* CDC Barefoot Cay (utilaguide/barefootcay ★★★)
+**Ultima verifica: 25/08/2026**
 
-**Ultimo aggiornamento: 24/08/2026**
+| Servizio | Dove | Note |
+|---|---|---|
+| Haul-out/travelift | Palmetto Bay Plantation (Roatán) | Verificare operatività ★★ |
+| Meccanica fuoribordo/diving gear | West End Roatán, Utila | Livello base ★★ |
+| Lavori strutturati | **DATO MANCANTE** | Riferimento regionale: Rio Dulce (Guatemala) ★★★★ |
+
+Ultimo aggiornamento: 25/08/2026

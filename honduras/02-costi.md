@@ -1,16 +1,15 @@
 # 02 — Costo della vita
 
-| Prodotto | Prezzo | Fonte |
+**Ultima verifica: 25/08/2026**
+
+| Voce | Costo indicativo | Rank |
 |---|---|---|
-| Diesel | ≈ US$4,80/gal (gen 2026 ~$4,55 reg.) | Seg. Energía via E&N 03/2026 ★★★★ |
-| Benzina regular/super | $4,55 / $5,18 gal | idem |
-| Birra Salva Vida al bar | $2–3 | CitizenDailyPost ★★ |
-| Birra dal supermercato | ~$1,50 | SallySees 2025 ★★ |
-| Baleada / piatto típico | $2–3 / ~$5 | SallySees ★★ |
-| Pasto internazionale | ~$10 · cocktail ~$6 | SallySees ★★ |
+| Cambio | **1 USD ≈ 24,7 Lempiras (HNL)**, tasso stabile | ★★★★ |
+| Formalità DGMM/despacho | tariffe modulate su stazza — **DATO MANCANTE** numerico recente | ★★ |
+| Marina Roatán (West End/French Harbour) | US$ 1,5–3/ft/notte nelle marine strutturate | ★★ |
+| Ristoranti Bay Islands | piatti US$ 8–20 | ★★ |
+| Vita quotidiana locale | bassa (mercato Coxen Hole) | ★★ |
 
-- Taxi/colectivo West End↔West Bay 30–50 HNL; water taxi attivi (Nomad Watch ★★)
-- Ferry La Ceiba–Roatán $29–35 sola andata (SallySees/Nomad Watch ★★)
-- Garrafón acqua demineralizzata 5 gal ~$3 a domicilio (Nomad Watch ★★)
+- Carte accettate nelle marine/turistico; contante nei villaggi ★★★
 
-**Ultimo aggiornamento: 24/08/2026**
+Ultimo aggiornamento: 25/08/2026
