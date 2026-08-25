@@ -136,13 +136,13 @@ OVERVIEWS = [
     ("la-gomera", 28.09, -17.20, [10, 11, 12, 13], {10: 1, 11: 1, 12: 2, 13: 2}),
     ("el-hierro", 27.73, -18.03, [10, 11, 12, 13], {10: 1, 11: 1, 12: 2, 13: 2}),
     ("la-graciosa", 29.23, -13.50, [11, 12, 13, 14], {11: 1, 12: 2, 13: 3, 14: 3}),
-    # ═══ Fix audit 25/08/2026: overview mancanti (regola 6) — scala certificata
-    # Bahamas + dettaglio aumentato su richiesta utente (25/08) ═══
-    ("bahamas", 24.50, -76.00, [6, 7, 8, 9, 10], {6: 1, 7: 2, 8: 3, 9: 2, 10: 3}),
-    ("cuba", 21.60, -79.00, [6, 7, 8, 9, 10], {6: 1, 7: 2, 8: 4, 9: 4, 10: 6}),
-    ("ispaniola", 18.90, -70.70, [7, 8, 9, 10, 11], {7: 1, 8: 2, 9: 3, 10: 5, 11: 6}),
-    ("porto-rico", 18.22, -66.45, [8, 9, 10, 11, 12], {8: 1, 9: 1, 10: 2, 11: 4, 12: 5}),
-    ("giamaica", 18.15, -77.35, [8, 9, 10, 11, 12, 13], {8: 1, 9: 1, 10: 2, 11: 3, 12: 5, 13: 6}),
+    # ═══ Fix audit 25/08/2026 — scala Bahamas. Overview CAPPIATE a zoom basso:
+    # da z≥9 i tasselli arrivano dalle PATCH COSTIERE automatiche sui marker ═══
+    ("bahamas", 24.50, -76.00, [6, 7, 8], {6: 1, 7: 2, 8: 3}),
+    ("cuba", 21.60, -79.00, [6, 7, 8], {6: 1, 7: 2, 8: 3}),
+    ("ispaniola", 18.90, -70.70, [7, 8], {7: 1, 8: 2}),
+    ("porto-rico", 18.22, -66.45, [8, 9], {8: 1, 9: 2}),
+    ("giamaica", 18.15, -77.35, [8, 9], {8: 1, 9: 2}),
     ("cayman", 19.32, -81.25, [9, 10, 11, 12, 13], {9: 1, 10: 1, 11: 2, 12: 3, 13: 3}),
     ("trinidad-tobago", 10.55, -61.30, [9, 10, 11, 12, 13], {9: 1, 10: 2, 11: 3, 12: 5, 13: 5}),
     ("curacao", 12.20, -69.05, [10, 11, 12, 13], {10: 1, 11: 1, 12: 2, 13: 2}),
@@ -188,6 +188,37 @@ RESTAURANTS = [
     ("rist-rayon-soleil", 16.5120, -61.5090),
 ]
 REST_ZOOMS = [15, 16]
+
+# ═══ Patch costiere (regola 9c): da zoom 9 in su i tasselli esistono SOLO
+# attorno agli ancoraggi/marker letti automaticamente dai file .md ═══
+PATCH_ZOOMS = [9, 10, 11, 12, 13]
+PATCH_SPAN = {9: 2, 10: 1, 11: 1, 12: 1, 13: 1}
+
+
+def marker_da_md():
+    """Estrae (slug_mappa, lat, lon) da tutti i data-markers nei .md del sito."""
+    import re
+    import json
+    from pathlib import Path
+    res = []
+    for md in sorted(Path(ROOT).rglob("*.md")):
+        try:
+            t = md.read_text(encoding="utf-8")
+        except Exception:
+            continue
+        for m in re.finditer(r'data-slug="([^"]+)"[^>]*?data-markers=\'([^\']+)\'', t):
+            slug = m.group(1)
+            try:
+                pts = json.loads(m.group(2))
+            except Exception:
+                continue
+            for p in pts:
+                if isinstance(p, (list, tuple)) and len(p) >= 2:
+                    try:
+                        res.append((slug, float(p[0]), float(p[1])))
+                    except (TypeError, ValueError):
+                        continue
+    return res
 
 SOURCES = {
     "sat": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
@@ -250,8 +281,11 @@ STATS = {"ok": 0, "skip": 0, "empty": 0, "fail": 0}
 
 def main():
     want = {a for a in sys.argv[1:] if not a.startswith("-")}
+    patches = marker_da_md()
+    print(f"patch costiere trovate nei .md: {len(patches)}", flush=True)
     if want:
         # modalità mirata: scarica SOLO gli slug indicati (riprendibile, idempotente)
+        visti = set()
         for s in want:
             done = False
             for slug, lat, lon, zooms, span in OVERVIEWS:
@@ -266,8 +300,17 @@ def main():
                 if slug == s:
                     scarica(slug, lat, lon, REST_ZOOMS, SPAN)
                     done = True
+            n = 0
+            for slug, lat, lon in patches:
+                if slug == s and (slug, lat, lon) not in visti:
+                    visti.add((slug, lat, lon))
+                    scarica(f"{slug}", lat, lon, PATCH_ZOOMS, PATCH_SPAN)
+                    n += 1
+                    done = True
             if not done:
-                print(f"{s}: SLUG SCONOSCIUTO", flush=True)
+                print(f"{s}: SLUG SCONOSCIUTO (0 overview, 0 patch)", flush=True)
+            else:
+                print(f"{s}: patch costieri applicati: {n}", flush=True)
         print(STATS)
         return 0
     for slug, lat, lon in ANCHORAGES:
@@ -276,6 +319,12 @@ def main():
         scarica(slug, lat, lon, zooms, span)
     for slug, lat, lon in RESTAURANTS:
         scarica(slug, lat, lon, REST_ZOOMS, SPAN)
+    visti = set()
+    for slug, lat, lon in patches:
+        if (slug, lat, lon) in visti:
+            continue
+        visti.add((slug, lat, lon))
+        scarica(slug, lat, lon, PATCH_ZOOMS, PATCH_SPAN)
     print(STATS)
     return 0
 
