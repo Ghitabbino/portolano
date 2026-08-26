@@ -9,6 +9,8 @@
 <title>SailTropics · Portolano</title>
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 52'%3E%3Ccircle cx='19' cy='20' r='10' fill='%23F0705A'/%3E%3Cpath d='M28 2 C41 13 47 30 44 48 L28 48 Z' fill='%231E5A9E'/%3E%3Cpath d='M6 48 q10 -8 22 -2 t 28 1' stroke='%232BB3A3' stroke-width='6' fill='none' stroke-linecap='round'/%3E%3C/svg%3E">
 <link rel="stylesheet" href="assets/leaflet.css">
+<link rel="stylesheet" href="assets/markercluster.css">
+<link rel="stylesheet" href="assets/markercluster-default.css">
 <style>
 :root { --bg:#0f1720; --panel:#16222e; --ink:#dbe7f1; --muted:#8aa2b5;
         --accent:#4db6ac; --line:#24384a; }
@@ -64,8 +66,9 @@ aside h1 { font-size:16px; margin:0 0 12px; color:var(--accent); }
 .area-card.soon:hover { border-color:var(--line); background:#101b26; }
 .zonelink { font-weight:800; font-size:15.5px; color:var(--accent); margin-top:10px; }
 .zonelink .zic { margin-right:7px; }
-.loc-badge { color:var(--accent); font-weight:800; font-size:26px; display:inline-block; cursor:pointer; text-decoration:none; margin:0 0 10px; }
-.loc-badge:hover { border-bottom:2px solid var(--accent); }
+.loc-badge { color:var(--accent); font-weight:800; font-size:26px;
+             letter-spacing:.02em; margin:0 0 10px; display:inline-block;
+             cursor:pointer; text-decoration:none; border-bottom:2px solid transparent; }
 .loc-badge:hover { border-bottom-color:var(--accent); }
 .loc-badge .bk { font-size:15px; font-weight:700; opacity:.85; }
 .pagelink { font-size:15px; padding-left:20px; line-height:1.45; }
@@ -100,7 +103,7 @@ h2 { border-bottom:1px solid var(--line); padding-bottom:6px; margin-top:34px; f
              padding:18px 16px; cursor:pointer; text-decoration:none; text-align:center; }
 .area-card:hover { border-color:var(--accent); background:#132230; }
 .area-card .ic { font-size:32px; line-height:1; }
-.area-card .nm { font-weight:800; font-size:17px; color:var(--accent); }
+.area-card .nm { font-size:21px; font-weight:800; font-size:17px; color:var(--accent); }
 .area-card .ds { font-size:11.5px; color:var(--accent); opacity:.72; line-height:1.55; }
 .paesi-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(200px,1fr)); gap:12px; margin:14px 0; }
 .pcard { min-width:0; overflow-wrap:anywhere; }
@@ -148,72 +151,9 @@ li { margin:3px 0; }
 .anch-ic{background:none;border:none;}
 .anch-ic .ic{font-size:24px;line-height:26px;text-shadow:0 1px 4px rgba(0,0,0,.65);}
 @media (max-width:800px){ aside{position:static;width:auto;height:auto;} body{flex-direction:column;} }
-
-/* ===== OTTIMIZZATO SMARTPHONE ===== */
-body{display:block;}
-aside{position:fixed;left:0;top:0;bottom:0;width:min(86vw,330px);z-index:2000;
-      transform:translateX(-102%);transition:transform .25s ease;height:100vh;height:100dvh;
-      box-shadow:6px 0 24px rgba(0,0,0,.45);overflow-y:auto;-webkit-overflow-scrolling:touch;}
-aside.open{transform:none;}
-#backdrop{position:fixed;inset:0;background:rgba(4,10,16,.55);z-index:1900;display:none;}
-#backdrop.show{display:block;}
-.burger{position:fixed;top:10px;left:10px;z-index:2100;width:48px;height:48px;border-radius:12px;
-        background:var(--panel);border:1px solid var(--line);color:var(--accent);font-size:23px;
-        display:flex;align-items:center;justify-content:center;cursor:pointer;box-shadow:0 2px 10px rgba(0,0,0,.4);}
-main{padding:70px 12px 44px;}
-h1{font-size:1.28rem;margin-top:24px;}
-h2{margin-top:26px;font-size:1.02rem;padding-bottom:5px;}
-table{min-width:480px;font-size:13.5px;}
-th,td{padding:8px 10px;}
-.tw{-webkit-overflow-scrolling:touch;}
-.mapframe{height:275px;}
-.navlink{padding:11px 12px;font-size:15px;}
-.zonelink{font-size:17px;margin-top:13px;}
-#brand-c{margin:2px 0 14px;gap:2px 10px;}
-#brand-c .bw{font-size:19px;}
-#brand-c .bs{display:none;}
-#tree .titem{padding-top:10px;padding-bottom:10px;font-size:15px;}
-#tree .mac{padding-left:26px;margin-top:12px;}
-#tree .cty{padding-left:42px;}
-#aree-head{padding:9px 10px;font-size:16px;margin-top:4px;}
-.loc-badge{font-size:21px;margin-bottom:8px;}
-.paesi-grid{grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px;}
-.aree-grid{grid-template-columns:1fr 1fr;gap:10px;}
-#navgrid{grid-template-columns:1fr 1fr;gap:10px;}
-#navgrid .fi{font-size:30px;}
-.area-card{padding:14px 12px;}
-.area-card .ic{font-size:26px;}
-.area-card .nm{font-size:15.5px;}
-/* Telefono grande / tablet verticale */
- @media(min-width:601px) and (max-width:800px){
- .mapframe{height:340px;} table{min-width:540px;font-size:14.5px;} h1{font-size:1.5rem;}
- main{padding:74px 20px 44px;} }
-/* TABLET orizzontale / laptop piccolo: barra laterale compatta, niente hamburger */
-@media(min-width:801px) and (max-width:1150px){
- .burger,#backdrop{display:none!important;}
- aside{position:sticky;transform:none;width:240px;height:100vh;height:100dvh;padding:14px 10px;}
- aside h1{font-size:15px;margin:0 0 10px;}
- #search{font-size:13px;padding:7px 9px;}
- .navlink{padding:9px 10px;font-size:13.5px;}
- .pagelink{font-size:14px;padding-left:18px;}
- .zonelink{font-size:15px;margin-top:11px;}
- #tree .titem{padding-top:8px;padding-bottom:8px;font-size:13.5px;}
- #tree .mac{margin-top:10px;}
- main{padding:24px 20px 40px;}
- h1{font-size:1.45rem;} h2{font-size:1rem;}
- table{min-width:600px;font-size:14.5px;}
- th,td{padding:8px 10px;}
- .mapframe{height:360px;}
- .loc-badge{font-size:19px;} }
-/* Desktop ampio: layout classico completo */
-@media(min-width:1151px){
- .burger,#backdrop{display:none!important;}
- aside{position:sticky;transform:none;width:290px;height:100vh;}
- main{padding:28px clamp(14px,2.5vw,44px);} }
 </style>
 </head>
 <body>
-<div id="backdrop" onclick="toggleNav(false)"></div><button class="burger" onclick="toggleNav()" aria-label="Apri menu">☰</button>
 <aside>
   <div id="home-link" style="cursor:pointer;display:flex;align-items:center;gap:9px;margin:0 0 2px">
 <svg viewBox="0 0 64 52" width="42" height="36" aria-hidden="true" style="flex-shrink:0">
@@ -69835,12 +69775,16 @@ function initMaps(root){
       mk0.bindTooltip(el.dataset.name||'Posizione',{permanent:true,direction:'top',offset:[0,-9],className:'anch-label'}).addTo(m);
     }else{
       let la=[lat],lo=[lon];
+      const mks=[];
       if(hasPts){la=la.concat(pts.map(p=>p[0]));lo=lo.concat(pts.map(p=>p[1]));}
       if(hasZones)zones.forEach(z=>{const r=z[2]/111320,c=Math.cos(z[0]*Math.PI/180);la.push(z[0]+r,z[0]-r);lo.push(z[1]+r/c,z[1]-r/c);});
       const pl=Math.max(.015,(Math.max(...la)-Math.min(...la))*.06+.008);
       const po=Math.max(.025,(Math.max(...lo)-Math.min(...lo))*.06+.012);
-      m.fitBounds([[Math.min(...la)-pl*.5,Math.min(...lo)-po*.5],[Math.max(...la)+pl*.5,Math.max(...lo)+po*.5]]);
       HOMEB=[[Math.min(...la)-pl*.5,Math.min(...lo)-po*.5],[Math.max(...la)+pl*.5,Math.max(...lo)+po*.5]];
+      m.fitBounds(HOMEB);
+      const span=Math.max(Math.max(...la)-Math.min(...la),(Math.max(...lo)-Math.min(...lo))*0.9);
+      const fl=span>0.6?0:(span>0.25?9:12);
+      if(fl&&m.getZoom()<fl)m.setZoom(fl);
       m.setMaxBounds([[Math.min(...la)-pl,Math.min(...lo)-po],[Math.max(...la)+pl,Math.max(...lo)+po]]);
       if(hasZones)zones.forEach(z=>{
         L.circle([z[0],z[1]],{radius:z[2],color:z[3]||'#d32f2f',weight:4,dashArray:'6 4',fillColor:z[3]||'#d32f2f',fillOpacity:.25})
@@ -69849,7 +69793,8 @@ function initMaps(root){
       if(hasPts)pts.forEach(p=>{
         const isRist=/ristorant/i.test((root.querySelector('h1')||{textContent:''}).textContent||'');
         const ristIcon=L.divIcon({className:'rist-ic',html:'<div style="background:#ff6f00;border:2px solid #fff;border-radius:50%;width:30px;height:30px;display:flex;align-items:center;justify-content:center;font-size:18px;filter:drop-shadow(0 2px 6px rgba(0,0,0,.85))">🍽️</div>',iconSize:[30,30],iconAnchor:[15,15]});
-        const mk=(isAnc?L.marker([p[0],p[1]],{icon:ancIcon}):(isRist?L.marker([p[0],p[1]],{icon:ristIcon}):L.circleMarker([p[0],p[1]],{radius:8,color:'#ff5252',weight:3,fillColor:'#ff5252',fillOpacity:.85}))).addTo(m);
+        const mk=(isAnc?L.marker([p[0],p[1]],{icon:ancIcon}):(isRist?L.marker([p[0],p[1]],{icon:ristIcon}):L.circleMarker([p[0],p[1]],{radius:8,color:'#ff5252',weight:3,fillColor:'#ff5252',fillOpacity:.85}));
+        mks.push(mk);
         if(p[3]){
           mk.on('add',()=>{if(mk._path)mk._path.style.cursor='pointer';});
           mk.bindTooltip(p[2]+' — clic per aprire la scheda',{direction:'top',offset:[0,-9],className:'anch-label'});
@@ -69875,7 +69820,14 @@ function initMaps(root){
     const gSat=L.layerGroup([esriOn,satLo]).addTo(m);
     const gBase=L.layerGroup([cartoOn,baseLo]);
     const gSea=L.layerGroup([seaOn,seaLo]);
-    L.control.layers({'Satellitare':gSat,'Carta nautica':gBase},{'Segnali nautici':gSea},{collapsed:false}).addTo(m);
+    let stacked=false;
+      for(let i=0;i<mks.length&&!stacked;i++)for(let j=i+1;j<mks.length;j++){
+        if(m.project(mks[i].getLatLng(),13).distanceTo(m.project(mks[j].getLatLng(),13))<18){stacked=true;break}}
+      if(stacked&&mks.length>2){
+        const g=L.markerClusterGroup({maxClusterRadius:42,showCoverageOnHover:false,spiderfyDistanceMultiplier:1.6});
+        g.addLayers(mks);g.addTo(m);
+      } else mks.forEach(k=>k.addTo(m));
+      L.control.layers({'Satellitare':gSat,'Carta nautica':gBase},{'Segnali nautici':gSea},{collapsed:false}).addTo(m);
     const HM=L.Control.extend({options:{position:'topleft'},onAdd(){
       const d=L.DomUtil.create('div','leaflet-bar');
       const a=L.DomUtil.create('a','',d);
@@ -69899,7 +69851,6 @@ document.getElementById('home-link').addEventListener('click',()=>{
   show('p2');
 });
 document.getElementById('navtitle').addEventListener('click',()=>{go(parentOf(state)||'');});
-document.addEventListener('click',e=>{const bk=e.target.closest('[data-back]');if(bk){e.preventDefault();go(parentOf(state)||'');}});
 document.addEventListener('click',e=>{
   const bk=e.target.closest('[data-back]');
   if(bk){e.preventDefault();go(parentOf(state)||'');}
@@ -69957,14 +69908,7 @@ document.getElementById('search').addEventListener('input',e=>{
 });
 show('p1');
 </script>
-<script>
-function toggleNav(force){const a=document.querySelector('aside'),b=document.getElementById('backdrop');
- const open=(force!==undefined)?force:!a.classList.contains('open');
- a.classList.toggle('open',open);b.classList.toggle('show',open);}
-document.querySelectorAll('aside a:not(.reg):not(.mac)').forEach(a=>a.addEventListener('click',()=>toggleNav(false)));
-document.addEventListener('keydown',e=>{if(e.key==='Escape')toggleNav(false);});
-</script>
 <script src="assets/leaflet.js"></script>
-<script>window.onerror=function(m,u,l){try{document.title='ERRORE: '+m+' @'+l;}catch(x){}};</script>
+<script src="assets/markercluster.js"></script>
 </body>
 </html>
