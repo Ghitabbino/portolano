@@ -48,17 +48,21 @@
 | >10,00 – 12,00 m | **€33** | 11,50 m → €33 |
 | **>12,00 m** | **€8 × LOA** | 12,01 m → €96,08 · 15,25 m → €122,00 · 18 m → €144 · 24 m → €192 |
 
-Sconti: -20% se pagamento annuale anticipato; -30% per disarmo/inattività documentata; esenzione per barche a terra/in sequestro/tradizionali — vedi FAQ AADE.
+**Costo al mese — inserisci numero mesi.** Sconti:
+- **-20% solo con pagamento in unica soluzione annuale anticipata** (12 mesi pagati insieme); se paghi mese per mese NON si applica lo sconto.
+- -30% per disarmo/inattività documentata; esenzione per barche a terra/in sequestro/tradizionali — vedi FAQ AADE.
+
+> ⚠️ **Allerta annualità:** la tariffa scontata **vale solo se paghi 12 mesi in unica soluzione** sul portale eTEPAI. Pagamenti rateali mensili = tariffa piena ogni mese.
 
 **Dove pagare (unico sito ufficiale):** **[https://www1.aade.gr/aadeapps2/etepai/](https://www1.aade.gr/aadeapps2/etepai/)** → registra account → *New application* → paga con e-Paravolo → scarica ricevuta PDF (obbligatoria a bordo). Assistenza my1521 tel **1521** (gratis, 07:00–20:00) o my1521 digitale. [AADE](https://www.aade.gr/en/etepai) ★★★★★
 
 <div id="tepai-calc" style="border:1px solid #4db6ac; border-radius:12px; padding:14px 16px; background:#0b131b; margin:14px 0;">
-<b style="color:#4db6ac;">Calcolatore TEPAI 2026 — inserisci LOA fuori tutto</b><br>
+<b style="color:#4db6ac;">Calcolatore TEPAI 2026 — inserisci LOA fuori tutto e mesi</b><br>
 <input id="tepai-loa" type="number" step="0.01" min="0" placeholder="es. 12.59" style="width:140px; padding:8px; margin:8px 8px 8px 0; border-radius:8px; border:1px solid #24384a; background:#16222e; color:#dbe7f1;">
-<select id="tepai-mesi" style="padding:8px; border-radius:8px; border:1px solid #24384a; background:#16222e; color:#dbe7f1;"><option value="1">1 mese</option><option value="2">2 mesi</option><option value="3">3 mesi</option><option value="6">6 mesi</option><option value="12">12 mesi (-20% se annuale)</option></select>
+<select id="tepai-mesi" style="padding:8px; border-radius:8px; border:1px solid #24384a; background:#16222e; color:#dbe7f1;"><option value="1">1 mese</option><option value="2">2 mesi</option><option value="3">3 mesi</option><option value="6">6 mesi</option><option value="12">12 mesi — pagamento unico (-20%)</option></select>
 <button onclick="calcTepai()" style="padding:8px 14px; margin-left:8px; border-radius:8px; border:none; background:#4db6ac; color:#06231f; font-weight:700; cursor:pointer;">Calcola</button>
 <div id="tepai-out" style="margin-top:10px; color:#dbe7f1; font-weight:600;"></div>
-<div style="font-size:12px; color:#8aa2b5; margin-top:6px;">Tariffe AADE 23/01/2026 Q16 · >12m: LOA×€8/mese · Annuale -20% = ×9,6 mesi · Esente ≤7,00 m</div>
+<div style="font-size:12px; color:#8aa2b5; margin-top:6px;">Tariffe AADE 23/01/2026 Q16 · >12m: LOA×€8/mese · 12 mesi unico = ×9,6 mesi (-20%) · Esente ≤7,00 m · Il costo è al mese: imposta i mesi per vedere il totale</div>
 </div>
 <script>
 function calcTepai(){
@@ -73,9 +77,11 @@ function calcTepai(){
   else if(loa>10 && loa<=12) mensile=33;
   else mensile=loa*8;
   var totale=mensile*mesi;
-  if(mesi==12) totale=mensile*12*0.8;
+  var sconto=false;
+  if(mesi==12){ totale=mensile*12*0.8; sconto=true; }
   var txt='LOA '+loa.toFixed(2)+' m → €'+mensile.toFixed(2)+' /mese × '+mesi+' mesi = <span style=color:#ffd54f>€'+totale.toFixed(2)+'</span>';
-  if(mesi==12) txt+=' <span style=color:#8aa2b5>(12 mesi con -20% annuale)</span>';
+  if(sconto) txt+=' <span style=color:#ffb74d>⚠️ -20% solo con pagamento unico 12 mesi</span>';
+  else if(mesi>1) txt+=' <span style=color:#8aa2b5>(senza sconto — paga mese per mese)</span>';
   txt+='<br><span style=font-size:12px;color:#8aa2b5>Pagamento su <a href=https://www1.aade.gr/aadeapps2/etepai/ target=_blank>eTEPAI AADE</a> — ricevuta a bordo obbligatoria</span>';
   out.innerHTML=txt;
 }

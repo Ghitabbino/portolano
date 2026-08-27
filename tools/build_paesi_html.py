@@ -32,7 +32,8 @@ LABELS_IT = {'cabo-verde': 'Capo Verde', 'costarica': 'Costa Rica',
              'virgin-islands': 'Isole Vergini',
              'trinidad-tobago': 'Trinidad e Tobago', 'turks-caicos': 'Turks e Caicos',
              'st-kitts-nevis': 'St-Kitts e Nevis', 'st-eustatius': 'Sint Eustatius',
-             'antigua-barbuda': 'Antigua e Barbuda', 'saint-martin': 'Saint-Martin/Sint Maarten'}
+             'antigua-barbuda': 'Antigua e Barbuda', 'saint-martin': 'Saint-Martin/Sint Maarten',
+             'bosnia-erzegovina': 'Bosnia-Erzegovina'}
 
 REGIONE_PER_PAESE = {
     # Caraibi
@@ -51,7 +52,14 @@ REGIONE_PER_PAESE = {
     'cabo-verde': 'Atlantico', 'canarie': 'Atlantico', 'madeira': 'Atlantico', 'azzorre': 'Atlantico',
     # Pacifico
     'costarica': 'Pacifico',
-    # Mediterraneo (futuro)
+    # Mediterraneo
+    'spagna': 'Mediterraneo', 'italia': 'Mediterraneo', 'francia': 'Mediterraneo', 'grecia': 'Mediterraneo',
+    'slovenia': 'Mediterraneo', 'croazia': 'Mediterraneo', 'bosnia-erzegovina': 'Mediterraneo',
+    'montenegro': 'Mediterraneo', 'albania': 'Mediterraneo',
+    'turchia': 'Mediterraneo', 'cipro': 'Mediterraneo', 'malta': 'Mediterraneo',
+    'tunisia': 'Mediterraneo', 'libia': 'Mediterraneo', 'egitto': 'Mediterraneo',
+    'libano': 'Mediterraneo', 'siria': 'Mediterraneo', 'israele': 'Mediterraneo',
+    'marocco': 'Mediterraneo', 'algeria': 'Mediterraneo', 'monaco': 'Mediterraneo',
 }
 
 REGIONI_ORDINE = ['Caraibi', 'Atlantico', 'Pacifico', 'Mediterraneo', 'Mar Rosso', 'Oceano Indiano']
@@ -94,8 +102,26 @@ MACRO_CARAIBI = {
     'venezuela': 'Coste dell’America Centrale',
 }
 
+# Bacini Mediterraneo (27/08/2026) — livello intermedio tra area e paese
+BACINO_MEDITERRANEO = {
+    'spagna': 'Bacino Occidentale', 'francia': 'Bacino Occidentale', 'monaco': 'Bacino Occidentale',
+    'italia': 'Bacino Centrale', 'slovenia': 'Bacino Centrale', 'croazia': 'Bacino Centrale',
+    'bosnia-erzegovina': 'Bacino Centrale', 'montenegro': 'Bacino Centrale', 'albania': 'Bacino Centrale',
+    'malta': 'Bacino Centrale',
+    'grecia': 'Bacino Orientale', 'turchia': 'Bacino Orientale', 'cipro': 'Bacino Orientale',
+    'siria': 'Bacino Orientale', 'libano': 'Bacino Orientale', 'israele': 'Bacino Orientale',
+    'marocco': 'Nord Africa', 'algeria': 'Nord Africa', 'tunisia': 'Nord Africa',
+    'libia': 'Nord Africa', 'egitto': 'Nord Africa',
+}
+BACINO_ORDINE = ['Bacino Occidentale', 'Bacino Centrale', 'Bacino Orientale', 'Nord Africa']
+BACINO_ICONA = {'Bacino Occidentale': '🌅', 'Bacino Centrale': '🏛️', 'Bacino Orientale': '🕌', 'Nord Africa': '🏜️'}
+
 # Bandiere per le tessere isola del menu centrale
 BANDIERE = {
+    'italia': '🇮🇹', 'francia': '🇫🇷', 'grecia': '🇬🇷', 'slovenia': '🇸🇮', 'croazia': '🇭🇷',
+    'bosnia-erzegovina': '🇧🇦', 'montenegro': '🇲🇪', 'albania': '🇦🇱',
+    'turchia': '🇹🇷', 'cipro': '🇨🇾', 'malta': '🇲🇹', 'tunisia': '🇹🇳', 'libia': '🇱🇾', 'egitto': '🇪🇬',
+    'libano': '🇱🇧', 'siria': '🇸🇾', 'israele': '🇮🇱', 'marocco': '🇲🇦', 'algeria': '🇩🇿', 'monaco': '🇲🇨',
     'anguilla': '🇦🇮', 'antigua-barbuda': '🇦🇬', 'aruba': '🇦🇼', 'azzorre': '🇵🇹',
     'bahamas': '🇧🇸', 'barbados': '🇧🇧', 'belize': '🇧🇿', 'bonaire': '🇧🇶',
     'cabo-verde': '🇨🇻', 'canarie': '🇪🇸', 'cayman': '🇰🇾', 'costarica': '🇨🇷',
@@ -104,8 +130,9 @@ BANDIERE = {
     'haiti': '🇭🇹', 'madeira': '🇵🇹', 'repubblica-dominicana': '🇩🇴', 'martinica': '🇲🇶', 'montserrat': '🇲🇸',
     'nicaragua': '🇳🇮', 'panama': '🇵🇦', 'porto-rico': '🇵🇷', 'saba': '🇳🇱',
     'saint-barth': '🇧🇱', 'saint-martin': '🇲🇫', 'santa-lucia': '🇱🇨',
-    'st-eustatius': '🇳🇱', 'st-kitts-nevis': '🇰🇳', 'trinidad-tobago': '🇹🇹',
+    'st-eustatius': '🇳🇱', 'st-kitts-nevis': '🇰🇳',     'trinidad-tobago': '🇹🇹',
     'turks-caicos': '🇹🇨', 'venezuela': '🇻🇪', 'virgin-islands': '🇻🇮',
+    'spagna': '🇪🇸',
 }
 
 countries = [] # (chiave paese, id copertina)
@@ -137,6 +164,11 @@ ZONA_ICONA = {
     'grenadine/mayreau': '⛱️', 'grenadine/st-vincent': '🎬',
     'grenadine/tobago-cays': '🐢', 'grenadine/union-island': '🪁',
     'panama/canale': '🚢', 'panama/san-blas': '🐬',
+    'italia/mar-ligure': '⚓', 'italia/tirreno-settentrionale': '🏝️',
+    'italia/tirreno-centrale': '🏛️', 'italia/tirreno-meridionale': '🌋',
+    'italia/ionio': '🐬', 'italia/adriatico': '⛵',
+    'grecia/cicladi': '🏝️', 'grecia/sporadi': '🌲', 'grecia/ionie': '🐬',
+    'grecia/dodecaneso': '🏛️', 'grecia/golfo-saronico': '⚓', 'grecia/egeo-settentrionale': '⛵',
 }
 zona_icons={}
 
@@ -334,6 +366,12 @@ for reg in REGIONI_ORDINE:
                 for m in MACRO_ORDINE
                 if any(MACRO_CARAIBI.get(k) == m for k in paesi_reg)]
         diretti = [k for k in paesi_reg if k not in MACRO_CARAIBI]
+    elif reg == 'Mediterraneo':
+        subs = [{'k': f'Mediterraneo/{b}', 'l': b, 'i': BACINO_ICONA.get(b, '⛵'),
+                 'p': [k for k in paesi_reg if BACINO_MEDITERRANEO.get(k) == b]}
+                for b in BACINO_ORDINE
+                if any(BACINO_MEDITERRANEO.get(k) == b for k in paesi_reg)]
+        diretti = [k for k in paesi_reg if k not in BACINO_MEDITERRANEO]
     else:
         subs, diretti = [], paesi_reg
     # Mediterraneo: niente paesi ancora → includiamo comunque come "in arrivo"
@@ -347,11 +385,12 @@ ALBERO = {
     'cover': {k: pid for k, pid in countries},
     'lbl': {k: paese_label(k) for k, _ in countries},
     'flag': {k: BANDIERE.get(k, '🏝️') for k, _ in countries},
-    'mlbl': {f'Caraibi/{m}': m for m in MACRO_ORDINE},
+    'mlbl': {**{f'Caraibi/{m}': m for m in MACRO_ORDINE}, **{f'Mediterraneo/{b}': b for b in BACINO_ORDINE}},
     'zona': zona_icons,
-    'macroOf': {k: m for k, m in MACRO_CARAIBI.items()
-                if country_to_region.get(k) == 'Caraibi'},
+    'macroOf': {**{k: m for k, m in MACRO_CARAIBI.items() if country_to_region.get(k) == 'Caraibi'},
+                **{k: b for k, b in BACINO_MEDITERRANEO.items() if country_to_region.get(k) == 'Mediterraneo'}},
     'regionOf': {**{f'Caraibi/{m}': 'Caraibi' for m in MACRO_ORDINE},
+                 **{f'Mediterraneo/{b}': 'Mediterraneo' for b in BACINO_ORDINE},
                  **{k: r for k, r in country_to_region.items()}},
 }
 
