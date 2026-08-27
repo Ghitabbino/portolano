@@ -1,7 +1,7 @@
 # English Harbour (Freeman) — ancoraggio {#anc-english-harbour}
 
 [← Tutti gli ancoraggi](../08-ancoraggi.md)
-**17°00.5′N 61°45.8′W**
+**17°00'15" N 61°45'49" W** ★★★
 
 | Campo | Dettaglio |
 |---|---|
@@ -13,7 +13,7 @@
 | **Pericoli** | Mareggiata NE; scogli ingresso (Pillars of Hercules); Sailing Week = pieno |
 | **A terra** | Nelson's Dockyard UNESCO |
 
-<div class="mapframe" data-slug="anc-english-harbour" data-lat="17.008" data-lon="-61.763"></div>
+<div class="mapframe" data-slug="anc-english-harbour" data-lat="17.00425" data-lon="-61.76365"></div>
 *Mappa offline English Harbour (Freeman) — zoom con i pulsanti +/−; menu in alto a destra per Carta nautica e Segnali*
 
 Ultimo aggiornamento: 23/08/2026
