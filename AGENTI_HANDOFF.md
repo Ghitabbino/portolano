@@ -1,7 +1,7 @@
 # 🤖 HANDOFF AGENTI — Portolano Nautico
 
 > File interno di coordinamento tra agenti AI. NON pubblicare, NON copiare in `paesi/`.
-> Ultimo aggiornamento: 22/08/2026
+> Ultimo aggiornamento: 27/08/2026 — cristallizzato pubblicato 8fa7b4f
 
 ---
 
@@ -88,6 +88,22 @@ python3 tools/download_mappe.py       # tasselli mappa offline
       deve funzionare su TUTTA la costa, l'interno non serve).
     • TOOL: `tools/download_mappe.py` estrae automaticamente i marker dai .md
       e scarica sia le patch costiere sia i tasselli dettaglio delle schede.
+10. BADGE PAESE = TASTO INDIETRO (nuova 25/08/2026): in OGNI pagina il nome
+    del paese sopra il titolo (loc-badge, es. "← Bahamas") è GRANDE (26px,
+    21px mobile) e CLICCABILE → torna indietro di un livello. Generale per
+    tutti i paesi e pagine future; non rimuovere né rimpicciolire il badge.
+11. NOTE PER AGENTI MAI SULLA WIKI (nuova 25/08/2026): le istruzioni di
+    lavoro (monitoraggio mensile con fonti thecssn.org/stampa/voyage.gc.ca/
+    gov.uk/travel.state.gov/gruppi FB, checklist agente, promemoria build)
+    stanno SOLO qui nell'handoff — VIETATO pubblicarle nelle pagine .md del
+    sito o lasciarle visibili agli umani. Il monitoraggio mensile di ogni
+    paese resta compito degli agenti a ogni controllo periodico.
+12. CONTINUITÀ E AUTONOMIA AGENTI — REGOLA GENERALE (nuova 27/08/2026, decisione finale utente, vale per TUTTI gli agenti):
+    • **Mai fermarsi**: l'agente NON si ferma mai spontaneamente. Va avanti nello svolgere i compiti assegnati (coda C1-C7, verifica critica, audit, tasselli, build) fino a esaurimento o fino a comando esplicito di STOP. Comandi di stop = `stop` · `fermo` · `fermati` · `pausa` · `annulla` · `abort` o qualsiasi sinonimo con questo senso.
+    • **Blocco per autorizzazione/domanda senza risposta**: se manca un'autorizzazione (push, cancellazione, costo, API) o non arriva risposta a una domanda posta all'utente, l'agente NON attende in idle → **salta il compito bloccato, passa al successivo in coda** e continua. Il compito saltato resta in `CODA DI LAVORO` con annotazione `⚠️ BLOCCATO — manca autorizzazione X`.
+    • **Informazione prioritaria al rientro**: appena interrogato dall'utente (qualsiasi messaggio), l'agente con **massima priorità** informa subito: lista compiti non portati a termine, motivo del blocco, autorizzazioni mancanti, cosa serve per sbloccare. Solo dopo riprende il lavoro.
+    • **PC in standby / chiusura sessione**: l'agente deve rendere il lavoro **resistente allo standby**: ogni avanzamento va committato localmente (`git commit`), i download lunghi vanno in `nohup`/`screen`, i build lasciano artefatti su disco (`paesi.html`, `paesi-mobile.html`, `BACKUP-*`, tag `cristallizzato-*`). Al risveglio l'agente riprende automaticamente dal punto lasciato, senza chiedere.
+    • Vietato interpretare il silenzio come stop.
 
 ## ✅ COMPLETATO (non rifare)
 
