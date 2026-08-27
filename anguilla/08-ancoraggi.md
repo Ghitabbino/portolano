@@ -7,7 +7,8 @@
 | 1 | [Road Bay (Sandy Ground)](ancoraggi/anc-road-bay.md) | ★★★ | Sabbia morbida | 3–5 m | No |
 | 2 | [Crocus Bay](ancoraggi/anc-crocus-bay.md) | ★★★ | Sabbia | 4–7 m | Boe obbligatorie a Little Bay ⚠️ |
 
-
+<div class="mapframe" data-lat="18.21" data-lon="-63.08" data-markers='[[18.19930,-63.09438,"Road Bay (Sandy Ground)","anc-road-bay"],[18.2200,-63.0700,"Crocus Bay","anc-crocus-bay"]]' data-zoom="12"></div>
+*Cartina generale — clicca l'àncora gialla per aprire la scheda di dettaglio · zoom fino alla baia*
 
 **Ultimo aggiornamento: 23/08/2026**
 
