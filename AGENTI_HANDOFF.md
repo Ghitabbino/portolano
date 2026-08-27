@@ -30,10 +30,15 @@ python3 tools/download_mappe.py       # tasselli mappa offline
 
 1. **Prima l'italiano completo-definitivo-senza-errori, poi le traduzioni.**
 2. Struttura pagine = standard MARTINICA (titoli esatti: 01 Clearance doganale
-   della barca · 02 Costo della vita · 03 Porti e marine · 04 Servizi, cantieri
-   e manutenzione · 05 Stagionalità e meteo · 06 Sicurezza · 07 Provvisioning ·
-   08 Portolano degli ancoraggi · 09 Artigiani e negozi nautici · 10 Ristoranti;
-   schede ristorante = `# Nome` senza numero; schede ancoraggio = `# Nome {#anc-slug}`).
+    della barca · 02 Costo della vita · 03 Porti e marine · 04 Servizi, cantieri
+    e manutenzione · 05 Stagionalità e meteo · 06 Sicurezza · 07 Provvisioning ·
+    08 Portolano degli ancoraggi · 09 Artigiani e negozi nautici · 10 Ristoranti;
+    schede ristorante = `# Nome` senza numero; schede ancoraggio = `# Nome {#anc-slug}`).
+2b. STANDARD MARTINICA — OBIETTIVO QUANTITATIVO E DI LAYOUT (nuova 27/08/2026, vale per TUTTI gli agenti — layout + quantità da replicare):
+    • **Layout obbligatorio = MARTINICA**: 11 file 00-10 con titoli esatti + struttura interna come in `paesi/martinica/*.md` (vedi "Formato standard per paese" a fondo file); 08 con sezioni fisse `Regole generali` → `Tabella riassuntiva` → `Mappa generale` (`data-markers` 4 campi) → `Schede {#anc-*}` con minimappa 12-15 → `Cartografia ufficiale` → `Checklist`; 10 con `Legenda` → `Mappa unica` → `Griglia` → `Schede rist-*` con minimappa.
+    • **Quantità di riferimento MARTINICA** (misurata 27/08/2026): 00=49 righe · 01=71 · 02=68 · 03=93 · 04=43 · 05=49 · 06=93 · 07=51 · 08=86 · 09=56 · 10=44 → **totale ~703 righe** per le 11 pagine principali + **10 schede ancoraggio** (~20 righe cad.) + **32 schede ristorante** (~26 righe cad.) → **totale paese ~1.700 righe**. Densità fonti: **1 fonte ogni 2–3 righe** (rank ★★★★★/★★★★ per clearance/sicurezza), tabelle tutte citate.
+    • **Obiettivo per ogni altra isola**: raggiungere **stesse sezioni, stesse tabelle, stessa densità fonti e stessa copertura mappe** di Martinica. Audit `tools/audit_uniformita.py` deve tendere a **0 deviazioni**; `tools/deep_audit.py` **0 DATO MANCANTE evitabile** (DM ammesso solo se realmente inesistente su fonte attendibile). Guadalupa è il secondo campione certificato identico a Martinica.
+    • **Blocco minimo pubblicabile**: 00-10 non vuoti, 08 con tabella+cartina verificata (≥2 punti reali), 06 con valutazione 0-5 + emergenze corrette (112/911 ecc.), almeno 1 scheda anc-* con coordinate WGS84 verificate. Sotto questa soglia il paese resta `⚠️ BLOCCATO` in coda.
 3. **VIETO dati inventati**: se non verificato → `**DATO MANCANTE**`.
 3b. **VIETO copy-paste dalle fonti** (Noonsite, Waterway Guide, gov, ecc.): le informazioni
    si **riformulano sempre in italiano originale**; della fonte si riporta solo nome + link +
