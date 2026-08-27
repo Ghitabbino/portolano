@@ -117,6 +117,10 @@ python3 tools/download_mappe.py       # tasselli mappa offline
     • **Ogni step completato** (singolo file, singola isola, singolo batch verifica) → **report immediato all'utente** con: cosa fatto, file/commit, gap Martinica residuo, prossimo step.
     • **Ogni 30 minuti** di lavoro continuato senza step concluso → **report di avanzamento** anche se parziale: dove sono, % completamento, eventuali blocchi/autorizzazioni mancanti.
     • Formato: breve, a punti, con `file:linea` e commit hash. Vietato lavorare in silenzio oltre 30 min.
+14. RICERCA RISTORANTI — ESTENSIONE AI SITI LOCALI (nuova 27/08/2026, decisione finale utente, vale per TUTTI gli agenti):
+    • Oltre a TripAdvisor/Google/TheFork, **estendere sempre la ricerca recensioni ai siti locali del paese** (es. guide locali, blog food locali, giornali, portali turismo ufficiali, associazioni ristoratori, Facebook/Instagram locali).
+    • Per ogni ristorante riportare: nome, cucina, fascia €, recensioni locali (fonte + data + rank ★), link al sito locale se esiste.
+    • Vietato inventare recensioni — se non trovate su siti locali → `**DATO MANCANTE**` per recensioni, ma il ristorante resta con scheda base + mappa.
 
 ## ✅ COMPLETATO (non rifare)
 
