@@ -49,25 +49,24 @@ python3 tools/download_mappe.py       # tasselli mappa offline
    Capo Verde **132/130/131**.
 6. NO blocchi `<div class="mapframe">` dove non esistono tasselli in `paesi/mappe/<slug>/`.
 7. Prima riga file: `# NN — Titolo`; ultima riga: data aggiornamento.
-8. Menu laterale ad ALBERO (25/08/2026): 🌍 Aree → area (macro-zone solo Caraibi:
-   Lucayano, Grandi Antille, Soprav. Settentr., Soprav. Merid., Sottovento,
-   Occidentali, Canale/Costa, Coste A.C.) → isola → pagine in bianco.
-   Griglia centrale specchio del menu (tessere icone/bandiere, testi verdi centrati).
-   Gerarchia in VERDE accent (#4db6ac, stesso del logo) sia a sinistra che al centro;
-   bianco solo per voci contenuto. Disclaimer home + coordinate indicative su ogni 08.
-   Barra freccia indietro fissa in alto: mostra il LIVELLO CORRENTE (es. "← Mar dei
-   Caraibi") e sale di un livello al click; solo 🌍 Aree/breadcrumb riporta agli oceani.
-   Ispaniola divisa in Repubblica Dominicana e Haiti (24/08 dati ereditati, da verificare).
-9. CARTINE & COORDINATE (nuova 25/08/2026, vale per TUTTI gli agenti):
-   - Ogni cartina deve mostrare almeno DUE PUNTI REALI verificati
-     (es. àncora dell'ancoraggio + un riferimento a terra: molo, faro, marina, pontile).
-   - I marker degli ANCORAGGI stanno SOLO IN MARE, mai a terra: verifica
-     sulla vista satellitare prima di inserire ogni coordinata.
-   - Coordinate sempre datum WGS84, espresse in gradi-minuti-secondi
-     (formato 14°28'32" N 61°02'15" W); il build genera il rendering DMS
-     automaticamente dagli attributi decimale data-lat/data-lon del mapframe.
-   - MAI coordinate inventate: se non verificate su fonte attendibile →
-     `**DATO MANCANTE**` (vale anche per i pin delle cartine).
+8. Menu laterale ad ALBERO (25/08/2026, aggiornato 27/08/2026 Mediterraneo): 🌍 Aree → area → isola → pagine in bianco.
+    • **Caraibi** (macro-zone: Lucayano, Grandi Antille, Soprav. Settentr., Soprav. Merid., Sottovento, Occidentali, Canale/Costa, Coste A.C.) → isola → 00-10.
+    • **Mediterraneo** (nuova 27/08/2026): **Spagna** → **Francia** → **Italia** suddivisa in *Mar Ligure, Tirreno Settentrionale, Tirreno Centrale, Tirreno Meridionale, Ionio, Adriatico* → poi **ogni altro stato** (Slovenia, Croazia, Montenegro, Albania, Turchia, Cipro, Malta, Tunisia, ecc.) → **Grecia** suddivisa in *Cicladi, Sporadi, Ionie, Dodecaneso, Golfo Saronico, Egeo Settentrionale*.
+    Griglia centrale specchio del menu (tessere icone/bandiere, testi verdi centrati).
+    Gerarchia in VERDE accent (#4db6ac, stesso del logo) sia a sinistra che al centro;
+    bianco solo per voci contenuto. Disclaimer home + coordinate indicative su ogni 08.
+    Barra freccia indietro fissa in alto: mostra il LIVELLO CORRENTE (es. "← Mar dei
+    Caraibi" o "← Mediterraneo → Italia → Tirreno Centrale") e sale di un livello al click; solo 🌍 Aree/breadcrumb riporta agli oceani.
+    Ispaniola divisa in Repubblica Dominicana e Haiti (24/08 dati ereditati, da verificare).
+9. CARTINE & COORDINATE (nuova 25/08/2026, aggiornata 27/08/2026 "sempre in mezzo al mare", vale per TUTTI gli agenti):
+    - Ogni cartina deve mostrare almeno DUE PUNTI REALI verificati
+      (es. àncora dell'ancoraggio + un riferimento a terra: molo, faro, marina, pontile).
+    - I marker degli ANCORAGGI stanno **SEMPRE IN MEZZO AL MARE** (come da esempio https://pdt-attachments-explains-instructional.trycloudflare.com/paesi.html valido per tutti): verifica sulla vista satellitare che il pin sia **in acqua ben al centro della rada/baia, mai a terra e mai a miglia dalla costa** (entro l'area di ancoraggio reale, tipicamente 100–400 m dalla riva a seconda della baia, profondità 3–10 m). Controllo uno-per-uno prioritario.
+    - Coordinate sempre datum WGS84, espresse in gradi-minuti-secondi
+      (formato 14°28'32" N 61°02'15" W); il build genera il rendering DMS
+      automaticamente dagli attributi decimale data-lat/data-lon del mapframe.
+    - MAI coordinate inventate: se non verificate su fonte attendibile →
+      `**DATO MANCANTE**` (vale anche per i pin delle cartine).
 9b. SCALA CARTE ZOOMMABILI (nuova 25/08/2026): ogni ancoraggio segnalato DEVE
     avere una cartina interattiva zoomabile stile Google Maps (pan + zoom
     continuo fino al dettaglio della baia, MAI immagini fisse). Scala di
