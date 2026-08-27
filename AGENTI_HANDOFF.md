@@ -109,6 +109,10 @@ python3 tools/download_mappe.py       # tasselli mappa offline
     • **Informazione prioritaria al rientro**: appena interrogato dall'utente (qualsiasi messaggio), l'agente con **massima priorità** informa subito: lista compiti non portati a termine, motivo del blocco, autorizzazioni mancanti, cosa serve per sbloccare. Solo dopo riprende il lavoro.
     • **PC in standby / chiusura sessione**: l'agente deve rendere il lavoro **resistente allo standby**: ogni avanzamento va committato localmente (`git commit`), i download lunghi vanno in `nohup`/`screen`, i build lasciano artefatti su disco (`paesi.html`, `paesi-mobile.html`, `BACKUP-*`, tag `cristallizzato-*`). Al risveglio l'agente riprende automaticamente dal punto lasciato, senza chiedere.
     • Vietato interpretare il silenzio come stop.
+13. REPORT PERIODICO OBBLIGATORIO — REGOLA GENERALE (nuova 27/08/2026, decisione finale utente, vale per TUTTI gli agenti):
+    • **Ogni step completato** (singolo file, singola isola, singolo batch verifica) → **report immediato all'utente** con: cosa fatto, file/commit, gap Martinica residuo, prossimo step.
+    • **Ogni 30 minuti** di lavoro continuato senza step concluso → **report di avanzamento** anche se parziale: dove sono, % completamento, eventuali blocchi/autorizzazioni mancanti.
+    • Formato: breve, a punti, con `file:linea` e commit hash. Vietato lavorare in silenzio oltre 30 min.
 
 ## ✅ COMPLETATO (non rifare)
 
