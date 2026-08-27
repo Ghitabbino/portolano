@@ -1,1 +1,6 @@
-NESSUN PROBLEMA
+[1-ROTTO] grecia/cicladi/02-costi.md -> ../00-indice.md
+[1-ROTTO] grecia/dodecaneso/02-costi.md -> ../00-indice.md
+[1-ROTTO] grecia/egeo-settentrionale/02-costi.md -> ../00-indice.md
+[1-ROTTO] grecia/golfo-saronico/02-costi.md -> ../00-indice.md
+[1-ROTTO] grecia/ionie/02-costi.md -> ../00-indice.md
+[1-ROTTO] grecia/sporadi/02-costi.md -> ../00-indice.md
