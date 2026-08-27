@@ -49,9 +49,14 @@ python3 tools/download_mappe.py       # tasselli mappa offline
    Capo Verde **132/130/131**.
 6. NO blocchi `<div class="mapframe">` dove non esistono tasselli in `paesi/mappe/<slug>/`.
 7. Prima riga file: `# NN — Titolo`; ultima riga: data aggiornamento.
-8. Menu laterale ad ALBERO (25/08/2026, aggiornato 27/08/2026 Mediterraneo): 🌍 Aree → area → isola → pagine in bianco.
+8. Menu laterale ad ALBERO (25/08/2026, aggiornato 27/08/2026 Mediterraneo + bacini 27/08/2026): 🌍 Aree → area → bacino → paese → (eventuale sotto-zona) → pagine 00-10.
     • **Caraibi** (macro-zone: Lucayano, Grandi Antille, Soprav. Settentr., Soprav. Merid., Sottovento, Occidentali, Canale/Costa, Coste A.C.) → isola → 00-10.
-    • **Mediterraneo** (nuova 27/08/2026): **Spagna** → **Francia** → **Italia** suddivisa in *Mar Ligure, Tirreno Settentrionale, Tirreno Centrale, Tirreno Meridionale, Ionio, Adriatico* → poi **ogni altro stato** (Slovenia, Croazia, Montenegro, Albania, Turchia, Cipro, Malta, Tunisia, ecc.) → **Grecia** suddivisa in *Cicladi, Sporadi, Ionie, Dodecaneso, Golfo Saronico, Egeo Settentrionale*.
+    • **Mediterraneo** (quattro bacini obbligatori 27/08/2026):
+      - **Bacino Occidentale:** Spagna, Francia, Monaco (+ Gibilterra se aggiunta)
+      - **Bacino Centrale:** Italia (suddivisa in *Mar Ligure, Tirreno Settentrionale, Tirreno Centrale, Tirreno Meridionale, Ionio, Adriatico*), Slovenia, Croazia, Bosnia-Erzegovina, Montenegro, Albania, Malta
+      - **Bacino Orientale:** Grecia (suddivisa in *Cicladi, Sporadi, Ionie, Dodecaneso, Golfo Saronico, Egeo Settentrionale*), Turchia, Cipro, Siria, Libano, Israele
+      - **Nord Africa:** Marocco, Algeria, Tunisia, Libia, Egitto
+      Ogni paese poi → 00-10 (e per Italia/Grecia → sotto-zone → 00-10).
     Griglia centrale specchio del menu (tessere icone/bandiere, testi verdi centrati).
     Gerarchia in VERDE accent (#4db6ac, stesso del logo) sia a sinistra che al centro;
     bianco solo per voci contenuto. Disclaimer home + coordinate indicative su ogni 08.
