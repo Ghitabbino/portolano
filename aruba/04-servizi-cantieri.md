@@ -1,36 +1,43 @@
 # 04 — Servizi, cantieri e manutenzione
 
-**Ultima verifica: 24/08/2026**
+**Ultima verifica: 27/08/2026**
 
-## Hub principale — Aruba
+## Varadero Aruba Marina & Boatyard — hub tecnico dell'isola
 
-- Servizi concentrati nella marina principale; per lavori importanti Oranjestad / zona marina è il riferimento. ★★
-- Travelift / gru: **DATO MANCANTE** capacità verificata — chiedere in capitainerie. Per grandi lavori molti armatori si appoggiano ad Antigua (English Harbour), St. Martin (Simpson Bay) o Trinidad (Chaguaramas) che sono hub regionali. ★★
-- Shipchandler: assortimento base in loco; per ricambi specifici ordinare con 1–3 settimane di anticipo (spedizione via Miami/St. Martin). ★★
+### Varadero Aruba Marina & Boatyard (ufficiale ★★★★)
+- Bucutiweg 34, Oranjestad · +297 588-3850 · [varaderoaruba.com](https://www.varaderoaruba.com) — 70+ posti in acqua e ~300–400 posti a secco; canale dragato 2,4 m (8 ft), pescaggio max 2,20 m. ★★★
+- Alaggio con **rimorchi idraulici Roodberg 20 t e 60 t** (nuovo 80 t annunciato per 10/2025), cuscini morbidi; fino a 80 ft / baglio max 42 ft (48' per multiscafi su prenotazioni). ★★★
+- Servizi completi: carenaggio, antivegetativa, vetroresina, sabbiatura, falegnameria, saldatura navale, lavaggio a pressione; carburante, Wi-Fi, lavanderia, videosorveglianza. Zona franca a secco esente limite 180 giorni. ★★★
 
-## Servizi elencati (verifica sul posto)
+### Artigiani e servizi segnalati (★★ — esperienze individuali)
 
 | Servizio | Nome | Contatto | Note |
 |---|---|---|---|
-| Meccanico entrobordo | DATO MANCANTE | DATO MANCANTE | Chiedere in capitainerie |
-| Elettricista marine | DATO MANCANTE | DATO MANCANTE | — |
-| Velaio / sailmaker | DATO MANCANTE | DATO MANCANTE | Spesso mobile da Antigua/St. Martin |
-| Frigorista | DATO MANCANTE | DATO MANCANTE | — |
-| Saldatura inox/alluminio | DATO MANCANTE | DATO MANCANTE | — |
+| Shipchandler | [Budget Marine Aruba](https://budgetmarine.com/locations/budget-marine-aruba/) | +297 585-3796 · WA +297 737-3796 · Balashi 75-B | 500 mq, il più grande dell'isola; lun–ven 9–17 sab 8–16 ★★★ |
+| Velaio / canvas | [30 Knots Sailmaker](https://30knotsaruba.com/) | via sito | Riparazione vele/kite/wing e canvas dal 2017; 5 macchine industriali ★★★ |
+| Rigging | [Aruba Rigging](https://www.arubarigging.com/) | via sito | Riparazione sartiame e lavori in corda ★★ |
+| Falegnameria | Varadero Boatyard (carpenter) | +297 588-3850 | Ponti, osteriggi, verniciatura e alaggio ★★ |
 
-> Quando indicato **DATO MANCANTE** il nominativo non è stato verificato con websearch/webfetch in questa sessione; verrà ricercato al controllo mensile. ★★
+## Renaissance Marina / Oranjestad — supporto in città
+- Renaissance Marketplace, LG Smith Blvd 9 · [Wind Creek Marina +297-588-0260](https://www.windcreekmarina.com/) ★★★ — 40–100 posti fino a 60 m / 4,5 m pescaggio; acqua, elettricità, carburante resort. Prenotazione obbligatoria. ★★
+- Non è polo di carenaggio: per alaggio e lavori importanti si usa Varadero. ★★
 
 ## Gas e bombole
 
-- **Gas/GPL: spesso solo scambio bombole** standard locale/US (es. Campingaz o americane). Verificare compatibilità regolatore. ★★
+- **Gas/GPL: scambio bombole** standard locale/US (propane 20 lbs); per scambio/ricarica **Arugas, Barcadera 42 · +297 585-1198** ([arugas.com](https://arugas.com/pages/en/home-en/)) con servizio 24h; verificare attacco regolatore. ★★★
+- Bombole tipo Campingaz non sempre ricaricabili: prevedere adattatore e scorta. ★★
 
 ## Acqua dolce
 
-- Acqua di banchina: **DATO MANCANTE** potabilità — chiedere in marina; tenere riserve e dissalatore pronto dove l'acqua è razionata. ★★
+- Varadero: **acqua gratuita a pontile**; Renaissance/Wind Creek: a consumo secondo contratto. Potabilità via rete WEB — chiedere conferma in capitaineria e tenere riserve/dissalatore. ★★★
 
 ## Note strategiche
 
-- Per refit importanti valutare hub vicini: **Antigua (Jolly Harbour/English Harbour), Sint Maarten (Simpson Bay), Trinidad (Chaguaramas)** con travelift fino a 70–300 t e decine di professionisti. ★★
-- Ricambi: spedire **presso la marina indicando nome barca, posto barca e telefono**; confermare arrivo via email/telefono della reception. ★★
+Varadero è **fuori dalla fascia uraganica** e consente sosta lunga in zona franca doganale; ideale per svernamento giugno–novembre. Ricambi tax-free se barca in zona franca. ★★★
 
-Ultimo aggiornamento: 24/08/2026
+## Hub tecnico
+
+Il polo è **Varadero**: **rimorchi Roodberg 20/60 t (80 t da 10/2025)**, 300+ piazzole a secco, 70+ posti in acqua,
+**servizi completi e Budget Marine** a pochi minuti; ricambi ritirati in ufficio/ufficio doganale. ★★
+
+Ultimo aggiornamento: 27/08/2026

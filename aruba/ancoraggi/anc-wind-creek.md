@@ -12,7 +12,7 @@
 | **Boe/divieti/normative** |Boa d'ingresso ufficiale|
 | **A terra** |Servizi completi, clearance, provisioning|
 
-<div class="mapframe" data-slug="anc-wind-creek" data-lat="12.5169" data-lon="-70.0391"></div>
+<div class="mapframe" data-slug="anc-wind-creek" data-minz="12" data-maxz="15" data-lat="12.5169" data-lon="-70.0391"></div>
 *Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
 
 Fonti: Wind Creek Marina ★★★★ · aruba-cruisingguide.com ★★★

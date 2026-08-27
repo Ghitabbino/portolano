@@ -1,40 +1,49 @@
 # 05 — Stagionalità e meteo
 
-**Ultima verifica: 24/08/2026**
+**Ultima verifica: 27/08/2026**
 
 ## Clima
 
-- Temperatura media **26–28 °C tutto l'anno**, clima marittimo con **alisei da ENE**. ★★
-- Acqua 26–29 °C; escursione termica giornaliera limitata. ★★
+- Temperatura media **28,5 °C** (media annua), 27,3 °C dic–feb e 29,5 °C ago–ott; clima **steppico semiarido caldo BSh/BW** della Dry Zone meridionale, alisei moderati–freschi da E. ★★★★★
+- Piovosità media **~498 mm/anno** molto variabile (annate <200 mm e >1000 mm); acque 25,9 °C feb–mar e 28,2 °C set–ott; escursione giornaliera superiore a quella stagionale. ★★★★★
 
 ## Stagioni
 
 | Periodo | Caratteristiche |
 |---|---|
-| **Dicembre – aprile/maggio** | Stagione secca, alisei stabili: **periodo migliore per la crociera** |
-| **Giugno – novembre** | **Stagione degli uragani**: assicurazioni impongono limiti; verificare piano uragani della marina |
+| **Febbraio – giugno** | Stagione secca, alisei stabili e cielo poco nuvoloso: **periodo migliore per la crociera** |
+| **Settembre – gennaio** | **Stagione piovosa** con rovesci brevi al mattino/prima serata; picco ott–dic; lug–set transizione |
 
-★★
+★★★
+
+## Consignes cicloniche (ufficiale ★★★★)
+
+Aruba non ha un piano cyclonico francese; seguire le **allerte del Departamento Meteorologico Aruba (DMA)** e le istruzioni della **capitaneria/Port Control VHF 16**; Varadero in laguna è riparo preferito ma nessun ormeggio è garantito al 100% in caso di ciclone.
 
 ## Uragani
 
-Stagione **giugno–novembre**, picco agosto–ottobre. Aruba è esposta/o agli alisei e alle onde atlantiche; in caso di allerta seguire le **consignes préfectorales / National Hurricane Center** e le istruzioni della capitainerie. Nessun riparo è garantito al 100%. [NOAA NHC ★★★★★; Météo-France ★★★★★]
+Stagione **1 giugno–30 novembre**, picco metà agosto–metà ottobre. Aruba è sul **margine meridionale della fascia uraganica**: danno rilevante da ciclone passato a sud circa **1 volta ogni 100 anni**; effetti possibili da sistemi a nord (erosione, mareggiate, allagamenti costieri). Uragani con coda impattante: Hazel (1954), Ivan (2004, onde e allagamenti), Felix (2007, centro a 80 km). [DMA meteo.aw ★★★★★; meteo.cw ★★★★★; aruba.com ★★★]
 
 ## Venti locali
 
-- Alisei da ENE 12–20 kn tipici delle Leeward/Windward; raffiche di accelerazione tra le isole e sottovento ai rilievi. ★★
-- Canali inter-isole (es. verso Antigua, St. Kitts, St. Martin): mare incrociato e correnti — finestra migliore al mattino presto con vento <20 kn. ★★
+- Alisei da **E/ENE 12–20 kn**, medi 7,6 m/s più forti in stagione secca/transizione e più deboli in quella piovosa; raffiche di accelerazione tra isole ABC e sottovento ai rilievi bassi. ★★★★★
+- Polvere sahariana (SAL) e alta pressione atlantica possono ridurre visibilità e portare mare da E–NW 4–7 ft con avvisi small craft sulle coste esposte. ★★★★
 
 ## Finestre tipiche
 
-- Traversate corte inter-isole (20–50 M): fattibili con aliseo ≤18–20 kn, meglio mattina presto. ★★
-- Per traversate lunghe (es. verso BVI, Barbados, Trinidad) attendere finestra post-onda tropicale con pressione stabile. ★★
+Traversate corte Aruba–Curaçao (~68 M) o Aruba–Bonaire (~105 M) fattibili con aliseo ≤18–20 kn, meglio partenza all'alba; per traversate lunghe verso Colombia/Venezuela attendere finestra post-onda tropicale con pressione stabile. Canali inter-isole: mare incrociato — evitare vento >20 kn. ★★
 
 ## Link meteo e carte locali
 
-- [NOAA National Hurricane Center](https://www.nhc.noaa.gov) ★★★★★ — bollettini e traiettorie uragani (giugno–novembre).
-- [Meteo-France Antilles/Guyane](https://meteofrance.mq) ★★★★★ — vigilance e bulletins côtiers se applicabile.
-- [Windy](https://www.windy.com) · [PassageWeather](http://www.passageweather.com) · [PredictWind](https://www.predictwind.com) ★★★ — modelli vento/houle per traversate.
-- [Barbados Weather / Met Office locale] — previsioni nazionali, dove disponibile. ★★
-
-Ultimo aggiornamento: 24/08/2026
+- [Departamento Meteorologico Aruba — previsioni e avvisi](https://www.meteo.aw) ★★★★★ — ufficiale: bollettini, marine forecast, cyclone advisories.
+- [Meteo Curaçao — clima ABC](https://www.meteo.cw/climate.php?Lang=Eng&St=TNCC) ★★★★★ — descrizione Dry Zone, stagioni e uragani per Aruba/Bonaire/Curaçao.
+- [NOAA National Hurricane Center](https://www.nhc.noaa.gov) ★★★★★ — bollettini e traiettorie uragani atlantici (giugno–novembre).
+- [Windy](https://www.windy.com) · [PassageWeather](http://www.passageweather.com) · [PredictWind](https://www.predictwind.com) ★★★ — modelli vento/onde per traversate.
+- Animazioni e radar sullo stesso DMA: satellite IR, radar Venezuela/Curaçao e modelli onde/vento. ★★★★
+- [Aruba.com — clima e uragani](https://www.aruba.com/us/blog/aruba-hurricane-season) ★★★ — fuori dalla cintura ma possibili code di sistemi di passaggio.
+### Siti meteo locali
+- [DMA — Climate Data Aruba](https://www.meteo.aw/climate.php) — BSh/BW, stagione secca/piovosa, alisei ★★★★★
+- [DMA — Climate Outlook](https://www.meteo.aw/climate1.php) — outlook stagionale e El Niño/La Niña ★★★★
+- [IPDC — Climate scenarios Aruba 2025](https://ipdc-climate-action.org/wp-content/uploads/2025/12/2025_12_08_Aruba_EN_v23-2.pdf) — medie 28,5 °C, 498 mm, vento 7,6 m/s ★★★★
+- Avvisi VHF e Port Control: **VHF 16** per istruzioni in avvicinamento a Barcadera/Oranjestad. ★★★★★
+Ultimo aggiornamento: 27/08/2026

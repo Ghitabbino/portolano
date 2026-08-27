@@ -1,61 +1,55 @@
 # 07 — Provvisioning
 
-**Ultima verifica: 24/08/2026**
+**Ultima verifica: 27/08/2026**
 
-## Livello prezzi generale — Aruba
+## Livello prezzi generale
 
-- Valuta: Fiorino di Aruba (AWG), USD — prezzi alimentari importati, più cari che in Europa continentale; prodotti locali (pesce, frutta tropicale) più convenienti. ★★
-- Logistica da yacht: per scorte oceaniche meglio rifornirsi nelle isole maggiori (Antigua, St. Martin, Trinidad) dove c'è grande distribuzione. ★★
+- Alimentari **più cari che in Europa continentale/USA** perché quasi tutto è importato (USA, NL, Spagna); **pesce fresco e frutta tropicale** locali più convenienti. Valuta: **Fiorino di Aruba (AWG, ƒ)** ancorato a **1 USD ≈ 1,80 AWG**; USD accettati ovunque e bancomat abbondanti. ★★★
+- Rispetto ad altre isole ABC e Grenadine, **ampia scelta “stile americano”** ma a prezzo “isola”: conviene fare scorta completa se si resta a lungo o si parte per traversate lunghe verso Colombia/Panama. Prodotti locali: pesce dei pescatori al molo, frutta/verdura di camioncini e bancarelle, pane/panetteria dei supermarket. ★★
 
 ## Supermercati
 
-| Negozio | Ubicazione | Distanza dalla marina | A piedi? | Telefono | Consegna a bordo? |
+### Oranjestad — Renaissance Marina ⚓ base principale
+
+| Negozio | Ubicazione | Distanza dalla marina | A piedi? | Note | Fonte |
 |---|---|---|---|---|---|
-| **Super Food Plaza** | Bubali 141-A, Oranjestad | ~3 km da Oranjestad Marina | ⚠️ taxi/bus | tel +297 522-2000 | DATO MANCANTE ★★★ |
-| **Ling & Sons Supermarket** | Schotlandstraat 41, Oranjestad | ~2 km | ⚠️ taxi | tel +297 521-2370 | DATO MANCANTE ★★★ |
-| **PriceSmart** | Avenida Milio Croes 103, Oranjestad | ~3–4 km | ⚠️ taxi | tel +297 588-4400 | DATO MANCANTE |
-| Cmart Supermarket | Cumana #38, Oranjestad | ~4 km | ⚠️ taxi | DATO MANCANTE | DATO MANCANTE |
+| **Ling & Sons IGA Super Center** | Schotlandstraat 41, Oranjestad | ~1,5 km | ✅ sì (15–20 min) | Lun–sab 8–21, dom 9–18 · il più grande stile americano dell'isola: freschi, bio, macelleria, bakery giornaliera, liquortique · accetta AWG/USD e carte |RelaxAruba/Fodor’s ★★★|
+| **Super Food Plaza** | Bubali 141-A, Noord | ~5 km | ⚠️ taxi/bus (7 min in auto) | Lun–sab 8–20, dom 9–18 · centro commerciale più “verde” dei Caraibi con alimentari, vini, health/beauty, Jack’s Café · consegna su richiesta concordata col manager |Noonsite commento manager +297 522-2000 ★★★ + aruba.com ★★★|
+| **Kong Hing Supermarket** | L.G. Smith Blvd 152, Druif (tra Oranjestad ed Eagle Beach) | ~3 km | ⚠️ taxi/bus | Ordinato e pulito, buono per rifornimento rapido vicino alle spiagge |Fodor’s ★★★|
+| **C-Mart** | Cumana #38 / vicino aeroporto | ~4–5 km | ⚠️ taxi | Budget-friendly, discount locale; assortimento base per cambusa |aruba.com ★★★|
+| **PriceSmart (club)** | Avenida Milio Croes, Oranjestad | ~3 km | ⚠️ taxi | Formato warehouse tipo Costco, utile per grandi quantità (carte socio) |★★|
 
-> **Nota metodo:** quando il telefono è indicato **DATO MANCANTE** significa che non è stato verificato con websearch/webfetch in questa sessione; verrà ricercato al controllo mensile. ★★
+Chandler / ricambi in zona marina per piccole forniture; per ricambi specifici ordinare con 1–3 settimane (spedizione via Miami/Curaçao). ★★
 
-### Dettagli per base principale — Oranjestad Renaissance Marina
+### Noord / Palm Beach
 
-- La spesa quotidiana a piedi è possibile solo dove indicato ✅ sì; con carichi conviene taxi o carrello pieghevole. ★★
-- Orari tipici: 8–20 lun–sab, 8–13 domenica/festivi dove presente grande distribuzione; mini-mart locali spesso 7–21 tutti i giorni. ★★
-- Consegna a bordo: rara, solo su richiesta ai supermarket più grandi attrezzati per yacht provisioning; confermare per telefono/email. ★★
+Super Food Plaza e Kong Hing sono i riferimenti per chi è ancorato a **Eagle/Palm Beach o Surfside**: bus frequente Oranjestad–Noord (15–30 min), corsa 1–2 USD; per carichi meglio taxi da concordare prima. ★★★
+
+### San Nicolas / Savaneta
+
+Borgo meridionale con **superette, minimarket e truck di frutta** nelle vie centrali; scorta limitata: per spesa grossa si sale a Oranjestad/Noord. Savaneta ha piccoli alimentari residenziali — comodo se ancorati a Spanish Lagoon/Mangel Halto con dinghy + taxi. ★★
 
 ## Mercati
 
-- Mercato del pesce locale al molo dei pescatori (se presente): pescato fresco al mattino. ★★
-- Mercato ortofrutticolo del capoluogo (Oranjestad): frutta/verdura locale, mattino presto. ★★
-- Dove assente un vero mercato coperto, bancarelle stradali e truck di frutta. ★★
+- **Banchina pescatori di Oranjestad**: pescato fresco al mattino (tonno, wahoo, mahi) — arrivo presto e contrattazione leggera; disponibilità giornaliera variabile. ★★
+- **Bancarelle e truck di frutta/verdura**: lungo le direttrici Oranjestad–San Nicolas e a Noord; mango, papaya, plantain di stagione. Niente grande mercato coperto quotidiano — rifornimento principale resta il supermarket. ★★
+- **Visserij / mercati occasionali**: mercatini e venditori su Caya Betico Croes e a San Nicolas, soprattutto in stagione carnevalesca e week-end. ★★
 
 ## Acqua e carburante
 
 | Servizio | Dove | Note |
 |---|---|---|
-| Water dock | Marina principale Oranjestad Renaissance Marina | DATO MANCANTE tariffa/m³ — verificare in capitainerie → [03](03-porti-ancoraggi.md) |
-| Fuel dock | Stazione carburante del porto | Prezzi variabili, gasolio ~1,1–1,6 USD/l a seconda dell'isola → [02 Costi](02-costi.md) |
-| Gas (butane/propane) | Scambio bombole tipo locale/US | Solo scambio, niente rabbocco dove non previsto → [04 Servizi](04-servizi-cantieri.md) |
-
-## Trasporti per la cambusa
-
-### Taxi
-
-- Servizio taxi disponibile ma non a tassametro nella maggior parte delle isole Leeward/Windward: **tariffa da concordare prima di salire**. ★★
-- Tratta tipica marina ↔ supermercato: **DATO MANCANTE** prezzo verificato — stimato 10–30 USD a seconda della distanza; confermare con autista o capitainerie. ★★
-- Contatto taxi: chiedere in marina/capitainerie o al supermarket; numeri centralizzati spesso non pubblicati online — **DATO MANCANTE** se non trovato con websearch. ★★
-
-### Bus / minibus
-
-- Minibus / bus locali: frequenti sulle direttrici principali (es. Oranjestad ↔ marina), passaggio ogni 15–30 min di giorno, biglietto ~1–2 USD. ★★
-- Fermata più vicina alla marina: **DATO MANCANTE** posizione esatta — chiedere in capitainerie; spesso fermata sulla strada principale a 100–300 m. ★★
-- Scomodo con carichi pesanti: meglio taxi per casse d'acqua o cambusa settimanale. ★★
+| Water dock | Renaissance / Wind Creek Marina | A consumo secondo contratto pontile; acqua potabile di rete, verificare potabilità in capitaineria → [03](03-porti-ancoraggi.md) |
+| Water dock | Varadero Aruba Marina (Bucutiweg 34) | **Gratuita** a pontile con elettricità 110/220 V; incluso nel posto barca ★★★ [HarbourGuides](https://www.harbourguides.com/bluepages/view/varadero-aruba-marina--boatyard-5487) |
+| Fuel dock | Varadero Aruba Marina | **Diesel 2,56 AWG/l · RON 95 2,66 AWG/l** (rilevato community, indicativo) → [03](03-porti-ancoraggi.md) ★★★ [Navily](https://www.navily.com/port/varadero-aruba-marina/6412) |
+| Fuel dock | Renaissance / Barcadera (porto) | **DATO MANCANTE** tariffa aggiornata al 27/08/2026 — chiedere in capitaineria; prezzi regolati ad Aruba con variazioni mensili |
+| Gas (butane/propane) | Scambio bombole standard **US/Aruba** | Solo scambio bombole locali/americane, niente rabbocco dove non previsto; verificare adattatore e regolatore → [04](04-servizi-cantieri.md) |
 
 ## Consigli pratici
 
-- Carrello/trolley pieghevole e borse termiche: indispensabili se si fa spesa a piedi. ★★
-- Acqua in bottiglia: fare scorta dove l'acqua di banchina non è potabile o è razionata. ★★
-- Verificare sempre orari festivi e disponibilità di ghiaccio prima di traversate lunghe. ★★
+- **Carrello/trolley pieghevole** a bordo: da Ling & Sons la marina è a piedi; da Super Food servono **taxi o bus** — con carichi conviene taxi a tariffa fissa concordata prima (non a tassametro) o consegna del supermarket su accordo (Super Food ha effettuato consegne in marina su richiesta) ★★★.
+- **Orari festivi**: grande distribuzione lun–sab 8–20/21, dom 9–18/13 secondo insegna; i mini-mart locali spesso 7–21 tutti i giorni — verificare prima di traversate lunghe e fare **scorta d’acqua in bottiglia** dove la rete non è garantita potabile.
+- **Ghiaccio e freschi**: disponibile in tutti i mega-supermarkets (ghiaccio in sacchi, panetteria e pescheria interne); per grandi cambuse ordinare online 24h prima (*shop.superfoodaruba.com*, *lingandsons.com*) con ritiro o consegna concordata. ★★★
+- **Pagamento**: fiorini AWG e USD 1:1,80 accettati ovunque; carte Visa/MC ovunque, bancomat oltre 50 punti; tenere contante per truck di frutta e taxi. ★★★★
 
-Ultimo aggiornamento: 24/08/2026
+Ultimo aggiornamento: 27/08/2026

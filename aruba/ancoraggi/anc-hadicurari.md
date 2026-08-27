@@ -12,7 +12,7 @@
 | **Boe/divieti/normative** |—|
 | **A terra** |Fisherman's piers, ristoranti|
 
-<div class="mapframe" data-slug="anc-hadicurari" data-lat="12.5786" data-lon="-70.0493"></div>
+<div class="mapframe" data-slug="anc-hadicurari" data-minz="12" data-maxz="15" data-lat="12.5786" data-lon="-70.0493"></div>
 *Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
 
 Fonti: aruba-cruisingguide.com ★★★

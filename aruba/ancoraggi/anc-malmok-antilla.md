@@ -12,7 +12,7 @@
 | **Boe/divieti/normative** |Ancoraggio libero nelle vicinanze fuori tracciato|
 | **A terra** |Snorkeling sul relitto|
 
-<div class="mapframe" data-slug="anc-malmok-antilla" data-lat="12.6017" data-lon="-70.0583"></div>
+<div class="mapframe" data-slug="anc-malmok-antilla" data-minz="12" data-maxz="15" data-lat="12.6017" data-lon="-70.0583"></div>
 *Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
 
 Fonti: aruba-cruisingguide.com ★★★

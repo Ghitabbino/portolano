@@ -12,7 +12,7 @@
 | **Boe/divieti/normative** |Coordinata riscontrata su 3 fonti indipendenti|
 | **A terra** |Terminal Barcadera|
 
-<div class="mapframe" data-slug="anc-barcadera-ingresso" data-lat="12.4806" data-lon="-70.0072"></div>
+<div class="mapframe" data-slug="anc-barcadera-ingresso" data-minz="12" data-maxz="15" data-lat="12.4806" data-lon="-70.0072"></div>
 *Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
 
 Fonti: Noonsite ★★★ · Aruba Ports ★★★★
