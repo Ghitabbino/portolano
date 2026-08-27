@@ -17,13 +17,13 @@ Ogni paese segue lo stesso schema, per confrontare mele con mele.
 ## Come lavoriamo
 
 - **Fonti classificate**: ogni informazione porta rank di attendibilità ★★★★★ (fonte
-  governativa ufficiale) fino a ★ (voce di banchina), con data di verifica.
+ governativa ufficiale) fino a ★ (voce di banchina), con data di verifica.
 - **Revisione periodica**: controllo mensile programmatico + verifica critica automatica
-  sugli aspetti che contano (sicurezza, meteo, visti, tariffe, regolamenti).
+ sugli aspetti che contano (sicurezza, meteo, visti, tariffe, regolamenti).
 - **Mai dati inventati**: se qualcosa non è verificato, leggi *DATO MANCANTE*.
-  È la nostra promessa più importante.
+ È la nostra promessa più importante.
 - **Conflitti dichiarati**: quando le fonti si contraddicono, ti mostriamo entrambe
-  le versioni con le fonti, non scegliamo noi al posto tuo.
+ le versioni con le fonti, non scegliamo noi al posto tuo.
 
 ## Non è un sito commerciale
 

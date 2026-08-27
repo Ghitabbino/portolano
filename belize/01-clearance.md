@@ -7,9 +7,9 @@
 1. **SailClear ≥48h prima** + APIS su caricomeapis.org
 2. All'avvicinamento: **VHF 16/68** → Belize Port Authority (presidio attivo solo a Belize City)
 3. Bandiera Q; bordo di **5 ufficiali** (Customs, Health, Immigration, Quarantine BAHA, BPA);
-   trasporto officer a carico
+ trasporto officer a carico
 4. Documenti: clearance ultimo porto, registro nave, CSR, P&I, ISSC, crew/passenger list,
-   stores list, NIL list (stowaways/armi/narcotici), ports of call ★★★★
+ stores list, NIL list (stowaways/armi/narcotici), ports of call ★★★★
 5. **Permit Port Authority**: BZ$240 / primi 30 gg [Old Belize] ★★
 6. Immigration: timbro 30 gg per l'equipaggio ★★★★
 

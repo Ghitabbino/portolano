@@ -69,8 +69,8 @@ Il carburante in banchina è il più caro dei Caraibi dopo Bermuda — fare pien
 |---|---|---|
 | Elettricità marina (liveaboard) | **~$250 / mese** + fuel surcharge | BPL — molto caro ★★★ |
 | Lavanderia self-service | **$5–10 / carico** | Marina o lavanderie in città ★★ |
-| SIM prepagata con dati (BTC/Aliv) | **DATO MANCANTE** |  |
-| Lavaggio scafo / hull dive | **DATO MANCANTE** |  |
+| SIM prepagata con dati (BTC/Aliv) | **DATO MANCANTE** | |
+| Lavaggio scafo / hull dive | **DATO MANCANTE** | |
 
 ## Contanti e pagamenti
 

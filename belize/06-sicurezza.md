@@ -15,9 +15,9 @@
 ## Quadro generale
 
 - I reati contro yacht in ancoraggio sono poco frequenti ma non nulli: dinghy sempre
-  chiuse e alzate, luci notturne ★★★
+ chiuse e alzate, luci notturne ★★★
 - Narcotraffico attivo lungo la barriera sud e costa: **non toccare pacchi in mare**,
-  segnalare alle autorità ★★★★
+ segnalare alle autorità ★★★★
 - Emergenza: **911** · Police 114 · Coast Guard VHF 16 ★★★★
 
 Ultimo aggiornamento: 25/08/2026

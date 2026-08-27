@@ -15,7 +15,7 @@
 | **Graceway Supermarket – Downtown** | Downtown Providenciales | ~2 km | ⚠️ taxi | DATO MANCANTE | DATO MANCANTE |
 | Quality Food Centre – Grand Turk | Cockburn Town | ~800 m | ✅ sì | DATO MANCANTE | DATO MANCANTE |
 
-> **Nota metodo:** quando il telefono è indicato **DATO MANCANTE** significa che non è stato verificato con websearch/webfetch in questa sessione; verrà ricercato al controllo mensile. Mai inventare numeri. ★★
+> **Nota metodo:** quando il telefono è indicato **DATO MANCANTE** significa che non è stato verificato con websearch/webfetch in questa sessione; verrà ricercato al controllo mensile. ★★
 
 ### Dettagli per base principale — Providenciales Turtle Cove / South Bank
 

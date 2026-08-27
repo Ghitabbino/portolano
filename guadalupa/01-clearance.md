@@ -11,7 +11,7 @@ Tutti i natanti da diporto, qualsiasi nazionalità e bandiera, che:
 
 ## Procedura online (obbligatoria dal 09/2024)
 
-Tutte le Antille francesi usano lo stesso portale: **https://www.demarches-simplifiees.fr/commencer/declaration-clearance-antilles** — dichiarazione d'ingresso e di partenza per natanti da/per l'estero. [/ ★★★★;  2024, martinique.gouv.fr ★★★★★]
+Tutte le Antille francesi usano lo stesso portale: **https://www.demarches-simplifiees.fr/commencer/declaration-clearance-antilles** — dichiarazione d'ingresso e di partenza per natanti da/per l'estero. [/ ★★★★; 2024, martinique.gouv.fr ★★★★★]
 
 1. Compilare il modulo online (nave, equipaggio, provenienza/destinazione) **prima** dell'arrivo o subito dopo.
 2. Conservare la ricevuta PDF ricevuta via mail: è il documento da mostrare in caso di controllo.

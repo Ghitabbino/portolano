@@ -32,12 +32,12 @@ insicurezza. ★★
 
 - **Acqua**: **DATO MANCANTE** — non dare per scontata acqua potabile in alcun punto. ★★
 - **Carburante**: **DATO MANCANTE** per fuel dock dedicati yacht; fare pieno prima
-  dell'arrivo (RD o isole vicine). ★★
+ dell'arrivo (RD o isole vicine). ★★
 
 ## Consigli pratici del diportista
 
 - **Non pianificare la cambusa in Haiti**: considerare RD come unico hub affidabile
-  della zona; entrare in Haiti solo con scorte complete. ★★★★
+ della zona; entrare in Haiti solo con scorte complete. ★★★★
 - Contanti in USD piccoli tagli per l'essenziale, senza esporre somme. ★★
 
 Ultimo aggiornamento: 25/08/2026

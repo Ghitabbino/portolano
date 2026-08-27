@@ -15,7 +15,7 @@
 | **SavingsPLUS – Harbour Road** | Harbour Road, Princess Alice Hwy, Bridgetown | ~500 m dal Careenage | ✅ sì | tel +1 246-434-0081 ★★ | DATO MANCANTE |
 | Massy Stores – Bridgetown / Garrison | Bridgetown centre | ~1 km | ✅ sì | DATO MANCANTE | DATO MANCANTE |
 
-> **Nota metodo:** quando il telefono è indicato **DATO MANCANTE** significa che non è stato verificato con websearch/webfetch in questa sessione; verrà ricercato al controllo mensile. Mai inventare numeri. ★★
+> **Nota metodo:** quando il telefono è indicato **DATO MANCANTE** significa che non è stato verificato con websearch/webfetch in questa sessione; verrà ricercato al controllo mensile. ★★
 
 ### Dettagli per base principale — Bridgetown Careenage / Port St. Charles
 

@@ -9,10 +9,10 @@
 ## Note strategiche per il diportista
 
 - I riferimenti operativi RD (Ocean World, Casa de Campo, Luperón) restano validi come
-  hub esterno: vedi la pagina *Repubblica Dominicana · Servizi e cantieri*. ★★
+ hub esterno: vedi la pagina *Repubblica Dominicana · Servizi e cantieri*. ★★
 - **Ricambi dall'estero**: spedizione via corriere verso Haiti fortemente sconsigliata
-  per dogana/affidabilità — instradare tramite RD. ★★
+ per dogana/affidabilità — instradare tramite RD. ★★
 - **Assicurazione**: la maggior parte delle polizze esclude o limita la copertura in
-  Haiti — verificare clausola territoriale prima della navigazione. ★★
+ Haiti — verificare clausola territoriale prima della navigazione. ★★
 
 Ultimo aggiornamento: 25/08/2026

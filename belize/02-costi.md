@@ -13,6 +13,6 @@
 ## Pagamenti
 
 - USD accettati ovunque al cambio fisso; carte nei punti turistici; contante necessario
-  nelle cayes e mercati ★★★
+ nelle cayes e mercati ★★★
 
 Ultimo aggiornamento: 25/08/2026

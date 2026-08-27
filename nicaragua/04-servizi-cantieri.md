@@ -5,7 +5,7 @@
 - Meccanica/fiberglass/sail repair segnalate a **San Juan del Sur** [Ocean Posse] ★★
 - Forniture marine a Bluefields (fuel/water/elettrico/meccanica base) ★★
 - Haul-out strutturato: **DATO MANCANTE** — riferimenti regionali: Costa Rica (Puntarenas)
-  o Panama (PLC) ★★★
+ o Panama (PLC) ★★★
 - Ricambi importati: via USA, tempi lunghi, dogana burocratica ★★
 
 Ultimo aggiornamento: 25/08/2026

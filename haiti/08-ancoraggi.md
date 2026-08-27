@@ -21,7 +21,7 @@
 ## Cartografia ufficiale
 
 - Carte **NGA/DMA** serie Haiti disponibili (approcci principali); dettaglio portuale
-  datato: **incrociare sempre con satellite e osservazione**. ★★★★
+ datato: **incrociare sempre con satellite e osservazione**. ★★★★
 
 ## Checklist àncora
 

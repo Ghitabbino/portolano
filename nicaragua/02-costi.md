@@ -11,7 +11,7 @@
 | Cambio | Cordoba ≈ 36,6/USD (variabile) | ★★★ |
 
 - **Vita quotidiana tra le più economiche dell'America Centrale**: cena fuori US$5-10,
-  birra locale <$2, frutta/verdura da mercato molto economiche ★★★
+ birra locale <$2, frutta/verdura da mercato molto economiche ★★★
 - Carburante diesel: prezzo regionale medio-centroamericano ★★
 
 Ultimo aggiornamento: 25/08/2026

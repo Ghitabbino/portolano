@@ -48,9 +48,9 @@
 ## Salvataggio ed emergenze in mare
 
 - **MRCC Haiti (Semanah)**: VHF 16, copertura limitata; in pratica i soccorsi gravi
-  vengono spesso coordinati con l'**Armada RD** dal lato est. Tenere a bordo coordinate
-  WGS84 pronte e lista POB. ★★
+ vengono spesso coordinati con l'**Armada RD** dal lato est. Tenere a bordo coordinate
+ WGS84 pronte e lista POB. ★★
 - Kit consigliato: EPIRB registrato, PLB, AIS, zattera revisionata, cassetta medica con
-  antibiotici/antidolorifici (colera/dengue risk in area haitiana). ★★
+ antibiotici/antidolorifici (colera/dengue risk in area haitiana). ★★
 
 

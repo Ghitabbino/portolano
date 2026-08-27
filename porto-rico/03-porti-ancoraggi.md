@@ -58,12 +58,12 @@
 | Struttura | Costo/notte noto | Note | Fonte |
 |---|---|---|---|
 | Puerto del Rey (transito ~12 m / 40 ft) | **DATO MANCANTE** | Listino stagionale su richiesta; alta stagione dic–apr, prenotare con largo anticipo. Elettricità/acqua a consumo. | ★★ |
-| Ponce Yacht & Fishing Club (~12 m) | **DATO MANCANTE** |  |  |
-| Club Náutico San Juan (~12 m) | **DATO MANCANTE** | Club — tariffa soci/ospiti |  |
-| Varadero Puerto Chico | **DATO MANCANTE** |  |  |
-| Elettricità / Acqua a banchina | **DATO MANCANTE** | A Puerto del Rey meter a consumo; altre marine inclusa o a forfait |  |
+| Ponce Yacht & Fishing Club (~12 m) | **DATO MANCANTE** | | |
+| Club Náutico San Juan (~12 m) | **DATO MANCANTE** | Club — tariffa soci/ospiti | |
+| Varadero Puerto Chico | **DATO MANCANTE** | | |
+| Elettricità / Acqua a banchina | **DATO MANCANTE** | A Puerto del Rey meter a consumo; altre marine inclusa o a forfait | |
 | Boa / ancoraggio gestito | **Gratuito** fuori zone regolamentate | Salvo divieti federali (Vieques est, riserve) — vedi [08](08-ancoraggi.md) | ★★★ |
-| Multiscafo supplemento | **DATO MANCANTE** | Tipicamente +30–50% |  |
+| Multiscafo supplemento | **DATO MANCANTE** | Tipicamente +30–50% | |
 
 *Per confronto Martinica 2024–25: ~29 €/notte pontile 12 m + 0,36 €/kWh elettricità — Porto Rico atteso superiore per area USA.* ★★
 
@@ -74,7 +74,7 @@
 | Tratta | Distanza | Note |
 |---|---|---|
 | Fajardo (Puerto del Rey) – Culebra (Ensenada Honda) | ~17 M | Traversata breve, partenza mattutina consigliata |
-| Fajardo – Vieques (Esperanza) | ~20 M |  |
+| Fajardo – Vieques (Esperanza) | ~20 M | |
 | Fajardo – St. Thomas (USVI) | ~45 M | Clearance obbligatoria PR↔USVI, salvo bandiera/equipaggio USA |
 | San Juan – Fajardo (via costa) | ~30 M | Rada urbana — preferire marina |
 | Ponce – La Parguera / Boquerón | ~15–25 M | Navigazione diurna, molte nasse |

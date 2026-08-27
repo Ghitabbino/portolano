@@ -15,7 +15,7 @@
 ## Note
 
 - Contesto politico: evitare raduni pubblici; le autorità possono applicare regole in
-  modo arbitrario (advisory internazionali) ★★★★
+ modo arbitrario (advisory internazionali) ★★★★
 - Non sbarcare di notte sulle spiagge isolate del Pacifico ★★
 - Emergenza: **118** police · VHF 16 presidio limitato ★★
 

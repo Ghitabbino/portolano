@@ -5,11 +5,11 @@
 ## San Juan del Sur (POE più usato)
 
 1. All'ingresso della baia (0,5 mi larga, boa bianca Fl(6)3s sul reef a P): ancorare a sud,
-   linea dei 10 m, mai entro 91 m dalla riva (swell mag-ott)
+ linea dei 10 m, mai entro 91 m dalla riva (swell mag-ott)
 2. Bordo dei rappresentanti della Capitanería (ufficio in stile bavarese sulla collina):
-   processo dello zarpe d'ingresso, ricerca leggera armadi possibile
+ processo dello zarpe d'ingresso, ricerca leggera armadi possibile
 3. **Costi riscontrati**: ingresso immigrazione US$15 barca + ~$2/pax · **zarpe internazionale
-   d'uscita US$25** (qualche discussione su $25 vs $40) ★★★
+ d'uscita US$25** (qualche discussione su $25 vs $40) ★★★
 4. Immigrazione e Capitaneria sono adiacenti al molo: 20-30 minuti totali ★★★
 
 ## Puesta del Sol (Marina, Pacifico nord)

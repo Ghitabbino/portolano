@@ -7,7 +7,7 @@
 | Zona | Los Cristianos – Paseo de Berlín, vicoli caratteristici vicino al porto |
 | Cucina | 🍕 Italiana creativa con carne e pesce |
 | Specialità | Carbonara *(carbonara)* · hamburguesas caseras *(hamburger artigianali)* · tiramisú *(tiramisù)* |
-| Costo | 💰€€ 10–30 € per persona senza bevande  |
+| Costo | 💰€€ 10–30 € per persona senza bevande |
 | Location | 🪶 locale intimo nascosto tra i vicoli, atmosfera curata |
 | Contatti | 633 68 61 88 · Facebook/Instagram @salfina_tenerife |
 | Valutazioni |TA 4,9/5 (1.337), nº5 su 361 a Los Cristianos, Lo Mejor de lo Mejor Travellers' Choice 2025 (top 1% mondiale) · Google 4,8/5 (~1.179) → ★★★★★|

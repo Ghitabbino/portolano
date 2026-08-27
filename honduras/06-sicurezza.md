@@ -13,7 +13,7 @@
 
 ## Quadro generale
 
-  **Bay Islands sono l'unica zona consigliata** per la navigazione ★★★★
+ **Bay Islands sono l'unica zona consigliata** per la navigazione ★★★★
 - Furti a dinghy segnalati storicamente a Roatán/Utila: chiusure doppie ★★
 - Narcotraffico: non toccare pacchi in mare, segnalare ★★★★
 - Emergenza: **911** · Coast Guard VHF 16 ★★★

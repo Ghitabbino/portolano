@@ -16,9 +16,9 @@
 ## Dettagli utili per il diportista
 
 - **Port Morgan (Île-à-Vache)**: ristorante del resort è l'unica ristorazione
-  affidabile per yacht; prevedere pasti autonomi a bordo per il resto. ★★
+ affidabile per yacht; prevedere pasti autonomi a bordo per il resto. ★★
 - Cambusa completa prima dell'arrivo: fuori dal resort **nessuna alternativa
-  verificata** (vedi [07 Provvisioning](07-provvisioning.md)). ★★★
+ verificata** (vedi [07 Provvisioning](07-provvisioning.md)). ★★★
 
 
 ## App e fonti

@@ -15,7 +15,7 @@
 | **Tru Valu – Trincity / Port of Spain** | Trincity, Port of Spain | ~15 km da Chaguaramas | ⚠️ taxi | DATO MANCANTE | DATO MANCANTE |
 | Penny Savers – Tobago, Crown Point | Crown Point, Tobago | ~1 km dall'ancoraggio | ✅ sì | DATO MANCANTE | DATO MANCANTE |
 
-> **Nota metodo:** quando il telefono è indicato **DATO MANCANTE** significa che non è stato verificato con websearch/webfetch in questa sessione; verrà ricercato al controllo mensile. Mai inventare numeri. ★★
+> **Nota metodo:** quando il telefono è indicato **DATO MANCANTE** significa che non è stato verificato con websearch/webfetch in questa sessione; verrà ricercato al controllo mensile. ★★
 
 ### Dettagli per base principale — Chaguaramas (Trinidad)
 

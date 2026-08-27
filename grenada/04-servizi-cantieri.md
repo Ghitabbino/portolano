@@ -50,7 +50,7 @@ L'import duty free di ricambi e forniture marine è previsto per legge (Yachting
 - Per refit maggiori molti armatori valutano anche Trinidad (Chaguaramas), hub regionale del settore. ★★
 
 ## Artigiani
-Meccanica, elettrica, rigging e vetroresina sono disponibili tramite i contractor approvati dei cantieri (Clarkes Court) o il personale interno certificato ABYC (Grenada Marine). Nominativi individuali verificati: **DATO MANCANTE** → elenco in [09](09-artigiani-nautici.md). Mai inventare contatti.
+Meccanica, elettrica, rigging e vetroresina sono disponibili tramite i contractor approvati dei cantieri (Clarkes Court) o il personale interno certificato ABYC (Grenada Marine). Nominativi individuali verificati: **DATO MANCANTE** → elenco in [09](09-artigiani-nautici.md).
 
 ## Gas e bombole
 - Ricarica bombole tramite **Texaco**: ritiro il **lunedì e mercoledì** direttamente dalle marina (segnalazione Cruisers Wiki, dato non recente ⚠️ confermare in marina). ★★

@@ -3,7 +3,7 @@
 **Ultima verifica: 25/08/2026**
 
 - San Juan del Sur: meccanica marina, fiberglass, veleria base, metalwork segnalati
-  [Ocean Posse] ★★ — contatti precisi **DATO MANCANTE**
+ [Ocean Posse] ★★ — contatti precisi **DATO MANCANTE**
 - Bluefields Marine Supply: elettrico/meccanico base, fuel/water ★★
 - Haul-out e lavori maggiori: **DATO MANCANTE** → riferimenti regionali Costa Rica/Panama
 

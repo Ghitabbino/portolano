@@ -16,7 +16,7 @@
 | **PriceSmart** | Avenida Milio Croes 103, Oranjestad | ~3–4 km | ⚠️ taxi | tel +297 588-4400 | DATO MANCANTE |
 | Cmart Supermarket | Cumana #38, Oranjestad | ~4 km | ⚠️ taxi | DATO MANCANTE | DATO MANCANTE |
 
-> **Nota metodo:** quando il telefono è indicato **DATO MANCANTE** significa che non è stato verificato con websearch/webfetch in questa sessione; verrà ricercato al controllo mensile. Mai inventare numeri. ★★
+> **Nota metodo:** quando il telefono è indicato **DATO MANCANTE** significa che non è stato verificato con websearch/webfetch in questa sessione; verrà ricercato al controllo mensile. ★★
 
 ### Dettagli per base principale — Oranjestad Renaissance Marina
 

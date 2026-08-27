@@ -9,7 +9,7 @@ Hub locale limitato: per lavori importanti molti armatori si appoggiano a **hub 
 | DATO MANCANTE | DATO MANCANTE | Meccanico / elettricista | DATO MANCANTE | DATO MANCANTE | DATO MANCANTE | Oranjestad / marina — verificare in capitainerie | ★★ |
 | DATO MANCANTE | DATO MANCANTE | Velaio / rigger | DATO MANCANTE | DATO MANCANTE | DATO MANCANTE | Mobile — chiedere in marina | ★★ |
 
-> Tutti i nominativi con **DATO MANCANTE** non sono stati verificati con websearch/webfetch in questa sessione; verranno ricercati al controllo mensile. Mai inventare contatti. ★★
+> Tutti i nominativi con **DATO MANCANTE** non sono stati verificati con websearch/webfetch in questa sessione; verranno ricercati al controllo mensile. ★★
 
 ## Dove si trova cosa
 

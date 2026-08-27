@@ -8,7 +8,7 @@ Legenda: **€** <20 · **€€** 20–40 · **€€€** >40 — prezzi in EC
 
 | Ristorante | Costo | Specialità | Location |
 |---|---|---|---|
-| Beach BBQ dei pescatori | **€€**  | Aragosta · pesce fresco · rum punch | 🔥 sulle spiagge delle cays, su ordinazione VHF |
+| Beach BBQ dei pescatori | **€€** | Aragosta · pesce fresco · rum punch | 🔥 sulle spiagge delle cays, su ordinazione VHF |
 
 ## App utili sul posto
 

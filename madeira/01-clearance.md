@@ -15,13 +15,13 @@ Tutti i natanti da diporto, qualsiasi nazionalità e bandiera, che:
 
 1. **Contattare la Capitania do Porto do Funchal** **prima dell'ingresso** (VHF Ch 16, poi canale operativo; o telefono/email).
 2. **Presentarsi fisicamente** alla Capitania (o punto designato GNR/Polícia Marítima) per:
-   - Controllo passaporti equipaggio (GNR/SEF/AIMA)
-   - Clearance doganale (Alfândega / Autoridade Tributária e Aduaneira)
-   - Crew list e dichiarazione merci
+ - Controllo passaporti equipaggio (GNR/SEF/AIMA)
+ - Clearance doganale (Alfândega / Autoridade Tributária e Aduaneira)
+ - Crew list e dichiarazione merci
 3. **Porti di ingresso designati** (con presenza dogana/polizia confermata):
-   - **Funchal (Marina/Cais da Pontinha)** — hub principale, aeroporto, GNR, Polícia Marítima, Capitania, APRAM
-   - **Porto Santo (Marina/Porto)** — Capitania propria, APRAM, GNR; **clearance autonoma**
-   - **Caníçal (Porto Comercial)** — solo commerciali, non diporto abituale
+ - **Funchal (Marina/Cais da Pontinha)** — hub principale, aeroporto, GNR, Polícia Marítima, Capitania, APRAM
+ - **Porto Santo (Marina/Porto)** — Capitania propria, APRAM, GNR; **clearance autonoma**
+ - **Caníçal (Porto Comercial)** — solo commerciali, non diporto abituale
 4. **Altre marine** (Quinta do Lorde, Calheta, Machico): coordinare la clearance **attraverso Funchal o Porto Santo** prima di procedere. [madeirayachtclearance.com FAQ 2026 ★★★]
 
 ## Documenti richiesti

@@ -35,9 +35,9 @@
 ## Permanenza ed estensione
 
 - 90 giorni prorogabili su richiesta all'Immigration Division **prima** della scadenza
-  del timbro ★★★★
+ del timbro ★★★★
 - Senza timbro d'ingresso nel passaporto l'estensione è praticamente impossibile:
-  **controllare sempre il timbro** ★★★★
+ **controllare sempre il timbro** ★★★★
 
 ## Note operative
 

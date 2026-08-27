@@ -73,7 +73,7 @@ Costa sud arida e ventosa, saline e dune. Baie ampie e poco frequentate, buone c
 | **NIMA / NGA — RD North Coast** | Luperón–Puerto Plata–Samaná | Approccio e canali |
 | **NIMA / NGA — RD South Coast** | Santo Domingo–Isla Saona–Barahona | Reef e parchi |
 | **Navionics / C-MAP / NV Charts** | Intera Hispaniola | Elettroniche aggiornate, indispensabili per reef |
-| **SHOM — Caraïbes** | Pianificazione rotte inter-isole |  | ★★★
+| **SHOM — Caraïbes** | Pianificazione rotte inter-isole | | ★★★
 
 - Le carte cartacee RD non sempre dettagliano l'ultimo balisage dei canali (Luperón, Boca Chica): **incrociare con elettronica aggiornata e waypoint cruiser verificati**, entrando con sole alto. ★★
 - Cartografia amministrativa parchi: **Ministerio de Medio Ambiente RD** (mappe Los Haitises, Del Este, Jaragua). ★★★★

@@ -22,7 +22,7 @@ da tracciare con carta ufficiale prima della partenza.
 ## Note strategiche per ormeggio
 
 - **Stagione ciclonica (01/06–30/11)**: ormeggi rinforzati rari — il riferimento locale
-  (Île-à-Vache, baia riparata) non è un hurricane hole certificato; piano B verso RD. ★★
+ (Île-à-Vache, baia riparata) non è un hurricane hole certificato; piano B verso RD. ★★
 - **Despacho/Semanah**: formalità di movimento da verificare caso per caso — **DATO MANCANTE**.
 
 Ultimo aggiornamento: 25/08/2026

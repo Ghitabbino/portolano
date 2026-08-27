@@ -95,8 +95,8 @@ Il testo della wiki resta comunque sotto i 10 MB: è la cartografia a pesare.
 ## ⚙️ COMANDI RICORRENTI
 
 ```bash
-python3 tools/build_paesi_html.py && cp paesi.html index.html   # rigenera sempre
-python3 tools/verifica_critica.py                               # coda revisioni >15 gg
-python3 tools/controlla_link.py --paese XX                      # link rotti
-git add -A && git commit -m "..." && git push origin main       # pubblica
+python3 tools/build_paesi_html.py && cp paesi.html index.html # rigenera sempre
+python3 tools/verifica_critica.py # coda revisioni >15 gg
+python3 tools/controlla_link.py --paese XX # link rotti
+git add -A && git commit -m "..." && git push origin main # pubblica
 ```

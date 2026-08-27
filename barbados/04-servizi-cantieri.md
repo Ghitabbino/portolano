@@ -18,7 +18,7 @@
 | Frigorista | DATO MANCANTE | DATO MANCANTE | — |
 | Saldatura inox/alluminio | DATO MANCANTE | DATO MANCANTE | — |
 
-> Quando indicato **DATO MANCANTE** il nominativo non è stato verificato con websearch/webfetch in questa sessione; verrà ricercato al controllo mensile. Mai inventare contatti. ★★
+> Quando indicato **DATO MANCANTE** il nominativo non è stato verificato con websearch/webfetch in questa sessione; verrà ricercato al controllo mensile. ★★
 
 ## Gas e bombole
 

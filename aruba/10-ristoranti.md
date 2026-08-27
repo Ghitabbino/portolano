@@ -14,7 +14,7 @@ Legenda prezzi: **€** <20 · **€€** 20–40 · **€€€** >40 — Cucin
 | DATO MANCANTE — bar della marina | Marina principale | **€** | 🥙 Street food | Roti / fish & chips | 🥙 casual | ★★ |
 | DATO MANCANTE — ristorante spiaggia | Spiaggia principale | **€€** | 🐟 Grill | Lobster / BBQ | 🏖️ spiaggia | ★★ |
 
-> I nominativi con **DATO MANCANTE** non sono stati verificati con websearch/webfetch in questa sessione; verranno cercati al controllo mensile con Google/TheFork. Mai inventare nomi. ★★
+> I nominativi con **DATO MANCANTE** non sono stati verificati con websearch/webfetch in questa sessione; verranno cercati al controllo mensile con Google/TheFork. ★★
 
 ## App e fonti
 

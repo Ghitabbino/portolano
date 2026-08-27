@@ -66,24 +66,24 @@
 </div>
 <script>
 function calcTepai(){
-  var loa=parseFloat(document.getElementById('tepai-loa').value.replace(',','.'));
-  var mesi=parseInt(document.getElementById('tepai-mesi').value);
-  var out=document.getElementById('tepai-out');
-  if(isNaN(loa)){ out.innerHTML='Inserisci la lunghezza fuori tutto in metri (es. 12.59)'; return; }
-  if(loa<=7.0){ out.innerHTML='✅ Esente: ≤7,00 m fuori tutto — TEPAI non dovuto'; return; }
-  var mensile=0;
-  if(loa>7 && loa<=8) mensile=16;
-  else if(loa>8 && loa<=10) mensile=25;
-  else if(loa>10 && loa<=12) mensile=33;
-  else mensile=loa*8;
-  var totale=mensile*mesi;
-  var sconto=false;
-  if(mesi==12){ totale=mensile*12*0.8; sconto=true; }
-  var txt='LOA '+loa.toFixed(2)+' m → €'+mensile.toFixed(2)+' /mese × '+mesi+' mesi = <span style=color:#ffd54f>€'+totale.toFixed(2)+'</span>';
-  if(sconto) txt+=' <span style=color:#ffb74d>⚠️ -20% solo con pagamento unico 12 mesi</span>';
-  else if(mesi>1) txt+=' <span style=color:#8aa2b5>(senza sconto — paga mese per mese)</span>';
-  txt+='<br><span style=font-size:12px;color:#8aa2b5>Pagamento su <a href=https://www1.aade.gr/aadeapps2/etepai/ target=_blank>eTEPAI AADE</a> — ricevuta a bordo obbligatoria</span>';
-  out.innerHTML=txt;
+ var loa=parseFloat(document.getElementById('tepai-loa').value.replace(',','.'));
+ var mesi=parseInt(document.getElementById('tepai-mesi').value);
+ var out=document.getElementById('tepai-out');
+ if(isNaN(loa)){ out.innerHTML='Inserisci la lunghezza fuori tutto in metri (es. 12.59)'; return; }
+ if(loa<=7.0){ out.innerHTML='✅ Esente: ≤7,00 m fuori tutto — TEPAI non dovuto'; return; }
+ var mensile=0;
+ if(loa>7 && loa<=8) mensile=16;
+ else if(loa>8 && loa<=10) mensile=25;
+ else if(loa>10 && loa<=12) mensile=33;
+ else mensile=loa*8;
+ var totale=mensile*mesi;
+ var sconto=false;
+ if(mesi==12){ totale=mensile*12*0.8; sconto=true; }
+ var txt='LOA '+loa.toFixed(2)+' m → €'+mensile.toFixed(2)+' /mese × '+mesi+' mesi = <span style=color:#ffd54f>€'+totale.toFixed(2)+'</span>';
+ if(sconto) txt+=' <span style=color:#ffb74d>⚠️ -20% solo con pagamento unico 12 mesi</span>';
+ else if(mesi>1) txt+=' <span style=color:#8aa2b5>(senza sconto — paga mese per mese)</span>';
+ txt+='<br><span style=font-size:12px;color:#8aa2b5>Pagamento su <a href=https://www1.aade.gr/aadeapps2/etepai/ target=_blank>eTEPAI AADE</a> — ricevuta a bordo obbligatoria</span>';
+ out.innerHTML=txt;
 }
 </script>
 

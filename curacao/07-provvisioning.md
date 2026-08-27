@@ -15,7 +15,7 @@
 | **Albert Heijn – Zuikertuintje / Jan Thiel** | Willemstad Zuikertuintje | ~4 km | ⚠️ taxi | DATO MANCANTE | DATO MANCANTE |
 | Carrefour – Sambil | Sambil Mall, Willemstad | ~6 km | ⚠️ taxi | DATO MANCANTE | DATO MANCANTE |
 
-> **Nota metodo:** quando il telefono è indicato **DATO MANCANTE** significa che non è stato verificato con websearch/webfetch in questa sessione; verrà ricercato al controllo mensile. Mai inventare numeri. ★★
+> **Nota metodo:** quando il telefono è indicato **DATO MANCANTE** significa che non è stato verificato con websearch/webfetch in questa sessione; verrà ricercato al controllo mensile. ★★
 
 ### Dettagli per base principale — Spanish Water / Willemstad
 

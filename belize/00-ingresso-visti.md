@@ -26,7 +26,7 @@
 ## Note
 
 - Dopo la clearance: **libera circolazione** nel paese, nessuna formalità interna;
-  serve solo la clearance di uscita ★★★★
+ serve solo la clearance di uscita ★★★★
 - **Belize City**: pilotaggio obbligatorio (o waiver preventivo) ★★★
 - Animali domestici: permesso importazione BAHA preventivo ★★★
 
