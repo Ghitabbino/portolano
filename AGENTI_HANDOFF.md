@@ -72,16 +72,7 @@ python3 tools/download_mappe.py       # tasselli mappa offline
       automaticamente dagli attributi decimale data-lat/data-lon del mapframe.
     - MAI coordinate inventate: se non verificate su fonte attendibile →
       `**DATO MANCANTE**` (vale anche per i pin delle cartine).
-9b. SCALA CARTE ZOOMMABILI (nuova 25/08/2026): ogni ancoraggio segnalato DEVE
-    avere una cartina interattiva zoomabile stile Google Maps (pan + zoom
-    continuo fino al dettaglio della baia, MAI immagini fisse). Scala di
-    RIFERIMENTO CERTIFICATA = BAHAMAS: mappa generale ancoraggi zoom **6–13** ·
-    ristoranti **6–13** · sicurezza **6–12** · minimappa scheda ancoraggio
-    **12–15** (default del build). Paesi-isola piccoli possono partire da 7,
-    il massimo resta 13. Tasselli offline generati con
-    `tools/download_mappe.py` per ogni livello usato (base/sat/sea); il
-    build aggiunge da solo il fallback online Esri/CARTO/OpenSeaMap.
-    NO mapframe senza tasselli locali (vedi regola 6).
+9b. SCALA CARTE ZOOMMABILI (aggiornata 28/08/2026 su richiesta "aumenta zoom"): ogni ancoraggio/ristorante DEVE avere cartina zoomabile stile Google Maps fino al dettaglio. Scala CERTIFICATA aggiornata = BAHAMAS: mappa generale ancoraggi zoom **6–16** · ristoranti **6–16** · sicurezza **6–15** · minimappa scheda ancoraggio/ristorante **12–17** (default build). Paesi piccoli possono partire da 7, il massimo ora **17** (prima 13/15). Tasselli offline generati con `tools/download_mappe.py` per ogni livello usato (base/sat/sea); il build aggiunge fallback online Esri/CARTO/OpenSeaMap. NO mapframe senza tasselli locali (regola 6).
     ⚠️ AUDIT OBBLIGATORIO: tutti i paesi già pubblicati vanno portati a
     questa scala e verificati uguali al livello Martinica (struttura 08 con
     tabella+schede+cartina, densità fonti, DM→0).
@@ -120,7 +111,13 @@ python3 tools/download_mappe.py       # tasselli mappa offline
 14. RICERCA RISTORANTI — ESTENSIONE AI SITI LOCALI (nuova 27/08/2026, decisione finale utente, vale per TUTTI gli agenti):
     • Oltre a TripAdvisor/Google/TheFork, **estendere sempre la ricerca recensioni ai siti locali del paese** (es. guide locali, blog food locali, giornali, portali turismo ufficiali, associazioni ristoratori, Facebook/Instagram locali).
     • Per ogni ristorante riportare: nome, cucina, fascia €, recensioni locali (fonte + data + rank ★), link al sito locale se esiste.
-    • Vietato inventare recensioni — se non trovate su siti locali → `**DATO MANCANTE**` per recensioni, ma il ristorante resta con scheda base + mappa.
+     • Vietato inventare recensioni — se non trovate su siti locali → `**DATO MANCANTE**` per recensioni, ma il ristorante resta con scheda base + mappa.
+
+15. BANDIERE — REGOLA GENERALE (nuova 28/08/2026, vale per TUTTI gli agenti):
+     • Se un luogo è **trattato come a sé stante** nel portolano (cartella `paesi/<slug>/` propria), usa **sempre la bandiera del luogo**, MAI quella dello Stato sovrano.
+     • Esempi: **Canarie → 🇮🇨** (non 🇪🇸), **Azzorre → 🇵🇹** autonoma (non PT continentale), **Madeira → 🇵🇹** autonoma, **Guadalupa 🇬🇵 / Martinica 🇲🇶 / Saint-Barth 🇧🇱 / Saint-Martin 🇲🇫** (non 🇫🇷), **Aruba 🇦🇼 / Curaçao 🇨🇼 / Bonaire 🇧🇶 / Saba 🇳🇱 / Sint Eustatius 🇳🇱** (non 🇳🇱 generico ove esiste codice specifico), **Cayman 🇰🇾 / Turks e Caicos 🇹🇨 / Anguilla 🇦🇮 / Montserrat 🇲🇸 / Vergini 🇻🇮** (non 🇬🇧/🇺🇸), **Porto Rico 🇵🇷** (non 🇺🇸).
+     • Mappa bandiere in `paesi/tools/build_paesi_html.py:120` (`BANDIERE`): aggiornala quando aggiungi un nuovo `slug` autonomo. Se il territorio ha codice ISO/emoji dedicato (es. 🇮🇨 per Canarie), usalo; se non esiste emoji dedicata (es. Azzorre/Madeira), usa l'emoji dello Stato con nota “autonoma” e icona distinta se disponibile.
+     • Cerca e sostituisci: a ogni nuovo paese/arcipelago autonomo, verifica che `TREE.flag` e le tessere non mostrino la bandiera della madrepatria.
 
 ## ✅ COMPLETATO (non rifare)
 
