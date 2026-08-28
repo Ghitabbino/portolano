@@ -17,5 +17,8 @@
   "wiki_free_title": "Completely free wiki — no sign-up required",
   "wiki_free_desc": "Browse the entire pilot book, view all sheets, download maps and ZIP/GPX files and use the site offline without creating any account or payment.",
   "welcome_aboard": "Welcome aboard — two ways to use the wiki",
-  "breadcrumb_home": "Home"
+  "breadcrumb_home": "Home",
+  "support_us": "☕ Support Us",
+  "footer_support": "Portolano is an open-source, independent, and ad-free project. If this guide was helpful, help us keep on track:<br>Become an official supporter on <a href=\"https://github.com/sponsors/Ghitabbino\" target=\"_blank\" style=\"color:var(--accent)\">GitHub Sponsors</a><br>Buy us a virtual coffee on <a href=\"https://ko-fi.com/sailtropics\" target=\"_blank\" style=\"color:var(--accent)\">Ko-fi</a>",
+  "keep_logged": "Keep me logged in"
 }

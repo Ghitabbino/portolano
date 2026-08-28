@@ -6,6 +6,7 @@
 <div style="border:1px solid var(--line);border-radius:10px;padding:16px;background:#0b131b">
 <label>Email</label><input id="email" type="email" autocomplete="email" list="email-list2"><datalist id="email-list2"></datalist>
 <label style="margin-top:10px;display:block">Password</label><input id="pass" type="password">
+<label style="display:flex;gap:8px;align-items:center;margin:10px 0;font-size:13px;color:var(--muted);cursor:pointer"><input type="checkbox" id="keep-logged" checked> Mantienimi collegato</label>
 <div style="text-align:center;margin:14px 0"><button onclick="login()">Accedi</button></div>
 <div id="msg" style="display:none;padding:10px;border-radius:8px"></div>
 </div>
@@ -14,11 +15,13 @@
 <script>
 function login(){
   const email=document.getElementById('email').value.trim(), pass=document.getElementById('pass').value;
-  const saved=JSON.parse(localStorage.getItem('sailtropics_user')||'null');
+  const keep=document.getElementById('keep-logged')?.checked;
+  const saved=JSON.parse(localStorage.getItem('sailtropics_user')||sessionStorage.getItem('sailtropics_user')||'null');
   const m=document.getElementById('msg');
   if(!saved||(saved.email!==email && saved.nick!==email)){m.style.display='block';m.style.background='#3a1a1a';m.style.border='1px solid #d32f2f';m.textContent='Account non trovato. Iscriviti prima.';return;}
   if(saved.pass && saved.pass!==pass){m.style.display='block';m.style.background='#3a1a1a';m.style.border='1px solid #d32f2f';m.textContent='Password errata.';return;}
-  localStorage.setItem('sailtropics_logged','1');
+  if(keep){ localStorage.setItem('sailtropics_logged','1'); sessionStorage.removeItem('sailtropics_logged'); }
+  else { sessionStorage.setItem('sailtropics_logged','1'); localStorage.removeItem('sailtropics_logged'); }
   m.style.display='block';m.style.background='#0f2e1f';m.style.border='1px solid var(--accent)';m.textContent='✅ Login riuscito — torno in prima pagina…';
   setTimeout(()=>location.href='index.html', 700);
 }

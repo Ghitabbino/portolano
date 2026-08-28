@@ -173,6 +173,28 @@ python3 tools/download_mappe.py       # tasselli mappa offline
 | 4 | Multilingua: infrastruttura en/fr/es/de + selettore lingue home | ~45 min |
 | 5 | Traduzioni: EN piena qualità (4–6h batch); FR/ES/DE DeepL-assistite 1–2h/lng | dopo ok utente |
 | 6 | Donazioni: Ko-fi o Liberapay — fondo menu laterale + card discreta home (~25 min) | serve username utente |
+| 7 | **POD CATALOGO ETICO (NUOVO 28/08/2026):** 3 categorie — 1) Abbigliamento Bio (T-shirt/felpe cotone bio PNG trasparente), 2) Cancelleria Scrivania (taccuini, tazze, adesivi), 3) Attrezzatura Tecnica Bordo (bandiere/guidoni vento, sacche stagne, tazze acciaio, asciugamani microfibra) — per ogni gadget scheda con DPI 300+, pixel, sRGB/CMYK, stampa DTG/Sublimazione/UV, posizionamento logo, margine etico 4-10€ | vedi AGENTI_TRACCIA.md #17 |
+
+## 📦 CATALOGO MERCH POD ETICO — REGOLE
+
+**Due anime grafiche distinte, unico catalogo a costo zero:**
+
+1. **Portolano** (wiki): minimale, intellettuale, conoscenza/orientamento — per studio/scrivania
+2. **Sailtropics** (barca): tecnico, resistente, marino/avventuroso — per bordo
+
+**3 macro-categorie obbligatorie (per ogni prodotto scheda tecnica con 4 punti):**
+
+| Cat | Prodotti | Focus | Grafica |
+|---|---|---|---|
+| 1 | T-shirt/felpe cotone bio 100% | Comfort terra/bordo | PNG trasparente, varianti colore |
+| 2 | Taccuini copertina rigida, tazze ufficio, adesivi fustellati | Studio/programmazione/wiki al PC | Stampa su carta/ceramica |
+| 3 | Bandiere/guidoni vento, sacche stagne dry bags, tazze acciaio moschettone, asciugamani microfibra antisalsedine | Resistenza UV/vento/acqua mare | Doppio lato / cuciture rinforzate |
+
+**Scheda tecnica per ogni gadget (4 punti obbligatori):**
+1. Dimensioni file: DPI min 300, pixel (es. 4000x4000px), profilo colore sRGB/CMYK
+2. Tipo stampa: DTG / Sublimazione / Stampa UV
+3. Posizionamento logo: es. centrato petto, retro sacca, entrambi i lati bandiera
+4. Margine etico: costo fornitore POD vs prezzo vendita per 4-10€ guadagno
 
 ## 🔍 FONTI PER LA RICERCA DATI (usate e affidabili)
 

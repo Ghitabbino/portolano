@@ -1,0 +1,26 @@
+<!DOCTYPE html><html lang="it"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Fix meolo — auto</title><style>body{font:15px/1.5 sans-serif;padding:24px;max-width:600px;margin:auto;background:#0f1720;color:#dbe7f1}a{color:#4db6ac}button{padding:10px 18px;border-radius:8px;background:#4db6ac;color:#06231f;font-weight:800;border:1px solid #4db6ac;cursor:pointer}</style></head><body>
+<h1>Fix meolo — riparato</h1>
+<p>Profilo <b>meolo / 1234</b> creato automaticamente. Verrai reindirizzato alla pagina personale dove selezioni gli alert.</p>
+<div id="msg" style="margin-top:12px;padding:10px;border-radius:8px;background:#0f2e1f;border:1px solid #4db6ac">✅ Fatto! Reindirizzamento in corso…</div>
+<pre id="dbg" style="background:#0b131b;border:1px solid #24384a;border-radius:8px;padding:10px;overflow:auto;font-size:12px;margin-top:12px"></pre>
+<script>
+(function(){
+  const user={nick:"meolo", email:"meolo", pass:"1234", barca:"", sel:[], aree:[], paesi:[], channels:["mail"], freq:["istantaneo"], token:"fix-meolo-"+Date.now(), verified:true, ts:Date.now()};
+  localStorage.setItem('sailtropics_user', JSON.stringify(user));
+  localStorage.setItem('sailtropics_logged','1');
+  sessionStorage.removeItem('sailtropics_logged');
+  let emails=JSON.parse(localStorage.getItem('sailtropics_emails')||'[]');
+  if(!emails.includes("meolo")){ emails.push("meolo"); localStorage.setItem('sailtropics_emails', JSON.stringify(emails)); }
+  const dbg=document.getElementById('dbg');
+  dbg.textContent='localStorage sailtropics_user: '+localStorage.getItem('sailtropics_user')+'\nlocalStorage logged: '+localStorage.getItem('sailtropics_logged');
+  // reindirizza alla pagina personale del portolano (wiki) — it, en, e standalone
+  setTimeout(()=>{
+    // prova wiki it (più usato), poi fallback a profilo standalone
+    const targetHash='#p5'; // PROFILO_PID = p5
+    const base=location.pathname.includes('/portolano/')?'/portolano/':'/';
+    // se siamo su fix-meolo.html a root, vai a it/index.html#p5
+    location.href=base+'it/index.html'+targetHash;
+  }, 800);
+})();
+</script>
+</body></html>

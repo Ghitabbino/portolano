@@ -17,5 +17,8 @@
   "wiki_free_title": "Völlig kostenloses Wiki — keine Anmeldung erforderlich",
   "wiki_free_desc": "Durchstöbern Sie das gesamte Handbuch, sehen Sie alle Datenblätter, laden Sie Karten und ZIP/GPX-Dateien herunter und nutzen Sie die Seite offline ohne Konto oder Zahlung.",
   "welcome_aboard": "Willkommen an Bord — zwei Arten, das Wiki zu nutzen",
-  "breadcrumb_home": "Startseite"
+  "breadcrumb_home": "Startseite",
+  "support_us": "☕ Unterstütze uns",
+  "footer_support": "Portolano ist ein Open-Source-Projekt, unabhängig und werbefrei. Wenn diese Anleitung hilfreich war, hilf uns, auf Kurs zu bleiben:<br>Werde offizieller Unterstützer auf <a href=\"https://github.com/sponsors/Ghitabbino\" target=\"_blank\" style=\"color:var(--accent)\">GitHub Sponsors</a><br>Spendiere uns einen virtuellen Kaffee auf <a href=\"https://ko-fi.com/sailtropics\" target=\"_blank\" style=\"color:var(--accent)\">Ko-fi</a>",
+  "keep_logged": "Angemeldet bleiben"
 }

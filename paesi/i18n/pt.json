@@ -17,5 +17,8 @@
   "wiki_free_title": "Wiki totalmente gratuito — sem necessidade de cadastro",
   "wiki_free_desc": "Navegue por todo o roteiro, consulte todas as fichas, baixe mapas e arquivos ZIP/GPX e use o site offline sem criar conta ou pagar.",
   "welcome_aboard": "Bem-vindo a bordo — duas formas de usar o wiki",
-  "breadcrumb_home": "Início"
+  "breadcrumb_home": "Início",
+  "support_us": "☕ Apoie-nos",
+  "footer_support": "O Portolano é um projeto de código aberto, independente e livre de publicidade. Se este guia foi útil para você, ajude-nos a manter o rumo:<br>Torne-se um apoiador oficial no <a href=\"https://github.com/sponsors/Ghitabbino\" target=\"_blank\" style=\"color:var(--accent)\">GitHub Sponsors</a><br>Pague-nos um café virtual no <a href=\"https://ko-fi.com/sailtropics\" target=\"_blank\" style=\"color:var(--accent)\">Ko-fi</a>",
+  "keep_logged": "Manter-me conectado"
 }
