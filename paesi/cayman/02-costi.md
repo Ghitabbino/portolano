@@ -14,11 +14,11 @@ Valuta: **dollaro delle Cayman (CI$)** a **cambio fisso 1 CI$ = 1,22 USD / 1 USD
 | Menu per 2 persone, ristorante medio (3 portate) | **CI$ 95** | Numbeo ★★★ |
 | McMeal / combo fast-food | **CI$ 12** | Numbeo ★★★ |
 | Birra locale al bar/ristorante (0,33–0,5 l) | **CI$ 6,00–7,50** | Censimento prezzi bar ★★ |
-| Latte 1 l | **CI$ 3,19** | Numbeo ★★★ |
-| Uova (12) | **CI$ 8,00** | Numbeo ★★★ |
-| Acqua imbottigliata 1,5 l | DATO MANCANTE | |
-| Pane / baguette | DATO MANCANTE | |
-| Riso 1 kg | DATO MANCANTE | |
+| Latte 1 l | **CI$ 3,63** (range 1,50–5,00) | [Numbeo 24/08/2026](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Cayman+Islands) ★★★ — 22 contributori ultimi 12 mesi |
+| Uova (12) | **CI$ 6,30** (range 3,49–8,70) | [Numbeo 24/08/2026](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Cayman+Islands) ★★★ |
+| Acqua imbottigliata 1,5 l | **≈CI$ 2,10 per 1,5 l** (50 oz =1,42 l → CI$ 1,98, range 1,39–3,39) | [Numbeo 24/08/2026](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Cayman+Islands) ★★★ · supermercati Foster's/Hurley's confermano 1,5 l a CI$ 1,90–2,40 |
+| Pane / baguette | **CI$ 3,41 per pagnotta bianca 1 lb (454 g)** (range 2,53–5,90); ≈**CI$ 7,50/kg** | [Numbeo 24/08/2026](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Cayman+Islands) ★★★ |
+| Riso 1 kg | **CI$ 1,65 per 1 lb → ≈CI$ 3,64/kg** (range 0,99–4,08/lb) | [Numbeo 24/08/2026](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Cayman+Islands) ★★★ |
 
 Prezzi specifici per locale → [10 Ristoranti](10-ristoranti.md).
 

@@ -804,9 +804,10 @@ function renderNav(){
   const ntc=document.getElementById('navtitle-c');
   if(g&&state){ntc.innerHTML=tit;ntc.style.display='flex';}
   else{ntc.innerHTML='';ntc.style.display='none';}
-  document.getElementById('disc-home').style.display=(!state)?'block':'none';
-  const wlh=document.getElementById('wiki-libera-home'); if(wlh) wlh.style.display=(!state)?'block':'none';
-  if(g&&!ctry)document.querySelectorAll('.page').forEach(x=>x.classList.remove('visible'));
+   document.getElementById('disc-home').style.display=(!state)?'block':'none';
+   const wlh=document.getElementById('wiki-libera-home'); if(wlh) wlh.style.display=(!state)?'block':'none';
+   const fg=document.getElementById('funding-guidone'); if(fg) fg.style.display=(!state)?'block':'none';
+   if(g&&!ctry)document.querySelectorAll('.page').forEach(x=>x.classList.remove('visible'));
   plinks.forEach(l=>l.style.display=(ctry&&l.dataset.country===ctry)?'':'none');
   document.querySelectorAll('.zonelink').forEach(l=>{
     const lk=l.dataset.country;let v=false;
@@ -825,12 +826,14 @@ function show(id){
   const p=document.getElementById(id);
   document.querySelectorAll('.page').forEach(x=>x.classList.toggle('visible',x===p));
   if(p&&p.dataset.special){
-    document.getElementById('navgrid').style.display='none';
-    document.getElementById('disc-home').style.display='none';
-    window.scrollTo(0,0);
-    updateBreadcrumb();
-    return;
-  }
+     document.getElementById('navgrid').style.display='none';
+     document.getElementById('disc-home').style.display='none';
+     const wlh2=document.getElementById('wiki-libera-home'); if(wlh2) wlh2.style.display='none';
+     const fg2=document.getElementById('funding-guidone'); if(fg2) fg2.style.display='none';
+     window.scrollTo(0,0);
+     updateBreadcrumb();
+     return;
+   }
   setState((p&&p.dataset.country)||'');
   window.scrollTo(0,0);
   if(p)initMaps(p);
