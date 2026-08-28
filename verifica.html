@@ -1,0 +1,20 @@
+<!DOCTYPE html><html lang="it"><head><meta charset="utf-8"><title>Verifica email</title><style>body{margin:0;background:#0f1720;color:#dbe7f1;font:15px/1.5 sans-serif;padding:40px;max-width:600px;margin:auto}a{color:#4db6ac}</style></head><body>
+<div style="display:flex;align-items:center;gap:9px;margin:0 0 2px"><svg viewBox="0 0 64 52" width="42" height="36" aria-hidden="true" style="flex-shrink:0"><circle cx="19" cy="20" r="9" fill="#F0705A"/><path d="M28 4 C40 14 46 30 43 46 L28 46 Z" fill="#1E5A9E"/><path d="M26 12 L26 46 L14 46 C18 34 21 22 26 12 Z" fill="#16406F"/><path d="M6 47 q9 -7 20 -2 t 30 1" stroke="#2BB3A3" stroke-width="4.5" fill="none" stroke-linecap="round"/><path d="M12 51 q8 -5 17 -1 t 22 0" stroke="#57CFC0" stroke-width="3.5" fill="none" stroke-linecap="round"/></svg><span style="font-size:20px;font-weight:700;letter-spacing:.01em;color:var(--ink)">Sail<span style="color:var(--accent)">Tropics</span></span></div>
+<div style="font-size:11px;color:var(--muted);margin:0 0 16px;letter-spacing:.08em;text-transform:uppercase">Portolano — Verifica</div>
+<h1>Verifica email</h1>
+<div id="msg">Verifica in corso…</div>
+<script>
+const p=new URLSearchParams(location.search);
+const token=p.get('token'), email=p.get('email');
+const saved=JSON.parse(localStorage.getItem('sailtropics_user')||'null');
+const msg=document.getElementById('msg');
+if(saved && saved.token===token && saved.email===email){
+  saved.verified=true; localStorage.setItem('sailtropics_user', JSON.stringify(saved)); localStorage.setItem('sailtropics_logged','1');
+  msg.innerHTML='✅ Email verificata! Ora sei iscritto.<br><a href="profilo.html">Vai al profilo</a> · <a href="index.html">Torna al portolano</a>';
+} else if(saved){
+  msg.innerHTML='⚠️ Link non valido o scaduto per '+email+'. Riprova l\'iscrizione.';
+} else {
+  msg.innerHTML='Nessuna iscrizione trovata in questo browser. Iscriviti prima su <a href="iscriviti.html">Iscriviti</a>.';
+}
+</script>
+</body></html>

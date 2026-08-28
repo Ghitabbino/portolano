@@ -1,0 +1,41 @@
+<!DOCTYPE html><html lang="it"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Iscriviti — SailTropics</title><style>:root{--bg:#0f1720;--panel:#16222e;--ink:#dbe7f1;--muted:#8aa2b5;--accent:#4db6ac;--line:#24384a}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 -apple-system,Segoe UI,Roboto,sans-serif;padding:24px;max-width:720px;margin:auto}a{color:var(--accent)}input{width:100%;padding:8px 10px;border-radius:8px;border:1px solid var(--line);background:#16222e;color:var(--ink)}button{padding:10px 18px;border-radius:8px;background:var(--accent);color:#06231f;font-weight:800;border:1px solid var(--accent);cursor:pointer}</style></head><body>
+<div style="display:flex;align-items:center;gap:9px;margin:0 0 2px"><svg viewBox="0 0 64 52" width="42" height="36" aria-hidden="true" style="flex-shrink:0"><circle cx="19" cy="20" r="9" fill="#F0705A"/><path d="M28 4 C40 14 46 30 43 46 L28 46 Z" fill="#1E5A9E"/><path d="M26 12 L26 46 L14 46 C18 34 21 22 26 12 Z" fill="#16406F"/><path d="M6 47 q9 -7 20 -2 t 30 1" stroke="#2BB3A3" stroke-width="4.5" fill="none" stroke-linecap="round"/><path d="M12 51 q8 -5 17 -1 t 22 0" stroke="#57CFC0" stroke-width="3.5" fill="none" stroke-linecap="round"/></svg><span style="font-size:20px;font-weight:700;letter-spacing:.01em;color:var(--ink)">Sail<span style="color:var(--accent)">Tropics</span></span></div>
+<div style="font-size:11px;color:var(--muted);margin:0 0 16px;letter-spacing:.08em;text-transform:uppercase">Portolano — Iscrizione</div>
+<div style="margin:0 0 14px;padding:10px 12px;border:1px solid var(--accent);border-radius:10px;background:rgba(77,182,172,.08)"><b style="color:var(--accent)">📖 Wiki assolutamente libera</b><span style="color:var(--ink)"> — nessuna iscrizione richiesta per navigare. L’iscrizione serve solo per <b>alert sicurezza/meteo</b> o per <b>contribuire</b> al portolano.</span></div>
+<h1>Iscriviti — Ricezione Alert</h1>
+<p><b>SailTropics è sempre consultabile senza iscrizione.</b> L’iscrizione serve solo per ricevere gli allert o contribuire.</p>
+<h3>Sezione A — Dati di Contatto</h3>
+<label>Nickname *</label><input id="nick" placeholder="lupo_di_mare">
+<label>Email *</label><input id="email" type="email" placeholder="nome@esempio.com">
+<label>Password *</label><input id="pass" type="password" placeholder="min. 8 caratteri">
+<label>Barca <span style="color:var(--muted)">(facoltativo)</span></label><input id="barca" placeholder='Monoscafo 40 piedi'>
+<h3>Sezione B — Paesi e Zone</h3>
+<label><input type="checkbox" class="area" value="Atlantico"> Atlantico</label><br><label><input type="checkbox" class="area" value="Caraibi"> Mar dei Caraibi</label><br><label><input type="checkbox" class="area" value="Mediterraneo"> Mediterraneo</label>
+<div style="margin:8px 0"><input id="paese" placeholder="Capo Verde, Martinica..." style="width:70%"><button onclick="aggiungiPaese()" style="padding:7px 10px;margin-left:6px">Aggiungi</button></div>
+<div id="scelti" style="font-size:13px;color:var(--muted)"></div>
+<h3>Sezione C — Frequenza</h3>
+<label><input type="radio" name="freq" value="istantaneo" checked> Istantaneo — solo critici (L3)</label><br><label><input type="radio" name="freq" value="settimanale"> Riepilogo Settimanale</label>
+<div style="text-align:center;margin:18px 0"><button onclick="iscrivi()">Iscriviti gratis</button></div>
+<div id="msg" style="display:none;padding:12px;border-radius:8px;margin:10px 0"></div>
+<p style="font-size:12px;color:var(--muted)">Privacy: <b>Questo è il nostro impegno: i tuoi dati saranno utilizzati esclusivamente per l’invio degli allert selezionati e non saranno mai ceduti a terzi.</b> Disiscrizione = cancellazione immediata. — <a href="index.html">Torna al portolano</a></p>
+<div style="margin:18px 0 0;padding:10px 12px;border-left:3px solid #ffb74d;background:#131e29;color:var(--muted);font-size:12px;line-height:1.5"><b style="color:#ffb74d">⚠️ Portolano amatoriale</b> — informazioni e coordinate indicative, non sostituiscono cartografia ufficiale né controllo in loco. Ogni decisione è del Comandante.</div>
+<script>
+let scelti=[];
+function aggiungiPaese(){const v=document.getElementById('paese').value.trim();if(v && !scelti.includes(v)){scelti.push(v);renderScelti();document.getElementById('paese').value='';}}
+function renderScelti(){document.getElementById('scelti').textContent=scelti.length?('Scelti: '+scelti.join(', ')):'Nessun paese specifico — riceverai per macro-aree.'}
+function iscrivi(){
+  const nick=document.getElementById('nick').value.trim(), email=document.getElementById('email').value.trim(), pass=document.getElementById('pass').value;
+  if(!nick||!email||!pass||pass.length<8){const m=document.getElementById('msg');m.style.display='block';m.style.background='#3a1a1a';m.style.border='1px solid #d32f2f';m.textContent='Compila nickname, email e password (min 8).';return;}
+  const aree=[...document.querySelectorAll('.area:checked')].map(c=>c.value);
+  const freq=document.querySelector('input[name="freq"]:checked').value;
+  const barca=document.getElementById('barca').value.trim();
+  const token=btoa(email+':'+Date.now()).replace(/=/g,'');
+  const link=location.origin+location.pathname.replace('iscriviti.html','')+'verifica.html?token='+token+'&email='+encodeURIComponent(email);
+  localStorage.setItem('sailtropics_user', JSON.stringify({nick,email,barca,aree,paesi:scelti,freq,token,verified:false}));
+  // Simula invio mail di verifica
+  const m=document.getElementById('msg');m.style.display='block';m.style.background='#0f2e1f';m.style.border='1px solid var(--accent)';
+  m.innerHTML='✅ Ti abbiamo inviato una mail di verifica a <b>'+email+'</b> con link automatico:<br><a href="'+link+'" style="color:var(--accent)">'+link+'</a><br><small>Clicca il link per verificare (demo locale — in produzione invio reale via provider).</small>';
+  // In produzione: fetch('tools/invia_verifica.py', {method:'POST', body:JSON.stringify({email,token})})
+}
+</script>
+</body></html>
