@@ -435,6 +435,13 @@ TEMPLATE = """<!DOCTYPE html>
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="0">
 <title>SailTropics · Portolano</title>
+<link rel="alternate" hreflang="it" href="/it/">
+<link rel="alternate" hreflang="en" href="/en/">
+<link rel="alternate" hreflang="fr" href="/fr/">
+<link rel="alternate" hreflang="es" href="/es/">
+<link rel="alternate" hreflang="de" href="/de/">
+<link rel="alternate" hreflang="pt" href="/pt/">
+<link rel="alternate" hreflang="x-default" href="/it/">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 52'%3E%3Ccircle cx='19' cy='20' r='10' fill='%23F0705A'/%3E%3Cpath d='M28 2 C41 13 47 30 44 48 L28 48 Z' fill='%231E5A9E'/%3E%3Cpath d='M6 48 q10 -8 22 -2 t 28 1' stroke='%232BB3A3' stroke-width='6' fill='none' stroke-linecap='round'/%3E%3C/svg%3E">
 <link rel="stylesheet" href="assets/leaflet.css">
 <style>
@@ -503,6 +510,10 @@ aside h1 { font-size:16px; margin:0 0 12px; color:var(--accent); }
 #brand-c .bt2 { color:var(--accent); }
 #brand-c .bs { font-size:11px; color:var(--accent); letter-spacing:.08em;
                text-transform:uppercase; margin-left:auto; text-align:right; }
+#lang-switch{position:fixed;top:10px;right:12px;z-index:2200;display:flex;gap:4px;background:var(--panel);border:1px solid var(--line);border-radius:20px;padding:4px 6px;box-shadow:0 2px 10px rgba(0,0,0,.35)}
+#lang-switch a{padding:4px 9px;border-radius:12px;font-size:12px;font-weight:700;color:var(--muted);text-decoration:none}
+#lang-switch a.active{background:var(--accent);color:#06231f}
+#lang-switch a:hover{background:#1d3040;color:var(--ink)}
 body.searching #navtitle, body.searching #tree,
 body.searching #navgrid, body.searching #disc-home, body.searching #navtitle-c { display:none!important; }
 #disc-home { display:none; border:1px solid #ffb74d; background:rgba(255,183,77,.07);
@@ -579,6 +590,14 @@ li { margin:3px 0; }
 </style>
 </head>
 <body>
+<div id="lang-switch" role="navigation" aria-label="Selettore lingua">
+<a href="#" data-lang="it" class="active">Italiano</a>
+<a href="#" data-lang="en">English</a>
+<a href="#" data-lang="fr">Français</a>
+<a href="#" data-lang="es">Español</a>
+<a href="#" data-lang="de">Deutsch</a>
+<a href="#" data-lang="pt">Português</a>
+</div>
 <aside>
   <div id="home-link" style="cursor:pointer;display:flex;align-items:center;gap:9px;margin:0 0 2px">
 <svg viewBox="0 0 64 52" width="42" height="36" aria-hidden="true" style="flex-shrink:0">
@@ -933,13 +952,14 @@ document.addEventListener('click',e=>{
 });
 window.addEventListener('hashchange',()=>{const id=location.hash.slice(1);if(document.getElementById(id))show(id);});
 document.getElementById('search').addEventListener('input',e=>{
-  const q=e.target.value.toLowerCase().trim();
+  const norm=s=>s.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
+  const q=norm(e.target.value.trim());
   document.body.classList.toggle('searching',!!q);
   if(!q){renderNav();return;}
   const hitC={};
   plinks.forEach(l=>{
     const pg=document.getElementById(l.dataset.page);
-    const hit=!!(pg&&pg.textContent.toLowerCase().includes(q));
+    const hit=!!(pg&&norm(pg.textContent).includes(q));
     l.style.display=hit?'':'none';
     if(hit)hitC[l.dataset.country]=1;
   });
@@ -1024,6 +1044,49 @@ show('__FIRST__');
   }
   if(document.readyState==='loading') document.addEventListener('DOMContentLoaded', buildRegTree); else buildRegTree();
   setTimeout(buildRegTree, 600);
+})();
+</script>
+<script>
+// Selettore lingua — mantiene pid, nomi nativi, no bandiere
+(function(){
+  const langs=['it','en','fr','es','de','pt'];
+  const path=location.pathname;
+  const m=path.match(/\/(it|en|fr|es|de|pt)\//);
+  const curLang=m?m[1]: (document.documentElement.lang||'it');
+  document.documentElement.lang=curLang;
+  const sw=document.getElementById('lang-switch');
+  if(sw){
+    sw.querySelectorAll('a[data-lang]').forEach(a=>{
+      if(a.dataset.lang===curLang) a.classList.add('active'); else a.classList.remove('active');
+      a.addEventListener('click',e=>{
+        e.preventDefault();
+        const targetLang=a.dataset.lang;
+        if(targetLang===curLang) return;
+        const hash=location.hash||'';
+        let newPath;
+        if(m){
+          newPath=path.replace('/'+curLang+'/', '/'+targetLang+'/');
+        }else{
+          // da root /index.html o /paesi.html -> vai a /targetLang/
+          // preserva hash pid per sync navigazione
+          newPath='/' + targetLang + '/';
+          // se siamo su ghitabbino.github.io/portolano/ -> base è /portolano/
+          const base=path.includes('/portolano/')?'/portolano/':'/';
+          if(path.includes('/portolano/')) newPath='/portolano/'+targetLang+'/';
+        }
+        try{localStorage.setItem('sailtropics_lang',targetLang);}catch(e){}
+        location.href=newPath + hash;
+      });
+    });
+  }
+  // Ricerca: normalizzazione accenti per lemmatizzazione base ( Lunr.js full in futuro )
+  const s=document.getElementById('search');
+  if(s){
+    const norm=v=>v.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
+    // patch: la ricerca esistente usa textContent.toLowerCase().includes(q)
+    // la rendiamo accent-insensitive sovrascrivendo il comportamento
+    const orig=s.oninput;
+  }
 })();
 </script>
 <script src="assets/leaflet.js"></script>
@@ -1148,3 +1211,73 @@ mob = mob.replace('<script src="assets/leaflet.js">', drawer + '<script src="ass
 OUTM = ROOT / "paesi-mobile.html"
 OUTM.write_text(mob, encoding="utf-8")
 print(f'OK -> {OUTM} ({OUTM.stat().st_size} byte) [smartphone]')
+
+# === MULTILINGUA: sottodirectory /it /en /fr /es /de /pt ===
+LANGUAGES = {
+    'it': 'Italiano',
+    'en': 'English',
+    'fr': 'Français',
+    'es': 'Español',
+    'de': 'Deutsch',
+    'pt': 'Português'
+}
+# genera versioni lingua (per ora contenuto IT identico, UI tradotta in futuro)
+for lang in LANGUAGES:
+    lang_html = html.replace('<html lang="it">', f'<html lang="{lang}">')
+    # fix selector active server-side
+    lang_html = lang_html.replace('data-lang="it" class="active"', 'data-lang="it"')
+    # rimuove eventuali active precedenti poi imposta quello corrente
+    lang_html = lang_html.replace(' class="active"', '')
+    lang_html = lang_html.replace(f'data-lang="{lang}"', f'data-lang="{lang}" class="active"')
+    # fix paths per sottodirectory lingua (assets/mappe/gpx/zip relative a ROOT.parent/lang)
+    lang_html = lang_html.replace('href="assets/leaflet.css"', 'href="../paesi/assets/leaflet.css"')
+    lang_html = lang_html.replace('src="assets/leaflet.js"', 'src="../paesi/assets/leaflet.js"')
+    lang_html = lang_html.replace('"assets/leaflet.css"', '"../paesi/assets/leaflet.css"')
+    lang_html = lang_html.replace('"mappe/', '"../paesi/mappe/')
+    lang_html = lang_html.replace('"gpx/', '"../paesi/gpx/')
+    lang_html = lang_html.replace('"zip/', '"../paesi/zip/')
+    lang_html = lang_html.replace("'assets/leaflet.css'", "'../paesi/assets/leaflet.css'")
+    lang_dir = ROOT.parent / lang
+    lang_dir.mkdir(exist_ok=True)
+    (lang_dir / "index.html").write_text(lang_html, encoding="utf-8")
+    lang_mob = mob.replace('<html lang="it">', f'<html lang="{lang}">')
+    lang_mob = lang_mob.replace('data-lang="it" class="active"', 'data-lang="it"')
+    lang_mob = lang_mob.replace(' class="active"', '')
+    lang_mob = lang_mob.replace(f'data-lang="{lang}"', f'data-lang="{lang}" class="active"')
+    lang_mob = lang_mob.replace('href="assets/leaflet.css"', 'href="../paesi/assets/leaflet.css"')
+    lang_mob = lang_mob.replace('src="assets/leaflet.js"', 'src="../paesi/assets/leaflet.js"')
+    lang_mob = lang_mob.replace('"mappe/', '"../paesi/mappe/')
+    # mobile non serve come file separato per lingua, ma teniamo index.html come principale
+    print(f'OK -> {lang_dir / "index.html"} ({lang})')
+# landing root con auto-redirect lingua browser + selector manuale
+landing_html = """<!DOCTYPE html><html lang="it"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>SailTropics</title>
+<link rel="alternate" hreflang="it" href="it/"><link rel="alternate" hreflang="en" href="en/"><link rel="alternate" hreflang="fr" href="fr/"><link rel="alternate" hreflang="es" href="es/"><link rel="alternate" hreflang="de" href="de/"><link rel="alternate" hreflang="pt" href="pt/"><link rel="alternate" hreflang="x-default" href="it/">
+<style>:root{--bg:#0f1720;--panel:#16222e;--ink:#dbe7f1;--muted:#8aa2b5;--accent:#4db6ac;--line:#24384a}*{box-sizing:border-box}body{margin:0;min-height:100vh;display:flex;align-items:center;justify-content:center;background:var(--bg);color:var(--ink);font:16px/1.5 -apple-system,Segoe UI,Roboto,sans-serif;padding:24px}a{color:var(--accent)}.card{max-width:560px;width:100%;border:1px solid var(--line);border-radius:16px;background:#0b131b;padding:28px;text-align:center}.langs{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin:18px 0}.langs a{padding:8px 14px;border-radius:20px;border:1px solid var(--line);background:var(--panel);color:var(--ink);text-decoration:none;font-weight:700;font-size:14px}.langs a:hover{border-color:var(--accent);background:#1d3040}</style>
+</head><body><div class="card">
+<div style="font-size:28px;margin-bottom:6px">⛵ SailTropics</div>
+<div style="color:var(--muted);margin-bottom:14px">Scegli la tua lingua — Choose your language — Choisissez votre langue</div>
+<div class="langs">
+<a href="it/">Italiano</a><a href="en/">English</a><a href="fr/">Français</a><a href="es/">Español</a><a href="de/">Deutsch</a><a href="pt/">Português</a>
+</div>
+<div style="font-size:12px;color:var(--muted)">Verrai reindirizzato automaticamente alla tua lingua. Puoi sempre cambiarla dal selettore in alto a destra.</div>
+</div>
+<script>
+(function(){
+  const langs=['it','en','fr','es','de','pt'];
+  try{
+    const saved=localStorage.getItem('sailtropics_lang');
+    if(saved && langs.includes(saved)){ location.replace('/'+saved+'/'); return; }
+  }catch(e){}
+  const nav=(navigator.language||'it').toLowerCase();
+  let target='it';
+  for(const l of langs){ if(nav.startsWith(l)){ target=l; break; } }
+  // se siamo su /portolano/ (github.io) mantieni base
+  const base=location.pathname.includes('/portolano/')?'/portolano/':'/';
+  location.replace(base + target + '/');
+})();
+</script></body></html>"""
+# per github.io/portolano il landing è a ROOT.parent / index.html (sovrascrive quello copiato da paesi.html)
+# manteniamo anche la versione italiana come fallback per chi arriva diretto su /portolano/
+(ROOT.parent / "index.html").write_text(landing_html, encoding="utf-8")
+print(f'OK -> {ROOT.parent / "index.html"} (landing multilingua)')
+# mantieni anche copia italiana a /it/ già scritta sopra

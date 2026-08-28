@@ -7,6 +7,13 @@
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="0">
 <title>SailTropics · Portolano</title>
+<link rel="alternate" hreflang="it" href="/it/">
+<link rel="alternate" hreflang="en" href="/en/">
+<link rel="alternate" hreflang="fr" href="/fr/">
+<link rel="alternate" hreflang="es" href="/es/">
+<link rel="alternate" hreflang="de" href="/de/">
+<link rel="alternate" hreflang="pt" href="/pt/">
+<link rel="alternate" hreflang="x-default" href="/it/">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 52'%3E%3Ccircle cx='19' cy='20' r='10' fill='%23F0705A'/%3E%3Cpath d='M28 2 C41 13 47 30 44 48 L28 48 Z' fill='%231E5A9E'/%3E%3Cpath d='M6 48 q10 -8 22 -2 t 28 1' stroke='%232BB3A3' stroke-width='6' fill='none' stroke-linecap='round'/%3E%3C/svg%3E">
 <link rel="stylesheet" href="assets/leaflet.css">
 <style>
@@ -75,6 +82,10 @@ aside h1 { font-size:16px; margin:0 0 12px; color:var(--accent); }
 #brand-c .bt2 { color:var(--accent); }
 #brand-c .bs { font-size:11px; color:var(--accent); letter-spacing:.08em;
                text-transform:uppercase; margin-left:auto; text-align:right; }
+#lang-switch{position:fixed;top:10px;right:12px;z-index:2200;display:flex;gap:4px;background:var(--panel);border:1px solid var(--line);border-radius:20px;padding:4px 6px;box-shadow:0 2px 10px rgba(0,0,0,.35)}
+#lang-switch a{padding:4px 9px;border-radius:12px;font-size:12px;font-weight:700;color:var(--muted);text-decoration:none}
+#lang-switch a.active{background:var(--accent);color:#06231f}
+#lang-switch a:hover{background:#1d3040;color:var(--ink)}
 body.searching #navtitle, body.searching #tree,
 body.searching #navgrid, body.searching #disc-home, body.searching #navtitle-c { display:none!important; }
 #disc-home { display:none; border:1px solid #ffb74d; background:rgba(255,183,77,.07);
@@ -214,6 +225,14 @@ th,td{padding:8px 10px;}
 </head>
 <body>
 <div id="backdrop" onclick="toggleNav(false)"></div><button class="burger" onclick="toggleNav()" aria-label="Apri menu">☰</button>
+<div id="lang-switch" role="navigation" aria-label="Selettore lingua">
+<a href="#" data-lang="it" class="active">Italiano</a>
+<a href="#" data-lang="en">English</a>
+<a href="#" data-lang="fr">Français</a>
+<a href="#" data-lang="es">Español</a>
+<a href="#" data-lang="de">Deutsch</a>
+<a href="#" data-lang="pt">Português</a>
+</div>
 <aside>
   <div id="home-link" style="cursor:pointer;display:flex;align-items:center;gap:9px;margin:0 0 2px">
 <svg viewBox="0 0 64 52" width="42" height="36" aria-hidden="true" style="flex-shrink:0">
@@ -110370,13 +110389,14 @@ document.addEventListener('click',e=>{
 });
 window.addEventListener('hashchange',()=>{const id=location.hash.slice(1);if(document.getElementById(id))show(id);});
 document.getElementById('search').addEventListener('input',e=>{
-  const q=e.target.value.toLowerCase().trim();
+  const norm=s=>s.normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase();
+  const q=norm(e.target.value.trim());
   document.body.classList.toggle('searching',!!q);
   if(!q){renderNav();return;}
   const hitC={};
   plinks.forEach(l=>{
     const pg=document.getElementById(l.dataset.page);
-    const hit=!!(pg&&pg.textContent.toLowerCase().includes(q));
+    const hit=!!(pg&&norm(pg.textContent).includes(q));
     l.style.display=hit?'':'none';
     if(hit)hitC[l.dataset.country]=1;
   });
@@ -110461,6 +110481,49 @@ show('p1');
   }
   if(document.readyState==='loading') document.addEventListener('DOMContentLoaded', buildRegTree); else buildRegTree();
   setTimeout(buildRegTree, 600);
+})();
+</script>
+<script>
+// Selettore lingua — mantiene pid, nomi nativi, no bandiere
+(function(){
+  const langs=['it','en','fr','es','de','pt'];
+  const path=location.pathname;
+  const m=path.match(/\/(it|en|fr|es|de|pt)\//);
+  const curLang=m?m[1]: (document.documentElement.lang||'it');
+  document.documentElement.lang=curLang;
+  const sw=document.getElementById('lang-switch');
+  if(sw){
+    sw.querySelectorAll('a[data-lang]').forEach(a=>{
+      if(a.dataset.lang===curLang) a.classList.add('active'); else a.classList.remove('active');
+      a.addEventListener('click',e=>{
+        e.preventDefault();
+        const targetLang=a.dataset.lang;
+        if(targetLang===curLang) return;
+        const hash=location.hash||'';
+        let newPath;
+        if(m){
+          newPath=path.replace('/'+curLang+'/', '/'+targetLang+'/');
+        }else{
+          // da root /index.html o /paesi.html -> vai a /targetLang/
+          // preserva hash pid per sync navigazione
+          newPath='/' + targetLang + '/';
+          // se siamo su ghitabbino.github.io/portolano/ -> base è /portolano/
+          const base=path.includes('/portolano/')?'/portolano/':'/';
+          if(path.includes('/portolano/')) newPath='/portolano/'+targetLang+'/';
+        }
+        try{localStorage.setItem('sailtropics_lang',targetLang);}catch(e){}
+        location.href=newPath + hash;
+      });
+    });
+  }
+  // Ricerca: normalizzazione accenti per lemmatizzazione base ( Lunr.js full in futuro )
+  const s=document.getElementById('search');
+  if(s){
+    const norm=v=>v.normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase();
+    // patch: la ricerca esistente usa textContent.toLowerCase().includes(q)
+    // la rendiamo accent-insensitive sovrascrivendo il comportamento
+    const orig=s.oninput;
+  }
 })();
 </script>
 <script>
