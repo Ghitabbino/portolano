@@ -17,7 +17,7 @@ def esc(s): return s.replace("&","&amp;").replace("<","&lt;")
 RE_MARKERS = re.compile(r"data-markers='([^']+)'")
 
 count_total = 0
-for country_dir in sorted(p for p in ROOT.iterdir() if p.is_dir() and not p.name.startswith(".") and p.name not in {"assets","mappe","tools","controllo","fonti","gruppi"}):
+for country_dir in sorted(p for p in ROOT.iterdir() if p.is_dir() and not p.name.startswith(".") and p.name not in {"assets","mappe","tools","controllo","fonti","gruppi","gpx","zip","i18n","it","en","fr","es","de","pt"}):
     # cerca 08-ancoraggi.md
     md_path = country_dir / "08-ancoraggi.md"
     if not md_path.exists():

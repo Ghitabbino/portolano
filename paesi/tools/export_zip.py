@@ -8,7 +8,7 @@ ZIP_DIR = ROOT / "zip"
 ZIP_DIR.mkdir(exist_ok=True)
 
 count=0
-for country_dir in sorted(p for p in ROOT.iterdir() if p.is_dir() and not p.name.startswith(".") and p.name not in {"assets","mappe","tools","controllo","fonti","gruppi","gpx","zip"}):
+for country_dir in sorted(p for p in ROOT.iterdir() if p.is_dir() and not p.name.startswith(".") and p.name not in {"assets","mappe","tools","controllo","fonti","gruppi","gpx","zip","i18n","it","en","fr","es","de","pt"}):
     mds = list(country_dir.glob("*.md"))
     # includi anche sottocartelle ristoranti/ancoraggi se presenti
     extra = list((country_dir / "ristoranti").glob("*.md")) if (country_dir / "ristoranti").is_dir() else []
