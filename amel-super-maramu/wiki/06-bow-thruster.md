@@ -1,6 +1,6 @@
 # 06 — Bow thruster retrattile
 
-**Fonti:** Users Guide v2.9 (EN) · Gary Silver #335 / Bill Rouse "BeBe" (EN, 2007/2010, procedura di riferimento) · rapporto NIKIMAT #289 (EN, 2013)
+**Fonti:** Users Guide v2.9 (EN) · Gary Silver #335 / Bill Rouse "BeBe" (EN, 2007/2010, procedura di riferimento) · rapporto NIKIMAT #289 (EN, 2013) · **Amel Book Bulletin SN & SM Bow Thruster** (EN, Drive) — PDF originale in `docs/Amel_Book_Bulletin_SN_SM_Bow_Thruster.pdf` + traduzione IT in `fonti/testo-estratto/Amel_Book_Bulletin_SN_SM_Bow_Thruster_IT.txt` — [Drive](https://drive.google.com/open?id=1-gASjUITOUqnRC_J-a-Gx99BfhUa4dcQ&usp=drive_fs) ★★★
 
 ## Descrizione e uso
 

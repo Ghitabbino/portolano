@@ -1,0 +1,737 @@
+Traduzione italiana — originale inglese conservato in amel_super_maramu_2000_Optional_equipment.txt
+
+--- pagina 1 ---
+Super Maramu 2000Super Maramu 2000Super Maramu 2000Super Maramu 2000
+Guida Utente
+Dotazioni Opzionali
+Le respect de la mer
+--- pagina 2 ---
+
+--- pagina 3 ---
+Guida utente – Dotazioni opzionali 3
+Indice
+7 Dotazioni opzionali........................................................... 7-1
+7.1 30 A caricabatterie...................................................................................7-1
+7.2 Serbatoi acque nere.................................................................................7-1
+7.3 50 litri/ora dissalatore............................................................7-1
+7.3.1 Funzionamento ......................................................................................7-1
+7.3.2 Manutenzione...............................................................................7-5
+7.4 150 litri/ora dissalatore..........................................................7-6
+7.4.1 Funzionamento ......................................................................................7-6
+7.4.2 Manutenzione...............................................................................7-9
+7.5 Riscaldatore ad aria a gasolio..............................................................................7-10
+7.5.1 A proposito delle paratie stagne ................................................7-10
+7.5.2 Funzionamento del riscaldatore ............................................................7-11
+7.5.3 Manutenzione.............................................................................7-15
+7.6 Ventilazione aria fresca ....................................................................7-15
+7.6.1 A proposito delle paratie stagne ................................................7-16
+7.6.2 Funzionamento della ventilazione aria fresca.........................................7-16
+7.6.3 Manutenzione.............................................................................7-19
+7.7 DHI luci di via a livello ponte .....................................................7-19
+7.8 2 nd congelatore a pozzetto ...........................................................................7-20
+7.9 Televisione.....................................................................................7-21
+7.10 SEAGULL acqua dolce filter .........................................................7-21
+7.10.1 Uso...........................................................................................7-21
+7.10.2 Manutenzione.............................................................................7-22
+7.11 Compressore per bombole ...............................................7-23
+7.12 Unità pilota rotativo................................................................7-24
+7.13 3 rd main mast halyard .................................................................7-24
+7.14 Dual filtro RACOR........................................................................7-26
+--- pagina 4 ---
+ Guida utente – Dotazioni opzionali4
+7.15 Taglia-cime.................................................................................. 7-27
+7.15.1 Uso .......................................................................................... 7-27
+7.15.2 Manutenzione ............................................................................ 7-27
+7.16 110 / 220 V trasformatore .............................................................. 7-28
+7.17 Ventilatori ............................................................................................. 7-30
+7.18 Tampone / Chiusura capottina.................................................................................. 7-31
+7.19 24 / 220 V inverter ....................................................................... 7-32
+7.20 Pacchetto Comfort...................................................................................32
+7.20.1 100 hp. main motore ....................................................................32
+7.20.2 175 A alternator ...........................................................................33
+7.20.3 Batterie.......................................................................................33
+7.20.4 100 A caricabatterie ..............................................................................33
+7.20.5 4 plate gas stove and oven ..........................................................34
+7.21 Elica shaft alternator ........................................................... 7-35
+8 Indice ...................................................................................8-1
+--- pagina 5 ---
+Guida utente – Dotazioni opzionali 7-1
+7 Dotazioni opzionali
+7.1 30 A caricabatterie
+You have chosen to fit out you boat with a 30 A caricabatterie, which allows you to charge your
+batteries from the shore power.
+To switch it on, switch on the interruttore magnetotermico on the 220 V panel in the galley (little caricabatterie
+icon).
+7.2 Serbatoi acque nere
+Your Super Maramu 2000 has 2 holding tanks (one in each toilet). You must not drain them
+but pump the waste in the equipped harbours.
+They can be rinsed with acqua dolce added of a little bleach.
+7.3 50 litri/ora dissalatore
+7.3.1 Funzionamento
+ATTENZIONE! Leggere attentamente the dissalatore’s manual
+prima dell'uso. It contains warnings concerning your own
+safety durante l'uso e la manutenzione.
+Qualsiasi intervento su parti meccaniche o elettriche
+on this device deve essere eseguito da personale qualificato, using
+appropriate tools and protections.
+The Super Maramu’s dissalatore is especially made for AMEL. It’s able to produce 50 litros /
+hour (approx. 11 Imperial Gallons per hour, 14 U.S. Gallon) di acqua dolce. These values are
+only for information, because the rate of desalination depends extremely on the acqua di mare
+characteristics. More the temperature is low, more weaker will be the volume di acqua dolce.
+Questo dispositivo funziona a 220 V tramite il caricabatterie 24 V (generator’s alternator) or on
+24 V (on the main motore’s alternator or on the batteries).
+--- pagina 6 ---
+ Guida utente – Dotazioni opzionali7-2
+Figura 1– Dissalatore
+The dissalatore has got 2 membranes to produce acqua dolce due to the osmosi inversa
+phenomena.
+Figura 2 – Dissalatore’s membranes
+24 V motor
+220 V motor
+Membranes
+--- pagina 7 ---
+Guida utente – Dotazioni opzionali 7-3
+Figura 3– Quality sensor
+The installation has got a 5 microns filter. Right to this filter is a stop cock. The vertical
+position is the normal one, to treat acqua di mare using this filter. Horizontally, it allows to flush
+and to clean the dissalatore with acqua dolce.
+Figura 4 – 5 microns filter
+Filter On
+(acqua di mare)
+--- pagina 8 ---
+ Guida utente – Dotazioni opzionali7-4
+Figura 5 – Freshwater rinsing position
+In the galley, above the portside sink, is the remote control panel of the dissalatore. This
+panel is composed of many instruments :
+- 3 lighted quality indicators,
+- one On / Off switch,
+- one hour metre,
+- one flussometro in glass, to measure the volume di acqua dolce delivered,
+- one tap delivering acqua dolce for check,
+- one alta pressione manometro (in bars),
+- one alta pressione control system (regulating wheel)
+Figura 6 – Dissalatore control panel
+--- pagina 9 ---
+Guida utente – Dotazioni opzionali 7-5
+We give here a few simplified instructions for the dissalatore, but refer to the manufacturer’s
+one too :
+/G81before using, check the opening of seacocks.
+/G82if the dissalatore hasn’t work for a few days, rinse it with acqua dolce using the
+stop cock right to the 5 microns filter. Like for every rinsing, stop the dissalatore
+and open the regolatore di pressione thoroughly (anticlockwise) for 2 minutes, and
+then replace this seacock in the Marche (acqua di mare) position.
+/G83to start, regulator open, switch on the device, let it work 1 minute without
+pressure, and do a 1
+st setting with the needle in the green area. This is to eject
+air from the circuit ant to obtain a better pressure stability. Check the pressure
+and readjust if needed.
+/G84producing acqua dolce depends on acqua di mare temperature and on the cleanness of
+the filter.
+/G85checking the acqua dolce quality and sending it in the tank is made using a quality
+sensor and integrated circuit automatically. If acqua dolce produced contains salt,
+it will be rejected.
+/G86a too much higher pressure setting lights the red default of the dissalatore and
+stops the device ; in this case, set the pressure lower and start again.
+/G87to stop, set the pressure lower opening the regulating wheel thoroughly, stop
+and rinse like described at /G82.
+/G88 concerning the winter service, rinse every month or fill up with sterilizing agent.
+/G89 add some glycerine to the sterilizing agent if needed.
+/G8adon’t forget to drain the glass pipe of the flussometro.
+7.3.2 Manutenzione
+In case of freezing, refer to the manufacturer’s manual.
+The 5 microns filter must be checked regularly, because its lifetime depends on the boat’s
+navigation area regarding how clean the sea is.
+For the maintenance at long term of this appliance, refer to the manufacturer’s manual,
+section “Manutenzione”.
+--- pagina 10 ---
+ Guida utente – Dotazioni opzionali7-6
+7.4 150 litri/ora dissalatore
+ATTENZIONE! Leggere attentamente the dissalatore’s manual
+prima dell'uso. It contains warnings concerning your own
+safety durante l'uso e la manutenzione.
+Qualsiasi intervento su parti meccaniche o elettriche
+on this device deve essere eseguito da personale qualificato, using
+appropriate tools and protections.
+7.4.1 Funzionamento
+You have chosen to equip your Super Maramu 2000 with a especially AMEL’s made
+dissalatore. It can produce 150 litri/ora (33 Imperial Gallons per hour, 40 U.S. ). These
+values are only for information, because the rate of desalination depends extremely on the
+acqua di mare characteristics. More the temperature is low, more weaker will be the volume of
+acqua dolce.
+Questo apparecchio funziona a 220 V proveniente dal gruppo elettrogeno.
+Figura 7 – Dissalatore
+The dissalatore has got 2 membranes to produce acqua dolce due to the osmosi inversa
+phenomena. The sensore di qualità give information about the acqua dolce produced.
+High pressure
+pump
+For check
+220 V motor
+--- pagina 11 ---
+Guida utente – Dotazioni opzionali 7-7
+Figura 8 – Dissalatore’s membranes
+The installation has got 2 filters :
+- 25 microns : just after the acqua di mare filter. It stops the biggest particles at the
+entry of the system.
+- 5 microns : to stop the finest ones.
+You must check these 2 filters regularly, because their lifetime depends on where the boat is
+used.
+Behind this bassa pressione pump (which is the primary pump for acqua di mare suction), is the
+stopcock. The vertical position is the normal one, to treat acqua di mare using this filter.
+Horizontally, it allows to flush and to clean the dissalatore with acqua dolce.
+Membranes
+Quality
+sensor
+--- pagina 12 ---
+ Guida utente – Dotazioni opzionali7-8
+Figura 9 – 25 et 5 microns filters
+Figura 10 – Stopcock to drain the dissalatore with acqua dolce
+In the galley, above the portside sink, is the remote control panel of the dissalatore. This
+panel is composed of 3 different parts :
+- the first, in the upper left side, has 3 coloured lights to show the acqua dolce
+quality, the ON / OFF switch, and the horameter,
+- the 2 nd, in the lower left side, gives the way to start the installation,
+- the third, in the right side, has a flussometro in glass, to measure the volume of
+acqua dolce delivered and 2 manometros :
+/Ga0 bassa pressione ( higher side) in bars,
+Low pressure
+pump
+Filters
+Stopcock
+(dissalatore ON)
+To drain with
+acqua dolce
+--- pagina 13 ---
+Guida utente – Dotazioni opzionali 7-9
+/Ga0 alta pressione (lower side) in bars too.
+A alta pressione control system (regulating wheel) allows to adjust the quantity di acqua dolce
+produced.
+Figura 11 – Dissalatore control panel
+We give here a few simplified instructions for the dissalatore, but refer to the manufacturer’s
+one too :
+/G81before using, check the opening of seacocks.
+/G82if the dissalatore hasn’t work for a few days, rinse it with acqua dolce using the 3
+ways stopcock right to the 5 microns pre-filter. Like for every rinsing, stop the
+dissalatore and open the regolatore di pressione thoroughly (anticlockwise) for 2
+minutes, and then replace this seacock in the Marche (acqua di mare) position.
+/G83to start, regulator open, switch on the device, let it work 1 minute without
+pressure, and do a 1
+st setting with the needle in the green area. This is to eject
+air from the circuit ant to obtain a better pressure stability. Check the pressure
+and readjust if needed.
+/G84producing acqua dolce depends on acqua di mare temperature and on the cleanness of
+the filters.
+/G85checking the acqua dolce quality and sending it in the tank is made using a quality
+sensor and integrated circuit automatically. If acqua dolce produced contains salt,
+it will be rejected.
+/G86a too much higher pressure setting lights the red default of the dissalatore and
+stops the device ; in this case, set the pressure lower and start again.
+/G87to stop, set the pressure lower opening the regulating wheel thoroughly, stop
+and rinse like described at /G82.
+/G88 concerning the winter service, rinse every month or fill up with sterilizing agent.
+/G89 add some glycerine to the sterilizing agent if needed.
+/G8adon’t forget to drain the glass pipe of the flussometro.
+7.4.2 Manutenzione
+--- pagina 14 ---
+ Guida utente – Dotazioni opzionali7-10
+In case of freezing, refer to the manufacturer’s manual.
+The filters must be checked regularly, because their lifetime depends on the boat’s
+navigation area regarding how clean the sea is.
+For the maintenance at long term of this appliance, refer to the manufacturer’s manual,
+section “Manutenzione”.
+7.5 Riscaldatore ad aria a gasolio
+PERICOLO!  The user’s manual gives some security
+information that must be respected for a secure use of
+this appliance. Refer to it before continuing.
+Qualsiasi intervento su parti meccaniche o elettriche
+on this device deve essere eseguito da personale qualificato, using
+appropriate tools and protections.
+In case of leak in the fore peak or in the fore cabin, close
+the air outlet in the fore cabin : pull and fix the stainless
+steel lever in the portside saloon shelf (above the
+Fluxgate compass).
+Never obstruct all the outlets simultaneously when the
+device is working.
+Your boat is fitted out with a fuel air heater EBERSPÄCHER D5LC.
+7.5.1 A proposito delle paratie stagne
+In case of damage needing to set the fore watertight bulkhead, don’t forget to close
+the heater outlet in the fore cabin : pull and fix the stainless steel lever in the portside
+saloon shelf (above the Fluxgate compass).
+Figura 12 – Closing the heater outlet from the saloon
+--- pagina 15 ---
+Guida utente – Dotazioni opzionali 7-11
+7.5.2 Funzionamento del riscaldatore
+Before working the heater, be sure the outside air inlet
+(in the cockpit, inside of the ropes stock location at the foot of the mizzen mast) is not
+closed.
+The fuel heater works switching on the actuating unit right to the dissalatore panel. 4
+temperature settings, a ventilation and an OFF position are available. The warmed air is
+dispatched in :
+- the saloon,
+- the fore cabin,
+- the aft cabin.
+The power is approximately 4800 W at maximum speed.
+Refer to the builder’s manual, section “Technical description” for more information.
+Each heating outlet can be closed independently of the other.
+Remark : in the fourth position, the consumption of this heater is approximately 0,58 litros of
+fuel per hour (0.13 Imperial Gallon, 0.15 U.S. Gallon)
+Figura 13 – Air heater actuating unit
+--- pagina 16 ---
+ Guida utente – Dotazioni opzionali7-12
+Figura 14 – Warmed air outlet in the saloon
+Figura 15 – Warmed air outlet in the aft cabin
+Air
+conditioning
+outlet
+Heater outlet
+--- pagina 17 ---
+Guida utente – Dotazioni opzionali 7-13
+Figura 16 – Warmed air outlet in the fore cabin
+After switched off the heater, wait 5 minutes that the fuel circuit cools too. Now you can
+switch off the 24 V circuit.
+The air heater device is located in the portside cockpit locker. The fuel comes from the
+decant filter. We can switch off the heater setting directly the shutoff on the filter. The
+exhaust is located at portside, on the hull.
+Figura 17 – Air heater
+--- pagina 18 ---
+ Guida utente – Dotazioni opzionali7-14
+Figura 18 – Shutoff on the decant filter
+Figura 19 – Fresh air inlet for the air heater appliance
+--- pagina 19 ---
+Guida utente – Dotazioni opzionali 7-15
+Figura 20 – Air heater exhaust
+A temperature sensor is placed in the saloon, above the portside shelves.
+7.5.3 Manutenzione
+To obtain information about the maintenance of the heater, refer to its manual.
+7.6 Ventilazione aria fresca
+PERICOLO!  The user’s manual gives some security
+information that must be respected for a secure use of
+this appliance. Refer to it before continuing.
+Qualsiasi intervento su parti meccaniche o elettriche
+on this device deve essere eseguito da personale qualificato, using
+appropriate tools and protections.
+In case of leak in the fore peak or in the fore cabin, close
+the air outlet in the fore cabin : pull and fix the stainless
+steel lever in the portside saloon shelf (above the
+Fluxgate compass).
+Never obstruct all the outlets simultaneously when the
+device is working.
+--- pagina 20 ---
+ Guida utente – Dotazioni opzionali7-16
+7.6.1 A proposito delle paratie stagne
+In case of damage needing to set the fore watertight bulkhead, don’t forget to close
+the heater outlet in the fore cabin : pull and fix the stainless steel lever in the portside
+saloon shelf (above the Fluxgate compass).
+Figura 21 – Closing the fresh air ventilation outlet from the saloon
+7.6.2 Funzionamento della ventilazione aria fresca
+Before working the fresh air ventilation, be sure the outside air inlet
+(in the cockpit, inside of the ropes stock location at the foot of the mizzen mast) is not
+closed.
+The fresh air ventilation is switched on when pushing the interruttore magnetotermico under the
+companionway. The fresh air is dispatched in :
+- the saloon,
+- the fore cabin,
+- the aft cabin.
+Each fresh air outlet can be closed independently of the other.
+The consumption is approximately 2 A under 24 V.
+The fresh air ventilation appliance is located in the portside cockpit locker.
+--- pagina 21 ---
+Guida utente – Dotazioni opzionali 7-17
+Figura 22 – Fresh air outlet in the saloon and interruttore magnetotermico
+Figura 23 – Fresh air outlet in the aft cabin
+Air
+conditioning
+outlet
+Fresh air outlet
+--- pagina 22 ---
+ Guida utente – Dotazioni opzionali7-18
+Figura 24 – Fresh air outlet in the fore cabin
+Figura 25 – Fresh air inlet for the fresh air ventilation appliance
+--- pagina 23 ---
+Guida utente – Dotazioni opzionali 7-19
+Figura 26 – Ventilazione aria fresca appliance
+7.6.3 Manutenzione
+To obtain some information about the maintenance of this device, please refer to its own
+user’s manual.
+7.7 DHI luci di via a livello ponte
+You have chosen to equip your Super Maramu 2000 with the DHI luci di via a livello ponte :
+- portside : red (112,5 ° - 25 W ),
+- starboard : green (112,5° - 25 W),
+- stern : white (135° - 10 W).
+They are switched on when pushing the “Navigation lights on deck” interruttore magnetotermico at the 24
+V panel.
+--- pagina 24 ---
+ Guida utente – Dotazioni opzionali7-20
+Figura 27– Fore DHI deck navigation lights
+Figura 28– Aft DHI navigation light
+7.8 2 nd congelatore a pozzetto
+You fitted out your boat with a 2 nd congelatore a pozzetto in the saloon. It works is the same as the
+standard one. The interruttore magnetotermico is located on the 24 V panel, right to the fridge.
+--- pagina 25 ---
+Guida utente – Dotazioni opzionali 7-21
+7.9 Televisione
+You have chosen to equip your boat with a television on starboard. In the right shelf is the
+amplifier. The antenna is fixed at the top of the main mast.
+Figura 29 – Amplifier for television
+For the consumption, the power supply and the maintenance, please refer to the builder’s
+manual. Never leave this appliance switched on when it isn’t used.
+7.10 SEAGULL acqua dolce filter
+7.10.1 Uso
+A SEAGULL IV acqua dolce filter is set under the starboard sink. It eliminates the bad tastes,
+dusts and metal particles. The shutoff which gives this acqua dolce is the portside one.
+--- pagina 26 ---
+ Guida utente – Dotazioni opzionali7-22
+Figura 30- SEAGULL acqua dolce shutoff
+Figura 31 – SEAGULL IV acqua dolce filter
+7.10.2 Manutenzione
+The cartridge must be replaced every 4000 litros, or at least every year. Nevertheless, its
+capacity can vary due to the water quality.
+To replace the cartridge, please refer to the builder’s manual. Its characteristics are :
+SEAGULL freshwate
+r
+filter
+SEAGULL shutoff
+--- pagina 27 ---
+Guida utente – Dotazioni opzionali 7-23
+RS-1 cartridge for  SEAGULL IV acqua dolce filter
+Normal flow 4 litros / minute (pressure of 2,5 kg/cm 2,
+36.25 psi)
+Estimated capacity 4000 litros
+Micro filtration 0,4 microns
+Height 109 mm
+Diameter 99 mm
+7.11 Compressore per bombole
+The compressor for diving bottles is located in the portside cockpit locker. Please refer to its
+builder’s manual for more information.
+A few characteristics are mentioned here :
+BAUER J II 3W
+Motor 24 V single-phase – 2,2 kW
+Flow 100 litros / minute
+Maximum inflation pressure 245 bars (3465 psi)
+To run this equipment, switch on the interruttore magnetotermico Compresseur at the 220 V panel. Check
+that the equipment is switched on.
+For the maintenance, see the builder’s manual.
+Figura 32 – Compressore per bombole
+--- pagina 28 ---
+ Guida utente – Dotazioni opzionali7-24
+7.12 Unità pilota rotativo
+Your have chosen to fit out your Super Maramu 2000 with a rotary motor pilot unit. It is
+located in the galley, above the sink. The choice of the one who works (linear or rotary) is
+made switching the toggle switch located in the shelf above the sink :
+- “1” position : linear,
+- “2” position : rotary,
+- straight up : no one works.
+Figura 33 – Unità pilota rotativo
+PERICOLO!  Leggere attentamente the electronic equipment’s
+manuals prima dell'uso and sail. They content warnings
+concerning your own safety while operating and doing
+maintenance.
+This information must be read prior to sail and
+intervention.
+Qualsiasi intervento su parti meccaniche o elettriche
+on these devices deve essere eseguito da personale qualificato,
+utilizzando attrezzature e protezioni adeguate.
+7.13 3 rd main mast halyard
+You have chosen to equip your boat with a 3 rd main mast halyard, at starboard. You can
+hoist a gennaker or a spinnaker.
+The tack point is on the anchor fairlead.
+Pilot choice
+--- pagina 29 ---
+Guida utente – Dotazioni opzionali 7-25
+Figura 34 – Tack point on the anchor fairlead
+--- pagina 30 ---
+ Guida utente – Dotazioni opzionali7-26
+7.14 Dual filtro RACOR
+You have chosen to fit out your boat with a dual gas oil filtro RACOR. To chose the used
+one, select it with the shutoff between the two filters (the two filters can’t work together at the
+same time). The vertical position (as shown on the picture below) shuts off the two filters.
+Figura 35 – Dual filtro RACOR
+--- pagina 31 ---
+Guida utente – Dotazioni opzionali 7-27
+7.15 Taglia-cime
+PERICOLO! Before any work, be sure the motore gas oil
+arrival is shut off.
+This equipment is very sharp ; you must wear protecting
+gloves.
+Qualsiasi intervento su parti meccaniche o elettriche
+on this device deve essere eseguito da personale qualificato, using
+appropriate tools and protections.
+7.15.1 Uso
+Your Super Maramu 2000 is equipped on his propeller shaft with a rope cutter. It cuts
+automatically a rope or a little wire which have been rolled around the propeller.
+Figura 36 – Taglia-cime
+7.15.2 Manutenzione
+The only maintenance which can be made is a cleaning and a little sharpening when the
+boat is lifted out of the water. It can be replaced during a propeller inspection.
+--- pagina 32 ---
+ Guida utente – Dotazioni opzionali7-28
+7.16 110 / 220 V trasformatore
+You boat is equipped with an 110 / 220 V trasformatore of 6000 W. The frequency isn’t
+changed and is the same as the frequency of the input voltage.
+To run the appliances with the 110 V :
+- switch off all the 220 V consumptions,
+- check that the interruttore magnetotermico on the left is on Arrêt,
+- connect the shore wire equipped with the 110 V on the 110 V shore plug,
+- from the motore room, just above the aria condizionata pump, connect the wire in
+the plug called “220 V depuis transfo sur quai 110 V”,
+- on this panel, switch the interruttore magnetotermico on ( Marche).
+Remark : switch on this interruttore magnetotermico only if the boat is connected to the 110 V.
+The Figura 37 – 220 V obtained from the 110 V at the harbor shows what you must see.
+Figura 37 – 220 V obtained from the 110 V at the harbor
+The Figura 38 – 220 V obtained from the 220 V generator shows how must be the panel
+when the 220 V comes from the 220 V generator or from the 220 V shore power. The wire is
+connected directly at the « 220 V direct sur quai 220 V » plug.
+110 V circuit
+breaker
+--- pagina 33 ---
+Guida utente – Dotazioni opzionali 7-29
+Figura 38 – 220 V obtained from the 220 V generator
+The trasformatore is located in the motore room, at portside. Never obstruct the air inlets on
+each side : it may cause a dangerous overheating of the appliance.
+Figura 39 – 110 / 220 V trasformatore
+Remark : As the frequency of the tension is maintained to 60 Hz when electricity comes
+from the shore, a few appliances don’t work :
+- dissalatore,
+- microwave oven,
+- clothes washer / dryer,
+- dish washer.
+They must be run with the 220 V generator.
+--- pagina 34 ---
+ Guida utente – Dotazioni opzionali7-30
+7.17 Ventilatori
+Your boat is equipped with many supports for swivelling fans. They run on 24 V (the plug is
+behind the support). A fan can be set in another room unscrewing the wheel.
+To run the fan, turn the central wheel :
+- 1 st position : low speed,
+- 2 nd position : high speed.
+Figura 40 – Swivelling fan
+--- pagina 35 ---
+Guida utente – Dotazioni opzionali 7-31
+7.18 Tampone / Chiusura capottina
+The companionway can be secured with a stainless steel cover, set in 2 plugs in the cockpit.
+2 padlocks avoid to go inside the boat.
+Figura 41 – Tampone / Chiusura capottina with stainless steel cover
+Padlocks
+--- pagina 36 ---
+ Guida utente – Dotazioni opzionali7-32
+7.19 24 / 220 V inverter
+PERICOLO! Leggere attentamente the inverter’s manual before
+use. Contiene avvertenze riguardanti la vostra sicurezza
+durante l'uso e la manutenzione.
+The user’s manual gives some security information that
+must be respected for a secure use of this appliance.
+Refer to it before continuing.
+Qualsiasi intervento su parti meccaniche o elettriche
+on this device deve essere eseguito da personale qualificato, using
+appropriate tools and protections.
+An inverter changes a 24 V DC voltage (the batteries) to an alternating 220 V voltage. This
+type of appliance doesn’t allow to use “big consumers” (dish washer, washer / dryer
+machine).
+If we use the microwave oven with the inverter, the interruttore magnetotermico will switch it off 3 or 4
+minutes later : it’s normal. The functioning time of the microwave oven is intentionally limited
+to the necessary time for heating a cup of coffee for example, without starting the power
+generator.
+7.20 Pacchetto Comfort
+You have chosen to fit out your Super Maramu 2000 with a comfort pack. It contents a lot of
+elements, which are :
+7.20.1 100 hp. main motore
+Figura 42 – 100 hp. main motore
+Red handle
+for manual
+stop
+Decant filter
+Motore
+filter
+--- pagina 37 ---
+Guida utente – Dotazioni opzionali 33
+Motore specifications (for further details, refer to motore’s manual) :
+Diesel motore YANMAR 4JH3-HTE
+Type
+Turbo powered with intercooler Diesel
+motore, 4 strokes, 4 cylinders verticle in
+line direct injection
+Motore capacity 1995 cm 3
+Power 73,6 kW (100 hp.) à 3800 t/mn
+Minimum idling speed 900 ± 25 rpm
+Impianto di raffreddamento Freshwater with heat exchanger
+Motore battery alternator 12 V, 55 A
+Service batteries alternator 24 V, 175 A
+Fuel consumption (clean hull)
+Economical cruising
+(1800 rpm ; 6,5 knots) : 3,9 l/h
+Cruising (2000 rpm ; 7 knots) : 5,5 l/h
+7.20.2 175 A alternator
+A 24 V / 175 A alternator is coupled with this motore. He charges the 12 service batteries
+(see 7.20.3), from 1500 rpm.
+7.20.3 Batterie
+Your boat has twelve batteries (of 12 V / 105 A.h each) for all the 24 V equipment.
+Connected in line and parallel, it represents a full capacity of 630 A.h.
+7.20.4 100 A caricabatterie
+To charge the service batteries from the power generator, a 24 V / 100 A is installed. Switch
+on the interruttore magnetotermico on the 220 V panel (big caricabatterie icon, in the upper left corner) to run it.
+--- pagina 38 ---
+ Guida utente – Dotazioni opzionali34
+7.20.5 4 plate gas stove and oven
+This 4 plate gas stove and oven working with butane gas has the following characteristics :
+Burner power 1,0 kW – 2 x 1,5 kW – 2,2 kW
+Oven power 1,8 kW
+Grill power 1,6 kW
+Oven volume 36 litros
+Electronic lighting 1,5 V DC
+Don’t forget to switch on the interruttore magnetotermico of the electrical gas shutoff on the 24 V panel to
+use this appliance.
+To light the grill, use a manual gas-lighter.
+Figura 43 – 4 plate stove and oven
+--- pagina 39 ---
+Guida utente – Dotazioni opzionali 7-35
+7.21 Elica shaft alternator
+You have chosen to equip your Super Maramu 2000 with a propeller shaft alternator. It gives
+up to 20 A, and is really efficient from 7 knots. It can be unclutched with an electrical shutoff
+located close to the transmission.
+Because of safety rules, don’t connect the propeller shaft alternator cruising with the motore.
+The control switch is located in the cockpit, close to the voltmeter and the temperature
+indicator.
+To use the propeller shaft alternator with the sails :
+- start the main motore without clutching it, to make the hydraulic brake free,
+- clutch in the rear sense (to spread the propeller’s blades), and then come back
+in the neutral position,
+- excite the alternator switching on (in the up position) the control switch,
+- stop the motore.
+- the indicator becomes green (the red indicator lights if the propeller’s rotation
+isn’t fast enough),
+To stop the propeller shaft alternator, stop the excitation (which allows the hydraulic brake to
+close up) switching in the lower position the control switch.
+Figura 44 – Elica shaft alternator control switch
+--- pagina 40 ---
+ Guida utente – Dotazioni opzionali7-36
+Figura 45 – Elica shaft alternator and his electrical shutoff
+There is no danger to damage something when running it in a wrong use by accident.
+Electrical
+shutoff
+--- pagina 41 ---
+Guida utente – Dotazioni opzionali 8-1
+8 Indice
+A
+actuating unit............................................. 7-11
+aria condizionata.......................................... 7-28
+air inlet ..................7-11, 7-14, 7-16, 7-18, 7-29
+alternator..........................7-1, 7-33, 7-35, 7-36
+amplifier .................................................... 7-21
+anchor fairlead ................................. 7-24, 7-25
+antenna..................................................... 7-21
+B
+batteries ...................................................... 7-1
+C
+cartridge........................................... 7-22, 7-23
+caricabatterie............................................... 7-1, 7-33
+circuit7-1, 7-5, 7-9, 7-13, 7-16, 7-17, 7-19, 7-
+20, 7-23, 7-28, 7-32, 7-33
+interruttore magnetotermico7-1, 7-16, 7-17, 7-19, 7-20, 7-23,
+7-28, 7-32, 7-33
+clothes washer / dryer............................... 7-29
+cockpit......... 7-11, 7-13, 7-16, 7-23, 7-31, 7-35
+comfort pack ............................................. 7-32
+compressor ............................................... 7-23
+consumption...................7-11, 7-16, 7-21, 7-33
+D
+congelatore a pozzetto.............................................. 7-20
+desalinator7-1, 7-2, 7-3, 7-4, 7-5, 7-6, 7-7, 7-8,
+7-9, 7-11, 7-29
+dish washer...................................... 7-29, 7-32
+diving bottles ............................................. 7-23
+drain.......................................7-1, 7-5, 7-8, 7-9
+E
+electronic equipment................................. 7-24
+motore .. 7-1, 7-27, 7-28, 7-29, 7-32, 7-33, 7-35
+motore room ..................................... 7-28, 7-29
+exchanger ................................................. 7-33
+excitation................................................... 7-35
+exhaust ............................................ 7-13, 7-15
+F
+fan............................................................. 7-30
+filter ... 7-3, 7-5, 7-7, 7-9, 7-10, 7-13, 7-14, 7-26
+flussometro ...............................7-4, 7-5, 7-8, 7-9
+flush ............................................................ 7-7
+frequency ......................................... 7-28, 7-29
+fresh air ventilation........................... 7-16, 7-18
+acqua dolce filter .......................7-21, 7-22, 7-23
+fuel ..........................................7-10, 7-11, 7-13
+fuel air heater............................................ 7-10
+G
+gas ..........................................7-26, 7-27, 7-33
+gas stove and oven ...................................7-33
+generator......... 7-1, 7-6, 7-28, 7-29, 7-32, 7-33
+gennaker ...................................................7-24
+H
+halyard ......................................................7-24
+heater .......... 7-10, 7-11, 7-13, 7-14, 7-15, 7-16
+alta pressione........................................7-4, 7-9
+holding tank.................................................7-1
+hour metre...................................................7-4
+hydraulic brake..........................................7-35
+I
+Imperial Gallon ............................7-1, 7-6, 7-11
+inflation......................................................7-23
+inverter ......................................................7-32
+L
+light............................................................7-20
+linear .........................................................7-24
+M
+manometro ..................................................7-4
+mast .................................................7-21, 7-24
+measure ...............................................7-4, 7-8
+membranes ..........................................7-2, 7-6
+microwave ........................................7-29, 7-32
+O
+oil7-26, 7-27
+outlet7-10, 7-11, 7-12, 7-13, 7-15, 7-16, 7-17,
+7-18
+P
+power...................... 7-6, 7-11, 7-21, 7-32, 7-33
+pressure ................ 7-4, 7-5, 7-7, 7-8, 7-9, 7-23
+propeller ...........................................7-27, 7-35
+propeller shaft alternator ...........................7-35
+pump ...........................................7-1, 7-7, 7-28
+Q
+sensore di qualità ............................... 7-5, 7-6, 7-9
+R
+regulator ...............................................7-5, 7-9
+rinsing..........................................................7-4
+--- pagina 42 ---
+ Guida utente – Dotazioni opzionali8-2
+rope cutter................................................. 7-27
+rotary motor pilot unit ................................ 7-24
+S
+sail ............................................................ 7-24
+acqua di mare ..................7-1, 7-3, 7-5, 7-6, 7-7, 7-9
+sensor...........................................7-3, 7-5, 7-9
+shore power ....................................... 7-1, 7-28
+shutoff .7-13, 7-21, 7-22, 7-26, 7-33, 7-35, 7-36
+spinnaker .................................................. 7-24
+stop cock.............................................. 7-3, 7-5
+stove and oven ......................................... 7-34
+suction ........................................................ 7-7
+T
+tack ........................................................... 7-24
+tank...................................................... 7-5, 7-9
+tap............................................................... 7-4
+television................................................... 7-21
+temperature 7-1, 7-5, 7-6, 7-9, 7-11, 7-15, 7-35
+temperature sensor ...................................7-15
+trasformatore.......................................7-28, 7-29
+transmission ..............................................7-35
+U
+U.S. Gallon..................................7-1, 7-6, 7-11
+V
+ventilation................................7-11, 7-15, 7-19
+voltage.......................................................7-32
+W
+watertight bulkhead ..........................7-10, 7-16
+wheel....................................7-4, 7-5, 7-9, 7-30
+--- pagina 43 ---
+Guida utente – Dotazioni opzionali 8-3
+Copy forbidden
+No part of this work may be reproduced,  without permission in writing from the Chantiers AMEL.
+Version 2.5
+November 2002
+
+Fonte: amel_super_maramu_2000_Optional_equipment.txt ★★

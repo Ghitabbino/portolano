@@ -1,0 +1,57 @@
+Traduzione italiana — originale inglese conservato in bow_thruster_overhaul_gary_silver_bill.txt
+
+--- pagina 1 ---
+REVISIONE ELICA DI PRUA (BOW THRUSTER)
+AMEL SM SCAFO #335 di Gary Silver 5-1-2007 Ristampato da Bill Rouse s/v BeBe 1/3/2010
+
+PUNTI GENERALI.
+1. Può essere eseguita in acqua o a terra (su invaso).
+2. Il piede dell'elica di prua pesa solo circa 15 libbre (6 kg). È per lo più in fibra di carbonio e vetroresina.
+3. Attrezzi e materiali necessari:
+a. Piccola quantità di colla a contatto (cemento a contatto).
+b. Piccola quantità di sigillante siliconico RTV
+c. Bussola da 13 mm e cricchetto
+d. Chiave a brugola da 6 mm (chiave esagonale)
+e. Cacciavite a lama e martello
+f. Olio per ingranaggi 90W (0,32 quarti / circa 0,3 litri)
+g. Attrezzo Speciale Amel per la rimozione in acqua se si sceglie questa via.
+
+DEFINIZIONI: Vedere le sezioni fotografiche del sito Yahoo intitolate "SM227" e "BOW THRUSTER SERVICE".
+
+1. POZZETTO ELICA DI PRUA (THRUSTER TRUNK): l'albero rettangolare, vetroresinato nello scafo della barca, nel quale il gruppo piede dell'elica di prua scorre su e giù.
+2. PIEDE ELICA (THRUSTER FOOT): il gruppo costituito da:
+a. CARENATURA a "V" (FAIRING) e i suoi supporti
+b. MOZZO (HUB) di supporto elica/ingranaggio e paraolio
+c. CAPPELLO ANTI-ROTAZIONE rettangolare (ANTI-TORQUE CAP)
+d. e l'ALLOGGIAMENTO verticale cilindrico dell'ALBERO ELICA (THRUSTER SHAFT HOUSING).
+3. FASCETTA A NASTRO (BAND CLAMP): La fascetta che è stata montata in retrofit da Amel nella parte inferiore del motore per impedire che le viti esagonali si allentino e che l'alloggiamento dell'albero dell'elica di prua cada a causa del moto ondoso ripetitivo. Quando la prua della barca beccheggia (hobby horsing) senza una corretta tenuta o se il piede dell'elica cade fuori dalla barca in mare mosso, l'acqua può risalire attraverso il pozzetto dell'elica e affondare la barca.
+
+PROCEDURA:
+
+1. Posizionare una grande fascetta a vite senza fine (fascetta stringitubo) attorno all'alloggiamento nero dell'albero dell'elica di prua come misura di sicurezza per assicurarsi che il piede dell'elica non cada dal fondo della barca durante i prossimi passaggi.
+2. Abbassare l'elica di 1 pollice (circa 2,5 cm) per togliere pressione dalle guarnizioni.
+3. Usando una bussola da 13 mm e un cricchetto rimuovere la fascetta a nastro speciale dalla base inferiore del motore. Fare attenzione a non far cadere oggetti in sentina. Ma se accade e non riuscite a vederlo, provate a rimuovere il coperchio sopra il condizionatore d'aria.
+4. Quindi rimuovere le quattro viti a testa esagonale e le rondelle elastiche dalla base del motore. Le viti escono completamente e quando l'ultima viene rimossa
+--- pagina 2 ---
+il gruppo piede dell'elica cadrà giù fuori dal pozzetto, quindi tenetevi pronti a sostenerlo o a trattenerlo.
+a. A questo punto se state facendo questo in acqua, adattare l'attrezzo speciale Amel all'alloggiamento dell'albero del piede e assicuratevi di applicare del nastro sulla giunzione per sigillarla e prevenire l'ingresso di acqua mentre lo abbassate fuori dal pozzetto usando la cima dell'attrezzo.
+b. Se lo fate a terra, fuori dall'acqua, posizionare una scala o una persona per sostenere il gruppo piede, quindi rimuovere la fascetta di sicurezza a vite precedentemente posizionata.
+5. Drenare l'olio in un secchio capovolgendo l'elica.
+6. Se è presente acqua nell'elica, come indicato da olio dall'aspetto lattiginoso, sciacquare ripetutamente il sistema dell'elica con acquaragia minerale o solvente Stoddard fino a quando non diventa limpido, e quindi lasciarlo drenare per diverse ore.
+7. Rimuovere la guarnizione interna in espanso (inside foam seal) e le due guarnizioni in espanso incollate sulla parte superiore del cappello anti-rotazione rettangolare. (Queste sono tenute in posizione da colla a contatto) Nota aggiunta da BeBe: la "guarnizione interna in espanso" (1 inside foam seal) è diversa dalle "due guarnizioni in espanso". Esaminate attentamente le nuove guarnizioni in espanso e vedrete la differenza. Le due guarnizioni uguali vanno insieme.
+8. Per sostituire il paraolio a labbro del pozzetto (trunk lip seal), rimuovere le due viti e le rondelle di ritegno dalla parte superiore del pozzetto dell'elica di prua. Usare un cacciavite per far collassare questo paraolio o provare a far leva con cautela. È un accoppiamento molto lasco.
+a. Quando si installa il nuovo paraolio a labbro, riempirlo di grasso, premerlo nella sua sede usando sigillante RTV per sigillarlo e tenerlo fermo. Sostituire le viti e le rondelle di ritegno.
+9. Per rimuovere il paraolio a labbro dell'albero elica (prop shaft lip seal) è necessario un martello a scorrimento (slide hammer) e viti molto piccole. È difficile forare in questo cuscinetto senza che la punta scivoli e danneggi la sede in vetroresina, quindi usare una punta da 1/16 di pollice (circa 1,6 mm) e forare davvero lentamente per evitare di scivolare. Una volta avvitate due viti in questo paraolio, un martello a scorrimento lo rimuove facilmente.
+10. Sigillare anche questo nuovo paraolio in posizione con RTV. È un accoppiamento più stretto rispetto al paraolio superiore ma comunque relativamente lasco rispetto al paraolio principale dell'albero elica.
+<<<Aggiunto Maggio 2012>>>
+Con il paraolio spinto più all'interno ora nemmeno un accenno di trasudamento d'olio dopo 2,5 ore con solo il corretto olio per ingranaggi SAE90 all'interno.
+Quello che abbiamo fatto è premere con cautela ma abbastanza saldamente il nuovo paraolio (con il bordo piatto di una lima) in modo che sia andato circa 3 mm oltre il livello del bordo esterno. In questa posizione non può andare oltre e ora ha una tenuta perfetta. Colin Streeter Island Pearl II - SM2k #332
+11. Trattare contro la corrosione eventuali aree sul fondo del motore che potrebbero necessitarne.
+12. Aggiungere 0,3 litri (circa 9 once o 0,32 quarti US) di olio per ingranaggi 90W Reinstallare l'elica e prima di testare assicurarsi che tutto sia libero sotto la barca.
+13. L'altezza a cui l'elica di prua si ritrae, e quindi l'allineamento del foro della spina di ritegno, sarà leggermente diversa ora a causa del nuovo spessore delle varie guarnizioni (cioè non compresse). Nota aggiunta da BeBe: Per allineare i fori tirare il filo anteriore destro per comprimere le nuove guarnizioni in espanso e allineare i fori della spina, quindi inserire la spina.
+--- pagina 3 ---
+
+
+--- pagina 4 ---
+
+Fonte: bow_thruster_overhaul_gary_silver_bill.txt ★★
