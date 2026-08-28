@@ -1,0 +1,6 @@
+{
+  "hosting": {"cost": 12, "currency": "€", "period": "mese", "note": "GitHub Pages + CDN"},
+  "domains": {"cost": 5, "currency": "€", "period": "mese", "note": "sailtropics.com/.it"},
+  "translation_api": {"cost": 30, "currency": "€", "period": "mese", "note": "DeepL API"},
+  "total": 47
+}

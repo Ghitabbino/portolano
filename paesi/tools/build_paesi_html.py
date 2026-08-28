@@ -515,10 +515,16 @@ aside h1 { font-size:16px; margin:0 0 12px; color:var(--accent); }
 #brand-c .bt2 { color:var(--accent); }
 #brand-c .bs { font-size:11px; color:var(--accent); letter-spacing:.08em;
                text-transform:uppercase; margin-left:auto; text-align:right; }
-#lang-switch{position:fixed;top:10px;right:12px;z-index:2200;display:flex;gap:4px;background:var(--panel);border:1px solid var(--line);border-radius:20px;padding:4px 6px;box-shadow:0 2px 10px rgba(0,0,0,.35)}
+#lang-switch{position:fixed;top:10px;right:12px;z-index:2200;display:flex;gap:4px;background:var(--panel);border:1px solid var(--line);border-radius:20px;padding:4px 6px;box-shadow:0 2px 10px rgba(0,0,0,.35);transition:transform .25s ease,opacity .2s ease}
+#lang-switch.hide{transform:translateY(-80px);opacity:0;pointer-events:none}
+#support-cta.hide{transform:translateY(-80px);opacity:0;pointer-events:none}
 #lang-switch a{padding:4px 9px;border-radius:12px;font-size:12px;font-weight:700;color:var(--muted);text-decoration:none}
 #lang-switch a.active{background:var(--accent);color:#06231f}
 #lang-switch a:hover{background:#1d3040;color:var(--ink)}
+#support-cta:hover{background:#3a9a8e;color:#06231f}
+.btn-sostienici:hover{background:#3a9a8e!important;transform:translateY(-1px)}
+.btn-sostienici:active{transform:translateY(0)}
+@media(max-width:800px){#support-cta{display:none!important}}
 .breadcrumb{font-size:12px;color:var(--muted);margin:0 0 8px;display:flex;flex-wrap:wrap;gap:4px;align-items:center}
 .breadcrumb a{color:var(--accent);text-decoration:none}
 .breadcrumb a:hover{text-decoration:underline}
@@ -532,8 +538,10 @@ body.searching #navgrid, body.searching #disc-home, body.searching #navtitle-c {
 #navgrid { display:none; grid-template-columns:repeat(auto-fill,minmax(250px,1fr));
            gap:16px; margin:8px 0 16px; }
 #navgrid .fi { font-size:42px; }
-#navgrid .area-card .soon { margin-top:2px; }
-main { flex:1; min-width:0; padding:clamp(30px,3.5vw,58px) clamp(14px,2.5vw,44px) 44px; font-size:18px; }
+ #navgrid .area-card .soon { margin-top:2px; }
+ #scroll-hint{ display:none; position:sticky; bottom:14px; margin:10px auto 0; width:fit-content; max-width:90%; z-index:5; background:#101b26; border:1px solid var(--accent); color:var(--accent); border-radius:20px; padding:8px 14px; font-size:13px; font-weight:700; box-shadow:0 4px 14px rgba(0,0,0,.35); cursor:pointer; animation:hint-bounce 1.8s infinite; }
+ @keyframes hint-bounce{ 0%,100%{transform:translateY(0)} 50%{transform:translateY(3px)} }
+ main { flex:1; min-width:0; padding:clamp(30px,3.5vw,58px) clamp(14px,2.5vw,44px) 44px; font-size:18px; }
 .page { display:none; }
 .page.visible { display:block; }
 h1,h2,h3 { color:#fff; line-height:1.25; }
@@ -607,6 +615,7 @@ li { margin:3px 0; }
 <a href="#" data-lang="pt">Português</a>
 <a href="#" data-lang="it">Italiano</a>
 </div>
+<a id="support-cta" href="https://ko-fi.com/sailtropics" target="_blank" rel="noopener noreferrer" class="btn-sostienici" aria-label="Supporta il progetto" style="position:fixed;top:10px;right:520px;z-index:2200;display:inline-flex;align-items:center;gap:6px;background:#4db6ac;color:#06231f!important;padding:6px 14px;border-radius:20px;font-size:14px;font-weight:700;text-decoration:none;transition:background .2s ease,transform .1s ease;box-shadow:0 1px 6px rgba(0,0,0,.2)">__I18N_support_us__</a>
 <aside>
   <div id="home-link" style="cursor:pointer;display:flex;align-items:center;gap:9px;margin:0 0 2px">
 <svg viewBox="0 0 64 52" width="42" height="36" aria-hidden="true" style="flex-shrink:0">
@@ -622,6 +631,7 @@ li { margin:3px 0; }
   <input id="search" type="search" placeholder="__I18N_search_placeholder__">
   <div id="login-side" style="margin:0 0 12px;display:flex;gap:8px"><a href="iscriviti.html" target="_blank" style="flex:1;text-align:center;padding:7px 8px;border:1px solid var(--accent);border-radius:8px;background:var(--accent);color:#06231f;font-weight:800;font-size:13px;text-decoration:none">__I18N_subscribe__</a><a href="accedi.html" target="_blank" style="flex:1;text-align:center;padding:7px 8px;border:1px solid var(--line);border-radius:8px;background:#0b131b;color:var(--accent);font-weight:700;font-size:13px;text-decoration:none">__I18N_login__</a></div>
   <div id="user-nick" style="display:none;margin:0 0 10px;padding:6px 8px;border-radius:8px;background:#0b131b;border:1px solid var(--line);color:var(--muted);font-size:11px;text-align:center"></div>
+  <div id="logout-side" style="display:none;margin:0 0 12px"><button onclick="logoutGlobal()" style="width:100%;padding:7px 10px;border-radius:8px;background:transparent;color:var(--muted);font-weight:700;border:1px solid var(--line);cursor:pointer">__I18N_logout__</button></div>
   <nav id="nav">__NAV__</nav>
 </aside>
 <main>
@@ -654,14 +664,24 @@ derivanti dall'uso di questi contenuti.
 <div style="color:var(--ink);font-size:13px;line-height:1.6;margin-top:6px"><b>Senza iscrizione leggi tutto; con l’iscrizione, se vuoi, resti aggiornato e aiuti gli altri. La scelta è tua.</b> Vedi <a href="#__ISCR__" style="color:var(--accent);font-weight:700">__I18N_subscribe__</a> o <a href="#__ACCE__" style="color:var(--accent);font-weight:700">__I18N_login__</a> — oppure inizia a esplorare.</div>
 </div>
 </div>
-<div id="navtitle-c"></div>
-<div id="navgrid"></div>
-__SECTIONS__
+ <div id="navtitle-c"></div>
+ <div id="navgrid"></div>
+ <div id="scroll-hint" onclick="window.scrollTo({top:document.body.scrollHeight,behavior:'smooth'})">↓ Scorri — trasparenza, ringraziamenti e supporto sotto</div>
+ __SECTIONS__
+  <!-- BLOCCO FUNDING — banda bianca compatta (ex-guidone rimosso) -->
+<div id="funding-guidone" style="margin:24px 0 0;background:#fff;border:1px solid #e5e9f0;border-radius:10px;padding:12px 12px;text-align:center">
+<div style="display:flex;gap:10px;justify-content:center;flex-wrap:wrap">
+<a href="https://github.com/sponsors/Ghitabbino" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:7px;padding:8px 16px;border-radius:20px;background:#0A192F;color:#fff!important;font-weight:700;font-size:13px;text-decoration:none;box-shadow:0 1px 4px rgba(0,0,0,.12)">❤ GitHub Sponsors</a>
+<a href="https://ko-fi.com/sailtropics" target="_blank" rel="noopener noreferrer" style="display:inline-flex;align-items:center;gap:7px;padding:8px 16px;border-radius:20px;background:#F5A623;color:#0A192F!important;font-weight:800;font-size:13px;text-decoration:none;box-shadow:0 1px 4px rgba(0,0,0,.12)">☕ Ko-fi</a>
+</div>
+</div>
+<footer style="margin-top:18px;padding:16px 14px;text-align:center;border-top:1px solid var(--line);font-size:13px;color:var(--muted);line-height:1.6"><div style="max-width:640px;margin:0 auto">__I18N_footer_support__</div><div style="margin-top:8px;font-size:11px;opacity:.85">Nessuna pubblicità · Nessun tracciamento · Dati mai venduti · GDPR 100% · <a href="../paesi/trasparenza.html" style="color:var(--accent);text-decoration:underline">📖 Trasparenza costi (open-book)</a> · <a href="../paesi/ringraziamenti.html" style="color:var(--accent);text-decoration:underline">🙏 Ringraziamenti</a></div></footer>
 </main>
 <script>
 const plinks=[...document.querySelectorAll('.pagelink')];
 const TREE=__TREE__;
 const I18N=__I18N__;
+const PROFILO_PID='__PROFILO__'; const ISCRIVITI_PID='__ISCR__'; const ACCEDI_PID='__ACCE__'; const CHI_PID='__CHI__';
 let current='__FIRST__', state='';
 function esc(s){return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/"/g,'&quot;');}
 function chain(st){
@@ -1000,22 +1020,82 @@ document.getElementById('search').addEventListener('input',e=>{
   });
 });
 show('__FIRST__');
+function logoutGlobal(){ try{ localStorage.removeItem('sailtropics_logged'); sessionStorage.removeItem('sailtropics_logged'); }catch(e){} try{ if(typeof updNick==='function') updNick(); }catch(e){} location.hash='#'+PROFILO_PID; }
+function gradoIcon(g){ if(!g) return '⚓'; g=(g+'').toLowerCase(); if(g.includes('comandante')||g.includes('capitano')) return '👨‍✈️'; if(g.includes('skipper')) return '🧭'; if(g.includes('marinaio')) return '⚓'; if(g.includes('mozzo')) return '🔱'; return '⚓'; }
+function gradoLabel(g){ if(!g) return ''; return ' · '+g; }
 (function(){
   function updNick(){
     const el=document.getElementById('user-nick');
+    const lo=document.getElementById('logout-side');
+    const li=document.getElementById('login-side');
     if(!el) return;
-    const logged=localStorage.getItem('sailtropics_logged')==='1';
-    const u=JSON.parse(localStorage.getItem('sailtropics_user')||'null');
+    const logged=localStorage.getItem('sailtropics_logged')==='1' || sessionStorage.getItem('sailtropics_logged')==='1';
+    const u=JSON.parse(localStorage.getItem('sailtropics_user')|| sessionStorage.getItem('sailtropics_user') ||'null');
     if(logged && u && u.nick){
+      const ic=gradoIcon(u.grado||u.grade||u.ruolo||'');
+      const gl=gradoLabel(u.grado||u.grade||u.ruolo||'');
       el.style.display='block';
-      el.textContent='👤 '+u.nick;
-      el.title='Loggato come '+u.nick+' — clic per profilo';
+      el.innerHTML='<span style="margin-right:6px">'+ic+'</span>👤 '+esc(u.nick)+'<span style="color:var(--muted);font-weight:400">'+esc(gl)+'</span>';
+      el.title='Loggato come '+u.nick+gl+' — clic per pagina personale';
       el.style.cursor='pointer';
-      el.onclick=()=>{location.hash='#'+(typeof PROFILO_PID!=='undefined'?PROFILO_PID:'profilo');};
-    } else {el.style.display='none'; el.onclick=null; el.textContent='';}
+      el.onclick=()=>{ location.hash='#'+PROFILO_PID; if(typeof show==='function'){ setTimeout(()=>show(PROFILO_PID),30);} };
+      if(lo) lo.style.display='block';
+      if(li) li.style.display='none';
+    } else {el.style.display='none'; el.onclick=null; el.textContent=''; if(lo) lo.style.display='none'; if(li) li.style.display='flex';}
   }
+  window.updNick=updNick;
   updNick(); window.addEventListener('storage', updNick); window.addEventListener('hashchange', updNick);
   setInterval(updNick, 1000);
+})();
+// Nasconde Sostienici + lingue allo scroll + quando footer/guidone in vista (fix overlay brutto su footer)
+(function(){
+  let lastY=window.scrollY, ticking=false, footerVisible=false;
+  const sw=document.getElementById('lang-switch');
+  const sc=document.getElementById('support-cta');
+  function applyHide(){
+    const y=window.scrollY;
+    const down=y>lastY && y>80;
+    const hide = down || footerVisible;
+    if(sw) sw.classList.toggle('hide', hide);
+    if(sc) sc.classList.toggle('hide', hide);
+    lastY=y; ticking=false;
+  }
+  window.addEventListener('scroll', ()=>{ if(!ticking){ ticking=true; requestAnimationFrame(applyHide); }}, {passive:true});
+  // nasconde anche quando footer o guidone entrano in viewport (evita testo sotto bottoni fissi)
+  try{
+    const footer=document.querySelector('footer');
+    const guidone=document.getElementById('funding-guidone');
+    const targets=[footer,guidone].filter(Boolean);
+    if(targets.length && 'IntersectionObserver' in window){
+      const obs=new IntersectionObserver((entries)=>{
+        footerVisible=entries.some(e=>e.isIntersecting);
+        applyHide();
+      },{rootMargin:'0px 0px 0px 0px', threshold:0.05});
+      targets.forEach(t=>obs.observe(t));
+    } else {
+      // fallback: se observer non supportato, nasconde quando scroll vicino a fondo pagina
+      window.addEventListener('scroll', ()=>{
+        const nearBottom = window.innerHeight + window.scrollY >= document.body.scrollHeight - 180;
+        if(nearBottom){ footerVisible=true; applyHide(); } else if(footerVisible){ footerVisible=false; applyHide(); }
+      }, {passive:true});
+    }
+  }catch(e){}
+})();
+// Scroll-hint: mostra solo se c'è contenuto sotto la piega
+(function(){
+  function checkHint(){
+    const h=document.getElementById('scroll-hint');
+    const f=document.querySelector('footer');
+    if(!h||!f) return;
+    const need=document.body.scrollHeight > window.innerHeight + 80;
+    const nearBottom= window.innerHeight + window.scrollY >= document.body.scrollHeight - 120;
+    const onHome=!state && document.getElementById('navgrid') && getComputedStyle(document.getElementById('navgrid')).display!=='none';
+    h.style.display = (need && !nearBottom && onHome) ? 'block' : 'none';
+  }
+  window.addEventListener('scroll', checkHint, {passive:true});
+  window.addEventListener('resize', checkHint);
+  setTimeout(checkHint, 600);
+  setInterval(checkHint, 1500);
 })();
 (function(){
   function buildRegTree(){
@@ -1155,6 +1235,7 @@ html_template = (TEMPLATE.replace("__NAV__", nav_html)
         .replace("__CHI__", CHI_PID)
         .replace("__ISCR__", ISCRIVITI_PID)
         .replace("__ACCE__", ACCEDI_PID)
+        .replace("__PROFILO__", PROFILO_PID)
         .replace("__FIRST__", "p1"))
 
 def _apply_i18n(h, lang):
@@ -1170,6 +1251,26 @@ def _apply_i18n(h, lang):
 
 html = _apply_i18n(html_template, "it")
 OUT.write_text(html, encoding="utf-8")
+# === Trasparenza open-book come pagina HTML wiki ===
+try:
+    tr_md = (ROOT / "trasparenza.md").read_text(encoding="utf-8") if (ROOT / "trasparenza.md").exists() else ""
+    tr_costs = (ROOT / "costs.json").read_text(encoding="utf-8") if (ROOT / "costs.json").exists() else "{}"
+    if tr_md:
+        tr_body = md.convert(tr_md)
+        md.reset()
+        tr_html = f"""<!DOCTYPE html><html lang="it"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Trasparenza — Portolano</title><link rel="stylesheet" href="assets/leaflet.css"><style>:root{{--bg:#0f1720;--panel:#16222e;--ink:#dbe7f1;--muted:#8aa2b5;--accent:#4db6ac;--line:#24384a}}*{{box-sizing:border-box}}body{{margin:0;min-height:100vh;background:var(--bg);color:var(--ink);font:15px/1.6 -apple-system,Segoe UI,Roboto,sans-serif;padding:24px;max-width:780px;margin:auto}}a{{color:var(--accent)}}h1{{color:#fff}}blockquote{{border-left:3px solid var(--accent);margin:12px 0;padding:10px 14px;background:#0b131b;border-radius:8px;color:var(--ink)}}table{{width:100%;border-collapse:collapse;margin:14px 0}}th,td{{border:1px solid var(--line);padding:8px 10px;text-align:left}}th{{background:#16222e;color:#fff}}</style></head><body><p><a href="paesi.html" style="color:var(--accent);text-decoration:none">← Torna al portolano</a> · <a href="../it/index.html" style="color:var(--accent)">IT</a> · <a href="../en/index.html" style="color:var(--accent)">EN</a></p>{tr_body}<p style="margin-top:18px;padding:12px;border:1px solid var(--line);border-radius:8px;background:#0b131b;font-size:13px;color:var(--muted)">Nessuna pubblicità · Nessun tracciamento · Dati mai venduti · GDPR 100%</p></body></html>"""
+        (ROOT / "trasparenza.html").write_text(tr_html, encoding="utf-8")
+        print(f"OK -> trasparenza.html (open-book wiki)")
+    # Ringraziamenti contributors
+    rg_md = (ROOT / "ringraziamenti.md").read_text(encoding="utf-8") if (ROOT / "ringraziamenti.md").exists() else ""
+    if rg_md:
+        rg_body = md.convert(rg_md)
+        md.reset()
+        rg_html = f"""<!DOCTYPE html><html lang="it"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Ringraziamenti — Portolano</title><style>:root{{--bg:#0f1720;--panel:#16222e;--ink:#dbe7f1;--muted:#8aa2b5;--accent:#4db6ac;--line:#24384a}}*{{box-sizing:border-box}}body{{margin:0;min-height:100vh;background:var(--bg);color:var(--ink);font:15px/1.6 -apple-system,Segoe UI,Roboto,sans-serif;padding:24px;max-width:900px;margin:auto}}a{{color:var(--accent)}}h1{{color:#fff}}</style></head><body><p><a href="paesi.html" style="color:var(--accent);text-decoration:none">← Torna al portolano</a></p>{rg_body}<p style="margin-top:18px;padding:12px;border:1px solid var(--line);border-radius:8px;background:#0b131b;font-size:13px;color:var(--muted)">Nessuna pubblicità · GDPR 100% · Dati mai venduti</p></body></html>"""
+        (ROOT / "ringraziamenti.html").write_text(rg_html, encoding="utf-8")
+        print(f"OK -> ringraziamenti.html (contributors)")
+except Exception as e:
+    print(f"trasparenza/ringraziamenti export skip: {{e}}")
 # === GPX + ZIP export ===
 try:
     import subprocess, sys

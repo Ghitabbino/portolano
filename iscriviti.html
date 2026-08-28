@@ -16,17 +16,6 @@
 <div style="margin:18px 0 0;padding:10px 12px;border-left:3px solid #ffb74d;background:#131e29;color:var(--muted);font-size:12px;line-height:1.5"><b style="color:#ffb74d">⚠️ Portolano amatoriale</b> — informazioni e coordinate indicative, non sostituiscono cartografia ufficiale né controllo in loco. Ogni decisione è del Comandante.</div>
 <script>
 (function(){const s=JSON.parse(localStorage.getItem('sailtropics_emails')||'[]');const dl=document.getElementById('email-suggest');if(dl) s.forEach(e=>{const o=document.createElement('option');o.value=e;dl.appendChild(o);});})();
-(function(){
-  const T={regions:[{k:'Caraibi',l:'Mar dei Caraibi',i:'🌴',p:['cuba','haiti']},{k:'Atlantico',l:'Atlantico',i:'🌊',p:['azzorre','madeira','canarie','cabo-verde']},{k:'Pacifico',l:'Pacifico',i:'🐚',p:['costarica']},{k:'Mediterraneo',l:'Mediterraneo',i:'⛵',p:['italia','grecia','spagna']},{k:'Mar Rosso',l:'Mar Rosso',i:'🐠',p:[]},{k:'Oceano Indiano',l:'Oceano Indiano',i:'🏝️',p:[]}],flag:{'azzorre':'assets/flags/azzorre.svg','madeira':'assets/flags/madeira.svg','canarie':'🇮🇨','cabo-verde':'🇨🇻','cuba':'🇨🇺','haiti':'🇭🇹','costarica':'🇨🇷','italia':'🇮🇹','grecia':'🇬🇷','spagna':'🇪🇸'},lbl:{'azzorre':'Azzorre','madeira':'Madeira','canarie':'Canarie','cabo-verde':'Capo Verde','cuba':'Cuba','haiti':'Haiti','costarica':'Costa Rica','italia':'Italia','grecia':'Grecia','spagna':'Spagna'}};
-  const el=document.getElementById('reg-tree'); console.log("iscriviti standalone T", T, "el", el); if(!el) return;
-  let h=''; T.regions.forEach(r=>{
-    h+=`<div style="margin:6px 0"><div style="display:flex;gap:6px;align-items:center"><input type="checkbox" class="reg-check" data-k="${r.k}"> <span style="font-size:16px">${r.i}</span> <a href="#" onclick="event.preventDefault();const n=this.parentElement.nextElementSibling;n.style.display=n.style.display==='none'?'block':'none'" style="color:#000;font-weight:700;text-decoration:none;font-size:14px">${r.l}</a></div>`;
-    let children=`<div style="display:block;margin:4px 0 4px 18px;border-left:2px solid #000;padding-left:10px">`;
-    (r.p||[]).forEach(pk=>{const f=T.flag[pk]||'🏝️';const l=T.lbl[pk]||pk; children+=`<div style="margin:3px 0"><div style="display:flex;gap:6px;align-items:center"><input type="checkbox" class="reg-check" data-k="${pk}"> <span>${f}</span> <span style="color:#000;font-size:13px">${l}</span></div></div>`;});
-    children+=`</div>`; h+=children+`</div>`;
-  }); el.innerHTML=h;
-  el.addEventListener('change',()=>{const s=[...document.querySelectorAll('.reg-check:checked')].map(c=>c.dataset.k);document.getElementById('sel-count').textContent=s.length;document.getElementById('sel-list').textContent=s.slice(0,6).join(', ')+(s.length>6?' +'+(s.length-6):'');});
-})();
 function iscrivi(){
   const nick=document.getElementById('nick').value.trim(), email=document.getElementById('email').value.trim(), pass=document.getElementById('pass').value;
   if(!nick||!email||!pass||pass.length<8){const m=document.getElementById('msg');m.style.display='block';m.style.background='#3a1a1a';m.style.border='1px solid #d32f2f';m.textContent='Compila nickname, email e password (min 8).';return;}

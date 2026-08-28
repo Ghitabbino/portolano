@@ -1,0 +1,20 @@
+<!DOCTYPE html><html lang="it"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Ringraziamenti — Portolano</title><style>:root{--bg:#0f1720;--panel:#16222e;--ink:#dbe7f1;--muted:#8aa2b5;--accent:#4db6ac;--line:#24384a}*{box-sizing:border-box}body{margin:0;min-height:100vh;background:var(--bg);color:var(--ink);font:15px/1.6 -apple-system,Segoe UI,Roboto,sans-serif;padding:24px;max-width:900px;margin:auto}a{color:var(--accent)}h1{color:#fff}</style></head><body><p><a href="paesi.html" style="color:var(--accent);text-decoration:none">← Torna al portolano</a></p><h1>Ringraziamenti — Grazie a chi tiene in rotta il Portolano</h1>
+<blockquote>
+<p>Portolano è gratuito, open e senza pubblicità perché esiste una community che lo sostiene. Qui ringraziamo chi dona — in forma anonima o con nickname — su Ko-fi, Patreon e GitHub Sponsors. GDPR 100%: nessun dato venduto, solo ciò che autorizzi.</p>
+</blockquote>
+<div id="sponsors-grid" style="display:grid; grid-template-columns:repeat(auto-fill,minmax(150px,1fr)); gap:12px; margin:16px 0">Caricamento ringraziamenti…</div>
+
+<script>
+fetch('sponsors.json').then(r=>r.json()).then(d=>{
+  const g=document.getElementById('sponsors-grid');
+  if(!d||!d.length){ g.innerHTML='<div style="border:1px solid var(--line);border-radius:10px;padding:14px;text-align:center;color:var(--muted)">Ancora nessun sostenitore — sii il primo su <a href="https://ko-fi.com/sailtropics" target="_blank" style="color:var(--accent)">Ko-fi</a> o <a href="https://github.com/sponsors/Ghitabbino" target="_blank" style="color:var(--accent)">GitHub Sponsors</a></div>'; return; }
+  g.innerHTML=d.map(s=>{
+    const nick = s.nick==='anonimo' ? '🌊 Anonimo' : '⛵ '+s.nick;
+    const via = s.via ? ' · '+s.via : '';
+    return `<div style="border:1px solid var(--line);border-radius:10px;padding:12px;text-align:center;background:#0b131b"><div style="font-weight:800;color:var(--accent)">${nick}</div><div style="font-size:11px;color:var(--muted)">${s.date||''}${via}</div>${s.msg?'<div style="font-size:12px;color:var(--ink);margin-top:6px;font-style:italic">“'+s.msg+'”</div>':''}</div>`;
+  }).join('');
+}).catch(()=>{ document.getElementById('sponsors-grid').innerHTML='<div style="color:var(--muted);text-align:center">Impossibile caricare i ringraziamenti offline.</div>'; });
+</script>
+
+<p>Sostieni anche tu: <a href="https://ko-fi.com/sailtropics">☕ Ko-fi</a> · <a href="https://github.com/sponsors/Ghitabbino">GitHub Sponsors</a> — 100% trasparente in <a href="trasparenza.md">Trasparenza open-book</a>.</p>
+<p>Ultimo aggiornamento: 28/08/2026</p><p style="margin-top:18px;padding:12px;border:1px solid var(--line);border-radius:8px;background:#0b131b;font-size:13px;color:var(--muted)">Nessuna pubblicità · GDPR 100% · Dati mai venduti</p></body></html>

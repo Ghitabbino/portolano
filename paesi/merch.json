@@ -1,0 +1,466 @@
+{
+  "meta": {
+    "aggiornato": "2026-08-28",
+    "versione": "1.0",
+    "provider_primario": "Printful — produzione EU (Riga LV + Barcellona ES), stampa on-demand zero stock",
+    "provider_secondario": "Gelato (EU) per poster/taccuini se Printful out-of-stock; Printify per dry-bag se non disponibile",
+    "logistica": "Spedizione 3–6 gg EU, 5–8 gg resto mondo; tracciata; resi 14 gg",
+    "etica": "Cotone bio GOTS/OCS, inchiostri base acqua certificati OEKO-TEX, imballo riciclato, compensazione CO2 opzionale",
+    "valuta": "EUR",
+    "nota_margine": "Margine etico 4–10€ destinato 100% a hosting+domini+API (vedi trasparenza.md). Prezzo vendita = costo fornitore + IVA/spedizione interna + margine. Nessun magazzino, nessun anticipo.",
+    "colori_brand": {
+      "portolano_accent": "#4db6ac",
+      "sailtropics_accent": "#0ea5e9",
+      "bg": "#0f1720",
+      "panel": "#16222e",
+      "muted": "#8aa2b5"
+    }
+  },
+  "anime_grafiche": {
+    "portolano": {
+      "nome": "Portolano",
+      "claim": "Minimale · Intellettuale · Orientamento",
+      "uso": "Studio, scrivania, programmazione, lettura carte",
+      "stile": "Tipografia serif + bussola stilizzata, linee sottili 1.2pt, spazi bianchi ampi, palette teal #4db6ac su avorio/petrolio",
+      "file_master": "PNG trasparente 4500×5400px (15×18\" @300DPI) + SVG vettoriale sorgente, sRGB per DTG, CMYK Fogra39 per offset opzionale",
+      "varianti_colore": ["Avorio (#F6F0E6) logo teal", "Petrolio (#0f1720) logo avorio", "Bianco logo teal", "Nero logo teal"],
+      "posizionamento_tipo": "Centrato petto 10×10cm (t-shirt/felpe), fronte copertina centrato (taccuini), centrale 8×8cm (tazze)"
+    },
+    "sailtropics": {
+      "nome": "Sailtropics",
+      "claim": "Tecnico · Resistente · Marino/Avventuroso",
+      "uso": "Bordo, pozzetto, tender, spiaggia, viaggio",
+      "stile": "Sans bold + guidone/bussola + coordinate, tratti spessi 2pt, palette ocean #0ea5e9 + giallo boa #fbbf24 su navy/teal",
+      "file_master": "PNG trasparente 4500×5400px (15×18\" @300DPI) + SVG + PDF stampa bandiera 9000×6000px, sRGB per sublimazione, Pantone 877C argento opzionale",
+      "varianti_colore": ["Navy (#0B1D2A) logo bianco/teal", "Bianco logo navy", "Teal logo navy", "Giallo boa logo navy"],
+      "posizionamento_tipo": "Petto + schiena grande (apparel), bifacciale mirror (bandiere), avvolgente 360° (tazze acciaio), cucitura rinforzata (sacche)"
+    }
+  },
+  "categorie": [
+    {
+      "id": "cat1_abbigliamento_bio",
+      "nome": "Categoria 1 — Abbigliamento Bio (Portolano & Sailtropics)",
+      "focus": "Comfort terra/bordo · cotone bio 100% · PNG trasparente varianti colore",
+      "icona": "👕",
+      "prodotti": [
+        {
+          "sku": "TS-POR-01",
+          "nome": "T-shirt Unisex Cotone Bio 100% — Portolano Minimale",
+          "anime": "Portolano",
+          "descrizione": "Stanley/Stella Creator (STTU755) 180 GSM, GOTS/OCS, vestibilità regular. Logo bussola + scritta Portolano. Per studio e bordo leggero.",
+          "varianti": {
+            "taglie": ["XS","S","M","L","XL","XXL"],
+            "colori": ["Bianco","Avorio","Petrolio scuro","Nero","Grigio melange"],
+            "note": "PNG trasparente 4500×5400px si adatta a tutti i colori; su scuro base bianca sottopelo"
+          },
+          "file_stampa": {
+            "dpi_min": 300,
+            "pixel": "4500×5400 px (15×18\" @300DPI)",
+            "profilo_colore": "sRGB IEC61966-2.1 per DTG; sorgente CMYK Fogra39 convertito in sRGB per Printful",
+            "formato": "PNG-24 trasparente + SVG master",
+            "area_viva": "254×300 mm su petto (10×11.8\") con margine sicurezza 10mm"
+          },
+          "stampa": {
+            "tecnica": "DTG — Direct To Garment (Kornit Atlas)",
+            "dettagli": "Inchiostri base acqua OEKO-TEX, pre-trattamento bio, fissaggio 160°C, lavaggio 30°C rovesciata"
+          },
+          "posizionamento": "Centrato petto 100×100 mm (logo 80mm + scritta 18mm sotto), 70mm sotto cucitura collo. Nessun retro. Etichetta strappabile.",
+          "costi": {
+            "fornitore_base_iva_escl": 12.5,
+            "spedizione_media_eu": 3.9,
+            "prezzo_vendita_consigliato": 24.9,
+            "margine_etico": 8.5,
+            "valuta": "€",
+            "nota": "Prezzo include IVA 22% IT; spedizione al cliente 4.90€ extra. Margine 8.5€ → trasparenza.md"
+          },
+          "provider": "Printful (Riga/Barcellona)",
+          "eco": "Cotone bio, filiera GOTS, inchiostri vegan"
+        },
+        {
+          "sku": "TS-SAI-01",
+          "nome": "T-shirt Unisex Cotone Bio 100% — Sailtropics Tecnica",
+          "anime": "Sailtropics",
+          "descrizione": "Stesso base Creator 180 GSM ma grafica Sailtropics bold con guidone + coordinate 14° N 61° W stilizzate. Pensata per bordo.",
+          "varianti": {
+            "taglie": ["XS","S","M","L","XL","XXL"],
+            "colori": ["Navy","Bianco","Teal","Grigio asfalto"],
+            "note": "Doppia grafica: petto piccolo (8cm) + schiena grande (28cm) su richiesta; default solo petto"
+          },
+          "file_stampa": {
+            "dpi_min": 300,
+            "pixel": "4500×5400 px petto + 4500×5400 px schiena (se doppia), totale 9000×5400",
+            "profilo_colore": "sRGB per DTG, bianco di base su navy",
+            "formato": "PNG trasparente",
+            "area_viva": "Petto 200×200mm, Schiena 280×350mm"
+          },
+          "stampa": {
+            "tecnica": "DTG Dual-side",
+            "dettagli": "Due passate Kornit, bianco di fondo su scuri, asciugatura intermedia"
+          },
+          "posizionamento": "Petto: centrato 80×80mm. Schiena (opzionale +3€ base): centrato 280×320mm, 90mm sotto collo. Mockup fornito.",
+          "costi": {
+            "fornitore_base_iva_escl": 12.5,
+            "extra_schiena": 3.0,
+            "prezzo_vendita_consigliato": 26.9,
+            "margine_etico": 7.5,
+            "valuta": "€",
+            "nota": "Versione solo petto 24.90€ (margine 8.5€); doppia 26.90€ margine 7.5€"
+          },
+          "provider": "Printful",
+          "eco": "Come TS-POR-01"
+        },
+        {
+          "sku": "FL-POR-01",
+          "nome": "Felpa Cappuccio Unisex Bio 85/15 — Portolano",
+          "anime": "Portolano",
+          "descrizione": "Stanley/Stella Cruiser (STSU132) 350 GSM, cotone bio 85% + riciclato 15%, spazzolata interna. Logo Portolano tono su tono.",
+          "varianti": {
+            "taglie": ["XS","S","M","L","XL","XXL"],
+            "colori": ["Petrolio","Avorio","Nero","Grigio chiaro"],
+            "note": "Interno garzato, coulisse piatta, tasca a marsupio"
+          },
+          "file_stampa": {
+            "dpi_min": 300,
+            "pixel": "4500×5400 px (cover 14×17\" @300DPI)",
+            "profilo_colore": "sRGB",
+            "formato": "PNG trasparente + PDF per ricamo opzionale",
+            "area_viva": "280×350 mm petto"
+          },
+          "stampa": {
+            "tecnica": "DTG su felpa (oppure ricamo 100×100mm +8€ su richiesta)",
+            "dettagli": "Pre-trattamento felpe scure più marcato; DTG consigliata su chiari, ricamo su scuri per durata"
+          },
+          "posizionamento": "Centrato petto 180×140mm, 80mm sotto cucitura collo. Cappuccio senza stampa (pulito).",
+          "costi": {
+            "fornitore_base_iva_escl": 22.0,
+            "prezzo_vendita_consigliato": 34.9,
+            "margine_etico": 9.0,
+            "valuta": "€",
+            "nota": "Ricamo +8€ base → prezzo 42.90€ margine 9€"
+          },
+          "provider": "Printful (Barcellona per felpe)",
+          "eco": "GOTS + GRS (riciclato), cappuccio doppio strato"
+        },
+        {
+          "sku": "FL-SAI-01",
+          "nome": "Felpa Cappuccio Unisex Bio — Sailtropics Bordo",
+          "anime": "Sailtropics",
+          "descrizione": "Stessa base Cruiser ma grafica Sailtropics grande schiena + piccolo petto. Rinforzi cuciture per vento.",
+          "varianti": {
+            "taglie": ["S","M","L","XL","XXL"],
+            "colori": ["Navy","Teal","Nero"],
+            "note": "Disponibile anche senza cappuccio (crewneck -2€)"
+          },
+          "file_stampa": {
+            "dpi_min": 300,
+            "pixel": "4500×5400 petto + 5400×7200 schiena",
+            "profilo_colore": "sRGB",
+            "formato": "PNG trasparente",
+            "area_viva": "Schiena 300×400mm"
+          },
+          "stampa": {
+            "tecnica": "DTG Dual-side",
+            "dettagli": "Schiena grande con banda riflettente opzionale (non POD, su richiesta locale)"
+          },
+          "posizionamento": "Petto 80×80mm sinistra cuore; Schiena 300×360mm centrata.",
+          "costi": {
+            "fornitore_base_iva_escl": 22.0,
+            "extra_schiena": 3.0,
+            "prezzo_vendita_consigliato": 36.9,
+            "margine_etico": 8.0,
+            "valuta": "€",
+            "nota": "Margine 8€, copre anche costi reso EU"
+          },
+          "provider": "Printful",
+          "eco": "Come FL-POR-01"
+        }
+      ]
+    },
+    {
+      "id": "cat2_cancelleria_scrivania",
+      "nome": "Categoria 2 — Cancelleria Scrivania (Portolano)",
+      "focus": "Studio, programmazione, wiki al PC · Stampa su carta/ceramica",
+      "icona": "📓",
+      "prodotti": [
+        {
+          "sku": "NB-POR-01",
+          "nome": "Taccuino A5 Hardcover 144pp — Portolano",
+          "anime": "Portolano",
+          "descrizione": "Copertina rigida 1200gsm laminata soft-touch, 144 pagine puntinate 90gsm avorio, elastico + segnalibro teal, tasca interna.",
+          "varianti": {
+            "formati": ["A5 148×210mm (STD)", "A6 105×148mm -1€"],
+            "colori_copertina": ["Petrolio logo avorio", "Avorio logo teal"],
+            "interni": ["Puntinato 5mm (consigliato navigazione)", "Rigato", "Bianco"]
+          },
+          "file_stampa": {
+            "dpi_min": 300,
+            "pixel": "1748×2480 px (A5 +3mm bleed per lato = 154×216mm @300DPI)",
+            "profilo_colore": "CMYK Fogra39 per stampa offset POD (Printful converte da sRGB)",
+            "formato": "PDF/X-1a + PNG preview",
+            "area_viva": "Copertina 148×210mm + dorso 12mm + bleed 3mm"
+          },
+          "stampa": {
+            "tecnica": "Stampa UV su copertina rigida + laminazione soft-touch",
+            "dettagli": "UV 6 colori + bianco su scuri, anti-impronta"
+          },
+          "posizionamento": "Copertina fronte centrata 100×100mm logo + titolo 'Portolano — appunti di rotta' 12pt sotto; retro piccolo logo 20mm in basso dx; dorso scritta verticale.",
+          "costi": {
+            "fornitore_base_iva_escl": 8.2,
+            "prezzo_vendita_consigliato": 16.9,
+            "margine_etico": 5.8,
+            "valuta": "€",
+            "nota": "Spedizione EU 4.90€ extra; bundle con adesivi -1€"
+          },
+          "provider": "Printful (copertine) / Gelato (alternativa EU rapida)",
+          "eco": "Carta FSC, copertina riciclabile"
+        },
+        {
+          "sku": "TZ-POR-01",
+          "nome": "Tazza Ceramica 330ml (11oz) — Portolano Ufficio",
+          "anime": "Portolano",
+          "descrizione": "Ceramica bianca AAA, bordo colorato interno teal opzionale, lavastoviglie/microonde safe. Per scrivania.",
+          "varianti": {
+            "capacita": ["330ml 11oz (STD)", "440ml 15oz +1.5€"],
+            "finiture": ["Bianca lucida", "Bordo teal interno", "Magica nera termica +4€"],
+            "note": "Confezione kraft singola"
+          },
+          "file_stampa": {
+            "dpi_min": 300,
+            "pixel": "2700×1050 px (wrap 247×95mm @300DPI) con 3mm bleed",
+            "profilo_colore": "sRGB per sublimazione (Printful sRGB)",
+            "formato": "PNG 2700×1050 + PDF",
+            "area_viva": "Avvolgente 240×95mm, zona manico esclusa 15mm"
+          },
+          "stampa": {
+            "tecnica": "Sublimazione dye su ceramica rivestita polimero",
+            "dettagli": "Carta transfer 120g, pressa 200°C 180s, rivestimento Orca"
+          },
+          "posizionamento": "Avvolgente centrata 80×80mm logo wrap + scritta 'Portolano — conoscenza/orientamento' orizzontale. Manico senza stampa.",
+          "costi": {
+            "fornitore_base_iva_escl": 6.8,
+            "prezzo_vendita_consigliato": 14.9,
+            "margine_etico": 5.2,
+            "valuta": "€",
+            "nota": "Set 2 tazze 26.90€ margine 9€"
+          },
+          "provider": "Printful (Riga)",
+          "eco": "Ceramica, inchiostri sublimazione a base acqua"
+        },
+        {
+          "sku": "AD-POR-01",
+          "nome": "Set Adesivi Fustellati Vinile — Portolano (3 pezzi)",
+          "anime": "Portolano",
+          "descrizione": "Vinile bianco 3M 80μ, laminazione UV, fustella kiss-cut, resistente acqua/UV 3 anni. Per laptop, carta nautica, borraccia.",
+          "varianti": {
+            "pezzi": ["Bussola 50mm", "Scritta Portolano 80×25mm", "Barchetta stilizzata 60mm"],
+            "finiture": ["Lucido (STD)", "Opaco +0.30€", "Olografico +0.80€"],
+            "note": "Venduti in foglio A6 105×148mm"
+          },
+          "file_stampa": {
+            "dpi_min": 300,
+            "pixel": "1230×1748 px per foglio A6 @300DPI + fustella vettoriale",
+            "profilo_colore": "CMYK + bianco su trasparente opzionale, sRGB sorgente",
+            "formato": "PDF vettoriale con traccia fustella magenta 0.25pt + PNG preview",
+            "area_viva": "A6 con 2mm distanza tra soggetti e 3mm bleed"
+          },
+          "stampa": {
+            "tecnica": "Stampa ecosolvent + laminazione + fustella digitale",
+            "dettagli": "Vinile monometrico, adesivo permanente rimovibile senza residui entro 1 anno"
+          },
+          "posizionamento": "Foglio A6 con 3 soggetti spaziati 8mm, logo centrato per taglio.",
+          "costi": {
+            "fornitore_base_iva_escl": 1.4,
+            "prezzo_vendita_consigliato": 6.9,
+            "margine_etico": 4.0,
+            "valuta": "€",
+            "nota": "Margine minimo 4€ etico; bundle con taccuino 20.90€ tot margine 7€"
+          },
+          "provider": "Printful / StickerMule via Printify",
+          "eco": "Vinile senza PVC opzionale su richiesta (+0.50€, bio-based)"
+        },
+        {
+          "sku": "SH-POR-01",
+          "nome": "Shopper Tote Cotone Bio — Portolano (extra scrivania)",
+          "anime": "Portolano",
+          "descrizione": "Tote 38×42cm, cotone bio 140gsm, manici lunghi 65cm, cuciture incrociate. Per libri, spesa, banchina.",
+          "varianti": {
+            "colori": ["Naturale grezzo", "Nero", "Petrolio"],
+            "note": "Capacità 10L, fondo piatto opzionale +1€"
+          },
+          "file_stampa": {
+            "dpi_min": 300,
+            "pixel": "3600×3600 px (12×12\" @300DPI)",
+            "profilo_colore": "sRGB per DTG tessuto",
+            "formato": "PNG trasparente",
+            "area_viva": "300×300mm centrato su un lato"
+          },
+          "stampa": {
+            "tecnica": "DTG su cotone bio",
+            "dettagli": "Singolo lato, lavaggio 30°C"
+          },
+          "posizionamento": "Centrato 200×140mm (logo 120mm + scritta sotto 30mm), 80mm dal bordo superiore.",
+          "costi": {
+            "fornitore_base_iva_escl": 5.5,
+            "prezzo_vendita_consigliato": 12.9,
+            "margine_etico": 4.5,
+            "valuta": "€",
+            "nota": "Margine 4.5€, leggera e spedibile in busta"
+          },
+          "provider": "Printful",
+          "eco": "Cotone bio GOTS, manici riciclati"
+        }
+      ]
+    },
+    {
+      "id": "cat3_tecnica_bordo",
+      "nome": "Categoria 3 — Attrezzatura Tecnica Bordo (Sailtropics)",
+      "focus": "Resistenza UV/vento/acqua mare · doppio lato / cuciture rinforzate",
+      "icona": "⛵",
+      "prodotti": [
+        {
+          "sku": "BG-SAI-01",
+          "nome": "Bandiera Rettangolare 60×90cm + Guidone Vento 30×45cm — Sailtropics (PRIMO PRODOTTO CODA)",
+          "anime": "Sailtropics",
+          "descrizione": "Poliestere nautico 115gsm bandiera, trama fitta, occhielli inox + fettuccia rinforzata lato albero. Guidone triangolare 30×45cm con tasca per asta 25mm. Stampa bifacciale mirror-through (si legge da entrambi i lati). Resistenza UV 6 mesi continuo esterno. Cuciture perimetrali doppie + doppia riga su inferitura.",
+          "varianti": {
+            "misure": ["60×90cm bandiera (STD)", "40×60cm -3€", "90×150cm +6€", "Guidone 20×30cm -2€", "Guidone 30×45cm STD"],
+            "finiture": ["Occhielli inox (STD)", "Corda + galloccia", "Tasca asta guidone (STD)"],
+            "note": "Bundle bandiera+guidone 34.90€ risparmio 5€"
+          },
+          "file_stampa": {
+            "dpi_min": 150,
+            "pixel": "3543×5315 px per 60×90cm @150DPI (oppure 7090×10630 @300DPI per dettaglio massimo) + bleed 10mm",
+            "profilo_colore": "sRGB per sublimazione su poliestere; nero ricco C60 M40 Y40 K100 per profondità",
+            "formato": "PDF vettoriale + PNG 7087×4724 per preview; font convertiti in tracciati",
+            "area_viva": "58×88cm visibile, 1cm cucitura interna non stampata"
+          },
+          "stampa": {
+            "tecnica": "Sublimazione su poliestere nautico 115gsm",
+            "dettagli": "Disperse dye, fissaggio 210°C calandra, stampa passante 85% su retro (mirror), filo Tenara opzionale anti-UV"
+          },
+          "posizionamento": "Bifacciale: logo Sailtropics centrato 400×280mm fronte/retro specchiato, coordinate 10pt su inferitura. Guidone: logo centrato 180×140mm su entrambi i lati.",
+          "costi": {
+            "fornitore_base_iva_escl_bandiera_60x90": 13.5,
+            "fornitore_base_iva_escl_guidone_30x45": 9.8,
+            "prezzo_vendita_consigliato_bandiera": 22.9,
+            "prezzo_vendita_consigliato_guidone": 18.9,
+            "prezzo_bundle": 34.9,
+            "margine_etico_bandiera": 6.5,
+            "margine_etico_guidone": 6.2,
+            "margine_bundle": 8.0,
+            "valuta": "€",
+            "nota": "Primo prodotto in coda richiesto da AGENTI_TRACCIA #17. Produzione EU 5–7gg, spedizione piegata in busta rigida."
+          },
+          "provider": "Printful (bandiere) / FlagFactory EU via Printify (alternativa)",
+          "eco": "Poliestere riciclato opzionale 110gsm +2€, inchiostri sublimazione a base acqua"
+        },
+        {
+          "sku": "DB-SAI-01",
+          "nome": "Sacca Stagna Dry Bag 10L / 20L — Sailtropics",
+          "anime": "Sailtropics",
+          "descrizione": "PVC 500D tarpaulin saldato HF, chiusura roll-top 3 pieghe + clip, tracolla rimovibile, finestra trasparente opzionale per vedere contenuto. Impermeabile IPX6 (schizzi + immersione breve).",
+          "varianti": {
+            "capacita": ["10L  ø20×40cm (STD trek/tender)", "20L ø24×48cm +3€ (crociera)", "5L + portacellulare -2€"],
+            "colori": ["Navy logo bianco", "Giallo logo navy (alta visibilità)", "Trasparente logo teal"],
+            "note": "Logo stampato su entrambi i lati; finestra 120×80mm su 20L"
+          },
+          "file_stampa": {
+            "dpi_min": 300,
+            "pixel": "3600×2400 px per lato @300DPI (12×8\"), 2 lati = 7200×2400",
+            "profilo_colore": "sRGB per transfer su PVC; bianco di fondo su navy",
+            "formato": "PNG trasparente + PDF con sagoma",
+            "area_viva": "200×120mm per lato, 30mm da cucitura HF"
+          },
+          "stampa": {
+            "tecnica": "Transfer termico / Stampa UV su PVC 500D",
+            "dettagli": "Film PU transfer 120μ, pressa 150°C 12s, bordi saldati non stampati"
+          },
+          "posizionamento": "Fronte retro centrato 140×90mm logo + scritta 'Sailtropics' sotto 12mm; retro solo logo 60mm vicino chiusura.",
+          "costi": {
+            "fornitore_base_iva_escl_10L": 13.8,
+            "fornitore_base_iva_escl_20L": 16.5,
+            "prezzo_vendita_consigliato_10L": 22.9,
+            "prezzo_vendita_consigliato_20L": 26.9,
+            "margine_etico_10L": 6.2,
+            "margine_etico_20L": 7.5,
+            "valuta": "€",
+            "nota": "Costo include tracolla; alternativa Printful non disponibile → Printify SPOKE Custom EU"
+          },
+          "provider": "Printify — SPOKE Custom / BagsFactory EU",
+          "eco": "PVC free TPU opzionale +4€ (eco), riciclabile"
+        },
+        {
+          "sku": "TZ-SAI-02",
+          "nome": "Tazza Acciaio Inox 300ml con Moschettone — Sailtropics",
+          "anime": "Sailtropics",
+          "descrizione": "Acciaio inox 304 300ml, doppia parete opzionale +3€, smaltata bianco con bordo inox, moschettone carabiner 7cm incluso, coperchio silicone opzionale. Antiruggine, per pozzetto.",
+          "varianti": {
+            "capacita": ["300ml (STD)", "400ml +2€"],
+            "finiture": ["Bianca smaltata (STD)", "Navy smaltata +1€", "Acciaio nudo spazzolato +0€ (laser)"],
+            "note": "Moschettone incluso; scatola kraft"
+          },
+          "file_stampa": {
+            "dpi_min": 300,
+            "pixel": "2700×1200 px wrap @300DPI (225×100mm + bleed)",
+            "profilo_colore": "sRGB per sublimazione su smalto polimero",
+            "formato": "PNG wrap",
+            "area_viva": "200×90mm avvolgente, escluso manico/moschettone 15mm"
+          },
+          "stampa": {
+            "tecnica": "Sublimazione su acciaio smaltato + rivestimento epossidico",
+            "dettagli": "Pressa tazza 180°C 300s, 3D vacuum per avvolgente completo"
+          },
+          "posizionamento": "Avvolgente 180×70mm logo + coordinate + scritta 'Sailtropics — vento in poppa', moschettone laterale libero.",
+          "costi": {
+            "fornitore_base_iva_escl": 11.2,
+            "prezzo_vendita_consigliato": 19.9,
+            "margine_etico": 5.8,
+            "valuta": "€",
+            "nota": "Doppia parete 22.90€ margine 6.5€"
+          },
+          "provider": "Printful (mug enamel)",
+          "eco": "Acciaio riciclabile 100%, moschettone alluminio"
+        },
+        {
+          "sku": "AM-SAI-01",
+          "nome": "Asciugamano Microfibra 60×120cm + 40×60cm — Sailtropics anti-salsedine",
+          "anime": "Sailtropics",
+          "descrizione": "Microfibra 200gsm (80% poliestere 20% poliammide), asciugatura rapida 3× cotone, sacca rete inclusa, trattamento anti-salsedine, morbido su pelle. Compatto in gavone.",
+          "varianti": {
+            "misure": ["60×120cm grande (STD)", "40×60cm piccolo -6€", "Set 2 pezzi (1+1) 34.90€"],
+            "colori": ["Navy logo bianco", "Teal logo navy", "Grigio chiaro logo teal"],
+            "note": "Bordo con fettuccia + elastico sacca"
+          },
+          "file_stampa": {
+            "dpi_min": 150,
+            "pixel": "3543×7087 px per 60×120cm @150DPI (oppure 7087×14173 @300DPI per ultra dettaglio)",
+            "profilo_colore": "sRGB per sublimazione su microfibra",
+            "formato": "PNG full-bleed + PDF",
+            "area_viva": "58×118cm con 10mm cucitura perimetrale non stampata"
+          },
+          "stampa": {
+            "tecnica": "Sublimazione su microfibra 200gsm",
+            "dettagli": "Calandra 200°C, stampa full-bleed, retro bianco, bordo overlock teal"
+          },
+          "posizionamento": "Full-bleed pattern onde + logo Sailtropics centrato 300×200mm + scritta piccola 'Sailtropics × Portolano' angolo 40mm.",
+          "costi": {
+            "fornitore_base_iva_escl_60x120": 14.5,
+            "fornitore_base_iva_escl_40x60": 8.9,
+            "prezzo_vendita_consigliato_60x120": 24.9,
+            "prezzo_vendita_consigliato_40x60": 14.9,
+            "prezzo_set": 34.9,
+            "margine_etico_60x120": 7.5,
+            "margine_etico_40x60": 4.2,
+            "margine_set": 9.0,
+            "valuta": "€",
+            "nota": "Set ottimizza spedizione (1 pacco, margine 9€)"
+          },
+          "provider": "Printful (towel) / Gelato EU",
+          "eco": "Microfibra riciclata opzionale 190gsm +1.5€"
+        }
+      ]
+    }
+  ],
+  "nota_legale": "Tutti i prezzi IVA inclusa IT 22% (altri paesi EU con OSS). Spedizione non inclusa (calcolata al checkout). Resi 14gg per difetti stampa (Printful garanzia). Nessun dato venduto, GDPR 100%. Loghi forniti in PNG/SVG master a 300 DPI, sRGB. Per modifiche costi dimmi il nuovo prezzo e rigenero.",
+  "prossimi_step": ["Caricare PNG master su Printful → creare mockup → collegare store Ko-fi/Shopify/Etsy", "Aprire Etsy/Shopify a costo zero (solo commissioni vendita)", "Test ordinare 1 pezzo per verifica colori reali sRGB→stampa", "Collegare webhook donazioni → ringraziamenti.md automatico"]
+}
