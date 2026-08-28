@@ -72,11 +72,11 @@
 - Verifica: `grep -n "Disiscrizione" paesi/profilo.md` e `cat fix-meolo.html | grep meolo`
 
 ## 17. CATALOGO MERCH POD ETICO — 3 CATEGORIE (Product Manager POD)
-- [ ] **CATEGORIA 1 ABBIGLIAMENTO BIO (Portolano & Sailtropics):** T-shirt/felpe cotone bio 100%, PNG trasparente, varianti colore
-- [ ] **CATEGORIA 2 CANCELLERIA SCRIVANIA (Portolano):** Taccuini copertina rigida, tazze ufficio, adesivi fustellati
-- [ ] **CATEGORIA 3 ATTREZZATURA TECNICA BORDO (Sailtropics):** Bandiere/guidoni vento, sacche stagne dry bags, tazze acciaio con moschettone, asciugamani microfibra antisalsedine — focus UV/vento/acqua mare
-- Per ogni gadget scheda: 1) Dimensioni file DPI 300+ pixel sRGB/CMYK 2) Tipo stampa DTG/Sublimazione/UV 3) Posizionamento logo 4) Margine etico 4-10€ (costo fornitore vs prezzo vendita) — primo prodotto Bandiera/Guidone in coda
-- Verifica: `cat AGENTI_HANDOFF.md | grep -A5 "CATEGORIA 3"` e `ls merch/` (da creare)
+- [x] **CATEGORIA 1 ABBIGLIAMENTO BIO (Portolano & Sailtropics):** T-shirt/felpe cotone bio 100%, PNG trasparente, varianti colore — 4 prodotti TS-POR-01/TS-SAI-01/FL-POR-01/FL-SAI-01 in `paesi/merch.json:1` e `paesi/merch.html:16`
+- [x] **CATEGORIA 2 CANCELLERIA SCRIVANIA (Portolano):** Taccuini copertina rigida, tazze ufficio, adesivi fustellati — 4 prodotti NB-POR-01/TZ-POR-01/AD-POR-01/SH-POR-01 in `paesi/merch.json` e `paesi/merch.html:78`
+- [x] **CATEGORIA 3 ATTREZZATURA TECNICA BORDO (Sailtropics):** Bandiere/guidoni vento, sacche stagne dry bags, tazze acciaio con moschettone, asciugamani microfibra antisalsedine — focus UV/vento/acqua mare — 4 prodotti BG-SAI-01/DB-SAI-01/TZ-SAI-02/AM-SAI-01 (BG-SAI-01 primo prodotto coda) in `paesi/merch.json` e `paesi/merch.html:135`
+- Per ogni gadget scheda: 1) Dimensioni file DPI 300+ pixel sRGB/CMYK 2) Tipo stampa DTG/Sublimazione/UV 3) Posizionamento logo 4) Margine etico 4-10€ (costo fornitore vs prezzo vendita) — primo prodotto Bandiera/Guidone in coda — `paesi/tools/build_paesi_html.py:1255` genera `paesi/merch.html` + footer `paesi/tools/build_paesi_html.py:678` link `🛍️ Catalogo merch POD` + banda bianca funding `paesi/tools/build_paesi_html.py:672` (ex-guidone rimosso) + fix overlay `paesi/tools/build_paesi_html.py:1067` IntersectionObserver
+- Verifica: `cat paesi/merch.json | python3 -c "import json; d=json.load(open('paesi/merch.json')); print(sum(len(c['prodotti']) for c in d['categorie']))"` → 12 · `grep -n "merch.html" paesi/paesi.html` → 1 · `ls -lh paesi/merch.html` → 14KB · `grep -n "funding-guidone" paesi/paesi.html` → banda bianca
 
 ---
 
