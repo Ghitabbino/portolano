@@ -8,7 +8,8 @@
 | 2 | [Falmouth Harbour](ancoraggi/anc-falmouth.md) | ★★★★ | Sabbia e fango | 5–12 m | Boe AYC Marina ⚠️ |
 | 3 | [Jolly Harbour](ancoraggi/anc-jolly.md) | ★★★ | Sabbia | 4–6 m | Marina US$1,80–2,50/piede/notte; boe esterne no |
 
-
+<div class="mapframe" data-lat="17.03" data-lon="-61.80" data-markers='[[17.00425,-61.76365,"English Harbour (Freeman)","anc-english-harbour"],[17.01474,-61.77464,"Falmouth Harbour","anc-falmouth"],[17.053,-61.868,"Jolly Harbour","anc-jolly"]]' data-zoom="11"></div>
+*Cartina generale — clicca l'àncora gialla per aprire la scheda di dettaglio · zoom fino alla baia — pin verificati in mezzo al mare (WGS84)*
 
 **Ultimo aggiornamento: 23/08/2026**
 

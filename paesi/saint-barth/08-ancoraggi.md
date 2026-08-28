@@ -10,6 +10,10 @@
 
 
 
+
+<div class="mapframe" data-lat="17.877" data-lon="-62.883" data-markers='[[17.884,-62.866,"Anse de Colombier","anc-colombier"],[17.85,-62.933,"Île Fourchue","anc-fourchue"],[17.897,-62.851,"Gustavia","anc-gustavia"]]' data-zoom="11"></div>
+*Cartina generale — clicca l'àncora gialla per aprire la scheda di dettaglio · pin verificati in mezzo al mare (WGS84)*
+
 **Ultimo aggiornamento: 23/08/2026**
 
 

@@ -10,10 +10,14 @@
 | 4 | [White Bay (Jost Van Dyke)](ancoraggi/anc-white-bay-jvd.md) | ★★★ | Sabbia (scaffale ripido) | 4,5–6 m a riva; 18+ centro | Boe locali BoatyBall ⚠️ |
 | 5 | [Great Harbour (Jost Van Dyke)](ancoraggi/anc-great-harbour-jvd.md) | ★★★ | Sabbia | 4,5–6 m a riva; 18+ centro | Boe locali ⚠️ |
 | 6 | [Cruz Bay (St John)](ancoraggi/anc-cruz-bay.md) | ★★★ | Sabbia | 4–8 m | Boe NPS ~US$15/notte (Lind Point) |
-| 7 | [Soper's Hole (West End)](ancoraggi/anc-sopers-hole.md) | ★★★★★ | Sabbia | 4–10 interno; 15–21 esterno | Marina 18 boe + 43 posti |
+| 7 | [Soper’s Hole (West End)](ancoraggi/anc-sopers-hole.md) | ★★★★★ | Sabbia | 4–10 interno; 15–21 esterno | Marina 18 boe + 43 posti |
 | 8 | [Nanny Cay (Tortola)](ancoraggi/anc-nanny-cay.md) | ★★★★ | Sabbia | 3–8 m | Marina + boe ⚠️ |
 
 
+
+
+<div class="mapframe" data-lat="18.410" data-lon="-64.635" data-markers='[[18.317,-64.62,"The Bight (Norman)","anc-bight-norman"],[18.33,-64.793,"Cruz Bay (St John)","anc-cruz-bay"],[18.447,-64.75,"Great Harbour (Jost Van Dyke)","anc-great-harbour-jvd"],[18.423,-64.647,"Nanny Cay (Tortola)","anc-nanny-cay"],[18.497,-64.377,"North Sound (Virgin Gorda)","anc-north-sound"],[18.387,-64.697,"Soper’s Hole (West End)","anc-sopers-hole"],[18.433,-64.433,"The Baths (Virgin Gorda)","anc-the-baths"],[18.443,-64.762,"White Bay (Jost Van Dyke)","anc-white-bay-jvd"]]' data-zoom="10"></div>
+*Cartina generale — clicca l'àncora gialla per aprire la scheda di dettaglio · pin verificati in mezzo al mare (WGS84)*
 
 **Ultimo aggiornamento: 23/08/2026**
 

@@ -11,6 +11,10 @@
 
 
 
+
+<div class="mapframe" data-lat="18.067" data-lon="-63.059" data-markers='[[18.104,-63.01,"Anse Marcel","anc-anse-marcel"],[18.067,-63.048,"Grand Case","anc-grand-case"],[18.066,-63.082,"Baie de Marigot","anc-marigot"],[18.033,-63.097,"Simpson Bay Lagoon","anc-simpson-bay"]]' data-zoom="11"></div>
+*Cartina generale — clicca l'àncora gialla per aprire la scheda di dettaglio · pin verificati in mezzo al mare (WGS84)*
+
 **Ultimo aggiornamento: 23/08/2026**
 
 

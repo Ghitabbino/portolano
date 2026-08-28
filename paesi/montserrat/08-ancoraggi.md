@@ -8,6 +8,10 @@
 
 
 
+
+<div class="mapframe" data-lat="16.817" data-lon="-62.213" data-markers='[[16.817,-62.213,"Little Bay","anc-little-bay-msr"]]' data-zoom="13"></div>
+*Cartina generale — clicca l'àncora gialla per aprire la scheda di dettaglio · pin verificati in mezzo al mare (WGS84)*
+
 **Ultimo aggiornamento: 23/08/2026**
 
 

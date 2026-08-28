@@ -8,6 +8,10 @@
 
 
 
+
+<div class="mapframe" data-lat="17.483" data-lon="-62.983" data-markers='[[17.483,-62.983,"Oranje Bay","anc-oranje-bay"]]' data-zoom="13"></div>
+*Cartina generale — clicca l'àncora gialla per aprire la scheda di dettaglio · pin verificati in mezzo al mare (WGS84)*
+
 **Ultimo aggiornamento: 23/08/2026**
 
 
