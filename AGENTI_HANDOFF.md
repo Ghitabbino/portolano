@@ -119,11 +119,11 @@ python3 tools/download_mappe.py       # tasselli mappa offline
      • Mappa bandiere in `paesi/tools/build_paesi_html.py:120` (`BANDIERE`): aggiornala quando aggiungi un nuovo `slug` autonomo. Se il territorio ha codice ISO/emoji dedicato (es. 🇮🇨 per Canarie), usalo; se non esiste emoji dedicata (es. Azzorre/Madeira), usa l'emoji dello Stato con nota “autonoma” e icona distinta se disponibile.
      • Cerca e sostituisci: a ogni nuovo paese/arcipelago autonomo, verifica che `TREE.flag` e le tessere non mostrino la bandiera della madrepatria.
 
-16. DOWNLOAD ZIP/GPX — REGOLA ASSOLUTA (28/08/2026, per SEMPRE, per TUTTI gli agenti):
+16. DOWNLOAD ZIP/GPX — REGOLA ASSOLUTA (28/08/2026, per SEMPRE, per TUTTI gli agenti — aggiornata 28/08/2026):
      • **Avviso in prima pagina wiki** (`paesi/00-indice.md:1` = “Aree”): sempre presente un avviso breve che i dati di ogni paese sono scaricabili offline (ZIP + GPX WGS84). Non toglierlo mai.
-     • **Tasto ZIP accanto al nome paese nella barra laterale**: per OGNI paese/arcipelago autonomo (`paesi/<slug>/`) la voce nella sidebar sinistra mostra **accanto al nome un tasto/ icona ⬇️ ZIP** che punta a `zip/<slug>.zip` (e `gpx/<slug>.gpx` per i waypoint). Regola vale per tutti i paesi esistenti e futuri, senza eccezioni.
+     • **Tasto ZIP solo nel menu centrale della prima pagina del paese**: per OGNI paese/arcipelago autonomo la **tessera del paese nel menu centrale** (grid `navgrid` / `flagTile` in `build_paesi_html.py:634`) mostra il tasto `⬇️ ZIP` che punta a `zip/<slug>.zip`. **Mai** bottoni ZIP dentro le pagine del paese (`08-ancoraggi`, `00-ingresso` — lì resta solo `⬇️ GPX` con nota “ZIP da menu centrale”).
      • **Aggiornamento automatico**: ad **ogni modifica di un paese** (qualsiasi `.md` in `paesi/<slug>/`) il build rigenera **automaticamente** lo ZIP del paese (`tools/export_zip.py`) e il GPX (`tools/export_gpx.py`) — mai lasciare uno ZIP datato. Verificato in `tools/build_paesi_html.py:920` (hook post-build).
-     • Verifica: dopo ogni build controllare che `paesi/zip/<slug>.zip` e `paesi/gpx/<slug>.gpx` esistano e che `paesi.html` contenga il bottone ZIP in sidebar + in `08-ancoraggi` e prima pagina `00-ingresso` di ogni paese.
+     • Verifica: dopo ogni build controllare che `paesi/zip/<slug>.zip` e `paesi/gpx/<slug>.gpx` esistano e che `paesi.html` contenga il bottone ZIP solo nel menu centrale + `⬇️ GPX` in `08` e nota in `00`.
 
 ## ✅ COMPLETATO (non rifare)
 
