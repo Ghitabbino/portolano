@@ -296,8 +296,13 @@ def render(md_path: Path, title: str, sec_id: str, country: str = ""):
     html=RE_FRAME.sub(_add_dms,html)
     stem=md_path.stem
     hook=f'<span id="{stem}"></span>' if re.match(r'^(anc|rist)-',stem) else ''
+    # breadcrumb placeholder sopra H1 — popolato via JS con Home > Categoria > Pagina
+    bc_nav = '<nav class="breadcrumb" data-bc aria-label="Breadcrumb"></nav>'
+    # sostituisci Ultimo aggiornamento con chiave i18n per localizzazione
+    html = html.replace('Ultimo aggiornamento', '__I18N_last_updated__')
+    html = html.replace('Torna alle Aree', '__I18N_home__')
     sections.append(f'<section id="{sec_id}" class="page" data-country="{country}">'
-                    f'{hook}{badge}<h1{attrs}>{title}</h1>{html}</section>')
+                    f'{hook}{bc_nav}{badge}<h1{attrs}>{title}</h1>{html}</section>')
 
 
 register(ROOT / "00-indice.md", "Aree")
@@ -421,7 +426,7 @@ ALBERO = {
                  **{k: r for k, r in country_to_region.items()}},
 }
 
-nav_html = ('<div id="aree-head" title="Tutti i mari e gli oceani">🌍 Aree</div>'
+nav_html = ('  <div id="aree-head" title="__I18N_all_seas__">🌍 __I18N_areas__</div>'
             '<div id="navtitle"></div>'
             '<div id="tree"></div>'
             '<div class="nav-pages">' + "\n".join(nav_pages) + "</div>")
@@ -435,13 +440,13 @@ TEMPLATE = """<!DOCTYPE html>
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="0">
 <title>SailTropics · Portolano</title>
-<link rel="alternate" hreflang="it" href="/it/">
 <link rel="alternate" hreflang="en" href="/en/">
 <link rel="alternate" hreflang="fr" href="/fr/">
 <link rel="alternate" hreflang="es" href="/es/">
 <link rel="alternate" hreflang="de" href="/de/">
 <link rel="alternate" hreflang="pt" href="/pt/">
-<link rel="alternate" hreflang="x-default" href="/it/">
+<link rel="alternate" hreflang="it" href="/it/">
+<link rel="alternate" hreflang="x-default" href="/en/">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 52'%3E%3Ccircle cx='19' cy='20' r='10' fill='%23F0705A'/%3E%3Cpath d='M28 2 C41 13 47 30 44 48 L28 48 Z' fill='%231E5A9E'/%3E%3Cpath d='M6 48 q10 -8 22 -2 t 28 1' stroke='%232BB3A3' stroke-width='6' fill='none' stroke-linecap='round'/%3E%3C/svg%3E">
 <link rel="stylesheet" href="assets/leaflet.css">
 <style>
@@ -514,6 +519,10 @@ aside h1 { font-size:16px; margin:0 0 12px; color:var(--accent); }
 #lang-switch a{padding:4px 9px;border-radius:12px;font-size:12px;font-weight:700;color:var(--muted);text-decoration:none}
 #lang-switch a.active{background:var(--accent);color:#06231f}
 #lang-switch a:hover{background:#1d3040;color:var(--ink)}
+.breadcrumb{font-size:12px;color:var(--muted);margin:0 0 8px;display:flex;flex-wrap:wrap;gap:4px;align-items:center}
+.breadcrumb a{color:var(--accent);text-decoration:none}
+.breadcrumb a:hover{text-decoration:underline}
+.breadcrumb .sep{color:var(--muted);margin:0 4px}
 body.searching #navtitle, body.searching #tree,
 body.searching #navgrid, body.searching #disc-home, body.searching #navtitle-c { display:none!important; }
 #disc-home { display:none; border:1px solid #ffb74d; background:rgba(255,183,77,.07);
@@ -591,12 +600,12 @@ li { margin:3px 0; }
 </head>
 <body>
 <div id="lang-switch" role="navigation" aria-label="Selettore lingua">
-<a href="#" data-lang="it" class="active">Italiano</a>
 <a href="#" data-lang="en">English</a>
 <a href="#" data-lang="fr">Français</a>
 <a href="#" data-lang="es">Español</a>
 <a href="#" data-lang="de">Deutsch</a>
 <a href="#" data-lang="pt">Português</a>
+<a href="#" data-lang="it">Italiano</a>
 </div>
 <aside>
   <div id="home-link" style="cursor:pointer;display:flex;align-items:center;gap:9px;margin:0 0 2px">
@@ -609,9 +618,9 @@ li { margin:3px 0; }
 </svg>
 <span style="font-size:20px;font-weight:700;letter-spacing:.01em;color:var(--ink)">Sail<span style="color:var(--accent)">Tropics</span></span>
 </div>
-<div style="font-size:11px;color:var(--muted);margin:0 0 12px;letter-spacing:.08em;text-transform:uppercase">Portolano</div>
-  <input id="search" type="search" placeholder="Cerca paese o pagina…">
-  <div id="login-side" style="margin:0 0 12px;display:flex;gap:8px"><a href="iscriviti.html" target="_blank" style="flex:1;text-align:center;padding:7px 8px;border:1px solid var(--accent);border-radius:8px;background:var(--accent);color:#06231f;font-weight:800;font-size:13px;text-decoration:none">Iscriviti</a><a href="accedi.html" target="_blank" style="flex:1;text-align:center;padding:7px 8px;border:1px solid var(--line);border-radius:8px;background:#0b131b;color:var(--accent);font-weight:700;font-size:13px;text-decoration:none">Accedi</a></div>
+<div style="font-size:11px;color:var(--muted);margin:0 0 12px;letter-spacing:.08em;text-transform:uppercase">__I18N_portolano__</div>
+  <input id="search" type="search" placeholder="__I18N_search_placeholder__">
+  <div id="login-side" style="margin:0 0 12px;display:flex;gap:8px"><a href="iscriviti.html" target="_blank" style="flex:1;text-align:center;padding:7px 8px;border:1px solid var(--accent);border-radius:8px;background:var(--accent);color:#06231f;font-weight:800;font-size:13px;text-decoration:none">__I18N_subscribe__</a><a href="accedi.html" target="_blank" style="flex:1;text-align:center;padding:7px 8px;border:1px solid var(--line);border-radius:8px;background:#0b131b;color:var(--accent);font-weight:700;font-size:13px;text-decoration:none">__I18N_login__</a></div>
   <div id="user-nick" style="display:none;margin:0 0 10px;padding:6px 8px;border-radius:8px;background:#0b131b;border:1px solid var(--line);color:var(--muted);font-size:11px;text-align:center"></div>
   <nav id="nav">__NAV__</nav>
 </aside>
@@ -624,7 +633,7 @@ li { margin:3px 0; }
 <path d="M6 47 q9 -7 20 -2 t 30 1" stroke="#2BB3A3" stroke-width="4.5" fill="none" stroke-linecap="round"/>
 </svg>
 <span class="bw">Sail<span class="bt2">Tropics</span></span>
-<span class="bs">Un portolano amatoriale fatto da velisti per i velisti</span>
+<span class="bs">__I18N_brand_subtitle__</span>
 </div>
 <div id="disc-home">
 <b>⚠️ Portolano amatoriale — sito non commerciale.</b>
@@ -637,12 +646,12 @@ Gli autori non assumono alcuna responsabilità per danni, perdite, sanzioni o in
 derivanti dall'uso di questi contenuti.
 </div>
 <div id="wiki-libera-home" style="display:block;margin:12px 0 16px;padding:14px 16px;border:1px solid var(--line);border-radius:12px;background:#0b131b">
-<div style="font-weight:800;color:#fff;margin-bottom:6px">📖 Wiki assolutamente libera — nessuna iscrizione richiesta</div>
-<div style="color:var(--ink);font-size:13.5px;line-height:1.6">Puoi navigare l’intero portolano, consultare tutte le schede, scaricare mappe e file <b>ZIP/GPX</b> e usare il sito offline <b>senza creare alcun account e senza alcun pagamento</b>.</div>
+<div style="font-weight:800;color:#fff;margin-bottom:6px">📖 __I18N_wiki_free_title__</div>
+<div style="color:var(--ink);font-size:13.5px;line-height:1.6">__I18N_wiki_free_desc__</div>
 <div style="margin-top:10px;padding:10px 12px;border-left:3px solid var(--accent);background:#16222e;border-radius:8px">
-<div style="font-weight:700;color:#fff;font-size:13.5px">Benvenuto a bordo — due modi per usare la wiki</div>
+<div style="font-weight:700;color:#fff;font-size:13.5px">__I18N_welcome_aboard__</div>
 <div style="color:var(--ink);font-size:13px;line-height:1.6;margin-top:6px">Questa wiki è nata da velisti per velisti. <b>Puoi usarla liberamente, senza iscriverti, senza limiti e senza pubblicità.</b> L’iscrizione serve <b>solo se lo desideri</b>, per ricevere gli <b>alert per criticità di sicurezza e meteo generali</b> o per <b>contribuire</b> con aggiornamenti verificati dal posto.</div>
-<div style="color:var(--ink);font-size:13px;line-height:1.6;margin-top:6px"><b>Senza iscrizione leggi tutto; con l’iscrizione, se vuoi, resti aggiornato e aiuti gli altri. La scelta è tua.</b> Vedi <a href="#__ISCR__" style="color:var(--accent);font-weight:700">Iscriviti</a> o <a href="#__ACCE__" style="color:var(--accent);font-weight:700">Accedi</a> — oppure inizia a esplorare.</div>
+<div style="color:var(--ink);font-size:13px;line-height:1.6;margin-top:6px"><b>Senza iscrizione leggi tutto; con l’iscrizione, se vuoi, resti aggiornato e aiuti gli altri. La scelta è tua.</b> Vedi <a href="#__ISCR__" style="color:var(--accent);font-weight:700">__I18N_subscribe__</a> o <a href="#__ACCE__" style="color:var(--accent);font-weight:700">__I18N_login__</a> — oppure inizia a esplorare.</div>
 </div>
 </div>
 <div id="navtitle-c"></div>
@@ -652,6 +661,7 @@ __SECTIONS__
 <script>
 const plinks=[...document.querySelectorAll('.pagelink')];
 const TREE=__TREE__;
+const I18N=__I18N__;
 let current='__FIRST__', state='';
 function esc(s){return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/"/g,'&quot;');}
 function chain(st){
@@ -798,11 +808,33 @@ function show(id){
     document.getElementById('navgrid').style.display='none';
     document.getElementById('disc-home').style.display='none';
     window.scrollTo(0,0);
+    updateBreadcrumb();
     return;
   }
   setState((p&&p.dataset.country)||'');
   window.scrollTo(0,0);
   if(p)initMaps(p);
+  updateBreadcrumb();
+}
+function updateBreadcrumb(){
+  const p=document.getElementById(current);
+  if(!p) return;
+  const bc=p.querySelector('[data-bc]');
+  if(!bc) return;
+  const country=p.dataset.country||'';
+  const titleEl=p.querySelector('h1');
+  const title=titleEl?titleEl.textContent.trim():'';
+  const homeLabel=(typeof I18N!=='undefined' && I18N.breadcrumb_home) ? I18N.breadcrumb_home : (typeof I18N!=='undefined' && I18N.home ? I18N.home : 'Home');
+  let parts=[`<a href="#" onclick="event.preventDefault();go('')">${esc(homeLabel)}</a>`];
+  if(country){
+    const ch=chain(country);
+    ch.forEach(n=>{
+      const label=lbl(n);
+      parts.push(`<a href="#" onclick="event.preventDefault();go('${esc(n.k)}')">${esc(label)}</a>`);
+    });
+  }
+  if(title) parts.push(`<span>${esc(title)}</span>`);
+  bc.innerHTML=parts.join('<span class="sep">›</span>');
 }
 function initMaps(root){
   if(typeof L==='undefined')return;
@@ -1049,10 +1081,10 @@ show('__FIRST__');
 <script>
 // Selettore lingua — mantiene pid, nomi nativi, no bandiere
 (function(){
-  const langs=['it','en','fr','es','de','pt'];
+  const langs=['en','fr','es','de','pt','it'];
   const path=location.pathname;
-  const m=path.match(/\/(it|en|fr|es|de|pt)\//);
-  const curLang=m?m[1]: (document.documentElement.lang||'it');
+  const m=path.match(/\/(en|fr|es|de|pt|it)\//);
+  const curLang=m?m[1]: (document.documentElement.lang||'en');
   document.documentElement.lang=curLang;
   const sw=document.getElementById('lang-switch');
   if(sw){
@@ -1095,7 +1127,7 @@ show('__FIRST__');
 </html>
 """
 
-html = (TEMPLATE.replace("__NAV__", nav_html)
+html_template = (TEMPLATE.replace("__NAV__", nav_html)
         .replace("__TREE__", json.dumps(ALBERO, ensure_ascii=False))
         .replace("__SECTIONS__", "\n".join(sections))
         .replace(f'<section id="{ISCRIVITI_PID}" class="page"',
@@ -1114,6 +1146,19 @@ html = (TEMPLATE.replace("__NAV__", nav_html)
         .replace("__ISCR__", ISCRIVITI_PID)
         .replace("__ACCE__", ACCEDI_PID)
         .replace("__FIRST__", "p1"))
+
+def _apply_i18n(h, lang):
+    p = ROOT / "i18n" / f"{lang}.json"
+    if p.exists():
+        d = json.loads(p.read_text(encoding="utf-8"))
+        for _k,_v in d.items():
+            h = h.replace(f"__I18N_{_k}__", _v)
+        h = h.replace("__I18N__", json.dumps(d, ensure_ascii=False))
+    else:
+        h = h.replace("__I18N__", "{}")
+    return h
+
+html = _apply_i18n(html_template, "it")
 OUT.write_text(html, encoding="utf-8")
 # === GPX + ZIP export ===
 try:
@@ -1195,10 +1240,11 @@ th,td{padding:8px 10px;}
  aside{position:sticky;transform:none;width:290px;height:100vh;}
  main{padding:28px clamp(14px,2.5vw,44px);} }
 """
-mob = html.replace("</style>", mob_css + "</style>", 1)
+# mobile templates before i18n
+mob_template = html_template.replace("</style>", mob_css + "</style>", 1)
 ui = ('<div id="backdrop" onclick="toggleNav(false)"></div>'
       '<button class="burger" onclick="toggleNav()" aria-label="Apri menu">\u2630</button>')
-mob = mob.replace("<body>", "<body>\n" + ui, 1)
+mob_template = mob_template.replace("<body>", "<body>\n" + ui, 1)
 drawer = """<script>
 function toggleNav(force){const a=document.querySelector('aside'),b=document.getElementById('backdrop');
  const open=(force!==undefined)?force:!a.classList.contains('open');
@@ -1207,23 +1253,25 @@ document.querySelectorAll('aside a:not(.reg):not(.mac)').forEach(a=>a.addEventLi
 document.addEventListener('keydown',e=>{if(e.key==='Escape')toggleNav(false);});
 </script>
 """
-mob = mob.replace('<script src="assets/leaflet.js">', drawer + '<script src="assets/leaflet.js">', 1)
+mob_template = mob_template.replace('<script src="assets/leaflet.js">', drawer + '<script src="assets/leaflet.js">', 1)
+mob = _apply_i18n(mob_template, "it")
 OUTM = ROOT / "paesi-mobile.html"
 OUTM.write_text(mob, encoding="utf-8")
 print(f'OK -> {OUTM} ({OUTM.stat().st_size} byte) [smartphone]')
 
-# === MULTILINGUA: sottodirectory /it /en /fr /es /de /pt ===
+# === MULTILINGUA: sottodirectory /en /fr /es /de /pt /it — IT non primo ===
 LANGUAGES = {
-    'it': 'Italiano',
     'en': 'English',
     'fr': 'Français',
     'es': 'Español',
     'de': 'Deutsch',
-    'pt': 'Português'
+    'pt': 'Português',
+    'it': 'Italiano'
 }
-# genera versioni lingua (per ora contenuto IT identico, UI tradotta in futuro)
+# genera versioni lingua con UI tradotta via i18n (contenuto per ora IT, struttura identica)
 for lang in LANGUAGES:
-    lang_html = html.replace('<html lang="it">', f'<html lang="{lang}">')
+    base_html = _apply_i18n(html_template, lang)
+    lang_html = base_html.replace('<html lang="it">', f'<html lang="{lang}">')
     # fix selector active server-side
     lang_html = lang_html.replace('data-lang="it" class="active"', 'data-lang="it"')
     # rimuove eventuali active precedenti poi imposta quello corrente
@@ -1240,7 +1288,8 @@ for lang in LANGUAGES:
     lang_dir = ROOT.parent / lang
     lang_dir.mkdir(exist_ok=True)
     (lang_dir / "index.html").write_text(lang_html, encoding="utf-8")
-    lang_mob = mob.replace('<html lang="it">', f'<html lang="{lang}">')
+    base_mob = _apply_i18n(mob_template, lang)
+    lang_mob = base_mob.replace('<html lang="it">', f'<html lang="{lang}">')
     lang_mob = lang_mob.replace('data-lang="it" class="active"', 'data-lang="it"')
     lang_mob = lang_mob.replace(' class="active"', '')
     lang_mob = lang_mob.replace(f'data-lang="{lang}"', f'data-lang="{lang}" class="active"')
@@ -1249,27 +1298,30 @@ for lang in LANGUAGES:
     lang_mob = lang_mob.replace('"mappe/', '"../paesi/mappe/')
     # mobile non serve come file separato per lingua, ma teniamo index.html come principale
     print(f'OK -> {lang_dir / "index.html"} ({lang})')
-# landing root con auto-redirect lingua browser + selector manuale
-landing_html = """<!DOCTYPE html><html lang="it"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>SailTropics</title>
-<link rel="alternate" hreflang="it" href="it/"><link rel="alternate" hreflang="en" href="en/"><link rel="alternate" hreflang="fr" href="fr/"><link rel="alternate" hreflang="es" href="es/"><link rel="alternate" hreflang="de" href="de/"><link rel="alternate" hreflang="pt" href="pt/"><link rel="alternate" hreflang="x-default" href="it/">
+# landing root con auto-redirect lingua browser + selector manuale — EN default, IT ultimo
+landing_html = """<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>SailTropics</title>
+<link rel="alternate" hreflang="en" href="en/"><link rel="alternate" hreflang="fr" href="fr/"><link rel="alternate" hreflang="es" href="es/"><link rel="alternate" hreflang="de" href="de/"><link rel="alternate" hreflang="pt" href="pt/"><link rel="alternate" hreflang="it" href="it/"><link rel="alternate" hreflang="x-default" href="en/">
 <style>:root{--bg:#0f1720;--panel:#16222e;--ink:#dbe7f1;--muted:#8aa2b5;--accent:#4db6ac;--line:#24384a}*{box-sizing:border-box}body{margin:0;min-height:100vh;display:flex;align-items:center;justify-content:center;background:var(--bg);color:var(--ink);font:16px/1.5 -apple-system,Segoe UI,Roboto,sans-serif;padding:24px}a{color:var(--accent)}.card{max-width:560px;width:100%;border:1px solid var(--line);border-radius:16px;background:#0b131b;padding:28px;text-align:center}.langs{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin:18px 0}.langs a{padding:8px 14px;border-radius:20px;border:1px solid var(--line);background:var(--panel);color:var(--ink);text-decoration:none;font-weight:700;font-size:14px}.langs a:hover{border-color:var(--accent);background:#1d3040}</style>
 </head><body><div class="card">
 <div style="font-size:28px;margin-bottom:6px">⛵ SailTropics</div>
 <div style="color:var(--muted);margin-bottom:14px">Scegli la tua lingua — Choose your language — Choisissez votre langue</div>
 <div class="langs">
-<a href="it/">Italiano</a><a href="en/">English</a><a href="fr/">Français</a><a href="es/">Español</a><a href="de/">Deutsch</a><a href="pt/">Português</a>
+<a href="en/">English</a><a href="fr/">Français</a><a href="es/">Español</a><a href="de/">Deutsch</a><a href="pt/">Português</a><a href="it/">Italiano</a>
 </div>
 <div style="font-size:12px;color:var(--muted)">Verrai reindirizzato automaticamente alla tua lingua. Puoi sempre cambiarla dal selettore in alto a destra.</div>
 </div>
 <script>
 (function(){
-  const langs=['it','en','fr','es','de','pt'];
+  const langs=['en','fr','es','de','pt','it'];
   try{
     const saved=localStorage.getItem('sailtropics_lang');
-    if(saved && langs.includes(saved)){ location.replace('/'+saved+'/'); return; }
+    if(saved && langs.includes(saved)){ 
+      const base=location.pathname.includes('/portolano/')?'/portolano/':'/';
+      location.replace(base+saved+'/'); return; 
+    }
   }catch(e){}
-  const nav=(navigator.language||'it').toLowerCase();
-  let target='it';
+  const nav=(navigator.language||'en').toLowerCase();
+  let target='en';
   for(const l of langs){ if(nav.startsWith(l)){ target=l; break; } }
   // se siamo su /portolano/ (github.io) mantieni base
   const base=location.pathname.includes('/portolano/')?'/portolano/':'/';
