@@ -1,0 +1,312 @@
+{
+  "lang": "fr",
+  "nav": [
+    {
+      "id": "albania",
+      "label": "Albania"
+    },
+    {
+      "id": "algeria",
+      "label": "Algeria"
+    },
+    {
+      "id": "anguilla",
+      "label": "Anguilla"
+    },
+    {
+      "id": "antigua-barbuda",
+      "label": "Antigua Barbuda"
+    },
+    {
+      "id": "aruba",
+      "label": "Aruba"
+    },
+    {
+      "id": "azzorre",
+      "label": "Azzorre"
+    },
+    {
+      "id": "bahamas",
+      "label": "Bahamas"
+    },
+    {
+      "id": "barbados",
+      "label": "Barbados"
+    },
+    {
+      "id": "belize",
+      "label": "Belize"
+    },
+    {
+      "id": "bonaire",
+      "label": "Bonaire"
+    },
+    {
+      "id": "bosnia-erzegovina",
+      "label": "Bosnia Erzegovina"
+    },
+    {
+      "id": "cabo-verde",
+      "label": "Cabo Verde"
+    },
+    {
+      "id": "canarie",
+      "label": "Canarie"
+    },
+    {
+      "id": "cayman",
+      "label": "Cayman"
+    },
+    {
+      "id": "cipro",
+      "label": "Cipro"
+    },
+    {
+      "id": "colombia",
+      "label": "Colombia"
+    },
+    {
+      "id": "controllo",
+      "label": "Controllo"
+    },
+    {
+      "id": "costarica",
+      "label": "Costarica"
+    },
+    {
+      "id": "croazia",
+      "label": "Croazia"
+    },
+    {
+      "id": "cuba",
+      "label": "Cuba"
+    },
+    {
+      "id": "curacao",
+      "label": "Curacao"
+    },
+    {
+      "id": "dominica",
+      "label": "Dominica"
+    },
+    {
+      "id": "egitto",
+      "label": "Egitto"
+    },
+    {
+      "id": "francia",
+      "label": "Francia"
+    },
+    {
+      "id": "giamaica",
+      "label": "Giamaica"
+    },
+    {
+      "id": "grecia",
+      "label": "Grecia"
+    },
+    {
+      "id": "grenada",
+      "label": "Grenada"
+    },
+    {
+      "id": "grenadine",
+      "label": "Grenadine"
+    },
+    {
+      "id": "guadalupa",
+      "label": "Guadalupa"
+    },
+    {
+      "id": "haiti",
+      "label": "Haiti"
+    },
+    {
+      "id": "honduras",
+      "label": "Honduras"
+    },
+    {
+      "id": "israele",
+      "label": "Israele"
+    },
+    {
+      "id": "italia",
+      "label": "Italia"
+    },
+    {
+      "id": "libano",
+      "label": "Libano"
+    },
+    {
+      "id": "libia",
+      "label": "Libia"
+    },
+    {
+      "id": "madeira",
+      "label": "Madeira"
+    },
+    {
+      "id": "malta",
+      "label": "Malta"
+    },
+    {
+      "id": "marocco",
+      "label": "Marocco"
+    },
+    {
+      "id": "martinica",
+      "label": "Martinica"
+    },
+    {
+      "id": "monaco",
+      "label": "Monaco"
+    },
+    {
+      "id": "montenegro",
+      "label": "Montenegro"
+    },
+    {
+      "id": "montserrat",
+      "label": "Montserrat"
+    },
+    {
+      "id": "nicaragua",
+      "label": "Nicaragua"
+    },
+    {
+      "id": "panama",
+      "label": "Panama"
+    },
+    {
+      "id": "porto-rico",
+      "label": "Porto Rico"
+    },
+    {
+      "id": "repubblica-dominicana",
+      "label": "Repubblica Dominicana"
+    },
+    {
+      "id": "saba",
+      "label": "Saba"
+    },
+    {
+      "id": "saint-barth",
+      "label": "Saint Barth"
+    },
+    {
+      "id": "saint-martin",
+      "label": "Saint Martin"
+    },
+    {
+      "id": "santa-lucia",
+      "label": "Santa Lucia"
+    },
+    {
+      "id": "siria",
+      "label": "Siria"
+    },
+    {
+      "id": "slovenia",
+      "label": "Slovenia"
+    },
+    {
+      "id": "spagna",
+      "label": "Spagna"
+    },
+    {
+      "id": "st-eustatius",
+      "label": "St Eustatius"
+    },
+    {
+      "id": "st-kitts-nevis",
+      "label": "St Kitts Nevis"
+    },
+    {
+      "id": "trinidad-tobago",
+      "label": "Trinidad Tobago"
+    },
+    {
+      "id": "tunisia",
+      "label": "Tunisia"
+    },
+    {
+      "id": "turchia",
+      "label": "Turchia"
+    },
+    {
+      "id": "turks-caicos",
+      "label": "Turks Caicos"
+    },
+    {
+      "id": "venezuela",
+      "label": "Venezuela"
+    },
+    {
+      "id": "virgin-islands",
+      "label": "Virgin Islands"
+    }
+  ],
+  "ids": [
+    "albania",
+    "algeria",
+    "anguilla",
+    "antigua-barbuda",
+    "aruba",
+    "azzorre",
+    "bahamas",
+    "barbados",
+    "belize",
+    "bonaire",
+    "bosnia-erzegovina",
+    "cabo-verde",
+    "canarie",
+    "cayman",
+    "cipro",
+    "colombia",
+    "controllo",
+    "costarica",
+    "croazia",
+    "cuba",
+    "curacao",
+    "dominica",
+    "egitto",
+    "francia",
+    "giamaica",
+    "grecia",
+    "grenada",
+    "grenadine",
+    "guadalupa",
+    "haiti",
+    "honduras",
+    "israele",
+    "italia",
+    "libano",
+    "libia",
+    "madeira",
+    "malta",
+    "marocco",
+    "martinica",
+    "monaco",
+    "montenegro",
+    "montserrat",
+    "nicaragua",
+    "panama",
+    "porto-rico",
+    "repubblica-dominicana",
+    "saba",
+    "saint-barth",
+    "saint-martin",
+    "santa-lucia",
+    "siria",
+    "slovenia",
+    "spagna",
+    "st-eustatius",
+    "st-kitts-nevis",
+    "trinidad-tobago",
+    "tunisia",
+    "turchia",
+    "turks-caicos",
+    "venezuela",
+    "virgin-islands"
+  ]
+}

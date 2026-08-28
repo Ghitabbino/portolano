@@ -320,7 +320,7 @@ CHI_PID = queue[-1][2]
 register(ROOT / "contribuisci.md", "Contribuisci", country="", in_nav=False)
 CONTRIBUISCI_PID = queue[-1][2]
 
-NON_PAESE = {'controllo', 'fonti', 'tools', 'assets', 'mappe', 'gruppi'}
+NON_PAESE = {'controllo', 'fonti', 'tools', 'assets', 'mappe', 'gruppi', 'i18n', 'it', 'en', 'fr', 'es', 'de', 'pt'}
 for country_dir in sorted(p for p in ROOT.iterdir() if p.is_dir()
                           and not p.name.startswith(".")
                           and p.name not in NON_PAESE):
@@ -1111,6 +1111,16 @@ show('__FIRST__');
       });
     });
   }
+  // Sidebar condizionale: carica _sidebar.{lang}.json in base a cartella attiva — stessi ID, etichette tradotte
+  try{
+    const curLang2=(location.pathname.match(/\/(en|fr|es|de|pt|it)\//)||[,'en'])[1];
+    fetch(`../paesi/sidebar.${curLang2}.json`).then(r=>r.json()).then(data=>{
+      console.log('Sidebar',curLang2,'loaded',data.ids?data.ids.length+' ids':'');
+    }).catch(()=>{});
+    fetch(`sidebar.${curLang2}.json`).then(r=>r.json()).then(data=>{
+      console.log('Sidebar alt',curLang2,'loaded');
+    }).catch(()=>{});
+  }catch(e){}
   // Ricerca: normalizzazione accenti per lemmatizzazione base ( Lunr.js full in futuro )
   const s=document.getElementById('search');
   if(s){

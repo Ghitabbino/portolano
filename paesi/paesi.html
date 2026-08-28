@@ -110480,6 +110480,16 @@ show('p1');
       });
     });
   }
+  // Sidebar condizionale: carica _sidebar.{lang}.json in base a cartella attiva — stessi ID, etichette tradotte
+  try{
+    const curLang2=(location.pathname.match(/\/(en|fr|es|de|pt|it)\//)||[,'en'])[1];
+    fetch(`../paesi/sidebar.${curLang2}.json`).then(r=>r.json()).then(data=>{
+      console.log('Sidebar',curLang2,'loaded',data.ids?data.ids.length+' ids':'');
+    }).catch(()=>{});
+    fetch(`sidebar.${curLang2}.json`).then(r=>r.json()).then(data=>{
+      console.log('Sidebar alt',curLang2,'loaded');
+    }).catch(()=>{});
+  }catch(e){}
   // Ricerca: normalizzazione accenti per lemmatizzazione base ( Lunr.js full in futuro )
   const s=document.getElementById('search');
   if(s){
