@@ -407,7 +407,8 @@ for reg in REGIONI_ORDINE:
     else:
         subs, diretti = [], paesi_reg
     # Mediterraneo: niente paesi ancora → includiamo comunque come "in arrivo"
-    pronta = bool(paesi_reg)
+    # Mar Rosso: mostra descrizione anche senza md (in preparazione ma con lista paesi)
+    pronta = bool(paesi_reg) or reg in ('Mar Rosso',)
     albero_regioni.append({'k': reg, 'l': AREA_LABEL.get(reg, reg),
                            'i': AREA_ICONA.get(reg, '🌊'),
                            'subs': subs, 'p': diretti, 'ready': pronta})
@@ -461,10 +462,10 @@ aside h1 { font-size:16px; margin:0 0 12px; color:var(--accent); }
 #search { width:100%; padding:8px 10px; margin-bottom:14px; border-radius:8px;
           border:1px solid var(--line); background:#0b131b; color:var(--ink); font-size:14px; }
 .navlink { display:block; padding:7px 10px; border-radius:8px; color:var(--ink);
-           text-decoration:none; font-size:15.5px; cursor:pointer; line-height:1.7; }
+           text-decoration:none; font-size:18px; cursor:pointer; line-height:1.7; }
 .navlink:hover { background:#1d3040; }
 .navlink.active { background:var(--accent); color:#06231f; font-weight:600; }
-#aree-head { display:flex; align-items:center; gap:8px; font-weight:800; font-size:15px;
+#aree-head { display:flex; align-items:center; gap:8px; font-weight:800; font-size:18px;
              color:var(--accent); cursor:pointer; padding:7px 10px; border-radius:8px;
              margin:2px 0 6px; }
 #aree-head:hover { background:#1d3040; }
@@ -484,7 +485,7 @@ aside h1 { font-size:16px; margin:0 0 12px; color:var(--accent); }
                   min-width:0; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
 #navtitle .car, #navtitle-c .car { color:var(--muted); font-weight:400; font-size:20px; }
 #tree .titem { display:flex; align-items:center; gap:9px; border-radius:8px; cursor:pointer;
-               color:var(--accent); text-decoration:none; font-weight:700; font-size:15px;
+               color:var(--accent); text-decoration:none; font-weight:700; font-size:18px;
                padding:8px 10px; }
 #tree .titem:hover { background:#1d3040; }
 #tree .titem .car { margin-left:auto; color:var(--muted); font-weight:400; }
@@ -532,11 +533,11 @@ aside h1 { font-size:16px; margin:0 0 12px; color:var(--accent); }
 body.searching #navtitle, body.searching #tree,
 body.searching #navgrid, body.searching #disc-home, body.searching #navtitle-c { display:none!important; }
 #disc-home { display:none; border:1px solid #ffb74d; background:rgba(255,183,77,.07);
-             border-radius:12px; padding:12px 16px; font-size:13px; line-height:1.6;
+             border-radius:12px; padding:10px 14px; font-size:12px; line-height:1.5;
              color:var(--ink); margin:2px 0 14px; }
 #disc-home b { color:#ffb74d; }
-#navgrid { display:none; grid-template-columns:repeat(auto-fill,minmax(250px,1fr));
-           gap:16px; margin:8px 0 16px; }
+#navgrid { display:none; grid-template-columns:repeat(auto-fill,350px);
+           gap:16px; margin:8px 0 16px; justify-content:center; grid-auto-rows:210px; }
 #navgrid .fi { font-size:42px; }
  #navgrid .area-card .soon { margin-top:2px; }
  #scroll-hint{ display:none; position:sticky; bottom:14px; margin:10px auto 0; width:fit-content; max-width:90%; z-index:5; background:#101b26; border:1px solid var(--accent); color:var(--accent); border-radius:20px; padding:8px 14px; font-size:13px; font-weight:700; box-shadow:0 4px 14px rgba(0,0,0,.35); cursor:pointer; animation:hint-bounce 1.8s infinite; }
@@ -549,19 +550,19 @@ h3 { font-size:22px; }
 h2 { border-bottom:1px solid var(--line); padding-bottom:6px; margin-top:34px; font-size:27px; }
 .tw { overflow-x:auto; margin:14px 0; border-radius:8px; font-size:17.5px; }
 .dms { font-size:11px; color:var(--muted); margin:-6px 0 14px; letter-spacing:.03em; }
-.aree-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(250px,1fr)); gap:16px;
-             margin:26px 0 12px; }
-.area-card { display:flex; flex-direction:column; gap:7px; align-items:center;
+.aree-grid { display:grid; grid-template-columns:repeat(auto-fill,350px); gap:16px;
+             margin:26px 0 12px; justify-content:center; grid-auto-rows:210px; }
+.area-card { display:flex; flex-direction:column; gap:7px; align-items:center; justify-content:center;
              border:1px solid var(--line); border-radius:14px; background:#101b26;
-             padding:18px 16px; cursor:pointer; text-decoration:none; text-align:center; }
+             padding:18px 16px; cursor:pointer; text-decoration:none; text-align:center; width:350px; height:210px; min-height:210px; box-sizing:border-box; }
 .area-card:hover { border-color:var(--accent); background:#132230; }
 .area-card .ic { font-size:32px; line-height:1; }
-.area-card .nm { font-weight:800; font-size:17px; color:var(--accent); }
-.area-card .ds { font-size:11.5px; color:var(--accent); opacity:.72; line-height:1.55; }
-.paesi-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(200px,1fr)); gap:12px; margin:14px 0; }
+.area-card .nm { font-weight:800; font-size:20px; color:var(--accent); }
+.area-card .ds { font-size:14px; color:var(--accent); opacity:.72; line-height:1.55; }
+.paesi-grid { display:grid; grid-template-columns:repeat(auto-fill,350px); gap:16px; margin:14px 0; justify-content:center; grid-auto-rows:210px; }
 .pcard { min-width:0; overflow-wrap:anywhere; }
-.pcard { border:1px solid var(--line); border-radius:10px; background:#101b26;
-         padding:12px 10px; display:flex; flex-direction:column; align-items:center; gap:4px; }
+.pcard { border:1px solid var(--line); border-radius:14px; background:#101b26;
+         padding:18px 16px; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:7px; width:350px; height:210px; min-height:210px; box-sizing:border-box; }
 .pcard:hover { border-color:var(--accent); }
 .pflag { font-size:28px; line-height:1; }
 .pname { font-weight:700; font-size:13.5px; color:var(--accent); text-decoration:none; }
@@ -646,7 +647,7 @@ li { margin:3px 0; }
 <span class="bs">__I18N_brand_subtitle__</span>
 </div>
 <div id="disc-home">
-<b>⚠️ Portolano amatoriale — sito non commerciale.</b>
+<b>⚠️ Portolano collaborativo e indipendente — sito non commerciale.</b>
 Informazioni e coordinate provengono da fonti pubbliche e segnalazioni di naviganti:
 sono <b>indicative</b>, possono essere imprecise, superate o errate e <b>non sostituiscono</b>
 la cartografia ufficiale, le guide ufficiali né il controllo diretto in loco.
@@ -657,11 +658,11 @@ derivanti dall'uso di questi contenuti.
 </div>
 <div id="wiki-libera-home" style="display:block;margin:12px 0 16px;padding:14px 16px;border:1px solid var(--line);border-radius:12px;background:#0b131b">
 <div style="font-weight:800;color:#fff;margin-bottom:6px">📖 __I18N_wiki_free_title__</div>
-<div style="color:var(--ink);font-size:13.5px;line-height:1.6">__I18N_wiki_free_desc__</div>
+<div style="color:var(--ink);font-size:12.5px;line-height:1.6">__I18N_wiki_free_desc__</div>
 <div style="margin-top:10px;padding:10px 12px;border-left:3px solid var(--accent);background:#16222e;border-radius:8px">
-<div style="font-weight:700;color:#fff;font-size:13.5px">__I18N_welcome_aboard__</div>
-<div style="color:var(--ink);font-size:13px;line-height:1.6;margin-top:6px">Questa wiki è nata da velisti per velisti. <b>Puoi usarla liberamente, senza iscriverti, senza limiti e senza pubblicità.</b> L’iscrizione serve <b>solo se lo desideri</b>, per ricevere gli <b>alert per criticità di sicurezza e meteo generali</b> o per <b>contribuire</b> con aggiornamenti verificati dal posto.</div>
-<div style="color:var(--ink);font-size:13px;line-height:1.6;margin-top:6px"><b>Senza iscrizione leggi tutto; con l’iscrizione, se vuoi, resti aggiornato e aiuti gli altri. La scelta è tua.</b> Vedi <a href="#__ISCR__" style="color:var(--accent);font-weight:700">__I18N_subscribe__</a> o <a href="#__ACCE__" style="color:var(--accent);font-weight:700">__I18N_login__</a> — oppure inizia a esplorare.</div>
+<div style="font-weight:700;color:#fff;font-size:12.5px">__I18N_welcome_aboard__</div>
+<div style="color:var(--ink);font-size:12px;line-height:1.6;margin-top:6px">Questa wiki è nata da velisti per velisti. <b>Puoi usarla liberamente, senza iscriverti, senza limiti e senza pubblicità.</b> L’iscrizione serve <b>solo se lo desideri</b>, per ricevere gli <b>alert per criticità di sicurezza e meteo generali</b> o per <b>contribuire</b> con aggiornamenti verificati dal posto.</div>
+<div style="color:var(--ink);font-size:12px;line-height:1.6;margin-top:6px"><b>Senza iscrizione leggi tutto; con l’iscrizione, se vuoi, resti aggiornato e aiuti gli altri. La scelta è tua.</b> Vedi <a href="#__ISCR__" style="color:var(--accent);font-weight:700">__I18N_subscribe__</a> o <a href="#__ACCE__" style="color:var(--accent);font-weight:700">__I18N_login__</a> — oppure inizia a esplorare.</div>
 </div>
 </div>
  <div id="navtitle-c"></div>
@@ -771,13 +772,14 @@ function renderNav(){
   const ctry=(state&&!/^[rm]:/.test(state))?state:'';
   let g='';
   if(!state){
+    const marRossoDesc='Egitto · Sudan · Eritrea · Gibuti · Israele · Giordania · Arabia Saudita · Yemen';
     g=TREE.regions.map(r=>r.ready===false
       ?'<a class="area-card soon"><span class="ic">'+r.i+'</span><span class="nm">'+esc(r.l)
         +'</span><span class="soon">in preparazione</span></a>'
       :'<a class="area-card" data-go="r:'+esc(r.k)+'"><span class="ic">'+r.i
         +'</span><span class="nm">'+esc(r.l)+'</span><span class="ds">'
-        +esc(r.subs.length?r.subs.map(s=>s.l).join(' · ')
-                          :r.p.map(k=>TREE.lbl[k]).join(' · '))+'</span></a>').join('');
+        +esc(r.k==='Mar Rosso'?marRossoDesc:(r.subs.length?r.subs.map(s=>s.l).join(' · ')
+                          :r.p.map(k=>TREE.lbl[k]).join(' · ')))+'</span></a>').join('');
   }else if(cur.t==='r'){
     const r=TREE.regions.find(x=>'r:'+x.k===cur.k);
     if(r)g=r.subs.map(s=>'<a class="area-card" data-go="m:'+esc(s.k)+'"><span class="ic">'+(s.i||'🗺️')
@@ -1329,10 +1331,11 @@ th,td{padding:8px 10px;}
 #aree-head{padding:9px 10px;font-size:16px;margin-top:4px;}
 .loc-badge{font-size:21px;margin-bottom:8px;}
 .paesi-grid{grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px;}
-.aree-grid{grid-template-columns:1fr 1fr;gap:10px;}
-#navgrid{grid-template-columns:1fr 1fr;gap:10px;}
+.aree-grid{grid-template-columns:1fr 1fr;gap:10px;justify-content:start;grid-auto-rows:165px;}
+#navgrid{grid-template-columns:1fr 1fr;gap:10px;justify-content:start;grid-auto-rows:165px;}
 #navgrid .fi{font-size:30px;}
-.area-card{padding:14px 12px;}
+.area-card{padding:14px 12px;width:auto;height:165px;min-height:165px;}
+.pcard{width:auto;height:165px;min-height:165px;padding:14px 12px;}
 .area-card .ic{font-size:26px;}
 .area-card .nm{font-size:15.5px;}
 /* Telefono grande / tablet verticale */
