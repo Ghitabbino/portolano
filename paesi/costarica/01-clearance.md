@@ -15,15 +15,22 @@
 
 ## Chi deve farla
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
+Tutte le imbarcazioni straniere in ingresso/uscita: **tutte** devono fare clearance a **Puerto Limón** (unico POE Caraibi) chiamando **Limon Port Control VHF 14/16** 24/7; 6 enti salgono a bordo insieme (Immigration, Port Authority, Harbour Master, Health, Vegetable e Meat Quarantine). Nessun agente obbligatorio ma consigliato per zarpe. Vedi procedura sopra. [Noonsite Puerto Limon Clearance](https://www.noonsite.com/place/costa-rica/atlantic-coast/puerto-limon/view/clearance/) ★★★★
 
 ## Costi
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
+| Voce | Importo | Fonte |
+|---|---|---|
+| **Harbour Fee voucher** | **$50 USD** (pagamento in banca locale, ricevuta da riconsegnare ad Harbour Master prima del clear-out) | Noonsite Puerto Limon ★★★★ |
+| **Clearance complessiva <50ft** | **~US$150** + fee agenzia se usata ("very high") | Noonsite ★★★★ |
+| **Orario** | Lun–Ven 08:00–16:00; Port Control 24/7 tranne Natale/Capodanno | Noonsite ★★★★ |
+| **Copie documenti** | 5 passaporti, 3 crew list, 2 ship's papers + zarpe | Noonsite ★★★★ |
 
 ## Da verificare
 
-**DATO MANCANTE** — da completare al controllo mensile.
+- Tariffe aggiornate 2026 per >50ft e per Pacific POE (Golfito, Papagayo, Puntarenas) — verificare con Limon Port Control VHF 14/16.
+- Accettazione USD in banca per voucher Harbour Fee (talvolta solo colones).
+- Lista POE secondari caraibici non esistente — confermato unico Limón.
+
+Ultimo aggiornamento: 29/08/2026
 
