@@ -517,12 +517,12 @@ aside h1 { font-size:16px; margin:0 0 12px; color:var(--accent); }
                text-transform:uppercase; margin-left:auto; text-align:right; }
 #lang-switch{position:fixed;top:10px;right:12px;z-index:2200;display:flex;gap:4px;background:var(--panel);border:1px solid var(--line);border-radius:20px;padding:4px 6px;box-shadow:0 2px 10px rgba(0,0,0,.35);transition:transform .25s ease,opacity .2s ease}
 #lang-switch.hide{transform:translateY(-80px);opacity:0;pointer-events:none}
-#support-cta.hide{transform:translateY(-80px);opacity:0;pointer-events:none}
+#support-container.hide{transform:translateY(0);opacity:1;pointer-events:auto}
 #lang-switch a{padding:4px 9px;border-radius:12px;font-size:12px;font-weight:700;color:var(--muted);text-decoration:none}
 #lang-switch a.active{background:var(--accent);color:#06231f}
 #lang-switch a:hover{background:#1d3040;color:var(--ink)}
-#support-cta:hover{background:#3a9a8e;color:#06231f}
-.btn-sostienici:hover{background:#3a9a8e!important;transform:translateY(-1px)}
+#support-cta:hover{background:#ff8a65;color:#fff}
+.btn-sostienici:hover{background:#ff8a65!important;color:#fff!important;transform:translateY(-1px)}
 .btn-sostienici:active{transform:translateY(0)}
 @media(max-width:800px){#support-cta{display:none!important}}
 .breadcrumb{font-size:12px;color:var(--muted);margin:0 0 8px;display:flex;flex-wrap:wrap;gap:4px;align-items:center}
@@ -615,7 +615,10 @@ li { margin:3px 0; }
 <a href="#" data-lang="pt">Português</a>
 <a href="#" data-lang="it">Italiano</a>
 </div>
-<a id="support-cta" href="https://ko-fi.com/sailtropics" target="_blank" rel="noopener noreferrer" class="btn-sostienici" aria-label="Supporta il progetto" style="position:fixed;top:10px;right:520px;z-index:2200;display:inline-flex;align-items:center;gap:6px;background:#4db6ac;color:#06231f!important;padding:6px 14px;border-radius:20px;font-size:14px;font-weight:700;text-decoration:none;transition:background .2s ease,transform .1s ease;box-shadow:0 1px 6px rgba(0,0,0,.2)">__I18N_support_us__</a>
+<div id="support-container" style="position:fixed;top:10px;right:520px;z-index:2200;display:flex;flex-direction:column;align-items:flex-end">
+<a id="support-cta" href="https://ko-fi.com/sailtropics" target="_blank" rel="noopener noreferrer" class="btn-sostienici" aria-label="Supporta il progetto" style="display:inline-flex;align-items:center;gap:6px;background:linear-gradient(135deg, #f0705a, #e65100);color:#fff!important;padding:6px 14px;border-radius:20px;font-size:14px;font-weight:700;text-decoration:none;transition:background .2s ease,transform .1s ease;box-shadow:0 2px 8px rgba(240,112,90,.35)">__I18N_support_us__</a>
+<span style="font-size:10px;color:var(--muted);margin-top:2px;white-space:nowrap;letter-spacing:.02em">__I18N_ad_free_note__</span>
+</div>
 <aside>
   <div id="home-link" style="cursor:pointer;display:flex;align-items:center;gap:9px;margin:0 0 2px">
 <svg viewBox="0 0 64 52" width="42" height="36" aria-hidden="true" style="flex-shrink:0">
@@ -627,7 +630,11 @@ li { margin:3px 0; }
 </svg>
 <span style="font-size:20px;font-weight:700;letter-spacing:.01em;color:var(--ink)">Sail<span style="color:var(--accent)">Tropics</span></span>
 </div>
-<div style="font-size:11px;color:var(--muted);margin:0 0 12px;letter-spacing:.08em;text-transform:uppercase">__I18N_portolano__</div>
+<div style="font-size:11px;color:var(--muted);margin:0 0 10px;letter-spacing:.08em;text-transform:uppercase">__I18N_portolano__</div>
+  <div id="support-container" style="margin:0 0 14px;display:flex;flex-direction:column;align-items:flex-start">
+<a id="support-cta" href="https://ko-fi.com/sailtropics" target="_blank" rel="noopener noreferrer" class="btn-sostienici" aria-label="Supporta il progetto" style="display:inline-flex;align-items:center;gap:6px;background:linear-gradient(135deg, #f0705a, #e65100);color:#fff!important;padding:6px 14px;border-radius:20px;font-size:13.5px;font-weight:700;text-decoration:none;transition:background .2s ease,transform .1s ease;box-shadow:0 2px 8px rgba(240,112,90,.35)">__I18N_support_us__</a>
+<span style="font-size:10px;color:var(--muted);margin-top:3px;letter-spacing:.02em">__I18N_ad_free_note__</span>
+</div>
   <input id="search" type="search" placeholder="__I18N_search_placeholder__">
   <div id="login-side" style="margin:0 0 12px;display:flex;gap:8px"><a href="iscriviti.html" target="_blank" style="flex:1;text-align:center;padding:7px 8px;border:1px solid var(--accent);border-radius:8px;background:var(--accent);color:#06231f;font-weight:800;font-size:13px;text-decoration:none">__I18N_subscribe__</a><a href="accedi.html" target="_blank" style="flex:1;text-align:center;padding:7px 8px;border:1px solid var(--line);border-radius:8px;background:#0b131b;color:var(--accent);font-weight:700;font-size:13px;text-decoration:none">__I18N_login__</a></div>
   <div id="user-nick" style="display:none;margin:0 0 10px;padding:6px 8px;border-radius:8px;background:#0b131b;border:1px solid var(--line);color:var(--muted);font-size:11px;text-align:center"></div>
@@ -1054,7 +1061,7 @@ function gradoLabel(g){ if(!g) return ''; return ' · '+g; }
 (function(){
   let lastY=window.scrollY, ticking=false, footerVisible=false;
   const sw=document.getElementById('lang-switch');
-  const sc=document.getElementById('support-cta');
+  const sc=document.getElementById('support-container');
   function applyHide(){
     const y=window.scrollY;
     const down=y>lastY && y>80;

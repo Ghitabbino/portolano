@@ -19,6 +19,7 @@
   "welcome_aboard": "Bienvenue à bord — deux façons d’utiliser le wiki",
   "breadcrumb_home": "Accueil",
   "support_us": "☕ Nous soutenir",
+  "ad_free_note": "100% sans pub grâce à vous",
   "footer_support": "Portolano est un projet open-source, indépendant et sans publicité. Si ce guide vous a été utile, aidez-nous à maintenir le cap :<br>Devenez un contributeur officiel sur <a href=\"https://github.com/sponsors/Ghitabbino\" target=\"_blank\" style=\"color:var(--accent)\">GitHub Sponsors</a><br>Offrez-nous un café virtuel sur <a href=\"https://ko-fi.com/sailtropics\" target=\"_blank\" style=\"color:var(--accent)\">Ko-fi</a>",
   "keep_logged": "Rester connecté"
 }
