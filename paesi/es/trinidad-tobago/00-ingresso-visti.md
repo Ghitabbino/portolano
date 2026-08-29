@@ -46,3 +46,13 @@
 - ATM disponibili a Peake's Marine Store (chiuso dal sabato 14 al lunedì 8) ★★★
 
 Ultimo aggiornamento: 25/08/2026
+
+## Cittadini UE
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## La barca
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

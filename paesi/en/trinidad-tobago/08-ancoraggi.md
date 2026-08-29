@@ -54,3 +54,23 @@ Trinidad è l'hub cantieri/haul-out dei Caraibi meridionali (Chaguaramas); Tobag
 - Sottopagine `anc-*` per Chaguaramas, CrewsInn, Store Bay, Scarborough, Charlotteville
 
 Ultimo aggiornamento: 25/08/2026
+
+## Regole generali
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Tabella riassuntiva
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Cartografia ufficiale
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Checklist àncora
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

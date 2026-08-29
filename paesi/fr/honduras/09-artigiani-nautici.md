@@ -9,3 +9,18 @@
 | Lavori strutturati | **DATO MANCANTE** | Riferimento regionale: Rio Dulce (Guatemala) ★★★★ |
 
 Ultimo aggiornamento: 25/08/2026
+
+Tabella artigiani
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Dove si trova cosa
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Note pratiche
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

@@ -40,3 +40,13 @@ Assicurazione sanitaria **fortemente consigliata**: sistema USA a pagamento, cos
 - Se primo ingresso USA in barca: appuntamento consolato per B1/B2 con largo anticipo
 
 Ultimo aggiornamento: 24/08/2026
+
+## Status
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Cittadini UE
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

@@ -14,3 +14,23 @@
 | **Bluefields** | 12.0100 | -83.7600 | — | Via Rio Escondido, pilota locale consigliato ★★ |
 
 Ultimo aggiornamento: 25/08/2026
+
+## Regole generali
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Tabella riassuntiva
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Cartografia ufficiale
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Checklist àncora
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

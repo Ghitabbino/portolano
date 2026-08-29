@@ -56,3 +56,8 @@ Legenda prezzi: **€/CI$** <20 · **€€/CI$$** 20–40 · **€€€/CI$$$*
 > Per la cambusa: spesa da **Foster's / Hurley's** → [07 Provvisioning](07-provvisioning.md).
 
 Ultimo aggiornamento: 24/08/2026
+
+## Griglia generale
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

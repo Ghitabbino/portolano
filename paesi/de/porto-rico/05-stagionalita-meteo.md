@@ -47,3 +47,8 @@
 | [NOAA NDBC — boe atlantiche](https://www.ndbc.noaa.gov) ★★★★ | Dati onda/vento in tempo reale sulle boe al largo |
 
 Ultimo aggiornamento: 24/08/2026
+
+## Venti locali
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

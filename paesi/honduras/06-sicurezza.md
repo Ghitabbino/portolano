@@ -19,3 +19,18 @@
 - Emergenza: **911** · Coast Guard VHF 16 ★★★
 
 Ultimo aggiornamento: 25/08/2026
+
+## Posti sicuri
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Salvataggio ed emergenze
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Monitoraggio mensile
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

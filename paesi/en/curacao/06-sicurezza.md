@@ -98,3 +98,8 @@ Dati **Caribbean Safety and Security Net** (thecssn.org ★★★★), controllo
 - Caso recente: nessun naufragio maggiore cruiser a Curaçao 2024–2025; ultimo tentativo furto 2018 senza violenza alle persone.
 
 Ultimo aggiornamento: 28/08/2026
+
+## Monitoraggio mensile
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

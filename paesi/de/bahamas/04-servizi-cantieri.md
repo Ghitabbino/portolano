@@ -59,3 +59,8 @@ BASRA è **volontaria e donation-based** — come la RNLI britannica: contributi
 - Per lavori sotto i 50 ft, **R&B Spanish Wells** è il miglior compromesso qualità/prezzo nelle Bahamas centrali. ★★★
 
 Ultimo aggiornamento: 24/08/2026
+
+## Hub tecnico
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

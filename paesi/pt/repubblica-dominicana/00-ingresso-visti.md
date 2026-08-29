@@ -52,3 +52,18 @@ Consiglio pratico: anche durante l'eccezione, molte compagnie aeree continuano a
 - **iKat Haiti**: `https://delidoc.gouv.ht/ikat` ★★★★★
 
 Ultimo aggiornamento: 24/08/2026
+
+## Status
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Cittadini UE
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## La barca
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

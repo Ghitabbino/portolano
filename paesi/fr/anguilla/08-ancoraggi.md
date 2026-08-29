@@ -25,3 +25,23 @@
 Distanze: St-Martin–Anguilla ~12 km S (Crocus–Marigot 17 nm via St-Barth? no: diretto ~8 nm) ⚠️ verificare
 
 Ultimo aggiornamento: 23/08/2026
+
+## Regole generali
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Tabella riassuntiva
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Cartografia ufficiale
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Checklist àncora
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

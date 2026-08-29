@@ -48,3 +48,13 @@
 Bancomat diffusi al Plateau. Carte in supermarket; contanti per Sucupira/aluguer.
 
 Ultimo aggiornamento: 24/08/2026
+
+## Servizi quotidiani
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Contanti e pagamenti
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

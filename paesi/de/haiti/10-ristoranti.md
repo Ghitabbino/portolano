@@ -46,3 +46,8 @@
 | Siti locali Haiti | **DATO MANCANTE** — nessuna guida food locale continuativa verificata |
 
 Ultimo aggiornamento: 28/08/2026
+
+## Griglia generale
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

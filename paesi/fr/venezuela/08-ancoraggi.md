@@ -17,3 +17,23 @@
 **Permessi INPARQUES / tariffe**: permesso parco necessario; zone no-fishing segnalate [Multihulls World 2018] ★. Tariffe turistiche ufficiali aeroportuali (**ago 2025**): ingresso adulti **50 USD**, bambini/over 65 **25 USD**; **uscita 12 USD**; pagamento contanti/POS all'ingresso del parco [Sasca Airlines PDF "Tasas de entrada y salida Los Roques", ago 2025] ★★★. Riferimento yacht (vecchio, ott 2018): parco **215 USD** per 40 ft + 2 pax + 5 USD guardacoste/dogana/immigrazione [Noonsite comment 2018] ★. **Tariffa yacht vigente 2025-26: DATO MANCANTE.**
 
 **Ultimo aggiornamento: 24/08/2026**
+
+## Regole generali
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Tabella riassuntiva
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Cartografia ufficiale
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Checklist àncora
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

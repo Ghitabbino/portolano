@@ -54,3 +54,23 @@
 - Meteo e stagionalità → [05 Stagionalità e meteo](05-stagionalita-meteo.md)
 
 Ultimo aggiornamento: 28/08/2026
+
+## Alimentari
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Mangiare fuori
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Trasporti
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Servizi quotidiani
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

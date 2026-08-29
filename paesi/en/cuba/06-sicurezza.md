@@ -100,3 +100,7 @@ Contromisure: catena heavy-duty + lucchetto inox, dinghy sollevato a bordo di no
 - Consigliato **STEP enrollment** (US Embassy) e **Dovesiamonelmondo** per italiani; tenere EPIRB registrato e contatti Guarda Frontera della marina più vicina.
 - Ospedali: Cira Garcia (Habana) per stranieri, ma carenza farmaci/energia nel 2026.
 
+## Monitoraggio mensile
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

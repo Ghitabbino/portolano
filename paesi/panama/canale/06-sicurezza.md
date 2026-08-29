@@ -58,3 +58,7 @@ Chiudere tutto di notte; a Colón usare taxi/marine shuttle; documenti a bordo s
 | SENAN (guardacoste) | VHF 16 |
 | Marina più vicina assistita | Shelter Bay / Flamenco |
 
+## Monitoraggio mensile
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

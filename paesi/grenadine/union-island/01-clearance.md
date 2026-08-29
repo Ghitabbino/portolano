@@ -24,3 +24,13 @@
 - Orari precisi dell'ufficio Clifton stagione corrente
 
 Ultimo aggiornamento: 23/08/2026
+
+## Chi deve farla
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Costi
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

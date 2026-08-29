@@ -12,3 +12,23 @@ Clifton è il porto di riferimento del sud delle Grenadine ma **non è un hub te
 | Riparazioni | base: chiedere in marina/net; per cantiere → Bequia o Grenada ★★ |
 
 Ultimo aggiornamento: 23/08/2026
+
+## Hub tecnico
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Gas e bombole
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Acqua dolce
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Note strategiche
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

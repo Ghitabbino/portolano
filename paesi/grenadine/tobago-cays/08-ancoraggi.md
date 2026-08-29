@@ -18,3 +18,18 @@ Ultimo aggiornamento: 22/08/2026
 | 2 | Petit Tabac *(in recupero post-Beryl)* | sabbia | 3–7 m | Isola del Pirata dei Caraibi; aperto atlantico |
 
 Ultimo aggiornamento: 22/08/2026
+
+## Regole generali
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Cartografia ufficiale
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Checklist àncora
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

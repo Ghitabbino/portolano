@@ -87,3 +87,7 @@ Dati Caribbean Safety and Security Net (CSSN ★★★★), controllo 24/08/2026
 - Ospedali: University Hospital of the West Indies, Medical Associates, Andrews Memorial (Kingston), Cornwall Regional (Montego Bay) — lista US Embassy 07/2025 ★★★★★.
 - US Embassy Kingston +1-876-702-6000, Consular Agency Montego Bay +1-876-953-0620.
 
+## Monitoraggio mensile
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

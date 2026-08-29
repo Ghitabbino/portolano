@@ -81,3 +81,13 @@ BASRA coordina il soccorso in mare con volontari — donazioni ben accette.
 *Legenda: cerchio rosso = zona da evitare · arancio = attenzione.*
 
 Ultimo aggiornamento: 24/08/2026
+
+## Salvataggio ed emergenze
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Monitoraggio mensile
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

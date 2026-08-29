@@ -95,4 +95,7 @@
 - Caso recente: soccorsi coordinati Armada RD nel Canale della Mona e su costa nord (stagione invernale swell) — seguire sempre bollettini INDOMET prima di uscire. ★★
 - Kit consigliato: EPIRB registrato, PLB, AIS, zattera revisionata, cassetta medica con antibiotici/antidolorifici (colera/dengue risk in area haitiana). ★★
 
+## Monitoraggio mensile
+
+**DATO MANCANTE** — da completare al controllo mensile.
 

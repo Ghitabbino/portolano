@@ -35,7 +35,7 @@
  usano Luperón (RD) — vedi pagina *Repubblica Dominicana* ★★★★
 
 
-## Venti e mari locali
+## Venti locali
 
 - **Alisei NE–E 15–20 kt** (dic–apr); accelerazioni nel **Canale del Vento**
  (Windward Passage, tra Haiti e Cuba) fino a 25–30 kt con mare incrociato. ★★★

@@ -41,3 +41,8 @@
 Ultimo aggiornamento: 22/08/2026
 
 ## Posti sicuri
+
+## Monitoraggio mensile
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

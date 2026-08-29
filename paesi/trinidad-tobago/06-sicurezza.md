@@ -51,3 +51,12 @@
 | Numero unico emergenze | **911 / 112** (verificare locale) |
 | VHF soccorso | **16** |
 
+## Salvataggio ed emergenze
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Monitoraggio mensile
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

@@ -17,3 +17,13 @@ Compulsorio solo per **Belize City** (ingressi English Caye / Grennell's Channel
 pilota o waiver preventivo tramite agente/BPA ★★★
 
 Ultimo aggiornamento: 25/08/2026
+
+## Tariffe
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Distanze utili
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

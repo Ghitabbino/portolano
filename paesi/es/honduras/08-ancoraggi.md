@@ -13,3 +13,23 @@
 | **Guanaja — Bonacca/El Bight** | 16.4500 | -85.8800 | 4-8 m | Molto riparato ★★★ |
 
 Ultimo aggiornamento: 25/08/2026
+
+## Regole generali
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Tabella riassuntiva
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Cartografia ufficiale
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Checklist àncora
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

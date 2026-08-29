@@ -36,3 +36,8 @@
 Mancata dichiarazione all'arrivo da extra-UE = sanzione doganale / immigrazione. Dettaglio normativo italiano: **DATO MANCANTE**
 
 Ultimo aggiornamento: 27/08/2026
+
+## Da verificare
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

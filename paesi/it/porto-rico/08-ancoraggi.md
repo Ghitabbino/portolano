@@ -60,3 +60,8 @@ Coste basse con mangrovie e secche coralline: navigazione solo di giorno con sol
 5. Luci di ancoraggio e VHF 16 in ascolto ✓
 
 Ultimo aggiornamento: 24/08/2026
+
+## Cartografia ufficiale
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

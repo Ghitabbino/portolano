@@ -102,3 +102,8 @@ Dati **Caribbean Safety and Security Net** (thecssn.org ★★★), controllo 28
 - Kustwacht Caribisch Gebied (KWCARIB) pattuglia ABC con navi/elicotteri; segnalare attività sospette o pacchi in mare al 913 ★★★★.
 - Ospedale unico full-service Fundashon Mariadal (80 letti, pronto soccorso 24/7, camera iperbarica); per casi complessi trasferimento a Curaçao.
 - Segnalazione reati diportisti: CSSN online, KPCN, Harbourmaster/Port Authority +599 717 8151, STINAPA +599 777 8444.
+
+## Monitoraggio mensile
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

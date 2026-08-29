@@ -13,3 +13,18 @@
 - Carburante: dock nelle marine principali e San Pedro/Placencia; prezzi sopra USA ★★
 
 Ultimo aggiornamento: 25/08/2026
+
+## Supermercati
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Acqua e carburante
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Consigli pratici
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

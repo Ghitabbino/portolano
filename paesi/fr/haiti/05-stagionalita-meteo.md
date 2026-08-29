@@ -68,3 +68,8 @@ e **Giamaica** (W) — pianificare su carta ufficiale con finestra aliseo <20 kt
 - Marea modesta (<0,5 m); correnti rilevanti nel Canale del Vento. ★★
 
 Ultimo aggiornamento: 28/08/2026
+
+## Venti locali
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

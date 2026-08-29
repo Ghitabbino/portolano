@@ -30,3 +30,13 @@ online con almeno 48h di anticipo** tramite la Ventanilla Única (jotform uffici
 | Farnesina Honduras | [viaggiare.sicuri.it](https://www.viaggiare.sicuri.it/honduras) |
 
 Ultimo aggiornamento: 25/08/2026
+
+## Cittadini UE
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## La barca
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

@@ -40,3 +40,13 @@
 | GOV.UK advice Belize | [gov.uk](https://www.gov.uk/foreign-travel-advice/belize) |
 
 Ultimo aggiornamento: 25/08/2026
+
+## Cittadini UE
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## La barca
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

@@ -56,3 +56,13 @@
 - **Ocean World Marina** VHF 16/68 · **Cap Cana** VHF 16/72 ★★★★
 
 Ultimo aggiornamento: 24/08/2026
+
+## Chi deve farla
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Da verificare
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

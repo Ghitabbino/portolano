@@ -24,3 +24,8 @@
 Per ricambi specialistici ordinare da Mindelo o Canarie con largo anticipo.
 
 Ultimo aggiornamento: 24/08/2026
+
+## Dove si trova cosa
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

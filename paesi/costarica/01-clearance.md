@@ -12,3 +12,18 @@
 - **Permesso crociera (TIP): 90 giorni iniziali, estendibile a 1-2 anni con cruising permit MOPT/ICT + contratto posto barca in marina** (Agency of the Sea ★★★; Noonsite ★★★★).
 
 **Ultimo aggiornamento: 24/08/2026**
+
+## Chi deve farla
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Costi
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Da verificare
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

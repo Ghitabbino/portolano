@@ -55,3 +55,8 @@
 Verifica su thecssn.org / stampa locale / voyage.gc.ca / gov.uk / travel.state.gov / gruppi FB — **DATO MANCANTE** al prossimo ciclo.
 
 Ultimo aggiornamento: 27/08/2026
+
+## Salvataggio ed emergenze
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

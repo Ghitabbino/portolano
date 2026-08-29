@@ -8,3 +8,13 @@
 - **Marine esistenti (Golfito, Marina Papagayo, Pez Vela, Flamingo, Los Sueños) sono TUTTE sul PACIFICO** (GetMyBoat ★★★; Bluewater Properties ★★★).
 
 **Ultimo aggiornamento: 24/08/2026**
+
+## Tariffe
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Distanze utili
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

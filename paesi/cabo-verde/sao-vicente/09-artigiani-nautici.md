@@ -26,3 +26,8 @@
 - Pagamenti contanti/CVE o bonifico; chiedere fattura.
 
 Ultimo aggiornamento: 24/08/2026
+
+## Dove si trova cosa
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

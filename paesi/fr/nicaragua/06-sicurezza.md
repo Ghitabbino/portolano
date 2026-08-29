@@ -20,3 +20,23 @@
 - Emergenza: **118** police · VHF 16 presidio limitato ★★
 
 Ultimo aggiornamento: 25/08/2026
+
+## Quadro generale
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Posti sicuri
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Salvataggio ed emergenze
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Monitoraggio mensile
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

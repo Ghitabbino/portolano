@@ -37,3 +37,8 @@
 Contanti CVE indispensabili per mercati/aluguer; euro accettati con resto in CVE. Bancomat nel capoluogo.
 
 Ultimo aggiornamento: 24/08/2026
+
+## Mangiare fuori
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

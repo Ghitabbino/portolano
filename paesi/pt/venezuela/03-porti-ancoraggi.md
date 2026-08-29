@@ -6,3 +6,13 @@
 - **Raccomandazione OP (ago 2026)**: "Evitate acque e porti venezuelani… nessun ancoraggio, nessuna clearance, nessun contatto a terra fino a ripristino di autorità stabile, procedure chiare e copertura assicurativa" [Ocean Posse] ★★★.
 
 **Ultimo aggiornamento: 24/08/2026**
+
+## Tariffe
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Distanze utili
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

@@ -56,3 +56,12 @@
 | Vigili del fuoco | **131** |
 | SAR marittimo | **VHF 16** · São Vicente Radio D4A · JRCC +238 232 5555 |
 
+## Salvataggio ed emergenze
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Monitoraggio mensile
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

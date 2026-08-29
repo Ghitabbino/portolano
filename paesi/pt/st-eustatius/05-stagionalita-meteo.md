@@ -20,3 +20,13 @@ Tropicale, 26–30 °C. Alisei NE 15–25 kn dic–apr. ★★★
 | Giu–Nov | 10–20 kn | Uragani possibili |
 
 Ultimo aggiornamento: 23/08/2026
+
+## Stagioni
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Link meteo
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

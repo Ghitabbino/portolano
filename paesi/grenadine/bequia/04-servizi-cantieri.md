@@ -26,3 +26,18 @@ Bequia è **l'isola-servizi delle Grenadine**: professionisti concentrati a **Oc
 - **Traghetti da/per Kingstown** (SVG): equipaggi e rifornimenti; molti diportisti lasciano la barca in baia e visitano St-Vincent in traghetto ★★★★
 
 Ultimo aggiornamento: 23/08/2026
+
+## Gas e bombole
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Acqua dolce
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Note strategiche
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

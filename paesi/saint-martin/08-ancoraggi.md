@@ -32,3 +32,23 @@
 Distanze: Marigot–Anse Marcel 5 nm · Anse Marcel–Tintamarre 4 nm · Tintamarre–Fourchue 11 nm · Fourchue–Gustavia 5 nm · Gustavia–Philipsburg 14 nm · Philipsburg–Crocus Bay (Anguilla) 24 nm ★★★
 
 Ultimo aggiornamento: 23/08/2026
+
+## Regole generali
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Tabella riassuntiva
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Cartografia ufficiale
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Checklist àncora
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

@@ -12,3 +12,18 @@
 - **Vietato importare carn in scatola/latticini** — attenzione alle scorte prima dell'arrivo ★★★
 
 Ultimo aggiornamento: 25/08/2026
+
+## Supermercati
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Acqua e carburante
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Consigli pratici
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

@@ -12,3 +12,18 @@
 - Acqua in bottiglia o RO; carburante ai dock di French Harbour/Coxen Hole ★★
 
 Ultimo aggiornamento: 25/08/2026
+
+## Supermercati
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Acqua e carburante
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Consigli pratici
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

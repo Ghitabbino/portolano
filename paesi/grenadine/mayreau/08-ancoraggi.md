@@ -18,3 +18,18 @@ Ultimo aggiornamento: 22/08/2026
 | 2 | Saline Bay | sabbia | 4–9 m | Davanti al villaggio, più riparata |
 
 Ultimo aggiornamento: 22/08/2026
+
+## Regole generali
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Cartografia ufficiale
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Checklist àncora
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

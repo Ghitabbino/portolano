@@ -96,3 +96,8 @@ Dati **Caribbean Safety and Security Net** (safetyandsecuritynet.org ★★★) 
 - Comunicare sempre piano di navigazione a marina/famiglia e tenere **EPIRB/PLB** registrato.
 
 Ultimo aggiornamento: 28/08/2026
+
+## Monitoraggio mensile
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

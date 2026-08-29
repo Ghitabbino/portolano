@@ -12,3 +12,13 @@
 | Dock Maarten (Simpson Bay) | ⚠️ da verificare ★ |
 
 Ultimo aggiornamento: 23/08/2026
+
+## Tariffe
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Distanze utili
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

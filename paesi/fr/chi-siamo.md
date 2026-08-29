@@ -1,7 +1,7 @@
 # Chi siamo
 
-**SailTropics** è un portolano nautico amatoriale e **senza scopo di lucro**,
-fatto da **velisti per velisti**.
+**SailTropics** est un routier nautique **indépendant, collaboratif et sans but lucratif**,
+porté par la communauté, fait **par des marins pour des marins**.
 
 Nasce come quaderno di bordo condiviso: le informazioni che ci piacerebbe trovare
 quando entriamo in una rada nuova, scritte da chi ci è passato davvero.

@@ -52,3 +52,7 @@ Non lasciare il dinghy al largo di notte; chiedere permesso prima di sbarcare ne
 | Assistenza tra yacht | VHF 72 (rete crocieristi) |
 | Medico più vicino | Dispensario a Porvenir/Nargana; ospedale a Colón |
 
+## Monitoraggio mensile
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

@@ -17,3 +17,18 @@ Ultimo aggiornamento: 22/08/2026
 | 1 | Charlestown Bay | sabbia/fango | 3–9 m | Riparata; pontili resort a nord della baia |
 
 Ultimo aggiornamento: 22/08/2026
+
+## Regole generali
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Cartografia ufficiale
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Checklist àncora
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

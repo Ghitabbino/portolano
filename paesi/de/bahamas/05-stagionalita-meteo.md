@@ -50,3 +50,13 @@ Stagione ufficiale **01/06–30/11**. Le Bahamas sono tra le aree più colpite d
 | **Navionics / Garmin / C-MAP** | Carte elettroniche — verificare datum WGS84 | ★★★★ |
 
 Ultimo aggiornamento: 24/08/2026
+
+## Venti locali
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Finestre tipiche
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

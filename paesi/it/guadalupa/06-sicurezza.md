@@ -54,3 +54,7 @@ Crimini violenti contro turisti e crocieristi **rari**; rischio principale = fur
 | **+590 590 99 26 35** | CROSS Antilles-Guyana (SAR marittimo) — VHF 16 |
 | Gendarmerie maritime Terre-de-Haut | +590 590 85 80 13 ⚠️ da verificare |
 
+## Monitoraggio mensile
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

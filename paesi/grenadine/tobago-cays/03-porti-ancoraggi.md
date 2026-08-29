@@ -14,3 +14,13 @@ Ultimo aggiornamento: 22/08/2026
 Nessuna dogana: parco naturale; ranger TCMP su **VHF68**, Clifton è il porto di riferimento.
 
 Ultimo aggiornamento: 22/08/2026
+
+## Tariffe
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Distanze utili
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

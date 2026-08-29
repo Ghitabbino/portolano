@@ -20,3 +20,13 @@ Grand Case = capitale gastronomica dei Caraibi: fila di ristoranti francesi in c
 - **Simpson Bay lagoon**: chandler e supermercati olandesi ★★★
 
 Ultimo aggiornamento: 23/08/2026
+
+## Griglia generale
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## App e fonti
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

@@ -69,3 +69,8 @@ CI$ e USD coesistono; carte **Visa/Mastercard** accettate ovunque, **Amex** meno
 - Ristoranti con prezzi per locale → [10 Ristoranti](10-ristoranti.md)
 
 Ultimo aggiornamento: 24/08/2026
+
+## Mangiare fuori
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

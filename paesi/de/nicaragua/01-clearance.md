@@ -22,3 +22,18 @@ El Bluff/Bluefields, Corn Island, Puerto Cabezas: POE ma **permesso speciale da 
 per visitarle; costa caraibica con servizi minimi ★★★
 
 Ultimo aggiornamento: 25/08/2026
+
+## Chi deve farla
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Costi
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Da verificare
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

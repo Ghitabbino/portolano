@@ -49,3 +49,8 @@
 - Alta stagione dic–apr: atelier saturi — chiedere **preventivo scritto (devis)** e tempi. ★★
 
 Ultimo aggiornamento: 28/08/2026
+
+## Hub tecnico
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

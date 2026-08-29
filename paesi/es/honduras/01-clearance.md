@@ -31,3 +31,18 @@ Email capitaneria Roatán: cp.roatan@marinamercante.gob.hn
 - Golfo de Fonseca (Pacifico): coordinare ingresso con Puerto Cortés/San Lorenzo ★★
 
 Ultimo aggiornamento: 25/08/2026
+
+## Chi deve farla
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Costi
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Da verificare
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

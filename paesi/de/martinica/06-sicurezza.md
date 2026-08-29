@@ -91,3 +91,7 @@ Dati ** Caribbean Safety and Security Net** (the.org ★★★), controllo 21/08
 - CROSS coordina SAR nella zona (bilanci annuali pubblicati dalla Direction de la Mer ★★★★★). VHF 16 sempre monitorato.
 - Caso recente: velista disperso tra Union Island e Martinica, 3 naufraghi soccorsi (11/03/2026) ★★★.
 
+## Monitoraggio mensile
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

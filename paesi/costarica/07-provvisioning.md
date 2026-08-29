@@ -8,3 +8,18 @@
 - **Acqua potabile: rubinetto generalmente sicura ma consigliata bottiglia/grandi taniche** (costaricavibes.com ★★★).
 
 **Ultimo aggiornamento: 24/08/2026**
+
+## Supermercati
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Acqua e carburante
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Consigli pratici
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

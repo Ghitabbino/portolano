@@ -17,3 +17,18 @@
 **VHF/emergenze**: SAR venezuelano **attualmente non affidabile** (presenza militare USA riduce pattugliamenti); Noonsite indica come riferimento **JRSC San Juan / USCG PR**: tel (833) 453-1267 / +1 787 729 6770, ssjcc@uscg.mil [Noonsite Security, agg. ago 2026] ★★★. Contatti locali: ARCC Maiquetía +58 212 3034574; MRSC Puerto La Cruz +58 281 267 7923; MRSC Pampatar +58 295 262 1454 [Ocean Posse] ★★.
 
 **Ultimo aggiornamento: 24/08/2026**
+
+## Chi deve farla
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Costi
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Da verificare
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

@@ -6,3 +6,18 @@ Portogallo/Azzorre: normative nazionali portoghesi + regime regione autonoma.
 Fonti da consultare: portugal.gov.pt · visitazores.com ★★★★
 
 Ultimo aggiornamento: 25/08/2026
+
+## Status
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Cittadini UE
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## La barca
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

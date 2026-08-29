@@ -19,3 +19,13 @@
 - Formalità locali (tasse di soggiorno, aree marine protette): **DATO MANCANTE** per Mar Ligure
 
 Ultimo aggiornamento: 27/08/2026
+
+## Cittadini UE
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## La barca
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

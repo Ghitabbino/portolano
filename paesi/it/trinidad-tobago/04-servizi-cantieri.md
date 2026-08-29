@@ -34,3 +34,8 @@
 - Ricambi: spedire **presso la marina indicando nome barca, posto barca e telefono**; confermare arrivo via email/telefono della reception. ★★
 
 Ultimo aggiornamento: 24/08/2026
+
+## Hub tecnico
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

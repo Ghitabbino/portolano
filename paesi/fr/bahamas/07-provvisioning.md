@@ -153,3 +153,8 @@ Hub dove conviene fare la **spesa grossa**. Taxi indispensabile salvo Sawyer's d
 - **Carrello**: trolley pieghevole indispensabile da Bay Street Marina a Potter's Cay e da Boat Harbour a Maxwell's.
 
 Ultimo aggiornamento: 24/08/2026 — Tel verificati: Solomon's via AML Foods/Facebook; altri numeri da directory storiche **da riconfermare in loco VHF 16**. “DATO MANCANTE” = ricercato al controllo mensile.
+
+## Supermercati
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

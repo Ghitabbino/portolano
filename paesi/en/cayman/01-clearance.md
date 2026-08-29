@@ -53,3 +53,18 @@ Sono **due** i punti dove è autorizzato il primo approdo internazionale:
 - **Immigration**: +1 345 949-8052 ★★★★
 
 Ultimo aggiornamento: 24/08/2026
+
+## Chi deve farla
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Costi
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Da verificare
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

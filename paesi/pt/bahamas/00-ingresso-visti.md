@@ -41,3 +41,8 @@ Il natante straniero da diporto deve ottenere un **cruising permit / FDCC** all'
 > ⚠️ Sempre verificare prima della partenza su sito ufficiale Bahamas Immigration e Bahamas Ministry of Health: le regole sui minori e sulla febbre gialla sono applicate con rigore in frontiera.
 
 Ultimo aggiornamento: 24/08/2026
+
+## Cittadini UE
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

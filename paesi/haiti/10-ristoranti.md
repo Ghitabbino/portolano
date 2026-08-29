@@ -18,7 +18,7 @@
 
 <div class="mapframe" data-slug="haiti" data-minz="7" data-maxz="17" data-lat="18.50" data-lon="-73.20" data-markers='[[18.10399, -73.69529, "Port Morgan Hotel Restaurant", "rist-port-morgan-hotel-restaurant"]]'></div>
 
-## Griglia — ristoranti per yacht
+## Griglia generale
 
 | Ristorante | Zona | Costo | Cucina | Specialità | Location | Recensioni |
 |---|---|---|---|---|---|---|

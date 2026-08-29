@@ -15,3 +15,23 @@
 | **Sapodilla Cayes** | 16.0900 | -88.2700 | 3-6 m | Riserva sud, acqua cristallina ★★★ |
 
 Ultimo aggiornamento: 25/08/2026
+
+## Regole generali
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Tabella riassuntiva
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Cartografia ufficiale
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Checklist àncora
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

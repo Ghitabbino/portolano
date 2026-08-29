@@ -21,6 +21,14 @@
 - **Nessun cantiere affidabile** per diportisti segnalato come sicuro e continuativo al 28/08/2026. Attrezzature minime a Port-au-Prince e Cap-Haïtien per pescherecci locali, non per yacht da crociera; disponibilità intermittente, sicurezza critica. ★★
 - In caso di avaria/via d'acqua in acque haitiane: **trasferimento immediato in RD (Ocean World / Casa de Campo / Luperón)** con despacho/zarpe internazionale e assistenza Armada RD **VHF 16 / 911**; tenere a bordo EPIRB/PLB. ★★
 
+## Gas e bombole
+
+- **DATO MANCANTE** — distribuzione intermittente, nessuna ricarica yacht verificata a Port-au-Prince/Cap-Haïtien al 28/08/2026; considerar e **non disponibile** e pianificare scambio in RD (Ocean World / Casa de Campo). ★★
+
+## Acqua dolce
+
+- **DATO MANCANTE** — non dare per scontata acqua in banchina in Haiti; RD: banchina in marina disponibile. Tenere dissalatore e riserve. ★★
+
 ## Note strategiche per il diportista
 
 - I riferimenti operativi RD (Ocean World, Casa de Campo, Luperón) restano validi come hub esterno: vedi *Repubblica Dominicana · Servizi e cantieri*. ★★

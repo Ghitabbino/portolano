@@ -13,3 +13,28 @@
 - **Dove i cruisers vanno davvero oggi** (secondo Noonsite 2026): Los Roques, **Blanquilla** (Guardia Nazionale ivi dislocata stabilmente), Aves de Sotavento e Barlovento — ma "ciò che era 'safe' 6 mesi fa può non esserlo ora" [Noonsite Security, 2026] ★★★.
 
 **Ultimo aggiornamento: 24/08/2026**
+
+Valutazione sicurezza
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Quadro generale
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Posti sicuri
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Salvataggio ed emergenze
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Monitoraggio mensile
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

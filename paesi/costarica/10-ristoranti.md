@@ -23,3 +23,13 @@
 **Fonti web aggregate**: puertoviejosatellite.com ★★★ (più completa, aggiornata community), costaricavibes.com ★★★, costaricacaribbean.com ★★★, exoticobeach.com ★★★, costaricatravellife.com ★★★ (aggiornato set 2025).
 
 **Ultimo aggiornamento: 24/08/2026**
+
+## Griglia generale
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## App e fonti
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

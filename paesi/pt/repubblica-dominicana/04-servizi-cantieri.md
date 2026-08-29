@@ -67,3 +67,18 @@ L'isola lato RD ha **due poli con travelift e piazzale** per i diportisti: **Oce
 - **Assicurazione**: verificare clausola hurricane hole — Luperón è accettato da molte compagnie come riparo nominato, ma richiede piano di ormeggio rinforzato e notifica preventiva. ★★
 
 Ultimo aggiornamento: 24/08/2026
+
+## Hub tecnico
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Gas e bombole
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Acqua dolce
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

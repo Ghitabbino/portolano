@@ -23,3 +23,23 @@ Ancoraggio storico, fondo sabbia 6-10m, tenuta discreta, parziale protezione da 
 **TUTTE LE POSIZIONI SOPRA SONO IN ACQUA — VERIFICATE SU IMMAGINI SATELLITARI.**
 
 **Ultimo aggiornamento: 24/08/2026**
+
+## Regole generali
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Tabella riassuntiva
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Cartografia ufficiale
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Checklist àncora
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

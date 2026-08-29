@@ -6,3 +6,18 @@ Supermercati: **negozi a Clifton**: basi, ghiaccio, rum; per la spesa completa B
 Consegne in baia: barge dei venditori locali (frutta/pesce) su segnalazione VHF.
 
 Ultimo aggiornamento: 22/08/2026
+
+## Supermercati
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Acqua e carburante
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Consigli pratici
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

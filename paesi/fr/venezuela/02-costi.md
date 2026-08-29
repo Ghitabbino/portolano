@@ -13,3 +13,33 @@
 **Pagamenti**: molte attività accettano bolívares, USD o carta, ma molti POS **non accettano carte internazionali** [GOV.UK, lug 2026] ★★★.
 
 **Ultimo aggiornamento: 24/08/2026**
+
+## Alimentari
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Mangiare fuori
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Carburanti
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Trasporti
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Servizi quotidiani
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Contanti e pagamenti
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

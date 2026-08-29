@@ -76,3 +76,8 @@
 - Controllare **orari alba/tramonto e escursione di marea** (modesta, <0,5 m) ma con corrente in foci fluviali (Rio Ozama). ★★
 
 Ultimo aggiornamento: 24/08/2026
+
+## Venti locali
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

@@ -77,3 +77,13 @@ Valuta: **Euro (EUR)**. Madera ha **IVA regionale ridotta** (distinta da contine
 - **Importati cari**: alcolici d'importazione, elettronica, ricambi nautici specifici.
 
 Ultimo aggiornamento: 24/08/2026
+
+## Servizi quotidiani
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Contanti e pagamenti
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

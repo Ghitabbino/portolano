@@ -6,3 +6,18 @@
 - Ricambi/parti: reperibili a San José (capitale, 4-5h auto) o importati; nessun magazzino locale riportato (Agency of the Sea ★★★).
 
 **Ultimo aggiornamento: 24/08/2026**
+
+Tabella artigiani
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Dove si trova cosa
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Note pratiche
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

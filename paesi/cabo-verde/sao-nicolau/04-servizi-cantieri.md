@@ -25,3 +25,13 @@ Nessun travelift/cantiere turistico a sao-nicolau; alaggio solo per pescherecci 
 Portare ricambi critici da Mindelo/Praia o dalle Canarie; tempi di approvvigionamento lunghi.
 
 Ultimo aggiornamento: 24/08/2026
+
+## Gas e bombole
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Acqua dolce
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

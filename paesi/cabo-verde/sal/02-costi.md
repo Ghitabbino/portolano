@@ -47,3 +47,13 @@
 Bancomat a Santa Maria ed Espargos. Carte accettate nei locali turistici; CVE per yasi/porti.
 
 Ultimo aggiornamento: 24/08/2026
+
+## Servizi quotidiani
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Contanti e pagamenti
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

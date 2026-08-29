@@ -15,3 +15,28 @@
 - **Ancoraggi: furti a bordo / tender / fuoribordo segnalati in passato (Limón 2011: navi derubate a gunpoint in rada; finora yacht non bersagliati ma "visitors should be wary")** (Sea-Seek ★★★; Noonsite ★★★★).
 
 **Ultimo aggiornamento: 24/08/2026**
+
+Valutazione sicurezza
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Quadro generale
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Posti sicuri
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Salvataggio ed emergenze
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Monitoraggio mensile
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

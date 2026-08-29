@@ -35,3 +35,13 @@
 ---
 
 Ultimo aggiornamento: 25/08/2026
+
+## Cartografia ufficiale
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Checklist àncora
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

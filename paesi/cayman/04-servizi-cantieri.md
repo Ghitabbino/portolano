@@ -40,3 +40,23 @@
 - Tensione 60 Hz: verificare compatibilità caricabatterie europei (molti switching 50/60 Hz ok, ma non tutti i motori AC).
 
 Ultimo aggiornamento: 24/08/2026
+
+## Hub tecnico
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Gas e bombole
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Acqua dolce
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Note strategiche
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

@@ -12,3 +12,13 @@
 > Dettagli tariffe e servizi in raccolta — da verificare con DIMAR/Capitanía.
 
 Ultimo aggiornamento: 28/08/2026
+
+## Tariffe
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Distanze utili
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

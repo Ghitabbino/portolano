@@ -96,3 +96,7 @@ Fonte: Nagico St Lucia emergency numbers ★★★ · elenco ufficiale IGY Rodne
 - VHF **16** sempre monitorato da coast guard e marina; in area SMMA i ranger ascoltano VHF 16/68. ★★★
 - Ospedale di riferimento nord: **Tapion Hospital** e Victoria Hospital (Castries); Gros Islet Polyclinic +1 758 450 9661; Rodney Bay Medical Center +1 758 452 8621. [Nagico/elenco Shops at RBM ★★★]
 
+## Monitoraggio mensile
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

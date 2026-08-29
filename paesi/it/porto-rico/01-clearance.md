@@ -50,3 +50,13 @@ Prima di lasciare Porto Rico verso porto estero richiedere alla CBP il ***Permit
 - **USCG Sector San Juan** (emergenze SAR): **787-729-6770** · **VHF 16** ★★★★★
 
 Ultimo aggiornamento: 24/08/2026
+
+## Chi deve farla
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Da verificare
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

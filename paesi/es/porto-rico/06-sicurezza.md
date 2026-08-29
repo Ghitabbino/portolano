@@ -70,3 +70,13 @@ VHF 16 monitorato da USCG 24/7. Per soccorso in mare chiamare **USCG Sector San 
 *Legenda: cerchio rosso = zona da evitare di notte · arancio = attenzione.*
 
 Ultimo aggiornamento: 24/08/2026
+
+## Salvataggio ed emergenze
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Monitoraggio mensile
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

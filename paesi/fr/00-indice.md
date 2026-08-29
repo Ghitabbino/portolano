@@ -25,3 +25,18 @@ In breve: **senza iscrizione leggi tutto; con l’iscrizione, se vuoi, resti agg
 > 🔐 **Iscriviti o entra senza iscriverti — scegli tu**: il portolano è **sempre consultabile gratis senza account**. Se vuoi, puoi **[Iscriviti per ricevere gli allert di sicurezza](iscriviti.md)** (L3/L2 per le tue aree, 1 mail solo quando serve) o **[Accedi](accedi.md)** per contribuire. Senza iscrizione va benissimo lo stesso.
 
 Ultimo aggiornamento: 28/08/2026
+
+## Status
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Cittadini UE
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## La barca
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

@@ -25,3 +25,13 @@
 - Eventuali variazioni tariffarie stagione 2026–27 (Noonsite SVG)
 
 Ultimo aggiornamento: 23/08/2026
+
+## Chi deve farla
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Costi
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

@@ -35,3 +35,8 @@ Ultimo aggiornamento: 22/08/2026
 *Nessuna zona rossa: isola molto sicura; attenzione dinghy a Caleta del Sebo d'estate.* Arancione = prudenza. Nessuna zona rossa documentata contro diportisti.
 
 ## Quadro generale
+
+## Monitoraggio mensile
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

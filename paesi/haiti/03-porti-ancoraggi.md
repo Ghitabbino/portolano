@@ -15,9 +15,21 @@
 | **Jacmel** (sud) | 18°14′N 72°32′W | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | Rada aperta, esposta, non documentabile |
 | **Les Cayes** (sud-ovest) | 18°11′N 73°45′W | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | Rada, appoggio per Île-à-Vache (5,5 M) |
 
-> **Tariffe ormeggio/boe/acqua/luce/fuel dock per yacht: DATO MANCANTE / non verificabile** per tutti i porti haitiani al 28/08/2026 — considerare **non disponibile** e fare riferimento a marine RD. ★★
+## Tariffe ormeggi e marine
 
-## Distanze utili (M = miglia nautiche, approssimate ortodromiche)
+> Stesse voci per tutti i paesi; **DATO MANCANTE** = da ricercare al controllo mensile.
+
+| Voce | Costo | Note |
+|---|---|---|
+| Posto pontile — notte (~12 m) | **DATO MANCANTE** | Porti haitiani non operativi per diporto — fare riferimento a marine RD ★★ |
+| Boa/mouillage — notte (~12 m) | **DATO MANCANTE** | Idem |
+| Acqua | **DATO MANCANTE** | ★★ |
+| Elettricità | **DATO MANCANTE** | ★★ |
+| Ancoraggio | **Gratuito** fuori zone regolamentate | Ma sicurezza 0,5/5 — sconsigliato |
+
+> Tariffe ormeggio/boe/acqua/luce/fuel dock per yacht: **DATO MANCANTE / non verificabile** per tutti i porti haitiani al 28/08/2026 — considerare **non disponibile** e fare riferimento a marine RD. ★★
+
+## Distanze utili
 
 | Da → A | M | Note |
 |---|---|---|

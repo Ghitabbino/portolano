@@ -44,3 +44,13 @@ Fonti: [statistiche Union Island](https://www.kitesurfgrenadines.com/kitesurfing
 [Windfinder Canouan](https://www.windfinder.com/windstatistics/canouan_airport) ★★★
 
 Ultimo aggiornamento: 23/08/2026
+
+## Stagioni
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Link meteo
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

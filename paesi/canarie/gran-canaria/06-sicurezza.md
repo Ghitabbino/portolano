@@ -47,3 +47,7 @@ Contesto spagnolo tranquillo. Attenzione standard nei grandi centri e nelle mari
 
 Ultimo aggiornamento: 22/08/2026
 
+## Monitoraggio mensile
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

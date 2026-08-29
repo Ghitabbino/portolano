@@ -40,3 +40,23 @@ Uno dei migliori porti naturali dei Caraibi orientali: a "U" profonda, riparata 
 - **Bequia Easter Regatta** (4 giorni a Pasqua): baia piena — festa o da evitare, a gusto ★★★★
 
 Ultimo aggiornamento: 23/08/2026
+
+## Regole generali
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Tabella riassuntiva
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Cartografia ufficiale
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Checklist àncora
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

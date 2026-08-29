@@ -7,3 +7,18 @@
 | **Supermercati** | **DATO MANCANTE** — Exito, Carulla, Olímpica a Cartagena/Santa Marta da verificare |
 
 Ultimo aggiornamento: 28/08/2026
+
+## Supermercati
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Acqua e carburante
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Consigli pratici
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

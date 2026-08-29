@@ -9,3 +9,33 @@ Ultimo aggiornamento: 22/08/2026 · Valuta XCD ~2,70/US$
 | Mooring ball | EC$30–60/notte ⚠️ |Wallilabou, Blue Lagoon, Young Island ★★|
 
 Ultimo aggiornamento: 22/08/2026
+
+## Alimentari
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Mangiare fuori
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Carburanti
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Trasporti
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Servizi quotidiani
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Contanti e pagamenti
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

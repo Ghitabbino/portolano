@@ -6,3 +6,18 @@
 - **Cash**: portare **USD contanti** (accettazione diffusa; POS spesso inutilizzabili con carte straniere; dichiarare ≥10.000 USD) [GOV.UK, lug 2026] ★★★; attenzione a rapine durante prelievi/provviste a PLC [Ocean Posse threat list] ★★★.
 
 **Ultimo aggiornamento: 24/08/2026**
+
+## Supermercati
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Acqua e carburante
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Consigli pratici
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

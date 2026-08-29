@@ -10,3 +10,18 @@
 | Veleria | **DATO MANCANTE** | Lavori maggiori: Guatemala (Rio Dulce) o Messico |
 
 Ultimo aggiornamento: 25/08/2026
+
+Tabella artigiani
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Dove si trova cosa
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Note pratiche
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

@@ -57,3 +57,8 @@
 - Alta stagione (dic–apr) officine più cariche: chiedere sempre ***estimate* scritto** e confermare tempi. Inglese lingua di lavoro ovunque. ★★★
 
 Ultimo aggiornamento: 24/08/2026
+
+## Hub tecnico
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

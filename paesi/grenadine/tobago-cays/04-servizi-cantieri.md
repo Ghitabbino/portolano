@@ -8,3 +8,23 @@ Ultimo aggiornamento: 22/08/2026
 | Regole | Divieto pesca assoluto; non toccare corallo; moorings obbligatorie dove presenti |
 
 Ultimo aggiornamento: 22/08/2026
+
+## Hub tecnico
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Gas e bombole
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Acqua dolce
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Note strategiche
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

@@ -65,3 +65,17 @@
 | Segnaletica **IALA-B** | Sistema americano **red right returning** (invertito rispetto all'Europa) | ★★★ |
 | Reef / corallo | Rischio ambientale e legale: sanzioni fino a CI$ 500k → [08 Ancoraggi](08-ancoraggi.md) | DOE ★★★★★ |
 
+## Posti sicuri
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Salvataggio ed emergenze
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Monitoraggio mensile
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

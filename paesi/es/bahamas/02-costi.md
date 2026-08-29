@@ -83,3 +83,8 @@ BSD e USD 1:1, carte **Visa/Mastercard** accettate nelle marine e nei resort; co
 - Ristoranti con prezzi per locale → [10 Ristoranti](10-ristoranti.md)
 
 Ultimo aggiornamento: 24/08/2026
+
+## Alimentari
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

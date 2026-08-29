@@ -38,3 +38,8 @@
 - **Assicurazione**: molte polizze **escludono Haiti** — verificare clausola territoriale prima di entrare (vedi [04 Servizi](04-servizi-cantieri.md)). ★★
 
 Ultimo aggiornamento: 28/08/2026
+
+## Tariffe
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

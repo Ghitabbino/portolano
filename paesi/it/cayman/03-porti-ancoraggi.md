@@ -54,3 +54,8 @@
 - Prenotare in alta stagione (dic-apr): 83 posti si riempiono nei weekend di regata.
 
 Ultimo aggiornamento: 24/08/2026
+
+## Distanze utili
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

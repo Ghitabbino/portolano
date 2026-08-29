@@ -35,3 +35,8 @@ Ultimo aggiornamento: 22/08/2026
 *Rischi minimi; attenzione oggetti incustoditi.* Arancione = prudenza. Nessuna zona rossa documentata contro diportisti.
 
 ## Quadro generale
+
+## Monitoraggio mensile
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

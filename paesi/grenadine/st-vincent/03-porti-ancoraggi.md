@@ -15,3 +15,13 @@ Ultimo aggiornamento: 22/08/2026
 Clearance principale **Kingstown** (Deep Water Harbour); uffici anche a Wallilabou e Blue Lagoon.
 
 Ultimo aggiornamento: 22/08/2026
+
+## Tariffe
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Distanze utili
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

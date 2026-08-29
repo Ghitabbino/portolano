@@ -47,3 +47,23 @@ Clima **tropicale marino**, caldo umido tutto l'anno con due stagioni nette. ★
 - Alisei invernali moderati: traversate Grand Cayman ↔ Cayman Brac (70 M) fattibili con finestra ENE <20 kn.
 
 Ultimo aggiornamento: 24/08/2026
+
+## Stagioni
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Venti locali
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Finestre tipiche
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Link meteo
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

@@ -20,3 +20,18 @@ Ultimo aggiornamento: 22/08/2026
 | 3 | Chateaubelair | misto | 5–12 m | Costa ovest sotto il vulcano |
 
 Ultimo aggiornamento: 22/08/2026
+
+## Regole generali
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Cartografia ufficiale
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Checklist àncora
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

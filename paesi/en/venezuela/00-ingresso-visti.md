@@ -18,3 +18,18 @@ Farnesina/Viaggiare Sicuri (aggiorn. lug 2026) ★★★: viaggi in Venezuela **
 | Ambasciata d'Italia a Caracas | [ambcaracas.esteri.it](https://ambcaracas.esteri.it) | assistenza consolare · seg.ambcaracas@esteri.it |
 
 Ultimo aggiornamento: 25/08/2026
+
+## Status
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Cittadini UE
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## La barca
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

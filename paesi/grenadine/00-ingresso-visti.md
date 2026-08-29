@@ -28,3 +28,18 @@
 - Tariffa cruising permit 2026–27 (eventuali aggiornamenti Noonsite)
 
 Ultimo aggiornamento: 23/08/2026
+
+## Status
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Cittadini UE
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## La barca
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

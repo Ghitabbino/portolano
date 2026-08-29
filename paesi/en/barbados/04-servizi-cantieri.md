@@ -46,3 +46,8 @@
 - **Ricambi**: spedire **presso la marina indicando nome barca, posto barca e telefono**; confermare arrivo via email/telefono della reception; dazio pagabile online o in banchina. Tempi EU/USA → Barbados **7–14 giorni** via corriere; prevedere sdoganamento. ★★
 
 Ultimo aggiornamento: 28/08/2026
+
+## Hub tecnico
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

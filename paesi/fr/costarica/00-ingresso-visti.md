@@ -7,3 +7,18 @@ Italiani e UE: **ingresso senza visto fino a 180 giorni** (discrezione ufficiale
 - **Soggiorno oltre 180 giorni: serve visto/residenza** (pensionado, rentista, ecc.) (vacationscostarica.com ★★★).
 
 **Ultimo aggiornamento: 24/08/2026**
+
+## Status
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Cittadini UE
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## La barca
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

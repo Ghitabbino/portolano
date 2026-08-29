@@ -85,3 +85,8 @@ Tutte metered a consumo; chiedere in office all'arrivo. Portare adattatori US.
 - **Post-Melissa 10/2025**: verificare con marina danni residui a travelift/banchine su visitjamaica.com/travel-alerts ★★★★★.
 
 Ultimo aggiornamento: 24/08/2026
+
+## Hub tecnico
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

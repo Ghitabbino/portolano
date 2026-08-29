@@ -16,3 +16,28 @@ Furtini da dinghy nelle baie frequentate: catene + oggetti al sicuro.
 ⚠️ Camera iperbarica più vicina: Grenada / Fort-de-France. Immersioni solo con operatore locale registrato (regola TCMP).
 
 Ultimo aggiornamento: 22/08/2026
+
+Valutazione sicurezza
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Quadro generale
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Posti sicuri
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Salvataggio ed emergenze
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Monitoraggio mensile
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

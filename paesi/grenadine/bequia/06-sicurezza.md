@@ -23,3 +23,28 @@ Valutazione: **4/5** — isola sicura; furtini da dinghy possibili nelle baie fr
 - Water taxi: **Blessings (Didi) +784 455-5681** — collegamenti Princess Margaret/Lower Bay/Bar One ★★★
 
 Ultimo aggiornamento: 23/08/2026
+
+Valutazione sicurezza
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Quadro generale
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Posti sicuri
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Salvataggio ed emergenze
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Monitoraggio mensile
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

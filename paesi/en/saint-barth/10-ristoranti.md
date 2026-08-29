@@ -12,3 +12,13 @@
 ⚠️ Isola cara: prezzi elevati ovunque; prenotare in stagione ★★★
 
 Ultimo aggiornamento: 23/08/2026
+
+## Griglia generale
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## App e fonti
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

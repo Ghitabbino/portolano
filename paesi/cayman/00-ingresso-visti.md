@@ -53,3 +53,8 @@ Le Cayman sono **Territorio Britannico d'Oltremare (UK Overseas Territory)**. No
 - Regole import barca >30 gg presso Cayman Customs.
 
 Ultimo aggiornamento: 24/08/2026
+
+## Cittadini UE
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

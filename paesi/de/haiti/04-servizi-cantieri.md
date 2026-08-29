@@ -29,3 +29,13 @@
 - **Chandlery / ferramenta nautica in Haiti**: **DATO MANCANTE — considerare non disponibile** al 28/08/2026. ★★
 
 Ultimo aggiornamento: 28/08/2026
+
+## Gas e bombole
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Acqua dolce
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

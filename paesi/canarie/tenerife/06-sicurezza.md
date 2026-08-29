@@ -46,3 +46,7 @@ Contesto spagnolo molto sicuro. Rischi reali: microcriminalità turistica nel su
 | SAR marittimo spagnolo (Salvamento Marítimo) | **VHF 16** · tel. nazionale +34 91 346 44 44 |
 | Marina più vicina per assistenza | Marina Santa Cruz de Tenerife |
 
+## Monitoraggio mensile
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

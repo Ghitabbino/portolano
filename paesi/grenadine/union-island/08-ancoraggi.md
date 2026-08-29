@@ -23,3 +23,23 @@
 ⚠️ Passaggio Canouan–Union accelerato: +5–8 kn di vento — [meteo](05-stagionalita-meteo.md)
 
 Ultimo aggiornamento: 23/08/2026
+
+## Regole generali
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Tabella riassuntiva
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Cartografia ufficiale
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## Checklist àncora
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

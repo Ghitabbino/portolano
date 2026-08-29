@@ -36,3 +36,8 @@ Erogazione razionata; fare pieno appena disponibile; taniche di riserva.
 Mindelo concentra l'unico servizio quasi-europeo dell'arcipelago: ordinare ricambi dall'Europa con 1–3 settimane di anticipo via DHL; spedire in marina indicando nome barca/posto barca.
 
 Ultimo aggiornamento: 24/08/2026
+
+## Hub tecnico
+
+**DATO MANCANTE** — da completare al controllo mensile.
+

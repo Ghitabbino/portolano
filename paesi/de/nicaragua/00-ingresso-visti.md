@@ -32,3 +32,13 @@
 Corn Islands, Bluefields e Puerto Cabezas richiedono **permesso preventivo da Managua** [Cruisers Wiki] ★★★
 
 Ultimo aggiornamento: 25/08/2026
+
+## Cittadini UE
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
+
+## La barca
+
+**DATO MANCANTE** — da completare al controllo mensile.
+
