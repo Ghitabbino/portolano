@@ -132,7 +132,8 @@ BANDIERE = {
     'saint-barth': '🇧🇱', 'saint-martin': '🇲🇫', 'santa-lucia': '🇱🇨',
     'st-eustatius': 'assets/flags/st-eustatius.svg', 'st-kitts-nevis': '🇰🇳',     'trinidad-tobago': '🇹🇹',
     'turks-caicos': '🇹🇨', 'venezuela': '🇻🇪', 'virgin-islands': '🇻🇮',
-    'spagna': '🇪🇸',
+    'spagna': '🇪🇸', 'sudan': '🇸🇩', 'eritrea': '🇪🇷', 'gibuti': '🇩🇯', 'giordania': '🇯🇴',
+    'arabia-saudita': '🇸🇦', 'yemen': '🇾🇪',
 }
 
 countries = [] # (chiave paese, id copertina)
@@ -389,6 +390,8 @@ def paese_label(k: str) -> str:
           for i, w in enumerate(base)]
     return " ".join(ws)
 
+MAR_ROSSO_PAESI = ['egitto','sudan','eritrea','gibuti','israele','giordania','arabia-saudita','yemen']
+
 albero_regioni = []
 for reg in REGIONI_ORDINE:
     paesi_reg = sorted(k for k, _ in countries if country_to_region.get(k) == reg)
@@ -404,11 +407,18 @@ for reg in REGIONI_ORDINE:
                 for b in BACINO_ORDINE
                 if any(BACINO_MEDITERRANEO.get(k) == b for k in paesi_reg)]
         diretti = [k for k in paesi_reg if k not in BACINO_MEDITERRANEO]
+    elif reg == 'Mar Rosso':
+        # Paesi con sbocco sul Mar Rosso — sempre visibili in menu anche senza md (in preparazione)
+        subs, diretti = [], MAR_ROSSO_PAESI
+        # assicuriamo bandiere/lingua per i nuovi slug
+        for kk in MAR_ROSSO_PAESI:
+            if kk not in country_to_region:
+                country_to_region[kk] = 'Mar Rosso'
     else:
         subs, diretti = [], paesi_reg
     # Mediterraneo: niente paesi ancora → includiamo comunque come "in arrivo"
     # Mar Rosso: mostra descrizione anche senza md (in preparazione ma con lista paesi)
-    pronta = bool(paesi_reg) or reg in ('Mar Rosso',)
+    pronta = bool(paesi_reg) or reg in ('Mar Rosso',) or reg == 'Mar Rosso'
     albero_regioni.append({'k': reg, 'l': AREA_LABEL.get(reg, reg),
                            'i': AREA_ICONA.get(reg, '🌊'),
                            'subs': subs, 'p': diretti, 'ready': pronta})
@@ -416,8 +426,8 @@ for reg in REGIONI_ORDINE:
 ALBERO = {
     'regions': albero_regioni,
     'cover': {k: pid for k, pid in countries},
-    'lbl': {k: paese_label(k) for k, _ in countries},
-    'flag': {k: BANDIERE.get(k, '🏝️') for k, _ in countries},
+    'lbl': {**{k: paese_label(k) for k, _ in countries}, **{k: paese_label(k) for k in MAR_ROSSO_PAESI}},
+    'flag': {**{k: BANDIERE.get(k, '🏝️') for k, _ in countries}, **{k: BANDIERE.get(k, '🏝️') for k in MAR_ROSSO_PAESI}},
     'mlbl': {**{f'Caraibi/{m}': m for m in MACRO_ORDINE}, **{f'Mediterraneo/{b}': b for b in BACINO_ORDINE}},
     'zona': zona_icons,
     'macroOf': {**{k: m for k, m in MACRO_CARAIBI.items() if country_to_region.get(k) == 'Caraibi'},
