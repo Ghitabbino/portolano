@@ -14,27 +14,29 @@
 
 **Ultimo aggiornamento: 24/08/2026**
 
-Valutazione sicurezza
+## Valutazione sicurezza: **1,0/5 — Estremamente rischioso**
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
+Rischio **L3** confermato fino ad ago 2026: strikes USA, Level 4 Do Not Travel, GPS jamming, territorial limits Venezuelani = rischio estremamente alto anche a Los Roques (dentro limiti territoriali). Nessun report CSSN di aggressioni a yacht privati dopo gen 2026, ma clausole war-risk attive. ★★★
 
 ## Quadro generale
 
-**DATO MANCANTE** — da completare al controllo mensile.
+Vedi cronologia in testa pagina (2 set 2025–ago 2026): strikes narcolanchas, Noonsite avviso nov 2025, advisory USA Level 4, operazione gen 2026, Ocean Posse ago 2026. Pirateria storica Paria 2021, Margarita/Testigos frequenti. Offshore 2024 due incidenti. ★★★
 
+## Posti sicuri / da evitare
 
-## Posti sicuri
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
+- **Da evitare**: acque territoriali VE in generale, Paria, Margarita, Testigos, Trinidad-Venezuela est di Puerto La Cruz (FCDO pirateria). ★★★
+- **Relativamente frequentati ma non garantiti**: Los Roques, Blanquilla (Guardia Nazionale), Aves — ma "safe 6 mesi fa può non esserlo ora" [Noonsite 2026]. ★★★
 
 ## Salvataggio ed emergenze
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
+- **Emergenze VE**: SAR VE non affidabile → riferirsi a **JRSC San Juan (Puerto Rico)**; **146** DIMAR Colombia non applica. Tenere AIS/luci ON, float plan volontario SOUTHCOM/boatwatch.org. VHF 16, MRCC locale non affidabile. ★★★
+- **Ambulanza/Guardia Costiera VE**: numeri **DATO MANCANTE** per inaffidabilità — usare contatti internazionali.
 
 ## Monitoraggio mensile
 
-**DATO MANCANTE** — da completare al controllo mensile.
+| Data | Fonte | Azione |
+|---|---|---|
+| 24/08/2026 | Noonsite, Caribbean Compass, US Embassy, CSSN, Ocean Posse | Verifica completa — confermato rischio L3, nessun allentamento |
+
+Ultimo aggiornamento: 29/08/2026
 
