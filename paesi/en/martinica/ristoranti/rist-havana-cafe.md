@@ -1,17 +1,17 @@
 # Havana Café
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | Zona | Pointe du Bout |
 | Cucina | 🥩 Fajitas e grill |
 | Specialità | Fajitas · crêpes · cocktail maison |
-| Costo | 💰€€ per persona senza bevande |
+| Costo | 💰€€ per person without drinks |
 | Location | 🎶 musica live, animato |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Havana+Café+Pointe+du+Bout) |
 | Contatti | 0596 66 15 93 |
-| Valutazioni | Petit Futé 3,6/5 → ★★★½ |
+| Currencyzioni | Petit Futé 3,6/5 → ★★★½ |
 | Orari | 7/7 servizio continuato 11:30–23 (mezzanotte nel week-end) |
 
 ## Menu

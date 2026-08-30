@@ -1,4 +1,4 @@
-# 03 — Porti e marine
+# 03 — Ports & marinas
 
 **Ultima verifica: 24/08/2026** · Coordinate in gradi decimali come da fonte
 
@@ -12,19 +12,19 @@
 ## Altri ancoraggi / baie utili
 
 - Baie secondarie lungo costa sottovento: ancoraggio su sabbia/fango, profondità 3–10 m; attenzione a reef e parchi marini con divieto di ancoraggio. ★★
-- Dove presenti **boe / mooring**: uso obbligatorio o raccomandato nelle riserve marine — **DATO MANCANTE** tariffa esatta, stimata 10–30 USD/notte. ★★
+- Dove presenti **boe / mooring**: uso obbligatorio o raccomandato nelle riserve marine — **DATA MISSING** tariffa esatta, stimata 10–30 USD/notte. ★★
 - Pontile dinghy: verificare tenuta con mare e corrente; chiudere sempre dinghy e fuoribordo con lucchetto. ★★
 
 ## Tariffe ormeggi e marine
 
-> Stesse voci per tutti i paesi; **DATO MANCANTE** = da ricercare al controllo mensile.
+> Stesse voci per tutti i paesi; **DATA MISSING** = da ricercare al controllo mensile.
 
-| Voce | Costo | Note |
+| Item | Costo | Note |
 |---|---|---|
-| Posto pontile / notte (~12 m) | DATO MANCANTE | Chiedere in capitainerie |
-| Boa / mooring / notte | DATO MANCANTE | Pagamento in loco o via app |
-| Elettricità | DATO MANCANTE | — |
-| Acqua | DATO MANCANTE | — |
+| Posto pontile / notte (~12 m) | DATA MISSING | Chiedere in capitainerie |
+| Boa / mooring / notte | DATA MISSING | Pagamento in loco o via app |
+| Elettricità | DATA MISSING | — |
+| Acqua | DATA MISSING | — |
 | Ancoraggio libero | Gratuito fuori zone regolamentate | Rispettare divieti parco |
 
 ## Distanze utili
@@ -32,8 +32,8 @@
 | Tratta | Distanza |
 |---|---|
 | Traversate inter-isole Leeward | 15–45 M tra isole vicine |
-| Trinidad e Tobago ↔ hub vicino (Antigua / St. Martin) | DATO MANCANTE — verificare carta |
+| Trinidad e Tobago ↔ hub vicino (Antigua / St. Martin) | DATA MISSING — verificare carta |
 
-⚠️ **Da verificare prima della crociera**: disponibilità posti in alta stagione (dic–apr), prenotazione consigliata, prezzi boe e restrizioni parco marino.
+⚠️ **To be verified prima della crociera**: disponibilità posti in alta stagione (dic–apr), prenotazione consigliata, prezzi boe e restrizioni parco marino.
 
-Ultimo aggiornamento: 24/08/2026
+Last updated: 24/08/2026

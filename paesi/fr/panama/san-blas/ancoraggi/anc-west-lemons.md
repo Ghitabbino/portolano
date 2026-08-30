@@ -1,20 +1,20 @@
 # West Lemmons {#anc-west-lemons}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← Tous les mouillages](../08-ancoraggi.md)
 
 **9°33.0′N 78°57.5′W** ★★
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| **Profondità** |4–8 m su sabbia ★★|
-| **Tenuta àncora** | Ottima |
-| **Venti/riparo** | Buono da NE; raro swell nord entra a N |
-| **Pericoli** | Nasse pescatori segnalate |
-| **Affollamento** | Medio-alto |
+| **Profondeur** |4–8 m su sabbia ★★|
+| **Tenue de l’ancre** | Ottima |
+| **Vents/abri** | Buono da NE; raro swell nord entra a N |
+| **Dangers** | Nasse pescatori segnalate |
+| **Affluence** | Medio-alto |
 | **Divieti** | Nessuno |
-| **A terra** | Acqua piscina, famiglie di pescatori Guna |
+| **À terre** | Eau piscina, famiglie di pescatori Guna |
 
 <div class="mapframe" data-slug="anc-west-lemons" data-lat="9.538" data-lon="-78.699"></div>
-*Vista mappa West Lemmons · mappa offline*
+*Vista mappa West Lemmons · carte hors ligne*
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026

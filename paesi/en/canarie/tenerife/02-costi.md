@@ -1,55 +1,55 @@
-# 02 — Costo della vita
+# 02 — Cost of Living
 
-Ultimo aggiornamento: 22/08/2026 · Valuta: **euro** · Fiscalità speciale IGIC ~7% (vs IVA 21% continentale) → prezzi mediamente più bassi che in Spagna continentale.
+Last updated: 22/08/2026 · Currency: **euro** · Fiscalità speciale IGIC ~7% (vs IVA 21% continentale) → prezzi mediamente more bassi che in Spagna continentale.
 
-⚠️ Voci con (da confermare) vengono ricercate al controllo mensile (vedi [00 Indice](../../00-indice.md)).
+⚠️ Voci with (from confermare) vengono ricercate at the controllo mensile (vedi [00 Index](../../00-indice.md)).
 
-## Alimentari e spesa di bordo
+## Groceries & Galley Provisioning
 
-| Voce | Prezzo indicativo | Note |
+| Item | Price indicativo | Note |
 |---|---|---|
 | Birra locale supermercato (0,33 l) | 0,60–1 € |Dorada/Tropical ★★|
-| Acqua imbottigliata 1,5 l | 0,50–0,80 € | ★★ |
+| Water imbottigliata 1,5 l | 0,50–0,80 € | ★★ |
 | Latte 1 l | 0,90–1,20 € | ★★ |
 | Riso 1 kg | ~2,00 € |Prezzi Spagna ★★★ |
 | Pollo fresco 1 kg | 5–7 € | ★★ |
 | Frutta/verdura locale | Economica |Mercati municipali ★★★|
 
-## Mangiare fuori
+## Eating Out
 
-| Voce | Prezzo indicativo |
+| Item | Price indicativo |
 |---|---|
-| Menù del giorno (menú) | 10–14 € |
-| Caffè al bancone | 1,30–1,80 € |
-| Birra al bar | 2–3 € |
+| Menù of the giorno (menú) | 10–14 € |
+| Caffè at the bancone | 1,30–1,80 € |
+| Birra at the bar | 2–3 € |
 | Cena ristorante medio | 20–35 € |
 
-## Carburanti
+## Fuel
 
-| Voce | Prezzo indicativo | Note |
+| Item | Price indicativo | Note |
 |---|---|---|
-| Gasolio pompa stradale | Economico per IGIC | Tanica: normale in Spagna |
-| Gasolio marina dock | (da confermare) | Tariffe marine da verificare |
-| Bombola gas (raccordo spagnolo) | Scambio ~15–20 € | Adapter per bombole italiane consigliato |
+| Gasolio pompa stradale | Economico for IGIC | Tanica: normale in Spagna |
+| Gasolio marina dock | (from confermare) | Tariffs marine from check |
+| Bombola gas (raccordo spagnolo) | Scambio ~15–20 € | Adapter for bombole italiane consigliato |
 
-## Trasporti
+## Transport
 
-| Mezzo | Dettaglio |
+| Mezzo | Detail |
 |---|---|
 | Bus (Titsa) | Rete capillare, economico |
 | Noleggio auto | 25–40 €/giorno |
-| Taxi/Bolt | Diffusi e moderati |
+| Taxi/Bolt | Diffusi and moderati |
 
-## Servizi quotidiani
+## Everyday Services
 
-| Servizio | Costo |
+| Service | Cost |
 |---|---|
 | Lavanderia self-service | 3–5 €/carico |
-| SIM prepagata (Orange/Vodafone/Movistar) | 10–20 € con dati generosi |
-| Lavaggio scafo | (da confermare) |
+| SIM prepagata (Orange/Vodafone/Movistar) | 10–20 € with dati generosi |
+| Lavaggio scafo | (from confermare) |
 
-## Contanti e pagamenti
+## Cash & Payments
 
-Carte accettate ovunque; contante utile nei mercati e nei guachinchi rurali.
+Carte accettate ovunque; contante utile nei mercati and nei guachinchi rurali.
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

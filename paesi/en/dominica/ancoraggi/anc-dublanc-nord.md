@@ -1,20 +1,20 @@
 # North of Dublanc (ansa intermedia) {#anc-dublanc-nord}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← All anchorages](../08-ancoraggi.md)
 **15°30′47″ N 61°28′12″ W** ★★
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| **Profondità** |5–6 m|
-| **Tenuta àncora** |Buona su sabbia (report multipli NFL, rating ★4.7)|
-| **Venti/riparo** |Fonda remota e tranquilla tra Portsmouth e Roseau|
-| **Pericoli** |Nessun servizio [DA VERIFICARE SATELLITE]|
-| **Boe/divieti/normative** |—|
-| **A terra** |Spiaggia a ciottoli tondi, fondo interessante per snorkeling|
+| **Depth** |5–6 m|
+| **Holding** |Buona on sabbia (report multipli NFL, rating ★4.7)|
+| **Winds/Shelter** |Fonda remota and tranquilla between Portsmouth and Roseau|
+| **Hazards** |Nessun servizio [DA VERIFICARE SATELLITE]|
+| **Buoys/Restrictions/Regulations** |—|
+| **Ashore** |Spiaggia a ciottoli tondi, fondo interessante for snorkeling|
 
 <div class="mapframe" data-slug="anc-dublanc-nord" data-lat="15.513" data-lon="-61.47"></div>
-*Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
+*Detail chart — zoom in to the bay · offline chart · approximate WGS84 coordinates, always verify with your chartplotter*
 
 Fonti: [noforeignland](https://www.noforeignland.com/guides/countries/dm) (agg. 26-01-2026) ★★ · [DA VERIFICARE SATELLITE]
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

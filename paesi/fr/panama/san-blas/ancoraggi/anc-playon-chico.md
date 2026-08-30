@@ -1,20 +1,20 @@
 # Playón Chico / Ukupseni {#anc-playon-chico}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← Tous les mouillages](../08-ancoraggi.md)
 
 **9°19.8′N 78°13.8′W** ★★
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| **Profondità** |6–15 m ★★|
-| **Tenuta àncora** | Buona |
-| **Venti/riparo** | Costa bassa: nessun swell dentro la laguna |
-| **Pericoli** | Pista aerea; pontili lunghi sul mare |
-| **Affollamento** | Quasi nessuno |
+| **Profondeur** |6–15 m ★★|
+| **Tenue de l’ancre** | Buona |
+| **Vents/abri** | Costa bassa: nessun swell dentro la laguna |
+| **Dangers** | Pista aerea; pontili lunghi sul mare |
+| **Affluence** | Quasi nessuno |
 | **Divieti** | Nessuno |
-| **A terra** | Villaggio grande autentico, zero turismo |
+| **À terre** | Villaggio grande autentico, zero turismo |
 
 <div class="mapframe" data-slug="anc-playon-chico" data-lat="9.3118" data-lon="-78.2326"></div>
-*Vista mappa Playón Chico / Ukupseni · mappa offline*
+*Vista mappa Playón Chico / Ukupseni · carte hors ligne*
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026

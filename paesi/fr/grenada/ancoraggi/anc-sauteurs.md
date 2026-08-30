@@ -1,20 +1,20 @@
 # Sauteurs Bay (nord) {#anc-sauteurs}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← Tous les mouillages](../08-ancoraggi.md)
 **12°13′05″ N 61°38′06″ W** ★★
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| **Profondità** |Chiazza di sabbia ~5 m a sinistra del dock|
-| **Tenuta àncora** |Media|
-| **Venti/riparo** |Laghetto creato dal nuovo molo frangiflutti (2018): 2–3 yacht; solo di giorno|
-| **Pericoli** |Reef e boe locali; rollìo con NE; Levera/Sugar Loaf = day-stop senza protezione da nord|
-| **Boe/divieti/normative** |—|
-| **A terra** |Sauteurs town, Caribs' Leap|
+| **Profondeur** |Chiazza di sabbia ~5 m a sinistra del dock|
+| **Tenue de l’ancre** |Media|
+| **Vents/abri** |Laghetto creato dal nuovo molo frangiflutti (2018): 2–3 yacht; solo di giorno|
+| **Dangers** |Reef e boe locali; rollìo con NE; Levera/Sugar Loaf = day-stop senza protezione da nord|
+| **Bouées/interdictions/réglementation** |—|
+| **À terre** |Sauteurs town, Caribs' Leap|
 
 <div class="mapframe" data-slug="anc-sauteurs" data-lat="12.218" data-lon="-61.635"></div>
-*Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
+*Carte détaillée — zoomez jusqu’à la baie · carte hors ligne · coordinate WGS84 indicative, toujours vérifier avec le traceur*
 
 Fonti: Caribbean Compass (2018) ★★★ · Spend Life Traveling (2024) ★★ · [DA VERIFICARE SATELLITE]
 
-Ultimo aggiornamento: 28/08/2026
+Dernière mise à jour: 28/08/2026

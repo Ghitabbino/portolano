@@ -7,7 +7,7 @@
 | Zona | Reduit Beach, Rodney Bay |
 | Cucina | 🐟 Beach bar-ristorante (pesce, grill, carvery) |
 | Specialità | Bouillabaisse · lobster in stagione · fish créole · burger artigianale |
-| Costo | 💰€€€ per persona senza bevande |
+| Costo | 💰€€€ per person without drinks |
 | Location | 🏖️ sulla sabbia di Reduit, vista Pigeon Point/Martinica; attivo dal 1993 |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Spinnakers+Beach+Bar+Rodney+Bay) — coord. verificate 14.0764, -60.9546 (elenco business SaintLuciaIndex) |
 | Contatti | +1 758-452-8491 · spinnakersbeachbar.com |
@@ -26,4 +26,4 @@
 
 **Note**: raggiungibile a piedi dalla rada esterna di Rodney Bay via Reduit Beach; tramonto e cocktail. Fonte: SaintLuciaIndex (verificato 25/08/2026 ★★), Noonsite ★★★.
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

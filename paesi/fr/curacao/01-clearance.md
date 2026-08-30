@@ -1,8 +1,8 @@
-# 01 — Clearance doganale della barca
+# 01 — Formalités douanières
 
-**Ultima verifica: 28/08/2026** · Fonti principali: Curaçao Ports Authority (CPA) ★★★★★, Noonsite 13/08/2025 ★★★, SailClear/CCLEC ★★★, dicardcuracao.com ★★★★★
+**Dernière vérification: 28/08/2026** · Sources principales: Curaçao Ports Authority (CPA) ★★★★★, Noonsite 13/08/2025 ★★★, SailClear/CCLEC ★★★, dicardcuracao.com ★★★★★
 
-## Chi deve farla
+## Qui doit effectuer les formalités
 
 Tutti i natanti da diporto, **qualsiasi bandiera e nazionalità**, che:
 - **entrano** nelle acque di Curaçao provenendo da porto/mare territoriale straniero o alto mare;
@@ -29,8 +29,8 @@ Anche i residenti in rientro da navigazione estera devono presentarsi. Lo sposta
 1. **Avvicinamento**: ingresso stretto **senza mede**, banchi di sabbia + rocce ai lati, **mai di notte**; difficile da avvistare con frangenti. [Noonsite — Entrance Notes](https://www.noonsite.com/place/curacao/spanish-water/) ★★★
 2. **Ancorare** nella laguna in una delle **5 zone designate A–E** (vedi [08 Ancoraggi](08-ancoraggi.md)): zone A/B/C più usate; holding fango 5–10 m. [Sailing Anima — Sailing in Curaçao](https://sailinganima.com/sailing-in-curacao-tips-infos/) ★★★
 3. **Subito a terra per le formalità** (almeno il comandante; equipaggio può restare a bordo ma **tutti devono essere registrati**):
-   - **Situazione transitoria 2025–2026**: uffici **Harbour Master + Immigrazione + Dogana** ancora a **Willemstad** (Harbour Master vicino Immigration lato nord harbour; Customs lato sud accanto al ponte mobile — spostamento ottobre 2023). **Bus 6A Spanish Water → Willemstad (Punda) ~US$2/pax** per la clearance via terra. [Noonsite commenti, 01/10/2025; 14/10/2025 ★★; Noonsite — Update 13/08/2025 ★★★]
-   - **Nuovo ufficio congiunto (Dogana+Immigrazione+Guardia Costiera) a Santa Barbara, imbocco Spanish Water**, annunciato 13/08/2025 **non ancora operativo** — quando aprirà basterà breve stop a Santa Barbara. Verificare prima dell'arrivo. [Noonsite — Update 13/08/2025](https://www.noonsite.com/news/curacao-port-authority-update-for-visiting-yachts/) ★★★
+   - **Situation transitoria 2025–2026**: uffici **Harbour Master + Immigrazione + Dogana** ancora a **Willemstad** (Harbour Master vicino Immigration lato nord harbour; Customs lato sud accanto al ponte mobile — spostamento ottobre 2023). **Bus 6A Spanish Water → Willemstad (Punda) ~US$2/pax** per la clearance via terra. [Noonsite commenti, 01/10/2025; 14/10/2025 ★★; Noonsite — Update 13/08/2025 ★★★]
+   - **Nuovo ufficio congiunto (Dogana+Immigrazione+Guardia Costiera) a Santa Barbara, imbocco Spanish Water**, annunciato 13/08/2025 **non ancora operativo** — quando aprirà basterà breve stop a Santa Barbara. Vérifier prima dell'arrivo. [Noonsite — Update 13/08/2025](https://www.noonsite.com/news/curacao-port-authority-update-for-visiting-yachts/) ★★★
 4. Ordine sportelli a Willemstad (se clearance in città): **Immigrazione prima, poi Dogana** all'andata; **Dogana prima, poi Immigrazione** al ritorno. [Sailing Anima ★★★]
 5. **Harbour Master — permesso di ancoraggio obbligatorio** (~US$24, validità 90 gg Spanish Water, 3 notti altre baie) rilasciato all'arrivo; conservarlo a bordo. [Navily — Spanish Water West 07/10/2025 ★★; Caribbean Compass 2006 ★★★]
 6. **Armi / flare gun / spear gun**: dichiarare; sequestro possibile. [Noonsite ★★★]
@@ -40,7 +40,7 @@ Anche i residenti in rientro da navigazione estera devono presentarsi. Lo sposta
 
 Se arrivi fuori orario, occupa una boa/zona legale e presentati **la mattina successiva alla prima apertura** — non restare non annunciato. Tieni VHF **16** per Guardia Costiera all'imbocco. Per ormeggio in marina (Curaçao Marine / Seru Boca), **contatta la marina prima** su VHF/canale indicato e annuncia arrivo; accesso a Curaçao Marine via **Queen Emma Bridge — VHF 12 con Port Authority**. [Sailing Anima ★★★; Noonsite ★★★]
 
-## Partenza (clearance in uscita)
+## Départ (clearance in uscita)
 
 - Ritornare **allo stesso ufficio Dogana/Immigrazione** prima di mollare, con passaporti e documenti barca; chiedere **zarpe/dichiarazione di uscita** se il prossimo Paese la richiede. Ritirare armi depositate. [curports.com ★★★★★]
 - Comunicare rilascio permesso al Harbour Master; se si va a **Klein Curaçao** per tappa prima della traversata, farlo **dopo** la clearance (tecnicamente senza permesso valido → tollerato ma verificare). [Noonsite commenti 10/08/2024 ★★]
@@ -48,7 +48,7 @@ Se arrivi fuori orario, occupa una boa/zona legale e presentati **la mattina suc
 
 ## Costi
 
-| Voce | Costo | Fonte |
+| Rubrique | Coût | Source |
 |---|---|---|
 | Clearance Dogana + Immigrazione (ingresso/uscita) | **Gratuita** (in orario) | [Noonsite — Curaçao](https://www.noonsite.com/place/curacao/) ★★★; [curports.com](https://curports.com/shipping/yachting/customs-immigration/) ★★★★★ |
 | Permesso di ancoraggio Harbour Master | **~US$24** per 90 gg (Spanish Water) — 3 notti altre baie | [Navily 07/10/2025 ★★; Caribbean Compass ★★★] |
@@ -59,41 +59,41 @@ Se arrivi fuori orario, occupa una boa/zona legale e presentati **la mattina suc
 
 ## Unico polo d'ingresso e uffici — Spanish Water / Willemstad
 
-| Ufficio | Indirizzo | Contatti | Orari |
+| Ufficio | Indirizzo | Contacts | Horaires |
 |---|---|---|---|
 | **Harbour Master — Curaçao Ports Authority** | Werf de Wilde z/n, Willemstad (Harbour Office, edificio giallo Motetwerf) | +599 9 434 5999 · info@curports.com | lun–ven orario ufficio; presentazione immediata all'arrivo |
 | **Immigrazione** | Prinsenstraat 90, Punda, Willemstad (lato ovest canale) + sportello porto | +599 9 433 3123 | lun–ven 8–16 |
 | **Dogana (Customs)** | Lato est canale vicino ponte mobile (Willemstad) + nuova sede Santa Barbara (prossima apertura) | +599 9 434 5999 | come sopra |
-| **Santa Barbara — nuovo ufficio congiunto** | Imbocco Spanish Water, Santa Barbara Plantation | **DATO MANCANTE** tel/VHF | **Non ancora operativo — verificare** [Noonsite 13/08/2025 ★★★] |
+| **Santa Barbara — nuovo ufficio congiunto** | Imbocco Spanish Water, Santa Barbara Plantation | **DONNÉE MANQUANTE** tel/VHF | **Non ancora operativo — verificare** [Noonsite 13/08/2025 ★★★] |
 
 Fonti: [curports.com — Contact](https://curports.com/port-authority/contact-us/) ★★★★★; [Noonsite — Update 13/08/2025](https://www.noonsite.com/news/curacao-port-authority-update-for-visiting-yachts/) ★★★
 
-## Dogana regionale
+## Douane régionale
 
 **Curaçao Ports Authority — Harbour Master**, Werf de Wilde z/n, P.O. Box 689, Willemstad · +599 9 434 5999 · [curports.com](https://curports.com) ★★★★★
 Per legislazione: *Landsverordening Toelating en Uitzetting* e *Douaneverordening* Curaçao — supervisione permanente import/export.
 
-## Porto e ancoraggio (impatto sulla clearance)
+## Port e ancoraggio (impatto sulla clearance)
 
 St. Anna Bay è **vietata all'ancoraggio dei diportisti (ISPS)**; le uniche soste notturne legali per visitatori sono nelle **aree designate Harbour Master** (Spanish Water max 90 gg, Fuik/Santa Martha/Santa Cruz/Piscadera/Klein Curaçao max 3 notti ciascuna) o in **marina**. [Noonsite — Update 13/08/2025 ★★★; curports.com ★★★★★]
 
-## Esperienze dei crocieristi
+## Retours de navigateurs
 
 - Ingresso definito "più comodo via Spanish Water che via città: meno taxi/walk, meno attesa" — Immigration e Customs in città sono distanti tra loro. ★★ [Sailing Anima; Noonsite]
 - SailClear pre-compilato taglia code; chi arriva senza trova moduli cartacei e tempi più lunghi. ★★★ [Noonsite — Eastern Caribbean clearance]
 - Bus 6A efficiente (~US$2) ma verificare fermata/horario; alcuni cruiser usano taxi collettivo gratuito dal fisherman dock il mattino. ★★ [Noonsite commenti 14/10/2025]
 
-## Sanzioni
+## Sanctions
 
-- **Ancoraggio fuori aree designate**: multa e revoca permesso, possibile ordine di spostamento. [Curaçao Ports Authority ★★★★★]
+- **Mouillage fuori aree designate**: multa e revoca permesso, possibile ordine di spostamento. [Curaçao Ports Authority ★★★★★]
 - **Attività commerciali a bordo** (charter/vendita) vietate a stranieri: **multa** se accertata. [Noonsite — Update 13/08/2025 ★★★]
 - **Mancata presentazione / zarpe mancante / armi non dichiarate**: rifiuto d'ingresso o sanzione Dogana. [curports.com ★★★★★]
 - **Overstay persone**: multa, espulsione e divieto di reingresso (Immigrazione); il periodo concesso può essere stato abbreviato in frontiera. [immigrationcur.org ★★★★★]
 
-## Da verificare prima della crociera
+## À vérifier avant la croisière
 
 - Apertura effettiva **ufficio Santa Barbara** e nuovo VHF/canale di chiamata.
-- Tariffe aggiornate **permesso Harbour Master** e disponibilità **entrepot** in alta stagione (dic–apr).
-- Eventuali aggiornamenti **SailClear/BES** su nuova piattaforma o cambio orari uffici — verificare su [curports.com](https://curports.com/shipping/yachting/customs-immigration/) e [dicardcuracao.com](https://dicardcuracao.com) prima di partire.
+- Tarifs aggiornate **permesso Harbour Master** e disponibilità **entrepot** in alta stagione (dic–apr).
+- Eventuali aggiornamenti **SailClear/BES** su nuova piattaforma o cambio orari uffici — vérifier sur [curports.com](https://curports.com/shipping/yachting/customs-immigration/) e [dicardcuracao.com](https://dicardcuracao.com) prima di partire.
 
-Ultimo aggiornamento: 28/08/2026
+Dernière mise à jour: 28/08/2026

@@ -1,23 +1,23 @@
-# 01 — Clearance doganale della barca
+# 01 — Formalités douanières
 
-**Ultima verifica: 28/08/2026**
+**Dernière vérification: 28/08/2026**
 
-## Chi deve farla
+## Qui doit effectuer les formalités
 
-- **Tutte le imbarcazioni straniere** in ingresso/uscita dalle acque colombiane (Caribe e Pacifico) e per **permanenza** oltre l'ingresso. Check-Mig persone separato da permessi barca (vedi [00 Ingresso](00-ingresso-visti.md)). ★★★★★
+- **Tutte le imbarcazioni straniere** in ingresso/uscita dalle acque colombiane (Caribe e Pacifique) e per **permanenza** oltre l'ingresso. Check-Mig persone separato da permessi barca (vedi [00 Ingresso](00-ingresso-visti.md)). ★★★★★
 
-## Procedura
+## Procédure
 
-| Passo | Cosa fare | Fonte |
+| Passo | Cosa fare | Source |
 |---|---|---|
 | **1. Check-Mig** | Compilare **Check-Mig** Migración Colombia tra **72h e 1h** prima dell'arrivo/partenza (anche via mare) su `https://apps.migracioncolombia.gov.co/pre-registro` — gratuito, ricevuta via e-mail | Migración Colombia ★★★★★ |
 | **2. Arrivo in porto autorizzato** | Presentarsi a **Capitanía de Puerto DIMAR** + **Migración Colombia** + **DIAN** nel porto d'ingresso (Cartagena, Santa Marta, San Andrés, Buenaventura ecc.) con passaporti, documenti barca, lista equipaggio, ricevuta Check-Mig | DIMAR ★★★★★ |
 | **3. Permiso de Permanencia DIMAR** | Richiedere **Permiso de Permanencia para Yates y Veleros de Bandera Extranjera** (yachts da diporto, solo recreo/deporte, no trasporto commerciale) — tramite **Sede Electrónica DIMAR** | DIMAR ★★★★★ |
-| **4. Importazione temporanea DIAN** | Verificare **paz y salvo DIAN** e atto di **importación temporal** (Decreto 1169/2019) — bloccante per il permesso DIMAR | DIAN ★★★★ |
+| **4. Importazione temporanea DIAN** | Vérifier **paz y salvo DIAN** e atto di **importación temporal** (Decreto 1169/2019) — bloccante per il permesso DIMAR | DIAN ★★★★ |
 
 ## Costi e tempi
 
-| Voce | Importo / Tempo | Fonte |
+| Rubrique | Importo / Tempo | Source |
 |---|---|---|
 | **Permiso DIMAR** | **~441.285 COP** | DIMAR ★★★ |
 | **Tempo rilascio** | **~20 giorni lavorativi** | DIMAR ★★★ |
@@ -32,21 +32,21 @@
 
 ## Punti d'ingresso / Capitanías
 
-| Porto | Costa | Note |
+| Port | Costa | Note |
 |---|---|---|
 | **Cartagena** | Caribe | Principale hub diportisti, controlli DIMAR/DIAN frequenti su permessi in baia ★★★★ |
 | **Santa Marta** | Caribe | Capitanía attiva |
 | **San Andrés / Providencia** | Caribe insulare | Ingresso arcipelago |
-| **Buenaventura** | Pacifico | Capitanía Pacifico |
+| **Buenaventura** | Pacifique | Capitanía Pacifique |
 | **Cartagena — Bahía interna** | Caribe | Verifiche in rada: 20 imbarcazioni sanzionate per permessi scaduti/fondeggio fuori marina DIMAR ★★★★ |
 
-## Sanzioni / controlli
+## Sanctions / controlli
 
-- Ispezioni **DIMAR + DIAN** in baia (es. Cartagena): verifica permessi, tempi, fondeggio in **marina/club náutico habilitado DIMAR**, dotazioni sicurezza/comunicazioni. Sanzioni/multe/indagini se irregolari. ★★★★
-- Permanenza oltre il tempo concesso o ancoraggio fuori marina autorizzata → sanzione.
+- Ispezioni **DIMAR + DIAN** in baia (es. Cartagena): verifica permessi, tempi, fondeggio in **marina/club náutico habilitado DIMAR**, dotazioni sicurezza/comunicazioni. Sanctions/multe/indagini se irregolari. ★★★★
+- Durée de séjour oltre il tempo concesso o ancoraggio fuori marina autorizzata → sanzione.
 
-## Da verificare
+## À vérifier
 
-- Tariffe DIAN aggiornate e durata massima importazione temporanea per bandiera italiana; lista marine habilitadas DIMAR per fondeggio.
+- Tarifs DIAN aggiornate e durata massima importazione temporanea per bandiera italiana; lista marine habilitadas DIMAR per fondeggio.
 
-Ultimo aggiornamento: 28/08/2026
+Dernière mise à jour: 28/08/2026

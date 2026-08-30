@@ -1,21 +1,21 @@
-# 10 — Ristoranti
+# 10 — Restaurants
 
-## Griglia generale
+## General Layout
 
-| Ristorante | Zona | Costo | Cucina | Specialità | Location | Stelle |
+| Restaurant | Area | Cost | Cuisine | Specialities | Location | Stars |
 |---|---|---|---|---|---|---|
-| [Jack's Beach Bar](ristoranti/rist-jacks.md) | Princess Margaret Beach | **€€** | **🐟 Caraibica beachfront** | *Jack's Fried Chicken · PM Burger* | **🏖️ direttamente sulla spiaggia** | ★★★★ |
-| [Mac's Pizza & Kitchen](ristoranti/rist-macs.md) | Belmont Walkway | **€€** | **🍕 Pizzeria** | *Lobster pizza · conch fritters* | **🌊 fronte baia, lucine** | ★★★★ |
-| [Frangipani Hotel Restaurant](ristoranti/rist-frangipani.md) | Belmont Walkway | **€€–€€€** | **🍽️ Caraibica-internazionale** | *Thursday Jump Up · conch chowder* | **🌊 waterfront storico** | ★★★★ |
-| [The Fig Tree](ristoranti/rist-figtree.md) | Belmont Walkway | **€€** | **🍲 Bequiana autentica** | *Cucina locale speziata* | **🌳 giardino** | ★★★★ |
-| [Whaleboner Inn](ristoranti/rist-whaleboner.md) | Belmont | **€€€** | **🦴 West Indian** | *Lobster · fish & chips* | **🐋 bar in mandibola di balena** | ★★★★ |
-| [Maria's French Terrace](ristoranti/rist-marias.md) | Front Street | **€€€** | **🥐 Francese-caraibica** | *Cucina francese · carta dei vini* | **🌅 vista Admiralty Bay** | ★★★★ |
-| [Fernando's Hideaway](ristoranti/rist-fernandos.md) | Collina sopra Lower Bay | **€€€** | **🐟 Bequiana autentica** | *Pesce pescato dal cuoco · goat water (sab)* | **🏡 intimo, pochi coperti** | ★★★★★ |
-| [Gracie's Beachside (ex Keegan's)](ristoranti/rist-keegans.md) | Lower Bay | **€€** | **🐟 Locale di spiaggia** | *BBQ del sabato · piatti locali* | **🏖️ beachside** | ★★★★ |
-| [Dawn's Creole Restaurant](ristoranti/rist-dawns.md) | Lower Bay Beach | **€** | **🍲 Creola** | *Menu del giorno · frutti di mare* | **🏖️ fine spiaggia ovest** | ★★★★½ |
-| [Bar One](ristoranti/rist-barone.md) | Port Elizabeth Harbour (galleggiante) | **€€** | **🍹 Bar & snack** | *Rum punch* | **⛵ unico bar galleggiante, alimentato a solare** | ★★★★ |
-| [Sugar Reef Café](ristoranti/rist-sugarreef.md) | Industry Bay | **€€** | **🍽️ Raffinata** | *Piatti freschi · acqua di cocco e rum* | **🌴 by the waterside, baia deserta** | ★★★★ |
+| [Jack's Beach Bar](ristoranti/rist-jacks.md) | Princess Margaret Beach | **€€** | **🐟 Caribbean beachfront** | *Jack's Fried Chicken · PM Burger* | **🏖️ directly on the beach** | ★★★★ |
+| [Mac's Pizza & Kitchen](ristoranti/rist-macs.md) | Belmont Walkway | **€€** | **🍕 Pizzeria** | *Lobster pizza · conch fritters* | **🌊 by the bay, with lights** | ★★★★ |
+| [Frangipani Hotel Restaurant](ristoranti/rist-frangipani.md) | Belmont Walkway | **€€–€€€** | **🍽️ Caribbean-international** | *Thursday Jump Up · conch chowder* | **🌊 historic waterfront** | ★★★★ |
+| [The Fig Tree](ristoranti/rist-figtree.md) | Belmont Walkway | **€€** | **🍲 Bequiana authentic** | *Local spicy cuisine* | **🌳 garden** | ★★★★ |
+| [Whaleboner Inn](ristoranti/rist-whaleboner.md) | Belmont | **€€€** | **🦴 West Indian** | *Lobster · fish & chips* | **🐋 whalebone bar** | ★★★★ |
+| [Maria's French Terrace](ristoranti/rist-marias.md) | Front Street | **€€€** | **🥐 French-Caribbean** | *French cuisine · wine list* | **🌅 Admiralty Bay view** | ★★★★ |
+| [Fernando's Hideaway](ristoranti/rist-fernandos.md) | Hill above Lower Bay | **€€€** | **🐟 Bequiana authentic** | *Fish cooked by the chef · goat water (sab)* | **🏡 intimate, few seats** | ★★★★★ |
+| [Gracie's Beachside (ex Keegan's)](ristoranti/rist-keegans.md) | Lower Bay | **€€** | **🐟 Beachfront local** | *Saturday BBQ · local dishes* | **🏖️ beachside** | ★★★★ |
+| [Dawn's Creole Restaurant](ristoranti/rist-dawns.md) | Lower Bay Beach | **€** | **🍲 Créole** | *Daily menu · seafood* | **🏖️ western beach end** | __PH19½__ |
+| [Bar One](ristoranti/rist-barone.md) | Port Elizabeth Harbour (floating) | **€€** | **🍹 Bar & snacks** | *Rum punch* | **⛵ the only floating solar-powered bar** | ★★★★ |
+| [Sugar Reef Café](ristoranti/rist-sugarreef.md) | Industry Bay | **€€** | **🍽️ Refined** | *Fresh dishes · coconut water and rum* | **🌴 by the waterside, deserted bay** | ★★★★ |
 
-## App e fonti
+## Apps and Sources
 
-Google Maps recensioni · contatto VHF/WhatsApp
+Google Maps reviews · VHF/WhatsApp contact

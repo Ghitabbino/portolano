@@ -1,18 +1,18 @@
 # Chez Wen Cuisine
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Scotts Head — bayside del villaggio |
-| Cucina | 🐟 Creola / seafood boil |
-| Specialità | Seafood boil del giovedì (lobster, mussels, crab legs, crayfish) · fresh seafood · chicken creolo |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🌅 open-air bayside, vista baia di Soufrière/Scotts Head |
+| Zone | Scotts Head — bayside del villaggio |
+| Cuisine | 🐟 Creola / seafood boil |
+| Spécialité | Seafood boil del giovedì (lobster, mussels, crab legs, crayfish) · fresh seafood · chicken creolo |
+| Coût | 💰€€ per persona senza bevande |
+| Emplacement | 🌅 open-air bayside, vista baia di Soufrière/Scotts Head |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chez+Wen+Cuisine+Scotts+Head+Dominica) |
-| Contatti | via [Facebook](https://www.facebook.com/chezwencuisine/) |
-| Valutazioni | Destination Magazines ★★★ · Google **DATO MANCANTE** |
-| Orari | Pranzo e cena; seafood boil il **giovedì** — verificare su FB |
+| Contacts | via [Facebook](https://www.facebook.com/chezwencuisine/) |
+| Évaluations | Destination Magazines ★★★ · Google **DONNÉE MANQUANTE** |
+| Horaires | Pranzo e cena; seafood boil il **giovedì** — vérifier sur FB |
 
 ## Menu
 
@@ -29,4 +29,4 @@ Ristorante perfettamente situato a Scotts Head, affacciato sulla baia; cucina cr
 
 Fonti: [Destination Magazines](https://destination-magazines.com/10-best-restaurants-in-dominica/) ★★★ · [Facebook](https://www.facebook.com/chezwencuisine/) ★★
 
-Ultimo aggiornamento: 25/08/2026
+Dernière mise à jour: 25/08/2026

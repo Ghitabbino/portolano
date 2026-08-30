@@ -1,11 +1,11 @@
-# 02 — Costo della vita
+# 02 — Coût de la vie
 
-Ultimo aggiornamento: 22/08/2026 · Valuta XCD ~2,70/US$
+Dernière mise à jour: 22/08/2026 · Devise XCD ~2,70/US$
 
-| Voce | Prezzo |
+| Rubrique | Prezzo |
 |---|---|
 | Birra locale | EC$5–7 |Negozi Clifton ★★|
 | Pasto pesce | EC$60–130 |Ristoranti Clifton/Ashton ★★|
 | Mooring ball | EC$40–60/notte ⚠️ |Clifton e Chatham Bay ★★|
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026

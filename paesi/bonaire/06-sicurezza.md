@@ -105,5 +105,7 @@ Dati **Caribbean Safety and Security Net** (thecssn.org ★★★), controllo 28
 
 ## Monitoraggio mensile
 
-**DATO MANCANTE** — da completare al controllo mensile.
+| Data | Fonte | Azione |
+|---|---|---|
+| 29/08/2026 | GOV.UK, Noonsite, CSSN | Verifica sicurezza — nessuna variazione L3, confermato quadro generale |
 

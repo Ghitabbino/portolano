@@ -1,4 +1,4 @@
-# 09 — Artigiani e negozi nautici
+# 09 — Marine Trades & Chandlers
 
 ## Artigianato Guna (molas)
 
@@ -10,22 +10,22 @@
 
 Regole di rispetto: chiedere prima di fotografare le persone; contrattare con garbo; non comprare "antiquariato" archeologico (vietato esportarlo).
 
-## Servizi nautici
+## Services nautici
 
-| Servizio | Disponibilità |
+| Service | Disponibilità |
 |---|---|
 | Negozi di attrezzature | ❌ Nessuno — ultimo rifornimento Linton Bay/Colón |
 | Shipchandler | ❌ |
 | Sommozzatore/elica |Talvolta tra i villaggi, da concordare in ancoraggio ★★|
 
-## Dove si trova cosa
+## Where to Find What
 
 Tutto a Colón/Panama City: pagina *Panama · Canale → Artigiani e negozi*.
 
-## Note pratiche
+## Practical Notes
 
-- Il commercio con le canoe è parte dell'economia Guna: cambiare piccoli utili (cappelli, lenze, dolci) accelera l'amicizia dei villaggi.
+- The trade with canoes is part of the Guna economy: changing small profits (hats, lines, sweets) accelerates the friendship of the villages.
 - Non pagare per ancorare alle isole oltre il permesso ufficiale: alcune "tasse private" sono abusive, segnalare al Congresso se richieste insistenti.
 
 Tabella artigiani
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026

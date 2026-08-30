@@ -1,6 +1,6 @@
-# 05 — Stagionalità e meteo
+# 05 — Seasonality & weather
 
-**Ultima verifica: 24/08/2026**
+**Last checked: 24/08/2026**
 
 ## Clima
 
@@ -37,4 +37,4 @@ Stagione **giugno–novembre**, picco agosto–ottobre. Trinidad e Tobago è esp
 - [Windy](https://www.windy.com) · [PassageWeather](http://www.passageweather.com) · [PredictWind](https://www.predictwind.com) ★★★ — modelli vento/houle per traversate.
 - [Barbados Weather / Met Office locale] — previsioni nazionali, dove disponibile. ★★
 
-Ultimo aggiornamento: 24/08/2026
+Last updated: 24/08/2026

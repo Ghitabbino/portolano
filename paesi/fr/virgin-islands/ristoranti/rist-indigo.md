@@ -1,18 +1,18 @@
 # Indigo Beach House
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Cane Garden Bay, Tortola |
-| Cucina | 🐟 Caraibica |
-| Specialità | — |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🏖️ baia famosa |
+| Zone | Cane Garden Bay, Tortola |
+| Cuisine | 🐟 Caraïbesca |
+| Spécialité | — |
+| Coût | 💰€€ per persona senza bevande |
+| Emplacement | 🏖️ baia famosa |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Indigo+Beach+House+Cane+Garden+Bay,+Tortola) |
-| Contatti | ND |
-| Valutazioni | Moorings blog → ★★ |
-| Orari | giorno |
+| Contacts | ND |
+| Évaluations | Moorings blog → ★★ |
+| Horaires | giorno |
 
 ## Menu
 
@@ -20,8 +20,8 @@
 
 **Chef**: ND
 
-## Foto
+## Photos
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Photos non ancora disponibili — recuperare al controllo mensile.*
 
 **Note**: Vicino alla distilleria Callwood

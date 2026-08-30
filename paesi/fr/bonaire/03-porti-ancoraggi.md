@@ -1,6 +1,6 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
-**Ultima verifica: 28/08/2026** · Coordinate in gradi decimali / N-W come da fonte · datum WGS84
+**Dernière vérification: 28/08/2026** · Coordinate in gradi decimali / N-W come da fonte · datum WGS84
 
 Bonaire è interamente circondata dal **Bonaire National Marine Park**: **ancorare è vietato** ovunque (fondale corallino) tranne i tradizionali pescherecci <4 m con pietra corallina. La sosta legale è solo su **mooring STINAPA** (boe) o all'ormeggio in marina. Tutte le operazioni doganali avvengono a **Kralendijk** (unico porto d'ingresso). [STINAPA — Mooring](https://stinapabonaire.org/rules-and-regulations/mooring/) ★★★★★; [STINAPA Boating PDF](https://stinapabonaire.org/wp-content/uploads/2018/08/Boating.pdf) ★★★★★; [InfoBonaire — Yachting & Cruising](https://infobonaire.com/getting-to-bonaire/yachting-cruising/) ★★★
 
@@ -14,13 +14,13 @@ Tutta la costa occidentale da Harbour Village a sud di Kralendijk è sottovento 
 - Marina a servizio completo: **60 posti** per yacht fino a **60 ft** + un molo per mega-yacht fino a **240 ft (Ambar Point)**; 30/50 A e 50 Hz, acqua, diesel/benzina, bunker >10.000 l via Curoil, pump-out, WiFi, docce, lavanderia, parcheggio, sicurezza. [Harbour Village Marina](https://www.harbourvillage.com/bonaire-marina) ★★★★
 - Gestione **boe overnight STINAPA per visitatori**: assegnazione first-come first-served via Harbour Village Marina, pagamento in loco; usare **cima propria ≥6 m** (non legarsi direttamente alla boa), una barca per boa, max **18 m (55–58 ft)**, holding tank obbligatorio, no attività commerciali a bordo, rispetto durata visto. [STINAPA](https://stinapabonaire.org/rules-and-regulations/mooring/) ★★★★★
 - Dinghy dock: tender al **Karel's Bar** (consumazione gradita) o molo Dogana (posti ufficiali — lasciare spazio). Chiudere sempre tender e fuoribordo. ★★
-- Contatti: tel **+599 717 7419** / WhatsApp **+599 701 7500** · dockmaster@harbourvillage.com · Orari: lun–ven 8:30–12:00 & 13:30–17:00, sab 8:00–13:00. [Harbour Village Marina](https://www.harbourvillage.com/bonaire-marina) ★★★★
+- Contacts: tel **+599 717 7419** / WhatsApp **+599 701 7500** · dockmaster@harbourvillage.com · Horaires: lun–ven 8:30–12:00 & 13:30–17:00, sab 8:00–13:00. [Harbour Village Marina](https://www.harbourvillage.com/bonaire-marina) ★★★★
 - Protezione: buon riparo dagli alisei; esposta a swell da nord/ovest — verificare bollettino locale prima dell'ingresso, soprattutto con fronti freddi invernali. ★★
 
 ### Plaza Marina (Van der Valk Plaza Beach & Dive Resort)
-- **J.A. Abraham Blvd 80, Kralendijk (~12°08,6' N 68°16,5' W — DATO MANCANTE coordinata ufficiale verificata)** · tel **+599 717 2500** / marina@bonaire.valk.com · VHF DATO MANCANTE ★★★
+- **J.A. Abraham Blvd 80, Kralendijk (~12°08,6' N 68°16,5' W — DONNÉE MANQUANTE coordinata ufficiale verificata)** · tel **+599 717 2500** / marina@bonaire.valk.com · VHF DONNÉE MANQUANTE ★★★
 - Marina interna al resort, a pochi minuti a piedi da Kralendijk centro; posti galleggianti per imbarcazioni da diporto e charter (Bonaire Yacht Charters), accesso resort (piscine, PADI 5★ dive). Ideale per chi pernotta al resort o per sosta breve con servizi alberghieri. [Plaza Resort — Marina](https://www.plazaresortbonaire.com/en/facilities/marina) ★★★
-- Gestione berths via **Plaza Boat Club**: sorveglianza 24/7, gated access, alaggio e protezione uragani, carburante/acqua/corrente in banchina. Tariffe vedi sotto. [Plaza Boat Club](https://plazaboatclub.com/) ★★★
+- Gestione berths via **Plaza Boat Club**: sorveglianza 24/7, gated access, alaggio e protezione uragani, carburante/acqua/corrente in banchina. Tarifs vedi sotto. [Plaza Boat Club](https://plazaboatclub.com/) ★★★
 
 ### Klein Bonaire
 - Isola disabitata a **0,8 km (0,4 M)** sottovento a Kralendijk, riserva naturale e tartarughe. Solo **mooring gialli/blu day-use max 2 h** (una barca >4 m per boa o fino a 3 tender <4 m), **pernotto vietato**; max **13 m**. Rispettare reef e sentieri subacquei. [STINAPA](https://stinapabonaire.org/rules-and-regulations/mooring/) ★★★★★
@@ -29,17 +29,17 @@ Tutta la costa occidentale da Harbour Village a sud di Kralendijk è sottovento 
 - Decine di boe pubbliche gialle/blu lungo la costa diving (Buddy Dive, Harbour Village, Eden Beach ecc.): uso **max 2 h consecutive**, first-come first-served, non per pernotto. Boe private (bianco/giallo/arancio) riservate a residenti con permesso STINAPA (waitlist ~3 anni) — **non utilizzabili da visitatori**. [STINAPA](https://stinapabonaire.org/rules-and-regulations/mooring/) ★★★★★
 
 ## Costa sopravvento (est), Lac Bay e Washington Slagbaai — non praticabili per sosta notturna
-- Costa orientale esposta all'Atlantico, reef continuo, frangenti e assenza di ripari: **nessun porto, nessuna boa, nessun ancoraggio consigliabile** per yacht da diporto. Lac Bay (laguna sud-est, RAMSAR/mangrovie) è riserva e area kitesurf con fondale bassissimo — non adatta a barche a vela. Washington Slagbaai (nord-ovest) è parco terrestre, senza strutture nautiche. Avvicinarsi solo con meteo stabile e supporto locale, mai per pernotto. ★★
+- Costa orientale esposta all'Atlantique, reef continuo, frangenti e assenza di ripari: **nessun porto, nessuna boa, nessun ancoraggio consigliabile** per yacht da diporto. Lac Bay (laguna sud-est, RAMSAR/mangrovie) è riserva e area kitesurf con fondale bassissimo — non adatta a barche a vela. Washington Slagbaai (nord-ovest) è parco terrestre, senza strutture nautiche. Avvicinarsi solo con meteo stabile e supporto locale, mai per pernotto. ★★
 
-## Tariffe ormeggi e marine
+## Tarifs d’amarrage & marinas
 
-> Stesse voci per tutti i paesi; **DATO MANCANTE** = da ricercare al controllo mensile.
+> Stesse voci per tutti i paesi; **DONNÉE MANQUANTE** = da ricercare al controllo mensile.
 
 ### Harbour Village Marina — listino ufficiale 2026 (USD per piede al giorno, 6% Govt Sales Tax esclusa) ★★★★
 
-Pagamenti anticipati, check-out a mezzogiorno. Prenotazione: [Request Slip](https://www.harbourvillage.com/bonaire-marina). Fonte: [Harbour Village — Marina Rates & Services](https://www.harbourvillage.com/bonaire-marina). Minimo Dock A&B 40 ft.
+Pagamenti anticipati, check-out a mezzogiorno. Prenotazione: [Request Slip](https://www.harbourvillage.com/bonaire-marina). Source: [Harbour Village — Marina Rates & Services](https://www.harbourvillage.com/bonaire-marina). Minimo Dock A&B 40 ft.
 
-| Voce | Costo | Note |
+| Rubrique | Coût | Note |
 |---|---|---|
 | Posto pontile Dock A & B (40–50 ft) — notte | **1,50 USD/ft/giorno** | Settimanale 1,20 · mensile 0,85 · commerciale/charter 1,30 (solo mensile) |
 | Posto in-between boats (max 40 ft) | **0,85 USD/ft/giorno** | Settimanale 0,75 · mensile 0,65 |
@@ -49,8 +49,8 @@ Pagamenti anticipati, check-out a mezzogiorno. Prenotazione: [Request Slip](http
 | Lighthouse (35–65 ft) | **0,95 USD/ft/giorno** | Settimanale 0,85 · mensile 0,80 · commerciale 1,30 |
 | Promenade (min. 15 USD/slip/giorno) | **0,88 USD/ft/giorno** | Settimanale 0,77 · mensile 0,70 |
 | Catamarano ≤25 ft wide | **1,65 USD/ft/giorno** | Settimanale 1,49 · mensile 1,35 · A&B + supplemento se >25 ft |
-| Elettricità 50 Hz | **0,75 USD/kWh** | 127–130V 30A e 230–240V 50A |
-| Acqua di banchina | **0,10 USD/gal (~26 USD/m³)** | Desalinizzata potabile |
+| Électricité 50 Hz | **0,75 USD/kWh** | 127–130V 30A e 230–240V 50A |
+| Eau di banchina | **0,10 USD/gal (~26 USD/m³)** | Desalinizzata potabile |
 | Pump-out | **Incluso** per ospiti marina; **40 USD** a svuotamento per boe town (fino ad adeguamento tariffa) | [All At Sea 01/04/2022 — pump-out](https://www.allatsea.net/new-pump-out-services-at-bonaires-harbour-village-marina) ★★★ |
 | Propano | **4,50 USD/lb** | |
 | Ghiaccio | **4,00 USD/sacco** | |
@@ -58,39 +58,39 @@ Pagamenti anticipati, check-out a mezzogiorno. Prenotazione: [Request Slip](http
 
 ### Plaza Marina / Plaza Boat Club — listino berths 2025-26 (USD per piede al giorno, tax esclusa) ★★★
 
-| Voce | Costo | Note |
+| Rubrique | Coût | Note |
 |---|---|---|
 | Storage (a secco) | **0,45 USD/ft/giorno** | Contratto annuale fatturato mensile/trimestrale/annuale; visitatori giornaliero |
-| Floating dock | **0,60 USD/ft/giorno** | Acqua/corrente a consumo |
+| Floating dock | **0,60 USD/ft/giorno** | Eau/corrente a consumo |
 | Renovated berth | **1,00 USD/ft/giorno** | — |
 | Live aboard | **1,00 USD/ft/giorno** | — |
-| Catamarano / beam largo | **DATO MANCANTE** supplemento | Chiedere a sales@plazaboatclub.com |
+| Catamarano / beam largo | **DONNÉE MANQUANTE** supplemento | Chiedere a sales@plazaboatclub.com |
 
-Fonte: [Plaza Boat Club — Berth rates](https://plazaboatclub.com/) ★★★; [Plaza Resort](https://www.plazaresortbonaire.com/en/facilities/marina) ★★★
+Source: [Plaza Boat Club — Berth rates](https://plazaboatclub.com/) ★★★; [Plaza Resort](https://www.plazaresortbonaire.com/en/facilities/marina) ★★★
 
 ### Boe e ormeggi STINAPA per visitatori (overnight vs day-use) ★★★★★
 
-| Voce | Costo | Note |
+| Rubrique | Coût | Note |
 |---|---|---|
-| Boa overnight bicolore (visitatori, 30–51 boe) — notte | **35 USD** | First-come first-served, max 18 m, tramite Harbour Village Marina; pagamento in loco [InfoBonaire](https://infobonaire.com/getting-to-bonaire/yachting-cruising/) ★★★ ; [STINAPA 2023](https://stinapabonaire.org/rules-and-regulations/mooring/) ★★★★★ ; stagionale 2022: 11 USD (10+1) hurricane season [Bonaire Reporter 27/05/2022] ★★ |
-| Boa day-use gialla/blu — 2 h | **Gratuita / inclusa Nature Fee** | Max 2 h consecutive, max 13 m, una barca >4 m per boa |
-| Boa privata (residenti) | **1.000 USD/anno** | Riservata residenti con sédula, waitlist ~3 anni — non utilizzabile |
-| Ancoraggio libero | **Vietato** | Ovunque nel Parco Marino (fino a batimetrica), sanzione fino a 2.800 USD + reclusione ★★★ |
+| Bouée overnight bicolore (visitatori, 30–51 boe) — notte | **35 USD** | First-come first-served, max 18 m, tramite Harbour Village Marina; pagamento in loco [InfoBonaire](https://infobonaire.com/getting-to-bonaire/yachting-cruising/) ★★★ ; [STINAPA 2023](https://stinapabonaire.org/rules-and-regulations/mooring/) ★★★★★ ; stagionale 2022: 11 USD (10+1) hurricane season [Bonaire Reporter 27/05/2022] ★★ |
+| Bouée day-use gialla/blu — 2 h | **Gratuita / inclusa Nature Fee** | Max 2 h consecutive, max 13 m, una barca >4 m per boa |
+| Bouée privata (residenti) | **1.000 USD/anno** | Riservata residenti con sédula, waitlist ~3 anni — non utilizzabile |
+| Mouillage libero | **Vietato** | Ovunque nel Parco Marino (fino a batimetrica), sanzione fino a 2.800 USD + reclusione ★★★ |
 
-### Altre strutture
+### Autres infrastructures
 
-| Struttura | Costo/note | Fonte |
+| Infrastructure | Coût/notes | Source |
 |---|---|---|
-| Bonaire Nautico Marina | DATO MANCANTE — chiedere +599 9560 7254 | [InfoBonaire — List of Marinas](https://infobonaire.com/getting-to-bonaire/yachting-cruising/) ★★★ |
-| Ocean Breeze Marina | DATO MANCANTE — chiedere +599 786 3006 | ★★★ |
+| Bonaire Nautico Marina | DONNÉE MANQUANTE — chiedere +599 9560 7254 | [InfoBonaire — List of Marinas](https://infobonaire.com/getting-to-bonaire/yachting-cruising/) ★★★ |
+| Ocean Breeze Marina | DONNÉE MANQUANTE — chiedere +599 786 3006 | ★★★ |
 
-> **Inclusioni e condizioni comuni**: dockage pagato anticipato; lunghezza fatturata = LOA + engines per alongside; catamarano + supplemento se >25 ft wide (A&B); orario ufficio Harbour Village lun–ven 8:30–12 & 13:30–17, sab 8–13; fuori orario occupa boa libera e presentati la mattina successiva via VHF 17. Verificare prima della traversata disponibilità in alta stagione (dic–apr).
+> **Inclusioni e condizioni comuni**: dockage pagato anticipato; lunghezza fatturata = LOA + engines per alongside; catamarano + supplemento se >25 ft wide (A&B); orario ufficio Harbour Village lun–ven 8:30–12 & 13:30–17, sab 8–13; fuori orario occupa boa libera e presentati la mattina successiva via VHF 17. Vérifier prima della traversata disponibilità in alta stagione (dic–apr).
 
-⚠️ **Da verificare prima della crociera**: disponibilità boe overnight e posti marina in alta stagione (dic–apr) — chiamare Harbour Village prima della traversata; tariffe aggiornate Plaza Marina; eventuali variazioni VHF 17 vs 12 e orari Dogana/IND; restrizioni temporanee Parco Marino (es. nidificazione tartarughe su Klein Bonaire).
+⚠️ **À vérifier avant la croisière**: disponibilità boe overnight e posti marina in alta stagione (dic–apr) — chiamare Harbour Village prima della traversata; tariffe aggiornate Plaza Marina; eventuali variazioni VHF 17 vs 12 e orari Dogana/IND; restrizioni temporanee Parco Marino (es. nidificazione tartarughe su Klein Bonaire).
 
-## Distanze utili
+## Distances utiles
 
-| Tratta | Distanza | Note |
+| Trajet | Distance | Note |
 |---|---|---|
 | Bonaire — Klein Bonaire | **0,4 M (0,8 km)** | Attraverso canale occidentale ★★★★★ [STINAPA] |
 | Bonaire (Kralendijk) — Curaçao (Willemstad) | **~38–45 M (70–83 km)** | Traversata ABC sottovento, rilevata da carta ★★ |
@@ -100,4 +100,4 @@ Fonte: [Plaza Boat Club — Berth rates](https://plazaboatclub.com/) ★★★; 
 
 Distanze in miglia nautiche (M), rilevate su carta nautica — verificare con cartografia ufficiale e condizioni meteo.
 
-Ultimo aggiornamento: 28/08/2026
+Dernière mise à jour: 28/08/2026

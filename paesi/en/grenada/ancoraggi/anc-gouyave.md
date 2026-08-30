@@ -1,20 +1,20 @@
 # Gouyave (costa ovest) {#anc-gouyave}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← All anchorages](../08-ancoraggi.md)
 **12°13′48″ N 61°43′48″ W** ★★
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| **Profondità** |**DATO MANCANTE**|
-| **Tenuta àncora** |Sosto diurna|
-| **Venti/riparo** |Costa sottovento|
-| **Pericoli** |Molo imponente ma trafficato dai pescherecci: quasi inutilizzabile se non per sbarcare|
-| **Boe/divieti/normative** |—|
-| **A terra** |Capitale della pesca: fish friday|
+| **Depth** |**DATA MISSING**|
+| **Holding** |Sosto diurna|
+| **Winds/Shelter** |Costa sottovento|
+| **Hazards** |Pier imponente ma trafficato dai pescherecci: quasi inutilizzabile se non for sbarcare|
+| **Buoys/Restrictions/Regulations** |—|
+| **Ashore** |Capitale of the pesca: fish friday|
 
 <div class="mapframe" data-slug="anc-gouyave" data-lat="12.23" data-lon="-61.73"></div>
-*Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
+*Detail chart — zoom in to the bay · offline chart · approximate WGS84 coordinates, always verify with your chartplotter*
 
 Fonti: Doyle Guides ★★★ · Navily ★★ · [DA VERIFICARE SATELLITE]
 
-Ultimo aggiornamento: 28/08/2026
+Last updated: 28/08/2026

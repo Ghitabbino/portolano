@@ -1,13 +1,13 @@
 # Champers
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | Zona | Christ Church — Rockley / Accra Beach (tra Bridgetown e Oistins) |
 | Cucina | 🐟 Pesce creolo contemporaneo + 🍽️ internazionale |
 | Specialità | *Wahoo carpaccio · seared tuna · lobster (in stagione) · chocolate fondant · sunset cocktails* |
-| Costo | 💰€€€ per persona senza bevande (~120–180 BBD) |
+| Costo | 💰€€€ per person without drinks (~120–180 BBD) |
 | Location | 🌅 terrazza sul mare, fine dining pieds dans l’eau con vetrate — tramonto su Carlisle a nord |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Champers+Restaurant+Rockley+Barbados) |
 | Contatti | Skeetes Hill, Rockley, Christ Church · tel +1 246 434-3463 · [champersbarbados.com](https://www.champersbarbados.com) |
@@ -23,8 +23,8 @@
 - Carta vini internazionale + rum bar
 
 <div class="mapframe" data-slug="rist-champers" data-lat="13.0725" data-lon="-59.596"></div>
-*Cartina di dettaglio — posizione a terra rispetto alla barca · zoom ±*
+*Cartina di dettaglio — posizione a terra rispetto alla yacht · zoom ±*
 
-Fonti: [barbados.org — Champers](https://barbados.org/orestloc.htm) ★★★ · [Totally Barbados — Champers](https://www.totallybarbados.com/place/champers-restaurant/) ★★★ · [champersbarbados.com](https://www.champersbarbados.com) ★★★ · TripAdvisor 28/08/2026 ★★★
+Sources: [barbados.org — Champers](https://barbados.org/orestloc.htm) ★★★ · [Totally Barbados — Champers](https://www.totallybarbados.com/place/champers-restaurant/) ★★★ · [champersbarbados.com](https://www.champersbarbados.com) ★★★ · TripAdvisor 28/08/2026 ★★★
 
-Ultimo aggiornamento: 28/08/2026
+Last updated: 28/08/2026

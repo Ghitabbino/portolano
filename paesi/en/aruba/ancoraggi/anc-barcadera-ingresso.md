@@ -1,20 +1,20 @@
 # Barcadera — boa d'ingresso {#anc-barcadera-ingresso}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← All Anchorages](../08-ancoraggi.md)
 **12°28′50″ N 70°00′26″ W** ★★★
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| **Profondità** |>12 m alla voce|
-| **Tenuta àncora** |— (canale)|
-| **Venti/riparo** |—|
-| **Pericoli** |Unica porta di sdoganamento attuale|
-| **Boe/divieti/normative** |Coordinata riscontrata su 3 fonti indipendenti|
-| **A terra** |Terminal Barcadera|
+| **Depth** |>12 m alla voce|
+| **Holding** |— (canale)|
+| **Wind/Shelter** |—|
+| **Hazards** |Unica porta di sdoganamento attuale|
+| **Buoys/Restrictions/Regulations** |Coordinata riscontrata su 3 fonti indipendenti|
+| **Ashore** |Terminal Barcadera|
 
 <div class="mapframe" data-slug="anc-barcadera-ingresso" data-minz="12" data-maxz="17" data-lat="12.4806" data-lon="-70.0072"></div>
-*Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
+*Detailed chart — zoom ± to the bay · offline map · WGS84 coordinates indicative, always verify with your plotter*
 
-Fonti: Noonsite ★★★ · Aruba Ports ★★★★
+Sources: Noonsite ★★★ · Aruba Ports ★★★★
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

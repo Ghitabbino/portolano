@@ -1,49 +1,49 @@
-# 01 — Clearance doganale della barca
+# 01 — Yacht Customs Clearance
 
-**Ultima verifica: 27/08/2026**
+**Last checked: 27/08/2026**
 
-## Chi deve farla
+## Who Must Clear
 
-**DATO MANCANTE** — verificare su fonte governativa algeria (Capitaneria / Port Authority) chi deve effettuare la clearance in entrata/uscita e negli spostamenti interni. ★★★★★
+**DATA MISSING** — check on government source algeria (Capitaneria / Port Authority) chi deve effettuare la clearance in entrata/uscita e negli spostamenti interni. ★★★★★
 
-## Procedura
+## Procedure
 
-| Passo | Dettaglio | Fonte |
+| Step | Detail | Source |
 |---|---|---|
-| Dichiarazione online/cartacea | **DATO MANCANTE** | **DATO MANCANTE** |
-| Documenti richiesti | **DATO MANCANTE** — passaporti equipaggio, documenti barca, lista equipaggio | **DATO MANCANTE** |
-| Punti di ingresso (port of entry) | **DATO MANCANTE** | **DATO MANCANTE** |
+| Dichiarazione online/cartacea | **DATA MISSING** | **DATA MISSING** |
+| Documenti richiesti | **DATA MISSING** — passaporti equipaggio, documenti yacht, lista equipaggio | **DATA MISSING** |
+| Punti di ingresso (port of entry) | **DATA MISSING** | **DATA MISSING** |
 
-## Copia cartacea e timbro
+## Paper Copy & Stamp
 
-**DATO MANCANTE**.
+**DATA MISSING**.
 
-## Costi
+## Fees
 
-| Voce | Costo | Fonte |
+| Item | Cost | Source |
 |---|---|---|
-| Dichiarazione / cruising permit | **DATO MANCANTE** | **DATO MANCANTE** |
-| Tassa di soggiorno / light dues | **DATO MANCANTE** | **DATO MANCANTE** |
+| Dichiarazione / cruising permit | **DATA MISSING** | **DATA MISSING** |
+| Tassa di soggiorno / light dues | **DATA MISSING** | **DATA MISSING** |
 
-## Punti agréé / porti d'ingresso
+## Ports of Entry / Designated Ports
 
-**DATO MANCANTE** — elenco porti abilitati all'ingresso internazionale per diporto.
+**DATA MISSING** — elenco porti abilitati all'ingresso internazionale per diporto.
 
-## Dogana regionale
+## Regional Customs
 
-**DATO MANCANTE**.
+**DATA MISSING**.
 
-## Esperienze di naviganti
+## Cruisers' Experiences
 
-**DATO MANCANTE**.
+**DATA MISSING**.
 
-## Sanzioni
+## Penalties
 
-**DATO MANCANTE** — verificare sanzioni per mancata clearance.
+**DATA MISSING** — verificare sanzioni per mancata clearance.
 
-## Da verificare prima della partenza
+## To Verify Before Departure
 
 - Lista porti d'ingresso aggiornata su fonte ufficiale Algeria.
 - Orari e procedure Capitaneria / Harbour Master.
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

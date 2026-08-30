@@ -1,20 +1,20 @@
 # Loubiere / Pottersville (sud Roseau) {#anc-loubiere-pottersville}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← All anchorages](../08-ancoraggi.md)
 **15°16′12″ N 61°22′44″ W** ★★
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| **Profondità** |**DATO MANCANTE**|
-| **Tenuta àncora** |Pottersville buona tenuta ma roll frequente (NFL ★3.2); Loubiere pochissimi spot su pendio ripido con boe private (NFL ★3.4)|
-| **Venti/riparo** |Ancoraggi marginali da usare solo come tappa tecnica verso/sud di Roseau|
-| **Pericoli** |Roll frequente; solo arrivo di giorno [DA VERIFICARE SATELLITE]|
-| **Boe/divieti/normative** |—|
-| **A terra** |Pottersville Fish Harbour|
+| **Depth** |**DATA MISSING**|
+| **Holding** |Pottersville buona tenuta ma roll frequente (NFL ★3.2); Loubiere pochissimi spot on pendio ripido with boe private (NFL ★3.4)|
+| **Winds/Shelter** |Ancoraggi marginali from usare only as tappa tecnica verso/sud of Roseau|
+| **Hazards** |Roll frequente; only arrivo of giorno [DA VERIFICARE SATELLITE]|
+| **Buoys/Restrictions/Regulations** |—|
+| **Ashore** |Pottersville Fish Harbour|
 
 <div class="mapframe" data-slug="anc-loubiere-pottersville" data-lat="15.27" data-lon="-61.379"></div>
-*Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
+*Detail chart — zoom in to the bay · offline chart · approximate WGS84 coordinates, always verify with your chartplotter*
 
 Fonti: noforeignland anchorages "Pottersville Fish Harbour", "Loubiere" (agg. 26-01-2026) ★★ · [DA VERIFICARE SATELLITE]
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

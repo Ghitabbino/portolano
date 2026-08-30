@@ -1,18 +1,18 @@
 # Basil's Bar
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Britannia Bay |
-| Cucina | 🐟 Caraibica iconica |
-| Specialità | Lobster · sunset |
-| Costo | 💰€€€ per persona senza bevande |
-| Location | 🌴 sul molo, leggendaria |
+| Zone | Britannia Bay |
+| Cuisine | 🐟 Caraïbesca iconica |
+| Spécialité | Lobster · sunset |
+| Coût | 💰€€€ per persona senza bevande |
+| Emplacement | 🌴 sul molo, leggendaria |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Basil's+Bar+Britannia+Bay) |
-| Contatti | via Mustique Company |
-| Valutazioni | Google positiva → ★★★★ |
-| Orari | lunch & dinner · Blues Festival ultima sett. gennaio |
+| Contacts | via Mustique Company |
+| Évaluations | Google positiva → ★★★★ |
+| Horaires | lunch & dinner · Blues Festival ultima sett. gennaio |
 
 ## Menu
 
@@ -21,8 +21,8 @@
 
 **Chef**: ND
 
-## Foto
+## Photos
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Photos non ancora disponibili — recuperare al controllo mensile.*
 
 **Note**: Sul molo di Britannia Bay · jump-up il mercoledì · mustique-island.com

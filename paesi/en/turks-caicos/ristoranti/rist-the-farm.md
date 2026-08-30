@@ -7,7 +7,7 @@
 | Zona | Grace Bay (Seven Stars — hydroponic farm) |
 | Cucina | 🥗 Farm-to-table / internazionale |
 | Specialità | *Verdure idroponiche · sushi & dim sum (mar)* |
-| Costo | 💰€€€ per persona senza bevande |
+| Costo | 💰€€€ per person without drinks |
 | Location | 🌴 outdoor chic — orto idroponico |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=The+Farm+Grace+Bay+Providenciales) |
 | Contatti | +1 (649) 941-7777 |

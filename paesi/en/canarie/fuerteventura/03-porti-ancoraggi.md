@@ -1,32 +1,32 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
-Ultimo aggiornamento: 22/08/2026 · Cartografia ufficiale Navionics/C-MAP/IHM.
+Last updated: 22/08/2026 · Official Charts Navionics/C-MAP/IHM.
 
 ## Marine
 
-| Marina | Zona | Note |
+| Marina | Area | Note |
 |---|---|---|
 | **Caleta de Fuste** | Centro-est | Marina riparata comoda, buona tappa centrale; villaggio turistico quieto |
-| Corralejo | Nord | Turistica, vicina a Lobos e Bocaina; attracci e pontili |
+| Corralejo | Nord | Turistica, vicina a Lobos and Bocaina; attracci and pontili |
 | Morro Jable | Sud | Porto peschereccio+diporti, ferry Gran Canaria |
 | Gran Tarajal | Est | Locale, tranquillo, pontile diporti |
-| Puerto del Rosario | Capoluogo | Commerciale; attracco diporti limitato |
+| Puerto of the Rosario | Capoluogo | Commerciale; attracco diporti limitato |
 
 ## Isla de Lobos
 
-| Aspetto | Dettaglio |
+| Aspetto | Detail |
 |---|---|
-| Stato | Parque Natural — ancoraggio regolamentato/giornaliero ⚠️ verificare regole aggiornate sul posto (autorizzazione online in passato) |
+| Stato | Parque Natural — ancoraggio regolamentato/giornaliero ⚠️ check regole aggiornate sul posto (autorizzazione online in passato) |
 | Fondo | Sabbia nelle calette nord |
-| Frequentazione | Molto affollata di giorno (day boats), deserto la notte |
+| Frequentazione | Molto affollata of giorno (day boats), deserto la notte |
 
-⛔ Costa ovest (El Cotillo, Cofete): swell atlantico costante, nessun riparo — evitare.
+⛔ Costa ovest (El Cotillo, Cofete): swell atlantico costante, no riparo — evitare.
 
-## Tariffe indicative
+## Indicative Tariffs
 
-| Struttura | Costo | Note |
+| Facility | Cost | Note |
 |---|---|---|
-## Contatti portuari verificati
+## Contacts portuari verificati
 
 | Porto | Posti | Telefono |
 |---|---|---|
@@ -34,14 +34,14 @@ Ultimo aggiornamento: 22/08/2026 · Cartografia ufficiale Navionics/C-MAP/IHM.
 | Corralejo | 110 | **928 866 524** ★★★★ |
 | Morro Jable | 50 (fino 30 m) | **928 540 374** ★★★★ |
 | Gran Tarajal | 170 | **928 164 101** ★★★★ |
-| Puerto del Rosario | 184 | **928 860 200** ★★★★ |
+| Puerto of the Rosario | 184 | **928 860 200** ★★★★ |
 
-## Distanze utili
+## Useful Distances
 
-| Tratta | Distanza | Note |
+| Passage | Distance | Note |
 |---|---|---|
 | Corralejo – Arrecife via Bocaina | ~15–20 Mm | Vento accelerato: mattina |
-| Caleta de Fuste – Las Palmas | ~50 Mm | Facile con aliseo ≤20 kn |
+| Caleta de Fuste – Las Palmas | ~50 Mm | Facile with aliseo ≤20 kn |
 | Morro Jable – Puerto de Mogán (GC) | ~20 Mm | Stretto meridionale |
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

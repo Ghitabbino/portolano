@@ -7,7 +7,7 @@
 | Zona | Turtle Cove |
 | Cucina | 🥩 Italiana / pesce |
 | Specialità | *Wahoo locale · pasta fresca · risotti* |
-| Costo | 💰€€€ per persona senza bevande |
+| Costo | 💰€€€ per person without drinks |
 | Location | ⚓ marina — dock restaurant elegante |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Baci+Ristorante+Turtle+Cove+Providenciales) |
 | Contatti | +1 (649) 941-3044 · [bacitci.com](https://www.bacitci.com) |

@@ -1,32 +1,32 @@
 # Chez Wen Cuisine
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| Zona | Scotts Head — bayside del villaggio |
-| Cucina | 🐟 Creola / seafood boil |
-| Specialità | Seafood boil del giovedì (lobster, mussels, crab legs, crayfish) · fresh seafood · chicken creolo |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🌅 open-air bayside, vista baia di Soufrière/Scotts Head |
+| Area | Scotts Head — bayside of the villaggio |
+| Cuisine | 🐟 Creola / seafood boil |
+| Speciality | Seafood boil of the giovedì (lobster, mussels, crab legs, crayfish) · fresh seafood · chicken creolo |
+| Cost | 💰€€ for persona without bevande |
+| Setting | 🌅 open-air bayside, vista baia of Soufrière/Scotts Head |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chez+Wen+Cuisine+Scotts+Head+Dominica) |
-| Contatti | via [Facebook](https://www.facebook.com/chezwencuisine/) |
-| Valutazioni | Destination Magazines ★★★ · Google **DATO MANCANTE** |
-| Orari | Pranzo e cena; seafood boil il **giovedì** — verificare su FB |
+| Contacts | via [Facebook](https://www.facebook.com/chezwencuisine/) |
+| Ratings | Destination Magazines ★★★ · Google **DATA MISSING** |
+| Hours | Pranzo and cena; seafood boil il **giovedì** — check on FB |
 
 ## Menu
 
-- Fresh seafood del giorno (pescato locale)
-- Chicken creole con ingredienti locali
+- Fresh seafood of the giorno (pescato locale)
+- Chicken creole with ingredienti locali
 - Seafood boil (gio): lobster, mussels, crab legs, crayfish
-- Succhi tropicali e rum
+- Succhi tropicali and rum
 
 **Chef**: Wen
 
 ## Note
 
-Ristorante perfettamente situato a Scotts Head, affacciato sulla baia; cucina creola con ingredienti locali. Il giovedì è l'evento seafood boil più noto del sud. Raggiungibile a piedi dal dinghy dock di Scotts Head (boe LAMA) o da Soufrière. Consigliata prenotazione il giovedì.
+Ristorante perfettamente situato a Scotts Head, affacciato sulla baia; cucina creola with ingredienti locali. Il giovedì è l'evento seafood boil more noto of the sud. Raggiungibile a piedi dal dinghy dock of Scotts Head (boe LAMA) or from Soufrière. Consigliata prenotazione il giovedì.
 
 Fonti: [Destination Magazines](https://destination-magazines.com/10-best-restaurants-in-dominica/) ★★★ · [Facebook](https://www.facebook.com/chezwencuisine/) ★★
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

@@ -1,6 +1,6 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
-Ultimo aggiornamento: 22/08/2026 · Coordinate indicative; navigare con cartografia ufficiale. **Fogo è l'approccio più difficile del Sotavento: onestamente, per la maggior parte degli yacht non vale il rischio.**
+Last updated: 22/08/2026 · Coordinate indicative; navigare con cartografia ufficiale. **Fogo è l'approccio più difficile del Sotavento: onestamente, per la maggior parte degli yacht non vale il rischio.**
 
 ## La realtà nautica dell'isola
 
@@ -22,36 +22,36 @@ Spiaggia e piccolo porto pesca; leggermente più riparato dal NE ma sempre espos
 
 ## Consenso onesto
 
-La maggior parte dei circumnavigatori vede Fogo **da terra**: ferry da Praia o volo interno. Chi ci va in barca lo fa da Brava (22 Mm) in una finestra di calma, resta di giorno e riparte la sera. Pianificare così, non come tappa "comoda".
+La maggior parte dei circumnavigatori vede Fogo **da terra**: ferry da Praia or volo interno. Chi ci va in yacht lo fa da Brava (22 Mm) in una finestra di calma, resta di giorno e riparte la sera. Pianificare così, non come tappa "comoda".
 
-## Distanze utili
+## Useful Distances
 
-| Tratta | Distanza | Note |
+| Passage | Distance | Note |
 |---|---|---|
 | Vale de Cavaleiros – Furna (Brava) | ~22 Mm | Breve ma mare corto e spiaccicato con aliseo pieno |
 | Fogo – Praia | ~90 Mm | Bolina lunga contro aliseo |
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026
 
-## Tariffe
-Ultimo aggiornamento: 22/08/2026
+## Tariffs
+Last updated: 22/08/2026
 
-## Tariffe ormeggi e marine
+## Berthing & Marina Tariffs
 
-| Voce | Costo | Note |
+| Item | Cost | Notes |
 |---|---|---|
-| Posto pontile/peschereccio | **DATO MANCANTE** — concordare in capitania/porto | Nessun listino turistico pubblicato |
-| Boa | **DATO MANCANTE** | |
+| Posto pontile/peschereccio | **DATA MISSING** — concordare in capitania/porto | Nessun listino turistico pubblicato |
+| Boa | **DATA MISSING** | |
 | Ancoraggio | **Gratuito** fuori zone regolamentate | |
-| Acqua | **DATO MANCANTE** | Chiedere in porto |
-| Elettricità | **DATO MANCANTE** | |
+| Acqua | **DATA MISSING** | Chiedere in porto |
+| Elettricità | **DATA MISSING** | |
 
-## Distanze utili
+## Useful Distances
 
-| Tratta | Distanza | Note |
+| Passage | Distance | Note |
 |---|---|---|
 | Mindelo – Sal | ~110 Mm | Aliseo NE |
 | Praia – Fogo | ~30 Mm | |
 | Fogo – Brava | ~15 Mm | |
 
-Ultimo aggiornamento: 24/08/2026
+Last updated: 24/08/2026

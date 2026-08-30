@@ -1,21 +1,21 @@
-# 02 — Costo della vita
+# 02 — Coût de la vie
 
-Valuta: USD. Prezzi indicativi 2025–2026; zona Colón più cara e meno fornita di Panama City.
+Devise: USD. Prezzi indicativi 2025–2026; zona Colón più cara e meno fornita di Panama City.
 
-## Alimentari e spesa di bordo
+## Alimentation & avitaillement
 
 | Prodotto | Prezzo |
 |---|---|
 | Birra locale (0,33) | $1,20–1,50 |
 | Caffè | $1,50–2 |
-| Acqua 6×1,5 L | $3–4 |
+| Eau 6×1,5 L | $3–4 |
 | Latte 1 L | $1,50 |
 | Riso/kg | $1,50 |
 | Pollo/kg | $4–5 |
 
-## Mangiare fuori
+## Restauration à terre
 
-| Voce | Prezzo |
+| Rubrique | Prezzo |
 |---|---|
 | Menu creolo (corvina, patacones) | $7–12 |
 | Ti-punch/locale (seco) al bar | $3–4 |
@@ -23,37 +23,37 @@ Valuta: USD. Prezzi indicativi 2025–2026; zona Colón più cara e meno fornita
 | Fascia alta (Casco Viejo) | $30+ |
 | Snack/arepas | $2–3 |
 
-## Carburanti
+## Carburants
 
 | Carburante | Prezzo/L |
 |---|---|
-| Gasolio marina | ~$1,10–1,30 (dock) — DATO MANCANTE tariffa Shelter Bay/Flamenco aggiornata |
+| Gasolio marina | ~$1,10–1,30 (dock) — DONNÉE MANQUANTE tariffa Shelter Bay/Flamenco aggiornata |
 | Benzina SP95 | ~$1,05 |
 | Bombola gas 10 kg | riempimento ~$10–12 |
 
-## Trasporti e collegamenti
+## Transports & liaisons
 
-| Mezzo | Dettaglio |
+| Mezzo | Détail |
 |---|---|
 | Bus Colón–Città | ~$5 (express, 1,5 h) |
 | Uber/taxi Panama City | economici e sicuri in città |
 | Noleggio auto | ~$35–45/giorno |
 | Treni panoramico Canale | turistico, non pendolare |
 
-## Servizi quotidiani
+## Services quotidiens
 
-| Servizio | Costo |
+| Servizio | Coût |
 |---|---|
 | Lavanderia | $8–15/carico (marine) |
 | SIM prepagata (+Movil/Tigo) | $10 con GB generosi |
-| Hull dive ispezione | DATO MANCANTE (diver a Linton/Shelter Bay su richiesta) |
+| Hull dive ispezione | DONNÉE MANQUANTE (diver a Linton/Shelter Bay su richiesta) |
 
-## Contanti e pagamenti
+## Espèces & paiements
 
 Carte accettate ovunque in città; contante necessario nelle zone rurali (Portobelo, Isla Grande) e per i piccoli servizi.
 
-## Approfondimenti
+## Pour approfondir
 
-Tariffe marine e ormeggi → [03-porti-ancoraggi.md](03-porti-ancoraggi.md); ristoranti → [10-ristoranti.md](10-ristoranti.md).
+Tarifs marine e ormeggi → [03-porti-ancoraggi.md](03-porti-ancoraggi.md); ristoranti → [10-ristoranti.md](10-ristoranti.md).
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026

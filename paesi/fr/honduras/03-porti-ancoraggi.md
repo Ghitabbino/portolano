@@ -1,26 +1,26 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
-**Ultima verifica: 25/08/2026**
+**Dernière vérification: 25/08/2026**
 
-| Porto/Marina | Note |
+| Port/Marina | Note |
 |---|---|
-| **Roatán — French Harbour** | Capitaneria di Porto; base servizi delle Bay Islands ★★★ |
-| **Roatán — West End / Half Moon Bay** | Ancoraggio comodo, ristoranti, diving ★★★ |
+| **Roatán — French Harbour** | Capitaneria di Port; base servizi delle Bay Islands ★★★ |
+| **Roatán — West End / Half Moon Bay** | Mouillage comodo, ristoranti, diving ★★★ |
 | **Roatán — Palmetto Bay Plantation Marina** | Marina con dock protetti e haul-out ★★ |
 | **Utila — porto/villaggio** | Capitaneria, diving economico ★★★ |
 | **Guanaja — Bonacca / El Bight** | Villaggio su palafitte; ancoraggio riparato ★★★ |
-| **La Ceiba (mainland)** | Porto per collegamenti; punto rifornimento grande ★★ |
+| **La Ceiba (mainland)** | Port per collegamenti; punto rifornimento grande ★★ |
 | **Puerto Cortés (mainland)** | POE commerciale principale ★★ |
-| **San Lorenzo/Amapala** | POE versante Pacifico (Golfo de Fonseca) ★★ |
+| **San Lorenzo/Amapala** | POE versante Pacifique (Golfo de Fonseca) ★★ |
 
-Ultimo aggiornamento: 25/08/2026
+Dernière mise à jour: 25/08/2026
 
-## Tariffe
+## Tarifs
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## Distanze utili
+## Distances utiles
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 

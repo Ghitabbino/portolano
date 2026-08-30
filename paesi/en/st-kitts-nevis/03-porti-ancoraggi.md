@@ -1,17 +1,17 @@
-# Porti e marine
+# Ports & marinas
 
-**Ultimo aggiornamento: 23/08/2026**
+**Last updated: 23/08/2026**
 
 > ⚠️ Pagina in preparazione: dati in raccolta.
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026
 
 ## Tariffe
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
 ## Distanze utili
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 

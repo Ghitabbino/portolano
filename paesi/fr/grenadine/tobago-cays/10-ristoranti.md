@@ -1,12 +1,12 @@
-# 10 — Ristoranti
+# 10 — Restaurants
 
 Nei Cays si cena con i pescatori locali: barbecue su ordine la sera.
 
-Legenda: **€** <20 · **€€** 20–40 · **€€€** >40 — prezzi in EC$ (~0,37 EUR)
+Légende: **€** <20 · **€€** 20–40 · **€€€** >40 — prezzi in EC$ (~0,37 EUR)
 
-## Griglia generale
+## Grille générale
 
-| Ristorante | Costo | Specialità | Location |
+| Ristorante | Coût | Spécialité | Emplacement |
 |---|---|---|---|
 | Beach BBQ dei pescatori | **€€** | Aragosta · pesce fresco · rum punch | 🔥 sulle spiagge delle cays, su ordinazione VHF |
 
@@ -14,4 +14,4 @@ Legenda: **€** <20 · **€€** 20–40 · **€€€** >40 — prezzi in EC
 
 Google Maps recensioni · contatto diretto VHF/WhatsApp · prenotare aragosta al mattino
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026

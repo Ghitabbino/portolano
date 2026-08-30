@@ -58,5 +58,6 @@ Ultimo aggiornamento: 27/08/2026
 
 ## Salvataggio ed emergenze
 
-**DATO MANCANTE** — da completare al controllo mensile.
+- **Emergenze**: **112** (dove disponibile) / **911** Americhe · **VHF 16** · MRCC locale via marina. Portare EPIRB/PLB. ★★
+- **Assistenza medica**: ospedale principale in capitale + cliniche private nelle baie turistiche. ★★
 

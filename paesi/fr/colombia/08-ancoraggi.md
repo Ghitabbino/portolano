@@ -1,29 +1,29 @@
-# 08 — Portolano degli ancoraggi
+# 08 — Guide des mouillages
 
-**Ultima verifica: 28/08/2026** — *Scheda in completamento*
+**Dernière vérification: 28/08/2026** — *Scheda in completamento*
 
-## Tabella riassuntiva
+## Tableau récapitulatif
 
-| # | Ancoraggio | Riparo | Note |
+| # | Mouillage | Riparo | Note |
 |---|---|---|---|
 | 1 | **Cartagena — Bahía interna** | ★★★★ | Controlli DIMAR frequenti |
-| — | **DATO MANCANTE** | — | In raccolta |
+| — | **DONNÉE MANQUANTE** | — | In raccolta |
 
 <div class="mapframe" data-slug="colombia" data-minz="5" data-maxz="16" data-lat="10.40" data-lon="-75.50" data-markers='[[10.3930, -75.5540, "Cartagena — Bahía", "anc-cartagena-bahia"]]'></div>
 
-Ultimo aggiornamento: 28/08/2026
+Dernière mise à jour: 28/08/2026
 
-## Regole generali
+## Règles générales
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Cartografia ufficiale
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## Checklist àncora
+## Cartographie officielle
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
+
+
+## Check-list mouillage
+
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 

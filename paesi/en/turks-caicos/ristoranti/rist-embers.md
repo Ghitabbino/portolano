@@ -7,7 +7,7 @@
 | Zona | Grace Bay (The Hub, Allegro Rd) |
 | Cucina | 🥩 Fusion / grill / Asian-Med |
 | Specialità | *Tempura shrimp · Caicos lobster · tuna* |
-| Costo | 💰€€€ per persona senza bevande (46–78 USD) |
+| Costo | 💰€€€ per person without drinks (46–78 USD) |
 | Location | 🍽️ al fresco — The Hub |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Embers+Grace+Bay+The+Hub+Providenciales) |
 | Contatti | +1 (649) 941-3816 · [emberstci.com](https://www.emberstci.com) |

@@ -1,38 +1,38 @@
-# 01 — Clearance doganale della barca
+# 01 — Yacht Customs Clearance
 
-**Ultima verifica: 27/08/2026** · Contesto generale in [00 — Ingresso](../00-ingresso-visti.md)
+**Last checked: 27/08/2026** · Contesto generale in [00 — Ingresso](../00-ingresso-visti.md)
 
-## Chi deve farla (Italia / Adriatico)
+## Who Must Clear (Italia / Adriatico)
 
 | Provenienza | Obbligo |
 |---|---|
 | Porti UE/Schengen | **Nessuna clearance** per persone né barca UE — libera circolazione |
 | Extra-UE (es. Montenegro, Albania, Tunisia, Turchia) | **Obbligo** di ingresso in Porto di Ingresso con Polizia di Frontiera + Dogana |
 
-> Procedura ufficiale Italia per diporto extra-UE: **DATO MANCANTE** — da verificare su Capitaneria di Porto / Agenzia Dogane ★★★★★
+> Procedura ufficiale Italia per diporto extra-UE: **DATA MISSING** — da verificare su Capitaneria di Porto / Agenzia Dogane ★★★★★
 
-## Procedura per Adriatico
+## Procedure per Adriatico
 
-- Uffici competenti (Capitaneria, Dogana, Polizia Frontiera) in Adriatico: **DATO MANCANTE**
-- Documenti richiesti (crew list, documenti barca, assicurazione): **DATO MANCANTE**
+- Uffici competenti (Capitaneria, Dogana, Polizia Frontiera) in Adriatico: **DATA MISSING**
+- Documenti richiesti (crew list, documenti barca, assicurazione): **DATA MISSING**
 
-## Costi
+## Fees
 
-| Voce | Costo | Fonte |
+| Item | Cost | Source |
 |---|---|---|
 | Clearance UE | **Gratuita** (nessuna formalità) | UE libera circolazione ★★★★★ |
-| Diritti extra-UE / marche da bollo | **DATO MANCANTE** | **DATO MANCANTE** |
+| Diritti extra-UE / marche da bollo | **DATA MISSING** | **DATA MISSING** |
 
 ## Punti agréé / Porti di ingresso in Adriatico
 
-| Località | Ufficio | Contatti | Orari |
+| Località | Ufficio | Contacts | Hours |
 |---|---|---|---|
-| **DATO MANCANTE** | Capitaneria / Dogana | **DATO MANCANTE** | **DATO MANCANTE** |
+| **DATA MISSING** | Capitaneria / Dogana | **DATA MISSING** | **DATA MISSING** |
 
-> Elenco ufficiale Porti di Ingresso (Port of Entry): **DATO MANCANTE** — verificare su mit.gov.it
+> Elenco ufficiale Porti di Ingresso (Port of Entry): **DATA MISSING** — verificare su mit.gov.it
 
-## Sanzioni
+## Penalties
 
-Mancata dichiarazione all'arrivo da extra-UE = sanzione doganale / immigrazione. Dettaglio normativo italiano: **DATO MANCANTE**
+Mancata dichiarazione all'arrivo da extra-UE = sanzione doganale / immigrazione. Dettaglio normativo italiano: **DATA MISSING**
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

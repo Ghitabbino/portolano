@@ -1,19 +1,19 @@
-# Friendship Bay — ancoraggio {#anc-friendship}
+# Friendship Bay — anchorage {#anc-friendship}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← All anchorages](../08-ancoraggi.md)
 **12°58.3′N 61°14.0′W**
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| **Riparo** | ★★★ riparata SE |
-| **Fondo** | Sabbia |
-| **Tenuta àncora** | Buona |
-| **Profondità** | 4–7 m |
-| **Boe** | No |
-| **Pericoli** | Esposta a sud |
-| **A terra** | Bequia Beach Hotel (day-pass US$75) |
+| **Shelter** | Sheltered SE |
+| **Bottom** | Sand |
+| **Holding Ground** | Good |
+| **Depth** | 4–7 m |
+| **Buoys** | None |
+| **Hazards** | Exposed to the south |
+| **On shore** | Bequia Beach Hotel (day-pass US$75) |
 
 <div class="mapframe" data-slug="anc-friendship" data-lat="12.972" data-lon="-61.233"></div>
-*Mappa offline Friendship Bay — zoom con i pulsanti +/−; menu in alto a destra per Carta nautica e Segnali*
+*Offline map Friendship Bay — zoom with +/− buttons; menu top right for Nautical Chart and Signals*
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

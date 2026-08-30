@@ -1,18 +1,18 @@
 # The Lightship
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Le Phare Bleu Marina, Petit Calivigny |
-| Cucina | 🐟 Bar-restaurant da marina |
-| Specialità | Happy hour cruiser · tramonto |
-| Costo | 💰€€ per persona senza bevande |
-| Location | ⚓ su una nave-faro ormeggiata nella marina |
+| Zone | Le Phare Bleu Marina, Petit Calivigny |
+| Cuisine | 🐟 Bar-restaurant da marina |
+| Spécialité | Happy hour cruiser · tramonto |
+| Coût | 💰€€ per persona senza bevande |
+| Emplacement | ⚓ su una nave-faro ormeggiata nella marina |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=The+Lightship+Le+Phare+Bleu+Grenada) |
-| Contatti | via Le Phare Bleu Resort — telefono DATO MANCANTE (verificare) |
-| Valutazioni | Google/TA: DATO MANCANTE — verificare → ★★★ |
-| Orari | pranzo e aperitivo/cena in stagione |
+| Contacts | via Le Phare Bleu Resort — telefono DONNÉE MANQUANTE (verificare) |
+| Évaluations | Google/TA: DONNÉE MANQUANTE — verificare → ★★★ |
+| Horaires | pranzo e aperitivo/cena in stagione |
 
 ## Menu
 

@@ -1,32 +1,32 @@
-# 04 — Servizi, cantieri e manutenzione
+# 04 — Services, Boatyards & Maintenance
 
-**Ultima verifica: 25/08/2026**
+**Last checked: 25/08/2026**
 
 - **Cucumber Beach Marina (Old Belize)**: haul-out e servizi tecnici sul mainland,
  riferimento più strutturato del paese ★★
 - Riparazioni minori e meccanica fuoribordo: San Pedro e Placencia ★★
-- Lavori strutturati / travelift capienti / veleria specialistica: **DATO MANCANTE** —
- molti cruiser si spostano a Puerto Mundo Maya (Guatemala, Rio Dulce) o Roatán (Honduras) ★★
+- Lavori strutturati / travelift capienti / veleria specialistica: **DATA MISSING** —
+ molti cruiser si spostano a Puerto Mundo Maya (Guatemala, Rio Dulce) or Roatán (Honduras) ★★
 - Ricambi importati: via Miami/Houston, tempi 1-3 settimane, dogana lenta ★★
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026
 
-## Hub tecnico
+## Technical Hub
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Gas e bombole
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## Acqua dolce
+## Gas & Bottles
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## Note strategiche
+## Fresh Water
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
+
+
+## Strategic Notes
+
+**DATA MISSING** — to be completed at the monthly check.
 

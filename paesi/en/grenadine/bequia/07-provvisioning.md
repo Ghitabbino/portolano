@@ -1,54 +1,54 @@
-# 07 — Provvisioning
+# 07 — Provisioning
 
-**Ultima verifica: 24/08/2026**
+**Last checked: 24/08/2026**
 
-## Livello prezzi generale
+## General Price Level
 
-- Isola più fornita delle Grenadine meridionali ma **più cara di Martinica** per l'importato (USD/EC$). Frutta/verdura locale e pesce dei pescatori restano convenienti. ★★
-- Scorte di qualità yacht disponibili senza dover fare la traversata a St-Vincent. Prezzi alti su alcol/importato fuori Doris/Knights. ★★
+- The most provisioned island in the southern Grenadines but **more expensive than Martinique** for imports (USD/EC$). Local fruit and vegetables, as well as fish from local fishermen, remain convenient. ★★
+- Quality yacht provisions available without having to make a passage to St-Vincent. High prices on alcohol and imported goods outside Doris/Knights. ★★
 
-## Supermercati — Port Elizabeth / Admiralty Bay ⚓ base principale
+## Supermarkets — Port Elizabeth / Admiralty Bay ⚓ main base
 
-| Negozio | Ubicazione | Distanza dal dinghy dock | A piedi? | Telefono | Consegna a bordo? | Note | Fonte |
+| Store | Location | Distance from dinghy dock | On foot? | Phone | Delivery to boat? | Notes | Source |
 |---|---|---|---|---|---|---|---|
-| **Doris' Fresh Food** | Waterfront, Port Elizabeth (accanto al mercato) | ~50–100 m | ✅ sì | +1 784 458-3621 ★★ | ✅ sì — prepara ordine e incontra al fuel dock / dinghy dock su richiesta | Il meglio fornito dell'isola: freschi, carne, latticini, pane, surgelati, prodotti importati; ordini via WhatsApp/telefono, servizio molto usato dagli chef di charter | SVG Yachting + Doyle ★★★ |
-| **Knights Trading (The Fig Tree / Knights Supermarket)** | Front Street, Port Elizabeth | ~150–250 m | ✅ sì (2–3 min) | +1 784 458-3341 ★★ | ⚠️ su richiesta — chiedere in negozio | Assortimento complementare a Doris, hardware leggero e bevande; insieme coprono quasi tutta la cambusa | SVG Yachting ★★★ |
-| **Lower Bay Market / Porthole & altri mini-market** | Lower Bay village, strada per Friendship | ~1,5 km dal dinghy dock (Admiralty Bay) | ⚠️ sì ma 20 min o taxi | DATO MANCANTE | ❌ no | Alimentari di base, frutta/verdura, panetteria locale, ortofrutta; utile se ancorati a Lower Bay/Friendship | Cruiser reports ★★ |
-| **Dockside Marine Supply** | Vicino al dinghy dock nord | ~30 m | ✅ sì | DATO MANCANTE | ❌ no | Chandler + generi di bordo essenziali, ghiaccio | ★★ |
-| **Mercato ortofrutta & pesce** | Mercato coperto Port Elizabeth + banchina pescatori | ~100–200 m | ✅ sì | — | ❌ no (vendita diretta) | Mattina presto: verdura locale, spezie, pesce appena sbarcato da comprare direttamente ai pescatori sulla spiaggia | ★★★ |
+| **Doris' Fresh Food** | Waterfront, Port Elizabeth (next to the market) | ~50–100 m | ✅ yes | +1 784 458-3621 ★★ | ✅ yes — prepare order and meet at fuel dock / dinghy dock on request | Best provisioned island: fresh, meat, dairy, bread, frozen, imported goods; orders via WhatsApp/phone, very popular with charter chefs | SVG Yachting + Doyle ★★★ |
+| **Knights Trading (The Fig Tree / Knights Supermarket)** | Front Street, Port Elizabeth | ~150–250 m | ✅ yes (2–3 min) | +1 784 458-3341 ★★ | ⚠️ on request — ask in store | Complementary to Doris, light hardware and beverages; together they cover almost all provisions | SVG Yachting ★★★ |
+| **Lower Bay Market / Porthole & other mini-markets** | Lower Bay village, road to Friendship | ~1.5 km from dinghy dock (Admiralty Bay) | ⚠️ yes but 20 min or taxi | DATA MISSING | ❌ no | Basic provisions, fruit and vegetables, local bakery, fresh produce; useful if anchored in Lower Bay/Friendship | Cruiser reports ★★ |
+| **Dockside Marine Supply** | Near northern dinghy dock | ~30 m | ✅ yes | DATA MISSING | ❌ no | Chandlers and essential marine supplies, ice | ★★ |
+| **Fresh produce & fish market** | Covered Market Port Elizabeth + fishermen's quay | ~100–200 m | ✅ yes | — | ❌ no (direct sale) | Early morning: local vegetables, spices, fresh fish just landed from buying directly from the fishermen on the beach | ★★★ |
 
-> Per grande scorta “stile Martinica” resta valida alternativa traghetto Bequia Express per Kingstown (Massy Stores), ma per 1–2 settimane Doris+Knights bastano. ★★
+> For a large stock “Martinique-style” remains a valid alternative with the Bequia Express ferry to Kingstown (Massy Stores), but for 1–2 weeks Doris+Knights suffice. ★★
 
-## Mercati
+## Markets
 
-- **Mercato di Port Elizabeth**: frutta/verdura locale, spezie, pane — tutte le mattine, picco lun/sab. ★★★
-- **Pescatori di Port Elizabeth / Lower Bay / Friendship**: tonno, mahi, barracuda freschissimi al rientro (chiedere a port-boy o in banchina). ★★★
-- **Pane**: consegna a bordo al mattino dai service provider + panetterie di Port Elizabeth e Lower Bay. ★★
+- **Port Elizabeth Market**: local fruit and vegetables, spices, bread — every morning, peak on Monday/Saturday. ★★★
+- **Port Elizabeth / Lower Bay / Friendship fishermen**: fresh tuna, mahi-mahi, barracuda upon return (ask the port-boy or at the quay). ★★★
+- **Bread**: delivered to boats in the morning by service providers and bakeries in Port Elizabeth and Lower Bay. ★★
 
-## Acqua e carburante
+## Water and Fuel
 
-| Servizio | Dove | Note |
+| Service | Where | Notes |
 |---|---|---|
-| Fuel dock | North Admiralty Bay, banchina carburanti (vicino a Doris fuel dock) | Diesel/benzina, orario diurno; pagamento EC$/USD, carta a volte | ★★ |
-| Acqua | Fuel dock + banchina marina | A pagamento, pressione variabile — verificare al momento → [03](03-porti-ancoraggi.md) | ★★ |
-| Gas (propano) | Scambio bombole USA-style | Ricarica limitata, meglio fare a St-Vincent/Martinica se bombole francesi → [04](04-servizi-cantieri.md) | ★★ |
-| Ghiaccio | Doris, Knights, Dockside | Cubetti e blocchi | ★★ |
+| Fuel dock | North Admiralty Bay, fuel quay (near Doris fuel dock) | Diesel/benzine, daytime hours; payment EC$/USD, card sometimes accepted | ★★ |
+| Water | Fuel dock + marina quayside | Paid, variable pressure — check on site → [03](03-porti-ancoraggi.md) | ★★ |
+| Gas (propane) | US-style cylinder exchange | Limited refills, better to do in St-Vincent/Martinique if French cylinders → [04](04-servizi-cantieri.md) | ★★ |
+| Ice | Doris, Knights, Dockside | Cubes and blocks | ★★ |
 
-## Taxi / Water taxi / Bus
+## Taxis / Water taxis / Buses
 
-| Servizio | Dettaglio | Costo indicativo | Note |
+| Service | Detail | Approximate Cost | Notes |
 |---|---|---|---|
-| **Taxi terrestri** | Stazione a Port Elizabeth; corse per Lower Bay, Friendship, Old Hegg | EC$ 40–80 a tratta secondo distanza (Port Elizabeth–Friendship ~EC$ 50) ★★ | Chiedere prezzo prima; disponibile anche via hotel/VHF port-boys. Tel generico taxi Bequia: +1 784 458-3621 / +1 784 458-3317 ★★ — DATO MANCANTE per singolo driver notturno verificare in loco |
-| **Water taxi / port-boys** | Admiralty Bay shuttle dinghy-barca-ristorante | EC$ 10–20 a persona / EC$ 40–80 barca ★★ | Servizio serale per Jack's Beach Bar, Consegna spesa a bordo su accordo con Doris. Contatto VHF 68 o tramite ristorante |
-| **Dollar bus / minibus** | Linea Port Elizabeth – Paget Farm – Friendship – Lower Bay | EC$ 3–6 a persona ★★ | Frequente di giorno (ogni 15–30 min), raro la sera/domenica; fermata su richiesta lungo la strada — alternativa economica al taxi, con carico limitato |
-| **Bus “Martinica-style”** | Non esiste servizio urbano strutturato come in Martinica | — | Sostituito da dollar bus / taxi |
+| **Land taxis** | Port Elizabeth station; rides to Lower Bay, Friendship, Old Hegg | EC$ 40–80 per trip according to distance (Port Elizabeth–Friendship ~EC$ 50) ★★ | Ask for price first; also available via hotel/VHF port-boys. Generic taxi number: +1 784 458-3621 / +1 784 458-3317 ★★ — DATA MISSING for single night driver check in person |
+| **Water taxis / port-boys** | Admiralty Bay shuttle dinghy-barca-restaurant | EC$ 10–20 per person / EC$ 40–80 boat ★★ | Evening service to Jack's Beach Bar, delivery of purchases on board arranged with Doris. Contact VHF 68 or through the restaurant |
+| **Dollar bus / minibus** | Port Elizabeth – Paget Farm – Friendship – Lower Bay line | EC$ 3–6 per person ★★ | Frequent during the day (every 15–30 minutes), rare in the evening/Sunday; request stop along the road — economical alternative to taxis with limited load |
+| **Martinique-style bus** | No structured urban service as in Martinique | — | Replaced by dollar buses/taxis |
 
-## Consigli pratici
+## Practical Tips
 
-- Ordine WhatsApp a Doris 24h prima: ti aspetta al fuel dock con carrello — evita 2 viaggi col dinghy. ★★★
-- Portare trolley/borse pieghevoli: marciapiede Belmont Walkway stretto e caldo. ★★
-- Frutta/verdura comprare al mattino prima delle 10: dopo resta poca scelta. ★★
-- Se si prosegue verso sud (Tobago Cays): rifornire qui al massimo, dopo solo mini-shop. ★★★
-- Acqua in bottiglia: scorta prudente se si dorme in rada sud senza servizi. ★★
+- WhatsApp order to Doris 24 hours before: they will meet you at the fuel dock with a trolley — avoid two trips with the dinghy. ★★★
+- Bring foldable trolleys/bags: Belmont Walkway is narrow and hot. ★★
+- Buy fruit and vegetables in the morning before 10: after that, there will be limited choices. ★★
+- If continuing south (Tobago Cays): provision here to maximum, only mini-shop afterwards. ★★★
+- Bottled water: prudent stock if sleeping in the southern rada without services. ★★
 
-Ultimo aggiornamento: 24/08/2026
+Last updated: 24/08/2026

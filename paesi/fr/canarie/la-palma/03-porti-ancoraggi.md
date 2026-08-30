@@ -1,4 +1,4 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
 Isola ripida ("steep-to"): le profondità salgono rapidamente, gli ancoraggi sono **rari e solo con meteo stabile** — meglio marine/pontili.
 
@@ -11,19 +11,19 @@ Isola ripida ("steep-to"): le profondità salgono rapidamente, gli ancoraggi son
 
 ## Marina La Palma (Santa Cruz)
 
-| Voce | Nota |
+| Rubrique | Nota |
 |---|---|
 | Posti | 180 + 140 di transito · fino 20 m · pescaggio 6–10 m [Autorità Portuaria ★★★★★] |
-| Contatti |**+34 922 410 289** · VHF 09 · info@marinalapalma.es · marinalapalma.es ★★★★★|
+| Contacts |**+34 922 410 289** · VHF 09 · info@marinalapalma.es · marinalapalma.es ★★★★★|
 | Esposizione | Lato est: alisei NE trasversali al molo d'ingresso nei giorni di vento teso |
-| Clearance | Porto di ingresso dell'isola |
+| Clearance | Port di ingresso dell'isola |
 
 ## Tazacorte
 
-| Voce | Nota |
+| Rubrique | Nota |
 |---|---|
 | Accesso | Solo con meteo gestibile: il lato ovest è sottovento ma aperto allo swell da N/O invernale |
-| Servizi | Tariffe e dotazioni → (da confermare) |
+| Servizi | Tarifs e dotazioni → (da confermare) |
 | Uso tipico | Sosta operativa per visitare la costa ovest (Playa de los Guios, scogliere) |
 
 ## Ancoraggi
@@ -32,7 +32,7 @@ Isola ripida ("steep-to"): le profondità salgono rapidamente, gli ancoraggi son
 - Nessun ancoraggio notturno affidabile segnalato: usare marine/pontili. Dettagli puntuali per callette → (da confermare).
 - Attenzione alle aree interdette dei porti commerciali (ferries a Santa Cruz).
 
-## Distanze utili
+## Distances utiles
 
 | Da → A | NM |
 |---|---|
@@ -44,7 +44,7 @@ Mappa offline:
 ```{data-map='{"slug":"canarie-la-palma","lat":28.66,"lon":-17.85,"zoom":9,"markers":[["Marina La Palma - Santa Cruz",28.685,-17.763],["Tazacorte",28.643,-17.931]]}'}
 ```
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026
 
-## Tariffe
-Ultimo aggiornamento: 23/08/2026
+## Tarifs
+Dernière mise à jour: 23/08/2026

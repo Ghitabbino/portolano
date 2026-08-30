@@ -12,20 +12,19 @@ Ultimo aggiornamento: 25/08/2026
 
 ## Hub tecnico
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
+Nessun travelift/yard strutturato per yacht in Nicaragua; servizi artigianali sparsi. Meccanica/fiberglass/sail repair segnalate a **San Juan del Sur** (contatti locali via Ocean Posse) ★★. Per haul-out strutturato riferimento regionale **Costa Rica (Puntarenas)** o **Panama (Shelter Bay/Playa Blanca)**. ★★★
 
 ## Gas e bombole
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
+Scambio bombole a **Managua/Granada** (città), non nelle baie remote. Portare adattatore USA. **DATO MANCANTE** prezzo singolo. ★★
 
 ## Acqua dolce
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
+Disponibile in banchina a **Marina Puesta del Sol**; a San Juan del Sur via truck; altrove non affidabile — dissalatore consigliato. Potabilità non garantita fuori marina. ★★
 
 ## Note strategiche
 
-**DATO MANCANTE** — da completare al controllo mensile.
+Pianificare lavori prima di entrare (kit ricambi da USA, tempi dogana lunghi). Forniture marine minime a **Bluefields** (fuel/water/elettrico/meccanica base) ma non per refit. Nicaragua non è hub refit — usare Costa Rica/Panama per lavori strutturati. Tenere a bordo ricambi critici. ★★
+
+Ultimo aggiornamento: 29/08/2026
 

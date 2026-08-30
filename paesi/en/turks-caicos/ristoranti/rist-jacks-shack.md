@@ -7,7 +7,7 @@
 | Zona | Grand Turk — Cockburn Town beach |
 | Cucina | 🥙 Locale / grill |
 | Specialità | *Jerk chicken · cracked conch · fish & chips* |
-| Costo | 💰€ per persona senza bevande |
+| Costo | 💰€ per person without drinks |
 | Location | 🏖️ spiaggia — beach bar |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jack%27s+Shack+Grand+Turk) |
 | Contatti | +1 (649) 946-2111* · Facebook Jack's Shack Grand Turk |
@@ -21,6 +21,6 @@
 - Fish & chips / burgers
 - Rum punch
 
-**Note**: Beach bar istituzione a Grand Turk, sulla spiaggia di Cockburn Town — a 5 min a piedi dalla rada (South Dock). Perfetto per sosta pranzo dopo ancoraggio Grand Turk. *Telefono da verificare sul posto — DATO MANCANTE se non trovato via webfetch.
+**Note**: Beach bar istituzione a Grand Turk, sulla spiaggia di Cockburn Town — a 5 min a piedi dalla rada (South Dock). Perfetto per sosta pranzo dopo ancoraggio Grand Turk. *Telefono to be verified sul posto — DATA MISSING se non trovato via webfetch.
 
 **Fonte locale**: TripAdvisor Grand Turk #1 restaurant ★★★ · Google ★★★ · visittci.com Grand Turk dining ★★★

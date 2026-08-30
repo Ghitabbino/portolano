@@ -1,51 +1,51 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
-**Ultima verifica: 27/08/2026** · Coordinate in gradi decimali o N/W come da fonte — **DATO MANCANTE** dove non verificato
+**Dernière vérification: 27/08/2026** · Coordinate in gradi decimali o N/W come da fonte — **DONNÉE MANQUANTE** dove non verificato
 
 ## Costa mediterranea — inquadramento
 
-La costa siriana si estende per circa 180 km sul Mediterraneo orientale (Levante), da nord (confine turco, area di Latakia) a sud (confine libanese, area di Tartus), con porti principali a Latakia e Tartus. **DATO MANCANTE** su regolamenti attuali per diporto — da verificare su Port Authority siriana.
+La costa siriana si estende per circa 180 km sul Méditerranée orientale (Levante), da nord (confine turco, area di Latakia) a sud (confine libanese, area di Tartus), con porti principali a Latakia e Tartus. **DONNÉE MANQUANTE** su regolamenti attuali per diporto — da vérifier sur Port Authority siriana.
 
-### DATO MANCANTE — area principale / porto di ingresso
+### DONNÉE MANQUANTE — area principale / porto di ingresso
 
-- **DATO MANCANTE** — porti, coordinate, VHF, servizi. Verificare su elenco ufficiale Port Authority Siria.
+- **DONNÉE MANQUANTE** — porti, coordinate, VHF, servizi. Vérifier sur elenco ufficiale Port Authority Siria.
 
-### DATO MANCANTE — seconda area / costa
+### DONNÉE MANQUANTE — seconda area / costa
 
-- **DATO MANCANTE**
+- **DONNÉE MANQUANTE**
 
-### DATO MANCANTE — isole / arcipelago (se presente)
+### DONNÉE MANQUANTE — isole / arcipelago (se presente)
 
-- **DATO MANCANTE**
+- **DONNÉE MANQUANTE**
 
-## Tariffe ormeggi e marine
+## Tarifs d’amarrage & marinas
 
-> Stesse voci per tutti i paesi; **DATO MANCANTE** = da ricercare al controllo mensile.
+> Stesse voci per tutti i paesi; **DONNÉE MANQUANTE** = da ricercare al controllo mensile.
 
-### DATO MANCANTE — marina di riferimento (da definire)
+### DONNÉE MANQUANTE — marina di riferimento (da definire)
 
-| Voce | Costo | Note |
+| Rubrique | Coût | Note |
 |---|---|---|
-| Posto pontile — notte (~12 m) | **DATO MANCANTE** | **DATO MANCANTE** |
-| Posto pontile — notte (multiscafo ~12 m) | **DATO MANCANTE** | **DATO MANCANTE** |
-| Boa / mouillage — notte (~12 m) | **DATO MANCANTE** | **DATO MANCANTE** |
-| Mese pontile (~12 m) | **DATO MANCANTE** | **DATO MANCANTE** |
-| Elettricità | **DATO MANCANTE** | **DATO MANCANTE** |
-| Acqua | **DATO MANCANTE** | **DATO MANCANTE** |
-| Ancoraggio | **DATO MANCANTE** | **DATO MANCANTE** |
+| Place à quai — par nuit (~12 m) | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Place à quai — par nuit (multicoque ~12 m) | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Bouée / mouillage — par nuit (~12 m) | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Mois à quai (~12 m) | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Électricité | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Eau | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Mouillage | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
 
-### Altre strutture
+### Autres infrastructures
 
-| Struttura | Costo/note | Fonte |
+| Infrastructure | Coût/notes | Source |
 |---|---|---|
-| **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** |
+| **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
 
-⚠️ **Da verificare prima della crociera**: listini marine, prenotazioni alta stagione, regolamenti ancoraggio.
+⚠️ **À vérifier avant la croisière**: listini marine, prenotazioni alta stagione, regolamenti ancoraggio.
 
-## Distanze utili
+## Distances utiles
 
-| Tratta | Distanza |
+| Trajet | Distance |
 |---|---|
-| **DATO MANCANTE** | **DATO MANCANTE** |
+| **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
 
-Ultimo aggiornamento: 27/08/2026
+Dernière mise à jour: 27/08/2026

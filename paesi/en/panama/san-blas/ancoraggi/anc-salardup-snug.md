@@ -1,10 +1,10 @@
 # Salardup / Snug Harbour {#anc-salardup-snug}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← All Anchorages](../08-ancoraggi.md)
 
 **9°31.2′N 78°55.8′W** ★★
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | **Profondità** |5–12 m baia tra reef ★★|
 | **Tenuta àncora** | Eccellente |
@@ -17,4 +17,4 @@
 <div class="mapframe" data-slug="anc-salardup-snug" data-lat="9.549" data-lon="-78.851"></div>
 *Vista mappa Salardup / Snug Harbour · mappa offline*
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026

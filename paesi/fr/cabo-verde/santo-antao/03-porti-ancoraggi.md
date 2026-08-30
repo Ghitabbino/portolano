@@ -1,47 +1,47 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
-Ultimo aggiornamento: 22/08/2026 · Isola a nord-ovest di São Vicente, separata dal canale di São Vicente (~9 Mm da Mindelo).
+Dernière mise à jour: 22/08/2026 · Isola a nord-ovest di São Vicente, separata dal canale di São Vicente (~9 Mm da Mindelo).
 
 ## Onestamente: poca nautica
 
-Santo Antão è un'isola da **terra**: montagne (Cova, Ribeira Grande, valle do Paul), trekking e paesaggi. Nessuna marina, servizi nautici quasi nulli. La base logistica resta **Mindelo**, lasciando la barca al Porto Grande e prendendo il ferry. ★★
+Santo Antão è un'isola da **terra**: montagne (Cova, Ribeira Grande, valle do Paul), trekking e paesaggi. Nessuna marina, servizi nautici quasi nulli. La base logistica resta **Mindelo**, lasciando la barca al Port Grande e prendendo il ferry. ★★
 
 ## Approdi
 
-| Posto | Tenuta | Note |
+| Posto | Tenue | Note |
 |---|---|---|
-| **Porto Novo** | — | Porto dei ferries, molo commerciale; non è un ancoraggio turistico comodo; formalità possibili qui |
+| **Port Novo** | — | Port dei ferries, molo commerciale; non è un ancoraggio turistico comodo; formalità possibili qui |
 | Ponta do Sol | Esposta | Borgo di pescatori sulla costa nord; attracco/molo per piccole unità locali, swell atlantico diretto |
 | Tarrafal de Monte Trigo | Diurna/da valutare | Villaggio sul SW, possibile sbarco con mare calmo; nessuna infrastruttura |
 
-## Ferry Mindelo ↔ Porto Novo
+## Ferry Mindelo ↔ Port Novo
 
-Collegamenti quotidiani con i catamarani CV Interilhas (~1 h); orari variabili per stagione → verificare su interilhas.com o ai biglietterie di Porto Novo/Mindelo prima di pianificare.
+Collegamenti quotidiani con i catamarani CV Interilhas (~1 h); orari variabili per stagione → vérifier sur interilhas.com o ai biglietterie di Port Novo/Mindelo prima di pianificare.
 
 ⚠️ Ancoraggi notturni sull'isola: nessun sito affidabile documentato dalle fonti consultate → (da confermare in loco).
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026
 
-## Tariffe
-## Distanze utili
-Ultimo aggiornamento: 22/08/2026
+## Tarifs
+## Distances utiles
+Dernière mise à jour: 22/08/2026
 
-## Tariffe ormeggi e marine
+## Tarifs d’amarrage & marinas
 
-| Voce | Costo | Note |
+| Rubrique | Coût | Note |
 |---|---|---|
-| Posto pontile/peschereccio | **DATO MANCANTE** — concordare in capitania/porto | Nessun listino turistico pubblicato |
-| Boa | **DATO MANCANTE** | |
-| Ancoraggio | **Gratuito** fuori zone regolamentate | |
-| Acqua | **DATO MANCANTE** | Chiedere in porto |
-| Elettricità | **DATO MANCANTE** | |
+| Posto pontile/peschereccio | **DONNÉE MANQUANTE** — concordare in capitania/porto | Nessun listino turistico pubblicato |
+| Bouée | **DONNÉE MANQUANTE** | |
+| Mouillage | **Gratuito** fuori zone regolamentate | |
+| Eau | **DONNÉE MANQUANTE** | Chiedere in porto |
+| Électricité | **DONNÉE MANQUANTE** | |
 
-## Distanze utili
+## Distances utiles
 
-| Tratta | Distanza | Note |
+| Trajet | Distance | Note |
 |---|---|---|
-| Mindelo – Sal | ~110 Mm | Aliseo NE |
+| Mindelo – Sal | ~110 Mm | Alizé NE |
 | Praia – Fogo | ~30 Mm | |
 | Fogo – Brava | ~15 Mm | |
 
-Ultimo aggiornamento: 24/08/2026
+Dernière mise à jour: 24/08/2026

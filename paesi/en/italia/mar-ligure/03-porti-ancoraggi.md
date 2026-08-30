@@ -1,41 +1,41 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
-**Ultima verifica: 27/08/2026** · Coordinate indicative WGS84 — navigare sempre con carta ufficiale IIM / Navionics / C-MAP
+**Last checked: 27/08/2026** · Coordinate indicative WGS84 — navigare sempre con carta ufficiale IIM / Navionics / C-MAP
 
 ## Inquadramento — Mar Ligure
 
-Costa e approdi di Mar Ligure: **DATO MANCANTE** per descrizione sistematica verificata. Mappa d'insieme centrata su 43.90N 8.50E (indicativo di zona).
+Costa e approdi di Mar Ligure: **DATA MISSING** per descrizione sistematica verificata. Mappa d'insieme centrata su 43.90N 8.50E (indicativo di zona).
 
 ## Marine principali (da verificare)
 
 | Marina / Porto | Zona | Posti | Note |
 |---|---|---|---|
-| **DATO MANCANTE** | Mar Ligure | **DATO MANCANTE** | **DATO MANCANTE** — da verificare su Pagine Azzurre / Capitaneria |
+| **DATA MISSING** | Mar Ligure | **DATA MISSING** | **DATA MISSING** — da verificare su Pagine Azzurre / Capitaneria |
 
-> Elenco verificato marine con telefono/VHF/costi: **DATO MANCANTE** — verificare su fonti ufficiali (Capitaneria, porti turistici, Pagine Azzurre) ★★★★
+> Elenco verificato marine con telefono/VHF/costi: **DATA MISSING** — verificare su fonti ufficiali (Capitaneria, porti turistici, Pagine Azzurre) ★★★★
 
 ## Ancoraggi (rinvio)
 
-Ancoraggi liberi della zona → [08 Portolano degli ancoraggi](08-ancoraggi.md). Regole AMP e divieti locali riportate lì.
+Ancoraggi liberi della zona → [08 Anchorage Pilot](08-ancoraggi.md). Regole AMP e divieti locali riportate lì.
 
-## Tariffe ormeggi e marine
+## Berthing & Marina Tariffs
 
-> Stesse voci per tutti i paesi; **DATO MANCANTE** = da ricercare al controllo mensile.
+> Stesse voci per tutti i paesi; **DATA MISSING** = da ricercare al controllo mensile.
 
-| Voce | Costo | Note |
+| Item | Cost | Notes |
 |---|---|---|
-| Posto pontile notte (~12 m) | **DATO MANCANTE** | **DATO MANCANTE** |
-| Boa / campo boe notte | **DATO MANCANTE** | **DATO MANCANTE** |
-| Ormeggio mensile (~12 m) | **DATO MANCANTE** | **DATO MANCANTE** |
-| Elettricità | **DATO MANCANTE** | **DATO MANCANTE** |
-| Acqua | **DATO MANCANTE** | **DATO MANCANTE** |
+| Posto pontile notte (~12 m) | **DATA MISSING** | **DATA MISSING** |
+| Boa / campo boe notte | **DATA MISSING** | **DATA MISSING** |
+| Ormeggio mensile (~12 m) | **DATA MISSING** | **DATA MISSING** |
+| Elettricità | **DATA MISSING** | **DATA MISSING** |
+| Acqua | **DATA MISSING** | **DATA MISSING** |
 
 ⚠️ **Da verificare prima della crociera**: listini ufficiali 2026 delle marine di Mar Ligure, telefonicamente o via email.
 
-## Distanze utili
+## Useful Distances
 
-| Tratta | Distanza | Note |
+| Passage | Distance | Note |
 |---|---|---|
-| **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** |
+| **DATA MISSING** | **DATA MISSING** | **DATA MISSING** |
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

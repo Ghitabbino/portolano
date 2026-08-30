@@ -1,10 +1,10 @@
-# 07 — Provvisioning
+# 07 — Provisioning
 
-## Livello prezzi generale
+## General Price Level
 
-Medio: più caro della Martinica per i freschi, più economico per l'importato USA.
+Medium: more expensive than Martinique for fresh produce, cheaper for imported USA.
 
-## Supermercati
+## Supermarkets
 
 | Zona | Negozi |
 |---|---|
@@ -12,21 +12,21 @@ Medio: più caro della Martinica per i freschi, più economico per l'importato U
 | Panama City (per grandi rifornimenti) | Rey, Riba Smith, Machetazo — ottimi, standard USA |
 | Portobelo/Isla Grande | solo tiendas di base |
 
-## Mercati
+## Markets
 
 Mercado de Mariscos (Panama City, Causeway): pesce fresco eccellente; frutta/verdura a Mercado de Abasto.
 
-## Acqua e carburante
+## Water & Fuel
 
-| Servizio | Dettaglio |
+| Service | Detail |
 |---|---|
 | Acqua | dock marine; jerrycan $1–2 nei villaggi |
 | Gasolio/benzina | dock Shelter Bay e Flamenco; jerrican a Colón |
 
-## Consigli pratici
+## Practical Tips
 
 - Grande spesa: farla a **Panama City** (Rey/Riba Smith) con taxi/marine shuttle, non a Colón.
 - Prima del transito o di San Blas: rifornimento completo — nelle Perlas e a San Blas si trova pochissimo.
 - Birra/acqua in cassa: prezzi migliori a Riba Smith rispetto ai dock.
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026

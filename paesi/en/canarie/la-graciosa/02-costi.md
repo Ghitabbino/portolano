@@ -1,6 +1,6 @@
-# 02 — Costo della vita
+# 02 — Cost of Living
 
-**DATO MANCANTE** — scheda da completare (alimentari, ristorazione, trasporti
-da/in Lanzarote, servizi quotidiani sull'isola).
+**DATA MISSING** — scheda to be completed (alimentari, ristorazione, trasporti
+from/in Lanzarote, servizi quotidiani sull'isola).
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

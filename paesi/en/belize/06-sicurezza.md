@@ -1,8 +1,8 @@
-# 06 — Sicurezza
+# 06 — Safety & Security
 
-**Ultima verifica: 25/08/2026**
+**Last checked: 25/08/2026**
 
-## Valutazione sicurezza: **3 / 5**
+## Safety Rating: **3 / 5**
 
 | Area | Voto | Motivazione |
 |---|---|---|
@@ -12,7 +12,7 @@
 
 *Scala: 0 = terribile → 5 = molto sicuro.*
 
-## Quadro generale
+## General Overview
 
 - I reati contro yacht in ancoraggio sono poco frequenti ma non nulli: dinghy sempre
  chiuse e alzate, luci notturne ★★★
@@ -20,19 +20,19 @@
  segnalare alle autorità ★★★★
 - Emergenza: **911** · Police 114 · Coast Guard VHF 16 ★★★★
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026
 
 ## Posti sicuri
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## Salvataggio ed emergenze
+## Rescue & Emergencies
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## Monitoraggio mensile
+## Monthly Monitoring
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 

@@ -1,6 +1,6 @@
-# Ristoranti
+# 10 — Restaurants
 
-**Ultimo aggiornamento: 23/08/2026**
+**Dernière mise à jour: 23/08/2026**
 
 > ⚠️ Pagina in preparazione: dati in raccolta.
 
@@ -8,14 +8,14 @@
 
 Google Maps recensioni · contatto VHF/WhatsApp
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026
 
-## Griglia generale
+## Grille générale
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## App e fonti
+## Applis et sources
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 

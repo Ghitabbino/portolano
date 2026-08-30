@@ -63,11 +63,11 @@
 
 ### Riepilogo margini e costi vivi
 
-| Voce | Costo vivo | Margine medio merch | Obiettivo |
+| Item | Costo vivo | Margine medio merch | Obiettivo |
 |---|---|---|---|
 | Hosting GitHub Pages + CDN | 12€/mese | — | coperto da 2 bandiere |
 | Domini sailtropics.com/.it | 5€/mese | — | 1 tazza |
-| API DeepL | 30€/mese | — | 4 felpe o 5 dry-bag |
+| API DeepL | 30€/mese | — | 4 felpe or 5 dry-bag |
 
 **Totale 47€/mese** — con **6 ordini medi/mese** il progetto è autosostenibile. Ogni euro extra va in **nuove verifiche, tasselli mappa e traduzioni** (tracciato in `trasparenza.md`).
 
@@ -76,6 +76,6 @@
 - **Master:** `PNG 4500×5400 @300DPI sRGB + SVG` (portolano teal) e `PNG 4500×5400 + PDF bandiera 9000×6000` (sailtropics). Varianti colore pronte. Bleed incluso dove serve.
 - **Prossimi step:** 1) Carica master su Printful → mockup 2) Apri store Etsy/Shopify/Ko-fi Shop (zero canone) 3) Ordina 1 pezzo test per verifica sRGB→stampa reale 4) Collega webhook → [ringraziamenti.md](ringraziamenti.md) automatico.
 
-> Vuoi aggiornare un prezzo o aggiungere un prodotto? Dimmi SKU e nuovo costo → rigenero `merch.json` + questa pagina + `merch.html` al prossimo build. Dati in [`merch.json`](merch.json) (JSON tecnico per agenti).
+> Vuoi aggiornare un prezzo or aggiungere un prodotto? Dimmi SKU e nuovo costo → rigenero `merch.json` + questa pagina + `merch.html` al prossimo build. Dati in [`merch.json`](merch.json) (JSON tecnico per agenti).
 
-Ultimo aggiornamento: 28/08/2026
+Last updated: 28/08/2026

@@ -1,17 +1,17 @@
 # Gracie's Beachside (ex Keegan's)
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | Zona | Lower Bay |
 | Cucina | 🐟 Locale di spiaggia |
 | Specialità | BBQ del sabato · piatti locali |
-| Costo | 💰€€ per persona senza bevande |
+| Costo | 💰€€ per person without drinks |
 | Location | 🏖️ beachside |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gracie's+Beachside+(ex+Keegan's)+Lower+Bay) |
 | Contatti | +1 784 458-3530 / 457-3472 |
-| Valutazioni | Google positiva → ★★★★ |
+| Currencyzioni | Google positiva → ★★★★ |
 | Orari | giorno · BBQ sabato |
 
 ## Menu
@@ -23,7 +23,7 @@
 
 ## Foto
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Foto non still disponibili — recuperare at the controllo mensile.*
 
 **Note**: keegansbequia.org
 

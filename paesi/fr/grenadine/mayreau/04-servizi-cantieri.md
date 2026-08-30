@@ -1,9 +1,9 @@
-# 04 — Servizi, cantieri e manutenzione
+# 04 — Services, Chantiers & Entretien
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026
 
 ## Hub — Salt Whistle Bay / Saline Bay
 
-| Servizi | Acqua/gelo via barge; negozio piccolo al village |
+| Servizi | Eau/gelo via barge; negozio piccolo al village |
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026

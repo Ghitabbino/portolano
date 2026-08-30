@@ -1,21 +1,21 @@
-# 00 — Ingresso, documenti e visti
+# 00 — Entry, Documents & Visas
 
-**Ultima verifica: 27/08/2026** · Contesto generale in [00 — Ingresso comune](../00-ingresso-visti.md) — vale per tutta la Grecia.
+**Last checked: 27/08/2026** · Contesto generale in [00 — Ingresso comune](../00-ingresso-visti.md) — vale for tutta la Grecia.
 
 ## Status (richiamo)
 
-| Voce | Dato |
+| Item | Data |
 |---|---|
 | Paese | Grecia — UE / Schengen / Euro |
-| Zona | **Cicladi** — suddivisione portolano |
-| Documenti UE | Carta d'identità o passaporto validi |
-| Visto UE | Non richiesto (libera circolazione) |
+| Area | **Cicladi** — suddivisione portolano |
+| Documenti UE | Valid national ID card or passport |
+| Visto UE | Not required (libera circolazione) |
 
-> Dettaglio ingressi via mare per questa zona: **DATO MANCANTE** — da verificare presso Port Authority competente per Cicladi (hcg.gr) ★★★★★
+> Detail ingressi via mare for questa zona: **DATA MISSING** — from check presso Port Authority competente for Cicladi (hcg.gr) ★★★★★
 
-## Specificità di zona
+## Specificità of zona
 
-- Approdi di ingresso con Port Police in Cicladi: **DATO MANCANTE** — verificare elenco Port of Entry su hcg.gr / mfa.gr ★★★★★
-- Formalità locali (tasse di soggiorno, aree marine protette, charter): **DATO MANCANTE** per Cicladi
+- Approdi of ingresso with Port Police in Cicladi: **DATA MISSING** — check elenco Port of Entry on hcg.gr / mfa.gr ★★★★★
+- Formalità locali (tasse of soggiorno, aree marine protette, charter): **DATA MISSING** for Cicladi
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

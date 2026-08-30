@@ -1,14 +1,14 @@
-# 10 — Ristoranti
+# 10 — Restaurants
 
-## Griglia generale
+## Grille générale
 
-| Ristorante | Zona | Costo | Cucina | Specialità | Location | Stelle |
+| Ristorante | Zone | Coût | Cuisine | Spécialité | Emplacement | Stelle |
 |---|---|---|---|---|---|---|
-| [Basil's Bar](ristoranti/rist-basils.md) | Britannia Bay | **€€€** | **🐟 Caraibica iconica** | *Lobster · sunset* | **🌴 sul molo, leggendaria** | ★★★★ |
-| [Cotton House](ristoranti/rist-cottonhouse.md) | Estate | **€€€€** | **🍽️ Elegante** | *Cucina resort* | **🏛️ piantagione storica** | ★★★★ |
+| [Basil's Bar](ristoranti/rist-basils.md) | Britannia Bay | **€€€** | **🐟 Caraïbesca iconica** | *Lobster · sunset* | **🌴 sul molo, leggendaria** | ★★★★ |
+| [Cotton House](ristoranti/rist-cottonhouse.md) | Estate | **€€€€** | **🍽️ Elegante** | *Cuisine resort* | **🏛️ piantagione storica** | ★★★★ |
 
-## App e fonti
+## Applis et sources
 
 Google Maps recensioni · prenotazioni dirette VHF/WhatsApp
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026

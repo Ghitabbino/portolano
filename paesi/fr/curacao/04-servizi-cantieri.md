@@ -1,6 +1,6 @@
-# 04 — Servizi, cantieri e manutenzione
+# 04 — Services, Chantiers & Entretien
 
-**Ultima verifica: 28/08/2026**
+**Dernière vérification: 28/08/2026**
 
 ## Hub principale — Willemstad / Piscadera (St. Anna Bay)
 
@@ -24,33 +24,33 @@
 | Cantiere / alaggio 60 t | **Curaçao Marine** | +599 9 465 8936 | Pletterijweg 6, St. Anna Bay — prenotare in alta stagione |
 | Posti + yard Piscadera | **Royal Marine Services** | +599 9 461-2028 | Piscadera, fuel dock + chandlery |
 | Marina Spanish Water | **Seru Boca Marina** | +599 9 840 0080 · VHF 67 | 130+ slip, 50Hz, WiFi |
-| Meccanico entrobordo | **DATO MANCANTE** — freelance in marina | Chiedere in capitainerie | — |
-| Elettricista marine | **DATO MANCANTE** | — | — |
-| Velaio / sailmaker | **DATO MANCANTE** — spesso mobile da Antigua/St. Martin | — | Spesso non residente |
-| Frigorista | **DATO MANCANTE** | — | Chiedere a Curaçao Marine |
-| Saldatura inox/alluminio | **DATO MANCANTE** | — | — |
+| Meccanico entrobordo | **DONNÉE MANQUANTE** — freelance in marina | Chiedere in capitainerie | — |
+| Elettricista marine | **DONNÉE MANQUANTE** | — | — |
+| Velaio / sailmaker | **DONNÉE MANQUANTE** — spesso mobile da Antigua/St. Martin | — | Spesso non residente |
+| Frigorista | **DONNÉE MANQUANTE** | — | Chiedere a Curaçao Marine |
+| Saldatura inox/alluminio | **DONNÉE MANQUANTE** | — | — |
 
-> Quando indicato **DATO MANCANTE** il nominativo non è stato verificato con websearch/webfetch in questa sessione; verrà ricercato al controllo mensile. ★★
+> Quando indicato **DONNÉE MANQUANTE** il nominativo non è stato verificato con websearch/webfetch in questa sessione; verrà ricercato al controllo mensile. ★★
 
-## Gas e bombole
+## Gaz et bouteilles
 
 - **Gas/GPL: spesso solo scambio bombole** standard locale/US (es. Campingaz o americane 20 lbs/100 lbs a tariffa regolata). La **RAC regola prezzi LPG** mensilmente. [rac.cw — Tariffs LPG 29/07/2025 ★★★★★]
-- Verificare compatibilità regolatore (US vs EU) prima dell'acquisto. ★★
+- Vérifier compatibilità regolatore (US vs EU) prima dell'acquisto. ★★
 
-## Acqua dolce
+## Eau douce
 
-- Acqua di banchina disponibile in marina (Seru Boca 50Hz shore power + water) — potabilità **DATO MANCANTE** specifica 2026 — chiedere in marina; tenere riserve/dissalatore pronto. ★★
+- Eau di banchina disponibile in marina (Seru Boca 50Hz shore power + water) — potabilità **DONNÉE MANQUANTE** specifica 2026 — chiedere in marina; tenere riserve/dissalatore pronto. ★★
 - A Curaçao Marine acqua di banchina al posto barca. ★★
 
-## Note strategiche
+## Notes stratégiques
 
 - Curaçao è **hub regionale per rimessaggio uragani sotto cintura**: entrepot **illimitato** senza equipaggio a curaçao Marine / Royal Marine / Seru Boca (Free Zone) — la barca può restare a terra senza limite, equipaggio rientra e ottiene nuovo permesso 6 mesi. Per lavori importanti molti armatori usano anche **Aruba (Varadero), Trinidad (Chaguaramas)** con travelift fino a 70–300 t. [allatsea.net — Free Zone 2011 ★★★; curports.com — Entrepot ★★★★★]
 - Ricambi: spedire **presso la marina indicando nome barca, posto barca e telefono**; confermare arrivo via email/telefono reception; dazio pagabile se fuori entrepot. ★★
 - Alta stagione dic–apr: atelier saturi — chiedere **preventivo scritto (devis)** e tempi. ★★
 
-Ultimo aggiornamento: 28/08/2026
+Dernière mise à jour: 28/08/2026
 
 ## Hub tecnico
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 

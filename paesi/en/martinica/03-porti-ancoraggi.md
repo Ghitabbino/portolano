@@ -1,12 +1,12 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
-**Ultima verifica: 21/08/2026** · Coordinate in gradi decimali o N/W come da fonte
+**Last checked: 21/08/2026** · Coordinate in gradi decimali o N/W come da fonte
 
 ## Costa sud — la zona base
 
 ### Le Marin ⚓ porto principale
 - **14°28.14'N 60°52.01'W** · VHF 09 · www.marina-martinique.fr ★★★★
-- La più grande marina dei Caraibi orientali: **830 posti a pontile + 100 boe**, fino a 60 m di LOA e 4,80 m di pescaggio, 220/400 V, raccolta acque nere/grigie a pontile, centro medico, lavanderia, supermercati, ristoranti, **riparo ciclonico**. ★★★
+- La più grande marina dei Caribbean orientali: **830 posti a pontile + 100 boe**, fino a 60 m di LOA e 4,80 m di pescaggio, 220/400 V, raccolta acque nere/grigie a pontile, centro medico, lavanderia, supermercati, ristoranti, **riparo ciclonico**. ★★★
 - Attracco tipico: poppa a pontile, prua a boa; staff aiuta alle manovre. ★★
 - Clearance in capitainerie (vedi [01](01-clearance.md)).
 - Carburante: Station-service CAP Ponton N°3, +596 596 765 161, tutti i giorni 7:30–13/14–17. ★★★★★
@@ -51,15 +51,15 @@
 ### Le Prêcheur / Saint-Pierre nord
 - Rada esposta; solo con meteo stabile. *(voce di banchina ★ — da verificare)*
 
-## Tariffe ormeggi e marine
+## Berthing & Marina Tariffs
 
-> Stesse voci per tutti i paesi; **DATO MANCANTE** = da ricercare al controllo mensile.
+> Stesse voci per tutti i paesi; **DATA MISSING** = da ricercare al controllo mensile.
 
 ### Marina du Marin — listino ufficiale 2024-25 (IVA 8,5% inclusa) ★★★★
 
 Contratti dovuti in anticipo. Prenotazione online www.marina-martinique.fr · VHF 09.
 
-| Voce | Costo | Note |
+| Item | Cost | Notes |
 |---|---|---|
 | Posto pontile — notte (barca ~12 m) | 0,72 €/piede ≈ **29 €** |Scaglione 30–49 ft; prime 2 notti 0,60 €/piede ★★★★|
 | Posto pontile — notte (multiscafo ~12 m) | ×1,5 ≈ **43 €** |Multiscafo +50% ★★★★|
@@ -72,22 +72,22 @@ Contratti dovuti in anticipo. Prenotazione online www.marina-martinique.fr · VH
 
 Maggiorazioni: live-aboard oltre 3 mesi +15%; tassa soggiorno 0,66 €/notte (solo stopover). Incluso: pompa acque nere/grigie, wifi, sanitari, rifiuti, posta/pacchi, navetta a galla, videosorveglianza.
 
-### Altre strutture
+### Other Facilities
 
-| Struttura | Costo/note | Fonte |
+| Facility | Cost/Notes | Source |
 |---|---|---|
 | Boe visitatori Fort Saint-Louis (Fort-de-France) | Non prenotabili, "turn up and see"; ≈ **10–15 €/notte**, raccolta incasso in barca ⚠️ confermare sul posto |Fonti diportiste aggregate ★★|
 | Boe Saint-Pierre | Prenotazione obbligatoria via app **Navilly** (nuovo 2025), pagamento in app; tariffa mostrata in app alla prenotazione (~10–15 €/notte) ⚠️ |SDSA feb 2025 ★★|
 
 ⚠️ **Da verificare prima della crociera**: listino Marina du Marin stagione successiva (PDF pubblicato di solito a gennaio), prezzi boe Saint-Pierre/Fort Saint-Louis, carburante CAP Ponton.
 
-## Distanze utili
+## Useful Distances
 
-| Tratta | Distanza |
+| Passage | Distance |
 |---|---|
 | Martinica – Santa Lucia | ~26 km sud |
 | Martinica – Dominica | ~35 km NW |
 
 ★★★
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

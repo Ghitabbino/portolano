@@ -1,18 +1,18 @@
 # Le Madras
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| Zona | Deshaies |
-| Cucina | 🐟 Creola fronte mare |
-| Specialità | Accras · thon |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🪶 bordo mare, set TV |
+| Area | Deshaies |
+| Cuisine | 🐟 Creola fronte mare |
+| Speciality | Accras · thon |
+| Cost | 💰€€ for persona without bevande |
+| Setting | 🪶 bordo mare, set TV |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Madras+Deshaies) |
-| Contatti | [Mappa](https://www.google.com/maps/search/?api=1&query=Restaurant+Le+Madras+Deshaies) |
-| Valutazioni | Google 4,3/5 (398) → ★★★★ |
-| Orari | pranzo tutto l'anno · cena stagionale ⚠️ |
+| Contacts | [Mappa](https://www.google.com/maps/search/?api=1&query=Restaurant+Le+Madras+Deshaies) |
+| Ratings | Google 4,3/5 (398) → ★★★★ |
+| Hours | pranzo all l'anno · cena stagionale ⚠️ |
 
 ## Menu
 
@@ -24,6 +24,6 @@
 
 ## Foto
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Foto non still disponibili — recuperare at the controllo mensile.*
 
-**Note**: 7 rue de la Vague Bleue · location della serie “Meurtres au paradis”
+**Note**: 7 rue de la Vague Bleue · location of the serie “Meurtres au paradis”

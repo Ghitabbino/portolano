@@ -1,51 +1,51 @@
-# 01 — Clearance doganale della barca
+# 01 — Yacht Customs Clearance
 
-**Ultima verifica: 27/08/2026**
+**Last checked: 27/08/2026**
 
-## Chi deve farla
+## Who Must Clear
 
-**DATO MANCANTE** — verificare su fonte governativa francese (Douane française / Affaires maritimes / SHOM) chi deve effettuare la clearance in entrata/uscita e negli spostamenti interni. ★★★★★
+**DATA MISSING** — check on fonte governativa francese (Douane française / Affaires maritimes / SHOM) chi deve effettuare la clearance in entrata/uscita and negli spostamenti interni. ★★★★★
 
-## Procedura
+## Procedure
 
-| Passo | Dettaglio | Fonte |
+| Passo | Detail | Source |
 |---|---|---|
-| Dichiarazione online | **DATO MANCANTE** | **DATO MANCANTE** |
-| Documenti richiesti | **DATO MANCANTE** | **DATO MANCANTE** |
-| Punti di ingresso | **DATO MANCANTE** | **DATO MANCANTE** |
+| Declaration online | **DATA MISSING** | **DATA MISSING** |
+| Documents required | **DATA MISSING** | **DATA MISSING** |
+| Ports of entry | **DATA MISSING** | **DATA MISSING** |
 
-## Copia cartacea e timbro
+## Paper Copy & Stamp
 
-**DATO MANCANTE**.
+**DATA MISSING**.
 
-## Costi
+## Fees
 
-| Voce | Costo | Fonte |
+| Item | Cost | Source |
 |---|---|---|
-| Dichiarazione | **DATO MANCANTE** | **DATO MANCANTE** |
-| Timbro / diritti portuali | **DATO MANCANTE** | **DATO MANCANTE** |
+| Declaration | **DATA MISSING** | **DATA MISSING** |
+| Timbro / diritti portuali | **DATA MISSING** | **DATA MISSING** |
 
-## Punti agréé / porti di ingresso
+## Authorised Ports / porti of ingresso
 
-| Località | Punto | Contatti | Orari |
+| Località | Punto | Contacts | Hours |
 |---|---|---|---|
-| **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** |
+| **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** |
 
-## Dogana regionale
+## Regional Customs
 
-**DATO MANCANTE** — verificare recapito Douane française — Aduanas.
+**DATA MISSING** — check recapito Douane française — Aduanas.
 
-## Esperienze dei crocieristi
+## Esperienze of the crocieristi
 
-**DATO MANCANTE**.
+**DATA MISSING**.
 
-## Sanzioni
+## Penalties
 
-**DATO MANCANTE** — verificare normativa francese.
+**DATA MISSING** — check normativa francese.
 
-## Da verificare prima della crociera
+## To Verify Before Your Cruise
 
-- Lista porti di ingresso aggiornati e orari.
-- Modulistica e URL ufficiale per la dichiarazione.
+- Lista porti of ingresso aggiornati and orari.
+- Modulistica and URL ufficiale for la dichiarazione.
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

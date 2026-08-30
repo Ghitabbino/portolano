@@ -1,42 +1,41 @@
-# 08 — Ancoraggi
+# 08 — Anchorage Pilot
 
-## Ancoraggi in dettaglio
+## Detailed Anchoring Information
 
-| # | Ancoraggio | Riparo | Fondo | Prof. | Boe |
+| # | Anchorage | Shelter | Bottom | Depth | Boe |
 |---|---|---|---|---|---|
-| 1 | [Admiralty Nord (Princess Margaret)](ancoraggi/anc-admiralty-nord.md) | ★★★★★ | Sabbia | 4–8 m | Boe Daffodil ~US$30/notte |
-| 2 | [Lower Bay](ancoraggi/anc-lower-bay.md) | ★★★★ | Sabbia | 5–10 m | No |
-| 3 | [Friendship Bay](ancoraggi/anc-friendship.md) | ★★★ | Sabbia | 4–7 m | No |
+| 1 | [Admiralty Nord (Princess Margaret)](ancoraggi/anc-admiralty-nord.md) | ★★★★★ | Sand | 4–8 m | Boe Daffodil ~US$30/notte |
+| 2 | [Lower Bay](ancoraggi/anc-lower-bay.md) | ★★★★ | Sand | 5–10 m | No |
+| 3 | [Friendship Bay](ancoraggi/anc-friendship.md) | ★★★ | Sand | 4–7 m | No |
 
 
 
-**Ultimo aggiornamento: 23/08/2026**
+**Last updated: 23/08/2026**
 
 
 ## Admiralty Bay
 
-Uno dei migliori porti naturali dei Caraibi orientali: a "U" profonda, riparata dal swell atlantico ★★★★
+One of the best natural harbours in the Eastern Caribbean: a "U" shaped, sheltered from Atlantic swell ★★★★
 
-| Zona | Dettagli |
+| Zone | Details |
 |---|---|
-| **Metà nord, davanti Princess Margaret** | Sabbia buona, **4–8 m** — [SVG Yachting](https://www.svgyachting-grenadines.com/blog/bequia-yacht-charter-guide) ★★★★ |
-| Boe **Daffodil** | In tutta la baia, **~US$30/notte** ★★★★ |
-| ⚠️ Evitare | Basse acque lungo Belmont Walkway; scogli marcati sul lato sud ★★★★ |
-| ⚠️ Rotta traghetto | Restare liberi dal corridoio verso il molo principale — [insandoutsofsvg](https://www.insandoutsofsvg.com/articles/beaches-anchorages) ★★★ |
-| Princess Margaret | Obbligatorio **ancorare ≥200 iarde da riva** per i bagnanti; dinghy dock ★★★★ |
+| **North half, facing Princess Margaret** | Good sand bottom, **4–8 m** — [SVG Yachting](https://www.svgyachting-grenadines.com/blog/bequia-yacht-charter-guide) ★★★★ |
+| Boe **Daffodil** | Throughout the bay, **~US$30/notte** ★★★★ |
+| ⚠️ Avoid | Low water along Belmont Walkway; marked rocks on the south side ★★★★ |
+| Princess Margaret | Mandatory to anchor at least **200 yards from shore** for swimmers; dinghy dock ★★★★ |
 
-## Altre baie
+## Other Bays
 
-| Ancoraggio | Note |
+| Anchorage | Notes |
 |---|---|
-| **Lower Bay** | Grande spiaggia; ristoranti a riva (Keegan's, De Reef, Dawn's, Petra's) ★★★★ |
-| **Friendship Bay** | Mezzaluna riparata a sud; snorkel/dive; Bequia Beach Hotel (day-pass US$75) ★★★ |
-| Spring / Industry (est) | Deserte, kitesurf; Crescent Beach; Sugar Reef Café — solo con meteo stabile ★★ |
-| **Petit Nevis** | Day anchorage; isola-quartiere ex baleniera ★★★ |
-| **Isle à Quatre** | Notte tranquilla tra Bequia e Mustique [Guida CCA nov 2025](https://cruisingclub.org/sites/default/files/events/Grenadines%20Info%20%26%20Local%20Resources%2025.11.23.pdf) ★★★ |
+| **Lower Bay** | Large beach; onshore restaurants (Keegan's, De Reef, Dawn's, Petra's) ★★★★ |
+| **Friendship Bay** | Sheltered crescent to the south; snorkeling/diving; Bequia Beach Hotel (day-pass US$75) ★★★ |
+| Spring / Industry (east) | Deserted, kitesurfing; Crescent Beach; Sugar Reef Café — only with stable weather ★★ |
+| **Petit Nevis** | Day anchorage; ex-whaling station quarter island ★★★ |
+| **Isle à Quatre** | Quiet overnight between Bequia and Mustique [CCA Guide Nov 2025](https://cruisingclub.org/sites/default/files/events/Grenadines%20Info%20%26%20Local%20Resources%2025.11.23.pdf) ★★★ |
 
-## Eventi
+## Events
 
-- **Bequia Easter Regatta** (4 giorni a Pasqua): baia piena — festa o da evitare, a gusto ★★★★
+- **Bequia Easter Regatta** (4 days at Easter): bay full — party or to be avoided, as per preference ★★★★
 
-Ultimo aggiornamento: 23/08/2026
+**Last updated: 23/08/2026**

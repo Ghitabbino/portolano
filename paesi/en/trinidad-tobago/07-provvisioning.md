@@ -1,4 +1,4 @@
-# 07 — Provvisioning
+# 07 — Provisioning
 
 **Ultima verifica: 24/08/2026**
 
@@ -11,11 +11,11 @@
 
 | Negozio | Ubicazione | Distanza dalla marina | A piedi? | Telefono | Consegna a bordo? |
 |---|---|---|---|---|---|
-| **Massy Stores – West Mall / Chaguaramas** | West Mall, Chaguaramas | ~1–2 km dai cantieri di Chaguaramas | ✅ sì / taxi | DATO MANCANTE | DATO MANCANTE |
-| **Tru Valu – Trincity / Port of Spain** | Trincity, Port of Spain | ~15 km da Chaguaramas | ⚠️ taxi | DATO MANCANTE | DATO MANCANTE |
-| Penny Savers – Tobago, Crown Point | Crown Point, Tobago | ~1 km dall'ancoraggio | ✅ sì | DATO MANCANTE | DATO MANCANTE |
+| **Massy Stores – West Mall / Chaguaramas** | West Mall, Chaguaramas | ~1–2 km dai cantieri di Chaguaramas | ✅ sì / taxi | DATA MISSING | DATA MISSING |
+| **Tru Valu – Trincity / Port of Spain** | Trincity, Port of Spain | ~15 km da Chaguaramas | ⚠️ taxi | DATA MISSING | DATA MISSING |
+| Penny Savers – Tobago, Crown Point | Crown Point, Tobago | ~1 km dall'ancoraggio | ✅ sì | DATA MISSING | DATA MISSING |
 
-> **Nota metodo:** quando il telefono è indicato **DATO MANCANTE** significa che non è stato verificato con websearch/webfetch in questa sessione; verrà ricercato al controllo mensile. ★★
+> **Nota metodo:** quando il telefono è indicato **DATA MISSING** significa che non è stato verificato con websearch/webfetch in questa sessione; verrà ricercato al controllo mensile. ★★
 
 ### Dettagli per base principale — Chaguaramas (Trinidad)
 
@@ -33,7 +33,7 @@
 
 | Servizio | Dove | Note |
 |---|---|---|
-| Water dock | Marina principale Chaguaramas (Trinidad) | DATO MANCANTE tariffa/m³ — verificare in capitainerie → [03](03-porti-ancoraggi.md) |
+| Water dock | Marina principale Chaguaramas (Trinidad) | DATA MISSING tariffa/m³ — verificare in capitainerie → [03](03-porti-ancoraggi.md) |
 | Fuel dock | Stazione carburante del porto | Prezzi variabili, gasolio ~1,1–1,6 USD/l a seconda dell'isola → [02 Costi](02-costi.md) |
 | Gas (butane/propane) | Scambio bombole tipo locale/US | Solo scambio, niente rabbocco dove non previsto → [04 Servizi](04-servizi-cantieri.md) |
 
@@ -42,13 +42,13 @@
 ### Taxi
 
 - Servizio taxi disponibile ma non a tassametro nella maggior parte delle isole Leeward/Windward: **tariffa da concordare prima di salire**. ★★
-- Tratta tipica marina ↔ supermercato: **DATO MANCANTE** prezzo verificato — stimato 10–30 USD a seconda della distanza; confermare con autista o capitainerie. ★★
-- Contatto taxi: chiedere in marina/capitainerie o al supermarket; numeri centralizzati spesso non pubblicati online — **DATO MANCANTE** se non trovato con websearch. ★★
+- Tratta tipica marina ↔ supermercato: **DATA MISSING** prezzo verificato — stimato 10–30 USD a seconda della distanza; confermare con autista o capitainerie. ★★
+- Contatto taxi: chiedere in marina/capitainerie o al supermarket; numeri centralizzati spesso non pubblicati online — **DATA MISSING** se non trovato con websearch. ★★
 
 ### Bus / minibus
 
 - Minibus / bus locali: frequenti sulle direttrici principali (es. Port of Spain ↔ marina), passaggio ogni 15–30 min di giorno, biglietto ~1–2 USD. ★★
-- Fermata più vicina alla marina: **DATO MANCANTE** posizione esatta — chiedere in capitainerie; spesso fermata sulla strada principale a 100–300 m. ★★
+- Fermata più vicina alla marina: **DATA MISSING** posizione esatta — chiedere in capitainerie; spesso fermata sulla strada principale a 100–300 m. ★★
 - Scomodo con carichi pesanti: meglio taxi per casse d'acqua o cambusa settimanale. ★★
 
 ## Consigli pratici
@@ -57,4 +57,4 @@
 - Acqua in bottiglia: fare scorta dove l'acqua di banchina non è potabile o è razionata. ★★
 - Verificare sempre orari festivi e disponibilità di ghiaccio prima di traversate lunghe. ★★
 
-Ultimo aggiornamento: 24/08/2026
+Last updated: 24/08/2026

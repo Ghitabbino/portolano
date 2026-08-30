@@ -1,10 +1,10 @@
 # Nargana / Río Sidra {#anc-nargana}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← All Anchorages](../08-ancoraggi.md)
 
 **9°27.5′N 78°51.0′W** ★★
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | **Profondità** |6–14 m fango/sabbia davanti ai villaggi ★★|
 | **Tenuta àncora** | Buona |
@@ -17,4 +17,4 @@
 <div class="mapframe" data-slug="anc-nargana" data-lat="9.4446" data-lon="-78.5867"></div>
 *Vista mappa Nargana / Río Sidra · mappa offline*
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026

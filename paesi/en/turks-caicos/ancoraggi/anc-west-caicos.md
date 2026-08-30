@@ -18,4 +18,4 @@
 
 Fonti: tcimall.tc ★★★ · visittci.com/west-caicos (rev. 2026) ★★★ · Noonsite West Caicos ★★★ · gov.tc DECR (West Caicos NP) ★★★★
 
-Ultimo aggiornamento: 28/08/2026
+Last updated: 28/08/2026

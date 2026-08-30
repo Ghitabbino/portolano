@@ -1,18 +1,18 @@
 # Bitter End Yacht Club
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | North Sound, Virgin Gorda |
-| Cucina | 🍽️ Resort nautico |
-| Specialità | — |
-| Costo | 💰€€€ per persona senza bevande |
-| Location | ⚓ icona North Sound |
+| Zone | North Sound, Virgin Gorda |
+| Cuisine | 🍽️ Resort nautico |
+| Spécialité | — |
+| Coût | 💰€€€ per persona senza bevande |
+| Emplacement | ⚓ icona North Sound |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bitter+End+Yacht+Club+North+Sound,+Virgin+Gorda) |
-| Contatti | beyc.com |
-| Valutazioni | — → ★★★ |
-| Orari | in stagione |
+| Contacts | beyc.com |
+| Évaluations | — → ★★★ |
+| Horaires | in stagione |
 
 ## Menu
 
@@ -20,8 +20,8 @@
 
 **Chef**: ND
 
-## Foto
+## Photos
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Photos non ancora disponibili — recuperare al controllo mensile.*
 
 **Note**: Ricostruito post-uragani

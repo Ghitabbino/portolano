@@ -1,18 +1,18 @@
 # Coconut Restaurant & Bar
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Salt Whistle Bay |
-| Cucina | 🐟 Caraibica |
-| Specialità | Pesce · langousta |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🏖️ sulla baia |
+| Zone | Salt Whistle Bay |
+| Cuisine | 🐟 Caraïbesca |
+| Spécialité | Pesce · langousta |
+| Coût | 💰€€ per persona senza bevande |
+| Emplacement | 🏖️ sulla baia |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Coconut+Restaurant+&+Bar+Salt+Whistle+Bay) |
-| Contatti | ND |
-| Valutazioni | Guida CCA 11/2025 → ★★★ |
-| Orari | giorno/sera (stagione) |
+| Contacts | ND |
+| Évaluations | Guida CCA 11/2025 → ★★★ |
+| Horaires | giorno/sera (stagione) |
 
 ## Menu
 
@@ -21,8 +21,8 @@
 
 **Chef**: ND
 
-## Foto
+## Photos
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Photos non ancora disponibili — recuperare al controllo mensile.*
 
 **Note**: Sulla spiaggia di Salt Whistle

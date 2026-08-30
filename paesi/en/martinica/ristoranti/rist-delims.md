@@ -1,17 +1,17 @@
 # Delim's
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | Zona | Sainte-Anne |
 | Cucina | 🐟 Langouste e lambi |
 | Specialità | Langouste · lambi · chatrou |
-| Costo | 💰€€€ per persona senza bevande |
+| Costo | 💰€€€ per person without drinks |
 | Location | 🍽️ raffinato |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Delim's+Sainte-Anne) |
 | Contatti | 0696 35 48 59 (prenotazioni 0696 75 49 13) |
-| Valutazioni | TA 4,7/5 (140) → ★★★★½ |
+| Currencyzioni | TA 4,7/5 (140) → ★★★★½ |
 | Orari | lun-gio-ven-sab 19–22 · sab-dom 12–15 · chiuso mar–mer |
 
 ## Menu

@@ -1,6 +1,6 @@
-# 10 — Ristoranti
+# 10 — Restaurants
 
-**DATO MANCANTE** — griglia completa da creare. Schede già presenti:
+**DATA MISSING** — griglia completa da creare. Schede già presenti:
 
 | Ristorante | Isola/area | Note |
 |---|---|---|
@@ -13,14 +13,14 @@
 | Rotas | **da verificare** | scheda presente |
 | Ti Choa | **da verificare** | scheda presente |
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026
 
-## Griglia generale
+## General Grid
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## App e fonti
+## Apps & Sources
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 

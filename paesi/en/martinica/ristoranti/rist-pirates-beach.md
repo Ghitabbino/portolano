@@ -1,17 +1,17 @@
 # Pirates Beach
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | Zona | Anse Caritan |
 | Cucina | 🥩 Burgers antillais |
 | Specialità | Boeuf mijoté aux épices · accras |
-| Costo | 💰€€ per persona senza bevande |
+| Costo | 💰€€ per person without drinks |
 | Location | 🏖️ beach club con sdraio |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pirates+Beach+Anse+Caritan) |
 | Contatti | 0696 86 08 64 / 0596 67 07 56 |
-| Valutazioni | TA 4,5/5 (302) → ★★★★½ |
+| Currencyzioni | TA 4,5/5 (302) → ★★★★½ |
 | Orari | mer–dom ~12–17/18 · chiuso lun–mar |
 
 ## Menu

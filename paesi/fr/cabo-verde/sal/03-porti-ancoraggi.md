@@ -1,40 +1,40 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026
 
 ## Ancoraggi
 
 | Posto | Fondo | Prof. | Note |
 |---|---|---|---|
-| Palmeira (nord) | sabbia/fango | 4-9 m | Porto peschereccio, base logistica nord |
+| Palmeira (nord) | sabbia/fango | 4-9 m | Port peschereccio, base logistica nord |
 | Santa Maria (pontile) | sabbia | 3-7 m | Davanti al paese turistico; rolla con SW |
 
 ## Marine
 
 Nessuna marina turistica: ancoraggio e pontili locali gestiti dalla capitania/porto pesca ⚠️.
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026
 
-## Tariffe
-## Distanze utili
-Ultimo aggiornamento: 22/08/2026
+## Tarifs
+## Distances utiles
+Dernière mise à jour: 22/08/2026
 
-## Tariffe ormeggi e marine
+## Tarifs d’amarrage & marinas
 
-| Voce | Costo | Note |
+| Rubrique | Coût | Note |
 |---|---|---|
-| Posto pontile/peschereccio | **DATO MANCANTE** — concordare in capitania/porto | Nessun listino turistico pubblicato |
-| Boa | **DATO MANCANTE** | |
-| Ancoraggio | **Gratuito** fuori zone regolamentate | |
-| Acqua | **DATO MANCANTE** | Chiedere in porto |
-| Elettricità | **DATO MANCANTE** | |
+| Posto pontile/peschereccio | **DONNÉE MANQUANTE** — concordare in capitania/porto | Nessun listino turistico pubblicato |
+| Bouée | **DONNÉE MANQUANTE** | |
+| Mouillage | **Gratuito** fuori zone regolamentate | |
+| Eau | **DONNÉE MANQUANTE** | Chiedere in porto |
+| Électricité | **DONNÉE MANQUANTE** | |
 
-## Distanze utili
+## Distances utiles
 
-| Tratta | Distanza | Note |
+| Trajet | Distance | Note |
 |---|---|---|
-| Mindelo – Sal | ~110 Mm | Aliseo NE |
+| Mindelo – Sal | ~110 Mm | Alizé NE |
 | Praia – Fogo | ~30 Mm | |
 | Fogo – Brava | ~15 Mm | |
 
-Ultimo aggiornamento: 24/08/2026
+Dernière mise à jour: 24/08/2026

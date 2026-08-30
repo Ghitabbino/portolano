@@ -1,17 +1,17 @@
 # El Puerto
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Valle Gran Rey – paseo marítimo |
-| Cucina | 🐟 Pesce fresco specializzato |
-| Specialità | Pescado fresco alla plancha |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🌊 fronte mare posizione unica |
-| Contatti | [Google Maps](https://www.google.com/maps/search/?api=1&query=El+Puerto+Valle+Gran+Rey+La+Gomera) |
-| Valutazioni |sito ristoratori ★★★★|
-| Orari | pranzo/cena |
+| Zone | Valle Gran Rey – paseo marítimo |
+| Cuisine | 🐟 Pesce fresco specializzato |
+| Spécialité | Pescado fresco alla plancha |
+| Coût | 💰€€ per persona senza bevande |
+| Emplacement | 🌊 fronte mare posizione unica |
+| Contacts | [Google Maps](https://www.google.com/maps/search/?api=1&query=El+Puerto+Valle+Gran+Rey+La+Gomera) |
+| Évaluations |sito ristoratori ★★★★|
+| Horaires | pranzo/cena |
 
 ## Menu
 
@@ -21,4 +21,4 @@
 
 **Note**: Specializzato solo pesce
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026

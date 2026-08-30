@@ -1,23 +1,23 @@
-# 00 — Ingresso, documenti e visti
+# 00 — Entry, Documents & Visas
 
-**DATO MANCANTE** — scheda da creare (status, cittadini UE, arrivo via mare, permanenza).
+**DATA MISSING** — scheda da creare (status, cittadini UE, arrivo via mare, permanenza).
 Portogallo/Azzorre: normative nazionali portoghesi + regime regione autonoma.
 
 Fonti da consultare: portugal.gov.pt · visitazores.com ★★★★
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026
 
 ## Status
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## Cittadini UE
+## EU Citizens
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## La barca
+## The Yacht
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 

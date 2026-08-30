@@ -1,18 +1,18 @@
-# 10 — Ristoranti
+# 10 — Restaurants
 
-**Ultimo aggiornamento: 25/08/2026**
+**Dernière mise à jour: 25/08/2026**
 
 Selezione orientata alla crociera: locali raggiungibili a piedi dai dinghy dock, dalle boe e dalle spiagge del portolano ([08 Ancoraggi](08-ancoraggi.md)). Valutazione stelle = sintesi Google/TripAdvisor + siti locali (Discover Dominica, Destination Magazines, VakayGo), verificata il 25/08/2026. Prezzi indicativi per persona senza bevande.
 
-Legenda prezzi: **€** <20 USD ( <50 XCD) · **€€** 20–40 USD (50–100 XCD) · **€€€** >40 USD — Cucina: 🐟 pesce e frutti di mare · 🥩 carne e grigliate · 🥗 vegetariano-friendly · 🥙 street food creolo · 🍰 dolci
+Légende prezzi: **€** <20 USD ( <50 XCD) · **€€** 20–40 USD (50–100 XCD) · **€€€** >40 USD — Cuisine: 🐟 pesce e frutti di mare · 🥩 carne e grigliate · 🥗 vegetariano-friendly · 🥙 street food creolo · 🍰 dolci
 
-## Mappa dei ristoranti
+## Carte des restaurants
 
 <div class="mapframe" data-slug="dominica" data-minz="9" data-maxz="17" data-lat="15.35" data-lon="-61.38" data-markers='[[15.2975, -61.3870, "Palisades", "rist-palisades"], [15.2970, -61.3855, "Zeb Zepis Bistro", "rist-zeb-zepis"], [15.2955, -61.3850, "Lacou Melrose House", "rist-lacou-melrose"], [15.3060, -61.3480, "Papillote Rainforest", "rist-papillote"], [15.5840, -61.4620, "Purple Turtle Beach Club", "rist-purple-turtle"], [15.5820, -61.4625, "Madiba Beach Cafe", "rist-madiba"], [15.4530, -61.4350, "Sunset Bay Club", "rist-sunset-bay"], [15.2120, -61.3650, "Chez Wen Cuisine", "rist-chez-wen"], [15.5930, -61.3540, "Coral Reef", "rist-coral-reef"], [15.5430, -61.2850, "Pagua Bay Bar & Grill", "rist-pagua-bay"]]'></div>
 
-## Griglia generale
+## Grille générale
 
-| Ristorante | Zona | Costo | Cucina | Specialità | Location | Stelle |
+| Ristorante | Zone | Coût | Cuisine | Spécialité | Emplacement | Stelle |
 |---|---|---|---|---|---|---|
 | [Palisades Restaurant](ristoranti/rist-palisades.md) | Roseau Bay Front (Fort Young) | **€€€** | **🐟 Creola contemporanea / pesce** | *Steamed local fish · BBQ jerk octmodel / callaloo soup* | **🌅 terrazza sul mare, hotel 4*** | ★★★★½ |
 | [Zèb Zépis Bistro](ristoranti/rist-zeb-zepis.md) | Roseau centro | **€€** | **🥗 Creola vegetariana & pesce** | *Callaloo · plantain · pesce fresco* | **🪶 patio urbano, casuale* | ★★★★½ |
@@ -22,10 +22,10 @@ Legenda prezzi: **€** <20 USD ( <50 XCD) · **€€** 20–40 USD (50–100 X
 | [Madiba Beach Cafe](ristoranti/rist-madiba.md) | Lagon, Portsmouth | **€€** | **🐟 Grill / pesce fresco** | *Kingfish · Marlin · ribs* | **🏖️ beach bar rilassato* | ★★★★ |
 | [Sunset Bay Club Lobster Palace](ristoranti/rist-sunset-bay.md) | Batalie Beach (Baroui) | **€€€** | **🐟 Aragosta / steak / seafood** | *Pan-fried lobster · seasonal crayfish* | **🏖️ fronte spiaggia turchese* | ★★★★ |
 | [Chez Wen Cuisine](ristoranti/rist-chez-wen.md) | Scotts Head | **€€** | **🐟 Creola / seafood boil** | *Seafood boil (gio) · lobster · crab legs* | **🌅 bayside open-air* | ★★★★ |
-| [Coral Reef Restaurant](ristoranti/rist-coral-reef.md) | Calibishie | **€€** | **🥩 Caraibica classica** | *Goat curry · ribs · fried plantain · hot sauce Scotch bonnet* | **🏖️ open-air fronte Red Rocks* | ★★★★ |
+| [Coral Reef Restaurant](ristoranti/rist-coral-reef.md) | Calibishie | **€€** | **🥩 Caraïbesca classica** | *Goat curry · ribs · fried plantain · hot sauce Scotch bonnet* | **🏖️ open-air fronte Red Rocks* | ★★★★ |
 | [Pagua Bay Bar & Grill](ristoranti/rist-pagua-bay.md) | Pagua Bay (Marigot, est) | **€€** | **🥩 Americana-caraibica** | *Goat tacos · mahi-mahi salsa · seafood* | **🌅 vista oceano* | ★★★★ |
 
-## App e fonti
+## Applis et sources
 
 | Piattaforma | Uso locale |
 |---|---|
@@ -36,4 +36,4 @@ Legenda prezzi: **€** <20 USD ( <50 XCD) · **€€** 20–40 USD (50–100 X
 | Google Maps recensioni | Il più aggiornato per orari/verifica apertura; recensioni recenti e foto menu |
 | Facebook/Instagram locali | Pagine dei ristoranti (Papillote, Chez Wen, Palisades, Sunset Bay): menu e chiusure in tempo reale |
 
-Ultimo aggiornamento: 25/08/2026
+Dernière mise à jour: 25/08/2026

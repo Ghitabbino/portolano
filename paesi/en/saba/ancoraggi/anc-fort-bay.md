@@ -1,4 +1,4 @@
-# Fort Bay — ancoraggio {#anc-fort-bay}
+# Fort Bay — anchorage {#anc-fort-bay}
 
 [← Tutti gli ancoraggi](../08-ancoraggi.md)
 **17°37.0′N 63°14.3′W**
@@ -16,4 +16,4 @@
 <div class="mapframe" data-slug="anc-fort-bay" data-lat="17.617" data-lon="-63.238"></div>
 *Mappa offline Fort Bay — zoom con i pulsanti +/−; menu in alto a destra per Carta nautica e Segnali*
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

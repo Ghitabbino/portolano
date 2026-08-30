@@ -7,7 +7,7 @@
 | Zona | Grace Bay |
 | Cucina | 🥩 Creola contemporanea / int.le |
 | Specialità | *Lobster · cracked conch · rum cake* |
-| Costo | 💰€€€ per persona senza bevande |
+| Costo | 💰€€€ per person without drinks |
 | Location | 🌴 palmeto — coconut grove |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Coco+Bistro+Grace+Bay+Providenciales) |
 | Contatti | +1 (649) 946-5369 · [cocobistro.tc](https://www.cocobistro.tc) |

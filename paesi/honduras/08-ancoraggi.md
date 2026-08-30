@@ -16,20 +16,26 @@ Ultimo aggiornamento: 25/08/2026
 
 ## Regole generali
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
+Parco Marino Bay Islands: divieto pesca con arpione, divieto raccolta corallo, rispetto boe. Ancoraggio su sabbia, evitare prateria corallo. Permesso parco **DATO MANCANTE** costo. ★★
 
 ## Tabella riassuntiva
 
-**DATO MANCANTE** — da completare al controllo mensile.
+| # | Ancoraggio | Fondo | Riparo | Note |
+|---|---|---|---|---|
+| 1 | Roatán French Harbour | sabbia/fango | ★★★★ | Capitaneria, rifornimenti |
+| 2 | Roatán Port Royal | sabbia | ★★★★ | Est riparato |
+| 3 | Utila harbour | sabbia | ★★★ | Villaggio, diving |
+| 4 | Guanaja Bonacca | sabbia | ★★★★ | Molto riparato |
 
+<div class="mapframe" data-slug="honduras" data-minz="7" data-maxz="16" data-lat="16.30" data-lon="-86.50" data-markers='[[16.3520, -86.4380, "French Harbour", "anc-french-harbour"],[16.0970, -86.8960, "Utila harbour", "anc-utila"],[16.4400, -85.8750, "Guanaja Bonacca", "anc-guanaja"]]'></div>
 
 ## Cartografia ufficiale
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
+BA Chart 2814, NV Charts Honduras, Navionics. Verificare barriera esterna (reef) — navigare con sole alto. ★★
 
 ## Checklist àncora
 
-**DATO MANCANTE** — da completare al controllo mensile.
+Tenuta su sabbia buona (ovunque), attenzione a banchi corallo non cartografati a E di Roatán. Controllare holding dopo fronte Norte. ★★
+
+Ultimo aggiornamento: 29/08/2026
 

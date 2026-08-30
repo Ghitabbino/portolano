@@ -1,10 +1,10 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
-**Ultima verifica: 24/08/2026** · Coordinate in N/W come da fonte · VHF canale 16 sempre in ascolto
+**Last checked: 24/08/2026** · Coordinate in N/W come da fonte · VHF canale 16 sempre in ascolto
 
 ## Costa est — Fajardo (hub principale)
 
-### Puerto del Rey — Fajardo ⚓ marina più grande dei Caraibi
+### Puerto del Rey — Fajardo ⚓ marina più grande dei Caribbean
 - **18°17.244'N 065°38.077'W** · VHF **16 / 71** · tel **787-860-1000** · `puertodelrey.com` ★★★★★
 - **~1.200 posti** a pontile, accoglie fino a **200 ft (61 m)** e pescaggio fino a **15 ft (4,6 m)**. Elettricità 30/50/100A, acqua, carburante, travelift 165 t, cantiere, ristoranti e servizi completi. Base di partenza ideale per Culebra/Vieques. ★★★★★
 - Fuel dock tipicamente **08:30–17:30**; acqua ed elettricità a banchina a tariffa marina. ★★★
@@ -16,7 +16,7 @@
 - Travelift minore, carenaggio, alternativa al Boatyard per barche medie. ★★★
 
 ### Palmas del Mar — Humacao (sud-est)
-- Marina resort con servizi completi, piscina, ristoranti, campo golf. **DATO MANCANTE** per tariffe e contatti aggiornati — verificare su `palmasdelmar.com`. ★★
+- Marina resort con servizi completi, piscina, ristoranti, campo golf. **DATA MISSING** per tariffe e contatti aggiornati — verificare su `palmasdelmar.com`. ★★
 - Utile come scalo tra Fajardo e Ponce. ★★
 
 ## San Juan — nord
@@ -26,7 +26,7 @@
 - Elettricità, acqua, docce, lavanderia, ristorante club. Accesso riservato soci/transit — chiamare in anticipo. ★★★★
 
 ### San Juan Bay Marina — adiacente al Club Náutico
-- Posti per yacht di grandi dimensioni, servizi completi. Contatti e tariffe **DATO MANCANTE** — verificare via `sanjuansailing.com` o capitainerie. ★★
+- Posti per yacht di grandi dimensioni, servizi completi. Contatti e tariffe **DATA MISSING** — verificare via `sanjuansailing.com` o capitainerie. ★★
 - Tren Urbano + AMA bus vicini per provvisioning → [07](07-provvisioning.md). ★★★
 
 ### Culebra e Vieques — Isole Spagnole (ormeggio limitato)
@@ -41,7 +41,7 @@
 - Shipyard con travelift; utile per sosta tecnica sulla costa sud senza risalire a Fajardo. Supermercati Econo/Selectos a 2–4 km → [07](07-provvisioning.md). ★★★★
 
 ### Marina Pescadería — Cabo Rojo / La Parguera (sud-ovest)
-- **Costa sud-ovest**, vicino a La Parguera/Boquerón. Servizi base, punto d'appoggio per la costa ovest, canale segnalato ma molte nasse. Dati completi **DATO MANCANTE** — verificare con marina locale. ★★
+- **Costa sud-ovest**, vicino a La Parguera/Boquerón. Servizi base, punto d'appoggio per la costa ovest, canale segnalato ma molte nasse. Dati completi **DATA MISSING** — verificare con marina locale. ★★
 
 ## Costa ovest
 
@@ -51,27 +51,27 @@
 ### Boquerón — Cabo Rojo
 - Baia ridossata, ancoraggio e servizi a terra; marina minore. ★★★
 
-## Tariffe ormeggi e marine
+## Berthing & Marina Tariffs
 
-> Stesse voci per tutti i paesi; **DATO MANCANTE** = da ricercare al controllo mensile. I prezzi sotto sono indicativi e vanno confermati con la marina prima della crociera (alta stagione dic–apr con prenotazione anticipata).
+> Stesse voci per tutti i paesi; **DATA MISSING** = da ricercare al controllo mensile. I prezzi sotto sono indicativi e vanno confermati con la marina prima della crociera (alta stagione dic–apr con prenotazione anticipata).
 
 | Struttura | Costo/notte noto | Note | Fonte |
 |---|---|---|---|
-| Puerto del Rey (transito ~12 m / 40 ft) | **DATO MANCANTE** | Listino stagionale su richiesta; alta stagione dic–apr, prenotare con largo anticipo. Elettricità/acqua a consumo. | ★★ |
-| Ponce Yacht & Fishing Club (~12 m) | **DATO MANCANTE** | | |
-| Club Náutico San Juan (~12 m) | **DATO MANCANTE** | Club — tariffa soci/ospiti | |
-| Varadero Puerto Chico | **DATO MANCANTE** | | |
-| Elettricità / Acqua a banchina | **DATO MANCANTE** | A Puerto del Rey meter a consumo; altre marine inclusa o a forfait | |
+| Puerto del Rey (transito ~12 m / 40 ft) | **DATA MISSING** | Listino stagionale su richiesta; alta stagione dic–apr, prenotare con largo anticipo. Elettricità/acqua a consumo. | ★★ |
+| Ponce Yacht & Fishing Club (~12 m) | **DATA MISSING** | | |
+| Club Náutico San Juan (~12 m) | **DATA MISSING** | Club — tariffa soci/ospiti | |
+| Varadero Puerto Chico | **DATA MISSING** | | |
+| Elettricità / Acqua a banchina | **DATA MISSING** | A Puerto del Rey meter a consumo; altre marine inclusa o a forfait | |
 | Boa / ancoraggio gestito | **Gratuito** fuori zone regolamentate | Salvo divieti federali (Vieques est, riserve) — vedi [08](08-ancoraggi.md) | ★★★ |
-| Multiscafo supplemento | **DATO MANCANTE** | Tipicamente +30–50% | |
+| Multiscafo supplemento | **DATA MISSING** | Tipicamente +30–50% | |
 
 *Per confronto Martinica 2024–25: ~29 €/notte pontile 12 m + 0,36 €/kWh elettricità — Porto Rico atteso superiore per area USA.* ★★
 
-⚠️ **Da verificare prima della crociera**: listino Puerto del Rey stagione in corso (chiedere via `puertodelrey.com` o 787-860-1000), disponibilità in alta stagione (prenotare con largo anticipo), orari fuel dock e pescaggi aggiornati, supplementi elettricità/acqua.
+⚠️ **To be checked before the cruise**: Puerto del Rey price list current season (ask away `puertodelrey.com` or 787-860-1000), availability in high season (book well in advance), updated fuel dock and draught schedules, electricity/water supplements.
 
-## Distanze utili
+## Useful Distances
 
-| Tratta | Distanza | Note |
+| Passage | Distance | Note |
 |---|---|---|
 | Fajardo (Puerto del Rey) – Culebra (Ensenada Honda) | ~17 M | Traversata breve, partenza mattutina consigliata |
 | Fajardo – Vieques (Esperanza) | ~20 M | |
@@ -88,4 +88,4 @@
 | CBP Culebra / Vieques | 787-742-3531 / 787-741-8366 |
 | USCG Sector San Juan | 787-729-6770 · VHF 16 |
 
-Ultimo aggiornamento: 24/08/2026
+Last updated: 24/08/2026

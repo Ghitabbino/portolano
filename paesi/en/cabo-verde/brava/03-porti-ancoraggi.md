@@ -1,6 +1,6 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
-Ultimo aggiornamento: 22/08/2026 · Coordinate indicative; navigare con cartografia ufficiale. **Brava è la più remota e verde dell'arcipelago, ma l'approccio è delicato ovunque: nessun porto vero.**
+Last updated: 22/08/2026 · Coordinate indicative; navigare con cartografia ufficiale. **Brava è la più remota e verde dell'arcipelago, ma l'approccio è delicato ovunque: nessun porto vero.**
 
 ## Furna (Porto de Furna, costa NE)
 
@@ -10,7 +10,7 @@ L'unico approccio "strutturato": porto minuscolo sul angolo NE dell'isola. ★�
 |---|---|
 | ★★ |Banchina dei pescatori con muretto; ormeggio laterale possibile con mare piatto. Aperta al NE: con aliseo pieno il porticciolo lavora e l'ormeggio diventa insostenibile ★★★|
 
-- Da Furna: strada ripida fino a Nova Sintra (capital) in auto o camionetta locale.
+- Da Furna: strada ripida fino a Nova Sintra (capital) in auto or camionetta locale.
 
 ## Fajã d'Água (costa S)
 
@@ -26,34 +26,34 @@ Ancoraggio "ragionevole" davanti alla capitale secondo i naviganti: tenuta discr
 - Piani alternativi obbligatori: Fogo (22 Mm a E) come rifugio di ritorno.
 - Notte in rada solo a Furna con meteo stabile; altrove solo soste diurne.
 
-## Distanze utili
+## Useful Distances
 
-| Tratta | Distanza | Note |
+| Passage | Distance | Note |
 |---|---|---|
 | Furna – Vale de Cavaleiros (Fogo) | ~22 Mm | Mare corto e spiaccicato con aliseo pieno |
 | Furna – Mindelo | ~110 Mm | Lunga bolina contro aliseo |
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026
 
-## Tariffe
-Ultimo aggiornamento: 22/08/2026
+## Tariffs
+Last updated: 22/08/2026
 
-## Tariffe ormeggi e marine
+## Berthing & Marina Tariffs
 
-| Voce | Costo | Note |
+| Item | Cost | Notes |
 |---|---|---|
-| Posto pontile/peschereccio | **DATO MANCANTE** — concordare in capitania/porto | Nessun listino turistico pubblicato |
-| Boa | **DATO MANCANTE** | |
+| Posto pontile/peschereccio | **DATA MISSING** — concordare in capitania/porto | Nessun listino turistico pubblicato |
+| Boa | **DATA MISSING** | |
 | Ancoraggio | **Gratuito** fuori zone regolamentate | |
-| Acqua | **DATO MANCANTE** | Chiedere in porto |
-| Elettricità | **DATO MANCANTE** | |
+| Acqua | **DATA MISSING** | Chiedere in porto |
+| Elettricità | **DATA MISSING** | |
 
-## Distanze utili
+## Useful Distances
 
-| Tratta | Distanza | Note |
+| Passage | Distance | Note |
 |---|---|---|
 | Mindelo – Sal | ~110 Mm | Aliseo NE |
 | Praia – Fogo | ~30 Mm | |
 | Fogo – Brava | ~15 Mm | |
 
-Ultimo aggiornamento: 24/08/2026
+Last updated: 24/08/2026

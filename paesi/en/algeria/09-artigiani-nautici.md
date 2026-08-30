@@ -1,31 +1,31 @@
-# 09 — Artigiani e negozi nautici
+# 09 — Marine Trades & Chandlers
 
-Hub principale **DATO MANCANTE** — da verificare (possibili poli: vedi [03 Porti e marine](03-porti-ancoraggi.md)). Contatto tipico via telefono / WhatsApp. Per lavori importanti chiedere sempre **preventivo scritto** e confermare i tempi in alta stagione.
+Hub principale **DATA MISSING** — to be verified (possibili poli: vedi [03 Ports & Marinas](03-porti-ancoraggi.md)). Contatto tipico via telefono / WhatsApp. Per lavori importanti chiedere sempre **preventivo scritto** e confermare i tempi in alta stagione.
 
-## Tabella artigiani
+## Trades Table
 
-| Ditta / Nome | Referente | Area di intervento | Dealer / Installatore autorizzato (marchi) | Tel | Mail | Sede & orari | Recensioni |
+| Company / Name | Contact | Area of Work | Authorised Dealer / Installer (Brands) | Tel | Email | Address & Hours | Reviews |
 |---|---|---|---|---|---|---|---|
-| **DATO MANCANTE** | **DATO MANCANTE** | Meccanico / rigger / velaio / frigorista | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** |
+| **DATA MISSING** | **DATA MISSING** | Meccanico / rigger / velaio / frigorista | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** |
 
-## Altri operatori utili
+## Other Useful Operators
 
-- **DATO MANCANTE** — da censire al controllo mensile.
+- **DATA MISSING** — da censire al controllo mensile.
 
-## Dove si trova cosa
+## Where to Find What
 
-- **Motoristica/frigoriferi/saldatura**: **DATO MANCANTE**
-- **Vele**: **DATO MANCANTE**
-- **Antifouling/carenaggio**: **DATO MANCANTE**
+- **Motoristica/frigoriferi/saldatura**: **DATA MISSING**
+- **Vele**: **DATA MISSING**
+- **Antifouling/carenaggio**: **DATA MISSING**
 
-## Negozi di attrezzature e shipchandler
+## Chandlers & Equipment Shops
 
-| Negozio | Cosa trovi | Marchi notevoli | Tel | Mail / sito | Sede & orari | Recensioni |
+| Shop | What You'll Find | Notable Brands | Tel | Email / Website | Address & Hours | Reviews |
 |---|---|---|---|---|---|---|
-| **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** |
+| **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** |
 
-## Note pratiche
+## Practical Notes
 
-**DATO MANCANTE**.
+**DATA MISSING**.
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

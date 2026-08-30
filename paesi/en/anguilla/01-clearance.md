@@ -1,22 +1,21 @@
-# Clearance doganale della barca
+# 01 — Yacht Customs Clearance
 
-**Ultimo aggiornamento: 23/08/2026**
+**Last updated: 23/08/2026**
 
-> ⚠️ Pagina in preparazione: dati in raccolta.
+> ⚠️ Page under preparation: data collection in progress.
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026
 
-## Chi deve farla
+## Who Must Clear
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Costi
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## Da verificare
+## Fees
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
+
+## To Be Verified
+
+**DATA MISSING** — to be completed at the monthly check.

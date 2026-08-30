@@ -1,39 +1,39 @@
-# 05 — Stagionalità e meteo
+# 05 — Seasonality & weather
 
 **Ultima verifica: 27/08/2026**
 
 ## Clima
 
-Clima mediterraneo sulla costa siriana: estati calde/secche, inverni miti. **DATO MANCANTE** su medie mensili precise — da verificare su servizio meteo nazionale Siria.
+Clima mediterraneo sulla costa siriana: estati calde/secche, inverni miti. **DATA MISSING** su medie mensili precise — to be verified su servizio meteo nazionale Siria.
 
 ## Stagioni
 
 | Periodo | Caratteristiche |
 |---|---|
-| **Aprile – ottobre** | **DATO MANCANTE** — verificare stagione principale di crociera |
-| **Novembre – marzo** | **DATO MANCANTE** — possibili burrasche mediterranee (maestrale, scirocco, meltemi a est) |
-| **Eventi estremi** | Mediterraneo non uraganico; **DATO MANCANTE** su tempeste autunnali / vento forte |
+| **Aprile – ottobre** | **DATA MISSING** — verificare stagione principale di crociera |
+| **Novembre – marzo** | **DATA MISSING** — possibili burrasche mediterranee (maestrale, scirocco, meltemi a est) |
+| **Eventi estremi** | Mediterraneo non uraganico; **DATA MISSING** su tempeste autunnali / vento forte |
 
 ## Uragani / cicloni
 
-Non applicabile come nei Caraibi; **DATO MANCANTE** su medicane / tempeste mediterranee. Verificare bollettini meteo nazionali.
+Non applicabile come nei Caraibi; **DATA MISSING** su medicane / tempeste mediterranee. Verificare bollettini meteo nazionali.
 
 ## Consignes / avvisi
 
-**DATO MANCANTE** — verificare procedure di allerta meteo marine.
+**DATA MISSING** — verificare procedure di allerta meteo marine.
 
 ## Venti locali
 
-**DATO MANCANTE** — meltemi (Egeo), maestrale, scirocco, bora secondo area.
+**DATA MISSING** — meltemi (Egeo), maestrale, scirocco, bora secondo area.
 
 ## Finestre tipiche di navigazione
 
-**DATO MANCANTE**.
+**DATA MISSING**.
 
 ## Link meteo utili
 
 | Servizio | URL | Note |
 |---|---|---|
-| **DATO MANCANTE** | **DATO MANCANTE** | Bollettino marino Siria |
+| **DATA MISSING** | **DATA MISSING** | Bollettino marino Siria |
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

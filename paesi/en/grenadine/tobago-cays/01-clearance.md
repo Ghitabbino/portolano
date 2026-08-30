@@ -1,7 +1,7 @@
-# 01 — Clearance doganale della barca
+# 01 — Yacht Customs Clearance
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026
 
 Contesto comune in [00 — Ingresso](../00-ingresso-visti.md). Porti approved: Kingstown · Port Elizabeth · Clifton · Canouan.
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026

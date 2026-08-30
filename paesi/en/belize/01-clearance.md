@@ -1,12 +1,12 @@
-# 01 — Clearance doganale della barca
+# 01 — Yacht Customs Clearance
 
-**Ultima verifica: 25/08/2026** · Fonti: portauthority.bz ★★★★★ · msatt-equivalente locale/belizemegayacht ★★ · oldbelize.com ★★
+**Last checked: 25/08/2026** · Sources: portauthority.bz ★★★★★ · msatt-equivalente locale/belizemegayacht ★★ · oldbelize.com ★★
 
-## Procedura standard (tutti i 4 porti)
+## Procedure standard (tutti i 4 porti)
 
 1. **SailClear ≥48h prima** + APIS su caricomeapis.org
 2. All'avvicinamento: **VHF 16/68** → Belize Port Authority (presidio attivo solo a Belize City)
-3. Bandiera Q; bordo di **5 ufficiali** (Customs, Health, Immigration, Quarantine BAHA, BPA);
+3. Q flag; bordo di **5 ufficiali** (Customs, Health, Immigration, Quarantine BAHA, BPA);
  trasporto officer a carico
 4. Documenti: clearance ultimo porto, registro nave, CSR, P&I, ISSC, crew/passenger list,
  stores list, NIL list (stowaways/armi/narcotici), ports of call ★★★★
@@ -27,19 +27,19 @@
 - Uscita: clearance internazionale dal porto di partenza; Belize City richiede pilota/waiver ★★★
 - Overtime serale/festivo degli ufficiali a carico ★★
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026
 
-## Chi deve farla
+## Who Must Clear
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Costi
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## Da verificare
+## Fees
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
+
+
+## To be verified
+
+**DATA MISSING** — to be completed at the monthly check.
 

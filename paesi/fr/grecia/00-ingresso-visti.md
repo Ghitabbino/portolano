@@ -1,45 +1,45 @@
-# 00 — Ingresso, documenti e visti
+# 00 — Entrée, Documents & Visas
 
-**Ultima verifica: 27/08/2026** · Scheda **comune** a tutte le 6 zone greche: tutte le aree condividono lo stesso regime d'ingresso. Le pagine specifiche per zona → vedi menu.
+**Dernière vérification: 27/08/2026** · Scheda **comune** a tutte le 6 zone greche: tutte le aree condividono lo stesso regime d'ingresso. Pages spécifiques par zone → voir menu.
 
-## Status
+## Statut
 
-| Voce | Dato | Fonte |
+| Rubrique | Dato | Source |
 |---|---|---|
-| Stato | **Grecia** — Repubblica ellenica, membro UE | Commissione UE — verificato 27/08/2026 ★★★★★ |
-| Valuta | **Euro (EUR)** | Banca Centrale Europea ★★★★★ |
-| Schengen | **Dentro l'area Schengen** | Commissione UE — Schengen ★★★★★ |
-| Fuso | EET/EEST (UTC+2 / UTC+3 estate) | IANA TZ ★★★★★ |
-| Lingua ufficiale | greco | **DATO MANCANTE** per dettaglio marittimo |
+| État | **Grecia** — Repubblica ellenica, membro UE | Commissione UE — verificato 27/08/2026 ★★★★★ |
+| Devise | **Euro (EUR)** | Banca Centrale Europea ★★★★★ |
+| Schengen | **Dans l’espace Schengen** | Commissione UE — Schengen ★★★★★ |
+| Fuseau horaire | EET/EEST (UTC+2 / UTC+3 estate) | IANA TZ ★★★★★ |
+| Langue officielle | greco | **DONNÉE MANQUANTE** per dettaglio marittimo |
 
-## Cittadini UE — nessun visto
+## Citoyens UE — pas de visa
 
-| Voce | Regola | Fonte |
+| Rubrique | Règle | Source |
 |---|---|---|
-| Visto | **Non richiesto** per cittadini UE (libera circolazione) | Ministero Esteri ellenico mfa.gr / UE ★★★★★ |
-| Documenti | Carta d'identità o passaporto validi | Hellenic Police — verificato 27/08/2026 ★★★★★ |
-| Soggiorno | Nessun limite per cittadini UE | UE direttiva libera circolazione ★★★★★ |
+| Visa | **Non requis** per cittadini UE (libera circolazione) | Ministero Esteri ellenico mfa.gr / UE ★★★★★ |
+| Documents | Carte d’identité o passaporto validi | Hellenic Police — verificato 27/08/2026 ★★★★★ |
+| Séjour | Nessun limite per cittadini UE | UE direttiva libera circolazione ★★★★★ |
 
 > ⚠️ Le regole Schengen valgono normalmente: se si arriva da paesi extra-Schengen conta il tempo trascorso nell'area.
 
-## Nota importante per chi arriva via mare
+## Note importante pour l’arrivée par mer
 
 - Da porti **UE/Schengen**: nessuna formalità di frontiera persone; barca UE libera circolazione.
-- Da porti **extra-UE/Schengen** (es. Turchia, Albania): obbligo di ingresso in **Port of Entry** con Port Police e Dogana — presentare equipaggio e documenti barca. **DATO MANCANTE** su elenco Port of Entry greci aggiornato — da verificare su hcg.gr / mfa.gr ★★★★★
+- Da porti **extra-UE/Schengen** (es. Turchia, Albania): obbligo di ingresso in **Port of Entry** con Port Police e Dogana — presentare equipaggio e documenti barca. **DONNÉE MANQUANTE** su elenco Port of Entry greci aggiornato — da vérifier sur hcg.gr / mfa.gr ★★★★★
 - Tra le zone greche (Cicladi ↔ Ionie ↔ Dodecaneso ecc.): **nessuna formalità** — territorio nazionale unico.
-- Dettagli procedura per diporto: **DATO MANCANTE** — da verificare su Hellenic Coast Guard / Port Authority ★★★★★
+- Dettagli procedura per diporto: **DONNÉE MANQUANTE** — da vérifier sur Hellenic Coast Guard / Port Authority ★★★★★
 
-## La barca
+## Le bateau
 
-| Barca | Regola | Fonte |
+| Bateau | Règle | Source |
 |---|---|---|
 | **UE con IVA pagata** (caso tipico: barca italiana) | Libera circolazione, nessun limite di tempo, nessun cruising permit | Agenzia Dogane UE ★★★★★ |
 | Extra-UE | Ammissione Temporanea standard UE: max **18 mesi**, rinnovabile uscendo dal territorio doganale | Codice Doganale UE art. 250-253 ★★★★★ |
 
 > ### ⚠️ ALLERTA — Tassa acque greche TEPAI (ex-DEPKA) — obbligatoria per tutti
-> **TEPAI** (*Τέλος Πλοίων Αναψυχής και Ημερόπλοιων*) si paga per **ogni barca >7,00 m fuori tutto** (7,00 esatta esente) indipendentemente da bandiera, anche un solo giorno nel mese = mese intero. Senza ricevuta la Port Police può **bloccare la barca** e multare. Pagamento **prima dell'ingresso** o immediatamente all'arrivo sull'app ufficiale. Fonte: [AADE eTEPAI](https://www.aade.gr/en/etepai) + FAQ 23/01/2026 Q16 ★★★★★ · [George Yachts 30/07/2026](https://georgeyachts.com/blog/tepai-tax-greece-2026-complete-yacht-charter-breakdown) ★★★
+> **TEPAI** (*Τέλος Πλοίων Αναψυχής και Ημερόπλοιων*) si paga per **ogni barca >7,00 m fuori tutto** (7,00 esatta esente) indipendentemente da bandiera, anche un solo giorno nel mese = mese intero. Senza ricevuta la Port Police può **bloccare la barca** e multare. Pagamento **prima dell'ingresso** o immediatamente all'arrivo sull'app ufficiale. Source: [AADE eTEPAI](https://www.aade.gr/en/etepai) + FAQ 23/01/2026 Q16 ★★★★★ · [George Yachts 30/07/2026](https://georgeyachts.com/blog/tepai-tax-greece-2026-complete-yacht-charter-breakdown) ★★★
 
-**Tariffe mensili 2026 (per mese di calendario, LOA da documento di nazionalità, 2 decimali):**
+**Tarifs mensili 2026 (per mese di calendario, LOA da documento di nazionalità, 2 decimali):**
 
 | LOA fuori tutto | Tariffa/mese | Esempio |
 |---|---|---|
@@ -48,7 +48,7 @@
 | >10,00 – 12,00 m | **€33** | 11,50 m → €33 |
 | **>12,00 m** | **€8 × LOA** | 12,01 m → €96,08 · 15,25 m → €122,00 · 18 m → €144 · 24 m → €192 |
 
-**Costo al mese — inserisci numero mesi.** Sconti:
+**Coût al mese — inserisci numero mesi.** Sconti:
 - **-20% solo con pagamento in unica soluzione annuale anticipata** (12 mesi pagati insieme); se paghi mese per mese NON si applica lo sconto.
 - -30% per disarmo/inattività documentata; esenzione per barche a terra/in sequestro/tradizionali — vedi FAQ AADE.
 
@@ -63,7 +63,7 @@
 <select id="tepai-mesi" style="padding:8px; border-radius:8px; border:1px solid #24384a; background:#16222e; color:#dbe7f1;"><option value="1">1 mese</option><option value="2">2 mesi</option><option value="3">3 mesi</option><option value="6">6 mesi</option><option value="12">12 mesi — pagamento unico (-20%)</option></select>
 <button onclick="calcTepai()" style="padding:8px 14px; margin-left:8px; border-radius:8px; border:none; background:#4db6ac; color:#06231f; font-weight:700; cursor:pointer;">Calcola</button>
 <div id="tepai-out" style="margin-top:10px; color:#dbe7f1; font-weight:600;"></div>
-<div style="font-size:12px; color:#8aa2b5; margin-top:6px;">Tariffe AADE 23/01/2026 Q16 · >12m: LOA×€8/mese · 12 mesi unico = ×9,6 mesi (-20%) · Esente ≤7,00 m (22.97 ft) · Il costo è al mese: imposta i mesi per vedere il totale · 1 m = 3.28084 ft</div>
+<div style="font-size:12px; color:#8aa2b5; margin-top:6px;">Tarifs AADE 23/01/2026 Q16 · >12m: LOA×€8/mese · 12 mesi unico = ×9,6 mesi (-20%) · Esente ≤7,00 m (22.97 ft) · Il costo è al mese: imposta i mesi per vedere il totale · 1 m = 3.28084 ft</div>
 </div>
 <script>
 function syncTepai(from){
@@ -106,13 +106,13 @@ function calcTepai(){
 }
 </script>
 
-## Vaccini
+## Vaccins
 
-Nessuno obbligatorio per ingresso da paesi UE. **DATO MANCANTE** per eventuali requisiti sanitari specifici locali — da verificare su Ministero Salute greco / gov.gr ★★★★★
+Nessuno obbligatorio per ingresso da paesi UE. **DONNÉE MANQUANTE** per eventuali requisiti sanitari specifici locali — da vérifier sur Ministero Salute greco / gov.gr ★★★★★
 
 ## Zone del portolano
 
-| Zona | Carattere nautico | Ambito |
+| Zone | Carattere nautico | Ambito |
 |---|---|---|
 | **Cicladi** | Arcipelago centrale Egeo, Meltemi estivo forte, ancoraggi su sabbia/roccia | Mykonos, Paros, Naxos, Santorini, Milos |
 | **Sporadi** | Egeo nord-occidentale, verde, più riparato | Skiathos, Skopelos, Alonissos, Skyros |
@@ -121,4 +121,4 @@ Nessuno obbligatorio per ingresso da paesi UE. **DATO MANCANTE** per eventuali r
 | **Golfo Saronico** | Golfo di Atene, traffico intenso, base charter principale | Atene/Pireo, Egina, Poros, Hydra, Spetses |
 | **Egeo Settentrionale** | Nord Egeo, meno affollato, Meltemi e bora | Thasos, Samothraki, Lemnos, Chios, Lesbos |
 
-Ultimo aggiornamento: 27/08/2026
+Dernière mise à jour: 27/08/2026

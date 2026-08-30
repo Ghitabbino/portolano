@@ -1,35 +1,35 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
-Ultimo aggiornamento: 22/08/2026 · Cartografia ufficiale Navionics/C-MAP/IHM.
+Last updated: 22/08/2026 · Official Charts Navionics/C-MAP/IHM.
 
-## Caleta del Sebo (villaggio principale)
+## Caleta of the Sebo (villaggio principale)
 
-| Aspetto | Dettaglio |
+| Aspetto | Detail |
 |---|---|
 | Fondo | Sabbia, tenuta buona |
-| Profondità | ~4–8 m secondo posteggio |
-| Darsena/molo | Molo piccolo: imbarco sbarco dinghy; manovra con vento forte da nord delicata |
-| Affollamento | Alto nei mesi estivi (day-tripper); tranquilla sera/mattino |
-| Vento | Raffiche scendendo dai rilievi di Lanzarote nelle ore calde |
+| Depth | ~4–8 m second posteggio |
+| Darsena/molo | Pier small: imbarco sbarco dinghy; manovra with vento forte from nord delicata |
+| Crowding | Alto nei mesi estivi (day-tripper); tranquilla sera/mattino |
+| Vento | Raffiche scendendo dai rilievi of Lanzarote nelle ore calde |
 
 ## Pedro Barba
 
-Piccolo borgo sulla costa est: spiaggia e molo minore; ancoraggio davanti con meteo stabile, fondo sabbia.
+Piccolo borgo sulla costa est: spiaggia and molo minore; ancoraggio davanti with meteo stabile, fondo sabbia.
 
-## ⛔ Attenzioni
+## ⛔ Areas Requiring Caution
 
-- Riserva: rispettare le zone consentite, niente àncora su posidonia.
-- Con aliseo rinforzato o mare da N/NW la rada aperta peggiora: valutare ritorno a Arrecife.
+- Riserva: rispettare le zone consentite, niente àncora on posidonia.
+- Con aliseo rinforzato or mare from N/NW la rada aperta peggiora: valutare ritorno a Arrecife.
 - Bocaina a sud: traffico ferry continuo sulla rotta Órzola–Caleta.
 
-## Distanze utili
+## Useful Distances
 
-| Tratta | Distanza | Note |
+| Passage | Distance | Note |
 |---|---|---|
-| Órzola – Caleta del Sebo | ~7 Mm | Ferry ogni ora circa |
+| Órzola – Caleta of the Sebo | ~7 Mm | Ferry each ora about |
 | Arrecife (Marina Lanzarote) – La Graciosa | ~10–12 Mm | Contorno nord Lanzarote |
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026
 
-## Tariffe
-Ultimo aggiornamento: 23/08/2026
+## Tariffs
+Last updated: 23/08/2026

@@ -1,17 +1,17 @@
 # Mirador El Charco
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Arrecife – Charco de San Ginés |
-| Cucina | 🐟 Pesce e arroz |
-| Specialità | Pescado fresco · arroces |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🌅 vista Charco |
-| Contatti | **928 730 247** [IG ufficiale] |
-| Valutazioni | ★★★★|
-| Orari | pranzo/cena |
+| Zone | Arrecife – Charco de San Ginés |
+| Cuisine | 🐟 Pesce e arroz |
+| Spécialité | Pescado fresco · arroces |
+| Coût | 💰€€ per persona senza bevande |
+| Emplacement | 🌅 vista Charco |
+| Contacts | **928 730 247** [IG ufficiale] |
+| Évaluations | ★★★★|
+| Horaires | pranzo/cena |
 
 ## Menu
 
@@ -22,4 +22,4 @@
 
 **Note**: Telefono verificato da profilo ufficiale
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026

@@ -1,7 +1,7 @@
 # Petite Anse d'Arlet {#anc-petite-anse-arlet}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
-| Campo | Dettaglio |
+[← All Anchorages](../08-ancoraggi.md)
+| Field | Detail |
 |---|---|
 | **Profondità** | 4–10 m circa |
 | **Tenuta** |Media: sabbia con alghe e rocce; **casi frequenti di àncora che cede** in certe zone ★★★|
@@ -14,4 +14,4 @@
 <div class="mapframe" data-slug="petite-anse-arlet" data-lat="14.4735159" data-lon="-61.0827003"></div>
 *Vista mappa Petite Anse d'Arlet (coord. indicative) — zoom con i pulsanti +/−; menu in alto a destra per passare a Carta nautica e Segnali nautici · mappa offline*
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026

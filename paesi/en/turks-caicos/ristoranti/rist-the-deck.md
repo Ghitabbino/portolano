@@ -7,7 +7,7 @@
 | Zona | Grace Bay (Seven Stars) |
 | Cucina | 🥩 Grill / pizza / bar |
 | Specialità | *Fish tacos · burgers · pizza* |
-| Costo | 💰€€ per persona senza bevande |
+| Costo | 💰€€ per person without drinks |
 | Location | 🏖️ spiaggia — al fresco su Grace Bay |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=The+Deck+Seven+Stars+Grace+Bay+Providenciales) |
 | Contatti | +1 (649) 941-7777 |

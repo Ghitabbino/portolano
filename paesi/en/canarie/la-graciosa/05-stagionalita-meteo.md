@@ -1,27 +1,27 @@
-# 05 — Stagionalità e meteo
+# 05 — Seasonality & Weather
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026
 
-## Clima
+## Climate
 
 Come Lanzarote: arido, 18–28 °C, mare 19–24 °C.
 
 ## Venti
 
-- Aliseo NE costante; raffiche dai rilievi di Famara nelle ore calde.
-- Rada aperta a N/NW: con swell da nord la tenuta peggiora — piano B = Arrecife.
+- Aliseo NE costante; raffiche dai rilievi of Famara nelle ore calde.
+- Roadstead aperta a N/NW: with swell from nord la tenuta peggiora — piano B = Arrecife.
 
 ## Calima
 
 Frequente (isole orientali): visibilità ridotta 1–3 giorni. [AEMET](https://www.aemet.es) ★★★★★.
 
-## Finestre tipiche
+## Typical Weather Windows
 
-Soggiorno piacevole con aliseo ≤20 kn e mare da NE moderato; finestra di uscita verso sud al mattino presto.
+Soggiorno piacevole with aliseo ≤20 kn and mare from NE moderato; finestra of uscita verso sud at the mattino presto.
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026
 
-## Stagioni
-## Venti locali
-## Link meteo
-Ultimo aggiornamento: 23/08/2026
+## Seasons
+## Local Winds
+## Weather Links
+Last updated: 23/08/2026

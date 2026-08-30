@@ -7,7 +7,7 @@
 | Zona | Grace Bay (Grace Bay Club) |
 | Cucina | 🍽️ Fine dining / raw bar |
 | Specialità | *Tamarind roasted salmon · lobster · ceviche* |
-| Costo | 💰€€€ per persona senza bevande |
+| Costo | 💰€€€ per person without drinks |
 | Location | 🏖️ spiaggia — open-air su Grace Bay |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Infiniti+Restaurant+Grace+Bay+Providenciales) |
 | Contatti | +1 (649) 946-5050 · [gracebayclub.com/infiniti](https://www.gracebayclub.com) |

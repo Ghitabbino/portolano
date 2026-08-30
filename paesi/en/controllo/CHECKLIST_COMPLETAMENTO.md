@@ -27,7 +27,7 @@
 - [ ] st-eustatius
 - [ ] montserrat
 
-### Parziali → colmare DATO MANCANTE (C5)
+### Parziali → colmare DATA MISSING (C5)
 - [ ] santa-lucia
 - [ ] grenada
 - [ ] dominica
@@ -36,7 +36,7 @@
 - [ ] aruba (01 clearance stub)
 - [ ] bonaire (01 stub)
 - [ ] curacao (01 stub)
-- [ ] trinidad-tobago (00 fatto 25/08 · resto da verificare)
+- [ ] trinidad-tobago (00 fatto 25/08 · resto to be verified)
 - [ ] grenadine — 7 zone: bequia · mustique · canouan · mayreau · st-vincent · tobago-cays · union-island
 
 ### Nuove voci previste (C1)
@@ -51,8 +51,8 @@
 
 - [ ] azzorre — creare le pagine mancanti (00+10 creati 25/08) + collegare 9 schede ristoranti
 - [ ] madeira — creare le pagine mancanti (presenti 00, 01, 02)
-- [ ] cabo-verde — spazzata DATO MANCANTE sulle 9 isole
-- [ ] canarie — spazzata DATO MANCANTE sulle 7 isole
+- [ ] cabo-verde — spazzata DATA MISSING sulle 9 isole
+- [ ] canarie — spazzata DATA MISSING sulle 7 isole
 - [x] trinidad-tobago 00 ingresso — compilato 25/08/2026
 
 ### 🆕 Nuove isole atlantiche

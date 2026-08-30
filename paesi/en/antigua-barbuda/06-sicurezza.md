@@ -1,36 +1,36 @@
-# Sicurezza
+# Safety & Security
 
-**Ultimo aggiornamento: 23/08/2026**
+**Last updated: 23/08/2026**
 
 > ⚠️ Pagina in preparazione: dati in raccolta.
 
-| Emergenza | Numero |
+| Emergency | Number |
 |---|---|
 | Emergenze | **911** |
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026
 
 Valutazione sicurezza
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## Quadro generale
+## General Overview
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
 ## Posti sicuri
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## Salvataggio ed emergenze
+## Rescue & Emergencies
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## Monitoraggio mensile
+## Monthly Monitoring
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 

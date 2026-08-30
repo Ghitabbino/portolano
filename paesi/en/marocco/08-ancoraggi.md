@@ -1,32 +1,32 @@
-# 08 — Portolano degli ancoraggi
+# 08 — Anchorage Pilot
 
-**Ultima verifica: 27/08/2026**
+**Last checked: 27/08/2026**
 
-## Regole generali di ancoraggio (prima di tutto)
+## General Anchoring Rules (First and Foremost)
 
-- **Regolamenti locali**: ancoraggio soggetto a regolamenti comunali / parchi / capitanerie. Verificare su Capitaneria / Port Authority Marocco. ★★★★ — **DATO MANCANTE** su dettagli sanzioni e mappe ufficiali.
-- **Segnaletica IALA-A** in Mediterraneo (opposto a IALA-B dei Caraibi). ★★★
-- **DATO MANCANTE** su zone di divieto assoluto per area (riserve, parchi, zone militari, campi boe obbligatori).
+- **Regolamenti locali**: ancoraggio soggetto a regolamenti comunali / parchi / capitanerie. Verificare su Capitaneria / Port Authority Marocco. ★★★★ — **DATA MISSING** su dettagli sanzioni e mappe ufficiali.
+- **Segnaletica IALA-A** in Mediterraneo (opposto a IALA-B dei Caribbean). ★★★
+- **DATA MISSING** su zone di divieto assoluto per area (riserve, parchi, zone militari, campi boe obbligatori).
 
-### ⛔ Zone di divieto assoluto (ufficiali)
+### ⛔ Absolute No-Go Zones (Official)
 
-| Zona | Divieto | Fonte |
+| Area | Prohibition | Source |
 |---|---|---|
-| **DATO MANCANTE** — parco marino / posidonia | Àncora vietata su praterie protette / riserve | **DATO MANCANTE** |
-| **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** |
+| **DATA MISSING** — parco marino / posidonia | Àncora vietata su praterie protette / riserve | **DATA MISSING** |
+| **DATA MISSING** | **DATA MISSING** | **DATA MISSING** |
 
-> Testi integrali e mappe ufficiali: **DATO MANCANTE** — da verificare su Port Authority Marocco / Hydrographic Office.
+> Testi integrali e mappe ufficiali: **DATA MISSING** — da verificare su Port Authority Marocco / Hydrographic Office.
 
-## Tabella riassuntiva — i migliori ancoraggi
+## Summary Table — Best Anchorages
 
-| # | Ancoraggio | Riparo venti prevalenti | Tenuta | Profondità | Affollamento | Giudizio comunità |
+| # | Anchorage | Shelter from Prevailing Winds | Holding | Depth | Crowding | Community Verdict |
 |---|---|---|---|---|---|---|
-| 1 | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** |
-| 2 | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** |
+| 1 | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** |
+| 2 | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** |
 
 *In preparazione — ancoraggi mediterranei marocco da censire con coordinate WGS84 verificate. Nessun punto inventato.*
 
-### Mappa generale degli ancoraggi
+### General Anchorage Map
 
 <div class="mapframe" data-slug="marocco" data-minz="5" data-maxz="16" data-lat="35.20" data-lon="-4.00" data-markers='[]'></div>
 
@@ -34,25 +34,25 @@
 
 ---
 
-## Cartografia ufficiale
+## Official Charts
 
-| Carta | Copertura | Note |
+| Chart | Coverage | Notes |
 |---|---|---|
-| **Office de la Marine Marchande et des Ports (Port Authority / Capitaneria) / SHOM** | Coste marocco | Carte ufficiali Marocco — **DATO MANCANTE** su numeri/nomenclatura per tratto |
-| **NV Charts / Imray** | Mediterraneo Marocco | Alternativa plaisance, WGS84 — **DATO MANCANTE** su edizioni |
+| **Office de la Marine Marchande et des Ports (Port Authority / Capitaneria) / SHOM** | Coste marocco | Carte ufficiali Marocco — **DATA MISSING** su numeri/nomenclatura per tratto |
+| **NV Charts / Imray** | Mediterraneo Marocco | Alternativa plaisance, WGS84 — **DATA MISSING** su edizioni |
 
-- Le carte ufficiali riportano zone regolamentate; acquistabili da rivenditori autorizzati. ★★★★ — **DATO MANCANTE** su dettagli.
-- Per la navigazione quotidiana: carta elettronica ufficiale su plotter + carta cartacea come riserva.
+- Le carte ufficiali riportano zone regolamentate; acquistabili da rivenditori autorizzati. ★★★★ — **DATA MISSING** su dettagli.
+- IHM charts show regulated areas; available from authorised stockists. ★★★★ — **DATA MISSING** su dettagli.
 
-## Non inclusi (per ora)
+## Not Included (For Now)
 
-- Tutti gli ancoraggi sono **DATO MANCANTE** — da censire al controllo mensile con fonti verificate.
+- Tutti gli ancoraggi sono **DATA MISSING** — da censire al controllo mensile con fonti verificate.
 
-## Checklist àncora per Marocco
+## Anchor Checklist per Marocco
 
-1. Carte ufficiali / elettronica aggiornata ✓ — **DATO MANCANTE** su numeri carte
-2. Verifica divieti parchi marini e praterie protette ✓ — **DATO MANCANTE**
-3. Àncora adeguata a sabbia/posidonia/roccia (fondali vari) — **DATO MANCANTE**
-4. **DATO MANCANTE**
+1. Carte ufficiali / elettronica aggiornata ✓ — **DATA MISSING** su numeri carte
+2. Verifica divieti parchi marini e praterie protette ✓ — **DATA MISSING**
+3. Àncora adeguata a sabbia/posidonia/roccia (fondali vari) — **DATA MISSING**
+4. **DATA MISSING**
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

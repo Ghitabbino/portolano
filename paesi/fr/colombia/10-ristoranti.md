@@ -1,19 +1,19 @@
-# 10 — Ristoranti
+# 10 — Restaurants
 
-**Ultima verifica: 28/08/2026** — *Scheda in completamento*
+**Dernière vérification: 28/08/2026** — *Scheda in completamento*
 
-| Ristorante | Zona | Costo | Note |
+| Ristorante | Zone | Coût | Note |
 |---|---|---|---|
-| **DATO MANCANTE** | Colombia | **DATO MANCANTE** | In raccolta |
+| **DONNÉE MANQUANTE** | Colombia | **DONNÉE MANQUANTE** | In raccolta |
 
-Ultimo aggiornamento: 28/08/2026
+Dernière mise à jour: 28/08/2026
 
-## Griglia generale
+## Grille générale
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## App e fonti
+## Applis et sources
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 

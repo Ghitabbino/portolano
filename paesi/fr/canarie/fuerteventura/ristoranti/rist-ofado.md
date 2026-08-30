@@ -1,17 +1,17 @@
 # O'Fado
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Caleta de Fuste – paseo |
-| Cucina | 🥘 Mercado + portoghese |
-| Specialità | Pesce del giorno · cataplana |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🌴 terrazza palme |
-| Contatti | +34 928 163 369 |
-| Valutazioni | ★★★★|
-| Orari | pranzo/cena |
+| Zone | Caleta de Fuste – paseo |
+| Cuisine | 🥘 Mercado + portoghese |
+| Spécialité | Pesce del giorno · cataplana |
+| Coût | 💰€€ per persona senza bevande |
+| Emplacement | 🌴 terrazza palme |
+| Contacts | +34 928 163 369 |
+| Évaluations | ★★★★|
+| Horaires | pranzo/cena |
 
 ## Menu
 
@@ -22,4 +22,4 @@
 
 **Note**: Musica live alcune sere
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026

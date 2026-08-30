@@ -1,26 +1,26 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
-**Ultima verifica: 25/08/2026**
+**Dernière vérification: 25/08/2026**
 
-| Porto/Marina | Note |
+| Port/Marina | Note |
 |---|---|
-| **San Juan del Sur** (Pacifico sud) | POE principale per cruiser, villaggio turistico, baia aperta a S-SW ★★★ |
-| **Marina Puesta del Sol** (Pacifico NW) | Marina con POE, protetta dietro mangrovie ★★★ |
-| **Corinto** (Pacifico) | POE commerciale ★★ |
-| **Puerto Sandino** (Pacifico) | POE, terminale petrolifero ★★ |
-| **El Bluff / Bluefields** (Caraibi) | POE, porta del Rio Escondido ★★ |
-| **Corn Island** (Caraibi) | POE ★★ |
+| **San Juan del Sur** (Pacifique sud) | POE principale per cruiser, villaggio turistico, baia aperta a S-SW ★★★ |
+| **Marina Puesta del Sol** (Pacifique NW) | Marina con POE, protetta dietro mangrovie ★★★ |
+| **Corinto** (Pacifique) | POE commerciale ★★ |
+| **Puerto Sandino** (Pacifique) | POE, terminale petrolifero ★★ |
+| **El Bluff / Bluefields** (Caraïbes) | POE, porta del Rio Escondido ★★ |
+| **Corn Island** (Caraïbes) | POE ★★ |
 | **Granada** (Lago Nicaragua) | POE fluviale/lago via Rio San Juan ★★★ |
 | **San Carlos** | POE alla confluenza Rio San Juan ★★ |
 
-Ultimo aggiornamento: 25/08/2026
+Dernière mise à jour: 25/08/2026
 
-## Tariffe
+## Tarifs
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## Distanze utili
+## Distances utiles
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 

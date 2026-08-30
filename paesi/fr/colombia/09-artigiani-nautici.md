@@ -1,24 +1,24 @@
-# 09 — Artigiani e negozi nautici
+# 09 — Artisans & Shipchandlers
 
-**Ultima verifica: 28/08/2026** — *Scheda in completamento*
+**Dernière vérification: 28/08/2026** — *Scheda in completamento*
 
 | Servizio | Disponibilità |
 |---|---|
-| **DATO MANCANTE** | **DATO MANCANTE** |
+| **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
 
-Ultimo aggiornamento: 28/08/2026
+Dernière mise à jour: 28/08/2026
 
 Tabella artigiani
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## Dove si trova cosa
+## Où trouver quoi
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## Note pratiche
+## Notes pratiques
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 

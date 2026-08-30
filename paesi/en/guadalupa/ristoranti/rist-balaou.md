@@ -1,18 +1,18 @@
 # Le Balaou
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| Zona | Sainte-Anne |
-| Cucina | 🐟 Tataki di tonno |
-| Specialità | Tataki de thon · pesce |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🌅 terrazza rilassata |
+| Area | Sainte-Anne |
+| Cuisine | 🐟 Tataki of tonno |
+| Speciality | Tataki de thon · pesce |
+| Cost | 💰€€ for persona without bevande |
+| Setting | 🌅 terrazza rilassata |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Balaou+Sainte-Anne) |
-| Contatti | [Mappa](https://www.google.com/maps/search/?api=1&query=Le+Balaou+Sainte-Anne+Guadeloupe) |
-| Valutazioni | Google 4,3/5 (405) → ★★★★ |
-| Orari | cena dal tramonto · chiusura variabile ⚠️ |
+| Contacts | [Mappa](https://www.google.com/maps/search/?api=1&query=Le+Balaou+Sainte-Anne+Guadeloupe) |
+| Ratings | Google 4,3/5 (405) → ★★★★ |
+| Hours | cena dal tramonto · chiusura variabile ⚠️ |
 
 ## Menu
 
@@ -23,6 +23,6 @@
 
 ## Foto
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Foto non still disponibili — recuperare at the controllo mensile.*
 
-**Note**: Buona carta dei vini
+**Note**: Buona carta of the vini

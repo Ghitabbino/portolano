@@ -7,7 +7,7 @@
 | Zona | Marigot Bay, north side (complesso Marigot Beach Club & Dive Resort) |
 | Cucina | 🐟 Caraibica casual dockside |
 | Specialità | Conch · kingfish · curry caraibici · steak e pasta |
-| Costo | 💰€€ per persona senza bevande |
+| Costo | 💰€€ per person without drinks |
 | Location | ⚓ dockside sul canale interno; ferry navetta dalla banchina sud della baia |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=DOOlittles+Marigot+Bay) — coord. verificate del complesso resort: 13.9672, -61.0259 (Booking/all-hotels) |
 | Contatti | +1 758-451-4974 / +1 758-458-3323 · info@marigotbeachclub.com · marigotbeachclub.com/doolittle-restaurant-and-bar |
@@ -26,4 +26,4 @@
 
 **Note**: il riferimento dockside di Marigot Bay dopo la chiusura dello storico Rainforest Hideaway (area riedificata). Per i crocieristi all'ormeggio/boa: dinghy al pontile del resort o ferry gratuito. Fonte: TripAdvisor (25/08/2026 ★★★), sito ufficiale con menu 2026 ★★★.
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

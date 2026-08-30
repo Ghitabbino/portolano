@@ -18,4 +18,4 @@
 
 Fonti: Noonsite commento utente (2019/2026) ★★★ · borderforce.gov.tc POE South Dock ★★★★★ · visittci.com ★★★
 
-Ultimo aggiornamento: 28/08/2026
+Last updated: 28/08/2026

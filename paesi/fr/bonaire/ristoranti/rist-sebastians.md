@@ -1,18 +1,18 @@
 # Sebastian's
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Kralendijk boulevard — 60 Julio A. Abraham Blvd, sul mare |
-| Cucina | 🍽️ Internazionale mediterranea con accento caraibico |
-| Specialità | *Pier Table sull'acqua · lobster, wahoo su spaghetti piccanti (signature US$29), wild sea bass, daily fish* |
-| Costo | 💰€€€ per persona senza bevande (antipasti US$15–25, piatti US$26–40, pizza/pasta domenica US$16) |
-| Location | 🌅 oceanfront con pier romantico e bar lounge per green flash al tramonto |
+| Zone | Kralendijk boulevard — 60 Julio A. Abraham Blvd, sul mare |
+| Cuisine | 🍽️ Internazionale mediterranea con accento caraibico |
+| Spécialité | *Pier Table sull'acqua · lobster, wahoo su spaghetti piccanti (signature US$29), wild sea bass, daily fish* |
+| Coût | 💰€€€ per persona senza bevande (antipasti US$15–25, piatti US$26–40, pizza/pasta domenica US$16) |
+| Emplacement | 🌅 oceanfront con pier romantico e bar lounge per green flash al tramonto |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sebastians+Restaurant+Julio+A+Abraham+Blvd+60+Kralendijk) |
-| Contatti | +599 717 1697 · [sebastiansrestaurantbonaire.com](https://sebastiansrestaurantbonaire.com) |
-| Valutazioni | **bonaire.com 4,1/5 (1156) [locale, 28/08/2026]** ★★★ · TripAdvisor 4,0/5 (1.528) ★★★ · Google 4,1/5 (1156) → **★★★★** |
-| Orari | lun–sab 17:30–23:00 · dom 17:00–23:00 — Italian Night domenica; Kitchen Night mercoledì 4 portate US$39 |
+| Contacts | +599 717 1697 · [sebastiansrestaurantbonaire.com](https://sebastiansrestaurantbonaire.com) |
+| Évaluations | **bonaire.com 4,1/5 (1156) [locale, 28/08/2026]** ★★★ · TripAdvisor 4,0/5 (1.528) ★★★ · Google 4,1/5 (1156) → **★★★★** |
+| Horaires | lun–sab 17:30–23:00 · dom 17:00–23:00 — Italian Night domenica; Kitchen Night mercoledì 4 portate US$39 |
 
 ## Menu
 
@@ -24,9 +24,9 @@
 
 **Chef**: Sebastian — Master Chef, specialità pesce fresco del giorno
 
-## Foto
+## Photos
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Photos non ancora disponibili — recuperare al controllo mensile.*
 
 ## Note
 

@@ -1,38 +1,38 @@
-# 00 — Ingresso, documenti e visti
+# 00 — Entry, Documents & Visas
 
-**Ultima verifica: 25/08/2026**
+**Last checked: 25/08/2026**
 
-## Status (cittadini UE/italiani)
+## Status (EU/Italian citizens)
 
-Territorio d'oltremare britannico: politica migratoria di stampo britannico, controlli fatti direttamente dalle autorità locali all'arrivo.
+British Overseas Territory: British-style immigration policy, controls carried out directly by the local authorities on arrival.
 
-## Cittadini UE — nessun visto, 90 giorni
+## EU Citizens — no visa, 90 days
 
-Per turismo gli italiani/UE entrano senza visto: all'arrivo viene di norma timbrato un soggiorno di **90 giorni**. Passaporto consigliato valido 6 mesi (prassi dei territori britannici). [ivisitanguilla.com](https://ivisitanguilla.com/entry-requirements/) ★★★★★ · Noonsite ★★★
+For tourism, Italians/EU enter without a visa: on arrival a stay of **90 days** is normally stamped. Passport recommended valid for 6 months (standard practice for British Overseas Territories). [ivisitanguilla.com](https://ivisitanguilla.com/entry-requirements/) ★★★★★ · Noonsite ★★★
 
-## Nota importante per chi arriva via mare
+## Important note for those arriving by sea
 
-- Porto d'ingresso **unico: Road Bay (Sandy Ground)**. Obbligo di raggiungerlo subito e far scendere solo il capitano presso gli uffici combinati Dogana+Immigrazione; Blowing Point sdogana soltanto i traghetti passeggeri. ★★★★★
-- Ufficio aperto tutti i giorni 08:30–12:00 e 13:00–16:00. Servono ~5 copie della crew list e la clearance del porto precedente. Con sosta sotto le 24 h si può fare ingresso e uscita in un'unica pratica. ★★★
-- Pre-arrivo: nessun modulo online obbligatorio. SailClear compare negli elenchi regionali ma qui non viene usato (conferma 2026). Caribbean Compass ★★★
-- Documenti barca: registrazione della nave, passaporti dell'equipaggio, zarpe del porto precedente. Richiesta esplicita del CRC radio: **DATO MANCANTE**.
+- **Single port of entry: Road Bay (Sandy Ground)**. You must proceed there immediately and only the skipper goes ashore to the combined Customs & Immigration offices; Blowing Point clears only passenger ferries. ★★★★★
+- Office open daily 08:30–12:00 and 13:00–16:00. About 5 copies of the crew list and the clearance from the previous port are required. For stays under 24 h, entry and exit can be done in a single procedure. ★★★
+- Pre-arrival: no mandatory online form. SailClear appears in regional lists but is not used here (confirmed 2026). Caribbean Compass ★★★
+- Boat documents: vessel registration, crew passports, zarpe from previous port. Explicit request for radio CRC: **DATA MISSING**.
 
-## E dopo i 90 giorni?
+## After the 90 days?
 
-Procedura di estensione del soggiorno presso l'Immigrazione locale: **DATO MANCANTE**.
+Procedure for extending your stay at the local Immigration office: **DATA MISSING**.
 
-## La barca
+## The boat
 
-| Voce | Costo |
+| Item | Cost |
 |---|---|
-| Ingresso+uscita, yacht biposto fino a 20 ton | ~US$50 totali |
-| Cruising permit fuori da Road Bay | richiesto e COSTOSO, anche per il tender |
-| Tassa di partenza passeggeri | US$28 per adulto |
+| Entry+exit, yacht up to 20 tons (2 people) | ~US$50 total |
+| Cruising permit outside Road Bay | required and EXPENSIVE, even for the tender |
+| Passenger departure tax | US$28 per adult |
 
-Regime di importazione temporanea per barche extra-UE: **DATO MANCANTE**. Fonte tariffe: Noonsite ★★★
+Temporary import regime for non-EU boats: **DATA MISSING**. Tariff source: Noonsite ★★★
 
-## Vaccini
+## Vaccinations
 
-Nessuna vaccinazione obbligatoria per chi arriva dall'Europa; il certificato di febbre gialla serve solo provenendo da paesi a rischio (regola comune ai territori britannici). Fonte sanitaria primaria dedicata ad Anguilla: **DATO MANCANTE**.
+No mandatory vaccination for those arriving from Europe; yellow fever certificate is only required when coming from at-risk countries (common rule for British Overseas Territories). Primary health source dedicated to Anguilla: **DATA MISSING**.
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

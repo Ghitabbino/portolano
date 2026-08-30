@@ -7,7 +7,7 @@
 | Zona | Grace Bay (Point Grace) |
 | Cucina | 🥩 Francese fine dining |
 | Specialità | *Tasting menu · soufflé · lobster bisque* |
-| Costo | 💰€€€ per persona senza bevande |
+| Costo | 💰€€€ per person without drinks |
 | Location | 🪶 cottage elegante — courtyard Point Grace |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Graces+Cottage+Point+Grace+Providenciales) |
 | Contatti | +1 (649) 946-5050 · [pointgrace.com/dining](https://www.pointgrace.com) |

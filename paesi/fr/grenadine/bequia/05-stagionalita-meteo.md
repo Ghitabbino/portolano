@@ -1,15 +1,15 @@
-# 05 — Stagionalità e meteo
+# 05 — Saisonnalité & Météo
 
-## Clima
+## Climat
 
 Tropicale marittimo, 26–30 °C tutto l'anno; stagione secca dic–mag. ★★★★
 
-## Venti locali
+## Vents locaux
 
-Alisei NE 15–25 kn in stagione; **Christmas Winds** fino a 25 kn dic–feb.
+Alizés NE 15–25 kn in stagione; **Christmas Winds** fino a 25 kn dic–feb.
 Admiralty Bay aperta a NE: raffiche discendenti dai colli nelle ore pomeridiane; ancoraggi sud (Princess Margaret, Lower Bay) più miti. ★★★
 
-## Finestre tipiche
+## Fenêtres météo typiques
 
 | Finestra | Vento | Note |
 |---|---|---|
@@ -17,9 +17,9 @@ Admiralty Bay aperta a NE: raffiche discendenti dai colli nelle ore pomeridiane;
 | Apr–Giu | 12–18 kn | Il migliore compromesso |
 | Set–Ott | 10–15 kn | Caldo umido, rischio uragani basso ma reale |
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026
 
-Alisei NE dic-giu; stagione umida lug-nov (bordo S della fascia uragani: rischio basso ma reale).
+Alizés NE dic-giu; stagione umida lug-nov (bordo S della fascia uragani: rischio basso ma reale).
 
 ### Vento locale — statistiche (% giorni >15 kn)
 
@@ -43,4 +43,4 @@ Fonti: [statistiche Union Island](https://www.kitesurfgrenadines.com/kitesurfing
 [guida stagioni SVG Yachting](https://www.svgyachting-grenadines.com/blog/best-time-to-sail-the-grenadines) ★★★ ·
 [Windfinder Canouan](https://www.windfinder.com/windstatistics/canouan_airport) ★★★
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026

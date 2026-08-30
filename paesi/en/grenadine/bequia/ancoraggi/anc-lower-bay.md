@@ -1,19 +1,19 @@
-# Lower Bay — ancoraggio {#anc-lower-bay}
+# Lower Bay — Anchorage {#anc-lower-bay}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← All anchorage](../08-ancoraggi.md)
 **12°59.3′N 61°14.9′W**
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| **Riparo** | ★★★★ alisei |
-| **Fondo** | Sabbia |
-| **Tenuta àncora** | Buona |
-| **Profondità** | 5–10 m |
-| **Boe** | No |
-| **Pericoli** | Rollio con swell ovest |
-| **A terra** | Keegan's, De Reef, Dawn's a riva |
+| **Protection** | Good from alisei winds |
+| **Bottom** | Sand |
+| **Holding Ground** | Good |
+| **Depth** | 5–10 m |
+| **Mooring Buoys** | None |
+| **Hazards** | Roll with swell from the west |
+| **Aground** | Keegan's, De Reef, Dawn's at quayside |
 
 <div class="mapframe" data-slug="anc-lower-bay" data-lat="12.988" data-lon="-61.248"></div>
-*Mappa offline Lower Bay — zoom con i pulsanti +/−; menu in alto a destra per Carta nautica e Segnali*
+*Offline map Lower Bay — zoom using +/− buttons; nautical chart and buoyage menu in top right corner*
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

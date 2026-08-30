@@ -1,18 +1,18 @@
 # Lacou Melrose House
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Roseau — Hodges Lane (centro storico) |
-| Cucina | 🥩 Francese-caraibica |
-| Specialità | Seafood pasta · grilled meats · menu lavagna giornaliero |
-| Costo | 💰€€€ per persona senza bevande |
-| Location | 🏛️ casa in pietra del 1770, courtyard / sala d'arte |
+| Zone | Roseau — Hodges Lane (centro storico) |
+| Cuisine | 🥩 Francese-caraibica |
+| Spécialité | Seafood pasta · grilled meats · menu lavagna giornaliero |
+| Coût | 💰€€€ per persona senza bevande |
+| Emplacement | 🏛️ casa in pietra del 1770, courtyard / sala d'arte |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lacou+Melrose+House+Roseau+Dominica) |
-| Contatti | **DATO MANCANTE** — via [Facebook](https://www.facebook.com/lacou.dominica/) |
-| Valutazioni | Destination Magazines ★★★ · Google **DATO MANCANTE** |
-| Orari | **DATO MANCANTE** — verificare Facebook/Google |
+| Contacts | **DONNÉE MANQUANTE** — via [Facebook](https://www.facebook.com/lacou.dominica/) |
+| Évaluations | Destination Magazines ★★★ · Google **DONNÉE MANQUANTE** |
+| Horaires | **DONNÉE MANQUANTE** — verificare Facebook/Google |
 
 ## Menu
 
@@ -21,7 +21,7 @@
 - Menu blackboard giornaliero con ingredienti locali
 - Desserts caraibici
 
-**Chef**: **DATO MANCANTE**
+**Chef**: **DONNÉE MANQUANTE**
 
 ## Note
 
@@ -29,4 +29,4 @@ Ristorante heritage in una delle case più antiche di Roseau (1770), restaurata;
 
 Fonti: [Destination Magazines](https://destination-magazines.com/10-best-restaurants-in-dominica/) ★★★ · [Discover Dominica](https://discoverdominica.com) ★★★
 
-Ultimo aggiornamento: 25/08/2026
+Dernière mise à jour: 25/08/2026

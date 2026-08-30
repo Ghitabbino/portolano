@@ -1,7 +1,7 @@
 # Grande Anse d'Arlet {#anc-grande-anse-arlet}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
-| Campo | Dettaglio |
+[← All Anchorages](../08-ancoraggi.md)
+| Field | Detail |
 |---|---|
 | **Profondità** | 4–8 m circa |
 | **Tenuta** |Buona su sabbia, calaggio facile ★★★|
@@ -14,4 +14,4 @@
 <div class="mapframe" data-slug="grande-anse-arlet" data-lat="14.4805" data-lon="-61.0885"></div>
 *Vista mappa Grande Anse d'Arlet (coord. indicative) — zoom con i pulsanti +/−; menu in alto a destra per passare a Carta nautica e Segnali nautici · mappa offline*
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026

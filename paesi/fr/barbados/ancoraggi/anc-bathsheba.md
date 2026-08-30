@@ -1,20 +1,20 @@
 # Bathsheba / Tent Bay (costa EST — NON ANCORABILE) {#anc-bathsheba}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← Tous les mouillages](../08-ancoraggi.md)
 **13°14′49″ N 59°32′10″ W** ★
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| **Profondità** |4–10 m ma swell atlantico diretto continuo|
-| **Tenuta àncora** |NESSUNA PROTEZIONE: NON ANCORABILE in condizioni normali (solo pescherecci locali)|
-| **Venti/riparo** |Nessuna: costa a windward atlantica|
-| **Pericoli** |Da escludere dal portolano come ancoraggio (vale anche per Consett Bay); punto indicato solo come da EVITARE verificato su BA 1042 + satellite|
-| **Boe/divieti/normative** |—|
-| **A terra** |Bathsheba town|
+| **Profondeur** |4–10 m ma swell atlantico diretto continuo|
+| **Tenue de l’ancre** |NESSUNA PROTEZIONE: NON ANCORABILE in condizioni normali (solo pescherecci locali)|
+| **Vents/abri** |Nessuna: costa a windward atlantica|
+| **Dangers** |Da escludere dal portolano come ancoraggio (vale anche per Consett Bay); punto indicato solo come da EVITARE verificato su BA 1042 + satellite|
+| **Bouées/interdictions/réglementation** |—|
+| **À terre** |Bathsheba town|
 
 <div class="mapframe" data-slug="anc-bathsheba" data-lat="13.247" data-lon="-59.536"></div>
-*Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
+*Carte détaillée — zoomez jusqu’à la baie · carte hors ligne · coordinate WGS84 indicative, toujours vérifier avec le traceur*
 
 Fonti: [safetyanchoralarm.com South & East Coast](https://safetyanchoralarm.com/anchorages/barbados/barbados-south-east) ★★ · verificato su BA 1042 + satellite
 
-Ultimo aggiornamento: 25/08/2026
+Dernière mise à jour: 25/08/2026

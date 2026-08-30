@@ -1,18 +1,18 @@
 # Grace's Cottage
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Grace Bay (Point Grace) |
-| Cucina | 🥩 Francese fine dining |
-| Specialità | *Tasting menu · soufflé · lobster bisque* |
-| Costo | 💰€€€ per persona senza bevande |
-| Location | 🪶 cottage elegante — courtyard Point Grace |
+| Zone | Grace Bay (Point Grace) |
+| Cuisine | 🥩 Francese fine dining |
+| Spécialité | *Tasting menu · soufflé · lobster bisque* |
+| Coût | 💰€€€ per persona senza bevande |
+| Emplacement | 🪶 cottage elegante — courtyard Point Grace |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Graces+Cottage+Point+Grace+Providenciales) |
-| Contatti | +1 (649) 946-5050 · [pointgrace.com/dining](https://www.pointgrace.com) |
-| Valutazioni | visittci.com 4,6/5 (4.088) → ★★★★½ · TripAdvisor 4,7/5 ★★★★½ |
-| Orari | Lun–sab 18:00–22:00 (colazione 7:30–11) · dom chiuso |
+| Contacts | +1 (649) 946-5050 · [pointgrace.com/dining](https://www.pointgrace.com) |
+| Évaluations | visittci.com 4,6/5 (4.088) → ★★★★½ · TripAdvisor 4,7/5 ★★★★½ |
+| Horaires | Lun–sab 18:00–22:00 (colazione 7:30–11) · dom chiuso |
 
 ## Menu
 
@@ -23,4 +23,4 @@
 
 **Note**: French fine dining in cottage coloniale a Point Grace, nella punta nord di Grace Bay. Colazione e cena; atmosfera molto elegante. Prenotare con largo anticipo.
 
-**Fonte locale**: [visittci.com/graces-cottage](https://www.visittci.com/providenciales/graces-cottage) ★★★★ · TripAdvisor ★★★
+**Source locale**: [visittci.com/graces-cottage](https://www.visittci.com/providenciales/graces-cottage) ★★★★ · TripAdvisor ★★★

@@ -1,14 +1,14 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
-Ultimo aggiornamento: 22/08/2026 · Coordinate indicative; navigare con cartografia ufficiale (Navionics/C-MAP; cartografia spagnola IHM).
+Dernière mise à jour: 22/08/2026 · Coordinate indicative; navigare con cartografia ufficiale (Navionics/C-MAP; cartografia spagnola IHM).
 
 ## Costa nord — praticamente esclusa
 
-Aliseo NE costante + swell atlantico: nessun riparo affidabile. Puerto de la Cruz ha attracci limitati ed è esposto. Si naviga quasi solo lungo il versante sud/ovest.
+Alizé NE costante + swell atlantico: nessun riparo affidabile. Puerto de la Cruz ha attracci limitati ed è esposto. Si naviga quasi solo lungo il versante sud/ovest.
 
 ## Marine principali (versante sud/ovest)
 
-| Marina | Zona | Note |
+| Marina | Zone | Note |
 |---|---|---|
 | **Marina Santa Cruz de Tenerife** | Santa Cruz (capoluogo) | ~230 posti; centro città a piedi; servizi completi; porto di ingresso; base logistica migliore dell'isola |
 | **Puerto Colón** | Costa Adeje | Turistica, charter e escursioni baleniere; comoda per rifornimenti turistici |
@@ -18,11 +18,11 @@ Aliseo NE costante + swell atlantico: nessun riparo affidabile. Puerto de la Cru
 
 ## Ancoraggi (limitati — costa steep-to)
 
-| Posto | Tenuta | Note |
+| Posto | Tenue | Note |
 |---|---|---|
 | Las Galletas | Media | Fondo misto; vicino marina piccola; ok con aliseo moderato |
 | Los Gigantes (rada) | ★★ | Rolla con NW; diurno |
-| Baia di Anaza | Esposta | Solo con meteo stabile; zona industriale/portuale |
+| Baie di Anaza | Esposta | Solo con meteo stabile; zona industriale/portuale |
 
 ⛔ Fondali scendono rapidamente (steep-to): attenzione alla batimetria vicino costa e alle boe dei campi balneari.
 
@@ -38,20 +38,20 @@ Aliseo NE costante + swell atlantico: nessun riparo affidabile. Puerto de la Cru
 | Los Cristianos | 70 | 922 790 827 | ★★★★ |
 | Las Galletas | 100 | (da confermare) | |
 
-Fonte capacità/telefoni: Autoridad Portuaria S/C Tenerife via.com ★★★★ · dettagli ingresso Marina Santa Cruz da guida ★★★★.
+Source capacità/telefoni: Autoridad Portuaria S/C Tenerife via.com ★★★★ · dettagli ingresso Marina Santa Cruz da guida ★★★★.
 
-## Tariffe indicative
+## Tarifs indicatifs
 
-| Struttura | Costo | Note |
+| Infrastructure | Coût | Note |
 |---|---|---|
 | Marina Santa Cruz (~12 m) | ~25–45 €/notte ⚠️ stima | Listino ufficiale TASAS su puertosdetenerife.org — confermare in ufficio |
 
-## Distanze utili
+## Distances utiles
 
-| Tratta | Distanza | Note |
+| Trajet | Distance | Note |
 |---|---|---|
 | Santa Cruz – San Sebastián de La Gomera | ~25 Mm | Facile con aliseo ≤20 kn |
 | Santa Cruz – Las Palmas (GC) | ~60–70 Mm | Notturna o partenza presto |
 | Santa Cruz – Radazul | ~8 Mm | Salto comodo |
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026

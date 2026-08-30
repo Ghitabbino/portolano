@@ -1,10 +1,10 @@
-# 00 — Ingresso, documenti e visti
+# 00 — Entry, Documents & Visas
 
-**Ultima verifica: 25/08/2026** · Fonti: Decreto DGTA/MTI ★★★★ · Ocean Posse ★★★ · Cruisers Wiki ★★★ · Nica-Biz ★★★
+**Last checked: 25/08/2026** · Fonti: Decreto DGTA/MTI ★★★★ · Ocean Posse ★★★ · Cruisers Wiki ★★★ · Nica-Biz ★★★
 
 ## Status
 
-| Voce | Dato |
+| Item | Data |
 |---|---|
 | Visto italiani/UE | **Non richiesto** — "Categoria A" visa exempt ★★★★ |
 | **Tourist Card** | **US$10** a persona (aria/mare/terra) + US$3 servizi ai confini terrestri ★★★ |
@@ -14,9 +14,9 @@
 
 ## Arrivo via mare
 
-| Voce | Dato |
+| Item | Data |
 |---|---|
-| POE marittimi | **San Juan del Sur · Corinto · Marina Puesta del Sol · Puerto Sandino** (Pacifico) · **El Bluff/Bluefields · Puerto Cabezas · Corn Island** (Caraibi) · fluviale **Granada/San Carlos** (Rio San Juan) [Decreto DGTA] ★★★★ |
+| POE marittimi | **San Juan del Sur · Corinto · Marina Puesta del Sol · Puerto Sandino** (Pacifico) · **El Bluff/Bluefields · Puerto Cabezas · Corn Island** (Caribbean) · fluviale **Granada/San Carlos** (Rio San Juan) [Decreto DGTA] ★★★★ |
 | Documenti | Zarpe ultimo porto, registro nave, crew list, assicurazione ★★★ |
 | Autorità all'arrivo | Capitanería de Puerto (Forza Navale), Migración, DGA dogana, IPSA, MINSA ★★★★ |
 | Autorizzazione navigazione | Rilasciata dalla **DGTA**, valida **2 anni rinnovabili** [Decreto Art.14] ★★★★ |
@@ -31,14 +31,13 @@
 
 Corn Islands, Bluefields e Puerto Cabezas richiedono **permesso preventivo da Managua** [Cruisers Wiki] ★★★
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026
 
-## Cittadini UE
+## EU Citizens
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
 
-## La barca
+## The Yacht
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
+**DATA MISSING** — da completare al controllo mensile.

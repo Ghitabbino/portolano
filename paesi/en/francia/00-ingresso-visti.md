@@ -1,42 +1,42 @@
-# 00 — Ingresso, documenti e visti
+# 00 — Entry, Documents & Visas
 
-**Ultima verifica: 27/08/2026**
+**Last checked: 27/08/2026**
 
 ## Status
 
-La Francia è uno **Stato membro dell'Unione europea** e parte dell'**area Schengen**. Valuta: **euro (EUR)**.
+France is an **EU Member State** and part of the **Schengen Area**. Currency: **euro (EUR)**.
 
-## Cittadini UE — nessun visto (principio generale)
+## EU Citizens — No Visa (General Principle)
 
-| Voce | Regola | Fonte |
+| Item | Rule | Source |
 |---|---|---|
-| Visto | **DATO MANCANTE** — verificare durata soggiorno senza visto per cittadini UE su fonte governativa francese | **DATO MANCANTE** |
-| Documenti | **DATO MANCANTE** — carta d'identità/passaporto: verificare requisiti esatti su diplomatie.gouv.fr / service-public.fr | **DATO MANCANTE** |
-| Soggiorno | **DATO MANCANTE** | **DATO MANCANTE** |
+| Visa | **DATA MISSING** — check durata soggiorno without visto for cittadini UE on fonte governativa francese | **DATA MISSING** |
+| Documents | **DATA MISSING** — carta d'identità/passaporto: check requisiti esatti on diplomatie.gouv.fr / service-public.fr | **DATA MISSING** |
+| Stay | **DATA MISSING** | **DATA MISSING** |
 
-> Dettagli su visti, documenti richiesti e modelli da compilare: **DATO MANCANTE** — da verificare su fonte governativa francese ★★★★★ prima della partenza.
+> Details on visti, documenti richiesti and modelli from compilare: **DATA MISSING** — from check on fonte governativa francese ★★★★★ prima of the partenza.
 
-## Nota importante per chi arriva via mare
+## Important Note for Arrival by Sea
 
-- Controlli persone e **clearance della barca** sono procedure separate → vedi [01 — Clearance doganale della barca](01-clearance.md).
-- **DATO MANCANTE** su procedure specifiche di ingresso via mare per diportisti in Francia.
+- Personal checks and **yacht clearance** are separate procedures → see [01 — Yacht Customs Clearance](01-clearance.md).
+- **DATA MISSING** on procedure specifiche of ingresso via mare for diportisti in Francia.
 
-## E dopo i 3 mesi? (cittadini italiani/UE)
+## Beyond 3 Months? (Italian/EU Citizens)
 
-| Situazione | Regola | Fonte |
+| Situation | Rule | Source |
 |---|---|---|
-| Soggiorno oltre 3 mesi | **DATO MANCANTE** | **DATO MANCANTE** |
-| Quota Schengen 90/180 | **DATO MANCANTE** | **DATO MANCANTE** |
+| Soggiorno oltre 3 mesi | **DATA MISSING** | **DATA MISSING** |
+| Quota Schengen 90/180 | **DATA MISSING** | **DATA MISSING** |
 
-## La barca: permanenza
+## The Yacht: Length of Stay
 
-| Barca | Regola | Fonte |
+| Yacht | Rule | Source |
 |---|---|---|
-| **UE con IVA pagata** | **DATO MANCANTE** — libera circolazione in UE, verificare dettagli doganali Francia | **DATO MANCANTE** |
-| Extra-UE | **DATO MANCANTE** — verificare regime ammissione temporanea Francia/UE | **DATO MANCANTE** |
+| **EU VAT-paid** | **DATA MISSING** — libera circolazione in UE, check dettagli doganali Francia | **DATA MISSING** |
+| Extra-UE | **DATA MISSING** — check regime ammissione temporanea Francia/UE | **DATA MISSING** |
 
-## Vaccini
+## Vaccinations
 
-**DATO MANCANTE** — verificare su viaggiareinsicurezza.it / diplomatie.gouv.fr.
+**DATA MISSING** — check on viaggiareinsicurezza.it / diplomatie.gouv.fr.
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

@@ -18,4 +18,4 @@
 
 Fonti: safetyanchoralarm.com ★★ · visittci.com/providenciales/leeward (rev. 21/07/2026) ★★★ · gov.tc DECR (no-wake Leeward Going Through) ★★★★
 
-Ultimo aggiornamento: 28/08/2026
+Last updated: 28/08/2026

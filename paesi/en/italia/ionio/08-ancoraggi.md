@@ -1,42 +1,42 @@
-# 08 — Portolano degli ancoraggi
+# 08 — Anchorage Pilot
 
-**Ultima verifica: 27/08/2026** — Ionio
+**Last checked: 27/08/2026** — Ionio
 
-## Regole generali di ancoraggio (prima di tutto)
+## General Anchoring Rules (First and Foremost)
 
 - Àncora libera consentita fuori dalle zone portuali regolamentate, dai campi boe balneari e dalle **Aree Marine Protette (AMP)** — dove ancoraggio spesso vietato o consentito solo su boe. Verificare ordinanze locali Capitaneria per Ionio ★★★★★
 - Divieto di ancoraggio su **posidonia oceanica** (fanerogama protetta) — sanzioni elevate. Verificare sempre natura del fondale ★★★★★
 - Rispettare i corridoi di lancio / zone balneazione (ordinanza balneare comunale) ★★★★
-- Segnaletica **IALA-A** in Italia (opposta ai Caraibi) ★★★★★
+- Segnaletica **IALA-A** in Italia (opposta ai Caribbean) ★★★★★
 
 ### ⛔ Zone di divieto / AMP in Ionio
 
-| Zona | Divieto | Fonte |
+| Area | Prohibition | Source |
 |---|---|---|
-| **DATO MANCANTE** — AMP / riserva in Ionio | **DATO MANCANTE** — verificare ordinanza | **DATO MANCANTE** |
+| **DATA MISSING** — AMP / riserva in Ionio | **DATA MISSING** — verificare ordinanza | **DATA MISSING** |
 | Zone balneazione / campi boe | Ancoraggio vietato nei corridoi segnalati | Ordinanza balneare comunale ★★★★ |
 
 Testi e mappe ufficiali: ordinanze Capitaneria di Porto competente per Ionio e sito Ministero Ambiente per AMP.
 
-## Tabella riassuntiva — ancoraggi di Ionio
+## Summary Table — ancoraggi di Ionio
 
-| # | Ancoraggio | Riparo | Tenuta | Profondità | Affollamento | Giudizio |
+| # | Anchorage | Shelter | Holding | Depth | Crowding | Verdict |
 |---|---|---|---|---|---|---|
-| 1 | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** |
+| 1 | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** |
 
 *Ancoraggi specifici di Ionio da verificare su Portolano IIM, Navionics e fonti locali — tabella da popolare con dati verificati.*
 
-### Mappa generale degli ancoraggi
+### General Anchorage Map
 
 <div class="mapframe" data-slug="ionio" data-minz="6" data-maxz="16" data-lat="38.50" data-lon="17.00" data-markers='[]'></div>
 
-*Mappa centrata su Ionio (38.50N 17.00E, indicativo zona). Marker ancoraggi verificati con coordinate WGS84: **DATO MANCANTE** — tasselli locali zoom 6–13 (satellitare / carta nautica / segnali OpenSeaMap). Nessuna coordinata inventata: i pin saranno aggiunti solo dopo verifica su fonte attendibile.*
+*Mappa centrata su Ionio (38.50N 17.00E, indicativo zona). Marker ancoraggi verificati con coordinate WGS84: **DATA MISSING** — tasselli locali zoom 6–13 (satellitare / carta nautica / segnali OpenSeaMap). Nessuna coordinata inventata: i pin saranno aggiunti solo dopo verifica su fonte attendibile.*
 
 ---
 
-## Cartografia ufficiale
+## Official Charts
 
-| Carta | Copertura | Note |
+| Chart | Coverage | Notes |
 |---|---|---|
 | **IIM — Carte nautiche italiane** | Ionio | Istituto Idrografico della Marina — WGS84 |
 | **Portolano IIM P-series** | Coste italiane | Descrizione ufficiale approdi e ancoraggi |
@@ -45,16 +45,16 @@ Testi e mappe ufficiali: ordinanze Capitaneria di Porto competente per Ionio e s
 - Le carte IIM riportano zone regolamentate e AMP; acquistabili presso rivenditori autorizzati.
 - Per la navigazione quotidiana: carta elettronica aggiornata sul plotter + carta cartacea IIM come riserva.
 
-## Non inclusi (per ora)
+## Not Included (For Now)
 
-- Dettaglio ancoraggi minori di Ionio: **DATO MANCANTE** — da verificare
+- Dettaglio ancoraggi minori di Ionio: **DATA MISSING** — da verificare
 
-## Checklist àncora per Ionio
+## Anchor Checklist per Ionio
 
-1. Ordinanza Capitaneria / AMP scaricata e verificata ✓/ **DATO MANCANTE**
+1. Ordinanza Capitaneria / AMP scaricata e verificata ✓/ **DATA MISSING**
 2. Natura fondale verificata (sabbia/fango — mai posidonia) ✓
 3. Corridoi balneazione e campi boe evitati ✓
 4. Previsione vento/mare per 24h controllata (Meteomar) ✓
 5. Carta IIM a bordo ✓
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

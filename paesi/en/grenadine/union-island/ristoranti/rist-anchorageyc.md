@@ -1,27 +1,27 @@
 # Anchorage Yacht Club
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | Zona | Clifton |
-| Cucina | 🐟 Caraibica |
+| Cucina | 🐟 Caribbeanca |
 | Specialità | Pesce del giorno |
-| Costo | 💰€€ per persona senza bevande |
+| Costo | 💰€€ per person without drinks |
 | Location | ⚓ waterfront Clifton |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Anchorage+Yacht+Club+Clifton) |
 | Contatti | ND |
-| Valutazioni | Guida CCA/Compass → ★★★ |
+| Currencyzioni | Guida CCA/Compass → ★★★ |
 | Orari | giorno |
 
 ## Menu
 
-- Pesce del giorno
+- Pesce of the giorno
 
 **Chef**: ND
 
 ## Foto
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Foto non still disponibili — recuperare at the controllo mensile.*
 
 **Note**: Sul waterfront di Clifton, classico diportisti

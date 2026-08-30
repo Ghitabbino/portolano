@@ -1,27 +1,26 @@
-# Servizi, cantieri e manutenzione
+# 04 — Services, Boatyards & Maintenance
 
-**Ultimo aggiornamento: 23/08/2026**
+**Last updated: 23/08/2026**
 
-> ⚠️ Pagina in preparazione: dati in raccolta.
+> ⚠️ Page under preparation: data collection in progress.
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026
 
-## Hub tecnico
+## Technical Hub
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Gas e bombole
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## Acqua dolce
+## LPG & Gas Bottles
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## Note strategiche
+## Fresh Water
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
+
+## Strategic Notes
+
+**DATA MISSING** — to be completed at the monthly check.

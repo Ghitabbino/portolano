@@ -6,7 +6,7 @@
 | Campo | Dettaglio |
 |---|---|
 | **Profondità** |3–5 m che si assottiglia rapidamente|
-| **Tenuta àncora** |**DATO MANCANTE**|
+| **Tenuta àncora** |**DATA MISSING**|
 | **Venti/riparo** |Baia riparata davanti al villaggio di pescatori|
 | **Pericoli** |Lato N sotto le scogliere|
 | **Boe/divieti/normative** |—|
@@ -17,4 +17,4 @@
 
 Fonti: Spend Life Traveling (2026) ★★ · [DA VERIFICARE SATELLITE]
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

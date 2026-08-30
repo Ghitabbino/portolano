@@ -7,7 +7,7 @@
 | Zona | Grace Bay / The Bight |
 | Cucina | 🐟 Seafood mediterranea |
 | Specialità | *Catch of day · ceviche · Mediterranean crudos* |
-| Costo | 💰€€€ per persona senza bevande |
+| Costo | 💰€€€ per person without drinks |
 | Location | 🏖️ spiaggia — deck su Bight Beach / Grace Bay |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Marine+Room+Grace+Bay+Providenciales) |
 | Contatti | +1 (649) 946-4079 · [marineroomtci.com](https://www.marineroomtci.com) |

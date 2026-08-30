@@ -1,42 +1,42 @@
 # 00 — Aree
 
-> **📖 Wiki assolutamente libera — nessuna iscrizione richiesta.** Puoi navigare l’intero portolano, consultare tutte le schede, scaricare mappe e file **ZIP/GPX** e usare il sito offline **senza creare alcun account e senza alcun pagamento**.
+> **📖 Wiki entièrement gratuit — aucune inscription requise.** Vous pouvez parcourir l’ensemble du routier, consulter toutes les fiches, télécharger les cartes et fichiers **ZIP/GPX** et utiliser le site hors ligne **sans créer de compte et sans aucun paiement**.
 
-Scegli il mare da esplorare: dentro ogni area trovi i gruppi di isole, poi la singola isola con ingresso, clearance, costi, ancoraggi e ristoranti.
+Choisissez la mer à explorer: dans chaque zone vous trouverez les groupes d’îles, puis l’île concernée avec entrée, formalités, coûts, mouillages et restaurants.
 
-**Metodo**: ogni informazione porta rank di attendibilità + data + fonte (quando disponibile).
+**Méthode**: chaque information porte un rang de fiabilité + date + source (lorsque disponible).
 
-**L'intero sistema viene aggiornato con periodicità mensile.**
+**L’ensemble du système est mis à jour mensuellement.**
 
-### Benvenuto a bordo — due modi per usare la wiki
+### Bienvenue à bord — deux façons d’utiliser le wiki
 
-Questa wiki è nata da velisti per velisti, per condividere ciò che vorremmo trovare entrando in una rada nuova. **Puoi usarla liberamente, senza iscriverti, senza limiti e senza pubblicità**: sfoglia le schede, confronta i porti, scarica le mappe e i waypoint, stampa ciò che ti serve. È e resterà così.
+Ce wiki est né de marins pour des marins, pour partager ce que nous aimerions trouver en entrant dans une nouvelle rade. **Vous pouvez l’utiliser librement, sans inscription, sans limites et sans publicité**: parcourez les fiches, comparez les ports, téléchargez les cartes et les waypointss, imprimez ce dont vous avez besoin. Il en est et restera ainsi.
 
-**L’iscrizione serve solo se lo desideri, per due motivi:**
+**L’inscription n’est utile que si vous le souhaitez, pour deux raisons:**
 
-1. **Ricevere gli alert che contano** — solo se li scegli: **criticità di sicurezza** (L3 🚨), **avvisi importanti** (L2 ⚠️) e **aggiornamenti meteo generali** per le aree che segui. Una mail solo quando serve, mai spam. Senza iscrizione non ricevi nulla, ma continui a navigare tutto il portolano.
+1. **Recevoir les alertes qui comptent** — uniquement si vous les choisissez: **criticités de sécurité** (L3 🚨), **avis importants** (L2 ⚠️) e **mises à jour météo générales** pour les zones que vous suivez. Un e-mail uniquement quand c’est nécessaire, jamais de spam. Sans inscription vous ne recevez rien, mais vous continuez à consulter tout le routier.
 
-2. **Contribuire al portolano** — se sei stato sul posto e vuoi aggiungere un prezzo verificato, una boa nuova o una dritta utile, con l’account puoi proporre l’aggiornamento a tuo nome (tracciato e moderato).
+2. **Contribuer au routier** — si vous êtes allé sur place et souhaitez ajouter un prix vérifié, une nouvelle bouée ou une astuce utile, avec un compte vous pouvez proposer la mise à jour à votre nom (tracée et modérée).
 
-In breve: **senza iscrizione leggi tutto; con l’iscrizione, se vuoi, resti aggiornato e aiuti gli altri.** La scelta è tua, in un click. Vedi **[Iscriviti](iscriviti.md)** o **[Accedi](accedi.md)** — oppure resta qui e inizia a esplorare.
+En bref: **sans inscription vous lisez tout; avec l’inscription, si vous le souhaitez, vous restez informé et vous aidez les autres.** Le choix vous appartient, en un clic. Vedi **[S’inscrire](iscriviti.md)** o **[Se connecter](accedi.md)** — oppure resta qui e inizia a esplorare.
 
-> 📥 **Download offline per paese**: ogni paese è scaricabile in **ZIP** (11 schede + waypoint **GPX WGS84** per OpenCPN/Navionics) — trovi il tasto **⬇️ ZIP** accanto al nome del paese nella barra laterale sinistra e dentro ogni pagina `08-ancoraggi`. Guida completa in **Offline & GPX**.
+> 📥 **Téléchargement hors ligne par pays**: chaque pays est téléchargeable en **ZIP** (11 schede + waypoints **GPX WGS84** pour OpenCPN/Navionics) — vous trouverez le bouton **⬇️ ZIP** à côté du nom du pays dans la barre latérale gauche et dans chaque page `08-ancoraggi`. Guide complet dans **Offline & GPX**.
 
-> 🔐 **Iscriviti o entra senza iscriverti — scegli tu**: il portolano è **sempre consultabile gratis senza account**. Se vuoi, puoi **[Iscriviti per ricevere gli allert di sicurezza](iscriviti.md)** (L3/L2 per le tue aree, 1 mail solo quando serve) o **[Accedi](accedi.md)** per contribuire. Senza iscrizione va benissimo lo stesso.
+> 🔐 **S’inscrire o entra senza iscriverti — scegli tu**: le routier est **toujours consultable gratuitement sans compte**. Si vous le souhaitez, vous pouvez **[S’inscrire pour recevoir les alertes de sécurité](iscriviti.md)** (L3/L2 pour vos zones, 1 e-mail uniquement quand nécessaire) o **[Se connecter](accedi.md)** pour contribuer. Sans inscription c’est très bien aussi.
 
-Ultimo aggiornamento: 28/08/2026
+Dernière mise à jour: 28/08/2026
 
-## Status
+## Statut
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Cittadini UE
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## La barca
+## Citoyens UE
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
+
+
+## Le bateau
+
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 

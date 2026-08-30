@@ -7,7 +7,7 @@
 | Zona | North Sound, Virgin Gorda |
 | Cucina | 🍽️ Resort nautico |
 | Specialità | — |
-| Costo | 💰€€€ per persona senza bevande |
+| Costo | 💰€€€ per person without drinks |
 | Location | ⚓ icona North Sound |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bitter+End+Yacht+Club+North+Sound,+Virgin+Gorda) |
 | Contatti | beyc.com |

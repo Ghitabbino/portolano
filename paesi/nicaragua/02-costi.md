@@ -27,6 +27,13 @@
 | Pranzo economico (local) | ~$6–$10 USD | LivingCostIndex ★★★ |
 | Cena ristorante medio (per 2) | ~$35–$40 USD | LivingCostIndex ★★★ |
 
+## Mangiare fuori
+
+| Voce | Prezzo indicativo | Note |
+|---|---|---|
+| Pranzo economico | ~$6–10 | LivingCostIndex ★★★ |
+| Cena ristorante medio per 2 | ~$35–40 | LivingCostIndex ★★★ |
+
 ## Carburanti
 
 | Voce | Prezzo indicativo | Note |

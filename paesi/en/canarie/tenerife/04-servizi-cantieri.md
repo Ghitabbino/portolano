@@ -1,32 +1,32 @@
-# 04 — Servizi, cantieri e manutenzione
+# 04 — Services, Boatyards & Maintenance
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026
 
 ## Hub tecnico — Marina Santa Cruz de Tenerife
 
-| Servizio | Dettaglio |
+| Service | Detail |
 |---|---|
 | Posti | ~230, profondità medie |
-| Travelift/haul-out | (da confermare) — verificare accordi con cantieri locali |
+| Travelift/haul-out | (from confermare) — check accordi with cantieri locali |
 | Fuel dock | Presente — tipico 08–18 lun–sab ⚠️ confermare in porto |
-| Acqua | Al posto |
-| Contatti hub | +34 922 292 184 · VHF 9 · marineria 24h 649 800 946 · reservas@marinasantacruz.com |
-| Chandlerly | In zona portuale — nomi (da confermare) |
+| Water | Al posto |
+| Contacts hub | +34 922 292 184 · VHF 9 · marineria 24h 649 800 946 · reservas@marinasantacruz.com |
+| Chandlerly | In zona portuale — nomi (from confermare) |
 
 ## Altri punti
 
-Vedi [03 Porti e marine](03-porti-ancoraggi.md) per gli approdi secondari.
+Vedi [03 Porti and marine](03-porti-ancoraggi.md) for gli approdi secondari.
 
-## Gas e bombole
+## Gas and bombole
 
-Raccordo spagnolo: scambio nei punti locali; adapter consigliato per bombole italiane. Dettagli in [07 Provvisioning](07-provvisioning.md).
+Raccordo spagnolo: scambio nei punti locali; adapter consigliato for bombole italiane. Details in [07 Provvisioning](07-provvisioning.md).
 
-## Acqua dolce
+## Water dolce
 
-Water dock secondo tabella hub; altrove taniche.
+Water dock second tabella hub; altrove taniche.
 
 ## Note strategiche
 
-Isola grande, costa steep-to: poche baie, marine come base normale. Per lavori importanti i riferimenti restano **Las Palmas (GC)** per carenaggio/attrezzatura pre-traversata e **Santa Cruz (Tenerife)** come logistica principale.
+Isola large, costa steep-to: poche baie, marine as base normale. Per lavori importanti i riferimenti restano **Las Palmas (GC)** for carenaggio/attrezzatura pre-traversata and **Santa Cruz (Tenerife)** as logistica principale.
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

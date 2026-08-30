@@ -1,6 +1,6 @@
-# 03 — Porti e marine
+# 03 — Ports & marinas
 
-**Ultimo aggiornamento: 23/08/2026**
+**Last updated: 23/08/2026**
 
 
 | Marina | Posti | Note |
@@ -15,14 +15,14 @@
 
 Fonte: [yachtharbours.com](https://www.yachtharbours.com/country/british-virgin-islands) ★★★★
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026
 
 ## Tariffe
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
 ## Distanze utili
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 

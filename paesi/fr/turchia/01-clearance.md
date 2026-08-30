@@ -1,49 +1,49 @@
-# 01 — Clearance doganale della barca
+# 01 — Formalités douanières
 
-**Ultima verifica: 27/08/2026**
+**Dernière vérification: 27/08/2026**
 
-## Chi deve farla
+## Qui doit effectuer les formalités
 
-**DATO MANCANTE** — verificare su fonte governativa turchia (Capitaneria / Port Authority) chi deve effettuare la clearance in entrata/uscita e negli spostamenti interni. ★★★★★
+**DONNÉE MANQUANTE** — vérifier sur fonte governativa turchia (Capitaneria / Port Authority) chi deve effettuare la clearance in entrata/uscita e negli spostamenti interni. ★★★★★
 
-## Procedura
+## Procédure
 
-| Passo | Dettaglio | Fonte |
+| Passo | Détail | Source |
 |---|---|---|
-| Dichiarazione online/cartacea | **DATO MANCANTE** | **DATO MANCANTE** |
-| Documenti richiesti | **DATO MANCANTE** — passaporti equipaggio, documenti barca, lista equipaggio | **DATO MANCANTE** |
-| Punti di ingresso (port of entry) | **DATO MANCANTE** | **DATO MANCANTE** |
+| Dichiarazione online/cartacea | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Documents richiesti | **DONNÉE MANQUANTE** — passaporti equipaggio, documenti barca, lista equipaggio | **DONNÉE MANQUANTE** |
+| Punti di ingresso (port of entry) | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
 
-## Copia cartacea e timbro
+## Copie papier et tampon
 
-**DATO MANCANTE**.
+**DONNÉE MANQUANTE**.
 
 ## Costi
 
-| Voce | Costo | Fonte |
+| Rubrique | Coût | Source |
 |---|---|---|
-| Dichiarazione / cruising permit | **DATO MANCANTE** | **DATO MANCANTE** |
-| Tassa di soggiorno / light dues | **DATO MANCANTE** | **DATO MANCANTE** |
+| Dichiarazione / cruising permit | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Tassa di soggiorno / light dues | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
 
-## Punti agréé / porti d'ingresso
+## Points agréés / ports d’entrée
 
-**DATO MANCANTE** — elenco porti abilitati all'ingresso internazionale per diporto.
+**DONNÉE MANQUANTE** — elenco porti abilitati all'ingresso internazionale per diporto.
 
-## Dogana regionale
+## Douane régionale
 
-**DATO MANCANTE**.
+**DONNÉE MANQUANTE**.
 
-## Esperienze di naviganti
+## Retours de navigateurs
 
-**DATO MANCANTE**.
+**DONNÉE MANQUANTE**.
 
-## Sanzioni
+## Sanctions
 
-**DATO MANCANTE** — verificare sanzioni per mancata clearance.
+**DONNÉE MANQUANTE** — verificare sanzioni per mancata clearance.
 
-## Da verificare prima della partenza
+## À vérifier avant le départ
 
 - Lista porti d'ingresso aggiornata su fonte ufficiale Turchia.
-- Orari e procedure Capitaneria / Harbour Master.
+- Horaires e procedure Capitaneria / Harbour Master.
 
-Ultimo aggiornamento: 27/08/2026
+Dernière mise à jour: 27/08/2026

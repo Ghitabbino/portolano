@@ -1,18 +1,18 @@
-# 05 — Stagionalità e meteo
+# 05 — Saisonnalité & Météo
 
-Clima subtropicale, più mite e secco di La Palma; regime alisei comune alle Canarie → contesto in [../00-ingresso-visti.md](../00-ingresso-visti.md).
+Climat subtropicale, più mite e secco di La Palma; regime alisei comune alle Canarie → contesto in [../00-ingresso-visti.md](../00-ingresso-visti.md).
 
-## Stagioni
+## Saisons
 
 | Periodo | Regime |
 |---|---|
-| Gen–apr | Alisei NE più tesi; swell da N/O sul lato ovest (La Puntilla rolla) |
-| Mag–set | Alisei stabili NE moderati; migliore finestra complessiva |
+| Gen–apr | Alizés NE più tesi; swell da N/O sul lato ovest (La Puntilla rolla) |
+| Mag–set | Alizés stabili NE moderati; migliore finestra complessiva |
 | Ott–dic | Più variabile, qualche perturbazione; finestre ancora frequenti |
 
 ## Venti ed esposizione
 
-| Zona | Regime |
+| Zone | Regime |
 |---|---|
 | Costa est (San Sebastián) | Barlovento: alisei trasversali; raffiche a ridosso dei capi |
 | Costa ovest (Valle Gran Rey) | Sottovento con alisei; esposta allo swell da N/O invernale → pontile che rolla |
@@ -23,7 +23,7 @@ Clima subtropicale, più mite e secco di La Palma; regime alisei comune alle Can
 - Isola montagnosa (Garajonay ~1487 m): nubi sui versanti nord nei giorni umidi, lato sud più secco.
 - Mar de nubes possibile sugli altipiani: poca influenza sulla navigazione costiera.
 
-## Finestre tipiche
+## Fenêtres météo typiques
 
 - Los Cristianos → San Sebastián (22–25 NM): traversa breve, fattibile quasi sempre; con alisei forti il mare è teso sul finale.
 - La Gomera → La Palma (40–45 NM): attendere alisei moderati; gestire la corrente/vento contrario sul tratto finale.
@@ -32,9 +32,9 @@ Clima subtropicale, più mite e secco di La Palma; regime alisei comune alle Can
 
 AEMET, Windy, PredictWind — [AEMET](https://www.aemet.es/es/eltiempo/pronostico) ufficiale**.
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026
 
-## Clima
-## Venti locali
-## Link meteo
-Ultimo aggiornamento: 23/08/2026
+## Climat
+## Vents locaux
+## Liens météo
+Dernière mise à jour: 23/08/2026

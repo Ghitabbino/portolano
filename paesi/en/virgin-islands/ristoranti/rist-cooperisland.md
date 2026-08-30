@@ -7,7 +7,7 @@
 | Zona | Manchioneel Bay, Cooper |
 | Cucina | 🍽️ Eco-resort |
 | Specialità | Craft rum distillery |
-| Costo | 💰€€€ per persona senza bevande |
+| Costo | 💰€€€ per person without drinks |
 | Location | 🌱 sostenibile |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cooper+Island+Beach+Club+Manchioneel+Bay,+Cooper) |
 | Contatti | cooperislandbeachclub.com |

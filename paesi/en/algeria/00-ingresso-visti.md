@@ -1,42 +1,42 @@
-# 00 — Ingresso, documenti e visti
+# 00 — Entry, Documents & Visas
 
-**Ultima verifica: 27/08/2026**
+**Last checked: 27/08/2026**
 
 ## Status
 
-L'Algeria è uno **Stato extra-UE**, **fuori dall'area Schengen**, sulla costa nord-africana del Mediterraneo. Valuta: **dinaro algerino (DZD)**.
+Algeria is a **Non-EU State**, **outside the Schengen Area**, sulla costa nord-africana del Mediterraneo. Currency: **dinaro algerino (DZD)**.
 
-## Cittadini UE — nessun visto (principio generale)
+## EU Citizens — Visa-Free (General Rule)
 
-| Voce | Regola | Fonte |
+| Item | Rule | Source |
 |---|---|---|
-| Visto | **DATO MANCANTE** — verificare durata soggiorno senza visto per cittadini UE su fonte governativa algeria | **DATO MANCANTE** |
-| Documenti | **DATO MANCANTE** — carta d'identità/passaporto: verificare requisiti esatti su viaggiareinsicuro.it / fonte consolare Algeria | **DATO MANCANTE** |
-| Soggiorno | **DATO MANCANTE** | **DATO MANCANTE** |
+| Visa | **DATA MISSING** — check visa-free stay duration for EU citizens on Algerian government source | **DATA MISSING** |
+| Documents | **DATA MISSING** — carta d'identità/passaporto: verificare requisiti esatti su viaggiareinsicuro.it / fonte consolare Algeria | **DATA MISSING** |
+| Stay | **DATA MISSING** | **DATA MISSING** |
 
-> Dettagli su visti, documenti richiesti e modelli da compilare: **DATO MANCANTE** — da verificare su fonte governativa algeria ★★★★★ prima della partenza.
+> Details on visas, required documents and forms to complete: **DATA MISSING** — to be verified on Algerian government source ★★★★★ before departure.
 
-## Nota importante per chi arriva via mare
+## Important Note for Arrival by Sea
 
-- Controlli persone e **clearance della barca** sono procedure separate → vedi [01 — Clearance doganale della barca](01-clearance.md).
-- **DATO MANCANTE** su procedure specifiche di ingresso via mare per diportisti in Algeria.
+- Personal checks and **yacht clearance** are separate procedures → see [01 — Yacht Customs Clearance](01-clearance.md).
+- **DATA MISSING** on specific entry procedures by sea for cruisers in Algeria.
 
-## E dopo i 3 mesi? (cittadini italiani/UE)
+## Beyond 3 Months? (Italian/EU Citizens)
 
-| Situazione | Regola | Fonte |
+| Situation | Rule | Source |
 |---|---|---|
-| Soggiorno oltre 3 mesi | **DATO MANCANTE** | **DATO MANCANTE** |
-| Quota Schengen 90/180 | **DATO MANCANTE** | **DATO MANCANTE** |
+| Stay beyond 3 months | **DATA MISSING** | **DATA MISSING** |
+| Schengen 90/180 Allowance | **DATA MISSING** | **DATA MISSING** |
 
-## La barca: permanenza
+## The Yacht: Length of Stay
 
-| Barca | Regola | Fonte |
+| Yacht | Rule | Source |
 |---|---|---|
-| **UE con IVA pagata** | **DATO MANCANTE** — verificare regime doganale Algeria per natanti UE | **DATO MANCANTE** |
-| Extra-UE | **DATO MANCANTE** — verificare regime ammissione temporanea Algeria | **DATO MANCANTE** |
+| **EU VAT-paid** | **DATA MISSING** — check Algerian customs regime for EU vessels | **DATA MISSING** |
+| Non-EU | **DATA MISSING** — check temporary admission regime for Algeria | **DATA MISSING** |
 
-## Vaccini
+## Vaccinations
 
-**DATO MANCANTE** — verificare su viaggiareinsicurezza.it / algeria.gouv.
+**DATA MISSING** — check viaggiareinsicurezza.it / algeria.gouv.
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

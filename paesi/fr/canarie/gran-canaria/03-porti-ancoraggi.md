@@ -1,16 +1,16 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
-Ultimo aggiornamento: 22/08/2026 · Cartografia ufficiale Navionics/C-MAP/IHM.
+Dernière mise à jour: 22/08/2026 · Cartographie officielle Navionics/C-MAP/IHM.
 
 ## Las Palmas de Gran Canaria — l'hub atlantico
 
-| Struttura | Note |
+| Infrastructure | Note |
 |---|---|
-| **Marina Las Palmas / Puerto Deportivo** (Porto della Luz) | Il punto di ritrovo dei velisti verso i Caraibi; ARC ogni novembre; servizi tecnici completi, carenaggio, chandler; inverno pieno — prenotare con anticipo per ott–dic |
+| **Marina Las Palmas / Puerto Deportivo** (Port della Luz) | Il punto di ritrovo dei velisti verso i Caraïbes; ARC ogni novembre; servizi tecnici completi, carenaggio, chandler; inverno pieno — prenotare con anticipo per ott–dic |
 
-## Altri porti
+## Autres ports
 
-| Porto | Zona | Note |
+| Port | Zone | Note |
 |---|---|---|
 | Puerto de Mogán | Sud-ovest | "Piccola Venezia", turistico, riparato, carino |
 | Pasito Blanco | Sud | Marina residenziale, tranquilla |
@@ -24,9 +24,9 @@ Costa steep-to e baie sud battute dall'aliseo: ancoraggi rari e mediocri. Le mar
 
 ⛔ Rotte dei ferry intorno all'isola: attraversamenti frequenti su Las Palmas–Agaete e sud.
 
-## Tariffe indicative
+## Tarifs indicatifs
 
-## Contatti marine verificati
+## Contacts marinas vérifiés
 
 | Marina | Posti | Telefono | Web/mail |
 |---|---|---|---|
@@ -37,18 +37,18 @@ Costa steep-to e baie sud battute dall'aliseo: ancoraggi rari e mediocri. Le mar
 | Club Yates Pasito Blanco | 386 | **928 142 194** | ★★★★ |
 | Anfi del Mar | 89 | **928 150 120** / 798 |anfidelmar.com ★★★★|
 
-## Tariffe indicative
+## Tarifs indicatifs
 
-| Struttura | Costo | Note |
+| Infrastructure | Coût | Note |
 |---|---|---|
 | Palmasport (~12 m) | ~25–40 €/notte ⚠️ stima | Listino su palmasport.es — confermare prenotando (ARC: prenotare con mesi di anticipo) |
 
-## Distanze utili
+## Distances utiles
 
-| Tratta | Distanza | Note |
+| Trajet | Distance | Note |
 |---|---|---|
 | Las Palmas – Santa Cruz Tenerife | ~60–70 Mm | Notturna consigliata |
 | Las Palmas – Mogán (costa) | ~35 Mm | Lungo costa ovest/sud |
 | Mogán – Morro Jable (FV) | ~20 Mm | Stretto meridionale |
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026

@@ -1,24 +1,24 @@
 # O Pescador
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| **Isola/Zona** | Flores / Santa Cruz das Flores |
-| **Cucina** | 🐟 Pesce do dia |
-| **Specialità** | Peixe fresco grelhado · Lapas · Polvo · Arroz marisco |
-| **Costo** | 💰€€ per persona senza bevande |
+| **Island/Area** | Flores / Santa Cruz das Flores |
+| **Cuisine** | 🐟 Pesce do dia |
+| **Speciality** | Peixe fresco grelhado · Lapas · Polvo · Arroz marisco |
+| **Cost** | 💰€€ per person without drinks |
 | **Location** | 🏖️ Porto Santa Cruz, **unico ristorante** dell'isola, 5 min da marina |
-| **Mappa** | [Google Maps](https://www.google.com/maps/search/?api=1&query=O+Pescador+Santa+Cruz+das+Flores) |
-| **Contatti** | +351 292 592 888 |
-| **Valutazioni** | Google 4,2/5 (120+) · TA 4,0/5 (90+) → ★★★½ |
-| **Orari** | Qua–Lun 12:00–15:00 / 19:00–21:30 · Mar chiuso · Inverno orari ridotti |
+| **Map** | [Google Maps](https://www.google.com/maps/search/?api=1&query=O+Pescador+Santa+Cruz+das+Flores) |
+| **Contacts** | +351 292 592 888 |
+| **Ratings** | Google 4,2/5 (120+) · TA 4,0/5 (90+) → ★★★½ |
+| **Hours** | Qua–Lun 12:00–15:00 / 19:00–21:30 · Mar chiuso · Inverno orari ridotti |
 
 ## Menu
 
 - **Peixe fresco grelhado** (pesce del giorno: cherne, garoupa, serra, atum — secondo pesca)
 - **Lapas grelhadas** (patelle, burro, aglio, limone)
-- **Polvo à lagareiro / guisado** (polpo forno o stufato)
+- **Polvo à lagareiro / guisado** (polpo forno or stufato)
 - **Arroz de marisco** (risotto frutti di mare)
 - **Chicharrinhos fritos** (pesciolini fritti)
 - **Sopa de peixe** (zuppa pesce, patate, verdure)
@@ -34,4 +34,4 @@
 
 ⚠️ **Inverno (nov–mar)**: orari molto ridotti, verificare telefonicamente; possibile chiusura settimanale.
 
-Ultimo aggiornamento: 24/08/2026
+Last updated: 24/08/2026

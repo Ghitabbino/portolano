@@ -1,4 +1,4 @@
-# 04 — Servizi, cantieri e manutenzione
+# 04 — Services, yards & maintenance
 
 **Ultima verifica: 25/08/2026**
 
@@ -30,12 +30,12 @@
 
 - Santa Lucia è nota tra i naviganti come **l'isola dove si riempiono quasi tutte le bombole** (Campingaz 907 comprese, bottiglie UK/USA), diversamente dalle Antille francesi che riempionono solo bombole francesi: tappa classica per chi scende dall'arcipelago francese. Cruisers Forum/YBW ★★★
 - Riempimento storico presso **Suds Laundry** nell'area Rodney Bay Marina (esperienza 2019 ⚠️ verificare che il servizio sia ancora attivo); fornitori GPL segnalati anche negli elenchi commerciali della marina. Diario SV Meshugga 2019 / shopsatrbm.com ★★
-- Prezzo al kg: **DATO MANCANTE**.
+- Prezzo al kg: **DATA MISSING**.
 
 ## Acqua dolce
 
 - Acqua potabile a pontile sia a Rodney Bay (erogazione **a contatore**, collegata solo dallo staff) sia a Marigot (~50 psi). IGY / Marigot Bay Yacht Haven ★★★★
-- Razionamenti/allerte locali: nessuna segnalazione trovata — **DATO MANCANTE**; prudenza: filtrare/trattare l'acqua di banchina come altrove nei Caraibi. ★★
+- Razionamenti/allerte locali: nessuna segnalazione trovata — **DATA MISSING**; prudenza: filtrare/trattare l'acqua di banchina come altrove nei Caraibi. ★★
 
 ## Note strategiche
 
@@ -48,4 +48,4 @@
 
 Rodney Bay concentra tutto il tecnico dell'isola: **cantiere IGY con travelift 75 t**, hardstand 120 posti, officine vetroresina/leghe/meccanica, chandler duty free, agenti yacht e spedizioni ricambi. Per refit molto grandi restano i riferimenti regionali Antigua, Sint Maarten e Trinidad. ★★★
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

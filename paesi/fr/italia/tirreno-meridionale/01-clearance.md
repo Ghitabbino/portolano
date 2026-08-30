@@ -1,38 +1,38 @@
-# 01 — Clearance doganale della barca
+# 01 — Formalités douanières
 
-**Ultima verifica: 27/08/2026** · Contesto generale in [00 — Ingresso](../00-ingresso-visti.md)
+**Dernière vérification: 27/08/2026** · Contesto generale in [00 — Ingresso](../00-ingresso-visti.md)
 
-## Chi deve farla (Italia / Tirreno Meridionale)
+## Qui doit effectuer les formalités (Italia / Tirreno Meridionale)
 
 | Provenienza | Obbligo |
 |---|---|
 | Porti UE/Schengen | **Nessuna clearance** per persone né barca UE — libera circolazione |
-| Extra-UE (es. Montenegro, Albania, Tunisia, Turchia) | **Obbligo** di ingresso in Porto di Ingresso con Polizia di Frontiera + Dogana |
+| Extra-UE (es. Montenegro, Albania, Tunisia, Turchia) | **Obbligo** di ingresso in Port d’entrée con Police di Frontiera + Dogana |
 
-> Procedura ufficiale Italia per diporto extra-UE: **DATO MANCANTE** — da verificare su Capitaneria di Porto / Agenzia Dogane ★★★★★
+> Procédure ufficiale Italia per diporto extra-UE: **DONNÉE MANQUANTE** — da vérifier sur Capitaneria di Port / Agenzia Dogane ★★★★★
 
-## Procedura per Tirreno Meridionale
+## Procédure per Tirreno Meridionale
 
-- Uffici competenti (Capitaneria, Dogana, Polizia Frontiera) in Tirreno Meridionale: **DATO MANCANTE**
-- Documenti richiesti (crew list, documenti barca, assicurazione): **DATO MANCANTE**
+- Uffici competenti (Capitaneria, Dogana, Police Frontiera) in Tirreno Meridionale: **DONNÉE MANQUANTE**
+- Documents richiesti (crew list, documenti barca, assicurazione): **DONNÉE MANQUANTE**
 
 ## Costi
 
-| Voce | Costo | Fonte |
+| Rubrique | Coût | Source |
 |---|---|---|
 | Clearance UE | **Gratuita** (nessuna formalità) | UE libera circolazione ★★★★★ |
-| Diritti extra-UE / marche da bollo | **DATO MANCANTE** | **DATO MANCANTE** |
+| Diritti extra-UE / marche da bollo | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
 
-## Punti agréé / Porti di ingresso in Tirreno Meridionale
+## Points agréés / Ports d’entrée in Tirreno Meridionale
 
-| Località | Ufficio | Contatti | Orari |
+| Località | Ufficio | Contacts | Horaires |
 |---|---|---|---|
-| **DATO MANCANTE** | Capitaneria / Dogana | **DATO MANCANTE** | **DATO MANCANTE** |
+| **DONNÉE MANQUANTE** | Capitaneria / Dogana | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
 
-> Elenco ufficiale Porti di Ingresso (Port of Entry): **DATO MANCANTE** — verificare su mit.gov.it
+> Elenco ufficiale Porti di Ingresso (Port of Entry): **DONNÉE MANQUANTE** — vérifier sur mit.gov.it
 
-## Sanzioni
+## Sanctions
 
-Mancata dichiarazione all'arrivo da extra-UE = sanzione doganale / immigrazione. Dettaglio normativo italiano: **DATO MANCANTE**
+Mancata dichiarazione all'arrivo da extra-UE = sanzione doganale / immigrazione. Détail normativo italiano: **DONNÉE MANQUANTE**
 
-Ultimo aggiornamento: 27/08/2026
+Dernière mise à jour: 27/08/2026

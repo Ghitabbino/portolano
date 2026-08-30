@@ -1,20 +1,20 @@
 # Soufrière / Rachette Point {#anc-soufriere-rachette}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← Tous les mouillages](../08-ancoraggi.md)
 **13°51′00″ N 61°04′00″ W** ★★★
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| **Profondità** |**DATO MANCANTE**|
-| **Tenuta àncora** |**DATO MANCANTE**|
-| **Venti/riparo** |Baia di Soufrière|
-| **Pericoli** |Hummingbird Beach = Fishing Priority Area chiusa all'ancoraggio (riaperta solo con maltempo su avviso VHF)|
-| **Boe/divieti/normative** |5 boe yacht a Rachette Point; Customs in paese|
-| **A terra** |Soufrière: negozi, taxi per Sulphur Springs|
+| **Profondeur** |**DONNÉE MANQUANTE**|
+| **Tenue de l’ancre** |**DONNÉE MANQUANTE**|
+| **Vents/abri** |Baie di Soufrière|
+| **Dangers** |Hummingbird Beach = Fishing Priority Area chiusa all'ancoraggio (riaperta solo con maltempo su avviso VHF)|
+| **Bouées/interdictions/réglementation** |5 boe yacht a Rachette Point; Customs in paese|
+| **À terre** |Soufrière: negozi, taxi per Sulphur Springs|
 
 <div class="mapframe" data-slug="anc-soufriere-rachette" data-lat="13.85" data-lon="-61.06667"></div>
-*Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
+*Carte détaillée — zoomez jusqu’à la baie · carte hors ligne · coordinate WGS84 indicative, toujours vérifier avec le traceur*
 
 Fonti: SMMA ★★★★ · Noonsite ★★★ · [DA VERIFICARE SATELLITE]
 
-Ultimo aggiornamento: 25/08/2026
+Dernière mise à jour: 25/08/2026

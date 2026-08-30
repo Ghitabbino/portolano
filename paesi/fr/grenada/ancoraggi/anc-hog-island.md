@@ -1,20 +1,20 @@
 # Hog Island {#anc-hog-island}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← Tous les mouillages](../08-ancoraggi.md)
 **12°00′06″ N 61°44′30″ W** ★★★
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| **Profondità** |**DATO MANCANTE**|
-| **Tenuta àncora** |Buona tra isolotto e terraferma|
-| **Venti/riparo** |Protetta|
-| **Pericoli** |Affollato d'estate; ⚠️ segnalate ricerche furti in zona (Noonsite)|
-| **Boe/divieti/normative** |—|
-| **A terra** |Roger's Bar (rum shack leggendario)|
+| **Profondeur** |**DONNÉE MANQUANTE**|
+| **Tenue de l’ancre** |Buona tra isolotto e terraferma|
+| **Vents/abri** |Protetta|
+| **Dangers** |Affollato d'estate; ⚠️ segnalate ricerche furti in zona (Noonsite)|
+| **Bouées/interdictions/réglementation** |—|
+| **À terre** |Roger's Bar (rum shack leggendario)|
 
 <div class="mapframe" data-slug="anc-hog-island" data-lat="12.0017" data-lon="-61.7417"></div>
-*Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
+*Carte détaillée — zoomez jusqu’à la baie · carte hors ligne · coordinate WGS84 indicative, toujours vérifier avec le traceur*
 
 Fonti: Noonsite ★★★ · All At Sea (2022) ★★★
 
-Ultimo aggiornamento: 28/08/2026
+Dernière mise à jour: 28/08/2026

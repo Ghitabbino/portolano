@@ -1,24 +1,24 @@
 # Saxophone Caleta
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| Zona | Caleta de Fuste – Playa del Castillo |
-| Cucina | 🍺 Birreria canaria-twist |
-| Specialità | Tapas canarie rivisitate |
-| Costo | 💰€ per persona senza bevande |
-| Location | 🍺 terrazza spiaggia |
-| Contatti | +34 624 53 10 55 |
-| Valutazioni | ★★★★|
-| Orari | pomeriggio/sera |
+| Area | Caleta de Fuste – Playa of the Castillo |
+| Cuisine | 🍺 Birreria canaria-twist |
+| Speciality | Tapas canarie rivisitate |
+| Cost | 💰€ for persona without bevande |
+| Setting | 🍺 terrazza spiaggia |
+| Contacts | +34 624 53 10 55 |
+| Ratings | ★★★★|
+| Hours | pomeriggio/sera |
 
 ## Menu
 
-- Papas con mojo special
+- Papas with mojo special
 
 **Chef**: ND
 
 **Note**: Economico, adatto famiglie
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

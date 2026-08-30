@@ -18,4 +18,4 @@
 
 Fonti: safetyanchoralarm.com/anchorages/turks-caicos/turks-islands ★★ · visittci.com/salt-cay ★★★ · gov.tc DECR (Salt Cay protection) ★★★
 
-Ultimo aggiornamento: 28/08/2026
+Last updated: 28/08/2026

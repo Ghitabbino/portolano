@@ -1,42 +1,42 @@
-# 00 — Ingresso, documenti e visti
+# 00 — Entry, Documents & Visas
 
-**Ultima verifica: 27/08/2026**
+**Last checked: 27/08/2026**
 
 ## Status
 
-L'Egitto è uno **Stato extra-UE**, **fuori dall'area Schengen**, con costa mediterranea (Alessandria–Port Said) e Mar Rosso (Suez–Hurghada). Valuta: **sterlina egiziana (EGP)**.
+L'Egitto è uno **Stato extra-UE**, **fuori dall'area Schengen**, with costa mediterranea (Alessandria–Port Said) and Mar Rosso (Suez–Hurghada). Currency: **sterlina egiziana (EGP)**.
 
-## Cittadini UE — nessun visto (principio generale)
+## EU Citizens — No Visa (General Principle)
 
-| Voce | Regola | Fonte |
+| Item | Rule | Source |
 |---|---|---|
-| Visto | **DATO MANCANTE** — verificare durata soggiorno senza visto per cittadini UE su fonte governativa egitto | **DATO MANCANTE** |
-| Documenti | **DATO MANCANTE** — carta d'identità/passaporto: verificare requisiti esatti su viaggiareinsicuro.it / fonte consolare Egitto | **DATO MANCANTE** |
-| Soggiorno | **DATO MANCANTE** | **DATO MANCANTE** |
+| Visa | **DATA MISSING** — check durata soggiorno without visto for cittadini UE on fonte governativa egitto | **DATA MISSING** |
+| Documents | **DATA MISSING** — carta d'identità/passaporto: check requisiti esatti on viaggiareinsicuro.it / fonte consolare Egitto | **DATA MISSING** |
+| Stay | **DATA MISSING** | **DATA MISSING** |
 
-> Dettagli su visti, documenti richiesti e modelli da compilare: **DATO MANCANTE** — da verificare su fonte governativa egitto ★★★★★ prima della partenza.
+> Details on visti, documenti richiesti and modelli from compilare: **DATA MISSING** — from check on fonte governativa egitto ★★★★★ prima of the partenza.
 
-## Nota importante per chi arriva via mare
+## Important Note for Arrival by Sea
 
-- Controlli persone e **clearance della barca** sono procedure separate → vedi [01 — Clearance doganale della barca](01-clearance.md).
-- **DATO MANCANTE** su procedure specifiche di ingresso via mare per diportisti in Egitto.
+- Personal checks and **yacht clearance** are separate procedures → see [01 — Yacht Customs Clearance](01-clearance.md).
+- **DATA MISSING** on procedure specifiche of ingresso via mare for diportisti in Egitto.
 
-## E dopo i 3 mesi? (cittadini italiani/UE)
+## Beyond 3 Months? (Italian/EU Citizens)
 
-| Situazione | Regola | Fonte |
+| Situation | Rule | Source |
 |---|---|---|
-| Soggiorno oltre 3 mesi | **DATO MANCANTE** | **DATO MANCANTE** |
-| Quota Schengen 90/180 | **DATO MANCANTE** | **DATO MANCANTE** |
+| Soggiorno oltre 3 mesi | **DATA MISSING** | **DATA MISSING** |
+| Quota Schengen 90/180 | **DATA MISSING** | **DATA MISSING** |
 
-## La barca: permanenza
+## The Yacht: Length of Stay
 
-| Barca | Regola | Fonte |
+| Yacht | Rule | Source |
 |---|---|---|
-| **UE con IVA pagata** | **DATO MANCANTE** — verificare regime doganale Egitto per natanti UE | **DATO MANCANTE** |
-| Extra-UE | **DATO MANCANTE** — verificare regime ammissione temporanea Egitto | **DATO MANCANTE** |
+| **EU VAT-paid** | **DATA MISSING** — check regime doganale Egitto for natanti UE | **DATA MISSING** |
+| Extra-UE | **DATA MISSING** — check regime ammissione temporanea Egitto | **DATA MISSING** |
 
-## Vaccini
+## Vaccinations
 
-**DATO MANCANTE** — verificare su viaggiareinsicurezza.it / egitto.gouv.
+**DATA MISSING** — check on viaggiareinsicurezza.it / egitto.gouv.
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

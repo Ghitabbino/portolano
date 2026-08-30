@@ -1,13 +1,13 @@
 # The Flying Fishbone
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | Zona | Savaneta — costa sud |
 | Cucina | 🐟 Pesce piedi nella sabbia |
 | Specialità | Pesce fresco piedi nell'acqua · tramonto |
-| Costo | 💰€€€ per persona senza bevande |
+| Costo | 💰€€€ per person without drinks |
 | Location | 🌅 spiaggia, tavoli sull'acqua |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=The+Flying+Fishbone+Savaneta) |
 | Contatti | Savaneta, Aruba · prenotazione obbligatoria settimane in anticipo |

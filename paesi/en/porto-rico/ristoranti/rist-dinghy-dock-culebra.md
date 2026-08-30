@@ -1,18 +1,18 @@
 # Dinghy Dock — Culebra
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All Restaurants](../10-ristoranti.md)
 **18°18′08″ N 65°17′56″ W**
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| **Costo** |**DATO MANCANTE**|
-| **Cucina** |**DATO MANCANTE**|
-| **Specialità** |**DATO MANCANTE**|
-| **Location** |**DATO MANCANTE**|
+| **Costo** |**DATA MISSING**|
+| **Cucina** |**DATA MISSING**|
+| **Specialità** |**DATA MISSING**|
+| **Location** |**DATA MISSING**|
 
 <div class="mapframe" data-slug="rist-dinghy-dock-culebra" data-lat="18.3022" data-lon="-65.2989"></div>
-*Cartina di dettaglio: posizione a terra rispetto alla barca · zoom ±*
+*Cartina di dettaglio: posizione a terra rispetto alla yacht · zoom ±*
 
-Fonti: **DATO MANCANTE**
+Fonti: **DATA MISSING**
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

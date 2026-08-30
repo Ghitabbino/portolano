@@ -1,10 +1,10 @@
-# 02 — Costo della vita
+# 02 — Cost of Living
 
-**Ultimo aggiornamento: 24/08/2026** · Valuta **CVE** (110,26 CVE = 1 EUR fisso) · Isola turistica, prezzi sopra media arcipelago.
+**Last updated: 24/08/2026** · Currency **CVE** (110,26 CVE = 1 EUR fisso) · Isola turistica, prezzi sopra media arcipelago.
 
-## Alimentari e spesa di bordo
+## Groceries & Galley Provisioning
 
-| Voce | Prezzo indicativo | Note |
+| Item | Indicative Price | Notes |
 |---|---|---|
 | Birra Strela 0,33 l supermercato | 100–150 CVE (~0,9–1,4 €) | ★★ |
 | Birra al bar | 200–250 CVE (~1,8–2,3 €) | ★★ |
@@ -13,40 +13,40 @@
 | Pollo 1 kg | 600–900 CVE | Importato, variabile ★★ |
 | Riso 1 kg | 150–250 CVE | ★★ |
 
-## Mangiare fuori (media)
+## Eating Out (Average)
 
-| Voce | Prezzo |
+| Item | Prezzo |
 |---|---|
 | Pasto semplice (cachupa/pesce) | 500–900 CVE (~4,5–8 €) ★★ |
 | Ristorante medio turistico | 1.200–2.500 CVE (~11–23 €) |
 | Snack/bokit locale | 300–500 CVE |
 
-## Carburanti
+## Fuel
 
-| Voce | Prezzo | Note |
+| Item | Prezzo | Note |
 |---|---|---|
 | Gasolio | ~95–115 CVE/l (~0,85–1,05 €) | Prezzo regolato ★★★ |
 | Benzina | ~120–140 CVE/l | ★★ |
-| Bombola gas scambio | **DATO MANCANTE** | Scambio locale |
+| Bombola gas scambio | **DATA MISSING** | Scambio locale |
 
-## Trasporti
+## Transport
 
-| Voce | Prezzo |
+| Item | Prezzo |
 |---|---|
 | Aluguer Sal Rei urbano | 100–300 CVE |
 | Taxi Sal Rei–aeroporto | 800–1.200 CVE |
 | Noleggio auto giorno | 4.000–6.000 CVE |
 
-## Servizi quotidiani
+## Everyday Services
 
-| Voce | Prezzo |
+| Item | Prezzo |
 |---|---|
-| Lavanderia | **DATO MANCANTE** |
+| Lavanderia | **DATA MISSING** |
 | SIM Unitel/CVMovel 5 GB | ~1.500 CVE |
-| Lavaggio scafo | **DATO MANCANTE** |
+| Lavaggio scafo | **DATA MISSING** |
 
-## Contanti e pagamenti
+## Cash & Payments
 
 Euro accettati nei resort, resto in CVE. Bancomat a Sal Rei (spesso coda). Carte nei supermarket grandi, contanti indispensabili per aluguer e mercati.
 
-Ultimo aggiornamento: 24/08/2026
+Last updated: 24/08/2026

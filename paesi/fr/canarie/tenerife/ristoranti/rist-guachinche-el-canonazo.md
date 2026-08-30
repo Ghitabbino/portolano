@@ -1,17 +1,17 @@
 # Guachinche El Cañonazo
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Santa Cruz – zona La Salud |
-| Cucina | 🥩 Canaria guachinche |
-| Specialità | Parrilladas · papas con mojo |
-| Costo | 💰€ per persona senza bevande |
-| Location | 🌴 cortile tipico canario |
-| Contatti | [Google Maps](https://www.google.com/maps/search/?api=1&query=Guachinche+El+Canonazo+Santa+Cruz+de+Tenerife) |
-| Valutazioni |Guru 4,9/5 (2312) ★★★★★|
-| Orari | sera, chiusura variabile ⚠️ |
+| Zone | Santa Cruz – zona La Salud |
+| Cuisine | 🥩 Canaria guachinche |
+| Spécialité | Parrilladas · papas con mojo |
+| Coût | 💰€ per persona senza bevande |
+| Emplacement | 🌴 cortile tipico canario |
+| Contacts | [Google Maps](https://www.google.com/maps/search/?api=1&query=Guachinche+El+Canonazo+Santa+Cruz+de+Tenerife) |
+| Évaluations |Guru 4,9/5 (2312) ★★★★★|
+| Horaires | sera, chiusura variabile ⚠️ |
 
 ## Menu
 
@@ -23,4 +23,4 @@
 
 **Note**: Il guachinche più votato della capitale
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026

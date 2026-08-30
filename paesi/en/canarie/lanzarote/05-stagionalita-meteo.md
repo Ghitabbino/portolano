@@ -1,35 +1,35 @@
-# 05 — Stagionalità e meteo
+# 05 — Seasonality & Weather
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026
 
-## Clima
+## Climate
 
-Il più arido e "sahariano" dell'arcipelago: aria 18–28 °C, mare 19–24 °C, piogge quasi assenti.
+Il more arido and "sahariano" dell'arcipelago: aria 18–28 °C, mare 19–24 °C, piogge quasi assenti.
 
-## Stagioni
+## Seasons
 
 | Periodo | Condizioni |
 |---|---|
 | Nov–mar | Alisei NE stabili; base invernale popolare a Marina Lanzarote |
-| Apr–giu | Ottimo per girare l'arcipelago |
-| Lug–ott | Vento sostenuto; Calime frequenti (isola più vicina al Sahara) |
+| Apr–giu | Ottimo for girare l'arcipelago |
+| Lug–ott | Vento sostenuto; Calime frequenti (isola more vicina at the Sahara) |
 
 ## Calima
 
 Frequente: polvere sahariana, visibilità ridotta, 1–3 giorni. Monitorare [AEMET](https://www.aemet.es) ★★★★★.
 
-## Venti locali
+## Local Winds
 
 - **Aliseo NE** dominante.
-- **Bocaina** (stretto con Fuerteventura): accelerazioni forti, mare corto — rispettare anche con previsioni moderate.
+- **Bocaina** (stretto with Fuerteventura): accelerazioni forti, mare corto — rispettare also with previsioni moderate.
 - Costa NW (Famara): raffiche scendendo dai rilievi.
 
-## Finestre tipiche
+## Typical Weather Windows
 
-- Giro Lanzarote+Graciosa: 2–3 giorni con aliseo ≤20 kn.
-- Verso Fuerteventura: passare la Bocaina al mattino presto (vento minore).
+- Giro Lanzarote+Graciosa: 2–3 giorni with aliseo ≤20 kn.
+- Verso Fuerteventura: passare la Bocaina at the mattino presto (vento minore).
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026
 
-## Link meteo
-Ultimo aggiornamento: 23/08/2026
+## Weather Links
+Last updated: 23/08/2026

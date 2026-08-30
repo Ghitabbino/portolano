@@ -1,18 +1,18 @@
 # Sunset Bay Club Lobster Palace
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Batalie Beach, Baroui (tra Mero e Coulibistrie, costa ovest) |
-| Cucina | 🐟 Aragosta / steak / seafood |
-| Specialità | Pan-fried lobster · fresh steaks · seasonal crayfish · vegetarian dishes · hurricane cocktail |
-| Costo | 💰€€€ per persona senza bevande |
-| Location | 🏖️ waterfront, sabbia dorata, mare turchese |
+| Zone | Batalie Beach, Baroui (tra Mero e Coulibistrie, costa ovest) |
+| Cuisine | 🐟 Aragosta / steak / seafood |
+| Spécialité | Pan-fried lobster · fresh steaks · seasonal crayfish · vegetarian dishes · hurricane cocktail |
+| Coût | 💰€€€ per persona senza bevande |
+| Emplacement | 🏖️ waterfront, sabbia dorata, mare turchese |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sunset+Bay+Club+Lobster+Palace+Batalie+Beach+Dominica) |
-| Contatti | via [Facebook](https://www.facebook.com/SunsetBayClubLobsterPalace/) |
-| Valutazioni | Destination Magazines ★★★ · Discover Dominica ★★★ |
-| Orari | **DATO MANCANTE** — verificare Facebook |
+| Contacts | via [Facebook](https://www.facebook.com/SunsetBayClubLobsterPalace/) |
+| Évaluations | Destination Magazines ★★★ · Discover Dominica ★★★ |
+| Horaires | **DONNÉE MANQUANTE** — verificare Facebook |
 
 ## Menu
 
@@ -22,7 +22,7 @@
 - Vegetarian dishes e desserts
 - Hurricane cocktail, vini, fresh juices
 
-**Chef**: **DATO MANCANTE**
+**Chef**: **DONNÉE MANQUANTE**
 
 ## Note
 
@@ -30,4 +30,4 @@ Waterfront restaurant su Batalie Beach, una delle baie più belle della costa ov
 
 Fonti: [Destination Magazines](https://destination-magazines.com/10-best-restaurants-in-dominica/) ★★★ · [Facebook](https://www.facebook.com/SunsetBayClubLobsterPalace/) ★★
 
-Ultimo aggiornamento: 25/08/2026
+Dernière mise à jour: 25/08/2026

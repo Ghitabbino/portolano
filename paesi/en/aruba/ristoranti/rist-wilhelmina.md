@@ -1,13 +1,13 @@
 # Wilhelmina
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | Zona | Oranjestad centro |
 | Cucina | 🍽️ Europeo-caraibica fine dining |
 | Specialità | Menu stagionale a sorpresa · frutti di mare · carni |
-| Costo | 💰€€€ per persona senza bevande |
+| Costo | 💰€€€ per person without drinks |
 | Location | 🌴 courtyard elegante, intimo |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Wilhelmina+Restaurant+Oranjestad) |
 | Contatti | Wilhelminastraat, Oranjestad |

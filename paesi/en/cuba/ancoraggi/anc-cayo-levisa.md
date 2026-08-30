@@ -1,20 +1,20 @@
 # Cayo Levisa {#anc-cayo-levisa}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← All anchorages](../08-ancoraggi.md)
 **22°53′02″ N 83°31′26″ W** ★★
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| **Profondità** |**DATO MANCANTE**|
-| **Tenuta àncora** |**DATO MANCANTE**|
-| **Venti/riparo** |Cayo della costa nord-occidentale|
-| **Pericoli** |**DATO MANCANTE**|
-| **Boe/divieti/normative** |Sosta da concordare con le autorità marine locali|
-| **A terra** |Resort sul cay|
+| **Depth** |**DATA MISSING**|
+| **Holding** |**DATA MISSING**|
+| **Winds/Shelter** |Cayo of the costa nord-occidentale|
+| **Hazards** |**DATA MISSING**|
+| **Buoys/Restrictions/Regulations** |Sosta from concordare with le autorità marine locali|
+| **Ashore** |Resort sul cay|
 
 <div class="mapframe" data-slug="anc-cayo-levisa" data-lat="22.884" data-lon="-83.524"></div>
-*Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
+*Detail chart — zoom in to the bay · offline chart · approximate WGS84 coordinates, always verify with your chartplotter*
 
-Fonti: **DATO MANCANTE**
+Fonti: **DATA MISSING**
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

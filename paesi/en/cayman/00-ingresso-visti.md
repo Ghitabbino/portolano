@@ -1,60 +1,60 @@
-# 00 — Ingresso, documenti e visti
+# 00 — Entry, Documents & Visas
 
-**Ultima verifica: 24/08/2026** · Fonti principali: gov.ky / Customs & Border Control ★★★★★
+**Last checked: 24/08/2026** · Main sources: gov.ky / Customs & Border Control ★★★★★
 
 ## Status
 
-Le Cayman sono **Territorio Britannico d'Oltremare (UK Overseas Territory)**. Non fanno parte del Regno Unito né dell'UE; regime d'ingresso autonomo regolato dal Cayman Islands Immigration Act. Valuta locale **dollaro delle Cayman (CI$)**, ancorato a **1 CI$ = 1,22 USD** (1 USD = 0,82 CI$) a tasso fisso. ★★★★★
+The Cayman Islands are **British Overseas Territory (UK Overseas Territory)**. They are not part of the United Kingdom or the EU; entry is governed by the Cayman Islands Immigration Act. Local currency **Cayman Islands dollar (CI$)** pegged at **1 CI$ = 1,22 USD** (1 USD = 0,82 CI$) at a fixed rate. ★★★★★
 
-## Cittadini italiani — nessun visto
+## Italian Citizens — No Visa
 
-| Voce | Regola | Fonte |
+| Item | Rule | Source |
 |---|---|---|
-| Visto turistico | **Non richiesto** — l'Italia figura nella lista ufficiale *Visa Not Required* | gov.ky, elenco nationalities not requiring visa ★★★★★ |
-| Documenti | **Passaporto valido**; deve coprire il periodo di soggiorno (non è richiesto un residuo di 6 mesi) + **biglietto di ritorno/prosecuzione** | Customs & Border Control ★★★★★ |
-| Fondi | Richiesta dimostrazione di **mezzi di sostentamento** sufficienti per il soggiorno | CBC ★★★★★ |
-| Carta sbarco | **Immigration & Customs Declaration** da compilare all'arrivo (cartacea o via totem aeroportuale) | gov.ky ★★★★ |
+| Tourist visa | **Not required** — Italy is on the official *Visa Not Required* list | gov.ky, elenco nationalities not requiring visa ★★★★★ |
+| Documents | **Valid passport**; deve coprire the period of stay (non è richiesto un 6 months remaining) + **return/onward ticket** | Customs & Border Control ★★★★★ |
+| Funds | Proof required of **means of subsistence** sufficienti for il soggiorno | CBC ★★★★★ |
+| Landing card | **Immigration & Customs Declaration** from compilare all'arrivo (cartacea or via totem aeroportuale) | gov.ky ★★★★ |
 
-> I cittadini italiani entrano senza visto come turisti; i requisiti di fondi e biglietto di ritorno sono verificati al controllo di frontiera.
+> Italian citizens enter visa-free as tourists; i requisiti of fondi and biglietto of ritorno are verificati at the controllo of frontiera.
 
-## Se il visto serve (altre nazionalità)
+## If You Need a Visa (Other Nationalities)
 
-| Voce | Dettaglio | Fonte |
+| Item | Detail | Source |
 |---|---|---|
-| Costo visto Visitor | **CI$ 92 = USD 112** (tasso ufficiale 0,82) | gov.ky tariffario visti ★★★★★ |
-| Dove si chiede | Piattaforma **online.gov.ky** — domanda *Application for Visitor Visa* | gov.ky ★★★★★ |
-| Tempi | **7–10 giorni lavorativi** per l'elaborazione (esclusi invii postali) | gov.ky ★★★★ |
-| Validità richiesta | Presentare domanda con largo anticipo rispetto alla partenza | gov.ky ★★★★ |
+| Cost visto Visitor | **CI$ 92 = USD 112** (tasso ufficiale 0,82) | gov.ky tariffario visti ★★★★★ |
+| Where to apply | Piattaforma **online.gov.ky** — domanda *Application for Visitor Visa* | gov.ky ★★★★★ |
+| Processing time | **7–10 giorni lavorativi** for l'elaborazione (esclusi invii postali) | gov.ky ★★★★ |
+| Application validity | Presentare domanda with largo anticipo rispetto at the partenza | gov.ky ★★★★ |
 
 ## Permanenza
 
-| Situazione | Regola | Fonte |
+| Situation | Rule | Source |
 |---|---|---|
-| Soggiorno turistico standard | Fino a **6 mesi** alla prima ammissione; proroga richiedibile all'Ufficio Immigrazione | CBC ★★★★★ |
-| Visitatori con visto USA/Canada/UK valido | Ammissione fino a **30 giorni** max se in possesso di visto multiplo valido per USA, Canada o Regno Unito (categoria agevolata) | gov.ky ★★★★ |
-| Estensione | Richiesta in loco prima della scadenza; concessa a discrezione dell'ufficiale | CBC ★★★★ |
+| Standard tourist stay | Up to **6 months** on first admission; extension may be requested at the Immigration Office | CBC ★★★★★ |
+| Visitatori with visto USA/Canada/UK valido | Admission for up to **30 days** max if holding a valid multiple-entry visa for the USA, Canada or the UK (facilitated category) | gov.ky ★★★★ |
+| Extension | Apply locally before expiry; granted at the officer's discretion | CBC ★★★★ |
 
-## La barca: soglia dei 30 giorni
+## The Yacht: 30-Day Threshold
 
-> ⚠️ **Nodo critico per i diportisti**: oltre **30 giorni consecutivi** di permanenza nelle acque Cayman, l'imbarcazione può essere considerata **importata** con applicazione di **dazio del 12% sul valore** dello scafo. Segnalazione ricorrente della comunità NoForeignLand; confermare con Customs prima di superare la soglia. ★★★
+> ⚠️ **Critical point for cruisers**: beyond **30 consecutive days** in Cayman waters, the vessel may be deemed **imported** with **12% duty on hull value**. Segnalazione ricorrente of the comunità NoForeignLand; confermare with Customs prima of superare la soglia. ★★★
 
-- Per soste brevi (<30 gg) nessun dazio d'importazione; solo clearance in entrata/uscita → vedi [01 — Clearance](01-clearance.md).
-- Oltre i 30 gg: valutare uscita temporanea dalle acque territoriali o regolarizzazione doganale.
-- **Carburante duty-free all'uscita**: al momento della partenza definitiva (*outward clearance*) è possibile rifornirsi senza dazi con **sconto di circa CI$ 0,85/gal sul diesel e CI$ 0,75/gal sulla benzina** rispetto al prezzo alla pompa; richiedere esplicitamente lo sgravio alla dogana. ★★★
+- For short stays (<30 days) no import duty; only entry/exit clearance → see [01 — Yacht Customs Clearance](01-clearance.md).
+- Beyond 30 days: consider a temporary exit from territorial waters or customs regularisation.
+- **Duty-free fuel on departure**: at final departure (*outward clearance*) you can bunker duty-free with **sconto of about CI$ 0,85/gal sul diesel and CI$ 0,75/gal sulla benzina** versus pump price; request the relief explicitly from Customs. ★★★
 
-## Vaccini
+## Vaccinations
 
-**Nessun vaccino obbligatorio** per l'ingresso alle Cayman per chi proviene dall'Italia/Europa. Raccomandate le vaccinazioni di routine; nessuna richiesta di certificato febbre gialla se non in transito da area endemica. ★★★★
+**No mandatory vaccinations** for entry to the Cayman Islands from Italy/Europe. Routine vaccinations are recommended; no yellow fever certificate required unless transiting an endemic area. ★★★★
 
-## Da verificare prima della partenza
+## To Verify Before Departure
 
-- Aggiornamenti lista *Visa Not Required* su gov.ky (verifica mensile).
-- Tasso di cambio fisso CI$/USD confermato (0,82).
-- Regole import barca >30 gg presso Cayman Customs.
+- Aggiornamenti lista *Visa Not Required* on gov.ky (verifica mensile).
+- Fixed exchange rate CI$/USD confermato (0,82).
+- Boat import rules >30 gg with Cayman Customs.
 
-Ultimo aggiornamento: 24/08/2026
+Last updated: 24/08/2026
 
 ## Cittadini UE
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 

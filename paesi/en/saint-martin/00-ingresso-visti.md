@@ -1,4 +1,4 @@
-# 00 — Ingresso, documenti e visti
+# 00 — Entry, documents & visas
 
 **Ultima verifica: 25/08/2026**
 
@@ -24,15 +24,15 @@ Per i cittadini UE non c'è nulla da estendere: il soggiorno turistico non ha te
 
 ## La barca
 
-| Voce | Costo |
+| Item | Costo |
 |---|---|
 | Clearance | ~€5–15 (spesso solo il costo amministrativo di €5–7) |
 | Ancoraggio a Marigot | a pagamento: ~€8/giorno, minimo 3 giorni (~€35 secondo cruiser, dic 2025) |
 
-La laguna è zona franca doganale. Ammissione temporanea per barche extra-UE: **DATO MANCANTE** su fonte dedicata.
+La laguna è zona franca doganale. Ammissione temporanea per barche extra-UE: **DATA MISSING** su fonte dedicata.
 
 ## Vaccini
 
 Nessuna vaccinazione obbligatoria dall'Europa; febbre gialla richiesta solo provenendo da paesi a rischio (regola standard).
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

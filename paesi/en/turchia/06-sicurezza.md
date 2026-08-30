@@ -1,23 +1,23 @@
-# 06 — Sicurezza
+# 06 — Safety & security
 
 **Ultima verifica completa: 27/08/2026** · Prossimo controllo mensile: **27/09/2026**
 
-## Valutazione sicurezza: **DATO MANCANTE / 5** — in attesa di verifica su fonti aggregate (advisory, stampa locale, CSSN-equivalente Mediterraneo)
+## Valutazione sicurezza: **DATA MISSING / 5** — in attesa di verifica su fonti aggregate (advisory, stampa locale, CSSN-equivalente Mediterraneo)
 
 | Aspetto | Voto | Motivazione |
 |---|---|---|
-| Sicurezza personale (turisti/crocieristi) | **DATO MANCANTE /5** | **DATO MANCANTE** — da verificare su advisory governative (viaggiareinsicurezza.it, gov.uk, voyage.gc.ca) |
-| Furti materiali a bordo | **DATO MANCANTE /5** | **DATO MANCANTE** — verificare segnalazioni furti dinghy/fuoribordo nelle marine turchia |
-| Contesto generale | **DATO MANCANTE /5** | **DATO MANCANTE** |
+| Safety & security personale (turisti/crocieristi) | **DATA MISSING /5** | **DATA MISSING** — to be verified su advisory governative (viaggiareinsicurezza.it, gov.uk, voyage.gc.ca) |
+| Furti materiali a bordo | **DATA MISSING /5** | **DATA MISSING** — verificare segnalazioni furti dinghy/fuoribordo nelle marine turchia |
+| Contesto generale | **DATA MISSING /5** | **DATA MISSING** |
 
 *Scala: 0 = terribile → 5 = molto sicuro. Valutazione nostra, sintesi delle fonti sotto; aggiornata a ogni controllo mensile.*
 
-**Perché DATO MANCANTE**: paese di nuova creazione — dati non ancora verificati.
+**Perché DATA MISSING**: paese di nuova creazione — dati non ancora verificati.
 
 ## Quadro generale
 
-- Advisory: **DATO MANCANTE** — da consultare viaggiareinsicurezza.it (Turchia), diplomatie.gouv.fr, gov.uk, travel.state.gov, voyage.gc.ca.
-- Stampa locale / report isola: **DATO MANCANTE**.
+- Advisory: **DATA MISSING** — da consultare viaggiareinsicurezza.it (Turchia), diplomatie.gouv.fr, gov.uk, travel.state.gov, voyage.gc.ca.
+- Stampa locale / report isola: **DATA MISSING**.
 - Nessuna valutazione definitiva fino a verifica mensile completa.
 
 ## Mappa delle zone — offline
@@ -28,35 +28,35 @@
 
 ## Posti sicuri / da evitare
 
-**DATO MANCANTE**.
+**DATA MISSING**.
 
 ## Furti a crocieristi
 
-**DATO MANCANTE** — verificare su fonti diportiste aggregate e advisory.
+**DATA MISSING** — verificare su fonti diportiste aggregate e advisory.
 
 ## A bordo e a terra
 
-**DATO MANCANTE**.
+**DATA MISSING**.
 
 ## Navigazione
 
-**DATO MANCANTE** — IALA-A in Mediterraneo. Verificare pericoli locali (scogli, secche, traffico mercantile).
+**DATA MISSING** — IALA-A in Mediterraneo. Verificare pericoli locali (scogli, secche, traffico mercantile).
 
 ## Numeri di emergenza
 
 | Servizio | Numero | Note |
 |---|---|---|
-| Emergenza generale UE | **112** | Valido anche in Turchia se in UE; altrimenti **DATO MANCANTE** |
-| Guardia costiera / MRCC | **DATO MANCANTE** | Verificare su elenco SAR Turchia |
-| Polizia | **DATO MANCANTE** | **DATO MANCANTE** |
+| Emergenza generale UE | **112** | Valido anche in Turchia se in UE; altrimenti **DATA MISSING** |
+| Guardia costiera / MRCC | **DATA MISSING** | Verificare su elenco SAR Turchia |
+| Polizia | **DATA MISSING** | **DATA MISSING** |
 
 ## Monitoraggio mensile
 
-Verifica su thecssn.org / stampa locale / voyage.gc.ca / gov.uk / travel.state.gov / gruppi FB — **DATO MANCANTE** al prossimo ciclo.
+Verifica su thecssn.org / stampa locale / voyage.gc.ca / gov.uk / travel.state.gov / gruppi FB — **DATA MISSING** al prossimo ciclo.
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026
 
 ## Salvataggio ed emergenze
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 

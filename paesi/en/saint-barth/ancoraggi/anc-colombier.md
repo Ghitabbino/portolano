@@ -1,4 +1,4 @@
-# Anse de Colombier — ancoraggio {#anc-colombier}
+# Anse de Colombier — anchorage {#anc-colombier}
 
 [← Tutti gli ancoraggi](../08-ancoraggi.md)
 **17°53.0′N 62°52.0′W**
@@ -16,4 +16,4 @@
 <div class="mapframe" data-slug="anc-colombier" data-lat="17.884" data-lon="-62.866"></div>
 *Mappa offline Anse de Colombier — zoom con i pulsanti +/−; menu in alto a destra per Carta nautica e Segnali*
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

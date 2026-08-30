@@ -1,4 +1,4 @@
-# 06 — Sicurezza
+# 06 — Safety & security
 
 **Ultima verifica completa: 25/08/2026** · Prossimo controllo mensile: **25/09/2026**
 
@@ -6,7 +6,7 @@
 
 | Aspetto | Voto | Motivazione |
 |---|---|---|
-| Sicurezza personale (turisti/crocieristi) | 4/5 | Nessun attacco violento a velisti segnalato dalle fonti nautiche nel periodo esaminato; aggressioni ai turisti episodiche e concentrate fuori dai percorsi crocieristici |
+| Safety & security personale (turisti/crocieristi) | 4/5 | Nessun attacco violento a velisti segnalato dalle fonti nautiche nel periodo esaminato; aggressioni ai turisti episodiche e concentrate fuori dai percorsi crocieristici |
 | Furti materiali a bordo | 3/5 | Dinghy/fuoribordo = problema ricorrente, **anche dentro la IGY Rodney Bay Marina** (CSSN dic 2025, mar 2026, lug 2026); trend però in forte miglioramento (−55% incidenti 2025) |
 | Contesto generale dell'isola | 4/5 | Isola turistica con presidio poliziesco nelle zone di crociera; criminalità violenta presente ma concentrata in ambiti locali, non su velisti |
 
@@ -45,7 +45,7 @@
 |---|---|---|
 | Pontili dinghy di Rodney Bay di notte | Furti dinghy/outboard, anche con lucchetto: sollevare il dinghy o chiuderlo a chiave |CSSN ★★★|
 | Spiagge deserte e zone isolate dopo il tramonto | Advisory esplicita: evitare |advisory standard ★★|
-| Quartieri non turistici di Castries di notte | Microcriminalità; quartieri sensibili **DATO MANCANTE** — mappare al controllo mensile |advisory ★★|
+| Quartieri non turistici di Castries di notte | Microcriminalità; quartieri sensibili **DATA MISSING** — mappare al controllo mensile |advisory ★★|
 | Gros Islet Friday Street Party | Evento famoso ma affollatissimo: attenzione a oggetti di valore e al percorso di rientro notturno |guide locali ★★|
 | Anse de Canaries | Furto dinghy documentato (lucchetto tagliato); molo dinghy inutilizzabile |Noonsite via scheda anc-canaries ★★★|
 
@@ -98,5 +98,5 @@ Fonte: Nagico St Lucia emergency numbers ★★★ · elenco ufficiale IGY Rodne
 
 ## Monitoraggio mensile
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 

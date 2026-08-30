@@ -1,39 +1,39 @@
-# 05 — Stagionalità e meteo
+# 05 — Saisonnalité & Météo
 
-**Ultima verifica: 27/08/2026**
+**Dernière vérification: 27/08/2026**
 
-## Clima
+## Climat
 
-Clima mediterraneo sulla costa malta: estati calde/secche, inverni miti. **DATO MANCANTE** su medie mensili precise — da verificare su servizio meteo nazionale Malta.
+Climat mediterraneo sulla costa malta: estati calde/secche, inverni miti. **DONNÉE MANQUANTE** su medie mensili precise — da vérifier sur servizio meteo nazionale Malta.
 
-## Stagioni
+## Saisons
 
 | Periodo | Caratteristiche |
 |---|---|
-| **Aprile – ottobre** | **DATO MANCANTE** — verificare stagione principale di crociera |
-| **Novembre – marzo** | **DATO MANCANTE** — possibili burrasche mediterranee (maestrale, scirocco, meltemi a est) |
-| **Eventi estremi** | Mediterraneo non uraganico; **DATO MANCANTE** su tempeste autunnali / vento forte |
+| **Aprile – ottobre** | **DONNÉE MANQUANTE** — verificare stagione principale di crociera |
+| **Novembre – marzo** | **DONNÉE MANQUANTE** — possibili burrasche mediterranee (maestrale, scirocco, meltemi a est) |
+| **Eventi estremi** | Méditerranée non uraganico; **DONNÉE MANQUANTE** su tempeste autunnali / vento forte |
 
-## Uragani / cicloni
+## Ouragans / cyclones
 
-Non applicabile come nei Caraibi; **DATO MANCANTE** su medicane / tempeste mediterranee. Verificare bollettini meteo nazionali.
+Non applicabile come nei Caraïbes; **DONNÉE MANQUANTE** su medicane / tempeste mediterranee. Vérifier bollettini meteo nazionali.
 
-## Consignes / avvisi
+## Consignes / avis
 
-**DATO MANCANTE** — verificare procedure di allerta meteo marine.
+**DONNÉE MANQUANTE** — verificare procedure di allerta meteo marine.
 
-## Venti locali
+## Vents locaux
 
-**DATO MANCANTE** — meltemi (Egeo), maestrale, scirocco, bora secondo area.
+**DONNÉE MANQUANTE** — meltemi (Egeo), maestrale, scirocco, bora secondo area.
 
-## Finestre tipiche di navigazione
+## Fenêtres de navigation typiques
 
-**DATO MANCANTE**.
+**DONNÉE MANQUANTE**.
 
-## Link meteo utili
+## Liens météo utiles
 
 | Servizio | URL | Note |
 |---|---|---|
-| **DATO MANCANTE** | **DATO MANCANTE** | Bollettino marino Malta |
+| **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | Bollettino marino Malta |
 
-Ultimo aggiornamento: 27/08/2026
+Dernière mise à jour: 27/08/2026

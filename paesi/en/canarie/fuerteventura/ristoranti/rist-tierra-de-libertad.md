@@ -1,17 +1,17 @@
 # Tierra de Libertad
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| Zona | Corralejo – centro |
-| Cucina | 🍷 Brasserie wine-pairing |
-| Specialità | Piatti piccoli abbinati a vini locali |
-| Costo | 💰€€€ per persona senza bevande |
-| Location | 🍷 atmosfera enoteca |
-| Contatti | Via VHF porto o reception — numero non pubblicato ⚠️ |
-| Valutazioni | ★★★★½|
-| Orari | cena |
+| Area | Corralejo – centro |
+| Cuisine | 🍷 Brasserie wine-pairing |
+| Speciality | Piatti piccoli abbinati a vini locali |
+| Cost | 💰€€€ for persona without bevande |
+| Setting | 🍷 atmosfera enoteca |
+| Contacts | Via VHF porto or reception — numero non pubblicato ⚠️ |
+| Ratings | ★★★★½|
+| Hours | cena |
 
 ## Menu
 
@@ -19,6 +19,6 @@
 
 **Chef**: ND
 
-**Note**: Ogni portata con vino canario
+**Note**: Ogni portata with vino canario
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

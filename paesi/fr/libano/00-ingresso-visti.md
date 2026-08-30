@@ -1,42 +1,42 @@
-# 00 — Ingresso, documenti e visti
+# 00 — Entrée, Documents & Visas
 
-**Ultima verifica: 27/08/2026**
+**Dernière vérification: 27/08/2026**
 
-## Status
+## Statut
 
-Il Libano è uno **Stato extra-UE**, **fuori dall'area Schengen**, sulla costa orientale del Mediterraneo (Levante). Valuta: **lira libanese (LBP)**.
+Il Libano è uno **État hors UE**, **hors de l’espace Schengen**, sulla costa orientale del Méditerranée (Levante). Devise: **lira libanese (LBP)**.
 
-## Cittadini UE — nessun visto (principio generale)
+## Citoyens UE — pas de visa (principe général)
 
-| Voce | Regola | Fonte |
+| Rubrique | Règle | Source |
 |---|---|---|
-| Visto | **DATO MANCANTE** — verificare durata soggiorno senza visto per cittadini UE su fonte governativa libano | **DATO MANCANTE** |
-| Documenti | **DATO MANCANTE** — carta d'identità/passaporto: verificare requisiti esatti su viaggiareinsicuro.it / fonte consolare Libano | **DATO MANCANTE** |
-| Soggiorno | **DATO MANCANTE** | **DATO MANCANTE** |
+| Visa | **DONNÉE MANQUANTE** — verificare durata soggiorno senza visto per cittadini UE su fonte governativa libano | **DONNÉE MANQUANTE** |
+| Documents | **DONNÉE MANQUANTE** — carta d'identità/passaporto: verificare requisiti esatti su viaggiareinsicuro.it / fonte consolare Libano | **DONNÉE MANQUANTE** |
+| Séjour | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
 
-> Dettagli su visti, documenti richiesti e modelli da compilare: **DATO MANCANTE** — da verificare su fonte governativa libano ★★★★★ prima della partenza.
+> Dettagli su visti, documenti richiesti e modelli da compilare: **DONNÉE MANQUANTE** — da vérifier sur fonte governativa libano ★★★★★ prima della partenza.
 
-## Nota importante per chi arriva via mare
+## Note importante pour l’arrivée par mer
 
-- Controlli persone e **clearance della barca** sono procedure separate → vedi [01 — Clearance doganale della barca](01-clearance.md).
-- **DATO MANCANTE** su procedure specifiche di ingresso via mare per diportisti in Libano.
+- Controlli persone e **clearance della barca** sono procedure separate → vedi [01 — Formalités douanières](01-clearance.md).
+- **DONNÉE MANQUANTE** su procedure specifiche di ingresso via mare per diportisti in Libano.
 
-## E dopo i 3 mesi? (cittadini italiani/UE)
+## Au-delà de 3 mois ? (citoyens italiens/UE)
 
-| Situazione | Regola | Fonte |
+| Situation | Règle | Source |
 |---|---|---|
-| Soggiorno oltre 3 mesi | **DATO MANCANTE** | **DATO MANCANTE** |
-| Quota Schengen 90/180 | **DATO MANCANTE** | **DATO MANCANTE** |
+| Séjour oltre 3 mesi | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Quota Schengen 90/180 | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
 
-## La barca: permanenza
+## Le bateau : durée de séjour
 
-| Barca | Regola | Fonte |
+| Bateau | Règle | Source |
 |---|---|---|
-| **UE con IVA pagata** | **DATO MANCANTE** — verificare regime doganale Libano per natanti UE | **DATO MANCANTE** |
-| Extra-UE | **DATO MANCANTE** — verificare regime ammissione temporanea Libano | **DATO MANCANTE** |
+| **UE con IVA pagata** | **DONNÉE MANQUANTE** — verificare regime doganale Libano per natanti UE | **DONNÉE MANQUANTE** |
+| Extra-UE | **DONNÉE MANQUANTE** — verificare regime ammissione temporanea Libano | **DONNÉE MANQUANTE** |
 
-## Vaccini
+## Vaccins
 
-**DATO MANCANTE** — verificare su viaggiareinsicurezza.it / libano.gouv.
+**DONNÉE MANQUANTE** — vérifier sur viaggiareinsicurezza.it / libano.gouv.
 
-Ultimo aggiornamento: 27/08/2026
+Dernière mise à jour: 27/08/2026

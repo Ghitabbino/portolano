@@ -1,17 +1,17 @@
 # The Fig Tree
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | Zona | Belmont Walkway |
 | Cucina | 🍲 Bequiana autentica |
 | Specialità | Cucina locale speziata |
-| Costo | 💰€€ per persona senza bevande |
+| Costo | 💰€€ per person without drinks |
 | Location | 🌳 giardino |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=The+Fig+Tree+Belmont+Walkway) |
 | Contatti | +1 784 457-3008 |
-| Valutazioni | Google positiva → ★★★★ |
+| Currencyzioni | Google positiva → ★★★★ |
 | Orari | nov–mar 8–22 · apr–ott 11–20 · chiuso mar |
 
 ## Menu
@@ -22,6 +22,6 @@
 
 ## Foto
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Foto non still disponibili — recuperare at the controllo mensile.*
 
 **Note**: Cheryl Johnson · musica alcune sere · programma su Bequia This Week

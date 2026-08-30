@@ -1,18 +1,18 @@
 # La Balandra
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Harbour Village Marina — Harbour Village Beach Club, Kralendijk nord |
-| Cucina | 🐟 Caraibica-internazionale — pesce, grill e frutti di mare |
-| Specialità | *Lobster, snapper, mahi-mahi alla griglia, sunset dinner sul molo del resort* |
-| Costo | 💰€€€ per persona senza bevande (piatti US$28–48, menu resort) |
-| Location | 🏖️ resort 5★ fronte mare, piscina e spiaggia privata — 30 m dalla banchina |
+| Zone | Harbour Village Marina — Harbour Village Beach Club, Kralendijk nord |
+| Cuisine | 🐟 Caraïbesca-internazionale — pesce, grill e frutti di mare |
+| Spécialité | *Lobster, snapper, mahi-mahi alla griglia, sunset dinner sul molo del resort* |
+| Coût | 💰€€€ per persona senza bevande (piatti US$28–48, menu resort) |
+| Emplacement | 🏖️ resort 5★ fronte mare, piscina e spiaggia privata — 30 m dalla banchina |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Balandra+Harbour+Village+Marina+Bonaire) |
-| Contatti | +599 717 7500 (Harbour Village) · [harbourvillage.com](https://www.harbourvillage.com) · dockmaster@harbourvillage.com |
-| Valutazioni | **bonaire.com — Harbour Village 4,5/5 resort [locale]** ★★★ · TripAdvisor 4,2/5 (229) La Balandra ★★★ · Google 4,2/5 → **★★★★** |
-| Orari | colazione/pranzo/cena resort — 7:00–22:00 (varia per stagione); bar tramonto · prenotazione consigliata per sunset |
+| Contacts | +599 717 7500 (Harbour Village) · [harbourvillage.com](https://www.harbourvillage.com) · dockmaster@harbourvillage.com |
+| Évaluations | **bonaire.com — Harbour Village 4,5/5 resort [locale]** ★★★ · TripAdvisor 4,2/5 (229) La Balandra ★★★ · Google 4,2/5 → **★★★★** |
+| Horaires | colazione/pranzo/cena resort — 7:00–22:00 (varia per stagione); bar tramonto · prenotazione consigliata per sunset |
 
 ## Menu
 
@@ -23,9 +23,9 @@
 
 **Chef**: Team Harbour Village
 
-## Foto
+## Photos
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Photos non ancora disponibili — recuperare al controllo mensile.*
 
 ## Note
 

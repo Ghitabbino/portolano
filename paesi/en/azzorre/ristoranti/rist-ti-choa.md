@@ -1,18 +1,18 @@
 # Ti Choa
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| **Isola/Zona** | Terceira / Angra do Heroísmo |
-| **Cucina** | 🥙 Tasca · Petiscos · Tradizionale |
-| **Specialità** | Alcatra · Torresmos · Queijo São Jorge · Vinho de cheiro |
-| **Costo** | 💰€ per persona senza bevande |
+| **Island/Area** | Terceira / Angra do Heroísmo |
+| **Cuisine** | 🥙 Tasca · Petiscos · Tradizionale |
+| **Speciality** | Alcatra · Torresmos · Queijo São Jorge · Vinho de cheiro |
+| **Cost** | 💰€ per person without drinks |
 | **Location** | 🪶 Autentico, centro storico UNESCO, 8 min da marina |
-| **Mappa** | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ti+Choa+Angra+do+Hero%C3%ADsmo) |
-| **Contatti** | +351 295 213 888 |
-| **Valutazioni** | Google 4,6/5 (600+) · TA 4,5/5 (500+) → ★★★★½ |
-| **Orari** | Ter–Sab 12:00–15:00 / 19:00–22:00 · Dom/Seg chiuso |
+| **Map** | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ti+Choa+Angra+do+Hero%C3%ADsmo) |
+| **Contacts** | +351 295 213 888 |
+| **Ratings** | Google 4,6/5 (600+) · TA 4,5/5 (500+) → ★★★★½ |
+| **Hours** | Ter–Sab 12:00–15:00 / 19:00–22:00 · Dom/Seg chiuso |
 
 ## Menu
 
@@ -30,4 +30,4 @@
 
 **Note**: **Autentica tasca terçeirense**, ambiente famigliare, tovaglie carta; solo contanti; **prenotare non serve ma arrivare presto** (poco posti); da marina Angra 8 min a piedi centro UNESCO.
 
-Ultimo aggiornamento: 24/08/2026
+Last updated: 24/08/2026

@@ -1,20 +1,20 @@
 # Hadicurari (darsena pescatori) {#anc-hadicurari}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← All Anchorages](../08-ancoraggi.md)
 **12°34′43″ N 70°02′57″ W** ★★
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| **Profondità** |2–2,5 m tra due secche|
-| **Tenuta àncora** |Sabbia|
-| **Venti/riparo** |Day stop Palm Beach|
-| **Pericoli** |Accesso tra secche dopo il relitto Pedernales; swell nov–apr|
-| **Boe/divieti/normative** |—|
-| **A terra** |Fisherman's piers, ristoranti|
+| **Depth** |2–2,5 m tra due secche|
+| **Holding** |Sabbia|
+| **Wind/Shelter** |Day stop Palm Beach|
+| **Hazards** |Accesso tra secche dopo il relitto Pedernales; swell nov–apr|
+| **Buoys/Restrictions/Regulations** |—|
+| **Ashore** |Fisherman's piers, ristoranti|
 
 <div class="mapframe" data-slug="anc-hadicurari" data-minz="12" data-maxz="17" data-lat="12.5786" data-lon="-70.0493"></div>
-*Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
+*Detailed chart — zoom ± to the bay · offline map · WGS84 coordinates indicative, always verify with your plotter*
 
-Fonti: aruba-cruisingguide.com ★★★
+Sources: aruba-cruisingguide.com ★★★
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

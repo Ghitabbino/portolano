@@ -1,6 +1,6 @@
-# 10 — Ristoranti
+# 10 — Restaurants
 
-**Ultima verifica: 25/08/2026**
+**Dernière vérification: 25/08/2026**
 
 | Ristorante | Dove | Note |
 |---|---|---|
@@ -9,16 +9,16 @@
 | Ristoranti resort French Harbour | Roatán | Level resort ★★ |
 | Utila | Ristoranti lungo il porto | Diving crowd ★★ |
 
-DATO MANCANTE: recensioni aggiornate sistematiche.
+DONNÉE MANQUANTE: recensioni aggiornate sistematiche.
 
-Ultimo aggiornamento: 25/08/2026
+Dernière mise à jour: 25/08/2026
 
-## Griglia generale
+## Grille générale
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## App e fonti
+## Applis et sources
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 

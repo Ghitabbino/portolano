@@ -1,18 +1,18 @@
-# 06 — Sicurezza
+# 06 — Sécurité
 
-Ultimo aggiornamento: 22/08/2026 · prossimo controllo media: entro 22/09/2026
+Dernière mise à jour: 22/08/2026 · prossimo controllo media: entro 22/09/2026
 
-## Valutazione sicurezza: **4 / 5**
+## Évaluation sécurité: **4 / 5**
 
 Contesto spagnolo molto sicuro. Rischi reali: microcriminalità turistica nel sud e furtini con barche incustodite.
 
-## Mappa delle zone — offline
+## Carte des zones — hors ligne
 
 <div class="mapframe" data-slug="tenerife" data-minz="10" data-maxz="15" data-lat="28.3" data-lon="-16.55" data-zones='[[28.4635,-16.2500,700,"#ef6c00","Santa Cruz centro/porto — prudenza serale come in ogni città"],[28.0530,-16.7310,600,"#ef6c00","Los Cristianos/Las Américas — scippi turistici"]]'></div>
 
 *Microcriminalità turistica standard; marine presidiatamente sicure.* Arancione = prudenza. Nessuna zona rossa documentata contro diportisti.
 
-## Quadro generale
+## Vue d’ensemble
 
 - Nessuna advisory restrittiva per le Isole Canarie da parte dei governi UE.
 - Zone turistiche sud (Las Américas, Los Cristianos): scippi e furti in auto/spiaggia come in ogni hub turistico.
@@ -26,19 +26,19 @@ Contesto spagnolo molto sicuro. Rischi reali: microcriminalità turistica nel su
 | Radazul, San Miguel | Spiagge sud con effetti incustoditi |
 | Los Gigantes di giorno | Parcheggi trailhead con oggetti visibili |
 
-## A bordo e a terra
+## À bord et à terre
 
 - Oggetti di valore in cassaforte; dinghy con catena + motore rimosso dove fermo notturno.
 - Auto: nulla in vista.
 - Escursioni Teide: meteo variabile in quota; non lasciare oggetti al parcheggio.
 
-## Navigazione
+## Navigation
 
 - Costa steep-to ovunque: attenzione batimetria e campi boe balneari.
 - Traffico ferry interisole intenso sui canali Tenerife–La Gomera e Tenerife–Gran Canaria.
 - Campi balenieri (escursioni whale watching) attivi tra Costa Adeje e Los Gigantes: passare prudenti.
 
-## Salvataggio ed emergenze
+## Sauvetage et urgences
 
 | Emergenza | Numero |
 |---|---|

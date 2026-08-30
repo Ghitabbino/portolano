@@ -1,6 +1,6 @@
-# 04 — Servizi, cantieri e manutenzione
+# 04 — Services, Chantiers & Entretien
 
-**Ultima verifica: 28/08/2026**
+**Dernière vérification: 28/08/2026**
 
 ## Providenciales — hub (limitato) dei Caicos
 
@@ -13,34 +13,34 @@
 
 | Servizio | Nome / Riferimento | Contatto | Note |
 |---|---|---|---|
-| Meccanico entrobordo / fuoribordo | **DATO MANCANTE** — freelance operanti da South Bank/Turtle Cove | Chiedere in capitainerie VHF 16 | Interventi ordinari; per diagnosi complesse valutare hub regionali |
-| Elettricista marine | DATO MANCANTE | DATO MANCANTE | — |
-| Rigger / sartiame | DATO MANCANTE | DATO MANCANTE | Spesso mobile da Antigua/St. Martin |
-| Velaio / sailmaker | DATO MANCANTE | DATO MANCANTE | — |
-| Frigorista / AC marine | DATO MANCANTE | DATO MANCANTE | — |
-| Saldatura inox/alluminio, biminis | DATO MANCANTE | DATO MANCANTE | — |
-| Vetroresina / compositi | DATO MANCANTE | DATO MANCANTE | — |
+| Meccanico entrobordo / fuoribordo | **DONNÉE MANQUANTE** — freelance operanti da South Bank/Turtle Cove | Chiedere in capitainerie VHF 16 | Interventi ordinari; per diagnosi complesse valutare hub regionali |
+| Elettricista marine | DONNÉE MANQUANTE | DONNÉE MANQUANTE | — |
+| Rigger / sartiame | DONNÉE MANQUANTE | DONNÉE MANQUANTE | Spesso mobile da Antigua/St. Martin |
+| Velaio / sailmaker | DONNÉE MANQUANTE | DONNÉE MANQUANTE | — |
+| Frigorista / AC marine | DONNÉE MANQUANTE | DONNÉE MANQUANTE | — |
+| Saldatura inox/alluminio, biminis | DONNÉE MANQUANTE | DONNÉE MANQUANTE | — |
+| Vetroresina / compositi | DONNÉE MANQUANTE | DONNÉE MANQUANTE | — |
 
-> Quando indicato **DATO MANCANTE** il nominativo non è stato verificato con websearch/webfetch in questa sessione; verrà ricercato al controllo mensile. Chiedere sempre in **capitainerie South Bank / Blue Haven / Turtle Cove** per il referente aggiornato. ★★
+> Quando indicato **DONNÉE MANQUANTE** il nominativo non è stato verificato con websearch/webfetch in questa sessione; verrà ricercato al controllo mensile. Chiedere sempre in **capitainerie South Bank / Blue Haven / Turtle Cove** per il referente aggiornato. ★★
 
 ### Travelift / gru / alaggio
 
-| Struttura | Capacità | Note | Fonte |
+| Infrastructure | Capacità | Note | Source |
 |---|---|---|---|
-| South Bank / Turtle Cove / Blue Haven | **DATO MANCANTE** capacità travelift/gru verificata | Per sollevamenti importanti molti armatori si appoggiano a **hub regionali**: Antigua (Jolly Harbour/English Harbour), Sint Maarten (Simpson Bay Lagoon), Trinidad (Chaguaramas, 70–300 t) | ★★ |
+| South Bank / Turtle Cove / Blue Haven | **DONNÉE MANQUANTE** capacità travelift/gru verificata | Per sollevamenti importanti molti armatori si appoggiano a **hub regionali**: Antigua (Jolly Harbour/English Harbour), Sint Maarten (Simpson Bay Lagoon), Trinidad (Chaguaramas, 70–300 t) | ★★ |
 | South Dock (Provo) | Commerciale — non per diporto | — | ★★ |
 
-## Gas e bombole
+## Gaz et bouteilles
 
-- **Gas/GPL: solo scambio bombole** standard locale/US (tipicamente 20 lb / 9 kg tipo americano) — **non** rabbocco a peso. Verificare compatibilità regolatore (USA vs Campingaz). [gov.tc DECR hints ★★; esperienza crocieristi ★★]
-- Scambio presso ferramenta/market di Providenciales e Grand Turk — chiedere a Graceway/Cash 'n Carry o in marina. **DATO MANCANTE** prezzo verificato scambio. ★★
+- **Gas/GPL: solo scambio bombole** standard locale/US (tipicamente 20 lb / 9 kg tipo americano) — **non** rabbocco a peso. Vérifier compatibilità regolatore (USA vs Campingaz). [gov.tc DECR hints ★★; esperienza crocieristi ★★]
+- Scambio presso ferramenta/market di Providenciales e Grand Turk — chiedere a Graceway/Cash 'n Carry o in marina. **DONNÉE MANQUANTE** prezzo verificato scambio. ★★
 
-## Acqua dolce
+## Eau douce
 
-- Acqua di banchina disponibile in tutte e tre le marine di Provo (Blue Haven, South Bank, Turtle Cove). Tariffa e **potabilità**: **DATO MANCANTE** — chiedere in capitainerie; tenere **riserve + dissalatore** pronto (isole basse, dissalazione). In caso di razionamenti seguire avvisi locali. ★★
+- Eau di banchina disponibile in tutte e tre le marine di Provo (Blue Haven, South Bank, Turtle Cove). Tariffa e **potabilità**: **DONNÉE MANQUANTE** — chiedere in capitainerie; tenere **riserve + dissalatore** pronto (isole basse, dissalazione). In caso di razionamenti seguire avvisi locali. ★★
 - Nei cay/ancoraggi fuori marina: **nessuna** acqua a terra — autonomia necessaria. ★★★
 
-## Note strategiche
+## Notes stratégiques
 
 - TCI = **isole basse coralline** senza hub cantieristico strutturato: travelift/gru e maestranze specializzate sono **limitati**. Per refit/verniciatura carena strutturale, sartiame o motori entrobordo maggiori, pianificare **trasferimento a hub regionali** (Antigua, St. Martin, Bahamas, Florida). ★★
 - Ricambi: **spedire presso la marina indicando nome barca, posto barca e telefono**; confermare arrivo via email/telefono reception. Tempi tipici da Miami/Europa: **1–3 settimane** (dogana TCI). [prassi caraibica ★★]
@@ -50,4 +50,4 @@
 
 **Providenciales** concentra l'essenziale (fuel/water/power + piccola officina South Bank), ma **non** è paragonabile a Le Marin/Antigua: per lavori strutturali prevedere hub regionale. Artigiani freelance contattabili via capitainerie/VHF; per vele/rigging servizio spesso **mobile** da Antigua/St. Martin. ★★
 
-Ultimo aggiornamento: 28/08/2026
+Dernière mise à jour: 28/08/2026

@@ -1,20 +1,20 @@
 # Port Ferdinand Marina (nord-ovest) {#anc-port-ferdinand}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← All Anchorages](../08-ancoraggi.md)
 **13°15′31″ N 59°38′31″ W** ★★
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| **Profondità** |Darsena interna scavata nella roccia|
-| **Tenuta àncora** |— (~120–126 berths, adatta superyacht)|
-| **Venti/riparo** |Ingresso via Six Men's Bay sotto ponte sollevabile|
-| **Pericoli** |Yacht grandi spesso all'ancora fuori; ingresso sotto ponte sollevabile verificato su BA 1042 + satellite|
-| **Boe/divieti/normative** |NON è POE|
-| **A terra** |Ristorante 13°/59°; residenziale/lusso|
+| **Depth** |Darsena interna scavata nella roccia|
+| **Holding** |— (~120–126 berths, adatta superyacht)|
+| **Wind/Shelter** |Ingresso via Six Men's Bay sotto ponte sollevabile|
+| **Hazards** |Yacht grandi spesso all'ancora fuori; ingresso sotto ponte sollevabile verificato su BA 1042 + satellite|
+| **Buoys/Restrictions/Regulations** |NON è POE|
+| **Ashore** |Ristorante 13°/59°; residenziale/lusso|
 
 <div class="mapframe" data-slug="anc-port-ferdinand" data-lat="13.2585" data-lon="-59.642"></div>
-*Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
+*Detailed chart — zoom ± to the bay · offline map · WGS84 coordinates indicative, always verify with your plotter*
 
-Fonti: [Yachting World](https://www.yachtingworld.com/features/reinventing-barbados-caribbean-island-works-welcome-back-cruisers-71257) (2017) ★★★ · barbados.org Port Ferdinand ★★ · verificato su BA 1042 + satellite
+Sources: [Yachting World](https://www.yachtingworld.com/features/reinventing-barbados-caribbean-island-works-welcome-back-cruisers-71257) (2017) ★★★ · barbados.org Port Ferdinand ★★ · verificato su BA 1042 + satellite
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

@@ -1,21 +1,21 @@
-# 08 — Portolano degli ancoraggi
+# 08 — Guide des mouillages
 
-**Ultima verifica: 24/08/2026**
+**Dernière vérification: 24/08/2026**
 
-## Regole generali di ancoraggio (prima di tutto)
+## Règles générales de mouillage (avant tout)
 
-- **Anchorage fee obbligatoria** se si àncora fuori da una marina: **$200 / 12 mesi per ≤50 ft**, **$1.500 / 12 mesi per >100 ft** (intermedi **DATO MANCANTE**) — riscossa con il cruising permit (vedi [01 Clearance](01-clearance.md)). Chi sta in marina **non paga** l'anchorage fee per i giorni in banchina. ★★★★★
+- **Anchorage fee obbligatoria** se si àncora fuori da una marina: **$200 / 12 mesi per ≤50 ft**, **$1.500 / 12 mesi per >100 ft** (intermedi **DONNÉE MANQUANTE**) — riscossa con il cruising permit (vedi [01 Clearance](01-clearance.md)). Chi sta in marina **non paga** l'anchorage fee per i giorni in banchina. ★★★★★
 - **Divieto assoluto** di ancorare su **corallo e praterie di seagrass** — danni punibili con ammenda. Usare sempre **sabbia chiara** visibile. ★★★★★
 - **Exuma Cays Land and Sea Park (Warderick Wells)**: **solo su mooring** — àncora **vietata** in tutto il parco. Prenotazione via Bahamas National Trust. ★★★★★
 - **Marea 0,8–1,0 m** ma corrente nei **cuts 2–4 kt** — ancorare lontano dai canali di marea. ★★★★
 
 ### ⛔ Zone di divieto / restrizione assoluta
 
-| Zona | Divieto | Fonte |
+| Zone | Divieto | Source |
 |---|---|---|
 | **Exuma Cays Land and Sea Park — Warderick Wells e cays del parco** | Àncora vietata — **solo mooring $35–40 / notte** | Bahamas National Trust ★★★★★ |
 | **Barriera corallina e seagrass ovunque** | Àncora e catena non devono toccare corallo/seagrass | Bahamas Environment ★★★★★ |
-| **Aree portuali Nassau Harbour / Freeport Harbour** | Ancoraggio vietato nei canali e nelle zone di manovra navi | Harbour Control ★★★★ |
+| **Aree portuali Nassau Harbour / Freeport Harbour** | Mouillage vietato nei canali e nelle zone di manovra navi | Harbour Control ★★★★ |
 | **Zone private (es. Baker's Bay)** | Accesso/ancoraggio riservato a membri — divieto per diportisti di passaggio | Resort ★★ |
 
 Testi integrali: Bahamas National Trust (bnt.bs) per il parco Exuma; Harbour Control VHF 16 per Nassau.
@@ -23,9 +23,9 @@ Testi integrali: Bahamas National Trust (bnt.bs) per il parco Exuma; Harbour Con
 - **IALA-B** invertita rispetto all'Europa — attenzione a boe. ★★★★★
 - Cartografia di riferimento: **Explorer Chartbook — Bahamas** (standard de facto per i Banks) + carte elettroniche Navionics/Garmin. ★★★★★
 
-## Tabella riassuntiva — i migliori ancoraggi
+## Tableau récapitulatif — meilleurs mouillages
 
-| # | Ancoraggio | Riparo alisei | Tenuta | Profondità | Affollamento | Giudizio comunità |
+| # | Mouillage | Riparo alisei | Tenue | Profondeur | Affluence | Avis de la communauté |
 |---|---|---|---|---|---|---|
 | 1 | **Highbourne Cay — 24°42.6'N 076°49.4'W** | ★★★★ | ★★★★ sabbia | 2–4 m | Medio-alto | ★4,2/5 — sosta nord Exumas |
 | 2 | **Norman's Cay** | ★★★★ | ★★★★ sabbia | 2–5 m | Medio | ★4,0/5 — relitto aereo famoso |
@@ -39,7 +39,7 @@ Testi integrali: Bahamas National Trust (bnt.bs) per il parco Exuma; Harbour Con
 
 *Riparo/tenuta = valutazione qualitativa dalle fonti cruiser (più ★ = meglio). Coordinate Highbourne da rilevazione marina ★★★★; altre da Explorer Chartbook ★★★★★.*
 
-### Mappa generale degli ancoraggi
+### Carte générale des mouillages
 
 <div class="mapframe" data-slug="bahamas" data-minz="6" data-maxz="16" data-lat="24.50" data-lon="-76.00" data-markers='[[25.0801,-77.3207,"Hurricane Hole — Paradise"],[25.0827,-77.3220,"Atlantis Marina"],[24.7092,-76.8230,"Highbourne Cay"],[24.5922,-76.8127,"Norman’s Cay"],[24.3950,-76.6320,"Warderick Wells — Park"],[24.2618,-76.5128,"Cambridge — Compass"],[24.1735,-76.4485,"Staniel Cay"],[23.5047,-75.7660,"Georgetown — Exuma"]]'></div>
 
@@ -47,12 +47,12 @@ Testi integrali: Bahamas National Trust (bnt.bs) per il parco Exuma; Harbour Con
 
 ## Note per ancoraggio
 
-- **Acqua chiara**: ancorare sempre su **sabbia bianca** ben visibile — se vedi scuro (corallo/erba) sposta. ★★★★★
+- **Eau chiara**: ancorare sempre su **sabbia bianca** ben visibile — se vedi scuro (corallo/erba) sposta. ★★★★★
 - **Protezione alisei**: gli Exumas offrono riparo eccellente da E/NE dietro i cays — ma esposizione a W/NW con fronti freddi invernali (dic–feb) — controllare previsione. ★★★★
-- **Affollamento**: **dic–apr altissimo** negli Exumas centrali (Warderick, Staniel) — arrivare presto per prendere mooring/ancoraggio. ★★★
+- **Affluence**: **dic–apr altissimo** negli Exumas centrali (Warderick, Staniel) — arrivare presto per prendere mooring/ancoraggio. ★★★
 - **App utile**: **Bahamas Marinas** + **Explorer Charts** + **Navionics** per i Banks — indispensabili. ★★★★
 
-## Cartografia ufficiale
+## Cartographie officielle
 
 | Carta | Copertura | Note |
 |---|---|---|
@@ -62,16 +62,16 @@ Testi integrali: Bahamas National Trust (bnt.bs) per il parco Exuma; Harbour Con
 | **BA Charts (UKHO)** | Bahamas — carte ammiragliato britanniche | Ufficiali ma meno dettagliate sui Banks ★★★ |
 | **Navionics / Garmin / C-MAP** | Tutte le Bahamas | Elettroniche, verificare con Explorer ★★★★ |
 
-- Le carte **Explorer** riportano vie, waypoint e profondità reali rilevate — più affidabili delle ufficiali sui Banks. Acquistabili a Nassau (Harbour Chandler), in Florida o online. ★★★★★
+- Le carte **Explorer** riportano vie, waypoints e profondità reali rilevate — più affidabili delle ufficiali sui Banks. Acquistabili a Nassau (Harbour Chandler), in Florida o online. ★★★★★
 - Per la navigazione quotidiana: **plotter + Explorer cartaceo** come riserva — mai fidarsi solo dell'elettronico sui Banks. ★★★★★
 
-## Non inclusi (per ora)
+## Non inclus (pour l’instant)
 
-- **Abacos — Man-O-War Cay, Great Guana Cay**: ancoraggi secondari → dati insufficienti, **da verificare**
-- **Ragged Islands / Jumentos**: remoti, bellissimi ma servizi zero → **da verificare**
-- **South Andros / Acklins**: poco frequentati — **DATO MANCANTE**
+- **Abacos — Man-O-War Cay, Great Guana Cay**: ancoraggi secondari → dati insufficienti, **à vérifier**
+- **Ragged Islands / Jumentos**: remoti, bellissimi ma servizi zero → **à vérifier**
+- **South Andros / Acklins**: poco frequentati — **DONNÉE MANQUANTE**
 
-## Checklist àncora per le Bahamas
+## Check-list mouillage per le Bahamas
 
 1. Anchorage fee pagata con Click2Clear (se àncori fuori marina) ✓
 2. Cartografia Explorer a bordo + elettronica aggiornata ✓
@@ -80,4 +80,4 @@ Testi integrali: Bahamas National Trust (bnt.bs) per il parco Exuma; Harbour Con
 5. Slack water per i cuts tra Banks e Sound ✓
 6. Prenotazione mooring Warderick Wells se si punta al parco ✓
 
-Ultimo aggiornamento: 24/08/2026
+Dernière mise à jour: 24/08/2026

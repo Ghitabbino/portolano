@@ -1,25 +1,24 @@
-# 10 — Ristoranti
+# 10 — Restaurants
 
-**Ultimo aggiornamento: 23/08/2026**
+**Last updated: 23/08/2026**
 
 
-Sandy Ground: villaggio-porto con i beach bar leggendari dell'isola ★★★★
+Sandy Ground: harbour village with the island's legendary beach bars ★★★★
 
-| Locale | Zona | Prezzi | Note |
+| Venue | Area | Price | Notes |
 |---|---|---|---|
-| Elvis' Beach Bar | Road Bay | €€ | Icona del sunset, acqua bassa ★★★ |
+| Elvis' Beach Bar | Road Bay | €€ | Sunset icon, shallow water ★★★ |
 | Johnno's | Sandy Ground | €€ | Live music, grill ★★ |
-| Dune Preserve | Rendezvous Bay | €€ | Home di Bankie Banx, full moon ★★ |
-| Ristoranti Sandy Ground | — | €€–€€€ | [selezione TripAdvisor](https://www.tripadvisor.com/Restaurants-g5213296-Sandy_Ground_Anguilla.html) ★★ |
+| Dune Preserve | Rendezvous Bay | €€ | Bankie Banx's home, full-moon party ★★ |
+| Sandy Ground restaurants | — | €€–€€€ | [TripAdvisor selection](https://www.tripadvisor.com/Restaurants-g5213296-Sandy_Ground_Anguilla.html) ★★ |
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026
 
-## Griglia generale
+## Overview Grid
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## App e fonti
+## Apps & Sources
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
+**DATA MISSING** — to be completed at the monthly check.

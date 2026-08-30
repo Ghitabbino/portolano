@@ -1,8 +1,8 @@
-# 10 — Ristoranti
+# 10 — Restaurants
 
-**Ultimo aggiornamento: 24/08/2026**
+**Last updated: 24/08/2026**
 
-Selezione orientata alla crociera: locali raggiungibili a piedi dagli ancoraggi/marine ([08 Ancoraggi](08-ancoraggi.md)). Prezzi indicativi per persona senza bevande. Valutazione stelle da verificare su Google al controllo mensile.
+Cruiser-oriented selection: locali raggiungibili a piedi dagli ancoraggi/marine ([08 Ancoraggi](08-ancoraggi.md)). Prezzi indicativi per person without drinks. Valutazione stelle to be verified su Google al controllo mensile.
 
 Legenda prezzi: **€** <20 · **€€** 20–40 · **€€€** >40 — Cucina: 🐟 pesce · 🥩 carne · 🥗 vegetariano · 🥙 street food · 🍰 dolci
 
@@ -10,11 +10,11 @@ Legenda prezzi: **€** <20 · **€€** 20–40 · **€€€** >40 — Cucin
 
 | Ristorante | Zona | Costo | Cucina | Specialità | Location | Stelle |
 |---|---|---|---|---|---|---|
-| DATO MANCANTE — verifica sul posto | Marina / waterfront Port of Spain | **€€** | 🐟 Pesce creolo | Pesce fresco del giorno | ⚓ marina | ★★ |
-| DATO MANCANTE — bar della marina | Marina principale | **€** | 🥙 Street food | Roti / fish & chips | 🥙 casual | ★★ |
-| DATO MANCANTE — ristorante spiaggia | Spiaggia principale | **€€** | 🐟 Grill | Lobster / BBQ | 🏖️ spiaggia | ★★ |
+| DATA MISSING — verifica sul posto | Marina / waterfront Port of Spain | **€€** | 🐟 Pesce creolo | Pesce fresco del giorno | ⚓ marina | ★★ |
+| DATA MISSING — bar della marina | Marina principale | **€** | 🥙 Street food | Roti / fish & chips | 🥙 casual | ★★ |
+| DATA MISSING — ristorante spiaggia | Spiaggia principale | **€€** | 🐟 Grill | Lobster / BBQ | 🏖️ spiaggia | ★★ |
 
-> I nominativi con **DATO MANCANTE** non sono stati verificati con websearch/webfetch in questa sessione; verranno cercati al controllo mensile con Google/TheFork. ★★
+> I nominativi con **DATA MISSING** non sono stati verificati con websearch/webfetch in questa sessione; verranno cercati al controllo mensile con Google/TheFork. ★★
 
 ## App e fonti
 
@@ -24,4 +24,4 @@ Legenda prezzi: **€** <20 · **€€** 20–40 · **€€€** >40 — Cucin
 | Facebook locale | Pagine ristoranti: menu e chiusure in tempo reale |
 | TheFork/LaFourchette | Copertura limitata nei Caraibi |
 
-Ultimo aggiornamento: 24/08/2026
+Last updated: 24/08/2026

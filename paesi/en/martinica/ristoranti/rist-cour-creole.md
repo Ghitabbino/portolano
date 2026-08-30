@@ -1,17 +1,17 @@
 # La Cour Créole
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | Zona | Sainte-Anne |
 | Cucina | 🥩 Creola tradizionale |
 | Specialità | Colombo de poulet · boudin antillais |
-| Costo | 💰€€ per persona senza bevande |
+| Costo | 💰€€ per person without drinks |
 | Location | 🌴 patio creolo |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Cour+Créole+Sainte-Anne) |
 | Contatti | 0596 62 59 18 / 0696 28 44 39 |
-| Valutazioni | TA 4,5/5 (344) → ★★★★½ |
+| Currencyzioni | TA 4,5/5 (344) → ★★★★½ |
 | Orari | mar–mer 10–18 · gio–sab 10–21 · dom 10–18 · lun chiuso |
 
 ## Menu

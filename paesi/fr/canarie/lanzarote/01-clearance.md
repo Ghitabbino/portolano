@@ -1,6 +1,6 @@
-# 01 — Clearance doganale della barca
+# 01 — Formalités douanières
 
-Ultimo aggiornamento: 22/08/2026 · Contesto in [00 — Ingresso](../00-ingresso-visti.md)
+Dernière mise à jour: 22/08/2026 · Contesto in [00 — Ingresso](../00-ingresso-visti.md)
 
 ## Regole d'ingresso
 
@@ -9,11 +9,11 @@ Ultimo aggiornamento: 22/08/2026 · Contesto in [00 — Ingresso](../00-ingresso
 | Porti UE/Schengen | Nessuna |
 | Extra-UE | Primo porto di ingresso: **Arrecife** |
 
-## Porto di ingresso — Arrecife
+## Port di ingresso — Arrecife
 
-Capitanía Marítima di Las Palmas – dipendenza di Arrecife; Policia Nacional per equipaggi extra-Schengen. Orari: (da confermare).
+Capitanía Marítima di Las Palmas – dipendenza di Arrecife; Policia Nacional per equipaggi extra-Schengen. Horaires: (da confermare).
 
-## Barca
+## Bateau
 
 UE con IVA pagata: libera circolazione. Extra-UE: Ammissione Temporanea UE 18 mesi.
 
@@ -21,9 +21,9 @@ UE con IVA pagata: libera circolazione. Extra-UE: Ammissione Temporanea UE 18 me
 
 L'isola appartiene al **Parque Natural del Chinijo Archipiélago**: ancoraggio a Caleta del Sebo possibile nelle zone consentite, rispetto rigoroso dei fondi e dei limiti segnalati. Nessuna formalità doganale (territorio nazionale), ma rispetto delle regole dell'area protetta obbligatorie.
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026
 
-## Chi deve farla
+## Qui doit effectuer les formalités
 ## Costi
-## Da verificare
-Ultimo aggiornamento: 23/08/2026
+## À vérifier
+Dernière mise à jour: 23/08/2026

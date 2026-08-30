@@ -1,21 +1,21 @@
-# 00 — Ingresso, documenti e visti
+# 00 — Entrée, Documents & Visas
 
-**Ultima verifica: 27/08/2026** · Contesto generale in [00 — Ingresso comune](../00-ingresso-visti.md) — vale per tutta la Grecia.
+**Dernière vérification: 27/08/2026** · Contesto generale in [00 — Ingresso comune](../00-ingresso-visti.md) — vale per tutta la Grecia.
 
-## Status (richiamo)
+## Statut (richiamo)
 
-| Voce | Dato |
+| Rubrique | Dato |
 |---|---|
 | Paese | Grecia — UE / Schengen / Euro |
-| Zona | **Golfo Saronico** — suddivisione portolano |
-| Documenti UE | Carta d'identità o passaporto validi |
-| Visto UE | Non richiesto (libera circolazione) |
+| Zone | **Golfo Saronico** — suddivisione portolano |
+| Documents UE | Carte d’identité o passaporto validi |
+| Visa UE | Non requis (libera circolazione) |
 
-> Dettaglio ingressi via mare per questa zona: **DATO MANCANTE** — da verificare presso Port Authority competente per Golfo Saronico (hcg.gr) ★★★★★
+> Détail ingressi via mare per questa zona: **DONNÉE MANQUANTE** — à vérifier presso Port Authority competente per Golfo Saronico (hcg.gr) ★★★★★
 
 ## Specificità di zona
 
-- Approdi di ingresso con Port Police in Golfo Saronico: **DATO MANCANTE** — verificare elenco Port of Entry su hcg.gr / mfa.gr ★★★★★
-- Formalità locali (tasse di soggiorno, aree marine protette, charter): **DATO MANCANTE** per Golfo Saronico
+- Approdi di ingresso con Port Police in Golfo Saronico: **DONNÉE MANQUANTE** — verificare elenco Port of Entry su hcg.gr / mfa.gr ★★★★★
+- Formalità locali (tasse di soggiorno, aree marine protette, charter): **DONNÉE MANQUANTE** per Golfo Saronico
 
-Ultimo aggiornamento: 27/08/2026
+Dernière mise à jour: 27/08/2026

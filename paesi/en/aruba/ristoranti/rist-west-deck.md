@@ -1,13 +1,13 @@
 # The West Deck
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | Zona | Oranjestad — Governors Bay |
 | Cucina | 🐟 Pesce creolo locale |
 | Specialità | Ribs cadute dall'osso · pang bati · johnny cake |
-| Costo | 💰€€ per persona senza bevande |
+| Costo | 💰€€ per person without drinks |
 | Location | 🏖️ spiaggia open-air, piedi nella sabbia |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=The+West+Deck+Oranjestad) |
 | Contatti | L.G. Smith Blvd, Governors Bay Beach, Oranjestad · prenotazione consigliata per deck |

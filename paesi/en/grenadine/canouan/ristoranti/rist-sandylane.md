@@ -1,18 +1,18 @@
 # Sandy Lane Yacht Club Restaurant
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | Zona | Charlestown |
 | Cucina | 🍽️ Marina |
 | Specialità | — |
-| Costo | 💰€€€ per persona senza bevande |
+| Costo | 💰€€€ per person without drinks |
 | Location | ⚓ marina |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sandy+Lane+Yacht+Club+Restaurant+Charlestown) |
 | Contatti | via slycr.com |
-| Valutazioni | Recensioni Horizon 2025 → ★★★ |
-| Orari | sera |
+| Currencyzioni | Recensioni Horizon 2025 → ★★★ |
+| Area | Valle Gran Rey – Vueltas, 14 |
 
 ## Menu
 
@@ -22,6 +22,6 @@
 
 ## Foto
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Foto non still disponibili — recuperare at the controllo mensile.*
 
 **Note**: Presso la marina; fuel dock

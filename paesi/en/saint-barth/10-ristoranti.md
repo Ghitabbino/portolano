@@ -1,6 +1,6 @@
-# 10 — Ristoranti
+# 10 — Restaurants
 
-**Ultimo aggiornamento: 23/08/2026**
+**Last updated: 23/08/2026**
 
 
 | Locale | Zona | Prezzi | Note |
@@ -11,14 +11,14 @@
 
 ⚠️ Isola cara: prezzi elevati ovunque; prenotare in stagione ★★★
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026
 
 ## Griglia generale
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
 ## App e fonti
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 

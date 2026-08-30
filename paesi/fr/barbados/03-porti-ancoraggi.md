@@ -1,6 +1,6 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
-**Ultima verifica: 28/08/2026** · Coordinate in gradi decimali / N-W come da fonte · datum WGS84 · VHF 12 Bridgetown Signal, VHF 16 Port Control
+**Dernière vérification: 28/08/2026** · Coordinate in gradi decimali / N-W come da fonte · datum WGS84 · VHF 12 Bridgetown Signal, VHF 16 Port Control
 
 Barbados ha **pochissima infrastruttura nautica** rispetto alle Windward francesi: l'unica zona riparata è la **costa ovest sottovento** (Carlisle Bay → Six Men's Bay). La costa est atlantica è **non ancorabile** in condizioni normali (frangenti, swell continuo). L'ancoraggio preferito dai cruisers è **Carlisle Bay** davanti a Bridgetown; le marine sono **Bridgetown Shallow Draught / Careenage** (centro) e le due marine resort del nord-ovest (**Port St. Charles** POE + **Port Ferdinand** non-POE). [Noonsite — Barbados](https://www.noonsite.com/place/barbados/) ★★★ · [Barbados Port Inc.](https://barbadosport.com/vessel-documentation) ★★★★★
 
@@ -9,11 +9,11 @@ Barbados ha **pochissima infrastruttura nautica** rispetto alle Windward frances
 ### Bridgetown — Shallow Draught & Careenage (porto principale) ⚓
 
 - **13°06,07' N 59°37,62' W (Shallow Draught, darsena yacht)** · **13°06,00' N 59°37,18' W (Careenage interno)** · VHF **12** Signal Station ("8P") + VHF 16 · [Barbados Port Inc. — Vessel Documentation](https://barbadosport.com/vessel-documentation) ★★★★★ · [Marinas.com — Careenage](https://marinas.com/view/marina/7ec51w_Careenage_Marina_Bridgetown_Barbados) ★★
-- **Shallow Draught**: darsena protetta *dentro* il porto commerciale ma separata, dedicata agli yacht (~40 posti servizi completi, acqua/corrente, security). È l'unica con **Dogana/Immigrazione dedicata agli yacht** ed è il POE consigliato a Bridgetown. Profondità sufficiente per yacht (“shallow” solo per le navi). Prenotazione via Harbour Master tel +1 246 434-6100. [BPI news 2024-12](https://barbadosport.com/news/page/4) ★★★★ · [BPI Yacht Masters Guide](https://barbadosport.com/barbados-yacht-masters-guide) ★★★★
+- **Shallow Draught**: darsena protetta *dentro* il porto commerciale ma separata, dedicata agli yacht (~40 posti servizi completi, acqua/corrente, security). È l'unica con **Dogana/Immigrazione dedicata agli yacht** ed è il POE consigliato a Bridgetown. Profondeur sufficiente per yacht (“shallow” solo per le navi). Prenotazione via Harbour Master tel +1 246 434-6100. [BPI news 2024-12](https://barbadosport.com/news/page/4) ★★★★ · [BPI Yacht Masters Guide](https://barbadosport.com/barbados-yacht-masters-guide) ★★★★
 - **Careenage (canale interno UNESCO)**: canale storico nel cuore di Bridgetown con **~50 posti stern-to** su banchine affiancate, fondale limitato (pescaggio piccolo), ponte mobile interno (apertura su richiesta), luce Molehead Fl R 10s 2M. Atmosfera cittadina, a piedi per centro/ mercati. Prenotazione via Marine Services/Harbour Master +1 246 434-6100. [BPI Yacht Masters Guide](https://barbadosport.com/barbados-yacht-masters-guide) ★★★★ · [Yachting World 2017](https://www.yachtingworld.com/features/reinventing-barbados-caribbean-island-works-welcome-back-cruisers-71257) ★★★
 - **Carlisle Bay (rada antistante)**: **non è marina** ma **l'ancoraggio ufficiale post-clearance** su sabbia (4–14 m). Esposta a swell da W durante fronti, ma riparata dagli alisei ENE. Badare a jet-ski di giorno e ai relitti del parco marino (6 relitti snorkeling 12–55 m subito a sud). Tariffa yacht <50 m **BBD 110 flat a Carlisle Bay** secondo guide 2026 (da confermare). [BPI Yacht Masters Guide](https://barbadosport.com/barbados-yacht-masters-guide) ★★★★ · [Noonsite — Carlisle Bay](https://www.noonsite.com/place/barbados/bridgetown/) ★★★
-- Clearance in loco (Shallow Draught o Passenger Terminal — vedi [01](01-clearance.md)). Chiamare **Signal Station VHF 12 prima di entrare**, berth assegnato; bandiera Q. Orari **06:00–22:00 7/7** al Passenger Terminal secondo segnalazioni — verificare VHF.
-- Protezione: buon ridosso dagli alisei; risacca con swell da N/NW in caso di mareggiate invernali o uragano di passaggio — verificare bollettino locale prima dell'ingresso. Pontile dinghy sabbioso: canotto a spiaggia, chiudere con lucchetto. ★★
+- Clearance in loco (Shallow Draught o Passenger Terminal — vedi [01](01-clearance.md)). Chiamare **Signal Station VHF 12 prima di entrare**, berth assegnato; bandiera Q. Horaires **06:00–22:00 7/7** al Passenger Terminal secondo segnalazioni — verificare VHF.
+- Protezione: buon ridosso dagli alisei; risacca con swell da N/NW in caso di mareggiate invernali o uragano di passaggio — verificare bollettino locale prima dell'ingresso. Ponton dinghy sabbioso: canotto a spiaggia, chiudere con lucchetto. ★★
 
 ### Carlisle Bay — ancoraggio pubblico
 
@@ -25,7 +25,7 @@ Barbados ha **pochissima infrastruttura nautica** rispetto alle Windward frances
 
 - **13°15,83' N 59°38,79' W (ingresso laguna, ancoraggio esterno 13°15,50' N 59°38,47' W)** · VHF **16** (chiamata) · [Port St. Charles](https://www.portstcharles.com) · [Marinas.com — Port St. Charles](https://marinas.com/view/marina/n8cexq_Port_St_Charles_Marina_St_Peter_Barbados) ★★ · [Navily — Port St. Charles](https://www.navily.com/port/port-st-charles-marina/1967) ★★★
 - **POE ufficiale del nord** (secondo POE dell'isola): dogana/immigrazione/coast guard/polizia **nello stesso stabile in fondo al frangiflutti**; procedura rapida e cordiale secondo report 30/11/2025 (ancorare fuori, dinghy al pontile interno). **6 berths mega-yacht fino a 250 ft / 76 m, pescaggio max ~4,1 m (13,5 ft)** sulla diga esterna; fuel duty-free allo sdoganamento (cash); **no toilets/showers/laundry** sulle banchine mega-yacht, ma resort pool/restaurant a fine frangiflutti. [Noonsite — Port St. Charles](https://www.noonsite.com/place/barbados/port-st-charles) ★★★ · [Minty Yachts — Barbados](https://www.mintedyachts.com/locations/barbados) ★★
-- Ancoraggio esterno su **3–4 m sabbia**, buon holding, calmo salvo swell occasionale; attenzione alle **tartarughe** in zona. Vedi scheda [anc-psc-anch](ancoraggi/anc-psc-anch.md). Praticità: entrare in marina solo su assegnazione berth; per clearance basta ormeggiare al pontile dogana.
+- Mouillage esterno su **3–4 m sabbia**, buon holding, calmo salvo swell occasionale; attenzione alle **tartarughe** in zona. Vedi scheda [anc-psc-anch](ancoraggi/anc-psc-anch.md). Praticità: entrare in marina solo su assegnazione berth; per clearance basta ormeggiare al pontile dogana.
 
 ### Port Ferdinand Marina (St. Peter) — resort di lusso, NON POE
 
@@ -36,7 +36,7 @@ Barbados ha **pochissima infrastruttura nautica** rispetto alle Windward frances
 ## Costa ovest centrale — Speightstown, Holetown, Paynes Bay (rade aperte)
 
 - **Speightstown (13°15,18' N 59°38,70' W)** — rada su sabbia davanti al paese, rollio presente, landing dinghy limitato; no dogana; permesso costiero come sopra. Negozi/supermercato a piedi. Vedi [anc-speightstown](ancoraggi/anc-speightstown.md). [noforeignland](https://www.noforeignland.com/guides/countries/bb) ★★
-- **Holetown / Paynes Bay / Sandy Lane** — baie lunghe sottovento, ancoraggio su sabbia 3–8 m, buon holding ma aperte a swell da W. Frequentate da charter di giorno, possibili boe hotel private — **non usarle senza permesso**. Pontile dinghy su spiaggia, attenzione al frangente con mare formato. ★★
+- **Holetown / Paynes Bay / Sandy Lane** — baie lunghe sottovento, ancoraggio su sabbia 3–8 m, buon holding ma aperte a swell da W. Frequentate da charter di giorno, possibili boe hotel private — **non usarle senza permesso**. Ponton dinghy su spiaggia, attenzione al frangente con mare formato. ★★
 
 ## Costa sud — Oistins, Silver Sands (esposta, condizionale)
 
@@ -47,45 +47,45 @@ Barbados ha **pochissima infrastruttura nautica** rispetto alle Windward frances
 
 - **Bathsheba / Tent Bay (13°14,82' N 59°32,17' W)** e **Consett Bay** — **da escludere come ancoraggi** in condizioni normali: costa a **windward** con **swell atlantico continuo**, fondali 4–10 m ma nessuna protezione. Solo pescherecci locali; punto indicato solo come **da EVITARE**. Vedi [anc-bathsheba](ancoraggi/anc-bathsheba.md). [safetyanchoralarm.com — South & East Coast](https://safetyanchoralarm.com/anchorages/barbados/barbados-south-east) ★★
 
-## Tariffe ormeggi e marine
+## Tarifs d’amarrage & marinas
 
-> Stesse voci per tutti i paesi; **DATO MANCANTE** = da ricercare al controllo mensile.
+> Stesse voci per tutti i paesi; **DONNÉE MANQUANTE** = da ricercare al controllo mensile.
 
 ### Bridgetown — Careenage & Shallow Draught
 
 Nessun listino pubblico online al 28/08/2026. BPI comunica tariffe **solo su richiesta** a Harbour Master / Marine Services **+1 246 434-6100** e richiede **prenotazione anticipata** in alta stagione (dic–apr) quando la rada è affollata per rally/ARC.
 
-| Voce | Costo | Note |
+| Rubrique | Coût | Note |
 |---|---|---|
-| Posto pontile / banchina affiancata (~12 m) — notte | **DATO MANCANTE** — su richiesta Harbour Master | Careenage stern-to, Shallow Draught ~40 posti |
-| Elettricità / acqua | **DATO MANCANTE** — a consumo secondo contratto | Verificare all'arrivo |
-| Carburante in banchina (Shallow Draught) | **DATO MANCANTE** — stazione porto, prezzi variabili | Diesel / RON 95, verificare VHF |
-| Ancoraggio libero Carlisle Bay | **BBD 110 flat** per yacht <50 m secondo guide 2026 — **da confermare** | Tariffa Carlisle Bay [BPI Yacht Masters Guide ★★★★] |
+| Posto pontile / banchina affiancata (~12 m) — notte | **DONNÉE MANQUANTE** — su richiesta Harbour Master | Careenage stern-to, Shallow Draught ~40 posti |
+| Électricité / acqua | **DONNÉE MANQUANTE** — a consumo secondo contratto | Vérifier all'arrivo |
+| Carburante in banchina (Shallow Draught) | **DONNÉE MANQUANTE** — stazione porto, prezzi variabili | Diesel / RON 95, verificare VHF |
+| Mouillage libero Carlisle Bay | **BBD 110 flat** per yacht <50 m secondo guide 2026 — **da confermare** | Tariffa Carlisle Bay [BPI Yacht Masters Guide ★★★★] |
 
 ### Port St. Charles & Port Ferdinand — marine resort nord
 
 Listini **solo su richiesta** alle marine (resort 5*); banda indicativa secondo guide locali per Port St. Charles **~US$100–300/notte** a seconda del LOA. [islandhopperguides.com — Barbados yacht locations 24/02/2026](https://islandhopperguides.com/barbados/barbados-spots/sail-away-to-the-best-yacht-locations-in-barbados/) ★★
 
-| Voce | Costo | Note |
+| Rubrique | Coût | Note |
 |---|---|---|
-| Posto pontile Port St. Charles / notte (~12–15 m) | **DATO MANCANTE** — su richiesta +1 246 419-1000 | 6 berths mega-yacht su diga esterna fino a 250 ft; prenotazione obbligatoria |
-| Posto pontile Port Ferdinand / notte | **DATO MANCANTE** — su richiesta +1 246 272-2020 | 120–126 berths, superyacht, ponte sollevabile |
-| Elettricità / acqua resort | **DATO MANCANTE** — a consumo | Inclusi o a metro secondo contratto |
+| Posto pontile Port St. Charles / notte (~12–15 m) | **DONNÉE MANQUANTE** — su richiesta +1 246 419-1000 | 6 berths mega-yacht su diga esterna fino a 250 ft; prenotazione obbligatoria |
+| Posto pontile Port Ferdinand / notte | **DONNÉE MANQUANTE** — su richiesta +1 246 272-2020 | 120–126 berths, superyacht, ponte sollevabile |
+| Électricité / acqua resort | **DONNÉE MANQUANTE** — a consumo | Inclusi o a metro secondo contratto |
 | Mooring / boa | **Non presenti** come parco obbligatorio (no BNMP); ancoraggio libero su sabbia dove consentito | Rispettare divieti reef/riserve |
 
-### Altre strutture e ormeggio libero
+### Autres infrastructures e ormeggio libero
 
-| Struttura / voce | Costo / note | Fonte |
+| Infrastructure / voce | Coût / note | Source |
 |---|---|---|
-| Boe visita / mooring in riserva marina | Uso obbligatorio dove presenti (reef protetti, Carlisle Bay parco relitti); tariffa **DATO MANCANTE** (stimata 10–30 BBD/notte dove presente) | ★★ |
-| Ancoraggio libero fuori riserve | **Gratuito** fuori zone regolamentate e fuori parchi/reef | Rispettare divieti e boe di balneazione |
-| Pontile dinghy | Verificare tenuta con mare/corrente; chiudere sempre dinghy/fuoribordo con lucchetto; sabbia a Carlisle | ★★ |
+| Boe visita / mooring in riserva marina | Uso obbligatorio dove presenti (reef protetti, Carlisle Bay parco relitti); tariffa **DONNÉE MANQUANTE** (stimata 10–30 BBD/notte dove presente) | ★★ |
+| Mouillage libero fuori riserve | **Gratuito** fuori zone regolamentate e fuori parchi/reef | Rispettare divieti e boe di balneazione |
+| Ponton dinghy | Vérifier tenuta con mare/corrente; chiudere sempre dinghy/fuoribordo con lucchetto; sabbia a Carlisle | ★★ |
 
-⚠️ **Da verificare prima della crociera**: disponibilità posti a Bridgetown (Shallow Draught/Careenage) e Port St. Charles/Port Ferdinand in alta stagione (dic–apr) — prenotazione consigliata con settimane di anticipo; tariffe aggiornate al piede e supplemento multiscafo; restrizioni ancoraggio in parchi marini (Carlisle relitti) e presso reef; carburante e orari Harbour Master (+1 246 434-6100) e Signal Station VHF 12.
+⚠️ **À vérifier avant la croisière**: disponibilità posti a Bridgetown (Shallow Draught/Careenage) e Port St. Charles/Port Ferdinand in alta stagione (dic–apr) — prenotazione consigliata con settimane di anticipo; tariffe aggiornate al piede e supplemento multiscafo; restrizioni ancoraggio in parchi marini (Carlisle relitti) e presso reef; carburante e orari Harbour Master (+1 246 434-6100) e Signal Station VHF 12.
 
-## Distanze utili
+## Distances utiles
 
-| Tratta | Distanza | Note |
+| Trajet | Distance | Note |
 |---|---|---|
 | Bridgetown (Carlisle Bay) — Port St. Charles | ~11 M (~20 km) | Sottocosta ovest riparata |
 | Bridgetown — Speightstown | ~10 M (~18,5 km) | Costa ovest |
@@ -95,6 +95,6 @@ Listini **solo su richiesta** alle marine (resort 5*); banda indicativa secondo 
 | Barbados — Trinidad (Chaguaramas) | ~210 M (~389 km) | SW, pianificazione carburante |
 | Barbados — Antigua (English Harbour) | ~240 M (~444 km) | NW, contro alisei di prua |
 
-Distanze ortodromiche approssimate; verificare su carta ufficiale BA 1042 / Navionics e bollettino meteo.
+Distanze ortodromiche approssimate; vérifier sur carta ufficiale BA 1042 / Navionics e bollettino meteo.
 
-Ultimo aggiornamento: 28/08/2026
+Dernière mise à jour: 28/08/2026

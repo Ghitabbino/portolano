@@ -1,45 +1,41 @@
-# 00 — Ingresso, documenti e visti
+# 00 — Entry, Documents & Visas
 
-**Ultimo aggiornamento: 23/08/2026**
+**Last updated: 23/08/2026**
 
+**Status**: St Vincent and the Grenadines (SVG). Currency: **EC$** (2.7 = 1 US$). Visa: not required for many countries, stay up to **6 months**. ★★★★
 
-**Stato**: St Vincent e le Grenadines (SVG). Valuta: **EC$** (2,7 = 1 US$). Visto: non necessario per molti paesi, soggiorno fino a **6 mesi**. ★★★★
+## SVG Customs Offices
 
-## Uffici doganali SVG
+**Chateaubelair · Wallilabou · Kingstown · Blue Lagoon · Bequia (Port Elizabeth) · Canouan · Union Island (Clifton)** — all on the [SailClear](https://sailclear.com) system ★★★★
 
-**Chateaubelair · Wallilabou · Kingstown · Blue Lagoon · Bequia (Port Elizabeth) · Canouan · Union Island (Clifton)** — tutti sul sistema [SailClear](https://sailclear.com) ★★★★
+- Hours: **08:00–12:00 / 13:00–16:00**; extended hours available; Saturday morning in some offices [CCA Guide Nov 2025](https://cruisingclub.org/sites/default/files/events/Grenadines%20Info%20%26%20Local%20Resources%2025.11.23.pdf) ★★★★
+- **Blue Lagoon Marina (St Vincent)**: Mon-Fri 08–16, Sat 08:30–12; simple clearance ★★★★
+- Cruise tax **EC$35 per person per month** (or EC$5 per guest max 7 days); charter outside SVG **EC$5 per foot** ★★★★
+- Cruising permit valid for 30 days at check-in, extendable ★★★★
 
-- Orari: **08:00–12:00 / 13:00–16:00**; extra-orari maggiorati; sabato mattina in alcuni uffici [Guida CCA nov 2025](https://cruisingclub.org/sites/default/files/events/Grenadines%20Info%20%26%20Local%20Resources%2025.11.23.pdf) ★★★★
-- **Blue Lagoon Marina (St Vincent)**: lun–ven 08–16, sab 08:30–12; clearance "semplice" ★★★★
-- Cruise tax **EC$35/pers/mese** (o EC$5/g max 7 gg); charter fuori SVG **EC$5/piede** ★★★★
-- Cruising permit 30 gg al check-in, estendibile ★★★★
+## Yacht Club Network
 
-## Rete diportista
+- **Cruisers Net VHF 68 — Mon/Wed/Fri 08:00** (weather + info) [CCA Guide Nov 2025](https://cruisingclub.org/sites/default/files/events/Grenadines%20Info%20%26%20Local%20Resources%2025.11.23.pdf) ★★★★
 
-- **Cruisers Net VHF 68 — lun/mer/ven 08:00** (meteo + info) [Guida CCA nov 2025](https://cruisingclub.org/sites/default/files/events/Grenadines%20Info%20%26%20Local%20Resources%2025.11.23.pdf) ★★★★
+## Weather and News
 
-## Meteo e notizie
+- [Doyle Guides — Windward Updates](https://doyleguides.com/windward-updated-guides/) ★★★★
+- [Caribbean Compass](https://caribbeancompass.com/) — monthly for the region ★★★★
 
-- [Doyle Guides — aggiornamenti Windward](https://doyleguides.com/windward-updated-guides/) ★★★★
-- [Caribbean Compass](https://caribbeancompass.com/) — mensile di zona ★★★★
+**To be verified**
 
-## Da verificare
+- Cruising permit tariff 2026–27 (any updates from Noonsite)
 
-- Tariffa cruising permit 2026–27 (eventuali aggiornamenti Noonsite)
-
-Ultimo aggiornamento: 23/08/2026
+**Last updated: 23/08/2026**
 
 ## Status
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to complete at monthly check.
 
+## EU Citizens
 
-## Cittadini UE
+**DATA MISSING** — to complete at monthly check.
 
-**DATO MANCANTE** — da completare al controllo mensile.
+## The Yacht
 
-
-## La barca
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
+**DATA MISSING** — to complete at monthly check.

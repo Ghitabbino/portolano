@@ -1,37 +1,37 @@
-# 07 — Provvisioning
+# 07 — Provisioning
 
-**Ultima verifica: 27/08/2026** — Adriatico
+**Last checked: 27/08/2026** — Adriatico
 
-## Livello prezzi generale
+## General Price Level
 
-- Rete distribuzione capillare (supermercati, mercati, pescherie). Dettaglio livello prezzi per Adriatico: **DATO MANCANTE** — generalmente allineato a media nazionale italiana.
+- Rete distribuzione capillare (supermercati, mercati, pescherie). Dettaglio livello prezzi per Adriatico: **DATA MISSING** — generalmente allineato a media nazionale italiana.
 
-## Supermercati
+## Supermarkets
 
 ### Base principale — Adriatico
 
-| Negozio | Ubicazione | Distanza dalla marina | A piedi? | Note | Fonte |
+| Shop | Location | Distance from Marina | Walkable? | Notes | Source |
 |---|---|---|---|---|---|
-| **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** |
+| **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** |
 
-> Dettaglio supermercati comodi per diportisti in Adriatico: **DATO MANCANTE** — da verificare su fonti locali (Pagine Gialle, siti marine, OpenStreetMap).
+> Dettaglio supermercati comodi per diportisti in Adriatico: **DATA MISSING** — da verificare su fonti locali (Pagine Gialle, siti marine, OpenStreetMap).
 
-## Mercati
+## Markets
 
-- Mercato locale (pesce / frutta / verdura) in Adriatico: **DATO MANCANTE**
+- Mercato locale (pesce / frutta / verdura) in Adriatico: **DATA MISSING**
 
-## Acqua e carburante
+## Water & Fuel
 
-| Servizio | Dove | Note |
+| Service | Where | Notes |
 |---|---|---|
-| Water dock | Marina — verificare in Adriatico | **DATO MANCANTE** |
-| Fuel dock | Banchina carburanti — verificare in Adriatico | **DATO MANCANTE** |
-| Bombola gas | Rivenditori GPL zona | Solo scambio/ricarica — **DATO MANCANTE** dettaglio |
+| Water dock | Marina — verificare in Adriatico | **DATA MISSING** |
+| Fuel dock | Banchina carburanti — verificare in Adriatico | **DATA MISSING** |
+| Bombola gas | Rivenditori GPL zona | Solo scambio/ricarica — **DATA MISSING** dettaglio |
 
-## Consigli pratici
+## Practical Tips
 
 - Trolley pieghevole utile per spesa dalla banchina.
-- Mercati del pesce al mattino presto per pescato fresco — orari per Adriatico: **DATO MANCANTE**.
+- Mercati del pesce al mattino presto per pescato fresco — orari per Adriatico: **DATA MISSING**.
 - Acqua: verificare potabilità banchina con marina.
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

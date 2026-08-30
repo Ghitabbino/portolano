@@ -1,8 +1,8 @@
-# 10 — Ristoranti
+# 10 — Restaurants
 
-**Ultima verifica: 24/08/2026**
+**Last checked: 24/08/2026**
 
-Selezione orientata alla crociera: locali raggiungibili a piedi o con breve taxi/dinghy da marine e ancoraggi del portolano ([03 Porti e marine](03-porti-ancoraggi.md) / [08 Portolano degli ancoraggi](08-ancoraggi.md)). Fasce prezzo per persona senza bevande: **$** <15 · **$$** 15–35 · **$$$** >35.
+Selezione orientata alla crociera: locali raggiungibili a piedi o con breve taxi/dinghy da marine e ancoraggi del portolano ([03 Ports & Marinas](03-porti-ancoraggi.md) / [08 Anchorage Pilot](08-ancoraggi.md)). Fasce prezzo per persona senza bevande: **$** <15 · **$$** 15–35 · **$$$** >35.
 
 > Cucina portoricana: *mofongo*, *aragosta*, *pescado fresco*, *tostones*, *asopao*. Mance attese 15–18%.
 
@@ -27,7 +27,7 @@ Selezione orientata alla crociera: locali raggiungibili a piedi o con breve taxi
 
 | Ristorante | Costo | Specialità | Note |
 |---|---|---|---|
-| **Ristoranti lungomare Esperanza** | **$$–$$$** | Pesce fresco, *carrucho*, cucina creola | Striscia di locali fronte mare, tramonto ★★★★ |
+| **Restaurants lungomare Esperanza** | **$$–$$$** | Pesce fresco, *carrucho*, cucina creola | Striscia di locali fronte mare, tramonto ★★★★ |
 | Locali Isabel Segunda | **$–$$** | Cucina locale informale | Comodo se ancorati a nord |
 
 ## Ponce — sud
@@ -35,28 +35,27 @@ Selezione orientata alla crociera: locali raggiungibili a piedi o con breve taxi
 | Ristorante | Costo | Specialità | Note |
 |---|---|---|---|
 | **La Guancha Boardwalk** | **$–$$** | **Chioschi di pesce fritto, *alc purrias*, *tostones*** | Lungomare popolare, ideale per street food serale ★★★★ |
-| Ristoranti Ponce Yacht Club | **$$** | Club — pesce e grill | Accesso riservato soci/ospiti marina ★★★ |
+| Restaurants Ponce Yacht Club | **$$** | Club — pesce e grill | Accesso riservato soci/ospiti marina ★★★ |
 
 ## San Juan — per sosta tecnica
 
-- **La Placita de Santurce** (di giorno mercato, la sera *food court* all'aperto) e i ristoranti di **Old San Juan** offrono ampia scelta portoricana/internazionale; **DATO MANCANTE** per selezione nominativa verificata su Google — da aggiornare al prossimo controllo. ★★
+- **La Placita de Santurce** (di giorno mercato, la sera *food court* all'aperto) e i ristoranti di **Old San Juan** offrono ampia scelta portoricana/internazionale; **DATA MISSING** per selezione nominativa verificata su Google — da aggiornare al prossimo controllo. ★★
 
-## App e fonti utili
+## Apps & Sources utili
 
-| Piattaforma | Uso locale |
+| Platform | Local Use |
 |---|---|
 | Google Maps recensioni | Fonte principale per orari e valutazioni aggiornate ★★★★ |
 | TripAdvisor / Yelp | Confronto prezzi e foto menu ★★★ |
 | Facebook/Instagram locali | Menu del giorno e chiusure in tempo reale ★★★ |
 | Uber Eats / DoorDash | Consegna attiva a San Juan/Fajardo/Ponce ★★★ |
 
-## Mappa dei ristoranti
+## Restaurant Map
 
 <div class="mapframe" data-slug="porto-rico" data-minz="7" data-maxz="17" data-lat="18.20" data-lon="-66.50" data-markers='[[18.3475, -65.6366, "Pasión por el Fogón — Fajardo", "rist-pasion-por-el-fogon-fajardo"], [18.36, -65.638, "La Estación", "rist-la-estacion"], [18.3022, -65.2989, "Dinghy Dock — Culebra", "rist-dinghy-dock-culebra"], [18.0972, -65.4708, "Esperanza — Vieques", "rist-esperanza-vieques"]]'></div>
 
-Ultimo aggiornamento: 24/08/2026
+Last updated: 24/08/2026
 
-## Griglia generale
+## General Grid
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
+**DATA MISSING** — da completare al controllo mensile.

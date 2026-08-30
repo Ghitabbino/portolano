@@ -1,62 +1,62 @@
-# 06 — Sicurezza
+# 06 — Sécurité
 
-**Ultima verifica completa: 27/08/2026** · Prossimo controllo mensile: **27/09/2026**
+**Dernière vérification complète: 27/08/2026** · Prochain contrôle mensuel: **27/09/2026**
 
-## Valutazione sicurezza: **DATO MANCANTE / 5** — in attesa di verifica su fonti aggregate (advisory, stampa locale, CSSN-equivalente Mediterraneo)
+## Évaluation sécurité: **DONNÉE MANQUANTE / 5** — in attesa di verifica su fonti aggregate (advisory, stampa locale, CSSN-equivalente Méditerranée)
 
 | Aspetto | Voto | Motivazione |
 |---|---|---|
-| Sicurezza personale (turisti/crocieristi) | **DATO MANCANTE /5** | **DATO MANCANTE** — da verificare su advisory governative (viaggiareinsicurezza.it, gov.uk, voyage.gc.ca) |
-| Furti materiali a bordo | **DATO MANCANTE /5** | **DATO MANCANTE** — verificare segnalazioni furti dinghy/fuoribordo nelle marine malta |
-| Contesto generale | **DATO MANCANTE /5** | **DATO MANCANTE** |
+| Sicurezza personale (turisti/crocieristi) | **DONNÉE MANQUANTE /5** | **DONNÉE MANQUANTE** — da vérifier sur advisory governative (viaggiareinsicurezza.it, gov.uk, voyage.gc.ca) |
+| Furti materiali a bordo | **DONNÉE MANQUANTE /5** | **DONNÉE MANQUANTE** — verificare segnalazioni furti dinghy/fuoribordo nelle marine malta |
+| Contesto generale | **DONNÉE MANQUANTE /5** | **DONNÉE MANQUANTE** |
 
 *Scala: 0 = terribile → 5 = molto sicuro. Valutazione nostra, sintesi delle fonti sotto; aggiornata a ogni controllo mensile.*
 
-**Perché DATO MANCANTE**: paese di nuova creazione — dati non ancora verificati.
+**Perché DONNÉE MANQUANTE**: paese di nuova creazione — dati non ancora verificati.
 
-## Quadro generale
+## Vue d’ensemble
 
-- Advisory: **DATO MANCANTE** — da consultare viaggiareinsicurezza.it (Malta), diplomatie.gouv.fr, gov.uk, travel.state.gov, voyage.gc.ca.
-- Stampa locale / report isola: **DATO MANCANTE**.
+- Advisory: **DONNÉE MANQUANTE** — da consultare viaggiareinsicurezza.it (Malta), diplomatie.gouv.fr, gov.uk, travel.state.gov, voyage.gc.ca.
+- Stampa locale / report isola: **DONNÉE MANQUANTE**.
 - Nessuna valutazione definitiva fino a verifica mensile completa.
 
-## Mappa delle zone — offline
+## Carte des zones — hors ligne
 
 <div class="mapframe" data-slug="malta" data-minz="5" data-maxz="15" data-lat="35.90" data-lon="14.45" data-zones='[]'></div>
 
-*Mappa placeholder centrata su Malta ( Mediterraneo ). Le zone a rischio verranno mappate solo con fonti verificate.*
+*Mappa placeholder centrata su Malta ( Méditerranée ). Le zone a rischio verranno mappate solo con fonti verificate.*
 
 ## Posti sicuri / da evitare
 
-**DATO MANCANTE**.
+**DONNÉE MANQUANTE**.
 
 ## Furti a crocieristi
 
-**DATO MANCANTE** — verificare su fonti diportiste aggregate e advisory.
+**DONNÉE MANQUANTE** — vérifier sur fonti diportiste aggregate e advisory.
 
-## A bordo e a terra
+## À bord et à terre
 
-**DATO MANCANTE**.
+**DONNÉE MANQUANTE**.
 
-## Navigazione
+## Navigation
 
-**DATO MANCANTE** — IALA-A in Mediterraneo. Verificare pericoli locali (scogli, secche, traffico mercantile).
+**DONNÉE MANQUANTE** — IALA-A in Méditerranée. Vérifier pericoli locali (scogli, secche, traffico mercantile).
 
-## Numeri di emergenza
+## Numéros d’urgence
 
 | Servizio | Numero | Note |
 |---|---|---|
-| Emergenza generale UE | **112** | Valido anche in Malta se in UE; altrimenti **DATO MANCANTE** |
-| Guardia costiera / MRCC | **DATO MANCANTE** | Verificare su elenco SAR Malta |
-| Polizia | **DATO MANCANTE** | **DATO MANCANTE** |
+| Emergenza generale UE | **112** | Valido anche in Malta se in UE; altrimenti **DONNÉE MANQUANTE** |
+| Guardia costiera / MRCC | **DONNÉE MANQUANTE** | Vérifier sur elenco SAR Malta |
+| Police | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
 
 ## Monitoraggio mensile
 
-Verifica su thecssn.org / stampa locale / voyage.gc.ca / gov.uk / travel.state.gov / gruppi FB — **DATO MANCANTE** al prossimo ciclo.
+Verifica su thecssn.org / stampa locale / voyage.gc.ca / gov.uk / travel.state.gov / gruppi FB — **DONNÉE MANQUANTE** al prossimo ciclo.
 
-Ultimo aggiornamento: 27/08/2026
+Dernière mise à jour: 27/08/2026
 
-## Salvataggio ed emergenze
+## Sauvetage et urgences
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 

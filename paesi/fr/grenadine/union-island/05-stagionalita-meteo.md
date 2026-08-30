@@ -1,14 +1,14 @@
-# 05 — Stagionalità e meteo
+# 05 — Saisonnalité & Météo
 
-## Clima
+## Climat
 
 Tropicale secco, 27–30 °C stabile tutto l'anno; acqua 28 °C. ★★★★
 
-## Venti locali
+## Vents locaux
 
 Clifton (laguna reef) piatta anche con 25 kn; **Chatham Bay esposta a SO**: swell di fondo con passaggi frontali. Accelerazione nel Cano Canouan–Union al mattino. Spot kitesurf di fama mondiale: vento >15 kn il 95% dei giorni da dic a feb. ★★★★
 
-## Finestre tipiche
+## Fenêtres météo typiques
 
 | Finestra | Vento | Note |
 |---|---|---|
@@ -16,9 +16,9 @@ Clifton (laguna reef) piatta anche con 25 kn; **Chatham Bay esposta a SO**: swel
 | Mar–Mag | 15–20 kn | Round-trip Cays comodo |
 | Giu–Ago | 10–15 kn | Ottimo rapporto vento/folla |
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026
 
-Alisei NE dic-giu; stagione umida lug-nov (bordo S della fascia uragani: rischio basso ma reale).
+Alizés NE dic-giu; stagione umida lug-nov (bordo S della fascia uragani: rischio basso ma reale).
 
 ### Vento locale — statistiche (% giorni >15 kn)
 
@@ -42,4 +42,4 @@ Fonti: [statistiche Union Island](https://www.kitesurfgrenadines.com/kitesurfing
 [guida stagioni SVG Yachting](https://www.svgyachting-grenadines.com/blog/best-time-to-sail-the-grenadines) ★★★ ·
 [Windfinder Canouan](https://www.windfinder.com/windstatistics/canouan_airport) ★★★
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026

@@ -1,4 +1,4 @@
-# 08 — Ancoraggi
+# 08 — Anchorage Pilot
 
 ## Ancoraggi in dettaglio
 
@@ -8,29 +8,28 @@
 
 
 
-**Ultimo aggiornamento: 23/08/2026**
+**Last updated: 23/08/2026**
 
 
 **Little Bay**: jetty 300×30 ft, ancoraggio davanti con NE; chiamare VHF 16 prima. Baie sud in **zona d'esclusione vulcanica** ⚠️. Old Road Bay nord con mare calmo. — [MPA](https://mpa.ms/safety-and-security/) ★★★★
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026
 
-## Regole generali
+## General Rules
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Tabella riassuntiva
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
 
-## Cartografia ufficiale
+## Summary Table
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
 
-## Checklist àncora
+## Official Charts
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
+
+## Anchor Checklist
+
+**DATA MISSING** — da completare al controllo mensile.

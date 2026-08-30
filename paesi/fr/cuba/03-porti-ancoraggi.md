@@ -1,17 +1,17 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
-**Ultima verifica: 24/08/2026** · Coordinate WGS84, VHF 16 dove non diversamente indicato
+**Dernière vérification: 24/08/2026** · Coordinate WGS84, VHF 16 dove non diversamente indicato
 
 ## Costa nord-ovest
 
 ### Marina Hemingway (L'Avana) ⚓ porto d'ingresso principale
 - **23°05.35'N 082°30.5'W** · VHF 16/77 · SSB 7462 · +53 7 204 6848 / 209 7928 · rpublicas@prto.mh.cyt.cu · www.nauticaway.com ★★★★
-- 400 posti nominali (254 con acqua/luce, ~100 realmente utilizzabili), 4-5 canali interni, fondale max 3,5-4 m, fino a 70 m LOA, pescaggio canale 4,5 m. Ingresso stretto, coralli bassi, solo con calma e di giorno, outer mark spesso mancante — usare waypoint ufficiali. ★★★
+- 400 posti nominali (254 con acqua/luce, ~100 realmente utilizzabili), 4-5 canali interni, fondale max 3,5-4 m, fino a 70 m LOA, pescaggio canale 4,5 m. Ingresso stretto, coralli bassi, solo con calma e di giorno, outer mark spesso mancante — usare waypoints ufficiali. ★★★
 - Servizi: fuel intermittente (razionato), acqua spesso interrotta/salmastra, elettricità 110/220V + 340V 200A (verificare polarità), WiFi ETECSA, security ridotta dal 2013 (chiudere barca), dogana/sanità/Guarda Frontera in loco, pool/jacuzzi, ship's store limitato, ghiaccio, noleggio auto Cubacar, small repairs/officina canale. ★★★
-- Distanze utili: Habana Vieja 18 km (taxi 25-35 USD), aeroporto José Martí 25 km, supermercato 3ra y 70 8 km.
+- Distances utiles: Habana Vieja 18 km (taxi 25-35 USD), aeroporto José Martí 25 km, supermercato 3ra y 70 8 km.
 
 ### Cayo Levisa
-- 22°52'N 083°31'W ca. · Rada nord sicura su spiaggia sabbiosa, resort con bar/ristorante, internet café, Guardia friendly, VHF 16. Tenuta ottima sabbia, riparo alisei ★★★. ★★★
+- 22°52'N 083°31'W ca. · Rade nord sicura su spiaggia sabbiosa, resort con bar/ristorante, internet café, Guardia friendly, VHF 16. Tenue ottima sabbia, riparo alisei ★★★. ★★★
 
 ### Marina Gaviota Varadero — Península Hicacos ⚓
 - **23°11.679'N 081°07.603'W** · VHF 16 · +53 45 667 204 · futura capacità 1.200 posti (più grande di Cuba), attualmente 65 a Dársena + docks Gaviota con finger. ★★★★
@@ -25,7 +25,7 @@
 - 22°35'N 078°40'W ca. · Exit-only, pescaggio limitato 2,0-2,5 m, chiuso di notte, VHF 16. Resort adiacente. ★★★
 
 ### Puerto Vita (Oriente)
-- 21°05'N 075°52'W ca. · +53 24 430 021 · Baia tascabile davanti a Ragged Islands Bahamas, 20 posti stern-to, porto d'ingresso, piccolo shop, fuel limitato. ★★★
+- 21°05'N 075°52'W ca. · +53 24 430 021 · Baie tascabile davanti a Ragged Islands Bahamas, 20 posti stern-to, porto d'ingresso, piccolo shop, fuel limitato. ★★★
 
 ## Costa sud
 
@@ -47,13 +47,13 @@
 ## Ovest
 
 ### Marina Los Morros — Cabo San Antonio
-- 21°55'N 084°54'W ca. · VHF 16 · Rada esposta, solo con calma, fuel disponibile fino 2013 poi intermittente, spesso chiusa per danni uragano, Guarda Frontera presente. ★★★
+- 21°55'N 084°54'W ca. · VHF 16 · Rade esposta, solo con calma, fuel disponibile fino 2013 poi intermittente, spesso chiusa per danni uragano, Guarda Frontera presente. ★★★
 
-## Tariffe ormeggi e marine — listino Marlin 2024-25 (verificato Noonsite ★★★★)
+## Tarifs d’amarrage & marinas — listino Marlin 2024-25 (verificato Noonsite ★★★★)
 
-> Stesse voci per tutti i paesi; **DATO MANCANTE** = da ricercare al controllo mensile. Tariffe in USD (o CUC storico 1:1), pagamento carta non-USA a Hemingway/Cayo Largo, cash altrove. IVA inclusa dove indicata.
+> Stesse voci per tutti i paesi; **DONNÉE MANQUANTE** = da ricercare al controllo mensile. Tarifs in USD (o CUC storico 1:1), pagamento carta non-USA a Hemingway/Cayo Largo, cash altrove. IVA inclusa dove indicata.
 
-| Voce | Costo | Note |
+| Rubrique | Coût | Note |
 |---|---|---|
 | Posto pontile notte 30-44 ft (9-13,4 m) | **0,70 USD/ft/die** ≈ 23 USD per 33 ft / 30 USD per 43 ft | calpestio Marlin, sconto 30% canale 1 Hemingway senza servizi ★★★★ |
 | Posto pontile 45-70 ft (13,7-21,3 m) | **1,00 USD/ft/die** ≈ 50 USD per 50 ft | ★★★★ |
@@ -62,29 +62,29 @@
 | Esempio 10 m (33 ft) notte | **~23 USD** | + elettricità/acqua |
 | Esempio 12 m (40 ft) notte | **~30-35 USD** | — |
 | Esempio 15 m (49 ft) notte | **~49 USD** | — |
-| Multiscafo supplementare | **DATO MANCANTE** — probabilmente +50% ma non pubblicato | Verificare in marina |
-| Mese pontile ~12 m | **DATO MANCANTE** — contrattazione diretta con Marlin | Hemingway offre mensile su richiesta, sconto ~20-30% |
-| Elettricità | **Metered 110/220V + 340V 200A** | Consumo a contatore, verificare polarità ★★ |
-| Acqua | **Inclusa ma spesso interrotta/salmastra** | Non potabile, watermaker indispensabile ★★ |
-| Ancoraggio fuori marina | **Gratuito** (ma despacho obbligatorio) | Guardia registra posizione |
-| Boa marina (dove presente) | **DATO MANCANTE** — poche boe | — |
-| Live-aboard supplemento | **DATO MANCANTE** | — |
+| Multiscafo supplementare | **DONNÉE MANQUANTE** — probabilmente +50% ma non pubblicato | Vérifier in marina |
+| Mese pontile ~12 m | **DONNÉE MANQUANTE** — contrattazione diretta con Marlin | Hemingway offre mensile su richiesta, sconto ~20-30% |
+| Électricité | **Metered 110/220V + 340V 200A** | Consumo a contatore, verificare polarità ★★ |
+| Eau | **Inclusa ma spesso interrotta/salmastra** | Non potabile, watermaker indispensabile ★★ |
+| Mouillage fuori marina | **Gratuito** (ma despacho obbligatorio) | Guardia registra posizione |
+| Bouée marina (dove presente) | **DONNÉE MANQUANTE** — poche boe | — |
+| Live-aboard supplemento | **DONNÉE MANQUANTE** | — |
 
 Incluso a Hemingway: sanitari, docce, pool, WiFi (quando c'è corrente), security (ridotta), dogana in loco. Tassa soggiorno non pubblicata.
 
-### Altre strutture
+### Autres infrastructures
 
-| Struttura | Costo/note | Fonte |
+| Infrastructure | Coût/notes | Source |
 |---|---|---|
-| Marina Gaviota Varadero | Tariffe a chiamata, ~simili a Hemingway; pagamento cash EUR/USD | Marlin ★★ |
+| Marina Gaviota Varadero | Tarifs a chiamata, ~simili a Hemingway; pagamento cash EUR/USD | Marlin ★★ |
 | Cienfuegos ancoraggio | A pagamento ~10-15 USD/notte con bagni/security | Cruisers ★★ |
-| Cayo Largo | Tariffe Marlin standard, limitato | Marlin ★★ |
+| Cayo Largo | Tarifs Marlin standard, limitato | Marlin ★★ |
 
-⚠️ **Da verificare prima della crociera**: disponibilità fuel (crisi 2026), stato pontili Hemingway, outer mark, profondità canale Cayo Largo (dragaggio), tariffe aggiornate Marlin via mail.
+⚠️ **À vérifier avant la croisière**: disponibilità fuel (crisi 2026), stato pontili Hemingway, outer mark, profondità canale Cayo Largo (dragaggio), tariffe aggiornate Marlin via mail.
 
-## Distanze utili
+## Distances utiles
 
-| Tratta | Distanza | Note |
+| Trajet | Distance | Note |
 |---|---|---|
 | L'Avana (Hemingway) – Key West | ~90 M | Rotta NW, canale Florida |
 | Varadero – Bimini (Bahamas) | ~150 M | — |
@@ -95,4 +95,4 @@ Incluso a Hemingway: sanitari, docce, pool, WiFi (quando c'è corrente), securit
 | Hemingway – Cayo Levisa | ~45 M | Ovest |
 | Cienfuegos – Cayo Largo | ~80 M | Canarreos |
 
-Ultimo aggiornamento: 24/08/2026
+Dernière mise à jour: 24/08/2026

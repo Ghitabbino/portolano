@@ -1,4 +1,4 @@
-# 06 — Sicurezza
+# 06 — Safety & security
 
 **Ultima verifica completa: 28/08/2026** · Prossimo controllo mensile: **28/09/2026**
 
@@ -6,7 +6,7 @@
 
 | Aspetto | Voto | Motivazione |
 |---|---|---|
-| Sicurezza personale (turisti/crocieristi) | 3/5 | Advisory **USA Level 2 / Canada High degree of caution**: crimine violento esiste (gang-related con armi) concentrato a **Providenciales** e **Grand Turk**, taluni episodi in aree popolate/turistiche; turisti non bersaglio primario ma rischio "wrong place/time" |
+| Safety & security personale (turisti/crocieristi) | 3/5 | Advisory **USA Level 2 / Canada High degree of caution**: crimine violento esiste (gang-related con armi) concentrato a **Providenciales** e **Grand Turk**, taluni episodi in aree popolate/turistiche; turisti non bersaglio primario ma rischio "wrong place/time" |
 | Furti materiali a bordo | 2/5 | Dinghy/fuoribordo e **furti opportunistici** (borseggi, auto, spiagge) = rischio ricorrente in tutti i Caraibi/TCl |
 | Contesto generale dell'isola | 3/5 | Altre isole (North/Middle/Salt Cay) molto più tranquille; risorse polizia limitate secondo advisory USA |
 
@@ -65,7 +65,7 @@ Dati **Caribbean Safety and Security Net** (safetyandsecuritynet.org ★★★) 
 | ATM / carte | Skimming raro ma possibile — preferire ATM in banca/marina | travel.gc.ca ★★★★ |
 | Munizioni/armi | **Vietatissime** — anche **singolo proiettile** per errore in bagaglio → **arresto**, fino a **12 anni** di carcere (Firearms Ordinance), casi di cittadini USA detenuti settimane | travel.state.gov ammunition arrests ★★★★★ |
 | Droga | Pene severe (fino a US$5.000 e 2 anni anche per piccole quantità) — non coinvolgersi | gov.uk ★★★★ |
-| Ammunition in luggage | Controllare bagagli prima della partenza — usare valigie diverse da quelle per armi/munizioni | travel.state.gov ★★★★★ |
+| Ammunition in luggage | Controllare bagagli before departure — usare valigie diverse da quelle per armi/munizioni | travel.state.gov ★★★★★ |
 
 ## Navigazione
 
@@ -95,9 +95,9 @@ Dati **Caribbean Safety and Security Net** (safetyandsecuritynet.org ★★★) 
 - Ospedali: **Cheshire Hall Medical Centre (Providenciales)** e **Cockburn Town Medical Centre (Grand Turk)** — per emergenze maggiori evacuazione verso Nassau/Miami (assicurazione medica/evac raccomandata). [travel.state.gov ★★★★]
 - Comunicare sempre piano di navigazione a marina/famiglia e tenere **EPIRB/PLB** registrato.
 
-Ultimo aggiornamento: 28/08/2026
+Last updated: 28/08/2026
 
 ## Monitoraggio mensile
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 

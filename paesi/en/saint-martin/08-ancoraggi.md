@@ -1,4 +1,4 @@
-# 08 — Ancoraggi
+# 08 — Anchorages
 
 ## Ancoraggi in dettaglio
 
@@ -11,7 +11,7 @@
 
 
 
-**Ultimo aggiornamento: 23/08/2026**
+**Last updated: 23/08/2026**
 
 
 | Ancoraggio | Protezione | Note |
@@ -27,24 +27,24 @@
 
 Distanze: Marigot–Anse Marcel 5 nm · Anse Marcel–Tintamarre 4 nm · Tintamarre–Fourchue 11 nm · Fourchue–Gustavia 5 nm · Gustavia–Philipsburg 14 nm · Philipsburg–Crocus Bay (Anguilla) 24 nm ★★★
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026
 
 ## Regole generali
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
 ## Tabella riassuntiva
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
 ## Cartografia ufficiale
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
 ## Checklist àncora
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 

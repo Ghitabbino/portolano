@@ -1,8 +1,8 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
-**Ultima verifica: 25/08/2026** · Fonti: portauthority.bz ★★★★★ · oldbelize.com ★★
+**Dernière vérification: 25/08/2026** · Fonti: portauthority.bz ★★★★★ · oldbelize.com ★★
 
-| Porto/Marina | Note |
+| Port/Marina | Note |
 |---|---|
 | **Belize City — Radisson Fort George Marina** | POE, kiosk SailClear, base superyacht; punto partenza barriera nord ★★★ |
 | **Belize City — Cucumber Beach Marina (Old Belize)** | POE alternativo, viaggi/travel lift, 5 mi SW città ★★ |
@@ -16,14 +16,14 @@
 Compulsorio solo per **Belize City** (ingressi English Caye / Grennell's Channel):
 pilota o waiver preventivo tramite agente/BPA ★★★
 
-Ultimo aggiornamento: 25/08/2026
+Dernière mise à jour: 25/08/2026
 
-## Tariffe
+## Tarifs
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## Distanze utili
+## Distances utiles
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 

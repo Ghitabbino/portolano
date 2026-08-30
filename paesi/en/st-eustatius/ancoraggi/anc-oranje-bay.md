@@ -1,4 +1,4 @@
-# Oranje Bay — ancoraggio {#anc-oranje-bay}
+# Oranje Bay — anchorage {#anc-oranje-bay}
 
 [← Tutti gli ancoraggi](../08-ancoraggi.md)
 **17°29.0′N 62°59.0′W**
@@ -16,4 +16,4 @@
 <div class="mapframe" data-slug="anc-oranje-bay" data-lat="17.483" data-lon="-62.983"></div>
 *Mappa offline Oranje Bay — zoom con i pulsanti +/−; menu in alto a destra per Carta nautica e Segnali*
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

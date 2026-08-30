@@ -1,17 +1,17 @@
 # La Tasca
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | San Sebastián – Ruiz de Padrón, 64 |
-| Cucina | 🥙 Tasca spagnola |
-| Specialità | Tapas · vini locali |
-| Costo | 💰€ per persona senza bevande |
-| Location | 🪶 casco storico |
-| Contatti | **922 141 598** |
-| Valutazioni | ★★★½|
-| Orari | sera |
+| Zone | San Sebastián – Ruiz de Padrón, 64 |
+| Cuisine | 🥙 Tasca spagnola |
+| Spécialité | Tapas · vini locali |
+| Coût | 💰€ per persona senza bevande |
+| Emplacement | 🪶 casco storico |
+| Contacts | **922 141 598** |
+| Évaluations | ★★★½|
+| Horaires | sera |
 
 ## Menu
 
@@ -22,4 +22,4 @@
 
 **Note**: Vicino capitaineria
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026

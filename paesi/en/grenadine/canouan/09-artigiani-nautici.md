@@ -1,9 +1,9 @@
-# 09 — Artigiani e negozi nautici
+# 09 — Marine Trades & Chandlers
 
-Ultimo aggiornamento: 22/08/2026 · ⚠️ contatti informali: boat boys, net locali o porto principale
+Last updated: 22/08/2026 · ⚠️ contatti informali: boat boys, net locali o porto principale
 
 | Servizio | Nome | Contatti | Note |
 |---|---|---|---|
 | Chandler/marine store | Assente | Riferimento: Bequia o Clifton (Union) |
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026

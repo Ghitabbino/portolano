@@ -1,15 +1,15 @@
-# 00 — Ingresso, documenti e visti
+# 00 — Entrée, Documents & Visas
 
-**Ultimo aggiornamento: 23/08/2026**
+**Dernière mise à jour: 23/08/2026**
 
 
-**Stato**: St Vincent e le Grenadines (SVG). Valuta: **EC$** (2,7 = 1 US$). Visto: non necessario per molti paesi, soggiorno fino a **6 mesi**. ★★★★
+**État**: St Vincent e le Grenadines (SVG). Devise: **EC$** (2,7 = 1 US$). Visa: non necessario per molti paesi, soggiorno fino a **6 mesi**. ★★★★
 
 ## Uffici doganali SVG
 
 **Chateaubelair · Wallilabou · Kingstown · Blue Lagoon · Bequia (Port Elizabeth) · Canouan · Union Island (Clifton)** — tutti sul sistema [SailClear](https://sailclear.com) ★★★★
 
-- Orari: **08:00–12:00 / 13:00–16:00**; extra-orari maggiorati; sabato mattina in alcuni uffici [Guida CCA nov 2025](https://cruisingclub.org/sites/default/files/events/Grenadines%20Info%20%26%20Local%20Resources%2025.11.23.pdf) ★★★★
+- Horaires: **08:00–12:00 / 13:00–16:00**; extra-orari maggiorati; sabato mattina in alcuni uffici [Guida CCA nov 2025](https://cruisingclub.org/sites/default/files/events/Grenadines%20Info%20%26%20Local%20Resources%2025.11.23.pdf) ★★★★
 - **Blue Lagoon Marina (St Vincent)**: lun–ven 08–16, sab 08:30–12; clearance "semplice" ★★★★
 - Cruise tax **EC$35/pers/mese** (o EC$5/g max 7 gg); charter fuori SVG **EC$5/piede** ★★★★
 - Cruising permit 30 gg al check-in, estendibile ★★★★
@@ -23,23 +23,23 @@
 - [Doyle Guides — aggiornamenti Windward](https://doyleguides.com/windward-updated-guides/) ★★★★
 - [Caribbean Compass](https://caribbeancompass.com/) — mensile di zona ★★★★
 
-## Da verificare
+## À vérifier
 
 - Tariffa cruising permit 2026–27 (eventuali aggiornamenti Noonsite)
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026
 
-## Status
+## Statut
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Cittadini UE
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## La barca
+## Citoyens UE
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
+
+
+## Le bateau
+
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 

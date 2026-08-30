@@ -7,7 +7,7 @@
 | Zona | Turtle Cove — Turtle Cove Marina |
 | Cucina | 🐟 Pesce creolo / internazionale |
 | Specialità | *Conch fritters · char-grilled tuna niçoise · fish tacos* |
-| Costo | 💰€€ per persona senza bevande |
+| Costo | 💰€€ per person without drinks |
 | Location | ⚓ marina — dock restaurant |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mango+Reef+Turtle+Cove+Providenciales) |
 | Contatti | +1 (649) 941-5347 · [mangoreef.com](https://www.mangoreef.com) |

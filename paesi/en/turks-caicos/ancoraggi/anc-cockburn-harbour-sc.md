@@ -18,4 +18,4 @@
 
 Fonti: [Navily 14537](https://www.navily.com/mouillage/cockburn-harbour/14537) ★★★ · blog Ajaya/mailasail (21°28′61″N 71°32′42″W) ★★★ · visittci.com getting-here (rev. 28/07/2026) ★★★ · borderforce.gov.tc POE ★★★★★
 
-Ultimo aggiornamento: 28/08/2026
+Last updated: 28/08/2026

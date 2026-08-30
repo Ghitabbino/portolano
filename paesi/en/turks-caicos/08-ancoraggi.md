@@ -1,8 +1,8 @@
-# 08 — Portolano degli ancoraggi
+# 08 — Pilot – Anchorages
 
-**Ultima verifica: 28/08/2026**
+**Last checked: 28/08/2026**
 
-## Regole generali di ancoraggio (prima di tutto)
+## General anchoring rules (first and foremost)
 
 - **Barche fino a 60 ft (18,3 m)**: àncora consentita su **sabbia chiara** ovunque, **MAI su corallo vivo/morto o su praterie di fanerogame (seagrass)**, e **MAI entro 300 ft (90 m) da una boa di ormeggio**. [gov.tc DECR Essential Info ★★★★; National Parks Regulations reg. 3(6) ★★★★★]
 - **Barche >60 ft**: solo nelle **anchoring zones** designate all'interno dei parchi/riserve. Fuori dai parchi, ancoraggio libero su sabbia con le stesse restrizioni corallo/boa. [National Parks Regulations reg. 3(e)–(f) ★★★★★]
@@ -25,9 +25,9 @@ Testi e mappe ufficiali: [gov.tc DECR — Rules and Etiquette](https://www.gov.t
 - Esistono **swim zones, access lanes, anchoring zones, fishing zones** la cui cartografia è nelle Schedule del National Parks Ordinance. ★★★★★
 - Segnalazione **IALA-B** (USA): "red right returning" — invertita rispetto all'Europa. ★★★
 
-## Tabella riassuntiva — i migliori ancoraggi
+## Summary table — best anchorages
 
-| # | Ancoraggio | Riparo alisei | Tenuta | Profondità | Affollamento | Giudizio comunità |
+| # | Anchorageso | Riparo alisei | Tenuta | Profondità | Affollamento | Giudizio comunità |
 |---|---|---|---|---|---|---|
 | 1 | [Sapodilla Bay (Providenciales)](ancoraggi/anc-sapodilla-bay.md) | ★★★★ (N/E, esposta S/SW) | ★★★★ sabbia | ~2 m (6–7 ft) | Medio | ★★★★ |
 | 2 | [Blue Haven Marina – Leeward Going Through](ancoraggi/anc-blue-haven-leeward.md) | ★★★★★ marina | — banchina | 3,6 m canale | Marina resort | ★★★★ |
@@ -45,7 +45,7 @@ Testi e mappe ufficiali: [gov.tc DECR — Rules and Etiquette](https://www.gov.t
 
 *Clicca sul nome per aprire la scheda completa. Legenda: riparo/tenuta = valutazione qualitativa dalle fonti citate (più ★ = meglio).*
 
-### Mappa generale degli ancoraggi
+### General anchorage chart
 
 <div class="mapframe" data-slug="turks-caicos" data-minz="7" data-maxz="16" data-lat="21.62" data-lon="-71.75" data-markers='[[21.7425, -72.2908, "Sapodilla Bay (Providenciales)", "anc-sapodilla-bay"], [21.735, -72.28, "Southside / South Dock anchorage (Providenciales)", "anc-southside-provo"], [21.7847, -72.2267, "Turtle Cove Marina (Providenciales)", "anc-turtle-cove-marina"], [21.8189, -72.1470, "Blue Haven Marina – Leeward Going Through (Provo)", "anc-blue-haven-leeward"], [21.80, -72.205, "Grace Bay – Princess Alexandra NP", "anc-grace-bay"], [21.85, -72.15, "Leeward Going Through → Pine Cay / Water Cay", "anc-pine-water-cay"], [21.45, -72.0, "West Caicos (Yankee Town / Lake Catherine)", "anc-west-caicos"], [21.4885, -71.5378, "Cockburn Harbour (South Caicos)", "anc-cockburn-harbour-sc"], [21.4688, -71.1485, "Cockburn Town Roads (Grand Turk)", "anc-cockburn-town-grand-turk"], [21.34, -71.2, "Salt Cay", "anc-salt-cay"], [21.46, -71.11, "Gibbs Cay (Grand Turk)", "anc-gibbs-cay"], [21.39, -72.09, "French Cay", "anc-french-cay"], [21.32, -71.1, "Big Sand Cay", "anc-big-sand-cay"]]'></div>
 
@@ -53,7 +53,7 @@ Testi e mappe ufficiali: [gov.tc DECR — Rules and Etiquette](https://www.gov.t
 
 ---
 
-## Cartografia ufficiale
+## Official charts
 
 | Carta | Copertura | Note |
 |---|---|---|
@@ -67,13 +67,13 @@ Testi e mappe ufficiali: [gov.tc DECR — Rules and Etiquette](https://www.gov.t
 - **Cartografia amministrativa gratuita**: [gov.tc DECR maps](https://www.gov.tc/decr/) + Schedule National Parks Ordinance con swim/anchoring zones. ★★★★★
 - Per la navigazione quotidiana: **elettronica Navionics/C-MAP sul plotter + carta BA cartacea** come riserva; in bank navigare solo con sole alto.
 
-## Non inclusi (per ora)
+## Not included (for now)
 
 - **Mouchoir Bank** (a SE, alto mare): banco isolato con laguna — solo meteo perfetto, oceanica. ★★
 - **Seal Cays Sanctuary**: santuario ornitologico — accesso vietato senza permesso Director. ★★★★★
 - **Ambergris Cay (privata)**: approdo vietato senza invito — sorvolare in navigazione. ★★★
 
-## Checklist àncora per Turks e Caicos
+## Anchor checklist for Turks e Caicos
 
 1. Carte BA/NV + Schedule parchi DECR scaricati ✓
 2. Àncora principale adatta a **sabbia** + catena con **grippiale** per verifica su sabbia chiara (mai corallo)
@@ -81,4 +81,4 @@ Testi e mappe ufficiali: [gov.tc DECR — Rules and Etiquette](https://www.gov.t
 4. Navigazione in **Caicos Bank solo di giorno**, sole alto, mai di notte — marea 0,6–0,9 m
 5. VHF 16 monitorato; waypoint verificati e rotta “solo sabbia” pronta
 
-Ultimo aggiornamento: 28/08/2026
+Last updated: 28/08/2026

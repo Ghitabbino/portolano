@@ -1,22 +1,21 @@
-# Provvisionamento
+# 07 — Provisioning
 
-**Ultimo aggiornamento: 23/08/2026**
+**Last updated: 23/08/2026**
 
-> ⚠️ Pagina in preparazione: dati in raccolta.
+> ⚠️ Page under preparation: data collection in progress.
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026
 
-## Supermercati
+## Supermarkets
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Acqua e carburante
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## Consigli pratici
+## Water & Fuel
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
+
+## Practical Tips
+
+**DATA MISSING** — to be completed at the monthly check.

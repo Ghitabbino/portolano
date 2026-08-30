@@ -1,14 +1,14 @@
-# 05 — Stagionalità e meteo
+# 05 — Seasonality & Weather
 
-## Clima
+## Climate
 
 Tropicale arido, 27–31 °C; nessuna fonte d'acqua dolce, sole costante. ★★★★
 
-## Venti locali
+## Local Winds
 
 Dentro Horseshoe Reef alisei costanti 15–25 kn con mare piatto; **il passaggio (cut) tra Petit Rameau e Petit Bateau canalizza**: raffiche e correnti incrociate in ingresso. Swell atlantico sentito solo sui mooring esterni. ★★★
 
-## Finestre tipiche
+## Typical Weather Windows
 
 | Finestra | Vento | Note |
 |---|---|---|
@@ -16,9 +16,9 @@ Dentro Horseshoe Reef alisei costanti 15–25 kn con mare piatto; **il passaggio
 | Apr–Giu | 12–18 kn | Massima trasparenza acqua |
 | Set–Ott | <15 kn | Calafreddo: park quasi deserto |
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026
 
-Alisei NE dic-giu; stagione umida lug-nov (bordo S della fascia uragani: rischio basso ma reale).
+Trade winds NE Dec-Jun; wet season Jul-Nov (S-edge of hurricane belt: low but real risk).
 
 ### Vento locale — statistiche (% giorni >15 kn)
 
@@ -42,4 +42,4 @@ Fonti: [statistiche Union Island](https://www.kitesurfgrenadines.com/kitesurfing
 [guida stagioni SVG Yachting](https://www.svgyachting-grenadines.com/blog/best-time-to-sail-the-grenadines) ★★★ ·
 [Windfinder Canouan](https://www.windfinder.com/windstatistics/canouan_airport) ★★★
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

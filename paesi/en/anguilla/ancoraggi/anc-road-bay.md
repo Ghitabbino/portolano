@@ -1,19 +1,19 @@
-# Road Bay (Sandy Ground) — ancoraggio {#anc-road-bay}
+# Road Bay (Sandy Ground) — Anchorage {#anc-road-bay}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← All Anchorages](../08-ancoraggi.md)
 **18°11'58" N 63°05'40" W** ★★★
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| **Riparo** | ★★★ aperta W/NW, buona con alisei |
-| **Fondo** | Sabbia morbida |
-| **Tenuta àncora** | Ottima |
-| **Profondità** | 3–5 m |
-| **Boe** | No |
-| **Pericoli** | Traffico cargo/RoRo; onda da NW; party |
-| **A terra** | Sandy Ground beach bar, clearance |
+| **Shelter** | ★★★ open to W/NW, good in trades |
+| **Seabed** | Soft sand |
+| **Holding** | Excellent |
+| **Depth** | 3–5 m |
+| **Moorings** | None |
+| **Hazards** | Cargo/RoRo traffic; NW swell; party noise |
+| **Ashore** | Sandy Ground beach bars, clearance |
 
 <div class="mapframe" data-slug="anc-road-bay" data-lat="18.19930" data-lon="-63.09438"></div>
-*Mappa offline Road Bay (Sandy Ground) — zoom con i pulsanti +/−; menu in alto a destra per Carta nautica e Segnali*
+*Offline map Road Bay (Sandy Ground) — zoom with +/− buttons; top-right menu for Nautical Chart and Beacons*
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

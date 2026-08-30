@@ -1,25 +1,25 @@
 # Malecón Restaurante & Copas
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| Zona | Arrecife – Charco de San Ginés |
-| Cucina | 🥘 Canaria fronte laguna |
-| Specialità | Papas arrugadas · sancocho |
-| Costo | 💰€ per persona senza bevande |
-| Location | 🌅 terrazza sul Charco |
-| Contatti | [Google Maps](https://www.google.com/maps/search/?api=1&query=Malecon+Restaurante+y+Copas+Arrecife) |
-| Valutazioni |CaptureAtlas ★★★★|
-| Orari | pranzo/cena |
+| Area | Arrecife – Charco de San Ginés |
+| Cuisine | 🥘 Canaria fronte laguna |
+| Speciality | Papas arrugadas · sancocho |
+| Cost | 💰€ for persona without bevande |
+| Setting | 🌅 terrazza sul Charco |
+| Contacts | [Google Maps](https://www.google.com/maps/search/?api=1&query=Malecon+Restaurante+y+Copas+Arrecife) |
+| Ratings |CaptureAtlas ★★★★|
+| Hours | pranzo/cena |
 
 ## Menu
 
 - Sancocho canario
-- Lapas con mojo
+- Lapas with mojo
 
 **Chef**: ND
 
-**Note**: Economico e scenografico
+**Note**: Economico and scenografico
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

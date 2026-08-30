@@ -1,24 +1,24 @@
-# 07 — Provvisioning
+# 07 — Provisioning
 
-**Ultima verifica: 28/08/2026** — *Scheda in completamento*
+**Last checked: 28/08/2026** — *Scheda in completamento*
 
-| Voce | Dettaglio |
+| Item | Detail |
 |---|---|
-| **Supermercati** | **DATO MANCANTE** — Exito, Carulla, Olímpica a Cartagena/Santa Marta da verificare |
+| **Supermercati** | **DATA MISSING** — Exito, Carulla, Olímpica a Cartagena/Santa Marta from check |
 
-Ultimo aggiornamento: 28/08/2026
+Last updated: 28/08/2026
 
 ## Supermercati
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## Acqua e carburante
+## Water and carburante
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
 ## Consigli pratici
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 

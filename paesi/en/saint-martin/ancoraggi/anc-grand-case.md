@@ -1,4 +1,4 @@
-# Grand Case — ancoraggio {#anc-grand-case}
+# Grand Case — anchorage {#anc-grand-case}
 
 [← Tutti gli ancoraggi](../08-ancoraggi.md)
 **18°04.0′N 63°02.9′W**
@@ -16,4 +16,4 @@
 <div class="mapframe" data-slug="anc-grand-case" data-lat="18.067" data-lon="-63.048"></div>
 *Mappa offline Grand Case — zoom con i pulsanti +/−; menu in alto a destra per Carta nautica e Segnali*
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

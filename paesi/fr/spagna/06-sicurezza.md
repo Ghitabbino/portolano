@@ -1,80 +1,80 @@
-# 06 — Sicurezza
+# 06 — Sécurité
 
-**Ultima verifica completa: 27/08/2026** · Prossimo controllo mensile: **27/09/2026**
+**Dernière vérification complète: 27/08/2026** · Prochain contrôle mensuel: **27/09/2026**
 
-## Valutazione sicurezza: **DATO MANCANTE / 5** — in attesa di verifica su fonti aggregate (advisory, stampa locale, CSSN-equivalente Mediterraneo)
+## Évaluation sécurité: **DONNÉE MANQUANTE / 5** — in attesa di verifica su fonti aggregate (advisory, stampa locale, CSSN-equivalente Méditerranée)
 
 | Aspetto | Voto | Motivazione |
 |---|---|---|
-| Sicurezza personale (turisti/crocieristi) | **DATO MANCANTE /5** | **DATO MANCANTE** — da verificare su advisory governative (viaggiareinsicurezza.it, gov.uk, voyage.gc.ca) |
-| Furti materiali a bordo | **DATO MANCANTE /5** | **DATO MANCANTE** — verificare segnalazioni furti dinghy/fuoribordo nelle marine spagnole |
-| Contesto generale | **DATO MANCANTE /5** | **DATO MANCANTE** |
+| Sicurezza personale (turisti/crocieristi) | **DONNÉE MANQUANTE /5** | **DONNÉE MANQUANTE** — da vérifier sur advisory governative (viaggiareinsicurezza.it, gov.uk, voyage.gc.ca) |
+| Furti materiali a bordo | **DONNÉE MANQUANTE /5** | **DONNÉE MANQUANTE** — verificare segnalazioni furti dinghy/fuoribordo nelle marine spagnole |
+| Contesto generale | **DONNÉE MANQUANTE /5** | **DONNÉE MANQUANTE** |
 
 *Scala: 0 = terribile → 5 = molto sicuro. Valutazione nostra, sintesi delle fonti sotto; aggiornata a ogni controllo mensile.*
 
-**Perché DATO MANCANTE**: paese di nuova creación — dati non ancora verificati.
+**Perché DONNÉE MANQUANTE**: paese di nuova creación — dati non ancora verificati.
 
-## Quadro generale
+## Vue d’ensemble
 
-- Advisory: **DATO MANCANTE** — da consultare viaggiareinsicurezza.it (Spagna), diplomatie.gouv.fr, gov.uk, travel.state.gov, voyage.gc.ca.
-- Stampa locale / report isola: **DATO MANCANTE**.
+- Advisory: **DONNÉE MANQUANTE** — da consultare viaggiareinsicurezza.it (Spagna), diplomatie.gouv.fr, gov.uk, travel.state.gov, voyage.gc.ca.
+- Stampa locale / report isola: **DONNÉE MANQUANTE**.
 - Nessuna valutazione definitiva fino a verifica mensile completa.
 
-## Mappa delle zone — offline
+## Carte des zones — hors ligne
 
 <div class="mapframe" data-slug="spagna" data-minz="5" data-maxz="15" data-lat="39.50" data-lon="-0.50" data-zones='[]'></div>
 
-*Legenda: **DATO MANCANTE** — zone da mappare dopo verifica. Mappa placeholder centrata su Mediterraneo spagnolo.*
+*Légende: **DONNÉE MANQUANTE** — zone da mappare dopo verifica. Mappa placeholder centrata su Méditerranée spagnolo.*
 
 ## Posti sicuri / posti da evitare
 
 ### ✅ Posti sicuri
 
-| Zona | Note | Fonte |
+| Zone | Note | Source |
 |---|---|---|
-| **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** |
+| **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
 
 ### ⛔ Posti da evitare o attenzione
 
-| Zona | Rischio | Fonte |
+| Zone | Rischio | Source |
 |---|---|---|
-| **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** |
+| **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
 
 ## Furti ai danni dei crocieristi
 
-**DATO MANCANTE** — verificare su fonti diportiste aggregate / forum / gruppi FB velisti Mediterraneo.
+**DONNÉE MANQUANTE** — vérifier sur fonti diportiste aggregate / forum / gruppi FB velisti Méditerranée.
 
-## A bordo e a terra
+## À bord et à terre
 
-| Rischio | Dettaglio | Fonte |
+| Rischio | Détail | Source |
 |---|---|---|
-| Furti dinghy | **DATO MANCANTE** | **DATO MANCANTE** |
-| Pontili / boe | **DATO MANCANTE** | **DATO MANCANTE** |
+| Furti dinghy | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Pontili / boe | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
 
-## Navigazione
+## Navigation
 
-| Rischio | Dettaglio | Fonte |
+| Rischio | Détail | Source |
 |---|---|---|
-| Posidonia (Baleari) | Ancoraggio regolamentato / divieti su posidonia — **DATO MANCANTE** su dettagli e sanzioni, verificare su Govern de les Illes Balears | **DATO MANCANTE** |
-| Traffico marittimo | Aree ad alto traffico (Stretto, Baleari) — **DATO MANCANTE** | **DATO MANCANTE** |
-| Segnaletica **IALA-A** | In Mediterraneo sistema **IALA-A** (opposto a IALA-B dei Caraibi) — verificare su carta ufficiale | ★★★ |
+| Posidonia (Baleari) | Mouillage regolamentato / divieti su posidonia — **DONNÉE MANQUANTE** su dettagli e sanzioni, vérifier sur Govern de les Illes Balears | **DONNÉE MANQUANTE** |
+| Traffico marittimo | Aree ad alto traffico (Stretto, Baleari) — **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Segnaletica **IALA-A** | In Méditerranée sistema **IALA-A** (opposto a IALA-B dei Caraïbes) — vérifier sur carta ufficiale | ★★★ |
 
-## Numeri di emergenza
+## Numéros d’urgence
 
 | Emergenza | Numero |
 |---|---|
 | Numero unico emergenze | **112** |
-| Soccorso in mare (Salvamento Marítimo) | **900 202 202 / VHF 16** — **DATO MANCANTE** da verificare su SASEMAR |
+| Secours en mer (Salvamento Marítimo) | **900 202 202 / VHF 16** — **DONNÉE MANQUANTE** da vérifier sur SASEMAR |
 
-## Salvataggio ed emergenze
+## Sauvetage et urgences
 
 - **112** numero unico europeo. **VHF 16** monitorato.
-- Salvamento Marítimo (SASEMAR) coordina SAR — **DATO MANCANTE** su dettagli operativi, verificare su salvamentomaritimo.es ★★★★★.
-- **DATO MANCANTE** su altri numeri (Guardia Civil, Policía).
+- Salvamento Marítimo (SASEMAR) coordina SAR — **DONNÉE MANQUANTE** su dettagli operativi, vérifier sur salvamentomaritimo.es ★★★★★.
+- **DONNÉE MANQUANTE** su altri numeri (Guardia Civil, Policía).
 
-Ultimo aggiornamento: 27/08/2026
+Dernière mise à jour: 27/08/2026
 
 ## Monitoraggio mensile
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 

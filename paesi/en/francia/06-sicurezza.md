@@ -1,80 +1,80 @@
-# 06 — Sicurezza
+# 06 — Safety & Security
 
-**Ultima verifica completa: 27/08/2026** · Prossimo controllo mensile: **27/09/2026**
+**Last checked completa: 27/08/2026** · Next monthly check: **27/09/2026**
 
-## Valutazione sicurezza: **DATO MANCANTE / 5** — in attesa di verifica su fonti aggregate (advisory, stampa locale, CSSN-equivalente Mediterraneo)
+## Safety Rating: **DATA MISSING / 5** — in attesa of verifica on fonti aggregate (advisory, stampa locale, CSSN-equivalente Mediterraneo)
 
 | Aspetto | Voto | Motivazione |
 |---|---|---|
-| Sicurezza personale (turisti/crocieristi) | **DATO MANCANTE /5** | **DATO MANCANTE** — da verificare su advisory governative (viaggiareinsicurezza.it, gov.uk, voyage.gc.ca) |
-| Furti materiali a bordo | **DATO MANCANTE /5** | **DATO MANCANTE** — verificare segnalazioni furti dinghy/fuoribordo nelle marine francesi |
-| Contesto generale | **DATO MANCANTE /5** | **DATO MANCANTE** |
+| Safety & security personale (turisti/crocieristi) | **DATA MISSING /5** | **DATA MISSING** — from check on advisory governative (viaggiareinsicurezza.it, gov.uk, voyage.gc.ca) |
+| Furti materiali a bordo | **DATA MISSING /5** | **DATA MISSING** — check segnalazioni furti dinghy/fuoribordo nelle marine francesi |
+| Contesto generale | **DATA MISSING /5** | **DATA MISSING** |
 
-*Scala: 0 = terribile → 5 = molto sicuro. Valutazione nostra, sintesi delle fonti sotto; aggiornata a ogni controllo mensile.*
+*Scala: 0 = terribile → 5 = very sicuro. Valutazione nostra, sintesi of the fonti sotto; aggiornata a each controllo mensile.*
 
-**Perché DATO MANCANTE**: paese di nuova creación — dati non ancora verificati.
+**Perché DATA MISSING**: paese of nuova creación — dati non still verificati.
 
-## Quadro generale
+## General Overview
 
-- Advisory: **DATO MANCANTE** — da consultare viaggiareinsicurezza.it (Francia), diplomatie.gouv.fr, gov.uk, travel.state.gov, voyage.gc.ca.
-- Stampa locale / report isola: **DATO MANCANTE**.
+- Advisory: **DATA MISSING** — from consultare viaggiareinsicurezza.it (Francia), diplomatie.gouv.fr, gov.uk, travel.state.gov, voyage.gc.ca.
+- Stampa locale / report isola: **DATA MISSING**.
 - Nessuna valutazione definitiva fino a verifica mensile completa.
 
-## Mappa delle zone — offline
+## Zone Map — Offline
 
 <div class="mapframe" data-slug="francia" data-minz="5" data-maxz="15" data-lat="43.30" data-lon="-6.50" data-zones='[]'></div>
 
-*Legenda: **DATO MANCANTE** — zone da mappare dopo verifica. Mappa placeholder centrata su Mediterraneo francese.*
+*Legend: **DATA MISSING** — zone from mappare dopo verifica. Mappa placeholder centrata on Mediterraneo francese.*
 
-## Posti sicuri / posti da evitare
+## Posti sicuri / posti from evitare
 
 ### ✅ Posti sicuri
 
-| Zona | Note | Fonte |
+| Area | Note | Source |
 |---|---|---|
-| **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** |
+| **DATA MISSING** | **DATA MISSING** | **DATA MISSING** |
 
-### ⛔ Posti da evitare o attenzione
+### ⛔ Posti from evitare or attenzione
 
-| Zona | Rischio | Fonte |
+| Area | Rischio | Source |
 |---|---|---|
-| **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** |
+| **DATA MISSING** | **DATA MISSING** | **DATA MISSING** |
 
-## Furti ai danni dei crocieristi
+## Furti at the danni of the crocieristi
 
-**DATO MANCANTE** — verificare su fonti diportiste aggregate / forum / gruppi FB velisti Mediterraneo.
+**DATA MISSING** — check on fonti diportiste aggregate / forum / gruppi FB velisti Mediterraneo.
 
-## A bordo e a terra
+## Aboard and a terra
 
-| Rischio | Dettaglio | Fonte |
+| Rischio | Detail | Source |
 |---|---|---|
-| Furti dinghy | **DATO MANCANTE** | **DATO MANCANTE** |
-| Pontili / boe | **DATO MANCANTE** | **DATO MANCANTE** |
+| Furti dinghy | **DATA MISSING** | **DATA MISSING** |
+| Pontili / boe | **DATA MISSING** | **DATA MISSING** |
 
 ## Navigazione
 
-| Rischio | Dettaglio | Fonte |
+| Rischio | Detail | Source |
 |---|---|---|
-| Posidonia (Baleari (riferimento comparativo)) | Ancoraggio regolamentato / divieti su posidonia — **DATO MANCANTE** su dettagli e sanzioni, verificare su Govern de les Illes Balears | **DATO MANCANTE** |
-| Traffico marittimo | Aree ad alto traffico (Stretto, Baleari (riferimento comparativo)) — **DATO MANCANTE** | **DATO MANCANTE** |
-| Segnaletica **IALA-A** | In Mediterraneo sistema **IALA-A** (opposto a IALA-B dei Caraibi) — verificare su carta ufficiale | ★★★ |
+| Posidonia (Baleari (riferimento comparativo)) | Anchorage regolamentato / divieti on posidonia — **DATA MISSING** on dettagli and sanzioni, check on Govern de les Illes Balears | **DATA MISSING** |
+| Traffico marittimo | Aree ad high traffico (Stretto, Baleari (riferimento comparativo)) — **DATA MISSING** | **DATA MISSING** |
+| Segnaletica **IALA-A** | In Mediterraneo sistema **IALA-A** (opposto a IALA-B of the Caraibi) — check on carta ufficiale | ★★★ |
 
-## Numeri di emergenza
+## Emergency Numbers
 
 | Emergenza | Numero |
 |---|---|
 | Numero unico emergenze | **112** |
-| Soccorso in mare (CROSS) | **900 202 202 / VHF 16** — **DATO MANCANTE** da verificare su CROSS |
+| Maritime Rescue (CROSS) | **900 202 202 / VHF 16** — **DATA MISSING** from check on CROSS |
 
-## Salvataggio ed emergenze
+## Rescue & Emergencies
 
 - **112** numero unico europeo. **VHF 16** monitorato.
-- CROSS (CROSS) coordina SAR — **DATO MANCANTE** su dettagli operativi, verificare su crossmed ★★★★★.
-- **DATO MANCANTE** su altri numeri (Gendarmerie maritime, Policía).
+- CROSS (CROSS) coordina SAR — **DATA MISSING** on dettagli operativi, check on crossmed ★★★★★.
+- **DATA MISSING** on other numeri (Gendarmerie maritime, Policía).
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026
 
 ## Monitoraggio mensile
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 

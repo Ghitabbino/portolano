@@ -1,22 +1,21 @@
-# Artigiani nautici
+# 09 — Marine Trades & Chandlers
 
-**Ultimo aggiornamento: 23/08/2026**
+**Last updated: 23/08/2026**
 
-> ⚠️ Pagina in preparazione: dati in raccolta.
+> ⚠️ Page under preparation: data collection in progress.
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026
 
-Tabella artigiani
+Trades Table
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Dove si trova cosa
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## Note pratiche
+## Where to Find What
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
+
+## Practical Notes
+
+**DATA MISSING** — to be completed at the monthly check.

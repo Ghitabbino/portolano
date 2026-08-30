@@ -1,18 +1,18 @@
 # Mac's Pizza & Kitchen
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Belmont Walkway |
-| Cucina | 🍕 Pizzeria |
-| Specialità | Lobster pizza · conch fritters |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🌊 fronte baia, lucine |
+| Zone | Belmont Walkway |
+| Cuisine | 🍕 Pizzeria |
+| Spécialité | Lobster pizza · conch fritters |
+| Coût | 💰€€ per persona senza bevande |
+| Emplacement | 🌊 fronte baia, lucine |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mac's+Pizza+&+Kitchen+Belmont+Walkway) |
-| Contatti | +1 784 458-3474 / 528-4213 |
-| Valutazioni | Google 4,3/5 (685) · TA 4,3 (397) → ★★★★ |
-| Orari | dom–gio 11:30–21 · ven–sab 22 · chiuso mer |
+| Contacts | +1 784 458-3474 / 528-4213 |
+| Évaluations | Google 4,3/5 (685) · TA 4,3 (397) → ★★★★ |
+| Horaires | dom–gio 11:30–21 · ven–sab 22 · chiuso mer |
 
 ## Menu
 
@@ -24,8 +24,8 @@
 
 **Chef**: ND
 
-## Foto
+## Photos
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Photos non ancora disponibili — recuperare al controllo mensile.*
 
 **Note**: Dal 1980 · lasagne homemade · lime pie · happy hour ven 17–18:30 · macspizzabequia.com · prenotare

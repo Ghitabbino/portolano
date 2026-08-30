@@ -1,20 +1,20 @@
 # Nargana / Río Sidra {#anc-nargana}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← Tous les mouillages](../08-ancoraggi.md)
 
 **9°27.5′N 78°51.0′W** ★★
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| **Profondità** |6–14 m fango/sabbia davanti ai villaggi ★★|
-| **Tenuta àncora** | Buona |
-| **Venti/riparo** | Villaggi costieri riparati dallo swell |
-| **Pericoli** | Tronchi galleggianti dal fiume dopo le piogge |
-| **Affollamento** | Basso |
+| **Profondeur** |6–14 m fango/sabbia davanti ai villaggi ★★|
+| **Tenue de l’ancre** | Buona |
+| **Vents/abri** | Villaggi costieri riparati dallo swell |
+| **Dangers** | Tronchi galleggianti dal fiume dopo le piogge |
+| **Affluence** | Basso |
 | **Divieti** | Nessuno |
-| **A terra** | Tiendas base, carburante Guna, vita autentica |
+| **À terre** | Tiendas base, carburante Guna, vita autentica |
 
 <div class="mapframe" data-slug="anc-nargana" data-lat="9.4446" data-lon="-78.5867"></div>
-*Vista mappa Nargana / Río Sidra · mappa offline*
+*Vista mappa Nargana / Río Sidra · carte hors ligne*
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026

@@ -1,8 +1,8 @@
-# 02 — Costo della vita
+# 02 — Cost of Living
 
-**Ultima verifica: 25/08/2026**
+**Last checked: 25/08/2026**
 
-| Voce | Costo | Rank |
+| Item | Costo | Rank |
 |---|---|---|
 | Tourist Card | US$10/pax (+$3 terra) | ★★★ |
 | Ingresso governo nave | US$15 | ★★★ |
@@ -14,34 +14,33 @@
  birra locale <$2, frutta/verdura da mercato molto economiche ★★★
 - Carburante diesel: prezzo regionale medio-centroamericano ★★
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026
 
-## Alimentari
+## Groceries
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Mangiare fuori
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
 
-## Carburanti
+## Eating Out
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Trasporti
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
 
-## Servizi quotidiani
+## Fuel
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
 
-## Contanti e pagamenti
+## Transport
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
+
+## Everyday Services
+
+**DATA MISSING** — da completare al controllo mensile.
+
+
+## Cash & Payments
+
+**DATA MISSING** — da completare al controllo mensile.

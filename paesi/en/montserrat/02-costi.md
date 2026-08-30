@@ -1,37 +1,36 @@
-# Costo della vita
+# Cost of Living
 
-**Ultimo aggiornamento: 23/08/2026**
+**Last updated: 23/08/2026**
 
 > ⚠️ Pagina in preparazione: dati in raccolta.
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026
 
-## Alimentari
+## Groceries
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Mangiare fuori
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
 
-## Carburanti
+## Eating Out
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Trasporti
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
 
-## Servizi quotidiani
+## Fuel
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
 
-## Contanti e pagamenti
+## Transport
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
+
+## Everyday Services
+
+**DATA MISSING** — da completare al controllo mensile.
+
+
+## Cash & Payments
+
+**DATA MISSING** — da completare al controllo mensile.

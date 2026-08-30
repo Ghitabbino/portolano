@@ -1,8 +1,8 @@
-# 01 — Clearance doganale della barca
+# 01 — Formalités douanières
 
-**Ultima verifica: 28/08/2026** · Fonti principali: Belastingdienst Caribisch Nederland (Douane CN) ★★★★★, RijksdienstCN/IND ★★★★★, STINAPA ★★★★★, Noonsite/Ocean Posse/CruisersWiki ★★★
+**Dernière vérification: 28/08/2026** · Sources principales: Belastingdienst Caribisch Nederland (Douane CN) ★★★★★, RijksdienstCN/IND ★★★★★, STINAPA ★★★★★, Noonsite/Ocean Posse/CruisersWiki ★★★
 
-## Chi deve farla
+## Qui doit effectuer les formalités
 
 Tutti i natanti da diporto, **qualsiasi bandiera e nazionalità**, che:
 - **entrano** nelle acque BES (Bonaire) provenendo da porto/mare territoriale straniero o alto mare;
@@ -37,25 +37,25 @@ Anche i residenti BES in rientro da navigazione estera devono presentarsi. Lo sp
 
 Se arrivi fuori orario (es. domenica), occupa una boa overnight libera e presentati **la mattina successiva alla prima apertura** — non restare senza esserti annunciato via VHF/marina. Se lasci temporaneamente la boa per un'immersione diurna (max 2 h sulle boe gialle day-use), lascia un parabordo/pendant sulla tua boa per segnalare occupazione. [NoForeignLand — Kralendijk](https://www.noforeignland.com/map/place/5730169490767872) ★★★; [STINAPA — Boating PDF](https://stinapabonaire.org/wp-content/uploads/2018/08/Boating.pdf) ★★★★★
 
-## Partenza (clearance in uscita)
+## Départ (clearance in uscita)
 
 - Ritornare **allo stesso ufficio Dogana/Immigrazione** prima di mollare la boa, con passaporti e documenti barca; chiedere **zarpe/dichiarazione di uscita e eventuale duplicate departure card** se il prossimo Paese la richiede. Ritirare le armi depositate. [Belastingdienst CN — Export clearance: duplicate departure card on request](https://english.belastingdienst-cn.nl/topics/customs-business/import-transit-and-export/export-clearance) ★★★★★
 - Comunicare a Harbour Village Marina il rilascio della boa; servizio pump-out e smaltimento rifiuti **inclusi** nella tariffa mooring — i ranger possono chiedere pump-out in base a capacità serbatoio, persone a bordo e durata. [NoForeignLand — Kralendijk](https://www.noforeignland.com/map/place/5730169490767872) ★★★
 
 ## Costi
 
-| Voce | Costo | Fonte |
+| Rubrique | Coût | Source |
 |---|---|---|
 | Clearance Dogana + Immigrazione (ingresso/uscita) | **Gratuita** (in orario) | [Noonsite — Bonaire](https://www.noonsite.com/place/bonaire) ★★★; [CruisersWiki] ★★ |
 | STINAPA Nature Fee | **US$ 40 p.p./anno solare** (1 gen–31 dic); <13 anni e residenti BES/ABC gratis; crocieristi Washington Slagbaai US$ 10/giorno | [stinapa.bonairenaturefee.org](https://stinapa.bonairenaturefee.org) ★★★★★; [STINAPA FAQ](https://stinapabonaire.org/contact/frequently-asked-questions/) ★★★★★ |
 | Visitor Entry Tax | **US$ 75 adulti / US$ 10 bambini 0–12 e residenti ex-Antille**; per visita, valida 1 mese; pagamento entro 48 h su tourismtax.bonairegov.com | [tourismtax.bonairegov.com](https://tourismtax.bonairegov.com) ★★★★★ |
-| Boa overnight STINAPA (visitatori) | **US$ 35/notte** — 30–51 boe bicolori davanti a Kralendijk, first-come first-served, max 18 m, tramite Harbour Village Marina | [Annual Report STINAPA 2022](https://stinapabonaire.org/wp-content/uploads/2023/03/STINAPA-Annual-Report-2022_Digital.pdf) ★★★★; [InfoBonaire](https://infobonaire.com/getting-to-bonaire/yachting-cruising/) ★★★ |
-| Boa day-use (gialle) | **Gratuite / incluse nel parco** — max 2 h consecutive, max 13 m (o 45 ft secondo PDF), non per pernotto | [STINAPA — Mooring](https://stinapabonaire.org/rules-and-regulations/mooring/) ★★★★★; [STINAPA Boating PDF](https://stinapabonaire.org/wp-content/uploads/2018/08/Boating.pdf) ★★★★★ |
+| Bouée overnight STINAPA (visitatori) | **US$ 35/notte** — 30–51 boe bicolori davanti a Kralendijk, first-come first-served, max 18 m, tramite Harbour Village Marina | [Annual Report STINAPA 2022](https://stinapabonaire.org/wp-content/uploads/2023/03/STINAPA-Annual-Report-2022_Digital.pdf) ★★★★; [InfoBonaire](https://infobonaire.com/getting-to-bonaire/yachting-cruising/) ★★★ |
+| Bouée day-use (gialle) | **Gratuite / incluse nel parco** — max 2 h consecutive, max 13 m (o 45 ft secondo PDF), non per pernotto | [STINAPA — Mooring](https://stinapabonaire.org/rules-and-regulations/mooring/) ★★★★★; [STINAPA Boating PDF](https://stinapabonaire.org/wp-content/uploads/2018/08/Boating.pdf) ★★★★★ |
 | Posto in marina (Harbour Village) | Da **US$ 0,85–2,75/ft/giorno** secondo pontile (A&B US$1,50, Lighthouse US$0,95, Ambar Point US$2,75 ecc.) + catamarani supplemento; tariffe variabili su richiesta | [Harbour Village Marina — rates](https://www.harbourvillage.com/bonaire-marina) ★★★★ |
 
 ## Unico porto d'ingresso e uffici — Kralendijk
 
-| Ufficio | Indirizzo | Contatti | Orari |
+| Ufficio | Indirizzo | Contacts | Horaires |
 |---|---|---|---|
 | **Dogana — Belastingdienst Caribisch Nederland (sede)** | Kaya L.D. Gerharts 12, Kralendijk | +599 715 8585 (lun–ven 8–13 sportello, 8–16 tel) | lun–ven 8:00–13:00 sportello |
 | **Dogana — Zeehaven (porto)** | Plasa Wilhelmina 3, Kralendijk (Fort Oranje) | +599 715 8591 | presentazione immediata all'arrivo; fuori orario: occupa boa e presentati all'apertura |
@@ -64,7 +64,7 @@ Se arrivi fuori orario (es. domenica), occupa una boa overnight libera e present
 
 Fonti: [Belastingdienst CN — Contact](https://www.belastingdienst-cn.nl/service/contact) ★★★★★; [RijksdienstCN — Contact IND](https://english.rijksdienstcn.com/immigration-naturalisation/contact) ★★★★★; [Ocean Posse / InfoBonaire] ★★★
 
-## Dogana regionale
+## Douane régionale
 
 **Belastingdienst Caribisch Nederland — Douane Caribisch Nederland**, Kaya L.D. Gerharts 12, Postbus 329, Kralendijk · +599 715 8585 · [english.belastingdienst-cn.nl](https://english.belastingdienst-cn.nl/organisation/douane-caribisch-nederland) ★★★★★
 Per legislazione: *Douane- en Accijnswet BES* (BWBR0029236) — supervisione permanente su import/export/transito e accise interne. ★★★★★
@@ -73,23 +73,23 @@ Per legislazione: *Douane- en Accijnswet BES* (BWBR0029236) — supervisione per
 
 Bonaire National Marine Park circonda l'intera isola: **ancorare è vietato su corallo/fondale protetto**. Le uniche soste notturne legali per visitatori sono le **overnight mooring STINAPA** o un posto in marina. I mooring privati (bianchi/gialli/arancio) sono riservati a residenti con permesso STINAPA (waitlist ~3 anni) — non usarli. I mooring pubblici gialli/blu sono day-use max 2 h, una barca >4 m per boa (o fino a 3 tender <4 m). [STINAPA — Mooring](https://stinapabonaire.org/rules-and-regulations/mooring/) ★★★★★
 
-## Esperienze dei crocieristi
+## Retours de navigateurs
 
 - Ingresso definito “facile e cordiale, gratuito, efficiente; tutti devono presentarsi per headcount” — Dogana trattiene flare/spear gun senza problemi e li restituisce in uscita. ★★ [CruisersWiki — Bonaire; Doyle Guides 2017]
 - Harbour Village molto reattivo su VHF per assegnazione boa; in alta stagione le boe si riempiono — chiamare prima dell'ingresso e tenere pronta cima lunga (≥6 m). ★★★ [NoForeignLand — Kralendijk; InfoBonaire]
 - Dal 2023 la Dogana si aspetta SailClear pre-compilato: chi arriva senza trova solo moduli cartacei e tempi più lunghi. ★★★ [Noonsite — Bonaire]
 
-## Sanzioni
+## Sanctions
 
-- **Ancoraggio fuorilegge nel parco**: sanzione fino a **US$ 2.800 e fino a 1 mese di reclusione** secondo regolamento BNMP applicato dai ranger. [NoForeignLand — Kralendijk (regolamento STINAPA)] ★★★
+- **Mouillage fuorilegge nel parco**: sanzione fino a **US$ 2.800 e fino a 1 mese di reclusione** secondo regolamento BNMP applicato dai ranger. [NoForeignLand — Kralendijk (regolamento STINAPA)] ★★★
 - **Mancata presentazione / zarpe mancante / armi non dichiarate**: rifiuto d'ingresso, sequestro cautelare dell'arma, possibile sequestro del natante in attesa di regolarizzazione, dazi all'importazione se violata l'ammissione temporanea (uso commerciale, superamento 6 mesi senza proroga). [Belastingdienst CN — supervisione permanente](https://english.belastingdienst-cn.nl/organisation/douane-caribisch-nederland) ★★★★★; prassi Curaçao 24h/6 mesi ★★★
 - **Overstay persone**: multa, espulsione e divieto di reingresso (KMar/IND); il periodo concesso può essere stato già abbreviato in frontiera per mezzi insufficienti. [RijksdienstCN — Travel with non-Dutch passport](https://english.rijksdienstcn.com/justice--security/royal-netherlands-marechaussee/travel-with-a-non-dutch-passport) ★★★★★
 - Inquinamento / scarico acque nere senza holding tank: obbligo di holding tank funzionante per usare le boe; in alternativa obbligo di ormeggio in marina o di lasciare Bonaire. [NoForeignLand — Kralendijk] ★★★
 
-## Da verificare prima della crociera
+## À vérifier avant la croisière
 
 - Disponibilità boe overnight in alta stagione (dic–apr) e tariffe marina aggiornate; contatto Harbour Village prima della traversata.
 - Lista Paesi a rischio febbre gialla OMS aggiornata se si proviene da Sud America/Africa.
-- Eventuali aggiornamenti SailClear/BES su nuova piattaforma o cambio VHF (17 vs 12) e orari IND/Dogana — verificare su [english.rijksdienstcn.com](https://english.rijksdienstcn.com/immigration-naturalisation/tourist-stay) e [belongingdienst-cn.nl](https://www.belastingdienst-cn.nl) prima di partire.
+- Eventuali aggiornamenti SailClear/BES su nuova piattaforma o cambio VHF (17 vs 12) e orari IND/Dogana — vérifier sur [english.rijksdienstcn.com](https://english.rijksdienstcn.com/immigration-naturalisation/tourist-stay) e [belongingdienst-cn.nl](https://www.belastingdienst-cn.nl) prima di partire.
 
-Ultimo aggiornamento: 28/08/2026
+Dernière mise à jour: 28/08/2026

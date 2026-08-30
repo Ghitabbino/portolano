@@ -1,12 +1,12 @@
-# 10 — Ristoranti
+# 10 — Restaurants
 
-Ultimo aggiornamento: 22/08/2026 · Legenda prezzi: **€** <20 · **€€** 20–40 · **€€€** >40
+Dernière mise à jour: 22/08/2026 · Légende prezzi: **€** <20 · **€€** 20–40 · **€€€** >40
 
 Selezione orientata alla crociera. Schede puntuali per locale in corso di raccolta: sotto le **zone** affidabili dove trovare tavola buona a piedi dall'approdo.
 
-## Griglia generale
+## Grille générale
 
-| Ristorante | Zona | Costo | Cucina | Specialità | Location | Stelle |
+| Ristorante | Zone | Coût | Cuisine | Spécialité | Emplacement | Stelle |
 |---|---|---|---|---|---|---|
 | [Cofradía de Pescadores](ristoranti/rist-cofradia-de-pescadores.md) | Puerto de Mogán – molo peschereccio | **€€** | **🐟 Pesce alla brace** | *Parrillada pescado/marisco del giorno* | **⚓ terrazza sulla darsena** |TA ★★★½ (prezzo ok, porzioni abbondanti)|
 | [Casa Mia](ristoranti/rist-casa-mia.md) | Puerto de Mogán – canali | **€€** | **🍝 Italiana di mare** | *Pasta fresca · pesce* | **🍽️ intimo lungo canale** |Google 4,9/5 (456) ★★★★★|
@@ -15,22 +15,22 @@ Selezione orientata alla crociera. Schede puntuali per locale in corso di raccol
 
 *Clicca sul nome per la scheda completa. Ogni punto rosso nella mappa apre la scheda.*
 
-## Mappa dei ristoranti
+## Carte des restaurants
 
 <div class="mapframe" data-slug="gran-canaria" data-minz="7" data-maxz="17" data-lat="27.815" data-lon="-15.763" data-markers='[[27.819, -15.764, "Cofradía de Pescadores", "rist-cofradia-de-pescadores-2"], [27.816, -15.7625, "Casa Mia", "rist-casa-mia-2"], [27.815, -15.761, "Restaurante Canario de Oro", "rist-restaurante-canario-de-oro-2"], [27.8155, -15.7595, "Mogán Mar", "rist-mogan-mar-2"]]'></div>
 
 *Clicca un punto rosso: apre la scheda del ristorante.*
 
-## App e fonti
+## Applis et sources
 
 | Piattaforma | Uso locale |
 |---|---|
 | Recensioni geolocalizzate | Le più aggiornate |
 | Confronto valutazioni online | Ampio |
 | Piattaforma prenotazioni con sconti | Dove presente |
-| App consegna pasti | Nei centri ⚠️ raggio da verificare |
+| App consegna pasti | Nei centri ⚠️ raggio à vérifier |
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026
 
-## App e fonti
-Ultimo aggiornamento: 23/08/2026
+## Applis et sources
+Dernière mise à jour: 23/08/2026

@@ -1,8 +1,8 @@
-# 04 — Servizi, cantieri e manutenzione
+# 04 — Services, Boatyards & Maintenance
 
-**Ultima verifica: 21/08/2026**
+**Last checked: 21/08/2026**
 
-## Le Marin — hub servizi dei Caraibi orientali
+## Le Marin — hub servizi dei Caribbean orientali
 
 ### Marina du Marin (ufficiale ★★★★)
 - 78+ professionisti del settore in porto, accoglienza 7/7, videosorveglianza, centro medico, lavanderia, supermercati. ★★★
@@ -11,7 +11,7 @@
 
 ### Artigiani segnalati dai naviganti (★★ — esperienze individuali)
 
-| Servizio | Nome | Contatto | Note |
+| Service | Nome | Contatto | Note |
 |---|---|---|---|
 | Saldatura inox/alluminio, biminis, arch | INOXALU | +596 696 17 67 02 | Consigliato |
 | Frigoriferi | Nautic Froid (Pascal) | +596 696 22 71 13 | Professionale ed economico |
@@ -21,23 +21,23 @@
 - Centre de carénage DCML, Baie des Tourelles (stesso punto clearance): +596 596 717 464 · dcmsarl@wanaddo.fr. ★★★★★
 - Shipchandler Sea Services, 109 rue Ernest Deproge: +596 596 702 669 · seaservices972@orange.fr. ★★★★★
 
-## Gas e bombole
+## Gas & Bottles
 
 - **Gas/GPL: le bombole NON si riempiono, si scambiano** (es. acquisto bombola Campingaz 3 kg con regolatore). ★★
 - Supermercati validi a Le Marin e Sainte-Anne per il resto della spesa tecnica. ★★
 
-## Acqua dolce
+## Fresh Water
 
 ⚠️ La Martinica soffre di **penurie idriche ricorrenti**: possibili razionamenti imposti dalle autorità. Tenere riserve e seguire i media locali. ★★★★
 
-## Note strategiche
+## Strategic Notes
 
-Le Marin = hub servizi dei Caraibi orientali: travelift 70 t, 78+ professionisti, spedizione ricambi centralizzata in capitaineria; chandler con prezzi ragionevoli rispetto alle Grenadine. ★★
+Le Marin = hub servizi dei Caribbean orientali: travelift 70 t, 78+ professionisti, spedizione ricambi centralizzata in capitaineria; chandler con prezzi ragionevoli rispetto alle Grenadine. ★★
 
-## Hub tecnico
+## Technical Hub
 
 Il Marin concentra il cantiere: **travelift 70 t**, area carenaggio, **78+ professionisti**
 (velai, motoristi, elettricisti, antifouling, vetroresina); ricambi spediti e ritirati in capitaineria.
 Chandler principali raggiungibili a piedi dalla marina; elenco completo professionisti presso l'accoglienza. ★★
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

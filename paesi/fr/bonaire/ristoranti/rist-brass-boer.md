@@ -1,18 +1,18 @@
 # Brass Boer
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Punt Vierkant 44 — Delfins Beach Resort, Kralendijk sud |
-| Cucina | 🍽️ Internazionale gastronomica (De Librije — 3★ Michelin NL) |
-| Specialità | *Rundertartaar, wahoo con yoghurt alle erbe, appeltaart '2009' di De Librije, menu 6 portate US$180* |
-| Costo | 💰€€€€ per persona senza bevande (à la carte US$34–55, menu 6 portate US$165–180) |
-| Location | 🏖️ spiaggia elegante, piedi nella sabbia, tavolo 14 in mare |
+| Zone | Punt Vierkant 44 — Delfins Beach Resort, Kralendijk sud |
+| Cuisine | 🍽️ Internazionale gastronomica (De Librije — 3★ Michelin NL) |
+| Spécialité | *Rundertartaar, wahoo con yoghurt alle erbe, appeltaart '2009' di De Librije, menu 6 portate US$180* |
+| Coût | 💰€€€€ per persona senza bevande (à la carte US$34–55, menu 6 portate US$165–180) |
+| Emplacement | 🏖️ spiaggia elegante, piedi nella sabbia, tavolo 14 in mare |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Brass+Boer+Punt+Vierkant+44+Delfins+Beach+Resort) |
-| Contatti | +599 715 5050 · USA +1 8888 32 9962 · [brassboer.com/bonaire](https://www.brassboer.com/bonaire/en/) · reservations@brassboer.com |
-| Valutazioni | **bonaire.com 4,5/5 (442) [locale, 28/08/2026]** ★★★ · TripAdvisor 4,3/5 (619) ★★★ · Google 4,5/5 (442) → **★★★★½** |
-| Orari | lun 17:30–22 · mar–sab 8–10 / 12–14 (mer–sab) / 17:30–22 · dom chiuso — **renovation mag–lug 2026: pop-up “Librije Classics @ The Villa”** |
+| Contacts | +599 715 5050 · USA +1 8888 32 9962 · [brassboer.com/bonaire](https://www.brassboer.com/bonaire/en/) · reservations@brassboer.com |
+| Évaluations | **bonaire.com 4,5/5 (442) [locale, 28/08/2026]** ★★★ · TripAdvisor 4,3/5 (619) ★★★ · Google 4,5/5 (442) → **★★★★½** |
+| Horaires | lun 17:30–22 · mar–sab 8–10 / 12–14 (mer–sab) / 17:30–22 · dom chiuso — **renovation mag–lug 2026: pop-up “Librije Classics @ The Villa”** |
 
 ## Menu
 
@@ -24,9 +24,9 @@
 
 **Chef**: Famiglia Boer — Thérèse, Jimmie, Isabelle e Nelson (legacy Jonnie Boer)
 
-## Foto
+## Photos
 
-*Foto non ancora disponibili — recuperare al controllo mensile (brassboer.com, licenza).*
+*Photos non ancora disponibili — recuperare al controllo mensile (brassboer.com, licenza).*
 
 ## Note
 

@@ -1,6 +1,6 @@
-# 05 — Stagionalità e meteo
+# 05 — Seasonality & weather
 
-**Ultima verifica: 28/08/2026**
+**Last checked: 28/08/2026**
 
 ## Clima
 
@@ -60,4 +60,4 @@ Piano oragan: seguire **DDME TCI** + **NHC advisories** + capitainerie; le marin
 - [Windguru — Providenciales](https://www.windguru.cz/) — spot wind ★★★
 - [Meteo — Caicos Bank — PredictWind](https://www.predictwind.com) — routing locale ★★★
 
-Ultimo aggiornamento: 28/08/2026
+Last updated: 28/08/2026

@@ -1,12 +1,12 @@
 # Foce Chagres {#anc-chagres}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← All Anchorages](../08-ancoraggi.md)
 **9°19.9′N 79°58.6′W** ★★
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | **Profondità** |5–9 m su sabbia a N della foce ★★|
-| **Tenuta àncora** | Buona con mare calmo |
+| ** Anchor estate ** | Good with calm sea |
 | **Venti/riparo** | Solo con alisei moderati: aperto a N/O, swell nord sconsigliato |
 | **Pericoli** | Barra alla foce; corrente del fiume |
 | **Affollamento** | Quasi deserto |
@@ -16,4 +16,4 @@
 <div class="mapframe" data-slug="anc-chagres" data-lat="9.3275" data-lon="-79.9515"></div>
 *Vista mappa Foce Chagres · mappa offline*
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026

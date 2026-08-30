@@ -1,12 +1,12 @@
-# 05 — Stagionalità e meteo
+# 05 — Saisonnalité & Météo
 
-**Ultima verifica: 24/08/2026**
+**Dernière vérification: 24/08/2026**
 
-## Clima
+## Climat
 
 - Tropicale umido con alisei NE dominanti. Media max 79-87°F (26-30°C), min 70-78°F (21-25°C). ★★★★★
 
-## Stagioni
+## Saisons
 
 | Periodo | Caratteristiche |
 |---|---|
@@ -25,25 +25,25 @@
 
 Seguire avvisi MetService Jamaica e NHC; nesun riparo garantito senza assicurazione; hauling nei boatyard di Port Antonio/RJYC.
 
-## Uragani
+## Ouragans
 
-Stagione **01/06–30/11**, picco **agosto-ottobre**. Giamaica in hurricane zone:
+Saison **01/06–30/11**, picco **agosto-ottobre**. Giamaica in hurricane zone:
 
 - **Melissa 10/2025** (major): danni severi parrocchie occidentali, porti riaperti ma non tutti i servizi — verificare `visitjamaica.com/travel-alerts` ★★★★★
 - NOAA CPC 21/05/2026 + update 06/08/2026 ★★★★★: **below-normal 55% (75% ad agosto)** per El Niño strong (90% chance), 7-13 tempeste nominate (media 14), 2-6 uragani (media 7), 0-2 major (media 3). Avviso Caribbean-Risks: basta un uragano per disastro.
 - Storico: Irma/Maria 2017 non colpirono Giamaica.
 
-## Venti locali
+## Vents locaux
 
-- Alisei **NE 15-20 kt** prevalenti; **Northers** dic-apr (1-3 gg, da blandi a forti) rendono la costa nord mossa: cercare ridosso sud/ovest. ★★★
+- Alizés **NE 15-20 kt** prevalenti; **Northers** dic-apr (1-3 gg, da blandi a forti) rendono la costa nord mossa: cercare ridosso sud/ovest. ★★★
 - Mantenere ~1 miglio offshore per fish traps fino a 100 ft (Noonsite).
 - Segnalati FADs (Fish Aggregating Devices) lungo costa.
 
-## Finestre tipiche
+## Fenêtres météo typiques
 
 Traversate nord costiera fattibili con aliseo <20 kt, meglio mattina. Costa sud più protetta da reef. Attenzione a swell N invernale.
 
-## Link meteo e carte locali
+## Liens météo et cartes locales
 
 - [MetService Jamaica](http://metservice.gov.jm) ★★★★★ — forecast ufficiale
 - [jaweather.com](http://jaweather.com) ★★★★★
@@ -52,4 +52,4 @@ Traversate nord costiera fattibili con aliseo <20 kt, meglio mattina. Costa sud 
 - Sangster Airport Weather Tel 952-0181 (MBYC) ★★
 - [Caribbean Marine Weather Resources](https://caribbeancompass.com/caribbean-marine-weather-resources/) ★★★
 
-Ultimo aggiornamento: 24/08/2026
+Dernière mise à jour: 24/08/2026

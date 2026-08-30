@@ -1,20 +1,20 @@
 # Puerto Vita (Holguín) {#anc-puerto-vita}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← All anchorages](../08-ancoraggi.md)
 **21°04′16″ N 75°57′14″ W** ★★
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| **Profondità** |**DATO MANCANTE**|
-| **Tenuta àncora** |**DATO MANCANTE**|
-| **Venti/riparo** |Costa nord orientale|
-| **Pericoli** |**DATO MANCANTE**|
-| **Boe/divieti/normative** |Vicino alla zona POE di Nord Est (verificare ufficio)|
-| **A terra** |**DATO MANCANTE**|
+| **Depth** |**DATA MISSING**|
+| **Holding** |**DATA MISSING**|
+| **Winds/Shelter** |Costa nord orientale|
+| **Hazards** |**DATA MISSING**|
+| **Buoys/Restrictions/Regulations** |Vicino at the zona POE of Nord Est (check ufficio)|
+| **Ashore** |**DATA MISSING**|
 
 <div class="mapframe" data-slug="anc-puerto-vita" data-lat="21.071" data-lon="-75.954"></div>
-*Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
+*Detail chart — zoom in to the bay · offline chart · approximate WGS84 coordinates, always verify with your chartplotter*
 
-Fonti: **DATO MANCANTE**
+Fonti: **DATA MISSING**
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

@@ -1,4 +1,4 @@
-# 03 — Porti e marine
+# 03 — Ports & marinas
 
 **Ultima verifica: 28/08/2026** · Coordinate in gradi decimali / N-W come da fonte · VHF 16 per chiamate in entrata
 
@@ -48,19 +48,19 @@
 
 ## Tariffe ormeggi e marine
 
-> Stesse voci per tutti i paesi; **DATO MANCANTE** = da ricercare al controllo mensile.
+> Stesse voci per tutti i paesi; **DATA MISSING** = da ricercare al controllo mensile.
 
 ### Providenciales — listino indicativo (verificare in marina, IVA/tasse incluse dove indicato) ★★
 
-| Voce | Costo indicativo | Note |
+| Item | Costo indicativo | Note |
 |---|---|---|
-| Posto banchina — notte (monoscafo ~12 m / 40 ft) | **DATO MANCANTE** — stimato 2,5–4,5 USD/ft ≈ **100–180 USD** | Blue Haven/South Bank: tariffe resort, variano per stagione/eventi |
+| Posto banchina — notte (monoscafo ~12 m / 40 ft) | **DATA MISSING** — stimato 2,5–4,5 USD/ft ≈ **100–180 USD** | Blue Haven/South Bank: tariffe resort, variano per stagione/eventi |
 | Catamarano ~12 m — notte | **+30–50%** vs monoscafo | Supplemento multiscafo usuale ★★ |
-| Mese banchina (~12 m) | DATO MANCANTE | Contratto stagionale — chiedere preventivo scritto |
-| Elettricità | DATO MANCANTE USD/kWh | Inclusa o a consumo secondo marina |
-| Acqua | DATO MANCANTE USD/m³ | Consegna a banchina; chiedere potabilità |
+| Mese banchina (~12 m) | DATA MISSING | Contratto stagionale — chiedere preventivo scritto |
+| Elettricità | DATA MISSING USD/kWh | Inclusa o a consumo secondo marina |
+| Acqua | DATA MISSING USD/m³ | Consegna a banchina; chiedere potabilità |
 | Ancoraggio fuori parco | **Gratuito** ove consentito (solo sabbia) | Nei parchi: solo sabbia, mai su corallo/erba ★★★★★ |
-| Boa parco / mooring DECR | DATO MANCANTE | White-blue moorings — licenza DECR per uso commerciale; limite 50 ft su Grand Turk ★★★ |
+| Boa parco / mooring DECR | DATA MISSING | White-blue moorings — licenza DECR per uso commerciale; limite 50 ft su Grand Turk ★★★ |
 
 - **Overtime clearance** già in [01]: US$10/h feriale · US$15/h festivo. [bluehavenmarina.com ★★★]
 - Fuel dock: South Bank, Blue Haven, Turtle Cove (verificare pescaggio e orari). Prezzi variabili → [02 Costi](02-costi.md).
@@ -73,7 +73,7 @@
 | Boe DECR / mooring dive | Uso con licenza DECR per charter/dive; per diporto: ormeggiare solo su boa idonea alla lunghezza, **mai entro 300 ft (90 m) da una boa**, max 60 ft (18 m) fuori anchoring zone | gov.tc DECR Essential Info ★★★★ |
 | South Dock Provo | Tassa clearance US$50+50 + overtime; nessun ormeggio yacht al molo commerciale | borderforce.gov.tc ★★★★★ |
 
-⚠️ **Da verificare prima della crociera**: listino Blue Haven/South Bank/Turtle Cove stagione successiva (PDF/email), profondità effettiva canale Leeward Going Through (insabbiamento), disponibilità fuel e orari festivi.
+⚠️ **To be verified prima della crociera**: listino Blue Haven/South Bank/Turtle Cove stagione successiva (PDF/email), profondità effettiva canale Leeward Going Through (insabbiamento), disponibilità fuel e orari festivi.
 
 ## Distanze utili
 
@@ -87,4 +87,4 @@
 
 ★½ — distanze ortodromiche da carte BA/NOAA, verificare col plotter.
 
-Ultimo aggiornamento: 28/08/2026
+Last updated: 28/08/2026

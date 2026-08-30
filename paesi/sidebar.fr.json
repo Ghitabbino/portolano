@@ -15,7 +15,7 @@
     },
     {
       "id": "antigua-barbuda",
-      "label": "Antigua Barbuda"
+      "label": "Antigua-et-Barbuda"
     },
     {
       "id": "aruba",
@@ -23,7 +23,7 @@
     },
     {
       "id": "azzorre",
-      "label": "Azzorre"
+      "label": "Açores"
     },
     {
       "id": "bahamas",
@@ -43,23 +43,23 @@
     },
     {
       "id": "bosnia-erzegovina",
-      "label": "Bosnia Erzegovina"
+      "label": "Bosnie-Herzégovine"
     },
     {
       "id": "cabo-verde",
-      "label": "Cabo Verde"
+      "label": "Cap-Vert"
     },
     {
       "id": "canarie",
-      "label": "Canarie"
+      "label": "Îles Canaries"
     },
     {
       "id": "cayman",
-      "label": "Cayman"
+      "label": "Cayman Islands"
     },
     {
       "id": "cipro",
-      "label": "Cipro"
+      "label": "Chypre"
     },
     {
       "id": "colombia",
@@ -71,11 +71,11 @@
     },
     {
       "id": "costarica",
-      "label": "Costarica"
+      "label": "Costa Rica"
     },
     {
       "id": "croazia",
-      "label": "Croazia"
+      "label": "Croatie"
     },
     {
       "id": "cuba",
@@ -83,7 +83,7 @@
     },
     {
       "id": "curacao",
-      "label": "Curacao"
+      "label": "Curaçao"
     },
     {
       "id": "dominica",
@@ -91,19 +91,19 @@
     },
     {
       "id": "egitto",
-      "label": "Egitto"
+      "label": "Égypte"
     },
     {
       "id": "francia",
-      "label": "Francia"
+      "label": "France"
     },
     {
       "id": "giamaica",
-      "label": "Giamaica"
+      "label": "Jamaïque"
     },
     {
       "id": "grecia",
-      "label": "Grecia"
+      "label": "Grèce"
     },
     {
       "id": "grenada",
@@ -111,11 +111,11 @@
     },
     {
       "id": "grenadine",
-      "label": "Grenadine"
+      "label": "Grenadines"
     },
     {
       "id": "guadalupa",
-      "label": "Guadalupa"
+      "label": "Guadeloupe"
     },
     {
       "id": "haiti",
@@ -127,19 +127,19 @@
     },
     {
       "id": "israele",
-      "label": "Israele"
+      "label": "Israël"
     },
     {
       "id": "italia",
-      "label": "Italia"
+      "label": "Italie"
     },
     {
       "id": "libano",
-      "label": "Libano"
+      "label": "Liban"
     },
     {
       "id": "libia",
-      "label": "Libia"
+      "label": "Libye"
     },
     {
       "id": "madeira",
@@ -151,11 +151,11 @@
     },
     {
       "id": "marocco",
-      "label": "Marocco"
+      "label": "Maroc"
     },
     {
       "id": "martinica",
-      "label": "Martinica"
+      "label": "Martinique"
     },
     {
       "id": "monaco",
@@ -183,7 +183,7 @@
     },
     {
       "id": "repubblica-dominicana",
-      "label": "Repubblica Dominicana"
+      "label": "République dominicaine"
     },
     {
       "id": "saba",
@@ -191,19 +191,19 @@
     },
     {
       "id": "saint-barth",
-      "label": "Saint Barth"
+      "label": "Saint-Barth"
     },
     {
       "id": "saint-martin",
-      "label": "Saint Martin"
+      "label": "Saint-Martin"
     },
     {
       "id": "santa-lucia",
-      "label": "Santa Lucia"
+      "label": "Sainte-Lucie"
     },
     {
       "id": "siria",
-      "label": "Siria"
+      "label": "Syria"
     },
     {
       "id": "slovenia",
@@ -211,19 +211,19 @@
     },
     {
       "id": "spagna",
-      "label": "Spagna"
+      "label": "Espagne"
     },
     {
       "id": "st-eustatius",
-      "label": "St Eustatius"
+      "label": "Saint-Eustache"
     },
     {
       "id": "st-kitts-nevis",
-      "label": "St Kitts Nevis"
+      "label": "Saint-Kitts-et-Nevis"
     },
     {
       "id": "trinidad-tobago",
-      "label": "Trinidad Tobago"
+      "label": "Trinité-et-Tobago"
     },
     {
       "id": "tunisia",
@@ -231,11 +231,11 @@
     },
     {
       "id": "turchia",
-      "label": "Turchia"
+      "label": "Turquie"
     },
     {
       "id": "turks-caicos",
-      "label": "Turks Caicos"
+      "label": "Îles Turques-et-Caïques"
     },
     {
       "id": "venezuela",
@@ -243,7 +243,7 @@
     },
     {
       "id": "virgin-islands",
-      "label": "Virgin Islands"
+      "label": "Îles Vierges"
     }
   ],
   "ids": [

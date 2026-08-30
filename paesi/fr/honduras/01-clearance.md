@@ -1,8 +1,8 @@
-# 01 — Clearance doganale della barca
+# 01 — Formalités douanières
 
-**Ultima verifica: 25/08/2026** · Fonti: DGMM/jotform ufficiale ★★★★ · Ocean Posse ★★★
+**Dernière vérification: 25/08/2026** · Fonti: DGMM/jotform ufficiale ★★★★ · Ocean Posse ★★★
 
-## Procedura (tutto digitale)
+## Procédure (tutto digitale)
 
 | Passo | Come |
 |---|---|
@@ -11,16 +11,16 @@
 | 3. Visita ufficiale | DGMM + INM (immigrazione) + DGA (dogana) |
 | 4. Uscita | **Zarpe Internacional Recreativo** sempre via jotform; validità zarpe ≤24h |
 
-## Capitanerie di Porto (tel.)
+## Capitanerie di Port (tel.)
 
-| Porto | Telefono |
+| Port | Telefono |
 |---|---|
 | **Roatán (French Harbour)** | +504 2445-1262 |
 | Utila | +504 2425-3116 |
 | Guanaja | +504 2453-4321 |
 | La Ceiba | +504 2440-8141 |
 | Puerto Cortés | +504 2665-1309 |
-| San Lorenzo / Amapala (Pacifico) | +504 2795-8643 |
+| San Lorenzo / Amapala (Pacifique) | +504 2795-8643 |
 
 Email capitaneria Roatán: cp.roatan@marinamercante.gob.hn
 
@@ -28,21 +28,21 @@ Email capitaneria Roatán: cp.roatan@marinamercante.gob.hn
 
 - Il primo ingresso deve avvenire in un porto abilitato; poi libera circolazione interna ★★★
 - Overstay: multe consistenti all'uscita ★★★
-- Golfo de Fonseca (Pacifico): coordinare ingresso con Puerto Cortés/San Lorenzo ★★
+- Golfo de Fonseca (Pacifique): coordinare ingresso con Puerto Cortés/San Lorenzo ★★
 
-Ultimo aggiornamento: 25/08/2026
+Dernière mise à jour: 25/08/2026
 
-## Chi deve farla
+## Qui doit effectuer les formalités
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
 ## Costi
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## Da verificare
+## À vérifier
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 

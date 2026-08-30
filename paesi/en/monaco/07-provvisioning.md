@@ -1,31 +1,31 @@
-# 07 — Provvisioning
+# 07 — Provisioning
 
-**Ultima verifica: 27/08/2026**
+**Last checked: 27/08/2026**
 
-## Livello prezzi generale
+## General Price Level
 
-**DATO MANCANTE** — alimentari e spesa di bordo: da verificare su fonti locali. Rete supermercati diffusa sulla costa mediterranea monaco.
+**DATA MISSING** — alimentari e spesa di bordo: da verificare su fonti locali. Rete supermercati diffusa sulla costa mediterranea monaco.
 
-## Supermercati
+## Supermarkets
 
-### DATO MANCANTE — area principale (da definire)
+### DATA MISSING — area principale (da definire)
 
-| Negozio | Ubicazione | Distanza dalla marina | A piedi? | Note | Fonte |
+| Shop | Location | Distance from Marina | Walkable? | Notes | Source |
 |---|---|---|---|---|---|
-| **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** |
+| **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** |
 
-Possibili catene nazionali: **DATO MANCANTE** — da verificare su Google Maps / fonti locali Monaco.
+Possibili catene nazionali: **DATA MISSING** — da verificare su Google Maps / fonti locali Monaco.
 
-## Mercati
+## Markets
 
-- **DATO MANCANTE** — mercati comunali e del pesce presenti nelle principali città portuali.
+- **DATA MISSING** — mercati comunali e del pesce presenti nelle principali città portuali.
 
-## Acqua e carburante
+## Water & Fuel
 
-**DATO MANCANTE** — verificare disponibilità banchina.
+**DATA MISSING** — verificare disponibilità banchina.
 
-## Consigli pratici
+## Practical Tips
 
-**DATO MANCANTE**.
+**DATA MISSING**.
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

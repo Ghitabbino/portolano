@@ -1,6 +1,6 @@
-# 04 — Servizi, cantieri e manutenzione
+# 04 — Services, Chantiers & Entretien
 
-**Ultima verifica: 25/08/2026**
+**Dernière vérification: 25/08/2026**
 
 ## Rodney Bay — hub tecnico dell'isola
 
@@ -26,20 +26,20 @@
 - Marigot Bay Yacht Haven: nessun varo; riparazioni elettriche/meccaniche leggere, pulizie yacht, servizi subacquei, concierge che contatta contraenti esterni; fuel dock in sede. [Ocean Posse](https://oceanposse.com/marigot-bay-yacht-haven/) ★★★
 - Soufrière: nessun servizio tecnico di bordo; solo boe e ranger SMMA (+1 758 459 5500). SMMA ★★★★
 
-## Gas e bombole
+## Gaz et bouteilles
 
 - Santa Lucia è nota tra i naviganti come **l'isola dove si riempiono quasi tutte le bombole** (Campingaz 907 comprese, bottiglie UK/USA), diversamente dalle Antille francesi che riempionono solo bombole francesi: tappa classica per chi scende dall'arcipelago francese. Cruisers Forum/YBW ★★★
 - Riempimento storico presso **Suds Laundry** nell'area Rodney Bay Marina (esperienza 2019 ⚠️ verificare che il servizio sia ancora attivo); fornitori GPL segnalati anche negli elenchi commerciali della marina. Diario SV Meshugga 2019 / shopsatrbm.com ★★
-- Prezzo al kg: **DATO MANCANTE**.
+- Prezzo al kg: **DONNÉE MANQUANTE**.
 
-## Acqua dolce
+## Eau douce
 
-- Acqua potabile a pontile sia a Rodney Bay (erogazione **a contatore**, collegata solo dallo staff) sia a Marigot (~50 psi). IGY / Marigot Bay Yacht Haven ★★★★
-- Razionamenti/allerte locali: nessuna segnalazione trovata — **DATO MANCANTE**; prudenza: filtrare/trattare l'acqua di banchina come altrove nei Caraibi. ★★
+- Eau potabile a pontile sia a Rodney Bay (erogazione **a contatore**, collegata solo dallo staff) sia a Marigot (~50 psi). IGY / Marigot Bay Yacht Haven ★★★★
+- Razionamenti/allerte locali: nessuna segnalazione trovata — **DONNÉE MANQUANTE**; prudenza: filtrare/trattare l'acqua di banchina come altrove nei Caraïbes. ★★
 
-## Note strategiche
+## Notes stratégiques
 
-- **Uragani (lug–nov)**: l'isola sta sul margine meridionale della fascia ciclonica ed è statisticamente meno colpita delle isole più a nord, ma il rischio resta; molte barche o scendono a Grenada o varano. [Ocean Posse](https://oceanposse.com/saint-lucia/) ★★★
+- **Ouragans (lug–nov)**: l'isola sta sul margine meridionale della fascia ciclonica ed è statisticamente meno colpita delle isole più a nord, ma il rischio resta; molte barche o scendono a Grenada o varano. [Ocean Posse](https://oceanposse.com/saint-lucia/) ★★★
 - Opzione locale consolidata: **storage a terra all'IGY Boatyard** (travelift 75 t, tiranti anti-uragano, polizza partner assicurativa per l'estate, sconti barche fino a 60 ft). IGY 06/2026 ★★★★
 - In alternativa, svernare **in acqua a Marigot Bay**: hurricane hole naturale montuoso, riconosciuto formalmente da diverse compagnie assicurative come rifugio sicuro. Dockwa/Southern Boating ★★★
 - Ricambi: spedire presso la marina indicando **nome barca, posto e telefono**; gli agenti locali (BWA Yachting ecc.) gestiscono dogana e consegna. ★★★
@@ -48,4 +48,4 @@
 
 Rodney Bay concentra tutto il tecnico dell'isola: **cantiere IGY con travelift 75 t**, hardstand 120 posti, officine vetroresina/leghe/meccanica, chandler duty free, agenti yacht e spedizioni ricambi. Per refit molto grandi restano i riferimenti regionali Antigua, Sint Maarten e Trinidad. ★★★
 
-Ultimo aggiornamento: 25/08/2026
+Dernière mise à jour: 25/08/2026

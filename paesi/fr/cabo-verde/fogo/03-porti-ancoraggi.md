@@ -1,20 +1,20 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
-Ultimo aggiornamento: 22/08/2026 · Coordinate indicative; navigare con cartografia ufficiale. **Fogo è l'approccio più difficile del Sotavento: onestamente, per la maggior parte degli yacht non vale il rischio.**
+Dernière mise à jour: 22/08/2026 · Coordinate indicative; navigare con cartografia ufficiale. **Fogo è l'approccio più difficile del Sotavento: onestamente, per la maggior parte degli yacht non vale il rischio.**
 
 ## La realtà nautica dell'isola
 
 | Fatto | Consequenza |
 |---|---|
 | Nessuna marina, nessun pontone yacht | Solo ancoraggi di fortuna |
-| Costa esposta all'aliseo NE costante | Il lato riparato (W) prende lo swell dell'Atlantico aperto |
+| Costa esposta all'aliseo NE costante | Il lato riparato (W) prende lo swell dell'Atlantique aperto |
 | Fondali spesso profondi fin vicino a riva | Ancoraggi a 20–40 m comuni |
 | Raffiche discendenti dal cono vulcanico | Katabatiche improvvise di notte |
 
 ## São Filipe (capitale)
 
 - Banchina dei pescatori sotto la città: ormeggio solo con mare piatto e in giornata.
-- Ancoraggio di fortuna davanti al porto pesca: fondo profondo, tenuta incerta, swell W. Tenuta: **★** — solo sosta tecnica con previsione eccezionale.
+- Mouillage di fortuna davanti al porto pesca: fondo profondo, tenuta incerta, swell W. Tenue: **★** — solo sosta tecnica con previsione eccezionale.
 
 ## Vale de Cavaleiros (a N di São Filipe)
 
@@ -24,34 +24,34 @@ Spiaggia e piccolo porto pesca; leggermente più riparato dal NE ma sempre espos
 
 La maggior parte dei circumnavigatori vede Fogo **da terra**: ferry da Praia o volo interno. Chi ci va in barca lo fa da Brava (22 Mm) in una finestra di calma, resta di giorno e riparte la sera. Pianificare così, non come tappa "comoda".
 
-## Distanze utili
+## Distances utiles
 
-| Tratta | Distanza | Note |
+| Trajet | Distance | Note |
 |---|---|---|
 | Vale de Cavaleiros – Furna (Brava) | ~22 Mm | Breve ma mare corto e spiaccicato con aliseo pieno |
 | Fogo – Praia | ~90 Mm | Bolina lunga contro aliseo |
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026
 
-## Tariffe
-Ultimo aggiornamento: 22/08/2026
+## Tarifs
+Dernière mise à jour: 22/08/2026
 
-## Tariffe ormeggi e marine
+## Tarifs d’amarrage & marinas
 
-| Voce | Costo | Note |
+| Rubrique | Coût | Note |
 |---|---|---|
-| Posto pontile/peschereccio | **DATO MANCANTE** — concordare in capitania/porto | Nessun listino turistico pubblicato |
-| Boa | **DATO MANCANTE** | |
-| Ancoraggio | **Gratuito** fuori zone regolamentate | |
-| Acqua | **DATO MANCANTE** | Chiedere in porto |
-| Elettricità | **DATO MANCANTE** | |
+| Posto pontile/peschereccio | **DONNÉE MANQUANTE** — concordare in capitania/porto | Nessun listino turistico pubblicato |
+| Bouée | **DONNÉE MANQUANTE** | |
+| Mouillage | **Gratuito** fuori zone regolamentate | |
+| Eau | **DONNÉE MANQUANTE** | Chiedere in porto |
+| Électricité | **DONNÉE MANQUANTE** | |
 
-## Distanze utili
+## Distances utiles
 
-| Tratta | Distanza | Note |
+| Trajet | Distance | Note |
 |---|---|---|
-| Mindelo – Sal | ~110 Mm | Aliseo NE |
+| Mindelo – Sal | ~110 Mm | Alizé NE |
 | Praia – Fogo | ~30 Mm | |
 | Fogo – Brava | ~15 Mm | |
 
-Ultimo aggiornamento: 24/08/2026
+Dernière mise à jour: 24/08/2026

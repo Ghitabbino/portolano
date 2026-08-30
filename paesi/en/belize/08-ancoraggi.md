@@ -1,4 +1,4 @@
-# 08 — Portolano degli ancoraggi
+# 08 — Anchorage Pilot
 
 > ⚠️ Coordinate indicative WGS84 da confermare con carta nautica ufficiale
 > (BAHAMAS/RNG series e Belize charts) e osservazione in loco.
@@ -14,24 +14,24 @@
 | **Laughing Bird Caye** | 16.4670 | -88.2330 | 4-6 m | Parco nazionale, mooring ★★★ |
 | **Sapodilla Cayes** | 16.0900 | -88.2700 | 3-6 m | Riserva sud, acqua cristallina ★★★ |
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026
 
-## Regole generali
+## General Rules
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Tabella riassuntiva
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## Cartografia ufficiale
+## Summary Table
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## Checklist àncora
+## Official Charts
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
+
+
+## Anchor Checklist
+
+**DATA MISSING** — to be completed at the monthly check.
 

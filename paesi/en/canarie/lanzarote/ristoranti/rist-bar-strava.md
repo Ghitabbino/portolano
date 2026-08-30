@@ -1,17 +1,17 @@
 # Bar Strava
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| Zona | Arrecife – centro |
-| Cucina | 🥙 Raciones spagnole |
-| Specialità | Tablas ibéricas · pesce del giorno |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🪶 informale conviviale |
-| Contatti | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bar+Strava+Arrecife) |
-| Valutazioni |TA ★★★★|
-| Orari | mezze porzioni per condividere |
+| Area | Arrecife – centro |
+| Cuisine | 🥙 Raciones spagnole |
+| Speciality | Tablas ibéricas · pesce of the giorno |
+| Cost | 💰€€ for persona without bevande |
+| Setting | 🪶 informale conviviale |
+| Contacts | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bar+Strava+Arrecife) |
+| Ratings |TA ★★★★|
+| Hours | mezze porzioni for condividere |
 
 ## Menu
 
@@ -20,6 +20,6 @@
 
 **Chef**: ND
 
-**Note**: Perfetto per gruppi
+**Note**: Perfetto for gruppi
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

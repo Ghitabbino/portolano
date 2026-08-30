@@ -1,35 +1,35 @@
-# 04 — Servizi, cantieri e manutenzione
+# 04 — Services, yards & maintenance
 
 **Ultima verifica: 27/08/2026**
 
-## Hub tecnico — DATO MANCANTE
+## Hub tecnico — DATA MISSING
 
-Il principale hub tecnico mediterraneo per la Slovenia è **DATO MANCANTE** — da verificare su Puertos del Estado / associazioni nautiche. Possibili poli: Barcellona, Valencia, Palma di Mallorca, Cartagena.
+Il principale hub tecnico mediterraneo per la Slovenia è **DATA MISSING** — to be verified su Puertos del Estado / associazioni nautiche. Possibili poli: Barcellona, Valencia, Palma di Mallorca, Cartagena.
 
 | Servizio | Dettaglio | Fonte |
 |---|---|---|
-| Travelift / carenaggio | **DATO MANCANTE** | **DATO MANCANTE** |
-| Professionisti in porto | **DATO MANCANTE** | **DATO MANCANTE** |
-| Spedizione ricambi | **DATO MANCANTE** | **DATO MANCANTE** |
+| Travelift / carenaggio | **DATA MISSING** | **DATA MISSING** |
+| Professionisti in porto | **DATA MISSING** | **DATA MISSING** |
+| Spedizione ricambi | **DATA MISSING** | **DATA MISSING** |
 
 ## Altri cantieri
 
-**DATO MANCANTE**.
+**DATA MISSING**.
 
 ## Gas e bombole
 
-**DATO MANCANTE** — verificare standard bombole Slovenia (scambio/ricarica).
+**DATA MISSING** — verificare standard bombole Slovenia (scambio/ricarica).
 
 ## Acqua dolce
 
-**DATO MANCANTE**.
+**DATA MISSING**.
 
 ## Note strategiche
 
-**DATO MANCANTE** — la Slovenia dispone di rete estesa di marine e cantieri; dettagli da verificare per area (Costa Brava, Baleari, Costa del Sol).
+**DATA MISSING** — la Slovenia dispone di rete estesa di marine e cantieri; dettagli to be verified per area (Costa Brava, Baleari, Costa del Sol).
 
 ## Hub tecnico
 
-**DATO MANCANTE** — travelift, professionisti, chandler: da censire con fonti locali.
+**DATA MISSING** — travelift, professionisti, chandler: da censire con fonti locali.
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

@@ -1,9 +1,9 @@
 # Sainte-Anne — il classico {#anc-sainte-anne}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← All Anchorages](../08-ancoraggi.md)
 **14°26.3′N 60°53.1′W** ★★
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | **Profondità** |~5 m davanti al borgo, degradazione lenta su sabbia; spazio per centinaia di barche ★★|
 | **Tenuta àncora** |Ottima su sabbia ★★★|
@@ -16,4 +16,4 @@
 <div class="mapframe" data-slug="sainte-anne" data-lat="14.4383" data-lon="-60.8850"></div>
 *Vista mappa Sainte-Anne (coord. indicative 14°26.3′N 60°53.1′W) — zoom con i pulsanti +/−; menu in alto a destra per passare a Carta nautica e Segnali nautici · mappa offline*
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026

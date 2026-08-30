@@ -1,10 +1,10 @@
-# 09 — Artigiani e negozi nautici
+# 09 — Artisans & Shipchandlers
 
-⚠️ Contatti riportati solo se verificati su fonte diretta; dove manca la conferma la voce resta indicativa. resta (da confermare) e viene ricercata nei controlli mensili. Nulla viene inventato.
+⚠️ Contacts riportati solo se verificati su fonte diretta; dove manca la conferma la voce resta indicativa. resta (da confermare) e viene ricercata nei controlli mensili. Nulla viene inventato.
 
 ## Tabella artigiani
 
-| Servizio | Nome | Contatti | Note | Fonte |
+| Servizio | Nome | Contacts | Note | Source |
 |---|---|---|---|---|
 | Assistenza ordinaria / varada | Capitainerie dei porti diportuali (Corralejo, Caleta de Fuste) coordinano elenchi locali ⚠️ , Morro Jable) | (da confermare) | Elenco artigiani locali da richiedere in capitaineria | — |
 | Meccanica locale | Caleta de Fuste / Corralejo | Elenco in capitainerie | Solo interventi leggeri, nessuna officina nautica strutturale verificata | — |
@@ -14,7 +14,7 @@
 
 - Sailmaker/rigger/elettricisti navali: nessuna realtà strutturata sull'isola; riferimento i professionisti di Las Palmas.ale verificata.
 
-## Dove si trova cosa
+## Où trouver quoi
 
 - **Lavori seri** (rigging, motoristica pesante, verniciature): **Las Palmas de Gran Canaria** — vedi scheda Gran Canaria.
 - **Assistenza ordinaria**: chiedere in capitaineria dell'[hub](04-servizi-cantieri.md); per varadero attrezzato e chandlery il riferimento più vicino è **Marina Rubicón** (Playa Blanca, Lanzarote).
@@ -26,9 +26,9 @@
 |---|---|---|---|---|---|
 | Tienda náutica / chandler locale | — | Assente: riferimento Las Palmas | — | — | — |
 
-## Note pratiche
+## Notes pratiques
 
 - Fuerteventura non ha un polo artigianale nautico strutturale: pianificare i lavori importanti altrove (Las Palmas o Marina Rubicón) e qui solo manutenzione ordinaria.
 - Ordini online con consegna in capitaineria: indicare sempre nome barca e posto d'ormeggio.
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026

@@ -1,10 +1,10 @@
-# 10 — Ristoranti
+# 10 — Restaurants
 
 Nei Cays si cena con i pescatori locali: barbecue su ordine la sera.
 
 Legenda: **€** <20 · **€€** 20–40 · **€€€** >40 — prezzi in EC$ (~0,37 EUR)
 
-## Griglia generale
+## General Grid
 
 | Ristorante | Costo | Specialità | Location |
 |---|---|---|---|
@@ -14,4 +14,4 @@ Legenda: **€** <20 · **€€** 20–40 · **€€€** >40 — prezzi in EC
 
 Google Maps recensioni · contatto diretto VHF/WhatsApp · prenotare aragosta al mattino
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

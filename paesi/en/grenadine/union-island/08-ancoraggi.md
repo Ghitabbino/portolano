@@ -1,4 +1,4 @@
-# 08 — Ancoraggi
+# 08 — Anchorage Pilot
 
 ## Ancoraggi in dettaglio
 
@@ -9,7 +9,7 @@
 
 
 
-**Ultimo aggiornamento: 23/08/2026**
+**Last updated: 23/08/2026**
 
 
 | Ancoraggio | Protezione | Note |
@@ -22,4 +22,4 @@
 
 ⚠️ Passaggio Canouan–Union accelerato: +5–8 kn di vento — [meteo](05-stagionalita-meteo.md)
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

@@ -1,6 +1,6 @@
-# 04 — Servizi, cantieri e manutenzione
+# 04 — Services, Chantiers & Entretien
 
-Hub tecnico lato Atlantico: **Shelter Bay** (cantiere + travelift, meccanici, rigger); lato Pacifico: cantieri a Panama City (Diablo Heights) per lavori importanti.
+Hub tecnico lato Atlantique: **Shelter Bay** (cantiere + travelift, meccanici, rigger); lato Pacifique: cantieri a Panama City (Diablo Heights) per lavori importanti.
 
 ## Cantieri e servizi principali
 
@@ -10,20 +10,20 @@ Hub tecnico lato Atlantico: **Shelter Bay** (cantiere + travelift, meccanici, ri
 | Meccanico/rigger/elettricista itineranti | Shelter Bay/Linton Bay | elenco aggiornato al cruisers net **VHF77 ore 07:30** o reception marina |
 | Noleggio cime/parabordi transito | Shelter Bay · Balboa YC |set completi per il transito ★★|
 
-## Gas e bombole
+## Gaz et bouteilles
 
-| Servizio | Dettaglio |
+| Servizio | Détail |
 |---|---|
 | Bombola 10 kg riempimento | Colón / Panama City (~$10–12) |
 | Jerrican gasolio | fuel dock Shelter Bay/Flamenco: prezzo del giorno, chiedere in marina (VHF74/10) |
 
-## Acqua dolce
+## Eau douce
 
-Acqua in dock alle marine; jerrycan dagli abitanti a Portobelo/Isla Grande (~$1–2 riempimento).
+Eau in dock alle marine; jerrycan dagli abitanti a Portobelo/Isla Grande (~$1–2 riempimento).
 
-## Shelter Bay Marina — hub Caraibico (contatti ufficiali)
+## Shelter Bay Marina — hub Caraïbesco (contatti ufficiali)
 
-| Voce | Dettaglio |
+| Rubrique | Détail |
 |---|---|
 | Indirizzo | 30 Butner Street, Fort Sherman, Colón |
 | Telefono | **+507 433-3581** · **+507 6781-6631** (WhatsApp) · Yard Mgr 6780-9641 |
@@ -36,7 +36,7 @@ Acqua in dock alle marine; jerrycan dagli abitanti a Portobelo/Isla Grande (~$1�
 
 ## Agenti per il transito del Canale (verificati)
 
-| Agente | Contatti | Note | Fonte |
+| Agente | Contacts | Note | Source |
 |---|---|---|---|
 | **Centenario & Co. S.A.** ("Erick") | [centenarioconsulting.com](https://centenarioconsulting.com) · contatto via modulo sito | Clearance + transito + line-handling |
 | **Transshipping Agents S.A.** | **+507 69 97 42 15** (+WhatsApp) · Torre BICSA Fl.34, Av. Balboa, Panama City | 40 anni; transiti, dogane, provisioning, concierge. Recensione: «servizio fantastico — Winston ci ha tolto ogni preoccupazione, professionalità eccezionale» (SY Gladiator, capitano) |yachting-pages ★★★★|
@@ -49,7 +49,7 @@ Acqua in dock alle marine; jerrycan dagli abitanti a Portobelo/Isla Grande (~$1�
 
 ## Costi del transito per uno yacht (verificati 2024–2026)
 
-| Voce | Costo indicativo |
+| Rubrique | Coût indicativo |
 |---|---|
 | **Pedaggio ACP <65 ft** | ~**2.130 US$** (tariffa gen 2025; era 1.935 nel 2024) ⚠️ aggiorna su pancanal.com |
 | Pedaggio 65–80 ft | da ~2.640 US$ |
@@ -70,13 +70,13 @@ Acqua in dock alle marine; jerrycan dagli abitanti a Portobelo/Isla Grande (~$1�
 - Advisor ACP imbarcato per yacht <65 ft; velocità minima 8 kn (sotto 5 negano il transito).
 - Programmare l'ispezione → transito normalmente **4–6 giorni** (alta stagione ARC: 2–3 settimane).
 - Raft-up comune: catamarano al centro, monoscafi ai lati.
-- Balboa YC (Pacifico): boe e ritorno cime/galleggianti via taxi boat VHF 06 («Tito»).
+- Balboa YC (Pacifique): boe e ritorno cime/galleggianti via taxi boat VHF 06 («Tito»).
 
-## Note strategiche
+## Notes stratégiques
 
-- Preparare il transito da **Shelter Bay** (Atlantico) o **Balboa/Flamenco** (Pacifico): attrezzatura noleggiabile, agenti presenti.
+- Preparare il transito da **Shelter Bay** (Atlantique) o **Balboa/Flamenco** (Pacifique): attrezzatura noleggiabile, agenti presenti.
 - Lavori strutturali importanti: solo Panama City; Shelter Bay per tutto il resto.
 - Ricambi spedibili via Miami/Houston più rapidamente che dall'Europa.
 
 ## Hub tecnico
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026

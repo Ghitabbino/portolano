@@ -1,13 +1,13 @@
 # At Sea
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | Zona | Kralendijk centro — 25 Kaya C.E.B. Hellmund |
 | Cucina | 🐟 Seafood creativo — internazionale |
 | Specialità | *Menu sorpresa 4/5/6 portate (US$69,50/82/94,50 + vini US$36/45/54) · pesce caraibico + carni USA + formaggi EU* |
-| Costo | 💰€€€ per persona senza bevande (surprise menu 69–95 + wine pairing; à la carte US$28–45) |
+| Costo | 💰€€€ per person without drinks (surprise menu 69–95 + wine pairing; à la carte US$28–45) |
 | Location | 🪶 piccolo, curato, cucina a vista — 5 min a piedi dalle boe centrali |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=At+Sea+Kaya+C+E+B+Hellmund+25+Kralendijk) |
 | Contatti | +599 701 0134 · WhatsApp +599 701 0134 · [atseabonaire.com](https://www.atseabonaire.com) |
@@ -32,4 +32,4 @@
 
 Ristorante intimo fronte Dive Friends @ Dive Inn — ideale per cena tranquilla dopo check-in boe (Kralendijk 12°09.1' N). Ingredienti limitati sull'isola: il menu sorpresa è il modo migliore per assaggiare il meglio disponibile. Vicino a Capriccio (stessa via) per confronto.
 
-Fonti: [bonaire.com — At Sea](https://bonaire.com/en/restaurants/at-sea-restaurant-bonaire/) ★★★ · [atseabonaire.com](https://www.atseabonaire.com) ★★★ · [TripAdvisor — At Sea](https://www.tripadvisor.com/Restaurant_Review-g147268-d17523370-Reviews-CHEFS_Bonaire-Kralendijk_Bonaire.html) ★★★
+Sources: [bonaire.com — At Sea](https://bonaire.com/en/restaurants/at-sea-restaurant-bonaire/) ★★★ · [atseabonaire.com](https://www.atseabonaire.com) ★★★ · [TripAdvisor — At Sea](https://www.tripadvisor.com/Restaurant_Review-g147268-d17523370-Reviews-CHEFS_Bonaire-Kralendijk_Bonaire.html) ★★★

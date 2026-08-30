@@ -1,10 +1,10 @@
 # Dog Island {#anc-dog-island}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← All Anchorages](../08-ancoraggi.md)
 
 **9°36.6′N 78°48.0′W** ★★
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | **Profondità** |4–9 m ★★|
 | **Tenuta àncora** | Buona |
@@ -17,4 +17,4 @@
 <div class="mapframe" data-slug="anc-dog-island" data-lat="9.5582" data-lon="-78.8761"></div>
 *Vista mappa Dog Island · mappa offline*
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026

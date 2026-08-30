@@ -1,18 +1,18 @@
 # Nadie's Bar & Restaurant
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Salt Whistle Bay |
-| Cucina | 🐟 Locale |
-| Specialità | Pesce fresco |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🏖️ |
+| Zone | Salt Whistle Bay |
+| Cuisine | 🐟 Locale |
+| Spécialité | Pesce fresco |
+| Coût | 💰€€ per persona senza bevande |
+| Emplacement | 🏖️ |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nadie's+Bar+&+Restaurant+Salt+Whistle+Bay) |
-| Contatti | ND |
-| Valutazioni | Guida CCA 11/2025 → ★★ |
-| Orari | stagione |
+| Contacts | ND |
+| Évaluations | Guida CCA 11/2025 → ★★ |
+| Horaires | stagione |
 
 ## Menu
 
@@ -20,8 +20,8 @@
 
 **Chef**: ND
 
-## Foto
+## Photos
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Photos non ancora disponibili — recuperare al controllo mensile.*
 
 **Note**: ND

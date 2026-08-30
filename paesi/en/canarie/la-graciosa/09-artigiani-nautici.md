@@ -1,25 +1,25 @@
-# 09 — Artigiani e negozi nautici
+# 09 — Marine Trades & Chandlers
 
-Ultimo aggiornamento: 22/08/2026 · ⚠️ Contatti non ancora verificati: nulla viene inventato, le voci (da confermare) vengono ricercate nei controlli mensili.
+Last updated: 22/08/2026 · ⚠️ Contacts non still verificati: nulla viene inventato, le voci (from confermare) vengono ricercate nei controlli mensili.
 
 ## Tabella operatori
 
-| Servizio | Dove/Nome | Contatti | Note |
+| Service | Dove/Nome | Contacts | Note |
 |---|---|---|---|
-| Tutto | — | (da confermare) | → Lanzarote (Arrecife) |
+| Tutto | — | (from confermare) | → Lanzarote (Arrecife) |
 
 ## Dove si trova cosa
 
 - Assistenza ordinaria: chiedere in capitaineria dell'[hub](04-servizi-cantieri.md).
 - Lavori seri (rigging, motoristica pesante, verniciature): **Las Palmas de Gran Canaria**.
-- Pezzi di ricambio spediti: postazioni Amazon/distributori peninsulari consegnano in 3–7 giorni.
+- Pezzi of ricambio spediti: postazioni Amazon/distributori peninsulari consegnano in 3–7 giorni.
 
-## Negozi e shipchandler
+## Negozi and shipchandler
 
 Elenco puntuali in aggiornamento continuo: vedi pagine singole isola.
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026
 
 Tabella artigiani
 ## Note pratiche
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

@@ -1,14 +1,14 @@
-# 10 — Ristoranti
+# 10 — Restaurants
 
-## Griglia generale
+## General Grid
 
-| Ristorante | Zona | Costo | Cucina | Specialità | Location | Stelle |
+| Restaurant | Area | Cost | Cuisine | Speciality | Location | Rating |
 |---|---|---|---|---|---|---|
 | [Soho House Canouan](ristoranti/rist-soho.md) | Grand Bay area | **€€€** | **🍽️ Internazionale** | *Take-out per yacht* | **🌱 resort** | ★★★ |
 | [Sandy Lane Yacht Club Restaurant](ristoranti/rist-sandylane.md) | Charlestown | **€€€** | **🍽️ Marina** | *—* | **⚓ marina** | ★★★ |
 
-## App e fonti
+## Apps & Sources
 
 Google Maps recensioni · prenotazioni dirette VHF/WhatsApp
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026

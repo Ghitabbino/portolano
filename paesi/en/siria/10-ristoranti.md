@@ -1,8 +1,8 @@
-# 10 — Ristoranti
+# 10 — Restaurants
 
-**Ultimo aggiornamento: 27/08/2026**
+**Last updated: 27/08/2026**
 
-Selezione orientata alla crociera: locali raggiungibili a piedi dagli ancoraggi e marine del portolano ([08 Ancoraggi](08-ancoraggi.md)). In preparazione — nessun locale inventato.
+Cruiser-oriented selection: venues within walking distance of the pilot's anchorages and marinas ([08 Ancoraggi](08-ancoraggi.md)). In preparation — no invented venues.
 
 Legenda prezzi: **€** <15 · **€€** 15–35 · **€€€** >35 — Cucina: 🐟 pesce e frutti di mare · 🥩 carne e grigliate · 🥗 vegetariano-friendly · 🥙 street food locale · 🍰 dolci
 
@@ -16,13 +16,13 @@ Legenda prezzi: **€** <15 · **€€** 15–35 · **€€€** >35 — Cucin
 
 | Ristorante | Zona | Costo | Cucina | Specialità | Location | Stelle |
 |---|---|---|---|---|---|---|
-| **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** |
+| **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** |
 
 ## App e fonti
 
 | Piattaforma | Uso locale |
 |---|---|
 | Google Maps recensioni | Il più aggiornato; orari spesso errati fuori stagione |
-| **DATO MANCANTE** | **DATO MANCANTE** |
+| **DATA MISSING** | **DATA MISSING** |
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

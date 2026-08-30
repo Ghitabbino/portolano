@@ -1,10 +1,10 @@
-# 05 — Stagionalità e meteo
+# 05 — Seasonality & Weather
 
-**Ultima verifica: 25/08/2026**
+**Last checked: 25/08/2026**
 
-## Stagioni
+## Seasons
 
-| Periodo | Caratteristiche |
+| Period | Characteristics |
 |---|---|
 | **Febbraio – aprile/maggio** | Secca sulle Bay Islands, alisei E 15-20 kt — miglior navigazione ★★★★ |
 | **Giugno – novembre** | Umida/ciclonica: Honduras è STATA colpita duramente (Mitch 1998, catastrofico); rischio reale ★★★★ |
@@ -13,23 +13,22 @@
 > 📡 **Aggiornamento 25/08/2026** — Stagione Atlantico 2026 sotto-normale (NOAA 75%,
 > super El Niño). Piano ciclone comunque obbligatorio: rifugi interni barriera o Rio Dulce.
 
-## Link meteo
+## Weather Links
 
 CENAOS/COPECO (ufficiale) · NOAA NHC · Windy/PredictWind
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026
 
-## Clima
+## Climate
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Venti locali
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
 
-## Finestre tipiche
+## Local Winds
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
+
+## Typical Weather Windows
+
+**DATA MISSING** — da completare al controllo mensile.

@@ -1,18 +1,18 @@
 # Beira Mar
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| **Isola/Zona** | Terceira / Angra do Heroísmo |
-| **Cucina** | 🐟 Pesce fresco · Tradizionale |
-| **Specialità** | Caldeirada · Chicharro frito · Lapas grelhadas · Polvo guisado |
-| **Costo** | 💰€€ per persona senza bevande |
-| **Location** | 🌅 Baía Angra, vista marina, 5 min da pontile |
+| **Isola/Zone** | Terceira / Angra do Heroísmo |
+| **Cuisine** | 🐟 Pesce fresco · Tradizionale |
+| **Spécialité** | Caldeirada · Chicharro frito · Lapas grelhadas · Polvo guisado |
+| **Coût** | 💰€€ per persona senza bevande |
+| **Emplacement** | 🌅 Baía Angra, vista marina, 5 min da pontile |
 | **Mappa** | [Google Maps](https://www.google.com/maps/search/?api=1&query=Beira+Mar+Angra+do+Hero%C3%ADsmo) |
-| **Contatti** | +351 295 213 777 · beiramarangra.pt |
-| **Valutazioni** | Google 4,5/5 (900+) · TA 4,5/5 (750+) → ★★★★ |
-| **Orari** | Ter–Dom 12:00–15:00 / 19:00–22:00 · Seg chiuso |
+| **Contacts** | +351 295 213 777 · beiramarangra.pt |
+| **Évaluations** | Google 4,5/5 (900+) · TA 4,5/5 (750+) → ★★★★ |
+| **Horaires** | Ter–Dom 12:00–15:00 / 19:00–22:00 · Seg chiuso |
 
 ## Menu
 
@@ -25,10 +25,10 @@
 - **Vinhos**: Biscoitos (Terceira), Pico, Graciosa
 - **Doce**: Dona Amélia (dolce tipico Terceira)
 
-## Foto
+## Photos
 
 ![Beira Mar](img/azzorre/rist-beira-mar.jpg)
 
 **Note**: Terrazza vista baía Angra e marina; specialità stufati pesce; **prenotare cena**; da pontile dinghy marina Angra 5 min a piedi.
 
-Ultimo aggiornamento: 24/08/2026
+Dernière mise à jour: 24/08/2026

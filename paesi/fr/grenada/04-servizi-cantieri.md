@@ -1,10 +1,10 @@
-# 04 — Servizi, cantieri e manutenzione
+# 04 — Services, Chantiers & Entretien
 
-**Ultima verifica: 28/08/2026**
+**Dernière vérification: 28/08/2026**
 
 ## Hub cantieri — costa sud
 
-Quattro cantieri sulla costa sud più Tyrrel Bay (Carriacou): Grenada è considerata uno dei luoghi più sicuri dei Caraibi per lo stoccaggio della stagione uragani e i cantieri si riempiono — **prenotare con largo anticipo**. ★★★★
+Quattro cantieri sulla costa sud più Tyrrel Bay (Carriacou): Grenada è considerata uno dei luoghi più sicuri dei Caraïbes per lo stoccaggio della stagione uragani e i cantieri si riempiono — **prenotare con largo anticipo**. ★★★★
 
 ### Clarkes Court Boatyard & Marina (Woburn) ★★★★
 - **12°00.0'N 61°44.7'W** · VHF 11 · +1 473 439 3939 · info@clarkescourtmarina.com · clarkescourtmarina.com
@@ -29,7 +29,7 @@ Quattro cantieri sulla costa sud più Tyrrel Bay (Carriacou): Grenada è conside
 - Listino 2022 ⚠️: haul&launch US$6,50/ft ≤49 ft (fino a 12/ft ≥60 ft) · storage da US$0,45/ft/giorno; deposito prenotazione haul US$250 non rimborsabile.
 
 ## Storage a galla — stagione uragani
-- **Secret Harbour / Mt Hartman**: 53 pontili in cemento, pescaggio 20 ft, riparo naturale tra i migliori dei Caraibi → dettagli in [03](03-porti-ancoraggi.md). ★★★★
+- **Secret Harbour / Mt Hartman**: 53 pontili in cemento, pescaggio 20 ft, riparo naturale tra i migliori dei Caraïbes → dettagli in [03](03-porti-ancoraggi.md). ★★★★
 - **Port Louis Marina**: tariffe ridotte in bassa stagione, laguna riparata e videosorvegliata; guardianage e yacht management in sede (es. Island Dreams). ★★★
 - Boe Prickly Bay molto richieste giù–nov → muoversi presto. ★★★
 
@@ -50,18 +50,18 @@ L'import duty free di ricambi e forniture marine è previsto per legge (Yachting
 - Per refit maggiori molti armatori valutano anche Trinidad (Chaguaramas), hub regionale del settore. ★★
 
 ## Artigiani
-Meccanica, elettrica, rigging e vetroresina sono disponibili tramite i contractor approvati dei cantieri (Clarkes Court) o il personale interno certificato ABYC (Grenada Marine). Nominativi individuali verificati: **DATO MANCANTE** → elenco in [09](09-artigiani-nautici.md).
+Meccanica, elettrica, rigging e vetroresina sono disponibili tramite i contractor approvati dei cantieri (Clarkes Court) o il personale interno certificato ABYC (Grenada Marine). Nominativi individuali verificati: **DONNÉE MANQUANTE** → elenco in [09](09-artigiani-nautici.md).
 
-## Gas e bombole
+## Gaz et bouteilles
 - Ricarica bombole tramite **Texaco**: ritiro il **lunedì e mercoledì** direttamente dalle marina (segnalazione Cruisers Wiki, dato non recente ⚠️ confermare in marina). ★★
 
-## Acqua dolce
+## Eau douce
 - Rete NAWASA: acqua trattata e **generalmente potabile** a St George's e Grand Anse (standard WHO); dopo piogge intense possibile torbidità. ★★★
 - **Carriacou e Petit Martinique**: cisterne di acqua piovana e dissalazione → preferire bottigliata/filtri. ★★★
 - Tariffa storica NAWASA per navi: US$25 per 5 m³ ⚠️ dato datato, confermare. ★★
 - Secca (gen–mag): possibili razionamenti; tenere riserve. ★★★
 
-## Note strategiche
+## Notes stratégiques
 Grenada = base meridionale sicura per la stagione uragani: 4 cantieri (fino a 242 t), tre reti chandler internazionali (Budget Marine, Island Water World, North Yacht Shop), fuel duty free e clearance in marina/cantieri. Ricambi: spedire indicando nome barca e telefono e confermare sempre l'arrivo in reception. ★★★★
 
 ## Hub tecnico
@@ -69,4 +69,4 @@ Grenada = base meridionale sicura per la stagione uragani: 4 cantieri (fino a 24
 Grenada concentra i cantieri sulla **costa sud** (Clarkes Court 242 t, Spice Island 70 t, Grenada Marine 70 t extra-largo per cat fino a 32 ft, Secret Harbour dockage sicuro): **~600 posti a secco** complessivi, travelift fino a 242 t, area carenaggio, **dozzine di professionisti** (meccanici, elettricisti, rigger, veleria, compositi, frigo); ricambi spediti e ritirati in marina/cantiere con permit duty-free.
 Chandler principali raggiungibili in dinghy/taxi dalla rada; elenco completo fornitori presso le reception dei cantieri. ★★★★
 
-Ultimo aggiornamento: 28/08/2026
+Dernière mise à jour: 28/08/2026

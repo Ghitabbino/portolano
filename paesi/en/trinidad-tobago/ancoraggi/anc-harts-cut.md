@@ -5,7 +5,7 @@
 
 | Campo | Dettaglio |
 |---|---|
-| **Profondità** |**DATO MANCANTE**|
+| **Profondità** |**DATA MISSING**|
 | **Tenuta àncora** |Buona|
 | **Venti/riparo** |Giudicata l'opzione più tranquilla con Williams Bay/Point Gourde|
 | **Pericoli** |Boe first-come|
@@ -17,4 +17,4 @@
 
 Fonti: Waterway Guide ★★★ · trinidad-cruisers.com ★★★
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

@@ -1,14 +1,14 @@
-# 06 — Sicurezza
+# 06 — Safety & security
 
 **Ultima verifica completa: 24/08/2026** · Prossimo controllo mensile: 24/09/2026
 
-## Valutazione sicurezza: **DATO MANCANTE / 5 — in corso di verifica**
+## Valutazione sicurezza: **DATA MISSING / 5 — in corso di verifica**
 
 | Aspetto | Voto | Motivazione |
 |---|---|---|
-| Sicurezza personale (turisti/crocieristi) | DATO MANCANTE | Verificare advisory aggiornate |
+| Safety & security personale (turisti/crocieristi) | DATA MISSING | Verificare advisory aggiornate |
 | Furti materiali a bordo | 2–3/5 | Dinghy/fuoribordo = rischio ricorrente in tutti i Caraibi |
-| Contesto generale dell'isola | DATO MANCANTE | — |
+| Contesto generale dell'isola | DATA MISSING | — |
 
 *Scala: 0 = terribile → 5 = molto sicuro. Valutazione in attesa di fonti mensili.*
 
@@ -31,7 +31,7 @@
 |---|---|---|
 | Spiagge deserte e zone isolate di notte | Advisory: evitare | ★★ |
 | Pontili dinghy di notte | Furti dinghy/fuoribordo | CSSN ★★ |
-| Quartieri sensibili del capoluogo (Port of Spain) di notte | Microcriminalità | DATO MANCANTE |
+| Quartieri sensibili del capoluogo (Port of Spain) di notte | Microcriminalità | DATA MISSING |
 
 ## Furti ai danni dei crocieristi
 
@@ -53,10 +53,10 @@
 
 ## Salvataggio ed emergenze
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
 ## Monitoraggio mensile
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 

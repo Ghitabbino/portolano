@@ -1,20 +1,20 @@
 # Mero (baia di Mero Beach) {#anc-mero}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← Tous les mouillages](../08-ancoraggi.md)
 **15°26′38″ N 61°25′48″ W** ★★
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| **Profondità** |~7 m|
-| **Tenuta àncora** |Buona su sabbia e posidonia|
-| **Venti/riparo** |Ben riparata ma swell in cambio di marea; a volte rolly|
-| **Pericoli** |Adatta a scafi poco profondi [DA VERIFICARE SATELLITE]|
-| **Boe/divieti/normative** |—|
-| **A terra** |Day-stop popolare con beach bar|
+| **Profondeur** |~7 m|
+| **Tenue de l’ancre** |Buona su sabbia e posidonia|
+| **Vents/abri** |Ben riparata ma swell in cambio di marea; a volte rolly|
+| **Dangers** |Adatta a scafi poco profondi [DA VERIFICARE SATELLITE]|
+| **Bouées/interdictions/réglementation** |—|
+| **À terre** |Day-stop popolare con beach bar|
 
 <div class="mapframe" data-slug="anc-mero" data-lat="15.444" data-lon="-61.43"></div>
-*Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
+*Carte détaillée — zoomez jusqu’à la baie · carte hors ligne · coordinate WGS84 indicative, toujours vérifier avec le traceur*
 
 Fonti: noforeignland "Mero" ★4.2 ★★ · velmundi.com ★★ · [DA VERIFICARE SATELLITE]
 
-Ultimo aggiornamento: 25/08/2026
+Dernière mise à jour: 25/08/2026

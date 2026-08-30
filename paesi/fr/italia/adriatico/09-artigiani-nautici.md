@@ -1,35 +1,35 @@
-# 09 — Artigiani e negozi nautici
+# 09 — Artisans & Shipchandlers
 
-Hub per Adriatico: **DATO MANCANTE** — servizi concentrati nelle marine maggiori. Contatto tipico via telefono/WhatsApp; chiedere sempre **preventivo scritto** e confermare i tempi in alta stagione (giu–ago).
+Hub per Adriatico: **DONNÉE MANQUANTE** — servizi concentrati nelle marine maggiori. Contatto tipico via telefono/WhatsApp; chiedere sempre **preventivo scritto** e confermare i tempi in alta stagione (giu–ago).
 
 ## Tabella artigiani
 
 | Ditta / Nome | Referente | Area di intervento | Dealer / Installatore autorizzato (marchi) | Tel | Mail | Sede & orari | Recensioni |
 |---|---|---|---|---|---|---|---|
-| **DATO MANCANTE** | **DATO MANCANTE** | Meccanico / elettricista / velaio / elettronica | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** |
+| **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | Meccanico / elettricista / velaio / elettronica | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
 
-> Elenco verificato artigiani per Adriatico: **DATO MANCANTE** — da verificare su Pagine Gialle, siti marine, forum locali.
+> Elenco verificato artigiani per Adriatico: **DONNÉE MANQUANTE** — da vérifier sur Pagine Gialle, siti marine, forum locali.
 
 ## Altri operatori utili
 
-- **DATO MANCANTE** — da verificare
+- **DONNÉE MANQUANTE** — à vérifier
 
-## Dove si trova cosa
+## Où trouver quoi
 
-- **Motoristica / frigoriferi / saldatura**: **DATO MANCANTE**
-- **Vele**: **DATO MANCANTE**
-- **Antifouling / carenaggio**: **DATO MANCANTE**
+- **Motoristica / frigoriferi / saldatura**: **DONNÉE MANQUANTE**
+- **Vele**: **DONNÉE MANQUANTE**
+- **Antifouling / carenaggio**: **DONNÉE MANQUANTE**
 
-## Negozi di attrezzature e shipchandler
+## Magasins d’équipement & shipchandler
 
 | Negozio | Cosa trovi | Marchi notevoli | Tel | Mail / sito | Sede & orari | Recensioni |
 |---|---|---|---|---|---|---|
-| **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** |
+| **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
 
-## Note pratiche
+## Notes pratiques
 
 - **Pagamenti**: bonifico / contanti / POS secondo artigiano; chiedere sempre fattura.
 - **Tempi**: ricambi dall'Italia/UE = 2–7 gg con corriere; in alta stagione atelier saturi.
-- **Energia di bordo**: componentistica (batterie litio, solare, inverter) reperibile presso shipchandler — dettaglio per Adriatico: **DATO MANCANTE**
+- **Energia di bordo**: componentistica (batterie litio, solare, inverter) reperibile presso shipchandler — dettaglio per Adriatico: **DONNÉE MANQUANTE**
 
-Ultimo aggiornamento: 27/08/2026
+Dernière mise à jour: 27/08/2026

@@ -1,4 +1,4 @@
-# Baie de Marigot — ancoraggio {#anc-marigot}
+# Baie de Marigot — anchorage {#anc-marigot}
 
 [← Tutti gli ancoraggi](../08-ancoraggi.md)
 **18°04.0′N 63°04.9′W**
@@ -16,4 +16,4 @@
 <div class="mapframe" data-slug="anc-marigot" data-lat="18.066" data-lon="-63.082"></div>
 *Mappa offline Baie de Marigot — zoom con i pulsanti +/−; menu in alto a destra per Carta nautica e Segnali*
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

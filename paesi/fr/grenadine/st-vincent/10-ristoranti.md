@@ -1,14 +1,14 @@
-# 10 — Ristoranti
+# 10 — Restaurants
 
-## Griglia generale
+## Grille générale
 
-| Ristorante | Zona | Costo | Cucina | Specialità | Location | Stelle |
+| Ristorante | Zone | Coût | Cuisine | Spécialité | Emplacement | Stelle |
 |---|---|---|---|---|---|---|
 | [Wallilabou Anchorage](ristoranti/rist-wallilabou.md) | Wallilabou Bay | **€€** | **🍽️ Turistica** | *—* | **🎬 set Pirates of the Caribbean** | ★★ |
 | [Young Island Resort](ristoranti/rist-youngisland.md) | Young Island | **€€€€** | **🍽️ Resort** | *—* | **🏝️ isola privata** | ★★ |
 
-## App e fonti
+## Applis et sources
 
 Google Maps recensioni · prenotazioni dirette VHF/WhatsApp
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026

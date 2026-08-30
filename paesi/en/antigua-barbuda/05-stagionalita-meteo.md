@@ -1,32 +1,32 @@
-# Stagionalità e meteo
+# Seasonality & weather
 
-**Ultimo aggiornamento: 23/08/2026**
+**Last updated: 23/08/2026**
 
 > ⚠️ Pagina in preparazione: dati in raccolta.
 
-## Clima
+## Climate
 
 Tropicale, 26–30 °C. Alisei NE 15–25 kn dic–apr. ★★★
 
-## Venti locali
+## Local Winds
 
 (da raccogliere)
 
-## Finestre tipiche
+## Typical Weather Windows
 
 | Finestra | Vento | Note |
 |---|---|---|
 | Dic–Apr | 15–25 kn | Alta stagione |
 | Giu–Nov | 10–20 kn | Uragani possibili |
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026
 
-## Stagioni
+## Seasons
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
 ## Link meteo
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 

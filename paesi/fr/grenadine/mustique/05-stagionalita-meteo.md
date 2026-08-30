@@ -1,14 +1,14 @@
-# 05 — Stagionalità e meteo
+# 05 — Saisonnalité & Météo
 
-## Clima
+## Climat
 
 Tropicale, 26–30 °C, secco dic–mag; verde tutto l'anno grazie alla rugiada. ★★★
 
-## Venti locali
+## Vents locaux
 
-Alisei NE 15–25 kn; Britannia Bay (sud) ben riparata; **effetto promontorio** a Pasture/Laman: vento raddoppia in pochi metri virando attorno alle punte. Raffiche katabatiche serali dalle colline. ★★★
+Alizés NE 15–25 kn; Britannia Bay (sud) ben riparata; **effetto promontorio** a Pasture/Laman: vento raddoppia in pochi metri virando attorno alle punte. Raffiche katabatiche serali dalle colline. ★★★
 
-## Finestre tipiche
+## Fenêtres météo typiques
 
 | Finestra | Vento | Note |
 |---|---|---|
@@ -16,9 +16,9 @@ Alisei NE 15–25 kn; Britannia Bay (sud) ben riparata; **effetto promontorio** 
 | Mar–Giu | 12–18 kn | Nuoto/snorkel ottimi al mattino |
 | Lug–Ott | variabile | Molti resort chiudono lavori |
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026
 
-Alisei NE dic-giu; stagione umida lug-nov (bordo S della fascia uragani: rischio basso ma reale).
+Alizés NE dic-giu; stagione umida lug-nov (bordo S della fascia uragani: rischio basso ma reale).
 
 ### Vento locale — statistiche (% giorni >15 kn)
 
@@ -42,4 +42,4 @@ Fonti: [statistiche Union Island](https://www.kitesurfgrenadines.com/kitesurfing
 [guida stagioni SVG Yachting](https://www.svgyachting-grenadines.com/blog/best-time-to-sail-the-grenadines) ★★★ ·
 [Windfinder Canouan](https://www.windfinder.com/windstatistics/canouan_airport) ★★★
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026

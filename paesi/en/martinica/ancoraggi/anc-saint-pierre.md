@@ -1,7 +1,7 @@
 # Saint-Pierre {#anc-saint-pierre}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
-| Campo | Dettaglio |
+[← All Anchorages](../08-ancoraggi.md)
+| Field | Detail |
 |---|---|
 | **Boe** |Prenotazione obbligatoria app **Navilly**, pagamento in app, estensioni facili ★★★|
 | **Tenuta** |Buona su sabbia anche nella rada nord ★★★|
@@ -14,4 +14,4 @@
 <div class="mapframe" data-slug="saint-pierre" data-lat="14.7410" data-lon="-61.1770"></div>
 *Vista mappa Saint-Pierre (coord. indicative) — zoom con i pulsanti +/−; menu in alto a destra per passare a Carta nautica e Segnali nautici · mappa offline*
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026

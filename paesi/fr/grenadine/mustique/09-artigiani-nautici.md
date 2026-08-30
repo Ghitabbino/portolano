@@ -1,9 +1,9 @@
-# 09 — Artigiani e negozi nautici
+# 09 — Artisans & Shipchandlers
 
-Ultimo aggiornamento: 22/08/2026 · ⚠️ contatti informali: boat boys, net locali o porto principale
+Dernière mise à jour: 22/08/2026 · ⚠️ contatti informali: boat boys, net locali o porto principale
 
-| Servizio | Nome | Contatti | Note |
+| Servizio | Nome | Contacts | Note |
 |---|---|---|---|
 | Chandler/marine store | Assente | Riferimento: Bequia |
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026

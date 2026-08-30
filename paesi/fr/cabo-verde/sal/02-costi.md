@@ -1,43 +1,43 @@
-# 02 — Costo della vita
+# 02 — Coût de la vie
 
-**Ultimo aggiornamento: 24/08/2026** · Valuta **CVE** (110,26 CVE = 1 EUR) · Sal turistica, prezzi più alti dell'arcipelago.
+**Dernière mise à jour: 24/08/2026** · Devise **CVE** (110,26 CVE = 1 EUR) · Sal turistica, prezzi più alti dell'arcipelago.
 
-## Alimentari
+## Alimentation
 
-| Voce | Prezzo |
+| Rubrique | Prezzo |
 |---|---|
 | Birra Strela 0,33 l | 100–150 CVE supermercato · 200–300 CVE bar ★★ |
-| Acqua 1,5 l | 80–130 CVE ★★ |
+| Eau 1,5 l | 80–130 CVE ★★ |
 | Pane | 70–110 CVE |
 | Riso 1 kg | 180–260 CVE |
 
-## Mangiare fuori
+## Restauration à terre
 
-| Voce | Prezzo |
+| Rubrique | Prezzo |
 |---|---|
 | Prato del giorno locale | 600–1.000 CVE ★★ |
 | Ristorante turistico Santa Maria | 1.500–3.000 CVE |
 | Ti-punch/grogue | 150–300 CVE |
 
-## Carburanti
+## Carburants
 
-| Voce | Prezzo |
+| Rubrique | Prezzo |
 |---|---|
 | Gasolio | 95–115 CVE/l ★★★ |
 | Benzina | 120–140 CVE/l |
 | Taxi aeroporto–Santa Maria | 1.500 CVE |
 
-## Trasporti
+## Transports
 
-| Voce | Prezzo |
+| Rubrique | Prezzo |
 |---|---|
 | Yasi Santa Maria–Espargos | 100 CVE |
 | Taxi urbano Santa Maria | 150–250 CVE |
-| Bus | **DATO MANCANTE** — solo yasi |
+| Bus | **DONNÉE MANQUANTE** — solo yasi |
 
 ## Servizi
 
-| Voce | Prezzo |
+| Rubrique | Prezzo |
 |---|---|
 | SIM 10 GB | ~2.000 CVE |
 | Lavanderia hotel | 500–800 CVE/kg |
@@ -46,4 +46,4 @@
 
 Bancomat a Santa Maria ed Espargos. Carte accettate nei locali turistici; CVE per yasi/porti.
 
-Ultimo aggiornamento: 24/08/2026
+Dernière mise à jour: 24/08/2026

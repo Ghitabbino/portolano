@@ -1,17 +1,17 @@
 # Casa Mia
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Puerto de Mogán – canali |
-| Cucina | 🍝 Italiana di mare |
-| Specialità | Pasta fresca · pesce |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🍽️ intimo lungo canale |
-| Contatti | [Google Maps](https://www.google.com/maps/search/?api=1&query=Casa+Mia+Puerto+de+Morgan+Gran+Canaria) |
-| Valutazioni |Google 4,9/5 (456) ★★★★★|
-| Orari | cena; chiusura ⚠️ |
+| Zone | Puerto de Mogán – canali |
+| Cuisine | 🍝 Italiana di mare |
+| Spécialité | Pasta fresca · pesce |
+| Coût | 💰€€ per persona senza bevande |
+| Emplacement | 🍽️ intimo lungo canale |
+| Contacts | [Google Maps](https://www.google.com/maps/search/?api=1&query=Casa+Mia+Puerto+de+Morgan+Gran+Canaria) |
+| Évaluations |Google 4,9/5 (456) ★★★★★|
+| Horaires | cena; chiusura ⚠️ |
 
 ## Menu
 
@@ -21,4 +21,4 @@
 
 **Note**: Tra i più votati del porto
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026

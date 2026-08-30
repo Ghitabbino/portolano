@@ -1,8 +1,8 @@
-# 04 — Servizi, cantieri e manutenzione
+# 04 — Services, Boatyards & Maintenance
 
-**Ultima verifica: 24/08/2026** · Mindelo è l'hub tecnico dell'arcipelago.
+**Last checked: 24/08/2026** · Mindelo is the technical hub of the archipelago.
 
-## Marina Mindelo — hub servizi
+## Marina Mindelo — Services Hub
 
 | Servizio | Dettaglio | Contatto |
 |---|---|---|
@@ -13,26 +13,26 @@
 | LPG/gas | Ricariche via reception, prenotare giorni prima | — |
 | Lavanderia | Ritiro 10:00 consegna 17:00 stesso giorno | — |
 | WiFi | 100 MB gratis, poi pacchetti | — |
-| Sicurezza | 24h + videosorveglianza potenziata 2024 | — |
+| Safety & Security | 24h + videosorveglianza potenziata 2024 | — |
 | Sailmaker/chandlery | Limitata ma presente in marina | — |
 
-## Altri cantieri
+## Other Boatyards
 
 | Struttura | Note |
 |---|---|
 | ENAPOR Porto Grande | +238 324 515 · portogrande@enapor.cv ★★★ |
-| Artigiani locali | Meccanica/vetroresina su richiesta via marina — **DATO MANCANTE** per contatti diretti verificati |
+| Artigiani locali | Meccanica/vetroresina su richiesta via marina — **DATA MISSING** per contatti diretti verificati |
 
-## Gas e bombole
+## Gas & Bottles
 
-Bombole CV a scambio; adattatori EU utili. Non si rabbocca, si scambia.
+Gas bottles CV exchange only; EU adaptors useful. No refilling, exchange only.
 
-## Acqua dolce
+## Fresh Water
 
-Erogazione razionata; fare pieno appena disponibile; taniche di riserva.
+Supply rationed; fill up as soon as available; reserve jerry cans.
 
-## Note strategiche
+## Strategic Notes
 
-Mindelo concentra l'unico servizio quasi-europeo dell'arcipelago: ordinare ricambi dall'Europa con 1–3 settimane di anticipo via DHL; spedire in marina indicando nome barca/posto barca.
+Mindelo concentra l'unico servizio quasi-europeo dell'arcipelago: ordinare ricambi dall'Europa con 1–3 settimane di anticipo via DHL; spedire in marina indicando nome yacht/posto yacht.
 
-Ultimo aggiornamento: 24/08/2026
+Last updated: 24/08/2026

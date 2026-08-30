@@ -1,4 +1,4 @@
-# 00 — Ingresso, documenti e visti
+# 00 — Entry, documents & visas
 
 **Ultima verifica: 25/08/2026**
 
@@ -27,7 +27,7 @@ Poi bandiera gialla Q fino alla clearance, SOLO il capitano scende a terra con l
 
 ## E dopo i 90 giorni?
 
-Procedura di estensione: **DATO MANCANTE**.
+Procedura di estensione: **DATA MISSING**.
 
 ## La barca
 
@@ -37,10 +37,10 @@ Procedura di estensione: **DATO MANCANTE**.
 | Christophe Harbour | US$30 copre ingresso+uscita (feb 2025) |
 | Nevis | più caro e SOLO CONTANTI |
 
-L'immigrazione non ha costi. Importazione temporanea extra-UE: **DATO MANCANTE**. Fonte: Noonsite ★★★
+L'immigrazione non ha costi. Importazione temporanea extra-UE: **DATA MISSING**. Fonte: Noonsite ★★★
 
 ## Vaccini
 
-Nessuna vaccinazione obbligatoria dall'Europa; febbre gialla solo da paesi a rischio (standard CARICOM). Fonte sanitaria primaria dedicata: **DATO MANCANTE**.
+Nessuna vaccinazione obbligatoria dall'Europa; febbre gialla solo da paesi a rischio (standard CARICOM). Fonte sanitaria primaria dedicata: **DATA MISSING**.
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

@@ -1,31 +1,31 @@
-# 08 — Portolano degli ancoraggi
+# 08 — Guide des mouillages
 
-Ultimo aggiornamento: 22/08/2026 · coordinate indicative, navigare con cartografia ufficiale
+Dernière mise à jour: 22/08/2026 · coordinate indicative, navigare con cartografia ufficiale
 
-## Regole generali
+## Règles générales
 
 - Contesto Spagna/UE: àncora libera fuori dalle zone portuali regolamentate e dai campi boe balneari.
 - Costa steep-to profonda: marine/pontili quasi ovunque; ovest solo Tazacorte.
-- Aliseo NE dominante: valutare sempre il versante sottovento.
+- Alizé NE dominante: valutare sempre il versante sottovento.
 
-## Tabella riassuntiva
+## Tableau récapitulatif
 
-| # | Ancoraggio | Riparo | Tenuta | Profondità | Affollamento | Giudizio |
+| # | Mouillage | Riparo | Tenue | Profondeur | Affluence | Giudizio |
 |---|---|---|---|---|---|---|
 | 1 | Tazacorte | ★★ | sabbia/scoglio | 5–10 m | Basso | Unica tappa del versante sottovento |
 
-Fondi che scendono rapidissime: mai àncora ravvicinata con mare mosso.
-### Mappa generale degli ancoraggi
+Ressources che scendono rapidissime: mai àncora ravvicinata con mare mosso.
+### Carte générale des mouillages
 
 <div class="mapframe" data-slug="la-palma" data-minz="10" data-maxz="15" data-lat="28.66" data-lon="-17.83" data-markers='[[28.642, -17.933, "Tazacorte"], [28.68, -17.767, "Marina SC Palma"]]'></div>
 
 *Coordinate indicative; tasselli offline satellitari + carta nautica + segnaletica OpenSeaMap.*
 
-## Cartografia ufficiale
+## Cartographie officielle
 
-Navionics/C-MAP aggiornate; cartografia spagnola IHM. Segnaletica IALA-A (come Mediterraneo, diversa dai Caraibi).
+Navionics/C-MAP aggiornate; cartografia spagnola IHM. Segnaletica IALA-A (come Méditerranée, diversa dai Caraïbes).
 
-## Checklist àncora
+## Check-list mouillage
 
 1. Versante sottovento rispetto all'aliseo NE?
 2. Fondo confermato sabbia (mai posidonia)?
@@ -33,4 +33,4 @@ Navionics/C-MAP aggiornate; cartografia spagnola IHM. Segnaletica IALA-A (come M
 4. Rotte ferry controllate?
 5. Previsto cambio meteo nelle 24h?
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026

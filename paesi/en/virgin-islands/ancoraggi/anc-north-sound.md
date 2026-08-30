@@ -1,4 +1,4 @@
-# North Sound (Virgin Gorda) — ancoraggio {#anc-north-sound}
+# North Sound (Virgin Gorda) — anchorage {#anc-north-sound}
 
 [← Tutti gli ancoraggi](../08-ancoraggi.md)
 **18°29.8′N 64°22.6′W**
@@ -16,4 +16,4 @@
 <div class="mapframe" data-slug="anc-north-sound" data-lat="18.497" data-lon="-64.377"></div>
 *Mappa offline North Sound (Virgin Gorda) — zoom con i pulsanti +/−; menu in alto a destra per Carta nautica e Segnali*
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

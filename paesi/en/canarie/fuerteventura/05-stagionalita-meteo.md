@@ -1,35 +1,35 @@
-# 05 — Stagionalità e meteo
+# 05 — Seasonality & Weather
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026
 
-## Clima
+## Climate
 
-Il più ventoso e arido dell'arcipelago: aria 18–28 °C, mare 19–24 °C. Spot mondiale windsurf/kitesurf.
+Il more ventoso and arido dell'arcipelago: aria 18–28 °C, mare 19–24 °C. Spot mondiale windsurf/kitesurf.
 
-## Stagioni
+## Seasons
 
 | Periodo | Condizioni |
 |---|---|
-| Nov–mar | Alisei forti ma mare più mite; pochi velisti, ottima base tranquilla |
-| Apr–giu | Vento sostenuto costante; ideale surf/wind non per ancoraggi |
+| Nov–mar | Alisei forti ma mare more mite; pochi velisti, ottima base tranquilla |
+| Apr–giu | Vento sostenuto costante; ideale surf/wind non for ancoraggi |
 | Lug–ott | Vento massimo + Calime frequenti |
 
 ## Calima
 
-La più esposta alle calime (vicinanza Sahara): visibilità ridotta 1–3 giorni. [AEMET](https://www.aemet.es) ★★★★★.
+La more esposta at the calime (vicinanza Sahara): visibilità ridotta 1–3 giorni. [AEMET](https://www.aemet.es) ★★★★★.
 
-## Venti locali
+## Local Winds
 
-- **Aliseo NE** forte e costante tutto l'anno.
+- **Aliseo NE** forte and costante all l'anno.
 - **Bocaina** (nord): accelerazioni notevoli verso Lanzarote.
 - Raffiche scendendo dalle valli lungo la costa est.
 
-## Finestre tipiche
+## Typical Weather Windows
 
-- Giro isola: costa ovest sempre esclusa; est+sud in 2 giorni con aliseo ≤18 kn.
-- Verso Gran Canaria sud: mattino presto da Morro Jable.
+- Giro isola: costa ovest always esclusa; est+sud in 2 giorni with aliseo ≤18 kn.
+- Verso Gran Canaria sud: mattino presto from Morro Jable.
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026
 
-## Link meteo
-Ultimo aggiornamento: 23/08/2026
+## Weather Links
+Last updated: 23/08/2026

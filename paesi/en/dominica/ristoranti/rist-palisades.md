@@ -1,33 +1,33 @@
 # Palisades Restaurant
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| Zona | Roseau Bay Front — Fort Young Hotel, Victoria St |
-| Cucina | 🐟 Creola contemporanea / pesce caraibico |
-| Specialità | Steamed local fish · BBQ jerk octmodel · callaloo soup · skewered shrimp · duck |
-| Costo | 💰€€€ per persona senza bevande |
-| Location | 🌅 terrazza sul mare / sala climatizzata |
+| Area | Roseau Bay Front — Fort Young Hotel, Victoria St |
+| Cuisine | 🐟 Creola contemporanea / pesce caraibico |
+| Speciality | Steamed local fish · BBQ jerk octmodel · callaloo soup · skewered shrimp · duck |
+| Cost | 💰€€€ for persona without bevande |
+| Setting | 🌅 terrazza sul mare / sala climatizzata |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Palisades+Restaurant+Fort+Young+Hotel+Roseau+Dominica) |
-| Contatti | **DATO MANCANTE** — via [Fort Young Hotel](https://www.fortyounghotel.com/palisades-restaurant/) |
-| Valutazioni | Destination Magazines (16/09/2025) ★★★ · Discover Dominica ★★★★ |
-| Orari | **DATO MANCANTE** — verificare su pagina hotel/Google |
+| Contacts | **DATA MISSING** — via [Fort Young Hotel](https://www.fortyounghotel.com/palisades-restaurant/) |
+| Ratings | Destination Magazines (16/09/2025) ★★★ · Discover Dominica ★★★★ |
+| Hours | **DATA MISSING** — check on pagina hotel/Google |
 
 ## Menu
 
-- Steamed local fish del giorno
+- Steamed local fish of the giorno
 - BBQ jerk octmodel
-- Callaloo soup e zuppe creole
+- Callaloo soup and zuppe creole
 - Skewered shrimp
 - Opzioni vegetariane
 
-**Chef**: **DATO MANCANTE**
+**Chef**: **DATA MISSING**
 
 ## Note
 
-Terrazza romantica affacciata sulla baia di Roseau; vista Caribbean shoreline, brezza e onde. All'interno sala climatizzata. Adatto per cena elegante dopo l'ancoraggio a Roseau (dinghy dock Bay Front a 300 m). Consigliata prenotazione in alta stagione.
+Terrazza romantica affacciata sulla baia of Roseau; vista Caribbean shoreline, brezza and onde. All'interno sala climatizzata. Adatto for cena elegante dopo l'ancoraggio a Roseau (dinghy dock Bay Front a 300 m). Consigliata prenotazione in alta stagione.
 
 Fonti: [Destination Magazines 10 Best Restaurants in Dominica](https://destination-magazines.com/10-best-restaurants-in-dominica/) ★★★ · [Discover Dominica](https://discoverdominica.com) ★★★★ · [Fort Young Hotel](https://www.fortyounghotel.com/palisades-restaurant/) ★★★
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

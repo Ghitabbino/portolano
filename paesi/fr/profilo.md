@@ -1,10 +1,10 @@
-# Profilo — Il tuo account
+# Profil — Il tuo account
 
 <div id="profilo-box" style="border:1px solid var(--line);border-radius:10px;padding:14px;background:#0b131b;margin:10px 0">
-<div style="font-weight:800;color:var(--accent)">Benvenuto a bordo!</div>
+<div style="font-weight:800;color:var(--accent)">Bienvenue à bord!</div>
 <div id="profilo-dati" style="margin:10px 0;line-height:1.6">Caricamento…</div>
 <div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:10px">
-<button onclick="modificaProfilo()" style="padding:7px 12px;border-radius:8px;background:var(--accent);color:#06231f;font-weight:800;border:1px solid var(--accent);cursor:pointer">Modifica dati</button>
+<button onclick="modificaProfil()" style="padding:7px 12px;border-radius:8px;background:var(--accent);color:#06231f;font-weight:800;border:1px solid var(--accent);cursor:pointer">Modifica dati</button>
 <button onclick="logout()" style="padding:7px 12px;border-radius:8px;background:transparent;color:var(--accent);font-weight:700;border:1px solid var(--line);cursor:pointer">Esci</button>
 <button onclick="disiscrivi()" style="padding:7px 12px;border-radius:8px;background:#3a1a1a;color:#ffb9b9;font-weight:700;border:1px solid #d32f2f;cursor:pointer">Disiscrizione — cancella tutto</button>
 </div>
@@ -42,15 +42,15 @@
 </div>
 
 <div style="text-align:center;margin:16px 0">
-<a id="btn-contribuisci" href="#contribuisci" onclick="goContribuisci(event)" style="display:inline-block;padding:14px 28px;border-radius:12px;background:linear-gradient(135deg,#4db6ac,#2e7d6f);color:#fff;font-weight:900;text-decoration:none;box-shadow:0 4px 12px rgba(0,0,0,.3)">✏️ Contribuisci al portolano</a>
+<a id="btn-contribuisci" href="#contribuisci" onclick="goContribuer(event)" style="display:inline-block;padding:14px 28px;border-radius:12px;background:linear-gradient(135deg,#4db6ac,#2e7d6f);color:#fff;font-weight:900;text-decoration:none;box-shadow:0 4px 12px rgba(0,0,0,.3)">✏️ Contribuer al portolano</a>
 </div>
 
 <script>
-function renderProfilo(){
+function renderProfil(){
   const box=document.getElementById('profilo-dati');
   const logged=localStorage.getItem('sailtropics_logged')==='1';
   const saved=JSON.parse(localStorage.getItem('sailtropics_user')||'null');
-  if(!logged || !saved){box.innerHTML='Non sei loggato. Vai su <a href="#'+(typeof ACCEDI_PID!=='undefined'?ACCEDI_PID:'accedi')+'" style="color:var(--accent)">Accedi</a> o <a href="#'+(typeof ISCRIVITI_PID!=='undefined'?ISCRIVITI_PID:'iscriviti')+'" style="color:var(--accent)">Iscriviti</a>.'; const sec=document.getElementById('alert-section'); if(sec) sec.style.display='none'; const bc=document.getElementById('btn-contribuisci'); if(bc) bc.style.opacity='.5'; return;}
+  if(!logged || !saved){box.innerHTML='Non sei loggato. Vai su <a href="#'+(typeof ACCEDI_PID!=='undefined'?ACCEDI_PID:'accedi')+'" style="color:var(--accent)">Se connecter</a> o <a href="#'+(typeof ISCRIVITI_PID!=='undefined'?ISCRIVITI_PID:'iscriviti')+'" style="color:var(--accent)">S’inscrire</a>.'; const sec=document.getElementById('alert-section'); if(sec) sec.style.display='none'; const bc=document.getElementById('btn-contribuisci'); if(bc) bc.style.opacity='.5'; return;}
   const sec=document.getElementById('alert-section'); if(sec) sec.style.display='block';
   const aree=(saved.sel||saved.aree||[]).join(', ')||'—';
   const paesi=(saved.paesi||[]).join(', ')||'—';
@@ -58,7 +58,7 @@ function renderProfilo(){
   box.innerHTML=`<b>Nickname:</b> ${saved.nick||'—'}<br><b>Email:</b> ${saved.email}<br><b>Barca:</b> ${saved.barca||'—'}<br><b>Aree sel.:</b> ${aree}<br><b>Paesi:</b> ${paesi}<br><b>Canali:</b> ${chans}<br><b>Frequenza:</b> ${(saved.freq||[]).join(', ')||'—'}`;
   const n=parseInt(localStorage.getItem('sailtropics_count')||'0');
   const bc=document.getElementById('badge-count'); if(bc) bc.textContent=n;
-  const bl=document.getElementById('badge-liv'); if(bl) bl.textContent = n>=20?'Master Skipper 🧭★': n>=5?'Navigatore d’Aliseo 🧭':'Novizio ⚓';
+  const bl=document.getElementById('badge-liv'); if(bl) bl.textContent = n>=20?'Master Skipper 🧭★': n>=5?'Navigatore d’Alizé 🧭':'Novizio ⚓';
   // init channels
   const chs=new Set(saved.channels||['mail']);
   ['mail','whatsapp','telegram'].forEach(c=>{const el=document.getElementById('ch-'+c); if(el) el.checked=chs.has(c);});
@@ -66,10 +66,10 @@ function renderProfilo(){
   const frs=new Set(saved.freq||['istantaneo']);
   ['istantaneo','settimanale'].forEach(c=>{const el=document.getElementById('ch-'+c); if(el) el.checked=frs.has(c);});
 }
-function modificaProfilo(){location.hash='#'+(typeof ISCRIVITI_PID!=='undefined'?ISCRIVITI_PID:'iscriviti');}
-function logout(){localStorage.removeItem('sailtropics_logged');renderProfilo(); renderAlertTree();}
-function disiscrivi(){if(confirm('Cancello tutti i dati locali?')){localStorage.removeItem('sailtropics_user');localStorage.removeItem('sailtropics_logged');renderProfilo(); renderAlertTree(); alert('Dati cancellati (demo locale). In produzione cancellazione definitiva lato server e GDPR.');}}
-function goContribuisci(e){ if(e) e.preventDefault(); const pid=(typeof CONTRIBUISCI_PID!=='undefined'?CONTRIBUISCI_PID:null); if(pid) location.hash='#'+pid; else location.hash='#contribuisci'; }
+function modificaProfil(){location.hash='#'+(typeof ISCRIVITI_PID!=='undefined'?ISCRIVITI_PID:'iscriviti');}
+function logout(){localStorage.removeItem('sailtropics_logged');renderProfil(); renderAlertTree();}
+function disiscrivi(){if(confirm('Cancello tutti i dati locali?')){localStorage.removeItem('sailtropics_user');localStorage.removeItem('sailtropics_logged');renderProfil(); renderAlertTree(); alert('Dati cancellati (demo locale). In produzione cancellazione definitiva lato server e GDPR.');}}
+function goContribuer(e){ if(e) e.preventDefault(); const pid=(typeof CONTRIBUISCI_PID!=='undefined'?CONTRIBUISCI_PID:null); if(pid) location.hash='#'+pid; else location.hash='#contribuisci'; }
 let expanded=new Set();
 function flagHtml(k){ if(typeof TREE==='undefined') return '🏝️'; const f=TREE.flag[k]||'🏝️'; return f.endsWith('.svg')?'<img src="'+f+'" alt="" style="width:22px;height:16px;object-fit:cover;border-radius:2px;vertical-align:middle">':f; }
 function zonaIcon(k){ if(typeof TREE==='undefined') return '🐬'; return TREE.zona[k]||'🐬'; }
@@ -77,7 +77,7 @@ function hasSubZones(country){ if(typeof TREE==='undefined' || !TREE.zona) retur
 function renderAlertTree(){
   const treeEl=document.getElementById('alert-tree'); if(!treeEl) return;
   const logged=localStorage.getItem('sailtropics_logged')==='1';
-  if(!logged){ treeEl.innerHTML='<div style="color:var(--muted);font-size:13px;padding:8px">Accedi per selezionare le aree.</div>'; return; }
+  if(!logged){ treeEl.innerHTML='<div style="color:var(--muted);font-size:13px;padding:8px">Se connecter per selezionare le aree.</div>'; return; }
   if(typeof TREE==='undefined'){ treeEl.innerHTML='<div style="color:#ffb74d">Caricamento…</div>'; setTimeout(renderAlertTree,300); return; }
   const saved=JSON.parse(localStorage.getItem('sailtropics_user')||'{}');
   const sel=new Set(saved.sel||saved.aree||[]);
@@ -215,16 +215,16 @@ function salvaAlert(){
   localStorage.setItem('sailtropics_user', JSON.stringify(saved));
   const m=document.getElementById('alert-msg'); m.style.display='block'; m.style.background='#0f2e1f'; m.style.border='1px solid var(--accent)'; m.style.color='#b9f5c8';
   m.innerHTML=`✅ Salvato: ${sel.length} aree, canali: ${chans.join(', ')}, freq: ${freq.join(', ')}`;
-  renderProfilo();
+  renderProfil();
   setTimeout(()=>{m.style.display='none'}, 3000);
 }
-renderProfilo();
+renderProfil();
 renderAlertTree();
-window.addEventListener('hashchange', ()=>{ renderProfilo(); renderAlertTree(); });
+window.addEventListener('hashchange', ()=>{ renderProfil(); renderAlertTree(); });
 </script>
 
 > **Privacy — questo è il nostro impegno:** i tuoi dati sono usati solo per gli alert selezionati e non saranno mai ceduti a terzi.
 
 [ Torna alle Aree](00-indice.md) · [Offline & GPX](offline-gpx.md)
 
-Ultimo aggiornamento: 28/08/2026
+Dernière mise à jour: 28/08/2026

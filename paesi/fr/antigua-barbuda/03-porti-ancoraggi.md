@@ -1,6 +1,6 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
-**Ultimo aggiornamento: 23/08/2026**
+**Dernière mise à jour: 23/08/2026**
 
 
 | Marina | Tel | Note |
@@ -13,14 +13,14 @@
 
 ~70 posti ciascuna a English/Falmouth; fondo 14 ft tipico — [Antigua Sailing Week](https://sailingweek.com/island-guide/marinas/) ★★★★
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026
 
-## Tariffe
+## Tarifs
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## Distanze utili
+## Distances utiles
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 

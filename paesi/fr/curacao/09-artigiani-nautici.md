@@ -1,4 +1,4 @@
-# 09 — Artigiani e negozi nautici
+# 09 — Artisans & Shipchandlers
 
 Hub locale concentrato a **Willemstad / Piscadera (Curaçao Marine / Royal Marine)** e **Spanish Water (Seru Boca)**. Contatto tipico via telefono/WhatsApp; si parla olandese/inglese/papiamento (e spesso italiano). Per lavori importanti chiedere sempre **preventivo scritto** e confermare tempi in alta stagione (dic–apr).
 
@@ -11,10 +11,10 @@ Hub locale concentrato a **Willemstad / Piscadera (Curaçao Marine / Royal Marin
 | **Seru Boca Marina** | Robert van den Heuvel (Harbour Master) | Marina 130+ posti, non cantiere travelift | — | +599 9 840 0080 · +599 9 560 2599 | rvandenheuvel@santabarbaraplantation.com | Porta Blanku, Spanish Water · VHF 67 | ★★★★ [Seru Boca] |
 | **Curaçao Yacht Club** | — | Piccola marina, fuel dock | — | +599 9 767 4627 | cyc@curacaoyachtclub.com | Brakkeput Ariba z/n, Spanish Water | ★★★ |
 | **Kima Kalki Marina** | — | Marina fino a 60 ft | — | +599 9 767-3014 · 660-2707 | kimakalki@gmail.com | Brakkeput Ariba 62 | ★★★ |
-| DATO MANCANTE — meccanico entrobordo freelance | DATO MANCANTE | Meccanico / elettricista | DATO MANCANTE | DATO MANCANTE | DATO MANCANTE | Willemstad / marina — chiedere in capitainerie | ★★ |
-| DATO MANCANTE — sailmaker mobile | DATO MANCANTE | Velaio / rigger | DATO MANCANTE | DATO MANCANTE | DATO MANCANTE | Mobile — spesso da Antigua/St. Martin | ★★ |
+| DONNÉE MANQUANTE — meccanico entrobordo freelance | DONNÉE MANQUANTE | Meccanico / elettricista | DONNÉE MANQUANTE | DONNÉE MANQUANTE | DONNÉE MANQUANTE | Willemstad / marina — chiedere in capitainerie | ★★ |
+| DONNÉE MANQUANTE — sailmaker mobile | DONNÉE MANQUANTE | Velaio / rigger | DONNÉE MANQUANTE | DONNÉE MANQUANTE | DONNÉE MANQUANTE | Mobile — spesso da Antigua/St. Martin | ★★ |
 
-> Tutti i nominativi con **DATO MANCANTE** non sono stati verificati con websearch/webfetch in questa sessione; verranno ricercati al controllo mensile. ★★
+> Tutti i nominativi con **DONNÉE MANQUANTE** non sono stati verificati con websearch/webfetch in questa sessione; verranno ricercati al controllo mensile. ★★
 
 ## Altri operatori utili
 
@@ -22,25 +22,25 @@ Hub locale concentrato a **Willemstad / Piscadera (Curaçao Marine / Royal Marin
 - **La Survy non presente** — revisione zattere chiedere a Curaçao Marine / Royal Marine. ★★
 - **Antivegetativa / carenaggio**: Curaçao Marine (yard coperto) + Royal Marine Piscadera. ★★★
 
-## Dove si trova cosa
+## Où trouver quoi
 
 - **Motoristica/frigoriferi/saldatura**: chiedere in capitainerie Curaçao Marine / Royal Marine; spesso freelance operanti in marina. ★★
 - **Vele**: sailmaker spesso non residente — servizio mobile da Antigua/St. Martin o Trinidad. ★★
 - **Antifouling/carenaggio**: verificare disponibilità travelift **60 t a Curaçao Marine** (prenotare). ★★★★
 
-## Negozi di attrezzature e shipchandler
+## Magasins d’équipement & shipchandler
 
 | Negozio | Cosa trovi | Marchi | Tel | Mail / sito | Sede & orari | Recensioni |
 |---|---|---|---|---|---|---|
-| Shipchandler Curaçao Marine / Royal Marine | Ferramenta base, ancore, cime, vernici | **DATO MANCANTE** | +599 9 465 8936 | info@curacaomarine.com | Marina principale | ★★ |
-| Chandlery Piscadera (Royal Marine) | Utensili, vernici, antivegetativa | **DATO MANCANTE** | +599 9 461-2028 | royalmsc@gmail.com | Piscadera | ★★ |
-| Ferramenta Willemstad (Kooyman / Buildmart) | Utensili, vernici non marine | — | **DATO MANCANTE** | — | Willemstad | ★★ |
+| Shipchandler Curaçao Marine / Royal Marine | Ferramenta base, ancore, cime, vernici | **DONNÉE MANQUANTE** | +599 9 465 8936 | info@curacaomarine.com | Marina principale | ★★ |
+| Chandlery Piscadera (Royal Marine) | Utensili, vernici, antivegetativa | **DONNÉE MANQUANTE** | +599 9 461-2028 | royalmsc@gmail.com | Piscadera | ★★ |
+| Ferramenta Willemstad (Kooyman / Buildmart) | Utensili, vernici non marine | — | **DONNÉE MANQUANTE** | — | Willemstad | ★★ |
 
-## Note pratiche
+## Notes pratiques
 
 - **Pagamenti**: contanti/carta; per piccoli interventi spesso contanti. Chiedere fattura.
 - **Tempi**: ricambi = 1–3 settimane se da ordinare via Miami/Europa (spedizione via Miami frequente). ★★
 - **Energia di bordo**: componentistica (batterie litio, pannelli) — disponibilità limitata, meglio ordinare prima. ★★
 - **Rimessaggio uragani**: **entrepot illimitato** senza equipaggio a Curaçao Marine / Royal Marine / Seru Boca — ideale per stagione cicloni. [allatsea.net ★★★]
 
-Ultimo aggiornamento: 28/08/2026
+Dernière mise à jour: 28/08/2026

@@ -1,34 +1,34 @@
-# 06 — Sicurezza
+# 06 — Safety & Security
 
-Ultimo aggiornamento: 22/08/2026 · prossimo controllo media: entro 22/09/2026
+Last updated: 22/08/2026 · prossimo controllo media: entro 22/09/2026
 
-## Valutazione sicurezza: **5 / 5**
+## Safety Rating: **5 / 5**
 
-Isola senza auto, comunità piccola e accogliente. Rischi praticamente nulli; unica vera variabile = meteo.
+Isola without auto, comunità piccola and accogliente. Rischi praticamente nulli; unica vera variabile = meteo.
 
-## Attenzioni
+## Areas Requiring Caution
 
-| Tema | Dettaglio |
+| Tema | Detail |
 |---|---|
-| Meteo | Rada aperta: con mare N/NW peggiora rapidamente |
-| Day-tripper | Affollamento estivo diurno: attenzione ai natanti da diporto in manovra |
-| Fondali | Riserva: mai àncora su posidonia |
+| Meteo | Roadstead aperta: with mare N/NW peggiora rapidamente |
+| Day-tripper | Crowding estivo daytime: attenzione at the natanti from diporto in manovra |
+| Fondali | Riserva: never àncora on posidonia |
 
-## Salvataggio ed emergenze
+## Rescue & Emergencies
 
 | Emergenza | Numero |
 |---|---|
 | Emergenze unificate (UE) | **112** |
 | SAR marittimo spagnolo | **VHF 16** · tel. nazionale +34 91 346 44 44 |
-| Ambulatorio locale | Presente a Caleta del Sebo ⚠️ orari: (da confermare) |
+| Ambulatorio locale | Presente a Caleta of the Sebo ⚠️ orari: (from confermare) |
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026
 
-## Mappa delle zone — offline
+## Zone Map — Offline
 
 <div class="mapframe" data-slug="la-graciosa" data-minz="10" data-maxz="15" data-lat="29.23" data-lon="-13.5"></div>
 
-*Isola senza auto, praticamente a rischio zero.* Arancione = prudenza. Nessuna zona rossa documentata contro diportisti.
+*Isola without auto, praticamente a rischio zero.* Arancione = prudenza. Nessuna zona rossa documentata contro diportisti.
 
-## Quadro generale
+## General Overview
 ## Posti sicuri

@@ -1,23 +1,23 @@
-# 00 — Ingresso, documenti e visti
+# 00 — Entrée, Documents & Visas
 
-**Ultima verifica: 25/08/2026** · Fonti: Decreto DGTA/MTI ★★★★ · Ocean Posse ★★★ · Cruisers Wiki ★★★ · Nica-Biz ★★★
+**Dernière vérification: 25/08/2026** · Fonti: Decreto DGTA/MTI ★★★★ · Ocean Posse ★★★ · Cruisers Wiki ★★★ · Nica-Biz ★★★
 
-## Status
+## Statut
 
-| Voce | Dato |
+| Rubrique | Dato |
 |---|---|
-| Visto italiani/UE | **Non richiesto** — "Categoria A" visa exempt ★★★★ |
+| Visa italiani/UE | **Non requis** — "Categoria A" visa exempt ★★★★ |
 | **Tourist Card** | **US$10** a persona (aria/mare/terra) + US$3 servizi ai confini terrestri ★★★ |
-| Soggiorno | **90 giorni CA-4** condivisi con Guatemala/Honduras/El Salvador; **una sola proroga** di 30 gg ★★★ |
+| Séjour | **90 giorni CA-4** condivisi con Guatemala/Honduras/El Salvador; **una sola proroga** di 30 gg ★★★ |
 | Overstay | **US$3/giorno** + US$10 "exit visa" non residente [Legge 1033] ★★★ |
-| Passaporto | Validità ≥6 mesi ★★★ |
+| Passeport | Validità ≥6 mesi ★★★ |
 
 ## Arrivo via mare
 
-| Voce | Dato |
+| Rubrique | Dato |
 |---|---|
-| POE marittimi | **San Juan del Sur · Corinto · Marina Puesta del Sol · Puerto Sandino** (Pacifico) · **El Bluff/Bluefields · Puerto Cabezas · Corn Island** (Caraibi) · fluviale **Granada/San Carlos** (Rio San Juan) [Decreto DGTA] ★★★★ |
-| Documenti | Zarpe ultimo porto, registro nave, crew list, assicurazione ★★★ |
+| POE marittimi | **San Juan del Sur · Corinto · Marina Puesta del Sol · Puerto Sandino** (Pacifique) · **El Bluff/Bluefields · Puerto Cabezas · Corn Island** (Caraïbes) · fluviale **Granada/San Carlos** (Rio San Juan) [Decreto DGTA] ★★★★ |
+| Documents | Zarpe ultimo porto, registro nave, crew list, assicurazione ★★★ |
 | Autorità all'arrivo | Capitanería de Puerto (Forza Navale), Migración, DGA dogana, IPSA, MINSA ★★★★ |
 | Autorizzazione navigazione | Rilasciata dalla **DGTA**, valida **2 anni rinnovabili** [Decreto Art.14] ★★★★ |
 | Particolare | Obbligo di esporre la **bandiera nicaraguense in cima** all'albero mentre si è in acque NI, sotto quella nazionale ★★★★ |
@@ -25,20 +25,20 @@
 ## Divieti dogana
 
 - **Carni in scatola e latticini PROIBITI** ★★★
-- Farmaci solo con prescrizione; armi e valuta ≥10k USD da dichiarare ★★★
+- Farmaci solo con prescrizione; armi e devise ≥10k USD da dichiarare ★★★
 
 ## Permessi speciali
 
 Corn Islands, Bluefields e Puerto Cabezas richiedono **permesso preventivo da Managua** [Cruisers Wiki] ★★★
 
-Ultimo aggiornamento: 25/08/2026
+Dernière mise à jour: 25/08/2026
 
-## Cittadini UE
+## Citoyens UE
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## La barca
+## Le bateau
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 

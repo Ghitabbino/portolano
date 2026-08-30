@@ -1,23 +1,23 @@
-# 01 — Clearance doganale della barca
+# 01 — Boat clearance
 
-**Ultimo aggiornamento: 23/08/2026**
+**Last updated: 23/08/2026**
 
 
 Porti: **Chaguaramas** (Trinidad — hub cantieri e hurricane season dei Caraibi: CrewsInn, Power Boats, Peake) · **Charlotteville** (Tobago). Emergenze **999** ★★★
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026
 
 ## Chi deve farla
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
 ## Costi
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## Da verificare
+## To be verified
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 

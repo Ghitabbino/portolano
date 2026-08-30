@@ -1,28 +1,28 @@
-# 08 — Portolano degli ancoraggi
+# 08 — Guide des mouillages
 
-Ultimo aggiornamento: 22/08/2026 · Cartografia DHN capoverdiana datata + Navionics/C-MAP
+Dernière mise à jour: 22/08/2026 · Cartografia DHN capoverdiana datata + Navionics/C-MAP
 
-## Regole generali
+## Règles générales
 
 - Dune e spiagge infinithe (tartarughe da maggio): terza isola turistica, deserto a confronto del resto.
-- Aliseo NE nov–giu: versanti sud/ovest sottovento.
+- Alizé NE nov–giu: versanti sud/ovest sottovento.
 - Zone di pesca: chiedere prima di àncorare.
 
-## Tabella riassuntiva
+## Tableau récapitulatif
 
-| # | Ancoraggio | Riparo | Tenuta | Profondità | Affollamento | Giudizio |
+| # | Mouillage | Riparo | Tenue | Profondeur | Affluence | Giudizio |
 |---|---|---|---|---|---|---|
-| 1 | Sal Rei | ★★★ | sabbia | 4–9 m | Medio | Baia davanti alla città, protetta parziale da NE; scoglio Ilhéu de Sal Rei |
-| 2 | Porto Ferreira / altre | ★ | — | — | — | Coste esposte: solo con clam totale |
+| 1 | Sal Rei | ★★★ | sabbia | 4–9 m | Medio | Baie davanti alla città, protetta parziale da NE; scoglio Ilhéu de Sal Rei |
+| 2 | Port Ferreira / altre | ★ | — | — | — | Coste esposte: solo con clam totale |
 
-## Checklist àncora
+## Check-list mouillage
 
-1. Stagione giusta?
+1. Saison giusta?
 2. Fondo confermato?
 3. Meteo 48h senza swell dalla rotta esposta?
 4. Contante per accordi locali?
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026
 
-## Cartografia ufficiale
-Ultimo aggiornamento: 22/08/2026
+## Cartographie officielle
+Dernière mise à jour: 22/08/2026

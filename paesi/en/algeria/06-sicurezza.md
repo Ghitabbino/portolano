@@ -1,62 +1,62 @@
-# 06 — Sicurezza
+# 06 — Safety & Security
 
-**Ultima verifica completa: 27/08/2026** · Prossimo controllo mensile: **27/09/2026**
+**Last full check: 27/08/2026** · Next monthly check: **27/09/2026**
 
-## Valutazione sicurezza: **DATO MANCANTE / 5** — in attesa di verifica su fonti aggregate (advisory, stampa locale, CSSN-equivalente Mediterraneo)
+## Safety Rating: **DATA MISSING / 5** — Pending Verification from Aggregated Sources (Advisories, Local Press, CSSN-Equivalent Mediterranean)
 
-| Aspetto | Voto | Motivazione |
+| Aspect | Rating | Reason |
 |---|---|---|
-| Sicurezza personale (turisti/crocieristi) | **DATO MANCANTE /5** | **DATO MANCANTE** — da verificare su advisory governative (viaggiareinsicurezza.it, gov.uk, voyage.gc.ca) |
-| Furti materiali a bordo | **DATO MANCANTE /5** | **DATO MANCANTE** — verificare segnalazioni furti dinghy/fuoribordo nelle marine algeria |
-| Contesto generale | **DATO MANCANTE /5** | **DATO MANCANTE** |
+| Personal safety (tourists/cruisers) | **DATA MISSING /5** | **DATA MISSING** — to be verified on advisory governative (viaggiareinsicurezza.it, gov.uk, voyage.gc.ca) |
+| Theft from yacht | **DATA MISSING /5** | **DATA MISSING** — verificare segnalazioni furti dinghy/fuoribordo nelle marine algeria |
+| General context | **DATA MISSING /5** | **DATA MISSING** |
 
-*Scala: 0 = terribile → 5 = molto sicuro. Valutazione nostra, sintesi delle fonti sotto; aggiornata a ogni controllo mensile.*
+*Scale: 0 = terrible → 5 = very safe. Our rating, synthesising the sources below; updated at each monthly check.*
 
-**Perché DATO MANCANTE**: paese di nuova creazione — dati non ancora verificati.
+**Perché DATA MISSING**: paese di nuova creazione — dati non ancora verificati.
 
-## Quadro generale
+## General Overview
 
-- Advisory: **DATO MANCANTE** — da consultare viaggiareinsicurezza.it (Algeria), diplomatie.gouv.fr, gov.uk, travel.state.gov, voyage.gc.ca.
-- Stampa locale / report isola: **DATO MANCANTE**.
+- Advisory: **DATA MISSING** — da consultare viaggiareinsicurezza.it (Algeria), diplomatie.gouv.fr, gov.uk, travel.state.gov, voyage.gc.ca.
+- Stampa locale / report isola: **DATA MISSING**.
 - Nessuna valutazione definitiva fino a verifica mensile completa.
 
-## Mappa delle zone — offline
+## Zone Map — Offline
 
 <div class="mapframe" data-slug="algeria" data-minz="5" data-maxz="15" data-lat="36.75" data-lon="3.06" data-zones='[]'></div>
 
 *Mappa placeholder centrata su Algeria ( Mediterraneo ). Le zone a rischio verranno mappate solo con fonti verificate.*
 
-## Posti sicuri / da evitare
+## Safe Areas / Areas to Avoid
 
-**DATO MANCANTE**.
+**DATA MISSING**.
 
-## Furti a crocieristi
+## Theft Against Cruisers
 
-**DATO MANCANTE** — verificare su fonti diportiste aggregate e advisory.
+**DATA MISSING** — verificare su fonti diportiste aggregate e advisory.
 
-## A bordo e a terra
+## On Board & Ashore
 
-**DATO MANCANTE**.
+**DATA MISSING**.
 
-## Navigazione
+## Navigation
 
-**DATO MANCANTE** — IALA-A in Mediterraneo. Verificare pericoli locali (scogli, secche, traffico mercantile).
+**DATA MISSING** — IALA-A in Mediterraneo. Verificare pericoli locali (scogli, secche, traffico mercantile).
 
-## Numeri di emergenza
+## Emergency Numbers
 
 | Servizio | Numero | Note |
 |---|---|---|
-| Emergenza generale UE | **112** | Valido anche in Algeria se in UE; altrimenti **DATO MANCANTE** |
-| Guardia costiera / MRCC | **DATO MANCANTE** | Verificare su elenco SAR Algeria |
-| Polizia | **DATO MANCANTE** | **DATO MANCANTE** |
+| Emergenza generale UE | **112** | Valido anche in Algeria se in UE; altrimenti **DATA MISSING** |
+| Guardia costiera / MRCC | **DATA MISSING** | Verificare su elenco SAR Algeria |
+| Police | **DATA MISSING** | **DATA MISSING** |
 
-## Monitoraggio mensile
+## Monthly Monitoring
 
-Verifica su thecssn.org / stampa locale / voyage.gc.ca / gov.uk / travel.state.gov / gruppi FB — **DATO MANCANTE** al prossimo ciclo.
+Verifica su thecssn.org / stampa locale / voyage.gc.ca / gov.uk / travel.state.gov / gruppi FB — **DATA MISSING** al prossimo ciclo.
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026
 
-## Salvataggio ed emergenze
+## Rescue & Emergencies
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 

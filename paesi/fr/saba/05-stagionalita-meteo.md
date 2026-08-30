@@ -1,32 +1,32 @@
-# Stagionalità e meteo
+# 05 — Saisonnalité & Météo
 
-**Ultimo aggiornamento: 23/08/2026**
+**Dernière mise à jour: 23/08/2026**
 
 > ⚠️ Pagina in preparazione: dati in raccolta.
 
-## Clima
+## Climat
 
-Tropicale, 26–30 °C. Alisei NE 15–25 kn dic–apr. ★★★
+Tropicale, 26–30 °C. Alizés NE 15–25 kn dic–apr. ★★★
 
-## Venti locali
+## Vents locaux
 
 (da raccogliere)
 
-## Finestre tipiche
+## Fenêtres météo typiques
 
 | Finestra | Vento | Note |
 |---|---|---|
 | Dic–Apr | 15–25 kn | Alta stagione |
-| Giu–Nov | 10–20 kn | Uragani possibili |
+| Giu–Nov | 10–20 kn | Ouragans possibili |
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026
 
-## Stagioni
+## Saisons
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## Link meteo
+## Liens météo
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 

@@ -17,4 +17,4 @@
 
 Fonti: Noonsite (09/2024) ★★★
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

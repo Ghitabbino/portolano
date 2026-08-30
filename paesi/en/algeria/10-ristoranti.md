@@ -1,28 +1,28 @@
-# 10 — Ristoranti
+# 10 — Restaurants
 
-**Ultimo aggiornamento: 27/08/2026**
+**Last updated: 27/08/2026**
 
-Selezione orientata alla crociera: locali raggiungibili a piedi dagli ancoraggi e marine del portolano ([08 Ancoraggi](08-ancoraggi.md)). In preparazione — nessun locale inventato.
+Cruising-oriented selection: venues within walking distance of the anchorages and marinas in the pilot ([08 Ancoraggi](08-ancoraggi.md)). In preparation — no venue invented.
 
-Legenda prezzi: **€** <15 · **€€** 15–35 · **€€€** >35 — Cucina: 🐟 pesce e frutti di mare · 🥩 carne e grigliate · 🥗 vegetariano-friendly · 🥙 street food locale · 🍰 dolci
+Price key: **€** <15 · **€€** 15–35 · **€€€** >35 — Cucina: 🐟 pesce e frutti di mare · 🥩 carne e grigliate · 🥗 vegetariano-friendly · 🥙 street food locale · 🍰 dolci
 
-## Mappa dei ristoranti
+## Restaurant Map
 
 <div class="mapframe" data-slug="algeria" data-minz="5" data-maxz="17" data-lat="36.75" data-lon="3.06" data-markers='[]'></div>
 
-*Mappa placeholder — marker verranno aggiunti solo con coordinate verificate WGS84 e schede ristorante `rist-*`.*
+*Placeholder map — markers will only be added with verified WGS84 coordinates and `rist-*` restaurant sheets.*
 
-## Griglia generale
+## General Grid
 
-| Ristorante | Zona | Costo | Cucina | Specialità | Location | Stelle |
+| Restaurant | Area | Cost | Cuisine | Speciality | Location | Rating |
 |---|---|---|---|---|---|---|
-| **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** |
+| **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** |
 
-## App e fonti
+## Apps & Sources
 
-| Piattaforma | Uso locale |
+| Platform | Local Use |
 |---|---|
 | Google Maps recensioni | Il più aggiornato; orari spesso errati fuori stagione |
-| **DATO MANCANTE** | **DATO MANCANTE** |
+| **DATA MISSING** | **DATA MISSING** |
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

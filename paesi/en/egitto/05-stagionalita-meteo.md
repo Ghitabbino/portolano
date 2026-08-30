@@ -1,39 +1,39 @@
-# 05 — Stagionalità e meteo
+# 05 — Seasonality & Weather
 
-**Ultima verifica: 27/08/2026**
+**Last checked: 27/08/2026**
 
-## Clima
+## Climate
 
-Clima mediterraneo sulla costa egitto: estati calde/secche, inverni miti. **DATO MANCANTE** su medie mensili precise — da verificare su servizio meteo nazionale Egitto.
+Climate mediterraneo sulla costa egitto: estati calde/secche, inverni miti. **DATA MISSING** on medie mensili precise — from check on servizio meteo nazionale Egitto.
 
-## Stagioni
+## Seasons
 
 | Periodo | Caratteristiche |
 |---|---|
-| **Aprile – ottobre** | **DATO MANCANTE** — verificare stagione principale di crociera |
-| **Novembre – marzo** | **DATO MANCANTE** — possibili burrasche mediterranee (maestrale, scirocco, meltemi a est) |
-| **Eventi estremi** | Mediterraneo non uraganico; **DATO MANCANTE** su tempeste autunnali / vento forte |
+| **Aprile – ottobre** | **DATA MISSING** — check stagione principale of crociera |
+| **Novembre – marzo** | **DATA MISSING** — possibili burrasche mediterranee (maestrale, scirocco, meltemi a est) |
+| **Eventi estremi** | Mediterraneo non uraganico; **DATA MISSING** on tempeste autunnali / vento forte |
 
-## Uragani / cicloni
+## Hurricanes / Cyclones
 
-Non applicabile come nei Caraibi; **DATO MANCANTE** su medicane / tempeste mediterranee. Verificare bollettini meteo nazionali.
+Non applicabile as nei Caraibi; **DATA MISSING** on medicane / tempeste mediterranee. Check bollettini meteo nazionali.
 
-## Consignes / avvisi
+## Warnings / Notices
 
-**DATO MANCANTE** — verificare procedure di allerta meteo marine.
+**DATA MISSING** — check procedure of allerta meteo marine.
 
-## Venti locali
+## Local Winds
 
-**DATO MANCANTE** — meltemi (Egeo), maestrale, scirocco, bora secondo area.
+**DATA MISSING** — meltemi (Egeo), maestrale, scirocco, bora second area.
 
-## Finestre tipiche di navigazione
+## Typical Sailing Windows
 
-**DATO MANCANTE**.
+**DATA MISSING**.
 
-## Link meteo utili
+## Useful Weather Links
 
-| Servizio | URL | Note |
+| Service | URL | Note |
 |---|---|---|
-| **DATO MANCANTE** | **DATO MANCANTE** | Bollettino marino Egitto |
+| **DATA MISSING** | **DATA MISSING** | Bollettino marino Egitto |
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

@@ -1,20 +1,20 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
-**Ultima verifica: 21/08/2026** · Coordinate in gradi decimali o N/W come da fonte
+**Dernière vérification: 21/08/2026** · Coordinate in gradi decimali o N/W come da fonte
 
 ## Costa sud — la zona base
 
 ### Le Marin ⚓ porto principale
 - **14°28.14'N 60°52.01'W** · VHF 09 · www.marina-martinique.fr ★★★★
-- La più grande marina dei Caraibi orientali: **830 posti a pontile + 100 boe**, fino a 60 m di LOA e 4,80 m di pescaggio, 220/400 V, raccolta acque nere/grigie a pontile, centro medico, lavanderia, supermercati, ristoranti, **riparo ciclonico**. ★★★
+- La più grande marina dei Caraïbes orientali: **830 posti a pontile + 100 boe**, fino a 60 m di LOA e 4,80 m di pescaggio, 220/400 V, raccolta acque nere/grigie a pontile, centro medico, lavanderia, supermercati, ristoranti, **riparo ciclonico**. ★★★
 - Attracco tipico: poppa a pontile, prua a boa; staff aiuta alle manovre. ★★
 - Clearance in capitainerie (vedi [01](01-clearance.md)).
 - Carburante: Station-service CAP Ponton N°3, +596 596 765 161, tutti i giorni 7:30–13/14–17. ★★★★★
 - Carenago rinnovato con travelift; molti professionisti. ★★ → dettagli in [04](04-servizi-cantieri.md)
 
 ### Sainte-Anne
-- Ancoraggio enorme e facile su fondale sabbioso che degrada lento: spazio per centinaia di barche. Buon riparo dagli alisei; swell incide poco. ★★★
-- Pontile dinghy: attenzione che lo scafo non scivoli sotto il pontile con il mare; meglio prua sollevata o àncora di poppa. ★★
+- Mouillage enorme e facile su fondale sabbioso che degrada lento: spazio per centinaia di barche. Buon riparo dagli alisei; swell incide poco. ★★★
+- Ponton dinghy: attenzione che lo scafo non scivoli sotto il pontile con il mare; meglio prua sollevata o àncora di poppa. ★★
 - Clearance: Snack BOUBOU accanto alla chiesa. ★★★★★
 
 ### Pointe du Bout / Trois-Îlets
@@ -29,7 +29,7 @@
 - ⚠️ In città attenzione al dinghy al pontile: episodi di manomissioni segnalati; chiuderlo a chiave. ★★
 
 ### Anses d'Arlet (Grand Anse)
-- Baia pittoresca; negli ultimi anni regole di ancoraggio variabili: le boe installate non hanno funzionato e si può ancora ancorare vicino alla spiaggia (rispettando i bagnanti). Prima notte spesso mossa: stare il più possibile a terra. Guardacoste pattugliano l'ingresso senza controllare sistematicamente. ★★★
+- Baie pittoresca; negli ultimi anni regole di ancoraggio variabili: le boe installate non hanno funzionato e si può ancora ancorare vicino alla spiaggia (rispettando i bagnanti). Prima notte spesso mossa: stare il più possibile a terra. Guardacoste pattugliano l'ingresso senza controllare sistematicamente. ★★★
 - Clearance: Cyberbase sul lungomare (ex punto Petite Bateaux/Grand Anse NON più attivo). ★★★★★
 
 ### Saint-Pierre
@@ -43,51 +43,51 @@
 - Capitainerie marina, tutti i giorni 8–18: +596 596 542 954. Clearance in loco. ★★★★★
 
 ### La Trinité / Havre de la Trinité
-- Porto d'ingresso ufficiale; clearance alla Brigade des douanes, Quartier Raisinier: +596 596 581 790. ★★★★★
+- Port d'ingresso ufficiale; clearance alla Brigade des douanes, Quartier Raisinier: +596 596 581 790. ★★★★★
 - ⚠️ Costa est/sud-est: numerose **file di nasse da pesca** con lenze galleggianti quasi invisibili, segnalate anche oltre 3 miglia dalla costa. Massima attenzione. ★★
 
 ## Nord
 
 ### Le Prêcheur / Saint-Pierre nord
-- Rada esposta; solo con meteo stabile. *(voce di banchina ★ — da verificare)*
+- Rade esposta; solo con meteo stabile. *(voce di banchina ★ — à vérifier)*
 
-## Tariffe ormeggi e marine
+## Tarifs d’amarrage & marinas
 
-> Stesse voci per tutti i paesi; **DATO MANCANTE** = da ricercare al controllo mensile.
+> Stesse voci per tutti i paesi; **DONNÉE MANQUANTE** = da ricercare al controllo mensile.
 
 ### Marina du Marin — listino ufficiale 2024-25 (IVA 8,5% inclusa) ★★★★
 
 Contratti dovuti in anticipo. Prenotazione online www.marina-martinique.fr · VHF 09.
 
-| Voce | Costo | Note |
+| Rubrique | Coût | Note |
 |---|---|---|
 | Posto pontile — notte (barca ~12 m) | 0,72 €/piede ≈ **29 €** |Scaglione 30–49 ft; prime 2 notti 0,60 €/piede ★★★★|
-| Posto pontile — notte (multiscafo ~12 m) | ×1,5 ≈ **43 €** |Multiscafo +50% ★★★★|
-| Boa/mouillage marina — notte (~12 m) | **12 €** |30–49 ft; notti successive 14,40 € ★★★★|
-| Mese pontile (~12 m) | 11,80 €/piede ≈ **472 €** |Semestre 56,10 €/piede · anno 112,20 €/piede ★★★★|
-| Elettricità | **0,36 €/kWh** |Pontili ★★★★|
-| Acqua | **9,00 €/m³** |Consegna a galla 2,50 €/100 l ★★★★|
-| Ancoraggio | **Gratuito** | Fuori zone regolamentate |
+| Place à quai — par nuit (multicoque ~12 m) | ×1,5 ≈ **43 €** |Multiscafo +50% ★★★★|
+| Bouée/mouillage marina — notte (~12 m) | **12 €** |30–49 ft; notti successive 14,40 € ★★★★|
+| Mois à quai (~12 m) | 11,80 €/piede ≈ **472 €** |Semestre 56,10 €/piede · anno 112,20 €/piede ★★★★|
+| Électricité | **0,36 €/kWh** |Pontili ★★★★|
+| Eau | **9,00 €/m³** |Consegna a galla 2,50 €/100 l ★★★★|
+| Mouillage | **Gratuito** | Fuori zone regolamentate |
 | Multiscafo supplementare | **+50%** | ★★★★ |
 
 Maggiorazioni: live-aboard oltre 3 mesi +15%; tassa soggiorno 0,66 €/notte (solo stopover). Incluso: pompa acque nere/grigie, wifi, sanitari, rifiuti, posta/pacchi, navetta a galla, videosorveglianza.
 
-### Altre strutture
+### Autres infrastructures
 
-| Struttura | Costo/note | Fonte |
+| Infrastructure | Coût/notes | Source |
 |---|---|---|
 | Boe visitatori Fort Saint-Louis (Fort-de-France) | Non prenotabili, "turn up and see"; ≈ **10–15 €/notte**, raccolta incasso in barca ⚠️ confermare sul posto |Fonti diportiste aggregate ★★|
 | Boe Saint-Pierre | Prenotazione obbligatoria via app **Navilly** (nuovo 2025), pagamento in app; tariffa mostrata in app alla prenotazione (~10–15 €/notte) ⚠️ |SDSA feb 2025 ★★|
 
-⚠️ **Da verificare prima della crociera**: listino Marina du Marin stagione successiva (PDF pubblicato di solito a gennaio), prezzi boe Saint-Pierre/Fort Saint-Louis, carburante CAP Ponton.
+⚠️ **À vérifier avant la croisière**: listino Marina du Marin stagione successiva (PDF pubblicato di solito a gennaio), prezzi boe Saint-Pierre/Fort Saint-Louis, carburante CAP Ponton.
 
-## Distanze utili
+## Distances utiles
 
-| Tratta | Distanza |
+| Trajet | Distance |
 |---|---|
 | Martinica – Santa Lucia | ~26 km sud |
 | Martinica – Dominica | ~35 km NW |
 
 ★★★
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026

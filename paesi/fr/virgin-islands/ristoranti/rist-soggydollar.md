@@ -1,18 +1,18 @@
 # Soggy Dollar Bar
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | White Bay, Jost Van Dyke |
-| Cucina | 🍹 Beach bar |
-| Specialità | Painkiller (nato qui) |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🏖️ si approda a nuoto |
+| Zone | White Bay, Jost Van Dyke |
+| Cuisine | 🍹 Beach bar |
+| Spécialité | Painkiller (nato qui) |
+| Coût | 💰€€ per persona senza bevande |
+| Emplacement | 🏖️ si approda a nuoto |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Soggy+Dollar+Bar+White+Bay,+Jost+Van+Dyke) |
-| Contatti | ND |
-| Valutazioni | Icona → ★★★★ |
-| Orari | giorno |
+| Contacts | ND |
+| Évaluations | Icona → ★★★★ |
+| Horaires | giorno |
 
 ## Menu
 
@@ -20,8 +20,8 @@
 
 **Chef**: ND
 
-## Foto
+## Photos
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Photos non ancora disponibili — recuperare al controllo mensile.*
 
 **Note**: Dollari bagnati alla barra · day anchorage

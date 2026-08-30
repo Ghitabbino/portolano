@@ -1,39 +1,39 @@
-# 02 — Costo della vita
+# 02 — Coût de la vie
 
-**Ultimo aggiornamento: 24/08/2026** · Valuta **CVE** (110,26 CVE = 1 EUR).
+**Dernière mise à jour: 24/08/2026** · Devise **CVE** (110,26 CVE = 1 EUR).
 
-## Alimentari
+## Alimentation
 
-| Voce | Prezzo |
+| Rubrique | Prezzo |
 |---|---|
 | Birra Strela 0,33 l | 100–150 CVE market · 200–250 CVE bar ★★ |
 | Pasto semplice | 500–900 CVE (~4,5–8 €) ★★ |
-| Acqua 1,5 l | 80–120 CVE |
+| Eau 1,5 l | 80–120 CVE |
 | Pane | 60–100 CVE |
 
-## Carburanti
+## Carburants
 
-| Voce | Prezzo |
+| Rubrique | Prezzo |
 |---|---|
 | Gasolio | 95–115 CVE/l ★★★ |
 | Benzina | 120–140 CVE/l |
 
-## Trasporti
+## Transports
 
-| Voce | Prezzo |
+| Rubrique | Prezzo |
 |---|---|
 | Aluguer urbano | 100–300 CVE |
 | Taxi urbano | 150–300 CVE |
 
-## Servizi quotidiani
+## Services quotidiens
 
-| Voce | Prezzo |
+| Rubrique | Prezzo |
 |---|---|
 | SIM prepagata | ~1.500 CVE 5–10 GB |
-| Lavanderia | **DATO MANCANTE** |
+| Lavanderia | **DONNÉE MANQUANTE** |
 
-## Contanti e pagamenti
+## Espèces & paiements
 
 Contanti CVE indispensabili per mercati/aluguer; euro accettati con resto in CVE. Bancomat nel capoluogo.
 
-Ultimo aggiornamento: 24/08/2026
+Dernière mise à jour: 24/08/2026

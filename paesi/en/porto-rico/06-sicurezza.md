@@ -1,30 +1,30 @@
-# 06 — Sicurezza
+# 06 — Safety & Security
 
-**Ultima verifica: 24/08/2026** · Prossimo controllo mensile: **24/09/2026**
+**Last checked: 24/08/2026** · Prossimo controllo mensile: **24/09/2026**
 
-## Valutazione sicurezza: **4,0 / 5**
+## Safety Assessment: **4,0 / 5**
 
-| Aspetto | Voto | Motivazione |
+| Aspect | Rating | Reason |
 |---|---|---|
-| Sicurezza personale (turisti/crocieristi) | 4/5 | Territorio USA con presidi federali; episodi violenti contro diportisti rari |
+| Safety & Security personale (turisti/crocieristi) | 4/5 | Territorio USA con presidi federali; episodi violenti contro diportisti rari |
 | Furti a bordo / dinghy | 3/5 | Furti opportunisti segnalati, soprattutto in aree non sorvegliate |
-| Contesto generale dell'isola | 4/5 | Porto Rico **non è hotspot** CSSN; criminalità concentrata in quartieri urbani noti |
+| General context of the island | 4/5 | Puerto Rico ** is not a hotspot** CSSN; crime concentrated in known urban neighborhoods |
 
-*Scala: 0 = terribile → 5 = molto sicuro. Valutazione nostra, sintesi delle fonti sotto.*
+*Scala: 0 = terribile → 5 = molto sicuro. Currencyzione nostra, sintesi delle fonti sotto.*
 
 **Perché non 5**: microcriminalità urbana e furti opportunistici (dinghy non incatenato, oggetti in pozzetto) restano possibili, soprattutto a San Juan. Nessun fenomeno sistematico ai danni dei crocieristi nelle isole spagnole.
 
-## Quadro generale
+## Overview
 
-- **CSSN (Caribbean Safety & Security Net) — Annual Report 2025**: **124 incidenti** in tutti i Caraibi, **−14,5%** su anno precedente; **7 episodi violenti** in totale. Porto Rico **non figura tra gli hotspot** ricorrenti (concentrati in altre isole). ★★★★
+- **CSSN (Caribbean Safety & Security Net) — Annual Report 2025**: **124 incidenti** in tutti i Caribbean, **−14,5%** su anno precedente; **7 episodi violenti** in totale. Porto Rico **non figura tra gli hotspot** ricorrenti (concentrati in altre isole). ★★★★
 - Porto Rico, essendo territorio USA con presenza **CBP, USCG e polizia statale**, registra controlli più assidui rispetto a molte isole indipendenti. ★★★★
 - Zone di attenzione restano i quartieri degradati delle grandi città, non le baie frequentate dai diportisti (Fajardo, Culebra, Vieques). ★★★
 
-## Posti sicuri / posti da evitare
+## Safe Areas / Areas to Avoid
 
-### ✅ Posti sicuri (con normali precauzioni)
+### ✅ Safe Places (con normali precauzioni)
 
-| Zona | Note |
+### ✅ Safe Places
 |---|---|
 | **Fajardo / Puerto del Rey** | Marina recintata, videosorveglianza, guardia — molto sicura ★★★★ |
 | **Culebra — Ensenada Honda** | Baia abitata e presidiata, comunità piccola e tranquilla ★★★★ |
@@ -33,18 +33,18 @@
 
 ### ⛔ Posti da usare con attenzione
 
-| Zona | Rischio |
+### ⛔ Caution
 |---|---|
 | **San Juan — La Perla, parti di Santurce/San Juan notturno** | Quartieri con criminalità legata a droga e furti; **evitare di notte**, non lasciare dinghy incustodito, usare taxi ufficiali ★★★★ |
 | Spiagge isolate e ancoraggi urbani non sorvegliati di notte | Furti opportunistici — sollevare e bloccare dinghy, luci a bordo |
 
-## A bordo e a terra — buone pratiche
+## On Board & Ashore — buone pratiche
 
 - Lucchetto e catena corta tra dinghy e barca/banchina, motore bloccato con antifurto dedicato; sollevare il tender di notte. ★★★
 - Niente oggetti di valore in pozzetto o in vista in barca aperta. ★★★
 - In rada preferire ancoraggi frequentati e illuminati; VHF 16 in ascolto.
 
-## Navigazione
+## Navigation
 
 | Rischio | Dettaglio |
 |---|---|
@@ -52,9 +52,9 @@
 | Nasse e reti da pesca | Presenti su bassofondali sud/ovest (La Parguera, Boquerón) — navigare con guardia a prua di giorno ★★★ |
 | Aree militari / ex poligono Vieques | Rispettare le **safety zones** e le aree ristrette (vedi 08) — fondali con ordigni inesplosi, divieto di ancoraggio/dragaggio ★★★★★ |
 
-## Numeri di emergenza
+## Emergency Numbers
 
-| Servizio | Numero |
+| Service | Numero |
 |---|---|
 | Emergenza unica | **911** ★★★★★ |
 | Polizia di Porto Rico | **(787) 343-2020** ★★★★ |
@@ -63,20 +63,19 @@
 
 VHF 16 monitorato da USCG 24/7. Per soccorso in mare chiamare **USCG Sector San Juan** o **911**.
 
-## Mappa delle zone — offline
+## Zone Map — Offline
 
 <div class="mapframe" data-slug="porto-rico" data-minz="8" data-maxz="16" data-lat="18.20" data-lon="-66.50" data-zones='[[18.465,-66.116,2000,"#d32f2f","San Juan La Perla — evitare notte"],[18.20,-67.14,1800,"#ef6c00","Mayagüez — attenzione notte"],[18.00,-66.61,1500,"#ef6c00","Ponce — borseggi"]]'></div>
 
 *Legenda: cerchio rosso = zona da evitare di notte · arancio = attenzione.*
 
-Ultimo aggiornamento: 24/08/2026
+Last updated: 24/08/2026
 
-## Salvataggio ed emergenze
+## Rescue & Emergencies
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
 
-## Monitoraggio mensile
+## Monthly Monitoring
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
+**DATA MISSING** — da completare al controllo mensile.

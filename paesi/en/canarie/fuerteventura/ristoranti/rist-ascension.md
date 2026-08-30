@@ -1,17 +1,17 @@
 # Ascensión
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| Zona | Caleta de Fuste – centro |
-| Cucina | 🍽️ Sofisticata |
-| Specialità | Pesce · carne roja creativa |
-| Costo | 💰€€€ per persona senza bevande |
-| Location | 🍽️ sobrio elegante |
-| Contatti | [Google Maps](https://www.google.com/maps/search/?api=1&query=Restaurante+Ascension+Caleta+de+Fuste) |
-| Valutazioni | ★★★★½|
-| Orari | cena |
+| Area | Caleta de Fuste – centro |
+| Cuisine | 🍽️ Sofisticata |
+| Speciality | Pesce · carne roja creativa |
+| Cost | 💰€€€ for persona without bevande |
+| Setting | 🍽️ sobrio elegante |
+| Contacts | [Google Maps](https://www.google.com/maps/search/?api=1&query=Restaurante+Ascension+Caleta+de+Fuste) |
+| Ratings | ★★★★½|
+| Hours | cena |
 
 ## Menu
 
@@ -20,6 +20,6 @@
 
 **Chef**: ND
 
-**Note**: Scelta fine della baia
+**Note**: Scelta fine of the baia
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

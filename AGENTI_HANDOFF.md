@@ -119,6 +119,16 @@ python3 tools/download_mappe.py       # tasselli mappa offline
      • Mappa bandiere in `paesi/tools/build_paesi_html.py:120` (`BANDIERE`): aggiornala quando aggiungi un nuovo `slug` autonomo. Se il territorio ha codice ISO/emoji dedicato (es. 🇮🇨 per Canarie), usalo; se non esiste emoji dedicata (es. Azzorre/Madeira), usa l'emoji dello Stato con nota “autonoma” e icona distinta se disponibile.
      • Cerca e sostituisci: a ogni nuovo paese/arcipelago autonomo, verifica che `TREE.flag` e le tessere non mostrino la bandiera della madrepatria.
 
+16b. CAMBIO LINGUA — PAGINA CORRISPONDENTE (29/08/2026, REGOLA GENERALE SCOLPITA PER TUTTI GLI AGENTI — concetto utente, estesa 30/08/2026):
+     • **REGOLA GENERALE PER TUTTE LE LINGUE E TUTTE LE PAGINE**: Se sei in una qualsiasi pagina in una qualsiasi lingua e cambi idioma, vieni mandato nella **corrispondente pagina tradotta**, **MAI** al menu principale e **MAI** a `#p1`.
+     • Esempio: se sei in **Antigua e Barbuda in italiano** (`it/index.html#p43`) e clicchi **English**, vedrai **Antigua and Barbuda in inglese** (`en/index.html#p43`), non la home. Stesso per Martinica FR→EN, Guadalupa IT→ES, ecc.
+     • Implementazione: `xx/index.html:1172` → `location.href.replace('/'+curLang+'/', '/'+targetLang+'/')` conservando `location.hash` (pid); fallback `../targetLang/index.html#hash`. Pid identici in tutte le lingue (`TREE.cover` stesso, `en cover antigua: p43 == it cover antigua: p43` verificato). **Mai** resettare a `#p1`. Validare su ogni build per OGNI paese (34 Caraibi + Mediterraneo + ...). **Scolpita per tutti, per sempre.**
+
+16c. TRADUZIONI — MADRELINGUA, UNA LINGUA ALLA VOLTA (29/08/2026, REGOLA SCOLPITA PER TUTTI):
+     • Si traduce **una lingua alla volta**, cominciando dall'**inglese** (già in corso), poi fr/es/de/pt in ordine.
+     • **VIETATE traduzioni letterali**: ogni lingua deve suonare come scritta da **madrelingua** del settore nautico, con termini geografici specifici della lingua (es. EN: Leeward/Windward/ABC, FR: Îles Sous-le-Vent/Îles du Vent/Îles ABC, non calco dall'italiano).
+     • Verificare toponimi, bacini, arcipelaghi con uso reale nella lingua di destinazione. Se dubbio → DATO MANCANTE, mai calco.
+
 16. DOWNLOAD ZIP/GPX — REGOLA ASSOLUTA (28/08/2026, per SEMPRE, per TUTTI gli agenti — aggiornata 28/08/2026):
      • **Avviso in prima pagina wiki** (`paesi/00-indice.md:1` = “Aree”): sempre presente un avviso breve che i dati di ogni paese sono scaricabili offline (ZIP + GPX WGS84). Non toglierlo mai.
      • **Tasto ZIP solo nel menu centrale della prima pagina del paese**: per OGNI paese/arcipelago autonomo la **tessera del paese nel menu centrale** (grid `navgrid` / `flagTile` in `build_paesi_html.py:634`) mostra il tasto `⬇️ ZIP` che punta a `zip/<slug>.zip`. **Mai** bottoni ZIP dentro le pagine del paese (`08-ancoraggi`, `00-ingresso` — lì resta solo `⬇️ GPX` con nota “ZIP da menu centrale”).

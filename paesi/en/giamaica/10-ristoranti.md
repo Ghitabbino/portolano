@@ -1,14 +1,14 @@
-# 10 — Ristoranti
+# 10 — Restaurants
 
-**Ultimo aggiornamento: 24/08/2026**
+**Last updated: 24/08/2026**
 
-Selezione per equipaggi. Prezzi USD, senza vino.
+Selezione for equipaggi. Prezzi USD, without vino.
 
-Legenda prezzi: **€** <15 · **€€** 15-30 · **€€€** >30 — Cucina: 🐟 pesce · 🥩 carne · 🥙 street · 🍰 dolci
+Legend prezzi: **€** <15 · **€€** 15-30 · **€€€** >30 — Cuisine: 🐟 pesce · 🥩 carne · 🥙 street · 🍰 dolci
 
-## Griglia generale
+## Grid generale
 
-| Ristorante | Zona | Costo | Cucina | Specialità | Location | Stelle |
+| Ristorante | Area | Cost | Cuisine | Speciality | Setting | Stelle |
 |---|---|---|---|---|---|---|
 | Boston Jerk Centre | Boston Bay | **€** | **🥩 jerk** | *Jerk chicken/pork pimento wood · festival* | **🏖️ street, best jerk** | ★★★★★ |
 | Norma's at the Marina | Errol Flynn Marina | **€€** | **🐟 pesce** | *Escovitch · lobster · conch* | **⚓ waterfront** | ★★★★ |
@@ -23,11 +23,11 @@ Legenda prezzi: **€** <15 · **€€** 15-30 · **€€€** >30 — Cucina:
 
 *Street jerk US$5-12, casual J$1.750-3.000 p.p., mid-range coppia J$12.000.*
 
-## Mappa dei ristoranti
+## Mappa of the ristoranti
 
 <div class="mapframe" data-slug="giamaica" data-minz="7" data-maxz="17" data-lat="18.12" data-lon="-77.30" data-markers='[[18.152, -76.438, "Boston Jerk Centre", "rist-boston-jerk-centre"], [18.18, -76.454, "Norma’s at the Marina", "rist-normas-at-the-marina"], [18.478, -77.918, "Scotchies Montego Bay", "rist-scotchies-montego-bay"], [18.45871, -77.93956, "Houseboat Grill", "rist-houseboat-grill"], [17.9364, -76.83832, "Gloria’s Seafood City", "rist-glorias-seafood-city"]]'></div>
 
-## App e fonti
+## App and fonti
 
 | Piattaforma | Uso locale |
 |---|---|
@@ -35,4 +35,4 @@ Legenda prezzi: **€** <15 · **€€** 15-30 · **€€€** >30 — Cucina:
 | TripAdvisor / Google | Recensioni live, prenotazione |
 | Facebook ristoranti | Menu/chiusure real-time |
 
-Ultimo aggiornamento: 24/08/2026
+Last updated: 24/08/2026

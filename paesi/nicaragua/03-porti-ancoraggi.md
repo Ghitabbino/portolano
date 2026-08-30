@@ -15,12 +15,26 @@
 
 Ultimo aggiornamento: 25/08/2026
 
-## Tariffe
+## Tariffe ormeggi e marine
 
-**DATO MANCANTE** — da completare al controllo mensile.
+> Stesse voci per tutti i paesi; **DATO MANCANTE** = da ricercare.
 
+| Voce | Costo | Note |
+|---|---|---|
+| Posto pontile — notte (~12 m) | **DATO MANCANTE** | Marina Puesta del Sol — chiedere a VHF/mail, listino non pubblicato |
+| Boa | **DATO MANCANTE** | Ancoraggio gratuito fuori marina |
+| Acqua | in banchina a Puesta del Sol | altrove DATO MANCANTE |
+| Elettricità | in banchina a Puesta del Sol | altrove DATO MANCANTE |
 
 ## Distanze utili
 
-**DATO MANCANTE** — da completare al controllo mensile.
+| Tratta | Distanza | Note |
+|---|---|---|
+| San Juan del Sur → Marina Puesta del Sol | ~220 M | Lungo costa Pacifico NW |
+| San Juan del Sur → Corinto | ~140 M | Pacifico |
+| El Bluff → Corn Island | ~35 M | Caraibi |
+| Corn Island → Providencia (COL) | ~50 M | NE |
+| San Juan del Sur → Papagayo (CR) | ~30 M | S |
+
+Ultimo aggiornamento: 29/08/2026
 

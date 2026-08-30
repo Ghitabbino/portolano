@@ -1,9 +1,9 @@
 # San Telmo / Isla del Rey {#anc-san-telmo}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← All Anchorages](../08-ancoraggi.md)
 **8°17.4′N 78°56.4′W** ★★
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | **Profondità** |4–8 m su sabbia nell'anse di San Telmo ★★|
 | **Tenuta àncora** | Buona |
@@ -16,4 +16,4 @@
 <div class="mapframe" data-slug="anc-san-telmo" data-lat="8.295" data-lon="-78.943"></div>
 *Vista mappa San Telmo · mappa offline*
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026

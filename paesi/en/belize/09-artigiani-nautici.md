@@ -1,27 +1,27 @@
-# 09 — Artigiani e negozi nautici
+# 09 — Marine Trades & Chandlers
 
-**Ultima verifica: 25/08/2026**
+**Last checked: 25/08/2026**
 
-| Servizio | Dove | Note |
+| Service | Where | Notes |
 |---|---|---|
 | Haul-out/travelift | Cucumber Beach Marina (Belize City) | Riferimento principale ★★ |
 | Meccanica fuoribordo | San Pedro, Placencia | Officine piccole, su chiamata ★★ |
-| Chandlery strutturata | **DATO MANCANTE** | Ricambi via Miami/Houston ★★ |
-| Veleria | **DATO MANCANTE** | Lavori maggiori: Guatemala (Rio Dulce) o Messico |
+| Chandlery strutturata | **DATA MISSING** | Ricambi via Miami/Houston ★★ |
+| Veleria | **DATA MISSING** | Lavori maggiori: Guatemala (Rio Dulce) or Messico |
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026
 
 Tabella artigiani
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## Dove si trova cosa
+## Where to Find What
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## Note pratiche
+## Practical Notes
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 

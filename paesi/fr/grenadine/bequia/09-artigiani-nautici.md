@@ -1,6 +1,6 @@
-# 09 — Artigiani nautici
+# 09 — Artisans & Shipchandlers
 
-**Ultimo aggiornamento: 23/08/2026**
+**Dernière mise à jour: 23/08/2026**
 
 
 Bequia è un'isola di cantieristi e marinai: tradizione di costruzione barche e caccia alla balena storica ★★★★
@@ -15,6 +15,6 @@ Bequia è un'isola di cantieristi e marinai: tradizione di costruzione barche e 
 
 ## On-water services (in baia)
 
-Acqua e gasolio in cisterna, pane del mattino, lavanderia a ritiro, raccolta rifiuti: tutto prenotabile via VHF 68 o dai contatti in marina — [Compass](https://caribbeancompass.com/island-spotlight-bequia-st-vincent-the-grenadines) ★★★★
+Eau e gasolio in cisterna, pane del mattino, lavanderia a ritiro, raccolta rifiuti: tutto prenotabile via VHF 68 o dai contatti in marina — [Compass](https://caribbeancompass.com/island-spotlight-bequia-st-vincent-the-grenadines) ★★★★
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026

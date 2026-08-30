@@ -1,9 +1,9 @@
 # Contadora {#anc-contadora}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← All Anchorages](../08-ancoraggi.md)
 **8°37.3′N 79°02.2′W** ★★
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | **Profondità** |4–9 m su sabbia a N del borgo ★★|
 | **Tenuta àncora** | Buona |
@@ -16,4 +16,4 @@
 <div class="mapframe" data-slug="anc-contadora" data-lat="8.6269" data-lon="-79.037"></div>
 *Vista mappa Contadora · mappa offline*
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026

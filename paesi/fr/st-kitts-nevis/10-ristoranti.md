@@ -1,24 +1,24 @@
-# 10 — Ristoranti
+# 10 — Restaurants
 
-**Ultimo aggiornamento: 23/08/2026**
+**Dernière mise à jour: 23/08/2026**
 
 
-| Locale | Isola | Prezzi | Cucina | Note |
+| Locale | Isola | Prezzi | Cuisine | Note |
 |---|---|---|---|---|
-| [THE VIEW at Palms Court Gardens](https://opentable.com) | St-Kitts, Basseterre | €€€ | Caraibica | Vista porto+Nevis, 4,9/5 ★★★ |
+| [THE VIEW at Palms Court Gardens](https://opentable.com) | St-Kitts, Basseterre | €€€ | Caraïbesca | Vista porto+Nevis, 4,9/5 ★★★ |
 | Carambola Beach Club | St-Kitts, South Friar's | €€€ | Europea | Spiaggia dorata, tramonti ★★★ |
 | [L'Escale](https://opentable.com) | Nevis, Pinneys | €€€ | Francese | 5,0/5; water taxi da St-Kitts ★★★ |
 | Oualie Beach Restaurant | Nevis, Oualie | €€ | Locale/sea-to-plate | Aperto tutto il giorno ★★★ |
 | Chrishi Beach Club | Nevis | €€ | Internazionale | Tapas, live ★★ |
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026
 
-## Griglia generale
+## Grille générale
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## App e fonti
+## Applis et sources
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 

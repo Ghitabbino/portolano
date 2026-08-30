@@ -1,23 +1,23 @@
-# 10 — Ristoranti
+# 10 — Restaurants
 
-**Ultima verifica: 25/08/2026**
+**Dernière vérification: 25/08/2026**
 
 | Ristorante | Dove | Note |
 |---|---|---|
 | Cevicheria e pescheria al molo | San Juan del Sur | Pesce fresco del giorno ★★★ |
-| Ristoranti lungo la baia SJdS | vari | Cucina nicaraguense e internazionale, fascia media ★★ |
+| Ristoranti lungo la baia SJdS | vari | Cuisine nicaraguense e internazionale, fascia media ★★ |
 | Granada centro coloniale | Calle La Calzada | Migliore scena food del paese ★★★ |
 
-DATO MANCANTE: recensioni sistematiche aggiornate.
+DONNÉE MANQUANTE: recensioni sistematiche aggiornate.
 
-Ultimo aggiornamento: 25/08/2026
+Dernière mise à jour: 25/08/2026
 
-## Griglia generale
+## Grille générale
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## App e fonti
+## Applis et sources
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 

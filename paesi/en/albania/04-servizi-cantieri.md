@@ -1,35 +1,35 @@
-# 04 — Servizi, cantieri e manutenzione
+# 04 — Services, Boatyards & Maintenance
 
-**Ultima verifica: 27/08/2026**
+**Last checked: 27/08/2026**
 
-## Hub tecnico — DATO MANCANTE
+## Technical Hub — DATA MISSING
 
-Il principale hub tecnico mediterraneo per la Albania è **DATO MANCANTE** — da verificare su Puertos del Estado / associazioni nautiche. Possibili poli: Barcellona, Valencia, Palma di Mallorca, Cartagena.
+Il principale hub tecnico mediterraneo per la Albania è **DATA MISSING** — to be verified on Puertos del Estado / associazioni nautiche. Possibili poli: Barcellona, Valencia, Palma di Mallorca, Cartagena.
 
-| Servizio | Dettaglio | Fonte |
+| Service | Detail | Source |
 |---|---|---|
-| Travelift / carenaggio | **DATO MANCANTE** | **DATO MANCANTE** |
-| Professionisti in porto | **DATO MANCANTE** | **DATO MANCANTE** |
-| Spedizione ricambi | **DATO MANCANTE** | **DATO MANCANTE** |
+| Travelift / carenaggio | **DATA MISSING** | **DATA MISSING** |
+| Professionisti in porto | **DATA MISSING** | **DATA MISSING** |
+| Spedizione ricambi | **DATA MISSING** | **DATA MISSING** |
 
-## Altri cantieri
+## Other Boatyards
 
-**DATO MANCANTE**.
+**DATA MISSING**.
 
-## Gas e bombole
+## Gas & Bottles
 
-**DATO MANCANTE** — verificare standard bombole Albania (scambio/ricarica).
+**DATA MISSING** — verificare standard bombole Albania (scambio/ricarica).
 
-## Acqua dolce
+## Fresh Water
 
-**DATO MANCANTE**.
+**DATA MISSING**.
 
-## Note strategiche
+## Strategic Notes
 
-**DATO MANCANTE** — la Albania dispone di rete estesa di marine e cantieri; dettagli da verificare per area (Costa Brava, Baleari, Costa del Sol).
+**DATA MISSING** — la Albania dispone di rete estesa di marine e cantieri; dettagli to be verified per area (Costa Brava, Baleari, Costa del Sol).
 
-## Hub tecnico
+## Technical Hub
 
-**DATO MANCANTE** — travelift, professionisti, chandler: da censire con fonti locali.
+**DATA MISSING** — travelift, professionisti, chandler: da censire con fonti locali.
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

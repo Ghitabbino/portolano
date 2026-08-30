@@ -1,20 +1,20 @@
-# Canarreos — Cayo Campos {#anc-cayo-campos}
+# Canarreos — Cayo Champs {#anc-cayo-campos}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← Tous les mouillages](../08-ancoraggi.md)
 **21°33′36″ N 81°50′24″ W** ★★
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| **Profondità** |**DATO MANCANTE**|
-| **Tenuta àncora** |**DATO MANCANTE**|
-| **Venti/riparo** |Arcipelago de los Canarreos|
-| **Pericoli** |Bassi fondali dell'arcipelago: serve plotter|
-| **Boe/divieti/normative** |Autorizzazione locale|
-| **A terra** |**DATO MANCANTE**|
+| **Profondeur** |**DONNÉE MANQUANTE**|
+| **Tenue de l’ancre** |**DONNÉE MANQUANTE**|
+| **Vents/abri** |Arcipelago de los Canarreos|
+| **Dangers** |Bassi fondali dell'arcipelago: serve plotter|
+| **Bouées/interdictions/réglementation** |Autorizzazione locale|
+| **À terre** |**DONNÉE MANQUANTE**|
 
 <div class="mapframe" data-slug="anc-cayo-campos" data-lat="21.56" data-lon="-81.84"></div>
-*Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
+*Carte détaillée — zoomez jusqu’à la baie · carte hors ligne · coordinate WGS84 indicative, toujours vérifier avec le traceur*
 
-Fonti: **DATO MANCANTE**
+Fonti: **DONNÉE MANQUANTE**
 
-Ultimo aggiornamento: 25/08/2026
+Dernière mise à jour: 25/08/2026

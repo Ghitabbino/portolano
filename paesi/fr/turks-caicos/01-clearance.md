@@ -1,8 +1,8 @@
-# 01 — Clearance doganale della barca
+# 01 — Formalités douanières
 
-**Ultima verifica: 28/08/2026** · Fonti principali: borderforce.gov.tc vessel-clearance (agg. 25/03/2024) ★★★★★; gov.tc pressoffice 31/01/2023 ★★★★★; sailclear.com ★★★★★
+**Dernière vérification: 28/08/2026** · Sources principales: borderforce.gov.tc vessel-clearance (agg. 25/03/2024) ★★★★★; gov.tc pressoffice 31/01/2023 ★★★★★; sailclear.com ★★★★★
 
-## Chi deve farla
+## Qui doit effectuer les formalités
 
 Tutti i natanti da diporto, qualsiasi nazionalità e bandiera, che:
 - **entrano** nelle acque TCI provenendo da porto/mare straniero o alto mare;
@@ -11,7 +11,7 @@ Tutti i natanti da diporto, qualsiasi nazionalità e bandiera, che:
 
 > Non-pleasure craft (charter, pesca guidata, trasporto passeggeri, workboat, pesca commerciale): **non** rientrano in questa procedura — servono permessi/licenze specifiche. [borderforce.gov.tc ★★★★★]
 
-## Procedura SailClear (dal 01/02/2023, obbligatoria ≥24 h)
+## Procédure SailClear (dal 01/02/2023, obbligatoria ≥24 h)
 
 1. Creare un **account SailClear** e sottoscrivere l'abbonamento annuale **US$25** (dal 01/05/2024, CCLEC). [magneticmediatv.com 18/09/2024 ★★★★; gov.tc pressoffice ★★★★★]
    - URL: `https://www.sailclear.com` — selezionare **Turks and Caicos Islands** come destinazione. ★★★★★
@@ -26,11 +26,11 @@ Tutti i natanti da diporto, qualsiasi nazionalità e bandiera, che:
 
 ### Prima della partenza
 - Clearance **obbligatoria** anche in uscita, disponibile in qualunque **POE**; inviare pre-notifica SailClear **≥24 h** prima dell'ETD per evitare ritardi. Aggiornare la notifica outbound in SailClear se si prolunga la sosta. [borderforce.gov.tc ★★★★★]
-- Partenza senza clearance = **offence** perseguibile. [borderforce.gov.tc ★★★★★]
+- Départ senza clearance = **offence** perseguibile. [borderforce.gov.tc ★★★★★]
 
 ## Costi
 
-| Voce | Costo | Fonte |
+| Rubrique | Coût | Source |
 |---|---|---|
 | Dichiarazione SailClear (abbonamento) | **US$25/anno** (uso illimitato) | Border Force notice 18/09/2024 ★★★★ |
 | Inbound fee | **US$50** | borderforce.gov.tc ★★★★★ |
@@ -38,11 +38,11 @@ Tutti i natanti da diporto, qualsiasi nazionalità e bandiera, che:
 | Overtime fuori orario | **US$10/h** lun–ven sera/notte · **US$15/h** sab/dom/festivi | bluehavenmarina.com ★★★; borderforce.gov.tc ★★★★★ |
 | Cruising Permit (90 gg) | **incluso** in clearance; rinnovo >90 gg **US$300** | borderforce.gov.tc ★★★★★ |
 
-Orari ufficio doganale tipici: **lun–gio 8:00–16:30 · ven 8:00–16:00**; fuori orario = overtime. [bluehavenmarina.com ★★★]
+Horaires ufficio doganale tipici: **lun–gio 8:00–16:30 · ven 8:00–16:00**; fuori orario = overtime. [bluehavenmarina.com ★★★]
 
-## Porti di ingresso (POE) ufficiali — dove fare clearance
+## Ports d’entrée (POE) ufficiali — dove fare clearance
 
-| Isola | POE | Note / Contatti | Orari |
+| Isola | POE | Note / Contacts | Horaires |
 |---|---|---|---|
 | **Providenciales** | **Blue Haven Marina** — Leeward Going Through (NE Provo) · VHF 16 | Mega-yacht fino a 67 m (220 ft), fuel/water/power, assistenza clearance su appuntamento per ospiti | 8–16:30 lun–gio, 8–16 ven; overtime fuori orario ★★★ |
 | **Providenciales** | **South Bank Marina / South Bank Resort** — Long Bay | Fuel/water, boutique marina, repairs & small chandlery | come sopra ★★★ |
@@ -63,21 +63,21 @@ Orari ufficio doganale tipici: **lun–gio 8:00–16:30 · ven 8:00–16:00**; f
 | **Turtle Cove Marina** (POE service via South Dock) | [turtlecovemarina.com](https://www.turtlecovemarina.com) · VHF 16 |
 | **Agriculture / Environment Health** | thinds@gov.tc (malattie notificabili a bordo) ★★★★★ |
 
-## Esperienze dei crocieristi
+## Retours de navigateurs
 
 - South Dock Provo: procedura spartana (dock commerciale), meglio **Blue Haven o South Bank** se si vuole assistenza marina + fuel/water contestuali. ★★★
 - Turtle Cove: ingresso difficile tra reef — chiamare prima e seguire il canale balisato; non tutti gli uffici sono in banchina. ★★★
 - Portare **contanti USD** a South Dock (POS non sempre disponibile). ★★★
 
-## Sanzioni
+## Sanctions
 
 - Mancata pre-notifica SailClear o sbarco/partenza senza clearance = **offence** ai sensi della Customs Ordinance; sanzione fino a **US$5.000**, possibile **detenzione/sequestro/confisca** del natante. [borderforce.gov.tc ★★★★★; gov.tc pressoffice ★★★★★; magneticmediatv.com ★★★★]
 - Monitoraggio attivo delle acque TCI con Border Force e partner law enforcement. [borderforce.gov.tc ★★★★★]
 
-## Da verificare prima della crociera
+## À vérifier avant la croisière
 
 - Disponibilità POS/carte a South Dock (varia) e orari festivi.
 - Eventuale aggiornamento fee SailClear/CCLEC e overtime.
 - Richiesta estensione soggiorno persone vs. rinnovo Cruising Permit barca (due pratiche separate).
 
-Ultimo aggiornamento: 28/08/2026
+Dernière mise à jour: 28/08/2026

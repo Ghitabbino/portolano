@@ -1,4 +1,4 @@
-# 00 — Ingresso, documenti e visti
+# 00 — Entry, documents & visas
 
 **Ultima verifica: 25/08/2026**
 
@@ -19,21 +19,21 @@ I cittadini UE risultano esenti visto nella lista ufficiale del Rijksdienst CN: 
 
 ## E dopo i 90 giorni?
 
-Modalità di proroga presso le autorità locali: **DATO MANCANTE**.
+Modalità di proroga presso le autorità locali: **DATA MISSING**.
 
 ## La barca
 
-| Voce | Costo |
+| Item | Costo |
 |---|---|
 | Harbor fee | US$20–40 secondo stazza |
 | Tassa di partenza | US$10 a persona |
 | Dogana | ~US$20 (segnalato da cruiser) |
 | Marine Park | fee per le notti in boa/ancoraggio |
 
-Importazione temporanea per barche extra-UE: **DATO MANCANTE**. Fonti: Noonsite ★★★ · noforeignland ★★
+Importazione temporanea per barche extra-UE: **DATA MISSING**. Fonti: Noonsite ★★★ · noforeignland ★★
 
 ## Vaccini
 
-Nessuna vaccinazione obbligatoria dall'Europa; febbre gialla solo da paesi a rischio. Fonte sanitaria primaria olandese dedicata: **DATO MANCANTE**.
+Nessuna vaccinazione obbligatoria dall'Europa; febbre gialla solo da paesi a rischio. Fonte sanitaria primaria olandese dedicata: **DATA MISSING**.
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

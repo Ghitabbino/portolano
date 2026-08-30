@@ -1,17 +1,17 @@
 # Wallilabou Anchorage
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | Zona | Wallilabou Bay |
 | Cucina | 🍽️ Turistica |
 | Specialità | — |
-| Costo | 💰€€ per persona senza bevande |
+| Costo | 💰€€ per person without drinks |
 | Location | 🎬 set Pirates of the Caribbean |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Wallilabou+Anchorage+Wallilabou+Bay) |
 | Contatti | ND |
-| Valutazioni | — → ★★ |
+| Currencyzioni | — → ★★ |
 | Orari | giorno |
 
 ## Menu
@@ -21,6 +21,6 @@
 
 ## Foto
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Foto non still disponibili — recuperare at the controllo mensile.*
 
-**Note**: Il set del film è il ristorante; baia con boe
+**Notes**: The set of the film is the restaurant; bay with buoys

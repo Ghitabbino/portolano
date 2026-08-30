@@ -1,42 +1,42 @@
-# 00 — Ingresso, documenti e visti
+# 00 — Entry, Documents & Visas
 
-**Ultima verifica: 27/08/2026**
+**Last checked: 27/08/2026**
 
 ## Status
 
-Il Montenegro è uno **Stato extra-UE**, **fuori dall'area Schengen** (candidato UE, usa unilateralmente l'**euro (EUR)** come valuta).
+Montenegro is a **Non-EU State**, **outside the Schengen Area** (EU candidate, unilaterally uses **euro (EUR)** as currency).
 
-## Cittadini UE — nessun visto (principio generale)
+## EU Citizens — Visa-Free (General Rule)
 
-| Voce | Regola | Fonte |
+| Item | Rule | Source |
 |---|---|---|
-| Visto | **DATO MANCANTE** — verificare durata soggiorno senza visto per cittadini UE su fonte governativa montenegro | **DATO MANCANTE** |
-| Documenti | **DATO MANCANTE** — carta d'identità/passaporto: verificare requisiti esatti su exterior.gob.es / inclusion.gob.es | **DATO MANCANTE** |
-| Soggiorno | **DATO MANCANTE** | **DATO MANCANTE** |
+| Visto | **DATA MISSING** — verificare durata soggiorno senza visto per cittadini UE su fonte governativa montenegro | **DATA MISSING** |
+| Documenti | **DATA MISSING** — carta d'identità/passaporto: verificare requisiti esatti su exterior.gob.es / inclusion.gob.es | **DATA MISSING** |
+| Soggiorno | **DATA MISSING** | **DATA MISSING** |
 
-> Dettagli su visti, documenti richiesti e modelli da compilare: **DATO MANCANTE** — da verificare su fonte governativa montenegro ★★★★★ prima della partenza.
+> Dettagli su visti, documenti richiesti e modelli da compilare: **DATA MISSING** — da verificare su fonte governativa montenegro ★★★★★ prima della partenza.
 
-## Nota importante per chi arriva via mare
+## Important Note for Arrival by Sea
 
-- Controlli persone e **clearance della barca** sono procedure separate → vedi [01 — Clearance doganale della barca](01-clearance.md).
-- **DATO MANCANTE** su procedure specifiche di ingresso via mare per diportisti in Montenegro.
+- Personal checks and **yacht clearance** are separate procedures → see [01 — Yacht Customs Clearance](01-clearance.md).
+- **DATA MISSING** su procedure specifiche di ingresso via mare per diportisti in Montenegro.
 
-## E dopo i 3 mesi? (cittadini italiani/UE)
+## Beyond 3 Months? (Italian/EU Citizens)
 
-| Situazione | Regola | Fonte |
+| Situation | Rule | Source |
 |---|---|---|
-| Soggiorno oltre 3 mesi | **DATO MANCANTE** | **DATO MANCANTE** |
-| Quota Schengen 90/180 | **DATO MANCANTE** | **DATO MANCANTE** |
+| Soggiorno oltre 3 mesi | **DATA MISSING** | **DATA MISSING** |
+| Quota Schengen 90/180 | **DATA MISSING** | **DATA MISSING** |
 
-## La barca: permanenza
+## The Yacht: Length of Stay
 
-| Barca | Regola | Fonte |
+| Yacht | Rule | Source |
 |---|---|---|
-| **UE con IVA pagata** | **DATO MANCANTE** — libera circolazione in UE, verificare dettagli doganali Montenegro | **DATO MANCANTE** |
-| Extra-UE | **DATO MANCANTE** — verificare regime ammissione temporanea Montenegro/UE | **DATO MANCANTE** |
+| **UE con IVA pagata** | **DATA MISSING** — libera circolazione in UE, verificare dettagli doganali Montenegro | **DATA MISSING** |
+| Extra-UE | **DATA MISSING** — verificare regime ammissione temporanea Montenegro/UE | **DATA MISSING** |
 
-## Vaccini
+## Vaccinations
 
-**DATO MANCANTE** — verificare su viaggiareinsicurezza.it / exterior.gob.es.
+**DATA MISSING** — verificare su viaggiareinsicurezza.it / exterior.gob.es.
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

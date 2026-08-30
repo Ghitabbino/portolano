@@ -1,8 +1,8 @@
-# 06 — Sicurezza
+# 06 — Sécurité
 
-**Ultima verifica completa: 27/08/2026** · Prossimo controllo mensile: **27/09/2026** — Tirreno Settentrionale
+**Dernière vérification complète: 27/08/2026** · Prochain contrôle mensuel: **27/09/2026** — Tirreno Settentrionale
 
-## Valutazione sicurezza: **4 / 5** (stima preliminare — da confermare con fonti locali)
+## Évaluation sécurité: **4 / 5** (stima preliminare — da confermare con fonti locali)
 
 | Aspetto | Voto | Motivazione |
 |---|---|---|
@@ -12,67 +12,67 @@
 
 *Scala: 0 = terribile → 5 = molto sicuro. Valutazione nostra, sintesi preliminare; aggiornata a ogni controllo mensile.*
 
-## Mappa delle zone — offline
+## Carte des zones — hors ligne
 
 <div class="mapframe" data-slug="tirreno-settentrionale" data-minz="6" data-maxz="15" data-lat="42.50" data-lon="10.80" data-zones='[]'></div>
 
-*Mappa centrata su Tirreno Settentrionale (42.50N 10.80E, indicativo di zona). Zone a rischio specifiche per diportisti in Tirreno Settentrionale: **DATO MANCANTE** — da verificare su fonti locali e advisory.*
+*Mappa centrata su Tirreno Settentrionale (42.50N 10.80E, indicativo di zona). Zone a rischio specifiche per diportisti in Tirreno Settentrionale: **DONNÉE MANQUANTE** — da vérifier sur fonti locali e advisory.*
 
-## Quadro generale
+## Vue d’ensemble
 
 - Nessuna advisory restrittiva specifica per la navigazione da diporto in Italia da parte di governi UE — livello ordinario.
 - Microcriminalità (borseggi, furti in auto) concentrata nelle aree turistiche ad alto affollamento e nelle grandi città portuali — normali precauzioni.
-- Dettaglio incidenti contro crocieristi in Tirreno Settentrionale negli ultimi 5 anni: **DATO MANCANTE** — da verificare su CSSN / stampa locale / gruppi naviganti
+- Détail incidenti contro crocieristi in Tirreno Settentrionale negli ultimi 5 anni: **DONNÉE MANQUANTE** — da vérifier sur CSSN / stampa locale / gruppi naviganti
 
 ## Posti sicuri / posti da evitare
 
 ### ✅ Posti sicuri
 
-| Zona | Note | Fonte |
+| Zone | Note | Source |
 |---|---|---|
 | Marine presidiate con guardianaggio | Custodia, videosorveglianza | Standard Italia ★★★ |
-| Borghi minori presidiati di giorno | Bassa criminalità | **DATO MANCANTE** |
+| Borghi minori presidiati di giorno | Bassa criminalità | **DONNÉE MANQUANTE** |
 
 ### ⛔ Posti da evitare o attenzione
 
-| Zona | Rischio | Fonte |
+| Zone | Rischio | Source |
 |---|---|---|
-| Banchine incustodite / spiagge affollate con oggetti incustoditi | Furto opportunistico | Standard Mediterraneo ★★★ |
-| Dettaglio quartieri / aree per Tirreno Settentrionale | **DATO MANCANTE** | **DATO MANCANTE** |
+| Banchine incustodite / spiagge affollate con oggetti incustoditi | Furto opportunistico | Standard Méditerranée ★★★ |
+| Détail quartieri / aree per Tirreno Settentrionale | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
 
 ## Furti ai danni dei crocieristi
 
-Dati specifici per Tirreno Settentrionale: **DATO MANCANTE** — da verificare su Caribbean Safety and Security Net equivalenti mediterranee, forum, gruppi FB. Contromisure standard: catena + lucchetto dinghy, motore bloccato, dinghy sollevato a bordo di notte, nulla in vista.
+Dati specifici per Tirreno Settentrionale: **DONNÉE MANQUANTE** — da vérifier sur Caribbean Safety and Security Net equivalenti mediterranee, forum, gruppi FB. Contromisure standard: catena + lucchetto dinghy, motore bloccato, dinghy sollevato a bordo di notte, nulla in vista.
 
-## A bordo e a terra
+## À bord et à terre
 
-| Rischio | Dettaglio | Fonte |
+| Rischio | Détail | Source |
 |---|---|---|
 | Furti dinghy | Possibili dove incustodito — chiudere sempre | Standard ★★ |
 | Auto a terra | Non lasciare oggetti in vista | Standard ★★ |
 
-## Navigazione
+## Navigation
 
-| Rischio | Dettaglio | Fonte |
+| Rischio | Détail | Source |
 |---|---|---|
 | Traffico commerciale / traghetti | Intenso lungo rotte maggiori — sorveglianza AIS/VHF | IIM / Avvisi ★★★ |
-| Segnaletica **IALA-A** | Sistema Mediterraneo (rosso a sinistra entrando) — opposto all'IALA-B dei Caraibi | IALA ★★★★★ |
+| Segnaletica **IALA-A** | Sistema Méditerranée (rosso a sinistra entrando) — opposto all'IALA-B dei Caraïbes | IALA ★★★★★ |
 | Aree Marine Protette (AMP) | Divieti ancoraggio/navigazione specifici per area — verificare per Tirreno Settentrionale | Ministero Ambiente / Capitaneria ★★★★★ |
-| fondali / secche | Verificare sempre su carta ufficiale IIM | IIM ★★★★★ |
+| fondali / secche | Vérifier sempre su carta ufficiale IIM | IIM ★★★★★ |
 
-## Numeri di emergenza
+## Numéros d’urgence
 
 | Emergenza | Numero |
 |---|---|
 | Numero unico emergenze UE | **112** |
 | Guardia Costiera (SAR in mare) | **1530** · VHF **16** |
-| Polizia | **113** |
+| Police | **113** |
 | Vigili del Fuoco | **115** |
 | Emergenza sanitaria | **118** |
 
-## Salvataggio ed emergenze
+## Sauvetage et urgences
 
-- **Guardia Costiera — 1530 / VHF 16** coordina SAR in mare (MRCC regionali: Genova, Livorno, Roma, Napoli, Palermo, Taranto, Ancona, ecc. — dettaglio per Tirreno Settentrionale: **DATO MANCANTE**).
-- CROSS / MRCC competente per Tirreno Settentrionale: **DATO MANCANTE** — verificare su marina.difesa.it
+- **Guardia Costiera — 1530 / VHF 16** coordina SAR in mare (MRCC regionali: Genova, Livorno, Roma, Napoli, Palermo, Taranto, Ancona, ecc. — dettaglio per Tirreno Settentrionale: **DONNÉE MANQUANTE**).
+- CROSS / MRCC competente per Tirreno Settentrionale: **DONNÉE MANQUANTE** — vérifier sur marina.difesa.it
 
-Ultimo aggiornamento: 27/08/2026
+Dernière mise à jour: 27/08/2026

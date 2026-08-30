@@ -1,9 +1,9 @@
 # Baie de Genipa — la tranquilla {#anc-genipa}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
-| Campo | Dettaglio |
+[← All Anchorages](../08-ancoraggi.md)
+| Field | Detail |
 |---|---|
-| **Dove** | Fondale della baia di Fort-de-France, canali tra mangrovie |
+| **Where** | Fort-de-France Bay seabed, mangrove canals |
 | **Profondità** | 2–5 m circa nei canali |
 | **Tenuta** |Ottima su fango ★★|
 | **Venti/riparo** |Swell praticamente zero, riparo totale; senza vento arrivano zanzare ★★|
@@ -14,4 +14,4 @@
 <div class="mapframe" data-slug="genipa" data-lat="14.5520" data-lon="-61.0650"></div>
 *Vista mappa Baie de Genipa (coord. indicative) — zoom con i pulsanti +/−; menu in alto a destra per passare a Carta nautica e Segnali nautici · mappa offline*
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026

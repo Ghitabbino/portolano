@@ -1,39 +1,39 @@
-# 05 — Stagionalità e meteo
+# 05 — Seasonality & Weather
 
-**Ultima verifica: 27/08/2026**
+**Last checked: 27/08/2026**
 
-## Clima
+## Climate
 
-Clima mediterraneo sulla costa monegasca: inverni miti, estati calde e moderatamente umide, con influenza del Mediterraneo e delle Alpi Marittime. **DATO MANCANTE** su medie mensili precise — da verificare su Direction des Affaires Maritimes / Météo-France Monaco.
+Clima mediterraneo sulla costa monegasca: inverni miti, estati calde e moderatamente umide, con influenza del Mediterraneo e delle Alpi Marittime. **DATA MISSING** su medie mensili precise — da verificare su Direction des Affaires Maritimes / Météo-France Monaco.
 
-## Stagioni
+## Seasons
 
-| Periodo | Caratteristiche |
+| Period | Characteristics |
 |---|---|
-| **Aprile – ottobre** | **DATO MANCANTE** — verificare stagione principale di crociera |
-| **Novembre – marzo** | **DATO MANCANTE** — possibili burrasche mediterranee (maestrale, scirocco, meltemi a est) |
-| **Eventi estremi** | Mediterraneo non uraganico; **DATO MANCANTE** su tempeste autunnali / vento forte |
+| **Aprile – ottobre** | **DATA MISSING** — verificare stagione principale di crociera |
+| **Novembre – marzo** | **DATA MISSING** — possibili burrasche mediterranee (maestrale, scirocco, meltemi a est) |
+| **Eventi estremi** | Mediterraneo non uraganico; **DATA MISSING** su tempeste autunnali / vento forte |
 
-## Uragani / cicloni
+## Hurricanes / Cyclones
 
-Non applicabile come nei Caraibi; **DATO MANCANTE** su medicane / tempeste mediterranee. Verificare bollettini meteo nazionali.
+Non applicabile come nei Caribbean; **DATA MISSING** su medicane / tempeste mediterranee. Verificare bollettini meteo nazionali.
 
-## Consignes / avvisi
+## Notices / Warnings
 
-**DATO MANCANTE** — verificare procedure di allerta meteo marine.
+**DATA MISSING** — verificare procedure di allerta meteo marine.
 
-## Venti locali
+## Local Winds
 
-**DATO MANCANTE** — meltemi (Egeo), maestrale, scirocco, bora secondo area.
+**DATA MISSING** — meltemi (Egeo), maestrale, scirocco, bora secondo area.
 
-## Finestre tipiche di navigazione
+## Typical Sailing Windows
 
-**DATO MANCANTE**.
+**DATA MISSING**.
 
-## Link meteo utili
+## Useful Weather Links
 
-| Servizio | URL | Note |
+| Service | URL | Note |
 |---|---|---|
-| **DATO MANCANTE** | **DATO MANCANTE** | Bollettino marino Monaco |
+| **DATA MISSING** | **DATA MISSING** | Bollettino marino Monaco |
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

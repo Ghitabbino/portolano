@@ -1,45 +1,44 @@
-# 02 — Costo della vita
+# 02 — Cost of Living
 
-**Ultima verifica: 25/08/2026**
+**Last checked: 25/08/2026**
 
 | Voce | Costo indicativo | Rank |
 |---|---|---|
 | Cambio | **1 USD ≈ 24,7 Lempiras (HNL)**, tasso stabile | ★★★★ |
-| Formalità DGMM/despacho | tariffe modulate su stazza — **DATO MANCANTE** numerico recente | ★★ |
+| Formalità DGMM/despacho | tariffe modulate su stazza — **DATA MISSING** numerico recente | ★★ |
 | Marina Roatán (West End/French Harbour) | US$ 1,5–3/ft/notte nelle marine strutturate | ★★ |
-| Ristoranti Bay Islands | piatti US$ 8–20 | ★★ |
+| Restaurants Bay Islands | piatti US$ 8–20 | ★★ |
 | Vita quotidiana locale | bassa (mercato Coxen Hole) | ★★ |
 
 - Carte accettate nelle marine/turistico; contante nei villaggi ★★★
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026
 
-## Alimentari
+## Groceries
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Mangiare fuori
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
 
-## Carburanti
+## Eating Out
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Trasporti
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
 
-## Servizi quotidiani
+## Fuel
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
 
-## Contanti e pagamenti
+## Transport
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
+
+## Everyday Services
+
+**DATA MISSING** — da completare al controllo mensile.
+
+
+## Cash & Payments
+
+**DATA MISSING** — da completare al controllo mensile.

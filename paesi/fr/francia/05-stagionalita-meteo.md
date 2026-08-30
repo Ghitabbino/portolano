@@ -1,47 +1,47 @@
-# 05 — Stagionalità e meteo
+# 05 — Saisonnalité & Météo
 
-**Ultima verifica: 27/08/2026**
+**Dernière vérification: 27/08/2026**
 
-## Clima
+## Climat
 
-Clima mediterraneo sulla costa francese: estati calde/secche, inverni miti. **DATO MANCANTE** su medie mensili precise per area (Catalogna, Valencia, Andalusia, Baleari (riferimento comparativo)) — da verificare su Météo-France.
+Climat mediterraneo sulla costa francese: estati calde/secche, inverni miti. **DONNÉE MANQUANTE** su medie mensili precise per area (Catalogna, Valencia, Andalusia, Baleari (riferimento comparativo)) — da vérifier sur Météo-France.
 
-## Stagioni
+## Saisons
 
 | Periodo | Caratteristiche |
 |---|---|
-| **Aprile – ottobre** | **DATO MANCANTE** — verificare stagione principale di crociera per area |
-| **Novembre – marzo** | **DATO MANCANTE** — inverni miti ma possibili burrasche mediterranee (levante, mistral/tramontana su Baleari (riferimento comparativo) e NE) |
-| **Eventi estremi** | Mediterraneo non uraganico; possibili **DATO MANCANTE** su gota fría / DANA autunnale (verificare su Météo-France) |
+| **Aprile – ottobre** | **DONNÉE MANQUANTE** — verificare stagione principale di crociera per area |
+| **Novembre – marzo** | **DONNÉE MANQUANTE** — inverni miti ma possibili burrasche mediterranee (levante, mistral/tramontana su Baleari (riferimento comparativo) e NE) |
+| **Eventi estremi** | Méditerranée non uraganico; possibili **DONNÉE MANQUANTE** su gota fría / DANA autunnale (vérifier sur Météo-France) |
 
-## Uragani
+## Ouragans
 
-Non applicabile come nei Caraibi; **DATO MANCANTE** su tempeste mediterranee autunnali (DANA). Verificare bollettini Météo-France.
+Non applicabile come nei Caraïbes; **DONNÉE MANQUANTE** su tempeste mediterranee autunnali (DANA). Vérifier bollettini Météo-France.
 
-## Consignes / avvisi
+## Consignes / avis
 
-**DATO MANCANTE** — verificare procedure di allerta Météo-France / Affaires maritimes / SHOM.
+**DONNÉE MANQUANTE** — verificare procedure di allerta Météo-France / Affaires maritimes / SHOM.
 
-## Venti locali
+## Vents locaux
 
 | Vento | Area | Note |
 |---|---|---|
-| Tramontana / Mistral | NE Catalogna, Baleari (riferimento comparativo) | **DATO MANCANTE** — verificare regime |
-| Levante / Ponente | Stretto, Alborán | **DATO MANCANTE** |
-| Garbí / Xaloc | Valencia, Baleari (riferimento comparativo) | **DATO MANCANTE** |
+| Tramontana / Mistral | NE Catalogna, Baleari (riferimento comparativo) | **DONNÉE MANQUANTE** — verificare regime |
+| Levante / Ponente | Stretto, Alborán | **DONNÉE MANQUANTE** |
+| Garbí / Xaloc | Valencia, Baleari (riferimento comparativo) | **DONNÉE MANQUANTE** |
 
-## Finestre tipiche
+## Fenêtres météo typiques
 
-**DATO MANCANTE** — verificare finestre per traversate Baleari (riferimento comparativo) ↔ costa peninsulare.
+**DONNÉE MANQUANTE** — verificare finestre per traversate Baleari (riferimento comparativo) ↔ costa peninsulare.
 
-## Link meteo e carte locali
+## Liens météo et cartes locales
 
-- [Météo-France — Agencia Estatal de Meteorología](https://www.meteofrance.com) ★★★★★ — ufficiale Francia (da verificare copertura marina)
-- [Affaires maritimes / SHOM — Predicción](https://www.puertos.es) ★★★★ — **DATO MANCANTE** su dettaglio
+- [Météo-France — Agencia Estatal de Meteorología](https://www.meteofrance.com) ★★★★★ — ufficiale Francia (à vérifier copertura marina)
+- [Affaires maritimes / SHOM — Predicción](https://www.puertos.es) ★★★★ — **DONNÉE MANQUANTE** su dettaglio
 - [Windy](https://www.windy.com) · [PassageWeather](http://www.passageweather.com) · [PredictWind](https://www.predictwind.com) ★★★ — modelli per pianificazione
 
 ### Siti meteo locali
 
-- **DATO MANCANTE**
+- **DONNÉE MANQUANTE**
 
-Ultimo aggiornamento: 27/08/2026
+Dernière mise à jour: 27/08/2026

@@ -1,51 +1,51 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
-**Ultima verifica: 27/08/2026** · Coordinate in gradi decimali o N/W come da fonte — **DATO MANCANTE** dove non verificato
+**Last checked: 27/08/2026** · Coordinate in gradi decimali or N/W as from fonte — **DATA MISSING** dove non verificato
 
 ## Costa mediterranea — inquadramento
 
-La costa mediterranea egiziana va da Sallum/Alessandria a Port Said; quella sul Mar Rosso da Suez a Hurghada/Marsa Alam. Questo portolano copre la sola sezione mediterranea. **DATO MANCANTE** su distinzione Mediterraneo/Mar Rosso per procedure — da verificare su Egyptian Maritime Authority.
+La costa mediterranea egiziana va from Sallum/Alessandria a Port Said; quella sul Mar Rosso from Suez a Hurghada/Marsa Alam. Questo portolano copre la sola sezione mediterranea. **DATA MISSING** on distinzione Mediterraneo/Mar Rosso for procedure — from check on Egyptian Maritime Authority.
 
-### DATO MANCANTE — area principale / porto di ingresso
+### DATA MISSING — area principale / porto of ingresso
 
-- **DATO MANCANTE** — porti, coordinate, VHF, servizi. Verificare su elenco ufficiale Port Authority Egitto.
+- **DATA MISSING** — porti, coordinate, VHF, servizi. Check on elenco ufficiale Port Authority Egitto.
 
-### DATO MANCANTE — seconda area / costa
+### DATA MISSING — seconda area / costa
 
-- **DATO MANCANTE**
+- **DATA MISSING**
 
-### DATO MANCANTE — isole / arcipelago (se presente)
+### DATA MISSING — isole / arcipelago (se presente)
 
-- **DATO MANCANTE**
+- **DATA MISSING**
 
-## Tariffe ormeggi e marine
+## Berthing & Marina Tariffs
 
-> Stesse voci per tutti i paesi; **DATO MANCANTE** = da ricercare al controllo mensile.
+> Stesse voci for all i paesi; **DATA MISSING** = from ricercare at the controllo mensile.
 
-### DATO MANCANTE — marina di riferimento (da definire)
+### DATA MISSING — marina of riferimento (from definire)
 
-| Voce | Costo | Note |
+| Item | Cost | Note |
 |---|---|---|
-| Posto pontile — notte (~12 m) | **DATO MANCANTE** | **DATO MANCANTE** |
-| Posto pontile — notte (multiscafo ~12 m) | **DATO MANCANTE** | **DATO MANCANTE** |
-| Boa / mouillage — notte (~12 m) | **DATO MANCANTE** | **DATO MANCANTE** |
-| Mese pontile (~12 m) | **DATO MANCANTE** | **DATO MANCANTE** |
-| Elettricità | **DATO MANCANTE** | **DATO MANCANTE** |
-| Acqua | **DATO MANCANTE** | **DATO MANCANTE** |
-| Ancoraggio | **DATO MANCANTE** | **DATO MANCANTE** |
+| Alongside berth — for night (~12 m) | **DATA MISSING** | **DATA MISSING** |
+| Alongside berth — for night (multihull ~12 m) | **DATA MISSING** | **DATA MISSING** |
+| Mooring buoy — for night (~12 m) | **DATA MISSING** | **DATA MISSING** |
+| Monthly berth (~12 m) | **DATA MISSING** | **DATA MISSING** |
+| Electricity | **DATA MISSING** | **DATA MISSING** |
+| Water | **DATA MISSING** | **DATA MISSING** |
+| Anchorage | **DATA MISSING** | **DATA MISSING** |
 
-### Altre strutture
+### Other Facilities
 
-| Struttura | Costo/note | Fonte |
+| Facility | Cost/Notes | Source |
 |---|---|---|
-| **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** |
+| **DATA MISSING** | **DATA MISSING** | **DATA MISSING** |
 
-⚠️ **Da verificare prima della crociera**: listini marine, prenotazioni alta stagione, regolamenti ancoraggio.
+⚠️ **To Verify Before Your Cruise**: listini marine, prenotazioni alta stagione, regolamenti ancoraggio.
 
-## Distanze utili
+## Useful Distances
 
-| Tratta | Distanza |
+| Passage | Distance |
 |---|---|
-| **DATO MANCANTE** | **DATO MANCANTE** |
+| **DATA MISSING** | **DATA MISSING** |
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

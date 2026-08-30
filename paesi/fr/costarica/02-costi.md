@@ -1,4 +1,4 @@
-# 02 — Costo della vita
+# 02 — Coût de la vie
 
 Carburante — prezzo ufficiale RECOPE (giugno 2026) (globalpetrolprices.com ★★★★; tradingeconomics.com ★★★★):
 
@@ -12,38 +12,38 @@ Prezzi fissati mensilmente da ARESEP su dati RECOPE (qcostarica.com ★★★★
 
 Vita Puerto Viejo/Limón: **+20-30% vs Valle Central** (supermercati, ristoranti, alloggi) (costaricavibes.com ★★★; puertoviejosatellite.com ★★★).
 
-Supermercati Puerto Viejo: Old Harbour (più grande), Mega Super, Super Negro (nuova sede 2024), Super Cocles, El Duende Gourmet, Namú Ecotienda (puertoviejosatellite.com ★★★).
+Supermarchés Puerto Viejo: Old Harbour (più grande), Mega Super, Super Negro (nuova sede 2024), Super Cocles, El Duende Gourmet, Namú Ecotienda (puertoviejosatellite.com ★★★).
 
 Mercato contadino sabato a Puerto Viejo (prodotti locali, prezzi migliori) (rentalspuertoviejo.com ★★★).
 
-**Ultimo aggiornamento: 24/08/2026**
+**Dernière mise à jour: 24/08/2026**
 
-## Alimentari
+## Alimentation
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Mangiare fuori
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## Carburanti
+## Restauration à terre
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Trasporti
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## Servizi quotidiani
+## Carburants
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## Contanti e pagamenti
+## Transports
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
+
+
+## Services quotidiens
+
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
+
+
+## Espèces & paiements
+
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 

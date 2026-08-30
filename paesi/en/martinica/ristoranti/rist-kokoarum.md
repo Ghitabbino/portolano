@@ -1,17 +1,17 @@
 # KokOaRum Bar
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | Zona | Marina du Marin |
 | Cucina | 🥩 Grill e burger caraibico |
 | Specialità | Burger garnis · colombo de poisson |
-| Costo | 💰€€ per persona senza bevande |
+| Costo | 💰€€ per person without drinks |
 | Location | ⚓ marina, musica live |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=KokOaRum+Bar+Marina+du+Marin) |
 | Contatti | 0596 48 02 21 |
-| Valutazioni | Google 4,0/5 (747) · TA 3,5/5 (281) → ★★★½ |
+| Currencyzioni | Google 4,0/5 (747) · TA 3,5/5 (281) → ★★★½ |
 | Orari | serale · happy hour 17–19 · concerti mer e ven |
 
 ## Menu
@@ -28,4 +28,4 @@
 
 *Fonte: bellemartinique.com*
 
-**Note**: Sui pontili della marina · gestione Frédéric Chanelière e Valérie dal 2017
+**Notes**: On the docks of the marina · management Frédéric Chanelière and Valérie since 2017

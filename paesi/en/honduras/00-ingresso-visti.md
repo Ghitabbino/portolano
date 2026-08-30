@@ -1,9 +1,9 @@
-# 00 — Ingresso, documenti e visti
+# 00 — Entry, Documents & Visas
 
 
 ## Status
 
-| Voce | Dato |
+| Item | Data |
 |---|---|
 | Visto italiani/UE | **NON richiesto** fino a **90 giorni** ★★★★ |
 | **CA-4** | I 90 giorni sono CONDIVISI con Guatemala, El Salvador, Nicaragua: uscire in uno di questi non azzera ★★★★ |
@@ -29,14 +29,13 @@ online con almeno 48h di anticipo** tramite la Ventanilla Única (jotform uffici
 | Instituto Nacional de Migración | [inm.gob.hn](https://www.inm.gob.hn) |
 | Farnesina Honduras | [viaggiare.sicuri.it](https://www.viaggiare.sicuri.it/honduras) |
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026
 
-## Cittadini UE
+## EU Citizens
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
 
-## La barca
+## The Yacht
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
+**DATA MISSING** — da completare al controllo mensile.

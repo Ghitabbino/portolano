@@ -1,22 +1,21 @@
-# Provvisionamento
+# Provisioning
 
-**Ultimo aggiornamento: 23/08/2026**
+**Last updated: 23/08/2026**
 
 > ⚠️ Pagina in preparazione: dati in raccolta.
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026
 
-## Supermercati
+## Supermarkets
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Acqua e carburante
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
 
-## Consigli pratici
+## Water & Fuel
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
+
+## Practical Tips
+
+**DATA MISSING** — da completare al controllo mensile.

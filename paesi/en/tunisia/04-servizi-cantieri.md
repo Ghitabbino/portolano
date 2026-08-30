@@ -1,31 +1,31 @@
-# 04 — Servizi, cantieri e manutenzione
+# 04 — Services, yards & maintenance
 
 **Ultima verifica: 27/08/2026**
 
-## Hub tecnico — DATO MANCANTE
+## Hub tecnico — DATA MISSING
 
-Il principale hub tecnico per Tunisia è **DATO MANCANTE** — da verificare su Port Authority / associazioni nautiche locali.
+Il principale hub tecnico per Tunisia è **DATA MISSING** — to be verified su Port Authority / associazioni nautiche locali.
 
 | Servizio | Dettaglio | Fonte |
 |---|---|---|
-| Travelift / carenaggio | **DATO MANCANTE** | **DATO MANCANTE** |
-| Professionisti in porto | **DATO MANCANTE** | **DATO MANCANTE** |
-| Spedizione ricambi | **DATO MANCANTE** | **DATO MANCANTE** |
+| Travelift / carenaggio | **DATA MISSING** | **DATA MISSING** |
+| Professionisti in porto | **DATA MISSING** | **DATA MISSING** |
+| Spedizione ricambi | **DATA MISSING** | **DATA MISSING** |
 
 ## Altri cantieri
 
-**DATO MANCANTE**.
+**DATA MISSING**.
 
 ## Gas e bombole
 
-**DATO MANCANTE** — verificare standard bombole Tunisia (scambio/ricarica).
+**DATA MISSING** — verificare standard bombole Tunisia (scambio/ricarica).
 
 ## Acqua dolce
 
-**DATO MANCANTE**.
+**DATA MISSING**.
 
 ## Note strategiche
 
-**DATO MANCANTE** — verificare alta stagione cantieri e tempi d'attesa.
+**DATA MISSING** — verificare alta stagione cantieri e tempi d'attesa.
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

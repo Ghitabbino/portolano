@@ -1,4 +1,4 @@
-# Chaguaramas — ancoraggio cantieri {#anc-chaguaramas}
+# Chaguaramas — anchorage cantieri {#anc-chaguaramas}
 
 [← Tutti gli ancoraggi](../08-ancoraggi.md)
 **10°40′43″ N 61°38′10″ W** ★★★
@@ -17,4 +17,4 @@
 
 Fonti: [Noonsite](https://www.noonsite.com/place/trinidad-and-tobago/chaguaramas/) (05/2025) ★★★ · powerboats.co.tt ★★★★
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

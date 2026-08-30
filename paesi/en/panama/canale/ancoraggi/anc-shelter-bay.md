@@ -1,9 +1,9 @@
 # Shelter Bay {#anc-shelter-bay}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← All Anchorages](../08-ancoraggi.md)
 **9°21.5′N 79°57.1′W** ★★
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | **Profondità** |8–15 m su fango/sabbia davanti alla marina ★★|
 | **Tenuta àncora** |Ottima ★★|
@@ -16,4 +16,4 @@
 <div class="mapframe" data-slug="anc-shelter-bay" data-lat="9.358" data-lon="-79.951"></div>
 *Vista mappa Shelter Bay — menu in alto a destra per Carta nautica e Segnali nautici · mappa offline*
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026

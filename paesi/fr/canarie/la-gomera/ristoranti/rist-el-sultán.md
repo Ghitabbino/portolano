@@ -1,17 +1,17 @@
 # El Sultán
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Valle Gran Rey – Vueltas, 14 |
-| Cucina | 🥘 Internazionale |
-| Specialità | Menù variato per tutti |
-| Costo | 💰€ per persona senza bevande |
-| Location | 🪶 semplice vicino darsena |
-| Contatti | **922 806 041** |
-| Valutazioni | ★★★|
-| Orari | sera |
+| Zone | Valle Gran Rey – Vueltas, 14 |
+| Cuisine | 🥘 Internazionale |
+| Spécialité | Menù variato per tutti |
+| Coût | 💰€ per persona senza bevande |
+| Emplacement | 🪶 semplice vicino darsena |
+| Contacts | **922 806 041** |
+| Évaluations | ★★★|
+| Horaires | sera |
 
 ## Menu
 
@@ -21,4 +21,4 @@
 
 **Note**: Comodo da Vueltas
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026

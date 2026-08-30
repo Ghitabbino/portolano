@@ -1,51 +1,51 @@
-# 01 — Clearance doganale della barca
+# 01 — Formalités douanières
 
-**Ultima verifica: 27/08/2026**
+**Dernière vérification: 27/08/2026**
 
-## Chi deve farla
+## Qui doit effectuer les formalités
 
-**DATO MANCANTE** — verificare su fonte governativa francese (Douane française / Affaires maritimes / SHOM) chi deve effettuare la clearance in entrata/uscita e negli spostamenti interni. ★★★★★
+**DONNÉE MANQUANTE** — vérifier sur fonte governativa francese (Douane française / Affaires maritimes / SHOM) chi deve effettuare la clearance in entrata/uscita e negli spostamenti interni. ★★★★★
 
-## Procedura
+## Procédure
 
-| Passo | Dettaglio | Fonte |
+| Passo | Détail | Source |
 |---|---|---|
-| Dichiarazione online | **DATO MANCANTE** | **DATO MANCANTE** |
-| Documenti richiesti | **DATO MANCANTE** | **DATO MANCANTE** |
-| Punti di ingresso | **DATO MANCANTE** | **DATO MANCANTE** |
+| Dichiarazione online | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Documents richiesti | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Punti di ingresso | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
 
-## Copia cartacea e timbro
+## Copie papier et tampon
 
-**DATO MANCANTE**.
+**DONNÉE MANQUANTE**.
 
 ## Costi
 
-| Voce | Costo | Fonte |
+| Rubrique | Coût | Source |
 |---|---|---|
-| Dichiarazione | **DATO MANCANTE** | **DATO MANCANTE** |
-| Timbro / diritti portuali | **DATO MANCANTE** | **DATO MANCANTE** |
+| Dichiarazione | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Timbro / diritti portuali | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
 
-## Punti agréé / porti di ingresso
+## Points agréés / porti di ingresso
 
-| Località | Punto | Contatti | Orari |
+| Località | Punto | Contacts | Horaires |
 |---|---|---|---|
-| **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** |
+| **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
 
-## Dogana regionale
+## Douane régionale
 
-**DATO MANCANTE** — verificare recapito Douane française — Aduanas.
+**DONNÉE MANQUANTE** — verificare recapito Douane française — Aduanas.
 
-## Esperienze dei crocieristi
+## Retours de navigateurs
 
-**DATO MANCANTE**.
+**DONNÉE MANQUANTE**.
 
-## Sanzioni
+## Sanctions
 
-**DATO MANCANTE** — verificare normativa francese.
+**DONNÉE MANQUANTE** — verificare normativa francese.
 
-## Da verificare prima della crociera
+## À vérifier avant la croisière
 
 - Lista porti di ingresso aggiornati e orari.
 - Modulistica e URL ufficiale per la dichiarazione.
 
-Ultimo aggiornamento: 27/08/2026
+Dernière mise à jour: 27/08/2026

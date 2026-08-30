@@ -1,6 +1,6 @@
-# 05 — Stagionalità e meteo
+# 05 — Seasonality & weather
 
-**Ultima verifica: 25/08/2026**
+**Last checked: 25/08/2026**
 
 ## Clima
 
@@ -46,4 +46,4 @@ Stagione **giugno–novembre**, picco agosto–ottobre. Santa Lucia è stata col
 - [Windguru](https://www.windguru.cz) ★★★ — spot forecast costa nord (Reduit/Pigeon Point).
 - [Météo-France Antilles-Guadeloupe](https://meteofrance.com/fr/antilles) ★★★ — vigilance e bulletins delle Antille francesi utili per i canali verso Martinica/Dominica (non copre formalmente SL).
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

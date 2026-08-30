@@ -1,8 +1,8 @@
-# 05 — Stagionalità e meteo
+# 05 — Saisonnalité & Météo
 
-**Ultima verifica: 25/08/2026**
+**Dernière vérification: 25/08/2026**
 
-## Stagioni
+## Saisons
 
 | Periodo | Caratteristiche |
 |---|---|
@@ -10,26 +10,26 @@
 | **Giugno – novembre** | Umida/ciclonica: Honduras è STATA colpita duramente (Mitch 1998, catastrofico); rischio reale ★★★★ |
 | Dicembre – gennaio | **Nortes**: fronti freddi da N con raffiche 25-30 kt e swell sulla costa nord ★★★ |
 
-> 📡 **Aggiornamento 25/08/2026** — Stagione Atlantico 2026 sotto-normale (NOAA 75%,
+> 📡 **Aggiornamento 25/08/2026** — Saison Atlantique 2026 sotto-normale (NOAA 75%,
 > super El Niño). Piano ciclone comunque obbligatorio: rifugi interni barriera o Rio Dulce.
 
-## Link meteo
+## Liens météo
 
 CENAOS/COPECO (ufficiale) · NOAA NHC · Windy/PredictWind
 
-Ultimo aggiornamento: 25/08/2026
+Dernière mise à jour: 25/08/2026
 
-## Clima
+## Climat
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Venti locali
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## Finestre tipiche
+## Vents locaux
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
+
+
+## Fenêtres météo typiques
+
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 

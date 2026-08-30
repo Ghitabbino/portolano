@@ -1,8 +1,8 @@
-# 08 — Ancoraggi
+# 08 — Guide des mouillages
 
 ## Ancoraggi in dettaglio
 
-| # | Ancoraggio | Riparo | Fondo | Prof. | Boe |
+| # | Mouillage | Riparo | Fondo | Prof. | Boe |
 |---|---|---|---|---|---|
 | 1 | [Basseterre (Port Zante)](ancoraggi/anc-basseterre.md) | ★★★★ | Sabbia | ~7 m | No |
 | 2 | [Whitehouse Bay](ancoraggi/anc-whitehouse.md) | ★★★★ | Sabbia ed erba | 5–9 m | Boe private non utilizzabili |
@@ -11,10 +11,10 @@
 
 
 
-**Ultimo aggiornamento: 23/08/2026**
+**Dernière mise à jour: 23/08/2026**
 
 
-| Ancoraggio | Protezione | Note |
+| Mouillage | Protezione | Note |
 |---|---|---|
 | Basseterre (Port Zante) | Media | Città, clearance; VHF 68 ★★★ |
 | **Whitehouse Bay** | Buona con NE | Sud-ovest: marina South Friar's, base comoda per sud costa ★★★ |
@@ -23,24 +23,24 @@
 
 Distanze: St-Kitts–Nevis ~5 nm · St-Martin–St-Kitts ~55 nm S · Nevis–Montserrat ~30 nm SE · St-Kitts–Saba ~35 nm NW ★★
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026
 
-## Regole generali
+## Règles générales
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Tabella riassuntiva
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## Cartografia ufficiale
+## Tableau récapitulatif
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## Checklist àncora
+## Cartographie officielle
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
+
+
+## Check-list mouillage
+
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 

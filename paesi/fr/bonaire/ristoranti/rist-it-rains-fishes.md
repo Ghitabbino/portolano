@@ -1,18 +1,18 @@
 # It Rains Fishes
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Kralendijk centro — Kaya J.N.E. Craane 24, sul molo (edificio storico >100 anni) |
-| Cucina | 🐟 Pesce e frutti di mare — internazionale con accento caraibico |
-| Specialità | *Pescato del giorno consegnato al molo davanti al ristorante · Tuna seared con salsa soy-oyster, wahoo, mahi-mahi, snapper* |
-| Costo | 💰€€€ per persona senza bevande (antipasti US$12–19, piatti US$28–45, dessert US$8–12) |
-| Location | ⚓ waterfront storico, terrazza sul mare, pier privato |
+| Zone | Kralendijk centro — Kaya J.N.E. Craane 24, sul molo (edificio storico >100 anni) |
+| Cuisine | 🐟 Pesce e frutti di mare — internazionale con accento caraibico |
+| Spécialité | *Pescato del giorno consegnato al molo davanti al ristorante · Tuna seared con salsa soy-oyster, wahoo, mahi-mahi, snapper* |
+| Coût | 💰€€€ per persona senza bevande (antipasti US$12–19, piatti US$28–45, dessert US$8–12) |
+| Emplacement | ⚓ waterfront storico, terrazza sul mare, pier privato |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=It+Rains+Fishes+Kaya+J+N+E+Craane+24+Kralendijk) |
-| Contatti | +599 717 8780 · [itrainsfishesbonaire.com](https://itrainsfishesbonaire.com) |
-| Valutazioni | **bonaire.com 4,5/5 (896) [locale, 07/07/2026]** ★★★ · Google 4,5/5 (1156) · TripAdvisor 4,2/5 (2.301) → **★★★★½** |
-| Orari | lun–ven 10:00–15:00 / 17:00–21:30 · sab 17:00–21:30 · dom chiuso — pranzo e cena, prenotazione consigliata |
+| Contacts | +599 717 8780 · [itrainsfishesbonaire.com](https://itrainsfishesbonaire.com) |
+| Évaluations | **bonaire.com 4,5/5 (896) [locale, 07/07/2026]** ★★★ · Google 4,5/5 (1156) · TripAdvisor 4,2/5 (2.301) → **★★★★½** |
+| Horaires | lun–ven 10:00–15:00 / 17:00–21:30 · sab 17:00–21:30 · dom chiuso — pranzo e cena, prenotazione consigliata |
 
 ## Menu
 
@@ -24,9 +24,9 @@
 
 **Chef**: Persia & Chef (famiglia, gestione locale)
 
-## Foto
+## Photos
 
-*Foto non ancora disponibili — recuperare al controllo mensile (verificare sito ufficiale).*
+*Photos non ancora disponibili — recuperare al controllo mensile (verificare sito ufficiale).*
 
 ## Note
 

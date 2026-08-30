@@ -1,44 +1,44 @@
-# 02 — Costo della vita
+# 02 — Cost of Living
 
-Valuta: **euro**. Fuori dall'area IVA UE: vige l'**IGIC (~7%)** → beni e carburante in genere più economici che nel continente. Contesto fiscale comune → [../00-ingresso-visti.md](../00-ingresso-visti.md).
+Currency: **euro**. Outside the EU VAT area: vige l'**IGIC (~7%)** → beni and carburante in genere more economici che nel continente. Contesto fiscale comune → [../00-ingresso-visti.md](../00-ingresso-visti.md).
 
-## Marina e ormeggi
+## Marina and ormeggi
 
-| Voce | Dato |
+| Item | Data |
 |---|---|
-| Pontile Marina La Palma (notte) | (da confermare) — listino 2026 da verificare in marina |
-| Mese pontile | Tipico 12 m: ~500–900 €/mese ⚠️ listino capitaineria |
-| Elettricità/acqua | di norma incluse o a parte secondo contratto — (da confermare) |
-| Tazacorte (approdo) | tariffe pontile → (da confermare) |
+| Pontoon Marina La Palma (notte) | (from confermare) — listino 2026 from check in marina |
+| Month pontile | Tipico 12 m: ~500–900 €/mese ⚠️ listino capitaineria |
+| Electricity/acqua | of norma incluse or a parte second contratto — (from confermare) |
+| Tazacorte (approdo) | tariffe pontile → (from confermare) |
 
-## Carburanti
+## Fuel
 
-| Carburante | Prezzo/L |
+| Carburante | Price/L |
 |---|---|
-| Gasolio marina (dock) | (da confermare) — l'IGIC rende il prezzo tipicamente favorevole vs continente |
+| Gasolio marina (dock) | (from confermare) — l'IGIC rende il prezzo tipicamente favorevole vs continente |
 | Benzina | Gasolina 95 ~1,45 €/l · Gasóleo ~1,40 €/l |[Geoportal MITECO](https://www.geoportalgasolineras.es/) ★★★★|
-| Bombola gas (riempimento) | (da confermare) |
+| Bombola gas (riempimento) | (from confermare) |
 
 ## Vita a bordo
 
-| Servizio | Costo |
+| Service | Cost |
 |---|---|
-| Alimentari (supermercati Santa Cruz, Los Llanos) | in linea con il resto dell'arcipelago; alcuni prodotti locali (banana de La Palma, vino) economici — prezzi puntuali (da confermare) |
-| Lavanderia | 3–6 €/carico self-service |Marine e lavanderie urbane ★★|
-| SIM prepagata (operatori spagnoli) | offerte generose su dati; tariffa attuale (da confermare) |
+| Groceries (supermercati Santa Cruz, Los Llanos) | in linea with il resto dell'arcipelago; alcuni prodotti locali (banana de La Palma, vino) economici — prezzi puntuali (from confermare) |
+| Lavanderia | 3–6 €/carico self-service |Marine and lavanderie urbane ★★|
+| SIM prepagata (operatori spagnoli) | offerte generose on dati; tariffa attuale (from confermare) |
 
-## Contanti e pagamenti
+## Cash & Payments
 
-Carte accettate ovunque nei centri; contante utile a Tazacorte e per i piccoli servizi portuali.
+Carte accettate ovunque nei centri; contante utile a Tazacorte and for i piccoli servizi portuali.
 
-## Approfondimenti
+## Further Reading
 
-Porti/tariffe → [03-porti-ancoraggi.md](03-porti-ancoraggi.md); provisioning di arcipelago → vedere le pagine di Tenerife/Gran Canaria.
+Porti/tariffe → [03-porti-ancoraggi.md](03-porti-ancoraggi.md); provisioning of arcipelago → vedere le pagine of Tenerife/Gran Canaria.
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026
 
-## Alimentari
-## Mangiare fuori
-## Trasporti
-## Servizi quotidiani
-Ultimo aggiornamento: 23/08/2026
+## Groceries
+## Eating Out
+## Transport
+## Everyday Services
+Last updated: 23/08/2026

@@ -1,15 +1,15 @@
-# 10 — Ristoranti
+# 10 — Restaurants
 
-**Ultimo aggiornamento: 23/08/2026**
+**Dernière mise à jour: 23/08/2026**
 
 
-Grand Case = capitale gastronomica dei Caraibi: fila di ristoranti francesi in case creole sul Boulevard ★★★★
+Grand Case = capitale gastronomica dei Caraïbes: fila di ristoranti francesi in case creole sul Boulevard ★★★★
 
-| Locale | Zona | Prezzi | Cucina | Note |
+| Locale | Zone | Prezzi | Cuisine | Note |
 |---|---|---|---|---|
 | [Le Pressoir](https://lepressoirsxm.com) | Grand Case | €€€ | Francese fine | Creole cottage, prenotare ★★★★ |
 | Villa Royale | Grand Case, 47 bd de Grand Case, tel 0590 87 07 42 | €€ | Haitiana/creola | Djon-djon rice ★★★ |
-| Lolos di Grand Case | Grand Case | € | Grigliate stradali | Johnny cakes, brochettes ★★★★ |
+| Lolos di Grand Case | Grand Case | € | Grillete stradali | Johnny cakes, brochettes ★★★★ |
 | Friar's Bay Beach Café | Friar's Bay | €€ | Bistro | Spiaggia, tramonto ★★★ |
 | Le Bistro Nu | Marigot, 23 rue Perrinon | €€ | Francese | ★★★ |
 | 978 Beach Lounge | Friar's Bay | €€ | Creola | Beach lounge ★★ |
@@ -19,14 +19,14 @@ Grand Case = capitale gastronomica dei Caraibi: fila di ristoranti francesi in c
 - **Marigot**: Marché Central, supermercati francesi (Leader Price), panetterie ★★★★
 - **Simpson Bay lagoon**: chandler e supermercati olandesi ★★★
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026
 
-## Griglia generale
+## Grille générale
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## App e fonti
+## Applis et sources
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 

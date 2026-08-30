@@ -1,20 +1,20 @@
 # Gros Islet / Pigeon Island {#anc-pigeon-island}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← Tous les mouillages](../08-ancoraggi.md)
 **14°05′27″ N 60°57′49″ W** ★★
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| **Profondità** |**DATO MANCANTE**|
-| **Tenuta àncora** |Difficile: attenzione ai reef|
-| **Venti/riparo** |Più tranquilla della rada|
-| **Pericoli** |Non ancorare vicino al corallo; ⚠️ CSSN: tentati furti dinghy 2024|
-| **Boe/divieti/normative** |Parco chiude la sera|
-| **A terra** |Pigeon Island National Landmark|
+| **Profondeur** |**DONNÉE MANQUANTE**|
+| **Tenue de l’ancre** |Difficile: attenzione ai reef|
+| **Vents/abri** |Più tranquilla della rada|
+| **Dangers** |Non ancorare vicino al corallo; ⚠️ CSSN: tentati furti dinghy 2024|
+| **Bouées/interdictions/réglementation** |Parco chiude la sera|
+| **À terre** |Pigeon Island National Landmark|
 
 <div class="mapframe" data-slug="anc-pigeon-island" data-lat="14.09074" data-lon="-60.96352"></div>
-*Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
+*Carte détaillée — zoomez jusqu’à la baie · carte hors ligne · coordinate WGS84 indicative, toujours vérifier avec le traceur*
 
 Fonti: CruisersWiki ★★★ · CSSN #3260/#3762 (2024) ★★★★
 
-Ultimo aggiornamento: 25/08/2026
+Dernière mise à jour: 25/08/2026

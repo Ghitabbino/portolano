@@ -7,7 +7,7 @@
 | Zona | Grace Bay (Seven Stars Resort) |
 | Cucina | 🍽️ Internazionale / caraibica |
 | Specialità | *Risotto · wahoo · steak* |
-| Costo | 💰€€€ per persona senza bevande |
+| Costo | 💰€€€ per person without drinks |
 | Location | 🏖️ resort — vista Grace Bay |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Seven+Restaurant+Seven+Stars+Grace+Bay+Providenciales) |
 | Contatti | +1 (649) 941-7777 · [sevenstarsgracebay.com](https://www.sevenstarsgracebay.com) |

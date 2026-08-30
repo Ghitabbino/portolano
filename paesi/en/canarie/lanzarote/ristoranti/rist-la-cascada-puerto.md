@@ -1,25 +1,25 @@
 # La Cascada Puerto
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| Zona | Puerto del Carmen – varadero |
-| Cucina | 🐟 Caldereta e gambas |
-| Specialità | Caldereta de pescado |
-| Costo | 💰€€ per persona senza bevande |
-| Location | ⚓ rustico sul porto |
-| Contatti | [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Cascada+Puerto+del+Carmen) |
-| Valutazioni |TA ★★★★|
-| Orari | pranzo/cena |
+| Area | Puerto of the Carmen – varadero |
+| Cuisine | 🐟 Caldereta and gambas |
+| Speciality | Caldereta de pescado |
+| Cost | 💰€€ for persona without bevande |
+| Setting | ⚓ rustico sul porto |
+| Contacts | [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Cascada+Puerto+del+Carmen) |
+| Ratings |TA ★★★★|
+| Hours | pranzo/cena |
 
 ## Menu
 
 - Caldereta para dos
-- Gambas al ajillo
+- Gambas at the ajillo
 
 **Chef**: ND
 
 **Note**: Animato, centro puerto
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

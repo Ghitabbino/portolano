@@ -15,7 +15,7 @@
     },
     {
       "id": "antigua-barbuda",
-      "label": "Antigua Barbuda"
+      "label": "Antigua y Barbuda"
     },
     {
       "id": "aruba",
@@ -23,7 +23,7 @@
     },
     {
       "id": "azzorre",
-      "label": "Azzorre"
+      "label": "Azores"
     },
     {
       "id": "bahamas",
@@ -43,7 +43,7 @@
     },
     {
       "id": "bosnia-erzegovina",
-      "label": "Bosnia Erzegovina"
+      "label": "Bosnia y Herzegovina"
     },
     {
       "id": "cabo-verde",
@@ -51,15 +51,15 @@
     },
     {
       "id": "canarie",
-      "label": "Canarie"
+      "label": "Islas Canarias"
     },
     {
       "id": "cayman",
-      "label": "Cayman"
+      "label": "Cayman Islands"
     },
     {
       "id": "cipro",
-      "label": "Cipro"
+      "label": "Chipre"
     },
     {
       "id": "colombia",
@@ -71,11 +71,11 @@
     },
     {
       "id": "costarica",
-      "label": "Costarica"
+      "label": "Costa Rica"
     },
     {
       "id": "croazia",
-      "label": "Croazia"
+      "label": "Croacia"
     },
     {
       "id": "cuba",
@@ -83,7 +83,7 @@
     },
     {
       "id": "curacao",
-      "label": "Curacao"
+      "label": "Curaçao"
     },
     {
       "id": "dominica",
@@ -91,7 +91,7 @@
     },
     {
       "id": "egitto",
-      "label": "Egitto"
+      "label": "Egipto"
     },
     {
       "id": "francia",
@@ -99,7 +99,7 @@
     },
     {
       "id": "giamaica",
-      "label": "Giamaica"
+      "label": "Jamaica"
     },
     {
       "id": "grecia",
@@ -111,11 +111,11 @@
     },
     {
       "id": "grenadine",
-      "label": "Grenadine"
+      "label": "Grenadines"
     },
     {
       "id": "guadalupa",
-      "label": "Guadalupa"
+      "label": "Guadalupe"
     },
     {
       "id": "haiti",
@@ -127,7 +127,7 @@
     },
     {
       "id": "israele",
-      "label": "Israele"
+      "label": "Israel"
     },
     {
       "id": "italia",
@@ -135,7 +135,7 @@
     },
     {
       "id": "libano",
-      "label": "Libano"
+      "label": "Líbano"
     },
     {
       "id": "libia",
@@ -151,7 +151,7 @@
     },
     {
       "id": "marocco",
-      "label": "Marocco"
+      "label": "Marruecos"
     },
     {
       "id": "martinica",
@@ -179,11 +179,11 @@
     },
     {
       "id": "porto-rico",
-      "label": "Porto Rico"
+      "label": "Puerto Rico"
     },
     {
       "id": "repubblica-dominicana",
-      "label": "Repubblica Dominicana"
+      "label": "República Dominicana"
     },
     {
       "id": "saba",
@@ -199,11 +199,11 @@
     },
     {
       "id": "santa-lucia",
-      "label": "Santa Lucia"
+      "label": "Santa Lucía"
     },
     {
       "id": "siria",
-      "label": "Siria"
+      "label": "Syria"
     },
     {
       "id": "slovenia",
@@ -211,19 +211,19 @@
     },
     {
       "id": "spagna",
-      "label": "Spagna"
+      "label": "España"
     },
     {
       "id": "st-eustatius",
-      "label": "St Eustatius"
+      "label": "Sint Eustatius"
     },
     {
       "id": "st-kitts-nevis",
-      "label": "St Kitts Nevis"
+      "label": "Saint Kitts and Nevis"
     },
     {
       "id": "trinidad-tobago",
-      "label": "Trinidad Tobago"
+      "label": "Trinidad y Tobago"
     },
     {
       "id": "tunisia",
@@ -231,11 +231,11 @@
     },
     {
       "id": "turchia",
-      "label": "Turchia"
+      "label": "Turquía"
     },
     {
       "id": "turks-caicos",
-      "label": "Turks Caicos"
+      "label": "Islas Turcas y Caicos"
     },
     {
       "id": "venezuela",
@@ -243,7 +243,7 @@
     },
     {
       "id": "virgin-islands",
-      "label": "Virgin Islands"
+      "label": "Islas Vírgenes"
     }
   ],
   "ids": [

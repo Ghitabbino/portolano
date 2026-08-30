@@ -1,40 +1,40 @@
-# 05 — Stagionalità e meteo
+# 05 — Seasonality & Weather
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026
 
-## Clima
+## Climate
 
-Oceanico subtropicale, mite tutto l'anno: aria 18–28 °C, mare 19–24 °C. Mai cicloni significativi (fuori dalla fascia uragani).
+Subtropical oceanic, mild year-round: air 18–28 °C, sea 19–24 °C. No significant cyclones (outside the hurricane belt).
 
-## Stagioni
+## Seasons
 
 | Periodo | Condizioni |
 |---|---|
-| **Nov–mar** | Alta stagione velica: alisei NE 15–25 kn, affollamento Las Palmas (ARC nov, preparativi traversate) |
-| **Apr–giu** | Alisei stabili, meno traffico; ottimo per girare l'arcipelago |
-| **Lug–ott** | Vento più sostenuto a sud; Calima più probabile |
+| **Nov–mar** | Peak sailing season: NE trade winds 15–25 kn, crowded Las Palmas (ARC in Nov, Atlantic crossing preparations) |
+| **Apr–giu** | Steady trade winds, less traffic; excellent for cruising the archipelago |
+| **Lug–ott** | Stronger wind in the south; Calima more likely |
 
 ## Calima
 
-Vento da est/sahariano con polvere: visibilità ridotta, temperature su, calo improvviso del barometro no. Dura tipicamente 1–3 giorni. Seguirla su [AEMET](https://www.aemet.es) ★★★★★.
+Easterly/Saharan wind with dust: reduced visibility, higher temperatures, no sharp barometric drop. Typically lasts 1–3 days. Track it on [AEMET](https://www.aemet.es) ★★★★★.
 
-## Venti locali
+## Local Winds
 
 - **Aliseo NE** dominante: costa nord/est esposta, sud sottovento.
-- **Accelerazioni** a ridosso dei rilievi e nelle gole costiere.
-- Brise di valle pomeridiane lungo la costa sud.
+- **Accelerazioni** a ridosso of the rilievi and nelle gole costiere.
+- Afternoon valley breezes along the south coast.
 
-## Finestre tipiche
+## Typical Weather Windows
 
-- Las Palmas → Santa Cruz de Tenerife: ~60–70 Mm, partenza presto al mattino o notturna.
-- Traversata atlantica (→ Caraibi): finestra storica **novembre–dicembre** da Las Palmas.
+- Las Palmas → Santa Cruz de Tenerife: ~60–70 Mm, partenza presto at the mattino or notturna.
+- Atlantic crossing (→ Caribbean): historic window **November–December** from Las Palmas.
 
-## Link meteo
+## Weather Links
 
-| Fonte | Note |
+| Source | Note |
 |---|---|
 | [AEMET](https://www.aemet.es) ★★★★★ | Previsioni ufficiali Spagna, avvisi |
-| [Windy / PredictWind] ★★★ | Modelli vento per pianificare |
+| [Windy / PredictWind] ★★★ | Modelli vento for pianificare |
 | Bollettini Capitanía | VHF, in marina |
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

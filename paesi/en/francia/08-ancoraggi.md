@@ -1,58 +1,58 @@
-# 08 — Portolano degli ancoraggi
+# 08 — Anchorage Pilot
 
-**Ultima verifica: 27/08/2026**
+**Last checked: 27/08/2026**
 
-## Regole generali di ancoraggio (prima di tutto)
+## General Anchorage Rules (First and Foremost)
 
-- **Regolamenti locali**: ancoraggio soggetto a regolamenti comunali / parchi / capitanerie. Nelle **Baleari (riferimento comparativo) divieto di ancorare su Posidonia oceanica** (prateria protetta) — sanzioni elevate. Verificare su Préfecture maritime de la Méditerranée / SHOM. ★★★★ — **DATO MANCANTE** su dettagli sanzioni e mappe ufficiali.
-- **Segnaletica IALA-A** in Mediterraneo (opposto a IALA-B dei Caraibi). ★★★
-- **DATO MANCANTE** su zone di divieto assoluto per area (riserve, parchi, zone militari, campi boe obbligatori).
+- **Rulementi locali**: ancoraggio soggetto a regolamenti comunali / parchi / capitanerie. Nelle **Baleari (riferimento comparativo) divieto of ancorare on Posidonia oceanica** (prateria protetta) — sanzioni elevate. Check on Préfecture maritime de la Méditerranée / SHOM. ★★★★ — **DATA MISSING** on dettagli sanzioni and mappe ufficiali.
+- **Segnaletica IALA-A** in Mediterraneo (opposto a IALA-B of the Caraibi). ★★★
+- **DATA MISSING** on zone of divieto assoluto for area (riserve, parchi, zone militari, campi boe obbligatori).
 
-### ⛔ Zone di divieto assoluto (ufficiali)
+### ⛔ Strictly Prohibited Areas (Official)
 
-| Zona | Divieto | Fonte |
+| Area | Divieto | Source |
 |---|---|---|
-| **DATO MANCANTE** — Posidonia / parchi (Port-Cros, Calanques) | Àncora vietata su posidonia | **DATO MANCANTE** |
-| **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** |
+| **DATA MISSING** — Posidonia / parchi (Port-Cros, Calanques) | Àncora vietata on posidonia | **DATA MISSING** |
+| **DATA MISSING** | **DATA MISSING** | **DATA MISSING** |
 
-> Testi integrali e mappe ufficiali: **DATO MANCANTE** — da verificare su miteco.gob.es / Govern Balear / Affaires maritimes / SHOM.
+> Testi integrali and mappe ufficiali: **DATA MISSING** — from check on miteco.gob.es / Govern Balear / Affaires maritimes / SHOM.
 
-## Tabella riassuntiva — i migliori ancoraggi
+## Summary Table — Best Anchorages
 
-| # | Ancoraggio | Riparo venti prevalenti | Tenuta | Profondità | Affollamento | Giudizio comunità |
+| # | Anchorage | Shelter from Prevailing Winds | Holding | Depth | Crowding | Community Rating |
 |---|---|---|---|---|---|---|
-| 1 | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** |
-| 2 | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** |
+| 1 | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** |
+| 2 | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** |
 
-*In preparazione — ancoraggi mediterranei spagnoli da censire con coordinate WGS84 verificate. Nessun punto inventato.*
+*In preparazione — ancoraggi mediterranei spagnoli from censire with coordinate WGS84 verificate. Nessun punto inventato.*
 
-### Mappa generale degli ancoraggi
+### General Anchorage Chart
 
 <div class="mapframe" data-slug="francia" data-minz="5" data-maxz="16" data-lat="43.30" data-lon="6.50" data-markers='[]'></div>
 
-*In preparazione: mappa placeholder centrata su Mediterraneo francese (Costa Azzurra – Corsica). I marker verranno aggiunti solo con coordinate verificate WGS84. Tasselli locali zoom 5–13 (satellitare / carta nautica / segnali OpenSeaMap) — da generare dopo inserimento punti reali.*
+*In preparazione: mappa placeholder centrata on Mediterraneo francese (Costa Azzurra – Corsica). I marker verranno aggiunti only with coordinate verificate WGS84. Tasselli locali zoom 5–13 (satellitare / carta nautica / segnali OpenSeaMap) — from generare dopo inserimento punti reali.*
 
 ---
 
-## Cartografia ufficiale
+## Official Charts
 
 | Carta | Copertura | Note |
 |---|---|---|
-| **Service hydrographique et océanographique de la Marine (SHOM)** | Coste francesi | Carte ufficiali Francia — **DATO MANCANTE** su numeri/nomenclatura per tratto |
-| **NV Charts / Imray** | Mediterraneo Francia / Baleari (riferimento comparativo) | Alternativa plaisance, WGS84 — **DATO MANCANTE** su edizioni |
+| **Service hydrographique et océanographique de la Marine (SHOM)** | Coste francesi | Carte ufficiali Francia — **DATA MISSING** on numeri/nomenclatura for tratto |
+| **NV Charts / Imray** | Mediterraneo Francia / Baleari (riferimento comparativo) | Alternativa plaisance, WGS84 — **DATA MISSING** on edizioni |
 
-- Le carte IHM riportano zone regolamentate; acquistabili da rivenditori autorizzati. ★★★★ — **DATO MANCANTE** su dettagli.
-- Per la navigazione quotidiana: carta elettronica ufficiale su plotter + carta cartacea come riserva.
+- Le carte IHM riportano zone regolamentate; acquistabili from rivenditori autorizzati. ★★★★ — **DATA MISSING** on dettagli.
+- Per la navigazione quotidiana: carta elettronica ufficiale on plotter + carta cartacea as riserva.
 
-## Non inclusi (per ora)
+## Not Included (For Now)
 
-- Tutti gli ancoraggi sono **DATO MANCANTE** — da censire al controllo mensile con fonti verificate.
+- Tutti gli ancoraggi are **DATA MISSING** — from censire at the controllo mensile with fonti verificate.
 
-## Checklist àncora per la Francia
+## Anchor Checklist for la Francia
 
-1. Carte ufficiali IHM / elettronica aggiornata ✓ — **DATO MANCANTE** su numeri carte
-2. Verifica divieti posidonia (Baleari (riferimento comparativo)) e parchi marini ✓ — **DATO MANCANTE**
-3. Àncora adeguata a sabbia/posidonia/roccia (fondali vari) — **DATO MANCANTE**
-4. **DATO MANCANTE**
+1. Carte ufficiali IHM / elettronica aggiornata ✓ — **DATA MISSING** on numeri carte
+2. Verifica divieti posidonia (Baleari (riferimento comparativo)) and parchi marini ✓ — **DATA MISSING**
+3. Àncora adeguata a sabbia/posidonia/roccia (fondali vari) — **DATA MISSING**
+4. **DATA MISSING**
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

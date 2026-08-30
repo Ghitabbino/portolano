@@ -1,41 +1,41 @@
-# 07 — Provvisioning
+# 07 — Provisioning
 
-**Ultimo aggiornamento: 21/08/2026**
+**Last updated: 21/08/2026**
 
 ## Livello prezzi generale
 
-- Alimentari ~+30–40% vs Francia metropolitana, in linea con la Martinica; più economici delle Grenadine secondo i naviganti. ★★
-- Prodotti locali convenienti: pesce dai pescatori, frutta/verdura dei mercati, pane/boulangerie. ★★★
+- Groceries ~+30–40% vs Francia metropolitana, in linea with la Martinica; more economici of the Grenadine second i naviganti. ★★
+- Prodotti locali convenienti: pesce dai pescatori, frutta/verdura of the mercati, pane/boulangerie. ★★★
 
 ## Supermercati
 
 | Negozio | Dove | Note |
 |---|---|---|
-| **Hyper Casino Jarry** | Baie-Mahault | Il più grande dell'arcipelago; tutto, prezzi migliori |
+| **Hyper Casino Jarry** | Baie-Mahault | Il more large dell'arcipelago; all, prezzi migliori |
 | **Carrefour Jarry** | Baie-Mahault | Ottima selezione francesi/import |
 | Super U / Leader Price | Pointe-à-Pitre, Le Gosier, Sainte-Anne, Saint-François, Basse-Terre | Diffusi ovunque |
-| Supermercati Bas-du-Fort | accanto alla marina | Comodo per rifornimento rapido |
+| Supermercati Bas-du-Fort | accanto at the marina | Comodo for rifornimento rapido |
 
-La zona **Jarry** (3.500 imprese) è il maggiore polo commerciale dei Caraibi: qui si trova praticamente tutto, compresi pezzi industriali e ricambi. ★★
+La zona **Jarry** (3.500 imprese) è il maggiore polo commerciale of the Caraibi: qui si trova praticamente all, compresi pezzi industriali and ricambi. ★★
 
 ## Mercati
 
-- **Marché de la Darse** (Pointe-à-Pitre, sul molo): frutta, verdura, pesce, spezie — mattino, meglio sabato. Iconico edificio giallo e verde.
-- Marché di Saint-Antoine (PAP) e mercati comunali di Basse-Terre, Saint-François, Capesterre (Marie-Galante).
-- Pesce fresco: approccio ai pescatori nei porti (Deshaies, Saint-Louis de Marie-Galante) al ritorno delle barche (~10h).
+- **Marché de la Darse** (Pointe-à-Pitre, sul molo): frutta, verdura, pesce, spezie — mattino, meglio sabato. Iconico edificio giallo and verde.
+- Marché of Saint-Antoine (PAP) and mercati comunali of Basse-Terre, Saint-François, Capesterre (Marie-Galante).
+- Pesce fresco: approccio at the pescatori nei porti (Deshaies, Saint-Louis de Marie-Galante) at the ritorno of the barche (~10h).
 
-## Acqua e carburante
+## Water and carburante
 
-| Servizio | Dove |
+| Service | Dove |
 |---|---|
 | Water dock | Marina Bas-du-Fort (incluso nel posto), Saint-François, Deshaies (pontile municipio), Rivière Sens |
-| Fuel dock | Bas-du-Fort 8h–12h/14h–18h; Saint-François; stazioni stradali Jarry con tanica |
-| Gas (butane/propane) | Scambi bottiglia standard francesi a Jarry e nei punti U; attenzione ai raccordi |
+| Fuel dock | Bas-du-Fort 8h–12h/14h–18h; Saint-François; stazioni stradali Jarry with tanica |
+| Gas (butane/propane) | Scambi bottiglia standard francesi a Jarry and nei punti U; attenzione at the raccordi |
 
 ## Consigli pratici
 
 - Grande spesa = Jarry (auto/taxi dalla marina, 15 min); fresco quotidiano = mercato Darse.
 - Sulle isole minori (Saintes, Petite Terre, Désirade) scelta limitata: fare scorta prima.
-- Consegne: alcuni supermercati Jarry consegnano in marina per ordini telefonici ⚠️ da verificare caso per caso.
+- Consegne: alcuni supermercati Jarry consegnano in marina for ordini telefonici ⚠️ from check caso for caso.
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026

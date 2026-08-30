@@ -1,20 +1,20 @@
 # Cienfuegos {#anc-cienfuegos}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← All anchorages](../08-ancoraggi.md)
 **22°07′34″ N 80°27′18″ W** ★★★
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| **Profondità** |Bacino profondo|
-| **Tenuta àncora** |Posti/marina|
-| **Venti/riparo** |Baia eccellente (il 'Perla del Sud')|
-| **Pericoli** |Traffico portuale commerciale|
-| **Boe/divieti/normative** |POE confermato|
-| **A terra** |Centro storico UNESCO a breve distanza|
+| **Depth** |Bacino profondo|
+| **Holding** |Posti/marina|
+| **Winds/Shelter** |Bay eccellente (il 'Perla of the Sud')|
+| **Hazards** |Traffico portuale commerciale|
+| **Buoys/Restrictions/Regulations** |POE confermato|
+| **Ashore** |Centro storico UNESCO a breve distanza|
 
 <div class="mapframe" data-slug="anc-cienfuegos" data-lat="22.126" data-lon="-80.455"></div>
-*Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
+*Detail chart — zoom in to the bay · offline chart · approximate WGS84 coordinates, always verify with your chartplotter*
 
 Fonti: Ricerca POE ★★★
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

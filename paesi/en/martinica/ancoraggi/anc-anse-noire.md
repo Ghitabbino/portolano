@@ -1,7 +1,7 @@
 # Anse Noire / Anse Dufour {#anc-anse-noire}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
-| Campo | Dettaglio |
+[← All Anchorages](../08-ancoraggi.md)
+| Field | Detail |
 |---|---|
 | **Profondità** |Fino a ~12 m ★★|
 | **Tenuta** |Forte su sabbia nelle zone giuste ★★|
@@ -14,4 +14,4 @@
 <div class="mapframe" data-slug="anse-noire" data-lat="14.4926458" data-lon="-61.0903117"></div>
 *Vista mappa Anse Noire/Dufour (coord. indicative) — zoom con i pulsanti +/−; menu in alto a destra per passare a Carta nautica e Segnali nautici · mappa offline*
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026

@@ -1,17 +1,17 @@
 # El Patio Caleta
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| Zona | Caleta de Fuste – paseo |
-| Cucina | 🐟 Paellas y marisco |
-| Specialità | Paella · gambas · mejillones |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🎶 terrazza animata live |
-| Contatti | +34 928 547 721 |
-| Valutazioni | ★★★★|
-| Orari | pranzo/cena |
+| Area | Caleta de Fuste – paseo |
+| Cuisine | 🐟 Paellas y marisco |
+| Speciality | Paella · gambas · mejillones |
+| Cost | 💰€€ for persona without bevande |
+| Setting | 🎶 terrazza animata live |
+| Contacts | +34 928 547 721 |
+| Ratings | ★★★★|
+| Hours | pranzo/cena |
 
 ## Menu
 
@@ -22,4 +22,4 @@
 
 **Note**: Cocktail cart ampia
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

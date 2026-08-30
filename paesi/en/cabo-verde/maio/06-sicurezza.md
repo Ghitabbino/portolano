@@ -1,58 +1,58 @@
-# 06 — Sicurezza
+# 06 — Safety & Security
 
-**Ultima verifica completa: 24/08/2026** · Prossimo controllo mensile: **24/09/2026**
+**Last full check: 24/08/2026** · Next monthly check: **24/09/2026**
 
-## Valutazione sicurezza: **3 / 5**
+## Safety Rating: **3 / 5**
 
-| Aspetto | Voto | Motivazione |
+| Aspect | Rating | Reason |
 |---|---|---|
-| Sicurezza personale (turisti/crocieristi) | 3/5 | Borseggi/aggressioni isolate in città (Praia/Mindelo) di notte; nessuna violenza sistematica su velisti ★★ |
-| Furti materiali a bordo | 2/5 | Dinghy/fuoribordo a rischio se lasciati incustoditi di notte ★★ |
-| Contesto generale isola maio | 3/5 | Isola tranquilla di giorno; precauzioni notturne standard |
+| Personal safety (tourists/cruisers) | 3/5 | Isolated pickpocketing/muggings in town (Praia/Mindelo) at night; no systematic violence against cruisers ★★ |
+| Theft from yacht | 2/5 | Dinghy/outboard at risk if left unattended overnight ★★ |
+| General island context maio | 3/5 | Quiet by day; standard night-time precautions|
 
-*Scala 0=terribile → 5=molto sicuro.*
+*Scale 0 = terrible → 5 = very safe.*
 
-## Quadro generale
+## General Overview
 
-- Advisory UK/CA: adottare normali precauzioni, evitare zone isolate di notte, spiagge deserte dopo tramonto. ★★★★
-- Mindelo/Praia: episodi di furto con destrezza; Brava/Maio/São Nicolau molto tranquille. ★★
+- Advisory UK/CA: take normal precautions, avoid isolated areas at night, deserted beaches after sunset. ★★★★
+- Mindelo/Praia: incidents of petty theft; Brava/Maio/São Nicolau very quiet. ★★
 - Nessun attacco armato a velisti documentato nelle fonti aggregate ultimi 5 anni su maio. ★★
 
-## Posti sicuri / da evitare
+## Safe Areas / Areas to Avoid
 
-### ✅ Posti sicuri
-| Zona | Note |
+### ✅ Safe Places
+| Area | Notes |
 |---|---|
-| Porto/marina di giorno | Presidiato, passaggio frequente |
-| Centro cittadino di giorno | Vivace, attenzione solo a borseggi |
-| Ancoraggio con altre barche | Effetto gruppo |
+| Harbour/marina by day | Patrolled, busy with traffic |
+| Town centre by day | Lively, watch for pickpocketing only |
+| Anchorage with other yachts | Safety in numbers |
 
-### ⛔ Attenzione
-| Zona | Rischio |
+### ⛔ Caution
+| Area | Risk |
 |---|---|
-| Spiagge isolate di notte | Evitare |
-| Quartieri periferici poco illuminati | Evitare a piedi di notte, usare taxi |
-| Dinghy lasciato in spiaggia di notte | Furto possibile |
+| Isolated beaches at night | Avoid |
+| Poorly lit outskirts | Avoid on foot at night, use a taxi |
+| Dinghy left on beach overnight | Theft possible |
 
-## Furti ai danni dei crocieristi
+## Theft Against Cruisers
 
 - Nessun database CSSN specifico per maio; casi sporadici di furto dinghy riportati su forum naviganti. Contromisure: catena + lucchetto, motore bloccato, dinghy sollevato di notte, nulla in vista. ★★
 
-## A bordo e a terra
+## On Board & Ashore
 
-| Rischio | Contromisura |
+| Risk | Mitigation |
 |---|---|
-| Borseggio mercato | Marsupio interno, copie documenti |
-| Truffe taxi | Concordare prezzo prima |
-| Navigazione notturna | Nasse/pesca artigianale poco segnalata: watch continuo |
+| Pickpocketing at market | Money belt inside clothing, carry copies |
+| Taxi scams | Agree price beforehand |
+| Night navigation | Fish traps/artisanal fishing poorly marked: keep continuous watch |
 
-## Numeri di emergenza
+## Emergency Numbers
 
-| Emergenza | Numero |
+| Emergency | Number |
 |---|---|
-| Numero unico | **112** |
-| Polizia | **132** |
-| Ambulanza | **130** |
-| Vigili del fuoco | **131** |
-| SAR marittimo | **VHF 16** · São Vicente Radio D4A · JRCC +238 232 5555 |
+| Single emergency number | **112** |
+| Police | **132** |
+| Ambulance | **130** |
+| Fire brigade | **131** |
+| Maritime SAR | **VHF 16** · São Vicente Radio D4A · JRCC +238 232 5555 |
 

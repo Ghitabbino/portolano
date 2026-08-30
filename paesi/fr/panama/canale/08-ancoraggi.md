@@ -1,8 +1,8 @@
-# 08 — Portolano degli ancoraggi
+# 08 — Guide des mouillages
 
-**Ultima verifica: 21/08/2026**
+**Dernière vérification: 21/08/2026**
 
-## Regole generali di ancoraggio (prima di tutto)
+## Règles générales de mouillage (avant tout)
 
 - Àncora libera consentita quasi ovunque fuori dai **canali di accesso ai porti** (Cristóbal, Balboa) e dalle zone portuali controllate dalla Capitaneria ★★★.
 - Rispettare le zone dei **castelli/transito**: nel lago Gatún e negli approcci alle chiuse ancorare solo dove indicato dall'advisor PCA ★★★★★.
@@ -10,9 +10,9 @@
 - Aree marine di San Blas: regole proprie della comarca → vedi *Panama · San Blas*.
 - Parco nazionale Portobelo: ancoraggio consentito in baia; divieto di pesca ★★.
 
-## Tabella riassuntiva — i migliori ancoraggi
+## Tableau récapitulatif — meilleurs mouillages
 
-| # | Ancoraggio | Riparo | Tenuta | Profondità | Affollamento | Giudizio |
+| # | Mouillage | Riparo | Tenue | Profondeur | Affluence | Giudizio |
 |---|---|---|---|---|---|---|
 | 1 | [Shelter Bay](ancoraggi/anc-shelter-bay.md) | ★★★★★ | ★★★★★ fango/sabbia | 8–15 m | Marina + poche àncore |★4,6/5 [NFL]|
 | 2 | [Linton Bay](ancoraggi/anc-linton-bay.md) | ★★★★★ | ★★★★ sabbia | 5–12 m | Basso-medio |★4,4/5 [NFL]|
@@ -25,39 +25,39 @@
 | 9 | [San Telmo / Isla del Rey](ancoraggi/anc-san-telmo.md) | ★★★★ | ★★★★ sabbia | 4–8 m | Basso |★4,4/5 [NFL]|
 | 10 | [Pedro González](ancoraggi/anc-pedro-gonzalez.md) | ★★★ | ★★★★ sabbia | 4–8 m | Basso |★4,3/5 [NFL]|
 
-## Mappa generale
+## Carte générale
 
 
 
-*Lato Atlantico · mappa offline*
+*Lato Atlantique · carte hors ligne*
 
 
 
-*Lato Pacifico (Golfo di Panama, Perlas) · mappa offline*
+*Lato Pacifique (Golfo di Panama, Perlas) · carte hors ligne*
 
 ---
 
-### Mappa generale degli ancoraggi
+### Carte générale des mouillages
 
 <div class="mapframe" data-slug="panama-caribe" data-minz="7" data-maxz="16" data-lat="9.45" data-lon="-79.6" data-markers='[[8.912, -79.53, "Amador/Causeway", "anc-amador"], [9.3275, -79.9515, "Foce Chagres", "anc-chagres"], [8.6269, -79.037, "Contadora", "anc-contadora"], [9.633, -79.56, "Isla Grande", "anc-isla-grande"], [9.6128, -79.5789, "Linton Bay", "anc-linton-bay"], [8.405, -79.108, "Pedro González", "anc-pedro-gonzalez"], [9.553, -79.652, "Portobelo", "anc-portobelo"], [8.295, -78.943, "San Telmo / Isla del Rey", "anc-san-telmo"], [9.358, -79.951, "Shelter Bay", "anc-shelter-bay"], [8.793, -79.553, "Taboga", "anc-taboga"]]'</div>
 
 
-## Cartografia ufficiale
+## Cartographie officielle
 
 | Carta | Copertura |
 |---|---|
-| NOAA/DMA serie Caraibi (es. 21420) | Approcci Cristóbal/Colón |
-| DIGEIM ENC (ufficiali panamensi) | DATO MANCANTE link catalogo aggiornato |
+| NOAA/DMA serie Caraïbes (es. 21420) | Approcci Cristóbal/Colón |
+| DIGEIM ENC (ufficiali panamensi) | DONNÉE MANQUANTE link catalogo aggiornato |
 | OpenCPN vector + OSM | base utile integrativa |
 
-## Non inclusi (per ora)
+## Non inclus (pour l’instant)
 
-Bocas del Toro, Golfo di Montijo, Coiba (Pacifico occidentale): fuori dalla rotta Canale/San Blas.
+Bocas del Toro, Golfo di Montijo, Coiba (Pacifique occidentale): fuori dalla rotta Canale/San Blas.
 
-## Checklist àncora per il Canale
+## Check-list mouillage per il Canale
 
 - Catena ≥60 m o 50 m+40 m cima: fondali fino a 15 m
-- Brisa pomeridiano Pacifico: àncora alta, controllo GPS
+- Brisa pomeridiano Pacifique: àncora alta, controllo GPS
 - Marea Pacifica ~4–5 m: calcolare quota sotto chiglia a secca
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026

@@ -1,18 +1,18 @@
-# 10 — Ristoranti
+# 10 — Restaurants
 
-**Ultimo aggiornamento: 27/08/2026**
+**Last updated: 27/08/2026**
 
-Selezione orientata alla crociera: locali raggiungibili a piedi o con breve trasferimento in tender dagli ancoraggi e marine del portolano ([08 Ancoraggi](08-ancoraggi.md)). Valutazione ponderata = media Google/TripAdvisor/OpenTable + recensioni locali, verificata il 27/08/2026. Prezzi indicativi per persona senza bevande.
+Cruiser-oriented selection: locali raggiungibili a piedi or con breve trasferimento in tender dagli ancoraggi e marine del portolano ([08 Ancoraggi](08-ancoraggi.md)). Valutazione ponderata = media Google/TripAdvisor/OpenTable + recensioni locali, verificata il 27/08/2026. Prezzi indicativi per person without drinks.
 
-Legenda prezzi: **€** <20 · **€€** 20–40 · **€€€** >40 — Cucina: 🐟 pesce e frutti di mare · 🥩 carne e grigliate · 🥗 vegetariano-friendly · 🥙 street food creolo · 🍰 dolci
+Price key: **€** <20 · **€€** 20–40 · **€€€** >40 — Cucina: 🐟 pesce e frutti di mare · 🥩 carne e grigliate · 🥗 vegetariano-friendly · 🥙 street food creolo · 🍰 dolci
 
-## Mappa dei ristoranti
+## Restaurant Map
 
 <div class="mapframe" data-slug="aruba" data-minz="10" data-maxz="17" data-lat="12.50" data-lon="-70.02" data-markers='[[12.5175, -70.0368, "The West Deck", "rist-west-deck"], [12.5155, -70.0385, "Aquarius", "rist-aquarius"], [12.5208, -70.0365, "Wilhelmina", "rist-wilhelmina"], [12.521, -70.0362, "Yemanja Woodfired Grill", "rist-yemanja"], [12.5198, -70.0372, "Taste My Aruba", "rist-taste-my-aruba"], [12.5202, -70.0358, "Driftwood Restaurant", "rist-driftwood"], [12.5165, -70.0402, "Pinchos Grill & Bar", "rist-pinchos"], [12.547, -70.0555, "Water’s Edge", "rist-waters-edge"], [12.443, -69.934, "The Flying Fishbone", "rist-flying-fishbone"]]'></div>
 
-## Griglia generale
+## General Grid
 
-| Ristorante | Zona | Costo | Cucina | Specialità | Location | Stelle |
+| Restaurant | Area | Cost | Cuisine | Speciality | Location | Rating |
 |---|---|---|---|---|---|---|
 | [The West Deck](ristoranti/rist-west-deck.md) | Oranjestad — Governors Bay | **€€** | **🐟 Pesce creolo locale** | *Ribs · pang bati · johnny cake* | **🏖️ spiaggia, open-air** | ★★★★½ |
 | [Aquarius](ristoranti/rist-aquarius.md) | Renaissance Marina | **€€€** | **🐟 Contemporanea caraibica** | *Ceviche · pesce del giorno* | **⚓ marina, hotel** | ★★★★ |
@@ -26,9 +26,9 @@ Legenda prezzi: **€** <20 · **€€** 20–40 · **€€€** >40 — Cucin
 
 *Clicca sul nome per aprire la scheda completa. Prenotare in alta stagione (dic–apr) per i locali sul mare.*
 
-## App e fonti
+## Apps & Sources
 
-| Piattaforma | Uso locale |
+| Platform | Local Use |
 |---|---|
 | [TripAdvisor](https://www.tripadvisor.com/Restaurants-g147247-Aruba.html) | Ampio ma verificare recensioni locali |
 | [Google Maps recensioni](https://maps.google.com) | Il più aggiornato; orari spesso errati fuori stagione |
@@ -39,4 +39,4 @@ Legenda prezzi: **€** <20 · **€€** 20–40 · **€€€** >40 — Cucin
 | Facebook/Instagram locali | Pagine dei ristoranti: menu e chiusure in tempo reale |
 | [TheFork/LaFourchette](https://www.thefork.com) | Copertura limitata nelle ABC |
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

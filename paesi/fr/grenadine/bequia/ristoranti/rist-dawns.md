@@ -1,18 +1,18 @@
 # Dawn's Creole Restaurant
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Lower Bay Beach |
-| Cucina | 🍲 Creola |
-| Specialità | Menu del giorno · frutti di mare |
-| Costo | 💰€ per persona senza bevande |
-| Location | 🏖️ fine spiaggia ovest |
+| Zone | Lower Bay Beach |
+| Cuisine | 🍲 Creola |
+| Spécialité | Menu del giorno · frutti di mare |
+| Coût | 💰€ per persona senza bevande |
+| Emplacement | 🏖️ fine spiaggia ovest |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dawn's+Creole+Restaurant+Lower+Bay+Beach) |
-| Contatti | ND |
-| Valutazioni | Google 4,6/5 (156) → ★★★★½ |
-| Orari | giorno |
+| Contacts | ND |
+| Évaluations | Google 4,6/5 (156) → ★★★★½ |
+| Horaires | giorno |
 
 ## Menu
 
@@ -21,8 +21,8 @@
 
 **Chef**: Dawn
 
-## Foto
+## Photos
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Photos non ancora disponibili — recuperare al controllo mensile.*
 
 **Note**: Beach bar semplice con cucina locale apprezzata

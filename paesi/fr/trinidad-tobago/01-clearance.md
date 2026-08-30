@@ -1,23 +1,23 @@
-# 01 — Clearance doganale della barca
+# 01 — Formalités douanières
 
-**Ultimo aggiornamento: 23/08/2026**
+**Dernière mise à jour: 23/08/2026**
 
 
-Porti: **Chaguaramas** (Trinidad — hub cantieri e hurricane season dei Caraibi: CrewsInn, Power Boats, Peake) · **Charlotteville** (Tobago). Emergenze **999** ★★★
+Porti: **Chaguaramas** (Trinidad — hub cantieri e hurricane season dei Caraïbes: CrewsInn, Power Boats, Peake) · **Charlotteville** (Tobago). Emergenze **999** ★★★
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026
 
-## Chi deve farla
+## Qui doit effectuer les formalités
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
 ## Costi
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## Da verificare
+## À vérifier
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 

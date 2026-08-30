@@ -18,4 +18,4 @@
 
 Fonti: [visittci.com/about/national-parks](https://visittci.com/about/national-parks) ★★★ · cruisealert.com ★★ · gov.tc DECR (Columbus/Gibbs) ★★★★
 
-Ultimo aggiornamento: 28/08/2026
+Last updated: 28/08/2026

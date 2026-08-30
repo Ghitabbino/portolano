@@ -1,18 +1,18 @@
 # Palisades Restaurant
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Roseau Bay Front — Fort Young Hotel, Victoria St |
-| Cucina | 🐟 Creola contemporanea / pesce caraibico |
-| Specialità | Steamed local fish · BBQ jerk octmodel · callaloo soup · skewered shrimp · duck |
-| Costo | 💰€€€ per persona senza bevande |
-| Location | 🌅 terrazza sul mare / sala climatizzata |
+| Zone | Roseau Bay Front — Fort Young Hotel, Victoria St |
+| Cuisine | 🐟 Creola contemporanea / pesce caraibico |
+| Spécialité | Steamed local fish · BBQ jerk octmodel · callaloo soup · skewered shrimp · duck |
+| Coût | 💰€€€ per persona senza bevande |
+| Emplacement | 🌅 terrazza sul mare / sala climatizzata |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Palisades+Restaurant+Fort+Young+Hotel+Roseau+Dominica) |
-| Contatti | **DATO MANCANTE** — via [Fort Young Hotel](https://www.fortyounghotel.com/palisades-restaurant/) |
-| Valutazioni | Destination Magazines (16/09/2025) ★★★ · Discover Dominica ★★★★ |
-| Orari | **DATO MANCANTE** — verificare su pagina hotel/Google |
+| Contacts | **DONNÉE MANQUANTE** — via [Fort Young Hotel](https://www.fortyounghotel.com/palisades-restaurant/) |
+| Évaluations | Destination Magazines (16/09/2025) ★★★ · Discover Dominica ★★★★ |
+| Horaires | **DONNÉE MANQUANTE** — vérifier sur pagina hotel/Google |
 
 ## Menu
 
@@ -22,7 +22,7 @@
 - Skewered shrimp
 - Opzioni vegetariane
 
-**Chef**: **DATO MANCANTE**
+**Chef**: **DONNÉE MANQUANTE**
 
 ## Note
 
@@ -30,4 +30,4 @@ Terrazza romantica affacciata sulla baia di Roseau; vista Caribbean shoreline, b
 
 Fonti: [Destination Magazines 10 Best Restaurants in Dominica](https://destination-magazines.com/10-best-restaurants-in-dominica/) ★★★ · [Discover Dominica](https://discoverdominica.com) ★★★★ · [Fort Young Hotel](https://www.fortyounghotel.com/palisades-restaurant/) ★★★
 
-Ultimo aggiornamento: 25/08/2026
+Dernière mise à jour: 25/08/2026

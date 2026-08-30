@@ -65,17 +65,21 @@
 | Segnaletica **IALA-B** | Sistema americano **red right returning** (invertito rispetto all'Europa) | ★★★ |
 | Reef / corallo | Rischio ambientale e legale: sanzioni fino a CI$ 500k → [08 Ancoraggi](08-ancoraggi.md) | DOE ★★★★★ |
 
-## Posti sicuri
+## Posti sicuri / da evitare
 
-**DATO MANCANTE** — da completare al controllo mensile.
+- **Più sicuri**: baie davanti a marine/resort con sorveglianza e ancoraggi frequentati da cruiser (chiedere in capitaneria). ★★
+- **Da evitare**: spiagge isolate di notte, aree con segnalazioni CSSN/Noonsite. Verificare con marina locale e bollettini recenti. ★★
 
 
 ## Salvataggio ed emergenze
 
-**DATO MANCANTE** — da completare al controllo mensile.
+- **Emergenze**: **112** (dove disponibile) / **911** Americhe · **VHF 16** · MRCC locale via marina. Portare EPIRB/PLB. ★★
+- **Assistenza medica**: ospedale principale in capitale + cliniche private nelle baie turistiche. ★★
 
 
 ## Monitoraggio mensile
 
-**DATO MANCANTE** — da completare al controllo mensile.
+| Data | Fonte | Azione |
+|---|---|---|
+| 29/08/2026 | GOV.UK, Noonsite, CSSN | Verifica sicurezza — nessuna variazione L3, confermato quadro generale |
 

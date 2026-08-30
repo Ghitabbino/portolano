@@ -1,14 +1,14 @@
-# 05 — Stagionalità e meteo
+# 05 — Seasonality & Weather
 
-## Clima
+## Climate
 
 Tropicale secco al sud delle SVG, 26–30 °C; pioggia minima dic–apr. ★★★★
 
-## Venti locali
+## Local Winds
 
 Alisei NE 15–25 kn; **accelerazione nel Cano tra Canouan e Union** (Canouan Passage): +5–8 kn rispetto al largo. Lato atlantico (Charlestown est) con mare mosso; Grand Bay riparata. Squall da ENE visibili all'orizzonte con anticipo. ★★★
 
-## Finestre tipiche
+## Typical Weather Windows
 
 | Finestra | Vento | Note |
 |---|---|---|
@@ -16,9 +16,9 @@ Alisei NE 15–25 kn; **accelerazione nel Cano tra Canouan e Union** (Canouan Pa
 | Mar–Mag | 15–20 kn | Ideale Cays + Mayreau |
 | Giu–Ago | 10–15 kn | Meno barche, prezzi giù |
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026
 
-Alisei NE dic-giu; stagione umida lug-nov (bordo S della fascia uragani: rischio basso ma reale).
+Trade winds NE Dec-Jun; wet season Jul-Nov (S-edge of hurricane belt: low but real risk).
 
 ### Vento locale — statistiche (% giorni >15 kn)
 
@@ -42,4 +42,4 @@ Fonti: [statistiche Union Island](https://www.kitesurfgrenadines.com/kitesurfing
 [guida stagioni SVG Yachting](https://www.svgyachting-grenadines.com/blog/best-time-to-sail-the-grenadines) ★★★ ·
 [Windfinder Canouan](https://www.windfinder.com/windstatistics/canouan_airport) ★★★
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

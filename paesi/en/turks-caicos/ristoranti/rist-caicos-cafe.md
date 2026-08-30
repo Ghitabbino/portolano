@@ -7,7 +7,7 @@
 | Zona | Grace Bay |
 | Cucina | 🐟 French-creola / pesce |
 | Specialità | *Snapper · lobster · Caicos cuisine* |
-| Costo | 💰€€€ per persona senza bevande |
+| Costo | 💰€€€ per person without drinks |
 | Location | 🍽️ gourmet — courtyard nel palmeto |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Caicos+Cafe+Grace+Bay+Providenciales) |
 | Contatti | +1 (649) 946-5278 · [caicoscafe.com](https://www.caicoscafe.com) |

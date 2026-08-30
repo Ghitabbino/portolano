@@ -1,4 +1,4 @@
-# 09 — Artigiani e negozi nautici
+# 09 — Artisans & chandleries
 
 Hub locale limitato: per lavori importanti molti armatori si appoggiano a **hub regionali (Antigua, St. Martin, Trinidad)**. Contatto tipico via telefono/WhatsApp; si parla inglese (e francese/olandese dove applicabile). Per lavori importanti chiedere sempre **preventivo scritto** e confermare tempi in alta stagione (dic–apr).
 
@@ -6,10 +6,10 @@ Hub locale limitato: per lavori importanti molti armatori si appoggiano a **hub 
 
 | Ditta / Nome | Referente | Area di intervento | Dealer / Installatore | Tel | Mail | Sede & orari | Recensioni |
 |---|---|---|---|---|---|---|---|
-| DATO MANCANTE | DATO MANCANTE | Meccanico / elettricista | DATO MANCANTE | DATO MANCANTE | DATO MANCANTE | Port of Spain / marina — verificare in capitainerie | ★★ |
-| DATO MANCANTE | DATO MANCANTE | Velaio / rigger | DATO MANCANTE | DATO MANCANTE | DATO MANCANTE | Mobile — chiedere in marina | ★★ |
+| DATA MISSING | DATA MISSING | Meccanico / elettricista | DATA MISSING | DATA MISSING | DATA MISSING | Port of Spain / marina — verificare in capitainerie | ★★ |
+| DATA MISSING | DATA MISSING | Velaio / rigger | DATA MISSING | DATA MISSING | DATA MISSING | Mobile — chiedere in marina | ★★ |
 
-> Tutti i nominativi con **DATO MANCANTE** non sono stati verificati con websearch/webfetch in questa sessione; verranno ricercati al controllo mensile. ★★
+> Tutti i nominativi con **DATA MISSING** non sono stati verificati con websearch/webfetch in questa sessione; verranno ricercati al controllo mensile. ★★
 
 ## Dove si trova cosa
 
@@ -21,13 +21,13 @@ Hub locale limitato: per lavori importanti molti armatori si appoggiano a **hub 
 
 | Negozio | Cosa trovi | Marchi | Tel | Mail / sito | Sede & orari | Recensioni |
 |---|---|---|---|---|---|---|
-| Shipchandler della marina | Ferramenta base, ancore, cime | DATO MANCANTE | DATO MANCANTE | DATO MANCANTE | Marina principale | ★★ |
-| Ferramenta locale | Utensili, vernici | DATO MANCANTE | DATO MANCANTE | DATO MANCANTE | Port of Spain | ★★ |
+| Shipchandler della marina | Ferramenta base, ancore, cime | DATA MISSING | DATA MISSING | DATA MISSING | Marina principale | ★★ |
+| Ferramenta locale | Utensili, vernici | DATA MISSING | DATA MISSING | DATA MISSING | Port of Spain | ★★ |
 
 ## Note pratiche
 
 - **Pagamenti**: contanti/carta; per piccoli interventi spesso contanti. Chiedere fattura.
-- **Tempi**: ricambi = 1–3 settimane se da ordinare via Miami/Europa. ★★
+- **Processing time**: ricambi = 1–3 settimane se da ordinare via Miami/Europa. ★★
 - **Energia di bordo**: componentistica (batterie litio, pannelli) — disponibilità limitata, meglio ordinare prima. ★★
 
-Ultimo aggiornamento: 24/08/2026
+Last updated: 24/08/2026

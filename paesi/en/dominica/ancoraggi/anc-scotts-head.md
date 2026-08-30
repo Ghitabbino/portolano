@@ -1,20 +1,20 @@
 # Scotts Head (villaggio/penisola Cachacrou, lato caraibico) {#anc-scotts-head}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← All anchorages](../08-ancoraggi.md)
 **15°12′36″ N 61°21′47″ W** ★★
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| **Profondità** |Dentro la riserva: pareti ripide, profondità indeterminata al largo|
-| **Tenuta àncora** |Solo boe (riserva SSMR)|
-| **Venti/riparo** |Lato baia del villaggio tra Mar dei Caraibi e Atlantico|
-| **Pericoli** |Forte vento accelerato: raffiche fino ~50 kn riportate al passaggio di Scotts Head; fee riserva obbligatoria [DA VERIFICARE SATELLITE]|
-| **Boe/divieti/normative** |Riserva SSMR: solo boe; base per dive Scotts Head Pinnacles/Crater's Edge|
-| **A terra** |Villaggio Scotts Head, penisola Cachacrou|
+| **Depth** |Dentro la riserva: pareti ripide, profondità indeterminata at the largo|
+| **Holding** |Solo boe (riserva SSMR)|
+| **Winds/Shelter** |Lato baia of the villaggio between Mar of the Caraibi and Atlantico|
+| **Hazards** |Forte vento accelerato: raffiche fino ~50 kn riportate at the passaggio of Scotts Head; fee riserva obbligatoria [DA VERIFICARE SATELLITE]|
+| **Buoys/Restrictions/Regulations** |Riserva SSMR: only boe; base for dive Scotts Head Pinnacles/Crater's Edge|
+| **Ashore** |Villaggio Scotts Head, penisola Cachacrou|
 
 <div class="mapframe" data-slug="anc-scotts-head" data-lat="15.21" data-lon="-61.363"></div>
-*Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
+*Detail chart — zoom in to the bay · offline chart · approximate WGS84 coordinates, always verify with your chartplotter*
 
 Fonti: latitude.to ★★ · UNESCO SSMR ★★★★ · velmundi (gusts 50 kt) ★★ · [DA VERIFICARE SATELLITE]
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

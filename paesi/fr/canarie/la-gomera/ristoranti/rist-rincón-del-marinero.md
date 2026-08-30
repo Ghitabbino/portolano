@@ -1,17 +1,17 @@
 # Rincón del Marinero
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Valle Gran Rey – Vueltas, 4 |
-| Cucina | 🐟 Marinaia tradizionale |
-| Specialità | Pesce · almogrote |
-| Costo | 💰€€ per persona senza bevande |
-| Location | ⚓ a due passi dalla darsena di Vueltas |
-| Contatti | **922 806 167** |
-| Valutazioni | ★★★★|
-| Orari | pranzo/cena |
+| Zone | Valle Gran Rey – Vueltas, 4 |
+| Cuisine | 🐟 Marinaia tradizionale |
+| Spécialité | Pesce · almogrote |
+| Coût | 💰€€ per persona senza bevande |
+| Emplacement | ⚓ a due passi dalla darsena di Vueltas |
+| Contacts | **922 806 167** |
+| Évaluations | ★★★★|
+| Horaires | pranzo/cena |
 
 ## Menu
 
@@ -22,4 +22,4 @@
 
 **Note**: Il nome dice tutto: tappa dei naviganti
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026

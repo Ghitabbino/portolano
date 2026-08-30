@@ -1,7 +1,7 @@
 # Fonds Blancs {anc-fonds-blancs}
 
-[← Tutti gli ancoraggi(../08-ancoraggi.md)
-| Campo | Dettaglio |
+[← All anchorages(../08-ancoraggi.md)
+| Field | Detail |
 |---|---|
 | **Dove** | Banco di sabbia bianca tra gli îlets (Madame, Oscar…) davanti a Le François |
 | **Profondità** | 1–3 m sui banchi: acqua latte su sabbia bianca |
@@ -10,32 +10,32 @@
 | **Pericoli** | **Batimetria insidiosa**: ingressi tra i banchi da fare con sole alto e occhio alla carta; passaggi dei tour boat |
 | **Affollamento** | Festivi e week-end affollatissimi (gommoni in picnic); in settimana più calmo |
 | **Divieti** |Baie du François tra le zone regolamentate >50 m; rispettare boe ZMEL e zone dei club nautici/vélico con passaggio riservato; piano di balisaggio comunale Le François da verificare ★★★★|
-| **Nota** | Voce costruita su conoscenza diffusa dei portolani → dettagli profondità/passaggi **da verificare su carta locale** |
+| **Note** | Item built on widespread knowledge of the portolani → details depth/passages **to be verified on local paper ** |
 
 <div class="mapframe" data-slug="fonds-blancs" data-lat="14.6200" data-lon="-60.8800"></div>
 *Vista mappa Fonds Blancs du François (coord. indicative) — zoom con i pulsanti +/−; menu in alto a destra per passare a Carta nautica e Segnali nautici · mappa offline*
 
-## Cartografia ufficiale
+## Official Charts
 
-| Carta | Copertura | Note |
+| Chart | Coverage | Notes |
 |---|---|---|
 | **SHOM 6738L** | La Martinique – Partie Sud | Marin, Sainte-Anne, Anses d'Arlet, Sainte-Luce · ~45 € formato piegato |
 | **SHOM 7041L** | La Martinique – Partie Nord | Saint-Pierre, Prêcheur, Caravelle, Trinité · ~45 € |
 | **SHOM 6892L** | Baie de Fort-de-France | Scala 1:15.000, include zone divieto baie des Flamands · ~45 € |
 | SHOM 6898 (GA) | Mer des Caraïbes | Pianificazione rotte inter-isole |
-| NV Charts pack Caraibi/Antille | Arc antillano completo | Alternativa plaisance, WGS84, ~95 € |
+| NV Charts pack Caribbean/Antille | Arc antillano completo | Alternativa plaisance, WGS84, ~95 € |
 
 - Le carte SHOM riportano le zone regolamentate e i chenal; acquistabili da rivenditori autorizzati (Picksea, Eau Bleue, NV Charts PoD). ★★★★
 - **Cartografia amministrativa gratuita**: mappe interattive della Direction de la Mer + "Mémento réglementaire de la mer" (Memorandum normativo del mare) PDF (ODE) con tutte le zone ZMEL/interdette. ★★★★
 - Per la navigazione quotidiana: carta elettronica ufficiale SHOM/Navionics sul plotter + le carte cartacee sopra come riserva obbligatoria.
 
-## Non inclusi (per ora)
+## Not Included (For Now)
 
 - **Baie des Anglais** (sud, Cap Salomon): citata spesso come selvaggia e bella → dati insufficienti, **da verificare**
 - **Anse Couleuvre / Le Prêcheur** (nord): esposti, solo meteo stabile ★★★
-- **Baie du Vauclin / Robert / Trinité** (costa atlantica): belle ma esposte agli alisei e piene di nasse → vedi [06 Sicurezza](../06-sicurezza.md)
+- **Baie du Vauclin / Robert / Trinité** (costa atlantica): belle ma esposte agli alisei e piene di nasse → vedi [06 Safety & Security](../06-sicurezza.md)
 
-## Checklist àncora per la Martinica
+## Anchor Checklist per la Martinica
 
 1. Cartografia ufficiale mouillage scaricata (Mémento ODE) ✓
 2. Àncora principale adeguata a sabbia/fango (tenuta ottima quasi ovunque)
@@ -43,4 +43,4 @@
 4. Occhio alle boe da pesca trasparenti su TUTTA la costa ovest-sud
 5. App Navilly installata se si punta a Saint-Pierre
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026

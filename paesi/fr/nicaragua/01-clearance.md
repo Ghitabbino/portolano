@@ -1,6 +1,6 @@
-# 01 — Clearance doganale della barca
+# 01 — Formalités douanières
 
-**Ultima verifica: 25/08/2026** · Fonti: Noonsite ★★★ · Ocean Posse ★★★ · cruiserswiki ★★★
+**Dernière vérification: 25/08/2026** · Fonti: Noonsite ★★★ · Ocean Posse ★★★ · cruiserswiki ★★★
 
 ## San Juan del Sur (POE più usato)
 
@@ -12,28 +12,28 @@
  d'uscita US$25** (qualche discussione su $25 vs $40) ★★★
 4. Immigrazione e Capitaneria sono adiacenti al molo: 20-30 minuti totali ★★★
 
-## Puesta del Sol (Marina, Pacifico nord)
+## Puesta del Sol (Marina, Pacifique nord)
 
 POE attivo; clearance d'uscita interna US$15 riportata dai cruiser ★★★
 
-## Caraibi
+## Caraïbes
 
 El Bluff/Bluefields, Corn Island, Puerto Cabezas: POE ma **permesso speciale da Managua**
 per visitarle; costa caraibica con servizi minimi ★★★
 
-Ultimo aggiornamento: 25/08/2026
+Dernière mise à jour: 25/08/2026
 
-## Chi deve farla
+## Qui doit effectuer les formalités
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
 ## Costi
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## Da verificare
+## À vérifier
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 

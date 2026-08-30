@@ -1,18 +1,18 @@
 # Port Morgan Hotel Restaurant
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 **18°06′14″ N 73°41′43″ W**
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| **Costo** |**DATO MANCANTE**|
-| **Cucina** |**DATO MANCANTE**|
-| **Specialità** |**DATO MANCANTE**|
-| **Location** |**DATO MANCANTE**|
+| **Coût** |**DONNÉE MANQUANTE**|
+| **Cuisine** |**DONNÉE MANQUANTE**|
+| **Spécialité** |**DONNÉE MANQUANTE**|
+| **Emplacement** |**DONNÉE MANQUANTE**|
 
 <div class="mapframe" data-slug="rist-port-morgan-hotel-restaurant" data-lat="18.10399" data-lon="-73.69529"></div>
 *Cartina di dettaglio: posizione a terra rispetto alla barca · zoom ±*
 
-Fonti: **DATO MANCANTE**
+Fonti: **DONNÉE MANQUANTE**
 
-Ultimo aggiornamento: 25/08/2026
+Dernière mise à jour: 25/08/2026

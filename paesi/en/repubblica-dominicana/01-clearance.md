@@ -1,4 +1,4 @@
-# 01 — Clearance doganale della barca
+# 01 — Yacht Customs Clearance
 ### Principi generali
 
 - **SailClear non utilizzato** in RD: la procedura è esclusivamente **cartacea e in presenza** presso le autorità in porto. ★★★★
@@ -10,16 +10,16 @@
 | Porto / Marina | Coordinate (WGS84) | VHF | Note |
 |---|---|---|---|
 | **Luperón** (Puerto Blanco) | 19°54.3′N 70°57.2′W (baia) | 16 | Hurricane hole storico; autorità in paese, procedura più lunga ma consolidata |
-| **Ocean World Marina** (Puerto Plata) | **19°50.095′N 70°43.535′W** | **16 / 68** | Marina resort con autorità in loco |
-| **Samaná — Puerto Bahía Marina** | **19°11.39′N 69°21.19′W** | **DATO MANCANTE** | Marina protetta nella baia di Samaná |
+| **Ocean World Marina** (Puerto Plata) | **19°50.095′N 70°43.535 ′W** | **16 / 68** | Marina resort with on-site authority |
+| **Samaná — Puerto Bahía Marina** | **19°11.39′N 69°21.19′W** | **DATA MISSING** | Marina protetta nella baia di Samaná |
 | **Cap Cana Marina** | **18°29.858′N 68°22.094′W** | **16 / 72** | Marina di lusso a Punta Cana |
-| **Casa de Campo Marina** (La Romana) | **18°23.55′N 68°54.03′W** | **DATO MANCANTE** | Marina resort con cantiere |
-| **Santo Domingo** (Marina Don Diego / Sans Souci sul Rio Ozama) | **DATO MANCANTE** | 16 | Capitale; fondale e corrente richiedono attenzione |
-| **Barahona** | **DATO MANCANTE** | **DATO MANCANTE** | Porto sud-ovest, meno frequentato dai diportisti | ★★★★
+| **Casa de Campo Marina** (La Romana) | **18°23.55′N 68°54.03′W** | **DATA MISSING** | Marina resort con cantiere |
+| **Santo Domingo** (Marina Don Diego / Sans Souci sul Rio Ozama) | **DATA MISSING** | 16 | Capitale; fondale e corrente richiedono attenzione |
+| **Barahona** | **DATA MISSING** | **DATA MISSING** | Porto sud-ovest, meno frequentato dai diportisti | ★★★★
 
 > Altri punti con presenza Armada possono autorizzare l'ingresso solo come scalo tecnico/emergenza: confermare via VHF con la Comandancia più vicina.
 
-### Procedura d'ingresso
+### Procedure d'ingresso
 
 1. **Chiamata radio** in avvicinamento (VHF 16) alla Comandancia/Armada del porto d'ingresso. ★★★★
 2. **Presentazione in banchina/ufficio** con documenti nave ed equipaggio: passaporti, registro/documento di bandiera, lista equipaggio, assicurazione, eventuale zarpe del porto precedente. ★★★★★
@@ -27,9 +27,9 @@
 4. **Ispezione a bordo** possibile (soprattutto Agricultura per alimenti freschi). ★★★★
 5. Rilascio di **permesso di navigazione / despacho d'ingresso** e timbri passaporti.
 
-### Costi indicativi
+### Fees indicativi
 
-| Voce | Importo | Fonte |
+| Item | Importo | Fonte |
 |---|---|---|
 | **Ingresso + uscita** per yacht **double-handed, permanenza ≤30 giorni** | **~100 USD** complessivi (diritti combinati delle varie agenzie) | Fonti diportiste aggregate 2024-2026 ★★★ |
 | Tarjeta de Turista | **10 USD/persona** se non già inclusa (via aerea è inclusa; via mare spesso riscossa alla clearance) | DGM ★★★★★ |
@@ -55,14 +55,13 @@
 - **Armada Dominicana (Marina de Guerra)** — VHF 16 · tel. sede Luperón **809-586-4033** (Comandancia) ★★★★
 - **Ocean World Marina** VHF 16/68 · **Cap Cana** VHF 16/72 ★★★★
 
-Ultimo aggiornamento: 24/08/2026
+Last updated: 24/08/2026
 
-## Chi deve farla
+## Who Must Clear
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
 
-## Da verificare
+## To be verified
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
+**DATA MISSING** — da completare al controllo mensile.

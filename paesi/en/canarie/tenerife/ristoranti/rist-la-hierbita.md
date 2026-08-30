@@ -1,21 +1,21 @@
 # La Hierbita
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| Zona | Santa Cruz – casco viejo |
-| Cucina | 🥗 Canaria tradizionale |
-| Specialità | Bienmesabe · cherne · pulpo |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🏛️ casa storica ottocentesca |
-| Contatti | [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Hierbita+Santa+Cruz+de+Tenerife) |
-| Valutazioni |Guide ★★★★|
-| Orari | tutti i giorni 12–24 |
+| Area | Santa Cruz – casco viejo |
+| Cuisine | 🥗 Canaria tradizionale |
+| Speciality | Bienmesabe · cherne · pulpo |
+| Cost | 💰€€ for persona without bevande |
+| Setting | 🏛️ casa storica ottocentesca |
+| Contacts | [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Hierbita+Santa+Cruz+de+Tenerife) |
+| Ratings |Guide ★★★★|
+| Hours | all i giorni 12–24 |
 
 ## Menu
 
-- Viejas al horno
+- Viejas at the horno
 - Pulpo guisado
 - Miele de palma (Gomera)
 
@@ -23,4 +23,4 @@
 
 **Note**: Familiare; prenotare il weekend
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

@@ -1,16 +1,16 @@
-# 08 — Portolano degli ancoraggi
+# 08 — Anchorage Pilot
 
-**Ultima verifica: 21/08/2026**
+**Last checked: 21/08/2026**
 
-## Regole generali di ancoraggio (prima di tutto)
+## General Anchoring Rules (First and Foremost)
 
 - Ancoraggio libero consentito tra le isole con **permesso Guna valido** ($50 barca + $20 persona/mese) [01-clearance]
 - ⛔ Rispettare le **zone di pesca** dei villaggi (nasse): non ancorare sui fondali con nasse segnalate da boe
 - Alcune isole sono **private/affittate** (cabanas): chiedere al gestore prima di fermarsi ★★★
 - Fondali corallini: àncora solo su chiazze di sabbia, catena non sulla barriera
-- Vendita/uso di droga e commercio con comunità: severamente vietato dalle autorità Guna
+- Sale/use of drugs and trade with communities: strictly prohibited by Guna authorities
 
-## Tabella riassuntiva — i migliori ancoraggi
+## Summary Table — Best Anchorages
 
 | # | Ancoraggio | Riparo alisei NE | Tenuta | Profondità | Affollamento | Giudizio |
 |---|---|---|---|---|---|---|
@@ -25,31 +25,31 @@
 | 9 | [Nargana/Río Sidra →](ancoraggi/anc-nargana.md) | ★★★★ | ★★★★ fango/sabbia | 6–14 m | Basso |★4,1/5 [NFL]|
 | 10 | [Playón Chico/Ukupseni →](ancoraggi/anc-playon-chico.md) | ★★★★ | ★★★★ sabbia | 6–15 m | Quasi nessuno |★4,2/5 [NFL]|
 
-## Mappa generale
+## Map generale
 
 
 *Comarca Guna Yala · coordinate indicative su carte datate ★★ · mappa offline*
 
-### Mappa generale degli ancoraggi
+### General Anchorage Map
 
 <div class="mapframe" data-slug="san-blas" data-minz="7" data-maxz="16" data-lat="9.57" data-lon="-78.82" data-markers='[[9.582, -78.773, "Banedup (Holandeses)", "anc-banedup"], [9.595, -78.815, "Coco Bandero", "anc-coco-bandero"], [9.5582, -78.8761, "Dog Island", "anc-dog-island"], [9.541, -78.682, "Eastern Lemmons", "anc-eastern-lemons"], [9.564, -78.842, "Isla Perro", "anc-isla-perro"], [9.4446, -78.5867, "Nargana / Río Sidra", "anc-nargana"], [9.3118, -78.2326, "Playón Chico / Ukupseni", "anc-playon-chico"], [9.5589, -78.9486, "Porvenir / Gaigirgordub", "anc-porvenir"], [9.549, -78.851, "Salardup / Snug Harbour", "anc-salardup-snug"], [9.538, -78.699, "West Lemmons", "anc-west-lemons"]]'</div>
 
 
-## Cartografia ufficiale
+## Official Charts
 
 | Carta | Copertura |
 |---|---|
 | NOAA/DMA 21440 serie | San Blas orientale/occidentale (datate anni '80) |
 | OpenCPN vector + immagini satellitari | indispensabile per i passi corallini |
 
-## Non inclusi (per ora)
+## Not Included (For Now)
 
-Settore est oltre Mamitupu (confine colombiano): vedi pagina Sicurezza.
+Settore est oltre Mamitupu (confine colombiano): vedi pagina Safety & Security.
 
-## Checklist àncora per San Blas
+## Anchor Checklist per San Blas
 
 - Catena ≥50 m: fondali fino a 15 m con scarpate coralline improvvise
 - Alisei 25 kn costanti + raffiche nei passi: àncora alta e boa segnaletica consigliata
 - Sole alto per leggere i fondali; mai navigare tra le isole al tramonto
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026

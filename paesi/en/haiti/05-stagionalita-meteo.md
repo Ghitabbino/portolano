@@ -1,6 +1,6 @@
-# 05 — Stagionalità e meteo
+# 05 — Seasonality & Weather
 
-## Clima generale
+## Climate generale
 
 - **Clima tropicale marittimo** sulla penisola occidentale di Hispaniola
  (**Haiti**, latitudine **18–20°N**). Temperature stabili, umidità alta, alisei dominanti. ★★★★
@@ -14,15 +14,15 @@
 | Stagione umida mag–nov | più calda e afosa, rovesci convettivi |
 
 
-## Stagioni
+## Seasons
 
-| Periodo | Caratteristiche | Finestra per la crociera |
+| Period | Characteristics | Finestra per la crociera |
 |---|---|---|
 | **Dicembre – aprile** | **Stagione secca**: alisei stabili NE–E, scrosci brevi. **Periodo migliore** per muoversi lungo la costa haitiana e per le uscite verso Turks & Caicos o Giamaica | ★★★★ |
 | **Maggio – novembre** | **Stagione umida e ciclonica**: caldo umido, temporali pomeridiani, rischio cicloni tropicali. Con il contesto di sicurezza haitiano, navigare solo con finestre confermate | ★★ |
 
 
-## Uragani
+## Hurricanes
 
 > 📡 **Aggiornamento 25/08/2026** — Stagione Atlantico 2026 **sotto la media**
 > (NOAA 75% prob. sotto-normale per super El Niño; picco ASO comunque aperto fino a
@@ -44,14 +44,14 @@
 - Costa sud (Les Cayes, Île-à-Vache): più riparata dall'aliseo, esposta a S in stagione umida. ★★
 
 
-## Finestre tipiche per le traversate
+## Typical Weather Windows per le traversate
 
-Traversate strutturate da Haiti: **DATO MANCANTE** per contesto sicurezza.
+Traversate strutturate da Haiti: **DATA MISSING** per contesto sicurezza.
 Uscite abituali dei velisti: verso **Turks & Caicos/Bahamas** (N, dal nord dell'isola)
 e **Giamaica** (W) — pianificare su carta ufficiale con finestra aliseo <20 kt.
 
 
-## Link meteo e carte locali
+## Weather Links & Local Charts
 
 | Servizio | Cosa offre | Fonte |
 |---|---|---|
@@ -60,16 +60,15 @@ e **Giamaica** (W) — pianificare su carta ufficiale con finestra aliseo <20 kt
 | [Windy](https://www.windy.com) · [PassageWeather](http://www.passageweather.com) · [PredictWind](https://www.predictwind.com) | Modelli vento/onda per pianificare | ★★★ |
 
 
-## Consigli pratici
+## Practical Tips
 
 - In **stagione secca (dic–apr)** finestre più affidabili; in **stagione ciclonica**
  seguire quotidianamente **NHC + UHM**, avere piano B con uscita rapida verso RD. ★★★
 - Con il quadro sicurezza attuale, evitare soste notturne lungo costa se non necessarie. ★★★
 - Marea modesta (<0,5 m); correnti rilevanti nel Canale del Vento. ★★
 
-Ultimo aggiornamento: 28/08/2026
+Last updated: 28/08/2026
 
-## Venti locali
+## Local Winds
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
+**DATA MISSING** — da completare al controllo mensile.

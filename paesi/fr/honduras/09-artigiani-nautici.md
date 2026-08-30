@@ -1,26 +1,26 @@
-# 09 — Artigiani e negozi nautici
+# 09 — Artisans & Shipchandlers
 
-**Ultima verifica: 25/08/2026**
+**Dernière vérification: 25/08/2026**
 
 | Servizio | Dove | Note |
 |---|---|---|
-| Haul-out/travelift | Palmetto Bay Plantation (Roatán) | Verificare operatività ★★ |
+| Haul-out/travelift | Palmetto Bay Plantation (Roatán) | Vérifier operatività ★★ |
 | Meccanica fuoribordo/diving gear | West End Roatán, Utila | Livello base ★★ |
-| Lavori strutturati | **DATO MANCANTE** | Riferimento regionale: Rio Dulce (Guatemala) ★★★★ |
+| Lavori strutturati | **DONNÉE MANQUANTE** | Riferimento regionale: Rio Dulce (Guatemala) ★★★★ |
 
-Ultimo aggiornamento: 25/08/2026
+Dernière mise à jour: 25/08/2026
 
 Tabella artigiani
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## Dove si trova cosa
+## Où trouver quoi
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## Note pratiche
+## Notes pratiques
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 

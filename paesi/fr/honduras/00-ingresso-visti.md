@@ -1,14 +1,14 @@
-# 00 — Ingresso, documenti e visti
+# 00 — Entrée, Documents & Visas
 
 
-## Status
+## Statut
 
-| Voce | Dato |
+| Rubrique | Dato |
 |---|---|
-| Visto italiani/UE | **NON richiesto** fino a **90 giorni** ★★★★ |
+| Visa italiani/UE | **NON richiesto** fino a **90 giorni** ★★★★ |
 | **CA-4** | I 90 giorni sono CONDIVISI con Guatemala, El Salvador, Nicaragua: uscire in uno di questi non azzera ★★★★ |
-| Estensione | **+30 giorni una sola volta** presso INM → massimo assoluto **120 gg** ★★★★ |
-| Passaporto | Ufficiale: **3 mesi** dall'arrivo; consigliato 6 mesi ★★★★ |
+| Prolongation | **+30 giorni una sola volta** presso INM → massimo assoluto **120 gg** ★★★★ |
+| Passeport | Ufficiale: **3 mesi** dall'arrivo; consigliato 6 mesi ★★★★ |
 | Giorni concessi | L'ufficiale scrive sul timbro i giorni: possono essere meno di 90 ★★★★ |
 | Febbre gialla | Certificato se arrivo da area endemica ★★★ |
 
@@ -18,7 +18,7 @@ La DGMM (Dirección General de la Marina Mercante) richiede l'**Aviso de Arribo
 online con almeno 48h di anticipo** tramite la Ventanilla Única (jotform ufficiale):
 1. Aviso de Arribo → "International Recreational Arrivals" → invio
 2. Ricevi il permesso firmato digitalmente
-3. Documenti allegati: copia passaporti, permesso di navigazione, zarpe ultimo porto
+3. Documents allegati: copia passaporti, permesso di navigazione, zarpe ultimo porto
 
 ## Fonti ufficiali
 
@@ -29,14 +29,14 @@ online con almeno 48h di anticipo** tramite la Ventanilla Única (jotform uffici
 | Instituto Nacional de Migración | [inm.gob.hn](https://www.inm.gob.hn) |
 | Farnesina Honduras | [viaggiare.sicuri.it](https://www.viaggiare.sicuri.it/honduras) |
 
-Ultimo aggiornamento: 25/08/2026
+Dernière mise à jour: 25/08/2026
 
-## Cittadini UE
+## Citoyens UE
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## La barca
+## Le bateau
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 

@@ -1,4 +1,4 @@
-# 10 — Ristoranti
+# 10 — Restaurants
 
 **Puerto Viejo de Talamanca** (tutti con scheda su puertoviejosatellite.com ★★★ / TripAdvisor / Facebook / Instagram):
 - **NÚM Restaurant & Wine Bar** (numrestaurantpuertoviejo.com) — cucina caribbean-fusion, stagionale, vini
@@ -22,14 +22,14 @@
 
 **Fonti web aggregate**: puertoviejosatellite.com ★★★ (più completa, aggiornata community), costaricavibes.com ★★★, costaricacaribbean.com ★★★, exoticobeach.com ★★★, costaricatravellife.com ★★★ (aggiornato set 2025).
 
-**Ultimo aggiornamento: 24/08/2026**
+**Dernière mise à jour: 24/08/2026**
 
-## Griglia generale
+## Grille générale
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## App e fonti
+## Applis et sources
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 

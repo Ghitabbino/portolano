@@ -1,25 +1,25 @@
 # Taberna Ramón
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| Zona | Santa Cruz – casco viejo |
-| Cucina | 🥩 Spagnola-mediterranea |
-| Specialità | Tapas · embutidos · pescaíto |
-| Costo | 💰€ per persona senza bevande |
-| Location | 🍺 tasca di quartiere |
-| Contatti | [Google Maps](https://www.google.com/maps/search/?api=1&query=Taberna+Ramon+Santa+Cruz+de+Tenerife) |
-| Valutazioni |TA positive ★★★★|
-| Orari | tutti i giorni pranzo/cena |
+| Area | Santa Cruz – casco viejo |
+| Cuisine | 🥩 Spagnola-mediterranea |
+| Speciality | Tapas · embutidos · pescaíto |
+| Cost | 💰€ for persona without bevande |
+| Setting | 🍺 tasca of quartiere |
+| Contacts | [Google Maps](https://www.google.com/maps/search/?api=1&query=Taberna+Ramon+Santa+Cruz+de+Tenerife) |
+| Ratings |TA positive ★★★★|
+| Hours | all i giorni pranzo/cena |
 
 ## Menu
 
 - Tapas variabili 2–4 €
-- Pesce del giorno
+- Pesce of the giorno
 
 **Chef**: ND
 
-**Note**: Vicino plaza de toros; economico e autentico
+**Note**: Vicino plaza de toros; economico and autentico
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

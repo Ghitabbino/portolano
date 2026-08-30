@@ -1,36 +1,36 @@
-# 08 — Ancoraggi
+# 08 — Guide des mouillages
 
 ## Ancoraggi in dettaglio
 
-| # | Ancoraggio | Riparo | Fondo | Prof. | Boe |
+| # | Mouillage | Riparo | Fondo | Prof. | Boe |
 |---|---|---|---|---|---|
 | 1 | [Little Bay](ancoraggi/anc-little-bay-msr.md) | ★★★ | Sabbia/sedimento vulcanico | 10–15 m | No |
 
 
 
-**Ultimo aggiornamento: 23/08/2026**
+**Dernière mise à jour: 23/08/2026**
 
 
 **Little Bay**: jetty 300×30 ft, ancoraggio davanti con NE; chiamare VHF 16 prima. Baie sud in **zona d'esclusione vulcanica** ⚠️. Old Road Bay nord con mare calmo. — [MPA](https://mpa.ms/safety-and-security/) ★★★★
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026
 
-## Regole generali
+## Règles générales
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Tabella riassuntiva
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## Cartografia ufficiale
+## Tableau récapitulatif
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## Checklist àncora
+## Cartographie officielle
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
+
+
+## Check-list mouillage
+
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 

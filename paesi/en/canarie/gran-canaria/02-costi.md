@@ -1,50 +1,50 @@
-# 02 — Costo della vita
+# 02 — Cost of Living
 
-Ultimo aggiornamento: 22/08/2026 · Valuta: euro · IGIC ~7% (fiscalità speciale canaria).
+Last updated: 22/08/2026 · Currency: euro · IGIC ~7% (fiscalità speciale canaria).
 
-## Alimentari e spesa di bordo
+## Groceries & Galley Provisioning
 
-| Voce | Prezzo indicativo | Note |
+| Item | Price indicativo | Note |
 |---|---|---|
 | Birra locale (0,33 l) | 0,60–1 € |Tropical/Dorada ★★|
-| Acqua 1,5 l | 0,50–0,80 € | ★★ |
+| Water 1,5 l | 0,50–0,80 € | ★★ |
 | Latte 1 l | 0,90–1,20 € | ★★ |
 | Riso 1 kg | ~2,00 € |Prezzi Spagna ★★★ |
 | Pollo 1 kg | 5–7 € | ★★ |
 
-Supermercati comodi a Las Palmas vicino alla marina (catene spagnole: Mercadona, Spar, Hyperdino); grande spesa nelle grandi superfici periferiche.
+Supermercati comodi a Las Palmas vicino at the marina (catene spagnole: Mercadona, Spar, Hyperdino); large spesa nelle grandi superfici periferiche.
 
-## Mangiare fuori
+## Eating Out
 
-| Voce | Prezzo |
+| Item | Price |
 |---|---|
-| Menú del giorno | 10–14 € |
+| Menú of the giorno | 10–14 € |
 | Caffè | 1,30–1,80 € |
-| Birra al bar | 2–3 € |
+| Birra at the bar | 2–3 € |
 | Cena ristorante pesce (Las Palmas/Mogán) | 25–40 € |
 
-## Carburanti
+## Fuel
 
-| Voce | Prezzo indicativo | Note |
+| Item | Price indicativo | Note |
 |---|---|---|
-| Gasolio stradale | Economico per IGIC | Tanica ok |
-| Gasolio dock marina | Prezzo del giorno al fuel pontoon | Verificare in capitaineria |
+| Gasolio stradale | Economico for IGIC | Tanica ok |
+| Gasolio dock marina | Price of the giorno at the fuel pontoon | Check in capitaineria |
 | Bombola gas raccordo spagnolo | Scambio ~15–20 € | Adapter consigliato |
 
-## Trasporti e servizi
+## Transport and servizi
 
-| Voce | Dettaglio |
+| Item | Detail |
 |---|---|
 | Bus Global/Las Palmas urbani | Economici, capillari |
 | Noleggio auto | 25–40 €/giorno |
 | Lavanderia self-service | 3–5 €/carico |
-| SIM prepagata | 10–20 € con dati generosi |
+| SIM prepagata | 10–20 € with dati generosi |
 
-## Contanti e pagamenti
+## Cash & Payments
 
-Carte accettate quasi ovunque; contante per mercati e piccoli bar.
+Carte accettate quasi ovunque; contante for mercati and piccoli bar.
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026
 
-## Servizi quotidiani
-Ultimo aggiornamento: 23/08/2026
+## Everyday Services
+Last updated: 23/08/2026

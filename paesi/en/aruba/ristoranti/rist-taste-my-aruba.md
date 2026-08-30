@@ -1,13 +1,13 @@
 # Taste My Aruba
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | Zona | Oranjestad centro |
 | Cucina | 🥙 Arubana tradizionale familiare |
 | Specialità | Menu giornaliero diverso · farm-to-table · keshi yena |
-| Costo | 💰€€ per persona senza bevande |
+| Costo | 💰€€ per person without drinks |
 | Location | 🪶 casa storica, accogliente moderno |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Taste+My+Aruba+Oranjestad) |
 | Contatti | Centro Oranjestad |

@@ -13,20 +13,19 @@ Ultimo aggiornamento: 25/08/2026
 
 ## Hub tecnico
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
+**Roatán**: Palmetto Bay Plantation (storico travelift Bay Islands) — verificare operatività; officine piccole West End/Coxen Hole per fuoribordo/meccanica base/diving-tech. **Lavori maggiori/veleria/elettronica**: riferimento **Rio Dulce (Guatemala)** — fiume, haul-out multipli, comunità cruiser. ★★★★
 
 ## Gas e bombole
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
+Scambio bombole USA a Coxen Hole (Roatán), non su cayes remote. Portare adattatore. ★★
 
 ## Acqua dolce
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
+RO in marina a Roatán (French Harbour/Jonesville) e Utila; altrove acqua in bottiglia. Non potabile da rubinetto mainland. ★★
 
 ## Note strategiche
 
-**DATO MANCANTE** — da completare al controllo mensile.
+Ricambi via USA (Miami/Houston) 1–3 settimane dogana. Bay Islands non è hub refit — pianificare refit a Rio Dulce. ★★
+
+Ultimo aggiornamento: 29/08/2026
 

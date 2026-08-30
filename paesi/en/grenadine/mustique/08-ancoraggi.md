@@ -1,4 +1,4 @@
-# 08 — Portolano degli ancoraggi
+# 08 — Anchorage Pilot
 
 ## Ancoraggi in dettaglio
 
@@ -8,12 +8,12 @@
 
 
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026
 
-## Tabella riassuntiva
+## Summary Table
 
 | # | Ancoraggio | Fondo | Prof. | Note |
 |---|---|---|---|---|
 | 1 | Britannia Bay | sabbia | 3–9 m | Mooring balls; clearance nell'ufficio sul molo |
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026

@@ -1,27 +1,27 @@
 # Andy's Soup House
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| Zona | Grand Anse Valley (Wall Street, sopra Grand Anse) |
-| Cucina | 🥩 Locale tradizionale · zuppe e piatti casalinghi |
-| Specialità | Oil down · beef roti · zuppe del giorno · nutmeg ice cream |
-| Costo | 💰€ per persona senza bevande |
-| Location | 🪶 roadside diner semplice, interno climatizzato |
+| Area | Grand Anse Valley (Wall Street, sopra Grand Anse) |
+| Cuisine | 🥩 Locale tradizionale · zuppe and piatti casalinghi |
+| Speciality | Oil down · beef roti · zuppe of the giorno · nutmeg ice cream |
+| Cost | 💰€ for persona without bevande |
+| Setting | 🪶 roadside diner semplice, interno climatizzato |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Andy%27s+Soup+House+Grand+Anse+Grenada) |
-| Contatti | +1 473 439-0602 (verificare) · Facebook Andy's Soup House |
-| Valutazioni | TA 4,6/5 (150+), Google 4,5/5 → ★★★★ · citato da [InspiringTravel](https://www.inspiringtravel.co.uk/caribbean/grenada/travel-guides/top-10-restaurants-in-grenada) ★★★ e [PureGrenada guide locali](https://www.puregrenada.com) ★★★★ |
-| Orari | colazione-pranzo-cena; meglio a pranzo per la scelta completa (special giornaliero locale) |
+| Contacts | +1 473 439-0602 (check) · Facebook Andy's Soup House |
+| Ratings | TA 4,6/5 (150+), Google 4,5/5 → ★★★★ · citato from [InspiringTravel](https://www.inspiringtravel.co.uk/caribbean/grenada/travel-guides/top-10-restaurants-in-grenada) ★★★ and [PureGrenada guide locali](https://www.puregrenada.com) ★★★★ |
+| Hours | colazione-pranzo-cena; meglio a pranzo for la scelta completa (special giornaliero locale) |
 
 ## Menu
 
-- Zuppa del giorno (special locale diverso ogni giorno)
-- Beef roti (molto citato)
+- Zuppa of the giorno (special locale diverso each giorno)
+- Beef roti (very citato)
 - Oil down (piatto nazionale)
-- Chicken e fish con ground provisions
-- Nutmeg ice cream (gelato alla noce moscata)
+- Chicken and fish with ground provisions
+- Nutmeg ice cream (gelato at the noce moscata)
 
 <div class="mapframe" data-slug="rist-andys" data-lat="12.015" data-lon="-61.755"></div>
 
-**Note**: roadside diner modesto fuori ma accoglienza calda e porzioni generose a prezzo locale; frequentato soprattutto da grenadini. Consigliato dalla guida locale [InspiringTravel Top 10](https://www.inspiringtravel.co.uk/caribbean/grenada/travel-guides/top-10-restaurants-in-grenada) come "never judge a book by its cover" — cucina autentica. A 10 min a piedi in salita da Grand Anse. Verificato 28/08/2026.
+**Note**: roadside diner modesto fuori ma accoglienza calda and porzioni generose a prezzo locale; frequentato soprattutto from grenadini. Consigliato dalla guida locale [InspiringTravel Top 10](https://www.inspiringtravel.co.uk/caribbean/grenada/travel-guides/top-10-restaurants-in-grenada) as "never judge a book by its cover" — cucina autentica. A 10 min a piedi in salita from Grand Anse. Verificato 28/08/2026.

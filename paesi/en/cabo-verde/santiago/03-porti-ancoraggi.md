@@ -1,10 +1,10 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
-Ultimo aggiornamento: 22/08/2026 · Coordinate indicative; navigare con cartografia ufficiale. **Nessuna marina a Santiago**: porto commerciale, porto pesca e ancoraggi.
+Last updated: 22/08/2026 · Coordinate indicative; navigare con cartografia ufficiale. **Nessuna marina a Santiago**: porto commerciale, porto pesca e ancoraggi.
 
 ## Porto Grande da Praia (porto commerciale)
 
-| Voce | Dato |
+| Item | Data |
 |---|---|
 | Natura | Porto container/ferry attivo; niente pontoni per diporto |
 | Ingresso rada | Tra Ponta Temerosa (con il faro Dona Maria Pia) e la costa N; attenzione alle reti dei pescatori |
@@ -19,7 +19,7 @@ Ultimo aggiornamento: 22/08/2026 · Coordinate indicative; navigare con cartogra
 |---|---|
 | ★★★ |Guardia notturna, barche locali, aiuto all'ormeggio dai residenti; l'opzione più usata dai naviganti per notti brevi ★★|
 
-## Altri approdi sull'isola
+## Other Landings on the Island
 
 | Posto | Note |
 |---|---|
@@ -27,35 +27,35 @@ Ultimo aggiornamento: 22/08/2026 · Coordinate indicative; navigare con cartogra
 | Tarrafal (Nord) | Baia sabbiosa riparata dal NW, spiaggia turistica; aperto al SW |
 | Baía do Inferno / Costa Sud | Solo con mare piatto, nessun riparo vero |
 
-## Distanze utili
+## Useful Distances
 
-| Tratta | Distanza | Note |
+| Passage | Distance | Note |
 |---|---|---|
 | Praia – Porto Inglês (Maio) | ~40 Mm | Facile con aliseo NE |
 | Praia – Vale de Cavaleiros (Fogo) | ~90 Mm | Bolina lunga contro aliseo |
 | Praia – Mindelo | ~170 Mm | Rientro sempre controvento |
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026
 
-## Tariffe
-Ultimo aggiornamento: 22/08/2026
+## Tariffs
+Last updated: 22/08/2026
 
-## Tariffe ormeggi e marine
+## Berthing & Marina Tariffs
 
-| Voce | Costo | Note |
+| Item | Cost | Notes |
 |---|---|---|
-| Posto pontile/peschereccio | **DATO MANCANTE** — concordare in capitania/porto | Nessun listino turistico pubblicato |
-| Boa | **DATO MANCANTE** | |
+| Posto pontile/peschereccio | **DATA MISSING** — concordare in capitania/porto | Nessun listino turistico pubblicato |
+| Boa | **DATA MISSING** | |
 | Ancoraggio | **Gratuito** fuori zone regolamentate | |
-| Acqua | **DATO MANCANTE** | Chiedere in porto |
-| Elettricità | **DATO MANCANTE** | |
+| Acqua | **DATA MISSING** | Chiedere in porto |
+| Elettricità | **DATA MISSING** | |
 
-## Distanze utili
+## Useful Distances
 
-| Tratta | Distanza | Note |
+| Passage | Distance | Note |
 |---|---|---|
 | Mindelo – Sal | ~110 Mm | Aliseo NE |
 | Praia – Fogo | ~30 Mm | |
 | Fogo – Brava | ~15 Mm | |
 
-Ultimo aggiornamento: 24/08/2026
+Last updated: 24/08/2026

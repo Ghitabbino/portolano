@@ -7,7 +7,7 @@
 | Zona | Rodney Bay waterfront (giardini Harmony Marina Suites) |
 | Cucina | 🐟 Franco-caraibica raffinata |
 | Specialità | Pesce fresco · menu francese-caraibico |
-| Costo | 💰€€€ per persona senza bevande ($$$$ su TA) |
+| Costo | 💰€€€ per person without drinks ($$$$ su TA) |
 | Location | ⚓ fronte marina, giardini, vista laguna |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jacques+Waterfront+Dining+Rodney+Bay) — coord. verificate 14.0728, -60.9540 |
 | Contatti | +1 758-458-1900 · cathy@jacquesrestaurant.com · jacquesrestaurant.com |
@@ -28,4 +28,4 @@
 
 **Note**: prenotare in alta stagione (dic–apr); aperto solo la sera. Fonte: TripAdvisor (verificato 25/08/2026 ★★★), sito ufficiale ★★★.
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

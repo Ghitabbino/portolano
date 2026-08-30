@@ -1,31 +1,31 @@
-# 06 — Sicurezza
+# 06 — Safety & Security
 
-**Valutazione sicurezza: DATO MANCANTE / 5 — in verifica**
+**Safety Rating: DATA MISSING / 5 — in verifica**
 
 | Area | Voto | Motivazione |
 |---|---|---|
-| **Colombia Caribe** | **DATO MANCANTE** | Verifica advisory in corso (travel.state.gov, gov.uk, voyage.gc.ca, CSSN) |
+| **Colombia Caribe** | **DATA MISSING** | Verifica advisory in corso (travel.state.gov, gov.uk, voyage.gc.ca, CSSN) |
 
-> Scheda in completamento — consultare advisory aggiornate prima della navigazione.
+> Scheda in completamento — consultare advisory aggiornate prima of the navigazione.
 
-Ultimo aggiornamento: 28/08/2026
+Last updated: 28/08/2026
 
-## Quadro generale
+## General Overview
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
 ## Posti sicuri
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## Salvataggio ed emergenze
+## Rescue & Emergencies
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
 ## Monitoraggio mensile
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 

@@ -1,28 +1,28 @@
-# 08 — Portolano degli ancoraggi
+# 08 — Anchorage Pilot
 
-Ultimo aggiornamento: 22/08/2026 · Cartografia DHN capoverdiana datata + Navionics/C-MAP
+Last updated: 22/08/2026 · Cartografia DHN capoverdiana datata + Navionics/C-MAP
 
-## Regole generali
+## General Rules
 
-- L'isola turistica per eccellenza (Santa Maria a sud): poca vegetazione, vento costante, kitesurf mondiale.
-- Aliseo NE nov–giu: versanti sud/ovest sottovento.
-- Zone di pesca: chiedere prima di àncorare.
+- The tourist island par excellence (Santa Maria in the south): sparse vegetation, constant wind, world-class kitesurf.
+- NE trades Nov–Jun: south/west coasts leeward.
+- Fishing zones: always ask before anchoring.
 
-## Tabella riassuntiva
+## Summary Table
 
-| # | Ancoraggio | Riparo | Tenuta | Profondità | Affollamento | Giudizio |
+| # | Anchorage | Shelter | Holding | Depth | Crowding | Verdict |
 |---|---|---|---|---|---|---|
 | 1 | Palmeira (nord) | ★★★ | sabbia/fango | 4–9 m | Basso | Porto peschereccio; base logistica nord |
 | 2 | Santa Maria (pontile) | ★★ | sabbia | 3–7 m | Alto in stagione | Davanti al paese turistico; rolla con SW |
 
-## Checklist àncora
+## Anchor Checklist
 
 1. Stagione giusta?
 2. Fondo confermato?
 3. Meteo 48h senza swell dalla rotta esposta?
 4. Contante per accordi locali?
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026
 
-## Cartografia ufficiale
-Ultimo aggiornamento: 22/08/2026
+## Official Charts
+Last updated: 22/08/2026

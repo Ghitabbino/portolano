@@ -1,16 +1,16 @@
-# 00 — Ingresso, documenti e visti
+# 00 — Entrée, Documents & Visas
 
-**Ultima verifica: 25/08/2026**
+**Dernière vérification: 25/08/2026**
 
-## Status (cittadini UE/italiani)
+## Statut (cittadini UE/italiani)
 
 Federazione indipendente del Commonwealth: due isole, un'unica giurisdizione migratoria e doganale.
 
-## Cittadini UE — nessun visto, 90 giorni
+## Citoyens UE — pas de visa, 90 giorni
 
 Turisti UE/italiani esenti visto (reciprocità piena con l'Unione); prassi di soggiorno fino a 90 giorni. Wikipedia ★★ · Noonsite ★★★
 
-## Nota importante per chi arriva via mare
+## Note importante pour l’arrivée par mer
 
 Pre-arrivo TRIPLO, per ogni persona e con nomi identici al passaporto:
 
@@ -21,26 +21,26 @@ Pre-arrivo TRIPLO, per ogni persona e con nomi identici al passaporto:
 Poi bandiera gialla Q fino alla clearance, SOLO il capitano scende a terra con l'equipaggio che resta a bordo, chiamata VHF prima dell'ingresso. Noonsite (feb 2025) ★★★
 
 - Porti: St Kitts → [Port Zante](https://portzante.com/clearing-in-by-yacht-in-st-kitts-nevis-reference-guide/) Marina Basseterre (VHF 68) e Christophe Harbour (Safe Harbor); Nevis → molo di Charlestown (NASPA). ★★★
-- A terra servono: registro nave, clearance dell'ultimo porto, crew list, passaporti, dichiarazioni su armi e animali.
+- À terre servono: registro nave, clearance dell'ultimo porto, crew list, passaporti, dichiarazioni su armi e animali.
 - Spostamenti St Kitts↔Nevis: tenere sempre a bordo i documenti di clearance.
 - Ingresso e uscita contestuali possibili con sosta ≤24 h; niente straordinari nel weekend (feb 2025).
 
 ## E dopo i 90 giorni?
 
-Procedura di estensione: **DATO MANCANTE**.
+Procédure di estensione: **DONNÉE MANQUANTE**.
 
-## La barca
+## Le bateau
 
-| Porto | Costi |
+| Port | Costi |
 |---|---|
 | Port Zante/Basseterre | ~US$30 dogana/marina + US$20 Port Authority |
 | Christophe Harbour | US$30 copre ingresso+uscita (feb 2025) |
 | Nevis | più caro e SOLO CONTANTI |
 
-L'immigrazione non ha costi. Importazione temporanea extra-UE: **DATO MANCANTE**. Fonte: Noonsite ★★★
+L'immigrazione non ha costi. Importazione temporanea extra-UE: **DONNÉE MANQUANTE**. Source: Noonsite ★★★
 
-## Vaccini
+## Vaccins
 
-Nessuna vaccinazione obbligatoria dall'Europa; febbre gialla solo da paesi a rischio (standard CARICOM). Fonte sanitaria primaria dedicata: **DATO MANCANTE**.
+Nessuna vaccinazione obbligatoria dall'Europa; febbre gialla solo da paesi a rischio (standard CARICOM). Source sanitaria primaria dedicata: **DONNÉE MANQUANTE**.
 
-Ultimo aggiornamento: 25/08/2026
+Dernière mise à jour: 25/08/2026

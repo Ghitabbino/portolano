@@ -1,6 +1,6 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026
 
 ## Ancoraggi e approdi
 
@@ -12,4 +12,4 @@ Ultimo aggiornamento: 22/08/2026
 
 Clearance a Charlestown; jetty dei resort con accesso regolamentato.
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026

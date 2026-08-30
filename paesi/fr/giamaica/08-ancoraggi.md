@@ -1,8 +1,8 @@
-# 08 — Portolano degli ancoraggi
+# 08 — Guide des mouillages
 
-**Ultima verifica: 24/08/2026**
+**Dernière vérification: 24/08/2026**
 
-## Regole generali di ancoraggio (prima di tutto)
+## Règles générales de mouillage (avant tout)
 
 - **Cruising Permit obbligatorio** per muoversi oltre porto d'ingresso; **clearance domestica ad ogni porto** (arrival form endorsed by Customs). ★★★★★
 - Fondo tipico sabbia + turtle grass, tenuta facile. **FADs** segnalati lungo costa — vigilanza. ★★★
@@ -10,9 +10,9 @@
 - **Black water tank mandatory** per check-in (Port Royal). ★★
 - Divieto ancoraggio su barriera corallina, canali commerciali, davanti a Kingston Harbour, cavi.
 
-## Tabella riassuntiva — i migliori ancoraggi
+## Tableau récapitulatif — meilleurs mouillages
 
-| # | Ancoraggio | Riparo alisei | Tenuta | Profondità | Affollamento | Giudizio comunità |
+| # | Mouillage | Riparo alisei | Tenue | Profondeur | Affluence | Avis de la communauté |
 |---|---|---|---|---|---|---|
 | 1 | Errol Flynn Marina Basin (Port Antonio) | ★★★★ | ★★★★ sabbia/fango | 17 ft max | Medio | 350 ft max ★★★★ |
 | 2 | Montego Bay Yacht Club Basin | ★★★★ | ★★★★ fango/sabbia | 6-20 ft | Medio | stern-to ★★★★ |
@@ -25,28 +25,28 @@
 
 *Coordinate indicative WGS84: Errol Flynn 18°10.83'N 76°27.22'W · MBYC ~18°28.4'N 77°55.5'W · RJYC 17°56.72'N 76°46.37'W · Oracabessa ~18°24.5'N 76°57'W · Ocho Rios ~18°24.6'N 77°06.5'W (verificare con Navily/CruiserFix).*
 
-### Mappa generale degli ancoraggi
+### Carte générale des mouillages
 
 <div class="mapframe" data-slug="giamaica" data-minz="8" data-maxz="16" data-lat="18.12" data-lon="-77.30" data-markers='[[18.1805,-76.4538,"Errol Flynn Marina — Port Antonio"],[18.462,-77.942,"Montego Bay Yacht Club"],[17.9454,-76.7723,"Royal Jamaica YC — Kingston"],[18.403,-76.949,"Oracabessa"],[18.411,-77.1075,"Ocho Rios"],[17.883,-76.342,"Bowden Harbour"]]'></div>
 
 *Marker gialli — clic per nome. Tasselli zoom 8–13.*
 
-## Cartografia ufficiale
+## Cartographie officielle
 
 | Carta | Copertura | Note |
 |---|---|---|
 | DMA Chart 26129 / Admiralty 458 | Approaches Port Antonio | Per Errol Flynn |
-| Navionics / C-MAP | Giamaica completa | Verificare depths post-Melissa |
+| Navionics / C-MAP | Giamaica completa | Vérifier depths post-Melissa |
 | Navily / NoForeignLand | Anchorages interactive | Reviews live |
 
 - Attenzione: profondità/facilities possono aver subito variazioni post-Melissa 10/2025; verificare con marina.
 
-## Non inclusi (per ora)
+## Non inclus (pour l’instant)
 
 - Blue Lagoon / Frenchman's Cove (Port Antonio): day stop turistico, non ancoraggio ufficiale.
 - Great Bay: swell significativo, solo emergenza.
 
-## Checklist àncora per la Giamaica
+## Check-list mouillage per la Giamaica
 
 1. Cruising Permit MAJ a bordo ✓
 2. Black water tank chiuso ✓
@@ -54,4 +54,4 @@
 4. FADs visual watch ✓
 5. Clearance domestica per ogni porto ✓
 
-Ultimo aggiornamento: 24/08/2026
+Dernière mise à jour: 24/08/2026

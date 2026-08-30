@@ -7,7 +7,7 @@
 | Zona | Blue Hills (costa NW Provo) |
 | Cucina | 🐟 Locale / conch |
 | Specialità | *Cracked conch · conch salad · conch fritters* |
-| Costo | 💰€€ per persona senza bevande |
+| Costo | 💰€€ per person without drinks |
 | Location | 🏖️ spiaggia — beach shack iconico |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Da+Conch+Shack+Blue+Hills+Providenciales) |
 | Contatti | +1 (649) 946-8877 · [daconchshack.com](https://www.daconchshack.com) |

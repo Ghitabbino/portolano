@@ -1,12 +1,12 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
-Ultimo aggiornamento: 22/08/2026 · Coordinate indicative; navigare con cartografia ufficiale. **Brava è la più remota e verde dell'arcipelago, ma l'approccio è delicato ovunque: nessun porto vero.**
+Dernière mise à jour: 22/08/2026 · Coordinate indicative; navigare con cartografia ufficiale. **Brava è la più remota e verde dell'arcipelago, ma l'approccio è delicato ovunque: nessun porto vero.**
 
-## Furna (Porto de Furna, costa NE)
+## Furna (Port de Furna, costa NE)
 
 L'unico approccio "strutturato": porto minuscolo sul angolo NE dell'isola. ★★★
 
-| Tenuta | Note |
+| Tenue | Note |
 |---|---|
 | ★★ |Banchina dei pescatori con muretto; ormeggio laterale possibile con mare piatto. Aperta al NE: con aliseo pieno il porticciolo lavora e l'ormeggio diventa insostenibile ★★★|
 
@@ -18,7 +18,7 @@ Borgata di pescatori su una falesia bassa: ancoraggio diurno solo con mare piatt
 
 ## Nova Sintra (ancoraggio segnalato)
 
-Ancoraggio "ragionevole" davanti alla capitale secondo i naviganti: tenuta discreta, qualche strascico riportato; due ristoranti a riva (Maria aperto ogni giorno). ★★
+Mouillage "ragionevole" davanti alla capitale secondo i naviganti: tenuta discreta, qualche strascico riportato; due ristoranti a riva (Maria aperto ogni giorno). ★★
 
 ## Consenso onesto
 
@@ -26,34 +26,34 @@ Ancoraggio "ragionevole" davanti alla capitale secondo i naviganti: tenuta discr
 - Piani alternativi obbligatori: Fogo (22 Mm a E) come rifugio di ritorno.
 - Notte in rada solo a Furna con meteo stabile; altrove solo soste diurne.
 
-## Distanze utili
+## Distances utiles
 
-| Tratta | Distanza | Note |
+| Trajet | Distance | Note |
 |---|---|---|
 | Furna – Vale de Cavaleiros (Fogo) | ~22 Mm | Mare corto e spiaccicato con aliseo pieno |
 | Furna – Mindelo | ~110 Mm | Lunga bolina contro aliseo |
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026
 
-## Tariffe
-Ultimo aggiornamento: 22/08/2026
+## Tarifs
+Dernière mise à jour: 22/08/2026
 
-## Tariffe ormeggi e marine
+## Tarifs d’amarrage & marinas
 
-| Voce | Costo | Note |
+| Rubrique | Coût | Note |
 |---|---|---|
-| Posto pontile/peschereccio | **DATO MANCANTE** — concordare in capitania/porto | Nessun listino turistico pubblicato |
-| Boa | **DATO MANCANTE** | |
-| Ancoraggio | **Gratuito** fuori zone regolamentate | |
-| Acqua | **DATO MANCANTE** | Chiedere in porto |
-| Elettricità | **DATO MANCANTE** | |
+| Posto pontile/peschereccio | **DONNÉE MANQUANTE** — concordare in capitania/porto | Nessun listino turistico pubblicato |
+| Bouée | **DONNÉE MANQUANTE** | |
+| Mouillage | **Gratuito** fuori zone regolamentate | |
+| Eau | **DONNÉE MANQUANTE** | Chiedere in porto |
+| Électricité | **DONNÉE MANQUANTE** | |
 
-## Distanze utili
+## Distances utiles
 
-| Tratta | Distanza | Note |
+| Trajet | Distance | Note |
 |---|---|---|
-| Mindelo – Sal | ~110 Mm | Aliseo NE |
+| Mindelo – Sal | ~110 Mm | Alizé NE |
 | Praia – Fogo | ~30 Mm | |
 | Fogo – Brava | ~15 Mm | |
 
-Ultimo aggiornamento: 24/08/2026
+Dernière mise à jour: 24/08/2026

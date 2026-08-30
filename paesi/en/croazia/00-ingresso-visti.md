@@ -1,42 +1,42 @@
-# 00 — Ingresso, documenti e visti
+# 00 — Entry, Documents & Visas
 
-**Ultima verifica: 27/08/2026**
+**Last checked: 27/08/2026**
 
 ## Status
 
-La Croazia è uno **Stato membro dell'Unione europea** e parte dell'**area Schengen** (ingresso in Schengen dal 01/01/2023). Valuta: **euro (EUR)**.
+La Croazia è uno **Stato membro dell'Unione europea** and parte dell'**area Schengen** (ingresso in Schengen dal 01/01/2023). Currency: **euro (EUR)**.
 
-## Cittadini UE — nessun visto (principio generale)
+## EU Citizens — No Visa (General Principle)
 
-| Voce | Regola | Fonte |
+| Item | Rule | Source |
 |---|---|---|
-| Visto | **DATO MANCANTE** — verificare durata soggiorno senza visto per cittadini UE su fonte governativa croazia | **DATO MANCANTE** |
-| Documenti | **DATO MANCANTE** — carta d'identità/passaporto: verificare requisiti esatti su exterior.gob.es / inclusion.gob.es | **DATO MANCANTE** |
-| Soggiorno | **DATO MANCANTE** | **DATO MANCANTE** |
+| Visa | **DATA MISSING** — check durata soggiorno without visto for cittadini UE on fonte governativa croazia | **DATA MISSING** |
+| Documents | **DATA MISSING** — carta d'identità/passaporto: check requisiti esatti on exterior.gob.es / inclusion.gob.es | **DATA MISSING** |
+| Stay | **DATA MISSING** | **DATA MISSING** |
 
-> Dettagli su visti, documenti richiesti e modelli da compilare: **DATO MANCANTE** — da verificare su fonte governativa croazia ★★★★★ prima della partenza.
+> Details on visti, documenti richiesti and modelli from compilare: **DATA MISSING** — from check on fonte governativa croazia ★★★★★ prima of the partenza.
 
-## Nota importante per chi arriva via mare
+## Important Note for Arrival by Sea
 
-- Controlli persone e **clearance della barca** sono procedure separate → vedi [01 — Clearance doganale della barca](01-clearance.md).
-- **DATO MANCANTE** su procedure specifiche di ingresso via mare per diportisti in Croazia.
+- Personal checks and **yacht clearance** are separate procedures → see [01 — Yacht Customs Clearance](01-clearance.md).
+- **DATA MISSING** on procedure specifiche of ingresso via mare for diportisti in Croazia.
 
-## E dopo i 3 mesi? (cittadini italiani/UE)
+## Beyond 3 Months? (Italian/EU Citizens)
 
-| Situazione | Regola | Fonte |
+| Situation | Rule | Source |
 |---|---|---|
-| Soggiorno oltre 3 mesi | **DATO MANCANTE** | **DATO MANCANTE** |
-| Quota Schengen 90/180 | **DATO MANCANTE** | **DATO MANCANTE** |
+| Soggiorno oltre 3 mesi | **DATA MISSING** | **DATA MISSING** |
+| Quota Schengen 90/180 | **DATA MISSING** | **DATA MISSING** |
 
-## La barca: permanenza
+## The Yacht: Length of Stay
 
-| Barca | Regola | Fonte |
+| Yacht | Rule | Source |
 |---|---|---|
-| **UE con IVA pagata** | **DATO MANCANTE** — libera circolazione in UE, verificare dettagli doganali Croazia | **DATO MANCANTE** |
-| Extra-UE | **DATO MANCANTE** — verificare regime ammissione temporanea Croazia/UE | **DATO MANCANTE** |
+| **EU VAT-paid** | **DATA MISSING** — libera circolazione in UE, check dettagli doganali Croazia | **DATA MISSING** |
+| Extra-UE | **DATA MISSING** — check regime ammissione temporanea Croazia/UE | **DATA MISSING** |
 
-## Vaccini
+## Vaccinations
 
-**DATO MANCANTE** — verificare su viaggiareinsicurezza.it / exterior.gob.es.
+**DATA MISSING** — check on viaggiareinsicurezza.it / exterior.gob.es.
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

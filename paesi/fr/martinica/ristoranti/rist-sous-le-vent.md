@@ -1,18 +1,18 @@
 # Sous le Vent
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Sainte-Luce |
-| Cucina | 🐟 Bistronomico pesce |
-| Specialità | Daurade snackée sauce aimé · langouste flambée |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🌅 bistrot sul mare |
+| Zone | Sainte-Luce |
+| Cuisine | 🐟 Bistronomico pesce |
+| Spécialité | Daurade snackée sauce aimé · langouste flambée |
+| Coût | 💰€€ per persona senza bevande |
+| Emplacement | 🌅 bistrot sul mare |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sous+le+Vent+Sainte-Luce) |
-| Contatti | 0596 28 63 70 / 0607 76 45 92 |
-| Valutazioni | TA 4,7/5 (138), Travellers' Choice 2025 (n°5/777 a Sainte-Luce) → ★★★★★ |
-| Orari | mer–dom 12–14 / 18–21 · chiuso lun–mar |
+| Contacts | 0596 28 63 70 / 0607 76 45 92 |
+| Évaluations | TA 4,7/5 (138), Travellers' Choice 2025 (n°5/777 a Sainte-Luce) → ★★★★★ |
+| Horaires | mer–dom 12–14 / 18–21 · chiuso lun–mar |
 
 ## Menu
 
@@ -27,11 +27,11 @@
 
 **Chef**: Lionel (cucina) e Annie in sala, bretoni
 
-## Foto
+## Photos
 
 ![Sous le Vent](img/martinica/rist-sous-le-vent.jpg)
 
-*Fonte: sito Google Business del ristorante*
+*Source: sito Google Business del ristorante*
 
 **Note**: 15 bd Kennedy, fronte mare · 🔴 CHIUSURA ANNUALE 27/04–15/10/2026
 

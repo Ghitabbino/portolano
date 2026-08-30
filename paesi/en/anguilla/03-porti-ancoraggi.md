@@ -1,17 +1,16 @@
-# Porti e marine
+# 03 — Ports & Marinas
 
-**Ultimo aggiornamento: 23/08/2026**
+**Last updated: 23/08/2026**
 
-> ⚠️ Pagina in preparazione: dati in raccolta.
+> ⚠️ Page under preparation: data collection in progress.
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026
 
-## Tariffe
+## Berthing Rates
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## Distanze utili
+## Useful Distances
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
+**DATA MISSING** — to be completed at the monthly check.

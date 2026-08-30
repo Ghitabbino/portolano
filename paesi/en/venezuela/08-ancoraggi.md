@@ -1,4 +1,4 @@
-# 08 — Ancoraggi (fondali/holding/protezioni da cruisers) + permessi
+# 08 — Anchorages (fondali/holding/protezioni da cruisers) + permessi
 
 **Gran Roque (town)**: ancoraggio comodo per clearing/rifornimenti ma **rollioso quando il vento ruota a nord**; borgo colorato, piccoli ristoranti [Sail The Seas Mag, ott 2024] ★★. Formalità a 11°56,876N 66°40,918W; acqua e diesel a tanne nel NW dell'isola; pass del parco obbligatorio nelle zone protette (divieto pesca/caccia); atollo insidioso (2 incagli visti in una settimana): navigare col sole allo zenit [Multihulls World, 2018] ★. Ingresso da ovest se swell forte (bullets attraverso il canale) [Noonsite report, 2012] ★.
 
@@ -14,26 +14,26 @@
 
 **La Tortuga**: classico stop = **Cayo Herradura** (ferratura a ferro di cavallo NW di Tortuga), baia riparata frequentata da barche da pesca; nei weekend/festivi fino a 120 unità [PassageMaker, 2013] ★; ancoraggio NW dietro **Punta Arenas**: sabbia, **buon holding in 3-4 m**, parziale riparo dallo swell N [ExploreYachts, 2026] ★★; alternativa mangrovie Isla Remanso/Isla Carenero [PassageMaker 2013] ★.
 
-**Permessi INPARQUES / tariffe**: permesso parco necessario; zone no-fishing segnalate [Multihulls World 2018] ★. Tariffe turistiche ufficiali aeroportuali (**ago 2025**): ingresso adulti **50 USD**, bambini/over 65 **25 USD**; **uscita 12 USD**; pagamento contanti/POS all'ingresso del parco [Sasca Airlines PDF "Tasas de entrada y salida Los Roques", ago 2025] ★★★. Riferimento yacht (vecchio, ott 2018): parco **215 USD** per 40 ft + 2 pax + 5 USD guardacoste/dogana/immigrazione [Noonsite comment 2018] ★. **Tariffa yacht vigente 2025-26: DATO MANCANTE.**
+**Permessi INPARQUES / tariffe**: permesso parco necessario; zone no-fishing segnalate [Multihulls World 2018] ★. Tariffe turistiche ufficiali aeroportuali (**ago 2025**): ingresso adulti **50 USD**, bambini/over 65 **25 USD**; **uscita 12 USD**; pagamento contanti/POS all'ingresso del parco [Sasca Airlines PDF "Tasas de entrada y salida Los Roques", ago 2025] ★★★. Riferimento yacht (vecchio, ott 2018): parco **215 USD** per 40 ft + 2 pax + 5 USD guardacoste/dogana/immigrazione [Noonsite comment 2018] ★. **Tariffa yacht vigente 2025-26: DATA MISSING.**
 
-**Ultimo aggiornamento: 24/08/2026**
+**Last updated: 24/08/2026**
 
 ## Regole generali
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
 ## Tabella riassuntiva
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
 ## Cartografia ufficiale
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
 ## Checklist àncora
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 

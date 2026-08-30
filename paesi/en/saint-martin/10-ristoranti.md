@@ -1,6 +1,6 @@
-# 10 — Ristoranti
+# 10 — Restaurants
 
-**Ultimo aggiornamento: 23/08/2026**
+**Last updated: 23/08/2026**
 
 
 Grand Case = capitale gastronomica dei Caraibi: fila di ristoranti francesi in case creole sul Boulevard ★★★★
@@ -19,14 +19,14 @@ Grand Case = capitale gastronomica dei Caraibi: fila di ristoranti francesi in c
 - **Marigot**: Marché Central, supermercati francesi (Leader Price), panetterie ★★★★
 - **Simpson Bay lagoon**: chandler e supermercati olandesi ★★★
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026
 
 ## Griglia generale
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
 ## App e fonti
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 

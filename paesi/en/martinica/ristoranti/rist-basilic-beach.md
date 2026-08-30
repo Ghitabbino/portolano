@@ -1,22 +1,22 @@
 # Basilic Beach
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | Zona | Pointe Marin |
 | Cucina | 🐟 Beach creolo rivisitato |
 | Specialità | Pesce fresco · cocktail |
-| Costo | 💰€€ per persona senza bevande |
+| Costo | 💰€€ per person without drinks |
 | Location | 🏖️ sulla spiaggia |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Basilic+Beach+Pointe+Marin) |
 | Contatti | 0696 32 67 92 |
-| Valutazioni | TA 4,1/5 (406) · Petit Futé 4,5/5 (26) → ★★★★ |
-| Orari | tutti i giorni |
+| Currencyzioni | TA 4,1/5 (406) · Petit Futé 4,5/5 (26) → ★★★★ |
+| Area | Puerto de Mogán – paseo |
 
 ## Menu
 
-- Pesce fresco del giorno
+- Pesce fresco of the giorno
 - Cucina creola rivisitata
 - Cocktail
 

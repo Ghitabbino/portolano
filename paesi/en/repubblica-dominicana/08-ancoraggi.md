@@ -1,4 +1,4 @@
-# 08 — Portolano degli ancoraggi
+# 08 — Pilot – Anchorages
 ## Regole generali di ancoraggio (prima di tutto)
 
 - **Despacho obbligatorio** per ogni spostamento tra porti/baie dominicane: va richiesto all'Armada prima di salpare e presentato all'arrivo. Navigare senza despacho espone a fermo e sanzione. ★★★★★
@@ -14,15 +14,15 @@
 | # | Ancoraggio | Coordinate (WGS84) | Riparo alisei | Tenuta | Profondità | Affollamento | Note |
 |---|---|---|---|---|---|---|---|
 | 1 | **Luperón — Bahía de Luperón** | **19°54.3′N 70°57.2′W** | ★★★★★ (hurricane hole) | ★★★★★ fango compatto | 2–6 m | Alto (stanziali) | Il più sicuro dell'isola; ingresso stretto dragato, dare precedenza ai pescherecci |
-| 2 | **Sosúa — Bahía de Sosúa** | **DATO MANCANTE** | ★★★ | ★★★ sabbia | 4–8 m | Medio | Spiaggia turistica, swell da NE in inverno |
+| 2 | **Sosúa — Bahía de Sosúa** | **DATA MISSING** | ★★★ | ★★★ sabbia | 4–8 m | Medio | Spiaggia turistica, swell da NE in inverno |
 | 3 | **Samaná — Bahía de Samaná (Puerto Bahía / Cayo Levantado)** | **19°11.39′N 69°21.19′W** (marina) | ★★★★★ | ★★★★ fango/sabbia | 3–10 m | Medio-alto in stagione balene (gen–mar) | Santuario megattere; regole avvicinamento cetacei |
-| 4 | **Los Haitises — Cayo de los Pájaros / San Lorenzo** | **DATO MANCANTE** | ★★★★ (mangrovie) | ★★★ fango | 2–5 m | Basso | Parco nazionale: accesso con guida, divieti ancoraggio su fanerogame |
-| 5 | **Bahía de las Águilas** | **DATO MANCANTE** | ★★★ | ★★★★ sabbia bianca | 3–8 m | Basso | Parco Jaragua: selvaggia, senza servizi, acqua turchese |
-| 6 | **Isla Saona — Mano Juan / Canto de la Playa** | **DATO MANCANTE** | ★★★★ | ★★★ sabbia/corallo | 2–6 m | Alto (escursioni giornaliere) | Parque del Este: ancorare solo su sabbia, rispettare boe parco |
-| 7 | **Isla Catalina** | **DATO MANCANTE** | ★★★★ | ★★★ sabbia | 4–10 m | Medio | Reef eccellente, gite da La Romana |
-| 8 | **Boca Chica — Andrés / Zar-Par** | **DATO MANCANTE** | ★★★★★ (reef frangente) | ★★★★ sabbia/fango | 2–5 m | Alto | Baia protetta da reef, fondale basso |
-| 9 | **Barahona — Bahía de Barahona** | **DATO MANCANTE** | ★★ | ★★★ sabbia | 5–12 m | Basso | Base per Águilas/Pedernales |
-| 10 | **Las Salinas / Palmar de Ocoa (Bahía de Ocoa)** | **DATO MANCANTE** | ★★★ | ★★★ sabbia | 4–10 m | Basso | Costa sud deserta, poco frequentata |
+| 4 | **Los Haitises — Cayo de los Pájaros / San Lorenzo** | **DATA MISSING** | ★★★★ (mangrovie) | ★★★ fango | 2–5 m | Basso | Parco nazionale: accesso con guida, divieti ancoraggio su fanerogame |
+| 5 | **Bahía de las Águilas** | **DATA MISSING** | ★★★ | ★★★★ sabbia bianca | 3–8 m | Basso | Parco Jaragua: selvaggia, senza servizi, acqua turchese |
+| 6 | **Isla Saona — Mano Juan / Canto de la Playa** | **DATA MISSING** | ★★★★ | ★★★ sabbia/corallo | 2–6 m | Alto (escursioni giornaliere) | Parque del Este: ancorare solo su sabbia, rispettare boe parco |
+| 7 | **Isla Catalina** | **DATA MISSING** | ★★★★ | ★★★ sabbia | 4–10 m | Medio | Reef eccellente, gite da La Romana |
+| 8 | **Boca Chica — Andrés / Zar-Par** | **DATA MISSING** | ★★★★★ (reef frangente) | ★★★★ sabbia/fango | 2–5 m | Alto | Baia protetta da reef, fondale basso |
+| 9 | **Barahona — Bahía de Barahona** | **DATA MISSING** | ★★ | ★★★ sabbia | 5–12 m | Basso | Base per Águilas/Pedernales |
+| 10 | **Las Salinas / Palmar de Ocoa (Bahía de Ocoa)** | **DATA MISSING** | ★★★ | ★★★ sabbia | 4–10 m | Basso | Costa sud deserta, poco frequentata |
 
 ★ = valutazione qualitativa dalle fonti cruiser/nautiche (più ★ = meglio). Coordinate esatte solo dove verificate.
 
@@ -88,4 +88,4 @@ Costa sud arida e ventosa, saline e dune. Baie ampie e poco frequentate, buone c
 5. Permesso parco dove richiesto (Saona, Haitises, Águilas) ✓
 6. Piano ciclone: Luperón come riparo nominato se in stagione ✓
 
-Ultimo aggiornamento: 24/08/2026
+Last updated: 24/08/2026

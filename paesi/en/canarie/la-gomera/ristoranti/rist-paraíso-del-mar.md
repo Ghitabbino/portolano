@@ -1,17 +1,17 @@
-# Paraíso del Mar
+# Paraíso of the Mar
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| Zona | Valle Gran Rey – Av. Marítima |
-| Cucina | 🐟 Pesce canario |
-| Specialità | Pescado fresco · potaje de berros |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🌅 fronte mare La Puntilla |
-| Contatti | €€ |
-| Valutazioni | 🌅 fronte mare La Puntilla |
-| Orari | **922 805 447** |
+| Area | Valle Gran Rey – Av. Marítima |
+| Cuisine | 🐟 Pesce canario |
+| Speciality | Pescado fresco · potaje de berros |
+| Cost | 💰€€ for persona without bevande |
+| Setting | 🌅 fronte mare La Puntilla |
+| Contacts | €€ |
+| Ratings | 🌅 fronte mare La Puntilla |
+| Hours | **922 805 447** |
 
 ## Menu
 
@@ -21,4 +21,4 @@
 
 **Note**: pranzo/cena
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

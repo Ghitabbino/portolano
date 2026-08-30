@@ -1,4 +1,4 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
 ## Panoramica zone
 
@@ -11,15 +11,15 @@ Non esistono marine né porti turistici nella comarca: solo anse tra le isole co
 | Est (Holandeses) | Le isole più belle, acqua limpida, meno servizi |
 | Nord-est (Mamitupu, Playón Chico) | Villaggi autentici, pochi yacht |
 
-## Tariffe ormeggi
+## Tariffs ormeggi
 
-| Voce | Dato |
+| Item | Data |
 |---|---|
 | Ancoraggio | Gratuito ovunque + permesso Guna ($50 barca/$20 persona) [01-clearance] |
-| Boe | Quasi assenti; alcune private presso lodge — DATO MANCANTE elenco |
+| Boe | Quasi assenti; alcune private presso lodge — DATA MISSING elenco |
 | Molo | Nessuno per yacht |
 
-## Distanze utili
+## Useful Distances
 
 | Da → A | NM |
 |---|---|
@@ -29,4 +29,4 @@ Non esistono marine né porti turistici nella comarca: solo anse tra le isole co
 | Holandeses → Capo Tiburón (uscita sud) | ~25 |
 | Porvenir → Cartagena | ~230 |
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026

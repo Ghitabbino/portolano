@@ -1,13 +1,13 @@
-# 06 — Sicurezza
+# 06 — Safety & Security
 
-**Ultima verifica: 25/08/2026** · Fonti: GOV.UK/travel.state ★★★★ · Ocean Posse ★★★
+**Last checked: 25/08/2026** · Fonti: GOV.UK/travel.state ★★★★ · Ocean Posse ★★★
 
-## Valutazione sicurezza: **2,5 / 5**
+## Safety Assessment: **2,5 / 5**
 
 | Area | Voto | Motivazione |
 |---|---|---|
 | Pacifico (SJdS, Corinto, Puesta del Sol) | **3/5** | Piccoli furti, contesto tranquillo di giorno ★★★ |
-| Costa Caraibica (Bluefields, PC) | **1,5/5** | Rotte narcotraffico, presenze armate, servizi minimi ★★★★ |
+| Costa Caribbeanca (Bluefields, PC) | **1,5/5** | Rotte narcotraffico, presenze armate, servizi minimi ★★★★ |
 | Interno/lago | **2,5/5** | Politicamente sensibile: evitare manifestazioni ★★★ |
 
 *Scala: 0 = terribile → 5 = molto sicuro.*
@@ -19,24 +19,23 @@
 - Non sbarcare di notte sulle spiagge isolate del Pacifico ★★
 - Emergenza: **118** police · VHF 16 presidio limitato ★★
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026
 
-## Quadro generale
+## Overview
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
 
 ## Posti sicuri
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
 
-## Salvataggio ed emergenze
+## Rescue & Emergencies
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
 
-## Monitoraggio mensile
+## Monthly Monitoring
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
+**DATA MISSING** — da completare al controllo mensile.

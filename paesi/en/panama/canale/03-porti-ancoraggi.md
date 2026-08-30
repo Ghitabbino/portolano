@@ -1,4 +1,4 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
 ## Panoramica zone
 
@@ -8,13 +8,13 @@
 | ↳ contatti | 30 Butner St, Fort Sherman, Colón · **+507 433-3581** / **6781-6631** (WA) · VHF **74** · info@shelterbaymarina.com · GPS 9°22'17"N 79°56'51"W [Cámara Marítima/sito ★★★★] |
 | Pacifico (uscita) | Amador/Causeway (Balboa YC, Flamenco Marina), isole Perlas |
 
-## Tariffe ormeggi e marine
+## Berthing & Marina Tariffs
 
-| Voce | Dato |
+| Item | Data |
 |---|---|
-| Pontile notte ~12 m |Shelter Bay ~$1,50/ft/notte ★★★ — DATO MANCANTE listino 2026|
-| Boa notte |Linton Bay ~$25–35 ★★★ — DATO MANCANTE aggiornamento|
-| Mese pontile | Shelter Bay ~$18–20/ft; Flamenco simile — DATO MANCANTE |
+| Pontile notte ~12 m |Shelter Bay ~$1,50/ft/notte ★★★ — DATA MISSING listino 2026|
+| Boa notte |Linton Bay ~$25–35 ★★★ — DATA MISSING aggiornamento|
+| Mese pontile | Shelter Bay ~$18–20/ft; Flamenco simile — DATA MISSING |
 | Elettricità/acqua | incluse o $5–10/giorno secondo marina |
 | Ancoraggio | gratuito ovunque fuori dai canali segnalati |
 
@@ -27,7 +27,7 @@
 | **Balboa Yacht Club** | Causeway Amador; boe e pontile, ufficio clearance succursale, punto classico per preparare il transito dal Pacifico |
 | **Flamenco Marina** | Causeway Amador; grande, turistica, dogana/migración comode per uscite verso Perlas/Ecuador |
 
-## Distanze utili
+## Useful Distances
 
 | Da → A | NM |
 |---|---|
@@ -38,4 +38,4 @@
 | Balboa → Isla Contadora (Perlas) | 40 |
 | Shelter Bay → Porvenir (San Blas) | 90 |
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026

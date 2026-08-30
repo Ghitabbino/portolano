@@ -1,8 +1,8 @@
-# 04 — Servizi, cantieri e manutenzione
+# 04 — Services, Chantiers & Entretien
 
-**Ultima verifica: 21/08/2026**
+**Dernière vérification: 21/08/2026**
 
-## Le Marin — hub servizi dei Caraibi orientali
+## Le Marin — hub servizi dei Caraïbes orientali
 
 ### Marina du Marin (ufficiale ★★★★)
 - 78+ professionisti del settore in porto, accoglienza 7/7, videosorveglianza, centro medico, lavanderia, supermercati. ★★★
@@ -21,18 +21,18 @@
 - Centre de carénage DCML, Baie des Tourelles (stesso punto clearance): +596 596 717 464 · dcmsarl@wanaddo.fr. ★★★★★
 - Shipchandler Sea Services, 109 rue Ernest Deproge: +596 596 702 669 · seaservices972@orange.fr. ★★★★★
 
-## Gas e bombole
+## Gaz et bouteilles
 
 - **Gas/GPL: le bombole NON si riempiono, si scambiano** (es. acquisto bombola Campingaz 3 kg con regolatore). ★★
-- Supermercati validi a Le Marin e Sainte-Anne per il resto della spesa tecnica. ★★
+- Supermarchés validi a Le Marin e Sainte-Anne per il resto della spesa tecnica. ★★
 
-## Acqua dolce
+## Eau douce
 
 ⚠️ La Martinica soffre di **penurie idriche ricorrenti**: possibili razionamenti imposti dalle autorità. Tenere riserve e seguire i media locali. ★★★★
 
-## Note strategiche
+## Notes stratégiques
 
-Le Marin = hub servizi dei Caraibi orientali: travelift 70 t, 78+ professionisti, spedizione ricambi centralizzata in capitaineria; chandler con prezzi ragionevoli rispetto alle Grenadine. ★★
+Le Marin = hub servizi dei Caraïbes orientali: travelift 70 t, 78+ professionisti, spedizione ricambi centralizzata in capitaineria; chandler con prezzi ragionevoli rispetto alle Grenadine. ★★
 
 ## Hub tecnico
 
@@ -40,4 +40,4 @@ Il Marin concentra il cantiere: **travelift 70 t**, area carenaggio, **78+ profe
 (velai, motoristi, elettricisti, antifouling, vetroresina); ricambi spediti e ritirati in capitaineria.
 Chandler principali raggiungibili a piedi dalla marina; elenco completo professionisti presso l'accoglienza. ★★
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026

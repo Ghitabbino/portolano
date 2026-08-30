@@ -1,20 +1,20 @@
-# 10 — Ristoranti
+# 10 — Restaurants
 
-**Ultimo aggiornamento: 28/08/2026**
+**Last updated: 28/08/2026**
 
-Selezione orientata alla crociera: locali raggiungibili **a piedi, in dinghy o con breve taxi/bus** dagli ancoraggi e dalle marine del portolano ([08 Ancoraggi](08-ancoraggi.md) — Carlisle Bay/Bridgetown + Port St. Charles/Speightstown + Oistins). Valutazione ponderata = media **Google + TripAdvisor + siti locali barbados.org / totallybarbados.com** (regola 14), verificata il **28/08/2026**. Prezzi indicativi per persona senza bevande; **prenotazione consigliata** in alta stagione (dic–apr) e alla domenica per i brunch.
+Cruiser-oriented selection: locali raggiungibili **a piedi, in dinghy or con breve taxi/bus** dagli ancoraggi e dalle marine del portolano ([08 Ancoraggi](08-ancoraggi.md) — Carlisle Bay/Bridgetown + Port St. Charles/Speightstown + Oistins). Valutazione ponderata = media **Google + TripAdvisor + siti locali barbados.org / totallybarbados.com** (regola 14), verificata il **28/08/2026**. Prezzi indicativi per person without drinks; **prenotazione consigliata** in alta stagione (dic–apr) e alla domenica per i brunch.
 
-Legenda prezzi: **€** <20 · **€€** 20–40 · **€€€** 40–70 · **€€€€** >70 — Cucina: 🐟 pesce e frutti di mare · 🥩 carne e grill · 🥗 vegetariano-friendly · 🥙 street food creolo · 🍰 dolci/gelato · 🍽️ internazionale/fine dining
+Price key: **€** <20 · **€€** 20–40 · **€€€** 40–70 · **€€€€** >70 — Cucina: 🐟 pesce e frutti di mare · 🥩 carne e grill · 🥗 vegetariano-friendly · 🥙 street food creolo · 🍰 dolci/gelato · 🍽️ internazionale/fine dining
 
-## Mappa dei ristoranti
+## Restaurant Map
 
 <div class="mapframe" data-slug="barbados" data-minz="7" data-maxz="17" data-lat="13.16" data-lon="-59.60" data-markers='[[13.0967, -59.6168, "Waterfront Cafe", "rist-waterfront-cafe"], [13.0942, -59.615, "Brown Sugar", "rist-brown-sugar"], [13.0725, -59.596, "Champers", "rist-champers"], [13.072, -59.603, "Deia Beach", "rist-deia-beach"], [13.065, -59.543, "Oistins Fish Fry (Pat’s Place)", "rist-oistins-fish-fry"], [13.071, -59.5815, "Primo Bar & Bistro", "rist-primo"], [13.185, -59.64, "The Tides", "rist-the-tides"], [13.257, -59.642, "Lone Star", "rist-lone-star"], [13.2585, -59.642, "13°/59° Port Ferdinand", "rist-1359-port-ferdinand"]]' ></div>
 
 *Marker cliccabili: il popup apre direttamente la scheda del ristorante. Tasselli locali zoom 7–15 (satellitare / carta nautica / segnali OpenSeaMap). Coordinate WGS84 da fonti locali ufficiali (barbados.org / totallybarbados.com) e siti dei ristoranti — verificare sempre con Google Maps prima di muoversi.*
 
-## Griglia generale
+## General Grid
 
-| Ristorante | Zona | Costo | Cucina | Specialità | Location | Stelle |
+| Restaurant | Area | Cost | Cuisine | Speciality | Location | Rating |
 |---|---|---|---|---|---|---|
 | [Waterfront Cafe](ristoranti/rist-waterfront-cafe.md) | Bridgetown — The Careenage | **€€** | **🐟 Bajan / pesce creolo** | *Flying fish cutter · mahi-mahi · rum punch* | **⚓ direttamente sul canale, waterfront storico** | ★★★★½ |
 | [Brown Sugar](ristoranti/rist-brown-sugar.md) | Bridgetown — Bay Street (a 400 m dal Careenage) | **€€** | **🐟 Bajan buffet** | *Buffet bajan domenicale · macaroni pie · pudding & souse* | **🌴 giardino creolo, istituzione dal 1980** | ★★★★ |
@@ -26,11 +26,11 @@ Legenda prezzi: **€** <20 · **€€** 20–40 · **€€€** 40–70 · **
 | [Lone Star](ristoranti/rist-lone-star.md) | St. James — Mount Standfast / Paynes Bay | **€€€** | **🐟 Mediterranea-caraibica pieds dans l’eau** | *Pizza al forno a legna · pesce fresco · sunset* | **🏖️ direttamente sulla spiaggia, piedi nella sabbia** | ★★★★½ |
 | [13°/59°](ristoranti/rist-1359-port-ferdinand.md) | St. Peter — Port Ferdinand Marina | **€€€** | **🐟 Caraibica-internazionale resort** | *Wahoo · mahi · lobster · brunch domenica* | **⚓ marina resort 5★, sul bacino** | ★★★★ |
 
-*Prezzi per persona senza bevande; vini/cocktail a parte. Cucina: icona principale. Location: descrizione sintetica. Stelle: media ponderata Google/TripAdvisor/locali al 28/08/2026 (vedi schede).*
+*Prezzi per person without drinks; vini/cocktail a parte. Cucina: icona principale. Location: descrizione sintetica. Stelle: media ponderata Google/TripAdvisor/locali al 28/08/2026 (vedi schede).*
 
-## App e fonti
+## Apps & Sources
 
-| Piattaforma | Uso locale |
+| Platform | Local Use |
 |---|---|
 | [barbados.org — Restaurants by Location](https://barbados.org/orestloc.htm) ★★★ | **Sito locale storico di riferimento** (regola 14): lista per parish, cucina, fascia prezzo, tel — usato come fonte primaria per questa selezione |
 | [Totally Barbados — Restaurant Guide](https://www.totallybarbados.com/local-places/restaurant-guide/) ★★★ | Guida locale (dal 1996) con schede per 300+ ristoranti, foto, mappa, tel — **verifica ristorante per ristorante** |
@@ -42,6 +42,6 @@ Legenda prezzi: **€** <20 · **€€** 20–40 · **€€€** 40–70 · **
 | [Visit Barbados — Dining](https://www.visitbarbados.org) ★★★ | Portale ufficiale turismo con selezioni food & rum |
 
 
-> **Nota siti locali (regola 14):** per ogni ristorante sotto è riportata la valutazione **barbados.org + totallybarbados.com** (locale) + Google/TripAdvisor dove disponibili, con data di verifica **28/08/2026** e rank ★. Se un dato non è verificato su sito locale → **DATO MANCANTE** per recensioni, ma la scheda resta con mappa e contatti. Nessun dato inventato.
+> **Nota siti locali (regola 14):** per ogni ristorante sotto è riportata la valutazione **barbados.org + totallybarbados.com** (locale) + Google/TripAdvisor dove disponibili, con data di verifica **28/08/2026** e rank ★. Se un dato non è verificato su sito locale → **DATA MISSING** per recensioni, ma la scheda resta con mappa e contatti. Nessun dato inventato.
 
-Ultimo aggiornamento: 28/08/2026
+Last updated: 28/08/2026

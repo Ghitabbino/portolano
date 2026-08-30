@@ -1,6 +1,6 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
-**Ultima verifica: 27/08/2026** · Coordinate WGS84 in gradi decimali e N/W come da fonte · VHF 16 per Port Control
+**Last checked: 27/08/2026** · Coordinate WGS84 in gradi decimali e N/W come da fonte · VHF 16 per Port Control
 
 ## Costa sottovento ovest — Oranjestad, laguna e spiagge
 
@@ -31,48 +31,48 @@
 ## Costa sopravvento est e sud — Barcadera, Spanish Lagoon, Baby Beach
 
 - **Barcadera**: porto commerciale e **unico punto di clearance** per yacht (vedi coordinate in [01](01-clearance.md): ingresso boa 12°28.834' N 70°00.430' W; banchina dogana 12°28.855' N 70°00.014' W). Canale dragato ma trafficato da navi e rimorchiatori — restare nel canale fino al traverso della banchina, poi accostare su istruzione Port Control VHF 16/11. Non è zona di sosta da diporto. ★★★★★ [Aruba Ports Authority] ; ★★★ [Cruising Guide Aruba]
-- **Spanish Lagoon / Savaneta / Mangel Halto**: secche e mangrovie, fondali irregolari — solo dinghy o barche a pescaggio ridotto con conoscenza locale; molte aree con divieto di ancoraggio per protezione del reef. ★★
+- **Spanish Lagoon / Savaneta / Mangel Halto**: secche e mangrovie, fondali irregolari — solo dinghy or barche a pescaggio ridotto con conoscenza locale; molte aree con divieto di ancoraggio per protezione del reef. ★★
 - **San Nicolas Bay / Baby Beach** (punta SE): baia semicircolare riparata da reef, sabbia bianca, 2–5 m — ancoraggio diurno popolare, notte solo con tempo stabile e poco vento da E. Tenersi fuori dalla zona balneare boeata. ★★
 
-## Tariffe ormeggi e marine
+## Berthing & Marina Tariffs
 
-> Stesse voci per tutti i paesi; **DATO MANCANTE** = da ricercare al controllo mensile.
+> Stesse voci per tutti i paesi; **DATA MISSING** = da ricercare al controllo mensile.
 
 ### Renaissance / Wind Creek Marina — posti a pontile
 
-Nessun listino pubblico online al 27/08/2026. La marina comunica le tariffe **solo su richiesta** in capitaineria / via mail e richiede **prenotazione anticipata** (pochi posti, alta stagione dic–apr). Gli utenti segnalano che soggiornare in marina include benefit resort (piscina/isola). Indicativamente, tariffazione **al piede/giorno** come nelle ABC (Curaçao ~0,80–1,20 USD/piede), ma **DATO MANCANTE verificato per Renaissance al 27/08/2026** — chiedere a info@renaissancearuba.com / +297-588-0260 (Wind Creek). ★★ [MailASail 2025 “only one reasonable marina … Renaissance … few berths so booking is mandatory”](http://blog.mailasail.com/doramac/posts/2025/5/26/1668-renaissance-marina); ★★★ [windcreekmarina.com](https://www.windcreekmarina.com/)
+Nessun listino pubblico online al 27/08/2026. La marina comunica le tariffe **solo su richiesta** in capitaineria / via mail e richiede **prenotazione anticipata** (pochi posti, alta stagione dic–apr). Gli utenti segnalano che soggiornare in marina include benefit resort (piscina/isola). Indicativamente, tariffazione **al piede/giorno** come nelle ABC (Curaçao ~0,80–1,20 USD/piede), ma **DATA MISSING verificato per Renaissance al 27/08/2026** — chiedere a info@renaissancearuba.com / +297-588-0260 (Wind Creek). ★★ [MailASail 2025 “only one reasonable marina … Renaissance … few berths so booking is mandatory”](http://blog.mailasail.com/doramac/posts/2025/5/26/1668-renaissance-marina); ★★★ [windcreekmarina.com](https://www.windcreekmarina.com/)
 
-| Voce | Costo | Note |
+| Item | Cost | Notes |
 |---|---|---|
-| Posto pontile / notte (~12 m / 40') | **DATO MANCANTE** — su richiesta | VHF/capitaineria; alta stagione prenotare con largo anticipo |
-| Elettricità / acqua | Incluse o a consumo secondo contratto — **DATO MANCANTE** dettaglio a metro | Verificare all'arrivo |
-| Carburante in banchina | **DATO MANCANTE** per Renaissance; vedi Varadero sotto | — |
+| Posto pontile / notte (~12 m / 40') | **DATA MISSING** — su richiesta | VHF/capitaineria; alta stagione prenotare con largo anticipo |
+| Elettricità / acqua | Incluse or a consumo secondo contratto — **DATA MISSING** dettaglio a metro | Verificare all'arrivo |
+| Carburante in banchina | **DATA MISSING** per Renaissance; vedi Varadero sotto | — |
 
 ### Varadero Aruba Marina — posti in acqua e rimessaggio
 
 Listino ufficiale non pubblicato sul sito al 27/08/2026; la marina dichiara **“Competitive Rates”** e invia preventivo su richiesta con dati LOA/pescaggio/periodo. Struttura nota: addebito **a giorno di calendario** per i posti in acqua, non a notte; elettricità 110/220 V e **acqua gratuita** ai posti. Attività prevalente: **rimessaggio a secco off-customs** per uragani (fuori tassa doganale). ★★★ [varaderoaruba.com](https://www.varaderoaruba.com); [HarbourGuides](https://www.harbourguides.com/bluepages/view/varadero-aruba-marina--boatyard-5487)
 
-| Voce | Costo | Note |
+| Item | Cost | Notes |
 |---|---|---|
-| Posto in acqua / giorno (~12 m) | **DATO MANCANTE** — preventivo su richiesta | [varaderoaruba.com/reservation-process](https://www.varaderoaruba.com/reservation-process) ★★★ |
-| Rimessaggio a secco (alaggio + sosta) | **DATO MANCANTE** — preventivo | Fuori dogana durante stagione uraganica |
+| Posto in acqua / giorno (~12 m) | **DATA MISSING** — preventivo su richiesta | [varaderoaruba.com/reservation-process](https://www.varaderoaruba.com/reservation-process) ★★★ |
+| Rimessaggio a secco (alaggio + sosta) | **DATA MISSING** — preventivo | Fuori dogana durante stagione uraganica |
 | Elettricità | 110/220 V a pontile | Inclusa secondo contratto ★★★ |
 | Acqua | **Gratuita** a pontile | ★★★ [HarbourGuides](https://www.harbourguides.com/bluepages/view/varadero-aruba-marina--boatyard-5487) |
 | Carburante (diesel / RON 95) | 2,56 / 2,66 AWG/l (rilevato) | [Navily](https://www.navily.com/port/varadero-aruba-marina/6412) ★★★ |
 
-### Altre strutture e ormeggio libero
+### Other Facilities e ormeggio libero
 
 | Struttura / voce | Costo / note | Fonte |
 |---|---|---|
-| Boe visita / mooring in riserva marina | Uso obbligatorio dove presenti; tariffa **DATO MANCANTE** (stimata da guide locali 10–30 USD/notte, da confermare sul posto) | ★★ |
+| Boe visita / mooring in riserva marina | Uso obbligatorio dove presenti; tariffa **DATA MISSING** (stimata da guide locali 10–30 USD/notte, da confermare sul posto) | ★★ |
 | Ancoraggio libero | **Gratuito** fuori zone regolamentate e fuori parchi/reef protetti | Rispettare divieti e boe |
 | Pontile dinghy | Verificare tenuta con mare/corrente; chiudere con lucchetto | ★★ |
 
-⚠️ **Da verificare prima della crociera**: disponibilità posti a Renaissance/Varadero in alta stagione (dic–apr) — prenotazione consigliata con settimane di anticipo; tariffe aggiornate al piede e supplemento multiscafo; restrizioni ancoraggio in parchi marini e presso reef; carburante e orari capitaineria (+297 588-3850 Varadero; +297 588-0260 Wind Creek).
+⚠️ **To be verified prima della crociera**: disponibilità posti a Renaissance/Varadero in alta stagione (dic–apr) — prenotazione consigliata con settimane di anticipo; tariffe aggiornate al piede e supplemento multiscafo; restrizioni ancoraggio in parchi marini e presso reef; carburante e orari capitaineria (+297 588-3850 Varadero; +297 588-0260 Wind Creek).
 
-## Distanze utili
+## Useful Distances
 
-| Tratta | Distanza | Note |
+| Passage | Distance | Note |
 |---|---|---|
 | Aruba — Curaçao (Spanish Waters) | ~68 M (~126 km) | Rotta più battuta delle ABC |
 | Aruba — Bonaire (Kralendijk) | ~105 M (~194 km) | Via Curaçao |
@@ -83,4 +83,4 @@ Listino ufficiale non pubblicato sul sito al 27/08/2026; la marina dichiara **�
 
 Distanze ortodromiche approssimate; verificare su carta ufficiale. ★★
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

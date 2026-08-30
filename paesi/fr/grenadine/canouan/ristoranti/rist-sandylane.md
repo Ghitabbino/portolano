@@ -1,18 +1,18 @@
 # Sandy Lane Yacht Club Restaurant
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Charlestown |
-| Cucina | 🍽️ Marina |
-| Specialità | — |
-| Costo | 💰€€€ per persona senza bevande |
-| Location | ⚓ marina |
+| Zone | Charlestown |
+| Cuisine | 🍽️ Marina |
+| Spécialité | — |
+| Coût | 💰€€€ per persona senza bevande |
+| Emplacement | ⚓ marina |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sandy+Lane+Yacht+Club+Restaurant+Charlestown) |
-| Contatti | via slycr.com |
-| Valutazioni | Recensioni Horizon 2025 → ★★★ |
-| Orari | sera |
+| Contacts | via slycr.com |
+| Évaluations | Recensioni Horizon 2025 → ★★★ |
+| Horaires | sera |
 
 ## Menu
 
@@ -20,8 +20,8 @@
 
 **Chef**: ND
 
-## Foto
+## Photos
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Photos non ancora disponibili — recuperare al controllo mensile.*
 
 **Note**: Presso la marina; fuel dock

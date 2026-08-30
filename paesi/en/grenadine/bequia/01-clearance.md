@@ -1,27 +1,27 @@
-# 01 — Clearance doganale della barca
+# 01 — Yacht Customs Clearance
 
-**Ultimo aggiornamento: 23/08/2026**
+**Last updated: 23/08/2026**
 
-## Procedura SVG (valida per tutte le Grenadine)
+## SVG Clearance Procedure (Valid for all the Grenadines)
 
-- **Pre-registrazione SailClear** obbligatoria prima dell'arrivo — [sailclear.com](https://sailclear.com) ★★★★
-- Al banco servono: nº notifica SailClear, zarpe del porto precedente, passaporti, documenti nave ★★★★
-- **Cruise tax: EC$35 a persona/mese** (over 12 anni) — oppure EC$5/giorno fino a max 7 giorni ([Bequia Tourism](https://bequiatourism.com/facts.htm)) ★★★★
-- Yacht a noleggio fuori SVG: tassa **EC$5 per piede** + eventuale licenza ★★★
-- **Cruising permit 30 giorni** al check-in, estendibile mensilmente; soggiorno fino a **6 mesi** senza visto per molti paesi — [Noonsite/Compass](https://caribbeancompass.com/island-spotlight-bequia-st-vincent-the-grenadines) ★★★★
-- Uffici doganali SVG: **Chateaubelair, Wallilabou, Kingstown, Blue Lagoon, Bequia, Canouan, Union Island** — tutti su SailClear ★★★★
-- Orari standard: **08:00–12:00 / 13:00–16:00**; extra-orari a tariffa maggiorata ★★★★
-- Uscita: stessa procedura a un porto d'ingresso ★★★
+- **Pre-registration SailClear** mandatory before arrival — [sailclear.com](https://sailclear.com) ★★★★
+- Documents required at the desk: SailClear notification number, previous port departure time, passports, vessel documents ★★★★
+- **Cruise tax: EC$35 per person/month** (over 12 years) — or EC$5 per day up to a maximum of 7 days ([Bequia Tourism](https://bequiatourism.com/facts.htm)) ★★★★
+- Charter yacht outside SVG: Tax **EC$5 per foot** plus any license ★★★
+- **30-day Cruising Permit** on check-in, extendable monthly; stay up to **6 months** without a visa for many countries — [Noonsite/Compass](https://caribbeancompass.com/island-spotlight-bequia-st-vincent-the-grenadines) ★★★★
+- SVG Customs offices: **Chateaubelair, Wallilabou, Kingstown, Blue Lagoon, Bequia, Canouan, Union Island** — all on SailClear ★★★★
+- Standard hours: **08:00–12:00 / 13:00–16:00**; extra hours at a higher rate ★★★★
+- Departure: Same procedure as an entry port ★★★
 
-## A Bequia (Port Elizabeth)
+## At Bequia (Port Elizabeth)
 
-- Porto d'ingresso ufficiale dell'isola; uffici **Customs & Immigration dietro il molo traghetto** ★★★★
-- Orari: lun–ven **08:00–12:00 / 13:00–18:00** (extra dopo le 16:00); sab **08:30–12:00** (extra 15–18); dom/festivi solo extra 09–12 / 15–18 — [Guida CCA nov 2025](https://cruisingclub.org/sites/default/files/events/Grenadines%20Info%20%26%20Local%20Resources%2025.11.23.pdf) ★★★★
-- Formalità semplici; in alternativa al proprio dispositivo c'è un computer ufficio ★★★
-- Bandiera gialla Q fino a fine formalità ★★★
+- Official arrival port for the island; customs and immigration offices **behind the ferry pier** ★★★★
+- Hours: Mon–Fri **08:00–12:00 / 13:00–18:00** (extra after 16:00); Sat **08:30–12:00** (extra 15–18); Sun/holidays only extra 09–12 / 15–18 — [CCA Guide Nov 2025](https://cruisingclub.org/sites/default/files/events/Grenadines%20Info%20%26%20Local%20Resources%2025.11.23.pdf) ★★★★
+- Simple formalities; an office computer is available as an alternative to your own device ★★★
+- Yellow flag Q until completion of formalities ★★★
 
-## Da verificare
+## To be verified
 
-- Eventuali variazioni tariffarie stagione 2026–27 (Noonsite SVG)
+- Any seasonal tariff variations for the 2026–27 season (Noonsite SVG)
 
-Ultimo aggiornamento: 23/08/2026
+**Last updated: 23/08/2026**

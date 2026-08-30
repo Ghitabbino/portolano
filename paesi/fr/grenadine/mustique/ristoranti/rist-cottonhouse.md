@@ -1,18 +1,18 @@
 # Cotton House
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Estate |
-| Cucina | 🍽️ Elegante |
-| Specialità | Cucina resort |
-| Costo | 💰€€€€ per persona senza bevande |
-| Location | 🏛️ piantagione storica |
+| Zone | Estate |
+| Cuisine | 🍽️ Elegante |
+| Spécialité | Cuisine resort |
+| Coût | 💰€€€€ per persona senza bevande |
+| Emplacement | 🏛️ piantagione storica |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cotton+House+Estate) |
-| Contatti | su prenotazione |
-| Valutazioni | — → ★★★★ |
-| Orari | pranzo/cena su prenotazione |
+| Contacts | su prenotazione |
+| Évaluations | — → ★★★★ |
+| Horaires | pranzo/cena su prenotazione |
 
 ## Menu
 
@@ -20,8 +20,8 @@
 
 **Chef**: ND
 
-## Foto
+## Photos
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Photos non ancora disponibili — recuperare al controllo mensile.*
 
 **Note**: Old plantation house · servizio hotel 5*

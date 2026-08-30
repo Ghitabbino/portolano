@@ -1,17 +1,17 @@
 # Young Island Resort
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | Zona | Young Island |
 | Cucina | 🍽️ Resort |
 | Specialità | — |
-| Costo | 💰€€€€ per persona senza bevande |
+| Costo | 💰€€€€ per person without drinks |
 | Location | 🏝️ isola privata |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Young+Island+Resort+Young+Island) |
 | Contatti | ND |
-| Valutazioni | — → ★★ |
+| Currencyzioni | — → ★★ |
 | Orari | su prenotazione |
 
 ## Menu
@@ -21,6 +21,6 @@
 
 ## Foto
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Foto non still disponibili — recuperare at the controllo mensile.*
 
 **Note**: Traghetto privato da Calliaqua

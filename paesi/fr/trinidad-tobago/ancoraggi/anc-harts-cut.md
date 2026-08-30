@@ -1,20 +1,20 @@
 # Hart's Cut Bay / TTSA {#anc-harts-cut}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← Tous les mouillages](../08-ancoraggi.md)
 **10°40′58″ N 61°37′15″ W** ★★★
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| **Profondità** |**DATO MANCANTE**|
-| **Tenuta àncora** |Buona|
-| **Venti/riparo** |Giudicata l'opzione più tranquilla con Williams Bay/Point Gourde|
-| **Pericoli** |Boe first-come|
-| **Boe/divieti/normative** |Boe TTSA fino a 15 t, ispezionate ogni trimestre|
-| **A terra** |Club/bar/acqua/ghiaccio; travel lift 15 t|
+| **Profondeur** |**DONNÉE MANQUANTE**|
+| **Tenue de l’ancre** |Buona|
+| **Vents/abri** |Giudicata l'opzione più tranquilla con Williams Bay/Point Gourde|
+| **Dangers** |Boe first-come|
+| **Bouées/interdictions/réglementation** |Boe TTSA fino a 15 t, ispezionate ogni trimestre|
+| **À terre** |Club/bar/acqua/ghiaccio; travel lift 15 t|
 
 <div class="mapframe" data-slug="anc-harts-cut" data-lat="10.6828" data-lon="-61.6208"></div>
-*Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
+*Carte détaillée — zoomez jusqu’à la baie · carte hors ligne · coordinate WGS84 indicative, toujours vérifier avec le traceur*
 
 Fonti: Waterway Guide ★★★ · trinidad-cruisers.com ★★★
 
-Ultimo aggiornamento: 25/08/2026
+Dernière mise à jour: 25/08/2026

@@ -1,20 +1,20 @@
 # Porvenir / Gaigirgordub {#anc-porvenir}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← Tous les mouillages](../08-ancoraggi.md)
 
 **9°33.7′N 78°57.8′W** ★★
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| **Profondità** |6–12 m davanti al villaggio ★★|
-| **Tenuta àncora** | Buona |
-| **Venti/riparo** | Aperto a N: swell nord fastidioso |
-| **Pericoli** | Pista aerea; nasse vicino al molo |
-| **Affollamento** | Medio (clearance) |
+| **Profondeur** |6–12 m davanti al villaggio ★★|
+| **Tenue de l’ancre** | Buona |
+| **Vents/abri** | Aperto a N: swell nord fastidioso |
+| **Dangers** | Pista aerea; nasse vicino al molo |
+| **Affluence** | Medio (clearance) |
 | **Divieti** | Nessuno |
-| **A terra** | Immigration+Congresso qui; dispensario; voli |
+| **À terre** | Immigration+Congresso qui; dispensario; voli |
 
 <div class="mapframe" data-slug="anc-porvenir" data-lat="9.5589" data-lon="-78.9486"></div>
-*Vista mappa Porvenir / Gaigirgordub · mappa offline*
+*Vista mappa Porvenir / Gaigirgordub · carte hors ligne*
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026

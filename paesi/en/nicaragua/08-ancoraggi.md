@@ -1,4 +1,4 @@
-# 08 — Portolano degli ancoraggi
+# 08 — Anchorage Pilot
 
 > ⚠️ Coordinate indicative WGS84 — confermare con carta e osservazione.
 
@@ -13,24 +13,23 @@
 | **Corn Island** | 12.1600 | -83.0500 | 3-6 m | Lato ovest riparato ★★ |
 | **Bluefields** | 12.0100 | -83.7600 | — | Via Rio Escondido, pilota locale consigliato ★★ |
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026
 
-## Regole generali
+## General Rules
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Tabella riassuntiva
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
 
-## Cartografia ufficiale
+## Summary Table
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
 
-## Checklist àncora
+## Official Charts
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
+
+## Anchor Checklist
+
+**DATA MISSING** — da completare al controllo mensile.

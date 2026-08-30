@@ -1,24 +1,24 @@
 # One Love
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Prickly Bay — dentro Spice Island Marine Services (True Blue) |
-| Cucina | 🍰 Pizzeria-grill da cantiere/marina |
-| Specialità | Pizze (le più citate) · colazione · piatti grill |
-| Costo | 💰€ per persona senza bevande |
-| Location | ⚓ nel cuore del cantiere, frequentato dai cruiser |
+| Zone | Prickly Bay — dentro Spice Island Marine Services (True Blue) |
+| Cuisine | 🍰 Pizzeria-grill da cantiere/marina |
+| Spécialité | Pizze (le più citate) · colazione · piatti grill |
+| Coût | 💰€ per persona senza bevande |
+| Emplacement | ⚓ nel cuore del cantiere, frequentato dai cruiser |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=One+Love+restaurant+Spice+Island+Marine+Prickly+Bay+Grenada) |
-| Contatti | via Spice Island Marine +1 473 444-4257 |
-| Valutazioni | Google/TA: DATO MANCANTE — verificare → ★★★ |
-| Orari | colazione, pranzo e cena (verificare fuori stagione) |
+| Contacts | via Spice Island Marine +1 473 444-4257 |
+| Évaluations | Google/TA: DONNÉE MANQUANTE — verificare → ★★★ |
+| Horaires | colazione, pranzo e cena (verificare fuori stagione) |
 
 ## Menu
 
 - Pizze (specialità della casa)
 - Colazione completa
-- Grigliate e piatti del giorno
+- Grillete e piatti del giorno
 
 <div class="mapframe" data-slug="rist-onelove" data-lat="12.0066" data-lon="-61.764992"></div>
 

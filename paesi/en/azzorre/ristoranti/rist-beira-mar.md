@@ -1,18 +1,18 @@
 # Beira Mar
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| **Isola/Zona** | Terceira / Angra do Heroísmo |
-| **Cucina** | 🐟 Pesce fresco · Tradizionale |
-| **Specialità** | Caldeirada · Chicharro frito · Lapas grelhadas · Polvo guisado |
-| **Costo** | 💰€€ per persona senza bevande |
+| **Island/Area** | Terceira / Angra do Heroísmo |
+| **Cuisine** | 🐟 Pesce fresco · Tradizionale |
+| **Speciality** | Caldeirada · Chicharro frito · Lapas grelhadas · Polvo guisado |
+| **Cost** | 💰€€ per person without drinks |
 | **Location** | 🌅 Baía Angra, vista marina, 5 min da pontile |
-| **Mappa** | [Google Maps](https://www.google.com/maps/search/?api=1&query=Beira+Mar+Angra+do+Hero%C3%ADsmo) |
-| **Contatti** | +351 295 213 777 · beiramarangra.pt |
-| **Valutazioni** | Google 4,5/5 (900+) · TA 4,5/5 (750+) → ★★★★ |
-| **Orari** | Ter–Dom 12:00–15:00 / 19:00–22:00 · Seg chiuso |
+| **Map** | [Google Maps](https://www.google.com/maps/search/?api=1&query=Beira+Mar+Angra+do+Hero%C3%ADsmo) |
+| **Contacts** | +351 295 213 777 · beiramarangra.pt |
+| **Ratings** | Google 4,5/5 (900+) · TA 4,5/5 (750+) → ★★★★ |
+| **Hours** | Ter–Dom 12:00–15:00 / 19:00–22:00 · Seg chiuso |
 
 ## Menu
 
@@ -31,4 +31,4 @@
 
 **Note**: Terrazza vista baía Angra e marina; specialità stufati pesce; **prenotare cena**; da pontile dinghy marina Angra 5 min a piedi.
 
-Ultimo aggiornamento: 24/08/2026
+Last updated: 24/08/2026

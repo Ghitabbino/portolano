@@ -1,12 +1,12 @@
-# 10 — Ristoranti
+# 10 — Restaurants
 
-Ultimo aggiornamento: 22/08/2026 · Legenda prezzi: **€** <20 · **€€** 20–40 · **€€€** >40
+Dernière mise à jour: 22/08/2026 · Légende prezzi: **€** <20 · **€€** 20–40 · **€€€** >40
 
 Selezione orientata alla crociera. Schede puntuali per locale in corso di raccolta: sotto le **zone** affidabili dove trovare tavola buona a piedi dall'approdo.
 
-## Griglia generale
+## Grille générale
 
-| Ristorante | Zona | Costo | Cucina | Specialità | Location | Stelle |
+| Ristorante | Zone | Coût | Cuisine | Spécialité | Emplacement | Stelle |
 |---|---|---|---|---|---|---|
 | [Malecón Restaurante & Copas](ristoranti/rist-malecon-restaurante-e-copas.md) | Arrecife – Charco de San Ginés | **€** | **🥘 Canaria fronte laguna** | *Papas arrugadas · sancocho* | **🌅 terrazza sul Charco** |CaptureAtlas ★★★★|
 | [Bar Strava](ristoranti/rist-bar-strava.md) | Arrecife – centro | **€€** | **🥙 Raciones spagnole** | *Tablas ibéricas · pesce del giorno* | **🪶 informale conviviale** |TA ★★★★|
@@ -21,22 +21,22 @@ Selezione orientata alla crociera. Schede puntuali per locale in corso di raccol
 
 *Clicca sul nome per la scheda completa. Ogni punto rosso nella mappa apre la scheda.*
 
-## Mappa dei ristoranti
+## Carte des restaurants
 
 <div class="mapframe" data-slug="lanzarote" data-minz="7" data-maxz="17" data-lat="28.964" data-lon="-13.551" data-markers='[[28.9638, -13.5505, "Malecón Restaurante & Copas", "rist-malecon-restaurante-copas"], [28.95935, -13.5477, "Bar Strava", "rist-bar-strava-2"], [28.9635, -13.5515, "Mirador El Charco", "rist-mirador-el-charco-2"], [28.9605, -13.548, "Naia", "rist-naia-2"], [28.96194, -13.54408, "Charco Vivo", "rist-charco-vivo-2"], [28.96027, -13.54681, "La Puntilla", "rist-la-puntilla-2"], [28.9955, -13.8325, "Casa Rafa Restaurante de Mar", "rist-casa-rafa-restaurante-de-mar-2"], [28.8688, -13.8172, "La Cocina de Colacho", "rist-la-cocina-de-colacho-2"], [28.86331, -13.80102, "Casa Carlos", "rist-casa-carlos-2"], [28.9212, -13.6642, "La Cascada Puerto", "rist-la-cascada-puerto-2"]]'></div>
 
 *Clicca un punto rosso: apre la scheda del ristorante.*
 
-## App e fonti
+## Applis et sources
 
 | Piattaforma | Uso locale |
 |---|---|
 | Recensioni geolocalizzate | Le più aggiornate |
 | Confronto valutazioni online | Ampio |
 | Piattaforma prenotazioni con sconti | Dove presente |
-| App consegna pasti | Nei centri ⚠️ raggio da verificare |
+| App consegna pasti | Nei centri ⚠️ raggio à vérifier |
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026
 
-## App e fonti
-Ultimo aggiornamento: 23/08/2026
+## Applis et sources
+Dernière mise à jour: 23/08/2026

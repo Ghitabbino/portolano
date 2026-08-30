@@ -1,7 +1,7 @@
-# 00 — Ingresso, documenti e visti
+# 00 — Entry, Documents & Visas
 
 > ### 🚨 ALLERTA 25/08/2026
-> **Rischio criminalità su yacht in aumento sul lato Caraibi.** Aggressione ARMATA a
+> **Rischio criminalità su yacht in aumento sul lato Caribbean.** Aggressione ARMATA a
 > Portobello (21/04/2026: 7-8 uomini mascherati armati hanno sequestrato l'equipaggio per
 > ~20 min cercando stupefacenti) e furti ripetuti di dinghy/barche a Linton Bay e Bocas del
 > Toro (feb-mag 2026). Corridoi del narcotraffico marittimi pericolosi di notte.
@@ -12,13 +12,13 @@ Scheda **comune** a tutto Panama: vale sia per il Canale che per San Blas/Guna Y
 
 ## Status
 
-| Voce | Dato |
+| Item | Data |
 |---|---|
 | Status | Repubblica indipendente, America Centrale · valuta balboa (PAB, agganciata 1:1 al USD; circola USD) |
 | Fuso | UTC−5 |
 | Lingue | spagnolo (inglese diffuso nei porti turistici) |
 
-## Cittadini UE — nessun visto
+## EU Citizens — Visa-Free
 
 | Paese UE | Turismo |
 |---|---|
@@ -31,7 +31,7 @@ Scheda **comune** a tutto Panama: vale sia per il Canale che per San Blas/Guna Y
 | Prova di solvibilità |~**US$500** a persona ★★★★★|
 | Vaccini | Febbre gialla richiesta solo da paesi endemici (non UE); nessun'altra vaccinazione obbligatoria |
 
-## Nota importante per chi arriva via mare
+## Important Note for Arrival by Sea
 
 | Passo | Dettaglio |
 |---|---|
@@ -46,18 +46,18 @@ Scheda **comune** a tutto Panama: vale sia per il Canale che per San Blas/Guna Y
 | Proroga permesso turistico (una volta) | presso ufficio Migración principale |
 | **Visto marinaio (seaman's visa)** 12 mesi |~**US$105/persona**, solo se arrivati in barca; si annulla lasciando il paese (rientro aereo = permesso normale) ★★★|
 
-## La barca: Permiso de Navegación (cruising permit)
+## The Yacht: Permiso de Navegación (cruising permit)
 
-Nessuna temporanea import separata: la legalità della barca = **Permiso de Navegación** dell'Autorità Marittima (AMP).
+No separate temporary import: the legality of the boat = **Permiso de Navegación** of the Maritime Authority (AMP).
 
-| Voce | Dato |
+| Item | Data |
 |---|---|
 | Obbligatorio oltre |**3 giorni** in acque panamensi ★★★|
 | Durata/costo base |1 anno, **US$185–193** (tot ~US$235–240 con agenzia locale) ★★★|
 | Rinnovi |2 volte × 12 mesi ★★|
 | Dove | AMP Colón (Atlantico) / Diablo (Pacifico) |
 
-## Vaccini
+## Vaccinations
 
 Nessuna obbligatoria dall'UE; consigliate epatite A e tifo per soggiorni prolungati (fonte medica generica ★★).
 
@@ -68,4 +68,4 @@ Nessuna obbligatoria dall'UE; consigliate epatite A e tifo per soggiorni prolung
 | **Panama · Canale** | Colón, transito interoceanico, Portobelo/Isla Grande/Linton, Pacifico Amador–Perlas |
 | **Panama · San Blas** | Comarca Guna Yala: permessi comarca, ancoraggi alle isole, uscita verso Cartagena |
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026

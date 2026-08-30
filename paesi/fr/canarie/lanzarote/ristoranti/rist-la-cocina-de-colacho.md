@@ -1,17 +1,17 @@
 # La Cocina de Colacho
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Playa Blanca – vicino Marina Rubicón |
-| Cucina | 🍽️ Gourmet d'autore |
-| Specialità | Menù degustazione carni |
-| Costo | 💰€€€€ per persona senza bevande |
-| Location | 🍽️ galleria d'arte + cucina vista |
-| Contatti | +34 (da confermare) (prenota sito) |
-| Valutazioni |CaptureAtlas ★★★★★|
-| Orari | lun–gio cena; CHIUSO ven–dom |
+| Zone | Playa Blanca – vicino Marina Rubicón |
+| Cuisine | 🍽️ Gourmet d'autore |
+| Spécialité | Menù degustazione carni |
+| Coût | 💰€€€€ per persona senza bevande |
+| Emplacement | 🍽️ galleria d'arte + cucina vista |
+| Contacts | +34 (da confermare) (prenota sito) |
+| Évaluations |CaptureAtlas ★★★★★|
+| Horaires | lun–gio cena; CHIUSO ven–dom |
 
 ## Menu
 
@@ -21,4 +21,4 @@
 
 **Note**: Solo 20 coperti: prenotare molto prima
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026

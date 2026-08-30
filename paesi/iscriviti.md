@@ -8,14 +8,14 @@
 ### 1 — Chi sei
 
 <div style="background:#ffffff;border:2px solid #4db6ac;border-radius:12px;padding:16px;margin:10px 0">
-<label style="display:block;margin:8px 0 4px;font-weight:800;color:#0f1720">Nickname *</label>
-<input id="reg-nick" type="text" placeholder="es. lupo_di_mare" style="width:100%;padding:10px;border-radius:8px;border:2px solid #0f1720;background:#f0f4f8;color:#0f1720;font-size:15px">
-<label style="display:block;margin:12px 0 4px;font-weight:800;color:#0f1720">Email *</label>
-<input id="reg-email" type="email" placeholder="nome@esempio.com" style="width:100%;padding:10px;border-radius:8px;border:2px solid #0f1720;background:#f0f4f8;color:#0f1720;font-size:15px">
-<label style="display:block;margin:12px 0 4px;font-weight:800;color:#0f1720">Password *</label>
-<input id="reg-pass" type="password" placeholder="min. 8 caratteri" style="width:100%;padding:10px;border-radius:8px;border:2px solid #0f1720;background:#f0f4f8;color:#0f1720;font-size:15px">
-<label style="display:block;margin:12px 0 4px;font-weight:800;color:#0f1720">Barca <span style="font-weight:400;color:#5a6d80">(facoltativo)</span></label>
-<input id="reg-barca" type="text" placeholder='Monoscafo 40 piedi' style="width:100%;padding:10px;border-radius:8px;border:2px solid #0f1720;background:#f0f4f8;color:#0f1720;font-size:15px">
+<label style="display:block;margin:14px auto 4px;max-width:520px;font-weight:800;color:#0f1720;text-align:left">Nickname *</label>
+<input id="reg-nick" type="text" placeholder="es. lupo_di_mare" style="width:100%;max-width:520px;display:block;margin:8px auto;padding:12px 14px;border-radius:8px;border:2px solid #0f1720;background:#f0f4f8;color:#0f1720;font-size:16px">
+<label style="display:block;margin:14px auto 4px;max-width:520px;font-weight:800;color:#0f1720;text-align:left">Email *</label>
+<input id="reg-email" type="email" placeholder="nome@esempio.com" style="width:100%;max-width:520px;display:block;margin:8px auto;padding:12px 14px;border-radius:8px;border:2px solid #0f1720;background:#f0f4f8;color:#0f1720;font-size:16px">
+<label style="display:block;margin:14px auto 4px;max-width:520px;font-weight:800;color:#0f1720;text-align:left">Password *</label>
+<input id="reg-pass" type="password" placeholder="min. 8 caratteri" style="width:100%;max-width:520px;display:block;margin:8px auto;padding:12px 14px;border-radius:8px;border:2px solid #0f1720;background:#f0f4f8;color:#0f1720;font-size:16px">
+<label style="display:block;margin:14px auto 4px;max-width:520px;font-weight:800;color:#0f1720;text-align:left">Barca <span style="font-weight:400;color:#5a6d80">(facoltativo)</span></label>
+<input id="reg-barca" type="text" placeholder='Monoscafo 40 piedi' style="width:100%;max-width:520px;display:block;margin:8px auto;padding:12px 14px;border-radius:8px;border:2px solid #0f1720;background:#f0f4f8;color:#0f1720;font-size:16px">
 </div>
 
 ### 2 — Dove navighi

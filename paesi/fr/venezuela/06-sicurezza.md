@@ -1,8 +1,8 @@
-# 06 — SICUREZZA FOCUS (cosa dicono ESATTAMENTE le fonti, con date)
+# 06 — Sécurité
 
 - **2 set 2025**: primo strike USA contro "narcolancha" venezuelana in acque internazionali, **11 morti** [Caribbean Compass, 8 set 2025] ★★★.
 - **Set-nov 2025**: Noonsite aggiorna l'alert ("security alert added" set 2025; aggiornato nov 2025): "gran numero di strikes dall'inizio di settembre"; navigare dentro o vicino ai limiti territoriali VE = **rischio estremamente alto**; se dovete transitare, tenetevi **il più a nord possibile**; **"Los Roques is inside Venezuela's territorial limits"** [Noonsite Security & News, nov 2025] ★★★.
-- **Ott-nov 2025**: cruisers nel Sud Caraibi segnalano **GPS jamming/spoofing** improvvisi [Caribbean Compass, 10 nov 2025] ★★★.
+- **Ott-nov 2025**: cruisers nel Sud Caraïbes segnalano **GPS jamming/spoofing** improvvisi [Caribbean Compass, 10 nov 2025] ★★★.
 - **3 dic 2025**: advisory USA **Level 4 Do Not Travel** riconfermato [U.S. Embassy, 4 gen 2026] ★★★.
 - **3-4 gen 2026**: operazione militare USA in Venezuela con **detenzione e rimozione di Maduro e moglie**; situazione fluida [Caribbean Compass, 5 gen 2026] ★★★. Stesso giorno, U.S. Embassy: **nessun volo internazionale in/out dal Venezuela**, blackout intermittenti [US Embassy Security Alert, 4 gen 2026] ★★★.
 - **5 gen 2026 — SSCA/CSSN (Joan Conover)**: "nessuna segnalazione confermata di attività ostile verso yacht privati dopo gli eventi legati al Venezuela; **database CSSN senza report/alert collegati al Venezuela**; nessuna zona di esclusione in acque internazionali; maggiore presenza navale/guardiacoste precauzionale; raccomandato **float plan volontario con SOUTHCOM**" [Caribbean Compass, 5 gen 2026] ★★★.
@@ -12,29 +12,29 @@
 - **Offshore recente**: dic 2024 catamarano Los Roques→Grenada respinge pirates armati; ott 2024 veliero colpito da proiettile vagante offshore [Noonsite incident list] ★★★.
 - **Dove i cruisers vanno davvero oggi** (secondo Noonsite 2026): Los Roques, **Blanquilla** (Guardia Nazionale ivi dislocata stabilmente), Aves de Sotavento e Barlovento — ma "ciò che era 'safe' 6 mesi fa può non esserlo ora" [Noonsite Security, 2026] ★★★.
 
-**Ultimo aggiornamento: 24/08/2026**
+**Dernière mise à jour: 24/08/2026**
 
-Valutazione sicurezza
+Évaluation sécurité
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## Quadro generale
+## Vue d’ensemble
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
 ## Posti sicuri
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## Salvataggio ed emergenze
+## Sauvetage et urgences
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
 ## Monitoraggio mensile
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 

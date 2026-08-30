@@ -1,31 +1,30 @@
-# 04 — Servizi, cantieri e manutenzione
+# 04 — Services, Boatyards & Maintenance
 
-**Ultima verifica: 25/08/2026**
+**Last checked: 25/08/2026**
 
 - Meccanica/fiberglass/sail repair segnalate a **San Juan del Sur** [Ocean Posse] ★★
 - Forniture marine a Bluefields (fuel/water/elettrico/meccanica base) ★★
-- Haul-out strutturato: **DATO MANCANTE** — riferimenti regionali: Costa Rica (Puntarenas)
+- Haul-out strutturato: **DATA MISSING** — riferimenti regionali: Costa Rica (Puntarenas)
  o Panama (PLC) ★★★
 - Ricambi importati: via USA, tempi lunghi, dogana burocratica ★★
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026
 
-## Hub tecnico
+## Technical Hub
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Gas e bombole
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
 
-## Acqua dolce
+## Gas & Bottles
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
 
-## Note strategiche
+## Fresh Water
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
+
+## Strategic Notes
+
+**DATA MISSING** — da completare al controllo mensile.

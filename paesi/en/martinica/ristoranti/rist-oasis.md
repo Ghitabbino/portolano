@@ -1,17 +1,17 @@
 # L'Oasis
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | Zona | Anses d'Arlet |
 | Cucina | 🐟 Pesce e tartare |
 | Specialità | Thon mi-cuit · tartare de poisson |
-| Costo | 💰€€ per persona senza bevande |
+| Costo | 💰€€ per person without drinks |
 | Location | 🌅 terrazza sul mare |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=L'Oasis+Anses+d'Arlet) |
 | Contatti | 0596 48 00 69 |
-| Valutazioni | Petit Futé → ★★★★ (stima) → ★★★★ |
+| Currencyzioni | Petit Futé → ★★★★ (stima) → ★★★★ |
 | Orari | mer–dom · chiusura annuale set–ott |
 
 ## Menu

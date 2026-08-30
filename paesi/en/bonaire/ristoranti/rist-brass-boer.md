@@ -1,13 +1,13 @@
 # Brass Boer
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | Zona | Punt Vierkant 44 — Delfins Beach Resort, Kralendijk sud |
 | Cucina | 🍽️ Internazionale gastronomica (De Librije — 3★ Michelin NL) |
 | Specialità | *Rundertartaar, wahoo con yoghurt alle erbe, appeltaart '2009' di De Librije, menu 6 portate US$180* |
-| Costo | 💰€€€€ per persona senza bevande (à la carte US$34–55, menu 6 portate US$165–180) |
+| Costo | 💰€€€€ per person without drinks (à la carte US$34–55, menu 6 portate US$165–180) |
 | Location | 🏖️ spiaggia elegante, piedi nella sabbia, tavolo 14 in mare |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Brass+Boer+Punt+Vierkant+44+Delfins+Beach+Resort) |
 | Contatti | +599 715 5050 · USA +1 8888 32 9962 · [brassboer.com/bonaire](https://www.brassboer.com/bonaire/en/) · reservations@brassboer.com |
@@ -32,4 +32,4 @@
 
 Tavolo 14 in mezzo al mare — prenotare mesi prima per tramonto/special occasions; villa privata disponibile da US$500 con chef privato. Delfins Beach Resort a 3 km dalle boe di Kralendijk (taxi 8 min). Chiusura annuale renovation annunciata su bonaire.com (mag–lug 2026). Prenotazione online obbligatoria.
 
-Fonti: [bonaire.com — Brass Boer](https://bonaire.com/en/restaurants/brass-boer-restaurant-bonaire) ★★★ · [brassboer.com](https://www.brassboer.com/bonaire/en/) ★★★★ · [TripAdvisor — Brass Boer](https://www.tripadvisor.com/Restaurant_Review-g147268-d17523370-Reviews-CHEFS_Bonaire-Kralendijk_Bonaire.html) ★★★
+Sources: [bonaire.com — Brass Boer](https://bonaire.com/en/restaurants/brass-boer-restaurant-bonaire) ★★★ · [brassboer.com](https://www.brassboer.com/bonaire/en/) ★★★★ · [TripAdvisor — Brass Boer](https://www.tripadvisor.com/Restaurant_Review-g147268-d17523370-Reviews-CHEFS_Bonaire-Kralendijk_Bonaire.html) ★★★

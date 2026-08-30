@@ -1,20 +1,20 @@
 # Anse de Canaries (N del villaggio) {#anc-canaries}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← Tous les mouillages](../08-ancoraggi.md)
 **13°53′20″ N 61°04′44″ W** ★★
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| **Profondità** |~5 m sabbia/posidonia|
-| **Tenuta àncora** |Media|
-| **Venti/riparo** |Poco riparata|
-| **Pericoli** |⚠️ Furto dinghy documentato (Noonsite, lucchetto tagliato); molo inutilizzabile per i dinghy|
-| **Boe/divieti/normative** |—|
-| **A terra** |Villaggio|
+| **Profondeur** |~5 m sabbia/posidonia|
+| **Tenue de l’ancre** |Media|
+| **Vents/abri** |Poco riparata|
+| **Dangers** |⚠️ Furto dinghy documentato (Noonsite, lucchetto tagliato); molo inutilizzabile per i dinghy|
+| **Bouées/interdictions/réglementation** |—|
+| **À terre** |Villaggio|
 
 <div class="mapframe" data-slug="anc-canaries" data-lat="13.889" data-lon="-61.079"></div>
-*Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
+*Carte détaillée — zoomez jusqu’à la baie · carte hors ligne · coordinate WGS84 indicative, toujours vérifier avec le traceur*
 
 Fonti: Spend Life Traveling ★★ · Noonsite ★★★ · [DA VERIFICARE SATELLITE]
 
-Ultimo aggiornamento: 25/08/2026
+Dernière mise à jour: 25/08/2026

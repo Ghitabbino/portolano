@@ -1,25 +1,25 @@
 # Mogán Mar
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| Zona | Puerto de Mogán – paseo |
-| Cucina | 🥘 Canaria-messicana |
-| Specialità | Fusion due cucine |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🌅 terrazza paseo |
-| Contatti | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mogan+Mar+Puerto+de+Morgan+Gran+Canaria) |
-| Valutazioni |sito ★★★|
-| Orari | pranzo/cena |
+| Area | Puerto de Mogán – paseo |
+| Cuisine | 🥘 Canaria-messicana |
+| Speciality | Fusion due cucine |
+| Cost | 💰€€ for persona without bevande |
+| Setting | 🌅 terrazza paseo |
+| Contacts | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mogan+Mar+Puerto+de+Morgan+Gran+Canaria) |
+| Ratings |sito ★★★|
+| Hours | pranzo/cena |
 
 ## Menu
 
-- Tacos di pesce
+- Tacos of pesce
 - Mojos canari
 
 **Chef**: ND
 
 **Note**: Varietà insolita nel borgo
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

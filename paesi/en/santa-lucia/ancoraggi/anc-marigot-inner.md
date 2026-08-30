@@ -17,4 +17,4 @@
 
 Fonti: Destination St Lucia ★★★ · Marigot Bay Yacht Haven ★★★★
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

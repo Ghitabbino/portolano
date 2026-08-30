@@ -1,29 +1,29 @@
-# 07 — Provvisioning
+# 07 — Avitaillement
 
-**Ultima verifica: 25/08/2026**
+**Dernière vérification: 25/08/2026**
 
-| Zona | Dove | Note |
+| Zone | Dove | Note |
 |---|---|---|
-| **San Juan del Sur** | Supermercati in paese + mercato pesce al molo | Buono per il Pacifico sud; ceviche fresco consigliato ★★★ |
-| **Granada** | Supermercati città coloniale | Il migliore del lago ★★★ |
+| **San Juan del Sur** | Supermarchés in paese + mercato pesce al molo | Buono per il Pacifique sud; ceviche fresco consigliato ★★★ |
+| **Granada** | Supermarchés città coloniale | Il migliore del lago ★★★ |
 | **Bluefields/Corn Island** | Minimi | Solo essenziali ★★ |
 | Grande cambusa | Managua (Walmart/La Colonia) via agente/taxi | ★★★ |
 
 - **Vietato importare carn in scatola/latticini** — attenzione alle scorte prima dell'arrivo ★★★
 
-Ultimo aggiornamento: 25/08/2026
+Dernière mise à jour: 25/08/2026
 
-## Supermercati
+## Supermarchés
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Acqua e carburante
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## Consigli pratici
+## Eau et carburant
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
+
+
+## Conseils pratiques
+
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 

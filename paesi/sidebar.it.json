@@ -15,7 +15,7 @@
     },
     {
       "id": "antigua-barbuda",
-      "label": "Antigua Barbuda"
+      "label": "Antigua e Barbuda"
     },
     {
       "id": "aruba",
@@ -43,11 +43,11 @@
     },
     {
       "id": "bosnia-erzegovina",
-      "label": "Bosnia Erzegovina"
+      "label": "Bosnia ed Erzegovina"
     },
     {
       "id": "cabo-verde",
-      "label": "Cabo Verde"
+      "label": "Capo Verde"
     },
     {
       "id": "canarie",
@@ -55,7 +55,7 @@
     },
     {
       "id": "cayman",
-      "label": "Cayman"
+      "label": "Isole Cayman"
     },
     {
       "id": "cipro",
@@ -71,7 +71,7 @@
     },
     {
       "id": "costarica",
-      "label": "Costarica"
+      "label": "Costa Rica"
     },
     {
       "id": "croazia",
@@ -83,7 +83,7 @@
     },
     {
       "id": "curacao",
-      "label": "Curacao"
+      "label": "Curaçao"
     },
     {
       "id": "dominica",
@@ -191,11 +191,11 @@
     },
     {
       "id": "saint-barth",
-      "label": "Saint Barth"
+      "label": "Saint-Barth"
     },
     {
       "id": "saint-martin",
-      "label": "Saint Martin"
+      "label": "Saint-Martin"
     },
     {
       "id": "santa-lucia",
@@ -215,15 +215,15 @@
     },
     {
       "id": "st-eustatius",
-      "label": "St Eustatius"
+      "label": "Sint Eustatius"
     },
     {
       "id": "st-kitts-nevis",
-      "label": "St Kitts Nevis"
+      "label": "St-Kitts e Nevis"
     },
     {
       "id": "trinidad-tobago",
-      "label": "Trinidad Tobago"
+      "label": "Trinidad e Tobago"
     },
     {
       "id": "tunisia",
@@ -235,7 +235,7 @@
     },
     {
       "id": "turks-caicos",
-      "label": "Turks Caicos"
+      "label": "Turks e Caicos"
     },
     {
       "id": "venezuela",
@@ -243,7 +243,7 @@
     },
     {
       "id": "virgin-islands",
-      "label": "Virgin Islands"
+      "label": "Isole Vergini"
     }
   ],
   "ids": [

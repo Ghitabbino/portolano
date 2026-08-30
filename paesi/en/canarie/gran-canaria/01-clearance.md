@@ -1,39 +1,39 @@
-# 01 — Clearance doganale della barca
+# 01 — Yacht Customs Clearance
 
-Ultimo aggiornamento: 22/08/2026 · Contesto generale in [00 — Ingresso](../00-ingresso-visti.md)
+Last updated: 22/08/2026 · Contesto generale in [00 — Ingresso](../00-ingresso-visti.md)
 
 ## Regole d'ingresso
 
 | Provenienza | Formalità |
 |---|---|
-| Porti UE/Schengen | Nessuna formalità persone/barca |
-| Extra-UE | Presentarsi al primo porto di ingresso: **Las Palmas de Gran Canaria** |
+| Porti UE/Schengen | No formalities persone/barca |
+| Extra-UE | Presentarsi at the first porto of ingresso: **Las Palmas de Gran Canaria** |
 
-## Porto di ingresso — Las Palmas de Gran Canaria
+## Porto of ingresso — Las Palmas de Gran Canaria
 
 | Ufficio | Note |
 |---|---|
-| Capitanía Marítima de Las Palmas | Autorità marittima (Porto della Luz) |
+| Capitanía Marítima de Las Palmas | Autorità marittima (Puerto de la Luz) |
 | Policia Nacional | Controlli equipaggio extra-Schengen |
-| Aduanas | Solo merce da dichiarare |
+| Aduanas | Solo merce from dichiarare |
 
-## Barca
+## Yacht
 
-| Caso | Regola |
+| Caso | Rule |
 |---|---|
-| UE con IVA pagata | Libera circolazione |
+| EU VAT-paid | Libera circolazione |
 | Extra-UE | Ammissione Temporanea UE 18 mesi |
 
-## Partenza per i Caraibi
+## Departure for i Caraibi
 
-Dalla marina Las Palmas parte ogni novembre l'**ARC** (Atlantic Rally for Cruisers): zarpe collettiva verso Santa Lucia. Formalità di uscita gestite durante il check-in rally o singolarmente in Capitanía.
+Dalla marina Las Palmas parte each novembre l'**ARC** (Atlantic Rally for Cruisers): zarpe collettiva verso Santa Lucia. Formalità of uscita gestite durante il check-in rally or singolarmente in Capitanía.
 
-## Da verificare
+## Da check
 
-- In alta stagione ARC (ott–dic) gli uffici estendono gli orari: confermare con la marina.
+- In alta stagione ARC (ott–dic) gli uffici estendono gli orari: confermare with la marina.
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026
 
-## Chi deve farla
-## Costi
-Ultimo aggiornamento: 23/08/2026
+## Who Must Clear
+## Fees
+Last updated: 23/08/2026

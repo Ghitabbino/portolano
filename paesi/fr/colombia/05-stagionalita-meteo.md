@@ -1,35 +1,35 @@
-# 05 — Stagionalità e meteo
+# 05 — Saisonnalité & Météo
 
-**Ultima verifica: 28/08/2026** — *Scheda in completamento*
+**Dernière vérification: 28/08/2026** — *Scheda in completamento*
 
-- Clima tropicale; stagione secca **dic–apr**, umida **mag–nov**, uragani **giu–nov** (Caribe colombiano marginale).
-- Alisei **NE–E 15–20 kt** dic–apr.
+- Climat tropicale; stagione secca **dic–apr**, umida **mag–nov**, uragani **giu–nov** (Caribe colombiano marginale).
+- Alizés **NE–E 15–20 kt** dic–apr.
 
 > Dettagli in raccolta.
 
-Ultimo aggiornamento: 28/08/2026
+Dernière mise à jour: 28/08/2026
 
-## Clima
+## Climat
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Stagioni
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## Venti locali
+## Saisons
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Finestre tipiche
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## Link meteo
+## Vents locaux
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
+
+
+## Fenêtres météo typiques
+
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
+
+
+## Liens météo
+
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 

@@ -1,18 +1,18 @@
 # O Pescador
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| **Isola/Zona** | Flores / Santa Cruz das Flores |
-| **Cucina** | 🐟 Pesce do dia |
-| **Specialità** | Peixe fresco grelhado · Lapas · Polvo · Arroz marisco |
-| **Costo** | 💰€€ per persona senza bevande |
-| **Location** | 🏖️ Porto Santa Cruz, **unico ristorante** dell'isola, 5 min da marina |
+| **Isola/Zone** | Flores / Santa Cruz das Flores |
+| **Cuisine** | 🐟 Pesce do dia |
+| **Spécialité** | Peixe fresco grelhado · Lapas · Polvo · Arroz marisco |
+| **Coût** | 💰€€ per persona senza bevande |
+| **Emplacement** | 🏖️ Port Santa Cruz, **unico ristorante** dell'isola, 5 min da marina |
 | **Mappa** | [Google Maps](https://www.google.com/maps/search/?api=1&query=O+Pescador+Santa+Cruz+das+Flores) |
-| **Contatti** | +351 292 592 888 |
-| **Valutazioni** | Google 4,2/5 (120+) · TA 4,0/5 (90+) → ★★★½ |
-| **Orari** | Qua–Lun 12:00–15:00 / 19:00–21:30 · Mar chiuso · Inverno orari ridotti |
+| **Contacts** | +351 292 592 888 |
+| **Évaluations** | Google 4,2/5 (120+) · TA 4,0/5 (90+) → ★★★½ |
+| **Horaires** | Qua–Lun 12:00–15:00 / 19:00–21:30 · Mar chiuso · Inverno orari ridotti |
 
 ## Menu
 
@@ -22,11 +22,11 @@
 - **Arroz de marisco** (risotto frutti di mare)
 - **Chicharrinhos fritos** (pesciolini fritti)
 - **Sopa de peixe** (zuppa pesce, patate, verdure)
-- **Queijo das Flores** (formaggio locale, quando disponibile)
+- **Queijo das Flores** (formaggio locale, lorsque disponible)
 - **Doce de leite / Queijada** (dolci tipici)
 - **Vinhos**: Pico, Biscoitos, continente (scorta limitata)
 
-## Foto
+## Photos
 
 ![O Pescador](img/azzorre/rist-pescador.jpg)
 
@@ -34,4 +34,4 @@
 
 ⚠️ **Inverno (nov–mar)**: orari molto ridotti, verificare telefonicamente; possibile chiusura settimanale.
 
-Ultimo aggiornamento: 24/08/2026
+Dernière mise à jour: 24/08/2026

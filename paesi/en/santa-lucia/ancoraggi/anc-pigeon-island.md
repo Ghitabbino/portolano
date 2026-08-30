@@ -5,7 +5,7 @@
 
 | Campo | Dettaglio |
 |---|---|
-| **Profondità** |**DATO MANCANTE**|
+| **Profondità** |**DATA MISSING**|
 | **Tenuta àncora** |Difficile: attenzione ai reef|
 | **Venti/riparo** |Più tranquilla della rada|
 | **Pericoli** |Non ancorare vicino al corallo; ⚠️ CSSN: tentati furti dinghy 2024|
@@ -17,4 +17,4 @@
 
 Fonti: CruisersWiki ★★★ · CSSN #3260/#3762 (2024) ★★★★
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

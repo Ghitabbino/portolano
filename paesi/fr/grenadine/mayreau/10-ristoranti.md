@@ -1,15 +1,15 @@
-# 10 — Ristoranti
+# 10 — Restaurants
 
-## Griglia generale
+## Grille générale
 
-| Ristorante | Zona | Costo | Cucina | Specialità | Location | Stelle |
+| Ristorante | Zone | Coût | Cuisine | Spécialité | Emplacement | Stelle |
 |---|---|---|---|---|---|---|
-| [Coconut Restaurant & Bar](ristoranti/rist-coconut.md) | Salt Whistle Bay | **€€** | **🐟 Caraibica** | *Pesce · langousta* | **🏖️ sulla baia** | ★★★ |
+| [Coconut Restaurant & Bar](ristoranti/rist-coconut.md) | Salt Whistle Bay | **€€** | **🐟 Caraïbesca** | *Pesce · langousta* | **🏖️ sulla baia** | ★★★ |
 | [The Last Bar Before the Jungle](ristoranti/rist-lastbar.md) | Salt Whistle Bay | **€€** | **🍹 Bar & grill** | *Grill · cocktail* | **🌴 fine spiaggia** | ★★★ |
 | [Nadie's Bar & Restaurant](ristoranti/rist-nadies.md) | Salt Whistle Bay | **€€** | **🐟 Locale** | *Pesce fresco* | **🏖️** | ★★ |
 | [Island Paradise](ristoranti/rist-islandparadise.md) | Costa ovest | **€€** | **🐟 Locale** | *Pesce* | **🌊** | ★★ |
 | [D'View Sports Bar & Restaurant](ristoranti/rist-dview.md) | Costa ovest | **€€** | **🍽️ Mista** | *—* | **⛰️ vista** | ★★ |
 
-## App e fonti
+## Applis et sources
 
 Google Maps recensioni · contatto VHF/WhatsApp

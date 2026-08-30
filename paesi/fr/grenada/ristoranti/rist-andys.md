@@ -1,18 +1,18 @@
 # Andy's Soup House
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Grand Anse Valley (Wall Street, sopra Grand Anse) |
-| Cucina | 🥩 Locale tradizionale · zuppe e piatti casalinghi |
-| Specialità | Oil down · beef roti · zuppe del giorno · nutmeg ice cream |
-| Costo | 💰€ per persona senza bevande |
-| Location | 🪶 roadside diner semplice, interno climatizzato |
+| Zone | Grand Anse Valley (Wall Street, sopra Grand Anse) |
+| Cuisine | 🥩 Locale tradizionale · zuppe e piatti casalinghi |
+| Spécialité | Oil down · beef roti · zuppe del giorno · nutmeg ice cream |
+| Coût | 💰€ per persona senza bevande |
+| Emplacement | 🪶 roadside diner semplice, interno climatizzato |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Andy%27s+Soup+House+Grand+Anse+Grenada) |
-| Contatti | +1 473 439-0602 (verificare) · Facebook Andy's Soup House |
-| Valutazioni | TA 4,6/5 (150+), Google 4,5/5 → ★★★★ · citato da [InspiringTravel](https://www.inspiringtravel.co.uk/caribbean/grenada/travel-guides/top-10-restaurants-in-grenada) ★★★ e [PureGrenada guide locali](https://www.puregrenada.com) ★★★★ |
-| Orari | colazione-pranzo-cena; meglio a pranzo per la scelta completa (special giornaliero locale) |
+| Contacts | +1 473 439-0602 (verificare) · Facebook Andy's Soup House |
+| Évaluations | TA 4,6/5 (150+), Google 4,5/5 → ★★★★ · citato da [InspiringTravel](https://www.inspiringtravel.co.uk/caribbean/grenada/travel-guides/top-10-restaurants-in-grenada) ★★★ e [PureGrenada guide locali](https://www.puregrenada.com) ★★★★ |
+| Horaires | colazione-pranzo-cena; meglio a pranzo per la scelta completa (special giornaliero locale) |
 
 ## Menu
 

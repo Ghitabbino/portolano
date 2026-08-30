@@ -1,38 +1,38 @@
-# 05 — Stagionalità e meteo
+# 05 — Seasonality & Weather
 
-**Ultima verifica: 24/08/2026** · Capo Verde è **fuori dalla fascia uragani**: nessun ciclone diretto documentato.
+**Last checked: 24/08/2026** · Cape Verde is **outside the hurricane belt**: nessun ciclone diretto documentato.
 
-## Clima
+## Climate
 
-- Temperatura **23–28 °C** tutto l'anno, escursione ridotta; acqua 22–26 °C. ★★★
-- Aliseo NE dominante, più forte dic–giu; harmattan polveroso dic–feb. ★★★
+- Temperature **23–28 °C** year-round, small range; water 22–26 °C. ★★★
+- Dominant NE trade, stronger Dec–Jun; dusty harmattan Dec–Feb. ★★★
 
-## Stagioni
+## Seasons
 
-| Periodo | Caratteristiche |
+| Period | Characteristics |
 |---|---|
 | **Nov–Giu** | Aliseo NE 15–25 kn, asciutto, mare formato nei canali: **migliore per navigare** |
 | **Dic–Feb** | Harmattan E/NE con polvere sahariana, visibilità ridotta ★★ |
 | **Lug–Ott** | Caldo umido, alisei deboli, qualche pioggia (ago–ott), bonacce possibili |
 
-## Uragani
+## Hurricanes
 
-Fuori dalla *main hurricane belt*; rischio cicloni quasi nullo, ma onde lunghe da uragani caraibici possibili set–ott. ★★★
+Outside the *main hurricane belt*; cyclone risk almost nil, but long swell from Caribbean hurricanes possible Sep–Oct. ★★★
 
-## Venti locali
+## Local Winds
 
-- Accelerazioni tra le isole (effetto Venturi nei canali): +5–10 kn vs vento sinottico. ★★
-- Brezze termiche costiere pomeridiane su isole alte (Santo Antão, Fogo, São Nicolau). ★★
+- Acceleration between islands (Venturi effect in the channels): +5–10 kn vs synoptic wind. ★★
+- Afternoon coastal sea breezes on high islands (Santo Antão, Fogo, São Nicolau). ★★
 
-## Finestre tipiche
+## Typical Weather Windows
 
 | Tratta | Finestra |
 |---|---|
-| Tra le isole Barlavento | Partenza all'alba, aliseo <20 kn |
+| Tra le islands Barlavento | Departure all'alba, aliseo <20 kn |
 | Verso Caraibi (ARC+) | Nov–gen da Mindelo/Sal |
 | Sotavento (Santiago–Fogo–Brava) | Bolina lunga, meglio con aliseo moderato |
 
-## Link meteo e carte locali
+## Weather Links & Local Charts
 
 - [INMG Cabo Verde](http://www.inmg.gov.cv) ★★★ — ufficiale
 - [Windguru maio](https://www.windguru.cz) ★★★
@@ -40,4 +40,4 @@ Fuori dalla *main hurricane belt*; rischio cicloni quasi nullo, ma onde lunghe d
 - [NOAA NHC](https://www.nhc.noaa.gov) per stagione uragani atlantici ★★★★★
 - Polvere sahariana: [Copernicus CAMS](https://atmosphere.copernicus.eu) ★★★
 
-Ultimo aggiornamento: 24/08/2026
+Last updated: 24/08/2026

@@ -1,37 +1,37 @@
-# 07 — Provvisioning
+# 07 — Avitaillement
 
-**Ultima verifica: 27/08/2026** — Mar Ligure
+**Dernière vérification: 27/08/2026** — Mar Ligure
 
 ## Livello prezzi generale
 
-- Rete distribuzione capillare (supermercati, mercati, pescherie). Dettaglio livello prezzi per Mar Ligure: **DATO MANCANTE** — generalmente allineato a media nazionale italiana.
+- Rete distribuzione capillare (supermercati, mercati, pescherie). Détail livello prezzi per Mar Ligure: **DONNÉE MANQUANTE** — generalmente allineato a media nazionale italiana.
 
-## Supermercati
+## Supermarchés
 
 ### Base principale — Mar Ligure
 
-| Negozio | Ubicazione | Distanza dalla marina | A piedi? | Note | Fonte |
+| Negozio | Ubicazione | Distance dalla marina | A piedi? | Note | Source |
 |---|---|---|---|---|---|
-| **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** |
+| **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
 
-> Dettaglio supermercati comodi per diportisti in Mar Ligure: **DATO MANCANTE** — da verificare su fonti locali (Pagine Gialle, siti marine, OpenStreetMap).
+> Détail supermercati comodi per diportisti in Mar Ligure: **DONNÉE MANQUANTE** — da vérifier sur fonti locali (Pagine Gialle, siti marine, OpenStreetMap).
 
-## Mercati
+## Marchés
 
-- Mercato locale (pesce / frutta / verdura) in Mar Ligure: **DATO MANCANTE**
+- Mercato locale (pesce / frutta / verdura) in Mar Ligure: **DONNÉE MANQUANTE**
 
-## Acqua e carburante
+## Eau et carburant
 
 | Servizio | Dove | Note |
 |---|---|---|
-| Water dock | Marina — verificare in Mar Ligure | **DATO MANCANTE** |
-| Fuel dock | Banchina carburanti — verificare in Mar Ligure | **DATO MANCANTE** |
-| Bombola gas | Rivenditori GPL zona | Solo scambio/ricarica — **DATO MANCANTE** dettaglio |
+| Water dock | Marina — verificare in Mar Ligure | **DONNÉE MANQUANTE** |
+| Fuel dock | Banchina carburanti — verificare in Mar Ligure | **DONNÉE MANQUANTE** |
+| Bombola gas | Rivenditori GPL zona | Solo scambio/ricarica — **DONNÉE MANQUANTE** dettaglio |
 
-## Consigli pratici
+## Conseils pratiques
 
 - Trolley pieghevole utile per spesa dalla banchina.
-- Mercati del pesce al mattino presto per pescato fresco — orari per Mar Ligure: **DATO MANCANTE**.
-- Acqua: verificare potabilità banchina con marina.
+- Marchés del pesce al mattino presto per pescato fresco — orari per Mar Ligure: **DONNÉE MANQUANTE**.
+- Eau: verificare potabilità banchina con marina.
 
-Ultimo aggiornamento: 27/08/2026
+Dernière mise à jour: 27/08/2026

@@ -1,41 +1,41 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
-**Ultima verifica: 27/08/2026** · Coordinate indicative WGS84 — navigare sempre con carta ufficiale IIM / Navionics / C-MAP
+**Dernière vérification: 27/08/2026** · Coordinate indicative WGS84 — navigare sempre con carta ufficiale IIM / Navionics / C-MAP
 
 ## Inquadramento — Ionio
 
-Costa e approdi di Ionio: **DATO MANCANTE** per descrizione sistematica verificata. Mappa d'insieme centrata su 38.50N 17.00E (indicativo di zona).
+Costa e approdi di Ionio: **DONNÉE MANQUANTE** per descrizione sistematica verificata. Mappa d'insieme centrata su 38.50N 17.00E (indicativo di zona).
 
-## Marine principali (da verificare)
+## Marine principali (à vérifier)
 
-| Marina / Porto | Zona | Posti | Note |
+| Marina / Port | Zone | Posti | Note |
 |---|---|---|---|
-| **DATO MANCANTE** | Ionio | **DATO MANCANTE** | **DATO MANCANTE** — da verificare su Pagine Azzurre / Capitaneria |
+| **DONNÉE MANQUANTE** | Ionio | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** — da vérifier sur Pagine Azzurre / Capitaneria |
 
-> Elenco verificato marine con telefono/VHF/costi: **DATO MANCANTE** — verificare su fonti ufficiali (Capitaneria, porti turistici, Pagine Azzurre) ★★★★
+> Elenco verificato marine con telefono/VHF/costi: **DONNÉE MANQUANTE** — vérifier sur fonti ufficiali (Capitaneria, porti turistici, Pagine Azzurre) ★★★★
 
 ## Ancoraggi (rinvio)
 
 Ancoraggi liberi della zona → [08 Portolano degli ancoraggi](08-ancoraggi.md). Regole AMP e divieti locali riportate lì.
 
-## Tariffe ormeggi e marine
+## Tarifs d’amarrage & marinas
 
-> Stesse voci per tutti i paesi; **DATO MANCANTE** = da ricercare al controllo mensile.
+> Stesse voci per tutti i paesi; **DONNÉE MANQUANTE** = da ricercare al controllo mensile.
 
-| Voce | Costo | Note |
+| Rubrique | Coût | Note |
 |---|---|---|
-| Posto pontile notte (~12 m) | **DATO MANCANTE** | **DATO MANCANTE** |
-| Boa / campo boe notte | **DATO MANCANTE** | **DATO MANCANTE** |
-| Ormeggio mensile (~12 m) | **DATO MANCANTE** | **DATO MANCANTE** |
-| Elettricità | **DATO MANCANTE** | **DATO MANCANTE** |
-| Acqua | **DATO MANCANTE** | **DATO MANCANTE** |
+| Posto pontile notte (~12 m) | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Bouée / campo boe notte | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Ormeggio mensile (~12 m) | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Électricité | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Eau | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
 
-⚠️ **Da verificare prima della crociera**: listini ufficiali 2026 delle marine di Ionio, telefonicamente o via email.
+⚠️ **À vérifier avant la croisière**: listini ufficiali 2026 delle marine di Ionio, telefonicamente o via email.
 
-## Distanze utili
+## Distances utiles
 
-| Tratta | Distanza | Note |
+| Trajet | Distance | Note |
 |---|---|---|
-| **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** |
+| **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
 
-Ultimo aggiornamento: 27/08/2026
+Dernière mise à jour: 27/08/2026

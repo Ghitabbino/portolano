@@ -1,17 +1,17 @@
 # La Puntilla
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Arrecife – sul Charco |
-| Cucina | 🐟 Pesce tradizionale |
-| Specialità | Vieja al horno con mojo |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🪶 semplice locale |
-| Contatti | [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Puntilla+Arrecife) |
-| Valutazioni | ★★★★|
-| Orari | pranzo |
+| Zone | Arrecife – sul Charco |
+| Cuisine | 🐟 Pesce tradizionale |
+| Spécialité | Vieja al horno con mojo |
+| Coût | 💰€€ per persona senza bevande |
+| Emplacement | 🪶 semplice locale |
+| Contacts | [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Puntilla+Arrecife) |
+| Évaluations | ★★★★|
+| Horaires | pranzo |
 
 ## Menu
 
@@ -22,4 +22,4 @@
 
 **Note**: Istituzione locale sul Charco
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026

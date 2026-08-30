@@ -7,7 +7,7 @@
 | Zona | Grace Bay (Grace Bay Market, Allegro Rd) |
 | Cucina | 🥙 Turca / mediterranea |
 | Specialità | *Doner kebab · shish · fish burger* |
-| Costo | 💰€ per persona senza bevande (18–27 USD) |
+| Costo | 💰€ per person without drinks (18–27 USD) |
 | Location | 🪶 casual — food market |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Turks+Kebab+Grace+Bay+Market+Providenciales) |
 | Contatti | +1 (649) 941-8662 · [turkskebab.com](https://www.turkskebab.com) |

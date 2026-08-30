@@ -1,29 +1,29 @@
-# 04 — Servizi, cantieri e manutenzione
+# 04 — Services, Boatyards & Maintenance
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026
 
 ## Hub tecnico — Marina San Sebastián
 
-| Servizio | Dettaglio |
+| Service | Detail |
 |---|---|
-| Posti | Piccola; salto facile da Tenerife (~25 Mm) |
-| Fuel/Acqua | Presenti — orari (da confermare) |
+| Posti | Piccola; salto facile from Tenerife (~25 Mm) |
+| Fuel/Water | Presenti — orari (from confermare) |
 | Haul-out | Non presente |
 
 ## Altri punti
 
-Vedi [03 Porti e marine](03-porti-ancoraggi.md) per gli approdi secondari.
+Vedi [03 Porti and marine](03-porti-ancoraggi.md) for gli approdi secondari.
 
-## Gas e bombole
+## Gas and bombole
 
-Raccordo spagnolo: scambio nei punti locali; adapter consigliato per bombole italiane. Dettagli in [07 Provvisioning](07-provvisioning.md).
+Raccordo spagnolo: scambio nei punti locali; adapter consigliato for bombole italiane. Details in [07 Provvisioning](07-provvisioning.md).
 
-## Acqua dolce
+## Water dolce
 
-Water dock secondo tabella hub; altrove taniche.
+Water dock second tabella hub; altrove taniche.
 
 ## Note strategiche
 
-Piccola e verde: due approdi principali, resto esposto. Per lavori importanti i riferimenti restano **Las Palmas (GC)** per carenaggio/attrezzatura pre-traversata e **Santa Cruz (Tenerife)** come logistica principale.
+Piccola and verde: due approdi principali, resto esposto. Per lavori importanti i riferimenti restano **Las Palmas (GC)** for carenaggio/attrezzatura pre-traversata and **Santa Cruz (Tenerife)** as logistica principale.
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

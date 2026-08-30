@@ -1,17 +1,17 @@
-# 01 — Clearance doganale della barca
+# 01 — Formalités douanières
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026
 
 ## Regole d'ingresso
-EASE pre-registrazione online obbligatoria + Capitania do Porto al primo approdo.
+EASE pre-registrazione online obbligatoria + Capitania do Port al primo approdo.
 Capitania Tarrafal/Ribeira Brava: contatti (da confermare in loco)
 
-## La barca
+## Le bateau
 UE con IVA pagata: nessun cruising permit nazionale noto; si applicano le sole tasse portuali locali ⚠️ fonte ufficiale.
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026
 
-## Chi deve farla
+## Qui doit effectuer les formalités
 ## Costi
-## Da verificare
-Ultimo aggiornamento: 22/08/2026
+## À vérifier
+Dernière mise à jour: 22/08/2026

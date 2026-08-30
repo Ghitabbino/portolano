@@ -1,18 +1,18 @@
 # La Playa
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Marie-Galante |
-| Cucina | 🐟 Locale rivisitata |
-| Specialità | Pesce · boudin créole |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🏖️ beach front |
+| Zone | Marie-Galante |
+| Cuisine | 🐟 Locale rivisitata |
+| Spécialité | Pesce · boudin créole |
+| Coût | 💰€€ per persona senza bevande |
+| Emplacement | 🏖️ beach front |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Playa+Marie-Galante) |
-| Contatti | [Mappa](https://www.google.com/maps/search/?api=1&query=La+Playa+Marie-Galante) |
-| Valutazioni | Google positive → ★★★★ |
-| Orari | stagionale ⚠️ |
+| Contacts | [Mappa](https://www.google.com/maps/search/?api=1&query=La+Playa+Marie-Galante) |
+| Évaluations | Google positive → ★★★★ |
+| Horaires | stagionale ⚠️ |
 
 ## Menu
 
@@ -21,8 +21,8 @@
 
 **Chef**: ND
 
-## Foto
+## Photos
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Photos non ancora disponibili — recuperare al controllo mensile.*
 
 **Note**: Da abbinare al giro dell'isola in scooter · da 25 €

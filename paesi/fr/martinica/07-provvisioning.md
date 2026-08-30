@@ -1,17 +1,17 @@
-# 07 — Provvisioning
+# 07 — Avitaillement
 
-**Ultima verifica: 21/08/2026**
+**Dernière vérification: 21/08/2026**
 
 ## Livello prezzi generale
 
-- Alimentari più cari che in Francia metropolitana (importazione); comunque **più economici delle Grenadine** secondo i naviganti. ★★
+- Alimentation più cari che in Francia metropolitana (importazione); comunque **più economici delle Grenadine** secondo i naviganti. ★★
 - Prodotti locali convenienti: pesce (portofisherman al Marin), frutta/verdura mercati, pane/boulangerie. ★★★
 
-## Supermercati
+## Supermarchés
 
 ### Le Marin ⚓ base principale
 
-| Negozio | Ubicazione | Distanza dalla marina | A piedi? | Note | Fonte |
+| Negozio | Ubicazione | Distance dalla marina | A piedi? | Note | Source |
 |---|---|---|---|---|---|
 | **Carrefour Market** | Nouveau Bassin, area marina | ~200–400 m | ✅ sì | Lun–sab 8–20, dom/festivi 8–13 · tel +596 596 74 85 85 · completo anche di freschi, pesce, panetteria; nel piccolo centro commerciale con libreria, souvenir, fast-food |★★★|
 | **Leader Price** | Avenue Aimé Césaire / Montgérald | ~1–2 km | ✅ sì (15–20 min) | Discount francese, buono per base scorta |Mappy ★★★|
@@ -27,15 +27,15 @@ Borgo con épiceries/superette raggiungibili **a piedi dal pontile dinghy** (cen
 
 ### Fort-de-France
 
-Grande scelta urbana (supermercati in centro e periferia), comoda se si è alla baia Z'Abricots/Fort Saint-Louis. Elenco e distanze **da verificare** al prossimo aggiornamento.
+Grande scelta urbana (supermercati in centro e periferia), comoda se si è alla baia Z'Abricots/Fort Saint-Louis. Elenco e distanze **à vérifier** al prossimo aggiornamento.
 
-## Mercati
+## Marchés
 
 - **Mercato del pesce del Marin**: porto pescatori, pescato fresco quotidiano. ★★★
 - Marché communal de Sainte-Anne: frutta/verdura nel bourg, mattino. ★★★
 - Fort-de-France: Grand Marché in centro — spezie, frutta, pesce. ★★★
 
-## Acqua e carburante
+## Eau et carburant
 
 | Servizio | Dove | Note |
 |---|---|---|
@@ -43,9 +43,9 @@ Grande scelta urbana (supermercati in centro e periferia), comoda se si è alla 
 | Fuel dock | CAP Ponton (Le Marin), CAP DCML (FdF) | Prezzi regolati francesi → [02 Costi](02-costi.md) |
 | Gas (butane/propane) | Scambio bombole standard francesi a Le Marin | Solo scambio, niente rabbocco → [04 Servizi](04-servizi-cantieri.md) |
 
-## Consigli pratici
+## Conseils pratiques
 
 - Carrello/trolley pieghevole a bordo: dal Carrefour Market della marina tutto è a portata di gommone.
-- Acqua in bottiglia: tenere conto delle possibili penurie idriche dell'isola → [04 Servizi](04-servizi-cantieri.md).
+- Eau in bottiglia: tenere conto delle possibili penurie idriche dell'isola → [04 Servizi](04-servizi-cantieri.md).
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026

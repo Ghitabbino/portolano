@@ -1,7 +1,7 @@
 # Le Marin Est/Sud {#anc-marin-est}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
-| Campo | Dettaglio |
+[← All Anchorages](../08-ancoraggi.md)
+| Field | Detail |
 |---|---|
 | **Profondità** | 3–8 m circa nel cul-de-sac |
 | **Tenuta** |Sabbia, "perfetta" secondo Navily ★★★|
@@ -14,4 +14,4 @@
 <div class="mapframe" data-slug="marin-est" data-lat="14.4636" data-lon="-60.8610"></div>
 *Vista mappa Le Marin Est/Sud (coord. indicative) — zoom con i pulsanti +/−; menu in alto a destra per passare a Carta nautica e Segnali nautici · mappa offline*
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026

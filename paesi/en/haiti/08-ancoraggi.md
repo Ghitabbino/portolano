@@ -1,22 +1,22 @@
-# 08 — Portolano degli ancoraggi
+# 08 — Anchorage Pilot
 
-> ⚠️ **Contesto**: navigazione in Haiti **sconsigliata** per il quadro sicurezza (Level 4 USA, gang, colera — vedi [06 Sicurezza](06-sicurezza.md)). Le informazioni sotto sono ridotte all'essenziale **verificato**; tutto il resto è **DATO MANCANTE** e non va usato per pianificare.
+> ⚠️ **Contesto**: navigazione in Haiti **sconsigliata** per il quadro sicurezza (Level 4 USA, gang, colera — vedi [06 Safety & Security](06-sicurezza.md)). Le informazioni sotto sono ridotte all'essenziale **verificato**; tutto il resto è **DATA MISSING** e non va usato per pianificare.
 
-## Regole generali di ancoraggio
+## General Rules di ancoraggio
 
-- **Regole generali**: fondali tipici sabbia e corallo — calare solo su sabbia, mai su reef; presidio autorità intermittente: tenere pronti documenti, despacho e QR iKat. **DATO MANCANTE** per divieti/MPAs pubblicati online. ★★
+- **Regole generali**: fondali tipici sabbia e corallo — calare solo su sabbia, mai su reef; presidio autorità intermittente: tenere pronti documenti, despacho e QR iKat. **DATA MISSING** per divieti/MPAs pubblicati online. ★★
 - **Notte**: ancoraggio solo con luce diurna e piano di uscita rapido; VHF 16 intermittente. ★★
 
-## Tabella riassuntiva — ancoraggi verificati
+## Summary Table — ancoraggi verificati
 
 | # | Ancoraggio | Riparo | Tenuta | Prof. | Note |
 |---|---|---|---|---|---|
 | 1 | [Île-à-Vache — Port Morgan](#anc-port-morgan) | ★★★★ E | ★★★★ sabbia | 3–16 m | Unico punto haitiano con minima infrastruttura yacht (resort/marina), prudenza massima ★★ |
-| — | Les Cayes (sud-ovest) | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | Rada non documentabile per insicurezza |
-| — | Jacmel (sud) | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | Rada aperta, non documentabile |
-| — | Cap-Haïtien / Labadee (nord) | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | Enclave crocieristica sospesa fino a 06/2027 ★★★★ |
+| — | Les Cayes (sud-ovest) | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | Rada non documentabile per insicurezza |
+| — | Jacmel (sud) | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | Rada aperta, non documentabile |
+| — | Cap-Haïtien / Labadee (nord) | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | Enclave crocieristica sospesa fino a 06/2027 ★★★★ |
 
-## Mappa generale degli ancoraggi
+## Map generale degli ancoraggi
 
 <div class="mapframe" data-slug="haiti" data-minz="7" data-maxz="16" data-lat="18.50" data-lon="-73.20" data-markers='[[18.1050, -73.6950, "Île-à-Vache — Port Morgan", "anc-port-morgan"]]'></div>
 
@@ -34,9 +34,9 @@
 
 **Note:** unico punto haitiano con **minima infrastruttura per yacht**; contesto generale resta **sconsigliato** — verificare sicurezza giornaliera con Noonsite/advisory e resort. Contatti resort: info@port-morgan.com · +509 3921-2000 ★★
 
-## Cartografia ufficiale
+## Official Charts
 
-| Carta | Copertura | Note |
+| Chart | Coverage | Notes |
 |---|---|---|
 | **NGA 26141 / DMA Haiti** | Approcci Haiti — Île-à-Vache, Les Cayes, Jacmel, Cap-Haïtien | Serie Haiti, dettaglio portuale datato: **incrociare sempre con satellite e osservazione** ★★★★ |
 | **SHOM / NGA GA** | Hispaniola / Mer des Caraïbes | Pianificazione inter-isole |
@@ -44,15 +44,15 @@
 
 - Cartografia portuale haitiana poco aggiornata; usare **elettronica + satellite + osservazione diretta**. ★★
 
-## Non inclusi (per ora)
+## Not Included (For Now)
 
 - **Jacmel, Les Cayes, Port-au-Prince, Cap-Haïtien/Labadee**: dati insufficienti o contesto di sicurezza che ne sconsiglia l'uso — da verificare solo con fonti primarie e presidio locale.
 
-## Checklist àncora per Haiti
+## Anchor Checklist per Haiti
 
 1. iKat QR di tutto l'equipaggio + despacho a bordo ✓
 2. Àncora su sabbia, mai su corallo; catena adeguata a fondali misti ✓
 3. Arrivo/ancoraggio **solo di giorno**, piano di uscita rapido ✓
 4. EPIRB/PLB, VHF 16, contatti resort/agente locale salvati ✓
 
-Ultimo aggiornamento: 28/08/2026
+Last updated: 28/08/2026

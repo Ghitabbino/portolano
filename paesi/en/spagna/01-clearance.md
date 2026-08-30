@@ -1,51 +1,51 @@
-# 01 — Clearance doganale della barca
+# 01 — Boat clearance
 
 **Ultima verifica: 27/08/2026**
 
 ## Chi deve farla
 
-**DATO MANCANTE** — verificare su fonte governativa spagnola (Agencia Tributaria / Puertos del Estado) chi deve effettuare la clearance in entrata/uscita e negli spostamenti interni. ★★★★★
+**DATA MISSING** — verificare su fonte governativa spagnola (Agencia Tributaria / Puertos del Estado) chi deve effettuare la clearance in entrata/uscita e negli spostamenti interni. ★★★★★
 
 ## Procedura
 
 | Passo | Dettaglio | Fonte |
 |---|---|---|
-| Dichiarazione online | **DATO MANCANTE** | **DATO MANCANTE** |
-| Documenti richiesti | **DATO MANCANTE** | **DATO MANCANTE** |
-| Punti di ingresso | **DATO MANCANTE** | **DATO MANCANTE** |
+| Dichiarazione online | **DATA MISSING** | **DATA MISSING** |
+| Documenti richiesti | **DATA MISSING** | **DATA MISSING** |
+| Punti di ingresso | **DATA MISSING** | **DATA MISSING** |
 
 ## Copia cartacea e timbro
 
-**DATO MANCANTE**.
+**DATA MISSING**.
 
 ## Costi
 
-| Voce | Costo | Fonte |
+| Item | Costo | Fonte |
 |---|---|---|
-| Dichiarazione | **DATO MANCANTE** | **DATO MANCANTE** |
-| Timbro / diritti portuali | **DATO MANCANTE** | **DATO MANCANTE** |
+| Dichiarazione | **DATA MISSING** | **DATA MISSING** |
+| Timbro / diritti portuali | **DATA MISSING** | **DATA MISSING** |
 
 ## Punti agréé / porti di ingresso
 
 | Località | Punto | Contatti | Orari |
 |---|---|---|---|
-| **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** |
+| **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** |
 
 ## Dogana regionale
 
-**DATO MANCANTE** — verificare recapito Agencia Tributaria — Aduanas.
+**DATA MISSING** — verificare recapito Agencia Tributaria — Aduanas.
 
 ## Esperienze dei crocieristi
 
-**DATO MANCANTE**.
+**DATA MISSING**.
 
 ## Sanzioni
 
-**DATO MANCANTE** — verificare normativa spagnola.
+**DATA MISSING** — verificare normativa spagnola.
 
-## Da verificare prima della crociera
+## To be verified prima della crociera
 
 - Lista porti di ingresso aggiornati e orari.
 - Modulistica e URL ufficiale per la dichiarazione.
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

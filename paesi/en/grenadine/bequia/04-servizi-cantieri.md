@@ -1,28 +1,28 @@
-# 04 — Servizi, cantieri e manutenzione
+# 04 — Services, Boatyards & Maintenance
 
-**Ultimo aggiornamento: 23/08/2026**
+**Last updated: 23/08/2026**
 
 
-## Hub tecnico
+## Technical Hub
 
-Bequia è **l'isola-servizi delle Grenadine**: professionisti concentrati a **Ocar Reform** (a nord di Port Elizabeth, con dinghy dock dedicato) e in town — [Caribbean Compass 2026](https://caribbeancompass.com/island-spotlight-bequia-st-vincent-the-grenadines) ★★★★
+Bequia is **the services hub of the Grenadines**: professionals concentrated at **Ocar Reform** (north of Port Elizabeth, with a dedicated dinghy dock) and in town — [Caribbean Compass 2026](https://caribbeancompass.com/island-spotlight-bequia-st-vincent-the-grenadines) ★★★★
 
-| Servizio | Chi / dove | Note |
+| Service | Who / Where | Notes |
 |---|---|---|
-| **Daffodil Marine Service** | alongside in baia | Acqua, gasolio, ghiaccio **e consegna lavanderia** direttamente all'ancora [Guida CCA nov 2025](https://cruisingclub.org/sites/default/files/events/Grenadines%20Info%20%26%20Local%20Resources%2025.11.23.pdf) ★★★★ |
-| **Bequia Marina (The Yacht Club)** | "Big Blue Building", Port Elizabeth | Acqua, diesel, ghiaccio, dockage · **VHF 68** · [+784 457-3361](tel:+17844573361) · lun–sab 08–16 ★★★★ |
-| **Dockside Marine** | dinghy dock | **Chandlery grande e ben fornita** ★★★★ |
-| Sails & Canvas Bequia | opposto G.Y.E., Ocar | Vele e tendaggi su misura, telai bimini inox ★★★ |
-| Velai/canvas vari | Ocar e Port Elizabeth | Più laboratori sull'isola ★★★ |
-| Boat builders | Friendship Bay | Tradizione cantieristica viva ★★★ |
+| **Daffodil Marine Service** | alongside in the bay | Water, fuel oil, ice, and laundry delivery directly to the anchor [CCA Guide Nov 2025](https://cruisingclub.org/sites/default/files/events/Grenadines%20Info%20%26%20Local%20Resources%2025.11.23.pdf) ★★★★ |
+| **Bequia Marina (The Yacht Club)** | "Big Blue Building", Port Elizabeth | Water, diesel, ice, dockage · **VHF 68** · [+784 457-3361](tel:+17844573361) · Mon–Sat 08–16 ★★★★ |
+| **Dockside Marine** | dinghy dock | **Well-stocked chandlery** ★★★★ |
+| Sails & Canvas Bequia | opposite G.Y.E., Ocar | Custom sails and canvas, stainless steel bimini frames ★★★ |
+| Various sails/canvas | Ocar and Port Elizabeth | More workshops on the island ★★★ |
+| Boat builders | Friendship Bay | Active boatbuilding tradition ★★★ |
 
-## Acqua, carburante, rifiuti
+## Water, Fuel, Waste
 
-- Fornitura a bordo (acqua/diesel/bakery del mattino/lavanderia/rifiuti) tramite i service provider in baia ★★★★
-- Fuel dock all'estremità nord di Admiralty Bay — [SVG Yachting](https://www.svgyachting-grenadines.com/blog/bequia-yacht-charter-guide) ★★★★
+- On-board supply (water/diesel/bakery in the morning/laundry/waste) via bay-based service providers ★★★★
+- Fuel dock at the northern end of Admiralty Bay — [SVG Yachting](https://www.svgyachting-grenadines.com/blog/bequia-yacht-charter-guide) ★★★★
 
-## Collegamenti
+## Connections
 
-- **Traghetti da/per Kingstown** (SVG): equipaggi e rifornimenti; molti diportisti lasciano la barca in baia e visitano St-Vincent in traghetto ★★★★
+- **Ferries to/from Kingstown** (SVG): crew and supplies; many divers leave their boat in the bay and visit St-Vincent by ferry ★★★★
 
-Ultimo aggiornamento: 23/08/2026
+**Last updated: 23/08/2026**

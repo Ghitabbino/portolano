@@ -1,13 +1,13 @@
 # Yemanja Woodfired Grill
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | Zona | Wilhelminastraat 2, Oranjestad |
 | Cucina | 🥩 Wood grill + 🥗 vegan/healthy |
 | Specialità | Grill a legna · opzioni vegane/gluten-free · frutti di mare |
-| Costo | 💰€€ per persona senza bevande |
+| Costo | 💰€€ per person without drinks |
 | Location | 🌴 terrazza giardino, anche indoor AC |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Yemanja+Woodfired+Grill+Oranjestad) |
 | Contatti | Wilhelminastraat 2, Oranjestad · no AMEX |

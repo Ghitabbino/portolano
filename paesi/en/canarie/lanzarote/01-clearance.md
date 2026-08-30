@@ -1,29 +1,29 @@
-# 01 — Clearance doganale della barca
+# 01 — Yacht Customs Clearance
 
-Ultimo aggiornamento: 22/08/2026 · Contesto in [00 — Ingresso](../00-ingresso-visti.md)
+Last updated: 22/08/2026 · Contesto in [00 — Ingresso](../00-ingresso-visti.md)
 
 ## Regole d'ingresso
 
 | Provenienza | Formalità |
 |---|---|
 | Porti UE/Schengen | Nessuna |
-| Extra-UE | Primo porto di ingresso: **Arrecife** |
+| Extra-UE | Primo porto of ingresso: **Arrecife** |
 
-## Porto di ingresso — Arrecife
+## Porto of ingresso — Arrecife
 
-Capitanía Marítima di Las Palmas – dipendenza di Arrecife; Policia Nacional per equipaggi extra-Schengen. Orari: (da confermare).
+Capitanía Marítima of Las Palmas – dipendenza of Arrecife; Policia Nacional for equipaggi extra-Schengen. Hours: (from confermare).
 
-## Barca
+## Yacht
 
-UE con IVA pagata: libera circolazione. Extra-UE: Ammissione Temporanea UE 18 mesi.
+EU VAT-paid: libera circolazione. Extra-UE: Ammissione Temporanea UE 18 mesi.
 
 ## La Graciosa — regole speciali
 
-L'isola appartiene al **Parque Natural del Chinijo Archipiélago**: ancoraggio a Caleta del Sebo possibile nelle zone consentite, rispetto rigoroso dei fondi e dei limiti segnalati. Nessuna formalità doganale (territorio nazionale), ma rispetto delle regole dell'area protetta obbligatorie.
+L'isola appartiene at the **Parque Natural of the Chinijo Archipiélago**: ancoraggio a Caleta of the Sebo possibile nelle zone consentite, rispetto rigoroso of the fondi and of the limiti segnalati. No formalities doganale (territorio nazionale), ma rispetto of the regole dell'area protetta obbligatorie.
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026
 
-## Chi deve farla
-## Costi
-## Da verificare
-Ultimo aggiornamento: 23/08/2026
+## Who Must Clear
+## Fees
+## Da check
+Last updated: 23/08/2026

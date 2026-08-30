@@ -1,13 +1,13 @@
 # Water’s Edge
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | Zona | Eagle Beach — Costa Linda Resort |
 | Cucina | 🐟 Americana/Caraibica — Seafood & Steakhouse |
 | Specialità | Red snapper · Ahi Tuna · live music |
-| Costo | 💰€€ per persona senza bevande |
+| Costo | 💰€€ per person without drinks |
 | Location | 🏖️ beach resort, open-air + sala AC |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Waters+Edge+Restaurant+Aruba) |
 | Contatti | J.E. Irausquin Blvd 59, Costa Linda Beach Resort · +297 586 9494 |

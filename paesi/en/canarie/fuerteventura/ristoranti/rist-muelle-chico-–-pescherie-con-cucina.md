@@ -1,17 +1,17 @@
-# Muelle Chico – pescherie con cucina
+# Muelle Chico – pescherie with cucina
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| Zona | Corralejo – molo peschereccio |
-| Cucina | 🐟 Scegli-e-cucinano |
-| Specialità | Vieja/sama su ghiaccio a peso |
-| Costo | 💰€ per persona senza bevande |
-| Location | ⚓ banconi sul molo |
-| Contatti | Radio-taxi via reception/porto (3-4 operatori locali) |
-| Valutazioni |guida corralejo ★★★★|
-| Orari | pranzo |
+| Area | Corralejo – molo peschereccio |
+| Cuisine | 🐟 Scegli-and-cucinano |
+| Speciality | Vieja/sama on ghiaccio a peso |
+| Cost | 💰€ for persona without bevande |
+| Setting | ⚓ banconi sul molo |
+| Contacts | Radio-taxi via reception/porto (3-4 operatori locali) |
+| Ratings |guida corralejo ★★★★|
+| Hours | pranzo |
 
 ## Menu
 
@@ -20,6 +20,6 @@
 
 **Chef**: ND
 
-**Note**: Esperienza unica: dal banco alla tavola
+**Note**: Esperienza unica: dal banco at the tavola
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

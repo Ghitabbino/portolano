@@ -1,28 +1,28 @@
-# 04 — Servizi, cantieri e manutenzione
+# 04 — Services, Boatyards & Maintenance
 
-## Hub tecnico
+## Technical Hub
 
 **Nessuno**: nella comarca non esistono cantieri né travelift. Ultimi servizi tecnici: Linton Bay/Shelter Bay (12–35 NM a ovest).
 
-| Servizio | Disponibilità |
+| Service | Disponibilità |
 |---|---|
-| Meccanico/rigger | ❌ Nessuno residente; passaggi di tecnici itineranti segnalati via radio/FB — DATO MANCANTE contatti |
+| Meccanico/rigger | ❌ Nessuno residente; passaggi di tecnici itineranti segnalati via radio/FB — DATA MISSING contatti |
 | Sommozzatore per eliche/scafo |Talvolta tra i villaggi Guna — chiedere in ancoraggio ★★|
 | Sailmaker/velai | ❌ |
 | Elettricisti | ❌ |
 
-## Gas e bombole
+## Gas & Bottles
 
 Ricarica **impossibile**: rifornirsi completamente a Linton Bay/Colón prima dell'ingresso.
 
-## Acqua dolce
+## Fresh Water
 
 Acqua in buste dalle canoe ($1/6); acqua per serbatoi non disponibile: arrivare pieni.
 
-## Note strategiche
+## Strategic Notes
 
 - San Blas = zona di **autonomia totale**: barca revisionata, serbatoi pieni, ricambi critici a bordo.
 - Guasti maggiori = uscita dalla comarca verso Linton/Colón.
 - Vela strappata o motore bloccato: nessun rimorchio organizzato; conta solo l'assistenza tra yacht (rete VHF 72/16).
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026

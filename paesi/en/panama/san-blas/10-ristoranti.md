@@ -1,4 +1,4 @@
-# 10 — Ristoranti
+# 10 — Restaurants
 
 Nei San Blas **non esistono ristoranti tradizionali**: i pasti si organizzano direttamente con le **famiglie Guna** negli insediamenti o sulle isole. Si concorda in anticipo piatto e prezzo — tipicamente granchio, aragosta o pesce fresco, intorno a **US$10–20 a persona quando disponibile** — e si porta **contante** (dollari US$, piccoli tagli: nella comarca non si usano carte).
 
@@ -6,7 +6,7 @@ Legenda prezzi: **€** <20 · **€€** 20–40 · **€€€** >40 (USD) —
 
 ## Come funziona
 
-- Concordare **prezzo e portata prima** della preparazione; la disponibilità dipende dalla pesca del giorno.
+- Agree **price and flow rate before** preparation; availability depends on the catch of the day.
 - Pagamento solo in contanti piccoli tagli ($1–5) → [02](02-costi.md).
 - Chiedere prima di fotografare le persone; rispettare usanze e spazi dei villaggi → [09](09-artigiani-nautici.md).
 - Nessun recapito fisso: gli accordi si prendono direttamente in ancoraggio o tramite la famiglia che gestisce l'isola.
@@ -20,21 +20,21 @@ Legenda prezzi: **€** <20 · **€€** 20–40 · **€€€** >40 (USD) —
 | 🦀 Granchio | Villaggi costieri | ~US$3–5/pz, concordare col pescatore | Disponibilità irregolare | ★★ |
 | Colazione semplice nei lodge | Lodge/isole turistiche | **€** $3–5 | Unica struttura "ristorante-like" della comarca | ★★★ |
 
-## Contatti
+## Contacts
 
-Non esistono numeri di telefono né mail: ogni accordo è diretto e in loco. Per eventuali operatori/servizi verificati → [09](09-artigiani-nautici.md); permessi e regole della comarca → [01](01-clearance.md).
+There are no phone numbers or emails: every agreement is direct and on-site. For any verified operators/services → [09](09-artigiani-nautici.md); permits and rules of the region → [01](01-clearance.md).
 
-## Note pratiche
+## Practical Notes
 
 - Portare dollari in tagli piccoli: non ci sono ATM né POS in comarca.
 - Birra disponibile presso i lodge ($2–3/lattina) finché durano le scorte → [07](07-provvisioning.md).
-- Non pagare "tasse private" per ancorare oltre il permesso ufficiale della comarca: alcune richieste sono abusive.
+- Do not pay "private taxes" to anchor beyond the official permission of the region: some requests are abusive.
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026
 
-## Griglia generale
-## App e fonti
-Ultimo aggiornamento: 22/08/2026
+## General Grid
+## Apps & Sources
+Last updated: 22/08/2026
 
-## App e fonti
-Ultimo aggiornamento: 22/08/2026
+## Apps & Sources
+Last updated: 22/08/2026

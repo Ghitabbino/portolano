@@ -1,36 +1,36 @@
-# 02 — Costo della vita
+# 02 — Coût de la vie
 
-**Ultimo aggiornamento: 24/08/2026** · Valuta **CVE** · Praia capitale, prezzi medi, buona scelta continentale.
+**Dernière mise à jour: 24/08/2026** · Devise **CVE** · Praia capitale, prezzi medi, buona scelta continentale.
 
-## Alimentari
+## Alimentation
 
-| Voce | Prezzo |
+| Rubrique | Prezzo |
 |---|---|
 | Birra locale | 100–150 CVE market · 200 CVE bar ★★ |
 | Caffè | 60–100 CVE |
 | Baguette | 50–80 CVE |
-| Acqua 1,5 l | 70–110 CVE |
+| Eau 1,5 l | 70–110 CVE |
 | Pollo kg | 550–850 CVE |
 
-## Mangiare fuori
+## Restauration à terre
 
-| Voce | Prezzo |
+| Rubrique | Prezzo |
 |---|---|
 | Cachupa completa | 400–700 CVE ★★ |
 | Ristorante medio Praia | 800–1.800 CVE |
 | Pesce grigliato Plateau | 1.000–1.500 CVE |
 
-## Carburanti
+## Carburants
 
-| Voce | Prezzo |
+| Rubrique | Prezzo |
 |---|---|
 | Gasolio | 95–115 CVE/l ★★★ |
 | Benzina | 120–140 CVE/l |
-| Bombola gas | **DATO MANCANTE** |
+| Bombola gas | **DONNÉE MANQUANTE** |
 
-## Trasporti
+## Transports
 
-| Voce | Prezzo |
+| Rubrique | Prezzo |
 |---|---|
 | Bus Sol Atlântico | 44 CVE/corsa ★★ |
 | Aluguer Praia–Assomada | 250 CVE |
@@ -38,13 +38,13 @@
 
 ## Servizi
 
-| Voce | Prezzo |
+| Rubrique | Prezzo |
 |---|---|
 | SIM 10 GB | ~1.500 CVE |
-| Lavanderia | **DATO MANCANTE** |
+| Lavanderia | **DONNÉE MANQUANTE** |
 
 ## Contanti
 
 Bancomat diffusi al Plateau. Carte in supermarket; contanti per Sucupira/aluguer.
 
-Ultimo aggiornamento: 24/08/2026
+Dernière mise à jour: 24/08/2026

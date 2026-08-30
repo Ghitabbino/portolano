@@ -18,4 +18,4 @@
 
 Fonti: yachtlife.com ★★★ · protectedplanet.net ★★★ · gov.tc DECR (Sanctuary S23) ★★★★
 
-Ultimo aggiornamento: 28/08/2026
+Last updated: 28/08/2026

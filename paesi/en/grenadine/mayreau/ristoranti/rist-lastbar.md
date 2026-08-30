@@ -1,17 +1,17 @@
 # The Last Bar Before the Jungle
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | Zona | Salt Whistle Bay |
 | Cucina | 🍹 Bar & grill |
 | Specialità | Grill · cocktail |
-| Costo | 💰€€ per persona senza bevande |
+| Costo | 💰€€ per person without drinks |
 | Location | 🌴 fine spiaggia |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=The+Last+Bar+Before+the+Jungle+Salt+Whistle+Bay) |
 | Contatti | ND |
-| Valutazioni | Horizon 2025 · CCA → ★★★ |
+| Currencyzioni | Horizon 2025 · CCA → ★★★ |
 | Orari | giorno (stagione) |
 
 ## Menu
@@ -23,6 +23,6 @@
 
 ## Foto
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Foto non still disponibili — recuperare at the controllo mensile.*
 
 **Note**: Operativo post-Beryl; nuovo breakwater in baia

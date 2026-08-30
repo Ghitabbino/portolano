@@ -1,8 +1,8 @@
-# 02 — Costo della vita
+# 02 — Cost of Living
 
-Valuta: USD. Prezzi indicativi 2025–2026; zona Colón più cara e meno fornita di Panama City.
+Currency: USD. Prezzi indicativi 2025–2026; zona Colón più cara e meno fornita di Panama City.
 
-## Alimentari e spesa di bordo
+## Groceries & Galley Provisioning
 
 | Prodotto | Prezzo |
 |---|---|
@@ -13,9 +13,9 @@ Valuta: USD. Prezzi indicativi 2025–2026; zona Colón più cara e meno fornita
 | Riso/kg | $1,50 |
 | Pollo/kg | $4–5 |
 
-## Mangiare fuori
+## Eating Out
 
-| Voce | Prezzo |
+| Item | Prezzo |
 |---|---|
 | Menu creolo (corvina, patacones) | $7–12 |
 | Ti-punch/locale (seco) al bar | $3–4 |
@@ -23,37 +23,37 @@ Valuta: USD. Prezzi indicativi 2025–2026; zona Colón più cara e meno fornita
 | Fascia alta (Casco Viejo) | $30+ |
 | Snack/arepas | $2–3 |
 
-## Carburanti
+## Fuel
 
-| Carburante | Prezzo/L |
+| Carburante | Price/L |
 |---|---|
-| Gasolio marina | ~$1,10–1,30 (dock) — DATO MANCANTE tariffa Shelter Bay/Flamenco aggiornata |
+| Gasolio marina | ~$1,10–1,30 (dock) — DATA MISSING tariffa Shelter Bay/Flamenco aggiornata |
 | Benzina SP95 | ~$1,05 |
 | Bombola gas 10 kg | riempimento ~$10–12 |
 
-## Trasporti e collegamenti
+## Transport & Connections
 
-| Mezzo | Dettaglio |
+| Mezzo | Detail |
 |---|---|
 | Bus Colón–Città | ~$5 (express, 1,5 h) |
 | Uber/taxi Panama City | economici e sicuri in città |
 | Noleggio auto | ~$35–45/giorno |
 | Treni panoramico Canale | turistico, non pendolare |
 
-## Servizi quotidiani
+## Everyday Services
 
-| Servizio | Costo |
+| Service | Cost |
 |---|---|
 | Lavanderia | $8–15/carico (marine) |
 | SIM prepagata (+Movil/Tigo) | $10 con GB generosi |
-| Hull dive ispezione | DATO MANCANTE (diver a Linton/Shelter Bay su richiesta) |
+| Hull dive ispezione | DATA MISSING (diver a Linton/Shelter Bay su richiesta) |
 
-## Contanti e pagamenti
+## Cash & Payments
 
-Carte accettate ovunque in città; contante necessario nelle zone rurali (Portobelo, Isla Grande) e per i piccoli servizi.
+Cards accepted everywhere in the city; cash needed in rural areas (Portobelo, Isla Grande) and for small services.
 
-## Approfondimenti
+## Further Reading
 
 Tariffe marine e ormeggi → [03-porti-ancoraggi.md](03-porti-ancoraggi.md); ristoranti → [10-ristoranti.md](10-ristoranti.md).
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026

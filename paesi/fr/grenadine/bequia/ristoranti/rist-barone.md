@@ -1,18 +1,18 @@
 # Bar One
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Port Elizabeth Harbour (galleggiante) |
-| Cucina | 🍹 Bar & snack |
-| Specialità | Rum punch |
-| Costo | 💰€€ per persona senza bevande |
-| Location | ⛵ unico bar galleggiante, alimentato a solare |
+| Zone | Port Elizabeth Harbour (galleggiante) |
+| Cuisine | 🍹 Bar & snack |
+| Spécialité | Rum punch |
+| Coût | 💰€€ per persona senza bevande |
+| Emplacement | ⛵ unico bar galleggiante, alimentato a solare |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bar+One+Port+Elizabeth+Harbour+(galleggiante)) |
-| Contatti | water taxi EC$10 dal jetty |
-| Valutazioni | Google positiva → ★★★★ |
-| Orari | fino all'ultimo water taxi |
+| Contacts | water taxi EC$10 dal jetty |
+| Évaluations | Google positiva → ★★★★ |
+| Horaires | fino all'ultimo water taxi |
 
 ## Menu
 
@@ -21,8 +21,8 @@
 
 **Chef**: Ivor Simpson
 
-## Foto
+## Photos
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Photos non ancora disponibili — recuperare al controllo mensile.*
 
 **Note**: Ivor Simpson · si può nuotare dal pontone · @baronebequia

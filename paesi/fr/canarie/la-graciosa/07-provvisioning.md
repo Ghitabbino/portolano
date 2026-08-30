@@ -1,12 +1,12 @@
-# 07 — Provvisioning
+# 07 — Avitaillement
 
-Ultimo aggiornamento: 22/08/2026 · Isola piccola: servizi essenziali, niente grande distribuzione.
+Dernière mise à jour: 22/08/2026 · Isola piccola: servizi essenziali, niente grande distribuzione.
 
 ## Servizi presenti (voce diretta, 22/08/2026 ★)
 
-| Servizio | Dettaglio | Telefono | Note |
+| Servizio | Détail | Telefono | Note |
 |---|---|---|---|
-| **Alimentari** | Negozio di alimentari a Caleta del Sebo | (da confermare) | Base: pane, freschi essenziali, scorta rapida |
+| **Alimentation** | Negozio di alimentari a Caleta del Sebo | (da confermare) | Base: pane, freschi essenziali, scorta rapida |
 | **Macelleria** | A Caleta del Sebo | (da confermare) | Carne locale |
 | **Bar (2)** | Un paio di bar nel villaggio | (da confermare) | Caffè/bocadillos; orari variabili |
 | **Carburante** | **Disponibile al porto** ★ | (da confermare) | Comodissimo per chi è alla àncora: confermare modalità (tanica/pompa) all'arrivo |
@@ -15,18 +15,18 @@ Ultimo aggiornamento: 22/08/2026 · Isola piccola: servizi essenziali, niente gr
 
 - Scorta grossa farla prima (Arrecife/Órzola); qui si integra giorno per giorno.
 - Pane e pesce locale dal molo al ritorno delle barche.
-- Contante utile: non risulta un bancomat affidabile in loco ⚠️ (da confermare) da verificare.
+- Contante utile: non risulta un bancomat affidabile in loco ⚠️ (da confermare) à vérifier.
 
-## Acqua e gas
+## Eau e gas
 
-| Servizio | Dettaglio |
+| Servizio | Détail |
 |---|---|
-| Acqua | Dal molo se attivo ⚠️ verificare; alternativa taniche dall'alimentari |
+| Eau | Dal molo se attivo ⚠️ verificare; alternativa taniche dall'alimentari |
 | Gas | Rabbocco/scambio: (da confermare) — fare scorta a Lanzarote |
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026
 
-## Supermercati
-## Acqua e carburante
-## Consigli pratici
-Ultimo aggiornamento: 23/08/2026
+## Supermarchés
+## Eau et carburant
+## Conseils pratiques
+Dernière mise à jour: 23/08/2026

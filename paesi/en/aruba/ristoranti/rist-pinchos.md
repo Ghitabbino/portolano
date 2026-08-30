@@ -1,13 +1,13 @@
 # Pinchos Grill & Bar
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | Zona | Oranjestad — Surfside / pontile |
 | Cucina | 🥩 Grill caraibico |
 | Specialità | Grigliate · cocktail · tramonto sul pontile |
-| Costo | 💰€€ per persona senza bevande |
+| Costo | 💰€€ per person without drinks |
 | Location | 🏖️ pier over water, piedi sull'acqua |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pinchos+Grill+Bar+Aruba) |
 | Contatti | L.G. Smith Blvd, vicino Surfside |

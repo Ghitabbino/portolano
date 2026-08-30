@@ -1,29 +1,29 @@
-# 10 — Ristoranti
+# 10 — Restaurants
 
-**Ultimo aggiornamento: 27/08/2026**
+**Dernière mise à jour: 27/08/2026**
 
-Selezione orientata alla crociera: locali raggiungibili a piedi dagli ancoraggi e marine del portolano ([08 Ancoraggi](08-ancoraggi.md)). In preparazione — nessun locale inventato.
+Selezione orientata alla crociera: locali raggiungibili a piedi dagli ancoraggi e marine del portolano ([08 Ancoraggi](08-ancoraggi.md)). En préparation — nessun locale inventato.
 
-Legenda prezzi: **€** <15 · **€€** 15–35 · **€€€** >35 — Cucina: 🐟 pesce e frutti di mare · 🥩 carne e grigliate · 🥗 vegetariano-friendly · 🥙 tapas / street food · 🍰 dolci
+Légende prezzi: **€** <15 · **€€** 15–35 · **€€€** >35 — Cuisine: 🐟 pesce e frutti di mare · 🥩 carne e grigliate · 🥗 vegetariano-friendly · 🥙 tapas / street food · 🍰 dolci
 
-## Mappa dei ristoranti
+## Carte des restaurants
 
 <div class="mapframe" data-slug="grecia-cicladi" data-minz="5" data-maxz="17" data-lat="37.00" data-lon="25.10" data-markers='[]'></div>
 
 *Mappa placeholder — marker verranno aggiunti solo con coordinate verificate WGS84 e schede ristorante `rist-*`.*
 
-## Griglia generale
+## Grille générale
 
-| Ristorante | Zona | Costo | Cucina | Specialità | Location | Stelle |
+| Ristorante | Zone | Coût | Cuisine | Spécialité | Emplacement | Stelle |
 |---|---|---|---|---|---|---|
-| **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** |
+| **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
 
-## App e fonti
+## Applis et sources
 
 | Piattaforma | Uso locale |
 |---|---|
 | Google Maps recensioni | Il più aggiornato; orari spesso errati fuori stagione |
-| TheFork | Copertura nazionale — **DATO MANCANTE** su diffusione locale |
-| **DATO MANCANTE** | **DATO MANCANTE** |
+| TheFork | Copertura nazionale — **DONNÉE MANQUANTE** su diffusione locale |
+| **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
 
-Ultimo aggiornamento: 27/08/2026
+Dernière mise à jour: 27/08/2026

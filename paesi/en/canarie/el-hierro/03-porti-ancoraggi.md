@@ -1,46 +1,46 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
-Isola più piccola e remota dell'arcipelago: **un solo approdo** per i diportisti, tutto il resto della costa è vento e mare aperti.
+Isola more piccola and remota dell'arcipelago: **un only approdo** for i diportisti, all il resto of the costa è vento and mare aperti.
 
 ## Panoramica approdi
 
 | Approdo | Lato | Carattere |
 |---|---|---|
-| **La Restinga** | Sud | Marina piccola nel paese dei pescatori; l'approdo più meridionale dell'UE; unico rifugio praticabile |
+| **La Restinga** | Sud | Marina piccola nel paese of the pescatori; l'approdo more meridionale dell'UE; unico rifugio praticabile |
 
 ## La Restinga
 
-| Voce | Nota |
+| Item | Nota |
 |---|---|
-| Marina | 22 ormeggi fino 20 m · pescaggio max 8 m · travelift 5 t + gru · dry dock · listino in capitaineria ⚠️ → (da confermare) [puertoscanarios ★★★★] |
-| Contatti |**+34 922 557 081** · acqua/elettricità a pontile · centro diving nel paese ★★★★|
-| Esposizione | Protetta dai venti dominanti NE grazie alla posizione sulla punta sud; sensibile a swell da S |
-| Clearance | Porto di ingresso dell'isola |
+| Marina | 22 ormeggi fino 20 m · pescaggio max 8 m · travelift 5 t + gru · dry dock · listino in capitaineria ⚠️ → (from confermare) [puertoscanarios ★★★★] |
+| Contacts |**+34 922 557 081** · acqua/elettricità a pontile · centro diving nel paese ★★★★|
+| Esposizione | Protetta dai venti dominanti NE grazie at the posizione sulla punta sud; sensibile a swell from S |
+| Clearance | Porto of ingresso dell'isola |
 
-## Resto della costa
+## Resto of the costa
 
-- Costa N/O/E esposta: vento e mare aperti, nessun ancoraggio affidabile (vedi dettagli sopra).fidabile → dettagli puntuali (da confermare).
-- **Faro de Orchilla** (punta ovest): l'antico meridiano zero — tappa scenografica da mare, senza possibilità di sosta.
+- Costa N/O/E esposta: vento and mare aperti, no ancoraggio affidabile (vedi dettagli sopra).fidabile → dettagli puntuali (from confermare).
+- **Lighthouse de Orchilla** (punta ovest): l'antico meridiano zero — tappa scenografica from mare, without possibilità of sosta.
 
 ## Riserva Marina
 
-| Voce | Nota |
+| Item | Nota |
 |---|---|
-| **Riserva Marina de la Punta de la Restinga** | Area marina protetta a ridosso del paese; famosa per il diving mondiale (sito **El Bajón**) |
-| Regole | Pesca/ancoraggio regolamentati: consultare [pesca Canarias](https://www.gobiernodecanarias.org/pesca/) prima di immergere o ancorare ★★★rgere o ancorare — dettagli → (da confermare) |
+| **Riserva Marina de la Punta de la Restinga** | Area marina protetta a ridosso of the paese; famosa for il diving mondiale (sito **El Bajón**) |
+| Regole | Pesca/ancoraggio regolamentati: consultare [pesca Canarias](https://www.gobiernodecanarias.org/pesca/) prima of immergere or ancorare ★★★rgere or ancorare — dettagli → (from confermare) |
 
-## Distanze utili
+## Useful Distances
 
 | Da → A | NM |
 |---|---|
-| La Palma → El Hierro (La Restinga) | 60–70 (tratto più aperto) |
+| La Palma → El Hierro (La Restinga) | 60–70 (tratto more aperto) |
 
 Mappa offline:
 
 ```{data-map='{"slug":"canarie-el-hierro","lat":27.72,"lon":-17.99,"zoom":10,"markers":[["La Restinga",27.644,-17.982],["Faro de Orchilla",27.725,-18.118]]}'}
 ```
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026
 
-## Tariffe
-Ultimo aggiornamento: 23/08/2026
+## Tariffs
+Last updated: 23/08/2026

@@ -7,7 +7,7 @@
 | Zona | White Bay, Jost Van Dyke |
 | Cucina | 🍹 Beach bar |
 | Specialità | Painkiller (nato qui) |
-| Costo | 💰€€ per persona senza bevande |
+| Costo | 💰€€ per person without drinks |
 | Location | 🏖️ si approda a nuoto |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Soggy+Dollar+Bar+White+Bay,+Jost+Van+Dyke) |
 | Contatti | ND |

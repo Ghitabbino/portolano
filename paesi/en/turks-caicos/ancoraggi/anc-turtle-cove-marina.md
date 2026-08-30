@@ -18,4 +18,4 @@
 
 Fonti: [Navily 7974](https://www.navily.com/port/turtle-cove-marina/7974) ★★★ · [VisitTCI Turtle Cove Marina](https://www.visittci.com/providenciales/turtle-cove-marina) (rev. 2026) ★★★ · Waterway Guide ★★★
 
-Ultimo aggiornamento: 28/08/2026
+Last updated: 28/08/2026

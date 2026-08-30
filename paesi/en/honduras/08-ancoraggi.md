@@ -1,4 +1,4 @@
-# 08 — Portolano degli ancoraggi
+# 08 — Anchorage Pilot
 
 > ⚠️ Coordinate indicative WGS84 da confermare con carta ufficiale e osservazione in loco.
 
@@ -12,24 +12,23 @@
 | **Utila — harbour** | 16.1000 | -86.9000 | 3-6 m | Davanti al villaggio ★★★ |
 | **Guanaja — Bonacca/El Bight** | 16.4500 | -85.8800 | 4-8 m | Molto riparato ★★★ |
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026
 
-## Regole generali
+## General Rules
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Tabella riassuntiva
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
 
-## Cartografia ufficiale
+## Summary Table
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
 
-## Checklist àncora
+## Official Charts
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
+
+## Anchor Checklist
+
+**DATA MISSING** — da completare al controllo mensile.

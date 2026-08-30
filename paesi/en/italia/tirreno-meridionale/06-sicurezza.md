@@ -1,68 +1,68 @@
-# 06 — Sicurezza
+# 06 — Safety & Security
 
-**Ultima verifica completa: 27/08/2026** · Prossimo controllo mensile: **27/09/2026** — Tirreno Meridionale
+**Last checked completa: 27/08/2026** · Prossimo controllo mensile: **27/09/2026** — Tirreno Meridionale
 
-## Valutazione sicurezza: **4 / 5** (stima preliminare — da confermare con fonti locali)
+## Safety Assessment: **4 / 5** (stima preliminare — da confermare con fonti locali)
 
-| Aspetto | Voto | Motivazione |
+| Aspect | Rating | Reason |
 |---|---|---|
-| Sicurezza personale (turisti/crocieristi) | 4/5 | Italia: criminalità violenta contro turisti rara; microcriminalità turistica presente nelle aree affollate |
+| Safety & Security personale (turisti/crocieristi) | 4/5 | Italia: criminalità violenta contro turisti rara; microcriminalità turistica presente nelle aree affollate |
 | Furti materiali a bordo | 3/5 | Furtini possibili in porti/ancoraggi incustoditi — precauzioni standard |
 | Contesto generale | 4/5 | Paese UE con infrastrutture e soccorso efficienti |
 
-*Scala: 0 = terribile → 5 = molto sicuro. Valutazione nostra, sintesi preliminare; aggiornata a ogni controllo mensile.*
+*Scala: 0 = terribile → 5 = molto sicuro. Currencyzione nostra, sintesi preliminare; aggiornata a ogni controllo mensile.*
 
-## Mappa delle zone — offline
+## Zone Map — Offline
 
 <div class="mapframe" data-slug="tirreno-meridionale" data-minz="6" data-maxz="15" data-lat="39.50" data-lon="14.50" data-zones='[]'></div>
 
-*Mappa centrata su Tirreno Meridionale (39.50N 14.50E, indicativo di zona). Zone a rischio specifiche per diportisti in Tirreno Meridionale: **DATO MANCANTE** — da verificare su fonti locali e advisory.*
+*Mappa centrata su Tirreno Meridionale (39.50N 14.50E, indicativo di zona). Zone a rischio specifiche per diportisti in Tirreno Meridionale: **DATA MISSING** — da verificare su fonti locali e advisory.*
 
-## Quadro generale
+## Overview
 
 - Nessuna advisory restrittiva specifica per la navigazione da diporto in Italia da parte di governi UE — livello ordinario.
 - Microcriminalità (borseggi, furti in auto) concentrata nelle aree turistiche ad alto affollamento e nelle grandi città portuali — normali precauzioni.
-- Dettaglio incidenti contro crocieristi in Tirreno Meridionale negli ultimi 5 anni: **DATO MANCANTE** — da verificare su CSSN / stampa locale / gruppi naviganti
+- Dettaglio incidenti contro crocieristi in Tirreno Meridionale negli ultimi 5 anni: **DATA MISSING** — da verificare su CSSN / stampa locale / gruppi naviganti
 
-## Posti sicuri / posti da evitare
+## Safe Areas / Areas to Avoid
 
-### ✅ Posti sicuri
+### ✅ Safe Places
 
-| Zona | Note | Fonte |
+| Area | Notes | Source |
 |---|---|---|
 | Marine presidiate con guardianaggio | Custodia, videosorveglianza | Standard Italia ★★★ |
-| Borghi minori presidiati di giorno | Bassa criminalità | **DATO MANCANTE** |
+| Borghi minori presidiati di giorno | Bassa criminalità | **DATA MISSING** |
 
-### ⛔ Posti da evitare o attenzione
+### ⛔ Places to Avoid or Caution
 
-| Zona | Rischio | Fonte |
+| Area | Risk | Source |
 |---|---|---|
 | Banchine incustodite / spiagge affollate con oggetti incustoditi | Furto opportunistico | Standard Mediterraneo ★★★ |
-| Dettaglio quartieri / aree per Tirreno Meridionale | **DATO MANCANTE** | **DATO MANCANTE** |
+| Dettaglio quartieri / aree per Tirreno Meridionale | **DATA MISSING** | **DATA MISSING** |
 
-## Furti ai danni dei crocieristi
+## Theft Against Cruisers
 
-Dati specifici per Tirreno Meridionale: **DATO MANCANTE** — da verificare su Caribbean Safety and Security Net equivalenti mediterranee, forum, gruppi FB. Contromisure standard: catena + lucchetto dinghy, motore bloccato, dinghy sollevato a bordo di notte, nulla in vista.
+Dati specifici per Tirreno Meridionale: **DATA MISSING** — da verificare su Caribbean Safety and Security Net equivalenti mediterranee, forum, gruppi FB. Contromisure standard: catena + lucchetto dinghy, motore bloccato, dinghy sollevato a bordo di notte, nulla in vista.
 
-## A bordo e a terra
+## On Board & Ashore
 
-| Rischio | Dettaglio | Fonte |
+| Risk | Detail | Source |
 |---|---|---|
 | Furti dinghy | Possibili dove incustodito — chiudere sempre | Standard ★★ |
 | Auto a terra | Non lasciare oggetti in vista | Standard ★★ |
 
-## Navigazione
+## Navigation
 
-| Rischio | Dettaglio | Fonte |
+| Risk | Detail | Source |
 |---|---|---|
 | Traffico commerciale / traghetti | Intenso lungo rotte maggiori — sorveglianza AIS/VHF | IIM / Avvisi ★★★ |
-| Segnaletica **IALA-A** | Sistema Mediterraneo (rosso a sinistra entrando) — opposto all'IALA-B dei Caraibi | IALA ★★★★★ |
+| Segnaletica **IALA-A** | Sistema Mediterraneo (rosso a sinistra entrando) — opposto all'IALA-B dei Caribbean | IALA ★★★★★ |
 | Aree Marine Protette (AMP) | Divieti ancoraggio/navigazione specifici per area — verificare per Tirreno Meridionale | Ministero Ambiente / Capitaneria ★★★★★ |
 | fondali / secche | Verificare sempre su carta ufficiale IIM | IIM ★★★★★ |
 
-## Numeri di emergenza
+## Emergency Numbers
 
-| Emergenza | Numero |
+| Emergency | Number |
 |---|---|
 | Numero unico emergenze UE | **112** |
 | Guardia Costiera (SAR in mare) | **1530** · VHF **16** |
@@ -70,9 +70,9 @@ Dati specifici per Tirreno Meridionale: **DATO MANCANTE** — da verificare su C
 | Vigili del Fuoco | **115** |
 | Emergenza sanitaria | **118** |
 
-## Salvataggio ed emergenze
+## Rescue & Emergencies
 
-- **Guardia Costiera — 1530 / VHF 16** coordina SAR in mare (MRCC regionali: Genova, Livorno, Roma, Napoli, Palermo, Taranto, Ancona, ecc. — dettaglio per Tirreno Meridionale: **DATO MANCANTE**).
-- CROSS / MRCC competente per Tirreno Meridionale: **DATO MANCANTE** — verificare su marina.difesa.it
+- **Guardia Costiera — 1530 / VHF 16** coordina SAR in mare (MRCC regionali: Genova, Livorno, Roma, Napoli, Palermo, Taranto, Ancona, ecc. — dettaglio per Tirreno Meridionale: **DATA MISSING**).
+- CROSS / MRCC competente per Tirreno Meridionale: **DATA MISSING** — verificare su marina.difesa.it
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

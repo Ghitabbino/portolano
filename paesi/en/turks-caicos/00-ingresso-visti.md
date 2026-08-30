@@ -1,4 +1,4 @@
-# 00 — Ingresso, documenti e visti
+# 00 — Entry, documents & visas
 
 **Ultima verifica: 28/08/2026**
 
@@ -8,10 +8,10 @@ Le Turks e Caicos sono un **Territorio britannico d'oltremare (BOT)**: regole di
 
 ## Cittadini UE — nessun visto per soggiorni brevi
 
-| Voce | Regola | Fonte |
+| Item | Regola | Fonte |
 |---|---|---|
-| Visto | **Non richiesto** per cittadini UE/SEE (Italia inclusa) per turismo | gov.tc Immigration — lista paesi esenti visto (Italia inclusa) ★★★★★; visittci.com entry-requirements ★★★★ |
-| Documenti | **Passaporto valido** per tutta la durata del soggiorno; consigliati **≥6 mesi** di validità e biglietto di ritorno/prosecuzione | gov.uk FCDO Turks & Caicos entry-requirements (agg. 13/03/2026) ★★★★★; travel.gc.ca Turks & Caicos entry (19/08/2026) ★★★★ |
+| Visa | **Not required** per cittadini UE/SEE (Italia inclusa) per turismo | gov.tc Immigration — lista paesi esenti visto (Italia inclusa) ★★★★★; visittci.com entry-requirements ★★★★ |
+| Documents | **Valid passport** per tutta la durata del soggiorno; consigliati **≥6 mesi** di validità e biglietto di ritorno/prosecuzione | gov.uk FCDO Turks & Caicos entry-requirements (agg. 13/03/2026) ★★★★★; travel.gc.ca Turks & Caicos entry (19/08/2026) ★★★★ |
 | Validità passaporto | UK: "valid for the duration of stay" — Canada/USA raccomandano 6 mesi oltre l'uscita | gov.uk ★★★★★; travel.state.gov ★★★★★ |
 | Visto per altre nazionalità | Se il paese NON è in lista esente, serve visto TCI **salvo** possesso di visto/residenza valida per **USA/UK/Canada** (ingresso senza visto TCI) | gov.tc/immigration ★★★★★; borderforce.gov.tc ★★★★★ |
 
@@ -29,14 +29,14 @@ Le Turks e Caicos sono un **Territorio britannico d'oltremare (BOT)**: regole di
 | Situazione | Regola | Fonte |
 |---|---|---|
 | Timbro iniziale | Normalmente **30 giorni**, estendibile fino a **90 giorni** | visittci.com entry-requirements ★★★★; gov.uk ★★★★★ (stay up to 90 days) |
-| Estensione | Richiesta a **Immigration / Border Force** **prima della scadenza**, con pagamento tassa di estensione; aggiornare anche la notifica outbound in SailClear | borderforce.gov.tc ★★★★★; travel.gc.ca (estensione pagando fee) ★★★★ |
+| Extension | Richiesta a **Immigration / Border Force** **prima della scadenza**, con pagamento tassa di estensione; aggiornare anche la notifica outbound in SailClear | borderforce.gov.tc ★★★★★; travel.gc.ca (estensione pagando fee) ★★★★ |
 | Oltre 90 giorni | Serve titolo/permesso adeguato (residence/work permit) e rinnovo del **Cruising Permit** della barca (vedi sotto) | borderforce.gov.tc ★★★★★ |
 
 In pratica: turismo UE senza visto fino a 90 giorni (30 + estensione); oltre serve pratica Immigration.
 
 ## La barca: Cruising Permit incluso in clearance
 
-| Voce | Regola | Fonte |
+| Item | Regola | Fonte |
 |---|---|---|
 | **Cruising Permit** | Rilasciato al primo POE come parte della clearance, valido **90 giorni** | borderforce.gov.tc vessel-clearance (agg. 25/03/2024) ★★★★★ |
 | Rinnovo >90 giorni | **US$300** al rinnovo presso Proper Officer del POE | borderforce.gov.tc ★★★★★ |
@@ -48,9 +48,9 @@ In pratica: turismo UE senza visto fino a 90 giorni (30 + estensione); oltre ser
 
 ## Vaccini
 
-| Voce | Regola | Fonte |
+| Item | Regola | Fonte |
 |---|---|---|
-| Obbligatori | **Nessun vaccino obbligatorio** da paesi UE; febbre gialla richiesta solo se si proviene/transita da paese a rischio | travel.state.gov TCI International Travel Information ★★★★★; gov.uk FCDO health ★★★★★ |
+| Obbligatori | **No mandatory vaccinations** da paesi UE; febbre gialla richiesta solo se si proviene/transita da paese a rischio | travel.state.gov TCI International Travel Information ★★★★★; gov.uk FCDO health ★★★★★ |
 | Raccomandati | Routine UK/USA + protezione zanzare (dengue presente in regione) | gov.uk ★★★★★ |
 
-Ultimo aggiornamento: 28/08/2026
+Last updated: 28/08/2026

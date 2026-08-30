@@ -1,18 +1,18 @@
 # Chez Raf
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| Zona | Deshaies |
-| Cucina | 🍽️ Raffinata caraibica |
-| Specialità | Pesce creativo |
-| Costo | 💰€€€ per persona senza bevande |
-| Location | 🍽️ elegante informale, cocktails |
+| Area | Deshaies |
+| Cuisine | 🍽️ Raffinata caraibica |
+| Speciality | Pesce creativo |
+| Cost | 💰€€€ for persona without bevande |
+| Setting | 🍽️ elegante informale, cocktails |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chez+Raf+Deshaies) |
-| Contatti | [Mappa](https://www.google.com/maps/search/?api=1&query=Chez+Raf+Deshaies) |
-| Valutazioni | Google 4,9/5 (~250) → ★★★★★ |
-| Orari | cena · prenotare ⚠️ |
+| Contacts | [Mappa](https://www.google.com/maps/search/?api=1&query=Chez+Raf+Deshaies) |
+| Ratings | Google 4,9/5 (~250) → ★★★★★ |
+| Hours | cena · prenotare ⚠️ |
 
 ## Menu
 
@@ -22,6 +22,6 @@
 
 ## Foto
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Foto non still disponibili — recuperare at the controllo mensile.*
 
-**Note**: Vista mare · tra i migliori del bourg · menu 35–55 €
+**Note**: Vista mare · between i migliori of the bourg · menu 35–55 €

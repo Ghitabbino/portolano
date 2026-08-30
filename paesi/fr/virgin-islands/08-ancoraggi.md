@@ -1,8 +1,8 @@
-# 08 — Ancoraggi
+# 08 — Guide des mouillages
 
 ## Ancoraggi in dettaglio
 
-| # | Ancoraggio | Riparo | Fondo | Prof. | Boe |
+| # | Mouillage | Riparo | Fondo | Prof. | Boe |
 |---|---|---|---|---|---|
 | 1 | [The Baths (Virgin Gorda)](ancoraggi/anc-the-baths.md) | ★★ | Roccia/blocchi | 4–8 m | Boe rosse NPT (~$30/g yacht <25 m) |
 | 2 | [North Sound (Virgin Gorda)](ancoraggi/anc-north-sound.md) | ★★★★★ | Sabbia/erba | 4–12 m | Boe varie + 4 marine |
@@ -15,16 +15,16 @@
 
 
 
-**Ultimo aggiornamento: 23/08/2026**
+**Dernière mise à jour: 23/08/2026**
 
 
-| Ancoraggio | Protezione | Note |
+| Mouillage | Protezione | Note |
 |---|---|---|
 | **The Baths (Virgin Gorda)** | Day-use | Grotte di granito; boe NPT $30/g yacht <25 m; affollato: arrivare presto ★★★★ |
 | **North Sound (Virgin Gorda)** | Ottima | Bitter End, Leverick Bay, Saba Rock, Oil Nut Bay: mooring e servizi ★★★★ |
-| **The Bight (Norman Is.)** | Ottima | Campo boe + **Willy T** bar galleggiante; Indians/Caves snorkel ★★★★ |
+| **The Bight (Norman Is.)** | Ottima | Champ boe + **Willy T** bar galleggiante; Indians/Caves snorkel ★★★★ |
 | White Bay (Jost Van Dyke) | Media | **Soggy Dollar Bar**, painkiller; day anchorage, max 40 m — [yachtharbours](https://www.yachtharbours.com/country/british-virgin-islands) ★★★★ |
-| Great Harbour (Jost Van Dyke) | Buona | Porto d'ingresso, **Foxy's** ★★★★ |
+| Great Harbour (Jost Van Dyke) | Buona | Port d'ingresso, **Foxy's** ★★★★ |
 | Cooper Island (Manchioneel Bay) | Buona | Beach club + mooring ★★★ |
 | Marina Cay / Trellis Bay | Buona | Reef protetta; Last Resort su Bellamy Cay ★★★ |
 | Cane Garden Bay (Tortola) | Buona | Spiaggia, distilleria Callwood ★★★ |
@@ -32,24 +32,24 @@
 
 ⚠️ BVI: navigazione facile ma boe obbligatorie nei parchi; catamarani ovunque ★★★
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026
 
-## Regole generali
+## Règles générales
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Tabella riassuntiva
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## Cartografia ufficiale
+## Tableau récapitulatif
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## Checklist àncora
+## Cartographie officielle
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
+
+
+## Check-list mouillage
+
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 

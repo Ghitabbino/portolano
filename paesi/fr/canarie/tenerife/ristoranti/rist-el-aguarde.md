@@ -1,17 +1,17 @@
 # El Aguarde
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Santa Cruz – Plaza de los Patos |
-| Cucina | 🥘 Canaria tradizionale |
-| Specialità | Huevos rotos · mariscada |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🌳 terrazza |
-| Contatti | +34 922 289 142 |
-| Valutazioni | ★★★★|
-| Orari | pranzo/cena |
+| Zone | Santa Cruz – Plaza de los Patos |
+| Cuisine | 🥘 Canaria tradizionale |
+| Spécialité | Huevos rotos · mariscada |
+| Coût | 💰€€ per persona senza bevande |
+| Emplacement | 🌳 terrazza |
+| Contacts | +34 922 289 142 |
+| Évaluations | ★★★★|
+| Horaires | pranzo/cena |
 
 ## Menu
 
@@ -22,4 +22,4 @@
 
 **Note**: Vini locali ben scelti
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026

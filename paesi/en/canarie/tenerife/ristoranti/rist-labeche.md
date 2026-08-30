@@ -1,17 +1,17 @@
 # Labeche
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| Zona | Santa Cruz – Iglesia de la Concepción |
-| Cucina | 🍽️ Bistrot canario |
-| Specialità | Tortilla · croquetas · ensaladilla |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🌿 terrazza |
-| Contatti | +34 922 270 596 |
-| Valutazioni | ★★★★½|
-| Orari | pranzo/cena, riposo settimanale ⚠️ |
+| Area | Santa Cruz – Iglesia de la Concepción |
+| Cuisine | 🍽️ Bistrot canario |
+| Speciality | Tortilla · croquetas · ensaladilla |
+| Cost | 💰€€ for persona without bevande |
+| Setting | 🌿 terrazza |
+| Contacts | +34 922 270 596 |
+| Ratings | ★★★★½|
+| Hours | pranzo/cena, riposo settimanale ⚠️ |
 
 ## Menu
 
@@ -22,4 +22,4 @@
 
 **Note**: Bistronomico affidabile
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

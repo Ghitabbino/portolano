@@ -27,7 +27,7 @@
 - [ ] st-eustatius
 - [ ] montserrat
 
-### Parziali → colmare DATO MANCANTE (C5)
+### Parziali → colmare DONNÉE MANQUANTE (C5)
 - [ ] santa-lucia
 - [ ] grenada
 - [ ] dominica
@@ -36,7 +36,7 @@
 - [ ] aruba (01 clearance stub)
 - [ ] bonaire (01 stub)
 - [ ] curacao (01 stub)
-- [ ] trinidad-tobago (00 fatto 25/08 · resto da verificare)
+- [ ] trinidad-tobago (00 fatto 25/08 · resto à vérifier)
 - [ ] grenadine — 7 zone: bequia · mustique · canouan · mayreau · st-vincent · tobago-cays · union-island
 
 ### Nuove voci previste (C1)
@@ -51,8 +51,8 @@
 
 - [ ] azzorre — creare le pagine mancanti (00+10 creati 25/08) + collegare 9 schede ristoranti
 - [ ] madeira — creare le pagine mancanti (presenti 00, 01, 02)
-- [ ] cabo-verde — spazzata DATO MANCANTE sulle 9 isole
-- [ ] canarie — spazzata DATO MANCANTE sulle 7 isole
+- [ ] cabo-verde — spazzata DONNÉE MANQUANTE sulle 9 isole
+- [ ] canarie — spazzata DONNÉE MANQUANTE sulle 7 isole
 - [x] trinidad-tobago 00 ingresso — compilato 25/08/2026
 
 ### 🆕 Nuove isole atlantiche
@@ -69,11 +69,11 @@ Paesi e isole tropicali affacciati sul mare, oltre a quelli già sopra:
 |---|---|
 | Sud America tropicale | Guyana · Suriname · Guyana Francese · Brasile (costa N-NE) |
 | Africa occidentale atlantica | Senegal · Gambia · Guinea-Bissau · Guinea · Sierra Leone · Liberia · Costa d'Avorio · Ghana · Togo · Benin · Nigeria · Cameroon · Guinea Equatoriale · São Tomé e Príncipe · Gabon |
-| Mar Rosso / Corno d'Africa | Egitto (Mar Rosso) · Sudan · Eritrea · Gibuti |
+| Mer Rouge / Corno d'Africa | Egitto (Mer Rouge) · Sudan · Eritrea · Gibuti |
 | Africa orientale / Indiano occ. | Kenya · Tanzania-Zanzibar · Mozambico · Madagascar · Comore · Mayotte · Seychelles · Mauritius · Réunion |
 | Indiano settentrionale | Maldive · Sri Lanka |
 | Sud-est asiatico | Thailandia · Malesia · Singapore · Indonesia · Filippine · Vietnam · Cambogia · Brunei · Timor Est |
-| Oceania / Pacifico tropicale | PNG · Salomone · Vanuatu · Fiji · Nuova Caledonia · Samoa · Tonga · Polinesia Francese · Cook · Kiribati · Tuvalu · Micronesia/Palau/Marshall · Guam-Mariane |
+| Oceania / Pacifique tropicale | PNG · Salomone · Vanuatu · Fiji · Nuova Caledonia · Samoa · Tonga · Polinesia Francese · Cook · Kiribati · Tuvalu · Micronesia/Palau/Marshall · Guam-Mariane |
 
 ---
 
@@ -82,7 +82,7 @@ Paesi e isole tropicali affacciati sul mare, oltre a quelli già sopra:
 | Scenario | Unità | Testo/HTML | Tile mappe | TOTALE |
 |---|---|---|---|---|
 | Solo attuale (37+ paesi) | 40 | ~5 MB | ~150-185 MB | **~160-190 MB** |
-| Caraibi completi + Atlantico + nuove isole | ~45 | ~6 MB | ~180-210 MB | **~190-215 MB** |
+| Caraïbes completi + Atlantique + nuove isole | ~45 | ~6 MB | ~180-210 MB | **~190-215 MB** |
 | **Fascia tropicale COMPLETA** | **~100-115** | **~8-10 MB** | **~550-900 MB** | **≈ 0,6-0,95 GB** |
 
 ⚠️ Con l'espansione totale si sfiora il limite soft di GitHub Pages (1 GB):

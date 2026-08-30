@@ -1,6 +1,6 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
-**Ultima verifica: 28/08/2026** — *Scheda in completamento*
+**Last checked: 28/08/2026** — *Scheda in completamento*
 
 | Porto / Marina | Coordinate | VHF | Note |
 |---|---|---|---|
@@ -9,16 +9,16 @@
 | **San Andrés** | 12°35′N 81°42′W | 16 | Arcipelago |
 | **Buenaventura** | 03°53′N 77°04′W | 16 | Pacifico |
 
-> Dettagli tariffe e servizi in raccolta — da verificare con DIMAR/Capitanía.
+> Details tariffe and servizi in raccolta — from check with DIMAR/Capitanía.
 
-Ultimo aggiornamento: 28/08/2026
+Last updated: 28/08/2026
 
-## Tariffe
+## Tariffs
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## Distanze utili
+## Useful Distances
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 

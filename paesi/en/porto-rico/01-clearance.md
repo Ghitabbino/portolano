@@ -1,12 +1,12 @@
-# 01 — Clearance doganale della barca
+# 01 — Yacht Customs Clearance
 
-**Ultima verifica: 24/08/2026** · Base giuridica: **19 USC §1433** — obbligo di *report of arrival* immediato per qualsiasi natante in arrivo dall'estero. ★★★★★
+**Last checked: 24/08/2026** · Base giuridica: **19 USC §1433** — obbligo di *report of arrival* immediato per qualsiasi natante in arrivo dall'estero. ★★★★★
 
 ## Chi deve fare clearance
 
 Tutti i natanti da diporto in arrivo a Porto Rico da acque/porti esteri, e in partenza verso l'estero. Anche gli spostamenti **Porto Rico ↔ Isole Vergini Americane (USVI)** richiedono nuova clearance in entrambi i sensi, **salvo** natanti **battente bandiera USA con equipaggio cittadino USA**. ★★★★★
 
-## Procedura — CBP ROAM
+## Procedure — CBP ROAM
 
 1. Creare un account **login.gov** e scaricare **CBP ROAM (Reporting Offsite Arrival – Mobile)** su smartphone/tablet.
 2. Al primo utilizzo inserire dati barca, documenti equipaggio e decal DTOPS.
@@ -29,9 +29,9 @@ Tutti i natanti da diporto in arrivo a Porto Rico da acque/porti esteri, e in pa
 
 Fonte: `cbp.gov/travel/pleasure-boats/pleasure-boat-locations/pr-us-vi` ★★★★★
 
-## Costi e sanzioni
+## Fees e sanzioni
 
-| Voce | Costo |
+| Item | Costo |
 |---|---|
 | Ispezione CBP in orario d'ufficio | **Gratuita** |
 | Fuori orario / overtime | Possibile addebito — confermare con il porto |
@@ -44,19 +44,18 @@ Fonte: `cbp.gov/travel/pleasure-boats/pleasure-boat-locations/pr-us-vi` ★★�
 
 Prima di lasciare Porto Rico verso porto estero richiedere alla CBP il ***Permit to Proceed* / chiusura Form 1300**; la pratica si gestisce via ROAM o di persona al porto di uscita. Conservare la ricevuta: viene richiesta al successivo porto estero.
 
-## Contatti utili
+## Useful Contacts
 
 - **CBP ROAM Help / San Juan**: 1-877-529-6840
 - **USCG Sector San Juan** (emergenze SAR): **787-729-6770** · **VHF 16** ★★★★★
 
-Ultimo aggiornamento: 24/08/2026
+Last updated: 24/08/2026
 
-## Chi deve farla
+## Who Must Clear
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
 
-## Da verificare
+## To be verified
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
+**DATA MISSING** — da completare al controllo mensile.

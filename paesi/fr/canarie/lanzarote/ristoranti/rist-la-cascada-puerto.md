@@ -1,17 +1,17 @@
 # La Cascada Puerto
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Puerto del Carmen – varadero |
-| Cucina | 🐟 Caldereta e gambas |
-| Specialità | Caldereta de pescado |
-| Costo | 💰€€ per persona senza bevande |
-| Location | ⚓ rustico sul porto |
-| Contatti | [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Cascada+Puerto+del+Carmen) |
-| Valutazioni |TA ★★★★|
-| Orari | pranzo/cena |
+| Zone | Puerto del Carmen – varadero |
+| Cuisine | 🐟 Caldereta e gambas |
+| Spécialité | Caldereta de pescado |
+| Coût | 💰€€ per persona senza bevande |
+| Emplacement | ⚓ rustico sul porto |
+| Contacts | [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Cascada+Puerto+del+Carmen) |
+| Évaluations |TA ★★★★|
+| Horaires | pranzo/cena |
 
 ## Menu
 
@@ -22,4 +22,4 @@
 
 **Note**: Animato, centro puerto
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026

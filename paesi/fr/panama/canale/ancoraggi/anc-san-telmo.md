@@ -1,19 +1,19 @@
 # San Telmo / Isla del Rey {#anc-san-telmo}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← Tous les mouillages](../08-ancoraggi.md)
 **8°17.4′N 78°56.4′W** ★★
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| **Profondità** |4–8 m su sabbia nell'anse di San Telmo ★★|
-| **Tenuta àncora** | Buona |
-| **Venti/riparo** | Buono da NE; anse multiple tra mangrovie |
-| **Pericoli** | Fondali irregolari verso le mangrovie; zanzare al tramonto |
-| **Affollamento** | Basso |
+| **Profondeur** |4–8 m su sabbia nell'anse di San Telmo ★★|
+| **Tenue de l’ancre** | Buona |
+| **Vents/abri** | Buono da NE; anse multiple tra mangrovie |
+| **Dangers** | Fondali irregolari verso le mangrovie; zanzare al tramonto |
+| **Affluence** | Basso |
 | **Divieti** | Rispettare villaggi Guna presenti sulle Perlas orientali |
-| **A terra** | Villaggio pescatori; natura intatta |
+| **À terre** | Villaggio pescatori; natura intatta |
 
 <div class="mapframe" data-slug="anc-san-telmo" data-lat="8.295" data-lon="-78.943"></div>
-*Vista mappa San Telmo · mappa offline*
+*Vista mappa San Telmo · carte hors ligne*
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026

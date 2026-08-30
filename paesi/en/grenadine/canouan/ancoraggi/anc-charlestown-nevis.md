@@ -1,9 +1,9 @@
 # Charlestown — ancoraggio {#anc-charlestown-nevis}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← All Anchorages](../08-ancoraggi.md)
 **12°42.7′N 61°20.2′W**
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | **Riparo** | ★★★★ NE |
 | **Fondo** | Sabbia |
@@ -16,4 +16,4 @@
 <div class="mapframe" data-slug="anc-charlestown-nevis" data-lat="12.711" data-lon="-61.336"></div>
 *Mappa offline Charlestown — zoom con i pulsanti +/−; menu in alto a destra per Carta nautica e Segnali*
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

@@ -1,4 +1,4 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
 Isola tranquilla e "soft": due approdi principali, entrambi piccoli.
 
@@ -7,26 +7,26 @@ Isola tranquilla e "soft": due approdi principali, entrambi piccoli.
 | Approdo | Lato | Carattere |
 |---|---|---|
 | **San Sebastián de la Gomera** | Est (sopravento) | Capoluogo; porto di ingresso; **marina piccola**, comoda base per il salto da/verso Tenerife |
-| **Vueltas / La Puntilla (Valle Gran Rey)** | Ovest (sottovento) | Pontile piccolo nel paese balneare; esposto allo swell |
+| **Vueltas / La Puntilla (Valle Gran Rey)** | Ovest (sottovento) | Ponton piccolo nel paese balneare; esposto allo swell |
 
 ## San Sebastián de la Gomera
 
 | **Marina La Gomera** | 335 posti (100 transito) · fino 20 m · fuel station · varadero · minimarket · marineria 24h |
 |---|---|
-| Contatti |**+34 922 141 769** · VHF 9-16 · info@marinalagomera.es · ufficio lun–ven 8:30–14:30, sab-dom/festivi 9–13 · benzinaio est. 8–20 / inv. 8–18 ★★★★★|
+| Contacts |**+34 922 141 769** · VHF 9-16 · info@marinalagomera.es · ufficio lun–ven 8:30–14:30, sab-dom/festivi 9–13 · benzinaio est. 8–20 / inv. 8–18 ★★★★★|
 
-| Voce | Nota |
+| Rubrique | Nota |
 |---|---|
 | Marina | Piccola; tariffe → (da confermare); in alta stagione prenotare |
-| Servizi | Acqua/elettricità a pontile; dettagli → (da confermare) |
+| Servizi | Eau/elettricità a pontile; dettagli → (da confermare) |
 | Esposizione | Lato est: alisei NE trasversali nei giorni di vento teso |
-| Clearance | Porto di ingresso dell'isola |
+| Clearance | Port di ingresso dell'isola |
 
 ## Vueltas / La Puntilla (Valle Gran Rey)
 
-| Voce | Nota |
+| Rubrique | Nota |
 |---|---|
-| Pontile | Piccolo, lato ovest; **rolla con swell** — sosta comoda solo con mare piatto |
+| Ponton | Piccolo, lato ovest; **rolla con swell** — sosta comoda solo con mare piatto |
 | Ambiente | Valle Gran Rey: base turistica soft, spiagge, servizi a piedi |
 | Accesso | Sottovento con alisei, ma aperto allo swell da N/O invernale |
 
@@ -35,7 +35,7 @@ Isola tranquilla e "soft": due approdi principali, entrambi piccoli.
 - Pochi fondali adatti vicino ai due approdi; ancoraggio diurno nelle callette solo con meteo stabile → dettagli puntuali (da confermare).
 - Attenzione alle zone di transito dei ferries davanti a San Sebastián (linea con Los Cristianos).
 
-## Distanze utili
+## Distances utiles
 
 | Da → A | NM |
 |---|---|
@@ -51,7 +51,7 @@ Mappa offline:
 ```{data-map='{"slug":"canarie-la-gomera","lat":28.10,"lon":-17.22,"zoom":10,"markers":[["San Sebastian de la Gomera",28.091,-17.109],["Vueltas - Valle Gran Rey",28.101,-17.333]]}'}
 ```
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026
 
-## Tariffe
-Ultimo aggiornamento: 23/08/2026
+## Tarifs
+Dernière mise à jour: 23/08/2026

@@ -1,6 +1,6 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
-**Ultima verifica: 28/08/2026** · Coordinate in gradi decimali / N-W come da fonte · VHF 16 per chiamate in entrata
+**Dernière vérification: 28/08/2026** · Coordinate in gradi decimali / N-W come da fonte · VHF 16 per chiamate in entrata
 
 ## Providenciales — hub principale (sud e nord)
 
@@ -39,45 +39,45 @@
 
 ### Cockburn Harbour (South Caicos)
 - **21°29′19″N 71°32′16″W** · POE South Caicos (Government Dock) · VHF 16 ★★★
-- Porto storico ben riparato su sabbia morbida (~2,5 m), riferimento **Seaview Marina / Government Dock**; ferry dock con bassi fondali (incagli documentati). Dogana/immigrazione a piedi dal molo. [Navily 14537 ★★★; visittci.com ★★★]
+- Port storico ben riparato su sabbia morbida (~2,5 m), riferimento **Seaview Marina / Government Dock**; ferry dock con bassi fondali (incagli documentati). Dogana/immigrazione a piedi dal molo. [Navily 14537 ★★★; visittci.com ★★★]
 
 ## Altre isole e cay
 
 - **West Caicos (Yankee Town, costa E)**: ancoraggio in sabbia lungo costa est riparata dagli alisei (Marine National Park NP11); costa W a picco su wall. Nessun servizio. [visittci.com/west-caicos ★★★]
 - **Salt Cay, French Cay, Big Sand Cay, Gibbs Cay**: cay disabitati/parco — solo day-anchorage meteo stabile, zero servizi, regolamenti parco severi → [08 Ancoraggi](08-ancoraggi.md).
 
-## Tariffe ormeggi e marine
+## Tarifs d’amarrage & marinas
 
-> Stesse voci per tutti i paesi; **DATO MANCANTE** = da ricercare al controllo mensile.
+> Stesse voci per tutti i paesi; **DONNÉE MANQUANTE** = da ricercare al controllo mensile.
 
 ### Providenciales — listino indicativo (verificare in marina, IVA/tasse incluse dove indicato) ★★
 
-| Voce | Costo indicativo | Note |
+| Rubrique | Coût indicativo | Note |
 |---|---|---|
-| Posto banchina — notte (monoscafo ~12 m / 40 ft) | **DATO MANCANTE** — stimato 2,5–4,5 USD/ft ≈ **100–180 USD** | Blue Haven/South Bank: tariffe resort, variano per stagione/eventi |
+| Posto banchina — notte (monoscafo ~12 m / 40 ft) | **DONNÉE MANQUANTE** — stimato 2,5–4,5 USD/ft ≈ **100–180 USD** | Blue Haven/South Bank: tariffe resort, variano per stagione/eventi |
 | Catamarano ~12 m — notte | **+30–50%** vs monoscafo | Supplemento multiscafo usuale ★★ |
-| Mese banchina (~12 m) | DATO MANCANTE | Contratto stagionale — chiedere preventivo scritto |
-| Elettricità | DATO MANCANTE USD/kWh | Inclusa o a consumo secondo marina |
-| Acqua | DATO MANCANTE USD/m³ | Consegna a banchina; chiedere potabilità |
-| Ancoraggio fuori parco | **Gratuito** ove consentito (solo sabbia) | Nei parchi: solo sabbia, mai su corallo/erba ★★★★★ |
-| Boa parco / mooring DECR | DATO MANCANTE | White-blue moorings — licenza DECR per uso commerciale; limite 50 ft su Grand Turk ★★★ |
+| Mese banchina (~12 m) | DONNÉE MANQUANTE | Contratto stagionale — chiedere preventivo scritto |
+| Électricité | DONNÉE MANQUANTE USD/kWh | Inclusa o a consumo secondo marina |
+| Eau | DONNÉE MANQUANTE USD/m³ | Consegna a banchina; chiedere potabilità |
+| Mouillage fuori parco | **Gratuito** ove consentito (solo sabbia) | Nei parchi: solo sabbia, mai su corallo/erba ★★★★★ |
+| Bouée parco / mooring DECR | DONNÉE MANQUANTE | White-blue moorings — licenza DECR per uso commerciale; limite 50 ft su Grand Turk ★★★ |
 
 - **Overtime clearance** già in [01]: US$10/h feriale · US$15/h festivo. [bluehavenmarina.com ★★★]
 - Fuel dock: South Bank, Blue Haven, Turtle Cove (verificare pescaggio e orari). Prezzi variabili → [02 Costi](02-costi.md).
 - Le tariffe TCI **non sono pubblicate online** in modo sistematico: **verificare sempre via email/VHF** prima dell'arrivo.
 
-### Altre strutture
+### Autres infrastructures
 
-| Struttura | Costo/note | Fonte |
+| Infrastructure | Coût/notes | Source |
 |---|---|---|
 | Boe DECR / mooring dive | Uso con licenza DECR per charter/dive; per diporto: ormeggiare solo su boa idonea alla lunghezza, **mai entro 300 ft (90 m) da una boa**, max 60 ft (18 m) fuori anchoring zone | gov.tc DECR Essential Info ★★★★ |
 | South Dock Provo | Tassa clearance US$50+50 + overtime; nessun ormeggio yacht al molo commerciale | borderforce.gov.tc ★★★★★ |
 
-⚠️ **Da verificare prima della crociera**: listino Blue Haven/South Bank/Turtle Cove stagione successiva (PDF/email), profondità effettiva canale Leeward Going Through (insabbiamento), disponibilità fuel e orari festivi.
+⚠️ **À vérifier avant la croisière**: listino Blue Haven/South Bank/Turtle Cove stagione successiva (PDF/email), profondità effettiva canale Leeward Going Through (insabbiamento), disponibilità fuel e orari festivi.
 
-## Distanze utili
+## Distances utiles
 
-| Tratta | Distanza |
+| Trajet | Distance |
 |---|---|
 | Providenciales (Blue Haven) – South Caicos (Cockburn Hbr) | ~32 M SE |
 | Providenciales – Grand Turk | ~55 M E |
@@ -87,4 +87,4 @@
 
 ★½ — distanze ortodromiche da carte BA/NOAA, verificare col plotter.
 
-Ultimo aggiornamento: 28/08/2026
+Dernière mise à jour: 28/08/2026

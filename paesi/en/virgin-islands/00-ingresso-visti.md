@@ -1,4 +1,4 @@
-# 00 — Ingresso, documenti e visti
+# 00 — Entry, documents & visas
 
 **Ultima verifica: 25/08/2026**
 
@@ -21,13 +21,13 @@ Senza visto; il timbro d'ingresso è di norma di **1 mese**, estendibile. Passap
 
 ## E dopo il mese?
 
-Il timbro è estendibile presso l'immigrazione locale; dettagli su durata e costi della proroga: **DATO MANCANTE**.
+Il timbro è estendibile presso l'immigrazione locale; dettagli su durata e costi della proroga: **DATA MISSING**.
 
 ## La barca
 
 Indicativi per unità privata biposto (Noonsite 2026 ★★★):
 
-| Voce | Costo |
+| Item | Costo |
 |---|---|
 | Ingresso+uscita | ~US$100 totali |
 | Cruising permit (bandiera estera) | US$2,00/piede/giorno nel picco dic–apr; US$0,75 bassa stagione |
@@ -40,6 +40,6 @@ Preferire i contanti in USD.
 
 ## Vaccini
 
-Febbre gialla solo da paesi a rischio (regola standard britannica). Fonte sanitaria BVI diretta: **DATO MANCANTE**.
+Febbre gialla solo da paesi a rischio (regola standard britannica). Fonte sanitaria BVI diretta: **DATA MISSING**.
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

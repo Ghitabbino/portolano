@@ -1,6 +1,6 @@
-# 01 — Clearance doganale della barca
+# 01 — Yacht Customs Clearance
 
-**Ultima verifica: 22/08/2026** · Fonte principale: Cape Verdes ★★★
+**Last checked: 22/08/2026** · Fonte principale: Cape Verdes ★★★
 
 ## Punto chiave
 
@@ -9,11 +9,11 @@
 - Arrivo diretto dall'estero a Maio = violazione delle formalità d'ingresso. Prima sosta obbligatoria a **Praia** (il più comodo per il Sotavento).
 - Da isola a isola: presentarsi alla delegazione locale della Capitania do Porto / Polícia Marítima a Porto Inglês per segnalare il movimento interno; la prassi è informale ma va rispettata.
 
-## Contatti
+## Contacts
 
 | Ufficio | Telefono |
 |---|---|
-| Delegazione marittima Porto Inglês | Polícia Marítima sul molo all'arrivo ⚠️ — |tima sul molo o via VHF 16 |
+| Delegazione marittima Porto Inglês | Polícia Marítima sul molo all'arrivo ⚠️ — |tima sul molo or via VHF 16 |
 
 ## In pratica
 
@@ -22,9 +22,9 @@
 3. Al molo di Porto Inglês salutare Polícia Marítima/Capitania e mostrare la clearance.
 4. All'uscita da Capo Verde: formalità finali solo nei porti di ingresso ufficiali — pianificare il check-out a Praia, non da Maio.
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026
 
-## Chi deve farla
-## Costi
-## Da verificare
-Ultimo aggiornamento: 22/08/2026
+## Who Must Clear
+## Fees
+## To be verified
+Last updated: 22/08/2026

@@ -1,6 +1,6 @@
-# 03 — Porti e marine
+# 03 — Ports & marinas
 
-**Ultimo aggiornamento: 23/08/2026**
+**Last updated: 23/08/2026**
 
 
 | Struttura | Contatti |
@@ -9,14 +9,14 @@
 | Fuel dock pubblico | 0590 27 99 52 ★★★ |
 | Marina Gustavia | Poche poste, priorità superyacht (recensioni Navily) ⚠️ ★★ |
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026
 
 ## Tariffe
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
 ## Distanze utili
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 

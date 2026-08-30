@@ -1,27 +1,27 @@
-# 04 — Servizi, cantieri e manutenzione
+# 04 — Services, Boatyards & Maintenance
 
-**Ultima verifica: 24/08/2026** · boa-vista: servizi essenziali, per lavori importanti andare a Mindelo.
+**Last checked: 24/08/2026** · boa-vista: servizi essenziali, per lavori importanti andare a Mindelo.
 
-## Hub tecnico
+## Technical Hub
 
-Nessun travelift/cantiere turistico a boa-vista; alaggio solo per pescherecci locali. **DATO MANCANTE** per gru vela verificata.
+Nessun travelift/cantiere turistico a boa-vista; alaggio solo per pescherecci locali. **DATA MISSING** per gru vela verificata.
 
 ## Servizi disponibili
 
-| Servizio | Dove | Note |
+| Service | Where | Notes |
 |---|---|---|
 | Carburante | Porto principale distributore | Prezzo regolato 95–115 CVE/l |
 | Acqua | Banchina porto | Razionata, chiedere capitania |
 | Gas LPG | Negozi capoluogo | Scambio bombole, disponibilità variabile |
-| Elettricità | **DATO MANCANTE** | Banchina pescherecci se disponibile |
-| Meccanica | Artigiani locali su richiesta | **DATO MANCANTE** — chiedere in capitania/porto |
+| Elettricità | **DATA MISSING** | Banchina pescherecci se disponibile |
+| Meccanica | Artigiani locali su richiesta | **DATA MISSING** — chiedere in capitania/porto |
 
 ## Artigiani
 
-**DATO MANCANTE** — nessun contatto verificato stabile fuori Mindelo; passaparola locale via marina/porto.
+**DATA MISSING** — nessun contatto verificato stabile fuori Mindelo; passaparola locale via marina/porto.
 
-## Note strategiche
+## Strategic Notes
 
-Portare ricambi critici da Mindelo/Praia o dalle Canarie; tempi di approvvigionamento lunghi.
+Portare ricambi critici da Mindelo/Praia or dalle Canarie; tempi di approvvigionamento lunghi.
 
-Ultimo aggiornamento: 24/08/2026
+Last updated: 24/08/2026

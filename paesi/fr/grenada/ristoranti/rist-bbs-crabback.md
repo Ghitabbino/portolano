@@ -1,18 +1,18 @@
 # BB's Crabback
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Carenage, St George's (Grand Etang Road) |
-| Cucina | 🐟 Caraibica e pesce |
-| Specialità | Crab back · snapper · jerk chicken |
-| Costo | 💰€€ per persona senza bevande |
-| Location | ⚓ sul porto storico, informale |
+| Zone | Carenage, St George's (Grand Etang Road) |
+| Cuisine | 🐟 Caraïbesca e pesce |
+| Spécialité | Crab back · snapper · jerk chicken |
+| Coût | 💰€€ per persona senza bevande |
+| Emplacement | ⚓ sul porto storico, informale |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=BB%27s+Crabback+St+George%27s+Grenada) |
-| Contatti | +1 473 435 7058 · bbscrabback@hotmail.com |
-| Valutazioni | TA 4,3/5 (1.484 recensioni), #5 di ~193 a Grenada → ★★★★½ |
-| Orari | lun–sab 8:00–23:00 (dom chiuso — chiamare) |
+| Contacts | +1 473 435 7058 · bbscrabback@hotmail.com |
+| Évaluations | TA 4,3/5 (1.484 recensioni), #5 di ~193 a Grenada → ★★★★½ |
+| Horaires | lun–sab 8:00–23:00 (dom chiuso — chiamare) |
 
 ## Menu
 

@@ -1,43 +1,43 @@
-# 01 — Clearance doganale della barca
+# 01 — Yacht Customs Clearance
 
-Ultimo aggiornamento: 22/08/2026 · Contesto generale in [00 — Ingresso](../00-ingresso-visti.md)
+Last updated: 22/08/2026 · General context in [00 — Ingresso](../00-ingresso-visti.md)
 
-## Mindelo = porto d'ingresso principale
+## Mindelo = Main Port of Entry
 
-Mindelo (Porto Grande, São Vicente) è il **porto di entrata/uscita** più usato dai naviganti in Atlantico: giudicato il più semplice e "yacht-friendly" dell'arcipelago. ★★★
+Mindelo (Porto Grande, São Vicente) is the **port of entry/exit** most used by Atlantic cruisers: judged the simplest and most "yacht-friendly" in the archipelago. ★★★
 
-## Procedura
+## Procedure
 
 | Passo | Dettaglio |
 |---|---|
 | All'arrivo | Bandiera gialla Q sotto bandierina di cortesia; ancoraggio/ormeggio e poi sbarco |
 | Uffici | **Capitania do Porto / Polícia Marítima** nell'area del porto commerciale (~15 min a piedi dalla marina) + **Immigrazione**; la reception della marina indica gli uffici aggiornati |
-| Documenti | Registrazione nave, assicurazione, passaporti equipaggio, crew list (portarne ≥ 10 copie) |
-| Tempi | Mezza giornata è una pianificazione realistica; evitare venerdì pomeriggio/festivi (uffici chiusi) |
+| Documents | Registrazione nave, assicurazione, passaporti equipaggio, crew list (portarne ≥ 10 copie) |
+| Processing time | Mezza giornata è una pianificazione realistica; evitare venerdì pomeriggio/festivi (uffici chiusi) |
 | Costi | Formalità generalmente gratuite |
 | Nave | Possibile trattenuta del documento di registrazione per la durata del soggiorno |
 
 ★★★
 
-## Contatti
+## Contacts
 
 | Ufficio | Telefono |
 |---|---|
-| Capitania do Porto / Polícia Marítima de São Vicente | (da confermare in loco) — da verificare (nessun numero confermato su fonte affidabile) |
+| Capitania do Porto / Polícia Marítima de São Vicente | (da confermare in loco) — to be verified (nessun numero confermato su fonte affidabile) |
 | Marina Mindelo |**+238 230 00 32** · VHF 72 · reception@marinamindelo.cv ★★★★|
 
-## Partenza
+## Departure
 
-- Richiedere lo **zarpe** alla Capitania prima della partenza verso l'estero (Caraibi, Brasile, Europa, Africa occidentale): sarà richiesto al paese successivo. ★★★
-- Annullare/cancellare il documento di clearance se si resta oltre il piano o si sposta l'ancoraggio: i naviganti riportano controlli a campione. ★★
+- Request the **zarpe** from the Capitania before departing abroad (Caribbean, Brazil, Europe, West Africa): it will be required in the next country. ★★★
+- Annullare/cancellare il documento di clearance se si resta oltre il piano or si sposta l'ancoraggio: i naviganti riportano controlli a campione. ★★
 
-## Da verificare prima della partenza
+## To Verify Before Departure
 
-- Telefono Capitania aggiornato: (da confermare in loco)
-- Eventuali novità doganali post-2026: (da confermare in loco)
+- Updated Capitania phone: (to be confirmed locally)
+- Any customs updates post-2026: (to be confirmed locally)
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026
 
-## Chi deve farla
-## Costi
-Ultimo aggiornamento: 22/08/2026
+## Who Must Clear
+## Fees
+Last updated: 22/08/2026

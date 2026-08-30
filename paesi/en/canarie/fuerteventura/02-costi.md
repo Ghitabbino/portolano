@@ -1,44 +1,44 @@
-# 02 — Costo della vita
+# 02 — Cost of Living
 
-Ultimo aggiornamento: 22/08/2026 · Valuta: euro · IGIC ~7%.
+Last updated: 22/08/2026 · Currency: euro · IGIC ~7%.
 
-## Alimentari
+## Groceries
 
-| Voce | Prezzo indicativo | Note |
+| Item | Price indicativo | Note |
 |---|---|---|
 | Birra locale (0,33 l) | 0,60–1 € |Tropical ★★|
-| Acqua 1,5 l | 0,50–0,80 € | ★★ |
+| Water 1,5 l | 0,50–0,80 € | ★★ |
 | Latte 1 l | 0,90–1,20 € | ★★ |
 | Riso 1 kg | ~2,00 € |Prezzi Spagna ★★★ |
 
-Supermercati: catene spagnole a Corralejo, Puerto del Rosario, Morro Jable. Isola arida: molta spesa arriva dalla penisola → scelta inferiore a Tenerife/GC.
+Supermercati: catene spagnole a Corralejo, Puerto of the Rosario, Morro Jable. Isola arida: molta spesa arriva dalla penisola → scelta inferiore a Tenerife/GC.
 
-## Mangiare fuori
+## Eating Out
 
-| Voce | Prezzo |
+| Item | Price |
 |---|---|
-| Menú del giorno | 10–14 € |
+| Menú of the giorno | 10–14 € |
 | Caffè | 1,30–1,80 € |
 | Cena pesce | 20–35 € |
 
-## Carburanti e gas
+## Fuel and gas
 
-| Voce | Prezzo indicativo |
+| Item | Price indicativo |
 |---|---|
-| Gasolio stradale | Economico per IGIC |
-| Gasolio dock | Prezzo del giorno al molo, tipico ~1,20–1,40 €/l ⚠️ |
+| Gasolio stradale | Economico for IGIC |
+| Gasolio dock | Price of the giorno at the molo, tipico ~1,20–1,40 €/l ⚠️ |
 | Bombola spagnola | Scambio ~15–20 € |
 
-## Servizi
+## Services
 
-| Voce | Dettaglio |
+| Item | Detail |
 |---|---|
 | Lavanderia self-service | 3–5 €/carico nei centri turistici |
 | SIM prepagata | 10–20 € |
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026
 
-## Trasporti
-## Servizi quotidiani
-## Contanti e pagamenti
-Ultimo aggiornamento: 23/08/2026
+## Transport
+## Everyday Services
+## Cash & Payments
+Last updated: 23/08/2026

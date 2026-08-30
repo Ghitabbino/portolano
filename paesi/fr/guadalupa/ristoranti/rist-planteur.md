@@ -1,18 +1,18 @@
 # Le Planteur
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Gosier |
-| Cucina | 🥩 Poulet boucané |
-| Specialità | Poulet boucané · ouassous |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🌴 corte creola |
+| Zone | Gosier |
+| Cuisine | 🥩 Poulet boucané |
+| Spécialité | Poulet boucané · ouassous |
+| Coût | 💰€€ per persona senza bevande |
+| Emplacement | 🌴 corte creola |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Planteur+Gosier) |
-| Contatti | [Mappa](https://www.google.com/maps/search/?api=1&query=Le+Planteur+Gosier) |
-| Valutazioni | Google positive → ★★★★ |
-| Orari | pranzo · cena weekend ⚠️ |
+| Contacts | [Mappa](https://www.google.com/maps/search/?api=1&query=Le+Planteur+Gosier) |
+| Évaluations | Google positive → ★★★★ |
+| Horaires | pranzo · cena weekend ⚠️ |
 
 ## Menu
 
@@ -22,8 +22,8 @@
 
 **Chef**: ND
 
-## Foto
+## Photos
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Photos non ancora disponibili — recuperare al controllo mensile.*
 
 **Note**: Tappa comoda dall'Îlet du Gosier ⚠️ verificare approdo · da 20 €

@@ -18,4 +18,4 @@
 
 Fonti: [bluehavenmarina.com](https://bluehavenmarina.com) (coordinate ufficiali) ★★★★ · [igymarinas.com](https://www.igymarinas.com) (agg. 12/08/2026) ★★★ · visittci.com arriving-by-sea ★★★★ · gov.tc DECR (no-wake) ★★★★
 
-Ultimo aggiornamento: 28/08/2026
+Last updated: 28/08/2026

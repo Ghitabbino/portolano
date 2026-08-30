@@ -1,25 +1,25 @@
-# 07 — Provvisioning
+# 07 — Provisioning
 
-- **Limón (città): supermercati grandi (AutoMercado, Pali, Mega Super) ma città sconsigliata per cruisers (criminalità, distanza porto)** (costaricavibes.com ★★★; Tripadvisor forum ★★).
-- **Puerto Viejo: Old Harbour Supermarket (più grande, espanso 2023), Mega Super, Super Negro (nuova sede 2024), Super Cocles (nuovo edificio), El Duende Gourmet (gourmet/bike rental), Namú Ecotienda (bio/superfoods), Value Mart (alcolici late), Mercadito (frutta/verdura), Pali (Hone Creek)** (puertoviejosatellite.com ★★★).
+- **Limón (città): supermercati grandi (AutoMercado, Pali, Mega Super) ma città sconsigliata for cruisers (criminalità, distanza porto)** (costaricavibes.com ★★★; Tripadvisor forum ★★).
+- **Puerto Viejo: Old Harbour Supermarket (more large, espanso 2023), Mega Super, Super Negro (nuova sede 2024), Super Cocles (new edificio), El Duende Gourmet (gourmet/bike rental), Namú Ecotienda (bio/superfoods), Value Mart (alcolici late), Mercadito (frutta/verdura), Pali (Hone Creek)** (puertoviejosatellite.com ★★★).
 - **Cahuita: Super Negro (aperta 2024, moderna), Super Negro Cocles, Super Negro Hone Creek, piccola bottega centro** (puertoviejosatellite.com ★★★).
 - **Mercato contadino sabato a Puerto Viejo** (produttori locali, pesce fresco, frutta) (rentalspuertoviejo.com ★★★).
-- **Pesce fresco: Mariscos Mopri (Puerto Viejo, pesce giornaliero da Limón), pescatori locali spiaggia** (puertoviejosatellite.com ★★★).
-- **Acqua potabile: rubinetto generalmente sicura ma consigliata bottiglia/grandi taniche** (costaricavibes.com ★★★).
+- **Pesce fresco: Mariscos Mopri (Puerto Viejo, pesce giornaliero from Limón), pescatori locali spiaggia** (puertoviejosatellite.com ★★★).
+- **Water potabile: rubinetto generalmente sicura ma consigliata bottiglia/grandi taniche** (costaricavibes.com ★★★).
 
-**Ultimo aggiornamento: 24/08/2026**
+**Last updated: 24/08/2026**
 
 ## Supermercati
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## Acqua e carburante
+## Water and carburante
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
 ## Consigli pratici
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 

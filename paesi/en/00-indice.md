@@ -1,42 +1,41 @@
-# 00 — Aree
+# 00 — Areas
 
-> **📖 Wiki assolutamente libera — nessuna iscrizione richiesta.** Puoi navigare l’intero portolano, consultare tutte le schede, scaricare mappe e file **ZIP/GPX** e usare il sito offline **senza creare alcun account e senza alcun pagamento**.
+> **📖 Absolutely free wiki — no registration required.** Browse the entire pilot, consult all sheets, download maps and **ZIP/GPX** files and use the site offline **without creating any account and without any payment**.
 
-Scegli il mare da esplorare: dentro ogni area trovi i gruppi di isole, poi la singola isola con ingresso, clearance, costi, ancoraggi e ristoranti.
+Choose the sea to explore: inside each area you’ll find island groups, then the individual island with entry, clearance, costs, anchorages and restaurants.
 
-**Metodo**: ogni informazione porta rank di attendibilità + data + fonte (quando disponibile).
+**Method**: each item carries a reliability rank + date + source (when available).
 
-**L'intero sistema viene aggiornato con periodicità mensile.**
+**The entire system is updated monthly.**
 
-### Benvenuto a bordo — due modi per usare la wiki
+### Welcome aboard — two ways to use the wiki
 
-Questa wiki è nata da velisti per velisti, per condividere ciò che vorremmo trovare entrando in una rada nuova. **Puoi usarla liberamente, senza iscriverti, senza limiti e senza pubblicità**: sfoglia le schede, confronta i porti, scarica le mappe e i waypoint, stampa ciò che ti serve. È e resterà così.
+This wiki was created by sailors for sailors, to share what we’d like to find when entering a new roadstead. **You can use it freely, without signing up, without limits and without adverts**: browse the sheets, compare ports, download charts and waypoints, print what you need. It will stay that way.
 
-**L’iscrizione serve solo se lo desideri, per due motivi:**
+**Signing up is only if you wish, for two reasons:**
 
-1. **Ricevere gli alert che contano** — solo se li scegli: **criticità di sicurezza** (L3 🚨), **avvisi importanti** (L2 ⚠️) e **aggiornamenti meteo generali** per le aree che segui. Una mail solo quando serve, mai spam. Senza iscrizione non ricevi nulla, ma continui a navigare tutto il portolano.
+1. **Receive the alerts that matter** — only if you choose them: **safety critical (L3 🚨)**, **important warnings (L2 ⚠️)** and **general weather updates** for the areas you follow. One email only when needed, never spam. Without signing up you receive nothing, but you can still browse the entire pilot.
 
-2. **Contribuire al portolano** — se sei stato sul posto e vuoi aggiungere un prezzo verificato, una boa nuova o una dritta utile, con l’account puoi proporre l’aggiornamento a tuo nome (tracciato e moderato).
+2. **Contribute to the pilot** — if you’ve been on site and want to add a verified price, a new buoy or a useful tip, with an account you can propose the update in your name (tracked and moderated).
 
-In breve: **senza iscrizione leggi tutto; con l’iscrizione, se vuoi, resti aggiornato e aiuti gli altri.** La scelta è tua, in un click. Vedi **[Iscriviti](iscriviti.md)** o **[Accedi](accedi.md)** — oppure resta qui e inizia a esplorare.
+In short: **without signing up you read everything; with an account, if you wish, you stay updated and help others.** The choice is yours, in one click. See **[Sign Up](iscriviti.md)** or **[Log In](accedi.md)** — or stay here and start exploring.
 
-> 📥 **Download offline per paese**: ogni paese è scaricabile in **ZIP** (11 schede + waypoint **GPX WGS84** per OpenCPN/Navionics) — trovi il tasto **⬇️ ZIP** accanto al nome del paese nella barra laterale sinistra e dentro ogni pagina `08-ancoraggi`. Guida completa in **Offline & GPX**.
+> 📥 **Offline download per country**: each country is downloadable as a **ZIP** (11 sheets + **GPX WGS84** waypoints for OpenCPN/Navionics) — find the **⬇️ ZIP** button next to the country name in the left sidebar and inside each `08-anchorages` page. Full guide in **Offline & GPX**.
 
-> 🔐 **Iscriviti o entra senza iscriverti — scegli tu**: il portolano è **sempre consultabile gratis senza account**. Se vuoi, puoi **[Iscriviti per ricevere gli allert di sicurezza](iscriviti.md)** (L3/L2 per le tue aree, 1 mail solo quando serve) o **[Accedi](accedi.md)** per contribuire. Senza iscrizione va benissimo lo stesso.
+> 🔐 **Sign up or browse without signing up — your choice**: the pilot is **always freely consultable without an account**. If you wish, you can **[Sign up to receive safety alerts](iscriviti.md)** (L3/L2 for your areas, one email only when needed) or **[Log In](accedi.md)** to contribute. Browsing without signing up is perfectly fine.
 
-Ultimo aggiornamento: 28/08/2026
+Last updated: 28/08/2026
 
 ## Status
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at monthly check.
 
 
-## Cittadini UE
+## EU Citizens
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at monthly check.
 
 
-## La barca
+## The Yacht
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
+**DATA MISSING** — to be completed at monthly check.

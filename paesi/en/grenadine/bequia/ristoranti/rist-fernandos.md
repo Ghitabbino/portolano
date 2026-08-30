@@ -1,28 +1,28 @@
 # Fernando's Hideaway
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| Zona | Collina sopra Lower Bay |
-| Cucina | 🐟 Bequiana autentica |
-| Specialità | Pesce pescato dal cuoco · goat water (sab) |
-| Costo | 💰€€€ per persona senza bevande |
-| Location | 🏡 intimo, pochi coperti |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fernando's+Hideaway+Collina+sopra+Lower+Bay) |
-| Contatti | +1 784 458-3758 · WA +1 784 430-0478 |
-| Valutazioni | TA molto positive → ★★★★★ |
-| Orari | solo domenica 19–22 · chiuso 1 lug–1° sab nov |
+| Area | Hill above Lower Bay |
+| Cuisine | 🐟 Authentic Bequian |
+| Specialities | Fish cooked by the chef · goat water (Sat) |
+| Cost | 💰€€€ per person excluding drinks |
+| Location | 🏡 Intimate, few tables |
+| Map | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fernando's+Hideaway+Collina+sopra+Lower+Bay) |
+| Contacts | +1 784 458-3758 · WA +1 784 430-0478 |
+| Reviews | TA very positive → ★★★★★ |
+| Opening Hours | only Sunday 19–22 · closed 1 Jul–1st Sat Nov |
 
 ## Menu
 
-- Pesce del giorno
-- Goat water soup (sab)
+- Fish of the day
+- Goat water soup (Sat)
 
 **Chef**: Fernando ('Nando')
 
-## Foto
+## Photos
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Photos not yet available — retrieve at monthly check.*
 
-**Note**: Ex cuoco di nave; 'Nando' pesca personalmente · prenotare
+**Notes**: Former ship's chef; 'Nando' fishes personally · book in advance

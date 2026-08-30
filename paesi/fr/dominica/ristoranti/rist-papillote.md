@@ -1,18 +1,18 @@
 # Papillote Rainforest Restaurant
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Trafalgar (entroterra Roseau, vicino alle cascate) |
-| Cucina | 🐟 Creola di foresta / eco-cuisine |
-| Specialità | Callaloo soup · mountain chicken (frog legs) · freshly grilled fish · rums locali |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🌴 open-air tra giardino botanico e hot pools geotermiche |
+| Zone | Trafalgar (entroterra Roseau, vicino alle cascate) |
+| Cuisine | 🐟 Creola di foresta / eco-cuisine |
+| Spécialité | Callaloo soup · mountain chicken (frog legs) · freshly grilled fish · rums locali |
+| Coût | 💰€€ per persona senza bevande |
+| Emplacement | 🌴 open-air tra giardino botanico e hot pools geotermiche |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Papillote+Rainforest+Restaurant+Trafalgar+Dominica) |
-| Contatti | **DATO MANCANTE** — via [Facebook](https://www.facebook.com/p/Papillote-Rainforest-Restaurant-100067476266314/) |
-| Valutazioni | Destination Magazines ★★★ · Discover Dominica ★★★★ |
-| Orari | **DATO MANCANTE** — aperto pranzo/cena, verificare |
+| Contacts | **DONNÉE MANQUANTE** — via [Facebook](https://www.facebook.com/p/Papillote-Rainforest-Restaurant-100067476266314/) |
+| Évaluations | Destination Magazines ★★★ · Discover Dominica ★★★★ |
+| Horaires | **DONNÉE MANQUANTE** — aperto pranzo/cena, verificare |
 
 ## Menu
 
@@ -29,4 +29,4 @@ Eco-resort di famiglia immerso nella foresta pluviale vicino a Trafalgar Falls; 
 
 Fonti: [Destination Magazines](https://destination-magazines.com/10-best-restaurants-in-dominica/) ★★★ · [Discover Dominica](https://discoverdominica.com) ★★★
 
-Ultimo aggiornamento: 25/08/2026
+Dernière mise à jour: 25/08/2026

@@ -1,48 +1,48 @@
-# 00 — Ingresso, documenti e visti
+# 00 — Entrée, Documents & Visas
 
-**Ultima verifica: 27/08/2026** · Scheda **comune** a tutti i 6 mari italiani: tutte le zone condividono lo stesso regime d'ingresso. Le pagine specifiche per zona → vedi menu.
+**Dernière vérification: 27/08/2026** · Fiche **commune** aux 6 mers italiennes: tutte le zone condividono lo stesso regime d'ingresso. Pages spécifiques par zone → voir menu.
 
-## Status
+## Statut
 
-| Voce | Dato | Fonte |
+| Rubrique | Dato | Source |
 |---|---|---|
-| Stato | **Italia** — Repubblica parlamentare, membro UE | Istituto ufficiale — verificato 27/08/2026 ★★★★★ |
-| Valuta | **Euro (EUR)** | Banca Centrale Europea ★★★★★ |
-| Schengen | **Dentro l'area Schengen** | Commissione UE — Schengen ★★★★★ |
-| Fuso | CET/CEST (UTC+1 / UTC+2 estate) | IANA TZ ★★★★★ |
-| Lingua ufficiale | italiano | **DATO MANCANTE** per dettaglio marittimo |
+| État | **Italia** — Repubblica parlamentare, membro UE | Istituto ufficiale — verificato 27/08/2026 ★★★★★ |
+| Devise | **Euro (EUR)** | Banca Centrale Europea ★★★★★ |
+| Schengen | **Dans l’espace Schengen** | Commissione UE — Schengen ★★★★★ |
+| Fuseau horaire | CET/CEST (UTC+1 / UTC+2 estate) | IANA TZ ★★★★★ |
+| Langue officielle | italiano | **DONNÉE MANQUANTE** per dettaglio marittimo |
 
-## Cittadini UE — nessun visto
+## Citoyens UE — pas de visa
 
-| Voce | Regola | Fonte |
+| Rubrique | Règle | Source |
 |---|---|---|
-| Visto | **Non richiesto** per cittadini UE (libera circolazione) | Ministero Interno / UE ★★★★★ |
-| Documenti | Carta d'identità o passaporto validi | Polizia di Stato — verificato 27/08/2026 ★★★★★ |
-| Soggiorno | Nessun limite per cittadini UE | UE direttiva libera circolazione ★★★★★ |
+| Visa | **Non requis** per cittadini UE (libera circolazione) | Ministero Interno / UE ★★★★★ |
+| Documents | Carte d’identité o passaporto validi | Police di État — verificato 27/08/2026 ★★★★★ |
+| Séjour | Nessun limite per cittadini UE | UE direttiva libera circolazione ★★★★★ |
 
 > ⚠️ Le regole Schengen valgono normalmente: se si arriva da paesi extra-Schengen conta il tempo trascorso nell'area.
 
-## Nota importante per chi arriva via mare
+## Note importante pour l’arrivée par mer
 
 - Da porti **UE/Schengen**: nessuna formalità di frontiera persone; barca UE libera circolazione.
-- Da porti **extra-UE/Schengen** (es. Tunisia, Albania, Montenegro, Turchia): obbligo di ingresso in **Porto di Ingresso (Port of Entry)** con Ufficio di Polizia di Frontiera e Dogana — presentare equipaggio e documenti barca.
+- Da porti **extra-UE/Schengen** (es. Tunisia, Albania, Montenegro, Turchia): obbligo di ingresso in **Port d’entrée (Port of Entry)** con Ufficio di Police di Frontiera e Dogana — presentare equipaggio e documenti barca.
 - Tra i mari italiani (Ligure ↔ Tirreno ↔ Ionio ↔ Adriatico): **nessuna formalità** — territorio nazionale unico.
-- Dettagli procedura per diporto: **DATO MANCANTE** — da verificare su Capitaneria di Porto / Ministero Infrastrutture e Trasporti ★★★★★
+- Dettagli procedura per diporto: **DONNÉE MANQUANTE** — da vérifier sur Capitaneria di Port / Ministero Infrastrutture e Transports ★★★★★
 
-## La barca
+## Le bateau
 
-| Barca | Regola | Fonte |
+| Bateau | Règle | Source |
 |---|---|---|
 | **UE con IVA pagata** (caso tipico: barca italiana) | Libera circolazione, nessun limite di tempo, nessun cruising permit | Agenzia Dogane UE ★★★★★ |
 | Extra-UE | Ammissione Temporanea standard UE: max **18 mesi**, rinnovabile uscendo dal territorio doganale | Codice Doganale UE art. 250-253 ★★★★★ |
 
-## Vaccini
+## Vaccins
 
-Nessuno obbligatorio per ingresso da paesi UE. **DATO MANCANTE** per eventuali requisiti sanitari specifici locali — da verificare su Ministero Salute ★★★★★
+Nessuno obbligatorio per ingresso da paesi UE. **DONNÉE MANQUANTE** per eventuali requisiti sanitari specifici locali — da vérifier sur Ministero Salute ★★★★★
 
 ## Zone del portolano
 
-| Zona | Carattere nautico | Am̈bito |
+| Zone | Carattere nautico | Am̈bito |
 |---|---|---|
 | **Mar Ligure** | Costa ripida, porti strutturati, vento di Libeccio/Maestrale | Genova, Imperia, La Spezia, Cinque Terre |
 | **Tirreno Settentrionale** | Arcipelago Toscano, Elba, costa toscana | Livorno, Elba, Capraia, Argentario |
@@ -51,4 +51,4 @@ Nessuno obbligatorio per ingresso da paesi UE. **DATO MANCANTE** per eventuali r
 | **Ionio** | Golfo di Taranto, Calabria ionica, Sicilia orientale | Crotone, Taranto, Gallipoli, Siracusa, Catania |
 | **Adriatico** | Lungo, poco profondo a nord, venti Bora/Scirocco | Trieste, Venezia, Ancona, Bari, Otranto |
 
-Ultimo aggiornamento: 27/08/2026
+Dernière mise à jour: 27/08/2026

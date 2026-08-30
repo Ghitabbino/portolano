@@ -20,17 +20,22 @@
 
 Ultimo aggiornamento: 25/08/2026
 
-## Posti sicuri
+## Posti sicuri / da evitare
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
+- **Più sicuri**: Bay Islands — West End/West Bay (Roatán), Utila town, Guanaja Mangrove Bight — presenza polizia turistica, marine chiuse la notte. ★★★★
+- **Da evitare**: costa mainland nord (La Ceiba, Puerto Cortés fuori porto), navigazione notturna, spiagge isolate. ★★★★
+- Dinghy sempre lucchettato, non esporre elettronica. ★★
 
 ## Salvataggio ed emergenze
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
+- **Emergenze**: **911** · Coast Guard Honduras **VHF 16** · Marina VHF locale. Ospedali privati a Roatán (Unimed), mainland a La Ceiba/San Pedro Sula. EPIRB consigliato. ★★★
+- **Narcotraffico**: se trovate pacchi in mare non toccare, segnalare a 911/VHF — corrente frequente su costa nord. ★★★★
 
 ## Monitoraggio mensile
 
-**DATO MANCANTE** — da completare al controllo mensile.
+| Data | Fonte | Azione |
+|---|---|---|
+| 29/08/2026 | GOV.UK, Noonsite, Ocean Posse | Confermata 2,5/5, Bay Islands 3,5/5, nessun L3 nuovo |
+
+Ultimo aggiornamento: 29/08/2026
 

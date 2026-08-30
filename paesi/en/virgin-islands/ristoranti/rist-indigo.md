@@ -7,7 +7,7 @@
 | Zona | Cane Garden Bay, Tortola |
 | Cucina | 🐟 Caraibica |
 | Specialità | — |
-| Costo | 💰€€ per persona senza bevande |
+| Costo | 💰€€ per person without drinks |
 | Location | 🏖️ baia famosa |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Indigo+Beach+House+Cane+Garden+Bay,+Tortola) |
 | Contatti | ND |

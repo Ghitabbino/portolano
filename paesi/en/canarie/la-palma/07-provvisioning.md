@@ -1,26 +1,26 @@
-# 07 — Provvisioning
+# 07 — Provisioning
 
-Ultimo aggiornamento: 22/08/2026 · Telefoni verificati ★★★
+Last updated: 22/08/2026 · Telefoni verificati ★★★
 
 ## Supermercati Santa Cruz de la Palma
 
 | Negozio | Indirizzo | Telefono | Consegna a domicilio |
 |---|---|---|---|
 | **HiperDino** | Av. El Puente, 56 | **922 425 203** | Sì ✓ (a domicilio + ritiro in negozio) |
-| Mercadona | Città | (da confermare) | Sì — mercadona.es |
+| Mercadona | Città | (from confermare) | Sì — mercadona.es |
 | Mercato municipale | Centro, mattino | — | Freschi |
 
-Tazacorte: supermercati locali essenziali ((da confermare)).
+Tazacorte: supermercati locali essenziali ((from confermare)).
 
-## Acqua e carburante
+## Water and carburante
 
-| Servizio | Dettaglio |
+| Service | Detail |
 |---|---|
-| Acqua dock | Marina La Palma al posto |
-| Gasolio dock | Marina La Palma — orari (da confermare) |
+| Water dock | Marina La Palma at the posto |
+| Gasolio dock | Marina La Palma — orari (from confermare) |
 | Bombola gas spagnola | Scambio a Santa Cruz |
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026
 
 ## Consigli pratici
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

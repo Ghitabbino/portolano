@@ -1,39 +1,39 @@
-# 07 — Provvisioning
+# 07 — Provisioning
 
-**Ultima verifica: 27/08/2026**
+**Last checked: 27/08/2026**
 
-## Livello prezzi generale
+## General Price Level
 
-**DATO MANCANTE** — alimentari e spesa di bordo: da verificare su fonti locali. Rete supermercati diffusa sulla costa mediterranea.
+**DATA MISSING** — alimentari e spesa di bordo: da verificare su fonti locali. Rete supermercati diffusa sulla costa mediterranea.
 
-## Supermercati
+## Supermarkets
 
-### DATO MANCANTE — area principale (da definire)
+### DATA MISSING — area principale (da definire)
 
-| Negozio | Ubicazione | Distanza dalla marina | A piedi? | Note | Fonte |
+| Shop | Location | Distance from Marina | Walkable? | Notes | Source |
 |---|---|---|---|---|---|
-| **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** |
+| **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** |
 
-Possibili catene nazionali: Mercadona, Carrefour, Lidl, Aldi, Consum — **DATO MANCANTE** su prossimità specifica alle marine (verificare su Mappy/Google Maps).
+Possibili catene nazionali: Mercadona, Carrefour, Lidl, Aldi, Consum — **DATA MISSING** su prossimità specifica alle marine (verificare su Mappy/Google Maps).
 
-### DATO MANCANTE — Isole Baleari
+### DATA MISSING — Isole Baleari
 
-**DATO MANCANTE**.
+**DATA MISSING**.
 
-## Mercati
+## Markets
 
-- **DATO MANCANTE** — mercati comunali e del pesce presenti nelle principali città portuali (Barcellona, Valencia, Palma).
+- **DATA MISSING** — mercati comunali e del pesce presenti nelle principali città portuali (Barcellona, Valencia, Palma).
 
-## Acqua e carburante
+## Water & Fuel
 
-| Servizio | Dove | Note |
+| Service | Where | Notes |
 |---|---|---|
-| Water dock | **DATO MANCANTE** | **DATO MANCANTE** |
-| Fuel dock | **DATO MANCANTE** | **DATO MANCANTE** |
-| Gas (butane/propane) | **DATO MANCANTE** | **DATO MANCANTE** |
+| Water dock | **DATA MISSING** | **DATA MISSING** |
+| Fuel dock | **DATA MISSING** | **DATA MISSING** |
+| Gas (butane/propane) | **DATA MISSING** | **DATA MISSING** |
 
-## Consigli pratici
+## Practical Tips
 
-- **DATO MANCANTE** — verificare disponibilità acqua potabile in banchina, orari supermercati, consegne a bordo.
+- **DATA MISSING** — verificare disponibilità acqua potabile in banchina, orari supermercati, consegne a bordo.
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

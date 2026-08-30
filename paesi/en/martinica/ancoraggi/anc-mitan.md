@@ -1,7 +1,7 @@
 # Anse Mitan {#anc-mitan}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
-| Campo | Dettaglio |
+[← All Anchorages](../08-ancoraggi.md)
+| Field | Detail |
 |---|---|
 | **Profondità** | 3–7 m circa |
 | **Tenuta** |Buona su sabbia ★★★|
@@ -14,4 +14,4 @@
 <div class="mapframe" data-slug="mitan" data-lat="14.5071771" data-lon="-61.100251"></div>
 *Vista mappa Anse Mitan (coord. indicative) — zoom con i pulsanti +/−; menu in alto a destra per passare a Carta nautica e Segnali nautici · mappa offline*
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026

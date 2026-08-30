@@ -1,21 +1,21 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
-Ultimo aggiornamento: 22/08/2026 · Coordinate indicative; navigare con cartografia ufficiale. **Nessuna marina a Santiago**: porto commerciale, porto pesca e ancoraggi.
+Dernière mise à jour: 22/08/2026 · Coordinate indicative; navigare con cartografia ufficiale. **Nessuna marina a Santiago**: porto commerciale, porto pesca e ancoraggi.
 
-## Porto Grande da Praia (porto commerciale)
+## Port Grande da Praia (porto commerciale)
 
-| Voce | Dato |
+| Rubrique | Dato |
 |---|---|
-| Natura | Porto container/ferry attivo; niente pontoni per diporto |
+| Natura | Port container/ferry attivo; niente pontoni per diporto |
 | Ingresso rada | Tra Ponta Temerosa (con il faro Dona Maria Pia) e la costa N; attenzione alle reti dei pescatori |
-| Ancoraggio |Fondo sabbioso, tenuta buona; esposto a S/SW → rollìo quasi costante ★★★|
+| Mouillage |Fondo sabbioso, tenuta buona; esposto a S/SW → rollìo quasi costante ★★★|
 
 - Il molo commerciale è riservato a cargo/ferry: mai ormeggiare senza permesso della Capitania.
-- "Dock Praia": piccolo scalo/arsenale per unità locali; nessun servizio dedicato agli yachts verificabile. Contatti: (da confermare in loco).
+- "Dock Praia": piccolo scalo/arsenale per unità locali; nessun servizio dedicato agli yachts verificabile. Contacts: (da confermare in loco).
 
-## Porto de pesca
+## Port de pesca
 
-| Tenuta | Note |
+| Tenue | Note |
 |---|---|
 | ★★★ |Guardia notturna, barche locali, aiuto all'ormeggio dai residenti; l'opzione più usata dai naviganti per notti brevi ★★|
 
@@ -23,39 +23,39 @@ Ultimo aggiornamento: 22/08/2026 · Coordinate indicative; navigare con cartogra
 
 | Posto | Note |
 |---|---|
-| Cidade Velha (Ribeira Grande) | Ancoraggio diurno meteo buono davanti al forte; UNESCO, ristoranti sulla spiaggia; swell S = scomodo |
-| Tarrafal (Nord) | Baia sabbiosa riparata dal NW, spiaggia turistica; aperto al SW |
+| Cidade Velha (Ribeira Grande) | Mouillage diurno meteo buono davanti al forte; UNESCO, ristoranti sulla spiaggia; swell S = scomodo |
+| Tarrafal (Nord) | Baie sabbiosa riparata dal NW, spiaggia turistica; aperto al SW |
 | Baía do Inferno / Costa Sud | Solo con mare piatto, nessun riparo vero |
 
-## Distanze utili
+## Distances utiles
 
-| Tratta | Distanza | Note |
+| Trajet | Distance | Note |
 |---|---|---|
-| Praia – Porto Inglês (Maio) | ~40 Mm | Facile con aliseo NE |
+| Praia – Port Inglês (Maio) | ~40 Mm | Facile con aliseo NE |
 | Praia – Vale de Cavaleiros (Fogo) | ~90 Mm | Bolina lunga contro aliseo |
 | Praia – Mindelo | ~170 Mm | Rientro sempre controvento |
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026
 
-## Tariffe
-Ultimo aggiornamento: 22/08/2026
+## Tarifs
+Dernière mise à jour: 22/08/2026
 
-## Tariffe ormeggi e marine
+## Tarifs d’amarrage & marinas
 
-| Voce | Costo | Note |
+| Rubrique | Coût | Note |
 |---|---|---|
-| Posto pontile/peschereccio | **DATO MANCANTE** — concordare in capitania/porto | Nessun listino turistico pubblicato |
-| Boa | **DATO MANCANTE** | |
-| Ancoraggio | **Gratuito** fuori zone regolamentate | |
-| Acqua | **DATO MANCANTE** | Chiedere in porto |
-| Elettricità | **DATO MANCANTE** | |
+| Posto pontile/peschereccio | **DONNÉE MANQUANTE** — concordare in capitania/porto | Nessun listino turistico pubblicato |
+| Bouée | **DONNÉE MANQUANTE** | |
+| Mouillage | **Gratuito** fuori zone regolamentate | |
+| Eau | **DONNÉE MANQUANTE** | Chiedere in porto |
+| Électricité | **DONNÉE MANQUANTE** | |
 
-## Distanze utili
+## Distances utiles
 
-| Tratta | Distanza | Note |
+| Trajet | Distance | Note |
 |---|---|---|
-| Mindelo – Sal | ~110 Mm | Aliseo NE |
+| Mindelo – Sal | ~110 Mm | Alizé NE |
 | Praia – Fogo | ~30 Mm | |
 | Fogo – Brava | ~15 Mm | |
 
-Ultimo aggiornamento: 24/08/2026
+Dernière mise à jour: 24/08/2026

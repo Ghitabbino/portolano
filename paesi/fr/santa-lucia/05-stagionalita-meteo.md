@@ -1,24 +1,24 @@
-# 05 — Stagionalità e meteo
+# 05 — Saisonnalité & Météo
 
-**Ultima verifica: 25/08/2026**
+**Dernière vérification: 25/08/2026**
 
-## Clima
+## Climat
 
 - Temperatura media **26–29 °C tutto l'anno**, escursione termica limitata; acqua 26–29 °C. ★★
-- **Alisei da ENE stabili** (tipicamente 12–20 kn): Santa Lucia è la prima isola Windward esposta all'Atlantico, quindi swell costante sulle coste nord/est e mare incrociato nei canali. ★★
+- **Alizés da ENE stabili** (tipicamente 12–20 kn): Santa Lucia è la prima isola Windward esposta all'Atlantique, quindi swell costante sulle coste nord/est e mare incrociato nei canali. ★★
 
-## Stagioni
+## Saisons
 
 | Periodo | Caratteristiche |
 |---|---|
-| **Dicembre – aprile/maggio** | Stagione secca, alisei regolari: **periodo migliore per la crociera**; dicembre affollato per l'arrivo ARC a Rodney Bay |
-| **Giugno – novembre** | **Stagione degli uragani**: molte assicurazioni impongono limiti geografici/di date; verificare il piano uragani di marina/cantiere prima di lasciare la barca |
+| **Dicembre – aprile/maggio** | Saison secca, alisei regolari: **periodo migliore per la crociera**; dicembre affollato per l'arrivo ARC a Rodney Bay |
+| **Giugno – novembre** | **Saison degli uragani**: molte assicurazioni impongono limiti geografici/di date; verificare il piano uragani di marina/cantiere prima di lasciare la barca |
 
 ★★
 
-## Uragani
+## Ouragans
 
-Stagione **giugno–novembre**, picco agosto–ottobre. Santa Lucia è stata colpita più volte nel corso della storia (tra i casi recenti: Thomas cat. 2 nel 2010). In caso di sistema in avvicinamento seguire gli annunci della **NEMO — National Emergency Management Organisation (+1 758 452 3802)**, del Met Service locale e del NOAA NHC. Nessun riparo è garantito al 100%. [NOAA NHC ★★★★★]
+Saison **giugno–novembre**, picco agosto–ottobre. Santa Lucia è stata colpita più volte nel corso della storia (tra i casi recenti: Thomas cat. 2 nel 2010). In caso di sistema in avvicinamento seguire gli annunci della **NEMO — National Emergency Management Organisation (+1 758 452 3802)**, del Met Service locale e del NOAA NHC. Nessun riparo è garantito al 100%. [NOAA NHC ★★★★★]
 
 ## Consignes cicloniche / rifugi (ufficiale dove indicato)
 
@@ -27,17 +27,17 @@ Stagione **giugno–novembre**, picco agosto–ottobre. Santa Lucia è stata col
 - **Marigot Bay**: hurricane hole storico tra i più efficaci dell'isola. Durante *watch/warning* la gestione offre: (1) boa ufficiale come parte del proprio ormeggo, (2) àncora propria + cime ai mangrovieti sul lato nord, (3) posto in marina; opzione valida per la durata dell'allerta e 48 h dopo. [allatsea (intervista gestore) ★★★]
 - In stagione molti armatori scelgono lo **storage a secco al cantiere IGY** con assicurazione dedicata. [igymarinas.com ★★★]
 
-## Venti locali
+## Vents locaux
 
-- Alisei da ENE 12–20 kn; raffiche di accelerazione sottovento ai rilievi e nelle baie della costa ovest. ★★
+- Alizés da ENE 12–20 kn; raffiche di accelerazione sottovento ai rilievi e nelle baie della costa ovest. ★★
 - Effetto canale tra Martinica e Santa Lucia (traversata Sainte-Anne → Pigeon Point ~21 M): vento e corrente spesso rinforzati. ★★
 
-## Finestre tipiche
+## Fenêtres météo typiques
 
 - Traversate corte inter-isole (Martinica ↔ SL, SL ↔ St Vincent ~60 M): fattibili con aliseo ≤18–20 kn, **meglio mattino presto** quando l'aliseo non è ancora pieno. ★★★
 - Per rotte verso nord (Dominica, Guadalupa) o sud (Grenadine) attendere finestra post-onda tropicale con pressione stabile. ★★
 
-## Link meteo e carte locali
+## Liens météo et cartes locales
 
 - [NOAA National Hurricane Center](https://www.nhc.noaa.gov) ★★★★★ — bollettini e traiettorie uragani atlantici (giugno–novembre).
 - [Saint Lucia Meteorological Services](https://met.gov.lc) ★★★ — servizio meteo nazionale: previsioni e allerte locali.
@@ -46,4 +46,4 @@ Stagione **giugno–novembre**, picco agosto–ottobre. Santa Lucia è stata col
 - [Windguru](https://www.windguru.cz) ★★★ — spot forecast costa nord (Reduit/Pigeon Point).
 - [Météo-France Antilles-Guadeloupe](https://meteofrance.com/fr/antilles) ★★★ — vigilance e bulletins delle Antille francesi utili per i canali verso Martinica/Dominica (non copre formalmente SL).
 
-Ultimo aggiornamento: 25/08/2026
+Dernière mise à jour: 25/08/2026

@@ -1,4 +1,4 @@
-# 04 — Servizi, cantieri e manutenzione
+# 04 — Services, Chantiers & Entretien
 
 ## Hub tecnico
 
@@ -6,23 +6,23 @@
 
 | Servizio | Disponibilità |
 |---|---|
-| Meccanico/rigger | ❌ Nessuno residente; passaggi di tecnici itineranti segnalati via radio/FB — DATO MANCANTE contatti |
+| Meccanico/rigger | ❌ Nessuno residente; passaggi di tecnici itineranti segnalati via radio/FB — DONNÉE MANQUANTE contatti |
 | Sommozzatore per eliche/scafo |Talvolta tra i villaggi Guna — chiedere in ancoraggio ★★|
 | Sailmaker/velai | ❌ |
 | Elettricisti | ❌ |
 
-## Gas e bombole
+## Gaz et bouteilles
 
 Ricarica **impossibile**: rifornirsi completamente a Linton Bay/Colón prima dell'ingresso.
 
-## Acqua dolce
+## Eau douce
 
-Acqua in buste dalle canoe ($1/6); acqua per serbatoi non disponibile: arrivare pieni.
+Eau in buste dalle canoe ($1/6); acqua per serbatoi non disponibile: arrivare pieni.
 
-## Note strategiche
+## Notes stratégiques
 
 - San Blas = zona di **autonomia totale**: barca revisionata, serbatoi pieni, ricambi critici a bordo.
 - Guasti maggiori = uscita dalla comarca verso Linton/Colón.
 - Vela strappata o motore bloccato: nessun rimorchio organizzato; conta solo l'assistenza tra yacht (rete VHF 72/16).
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026

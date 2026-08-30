@@ -18,4 +18,4 @@
 
 Fonti: [Waterway Guide 2-1294](https://www.waterwayguide.com/anchorage/2-1294/sapodilla-bay-provo) ★★★ · [Navily 46974](https://www.navily.com/mouillage/sapodilla-bay/46974) ★★ · borderforce.gov.tc POE Sapodilla Bay ★★★★★
 
-Ultimo aggiornamento: 28/08/2026
+Last updated: 28/08/2026

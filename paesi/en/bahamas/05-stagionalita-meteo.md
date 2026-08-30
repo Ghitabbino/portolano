@@ -1,14 +1,14 @@
-# 05 — Stagionalità e meteo
+# 05 — Seasonality & Weather
 
-**Ultima verifica: 24/08/2026**
+**Last checked: 24/08/2026**
 
-## Clima
+## Climate
 
 Arcipelago subtropicale — **inverno secco e fresco, estate calda e umida**. Temperatura mare: **26–27 °C in inverno, 28–30 °C in estate**. ★★★★
 
-## Stagioni
+## Seasons
 
-| Periodo | Caratteristiche | Vento / Mare |
+| Period | Characteristics | Vento / Mare |
 |---|---|---|
 | **Dry / Cool — nov–apr** | **Alta stagione nautica**: fresco, secco, alisei da **NE 10–20 kt** stabili. **Best dic–apr** per crociera. Temp. aria **21–26 °C**, mare **26–27 °C** | NE trades, swell moderato, fronti freddi occasionali da NW (dic–feb) ★★★★★ |
 | **Shoulder — mag–giu** | Caldo in aumento, alisei più deboli, meno affollato. Buona finestra. Temp. **27–29 °C** | SE–E 10–15 kt, bonacce possibili ★★★★ |
@@ -21,14 +21,14 @@ Arcipelago subtropicale — **inverno secco e fresco, estate calda e umida**. Te
 
 **Tardo marzo – inizio giugno**: alisei ancora presenti ma meno forti, temperature gradevoli, rischio uragani ancora basso, prezzi marine in calo dopo l'alta stagione. Anche **dicembre–aprile** eccellente ma più ventoso e affollato (alta stagione charter USA). ★★★★
 
-## Uragani — piano obbligatorio
+## Hurricanes — piano obbligatorio
 
 Stagione ufficiale **01/06–30/11**. Le Bahamas sono tra le aree più colpite dell'Atlantico (uragano Dorian cat.5 su Abacos/Grand Bahama nel 2019). Nessun **trou à cyclone** garantito come Le Marin — unico riparo riconosciuto è **Hurricane Hole, Nassau** (14,5 ft MLW, ormeggi anti-uragano) ma con posti limitati e prenotazione con largo anticipo.
 
 **Consignes:**
 - Avere un **piano uragano scritto** con l'assicurazione (limiti di navigazione 01/06–30/11 spesso imposti).
 - Monitorare **NHC Miami** ogni 6h in stagione.
-- Prevedere rientro in Florida o haul-out a Bradford Marine/Freeport se avviso.
+- Prevedere rientro in Florida or haul-out a Bradford Marine/Freeport se avviso.
 
 ## Venti e correnti locali
 
@@ -36,7 +36,7 @@ Stagione ufficiale **01/06–30/11**. Le Bahamas sono tra le aree più colpite d
 - **Marea**: escursione **0,8–1,0 m** — modesta, ma nei **cuts tra Exuma Banks ed Exuma Sound** genera corrente **2–4 kt** — transito solo a **slack water** (acqua ferma). ★★★★★
 - **Banks**: Exuma Banks e Grand Bahama Banks — bassissimi fondali (2–3 ft fuori dai canali), navigazione solo di giorno con sole alto e buona cartografia (Explorer Chartbook). ★★★★★
 
-## Link meteo e carte locali
+## Weather Links & Local Charts
 
 | Fonte | Uso | Affidabilità |
 |---|---|---|
@@ -49,14 +49,14 @@ Stagione ufficiale **01/06–30/11**. Le Bahamas sono tra le aree più colpite d
 | **Explorer Chartbook — Bahamas** | Cartografia di riferimento per i Banks (non ufficiale ma standard de facto) | ★★★★★ |
 | **Navionics / Garmin / C-MAP** | Carte elettroniche — verificare datum WGS84 | ★★★★ |
 
-Ultimo aggiornamento: 24/08/2026
+Last updated: 24/08/2026
 
-## Venti locali
+## Local Winds
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## Finestre tipiche
+## Typical Weather Windows
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 

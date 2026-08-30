@@ -1,22 +1,22 @@
-# Provvisionamento
+# 07 — Avitaillement
 
-**Ultimo aggiornamento: 23/08/2026**
+**Dernière mise à jour: 23/08/2026**
 
 > ⚠️ Pagina in preparazione: dati in raccolta.
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026
 
-## Supermercati
+## Supermarchés
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Acqua e carburante
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## Consigli pratici
+## Eau et carburant
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
+
+
+## Conseils pratiques
+
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 

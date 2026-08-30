@@ -1,4 +1,4 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
 **NESSUNA VERA MARINA per yacht sulla costa caraibica** (Noonsite ★★★★; GetMyBoat ★★★; Bluewater Properties ★★★).
 
@@ -7,14 +7,14 @@
 - **Puerto Viejo / Cahuita / Tortuguero / Barra del Colorado: SOLO ancoraggi aperti (vedi §08); nessuna banchina, nessun servizio** (NoForeignLand ★★★; CruisersForum ★★).
 - **Marine esistenti (Golfito, Marina Papagayo, Pez Vela, Flamingo, Los Sueños) sono TUTTE sul PACIFICO** (GetMyBoat ★★★; Bluewater Properties ★★★).
 
-**Ultimo aggiornamento: 24/08/2026**
+**Dernière mise à jour: 24/08/2026**
 
-## Tariffe
+## Tarifs
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## Distanze utili
+## Distances utiles
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 

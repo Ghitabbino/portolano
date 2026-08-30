@@ -1,18 +1,18 @@
 # Le Cabanon
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| Zona | Sainte-Anne |
-| Cucina | 🍽️ Franco-caraibica creativa |
-| Specialità | Menu creativo stagionale |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🪶 piccolo, curato |
+| Area | Sainte-Anne |
+| Cuisine | 🍽️ Franco-caraibica creativa |
+| Speciality | Menu creativo stagionale |
+| Cost | 💰€€ for persona without bevande |
+| Setting | 🪶 small, curato |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Cabanon+Sainte-Anne) |
-| Contatti | [Mappa](https://www.google.com/maps/search/?api=1&query=Le+Cabanon+Sainte-Anne+Guadeloupe) |
-| Valutazioni | Google 4,9/5 (148) → ★★★★★ |
-| Orari | pranzo 12–15 · cena stagionale ⚠️ |
+| Contacts | [Mappa](https://www.google.com/maps/search/?api=1&query=Le+Cabanon+Sainte-Anne+Guadeloupe) |
+| Ratings | Google 4,9/5 (148) → ★★★★★ |
+| Hours | pranzo 12–15 · cena stagionale ⚠️ |
 
 ## Menu
 
@@ -22,6 +22,6 @@
 
 ## Foto
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Foto non still disponibili — recuperare at the controllo mensile.*
 
 **Note**: Prenotare, pochi coperti

@@ -1,28 +1,28 @@
-# 10 — Ristoranti
+# 10 — Restaurants
 
-**Ultimo aggiornamento: 27/08/2026**
+**Last updated: 27/08/2026**
 
-Selezione orientata alla crociera: locali raggiungibili a piedi dagli ancoraggi e marine del portolano ([08 Ancoraggi](08-ancoraggi.md)). In preparazione — nessun locale inventato.
+Cruiser-oriented selection: locali raggiungibili a piedi dagli ancoraggi and marine of the portolano ([08 Ancoraggi](08-ancoraggi.md)). In preparation — no invented venues.
 
-Legenda prezzi: **€** <15 · **€€** 15–35 · **€€€** >35 — Cucina: 🐟 pesce e frutti di mare · 🥩 carne e grigliate · 🥗 vegetariano-friendly · 🥙 street food locale · 🍰 dolci
+Legend prezzi: **€** <15 · **€€** 15–35 · **€€€** >35 — Cuisine: 🐟 pesce and frutti of mare · 🥩 carne and grigliate · 🥗 vegetariano-friendly · 🥙 street food locale · 🍰 dolci
 
-## Mappa dei ristoranti
+## Mappa of the ristoranti
 
 <div class="mapframe" data-slug="egitto" data-minz="5" data-maxz="17" data-lat="28.00" data-lon="33.50" data-markers='[]'></div>
 
-*Mappa placeholder — marker verranno aggiunti solo con coordinate verificate WGS84 e schede ristorante `rist-*`.*
+*Mappa placeholder — marker verranno aggiunti only with coordinate verificate WGS84 and schede ristorante `rist-*`.*
 
-## Griglia generale
+## Grid generale
 
-| Ristorante | Zona | Costo | Cucina | Specialità | Location | Stelle |
+| Ristorante | Area | Cost | Cuisine | Speciality | Setting | Stelle |
 |---|---|---|---|---|---|---|
-| **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** |
+| **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** |
 
-## App e fonti
+## App and fonti
 
 | Piattaforma | Uso locale |
 |---|---|
-| Google Maps recensioni | Il più aggiornato; orari spesso errati fuori stagione |
-| **DATO MANCANTE** | **DATO MANCANTE** |
+| Google Maps recensioni | Il more aggiornato; orari spesso errati fuori stagione |
+| **DATA MISSING** | **DATA MISSING** |
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

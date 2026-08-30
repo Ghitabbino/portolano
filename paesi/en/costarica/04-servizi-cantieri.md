@@ -1,29 +1,29 @@
-# 04 — Servizi, cantieri e manutenzione
+# 04 — Services, Boatyards & Maintenance
 
-**DATO MANCANTE: cantieri/haul-out/marine services dedicati a yacht sulla costa caraibica** (NoForeignLand ★★★; Sea-Seek ★★★).
+**DATA MISSING: cantieri/haul-out/marine services dedicati a yacht sulla costa caraibica** (NoForeignLand ★★★; Sea-Seek ★★★).
 
-- **Limón: servizi commerciali generali (bunkering nave, acqua, provviste via camion); nessun travel lift, nessun cantiere riportato da cruisers** (ShipNext ★★★★).
-- **Meccanico mobile "Luis" (diesel) citato per zona Pacifico (Golfito/Quepos), NON per Caraibi** (NoForeignLand ★★★).
-- **Chandleries: NESSUNA segnalata su Caraibi da fonti cruisers recenti** (NoForeignLand ★★★; puertoviejosatellite.com ★★★).
+- **Limón: servizi commerciali generali (bunkering nave, acqua, provviste via camion); no travel lift, no cantiere riportato from cruisers** (ShipNext ★★★★).
+- **Meccanico mobile "Luis" (diesel) citato for zona Pacifico (Golfito/Quepos), NON for Caraibi** (NoForeignLand ★★★).
+- **Chandleries: NESSUNA segnalata on Caraibi from fonti cruisers recenti** (NoForeignLand ★★★; puertoviejosatellite.com ★★★).
 
-**Ultimo aggiornamento: 24/08/2026**
+**Last updated: 24/08/2026**
 
 ## Hub tecnico
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## Gas e bombole
+## Gas and bombole
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## Acqua dolce
+## Water dolce
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
 ## Note strategiche
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 

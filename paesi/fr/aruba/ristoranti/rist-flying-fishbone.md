@@ -1,18 +1,18 @@
 # The Flying Fishbone
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Savaneta — costa sud |
-| Cucina | 🐟 Pesce piedi nella sabbia |
-| Specialità | Pesce fresco piedi nell'acqua · tramonto |
-| Costo | 💰€€€ per persona senza bevande |
-| Location | 🌅 spiaggia, tavoli sull'acqua |
+| Zone | Savaneta — costa sud |
+| Cuisine | 🐟 Pesce piedi nella sabbia |
+| Spécialité | Pesce fresco piedi nell'acqua · tramonto |
+| Coût | 💰€€€ per persona senza bevande |
+| Emplacement | 🌅 spiaggia, tavoli sull'acqua |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=The+Flying+Fishbone+Savaneta) |
-| Contatti | Savaneta, Aruba · prenotazione obbligatoria settimane in anticipo |
-| Valutazioni | TA 4,7/5 (8.052 recensioni) · [OneHappyIsland](https://onehappyisland.com/best-restaurants-in-aruba/) “Most unique setting” → ★★★★½ |
-| Orari | Pranzo e cena · tavoli nell'acqua al tramonto |
+| Contacts | Savaneta, Aruba · prenotazione obbligatoria settimane in anticipo |
+| Évaluations | TA 4,7/5 (8.052 recensioni) · [OneHappyIsland](https://onehappyisland.com/best-restaurants-in-aruba/) “Most unique setting” → ★★★★½ |
+| Horaires | Pranzo e cena · tavoli nell'acqua al tramonto |
 
 ## Menu
 
@@ -20,4 +20,4 @@
 - Pesce fresco caraibico
 - Tra i più fotografati dell'isola
 
-**Note**: A Savaneta, raggiungibile da Spanish Lagoon/San Nicolas in auto/tender + taxi — non walking da Oranjestad, ma tappa iconica sud. Prenotare 2–3 settimane prima in alta stagione. Fonte locale: [OneHappyIsland Best Restaurants 2026](https://onehappyisland.com/best-restaurants-in-aruba/) ★★★ · [Aruba.com](https://www.aruba.com) ★★★
+**Note**: A Savaneta, raggiungibile da Spanish Lagoon/San Nicolas in auto/tender + taxi — non walking da Oranjestad, ma tappa iconica sud. Prenotare 2–3 settimane prima in alta stagione. Source locale: [OneHappyIsland Best Restaurants 2026](https://onehappyisland.com/best-restaurants-in-aruba/) ★★★ · [Aruba.com](https://www.aruba.com) ★★★

@@ -1,9 +1,9 @@
 # Britannia Bay — ancoraggio {#anc-britannia}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← All Anchorages](../08-ancoraggi.md)
 **12°52.8′N 61°11.5′W**
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | **Riparo** | ★★★★ alisei |
 | **Fondo** | Sabbia |
@@ -16,4 +16,4 @@
 <div class="mapframe" data-slug="anc-britannia" data-lat="12.880" data-lon="-61.190"></div>
 *Mappa offline Britannia Bay — zoom con i pulsanti +/−; menu in alto a destra per Carta nautica e Segnali*
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

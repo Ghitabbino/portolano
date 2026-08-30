@@ -1,51 +1,51 @@
-# 01 — Clearance doganale della barca
+# 01 — Yacht Customs Clearance
 
-**Ultima verifica: 27/08/2026**
+**Last checked: 27/08/2026**
 
-## Chi deve farla
+## Who Must Clear
 
-**DATO MANCANTE** — verificare su fonte governativa bosnia-erzegovina (Agencia Tributaria / Puertos del Estado) chi deve effettuare la clearance in entrata/uscita e negli spostamenti interni. ★★★★★
+**DATA MISSING** — check on government source bosnia-erzegovina (Agencia Tributaria / Puertos del Estado) chi deve effettuare la clearance in entrata/uscita e negli spostamenti interni. ★★★★★
 
-## Procedura
+## Procedure
 
-| Passo | Dettaglio | Fonte |
+| Step | Detail | Source |
 |---|---|---|
-| Dichiarazione online | **DATO MANCANTE** | **DATO MANCANTE** |
-| Documenti richiesti | **DATO MANCANTE** | **DATO MANCANTE** |
-| Punti di ingresso | **DATO MANCANTE** | **DATO MANCANTE** |
+| Dichiarazione online | **DATA MISSING** | **DATA MISSING** |
+| Documenti richiesti | **DATA MISSING** | **DATA MISSING** |
+| Punti di ingresso | **DATA MISSING** | **DATA MISSING** |
 
-## Copia cartacea e timbro
+## Paper Copy & Stamp
 
-**DATO MANCANTE**.
+**DATA MISSING**.
 
-## Costi
+## Fees
 
-| Voce | Costo | Fonte |
+| Item | Cost | Source |
 |---|---|---|
-| Dichiarazione | **DATO MANCANTE** | **DATO MANCANTE** |
-| Timbro / diritti portuali | **DATO MANCANTE** | **DATO MANCANTE** |
+| Dichiarazione | **DATA MISSING** | **DATA MISSING** |
+| Timbro / diritti portuali | **DATA MISSING** | **DATA MISSING** |
 
-## Punti agréé / porti di ingresso
+## Ports of Entry / Designated Ports
 
-| Località | Punto | Contatti | Orari |
+| Location | Point | Contacts | Hours |
 |---|---|---|---|
-| **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** |
+| **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** |
 
-## Dogana regionale
+## Regional Customs
 
-**DATO MANCANTE** — verificare recapito Agencia Tributaria — Aduanas.
+**DATA MISSING** — verificare recapito Agencia Tributaria — Aduanas.
 
-## Esperienze dei crocieristi
+## Cruisers' Experiences
 
-**DATO MANCANTE**.
+**DATA MISSING**.
 
-## Sanzioni
+## Penalties
 
-**DATO MANCANTE** — verificare normativa bosnia-erzegovina.
+**DATA MISSING** — verificare normativa bosnia-erzegovina.
 
-## Da verificare prima della crociera
+## To Verify Before Your Cruise
 
 - Lista porti di ingresso aggiornati e orari.
 - Modulistica e URL ufficiale per la dichiarazione.
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

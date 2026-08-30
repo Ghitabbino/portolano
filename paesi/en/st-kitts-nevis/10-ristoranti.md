@@ -1,6 +1,6 @@
-# 10 — Ristoranti
+# 10 — Restaurants
 
-**Ultimo aggiornamento: 23/08/2026**
+**Last updated: 23/08/2026**
 
 
 | Locale | Isola | Prezzi | Cucina | Note |
@@ -11,14 +11,14 @@
 | Oualie Beach Restaurant | Nevis, Oualie | €€ | Locale/sea-to-plate | Aperto tutto il giorno ★★★ |
 | Chrishi Beach Club | Nevis | €€ | Internazionale | Tapas, live ★★ |
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026
 
 ## Griglia generale
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
 ## App e fonti
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 

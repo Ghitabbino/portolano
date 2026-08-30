@@ -1,9 +1,9 @@
 # Salt Whistle Bay — ancoraggio {#anc-salt-whistle}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← All Anchorages](../08-ancoraggi.md)
 **12°38.5′N 61°23.4′W**
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | **Riparo** | ★★★★ NE (breakwater nuovo post-Beryl) |
 | **Fondo** | Sabbia |
@@ -16,4 +16,4 @@
 <div class="mapframe" data-slug="anc-salt-whistle" data-lat="12.641" data-lon="-61.390"></div>
 *Mappa offline Salt Whistle Bay — zoom con i pulsanti +/−; menu in alto a destra per Carta nautica e Segnali*
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

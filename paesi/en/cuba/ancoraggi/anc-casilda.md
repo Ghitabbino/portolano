@@ -1,20 +1,20 @@
 # Trinidad / Casilda {#anc-casilda}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← All anchorages](../08-ancoraggi.md)
 **21°44′13″ N 79°59′38″ W** ★★
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| **Profondità** |**DATO MANCANTE**|
-| **Tenuta àncora** |**DATO MANCANTE**|
-| **Venti/riparo** |Baia davanti a Casilda|
-| **Pericoli** |⚠️ VERIFICATO: Casilda NON è un punto di entrata (POE) — solo sosta interna dopo clearance altrove|
-| **Boe/divieti/normative** |Nessun sdoganamento qui|
-| **A terra** |Trinidad coloniale a 15 min (Patrimonio UNESCO)|
+| **Depth** |**DATA MISSING**|
+| **Holding** |**DATA MISSING**|
+| **Winds/Shelter** |Bay davanti a Casilda|
+| **Hazards** |⚠️ VERIFICATO: Casilda NON è un punto of entrata (POE) — only sosta interna dopo clearance altrove|
+| **Buoys/Restrictions/Regulations** |Nessun sdoganamento qui|
+| **Ashore** |Trinidad coloniale a 15 min (Patrimonio UNESCO)|
 
 <div class="mapframe" data-slug="anc-casilda" data-lat="21.737" data-lon="-79.994"></div>
-*Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
+*Detail chart — zoom in to the bay · offline chart · approximate WGS84 coordinates, always verify with your chartplotter*
 
 Fonti: Ricerca POE (2025–26) ★★★
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

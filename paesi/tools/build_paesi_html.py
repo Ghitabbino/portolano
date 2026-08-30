@@ -306,7 +306,7 @@ def render(md_path: Path, title: str, sec_id: str, country: str = ""):
                     f'{hook}{bc_nav}{badge}<h1{attrs}>{title}</h1>{html}</section>')
 
 
-register(ROOT / "00-indice.md", "Aree")
+register(ROOT / "00-indice.md", "__I18N_areas__")
 register(ROOT / "offline-gpx.md", "Offline & GPX", country="", in_nav=False)
 OFFLINE_PID = queue[-1][2]
 register(ROOT / "iscriviti.md", "Iscriviti", country="", in_nav=False)
@@ -535,7 +535,7 @@ aside h1 { font-size:16px; margin:0 0 12px; color:var(--accent); }
 #support-cta:hover{background:#3a9a8e;color:#06231f}
 .btn-sostienici:hover{background:#3a9a8e!important;transform:translateY(-1px)}
 .btn-sostienici:active{transform:translateY(0)}
-@media(max-width:800px){#support-cta{display:none!important}}
+@media(max-width:800px){#support-cta{right:12px!important;top:auto!important;bottom:14px!important;font-size:13px;padding:10px 14px;border-radius:22px;box-shadow:0 4px 14px rgba(0,0,0,.35)} #lang-switch{top:10px;right:12px}}
 .breadcrumb{font-size:12px;color:var(--muted);margin:0 0 8px;display:flex;flex-wrap:wrap;gap:4px;align-items:center}
 .breadcrumb a{color:var(--accent);text-decoration:none}
 .breadcrumb a:hover{text-decoration:underline}
@@ -619,12 +619,12 @@ li { margin:3px 0; }
 </head>
 <body>
 <div id="lang-switch" role="navigation" aria-label="Selettore lingua">
-<a href="#" data-lang="en">English</a>
-<a href="#" data-lang="fr">Français</a>
-<a href="#" data-lang="es">Español</a>
-<a href="#" data-lang="de">Deutsch</a>
-<a href="#" data-lang="pt">Português</a>
-<a href="#" data-lang="it">Italiano</a>
+<a href="../en/index.html" data-lang="en">English</a>
+<a href="../fr/index.html" data-lang="fr">Français</a>
+<a href="../es/index.html" data-lang="es">Español</a>
+<a href="../de/index.html" data-lang="de">Deutsch</a>
+<a href="../pt/index.html" data-lang="pt">Português</a>
+<a href="../it/index.html" data-lang="it">Italiano</a>
 </div>
 <a id="support-cta" href="https://ko-fi.com/sailtropics" target="_blank" rel="noopener noreferrer" class="btn-sostienici" aria-label="Supporta il progetto" style="position:fixed;top:10px;right:520px;z-index:2200;display:inline-flex;align-items:center;gap:6px;background:#4db6ac;color:#06231f!important;padding:6px 14px;border-radius:20px;font-size:14px;font-weight:700;text-decoration:none;transition:background .2s ease,transform .1s ease;box-shadow:0 1px 6px rgba(0,0,0,.2)">__I18N_support_us__</a>
 <aside>
@@ -640,7 +640,7 @@ li { margin:3px 0; }
 </div>
 <div style="font-size:11px;color:var(--muted);margin:0 0 12px;letter-spacing:.08em;text-transform:uppercase">__I18N_portolano__</div>
   <input id="search" type="search" placeholder="__I18N_search_placeholder__">
-  <div id="login-side" style="margin:0 0 12px;display:flex;gap:8px"><a href="iscriviti.html" target="_blank" style="flex:1;text-align:center;padding:7px 8px;border:1px solid var(--accent);border-radius:8px;background:var(--accent);color:#06231f;font-weight:800;font-size:13px;text-decoration:none">__I18N_subscribe__</a><a href="accedi.html" target="_blank" style="flex:1;text-align:center;padding:7px 8px;border:1px solid var(--line);border-radius:8px;background:#0b131b;color:var(--accent);font-weight:700;font-size:13px;text-decoration:none">__I18N_login__</a></div>
+  <div id="login-side" style="margin:0 0 12px;display:flex;gap:8px"><a href="#__ISCR__" style="flex:1;text-align:center;padding:7px 8px;border:1px solid var(--accent);border-radius:8px;background:var(--accent);color:#06231f;font-weight:800;font-size:13px;text-decoration:none">__I18N_subscribe__</a><a href="#__ACCE__" style="flex:1;text-align:center;padding:7px 8px;border:1px solid var(--line);border-radius:8px;background:#0b131b;color:var(--accent);font-weight:700;font-size:13px;text-decoration:none">__I18N_login__</a></div>
   <div id="user-nick" style="display:none;margin:0 0 10px;padding:6px 8px;border-radius:8px;background:#0b131b;border:1px solid var(--line);color:var(--muted);font-size:11px;text-align:center"></div>
   <div id="logout-side" style="display:none;margin:0 0 12px"><button onclick="logoutGlobal()" style="width:100%;padding:7px 10px;border-radius:8px;background:transparent;color:var(--muted);font-weight:700;border:1px solid var(--line);cursor:pointer">__I18N_logout__</button></div>
   <nav id="nav">__NAV__</nav>
@@ -657,27 +657,21 @@ li { margin:3px 0; }
 <span class="bs">__I18N_brand_subtitle__</span>
 </div>
 <div id="disc-home">
-<b>⚠️ Portolano collaborativo e indipendente — sito non commerciale.</b>
-Informazioni e coordinate provengono da fonti pubbliche e segnalazioni di naviganti:
-sono <b>indicative</b>, possono essere imprecise, superate o errate e <b>non sostituiscono</b>
-la cartografia ufficiale, le guide ufficiali né il controllo diretto in loco.
-Ancoraggi, accessi, regolamenti e condizioni del mare vanno sempre verificati dal Comandante
-prima e durante la navigazione. <b>Ogni decisione e responsabilità è esclusivamente del Comandante.</b>
-Gli autori non assumono alcuna responsabilità per danni, perdite, sanzioni o incidenti
-derivanti dall'uso di questi contenuti.
+<b>__I18N_disclaimer_title__</b>
+__I18N_disclaimer_text__
 </div>
 <div id="wiki-libera-home" style="display:block;margin:12px 0 16px;padding:14px 16px;border:1px solid var(--line);border-radius:12px;background:#0b131b">
 <div style="font-weight:800;color:#fff;margin-bottom:6px">📖 __I18N_wiki_free_title__</div>
 <div style="color:var(--ink);font-size:12.5px;line-height:1.6">__I18N_wiki_free_desc__</div>
 <div style="margin-top:10px;padding:10px 12px;border-left:3px solid var(--accent);background:#16222e;border-radius:8px">
 <div style="font-weight:700;color:#fff;font-size:12.5px">__I18N_welcome_aboard__</div>
-<div style="color:var(--ink);font-size:12px;line-height:1.6;margin-top:6px">Questa wiki è nata da velisti per velisti. <b>Puoi usarla liberamente, senza iscriverti, senza limiti e senza pubblicità.</b> L’iscrizione serve <b>solo se lo desideri</b>, per ricevere gli <b>alert per criticità di sicurezza e meteo generali</b> o per <b>contribuire</b> con aggiornamenti verificati dal posto.</div>
-<div style="color:var(--ink);font-size:12px;line-height:1.6;margin-top:6px"><b>Senza iscrizione leggi tutto; con l’iscrizione, se vuoi, resti aggiornato e aiuti gli altri. La scelta è tua.</b> Vedi <a href="#__ISCR__" style="color:var(--accent);font-weight:700">__I18N_subscribe__</a> o <a href="#__ACCE__" style="color:var(--accent);font-weight:700">__I18N_login__</a> — oppure inizia a esplorare.</div>
+<div style="color:var(--ink);font-size:12px;line-height:1.6;margin-top:6px">__I18N_wiki_free_extra1__</div>
+<div style="color:var(--ink);font-size:12px;line-height:1.6;margin-top:6px">__I18N_wiki_free_extra2__</div>
 </div>
 </div>
  <div id="navtitle-c"></div>
  <div id="navgrid"></div>
- <div id="scroll-hint" onclick="window.scrollTo({top:document.body.scrollHeight,behavior:'smooth'})">↓ Scorri — trasparenza, ringraziamenti e supporto sotto</div>
+  <div id="scroll-hint" onclick="window.scrollTo({top:document.body.scrollHeight,behavior:'smooth'})">__I18N_scroll_hint__</div>
  __SECTIONS__
   <!-- BLOCCO FUNDING — banda bianca compatta (ex-guidone rimosso) -->
 <div id="funding-guidone" style="margin:24px 0 0;background:#fff;border:1px solid #e5e9f0;border-radius:10px;padding:12px 12px;text-align:center">
@@ -686,7 +680,7 @@ derivanti dall'uso di questi contenuti.
 <a href="https://ko-fi.com/sailtropics" target="_blank" rel="noopener noreferrer" style="display:inline-flex;align-items:center;gap:7px;padding:8px 16px;border-radius:20px;background:#F5A623;color:#0A192F!important;font-weight:800;font-size:13px;text-decoration:none;box-shadow:0 1px 4px rgba(0,0,0,.12)">☕ Ko-fi</a>
 </div>
 </div>
-<footer style="margin-top:18px;padding:16px 14px;text-align:center;border-top:1px solid var(--line);font-size:13px;color:var(--muted);line-height:1.6"><div style="max-width:640px;margin:0 auto">__I18N_footer_support__</div><div style="margin-top:8px;font-size:11px;opacity:.85">Nessuna pubblicità · Nessun tracciamento · Dati mai venduti · GDPR 100% · <a href="../paesi/trasparenza.html" style="color:var(--accent);text-decoration:underline">📖 Trasparenza costi (open-book)</a> · <a href="../paesi/ringraziamenti.html" style="color:var(--accent);text-decoration:underline">🙏 Ringraziamenti</a> · <a href="../paesi/merch.html" style="color:var(--accent);text-decoration:underline">🛍️ Catalogo merch POD</a></div></footer>
+<footer style="margin-top:18px;padding:16px 14px;text-align:center;border-top:1px solid var(--line);font-size:13px;color:var(--muted);line-height:1.6"><div style="max-width:640px;margin:0 auto">__I18N_footer_support__</div><div style="margin-top:8px;font-size:11px;opacity:.85">__I18N_footer_legal__ · <a href="../paesi/trasparenza.html" style="color:var(--accent);text-decoration:underline">__I18N_footer_transparency__</a> · <a href="../paesi/ringraziamenti.html" style="color:var(--accent);text-decoration:underline">__I18N_footer_thanks__</a> · <a href="../paesi/merch.html" style="color:var(--accent);text-decoration:underline">__I18N_footer_merch__</a></div><div style="margin-top:6px;font-size:10px;color:#4db6ac;opacity:.9">BUILD 30-08-2026 14:30 — pid allineati 1458 — hash preservato</div></footer>
 </main>
 <script>
 const plinks=[...document.querySelectorAll('.pagelink')];
@@ -719,10 +713,10 @@ function capIt(s){return s.split(/(\\s+)/).map(function(w,i){
 }).join('');}
 function lbl(n){
   const k=n.k.replace(/^[rm]:/,'');
-  if(n.t==='c')return TREE.lbl[k]||capIt(k.replace(/-/g,' '));
-  if(n.t==='r'){const r=TREE.regions.find(x=>x.k===k);return r?r.l:k;}
-  if(n.t==='m')return (TREE.mlbl&&TREE.mlbl[k])||capIt((k.includes('/')?k.split('/').pop():k).replace(/-/g,' '));
-  return capIt(k.split('/').pop().replace(/-/g,' '));
+  if(n.t==='c')return (I18N[k]||TREE.lbl[k]||capIt(k.replace(/-/g,' ')));
+  if(n.t==='r'){const r=TREE.regions.find(x=>x.k===k);const rl=r?r.l:k;return I18N[rl]||I18N['area_'+k]||rl;}
+  if(n.t==='m'){const ml=(TREE.mlbl&&TREE.mlbl[k])||capIt((k.includes('/')?k.split('/').pop():k).replace(/-/g,' '));return I18N[ml]||ml;}
+  return I18N[k]||capIt(k.split('/').pop().replace(/-/g,' '));
 }
 function parentOf(st){
   if(!st)return null;
@@ -732,7 +726,7 @@ function parentOf(st){
 function flagHtml(k){const f=TREE.flag[k]||'🏝️';return f.endsWith('.svg')?'<img src="'+esc(f)+'" alt="" style="width:28px;height:21px;object-fit:cover;border-radius:3px;vertical-align:middle;box-shadow:0 0 0 1px rgba(0,0,0,.2)">':esc(f);}
 function flagTile(k){
   return '<a class="area-card" data-open="'+esc(k)+'"><span class="ic fi">'+flagHtml(k)
-    +'</span><span class="nm">'+esc(TREE.lbl[k]||k)+'</span></a>';
+    +'</span><span class="nm">'+esc(I18N[k]||TREE.lbl[k]||k)+'</span></a>';
 }
 function renderNav(){
   const ch=chain(state);
@@ -753,25 +747,26 @@ function renderNav(){
   let h='';
   if(!state){
     h=TREE.regions.map(r=>{
+      const rl=I18N['area_'+r.k]||r.l;
       if(r.ready===false)
         return '<a class="titem reg dis"><span class="ic">'+r.i+'</span><span class="tx">'
-          +esc(r.l)+'</span><span class="soon">in preparazione</span></a>';
+          +esc(rl)+'</span><span class="soon">__I18N_in_preparation__</span></a>';
       return '<a class="titem reg" data-go="r:'+esc(r.k)+'">'
-        +'<span class="ic">'+r.i+'</span><span class="tx">'+esc(r.l)+'</span>'
+        +'<span class="ic">'+r.i+'</span><span class="tx">'+esc(rl)+'</span>'
         +' <span class="car">›</span></a>';
     }).join('');
   }else{
     if(cur.t==='r'){
       const r=TREE.regions.find(x=>'r:'+x.k===cur.k);
       if(r)h=r.subs.map(s=>'<a class="titem mac" data-go="m:'+esc(s.k)+'"><span class="ic">'
-        +(s.i||'🏝️')+'</span><span class="tx">'+esc(s.l)+'</span><span class="car">›</span></a>').join('')
+        +(s.i||'🏝️')+'</span><span class="tx">'+esc(I18N[s.l]||s.l)+'</span><span class="car">›</span></a>').join('')
         +r.p.map(k=>{const f=TREE.flag[k]||'🏝️';const ic=f.endsWith('.svg')?'<img src="'+esc(f)+'" style="width:22px;height:16px;object-fit:cover;border-radius:2px;vertical-align:middle">':esc(f);return '<a class="titem cty" data-open="'+esc(k)+'"><span class="ic">'+ic
-        +'</span><span class="tx">'+esc(TREE.lbl[k])+'</span><span class="car">›</span></a>';}).join('');
+        +'</span><span class="tx">'+esc(I18N[k]||TREE.lbl[k])+'</span><span class="car">›</span></a>';}).join('');
     }else if(cur.t==='m'){
       for(const r of TREE.regions){
         const s=r.subs.find(x=>x.k===cur.k.slice(2));
         if(s){h=s.p.map(k=>{const f=TREE.flag[k]||'🏝️';const ic=f.endsWith('.svg')?'<img src="'+esc(f)+'" style="width:22px;height:16px;object-fit:cover;border-radius:2px;vertical-align:middle">':esc(f);return '<a class="titem cty" data-open="'+esc(k)+'"><span class="ic">'+ic
-          +'</span><span class="tx">'+esc(TREE.lbl[k])+'</span><span class="car">›</span></a>';}).join('');break;}
+          +'</span><span class="tx">'+esc(I18N[k]||TREE.lbl[k])+'</span><span class="car">›</span></a>';}).join('');break;}
       }
     }
   }
@@ -783,18 +778,18 @@ function renderNav(){
   let g='';
   if(!state){
     const marRossoDesc='Egitto · Sudan · Eritrea · Gibuti · Israele · Giordania · Arabia Saudita · Yemen';
-    g=TREE.regions.map(r=>r.ready===false
-      ?'<a class="area-card soon"><span class="ic">'+r.i+'</span><span class="nm">'+esc(r.l)
-        +'</span><span class="soon">in preparazione</span></a>'
+      g=TREE.regions.map(r=>{const rl=I18N['area_'+r.k]||r.l;return r.ready===false
+       ?'<a class="area-card soon"><span class="ic">'+r.i+'</span><span class="nm">'+esc(rl)
+         +'</span><span class="soon">__I18N_in_preparation__</span></a>'
       :'<a class="area-card" data-go="r:'+esc(r.k)+'"><span class="ic">'+r.i
-        +'</span><span class="nm">'+esc(r.l)+'</span><span class="ds">'
-        +esc(r.k==='Mar Rosso'?marRossoDesc:(r.subs.length?r.subs.map(s=>s.l).join(' · ')
-                          :r.p.map(k=>TREE.lbl[k]).join(' · ')))+'</span></a>').join('');
+        +'</span><span class="nm">'+esc(rl)+'</span><span class="ds">'
+        +esc(r.k==='Mar Rosso'?(I18N['marRosso_desc']||marRossoDesc):(r.subs.length?r.subs.map(s=>I18N[s.l]||s.l).join(' · ')
+                          :r.p.map(k=>I18N[k]||TREE.lbl[k]).join(' · ')))+'</span></a>'}).join('');
   }else if(cur.t==='r'){
     const r=TREE.regions.find(x=>'r:'+x.k===cur.k);
     if(r)g=r.subs.map(s=>'<a class="area-card" data-go="m:'+esc(s.k)+'"><span class="ic">'+(s.i||'🗺️')
-        +'</span><span class="nm">'+esc(s.l)+'</span><span class="ds">'
-        +esc(s.p.map(k=>TREE.lbl[k]).join(' · '))+'</span></a>').join('')
+        +'</span><span class="nm">'+esc(I18N[s.l]||s.l)+'</span><span class="ds">'
+        +esc(s.p.map(k=>I18N[k]||TREE.lbl[k]).join(' · '))+'</span></a>').join('')
       +r.p.map(flagTile).join('');
   }else if(cur.t==='m'){
     for(const rr of TREE.regions){
@@ -811,15 +806,16 @@ function renderNav(){
       +'" data-page="'+esc(z.dataset.page)+'"><span class="ic">'+(zi||'🐬')
       +'</span><span class="nm">'+esc(lbl)+'</span></a>';}).join('');
   }
-  ng.innerHTML=g;
-  ng.style.display=g?'grid':'none';
+   ng.innerHTML=g;
+   ng.style.display=(g && !(document.getElementById(current)?.dataset.special))?'grid':'none';
   const ntc=document.getElementById('navtitle-c');
   if(g&&state){ntc.innerHTML=tit;ntc.style.display='flex';}
   else{ntc.innerHTML='';ntc.style.display='none';}
-   document.getElementById('disc-home').style.display=(!state)?'block':'none';
-   const wlh=document.getElementById('wiki-libera-home'); if(wlh) wlh.style.display=(!state)?'block':'none';
-   const fg=document.getElementById('funding-guidone'); if(fg) fg.style.display=(!state)?'block':'none';
-   if(g&&!ctry)document.querySelectorAll('.page').forEach(x=>x.classList.remove('visible'));
+    const isSpecial = !!document.getElementById(current)?.dataset.special;
+    document.getElementById('disc-home').style.display=(!state && !isSpecial)?'block':'none';
+    const wlh=document.getElementById('wiki-libera-home'); if(wlh) wlh.style.display=(!state && !isSpecial)?'block':'none';
+   const fg=document.getElementById('funding-guidone'); if(fg) fg.style.display='block';
+    if(g&&!ctry && !(document.getElementById(current)?.dataset.special))document.querySelectorAll('.page').forEach(x=>x.classList.remove('visible'));
   plinks.forEach(l=>l.style.display=(ctry&&l.dataset.country===ctry)?'':'none');
   document.querySelectorAll('.zonelink').forEach(l=>{
     const lk=l.dataset.country;let v=false;
@@ -828,6 +824,12 @@ function renderNav(){
   });
 }
 function go(k){
+  // FIX 30/08 IT: se sei su Iscriviti/Accedi (special) e navighi l'albero, chiudi la special e torna a griglia — altrimenti restavi bloccato su p3/p4
+  if(document.getElementById(current)?.dataset.special){
+    document.querySelectorAll('.page[data-special]').forEach(p=>p.classList.remove('visible'));
+    current='p1';
+    try{ history.replaceState(null,'','#p1'); }catch(e){}
+  }
   if(k===''){state='';renderNav();window.scrollTo(0,0);
     if(typeof toggleNav==='function')toggleNav(false);return;}
   state=k;renderNav();
@@ -835,17 +837,19 @@ function go(k){
 function setState(s){state=s;renderNav();}
 function show(id){
   current=id;
+  try{ history.replaceState(null,'','#'+id); }catch(e){ try{ location.hash='#'+id; }catch(e2){} }
   const p=document.getElementById(id);
   document.querySelectorAll('.page').forEach(x=>x.classList.toggle('visible',x===p));
   if(p&&p.dataset.special){
-     document.getElementById('navgrid').style.display='none';
-     document.getElementById('disc-home').style.display='none';
-     const wlh2=document.getElementById('wiki-libera-home'); if(wlh2) wlh2.style.display='none';
-     const fg2=document.getElementById('funding-guidone'); if(fg2) fg2.style.display='none';
-     window.scrollTo(0,0);
-     updateBreadcrumb();
-     return;
-   }
+      document.getElementById('navgrid').style.display='none';
+      document.getElementById('disc-home').style.display='none';
+      const wlh2=document.getElementById('wiki-libera-home'); if(wlh2) wlh2.style.display='none';
+      const fg2=document.getElementById('funding-guidone'); if(fg2) fg2.style.display='block';
+      setState('');
+      window.scrollTo(0,0);
+      updateBreadcrumb();
+      return;
+    }
   setState((p&&p.dataset.country)||'');
   window.scrollTo(0,0);
   if(p)initMaps(p);
@@ -993,6 +997,15 @@ document.getElementById('navgrid').addEventListener('click',e=>{
 });
 function esciRicerca(){document.getElementById('search').value='';document.body.classList.remove('searching');}
 plinks.forEach(l=>l.addEventListener('click',e=>{e.preventDefault();esciRicerca();show(l.dataset.page);}));
+document.addEventListener('click',e=>{
+  const a=e.target.closest('#login-side a');
+  if(!a) return;
+  e.preventDefault(); e.stopPropagation();
+  const href=a.getAttribute('href')||'';
+  const id=href.startsWith('#')?href.slice(1):href;
+  if(id && document.getElementById(id)) show(id);
+  else location.hash=href;
+});
 [...document.querySelectorAll('.zonelink')].forEach(l=>l.addEventListener('click',e=>{
   e.preventDefault();
   document.getElementById('search').value='';
@@ -1034,7 +1047,24 @@ document.getElementById('search').addEventListener('input',e=>{
     h.style.display=hitC[h.dataset.country]?'':'none';
   });
 });
-show('__FIRST__');
+// Avvio con conservazione hash iniziale — REGOLA 16b (cambio lingua = stessa pagina tradotta, MAI #p1) — vale per TUTTE le nazioni/isole.
+// NOTA: show() esegue history.replaceState e azzererebbe l'hash di destinazione: leggiamo l'hash PRIMA di show().
+(function(){
+  const h0=(location.hash||'').slice(1);
+  let start='__FIRST__';
+  try{
+    if(h0){
+      const el=document.getElementById(h0);
+      if(el) start=h0;
+    }
+  }catch(e){}
+  show(start);
+})();
+// Ripristino difensivo hash (aperture dirette con hash / es #p185 Capo Verde) — ora l'hash non è più azzerato all'avvio
+(function(){ try{ const h=location.hash.slice(1); if(h && document.getElementById(h)){ show(h); } }catch(e){} })();
+document.addEventListener('DOMContentLoaded', ()=>{ try{ const h=location.hash.slice(1); if(h && document.getElementById(h)){ show(h); } }catch(e){} });
+setTimeout(()=>{ try{ const h=location.hash.slice(1); if(h && document.getElementById(h)){ show(h); } }catch(e){} }, 120);
+window.addEventListener('hashchange',()=>{const id=location.hash.slice(1);if(document.getElementById(id))show(id);});
 function logoutGlobal(){ try{ localStorage.removeItem('sailtropics_logged'); sessionStorage.removeItem('sailtropics_logged'); }catch(e){} try{ if(typeof updNick==='function') updNick(); }catch(e){} location.hash='#'+PROFILO_PID; }
 function gradoIcon(g){ if(!g) return '⚓'; g=(g+'').toLowerCase(); if(g.includes('comandante')||g.includes('capitano')) return '👨‍✈️'; if(g.includes('skipper')) return '🧭'; if(g.includes('marinaio')) return '⚓'; if(g.includes('mozzo')) return '🔱'; return '⚓'; }
 function gradoLabel(g){ if(!g) return ''; return ' · '+g; }
@@ -1070,7 +1100,8 @@ function gradoLabel(g){ if(!g) return ''; return ' · '+g; }
   function applyHide(){
     const y=window.scrollY;
     const down=y>lastY && y>80;
-    const hide = down || footerVisible;
+    // a #p1 (top, y<=80) i tasti restano visibili anche se footer/guidone intersecano — evita sparizione fissa in home
+    const hide = down || (footerVisible && y>80);
     if(sw) sw.classList.toggle('hide', hide);
     if(sc) sc.classList.toggle('hide', hide);
     lastY=y; ticking=false;
@@ -1174,7 +1205,7 @@ function gradoLabel(g){ if(!g) return ''; return ' · '+g; }
 })();
 </script>
 <script>
-// Selettore lingua — mantiene pid, nomi nativi, no bandiere
+// Selettore lingua — mantiene pid, nomi nativi, no bandiere — REGOLA 16b: stessa pagina tradotta
 (function(){
   const langs=['en','fr','es','de','pt','it'];
   const path=location.pathname;
@@ -1182,6 +1213,16 @@ function gradoLabel(g){ if(!g) return ''; return ' · '+g; }
   const curLang=m?m[1]: (document.documentElement.lang||'en');
   document.documentElement.lang=curLang;
   const sw=document.getElementById('lang-switch');
+  function getCurrentHash(){ let h=location.hash; if(h && h.length>1) return h; try{ let vis=document.querySelector('.page.visible'); if(vis && vis.id) return '#'+vis.id; }catch(e){} try{ if(typeof current!=='undefined' && current) return '#'+current; }catch(e){} try{ if(typeof window.current!=='undefined' && window.current) return '#'+window.current; }catch(e){} return h||''; }
+  function updateLangHrefs(){
+    if(!sw) return;
+    const h=getCurrentHash();
+    sw.querySelectorAll('a[data-lang]').forEach(a=>{
+      const tl=a.dataset.lang;
+      // href dinamico = pagina corrispondente (stesso pid/hash) — non cartella — anche active per copia link — REGOLA 16b
+      a.setAttribute('href','../'+tl+'/index.html'+h);
+    });
+  }
   if(sw){
     sw.querySelectorAll('a[data-lang]').forEach(a=>{
       if(a.dataset.lang===curLang) a.classList.add('active'); else a.classList.remove('active');
@@ -1189,22 +1230,34 @@ function gradoLabel(g){ if(!g) return ''; return ' · '+g; }
         e.preventDefault();
         const targetLang=a.dataset.lang;
         if(targetLang===curLang) return;
-        const hash=location.hash||'';
-        let newPath;
-        if(m){
-          newPath=path.replace('/'+curLang+'/', '/'+targetLang+'/');
-        }else{
-          // da root /index.html o /paesi.html -> vai a /targetLang/
-          // preserva hash pid per sync navigazione
-          newPath='/' + targetLang + '/';
-          // se siamo su ghitabbino.github.io/portolano/ -> base è /portolano/
-          const base=path.includes('/portolano/')?'/portolano/':'/';
-          if(path.includes('/portolano/')) newPath='/portolano/'+targetLang+'/';
-        }
+        const hash=getCurrentHash();
         try{localStorage.setItem('sailtropics_lang',targetLang);}catch(e){}
-        location.href=newPath + hash;
+        // stessa pagina tradotta: sostituisci /it/ -> /en/ mantenendo pid (current o hash) — REGOLA 16b mai resettare a #p1
+        if(location.href.includes('/'+curLang+'/')){
+          const base=location.href.split('#')[0].replace('/'+curLang+'/', '/'+targetLang+'/');
+          location.href=base+hash;
+        }else{
+          // da paesi/paesi.html o root index.html — usa relativo per file:// e https://
+          location.href='../'+targetLang+'/index.html'+hash;
+        }
       });
     });
+    updateLangHrefs();
+    window.addEventListener('hashchange', updateLangHrefs);
+    // aggancia show() se già definito per aggiornare href subito dopo navigazione interna
+    try{
+      if(typeof window.show==='function'){
+        const _origShow=window.show;
+        window.show=function(id){ const r=_origShow.apply(this,arguments); setTimeout(updateLangHrefs,0); return r; };
+      } else {
+        // show non ancora definito: ritenta a DOM ready
+        document.addEventListener('DOMContentLoaded', ()=>{
+          if(typeof window.show==='function' && !window.show._langPatched){
+            const _o=window.show; window.show=function(id){ const r=_o.apply(this,arguments); setTimeout(updateLangHrefs,0); return r; }; window.show._langPatched=1;
+          }
+        });
+      }
+    }catch(e){}
   }
   // Sidebar condizionale: carica _sidebar.{lang}.json in base a cartella attiva — stessi ID, etichette tradotte
   try{
@@ -1257,14 +1310,23 @@ def _apply_i18n(h, lang):
     p = ROOT / "i18n" / f"{lang}.json"
     if p.exists():
         d = json.loads(p.read_text(encoding="utf-8"))
+        # prima passata: sostituisce tutti i placeholder diretti
+        for _k,_v in d.items():
+            h = h.replace(f"__I18N_{_k}__", _v)
+        # seconda passata: i valori stessi possono contenere __I18N_* (es. wiki_free_extra2 contiene __I18N_subscribe__)
         for _k,_v in d.items():
             h = h.replace(f"__I18N_{_k}__", _v)
         h = h.replace("__I18N__", json.dumps(d, ensure_ascii=False))
+        # terza passata: dopo dump JSON, i valori dentro const I18N contengono ancora __I18N_subscribe__ (es. wiki_free_extra2) — fix IT 30/08
+        for _k,_v in d.items():
+            h = h.replace(f"__I18N_{_k}__", _v)
     else:
         h = h.replace("__I18N__", "{}")
     return h
 
 html = _apply_i18n(html_template, "it")
+# FIX 30/08/2026: placeholder __ISCR__/__ACCE__ dentro i18n JSON non sostituiti da html_template — rimangono come #__ISCR__ rotti in home (riga wiki_free_extra2)
+html = html.replace("__ISCR__", ISCRIVITI_PID).replace("__ACCE__", ACCEDI_PID).replace("__PROFILO__", PROFILO_PID).replace("__CHI__", CHI_PID)
 OUT.write_text(html, encoding="utf-8")
 # === Trasparenza open-book come pagina HTML wiki ===
 try:
@@ -1390,9 +1452,234 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape')toggleNav(false);});
 """
 mob_template = mob_template.replace('<script src="assets/leaflet.js">', drawer + '<script src="assets/leaflet.js">', 1)
 mob = _apply_i18n(mob_template, "it")
+mob = mob.replace("__ISCR__", ISCRIVITI_PID).replace("__ACCE__", ACCEDI_PID).replace("__PROFILO__", PROFILO_PID).replace("__CHI__", CHI_PID)
 OUTM = ROOT / "paesi-mobile.html"
 OUTM.write_text(mob, encoding="utf-8")
 print(f'OK -> {OUTM} ({OUTM.stat().st_size} byte) [smartphone]')
+
+def _build_template_for_src(src_root: Path):
+    """Ricostruisce html_template usando i .md di src_root (per lingua). Mantiene pid identici ordinando come IT. Ritorna (html_template_src, mob_template_src, ALBERO_src)"""
+    import copy
+    # reset locals per build isolato
+    _md = markdown.Markdown(extensions=["tables", "fenced_code", "attr_list"])
+    _nav_pages, _sections = [], []
+    _page_map = {}
+    _scope_pid = {}
+    _queue = []
+    _zona_icons = {}
+    _countries = []
+    _country_to_region = {}
+    def _norm_title(s: str) -> str:
+        return re.sub(r"[^a-z0-9]", "", s.lower())
+    def _register(md_path: Path, title: str, country: str = "", in_nav: bool = True):
+        pid = f"p{len(_queue) + 1}"
+        _page_map[md_path.resolve()] = pid
+        title = re.sub(r"\s*\{#[^}]*\}", "", title).strip()
+        _queue.append((md_path, title, pid, country))
+        _scope_pid[(country, _norm_title(title))] = pid
+        if in_nav:
+            _nav_pages.append(f'<a class="navlink pagelink" data-country="{country}" href="#{pid}" data-page="{pid}">{title}</a>')
+    def _render(md_path: Path, title: str, sec_id: str, country: str = ""):
+        text = md_path.read_text(encoding="utf-8")
+        def fix_link(m):
+            target = m.group(1)
+            if target.startswith(("http://", "https://", "#")):
+                return m.group(0)
+            resolved = (md_path.parent / target).resolve()
+            if not resolved.exists():
+                resolved = (src_root / target).resolve()
+                if not resolved.exists():
+                    resolved = (ROOT / target).resolve()
+            if resolved in _page_map:
+                return f"](#{_page_map[resolved]})"
+            return m.group(0)
+        text = re.sub(r"\]\(([^)]+\.md)\)", fix_link, text)
+        text = re.sub(r'href="([^"]+\.md)"', lambda m: f'href="#{_page_map.get((md_path.parent / m.group(1)).resolve(), m.group(1))}"' if (md_path.parent / m.group(1)).resolve() in _page_map else m.group(0), text)
+        def _norm(s): return re.sub(r"[^a-z0-9]", "", s.lower())
+        title_pid = {}
+        for _p, _t, _id, _c in _queue:
+            title_pid[_norm(_t)] = _id
+        def link_markers(m):
+            try: pts = json.loads(m.group(1))
+            except: return m.group(0)
+            for p_ in pts:
+                if len(p_) >= 4: continue
+                lbl = _norm(str(p_[2]))
+                if not lbl: continue
+                scoped = [v for k, v in _scope_pid.items() if k[1] == lbl and k[0] == country]
+                if scoped: p_.append(scoped[0])
+                else:
+                    globl = [v for k, v in title_pid.items() if k == lbl]
+                    if len(globl) == 1: p_.append(globl[0])
+            out = json.dumps(pts, ensure_ascii=False).replace("'", "\u2019")
+            return "data-markers='" + out + "'"
+        text = re.sub(r"data-markers='([^']+)'", link_markers, text)
+        _md.reset()
+        html = _md.convert(text)
+        html = re.sub(r'<a href="(http[^"]+)"', r'<a href="\1" target="_blank" rel="noopener"', html)
+        def _tel(m):
+            s=m.group(0); digits=sum(ch.isdigit() for ch in s)
+            return f'<span class="tel">{s}</span>' if digits>=9 else s
+        html=re.sub(r'\+?\d[\d ]{7,}\d', _tel, html)
+        html=re.sub(r'\b\d{3} [\d ]{5,}\d(?=[^\d])', _tel, html)
+        html = re.sub(r"<table>(.*?)</table>", r'<div class="tw"><table>\1</table></div>', html, flags=re.S)
+        html = re.sub(r"\s*<h1>[^<]*</h1>", "", html, count=1)
+        attrs=""
+        mh=re.search(r"<h1([^>]*)>.*?</h1>", html, flags=re.S)
+        if mh:
+            attrs=mh.group(1)
+            if "id=" not in attrs: attrs=""
+            html=html[:mh.start()]+html[mh.end():]
+            html=re.sub(r"^\s+","",html)
+        badge=""
+        if country:
+            place=(country.split("/")[-1] if "/" in country else country)
+            place=place.replace("-"," ").title()
+            mt=re.search(r"\s*\(([^)]*)\)\s*$", title)
+            if mt and place.lower() in mt.group(1).lower():
+                title=title[:mt.start()].rstrip()
+                if not title: title=place
+            badge=f'<a class="loc-badge" data-back="1" href="#" title="Torna indietro di un livello">← {place}</a>'
+        if country and md_path.name == "00-ingresso-visti.md":
+            ckey = country.split("/")[0]
+            try: offline_ref = OFFLINE_PID
+            except NameError: offline_ref = "offline"
+            dl_note = f'<p style="margin:6px 0 14px;padding:8px 12px;border:1px solid var(--line);border-radius:8px;background:#0b131b;color:var(--muted);font-size:13px">📥 <b>Download offline:</b> <a href="gpx/{ckey}.gpx" download style="color:var(--accent);font-weight:700">GPX waypoint</a> · <a href="zip/{ckey}.zip" download style="color:var(--accent);font-weight:700">ZIP paese</a> <span style="font-size:11px">— WGS84, guida in <a href="#{offline_ref}" style="color:var(--accent)">Offline &amp; GPX</a></span></p>'
+            html = dl_note + html
+        if 'ancoraggi' in title.lower() and country:
+            ckey = country.split("/")[0]
+            try: offline_ref2 = OFFLINE_PID
+            except NameError: offline_ref2 = "offline"
+            gpx_link = f'<p style="margin:8px 0 14px;display:flex;flex-wrap:wrap;gap:8px;align-items:center"><a href="gpx/{ckey}.gpx" download style="display:inline-flex;align-items:center;gap:7px;padding:7px 12px;border:1px solid var(--line);border-radius:8px;background:#0b131b;color:var(--accent);text-decoration:none;font-weight:700;font-size:13px">⬇️ GPX waypoint (OpenCPN / Navionics)</a> <span style="color:var(--muted);font-size:12px">WGS84 · guida in <a href="#{offline_ref2}" style="color:var(--accent)">Offline &amp; GPX</a> · ZIP da prima pagina paese</span></p>'
+            html=('<blockquote><b>⚠️ Coordinate indicative</b> — tutte le posizioni sono espresse in <b>gradi decimali, datum WGS84</b>, e segnalano in modo approssimativo la rada o l\u2019ancoraggio, non punti di precisione. Confermare sempre con carta nautica ufficiale WGS84 e osservazione in loco. <b>Nessuna responsabilità per l\u2019uso di questi dati: la sicurezza resta al Comandante.</b></blockquote>'+ gpx_link + html)
+        def _add_dms(m): return m.group(1)+m.group(4)+(f'<div class="dms">📍 {_dms(m.group(2),"N","S")} {_dms(m.group(3),"E","W")} · WGS84</div>')
+        html=RE_FRAME.sub(_add_dms,html)
+        stem=md_path.stem
+        hook=f'<span id="{stem}"></span>' if re.match(r'^(anc|rist)-',stem) else ''
+        bc_nav = '<nav class="breadcrumb" data-bc aria-label="Breadcrumb"></nav>'
+        html = html.replace('Ultimo aggiornamento', '__I18N_last_updated__')
+        html = html.replace('Torna alle Aree', '__I18N_home__')
+        _sections.append(f'<section id="{sec_id}" class="page" data-country="{country}">{hook}{bc_nav}{badge}<h1{attrs}>{title}</h1>{html}</section>')
+    # registra come nel flusso principale ma usando src_root
+    _register(src_root / "00-indice.md", "__I18N_areas__")
+    _register(src_root / "offline-gpx.md", "Offline & GPX", country="", in_nav=False)
+    _OFFLINE_PID = _queue[-1][2]
+    # titoli tradotti per pagine speciali — evita h1 italiano fisso in lingue estere
+    _lang = src_root.name if src_root.name in LANGUAGES else 'it'
+    _titles = {
+        'en': {'iscriviti':'Sign Up','accedi':'Log In','profilo':'Profile','chi':'About Us','contr':'Contribute','offline':'Offline & GPX'},
+        'fr': {'iscriviti':"S'inscrire",'accedi':'Se connecter','profilo':'Profil','chi':'Qui sommes-nous','contr':'Contribuer','offline':'Hors ligne & GPX'},
+        'es': {'iscriviti':'Suscribirse','accedi':'Iniciar sesión','profilo':'Perfil','chi':'Quiénes somos','contr':'Contribuir','offline':'Sin conexión & GPX'},
+        'de': {'iscriviti':'Anmelden','accedi':'Einloggen','profilo':'Profil','chi':'Über uns','contr':'Mitwirken','offline':'Offline & GPX'},
+        'pt': {'iscriviti':'Inscrever-se','accedi':'Entrar','profilo':'Perfil','chi':'Quem somos','contr':'Contribuir','offline':'Offline & GPX'},
+        'it': {'iscriviti':'Iscriviti','accedi':'Accedi','profilo':'Profilo','chi':'Chi siamo','contr':'Contribuisci','offline':'Offline & GPX'},
+    }.get(_lang, {'iscriviti':'Iscriviti','accedi':'Accedi','profilo':'Profilo','chi':'Chi siamo','contr':'Contribuisci','offline':'Offline & GPX'})
+    _register(src_root / "iscriviti.md", _titles['iscriviti'], country="", in_nav=False)
+    _ISCR = _queue[-1][2]
+    _register(src_root / "accedi.md", _titles['accedi'], country="", in_nav=False)
+    _ACCE = _queue[-1][2]
+    _register(src_root / "profilo.md", _titles['profilo'], country="", in_nav=False)
+    _PROF = _queue[-1][2]
+    _register(src_root / "chi-siamo.md", _titles['chi'], country="", in_nav=False)
+    _CHI = _queue[-1][2]
+    _register(src_root / "contribuisci.md", _titles['contr'], country="", in_nav=False)
+    _CONTR = _queue[-1][2]
+    # sovrascrivi offline pid con titolo tradotto
+    _queue[-2] = (_queue[-2][0], _titles['offline'], _queue[-2][2], _queue[-2][3]) if _queue[-2][1]=="Offline & GPX" else _queue[-2]
+    def _src_for(p: Path) -> Path:
+        try:
+            rel = p.relative_to(ROOT)
+        except ValueError:
+            return p
+        cand = src_root / rel
+        return cand if cand.exists() else p
+    NON = {'controllo', 'fonti', 'tools', 'assets', 'mappe', 'gruppi', 'i18n', 'it', 'en', 'fr', 'es', 'de', 'pt'}
+    # master = ROOT per garantire pid identici in tutte le lingue (fallback IT se traduzione manca)
+    for country_dir in sorted(p for p in ROOT.iterdir() if p.is_dir() and not p.name.startswith(".") and p.name not in NON):
+        pages = sorted(country_dir.glob("*.md"))
+        if not pages: continue
+        key = country_dir.name
+        start = len(_queue)
+        for f in pages:
+            sf = _src_for(f)
+            first = sf.read_text(encoding="utf-8").splitlines()[0].lstrip("# ").strip()
+            title = re.sub(r"^\d+\s*[—-]\s*", "", first)
+            _register(sf, title, country=key, in_nav=True)
+        # has_groups va calcolato su ROOT (master)
+        has_groups = any(p.is_dir() and not p.name.startswith(".") and p.name != "ristoranti" and any(p.glob("*.md")) for p in country_dir.iterdir())
+        for sub in sorted(p for p in country_dir.iterdir() if p.is_dir() and not p.name.startswith(".")):
+            if sub.name in ("ristoranti", "ancoraggi"):
+                for f in sorted(sub.glob("*.md")):
+                    sf = _src_for(f)
+                    first = sf.read_text(encoding="utf-8").splitlines()[0].lstrip("# ").strip()
+                    title = re.sub(r"^\d+\s*[—-]\s*", "", first)
+                    title = re.sub(r"\s*\{#[^}]*\}", "", title).strip()
+                    _register(sf, title, country=key, in_nav=False)
+                continue
+            gpages = sorted(sub.glob("*.md"))
+            if not gpages: continue
+            gkey = key + "/" + sub.name
+            _zona_icons[gkey] = ZONA_ICONA.get(gkey, "🐬")
+            hpos = len(_nav_pages)
+            for f in gpages:
+                sf = _src_for(f)
+                first = sf.read_text(encoding="utf-8").splitlines()[0].lstrip("# ").strip()
+                title = re.sub(r"^\d+\s*[—-]\s*", "", first)
+                title = re.sub(r"\s*\{#[^}]*\}", "", title).strip()
+                title = strip_zone_suffix(title, sub.name)
+                _register(sf, title, country=gkey, in_nav=True)
+            if has_groups:
+                lbl = sub.name.replace("-", " ").title()
+                pid = _queue[len(_queue) - len(gpages)][2]
+                zic = ZONA_ICONA.get(gkey, "🐬")
+                _nav_pages.insert(hpos, f'<a style="display:none" class="navlink zonelink" data-country="{gkey}" data-page="{pid}" href="#{pid}"><span class="zic">{zic}</span>{lbl}</a>')
+            for sub2 in sorted(p for p in sub.iterdir() if p.is_dir() and not p.name.startswith(".")):
+                for f in sorted(sub2.glob("*.md")):
+                    sf = _src_for(f)
+                    first = sf.read_text(encoding="utf-8").splitlines()[0].lstrip("# ").strip()
+                    title = re.sub(r"^\d+\s*[—-]\s*", "", first)
+                    title = re.sub(r"\s*\{#[^}]*\}", "", title).strip()
+                    _register(sf, title, country=gkey, in_nav=False)
+        _countries.append((key, _queue[start][2]))
+        _country_to_region[key] = REGIONE_PER_PAESE.get(key, 'Altro')
+    for md_path, title, sec_id, country in _queue:
+        _render(md_path, title, sec_id, country)
+    # Build ALBERO come prima
+    region_to_countries = {}
+    for ctry, reg in _country_to_region.items():
+        region_to_countries.setdefault(reg, []).append(ctry)
+    def paese_label(k: str) -> str:
+        if k in LABELS_IT: return LABELS_IT[k]
+        part = {'e', 'di', 'del', 'della', 'delle', 'dei', 'degli', 'a', 'da','in', 'su', 'per', 'con', 'tra', 'fra'}
+        ws = base = k.split("/")[-1].split("-")
+        ws = [w.capitalize() if i == 0 or w not in part else w for i, w in enumerate(base)]
+        return " ".join(ws)
+    MAR_ROSSO_PAESI = ['egitto','sudan','eritrea','gibuti','israele','giordania','arabia-saudita','yemen']
+    albero_regioni = []
+    for reg in REGIONI_ORDINE:
+        paesi_reg = sorted(k for k, _ in _countries if _country_to_region.get(k) == reg)
+        if reg == 'Caraibi':
+            subs = [{'k': f'Caraibi/{m}', 'l': m, 'i': MACRO_ICONA.get(m, '🗺️'), 'p': [k for k in paesi_reg if MACRO_CARAIBI.get(k) == m]} for m in MACRO_ORDINE if any(MACRO_CARAIBI.get(k) == m for k in paesi_reg)]
+            diretti = [k for k in paesi_reg if k not in MACRO_CARAIBI]
+        elif reg == 'Mediterraneo':
+            subs = [{'k': f'Mediterraneo/{b}', 'l': b, 'i': BACINO_ICONA.get(b, '⛵'), 'p': [k for k in paesi_reg if BACINO_MEDITERRANEO.get(k) == b]} for b in BACINO_ORDINE if any(BACINO_MEDITERRANEO.get(k) == b for k in paesi_reg)]
+            diretti = [k for k in paesi_reg if k not in BACINO_MEDITERRANEO]
+        elif reg == 'Mar Rosso':
+            subs, diretti = [], MAR_ROSSO_PAESI
+            for kk in MAR_ROSSO_PAESI:
+                if kk not in _country_to_region: _country_to_region[kk] = 'Mar Rosso'
+        else:
+            subs, diretti = [], paesi_reg
+        pronta = bool(paesi_reg) or reg in ('Mar Rosso',)
+        albero_regioni.append({'k': reg, 'l': AREA_LABEL.get(reg, reg), 'i': AREA_ICONA.get(reg, '🌊'), 'subs': subs, 'p': diretti, 'ready': pronta})
+    ALBERO2 = {'regions': albero_regioni, 'cover': {k: pid for k, pid in _countries}, 'lbl': {**{k: paese_label(k) for k, _ in _countries}, **{k: paese_label(k) for k in MAR_ROSSO_PAESI}}, 'flag': {**{k: BANDIERE.get(k, '🏝️') for k, _ in _countries}, **{k: BANDIERE.get(k, '🏝️') for k in MAR_ROSSO_PAESI}}, 'mlbl': {**{f'Caraibi/{m}': m for m in MACRO_ORDINE}, **{f'Mediterraneo/{b}': b for b in BACINO_ORDINE}}, 'zona': _zona_icons, 'macroOf': {**{k: m for k, m in MACRO_CARAIBI.items() if _country_to_region.get(k) == 'Caraibi'}, **{k: b for k, b in BACINO_MEDITERRANEO.items() if _country_to_region.get(k) == 'Mediterraneo'}}, 'regionOf': {**{f'Caraibi/{m}': 'Caraibi' for m in MACRO_ORDINE}, **{f'Mediterraneo/{b}': 'Mediterraneo' for b in BACINO_ORDINE}, **{k: r for k, r in _country_to_region.items()}},}
+    nav_html2 = ('  <div id="aree-head" title="__I18N_all_seas__">🌍 __I18N_areas__</div><div id="navtitle"></div><div id="tree"></div><div class="nav-pages">' + "\n".join(_nav_pages) + "</div>")
+    TEMPLATE2 = TEMPLATE  # riusa stesso template base
+    html_tmpl2 = (TEMPLATE2.replace("__NAV__", nav_html2).replace("__TREE__", json.dumps(ALBERO2, ensure_ascii=False)).replace("__SECTIONS__", "\n".join(_sections)).replace(f'<section id="{_ISCR}" class="page"', f'<section id="{_ISCR}" class="page" data-special="1"', 1).replace(f'<section id="{_ACCE}" class="page"', f'<section id="{_ACCE}" class="page" data-special="1"', 1).replace(f'<section id="{_PROF}" class="page"', f'<section id="{_PROF}" class="page" data-special="1"', 1).replace(f'<section id="{_OFFLINE_PID}" class="page"', f'<section id="{_OFFLINE_PID}" class="page" data-special="1"', 1).replace(f'<section id="{_CHI}" class="page"', f'<section id="{_CHI}" class="page" data-special="1"', 1).replace(f'<section id="{_CONTR}" class="page"', f'<section id="{_CONTR}" class="page" data-special="1"', 1).replace("__CHI__", _CHI).replace("__ISCR__", _ISCR).replace("__ACCE__", _ACCE).replace("__PROFILO__", _PROF).replace("__FIRST__", "p1"))
+    mob_template2 = html_tmpl2.replace("</style>", mob_css + "</style>", 1)
+    mob_template2 = mob_template2.replace("<body>", "<body>\n" + ui, 1)
+    mob_template2 = mob_template2.replace('<script src="assets/leaflet.js">', drawer + '<script src="assets/leaflet.js">', 1)
+    return html_tmpl2, mob_template2, ALBERO2
 
 # === MULTILINGUA: sottodirectory /en /fr /es /de /pt /it — IT non primo ===
 LANGUAGES = {
@@ -1403,9 +1690,47 @@ LANGUAGES = {
     'pt': 'Português',
     'it': 'Italiano'
 }
-# genera versioni lingua con UI tradotta via i18n (contenuto per ora IT, struttura identica)
+# genera versioni lingua con UI tradotta via i18n (contenuto per lingua, pid identici)
 for lang in LANGUAGES:
-    base_html = _apply_i18n(html_template, lang)
+    if lang == 'it':
+        base_html = _apply_i18n(html_template, lang)
+        base_html = base_html.replace("__ISCR__", ISCRIVITI_PID).replace("__ACCE__", ACCEDI_PID).replace("__PROFILO__", PROFILO_PID).replace("__CHI__", CHI_PID)
+        base_mob = _apply_i18n(mob_template, lang)
+        base_mob = base_mob.replace("__ISCR__", ISCRIVITI_PID).replace("__ACCE__", ACCEDI_PID).replace("__PROFILO__", PROFILO_PID).replace("__CHI__", CHI_PID)
+        cur_albero = ALBERO
+    else:
+        src = ROOT / lang
+        if not (src / "00-indice.md").exists():
+            print(f"WARN {lang} src missing, fallback IT")
+            base_html = _apply_i18n(html_template, lang)
+            base_mob = _apply_i18n(mob_template, lang)
+            cur_albero = ALBERO
+        else:
+            try:
+                html_tmpl_lang, mob_tmpl_lang, alberi_lang = _build_template_for_src(src)
+                base_html = _apply_i18n(html_tmpl_lang, lang)
+                base_mob = _apply_i18n(mob_tmpl_lang, lang)
+                # FIX 30/08/2026: __ISCR__/__ACCE__ residui dentro i18n JSON (wiki_free_extra2) — sostituisci con pid reali estratti da base_html (const ISCRIVITI_PID)
+                import re as _re_fix
+                def _fix_i18n_placeholders(h):
+                    m_iscr = _re_fix.search(r"ISCRIVITI_PID='(p\d+)'", h)
+                    m_acce = _re_fix.search(r"ACCEDI_PID='(p\d+)'", h)
+                    m_prof = _re_fix.search(r"PROFILO_PID='(p\d+)'", h)
+                    m_chi = _re_fix.search(r"CHI_PID='(p\d+)'", h)
+                    if m_iscr: h = h.replace("__ISCR__", m_iscr.group(1))
+                    if m_acce: h = h.replace("__ACCE__", m_acce.group(1))
+                    if m_prof: h = h.replace("__PROFILO__", m_prof.group(1))
+                    if m_chi: h = h.replace("__CHI__", m_chi.group(1))
+                    return h
+                base_html = _fix_i18n_placeholders(base_html)
+                base_mob = _fix_i18n_placeholders(base_mob)
+                cur_albero = alberi_lang
+            except Exception as e:
+                print(f"ERR build {lang}: {e}")
+                import traceback; traceback.print_exc()
+                base_html = _apply_i18n(html_template, lang)
+                base_mob = _apply_i18n(mob_template, lang)
+                cur_albero = ALBERO
     lang_html = base_html.replace('<html lang="it">', f'<html lang="{lang}">')
     # fix selector active server-side
     lang_html = lang_html.replace('data-lang="it" class="active"', 'data-lang="it"')
@@ -1420,10 +1745,11 @@ for lang in LANGUAGES:
     lang_html = lang_html.replace('"gpx/', '"../paesi/gpx/')
     lang_html = lang_html.replace('"zip/', '"../paesi/zip/')
     lang_html = lang_html.replace("'assets/leaflet.css'", "'../paesi/assets/leaflet.css'")
+    # sostituisce TREE se era per lingua diversa (già in base_html)
     lang_dir = ROOT.parent / lang
     lang_dir.mkdir(exist_ok=True)
     (lang_dir / "index.html").write_text(lang_html, encoding="utf-8")
-    base_mob = _apply_i18n(mob_template, lang)
+    # mob version already in base_mob (per lingua)
     lang_mob = base_mob.replace('<html lang="it">', f'<html lang="{lang}">')
     lang_mob = lang_mob.replace('data-lang="it" class="active"', 'data-lang="it"')
     lang_mob = lang_mob.replace(' class="active"', '')

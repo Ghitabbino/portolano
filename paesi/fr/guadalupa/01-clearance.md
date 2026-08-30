@@ -1,15 +1,15 @@
-# 01 — Clearance doganale della barca
+# 01 — Formalités douanières
 
-**Ultima verifica: 21/08/2026**
+**Dernière vérification: 21/08/2026**
 
-## Chi deve farla
+## Qui doit effectuer les formalités
 
 Tutti i natanti da diporto, qualsiasi nazionalità e bandiera, che:
 - **entrano** nelle acque francesi delle Antille provenendo da porto/mare territoriale straniero o alto mare;
 - **escono** verso porto/mare straniero o alto mare;
 - **si spostano tra le isole francesi delle Antille** (obbligatorio anche Guadalupa↔Martinica ecc. dal 01/09/2024). [martinique.gouv.fr 30/01/2026 ★★★★★]
 
-## Procedura online (obbligatoria dal 09/2024)
+## Procédure online (obbligatoria dal 09/2024)
 
 Tutte le Antille francesi usano lo stesso portale: **https://www.demarches-simplifiees.fr/commencer/declaration-clearance-antilles** — dichiarazione d'ingresso e di partenza per natanti da/per l'estero. [/ ★★★★; 2024, martinique.gouv.fr ★★★★★]
 
@@ -26,14 +26,14 @@ Dopo la prima clearance in un porto francese delle Antille, gli spostamenti tra 
 
 ## Costi
 
-| Voce | Costo | Fonte |
+| Rubrique | Coût | Source |
 |---|---|---|
 | Dichiarazione online | **Gratuita** | martinique.gouv.fr ★★★★★ |
 | Stampa+timbro attestation in Point agréé (opzionale) | **5 €** |Fonti diportiste aggregate ★★★|
 
-## Punti agréé Guadalupa (lista ufficiale dogane, v. 12/2025)
+## Points agréés Guadalupa (lista ufficiale dogane, v. 12/2025)
 
-| Località | Prestatore | Contatti | Orari |
+| Località | Prestatore | Contacts | Horaires |
 |---|---|---|---|
 | **Deshaies** | Mairie — Service portualie | alefort@villeedeshaies.fr · +590 690 25 37 80 | su orari municipio |
 | **Gourbeyre** (Rivière Sens) | SAS Sud Ancrage — Capitainerie Marina | +590 590 867 943 · sudancrage@orange.fr | lun–ven 7h–17h30; sab–dom 8h–12h |
@@ -44,25 +44,25 @@ Dopo la prima clearance in un porto francese delle Antille, gli spostamenti tra 
 | **Pointe-à-Pitre** | Capitainerie Marina Bas-du-Fort | +590 590 936 620 / +590 690 351 919 · info@marinaguadeloupe.com | variabile per stagione |
 | **Saint-François** | Capitainerie, Avenue de l'Europe (Immeuble GBH) | +590 596 738 405 / +590 596 789 519 · marina@ville-saintfrancois.fr | lun–ven 7h–12h / 14h–17h; sab 8h30–12h; dom chiuso |
 
-Fonte: lista ufficiale "Points agréés clearance plaisance" (Punti autorizzati clearance diportiva) Direction régionale des douanes, versione 15/12/2025 ★★★★★ (archiviata in `fonti/points_clearance.txt`).
+Source: lista ufficiale "Points agréés clearance plaisance" (Punti autorizzati clearance diportiva) Direction régionale des douanes, versione 15/12/2025 ★★★★★ (archiviata in `fonti/points_clearance.txt`).
 
-## Dogana regionale
+## Douane régionale
 
 Direction Régionale des Douanes de Guadeloupe — 151 allée Maurice Micaux, 97102 Basse-Terre · +590 590 994 530 · dr-guadeloupe@douane.finances.gouv.fr ★★★★★
 
-## Esperienze dei crocieristi
+## Retours de navigateurs
 
 - Les Saintes (ISM): check-in semplice, 14h–16h; internet e lavanderia disponibili in loco. ★★★
 - Deshaies: procedura rapida ma personale a volte assente negli orari dichiarati — evitare l'ora di pranzo. ★★★
 - Pointe-à-Pitre (Bas-du-Fort): ufficio affollato al mattino e a pranzo; clearance elettronica in capitaineria 8h–17h30 (8h–13h/14h–17h30 fuori stagione), dom/festivi 8h–12h. ★★★
 
-## Sanzioni
+## Sanctions
 
 L'omessa dichiarazione di arrivo/partenza extra-UE è un'infrazione doganale: sanzioni pecuniarie e possibile sequestro fino alla regolarizzazione. Con l'online non ci sono scuse: farla prima di lasciare l'ancoraggio. [Code des douanes art. 411 ss. ★★★★★]
 
-## Da verificare prima della crociera
+## À vérifier avant la croisière
 
 - Eventuale nuovo URL del modulo (la piattaforma cambia spesso).
 - Lista punti agréé aggiornata (nuove versioni pubblicate dalle douanes).
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026

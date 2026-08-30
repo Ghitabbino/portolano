@@ -1,18 +1,18 @@
 # Ocean Oasis Beach Club
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Punt Vierkant / Kings Beach — 260 EEG Blvd, Kralendijk sud |
-| Cucina | 🐟 Beach club & grill — internazionale con Josper charcoal oven |
-| Specialità | *Tuna/wahoo alla griglia Josper, Fish & Meat Market serale, cocktail al tramonto, colazioni* |
-| Costo | 💰€€ per persona senza bevande (colazione 9–11:30, pranzo 12–16, cena 18–22; beach bed US$25, cabana US$50) |
-| Location | 🏖️ beach club con spiaggia bianca, lettini, cabana, terrazza pergola, open kitchen |
+| Zone | Punt Vierkant / Kings Beach — 260 EEG Blvd, Kralendijk sud |
+| Cuisine | 🐟 Beach club & grill — internazionale con Josper charcoal oven |
+| Spécialité | *Tuna/wahoo alla griglia Josper, Fish & Meat Market serale, cocktail al tramonto, colazioni* |
+| Coût | 💰€€ per persona senza bevande (colazione 9–11:30, pranzo 12–16, cena 18–22; beach bed US$25, cabana US$50) |
+| Emplacement | 🏖️ beach club con spiaggia bianca, lettini, cabana, terrazza pergola, open kitchen |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ocean+Oasis+Beach+Club+EEG+Blvd+260+Kralendijk) |
-| Contatti | +599 701 4440 · info@oceanoasisbonaire.com · [oceanoasisbonaire.com](https://www.oceanoasisbonaire.com) |
-| Valutazioni | **bonaire.com 4,4/5 (1287) [locale, 28/08/2026]** ★★★ · Google 4,4/5 (1287) → **★★★★** |
-| Orari | tutti i giorni 9:00–22:00 (colazione 9–11:30 · pranzo 12–16 · cena 18–22 · snack 11–22) |
+| Contacts | +599 701 4440 · info@oceanoasisbonaire.com · [oceanoasisbonaire.com](https://www.oceanoasisbonaire.com) |
+| Évaluations | **bonaire.com 4,4/5 (1287) [locale, 28/08/2026]** ★★★ · Google 4,4/5 (1287) → **★★★★** |
+| Horaires | tutti i giorni 9:00–22:00 (colazione 9–11:30 · pranzo 12–16 · cena 18–22 · snack 11–22) |
 
 ## Menu
 
@@ -23,9 +23,9 @@
 
 **Chef**: Team Ocean Oasis — cucina open con forno Josper
 
-## Foto
+## Photos
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Photos non ancora disponibili — recuperare al controllo mensile.*
 
 ## Note
 

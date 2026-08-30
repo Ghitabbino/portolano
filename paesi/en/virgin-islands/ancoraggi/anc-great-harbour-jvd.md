@@ -1,4 +1,4 @@
-# Great Harbour (Jost Van Dyke) — ancoraggio {#anc-great-harbour-jvd}
+# Great Harbour (Jost Van Dyke) — anchorage {#anc-great-harbour-jvd}
 
 [← Tutti gli ancoraggi](../08-ancoraggi.md)
 **18°26.8′N 64°45.0′W**
@@ -16,4 +16,4 @@
 <div class="mapframe" data-slug="anc-great-harbour-jvd" data-lat="18.447" data-lon="-64.75"></div>
 *Mappa offline Great Harbour (Jost Van Dyke) — zoom con i pulsanti +/−; menu in alto a destra per Carta nautica e Segnali*
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

@@ -1,20 +1,19 @@
-# 09 — Artigiani nautici
+# 09 — Marine Trades & Chandlers
 
-**Ultimo aggiornamento: 23/08/2026**
+**Last updated: 23/08/2026**
 
+Bequia is an island of boatbuilders and sailors: a tradition of boatbuilding and historic whale hunting ★★★★
 
-Bequia è un'isola di cantieristi e marinai: tradizione di costruzione barche e caccia alla balena storica ★★★★
-
-| Categoria | Chi / dove | Note |
+| Category | Who / Where | Notes |
 |---|---|---|
-| **Vele & canvas** | Sails & Canvas Bequia (opposto G.Y.E., Ocar) | Custom bimini/dodger con telai inox ★★★ |
-| Velai e canvas | più laboratori a Ocar e Port Elizabeth ★★★ | |
-| **Chandlery** | Dockside Marine | La più fornita, con dinghy dock ★★★★ |
-| Cantieri | Friendship Bay | Boatbuilders attivi ★★★ |
-| Model boats | Port Elizabeth | Miniature tradizionali in legno, negozi-salotti ★★★ |
+| **Sails & Canvas** | Sails & Canvas Bequia (opposite G.Y.E., Ocar) | Custom bimini/dodger with inox frames ★★★ |
+| Sail and canvas | More workshops at Ocar and Port Elizabeth ★★★ | |
+| **Chandlery** | Dockside Marine | The most comprehensive, with dinghy dock ★★★★ |
+| Boatyards | Friendship Bay | Active boatbuilders ★★★ |
+| Model boats | Port Elizabeth | Traditional wooden miniatures, shop-salons ★★★ |
 
-## On-water services (in baia)
+## On-water services (in harbour)
 
-Acqua e gasolio in cisterna, pane del mattino, lavanderia a ritiro, raccolta rifiuti: tutto prenotabile via VHF 68 o dai contatti in marina — [Compass](https://caribbeancompass.com/island-spotlight-bequia-st-vincent-the-grenadines) ★★★★
+Fresh water and fuel in tanks, morning bread, laundry pickup, waste collection: all bookable via VHF 68 or from marina contacts — [Compass](https://caribbeancompass.com/island-spotlight-bequia-st-vincent-the-grenadines) ★★★★
 
-Ultimo aggiornamento: 23/08/2026
+**Last updated: 23/08/2026**

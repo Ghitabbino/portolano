@@ -1,6 +1,6 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
-**Ultima verifica: 25/08/2026** · Fonti: portauthority.bz ★★★★★ · oldbelize.com ★★
+**Last checked: 25/08/2026** · Sources: portauthority.bz ★★★★★ · oldbelize.com ★★
 
 | Porto/Marina | Note |
 |---|---|
@@ -14,16 +14,16 @@
 ## Pilotaggio
 
 Compulsorio solo per **Belize City** (ingressi English Caye / Grennell's Channel):
-pilota o waiver preventivo tramite agente/BPA ★★★
+pilota or waiver preventivo tramite agente/BPA ★★★
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026
 
-## Tariffe
+## Tariffs
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## Distanze utili
+## Useful Distances
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 

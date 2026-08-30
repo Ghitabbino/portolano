@@ -1,24 +1,24 @@
-# 10 — Ristoranti
+# 10 — Restaurants
 
-**Ultimo aggiornamento: 24/08/2026** · Selezione orientata alla crociera: locali a piedi dal porto/ancoraggio.
+**Dernière mise à jour: 24/08/2026** · Selezione orientata alla crociera: locali a piedi dal porto/ancoraggio.
 
-Legenda: **€** <10 € · **€€** 10–25 € · **€€€** >25 € — 🐟 pesce · 🥩 carne · 🥙 creolo
+Légende: **€** <10 € · **€€** 10–25 € · **€€€** >25 € — 🐟 pesce · 🥩 carne · 🥙 creolo
 
-## Griglia generale
+## Grille générale
 
-| Ristorante | Zona | Costo | Cucina | Specialità | Note |
+| Ristorante | Zone | Coût | Cuisine | Spécialité | Note |
 |---|---|---|---|---|---|
-| **Ristorante del porto** | Porto principale sao-nicolau | **€–€€** | 🐟 creola | Pesce del giorno, cachupa | A piedi dal pontile ★★ |
+| **Ristorante del porto** | Port principale sao-nicolau | **€–€€** | 🐟 creola | Pesce del giorno, cachupa | A piedi dal pontile ★★ |
 | **Snack bar centrale** | Capoluogo | **€** | 🥙 street food | Pastéis, bafas, grogue | Economico ★★ |
-| **Ristorante turistico** | Lungomare/spiaggia | **€€** | 🐟 misto | Grigliate, frutti di mare | Prezzi turistici ★★ |
+| **Ristorante turistico** | Lungomare/spiaggia | **€€** | 🐟 misto | Grillete, frutti di mare | Prezzi turistici ★★ |
 
 *Elenco in aggiornamento: verificare orari su Google Maps/Facebook locale; fuori stagione chiusure frequenti.*
 
 ## Mappa
 
-**DATO MANCANTE** — tasselli mappa offline non ancora generati per sao-nicolau; usare cartografia ufficiale.
+**DONNÉE MANQUANTE** — tasselli carte hors ligne non ancora generati per sao-nicolau; usare cartografia ufficiale.
 
-## App e fonti
+## Applis et sources
 
 | Piattaforma | Uso locale |
 |---|---|
@@ -26,4 +26,4 @@ Legenda: **€** <10 € · **€€** 10–25 € · **€€€** >25 € — 
 | Facebook locale | Menu e chiusure in tempo reale ★★ |
 | Contatto diretto / passaparola | Più affidabile fuori dai poli turistici ★★ |
 
-Ultimo aggiornamento: 24/08/2026
+Dernière mise à jour: 24/08/2026

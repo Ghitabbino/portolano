@@ -1,25 +1,25 @@
 # Sal Fina
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| Zona | Los Cristianos – Paseo de Berlín, vicoli caratteristici vicino al porto |
-| Cucina | 🍕 Italiana creativa con carne e pesce |
-| Specialità | Carbonara *(carbonara)* · hamburguesas caseras *(hamburger artigianali)* · tiramisú *(tiramisù)* |
-| Costo | 💰€€ 10–30 € per persona senza bevande |
-| Location | 🪶 locale intimo nascosto tra i vicoli, atmosfera curata |
-| Contatti | 633 68 61 88 · Facebook/Instagram @salfina_tenerife |
-| Valutazioni |TA 4,9/5 (1.337), nº5 su 361 a Los Cristianos, Lo Mejor de lo Mejor Travellers' Choice 2025 (top 1% mondiale) · Google 4,8/5 (~1.179) → ★★★★★|
-| Orari | lun–sab 18–23 · dom chiuso ⚠️ solo cena |
+| Area | Los Cristianos – Paseo de Berlín, vicoli caratteristici vicino at the porto |
+| Cuisine | 🍕 Italiana creativa with carne and pesce |
+| Speciality | Carbonara *(carbonara)* · hamburguesas caseras *(hamburger artigianali)* · tiramisú *(tiramisù)* |
+| Cost | 💰€€ 10–30 € for persona without bevande |
+| Setting | 🪶 locale intimo nascosto between i vicoli, atmosfera curata |
+| Contacts | 633 68 61 88 · Facebook/Instagram @salfina_tenerife |
+| Ratings |TA 4,9/5 (1.337), nº5 on 361 a Los Cristianos, Lo Mejor de lo Mejor Travellers' Choice 2025 (top 1% mondiale) · Google 4,8/5 (~1.179) → ★★★★★|
+| Hours | lun–sab 18–23 · dom chiuso ⚠️ only cena |
 
 ## Menu
 
 - Tonnarelli *(tonnarelli)*
-- Spaghetti carbonara *(spaghetti alla carbonara)*
-- Ravioli di mare *(ravioli ai frutti di mare)*
+- Spaghetti carbonara *(spaghetti at the carbonara)*
+- Ravioli of mare *(ravioli at the frutti of mare)*
 - Burrata *(burrata)*
-- Hamburguesa casera *(hamburger artigianale)* — il piatto più ordinato (242 recensioni)
+- Hamburguesa casera *(hamburger artigianale)* — il piatto more ordinato (242 recensioni)
 - Salmón *(salmone)*
 - Sirloin steak *(controfiletto)*
 - Dorada *(orata)*
@@ -27,6 +27,6 @@
 
 **Chef**: ND
 
-**Note**: Paseo de Berlín 5, 38650 · opzioni per celiaci e vegetariani · vini al calice · prenotare: tavoli pochi e richiestissimi ⚠️ chiuso la domenica e a pranzo
+**Note**: Paseo de Berlín 5, 38650 · opzioni for celiaci and vegetariani · vini at the calice · prenotare: tavoli pochi and richiestissimi ⚠️ chiuso la domenica and a pranzo
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

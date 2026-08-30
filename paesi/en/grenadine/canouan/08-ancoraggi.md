@@ -1,4 +1,4 @@
-# 08 — Portolano degli ancoraggi
+# 08 — Anchorage Pilot
 
 ## Ancoraggi in dettaglio
 
@@ -8,12 +8,12 @@
 
 
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026
 
-## Tabella riassuntiva
+## Summary Table
 
 | # | Ancoraggio | Fondo | Prof. | Note |
 |---|---|---|---|---|
-| 1 | Charlestown Bay | sabbia/fango | 3–9 m | Riparata; pontili resort a nord della baia |
+| 1 | Charlestown Bay | sand/mud | 3–9 m | Sheltered; resort piers north of the bay |
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026

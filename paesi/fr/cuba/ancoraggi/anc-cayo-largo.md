@@ -1,20 +1,20 @@
 # Cayo Largo Marina {#anc-cayo-largo}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← Tous les mouillages](../08-ancoraggi.md)
 **21°37′16″ N 81°33′32″ W** ★★★
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| **Profondità** |**DATO MANCANTE**|
-| **Tenuta àncora** |Posti in marina|
-| **Venti/riparo** |Costa sud protetta dagli alisei|
-| **Pericoli** |**DATO MANCANTE**|
-| **Boe/divieti/normative** |POE confermato; Gaviota gestisce le marine turistiche|
-| **A terra** |Resort, spiagge, aeroporto locale|
+| **Profondeur** |**DONNÉE MANQUANTE**|
+| **Tenue de l’ancre** |Posti in marina|
+| **Vents/abri** |Costa sud protetta dagli alisei|
+| **Dangers** |**DONNÉE MANQUANTE**|
+| **Bouées/interdictions/réglementation** |POE confermato; Gaviota gestisce le marine turistiche|
+| **À terre** |Resort, spiagge, aeroporto locale|
 
 <div class="mapframe" data-slug="anc-cayo-largo" data-lat="21.621" data-lon="-81.559"></div>
-*Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
+*Carte détaillée — zoomez jusqu’à la baie · carte hors ligne · coordinate WGS84 indicative, toujours vérifier avec le traceur*
 
 Fonti: Ricerca POE ★★★
 
-Ultimo aggiornamento: 25/08/2026
+Dernière mise à jour: 25/08/2026

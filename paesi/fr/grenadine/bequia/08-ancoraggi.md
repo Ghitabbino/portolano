@@ -1,8 +1,8 @@
-# 08 — Ancoraggi
+# 08 — Guide des mouillages
 
 ## Ancoraggi in dettaglio
 
-| # | Ancoraggio | Riparo | Fondo | Prof. | Boe |
+| # | Mouillage | Riparo | Fondo | Prof. | Boe |
 |---|---|---|---|---|---|
 | 1 | [Admiralty Nord (Princess Margaret)](ancoraggi/anc-admiralty-nord.md) | ★★★★★ | Sabbia | 4–8 m | Boe Daffodil ~US$30/notte |
 | 2 | [Lower Bay](ancoraggi/anc-lower-bay.md) | ★★★★ | Sabbia | 5–10 m | No |
@@ -10,14 +10,14 @@
 
 
 
-**Ultimo aggiornamento: 23/08/2026**
+**Dernière mise à jour: 23/08/2026**
 
 
 ## Admiralty Bay
 
-Uno dei migliori porti naturali dei Caraibi orientali: a "U" profonda, riparata dal swell atlantico ★★★★
+Uno dei migliori porti naturali dei Caraïbes orientali: a "U" profonda, riparata dal swell atlantico ★★★★
 
-| Zona | Dettagli |
+| Zone | Dettagli |
 |---|---|
 | **Metà nord, davanti Princess Margaret** | Sabbia buona, **4–8 m** — [SVG Yachting](https://www.svgyachting-grenadines.com/blog/bequia-yacht-charter-guide) ★★★★ |
 | Boe **Daffodil** | In tutta la baia, **~US$30/notte** ★★★★ |
@@ -27,7 +27,7 @@ Uno dei migliori porti naturali dei Caraibi orientali: a "U" profonda, riparata 
 
 ## Altre baie
 
-| Ancoraggio | Note |
+| Mouillage | Note |
 |---|---|
 | **Lower Bay** | Grande spiaggia; ristoranti a riva (Keegan's, De Reef, Dawn's, Petra's) ★★★★ |
 | **Friendship Bay** | Mezzaluna riparata a sud; snorkel/dive; Bequia Beach Hotel (day-pass US$75) ★★★ |
@@ -39,4 +39,4 @@ Uno dei migliori porti naturali dei Caraibi orientali: a "U" profonda, riparata 
 
 - **Bequia Easter Regatta** (4 giorni a Pasqua): baia piena — festa o da evitare, a gusto ★★★★
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026

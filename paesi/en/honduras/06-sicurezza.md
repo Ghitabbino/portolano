@@ -1,7 +1,7 @@
-# 06 — Sicurezza
+# 06 — Safety & Security
 
 
-## Valutazione sicurezza: **2,5 / 5**
+## Safety Assessment: **2,5 / 5**
 
 | Area | Voto | Motivazione |
 |---|---|---|
@@ -11,26 +11,25 @@
 
 *Scala: 0 = terribile → 5 = molto sicuro.*
 
-## Quadro generale
+## Overview
 
  **Bay Islands sono l'unica zona consigliata** per la navigazione ★★★★
 - Furti a dinghy segnalati storicamente a Roatán/Utila: chiusure doppie ★★
 - Narcotraffico: non toccare pacchi in mare, segnalare ★★★★
 - Emergenza: **911** · Coast Guard VHF 16 ★★★
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026
 
 ## Posti sicuri
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
 
-## Salvataggio ed emergenze
+## Rescue & Emergencies
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
 
-## Monitoraggio mensile
+## Monthly Monitoring
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
+**DATA MISSING** — da completare al controllo mensile.

@@ -1,8 +1,8 @@
-# 10 — Ristoranti
+# 10 — Restaurants
 
-**Ultimo aggiornamento: 25/08/2026**
+**Last updated: 25/08/2026**
 
-Selezione orientata alla crociera: locali raggiungibili a piedi (o con il ferry) dagli ancoraggi e marine del portolano ([08 Ancoraggi](08-ancoraggi.md)). Valutazioni verificate il 25/08/2026 su TripAdvisor/Google/OpenTable. Prezzi indicativi per persona senza bevande.
+Cruiser-oriented selection: locali raggiungibili a piedi (o con il ferry) dagli ancoraggi e marine del portolano ([08 Ancoraggi](08-ancoraggi.md)). Valutazioni verificate il 25/08/2026 su TripAdvisor/Google/OpenTable. Prezzi indicativi per person without drinks.
 
 Legenda prezzi: **€** <20 · **€€** 20–40 · **€€€** >40 — Cucina: 🐟 pesce e frutti di mare · 🥩 carne e grigliate · 🥗 vegetariano-friendly · 🥙 street food creolo · 🍰 colazione/dolci
 
@@ -41,4 +41,4 @@ Legenda prezzi: **€** <20 · **€€** 20–40 · **€€€** >40 — Cucin
 | TheFork/LaFourchette | Copertura quasi nulla a Santa Lucia |
 | Facebook locale | Pagine dei ristoranti: menu e chiusure in tempo reale |
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

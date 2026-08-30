@@ -1,20 +1,20 @@
 # Cayo Guillermo {#anc-cayo-guillermo}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← All anchorages](../08-ancoraggi.md)
 **22°35′24″ N 78°40′12″ W** ★★★
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| **Profondità** |**DATO MANCANTE**|
-| **Tenuta àncora** |Marina dei Cayos|
-| **Venti/riparo** |Jardines del Rey|
-| **Pericoli** |Passaggi tra i cayos con bassi fondali|
-| **Boe/divieti/normative** |POE confermato (2025–26)|
-| **A terra** |Resort, spiagge, pesca sportiva leggendaria|
+| **Depth** |**DATA MISSING**|
+| **Holding** |Marina of the Cayos|
+| **Winds/Shelter** |Jardines of the Rey|
+| **Hazards** |Passaggi between i cayos with bassi fondali|
+| **Buoys/Restrictions/Regulations** |POE confermato (2025–26)|
+| **Ashore** |Resort, spiagge, pesca sportiva leggendaria|
 
 <div class="mapframe" data-slug="anc-cayo-guillermo" data-lat="22.59" data-lon="-78.67"></div>
-*Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
+*Detail chart — zoom in to the bay · offline chart · approximate WGS84 coordinates, always verify with your chartplotter*
 
 Fonti: Ricerca POE ★★★
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

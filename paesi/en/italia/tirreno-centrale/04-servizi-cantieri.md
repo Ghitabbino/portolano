@@ -1,34 +1,34 @@
-# 04 — Servizi, cantieri e manutenzione
+# 04 — Services, Boatyards & Maintenance
 
-**Ultima verifica: 27/08/2026** — Tirreno Centrale
+**Last checked: 27/08/2026** — Tirreno Centrale
 
-## Hub tecnico
+## Technical Hub
 
-Hub principale di Tirreno Centrale: **DATO MANCANTE** — da verificare. In Italia i servizi si concentrano nelle marine maggiori e nelle città portuali.
+Hub principale di Tirreno Centrale: **DATA MISSING** — da verificare. In Italia i servizi si concentrano nelle marine maggiori e nelle città portuali.
 
-| Servizio | Dove | Note |
+| Service | Where | Notes |
 |---|---|---|
-| Travelift / carenaggio | **DATO MANCANTE** | **DATO MANCANTE** |
-| Motoristi / elettricisti | **DATO MANCANTE** | **DATO MANCANTE** |
-| Velaio | **DATO MANCANTE** | **DATO MANCANTE** |
-| Elettronica | **DATO MANCANTE** | **DATO MANCANTE** |
+| Travelift / carenaggio | **DATA MISSING** | **DATA MISSING** |
+| Motoristi / elettricisti | **DATA MISSING** | **DATA MISSING** |
+| Velaio | **DATA MISSING** | **DATA MISSING** |
+| Elettronica | **DATA MISSING** | **DATA MISSING** |
 
-## Altri cantieri
+## Other Boatyards
 
 | Cantiere / Ditta | Località | Servizi | Contatti |
 |---|---|---|---|
-| **DATO MANCANTE** | Tirreno Centrale | **DATO MANCANTE** | **DATO MANCANTE** |
+| **DATA MISSING** | Tirreno Centrale | **DATA MISSING** | **DATA MISSING** |
 
-## Gas e bombole
+## Gas & Bottles
 
-- Bombole GPL: in Italia si fa **scambio** bombole standard (es. Campingaz) o ricarica presso rivenditori GPL — dettaglio per Tirreno Centrale: **DATO MANCANTE**
+- Bombole GPL: in Italia si fa **scambio** bombole standard (es. Campingaz) o ricarica presso rivenditori GPL — dettaglio per Tirreno Centrale: **DATA MISSING**
 
-## Acqua dolce
+## Fresh Water
 
-Disponibilità acqua in banchina variabile per porto. In Tirreno Centrale: **DATO MANCANTE** — verificare con marina. In estate possibili limitazioni idriche locali: **DATO MANCANTE**
+Disponibilità acqua in banchina variabile per porto. In Tirreno Centrale: **DATA MISSING** — verificare con marina. In estate possibili limitazioni idriche locali: **DATA MISSING**
 
-## Note strategiche
+## Strategic Notes
 
-Strategia servizi per Tirreno Centrale: **DATO MANCANTE** — da completare con fonti locali verificate. Tenere conto che i tempi in alta stagione (giu–ago) si allungano.
+Strategia servizi per Tirreno Centrale: **DATA MISSING** — da completare con fonti locali verificate. Tenere conto che i tempi in alta stagione (giu–ago) si allungano.
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

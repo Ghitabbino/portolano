@@ -7,7 +7,7 @@
 | Zona | Rodney Bay (Waterside Inn, Castries-Gros Islet Hwy) |
 | Cucina | 🥩 Steakhouse |
 | Specialità | Steak USDA · Seasonal Afro-Caribbean Collection |
-| Costo | 💰€€€ per persona senza bevande |
+| Costo | 💰€€€ per person without drinks |
 | Location | 🍽️ elegante informale, piano dal vivo |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Big+Chef+Steakhouse+Rodney+Bay) — coord. verificate 14.0701, -60.9539 |
 | Contatti | +1 758 450 0210 / 485 7189 · info@bigchefsteakhouse.com · bigchefsteakhouse.com |
@@ -28,4 +28,4 @@
 
 **Note**: prenotazione fortemente consigliata (OpenTable attivo). Fonte: sito ufficiale (agg. 09/12/2025 e stagione ago 2026 ★★★), Google/OpenTable 25/08/2026 ★★★.
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

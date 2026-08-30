@@ -18,4 +18,4 @@
 
 Fonti: wandertheblue.com ★★★ · visittci.com/about/national-parks ★★★ · gov.tc National Parks Ordinance S24 Sanctuary ★★★★★ · safetyanchoralarm.com ★★
 
-Ultimo aggiornamento: 28/08/2026
+Last updated: 28/08/2026

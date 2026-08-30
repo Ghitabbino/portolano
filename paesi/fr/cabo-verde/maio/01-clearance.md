@@ -1,30 +1,30 @@
-# 01 — Clearance doganale della barca
+# 01 — Formalités douanières
 
-**Ultima verifica: 22/08/2026** · Fonte principale: Cape Verdes ★★★
+**Dernière vérification: 22/08/2026** · Source principale: Cape Verdes ★★★
 
 ## Punto chiave
 
 **Maio non è un punto di ingresso ufficiale**: i soli porti di primo ingresso in Capo Verde sono Mindelo, Palmeira e Praia. ★★★
 
 - Arrivo diretto dall'estero a Maio = violazione delle formalità d'ingresso. Prima sosta obbligatoria a **Praia** (il più comodo per il Sotavento).
-- Da isola a isola: presentarsi alla delegazione locale della Capitania do Porto / Polícia Marítima a Porto Inglês per segnalare il movimento interno; la prassi è informale ma va rispettata.
+- Da isola a isola: presentarsi alla delegazione locale della Capitania do Port / Polícia Marítima a Port Inglês per segnalare il movimento interno; la prassi è informale ma va rispettata.
 
-## Contatti
+## Contacts
 
 | Ufficio | Telefono |
 |---|---|
-| Delegazione marittima Porto Inglês | Polícia Marítima sul molo all'arrivo ⚠️ — |tima sul molo o via VHF 16 |
+| Delegazione marittima Port Inglês | Polícia Marítima sul molo all'arrivo ⚠️ — |tima sul molo o via VHF 16 |
 
 ## In pratica
 
 1. Clear-in a Praia (EASE già fatto online per l'equipaggio UE; vedere paesi/cabo-verde/santiago/01-clearance.md).
 2. Salpare per Maio con i documenti di transito.
-3. Al molo di Porto Inglês salutare Polícia Marítima/Capitania e mostrare la clearance.
+3. Al molo di Port Inglês salutare Polícia Marítima/Capitania e mostrare la clearance.
 4. All'uscita da Capo Verde: formalità finali solo nei porti di ingresso ufficiali — pianificare il check-out a Praia, non da Maio.
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026
 
-## Chi deve farla
+## Qui doit effectuer les formalités
 ## Costi
-## Da verificare
-Ultimo aggiornamento: 22/08/2026
+## À vérifier
+Dernière mise à jour: 22/08/2026

@@ -1,32 +1,32 @@
-# 04 — Servizi, cantieri e manutenzione
+# 04 — Services, Boatyards & Maintenance
 
-**Ultima verifica: 28/08/2026** — *Scheda in completamento*
+**Last checked: 28/08/2026** — *Scheda in completamento*
 
-| Servizio | Disponibilità | Note |
+| Service | Disponibilità | Note |
 |---|---|---|
-| **Cantiere / travelift** | **DATO MANCANTE** | Cartagena e Santa Marta hanno cantieri — dettagli da verificare |
-| **Motoristica** | **DATO MANCANTE** | |
+| **Boatyard / travelift** | **DATA MISSING** | Cartagena and Santa Marta hanno cantieri — dettagli from check |
+| **Motoristica** | **DATA MISSING** | |
 
 > In completamento densità Martinica.
 
-Ultimo aggiornamento: 28/08/2026
+Last updated: 28/08/2026
 
 ## Hub tecnico
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## Gas e bombole
+## Gas and bombole
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## Acqua dolce
+## Water dolce
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
 ## Note strategiche
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 

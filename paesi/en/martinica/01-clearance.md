@@ -1,15 +1,15 @@
-# 01 — Clearance doganale della barca
+# 01 — Yacht Customs Clearance
 
-**Ultima verifica: 21/08/2026** · Fonte principale: martinique.gouv.fr (aggiornata 30/01/2026) ★★★★★
+**Last checked: 21/08/2026** · Fonte principale: martinique.gouv.fr (aggiornata 30/01/2026) ★★★★★
 
-## Chi deve farla
+## Who Must Clear
 
 Tutti i natanti da diporto, qualsiasi nazionalità e bandiera, che:
 - **entrano** nelle acque francesi delle Antille (Martinica, Guadalupa, St-Barth, St-Martin) provenendo da porto/mare territoriale straniero o alto mare;
 - **escono** verso porto/mare straniero o alto mare;
 - **si spostano tra le isole francesi delle Antille** (obbligatorio anche Martinica↔Guadalupa ecc. dal 01/09/2024). [martinique.gouv.fr 30/01/2026 ★★★★★]
 
-## Procedura online (dal 01/09/2024)
+## Online Procedure (from 01/09/2024)
 
 1. Creare un **account** sul portale e conservarlo: i documenti restano salvati e riutilizzabili.
  - URL attuale: `https://demarche.numerique.gouv.fr/commencer/declaration-clearance-antilles` [martinique.gouv.fr 30/01/2026 ★★★★★]
@@ -20,22 +20,22 @@ Tutti i natanti da diporto, qualsiasi nazionalità e bandiera, che:
 ### Trucco utile (, feb 2025 ★★★)
 Nella piattaforma si può **duplicare una dichiarazione precedente** e cambiare solo date/porti: per la partenza si duplica quella d'ingresso e si aggiorna la data. Risparmia tutto il re-inserimento.
 
-## Copia cartacea timbrata
+## Paper Copy & Stamp
 
 - Finché gli altri stati caraibici non riconoscono la dichiarazione elettronica, **stampare l'attestation**: serve in carta per il check-in nei paesi NON francesi (es. Santa Lucia). [martinique.gouv.fr ★★★★★; feb 2025 ★★★]
 - Con il solo modulo online **non è obbligatorio entrare in un porto ufficiale**, salvo necessità del timbro. ★★★
 - Il timbro si ottiene in un **Point agréé Clearance** (lista ufficiale v15/12/2025): ci si porta il file su telefono/tablet o si accede al portale dal loro computer; stampano e timbrano. Costo **5 €**. ★★★
 
-## Costi
+## Fees
 
-| Voce | Costo | Fonte |
+| Item | Cost | Source |
 |---|---|---|
-| Dichiarazione online | **Gratuita** | martinique.gouv.fr ★★★★★ |
+| Declaration online | **Free** | martinique.gouv.fr ★★★★★ |
 | Stampa+timbro attestation in Point agréé (opzionale) | **5 €** |Fonti diportiste aggregate ★★★ + SDSA feb 2025 ★★★|
 
 ## Punti agréé in Martinica (lista ufficiale 15/12/2025 ★★★★★)
 
-| Località | Punto | Contatti | Orari |
+| Location | Point | Contacts | Hours |
 |---|---|---|---|
 | **Le Marin** | Capitainerie du port (nuova estensione) | +596 596 748 383 · contact@marina-martinique.fr | lun–sab 8–17 · dom/festivi 8–12:30 |
 | **Le Marin** | Station-service CAP Ponton N°3 | +596 596 765 161 | tutti i giorni 7:30–13 / 14–17 (clearance fino 16:30) |
@@ -50,22 +50,22 @@ Nella piattaforma si può **duplicare una dichiarazione precedente** e cambiare 
 | **Le François** | Capitainerie Marina Pointe Bateau | +596 596 542 954 | tutti i giorni 8–18 |
 | **La Trinité** | Brigade de surveillance des douanes, Cité des douanes, Quartier Raisinier | +596 596 581 790 | (orari non indicati) |
 
-## Dogana regionale
+## Regional Customs
 
 Direction Interrégionale des douanes Antilles-Guyane, Plateau Roy-Cluny, 97261 Fort-de-France · +596 596 707 272 · di-antilles-guyane@douane.finances.gouv.fr ★★★★★
 
-## Esperienze dei crocieristi
+## Cruisers' Experiences
 
 - Le Marin capitainerie: procedura rapida, file corte al mattino presto. ★★
 - CAP Ponton: comodo per clearance+fuel insieme; affollato sabato. ★★
 
-## Sanzioni
+## Penalties
 
 Mancata dichiarazione = perseguibile ex art. 410 code des douanes, art. 43 ord. 2016-1687, art. L.5242-2 code des transports. L'attestation va conservata e presentabile a qualunque amministrazione francese o estera. ★★★★★
 
-## Da verificare prima della crociera
+## To Verify Before Your Cruise
 
-- Eventuale nuovo URL del modulo (la piattaforma cambia spesso).
+- Eventuale new URL of the modulo (la piattaforma cambia spesso).
 - Lista punti agréé aggiornata (nuove versioni pubblicate su martinique.gouv.fr).
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026

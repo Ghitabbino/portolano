@@ -1,19 +1,19 @@
 # Whitehouse Bay — ancoraggio {#anc-whitehouse}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← Tous les mouillages](../08-ancoraggi.md)
 **17°14.8′N 62°42.0′W**
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
 | **Riparo** | ★★★★ da N→SE |
 | **Fondo** | Sabbia ed erba |
-| **Tenuta àncora** | Buona |
-| **Profondità** | 5–9 m |
+| **Tenue de l’ancre** | Buona |
+| **Profondeur** | 5–9 m |
 | **Boe** | Boe private non utilizzabili |
-| **Pericoli** | Scogli e praterie: calare con cura |
-| **A terra** | Sud-ovest, base comoda |
+| **Dangers** | Scogli e praterie: calare con cura |
+| **À terre** | Sud-ovest, base comoda |
 
 <div class="mapframe" data-slug="anc-whitehouse" data-lat="17.247" data-lon="-62.7"></div>
 *Mappa offline Whitehouse Bay — zoom con i pulsanti +/−; menu in alto a destra per Carta nautica e Segnali*
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026

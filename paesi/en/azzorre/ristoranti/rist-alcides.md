@@ -1,18 +1,18 @@
 # Alcides
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| **Isola/Zona** | São Miguel / Ponta Delgada |
-| **Cucina** | 🐟 Marisqueira clássica |
-| **Specialità** | Lagosta · Percebes · Santola · Arroz de marisco · Peixe fresco |
-| **Costo** | 💰€€ per persona senza bevande |
+| **Island/Area** | São Miguel / Ponta Delgada |
+| **Cuisine** | 🐟 Marisqueira clássica |
+| **Speciality** | Lagosta · Percebes · Santola · Arroz de marisco · Peixe fresco |
+| **Cost** | 💰€€ per person without drinks |
 | **Location** | 🍽️ Elegante, Porto Portas do Mar, 12 min da marina |
-| **Mappa** | [Google Maps](https://www.google.com/maps/search/?api=1&query=Alcides+Ponta+Delgada) |
-| **Contatti** | +351 296 288 333 · alcides.pt |
-| **Valutazioni** | Google 4,5/5 (1.5k+) · TA 4,5/5 (1.1k+) → ★★★★½ |
-| **Orari** | Ter–Dom 12:30–15:00 / 19:30–22:30 · Seg chiuso |
+| **Map** | [Google Maps](https://www.google.com/maps/search/?api=1&query=Alcides+Ponta+Delgada) |
+| **Contacts** | +351 296 288 333 · alcides.pt |
+| **Ratings** | Google 4,5/5 (1.5k+) · TA 4,5/5 (1.1k+) → ★★★★½ |
+| **Hours** | Ter–Dom 12:30–15:00 / 19:30–22:30 · Seg chiuso |
 
 ## Menu
 
@@ -29,6 +29,6 @@
 
 ![Alcides](img/azzorre/rist-alcides.jpg)
 
-**Note**: Elegante, servizio curato; **prenotazione obbligatoria**; parcheggio Porto Portas do Mar; da marina 12 min a piedi o taxi 3 min (~5 €).
+**Note**: Elegante, servizio curato; **prenotazione obbligatoria**; parcheggio Porto Portas do Mar; da marina 12 min a piedi or taxi 3 min (~5 €).
 
-Ultimo aggiornamento: 24/08/2026
+Last updated: 24/08/2026

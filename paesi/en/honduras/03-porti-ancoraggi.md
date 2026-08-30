@@ -1,6 +1,6 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
-**Ultima verifica: 25/08/2026**
+**Last checked: 25/08/2026**
 
 | Porto/Marina | Note |
 |---|---|
@@ -13,14 +13,13 @@
 | **Puerto Cortés (mainland)** | POE commerciale principale ★★ |
 | **San Lorenzo/Amapala** | POE versante Pacifico (Golfo de Fonseca) ★★ |
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026
 
-## Tariffe
+## Tariffs
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
 
-## Distanze utili
+## Useful Distances
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
+**DATA MISSING** — da completare al controllo mensile.

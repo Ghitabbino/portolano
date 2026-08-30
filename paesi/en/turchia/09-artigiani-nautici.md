@@ -1,31 +1,31 @@
-# 09 — Artigiani e negozi nautici
+# 09 — Artisans & chandleries
 
-Hub principale **DATO MANCANTE** — da verificare (possibili poli: vedi [03 Porti e marine](03-porti-ancoraggi.md)). Contatto tipico via telefono / WhatsApp. Per lavori importanti chiedere sempre **preventivo scritto** e confermare i tempi in alta stagione.
+Hub principale **DATA MISSING** — to be verified (possibili poli: vedi [03 Ports & marinas](03-porti-ancoraggi.md)). Contatto tipico via telefono / WhatsApp. Per lavori importanti chiedere sempre **preventivo scritto** e confermare i tempi in alta stagione.
 
 ## Tabella artigiani
 
 | Ditta / Nome | Referente | Area di intervento | Dealer / Installatore autorizzato (marchi) | Tel | Mail | Sede & orari | Recensioni |
 |---|---|---|---|---|---|---|---|
-| **DATO MANCANTE** | **DATO MANCANTE** | Meccanico / rigger / velaio / frigorista | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** |
+| **DATA MISSING** | **DATA MISSING** | Meccanico / rigger / velaio / frigorista | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** |
 
 ## Altri operatori utili
 
-- **DATO MANCANTE** — da censire al controllo mensile.
+- **DATA MISSING** — da censire al controllo mensile.
 
 ## Dove si trova cosa
 
-- **Motoristica/frigoriferi/saldatura**: **DATO MANCANTE**
-- **Vele**: **DATO MANCANTE**
-- **Antifouling/carenaggio**: **DATO MANCANTE**
+- **Motoristica/frigoriferi/saldatura**: **DATA MISSING**
+- **Vele**: **DATA MISSING**
+- **Antifouling/carenaggio**: **DATA MISSING**
 
 ## Negozi di attrezzature e shipchandler
 
 | Negozio | Cosa trovi | Marchi notevoli | Tel | Mail / sito | Sede & orari | Recensioni |
 |---|---|---|---|---|---|---|
-| **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** |
+| **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** |
 
 ## Note pratiche
 
-**DATO MANCANTE**.
+**DATA MISSING**.
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

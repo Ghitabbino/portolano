@@ -1,25 +1,25 @@
 # Mirador El Charco
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| Zona | Arrecife – Charco de San Ginés |
-| Cucina | 🐟 Pesce e arroz |
-| Specialità | Pescado fresco · arroces |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🌅 vista Charco |
-| Contatti | **928 730 247** [IG ufficiale] |
-| Valutazioni | ★★★★|
-| Orari | pranzo/cena |
+| Area | Arrecife – Charco de San Ginés |
+| Cuisine | 🐟 Pesce and arroz |
+| Speciality | Pescado fresco · arroces |
+| Cost | 💰€€ for persona without bevande |
+| Setting | 🌅 vista Charco |
+| Contacts | **928 730 247** [IG ufficiale] |
+| Ratings | ★★★★|
+| Hours | pranzo/cena |
 
 ## Menu
 
 - Arroz marinero
-- Vieja al horno
+- Vieja at the horno
 
 **Chef**: ND
 
-**Note**: Telefono verificato da profilo ufficiale
+**Note**: Telefono verificato from profilo ufficiale
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

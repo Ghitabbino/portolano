@@ -7,7 +7,7 @@
 | Zona | The Bight, Norman Island |
 | Cucina | 🍹 Bar galleggiante |
 | Specialità | — |
-| Costo | 💰€€ per persona senza bevande |
+| Costo | 💰€€ per person without drinks |
 | Location | ⛵ schooner galleggiante |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Willy+T+(William+Thornton)+The+Bight,+Norman+Island) |
 | Contatti | ND |

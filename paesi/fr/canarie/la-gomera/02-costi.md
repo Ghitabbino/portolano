@@ -1,16 +1,16 @@
-# 02 — Costo della vita
+# 02 — Coût de la vie
 
-Valuta: **euro**. Fuori dall'area IVA UE: vige l'**IGIC (~7%)**. Contesto fiscale comune → [../00-ingresso-visti.md](../00-ingresso-visti.md).
+Devise: **euro**. Hors zone TVA UE: vige l'**IGIC (~7%)**. Contesto fiscale comune → [../00-ingresso-visti.md](../00-ingresso-visti.md).
 
 ## Marina e ormeggi
 
-| Voce | Dato |
+| Rubrique | Dato |
 |---|---|
-| Pontile San Sebastián (notte) | (da confermare) — listino 2026 da verificare in marina |
-| Pontile La Puntilla/Vueltas (Valle Gran Rey) | piccolo; tariffe → (da confermare) |
-| Elettricità/acqua | secondo marina — (da confermare) |
+| Ponton San Sebastián (notte) | (da confermare) — listino 2026 à vérifier in marina |
+| Ponton La Puntilla/Vueltas (Valle Gran Rey) | piccolo; tariffe → (da confermare) |
+| Électricité/acqua | secondo marina — (da confermare) |
 
-## Carburanti
+## Carburants
 
 | Carburante | Prezzo/L |
 |---|---|
@@ -19,24 +19,24 @@ Valuta: **euro**. Fuori dall'area IVA UE: vige l'**IGIC (~7%)**. Contesto fiscal
 
 ## Vita a bordo
 
-| Servizio | Costo |
+| Servizio | Coût |
 |---|---|
-| Alimentari (San Sebastián, Valle Gran Rey) | in linea con l'arcipelago; isola tranquilla e poco turistica di massa — prezzi puntuali (da confermare) |
+| Alimentation (San Sebastián, Valle Gran Rey) | in linea con l'arcipelago; isola tranquilla e poco turistica di massa — prezzi puntuali (da confermare) |
 | Lavanderia | 3–6 €/carico self-service |Marine e lavanderie urbane ★★|
 | SIM prepagata (operatori spagnoli) | copertura buona nei centri; tariffa attuale (da confermare) |
 
-## Contanti e pagamenti
+## Espèces & paiements
 
 Carte accettate nei centri principali; contante utile nei piccoli esercizi di Valle Gran Rey e per i servizi portuali minori.
 
-## Approfondimenti
+## Pour approfondir
 
 Porti/tariffe → [03-porti-ancoraggi.md](03-porti-ancoraggi.md); servizi maggiori (carenaggio, cantieri) → vedere Tenerife/Gran Canaria.
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026
 
-## Alimentari
-## Mangiare fuori
-## Trasporti
-## Servizi quotidiani
-Ultimo aggiornamento: 23/08/2026
+## Alimentation
+## Restauration à terre
+## Transports
+## Services quotidiens
+Dernière mise à jour: 23/08/2026

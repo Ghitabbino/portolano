@@ -1,15 +1,15 @@
-# 08 — Portolano degli ancoraggi
+# 08 — Anchorage Pilot
 
-**Ultima verifica: 21/08/2026**
+**Last checked: 21/08/2026**
 
-## Regole generali di ancoraggio (prima di tutto)
+## General Anchoring Rules (First and Foremost)
 
 - **Barche fino a 50 m**: àncora libera consentita ovunque, SALVO le zone di divieto qui sotto e salvo fondali con **coralli protetti** (arrêté del 25/06/2017): àncora e catena non devono appoggiare su barriera. ★★★★
 - **Barche oltre 50 m**: solo nelle posizioni precise dell'arrêté R02-2018-11-22-002 in 8 baie regulate: Saint-Pierre, Fort-de-France, Anses d'Arlet, Marin, Vauclin, François, Robert, Trinité. ★★★★
 
-### ⛔ Zone di divieto assoluto (ufficiali)
+### ⛔ Absolute No-Go Zones (Official)
 
-| Zona | Divieto | Fonte |
+| Area | Prohibition | Source |
 |---|---|---|
 | **Réserve naturelle des îlets de Sainte-Anne** | Àncora vietata entro **300 m da ogni îlet** (Hardy, Percé, Burgaux, Poirier); ammaraggio solo sulle boe del sito |Arrêté 09-00872 ★★★★|
 | **Épaves di Saint-Pierre** | Àncora vietata sulla zona dei relitti storici al largo del paese |Observatoire ★★★★|
@@ -25,9 +25,9 @@ Testi integrali e mappe ufficiali: pagina "Les zones d'interdiction de mouillage
 - Esistono inoltre **ZMEL** (zone con boe organizzate) e piani di balisaggio **comunali**: la cartografia è sul sito dell'Osservatorio ("Mémento réglementaire de la mer" = Memorandum normativo del mare) e sulle pagine per-comune della [Direction de la Mer](https://www.dm.martinique.developpement-durable.gouv.fr/mouillage-navigation-et-loisirs-nautiques-r183.html). ★★★★
 - Segnalazione **IALA-B invertita** rispetto all'Italia. ★★★
 
-## Tabella riassuntiva — i migliori ancoraggi
+## Summary Table — Best Anchorages
 
-| # | Ancoraggio | Riparo alisei | Tenuta | Profondità | Affollamento | Giudizio comunità |
+| # | Anchorage | Shelter | Holding | Depth | Crowding | Community rating |
 |---|---|---|---|---|---|---|
 | 1 | [Sainte-Anne](ancoraggi/anc-sainte-anne.md) | ★★★★★ | ★★★★★ sabbia | ~5 m | Alta stagione molto pieno |★4,3/5 [NFL]|
 | 2 | [Le Marin Est/Sud](ancoraggi/anc-marin-est.md) | ★★★★★ | ★★★★★ sabbia | 3–8 m | Spazioso |★4,4/5 [NFL]|
@@ -42,7 +42,7 @@ Testi integrali e mappe ufficiali: pagina "Les zones d'interdiction de mouillage
 
 *Clicca sul nome per aprire la scheda completa. Legenda: riparo/tenuta = valutazione qualitativa dalle fonti citate (più ★ = meglio). = (recensioni naviganti, agg. 26/01/2026 ★★); blog 12/11/2024 ★★★*
 
-### Mappa generale degli ancoraggi
+### General Anchorage Map
 
 <div class="mapframe" data-slug="martinica" data-minz="7" data-maxz="16" data-lat="14.55" data-lon="-61.02" data-markers='[[14.4926, -61.0903, "Anse Noire / Anse Dufour", "anc-anse-noire"], [14.613, -60.902, "Fonds-Blancs"], [14.552, -61.065, "Baie de Genipa — la tranquilla", "anc-genipa"], [14.4805, -61.0885, "Grande Anse d’Arlet", "anc-grande-anse-arlet"], [14.4636, -60.861, "Le Marin Est/Sud", "anc-marin-est"], [14.5941, -60.8706, "Anse Meurnier", "anc-meurnier"], [14.5072, -61.1003, "Anse Mitan", "anc-mitan"], [14.4735, -61.0827, "Petite Anse d’Arlet", "anc-petite-anse-arlet"], [14.741, -61.177, "Saint-Pierre", "anc-saint-pierre"], [14.4383, -60.885, "Sainte-Anne — il classico", "anc-sainte-anne"]]'</div>
 
@@ -55,27 +55,27 @@ Testi integrali e mappe ufficiali: pagina "Les zones d'interdiction de mouillage
 
 ---
 
-## Cartografia ufficiale
+## Official Charts
 
-| Carta | Copertura | Note |
+| Chart | Coverage | Notes |
 |---|---|---|
 | **SHOM 6738L** | La Martinique – Partie Sud | Marin, Sainte-Anne, Anses d'Arlet, Sainte-Luce · ~45 € formato piegato |
 | **SHOM 7041L** | La Martinique – Partie Nord | Saint-Pierre, Prêcheur, Caravelle, Trinité · ~45 € |
 | **SHOM 6892L** | Baie de Fort-de-France | Scala 1:15.000, include zone divieto baie des Flamands · ~45 € |
 | SHOM 6898 (GA) | Mer des Caraïbes | Pianificazione rotte inter-isole |
-| NV Charts pack Caraibi/Antille | Arc antillano completo | Alternativa plaisance, WGS84, ~95 € |
+| NV Charts pack Caribbean/Antille | Arc antillano completo | Alternativa plaisance, WGS84, ~95 € |
 
 - Le carte SHOM riportano le zone regolamentate e i chenal; acquistabili da rivenditori autorizzati (Picksea, Eau Bleue, NV Charts PoD). ★★★★
 - **Cartografia amministrativa gratuita**: mappe interattive della Direction de la Mer + "Mémento réglementaire de la mer" (Memorandum normativo del mare) PDF (ODE) con tutte le zone ZMEL/interdette. ★★★★
 - Per la navigazione quotidiana: carta elettronica ufficiale SHOM/Navionics sul plotter + le carte cartacee sopra come riserva obbligatoria.
 
-## Non inclusi (per ora)
+## Not Included (For Now)
 
 - **Baie des Anglais** (sud, Cap Salomon): citata spesso come selvaggia e bella → dati insufficienti, **da verificare**
 - **Anse Couleuvre / Le Prêcheur** (nord): esposti, solo meteo stabile ★★★
-- **Baie du Vauclin / Robert / Trinité** (costa atlantica): belle ma esposte agli alisei e piene di nasse → vedi [06 Sicurezza](06-sicurezza.md)
+- **Baie du Vauclin / Robert / Trinité** (costa atlantica): belle ma esposte agli alisei e piene di nasse → vedi [06 Safety & Security](06-sicurezza.md)
 
-## Checklist àncora per la Martinica
+## Anchor Checklist per la Martinica
 
 1. Cartografia ufficiale mouillage scaricata (Mémento ODE) ✓
 2. Àncora principale adeguata a sabbia/fango (tenuta ottima quasi ovunque)
@@ -83,4 +83,4 @@ Testi integrali e mappe ufficiali: pagina "Les zones d'interdiction de mouillage
 4. Occhio alle boe da pesca trasparenti su TUTTA la costa ovest-sud
 5. App Navilly installata se si punta a Saint-Pierre
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026

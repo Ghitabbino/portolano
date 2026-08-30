@@ -1,37 +1,37 @@
-# 01 — Clearance doganale della barca
+# 01 — Yacht Customs Clearance
 
-Regime d'ingresso **comune a tutte le Canarie** → dettagli completi in [../00-ingresso-visti.md](../00-ingresso-visti.md).
+Regime d'ingresso **comune a all le Canarie** → dettagli completi in [../00-ingresso-visti.md](../00-ingresso-visti.md).
 
-## Porto di ingresso
+## Porto of ingresso
 
-| Voce | Dato |
+| Item | Data |
 |---|---|
-| Porto di ingresso isola | **Santa Cruz de la Palma**, capoluogo, lato est |
-| Capitaneria (Capitanía Marítima) | a Santa Cruz — telefono/orari → (da confermare) |
-| Altri approdi | Tazacorte (costa ovest): NON porto di ingresso |
+| Porto of ingresso isola | **Santa Cruz de la Palma**, capoluogo, lato est |
+| Capitaneria (Capitanía Marítima) | a Santa Cruz — telefono/orari → (from confermare) |
+| Altri approdi | Tazacorte (costa ovest): NON porto of ingresso |
 
 ## Cittadini UE / barca UE
 
 | Caso | Formalità |
 |---|---|
-| Equipaggio UE da porto UE/Schengen | Nessuna formalità: territorio nazionale unico |
-| Barca UE con IVA pagata | Libera circolazione, nessun limite di tempo |
-| Arrivo da extra-UE (Marocco, Capo Verde, Caraibi) | Presentarsi al **primo porto di ingresso** dell'isola: Santa Cruz de la Palma (polizia/dogana) |
-| Tra le isole | Nessuna formalità |
+| Equipaggio UE from porto UE/Schengen | No formalities: single national territory |
+| Yacht EU VAT-paid | Libera circolazione, no limit of tempo |
+| Arrivo from extra-UE (Marocco, Capo Verde, Caraibi) | Presentarsi at the **first porto of ingresso** dell'isola: Santa Cruz de la Palma (polizia/dogana) |
+| Between le isole | No formalities |
 
 ## Note pratiche
 
-- Marina La Palma (Santa Cruz): moderna/rinnovata, punto di riferimento per la clearance dell'isola.
-- Conservare a bordo documenti barca ed equipaggio; copie utili per i controlli routine.
-- Fuso locale UTC+0/+1 (1 ora indietro rispetto all'Italia): verificare gli orari di ufficio.
+- Marina La Palma (Santa Cruz): moderna/rinnovata, punto of riferimento for la clearance dell'isola.
+- Conservare a bordo documenti barca ed equipaggio; copie utili for i controlli routine.
+- Fuso locale UTC+0/+1 (1 ora indietro rispetto all'Italia): check gli orari of ufficio.
 
-## Approfondimenti
+## Further Reading
 
 Ingresso/visti comuni → [../00-ingresso-visti.md](../00-ingresso-visti.md); porti → [03-porti-ancoraggi.md](03-porti-ancoraggi.md).
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026
 
-## Chi deve farla
-## Costi
-## Da verificare
-Ultimo aggiornamento: 23/08/2026
+## Who Must Clear
+## Fees
+## Da check
+Last updated: 23/08/2026

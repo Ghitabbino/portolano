@@ -1,67 +1,67 @@
-# 02 — Costo della vita
+# 02 — Coût de la vie
 
-**Ultimo aggiornamento: 27/08/2026**
+**Dernière mise à jour: 27/08/2026**
 
-Valuta: **euro (EUR)**. Livello prezzi: **DATO MANCANTE** — da verificare con fonti locali aggiornate.
+Devise: **euro (EUR)**. Livello prezzi: **DONNÉE MANQUANTE** — à vérifier con fonti locali aggiornate.
 
-> ⚠️ Le voci di questo elenco sono le stesse per tutti i paesi del portolano. Dove il dato non è stato ancora trovato dalle fonti si scrive **DATO MANCANTE**: viene ricercato al controllo mensile (vedi [00 Indice](../00-indice.md)).
+> ⚠️ Le voci di questo elenco sono le stesse per tutti i paesi del portolano. Dove il dato non è stato ancora trovato dalle fonti si scrive **DONNÉE MANQUANTE**: viene ricercato al controllo mensile (vedi [00 Index](../00-indice.md)).
 
-## Alimentari e spesa di bordo
+## Alimentation & avitaillement
 
-| Voce | Prezzo indicativo | Note |
+| Rubrique | Prezzo indicativo | Note |
 |---|---|---|
-| Birra locale supermercato (0,33 l) | **DATO MANCANTE** | **DATO MANCANTE** |
-| Caffè al bancone | **DATO MANCANTE** | **DATO MANCANTE** |
-| Baguette / pane | **DATO MANCANTE** | **DATO MANCANTE** |
-| Acqua imbottigliata 1,5 l | **DATO MANCANTE** | **DATO MANCANTE** |
-| Latte 1 l | **DATO MANCANTE** | **DATO MANCANTE** |
-| Riso 1 kg | **DATO MANCANTE** | **DATO MANCANTE** |
-| Pollo fresco 1 kg | **DATO MANCANTE** | **DATO MANCANTE** |
+| Birra locale supermercato (0,33 l) | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Caffè al bancone | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Baguette / pane | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Eau imbottigliata 1,5 l | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Latte 1 l | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Riso 1 kg | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Pollo fresco 1 kg | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
 
-## Mangiare fuori (media)
+## Restauration à terre (moyenne)
 
-| Voce | Prezzo indicativo |
+| Rubrique | Prezzo indicativo |
 |---|---|
-| Menu ristorante medio | **DATO MANCANTE** |
-| Birra al bar | **DATO MANCANTE** |
-| Menu fascia alta | **DATO MANCANTE** |
-| Snack / tapas da strada | **DATO MANCANTE** |
+| Menu ristorante medio | **DONNÉE MANQUANTE** |
+| Birra al bar | **DONNÉE MANQUANTE** |
+| Menu fascia alta | **DONNÉE MANQUANTE** |
+| Snack / tapas da strada | **DONNÉE MANQUANTE** |
 
 Prezzi specifici per locale → [10 Ristoranti](10-ristoranti.md).
 
-## Carburanti
+## Carburants
 
-| Voce | Prezzo indicativo | Note |
+| Rubrique | Prezzo indicativo | Note |
 |---|---|---|
-| Gasolio | **DATO MANCANTE** | **DATO MANCANTE** |
-| Benzina SP95 | **DATO MANCANTE** | **DATO MANCANTE** |
-| Benzina SP98 | **DATO MANCANTE** | **DATO MANCANTE** |
-| Bombola gas (scambio) | **DATO MANCANTE** | **DATO MANCANTE** |
+| Gasolio | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Benzina SP95 | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Benzina SP98 | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Bombola gas (scambio) | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
 
-## Trasporti e collegamenti
+## Transports & liaisons
 
-| Voce | Prezzo indicativo | Note |
+| Rubrique | Prezzo indicativo | Note |
 |---|---|---|
-| Bus locale | **DATO MANCANTE** | **DATO MANCANTE** |
-| Collegamento marittimo locale | **DATO MANCANTE** | **DATO MANCANTE** |
-| Noleggio auto giornaliero | **DATO MANCANTE** | **DATO MANCANTE** |
-| Taxi | **DATO MANCANTE** | **DATO MANCANTE** |
+| Bus locale | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Collegamento marittimo locale | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Noleggio auto giornaliero | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Taxi | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
 
-## Servizi quotidiani
+## Services quotidiens
 
-| Voce | Prezzo indicativo | Note |
+| Rubrique | Prezzo indicativo | Note |
 |---|---|---|
-| Lavanderia self-service | **DATO MANCANTE** | **DATO MANCANTE** |
-| SIM prepagata con dati | **DATO MANCANTE** | **DATO MANCANTE** |
-| Lavaggio scafo (hull dive) | **DATO MANCANTE** | **DATO MANCANTE** |
+| Lavanderia self-service | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| SIM prepagata con dati | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Lavaggio scafo (hull dive) | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
 
-## Contanti e pagamenti
+## Espèces & paiements
 
-Euro, carte accettate diffusamente; **DATO MANCANTE** su dettagli locali (commissioni, ATM).
+Euro, carte accettate diffusamente; **DONNÉE MANQUANTE** su dettagli locali (commissioni, ATM).
 
-## Approfondimenti
+## Pour approfondir
 
-- Tariffe complete marine e boe → [03 Porti e marine](03-porti-ancoraggi.md)
+- Tarifs complete marine e boe → [03 Porti e marine](03-porti-ancoraggi.md)
 - Ristoranti con prezzi specifici per locale → [10 Ristoranti](10-ristoranti.md)
 
-Ultimo aggiornamento: 27/08/2026
+Dernière mise à jour: 27/08/2026

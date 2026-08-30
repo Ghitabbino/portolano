@@ -1,4 +1,4 @@
-# Anse Marcel — ancoraggio {#anc-anse-marcel}
+# Anse Marcel — anchorage {#anc-anse-marcel}
 
 [← Tutti gli ancoraggi](../08-ancoraggi.md)
 **18°06.2′N 63°00.6′W**
@@ -16,4 +16,4 @@
 <div class="mapframe" data-slug="anc-anse-marcel" data-lat="18.104" data-lon="-63.01"></div>
 *Mappa offline Anse Marcel — zoom con i pulsanti +/−; menu in alto a destra per Carta nautica e Segnali*
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

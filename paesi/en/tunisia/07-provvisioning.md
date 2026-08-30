@@ -1,31 +1,31 @@
-# 07 — Provvisioning
+# 07 — Provisioning
 
 **Ultima verifica: 27/08/2026**
 
 ## Livello prezzi generale
 
-**DATO MANCANTE** — alimentari e spesa di bordo: da verificare su fonti locali. Rete supermercati diffusa sulla costa mediterranea tunisia.
+**DATA MISSING** — alimentari e spesa di bordo: to be verified su fonti locali. Rete supermercati diffusa sulla costa mediterranea tunisia.
 
 ## Supermercati
 
-### DATO MANCANTE — area principale (da definire)
+### DATA MISSING — area principale (da definire)
 
 | Negozio | Ubicazione | Distanza dalla marina | A piedi? | Note | Fonte |
 |---|---|---|---|---|---|
-| **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** |
+| **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** |
 
-Possibili catene nazionali: **DATO MANCANTE** — da verificare su Google Maps / fonti locali Tunisia.
+Possibili catene nazionali: **DATA MISSING** — to be verified su Google Maps / fonti locali Tunisia.
 
 ## Mercati
 
-- **DATO MANCANTE** — mercati comunali e del pesce presenti nelle principali città portuali.
+- **DATA MISSING** — mercati comunali e del pesce presenti nelle principali città portuali.
 
 ## Acqua e carburante
 
-**DATO MANCANTE** — verificare disponibilità banchina.
+**DATA MISSING** — verificare disponibilità banchina.
 
 ## Consigli pratici
 
-**DATO MANCANTE**.
+**DATA MISSING**.
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

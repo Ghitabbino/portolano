@@ -1,26 +1,26 @@
-# 09 — Artigiani e negozi nautici
+# 09 — Marine Trades & Chandlers
 
-⚠️ Contatti riportati solo se verificati su fonte diretta; dove manca la conferma la voce resta indicativa. resta (da confermare) e viene ricercata nei controlli mensili. Nulla viene inventato.
+⚠️ Contacts riportati only se verificati on fonte diretta; dove manca la conferma la voce resta indicativa. resta (from confermare) and viene ricercata nei controlli mensili. Nulla viene inventato.
 
 ## Tabella artigiani
 
-| Servizio | Nome | Contatti | Note | Fonte |
+| Service | Nome | Contacts | Note | Source |
 |---|---|---|---|---|
-| Assistenza ordinaria / varada | Capitainerie dei porti diportuali (Corralejo, Caleta de Fuste) coordinano elenchi locali ⚠️ , Morro Jable) | (da confermare) | Elenco artigiani locali da richiedere in capitaineria | — |
-| Meccanica locale | Caleta de Fuste / Corralejo | Elenco in capitainerie | Solo interventi leggeri, nessuna officina nautica strutturale verificata | — |
-| Riferimento full-service più vicino | **Spinnaker @ Marina Rubicón** (Playa Blanca, Lanzarote) | +34 928 519 012 int. 3 · varadero@marinarubicon.com | Vendita barche/motori; tienda náutica madre a Santa Cruz de Tenerife (B&G, Simrad, Lowrance, Harken, Spinlock, Selden) | ★★★ |
+| Assistenza ordinaria / varada | Capitainerie of the porti diportuali (Corralejo, Caleta de Fuste) coordinano elenchi locali ⚠️ , Morro Jable) | (from confermare) | Elenco artigiani locali from richiedere in capitaineria | — |
+| Meccanica locale | Caleta de Fuste / Corralejo | Elenco in capitainerie | Solo interventi leggeri, no officina nautica strutturale verificata | — |
+| Riferimento full-service more vicino | **Spinnaker @ Marina Rubicón** (Playa Blanca, Lanzarote) | +34 928 519 012 int. 3 · varadero@marinarubicon.com | Vendita barche/motori; tienda náutica madre a Santa Cruz de Tenerife (B&G, Simrad, Lowrance, Harken, Spinlock, Selden) | ★★★ |
 
 ## Altri operatori
 
-- Sailmaker/rigger/elettricisti navali: nessuna realtà strutturata sull'isola; riferimento i professionisti di Las Palmas.ale verificata.
+- Sailmaker/rigger/elettricisti navali: no realtà strutturata sull'isola; riferimento i professionisti of Las Palmas.ale verificata.
 
 ## Dove si trova cosa
 
 - **Lavori seri** (rigging, motoristica pesante, verniciature): **Las Palmas de Gran Canaria** — vedi scheda Gran Canaria.
-- **Assistenza ordinaria**: chiedere in capitaineria dell'[hub](04-servizi-cantieri.md); per varadero attrezzato e chandlery il riferimento più vicino è **Marina Rubicón** (Playa Blanca, Lanzarote).
-- **Pezzi di ricambio spediti**: postazioni Amazon/distributori peninsulari consegnano in 3–7 giorni.
+- **Assistenza ordinaria**: chiedere in capitaineria dell'[hub](04-servizi-cantieri.md); for varadero attrezzato and chandlery il riferimento more vicino è **Marina Rubicón** (Playa Blanca, Lanzarote).
+- **Pezzi of ricambio spediti**: postazioni Amazon/distributori peninsulari consegnano in 3–7 giorni.
 
-## Negozi e shipchandler
+## Negozi and shipchandler
 
 | Negozio | Cosa trovi | Tel | Mail / sito | Sede & orari | Recensioni |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 
 ## Note pratiche
 
-- Fuerteventura non ha un polo artigianale nautico strutturale: pianificare i lavori importanti altrove (Las Palmas o Marina Rubicón) e qui solo manutenzione ordinaria.
-- Ordini online con consegna in capitaineria: indicare sempre nome barca e posto d'ormeggio.
+- Fuerteventura non ha un polo artigianale nautico strutturale: pianificare i lavori importanti altrove (Las Palmas or Marina Rubicón) and qui only manutenzione ordinaria.
+- Ordini online with consegna in capitaineria: indicare always nome barca and posto d'ormeggio.
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

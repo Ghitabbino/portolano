@@ -1,17 +1,17 @@
 # Sous le Vent
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | Zona | Sainte-Luce |
 | Cucina | 🐟 Bistronomico pesce |
 | Specialità | Daurade snackée sauce aimé · langouste flambée |
-| Costo | 💰€€ per persona senza bevande |
+| Costo | 💰€€ per person without drinks |
 | Location | 🌅 bistrot sul mare |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sous+le+Vent+Sainte-Luce) |
 | Contatti | 0596 28 63 70 / 0607 76 45 92 |
-| Valutazioni | TA 4,7/5 (138), Travellers' Choice 2025 (n°5/777 a Sainte-Luce) → ★★★★★ |
+| Currencyzioni | TA 4,7/5 (138), Travellers' Choice 2025 (n°5/777 a Sainte-Luce) → ★★★★★ |
 | Orari | mer–dom 12–14 / 18–21 · chiuso lun–mar |
 
 ## Menu

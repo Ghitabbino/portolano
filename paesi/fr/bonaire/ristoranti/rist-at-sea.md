@@ -1,18 +1,18 @@
 # At Sea
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Kralendijk centro — 25 Kaya C.E.B. Hellmund |
-| Cucina | 🐟 Seafood creativo — internazionale |
-| Specialità | *Menu sorpresa 4/5/6 portate (US$69,50/82/94,50 + vini US$36/45/54) · pesce caraibico + carni USA + formaggi EU* |
-| Costo | 💰€€€ per persona senza bevande (surprise menu 69–95 + wine pairing; à la carte US$28–45) |
-| Location | 🪶 piccolo, curato, cucina a vista — 5 min a piedi dalle boe centrali |
+| Zone | Kralendijk centro — 25 Kaya C.E.B. Hellmund |
+| Cuisine | 🐟 Seafood creativo — internazionale |
+| Spécialité | *Menu sorpresa 4/5/6 portate (US$69,50/82/94,50 + vini US$36/45/54) · pesce caraibico + carni USA + formaggi EU* |
+| Coût | 💰€€€ per persona senza bevande (surprise menu 69–95 + wine pairing; à la carte US$28–45) |
+| Emplacement | 🪶 piccolo, curato, cucina a vista — 5 min a piedi dalle boe centrali |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=At+Sea+Kaya+C+E+B+Hellmund+25+Kralendijk) |
-| Contatti | +599 701 0134 · WhatsApp +599 701 0134 · [atseabonaire.com](https://www.atseabonaire.com) |
-| Valutazioni | **bonaire.com 4,4/5 (303) [locale, 28/08/2026]** ★★★ · TripAdvisor 4,4/5 (1.786) ★★★ · Google 4,4/5 (303) → **★★★★** |
-| Orari | mar–sab 18:00–22:00 · chiuso lun/dom — solo cena, prenotazione consigliata |
+| Contacts | +599 701 0134 · WhatsApp +599 701 0134 · [atseabonaire.com](https://www.atseabonaire.com) |
+| Évaluations | **bonaire.com 4,4/5 (303) [locale, 28/08/2026]** ★★★ · TripAdvisor 4,4/5 (1.786) ★★★ · Google 4,4/5 (303) → **★★★★** |
+| Horaires | mar–sab 18:00–22:00 · chiuso lun/dom — solo cena, prenotazione consigliata |
 
 ## Menu
 
@@ -24,9 +24,9 @@
 
 **Chef**: Team At Sea — cucina creativa “sea to plate” con ingredienti da 3 continenti
 
-## Foto
+## Photos
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Photos non ancora disponibili — recuperare al controllo mensile.*
 
 ## Note
 

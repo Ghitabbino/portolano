@@ -1,49 +1,49 @@
-# 01 — Clearance doganale della barca
+# 01 — Boat clearance
 
 **Ultima verifica: 27/08/2026**
 
 ## Chi deve farla
 
-**DATO MANCANTE** — verificare su fonte governativa siria (Capitaneria / Port Authority) chi deve effettuare la clearance in entrata/uscita e negli spostamenti interni. ★★★★★
+**DATA MISSING** — verificare su fonte governativa siria (Capitaneria / Port Authority) chi deve effettuare la clearance in entrata/uscita e negli spostamenti interni. ★★★★★
 
 ## Procedura
 
 | Passo | Dettaglio | Fonte |
 |---|---|---|
-| Dichiarazione online/cartacea | **DATO MANCANTE** | **DATO MANCANTE** |
-| Documenti richiesti | **DATO MANCANTE** — passaporti equipaggio, documenti barca, lista equipaggio | **DATO MANCANTE** |
-| Punti di ingresso (port of entry) | **DATO MANCANTE** | **DATO MANCANTE** |
+| Dichiarazione online/cartacea | **DATA MISSING** | **DATA MISSING** |
+| Documenti richiesti | **DATA MISSING** — passaporti equipaggio, documenti barca, lista equipaggio | **DATA MISSING** |
+| Punti di ingresso (port of entry) | **DATA MISSING** | **DATA MISSING** |
 
 ## Copia cartacea e timbro
 
-**DATO MANCANTE**.
+**DATA MISSING**.
 
 ## Costi
 
-| Voce | Costo | Fonte |
+| Item | Costo | Fonte |
 |---|---|---|
-| Dichiarazione / cruising permit | **DATO MANCANTE** | **DATO MANCANTE** |
-| Tassa di soggiorno / light dues | **DATO MANCANTE** | **DATO MANCANTE** |
+| Dichiarazione / cruising permit | **DATA MISSING** | **DATA MISSING** |
+| Tassa di soggiorno / light dues | **DATA MISSING** | **DATA MISSING** |
 
 ## Punti agréé / porti d'ingresso
 
-**DATO MANCANTE** — elenco porti abilitati all'ingresso internazionale per diporto.
+**DATA MISSING** — elenco porti abilitati all'ingresso internazionale per diporto.
 
 ## Dogana regionale
 
-**DATO MANCANTE**.
+**DATA MISSING**.
 
 ## Esperienze di naviganti
 
-**DATO MANCANTE**.
+**DATA MISSING**.
 
 ## Sanzioni
 
-**DATO MANCANTE** — verificare sanzioni per mancata clearance.
+**DATA MISSING** — verificare sanzioni per mancata clearance.
 
-## Da verificare prima della partenza
+## To be verified before departure
 
 - Lista porti d'ingresso aggiornata su fonte ufficiale Siria.
 - Orari e procedure Capitaneria / Harbour Master.
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

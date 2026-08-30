@@ -12,7 +12,7 @@
 
 **Come funziona:** scegli → checkout su Printful/Gelato (pagamento sicuro, spedizione tracciata 3–6 gg EU) → stampato in EU (Riga/Barcellona) → ricevi → margine va in [Trasparenza](trasparenza.md) e [Ringraziamenti](ringraziamenti.md). Resi 14 gg per difetto stampa (garanzia Printful).
 
-**Dati tecnici per ogni gadget (4 punti obbligatori):** 1) Dimensioni file DPI/pixel/sRGB-CMYK 2) Tipo stampa 3) Posizionamento logo 4) Margine etico. Dettaglio completo in [`merch.json`](merch.json).
+**Dati tecnici per ogni gadget (4 punti obbligatori):** 1) Dimensioni file DPI/pixel/sRGB-CMYK 2) Tipo stampa 3) Posizionamento logo 4) Margine etico. Détail completo in [`merch.json`](merch.json).
 
 ---
 
@@ -20,7 +20,7 @@
 
 *Focus: comfort terra/bordo · cotone bio GOTS/OCS · PNG trasparente varianti colore*
 
-| SKU | Prodotto | Anime | Taglie / Colori | File 300 DPI | Stampa | Posizionamento | Costo → Prezzo → Margine |
+| SKU | Prodotto | Anime | Taglie / Colori | File 300 DPI | Stampa | Posizionamento | Coût → Prezzo → Margine |
 |---|---|---|---|---|---|---|---|
 | **TS-POR-01** | **T-shirt Unisex Portolano Minimale**<br>Creator 180 GSM, regular | Portolano | XS–XXL · Bianco, Avorio, Petrolio, Nero, Grigio | 4500×5400px (15×18") sRGB PNG+SVG, area viva 254×300mm | **DTG Kornit** base acqua OEKO-TEX, 160°C fissaggio | Centrato petto 100×100mm (logo 80mm + scritta 18mm), 70mm sotto collo, solo fronte | 12.50€ → **24.90€** → **8.50€** |
 | **TS-SAI-01** | **T-shirt Unisex Sailtropics Tecnica**<br>Creator 180 GSM, petto+schiena opzionale | Sailtropics | XS–XXL · Navy, Bianco, Teal, Asfalto | 4500×5400 petto + 4500×5400 schiena (9000×5400 se doppia) sRGB, petto 200mm / schiena 280×350mm | **DTG Dual-side**, bianco di fondo su scuri | Petto 80×80mm centrato; schiena (opz. +3€ base) 280×320mm, 90mm sotto collo | Solo petto 12.50€→**24.90€**→8.5€ · Doppia +3€→**26.90€**→7.5€ |
@@ -35,7 +35,7 @@
 
 *Focus: studio, programmazione, wiki al PC · stampa su carta/ceramica*
 
-| SKU | Prodotto | Formati | File 300 DPI | Stampa | Posizionamento | Costo → Prezzo → Margine |
+| SKU | Prodotto | Formati | File 300 DPI | Stampa | Posizionamento | Coût → Prezzo → Margine |
 |---|---|---|---|---|---|---|
 | **NB-POR-01** | **Taccuino A5 Hardcover 144pp Puntinato**<br>1200gsm soft-touch, 90gsm avorio, elastico teal | A5 148×210mm STD (A6 -1€) · Petrolio/Avorio · puntinato/rigato/bianco | **1748×2480px (A5+3mm bleed =154×216mm @300DPI)** CMYK Fogra39 (da sRGB), PDF/X-1a + PNG, dorso 12mm | **UV su copertina rigida + laminazione soft-touch** 6 colori + bianco | Fronte 100×100mm logo + “Portolano — appunti di rotta” 12pt; retro 20mm dx basso; dorso verticale | 8.20€ → **16.90€** → **5.80€** |
 | **TZ-POR-01** | **Tazza Ceramica 330ml (11oz)**<br>AAA, bordo teal opzionale, lavastoviglie safe | 330ml STD (440ml +1.5€) · bianca / bordo teal / magica +4€ | **2700×1050px wrap (247×95mm @300DPI+3mm bleed)** sRGB PNG, area viva 240×95mm (manico escluso 15mm) | **Sublimazione dye** transfer 120g, 200°C 180s, Orca coating | Avvolgente 80×80mm logo wrap + scritta orizzontale “conoscenza/orientamento” | 6.80€ → **14.90€** → **5.20€** (set 2×26.90€→9€) |
@@ -50,7 +50,7 @@
 
 *Focus: resistenza UV/vento/acqua mare · doppio lato / cuciture rinforzate — primo prodotto **Bandiera/Guidone** in coda*
 
-| SKU | Prodotto | Misure | File | Stampa | Posizionamento | Costo → Prezzo → Margine |
+| SKU | Prodotto | Misure | File | Stampa | Posizionamento | Coût → Prezzo → Margine |
 |---|---|---|---|---|---|---|
 | **BG-SAI-01** | **Bandiera 60×90cm + Guidone 30×45cm — Sailtropics**<br>⭐ **PRIMO PRODOTTO CODA** · poliestere nautico 115gsm, occhielli inox, cuciture doppie, bifacciale mirror 85% | Bandiera 60×90 STD (40×60 -3€, 90×150 +6€) · Guidone 30×45 STD (20×30 -2€) · **Bundle 34.90€** | **3543×5315px @150DPI (oppure 7090×10630 @300DPI)** +10mm bleed, sRGB sublimazione, PDF vettoriale font tracciati, nero ricco C60M40Y40K100 | **Sublimazione su poliestere nautico 115gsm**, 210°C calandra, passante 85%, filo Tenara anti-UV opz. | Bifacciale centrato 400×280mm + coordinate 10pt su inferitura; guidone 180×140mm entrambi i lati | Bandiera 13.50€→**22.90€**→6.5€ · Guidone 9.80€→**18.90€**→6.2€ · **Bundle 23.30€→34.90€→8.00€** |
 | **DB-SAI-01** | **Sacca Stagna Dry Bag 10L/20L**<br>PVC 500D HF saldato, roll-top 3 pieghe, tracolla, IPX6 | 10L ø20×40 STD / 20L ø24×48 +3€ / 5L -2€ · Navy, Giallo HV, Trasparente | **3600×2400px per lato @300DPI (12×8")** 2 lati =7200×2400, sRGB transfer su PVC, PNG+PDF sagoma, area 200×120mm | **Transfer termico / UV su PVC 500D**, film PU 120μ, 150°C 12s | Fronte/retro 140×90mm logo + scritta 12mm; retro 60mm vicino chiusura | 10L 13.80€→**22.90€**→6.2€ · 20L 16.50€→**26.90€**→7.5€ |
@@ -63,7 +63,7 @@
 
 ### Riepilogo margini e costi vivi
 
-| Voce | Costo vivo | Margine medio merch | Obiettivo |
+| Rubrique | Coût vivo | Margine medio merch | Obiettivo |
 |---|---|---|---|
 | Hosting GitHub Pages + CDN | 12€/mese | — | coperto da 2 bandiere |
 | Domini sailtropics.com/.it | 5€/mese | — | 1 tazza |
@@ -78,4 +78,4 @@
 
 > Vuoi aggiornare un prezzo o aggiungere un prodotto? Dimmi SKU e nuovo costo → rigenero `merch.json` + questa pagina + `merch.html` al prossimo build. Dati in [`merch.json`](merch.json) (JSON tecnico per agenti).
 
-Ultimo aggiornamento: 28/08/2026
+Dernière mise à jour: 28/08/2026

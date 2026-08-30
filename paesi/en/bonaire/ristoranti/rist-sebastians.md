@@ -1,13 +1,13 @@
 # Sebastian's
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | Zona | Kralendijk boulevard — 60 Julio A. Abraham Blvd, sul mare |
 | Cucina | 🍽️ Internazionale mediterranea con accento caraibico |
 | Specialità | *Pier Table sull'acqua · lobster, wahoo su spaghetti piccanti (signature US$29), wild sea bass, daily fish* |
-| Costo | 💰€€€ per persona senza bevande (antipasti US$15–25, piatti US$26–40, pizza/pasta domenica US$16) |
+| Costo | 💰€€€ per person without drinks (antipasti US$15–25, piatti US$26–40, pizza/pasta domenica US$16) |
 | Location | 🌅 oceanfront con pier romantico e bar lounge per green flash al tramonto |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sebastians+Restaurant+Julio+A+Abraham+Blvd+60+Kralendijk) |
 | Contatti | +599 717 1697 · [sebastiansrestaurantbonaire.com](https://sebastiansrestaurantbonaire.com) |
@@ -32,4 +32,4 @@
 
 Pier Table più richiesto di Bonaire per sunset/proposte — prenotare con largo anticipo, specificare “pier” alla prenotazione. A piedi dal dinghy dock (600 m). Domenica Italian Night molto popolare. Disponibile pacchetto Fly & Dine (volo Cessna + cena). Dress code smart casual, flip-flop non graditi a cena.
 
-Fonti: [bonaire.com — Sebastian's](https://bonaire.com/en/restaurants/sebastian-s-restaurant-bar-lounge/) ★★★ · [sebastiansrestaurantbonaire.com](https://sebastiansrestaurantbonaire.com) ★★★★ · [TripAdvisor — Sebastian's](https://www.tripadvisor.com/Restaurant_Review-g147268-d5490282-Reviews-Sebastian_s_Restaurant-Kralendijk_Bonaire.html) ★★★
+Sources: [bonaire.com — Sebastian's](https://bonaire.com/en/restaurants/sebastian-s-restaurant-bar-lounge/) ★★★ · [sebastiansrestaurantbonaire.com](https://sebastiansrestaurantbonaire.com) ★★★★ · [TripAdvisor — Sebastian's](https://www.tripadvisor.com/Restaurant_Review-g147268-d5490282-Reviews-Sebastian_s_Restaurant-Kralendijk_Bonaire.html) ★★★

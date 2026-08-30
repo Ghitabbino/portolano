@@ -23,20 +23,24 @@ Ultimo aggiornamento: 25/08/2026
 
 ## Quadro generale
 
-**DATO MANCANTE** — da completare al controllo mensile.
+Contesto **politicamente sensibile**: evitare manifestazioni e fotografare edifici governativi; applicazione arbitraria delle regole possibile. Criminalità comune (scippi, furti) più presente in città e su costa caraibica; presenza narcotraffico su Bluefields/El Bluff/Corn Island con controlli militari. Pacifico turistico più tranquillo di giorno, ma non sbarcare di notte su spiagge isolate. ★★★★
 
+## Posti sicuri / da evitare
 
-## Posti sicuri
-
-**DATO MANCANTE** — da completare al controllo mensile.
-
+- **Più sicuri**: San Juan del Sur (zona turistica di giorno), Marina Puesta del Sol (marina protetta). ★★★
+- **Da evitare / prudenza massima**: costa caraibica isolata, Bluefields fuori porto, navigazione notturna, spiagge deserte notte. ★★★★
+- A terra: non esporre oggetti di valore, usare taxi concordati. ★★
 
 ## Salvataggio ed emergenze
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
+- **Emergenze**: Polizia **118** · VHF **16** (presidio limitato fuori Pacifico). Nessun MRCC oceanico dedicato — fare affidamento su VHF, EPIRB e contatti marina. ★★
+- **Assistenza medica**: ospedali principali a Managua/León; cliniche limitate a San Juan del Sur/Bluefields. Portare kit medico. ★★
 
 ## Monitoraggio mensile
 
-**DATO MANCANTE** — da completare al controllo mensile.
+| Data | Fonte | Azione |
+|---|---|---|
+| 29/08/2026 | GOV.UK, travel.state.gov, Ocean Posse | Confermata valutazione 2,5/5, nessuna variazione L3 |
+
+Ultimo aggiornamento: 29/08/2026
 

@@ -1,8 +1,8 @@
-# 05 — Stagionalità e meteo
+# 05 — Saisonnalité & Météo
 
-**DATO MANCANTE** — scheda da completare secondo standard (clima, stagioni, alisei,
+**DONNÉE MANQUANTE** — scheda da completare secondo standard (clima, stagioni, alisei,
 mar di fondo, finestre navigazione).
 
-Fonte base: puertosdetenerife.org ★★★★ · AEMET ★★★★★
+Source base: puertosdetenerife.org ★★★★ · AEMET ★★★★★
 
-Ultimo aggiornamento: 25/08/2026
+Dernière mise à jour: 25/08/2026

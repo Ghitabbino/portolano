@@ -1,18 +1,18 @@
 # O Petisca
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| **Isola/Zona** | São Jorge / Velas |
-| **Cucina** | 🐟🥩 Tradizionale · Queijo |
-| **Specialità** | Queijo São Jorge DOP · Amêijoas · Bife regional · Lapas |
-| **Costo** | 💰€€ per persona senza bevande |
-| **Location** | 🪶 Tasca familiare, Velas centro, 5 min da marina |
+| **Isola/Zone** | São Jorge / Velas |
+| **Cuisine** | 🐟🥩 Tradizionale · Queijo |
+| **Spécialité** | Queijo São Jorge DOP · Amêijoas · Bife regional · Lapas |
+| **Coût** | 💰€€ per persona senza bevande |
+| **Emplacement** | 🪶 Tasca familiare, Velas centro, 5 min da marina |
 | **Mappa** | [Google Maps](https://www.google.com/maps/search/?api=1&query=O+Petisca+Velas+S%C3%A3o+Jorge) |
-| **Contatti** | +351 295 412 888 |
-| **Valutazioni** | Google 4,5/5 (300+) · TA 4,5/5 (250+) → ★★★★ |
-| **Orari** | Qua–Lun 12:00–15:00 / 19:00–22:00 · Mar chiuso |
+| **Contacts** | +351 295 412 888 |
+| **Évaluations** | Google 4,5/5 (300+) · TA 4,5/5 (250+) → ★★★★ |
+| **Horaires** | Qua–Lun 12:00–15:00 / 19:00–22:00 · Mar chiuso |
 
 ## Menu
 
@@ -25,10 +25,10 @@
 - **Vinho Verdelho / Biscoitos** (vini locali)
 - **Doce de种 / Queijada** (dolci tipici)
 
-## Foto
+## Photos
 
 ![O Petisca](img/azzorre/rist-petisca.jpg)
 
 **Note**: **Tempio del queijo São Jorge**; ambiente famigliare autentico; **solo contanti**; da marina Velas 5 min a piedi; caseifici visita su prenotazione (Queijaria Canadá, Queijaria Urbano).
 
-Ultimo aggiornamento: 24/08/2026
+Dernière mise à jour: 24/08/2026

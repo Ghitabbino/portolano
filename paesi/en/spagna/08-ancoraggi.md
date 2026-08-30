@@ -1,28 +1,28 @@
-# 08 — Portolano degli ancoraggi
+# 08 — Pilot – Anchorages
 
 **Ultima verifica: 27/08/2026**
 
 ## Regole generali di ancoraggio (prima di tutto)
 
-- **Regolamenti locali**: ancoraggio soggetto a regolamenti comunali / parchi / capitanerie. Nelle **Baleari divieto di ancorare su Posidonia oceanica** (prateria protetta) — sanzioni elevate. Verificare su Govern de les Illes Balears / Demarcación de Costas. ★★★★ — **DATO MANCANTE** su dettagli sanzioni e mappe ufficiali.
+- **Regolamenti locali**: ancoraggio soggetto a regolamenti comunali / parchi / capitanerie. Nelle **Baleari divieto di ancorare su Posidonia oceanica** (prateria protetta) — sanzioni elevate. Verificare su Govern de les Illes Balears / Demarcación de Costas. ★★★★ — **DATA MISSING** su dettagli sanzioni e mappe ufficiali.
 - **Segnaletica IALA-A** in Mediterraneo (opposto a IALA-B dei Caraibi). ★★★
-- **DATO MANCANTE** su zone di divieto assoluto per area (riserve, parchi, zone militari, campi boe obbligatori).
+- **DATA MISSING** su zone di divieto assoluto per area (riserve, parchi, zone militari, campi boe obbligatori).
 
 ### ⛔ Zone di divieto assoluto (ufficiali)
 
 | Zona | Divieto | Fonte |
 |---|---|---|
-| **DATO MANCANTE** — Baleari: posidonia | Àncora vietata su posidonia | **DATO MANCANTE** |
-| **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** |
+| **DATA MISSING** — Baleari: posidonia | Àncora vietata su posidonia | **DATA MISSING** |
+| **DATA MISSING** | **DATA MISSING** | **DATA MISSING** |
 
-> Testi integrali e mappe ufficiali: **DATO MANCANTE** — da verificare su miteco.gob.es / Govern Balear / Puertos del Estado.
+> Testi integrali e mappe ufficiali: **DATA MISSING** — to be verified su miteco.gob.es / Govern Balear / Puertos del Estado.
 
 ## Tabella riassuntiva — i migliori ancoraggi
 
 | # | Ancoraggio | Riparo venti prevalenti | Tenuta | Profondità | Affollamento | Giudizio comunità |
 |---|---|---|---|---|---|---|
-| 1 | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** |
-| 2 | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** |
+| 1 | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** |
+| 2 | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** |
 
 *In preparazione — ancoraggi mediterranei spagnoli da censire con coordinate WGS84 verificate. Nessun punto inventato.*
 
@@ -38,21 +38,21 @@
 
 | Carta | Copertura | Note |
 |---|---|---|
-| **Instituto Hidrográfico de la Marina (IHM)** | Coste spagnole | Carte ufficiali Spagna — **DATO MANCANTE** su numeri/nomenclatura per tratto |
-| **NV Charts / Imray** | Mediterraneo Spagna / Baleari | Alternativa plaisance, WGS84 — **DATO MANCANTE** su edizioni |
+| **Instituto Hidrográfico de la Marina (IHM)** | Coste spagnole | Carte ufficiali Spagna — **DATA MISSING** su numeri/nomenclatura per tratto |
+| **NV Charts / Imray** | Mediterraneo Spagna / Baleari | Alternativa plaisance, WGS84 — **DATA MISSING** su edizioni |
 
-- Le carte IHM riportano zone regolamentate; acquistabili da rivenditori autorizzati. ★★★★ — **DATO MANCANTE** su dettagli.
+- Le carte IHM riportano zone regolamentate; acquistabili da rivenditori autorizzati. ★★★★ — **DATA MISSING** su dettagli.
 - Per la navigazione quotidiana: carta elettronica ufficiale su plotter + carta cartacea come riserva.
 
 ## Non inclusi (per ora)
 
-- Tutti gli ancoraggi sono **DATO MANCANTE** — da censire al controllo mensile con fonti verificate.
+- Tutti gli ancoraggi sono **DATA MISSING** — da censire al controllo mensile con fonti verificate.
 
 ## Checklist àncora per la Spagna
 
-1. Carte ufficiali IHM / elettronica aggiornata ✓ — **DATO MANCANTE** su numeri carte
-2. Verifica divieti posidonia (Baleari) e parchi marini ✓ — **DATO MANCANTE**
-3. Àncora adeguata a sabbia/posidonia/roccia (fondali vari) — **DATO MANCANTE**
-4. **DATO MANCANTE**
+1. Carte ufficiali IHM / elettronica aggiornata ✓ — **DATA MISSING** su numeri carte
+2. Verifica divieti posidonia (Baleari) e parchi marini ✓ — **DATA MISSING**
+3. Àncora adeguata a sabbia/posidonia/roccia (fondali vari) — **DATA MISSING**
+4. **DATA MISSING**
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

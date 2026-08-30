@@ -1,31 +1,31 @@
-# 07 — Provvisioning
+# 07 — Provisioning
 
-**Ultima verifica: 27/08/2026**
+**Last checked: 27/08/2026**
 
 ## Livello prezzi generale
 
-**DATO MANCANTE** — alimentari e spesa di bordo: da verificare su fonti locali. Rete supermercati diffusa sulla costa mediterranea cipro.
+**DATA MISSING** — alimentari and spesa of bordo: from check on fonti locali. Rete supermercati diffusa sulla costa mediterranea cipro.
 
 ## Supermercati
 
-### DATO MANCANTE — area principale (da definire)
+### DATA MISSING — area principale (from definire)
 
-| Negozio | Ubicazione | Distanza dalla marina | A piedi? | Note | Fonte |
+| Negozio | Ubicazione | Distance dalla marina | A piedi? | Note | Source |
 |---|---|---|---|---|---|
-| **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** |
+| **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** | **DATA MISSING** |
 
-Possibili catene nazionali: **DATO MANCANTE** — da verificare su Google Maps / fonti locali Cipro.
+Possibili catene nazionali: **DATA MISSING** — from check on Google Maps / fonti locali Cipro.
 
 ## Mercati
 
-- **DATO MANCANTE** — mercati comunali e del pesce presenti nelle principali città portuali.
+- **DATA MISSING** — mercati comunali and of the pesce presenti nelle principali città portuali.
 
-## Acqua e carburante
+## Water and carburante
 
-**DATO MANCANTE** — verificare disponibilità banchina.
+**DATA MISSING** — check disponibilità banchina.
 
 ## Consigli pratici
 
-**DATO MANCANTE**.
+**DATA MISSING**.
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

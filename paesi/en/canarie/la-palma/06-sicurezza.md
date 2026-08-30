@@ -1,47 +1,47 @@
-# 06 — Sicurezza
+# 06 — Safety & Security
 
-## Valutazione sicurezza
+## Safety Rating
 
-**4/5** — isola tranquilla e a bassa criminalità; i rischi principali sono nautici (costa steep-to, vento/swell), non sociali.
+**4/5** — isola tranquilla and a bassa criminalità; i rischi principali are nautici (costa steep-to, vento/swell), non sociali.
 
-## Mappa delle zone — offline
+## Zone Map — Offline
 
 <div class="mapframe" data-slug="la-palma" data-minz="10" data-maxz="15" data-lat="28.65" data-lon="-17.83"></div>
 
 *Nessuna zona a rischio documentata.* Arancione = prudenza. Nessuna zona rossa documentata contro diportisti.
 
-## Quadro generale
+## General Overview
 
-| Zona | Giudizio |
+| Area | Giudizio |
 |---|---|
-| Santa Cruz de la Palma | Sicura; normali precauzioni urbane, porto attivo con ferries: attenzione alle aree di movimento |
-| Marina La Palma | Presidiata; furti a bordo rari — chiudere e proteggere comunque |
-| Tazacorte / costa ovest | Tranquilla; sosta solo con meteo stabile |
+| Santa Cruz de la Palma | Sicura; normali precauzioni urbane, porto attivo with ferries: attenzione at the aree of movimento |
+| Marina La Palma | Presidiata; furti a bordo rari — chiudere and proteggere comunque |
+| Tazacorte / costa ovest | Quiet; sosta only with meteo stabile |
 
 ## Navigazione
 
-- Costa **steep-to**: profondità rapidamente elevate → niente ancoraggi improvvisati, restare al largo dei picchi e scogliere.
-- Alisei NE con accelerazioni sui capi; swell da N/O invernale rende scomodo l'approdo di Tazacorte.
+- Costa **steep-to**: profondità rapidamente elevate → niente ancoraggi improvvisati, restare at the largo of the picchi and scogliere.
+- Alisei NE with accelerazioni sui capi; swell from N/O invernale rende scomodo l'approdo of Tazacorte.
 - Nebbia/nubi basse (mar de nubes) possono ridurre la visibilità sulle coste alte.
 
 ## Vulcano
 
 - Cumbre Vieja/Tajogaite: eruzione 2021 nella zona sud-ovest (Tajuya, El Paso, Los Llanos); monitoraggio IGN continuo.
-- Nessun rischio diretto per la navigazione; in caso di attività seguire le comunicazioni ufficiali e gli eventuali perimetri marini.
+- Nessun rischio diretto for la navigazione; in caso of attività seguire le comunicazioni ufficiali and gli eventuali perimetri marini.
 
-## A bordo e a terra
+## Aboard and a terra
 
-- Oggetti di valore riposti, barche chiuse di notte; documenti originali al sicuro, copie a bordo.
-- Sentierismo popolare: informarsi su condizioni e chiusure (zone laviche) prima delle escursioni.
+- Oggetti of valore riposti, barche chiuse of notte; documenti originali at the sicuro, copie a bordo.
+- Sentierismo popolare: informarsi on condizioni and chiusure (zone laviche) prima of the escursioni.
 
-## Salvataggio ed emergenze
+## Rescue & Emergencies
 
 | Emergenza | Numero |
 |---|---|
 | Emergenze unificate (UE) | **112** |
 | SAR marittimo (Salvamento Marítimo) | **VHF 16** |
-| Marina più vicina per assistenza | Marina La Palma (Santa Cruz) |
+| Marina more vicina for assistenza | Marina La Palma (Santa Cruz) |
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026
 
 ## Posti sicuri

@@ -1,6 +1,6 @@
-# 10 — Ristoranti
+# 10 — Restaurants
 
-**Ultima verifica: 25/08/2026** · Cucina beliziana: riso-e-fagioli, pesce fresco,
+**Last checked: 25/08/2026** · Cucina beliziana: riso-e-fagioli, pesce fresco,
 gallinita pibil, fry jacks.
 
 | Ristorante | Dove | Note |
@@ -9,16 +9,16 @@ gallinita pibil, fry jacks.
 | **Wish Willy's** | Placencia/Caye Caulker? | Grill caraibico **verificare apertura stagionale** ★★ |
 | Resort dining | South Water Caye, Sapodilla | Solo ospiti/prenotazione ★★ |
 
-DATO MANCANTE: recensioni aggiornate 2025-26 per le cayes esterne.
+DATA MISSING: recensioni aggiornate 2025-26 per le cayes esterne.
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026
 
-## Griglia generale
+## General Grid
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## App e fonti
+## Apps & Sources
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 

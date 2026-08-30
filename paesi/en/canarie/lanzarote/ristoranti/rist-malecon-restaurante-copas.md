@@ -1,18 +1,18 @@
 # Malecón Restaurante & Copas
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All restaurants](../10-ristoranti.md)
 **28°57′50″ N 13°33′02″ W**
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| **Costo** |**DATO MANCANTE**|
-| **Cucina** |**DATO MANCANTE**|
-| **Specialità** |**DATO MANCANTE**|
-| **Location** |**DATO MANCANTE**|
+| **Cost** |**DATA MISSING**|
+| **Cuisine** |**DATA MISSING**|
+| **Speciality** |**DATA MISSING**|
+| **Setting** |**DATA MISSING**|
 
 <div class="mapframe" data-slug="rist-malecon-restaurante-copas" data-lat="28.9638" data-lon="-13.5505"></div>
-*Cartina di dettaglio: posizione a terra rispetto alla barca · zoom ±*
+*Cartina of dettaglio: posizione a terra rispetto at the barca · zoom ±*
 
-Fonti: **DATO MANCANTE**
+Fonti: **DATA MISSING**
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

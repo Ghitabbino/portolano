@@ -1,8 +1,8 @@
-# 08 — Ancoraggi
+# 08 — Guide des mouillages
 
 ## Ancoraggi in dettaglio
 
-| # | Ancoraggio | Riparo | Fondo | Prof. | Boe |
+| # | Mouillage | Riparo | Fondo | Prof. | Boe |
 |---|---|---|---|---|---|
 | 1 | [Baie de Marigot](ancoraggi/anc-marigot.md) | ★★★ | Sabbia | 2–4 m | No — tassa €9,20/gg <12 m (+50% multi) ⚠️ |
 | 2 | [Grand Case](ancoraggi/anc-grand-case.md) | ★★★★ | Sabbia | 3–10 m | No |
@@ -11,10 +11,10 @@
 
 
 
-**Ultimo aggiornamento: 23/08/2026**
+**Dernière mise à jour: 23/08/2026**
 
 
-| Ancoraggio | Protezione | Note |
+| Mouillage | Protezione | Note |
 |---|---|---|
 | **Baie de Marigot** | Buona con alisei | Città, provviste, mercati; €5/g + €20 una tantum; [Navily](https://www.navily.com/carte/mouillage/13033) ★★★★ |
 | **Grand Case** | Buona | "Restaurant row" sul mare, spiaggia; vivo/turistico la sera ★★★★ |
@@ -27,24 +27,24 @@
 
 Distanze: Marigot–Anse Marcel 5 nm · Anse Marcel–Tintamarre 4 nm · Tintamarre–Fourchue 11 nm · Fourchue–Gustavia 5 nm · Gustavia–Philipsburg 14 nm · Philipsburg–Crocus Bay (Anguilla) 24 nm ★★★
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026
 
-## Regole generali
+## Règles générales
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Tabella riassuntiva
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## Cartografia ufficiale
+## Tableau récapitulatif
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## Checklist àncora
+## Cartographie officielle
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
+
+
+## Check-list mouillage
+
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 

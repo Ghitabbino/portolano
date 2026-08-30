@@ -1,10 +1,10 @@
 # Eastern Lemmons {#anc-eastern-lemons}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← All Anchorages](../08-ancoraggi.md)
 
 **9°32.5′N 78°55.5′W** ★★
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | **Profondità** |5–10 m sabbia ★★|
 | **Tenuta àncora** | Buona |
@@ -17,4 +17,4 @@
 <div class="mapframe" data-slug="anc-eastern-lemons" data-lat="9.541" data-lon="-78.682"></div>
 *Vista mappa Eastern Lemmons · mappa offline*
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026

@@ -1,31 +1,31 @@
-# 04 — Servizi, cantieri e manutenzione
+# 04 — Services, Boatyards & Maintenance
 
-**Ultima verifica: 27/08/2026**
+**Last checked: 27/08/2026**
 
-## Hub tecnico — DATO MANCANTE
+## Hub tecnico — DATA MISSING
 
-Il principale hub tecnico per Cipro è **DATO MANCANTE** — da verificare su Port Authority / associazioni nautiche locali.
+Il principale hub tecnico for Cipro è **DATA MISSING** — from check on Port Authority / associazioni nautiche locali.
 
-| Servizio | Dettaglio | Fonte |
+| Service | Detail | Source |
 |---|---|---|
-| Travelift / carenaggio | **DATO MANCANTE** | **DATO MANCANTE** |
-| Professionisti in porto | **DATO MANCANTE** | **DATO MANCANTE** |
-| Spedizione ricambi | **DATO MANCANTE** | **DATO MANCANTE** |
+| Travelift / carenaggio | **DATA MISSING** | **DATA MISSING** |
+| Professionisti in porto | **DATA MISSING** | **DATA MISSING** |
+| Spedizione ricambi | **DATA MISSING** | **DATA MISSING** |
 
-## Altri cantieri
+## Other Boatyards
 
-**DATO MANCANTE**.
+**DATA MISSING**.
 
-## Gas e bombole
+## Gas and bombole
 
-**DATO MANCANTE** — verificare standard bombole Cipro (scambio/ricarica).
+**DATA MISSING** — check standard bombole Cipro (scambio/ricarica).
 
-## Acqua dolce
+## Water dolce
 
-**DATO MANCANTE**.
+**DATA MISSING**.
 
 ## Note strategiche
 
-**DATO MANCANTE** — verificare alta stagione cantieri e tempi d'attesa.
+**DATA MISSING** — check alta stagione cantieri and tempi d'attesa.
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

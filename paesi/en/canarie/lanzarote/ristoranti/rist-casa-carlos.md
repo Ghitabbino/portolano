@@ -1,17 +1,17 @@
 # Casa Carlos
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| Zona | Playa Blanca – costa |
-| Cucina | 🥩 Asador mediterraneo |
-| Specialità | Bue · bacalao a las brasas |
-| Costo | 💰€€€ per persona senza bevande |
-| Location | 🌙 chill-out vista costa |
-| Contatti | Via VHF porto o reception — numero non pubblicato ⚠️ |
-| Valutazioni |CaptureAtlas ★★★★|
-| Orari | tutti i giorni 13:30-22:30; CHIUSO martedì |
+| Area | Playa Blanca – costa |
+| Cuisine | 🥩 Asador mediterraneo |
+| Speciality | Bue · bacalao a las brasas |
+| Cost | 💰€€€ for persona without bevande |
+| Setting | 🌙 chill-out vista costa |
+| Contacts | Via VHF porto or reception — numero non pubblicato ⚠️ |
+| Ratings |CaptureAtlas ★★★★|
+| Hours | all i giorni 13:30-22:30; CHIUSO martedì |
 
 ## Menu
 
@@ -22,4 +22,4 @@
 
 **Note**: Terrazza tramonto
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

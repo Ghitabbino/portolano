@@ -1,4 +1,4 @@
-# 01 — Clearance doganale della barca
+# 01 — Boat clearance
 
 **Ultima verifica: 28/08/2026** · Fonti principali: borderforce.gov.tc vessel-clearance (agg. 25/03/2024) ★★★★★; gov.tc pressoffice 31/01/2023 ★★★★★; sailclear.com ★★★★★
 
@@ -15,11 +15,11 @@ Tutti i natanti da diporto, qualsiasi nazionalità e bandiera, che:
 
 1. Creare un **account SailClear** e sottoscrivere l'abbonamento annuale **US$25** (dal 01/05/2024, CCLEC). [magneticmediatv.com 18/09/2024 ★★★★; gov.tc pressoffice ★★★★★]
    - URL: `https://www.sailclear.com` — selezionare **Turks and Caicos Islands** come destinazione. ★★★★★
-2. Compilare la pre-notifica **almeno 24 ore prima** dell'arrivo (e prima della partenza dal porto precedente) con: nome natante, n° immatricolazione e bandiera, **primo POE prescelto**, ETA/ETD, **lista equipaggio/passeggeri** (nome, data nascita, nazionalità, n° passaporto), dati proprietario/master, animali/armi/cibo daziabile da dichiarare, ultimo/prossimo porto. [borderforce.gov.tc ★★★★★; sailclear.com ★★★★★]
+2. Compilare la pre-notifica **almeno 24 ore prima** dell'arrivo (e before departure dal porto precedente) con: nome natante, n° immatricolazione e bandiera, **primo POE prescelto**, ETA/ETD, **lista equipaggio/passeggeri** (nome, data nascita, nazionalità, n° passaporto), dati proprietario/master, animali/armi/cibo daziabile da dichiarare, ultimo/prossimo porto. [borderforce.gov.tc ★★★★★; sailclear.com ★★★★★]
 3. Inviare: i dati sono immediatamente disponibili a Border Force/Customs & Immigration. Conservare la ricevuta SailClear a bordo.
 
 ### All'arrivo
-- **Bandiera Q** issata e rotta diretta al POE per il controllo face-to-face. [borderforce.gov.tc ★★★★★]
+- **Q flag** issata e rotta diretta al POE per il controllo face-to-face. [borderforce.gov.tc ★★★★★]
 - **Nessuno sbarca** — né persone né animali né articoli — finché la clearance non è concessa; in base all'orario può essere richiesto di **pernottare a bordo** fino al giorno successivo. [borderforce.gov.tc ★★★★★]
 - Tenere cibo/animali **vincolati** fino a ispezione **Border Force + Agriculture**. Solo il **comandante/capitano** può sbarcare per avviare le pratiche. [borderforce.gov.tc ★★★★★; bluehavenmarina.com ★★★]
 - In caso di **emergenza** medica/meccanica/meteo avverso: notifica immediata all'arrivo da parte di un membro dell'equipaggio/passeggero/agente per accelerare la clearance. [borderforce.gov.tc ★★★★★]
@@ -30,7 +30,7 @@ Tutti i natanti da diporto, qualsiasi nazionalità e bandiera, che:
 
 ## Costi
 
-| Voce | Costo | Fonte |
+| Item | Costo | Fonte |
 |---|---|---|
 | Dichiarazione SailClear (abbonamento) | **US$25/anno** (uso illimitato) | Border Force notice 18/09/2024 ★★★★ |
 | Inbound fee | **US$50** | borderforce.gov.tc ★★★★★ |
@@ -74,10 +74,10 @@ Orari ufficio doganale tipici: **lun–gio 8:00–16:30 · ven 8:00–16:00**; f
 - Mancata pre-notifica SailClear o sbarco/partenza senza clearance = **offence** ai sensi della Customs Ordinance; sanzione fino a **US$5.000**, possibile **detenzione/sequestro/confisca** del natante. [borderforce.gov.tc ★★★★★; gov.tc pressoffice ★★★★★; magneticmediatv.com ★★★★]
 - Monitoraggio attivo delle acque TCI con Border Force e partner law enforcement. [borderforce.gov.tc ★★★★★]
 
-## Da verificare prima della crociera
+## To be verified prima della crociera
 
 - Disponibilità POS/carte a South Dock (varia) e orari festivi.
 - Eventuale aggiornamento fee SailClear/CCLEC e overtime.
 - Richiesta estensione soggiorno persone vs. rinnovo Cruising Permit barca (due pratiche separate).
 
-Ultimo aggiornamento: 28/08/2026
+Last updated: 28/08/2026

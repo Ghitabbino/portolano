@@ -1,18 +1,18 @@
 # Rotas da Ilha
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| **Isola/Zona** | São Miguel / Ponta Delgada |
-| **Cucina** | 🐟 Fusion açoriana |
-| **Specialità** | Atum braseado · Chicharrinhos · Sobremesas casa · Gin azzorriano |
-| **Costo** | 💰€€ per persona senza bevande |
+| **Island/Area** | São Miguel / Ponta Delgada |
+| **Cuisine** | 🐟 Fusion açoriana |
+| **Speciality** | Atum braseado · Chicharrinhos · Sobremesas casa · Gin azzorriano |
+| **Cost** | 💰€€ per person without drinks |
 | **Location** | 🪶 Casual curato, centro storico, 8 min da marina |
-| **Mappa** | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rotas+da+Ilha+Ponta+Delgada) |
-| **Contatti** | +351 296 303 555 · rotasdailha.pt |
-| **Valutazioni** | Google 4,6/5 (700+) · TA 4,5/5 (400+) → ★★★★ |
-| **Orari** | Qua–Lun 12:00–15:00 / 19:00–22:00 · Mar chiuso |
+| **Map** | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rotas+da+Ilha+Ponta+Delgada) |
+| **Contacts** | +351 296 303 555 · rotasdailha.pt |
+| **Ratings** | Google 4,6/5 (700+) · TA 4,5/5 (400+) → ★★★★ |
+| **Hours** | Qua–Lun 12:00–15:00 / 19:00–22:00 · Mar chiuso |
 
 ## Menu
 
@@ -31,4 +31,4 @@
 
 **Note**: Ambiente giovane curato, cucina creativa radicata tradizione; **prenotare weekend**; da marina 8 min a piedi centro.
 
-Ultimo aggiornamento: 24/08/2026
+Last updated: 24/08/2026

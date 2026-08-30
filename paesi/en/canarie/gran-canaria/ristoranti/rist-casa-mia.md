@@ -1,24 +1,24 @@
 # Casa Mia
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| Zona | Puerto de Mogán – canali |
-| Cucina | 🍝 Italiana di mare |
-| Specialità | Pasta fresca · pesce |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🍽️ intimo lungo canale |
-| Contatti | [Google Maps](https://www.google.com/maps/search/?api=1&query=Casa+Mia+Puerto+de+Morgan+Gran+Canaria) |
-| Valutazioni |Google 4,9/5 (456) ★★★★★|
-| Orari | cena; chiusura ⚠️ |
+| Area | Puerto de Mogán – canals |
+| Cuisine | 🍝 Italiana of mare |
+| Speciality | Pasta fresca · pesce |
+| Cost | 💰€€ for persona without bevande |
+| Setting | 🍽️ intimate, along the canal |
+| Contacts | [Google Maps](https://www.google.com/maps/search/?api=1&query=Casa+Mia+Puerto+de+Morgan+Gran+Canaria) |
+| Ratings |Google 4,9/5 (456) ★★★★★|
+| Hours | cena; chiusura ⚠️ |
 
 ## Menu
 
-- Tagliolini ai frutti di mare
+- Tagliolini at the frutti of mare
 
 **Chef**: ND
 
-**Note**: Tra i più votati del porto
+**Note**: Between i more votati of the porto
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

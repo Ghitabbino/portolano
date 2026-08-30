@@ -1,10 +1,10 @@
-# 00 — Ingresso, documenti e visti
+# 00 — Entry, Documents & Visas
 
-**Ultima verifica: 25/08/2026** · Fonti: immigration.gov.bz ★★★★ · belizehighcommission.com ★★★★ · GOV.UK ★★★★
+**Last checked: 25/08/2026** · Sources: immigration.gov.bz ★★★★ · belizehighcommission.com ★★★★ · GOV.UK ★★★★
 
 ## Status
 
-| Voce | Dato |
+| Item | Data |
 |---|---|
 | Visto italiani/UE | **NON richiesto** per turismo: **30 giorni** iniziali [Immigration Division] ★★★★ |
 | Estensioni | **+30 gg rinnovabili**, BZ$25 (~US$12,50) per periodo, presso Immigration Office ★★★★ |
@@ -14,7 +14,7 @@
 
 ## Arrivo via mare
 
-| Voce | Dato |
+| Item | Data |
 |---|---|
 | Pre-notifica | **SailClear obbligatorio ≥48h** prima (www.sailclear.com, gratuito). Senza pre-notifica: multa per omessa notifica [Belize Port Authority] ★★★★★ |
 | APIS | Crew/passenger list anche su caricomeapis.org (reg. previa) ★★★★ |
@@ -39,14 +39,14 @@
 | Immigration & Nationality Services | [immigration.gov.bz](https://immigration.gov.bz) |
 | GOV.UK advice Belize | [gov.uk](https://www.gov.uk/foreign-travel-advice/belize) |
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026
 
-## Cittadini UE
+## EU Citizens
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## La barca
+## The Yacht
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 

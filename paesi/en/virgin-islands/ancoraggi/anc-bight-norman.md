@@ -1,4 +1,4 @@
-# The Bight (Norman) — ancoraggio {#anc-bight-norman}
+# The Bight (Norman) — anchorage {#anc-bight-norman}
 
 [← Tutti gli ancoraggi](../08-ancoraggi.md)
 **18°19.0′N 64°37.2′W**
@@ -16,4 +16,4 @@
 <div class="mapframe" data-slug="anc-bight-norman" data-lat="18.317" data-lon="-64.62"></div>
 *Mappa offline The Bight (Norman) — zoom con i pulsanti +/−; menu in alto a destra per Carta nautica e Segnali*
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

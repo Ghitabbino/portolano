@@ -1,24 +1,23 @@
-# 10 — Ristoranti
+# 10 — Restaurants
 
-**Ultima verifica: 25/08/2026**
+**Last checked: 25/08/2026**
 
 | Ristorante | Dove | Note |
 |---|---|---|
 | **Bite on the Beach** | West End, Roatán | Sul molo, cucina fusion ★★ |
 | **Cannibal's Café** | West End, Roatán | Carne/grill locale ★★ |
-| Ristoranti resort French Harbour | Roatán | Level resort ★★ |
-| Utila | Ristoranti lungo il porto | Diving crowd ★★ |
+| Restaurants resort French Harbour | Roatán | Level resort ★★ |
+| Utila | Restaurants lungo il porto | Diving crowd ★★ |
 
-DATO MANCANTE: recensioni aggiornate sistematiche.
+DATA MISSING: recensioni aggiornate sistematiche.
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026
 
-## Griglia generale
+## General Grid
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
 
-## App e fonti
+## Apps & Sources
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
+**DATA MISSING** — da completare al controllo mensile.

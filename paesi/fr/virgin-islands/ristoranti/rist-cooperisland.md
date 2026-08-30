@@ -1,18 +1,18 @@
 # Cooper Island Beach Club
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Manchioneel Bay, Cooper |
-| Cucina | 🍽️ Eco-resort |
-| Specialità | Craft rum distillery |
-| Costo | 💰€€€ per persona senza bevande |
-| Location | 🌱 sostenibile |
+| Zone | Manchioneel Bay, Cooper |
+| Cuisine | 🍽️ Eco-resort |
+| Spécialité | Craft rum distillery |
+| Coût | 💰€€€ per persona senza bevande |
+| Emplacement | 🌱 sostenibile |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cooper+Island+Beach+Club+Manchioneel+Bay,+Cooper) |
-| Contatti | cooperislandbeachclub.com |
-| Valutazioni | — → ★★★ |
-| Orari | sera |
+| Contacts | cooperislandbeachclub.com |
+| Évaluations | — → ★★★ |
+| Horaires | sera |
 
 ## Menu
 
@@ -21,8 +21,8 @@
 
 **Chef**: ND
 
-## Foto
+## Photos
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Photos non ancora disponibili — recuperare al controllo mensile.*
 
 **Note**: Mooring field proprio · distilleria artigianale

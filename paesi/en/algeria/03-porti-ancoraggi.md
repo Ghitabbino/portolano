@@ -1,51 +1,51 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
-**Ultima verifica: 27/08/2026** · Coordinate in gradi decimali o N/W come da fonte — **DATO MANCANTE** dove non verificato
+**Last checked: 27/08/2026** · Coordinates in decimal degrees or N/W as per source — **DATA MISSING** where not verified
 
-## Costa mediterranea — inquadramento
+## Mediterranean Coast — Overview
 
-La costa algerina si estende per circa 1.200 km sul Mediterraneo, da ovest (confine marocchino) a est (confine tunisino), con principali porti/approdi tra Orano, Algeri, Béjaïa e Annaba. **DATO MANCANTE** su elenco porti abilitati — da verificare su autorità portuale algerina.
+La costa algerina si estende per circa 1.200 km sul Mediterraneo, da ovest (confine marocchino) a est (confine tunisino), con principali porti/approdi tra Orano, Algeri, Béjaïa e Annaba. **DATA MISSING** su elenco porti abilitati — to be verified on autorità portuale algerina.
 
-### DATO MANCANTE — area principale / porto di ingresso
+### DATA MISSING — Main Area / Port of Entry
 
-- **DATO MANCANTE** — porti, coordinate, VHF, servizi. Verificare su elenco ufficiale Port Authority Algeria.
+- **DATA MISSING** — porti, coordinate, VHF, servizi. Verificare su elenco ufficiale Port Authority Algeria.
 
-### DATO MANCANTE — seconda area / costa
+### DATA MISSING — Second Area / Coast
 
-- **DATO MANCANTE**
+- **DATA MISSING**
 
-### DATO MANCANTE — isole / arcipelago (se presente)
+### DATA MISSING — Islands / Archipelago (If Any)
 
-- **DATO MANCANTE**
+- **DATA MISSING**
 
-## Tariffe ormeggi e marine
+## Berthing & Marina Tariffs
 
-> Stesse voci per tutti i paesi; **DATO MANCANTE** = da ricercare al controllo mensile.
+> Stesse voci per tutti i paesi; **DATA MISSING** = da ricercare al controllo mensile.
 
-### DATO MANCANTE — marina di riferimento (da definire)
+### DATA MISSING — Reference Marina (To Be Defined)
 
-| Voce | Costo | Note |
+| Item | Cost | Notes |
 |---|---|---|
-| Posto pontile — notte (~12 m) | **DATO MANCANTE** | **DATO MANCANTE** |
-| Posto pontile — notte (multiscafo ~12 m) | **DATO MANCANTE** | **DATO MANCANTE** |
-| Boa / mouillage — notte (~12 m) | **DATO MANCANTE** | **DATO MANCANTE** |
-| Mese pontile (~12 m) | **DATO MANCANTE** | **DATO MANCANTE** |
-| Elettricità | **DATO MANCANTE** | **DATO MANCANTE** |
-| Acqua | **DATO MANCANTE** | **DATO MANCANTE** |
-| Ancoraggio | **DATO MANCANTE** | **DATO MANCANTE** |
+| Posto pontile — notte (~12 m) | **DATA MISSING** | **DATA MISSING** |
+| Posto pontile — notte (multiscafo ~12 m) | **DATA MISSING** | **DATA MISSING** |
+| Boa / mouillage — notte (~12 m) | **DATA MISSING** | **DATA MISSING** |
+| Mese pontile (~12 m) | **DATA MISSING** | **DATA MISSING** |
+| Elettricità | **DATA MISSING** | **DATA MISSING** |
+| Acqua | **DATA MISSING** | **DATA MISSING** |
+| Ancoraggio | **DATA MISSING** | **DATA MISSING** |
 
-### Altre strutture
+### Other Facilities
 
-| Struttura | Costo/note | Fonte |
+| Facility | Cost/Notes | Source |
 |---|---|---|
-| **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** |
+| **DATA MISSING** | **DATA MISSING** | **DATA MISSING** |
 
-⚠️ **Da verificare prima della crociera**: listini marine, prenotazioni alta stagione, regolamenti ancoraggio.
+⚠️ **To be verified prima della crociera**: listini marine, prenotazioni alta stagione, regolamenti ancoraggio.
 
-## Distanze utili
+## Useful Distances
 
-| Tratta | Distanza |
+| Passage | Distance |
 |---|---|
-| **DATO MANCANTE** | **DATO MANCANTE** |
+| **DATA MISSING** | **DATA MISSING** |
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

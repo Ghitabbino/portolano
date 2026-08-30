@@ -1,8 +1,8 @@
-# 07 — Provvisioning
+# 07 — Avitaillement
 
-Ultimo aggiornamento: 22/08/2026 · Livello prezzi: medio-basso per IGIC (~7%). Isola piccola: scorte essenziali, grande spesa a Tenerife.
+Dernière mise à jour: 22/08/2026 · Livello prezzi: medio-basso per IGIC (~7%). Isola piccola: scorte essenziali, grande spesa a Tenerife.
 
-## Supermercati
+## Supermarchés
 
 | Negozio | Dove | Telefono | Consegna a domicilio | Note |
 |---|---|---|---|---|
@@ -10,15 +10,15 @@ Ultimo aggiornamento: 22/08/2026 · Livello prezzi: medio-basso per IGIC (~7%). 
 | Negozi locali | Valle Gran Rey (Vueltas) | (da confermare) | No | Freschi essenziali |
 | Mercato/agricoltura locale | Valli interni | — | No | Formaggi, miele, frutta |
 
-## Acqua e carburante
+## Eau et carburant
 
-| Servizio | Dettaglio |
+| Servizio | Détail |
 |---|---|
-| Acqua dock | Marina San Sebastián al posto |
+| Eau dock | Marina San Sebastián al posto |
 | Gasolio dock | Marina San Sebastián — orari: (da confermare) |
 | Bombola gas spagnola | Scambio a San Sebastián |
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026
 
-## Consigli pratici
-Ultimo aggiornamento: 23/08/2026
+## Conseils pratiques
+Dernière mise à jour: 23/08/2026

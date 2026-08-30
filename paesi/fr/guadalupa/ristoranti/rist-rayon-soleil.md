@@ -1,18 +1,18 @@
 # Le Rayon de Soleil
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Anse-Bertrand |
-| Cucina | 🍽️ Creativa locale |
-| Specialità | Menù degustazione |
-| Costo | 💰€€€ per persona senza bevande |
-| Location | 🌅 vista oceano atlantico |
+| Zone | Anse-Bertrand |
+| Cuisine | 🍽️ Creativa locale |
+| Spécialité | Menù degustazione |
+| Coût | 💰€€€ per persona senza bevande |
+| Emplacement | 🌅 vista oceano atlantico |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Rayon+de+Soleil+Anse-Bertrand) |
-| Contatti | [Mappa](https://www.google.com/maps/search/?api=1&query=Rayon+Soleil+Anse-Bertrand) |
-| Valutazioni | Google positive → ★★★★ |
-| Orari | pranzo · cena su prenotazione ⚠️ |
+| Contacts | [Mappa](https://www.google.com/maps/search/?api=1&query=Rayon+Soleil+Anse-Bertrand) |
+| Évaluations | Google positive → ★★★★ |
+| Horaires | pranzo · cena su prenotazione ⚠️ |
 
 ## Menu
 
@@ -20,8 +20,8 @@
 
 **Chef**: ND
 
-## Foto
+## Photos
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Photos non ancora disponibili — recuperare al controllo mensile.*
 
 **Note**: Hôtel Toubana · dopo la visita alla Pointe de la Grande Vigie · menu 25–60 €

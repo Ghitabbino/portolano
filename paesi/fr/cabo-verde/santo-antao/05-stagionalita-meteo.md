@@ -1,38 +1,38 @@
-# 05 — Stagionalità e meteo
+# 05 — Saisonnalité & Météo
 
-**Ultima verifica: 24/08/2026** · Capo Verde è **fuori dalla fascia uragani**: nessun ciclone diretto documentato.
+**Dernière vérification: 24/08/2026** · Capo Verde è **fuori dalla fascia uragani**: nessun ciclone diretto documentato.
 
-## Clima
+## Climat
 
 - Temperatura **23–28 °C** tutto l'anno, escursione ridotta; acqua 22–26 °C. ★★★
-- Aliseo NE dominante, più forte dic–giu; harmattan polveroso dic–feb. ★★★
+- Alizé NE dominante, più forte dic–giu; harmattan polveroso dic–feb. ★★★
 
-## Stagioni
+## Saisons
 
 | Periodo | Caratteristiche |
 |---|---|
-| **Nov–Giu** | Aliseo NE 15–25 kn, asciutto, mare formato nei canali: **migliore per navigare** |
+| **Nov–Giu** | Alizé NE 15–25 kn, asciutto, mare formato nei canali: **migliore per navigare** |
 | **Dic–Feb** | Harmattan E/NE con polvere sahariana, visibilità ridotta ★★ |
 | **Lug–Ott** | Caldo umido, alisei deboli, qualche pioggia (ago–ott), bonacce possibili |
 
-## Uragani
+## Ouragans
 
 Fuori dalla *main hurricane belt*; rischio cicloni quasi nullo, ma onde lunghe da uragani caraibici possibili set–ott. ★★★
 
-## Venti locali
+## Vents locaux
 
 - Accelerazioni tra le isole (effetto Venturi nei canali): +5–10 kn vs vento sinottico. ★★
 - Brezze termiche costiere pomeridiane su isole alte (Santo Antão, Fogo, São Nicolau). ★★
 
-## Finestre tipiche
+## Fenêtres météo typiques
 
-| Tratta | Finestra |
+| Trajet | Finestra |
 |---|---|
-| Tra le isole Barlavento | Partenza all'alba, aliseo <20 kn |
-| Verso Caraibi (ARC+) | Nov–gen da Mindelo/Sal |
+| Tra le isole Barlavento | Départ all'alba, aliseo <20 kn |
+| Verso Caraïbes (ARC+) | Nov–gen da Mindelo/Sal |
 | Sotavento (Santiago–Fogo–Brava) | Bolina lunga, meglio con aliseo moderato |
 
-## Link meteo e carte locali
+## Liens météo et cartes locales
 
 - [INMG Cabo Verde](http://www.inmg.gov.cv) ★★★ — ufficiale
 - [Windguru santo-antao](https://www.windguru.cz) ★★★
@@ -40,4 +40,4 @@ Fuori dalla *main hurricane belt*; rischio cicloni quasi nullo, ma onde lunghe d
 - [NOAA NHC](https://www.nhc.noaa.gov) per stagione uragani atlantici ★★★★★
 - Polvere sahariana: [Copernicus CAMS](https://atmosphere.copernicus.eu) ★★★
 
-Ultimo aggiornamento: 24/08/2026
+Dernière mise à jour: 24/08/2026

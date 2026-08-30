@@ -1,24 +1,24 @@
-# 05 — Stagionalità e meteo
+# 05 — Saisonnalité & Météo
 
-## Clima
+## Climat
 
 Tropicale umido sul versante windward: piogge orografiche quasi quotidiane sui morne; costa sud/ovest molto più asciutta. ★★★★
 
-## Venti locali
+## Vents locaux
 
 Canale di Saint Vincent accelerato (**+5–10 kn**) lungo la costa sud tra i promontori; raffiche forti a Wallilabou e Blue Lagoon nel pomeriggio. Squall di stagione umida fino a 35–40 kn con scarso preavviso tra i valloni. ★★★
 
-## Finestre tipiche
+## Fenêtres météo typiques
 
 | Finestra | Vento | Note |
 |---|---|---|
-| Dic–Apr | 18–25 kn | Navigazione costiera veloce, mare corto |
+| Dic–Apr | 18–25 kn | Navigation costiera veloce, mare corto |
 | Mag–Lug | 12–18 kn | Migliore per il lato atlantico |
 | Ago–Nov | variabile | Monitorare onde tropicali |
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026
 
-Alisei NE dic-giu; stagione umida lug-nov (bordo S della fascia uragani: rischio basso ma reale).
+Alizés NE dic-giu; stagione umida lug-nov (bordo S della fascia uragani: rischio basso ma reale).
 
 ### Vento locale — statistiche (% giorni >15 kn)
 
@@ -42,4 +42,4 @@ Fonti: [statistiche Union Island](https://www.kitesurfgrenadines.com/kitesurfing
 [guida stagioni SVG Yachting](https://www.svgyachting-grenadines.com/blog/best-time-to-sail-the-grenadines) ★★★ ·
 [Windfinder Canouan](https://www.windfinder.com/windstatistics/canouan_airport) ★★★
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026

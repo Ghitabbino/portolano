@@ -5,14 +5,14 @@
 
 | Campo | Dettaglio |
 |---|---|
-| **Costo** |**DATO MANCANTE**|
-| **Cucina** |**DATO MANCANTE**|
-| **Specialità** |**DATO MANCANTE**|
-| **Location** |**DATO MANCANTE**|
+| **Costo** |**DATA MISSING**|
+| **Cucina** |**DATA MISSING**|
+| **Specialità** |**DATA MISSING**|
+| **Location** |**DATA MISSING**|
 
 <div class="mapframe" data-slug="rist-jacques-waterfront-dining" data-lat="14.0728" data-lon="-60.954"></div>
 *Cartina di dettaglio: posizione a terra rispetto alla barca · zoom ±*
 
-Fonti: **DATO MANCANTE**
+Fonti: **DATA MISSING**
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

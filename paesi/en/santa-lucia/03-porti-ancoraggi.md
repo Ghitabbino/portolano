@@ -1,4 +1,4 @@
-# 03 — Porti e marine
+# 03 — Ports & marinas
 
 **Ultima verifica: 25/08/2026** · Coordinate in gradi decimali o N/W come da fonte
 
@@ -15,7 +15,7 @@
 
 ### Ancoraggio nella baia di Rodney Bay
 - Rada ampia con buona tenuta su sabbia davanti a Reduit Beach, verso Gros Islet e sotto Pigeon Island (l'ancoraggio più tranquillo, il parco chiude la sera). Ancoraggio **gratuito**, nessun gestore; dinghy dock gratuito in marina. Cruisers Wiki / [blue-joline](https://blue-joline.com/en/sailing-area-Caribbean-island-of-St.-Lucia/) 2024 ★★
-- Nel lagone 28 boe della marina. [Waterway Guide](https://www.waterwayguide.com/marina/rodney-bay-marina---st-lucia) 12/2024 ★★★ — tariffa **DATO MANCANTE**
+- Nel lagone 28 boe della marina. [Waterway Guide](https://www.waterwayguide.com/marina/rodney-bay-marina---st-lucia) 12/2024 ★★★ — tariffa **DATA MISSING**
 
 ## Costa ovest (sottovento)
 
@@ -49,18 +49,18 @@
 
 ## Tariffe ormeggi e marine
 
-> Stesse voci per tutti i paesi; **DATO MANCANTE** = da ricercare al controllo mensile.
+> Stesse voci per tutti i paesi; **DATA MISSING** = da ricercare al controllo mensile.
 
 ### IGY Rodney Bay Marina — indicazioni 2025-26 ★★★
 Il listino completo non è pubblicato online: richiederlo a rbm@igymarinas.com. Promo periodiche fino al −30 % e price match; cauzione pari a ⅓ del dockage totale (max 30 notti). IGY 2024–26
 
-| Voce | Costo | Note |
+| Item | Costo | Note |
 |---|---|---|
 | Posto pontile — notte (~12 m) | ~1,00–1,50 USD/piede ≈ **42–63 USD** | Stima terze parti [Portzante](https://portzante.com/cheapest-marinas-eastern-caribbean/) 04/2026; varia per stagione/scaglione LOA ★★★ |
-| Multiscafo | **DATO MANCANTE** | Confermare sovrapprezzo in marina |
-| Boa lagone — notte | **DATO MANCANTE** | 28 boe presenti (Waterway Guide ★★★) |
-| Elettricità | A contatore — tariffa **DATO MANCANTE** | Lettura con lo staff ★★★★ |
-| Acqua | A contatore — tariffa **DATO MANCANTE** | Idem ★★★★ |
+| Multiscafo | **DATA MISSING** | Confermare sovrapprezzo in marina |
+| Boa lagone — notte | **DATA MISSING** | 28 boe presenti (Waterway Guide ★★★) |
+| Elettricità | A contatore — tariffa **DATA MISSING** | Lettura con lo staff ★★★★ |
+| Acqua | A contatore — tariffa **DATA MISSING** | Idem ★★★★ |
 | Ancoraggio rada | **Gratuito** | Nessun gestore |
 
 ### Altre strutture
@@ -72,7 +72,7 @@ Il listino completo non è pubblicato online: richiederlo a rbm@igymarinas.com. 
 | Boe SMMA 70–120 ft | 100 USD/notte (EC$270) | SMMA ★★★★ |
 | Boe SMMA >120 ft | 200 USD/notte · crewed charter anno 500 USD | SMMA ★★★★ |
 
-⚠️ **Da verificare prima della crociera**: listino IGY aggiornato 2026-27, tariffe ufficiali boe Rodney Bay/Marigot, disponibilità a dicembre (ARC), eventuali richieste extra in dogana a Soufrière.
+⚠️ **To be verified prima della crociera**: listino IGY aggiornato 2026-27, tariffe ufficiali boe Rodney Bay/Marigot, disponibilità a dicembre (ARC), eventuali richieste extra in dogana a Soufrière.
 
 ## Distanze utili
 
@@ -88,4 +88,4 @@ Il listino completo non è pubblicato online: richiederlo a rbm@igymarinas.com. 
 
 Itinerari charter aggregati ([Moorings](https://www.moorings.com/destinations/caribbean/st-lucia-yacht-charters/itinerary)/Boatcrowd/Nautic Info) ★★★
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

@@ -1,20 +1,20 @@
 # Anse La Raye {#anc-anse-la-raye}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← Tous les mouillages](../08-ancoraggi.md)
 **13°54′35″ N 61°05′49″ W** ★★
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| **Profondità** |3–5 m che si assottiglia rapidamente|
-| **Tenuta àncora** |**DATO MANCANTE**|
-| **Venti/riparo** |Baia riparata davanti al villaggio di pescatori|
-| **Pericoli** |Lato N sotto le scogliere|
-| **Boe/divieti/normative** |—|
-| **A terra** |Villaggio, Friday fish fry|
+| **Profondeur** |3–5 m che si assottiglia rapidamente|
+| **Tenue de l’ancre** |**DONNÉE MANQUANTE**|
+| **Vents/abri** |Baie riparata davanti al villaggio di pescatori|
+| **Dangers** |Lato N sotto le scogliere|
+| **Bouées/interdictions/réglementation** |—|
+| **À terre** |Villaggio, Friday fish fry|
 
 <div class="mapframe" data-slug="anc-anse-la-raye" data-lat="13.9097" data-lon="-61.0969"></div>
-*Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
+*Carte détaillée — zoomez jusqu’à la baie · carte hors ligne · coordinate WGS84 indicative, toujours vérifier avec le traceur*
 
 Fonti: Spend Life Traveling (2026) ★★ · [DA VERIFICARE SATELLITE]
 
-Ultimo aggiornamento: 25/08/2026
+Dernière mise à jour: 25/08/2026

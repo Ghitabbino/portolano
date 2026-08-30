@@ -1,34 +1,34 @@
-# 04 — Servizi, cantieri e manutenzione
+# 04 — Services, Chantiers & Entretien
 
-**Ultima verifica: 27/08/2026** — Adriatico
+**Dernière vérification: 27/08/2026** — Adriatico
 
 ## Hub tecnico
 
-Hub principale di Adriatico: **DATO MANCANTE** — da verificare. In Italia i servizi si concentrano nelle marine maggiori e nelle città portuali.
+Hub principale di Adriatico: **DONNÉE MANQUANTE** — à vérifier. In Italia i servizi si concentrano nelle marine maggiori e nelle città portuali.
 
 | Servizio | Dove | Note |
 |---|---|---|
-| Travelift / carenaggio | **DATO MANCANTE** | **DATO MANCANTE** |
-| Motoristi / elettricisti | **DATO MANCANTE** | **DATO MANCANTE** |
-| Velaio | **DATO MANCANTE** | **DATO MANCANTE** |
-| Elettronica | **DATO MANCANTE** | **DATO MANCANTE** |
+| Travelift / carenaggio | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Motoristi / elettricisti | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Velaio | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Elettronica | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
 
-## Altri cantieri
+## Autres chantiers
 
-| Cantiere / Ditta | Località | Servizi | Contatti |
+| Cantiere / Ditta | Località | Servizi | Contacts |
 |---|---|---|---|
-| **DATO MANCANTE** | Adriatico | **DATO MANCANTE** | **DATO MANCANTE** |
+| **DONNÉE MANQUANTE** | Adriatico | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
 
-## Gas e bombole
+## Gaz et bouteilles
 
-- Bombole GPL: in Italia si fa **scambio** bombole standard (es. Campingaz) o ricarica presso rivenditori GPL — dettaglio per Adriatico: **DATO MANCANTE**
+- Bombole GPL: in Italia si fa **scambio** bombole standard (es. Campingaz) o ricarica presso rivenditori GPL — dettaglio per Adriatico: **DONNÉE MANQUANTE**
 
-## Acqua dolce
+## Eau douce
 
-Disponibilità acqua in banchina variabile per porto. In Adriatico: **DATO MANCANTE** — verificare con marina. In estate possibili limitazioni idriche locali: **DATO MANCANTE**
+Disponibilità acqua in banchina variabile per porto. In Adriatico: **DONNÉE MANQUANTE** — verificare con marina. In estate possibili limitazioni idriche locali: **DONNÉE MANQUANTE**
 
-## Note strategiche
+## Notes stratégiques
 
-Strategia servizi per Adriatico: **DATO MANCANTE** — da completare con fonti locali verificate. Tenere conto che i tempi in alta stagione (giu–ago) si allungano.
+Strategia servizi per Adriatico: **DONNÉE MANQUANTE** — da completare con fonti locali verificate. Tenere conto che i tempi in alta stagione (giu–ago) si allungano.
 
-Ultimo aggiornamento: 27/08/2026
+Dernière mise à jour: 27/08/2026

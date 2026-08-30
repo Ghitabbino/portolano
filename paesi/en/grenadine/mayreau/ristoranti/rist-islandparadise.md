@@ -1,17 +1,17 @@
 # Island Paradise
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | Zona | Costa ovest |
 | Cucina | 🐟 Locale |
 | Specialità | Pesce |
-| Costo | 💰€€ per persona senza bevande |
+| Costo | 💰€€ per person without drinks |
 | Location | 🌊 |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Island+Paradise+Costa+ovest) |
 | Contatti | ND |
-| Valutazioni | Guida CCA 11/2025 → ★★ |
+| Currencyzioni | Guida CCA 11/2025 → ★★ |
 | Orari | stagione |
 
 ## Menu
@@ -22,6 +22,6 @@
 
 ## Foto
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Foto non still disponibili — recuperare at the controllo mensile.*
 
 **Note**: ND

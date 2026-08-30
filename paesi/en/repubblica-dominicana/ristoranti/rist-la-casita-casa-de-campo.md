@@ -5,14 +5,14 @@
 
 | Campo | Dettaglio |
 |---|---|
-| **Costo** |**DATO MANCANTE**|
-| **Cucina** |**DATO MANCANTE**|
-| **Specialità** |**DATO MANCANTE**|
-| **Location** |**DATO MANCANTE**|
+| **Costo** |**DATA MISSING**|
+| **Cucina** |**DATA MISSING**|
+| **Specialità** |**DATA MISSING**|
+| **Location** |**DATA MISSING**|
 
 <div class="mapframe" data-slug="rist-la-casita-casa-de-campo" data-lat="18.3976" data-lon="-68.9004"></div>
 *Cartina di dettaglio: posizione a terra rispetto alla barca · zoom ±*
 
-Fonti: **DATO MANCANTE**
+Fonti: **DATA MISSING**
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

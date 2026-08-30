@@ -1,17 +1,17 @@
 # D'Tapas 26
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| Zona | Santa Cruz – Plaza del Príncipe |
-| Cucina | 🥙 Tapas creative |
-| Specialità | Papas negras con bacalao |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🌿 terrazza su viale animato |
-| Contatti | +34 637 56 42 02 |
-| Valutazioni | ★★★★|
-| Orari | sera; festivi anche pranzo |
+| Area | Santa Cruz – Plaza of the Príncipe |
+| Cuisine | 🥙 Tapas creative |
+| Speciality | Papas negras with bacalao |
+| Cost | 💰€€ for persona without bevande |
+| Setting | 🌿 terrazza on viale animato |
+| Contacts | +34 637 56 42 02 |
+| Ratings | ★★★★|
+| Hours | sera; festivi also pranzo |
 
 ## Menu
 
@@ -22,4 +22,4 @@
 
 **Note**: Rapporto qualità/prezzo ottimo
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

@@ -1,20 +1,20 @@
 # Dog Island {#anc-dog-island}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← Tous les mouillages](../08-ancoraggi.md)
 
 **9°36.6′N 78°48.0′W** ★★
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| **Profondità** |4–9 m ★★|
-| **Tenuta àncora** | Buona |
-| **Venti/riparo** | Esposo a E: alisei tesi |
-| **Pericoli** | Relitto sommerso segnalato da boe |
-| **Affollamento** | Medio |
+| **Profondeur** |4–9 m ★★|
+| **Tenue de l’ancre** | Buona |
+| **Vents/abri** | Esposo a E: alisei tesi |
+| **Dangers** | Relitto sommerso segnalato da boe |
+| **Affluence** | Medio |
 | **Divieti** | Nessuno |
-| **A terra** | Relitto storico con cannoni; snorkeling |
+| **À terre** | Relitto storico con cannoni; snorkeling |
 
 <div class="mapframe" data-slug="anc-dog-island" data-lat="9.5582" data-lon="-78.8761"></div>
-*Vista mappa Dog Island · mappa offline*
+*Vista mappa Dog Island · carte hors ligne*
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026

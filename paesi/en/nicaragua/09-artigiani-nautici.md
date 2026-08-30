@@ -1,25 +1,24 @@
-# 09 — Artigiani e negozi nautici
+# 09 — Marine Trades & Chandlers
 
-**Ultima verifica: 25/08/2026**
+**Last checked: 25/08/2026**
 
 - San Juan del Sur: meccanica marina, fiberglass, veleria base, metalwork segnalati
- [Ocean Posse] ★★ — contatti precisi **DATO MANCANTE**
+ [Ocean Posse] ★★ — contatti precisi **DATA MISSING**
 - Bluefields Marine Supply: elettrico/meccanico base, fuel/water ★★
-- Haul-out e lavori maggiori: **DATO MANCANTE** → riferimenti regionali Costa Rica/Panama
+- Haul-out e lavori maggiori: **DATA MISSING** → riferimenti regionali Costa Rica/Panama
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026
 
 Tabella artigiani
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
 
-## Dove si trova cosa
+## Where to Find What
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
 
-## Note pratiche
+## Practical Notes
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
+**DATA MISSING** — da completare al controllo mensile.

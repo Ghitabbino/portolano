@@ -1,13 +1,13 @@
 # Ocean Oasis Beach Club
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | Zona | Punt Vierkant / Kings Beach — 260 EEG Blvd, Kralendijk sud |
 | Cucina | 🐟 Beach club & grill — internazionale con Josper charcoal oven |
 | Specialità | *Tuna/wahoo alla griglia Josper, Fish & Meat Market serale, cocktail al tramonto, colazioni* |
-| Costo | 💰€€ per persona senza bevande (colazione 9–11:30, pranzo 12–16, cena 18–22; beach bed US$25, cabana US$50) |
+| Costo | 💰€€ per person without drinks (colazione 9–11:30, pranzo 12–16, cena 18–22; beach bed US$25, cabana US$50) |
 | Location | 🏖️ beach club con spiaggia bianca, lettini, cabana, terrazza pergola, open kitchen |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ocean+Oasis+Beach+Club+EEG+Blvd+260+Kralendijk) |
 | Contatti | +599 701 4440 · info@oceanoasisbonaire.com · [oceanoasisbonaire.com](https://www.oceanoasisbonaire.com) |
@@ -29,6 +29,6 @@
 
 ## Note
 
-Beach club più grande di Bonaire a 3,5 km dalle boe di Kralendijk (taxi 7 min, bici 15 min) — ideale per pranzo in spiaggia o cena con DJ set serale. Prenotazione lettini/cabana fino alle 12:00 online. Aperto anche per colazione — comodo dopo notte in boa. Vicino a Brass Boer (stessa zona Punt Vierkant) per tour gastronomico sud.
+Beach club più grande di Bonaire a 3,5 km dalle boe di Kralendijk (taxi 7 min, bici 15 min) — ideale per pranzo in spiaggia or cena con DJ set serale. Prenotazione lettini/cabana fino alle 12:00 online. Aperto anche per colazione — comodo dopo notte in boa. Vicino a Brass Boer (stessa zona Punt Vierkant) per tour gastronomico sud.
 
-Fonti: [bonaire.com — Ocean Oasis Beach Club](https://bonaire.com/en/bars-beachbars/ocean-oasis-beach-club/) ★★★ · [oceanoasisbonaire.com](https://www.oceanoasisbonaire.com) ★★★★
+Sources: [bonaire.com — Ocean Oasis Beach Club](https://bonaire.com/en/bars-beachbars/ocean-oasis-beach-club/) ★★★ · [oceanoasisbonaire.com](https://www.oceanoasisbonaire.com) ★★★★

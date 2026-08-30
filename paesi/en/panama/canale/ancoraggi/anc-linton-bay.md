@@ -1,9 +1,9 @@
 # Linton Bay {#anc-linton-bay}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← All Anchorages](../08-ancoraggi.md)
 **9°25.0′N 79°44.7′W** ★★
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | **Profondità** |5–12 m su sabbia ★★|
 | **Tenuta àncora** |Buona; boa della marina disponibili (~$25–35/notte) ★★★|
@@ -16,4 +16,4 @@
 <div class="mapframe" data-slug="anc-linton-bay" data-lat="9.6128" data-lon="-79.5789"></div>
 *Vista mappa Linton Bay · mappa offline*
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026

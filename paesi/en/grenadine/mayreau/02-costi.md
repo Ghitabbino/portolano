@@ -1,11 +1,11 @@
-# 02 — Costo della vita
+# 02 — Cost of Living
 
-Ultimo aggiornamento: 22/08/2026 · Valuta XCD ~2,70/US$
+Last updated: 22/08/2026 · Currency XCD ~2,70/US$
 
-| Voce | Prezzo |
+| Item | Prezzo |
 |---|---|
 | Birra locale | EC$5–7 |Mini-market Salt Whistle ⚠️ ★★|
 | Pasto pesce | EC$70–120 |Salt Whistle Bay BBQ ★★|
 | Mooring ball | ~US$20–35/notte ⚠️ |Salt Whistle Bay, gestione locale ★|
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026

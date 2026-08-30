@@ -1,29 +1,46 @@
-# Accedi — Modifica la wiki
+# Log In — Edit the Wiki
 
-**Accesso riservato ai navigatori registrati.**
+**Access restricted to registered cruisers.**
 
-Inserisci le credenziali create in fase di iscrizione per sbloccare i permessi di scrittura della wiki.
+Enter the credentials you created at sign-up to unlock wiki editing rights.
 
 ### Login
 
-> **Email** [___________________]
-> **Password** [___________________]
-> [ **Accedi** ]
+<div style="background:#ffffff;border:2px solid #4db6ac;border-radius:12px;padding:22px;margin:12px auto;max-width:560px;text-align:center">
+<label style="display:block;margin:10px auto 4px;max-width:480px;font-weight:800;color:#0f1720;text-align:left">Email *</label>
+<input id="login-email" type="email" placeholder="name@example.com" style="width:100%;max-width:480px;display:block;margin:8px auto;padding:12px 14px;border-radius:8px;border:2px solid #0f1720;background:#f0f4f8;color:#0f1720;font-size:16px">
+<label style="display:block;margin:14px auto 4px;max-width:480px;font-weight:800;color:#0f1720;text-align:left">Password *</label>
+<input id="login-pass" type="password" placeholder="your password" style="width:100%;max-width:480px;display:block;margin:8px auto;padding:12px 14px;border-radius:8px;border:2px solid #0f1720;background:#f0f4f8;color:#0f1720;font-size:16px">
+<button onclick="accedi()" style="display:block;margin:18px auto 6px;padding:12px 28px;border-radius:10px;background:linear-gradient(135deg,#4db6ac,#2e7d6f);color:#fff;font-weight:800;border:none;cursor:pointer;font-size:16px;box-shadow:0 3px 10px rgba(0,0,0,.25)">Log In</button>
+<div id="login-msg" style="display:none;margin:10px auto;max-width:480px;padding:10px;border-radius:8px;font-size:13px"></div>
+</div>
 
-*Password dimenticata?* [Recupera](#) — ti inviamo un link di reset.
+<script>
+function accedi(){
+  const email=document.getElementById('login-email').value.trim();
+  const pass=document.getElementById('login-pass').value;
+  const msg=document.getElementById('login-msg');
+  if(!email||!pass){msg.style.display='block';msg.style.background='#ffebee';msg.style.border='1px solid #d32f2f';msg.style.color='#b71c1c';msg.textContent='Please enter email and password.';return;}
+  const saved=JSON.parse(localStorage.getItem('sailtropics_user')||'null');
+  if(saved && saved.email===email){localStorage.setItem('sailtropics_logged','1');msg.style.display='block';msg.style.background='#e8f5e9';msg.style.border='1px solid #4caf50';msg.style.color='#1b5e20';msg.textContent='✅ OK';setTimeout(()=>location.hash='#'+(typeof PROFILO_PID!=='undefined'?PROFILO_PID:'profilo'),600);} else {msg.style.display='block';msg.style.background='#ffebee';msg.style.border='1px solid #d32f2f';msg.style.color='#b71c1c';msg.textContent='Credenziali non trovate. Iscriviti prima.';}
+}
+</script>
 
-### Cosa cambia dopo il login
+*Forgot password?* [Recover](#) — we’ll send you a reset link.
 
-- **Consultazione libera** (anonimo): leggi tutto il portolano, mappe, GPX/ZIP — nessuna limitazione.
-- **Editing riservato** (loggato): in cima a ogni scheda di ancoraggio o paese compaiono i tasti **“Modifica”** e **“Aggiungi Aggiornamento”**. Ogni modifica viene salvata a tuo nome per tracciabilità e moderazione.
-- Puoi modificare i tuoi dati e le aree per cui ricevi gli allert in qualsiasi momento dalla pagina [Iscriviti](iscriviti.md).
 
-### Privacy — questo è il nostro impegno
+### What Changes After Login
 
-Conserviamo esclusivamente l’hash della tua email e un token di sessione. Nessun altro uso, mai ceduti a terzi.
+- **Free browsing** (anonymous): read the entire pilot, charts, GPX/ZIP — no restrictions.
+- **Restricted editing** (logged in): at the top of each anchorage or country sheet you’ll see **“Edit”** and **“Add Update”** buttons. Every edit is saved under your name for traceability and moderation.
+- You can change your details and the areas for which you receive alerts at any time from the [Sign Up](iscriviti.md) page.
 
-> **Questo è il nostro impegno: i tuoi dati saranno utilizzati esclusivamente per gestire il tuo account e l’invio degli allert selezionati e non saranno mai utilizzati per altre finalità, né ceduti o comunicati a terzi.**
+### Privacy — Our Commitment
 
-Non hai un account? Vai a **[Iscriviti](iscriviti.md)**.
+We store only the hash of your email and a session token. No other use, never passed to third parties.
 
-Ultimo aggiornamento: 28/08/2026
+> **Our commitment: your data will be used exclusively to manage your account and send the alerts you selected and will never be used for any other purpose, nor passed or disclosed to third parties.**
+
+Don’t have an account? Go to **[Sign Up](iscriviti.md)**.
+
+Last updated: 28/08/2026

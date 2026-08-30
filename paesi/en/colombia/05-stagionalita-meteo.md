@@ -1,35 +1,35 @@
-# 05 — Stagionalità e meteo
+# 05 — Seasonality & Weather
 
-**Ultima verifica: 28/08/2026** — *Scheda in completamento*
+**Last checked: 28/08/2026** — *Scheda in completamento*
 
-- Clima tropicale; stagione secca **dic–apr**, umida **mag–nov**, uragani **giu–nov** (Caribe colombiano marginale).
+- Climate tropicale; stagione secca **dic–apr**, umida **mag–nov**, uragani **giu–nov** (Caribe colombiano marginale).
 - Alisei **NE–E 15–20 kt** dic–apr.
 
-> Dettagli in raccolta.
+> Details in raccolta.
 
-Ultimo aggiornamento: 28/08/2026
+Last updated: 28/08/2026
 
-## Clima
+## Climate
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Stagioni
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## Venti locali
+## Seasons
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Finestre tipiche
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## Link meteo
+## Local Winds
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
+
+
+## Typical Weather Windows
+
+**DATA MISSING** — to be completed at the monthly check.
+
+
+## Weather Links
+
+**DATA MISSING** — to be completed at the monthly check.
 

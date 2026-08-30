@@ -1,6 +1,6 @@
-# 04 — Servizi, cantieri e manutenzione
+# 04 — Services, Chantiers & Entretien
 
-**Ultima verifica: 25/08/2026**
+**Dernière vérification: 25/08/2026**
 
 - **Palmetto Bay Plantation (Roatán)**: storico haul-out/travelift delle Bay Islands;
  verificare disponibilità attuale ★★
@@ -9,24 +9,24 @@
  **Rio Dulce (Guatemala)** — fiume interno sicuro per stagione ciclonica ★★★★
 - Ricambi: importazione via USA (Miami/Houston), 1-3 settimane ★★
 
-Ultimo aggiornamento: 25/08/2026
+Dernière mise à jour: 25/08/2026
 
 ## Hub tecnico
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## Gas e bombole
+## Gaz et bouteilles
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Acqua dolce
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## Note strategiche
+## Eau douce
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
+
+
+## Notes stratégiques
+
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 

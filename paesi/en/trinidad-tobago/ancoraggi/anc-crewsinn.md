@@ -17,4 +17,4 @@
 
 Fonti: Noonsite POE ★★★ · allatsea (04/2026) ★★★ · msatt.org ★★★★
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

@@ -1,62 +1,62 @@
-# 06 — Sicurezza
+# 06 — Safety & Security
 
-**Ultima verifica completa: 27/08/2026** · Prossimo controllo mensile: **27/09/2026**
+**Last checked completa: 27/08/2026** · Next monthly check: **27/09/2026**
 
-## Valutazione sicurezza: **DATO MANCANTE / 5** — in attesa di verifica su fonti aggregate (advisory, stampa locale, CSSN-equivalente Mediterraneo)
+## Safety Rating: **DATA MISSING / 5** — in attesa of verifica on fonti aggregate (advisory, stampa locale, CSSN-equivalente Mediterraneo)
 
 | Aspetto | Voto | Motivazione |
 |---|---|---|
-| Sicurezza personale (turisti/crocieristi) | **DATO MANCANTE /5** | **DATO MANCANTE** — da verificare su advisory governative (viaggiareinsicurezza.it, gov.uk, voyage.gc.ca) |
-| Furti materiali a bordo | **DATO MANCANTE /5** | **DATO MANCANTE** — verificare segnalazioni furti dinghy/fuoribordo nelle marine cipro |
-| Contesto generale | **DATO MANCANTE /5** | **DATO MANCANTE** |
+| Safety & security personale (turisti/crocieristi) | **DATA MISSING /5** | **DATA MISSING** — from check on advisory governative (viaggiareinsicurezza.it, gov.uk, voyage.gc.ca) |
+| Furti materiali a bordo | **DATA MISSING /5** | **DATA MISSING** — check segnalazioni furti dinghy/fuoribordo nelle marine cipro |
+| Contesto generale | **DATA MISSING /5** | **DATA MISSING** |
 
-*Scala: 0 = terribile → 5 = molto sicuro. Valutazione nostra, sintesi delle fonti sotto; aggiornata a ogni controllo mensile.*
+*Scala: 0 = terribile → 5 = very sicuro. Valutazione nostra, sintesi of the fonti sotto; aggiornata a each controllo mensile.*
 
-**Perché DATO MANCANTE**: paese di nuova creazione — dati non ancora verificati.
+**Perché DATA MISSING**: paese of nuova creazione — dati non still verificati.
 
-## Quadro generale
+## General Overview
 
-- Advisory: **DATO MANCANTE** — da consultare viaggiareinsicurezza.it (Cipro), diplomatie.gouv.fr, gov.uk, travel.state.gov, voyage.gc.ca.
-- Stampa locale / report isola: **DATO MANCANTE**.
+- Advisory: **DATA MISSING** — from consultare viaggiareinsicurezza.it (Cipro), diplomatie.gouv.fr, gov.uk, travel.state.gov, voyage.gc.ca.
+- Stampa locale / report isola: **DATA MISSING**.
 - Nessuna valutazione definitiva fino a verifica mensile completa.
 
-## Mappa delle zone — offline
+## Zone Map — Offline
 
 <div class="mapframe" data-slug="cipro" data-minz="5" data-maxz="15" data-lat="34.90" data-lon="33.20" data-zones='[]'></div>
 
-*Mappa placeholder centrata su Cipro ( Mediterraneo ). Le zone a rischio verranno mappate solo con fonti verificate.*
+*Mappa placeholder centrata on Cipro ( Mediterraneo ). Le zone a rischio verranno mappate only with fonti verificate.*
 
-## Posti sicuri / da evitare
+## Posti sicuri / from evitare
 
-**DATO MANCANTE**.
+**DATA MISSING**.
 
 ## Furti a crocieristi
 
-**DATO MANCANTE** — verificare su fonti diportiste aggregate e advisory.
+**DATA MISSING** — check on fonti diportiste aggregate and advisory.
 
-## A bordo e a terra
+## Aboard and a terra
 
-**DATO MANCANTE**.
+**DATA MISSING**.
 
 ## Navigazione
 
-**DATO MANCANTE** — IALA-A in Mediterraneo. Verificare pericoli locali (scogli, secche, traffico mercantile).
+**DATA MISSING** — IALA-A in Mediterraneo. Check pericoli locali (scogli, secche, traffico mercantile).
 
-## Numeri di emergenza
+## Emergency Numbers
 
-| Servizio | Numero | Note |
+| Service | Numero | Note |
 |---|---|---|
-| Emergenza generale UE | **112** | Valido anche in Cipro se in UE; altrimenti **DATO MANCANTE** |
-| Guardia costiera / MRCC | **DATO MANCANTE** | Verificare su elenco SAR Cipro |
-| Polizia | **DATO MANCANTE** | **DATO MANCANTE** |
+| Emergenza generale UE | **112** | Valido also in Cipro se in UE; altrimenti **DATA MISSING** |
+| Guardia costiera / MRCC | **DATA MISSING** | Check on elenco SAR Cipro |
+| Polizia | **DATA MISSING** | **DATA MISSING** |
 
 ## Monitoraggio mensile
 
-Verifica su thecssn.org / stampa locale / voyage.gc.ca / gov.uk / travel.state.gov / gruppi FB — **DATO MANCANTE** al prossimo ciclo.
+Verifica on thecssn.org / stampa locale / voyage.gc.ca / gov.uk / travel.state.gov / gruppi FB — **DATA MISSING** at the prossimo ciclo.
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026
 
-## Salvataggio ed emergenze
+## Rescue & Emergencies
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 

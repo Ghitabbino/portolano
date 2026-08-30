@@ -1,67 +1,67 @@
-# 02 — Costo della vita
+# 02 — Cost of Living
 
-**Ultimo aggiornamento: 27/08/2026**
+**Last updated: 27/08/2026**
 
-Valuta: **euro (EUR)**. Livello prezzi: **DATO MANCANTE** — da verificare con fonti locali aggiornate.
+Currency: **euro (EUR)**. Price level: **DATA MISSING** — from check with fonti locali aggiornate.
 
-> ⚠️ Le voci di questo elenco sono le stesse per tutti i paesi del portolano. Dove il dato non è stato ancora trovato dalle fonti si scrive **DATO MANCANTE**: viene ricercato al controllo mensile (vedi [00 Indice](../00-indice.md)).
+> ⚠️ Le voci of questo elenco are le stesse for all i paesi of the portolano. Dove il dato non è stato still trovato dalle fonti si scrive **DATA MISSING**: viene ricercato at the controllo mensile (vedi [00 Index](../00-indice.md)).
 
-## Alimentari e spesa di bordo
+## Groceries & Galley Provisioning
 
-| Voce | Prezzo indicativo | Note |
+| Item | Price indicativo | Note |
 |---|---|---|
-| Birra locale supermercato (0,33 l) | **DATO MANCANTE** | **DATO MANCANTE** |
-| Caffè al bancone | **DATO MANCANTE** | **DATO MANCANTE** |
-| Baguette / pane | **DATO MANCANTE** | **DATO MANCANTE** |
-| Acqua imbottigliata 1,5 l | **DATO MANCANTE** | **DATO MANCANTE** |
-| Latte 1 l | **DATO MANCANTE** | **DATO MANCANTE** |
-| Riso 1 kg | **DATO MANCANTE** | **DATO MANCANTE** |
-| Pollo fresco 1 kg | **DATO MANCANTE** | **DATO MANCANTE** |
+| Birra locale supermercato (0,33 l) | **DATA MISSING** | **DATA MISSING** |
+| Caffè at the bancone | **DATA MISSING** | **DATA MISSING** |
+| Baguette / pane | **DATA MISSING** | **DATA MISSING** |
+| Water imbottigliata 1,5 l | **DATA MISSING** | **DATA MISSING** |
+| Latte 1 l | **DATA MISSING** | **DATA MISSING** |
+| Riso 1 kg | **DATA MISSING** | **DATA MISSING** |
+| Pollo fresco 1 kg | **DATA MISSING** | **DATA MISSING** |
 
-## Mangiare fuori (media)
+## Eating Out (media)
 
-| Voce | Prezzo indicativo |
+| Item | Price indicativo |
 |---|---|
-| Menu ristorante medio | **DATO MANCANTE** |
-| Birra al bar | **DATO MANCANTE** |
-| Menu fascia alta | **DATO MANCANTE** |
-| Snack / tapas da strada | **DATO MANCANTE** |
+| Menu ristorante medio | **DATA MISSING** |
+| Birra at the bar | **DATA MISSING** |
+| Menu fascia alta | **DATA MISSING** |
+| Snack / tapas from strada | **DATA MISSING** |
 
-Prezzi specifici per locale → [10 Ristoranti](10-ristoranti.md).
+Prezzi specifici for locale → [10 Ristoranti](10-ristoranti.md).
 
-## Carburanti
+## Fuel
 
-| Voce | Prezzo indicativo | Note |
+| Item | Price indicativo | Note |
 |---|---|---|
-| Gasolio | **DATO MANCANTE** | **DATO MANCANTE** |
-| Benzina SP95 | **DATO MANCANTE** | **DATO MANCANTE** |
-| Benzina SP98 | **DATO MANCANTE** | **DATO MANCANTE** |
-| Bombola gas (scambio) | **DATO MANCANTE** | **DATO MANCANTE** |
+| Gasolio | **DATA MISSING** | **DATA MISSING** |
+| Benzina SP95 | **DATA MISSING** | **DATA MISSING** |
+| Benzina SP98 | **DATA MISSING** | **DATA MISSING** |
+| Bombola gas (scambio) | **DATA MISSING** | **DATA MISSING** |
 
-## Trasporti e collegamenti
+## Transport & Connections
 
-| Voce | Prezzo indicativo | Note |
+| Item | Price indicativo | Note |
 |---|---|---|
-| Bus locale | **DATO MANCANTE** | **DATO MANCANTE** |
-| Collegamento marittimo locale | **DATO MANCANTE** | **DATO MANCANTE** |
-| Noleggio auto giornaliero | **DATO MANCANTE** | **DATO MANCANTE** |
-| Taxi | **DATO MANCANTE** | **DATO MANCANTE** |
+| Bus locale | **DATA MISSING** | **DATA MISSING** |
+| Collegamento marittimo locale | **DATA MISSING** | **DATA MISSING** |
+| Noleggio auto giornaliero | **DATA MISSING** | **DATA MISSING** |
+| Taxi | **DATA MISSING** | **DATA MISSING** |
 
-## Servizi quotidiani
+## Everyday Services
 
-| Voce | Prezzo indicativo | Note |
+| Item | Price indicativo | Note |
 |---|---|---|
-| Lavanderia self-service | **DATO MANCANTE** | **DATO MANCANTE** |
-| SIM prepagata con dati | **DATO MANCANTE** | **DATO MANCANTE** |
-| Lavaggio scafo (hull dive) | **DATO MANCANTE** | **DATO MANCANTE** |
+| Lavanderia self-service | **DATA MISSING** | **DATA MISSING** |
+| SIM prepagata with dati | **DATA MISSING** | **DATA MISSING** |
+| Lavaggio scafo (hull dive) | **DATA MISSING** | **DATA MISSING** |
 
-## Contanti e pagamenti
+## Cash & Payments
 
-Euro, carte accettate diffusamente; **DATO MANCANTE** su dettagli locali (commissioni, ATM).
+Euro, carte accettate diffusamente; **DATA MISSING** on dettagli locali (commissioni, ATM).
 
-## Approfondimenti
+## Further Reading
 
-- Tariffe complete marine e boe → [03 Porti e marine](03-porti-ancoraggi.md)
-- Ristoranti con prezzi specifici per locale → [10 Ristoranti](10-ristoranti.md)
+- Tariffs complete marine and boe → [03 Porti and marine](03-porti-ancoraggi.md)
+- Ristoranti with prezzi specifici for locale → [10 Ristoranti](10-ristoranti.md)
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

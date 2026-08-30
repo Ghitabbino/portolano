@@ -1,20 +1,20 @@
 # Rodney Bay — rada esterna {#anc-rodney-bay-outer}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← Tous les mouillages](../08-ancoraggi.md)
 **14°04′52″ N 60°57′32″ W** ★★★
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| **Profondità** |Sabbia, baia ampia|
-| **Tenuta àncora** |Discreta|
-| **Venti/riparo** |Buona da E; esposta a NW|
-| **Pericoli** |Zona PWC a sud del canale del lago interno|
-| **Boe/divieti/normative** |Formalità alla marina (portofrancese)|
-| **A terra** |Reduit Beach, ristoranti|
+| **Profondeur** |Sabbia, baia ampia|
+| **Tenue de l’ancre** |Discreta|
+| **Vents/abri** |Buona da E; esposta a NW|
+| **Dangers** |Zone PWC a sud del canale del lago interno|
+| **Bouées/interdictions/réglementation** |Formalità alla marina (portofrancese)|
+| **À terre** |Reduit Beach, ristoranti|
 
 <div class="mapframe" data-slug="anc-rodney-bay-outer" data-lat="14.08118" data-lon="-60.9589"></div>
-*Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
+*Carte détaillée — zoomez jusqu’à la baie · carte hors ligne · coordinate WGS84 indicative, toujours vérifier avec le traceur*
 
 Fonti: CruisersWiki Rodney Bay ★★★
 
-Ultimo aggiornamento: 25/08/2026
+Dernière mise à jour: 25/08/2026

@@ -1,8 +1,8 @@
-# 05 — Stagionalità e meteo
+# 05 — Seasonality & Weather
 
-**Ultima verifica: 25/08/2026**
+**Last checked: 25/08/2026**
 
-| Periodo | Caratteristiche |
+| Period | Characteristics |
 |---|---|
 | **Novembre – aprile** | Secca sul Pacifico, alisei NE 15-25 kt con raffiche nel Lago Nicaragua — **migliore stagione Pacifico** ★★★★ |
 | **Maggio – ottobre** | Umida; swell da S-SW sul Pacifico (baie esposte: roll a San Juan del Sur mag-ott) ★★★ |
@@ -11,29 +11,28 @@
 - **Rio San Juan/Lago**: temporali pomeridiani quasi quotidiani in stagione umida ★★★
 - Meteo ufficiale: INETER (ineter.gob.ni) ★★★★
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026
 
-## Clima
+## Climate
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Stagioni
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
 
-## Venti locali
+## Seasons
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Finestre tipiche
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
 
-## Link meteo
+## Local Winds
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
+
+## Typical Weather Windows
+
+**DATA MISSING** — da completare al controllo mensile.
+
+
+## Weather Links
+
+**DATA MISSING** — da completare al controllo mensile.

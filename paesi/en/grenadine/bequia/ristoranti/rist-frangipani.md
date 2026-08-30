@@ -1,17 +1,17 @@
 # Frangipani Hotel Restaurant
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | Zona | Belmont Walkway |
-| Cucina | 🍽️ Caraibica-internazionale |
+| Cucina | 🍽️ Caribbeanca-internazionale |
 | Specialità | Thursday Jump Up · conch chowder |
-| Costo | 💰€€–€€€ per persona senza bevande |
+| Costo | 💰€€–€€€ per person without drinks |
 | Location | 🌊 waterfront storico |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Frangipani+Hotel+Restaurant+Belmont+Walkway) |
 | Contatti | +1 784 458-3255 |
-| Valutazioni | Citato in '1000 Places to See Before You Die' → ★★★★ |
+| Currencyzioni | Citato in '1000 Places to See Before You Die' → ★★★★ |
 | Orari | colazione 07:30–10:30 · pranzo 11–15 · cena 18:30–22 · chiuso set |
 
 ## Menu
@@ -25,8 +25,8 @@
 
 ## Foto
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Foto non still disponibili — recuperare at the controllo mensile.*
 
-**Note**: Fondato dal figlio di J. 'Son' Mitchell · BBQ con Elite steel band il giovedì · frangipanibequia.com
+**Notes**: Founded by J. 'Son' Mitchell's son · BBQ with Elite steel band on Thursday · frangipanibequia.com
 
 **Extra**: prenotazione cena consigliata, essenziale il giovedì

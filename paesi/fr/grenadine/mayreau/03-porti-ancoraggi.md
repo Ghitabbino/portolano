@@ -1,6 +1,6 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026
 
 ## Ancoraggi e approdi
 
@@ -15,4 +15,4 @@ Nessuna dogana sull'isola: clearance a Union Island o Bequia.
 
 ⚠️ Post-Beryl: **nuovo breakwater a Salt Whistle Bay** (2024-25), baia di nuovo protetta; palme ripiantate. [Aggiornamento charter](https://horizonyachtcharters.com/213/2249/update-on-the-grenadines-following-hurricane-beryl-july-2024) ★★★
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026

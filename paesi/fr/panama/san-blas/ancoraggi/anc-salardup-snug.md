@@ -1,20 +1,20 @@
 # Salardup / Snug Harbour {#anc-salardup-snug}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← Tous les mouillages](../08-ancoraggi.md)
 
 **9°31.2′N 78°55.8′W** ★★
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| **Profondità** |5–12 m baia tra reef ★★|
-| **Tenuta àncora** | Eccellente |
-| **Venti/riparo** | Il meglio protetto dagli alisei di San Blas |
-| **Pericoli** | Ingresso stretto: guardia a vista |
-| **Affollamento** | Basso |
+| **Profondeur** |5–12 m baia tra reef ★★|
+| **Tenue de l’ancre** | Eccellente |
+| **Vents/abri** | Il meglio protetto dagli alisei di San Blas |
+| **Dangers** | Ingresso stretto: guardia a vista |
+| **Affluence** | Basso |
 | **Divieti** | Nessuno |
-| **A terra** | Rifugio con qualsiasi vento; ottimo durante le raffiche |
+| **À terre** | Rifugio con qualsiasi vento; ottimo durante le raffiche |
 
 <div class="mapframe" data-slug="anc-salardup-snug" data-lat="9.549" data-lon="-78.851"></div>
-*Vista mappa Salardup / Snug Harbour · mappa offline*
+*Vista mappa Salardup / Snug Harbour · carte hors ligne*
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026

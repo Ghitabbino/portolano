@@ -1,27 +1,27 @@
-# 04 — Servizi, cantieri e manutenzione (haul-out reali)
+# 04 — Services, Chantiers & Entretien
 
 - **Haul-out**: disponibili a **Puerto La Cruz** (scelta principale degli yacht che necessitano lavori; cantieri e marine aperti negli ultimi anni; preventivi scritti consigliati) [Noonsite Facts, agg. 2026] ★★; anche a Cumaná ci sono cantieri, ma passato passato di attacchi a yacht — verificare [Noonsite Facts] ★★.
-- **Nomina impianti/travelift attivi nel 2025-26**: **DATO MANCANTE**.
+- **Nomina impianti/travelift attivi nel 2025-26**: **DONNÉE MANQUANTE**.
 - **Ricambi**: PLC = centro principale (filtri, cinghie, giranti, lubrificanti, batterie, vernici antifouling); componenti speciali europei quasi sempre da importare (DHL/FedEx/UPS operano, dogana lenta) [Ocean Posse] ★★★. Propano: ricarica solo sui porti principali, mai sulle isole; raccordi locali non compatibili UE/USA [Ocean Posse] ★★★.
 
-**Ultimo aggiornamento: 24/08/2026**
+**Dernière mise à jour: 24/08/2026**
 
 ## Hub tecnico
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## Gas e bombole
+## Gaz et bouteilles
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Acqua dolce
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## Note strategiche
+## Eau douce
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
+
+
+## Notes stratégiques
+
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 

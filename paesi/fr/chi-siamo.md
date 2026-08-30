@@ -1,7 +1,7 @@
 # Chi siamo
 
-**SailTropics** est un routier nautique **indépendant, collaboratif et sans but lucratif**,
-porté par la communauté, fait **par des marins pour des marins**.
+**SailTropics** è un portolano nautico **indipendente, collaborativo e senza scopo di lucro**,
+guidato dalla community, fatto da **velisti per velisti**.
 
 Nasce come quaderno di bordo condiviso: le informazioni che ci piacerebbe trovare
 quando entriamo in una rada nuova, scritte da chi ci è passato davvero.
@@ -12,7 +12,7 @@ Ingresso e visti · clearance doganale · costi della vita · porti e ancoraggi 
 servizi e cantieri · stagionalità e meteo · sicurezza · provvisioning ·
 portolano degli ancoraggi con mappe · artigiani nautici · ristoranti.
 
-Ogni paese segue lo stesso schema, per confrontare mele con mele.
+Chaque pays suit le même schéma, pour comparer à périmètre constant.
 
 ## Come lavoriamo
 
@@ -20,7 +20,7 @@ Ogni paese segue lo stesso schema, per confrontare mele con mele.
  governativa ufficiale) fino a ★ (voce di banchina), con data di verifica.
 - **Revisione periodica**: controllo mensile programmatico + verifica critica automatica
  sugli aspetti che contano (sicurezza, meteo, visti, tariffe, regolamenti).
-- **Mai dati inventati**: se qualcosa non è verificato, leggi *DATO MANCANTE*.
+- **Mai dati inventati**: se qualcosa non è verificato, leggi *DONNÉE MANQUANTE*.
  È la nostra promessa più importante.
 - **Conflitti dichiarati**: quando le fonti si contraddicono, ti mostriamo entrambe
  le versioni con le fonti, non scegliamo noi al posto tuo.
@@ -54,4 +54,4 @@ Dal menu laterale puoi scaricare il portolano completo di mappe offline in un fi
 per oceano. Scaricalo prima della partenza, estrailo sul dispositivo e apri `index.html`:
 funziona completamente senza connessione.
 
-Ultimo aggiornamento: 25/08/2026
+Dernière mise à jour: 25/08/2026

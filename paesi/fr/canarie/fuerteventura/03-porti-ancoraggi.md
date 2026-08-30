@@ -1,34 +1,34 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
-Ultimo aggiornamento: 22/08/2026 · Cartografia ufficiale Navionics/C-MAP/IHM.
+Dernière mise à jour: 22/08/2026 · Cartographie officielle Navionics/C-MAP/IHM.
 
 ## Marine
 
-| Marina | Zona | Note |
+| Marina | Zone | Note |
 |---|---|---|
 | **Caleta de Fuste** | Centro-est | Marina riparata comoda, buona tappa centrale; villaggio turistico quieto |
 | Corralejo | Nord | Turistica, vicina a Lobos e Bocaina; attracci e pontili |
-| Morro Jable | Sud | Porto peschereccio+diporti, ferry Gran Canaria |
+| Morro Jable | Sud | Port peschereccio+diporti, ferry Gran Canaria |
 | Gran Tarajal | Est | Locale, tranquillo, pontile diporti |
 | Puerto del Rosario | Capoluogo | Commerciale; attracco diporti limitato |
 
 ## Isla de Lobos
 
-| Aspetto | Dettaglio |
+| Aspetto | Détail |
 |---|---|
-| Stato | Parque Natural — ancoraggio regolamentato/giornaliero ⚠️ verificare regole aggiornate sul posto (autorizzazione online in passato) |
+| État | Parque Natural — ancoraggio regolamentato/giornaliero ⚠️ verificare regole aggiornate sul posto (autorizzazione online in passato) |
 | Fondo | Sabbia nelle calette nord |
 | Frequentazione | Molto affollata di giorno (day boats), deserto la notte |
 
 ⛔ Costa ovest (El Cotillo, Cofete): swell atlantico costante, nessun riparo — evitare.
 
-## Tariffe indicative
+## Tarifs indicatifs
 
-| Struttura | Costo | Note |
+| Infrastructure | Coût | Note |
 |---|---|---|
-## Contatti portuari verificati
+## Contacts portuari verificati
 
-| Porto | Posti | Telefono |
+| Port | Posti | Telefono |
 |---|---|---|
 | **Puerto El Castillo (Caleta de Fuste)** | 99 (fino 16 m) | **928 163 514** ★★★★ |
 | Corralejo | 110 | **928 866 524** ★★★★ |
@@ -36,12 +36,12 @@ Ultimo aggiornamento: 22/08/2026 · Cartografia ufficiale Navionics/C-MAP/IHM.
 | Gran Tarajal | 170 | **928 164 101** ★★★★ |
 | Puerto del Rosario | 184 | **928 860 200** ★★★★ |
 
-## Distanze utili
+## Distances utiles
 
-| Tratta | Distanza | Note |
+| Trajet | Distance | Note |
 |---|---|---|
 | Corralejo – Arrecife via Bocaina | ~15–20 Mm | Vento accelerato: mattina |
 | Caleta de Fuste – Las Palmas | ~50 Mm | Facile con aliseo ≤20 kn |
 | Morro Jable – Puerto de Mogán (GC) | ~20 Mm | Stretto meridionale |
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026

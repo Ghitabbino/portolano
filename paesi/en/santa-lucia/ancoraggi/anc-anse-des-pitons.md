@@ -6,7 +6,7 @@
 | Campo | Dettaglio |
 |---|---|
 | **Profondità** |8–20 m fondo sabbioso|
-| **Tenuta àncora** |Ancoraggio VIETATO: solo boe|
+| **Tenuta àncora** |Anchorageso VIETATO: solo boe|
 | **Venti/riparo** |Spettacolare ma esposta a S/SW; raffiche +15–20 kt tra i Pitoni|
 | **Pericoli** |11 boe (max 60 ft); chiamare VHF 16/SMMA|
 | **Boe/divieti/normative** |Tariffe boe SMMA (Coral Permit 2025–26): ≤70 ft US$20/notte ($120/sett) · 70–120 ft $100/notte · >120 ft $200/notte|
@@ -17,4 +17,4 @@
 
 Fonti: [Navily](https://www.navily.com/mouillage/anse-des-pitons/13069) (2026) ★★ · SMMA/smmainc.com fee ★★★★
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

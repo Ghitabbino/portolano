@@ -1,17 +1,17 @@
 # Restaurante 15
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| Zona | Caleta de Fuste – Playa del Castillo |
-| Cucina | 🍽️ Cocina de mercado |
-| Specialità | Menù originale stagionale |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🍽️ moderno curato |
-| Contatti | prenota 15restaurant.com |
-| Valutazioni | ★★★★|
-| Orari | pranzo/cena |
+| Area | Caleta de Fuste – Playa of the Castillo |
+| Cuisine | 🍽️ Cocina de mercado |
+| Speciality | Menù originale stagionale |
+| Cost | 💰€€ for persona without bevande |
+| Setting | 🍽️ moderno curato |
+| Contacts | prenota 15restaurant.com |
+| Ratings | ★★★★|
+| Hours | pranzo/cena |
 
 ## Menu
 
@@ -21,4 +21,4 @@
 
 **Note**: Salute + creatività
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

@@ -1,26 +1,26 @@
-# 09 — Artigiani e negozi nautici
+# 09 — Marine Trades & Chandlers
 
-**Ultimo aggiornamento: 24/08/2026** · sal: offerta limitata, hub a Mindelo.
+**Last updated: 24/08/2026** · sal: offerta limitata, hub a Mindelo.
 
-## Tabella artigiani
+## Trades Table
 
 | Ditta / Nome | Area | Tel | Sede | Recensioni |
 |---|---|---|---|---|
-| **Capitania / Porto sal** | Coordinamento artigiani locali | **DATO MANCANTE** | Porto principale | ★★ |
-| **Meccanico locale** | Fuoribordo/entrobordo su chiamata | **DATO MANCANTE** | Su chiamata | ★ |
-| **Vetroresina/legno** | Riparazioni base pescherecci | **DATO MANCANTE** | Porto | ★ |
+| **Capitania / Porto sal** | Coordinamento artigiani locali | **DATA MISSING** | Porto principale | ★★ |
+| **Meccanico locale** | Fuoribordo/entrobordo su chiamata | **DATA MISSING** | Su chiamata | ★ |
+| **Vetroresina/legno** | Riparazioni base pescherecci | **DATA MISSING** | Porto | ★ |
 
 *Chiedere in capitania/porto; nessun contatto stabile verificato fuori Mindelo.*
 
-## Negozi e shipchandler
+## Chandlers & Equipment Shops
 
 | Negozio | Cosa trovi | Note |
 |---|---|---|
 | Mini-ferramenta capoluogo | Utensili base, vernici | ★★ |
-| Shipchandler | **DATO MANCANTE** — nessun negozio nautico dedicato verificato | |
+| Shipchandler | **DATA MISSING** — nessun negozio nautico dedicato verificato | |
 
-## Note pratiche
+## Practical Notes
 
-Per ricambi specialistici ordinare da Mindelo o Canarie con largo anticipo.
+Per ricambi specialistici ordinare da Mindelo or Canarie con largo anticipo.
 
-Ultimo aggiornamento: 24/08/2026
+Last updated: 24/08/2026

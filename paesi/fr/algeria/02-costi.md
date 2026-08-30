@@ -1,51 +1,51 @@
-# 02 — Costo della vita
+# 02 — Coût de la vie
 
-**Ultimo aggiornamento: 27/08/2026**
+**Dernière mise à jour: 27/08/2026**
 
-Valuta: **dinaro algerino (DZD)**. Livello prezzi: **DATO MANCANTE** — da verificare con fonti locali aggiornate.
+Devise: **dinaro algerino (DZD)**. Livello prezzi: **DONNÉE MANQUANTE** — à vérifier con fonti locali aggiornate.
 
-> ⚠️ Le voci di questo elenco sono le stesse per tutti i paesi del portolano. Dove il dato non è stato ancora trovato si scrive **DATO MANCANTE**: viene ricercato al controllo mensile.
+> ⚠️ Le voci di questo elenco sono le stesse per tutti i paesi del portolano. Dove il dato non è stato ancora trovato si scrive **DONNÉE MANQUANTE**: viene ricercato al controllo mensile.
 
-## Alimentari e spesa di bordo
+## Alimentation & avitaillement
 
-| Voce | Prezzo indicativo | Note |
+| Rubrique | Prezzo indicativo | Note |
 |---|---|---|
-| Birra locale supermercato (0,33 l) | **DATO MANCANTE** | **DATO MANCANTE** |
-| Caffè al bancone | **DATO MANCANTE** | **DATO MANCANTE** |
-| Pane / baguette | **DATO MANCANTE** | **DATO MANCANTE** |
-| Acqua imbottigliata 1,5 l | **DATO MANCANTE** | **DATO MANCANTE** |
-| Latte 1 l | **DATO MANCANTE** | **DATO MANCANTE** |
-| Riso 1 kg | **DATO MANCANTE** | **DATO MANCANTE** |
-| Pollo fresco 1 kg | **DATO MANCANTE** | **DATO MANCANTE** |
+| Birra locale supermercato (0,33 l) | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Caffè al bancone | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Pane / baguette | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Eau imbottigliata 1,5 l | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Latte 1 l | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Riso 1 kg | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Pollo fresco 1 kg | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
 
-## Mangiare fuori (media)
+## Restauration à terre (moyenne)
 
-| Voce | Prezzo indicativo |
+| Rubrique | Prezzo indicativo |
 |---|---|
-| Menu ristorante medio | **DATO MANCANTE** |
-| Fast food / street food | **DATO MANCANTE** |
+| Menu ristorante medio | **DONNÉE MANQUANTE** |
+| Fast food / street food | **DONNÉE MANQUANTE** |
 
-## Carburanti
+## Carburants
 
-| Voce | Prezzo | Fonte |
+| Rubrique | Prezzo | Source |
 |---|---|---|
-| Gasolio banchina | **DATO MANCANTE** | **DATO MANCANTE** |
-| Benzina | **DATO MANCANTE** | **DATO MANCANTE** |
+| Gasolio banchina | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Benzina | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
 
-## Trasporti
+## Transports
 
-**DATO MANCANTE**.
+**DONNÉE MANQUANTE**.
 
-## Servizi quotidiani
+## Services quotidiens
 
-**DATO MANCANTE**.
+**DONNÉE MANQUANTE**.
 
-## Contanti e pagamenti
+## Espèces & paiements
 
-**DATO MANCANTE** — verificare diffusione carte / ATM vicino alle marine.
+**DONNÉE MANQUANTE** — verificare diffusione carte / ATM vicino alle marine.
 
-## Approfondimenti
+## Pour approfondir
 
-**DATO MANCANTE**.
+**DONNÉE MANQUANTE**.
 
-Ultimo aggiornamento: 27/08/2026
+Dernière mise à jour: 27/08/2026

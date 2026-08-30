@@ -1,18 +1,18 @@
-# 05 — Stagionalità e meteo
+# 05 — Saisonnalité & Météo
 
-Clima subtropicale arido (l'isola più piccola e remota); regime alisei comune alle Canarie → contesto in [../00-ingresso-visti.md](../00-ingresso-visti.md).
+Climat subtropicale arido (l'isola più piccola e remota); regime alisei comune alle Canarie → contesto in [../00-ingresso-visti.md](../00-ingresso-visti.md).
 
-## Stagioni
+## Saisons
 
 | Periodo | Regime |
 |---|---|
-| Gen–apr | Alisei NE più tesi; swell atlantico da N/O su tutta la costa aperta |
-| Mag–set | Alisei stabili NE moderati; finestra migliore per la traversata da La Palma |
+| Gen–apr | Alizés NE più tesi; swell atlantico da N/O su tutta la costa aperta |
+| Mag–set | Alizés stabili NE moderati; finestra migliore per la traversata da La Palma |
 | Ott–dic | Più instabile, qualche perturbazione; swell da S possibili con sistemi a sud |
 
 ## Venti ed esposizione
 
-| Zona | Regime |
+| Zone | Regime |
 |---|---|
 | Nord/ovest/est | **Vento e mare aperti**: nessun riparo praticabile |
 | La Restinga (sud) | Riparata dai dominanti NE; sensibile allo swell da S |
@@ -23,7 +23,7 @@ Clima subtropicale arido (l'isola più piccola e remota); regime alisei comune a
 - Isola bassa rispetto alle grandi: minor effetto "mar de nubes"; qualche nube sul versante nord.
 - Acque limpide e povere di sedimento: visibilità eccellente (motivo della fama diving della Riserva Marina).
 
-## Finestre tipiche
+## Fenêtres météo typiques
 
 - La Palma → La Restinga (60–70 NM): il tratto più aperto dell'anello occidentale — attendere una finestra meteo pulita, partenza al mattino per arrivare in luce.
 - Con alisei forti il vento si sente fino al largo di La Restinga: pontile teso e parabordi generosi.
@@ -32,9 +32,9 @@ Clima subtropicale arido (l'isola più piccola e remota); regime alisei comune a
 
 AEMET, Windy, PredictWind — [AEMET](https://www.aemet.es/es/eltiempo/pronostico) ufficiale**.
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026
 
-## Clima
-## Venti locali
-## Link meteo
-Ultimo aggiornamento: 23/08/2026
+## Climat
+## Vents locaux
+## Liens météo
+Dernière mise à jour: 23/08/2026

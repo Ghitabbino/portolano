@@ -1,9 +1,9 @@
-# 10 — Ristoranti
+# 10 — Restaurants
 
-**Ultimo aggiornamento: 23/08/2026**
+**Dernière mise à jour: 23/08/2026**
 
 
-| Locale | Zona | Prezzi | Note |
+| Locale | Zone | Prezzi | Note |
 |---|---|---|---|
 | Ristoranti sul molo Gustavia | Gustavia | €€€–€€€€ | Vista porto, happy hour yacht ★★★ |
 | Le Select | Gustavia | €€ | Leggendario hamburger "Jimmy Buffett" ★★★ |
@@ -11,14 +11,14 @@
 
 ⚠️ Isola cara: prezzi elevati ovunque; prenotare in stagione ★★★
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026
 
-## Griglia generale
+## Grille générale
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## App e fonti
+## Applis et sources
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 

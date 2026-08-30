@@ -1,18 +1,18 @@
 # La Table du Père Labat
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Grand-Bourg |
-| Cucina | 🐟 Antillana-francese |
-| Specialità | Lambi · dolci al rum |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🪶 tradizionale |
+| Zone | Grand-Bourg |
+| Cuisine | 🐟 Antillana-francese |
+| Spécialité | Lambi · dolci al rum |
+| Coût | 💰€€ per persona senza bevande |
+| Emplacement | 🪶 tradizionale |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Table+du+Père+Labat+Grand-Bourg) |
-| Contatti | [Mappa](https://www.google.com/maps/search/?api=1&query=Pere+Labat+Grand-Bourg+Marie-Galante) |
-| Valutazioni | Google positive → ★★★★ |
-| Orari | orari legati ai traghetti ⚠️ |
+| Contacts | [Mappa](https://www.google.com/maps/search/?api=1&query=Pere+Labat+Grand-Bourg+Marie-Galante) |
+| Évaluations | Google positive → ★★★★ |
+| Horaires | orari legati ai traghetti ⚠️ |
 
 ## Menu
 
@@ -22,8 +22,8 @@
 
 **Chef**: ND
 
-## Foto
+## Photos
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Photos non ancora disponibili — recuperare al controllo mensile.*
 
 **Note**: Vicino alle distillerie Bielle/Poisson · menu 15–30 €

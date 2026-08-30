@@ -7,7 +7,7 @@
 | Zona | Long Bay (South Bank Resort) |
 | Cucina | 🐟 Pesce / internazionale |
 | Specialità | *Garlic chili tuna · branzino · fritto misto* |
-| Costo | 💰€€€ per persona senza bevande |
+| Costo | 💰€€€ per person without drinks |
 | Location | 🏖️ laguna — South Bank |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lua+Beach+House+South+Bank+Long+Bay+Providenciales) |
 | Contatti | +1 (649) 946-5000 · [southbank.tc/dining](https://www.southbank.tc) |

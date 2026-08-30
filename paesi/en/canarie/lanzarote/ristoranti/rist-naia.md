@@ -1,17 +1,17 @@
 # Naia
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| Zona | Arrecife – centro |
-| Cucina | 🍽️ Creativa spagnola |
-| Specialità | Arroz de setas |
-| Costo | 💰€€€ per persona senza bevande |
-| Location | 🍽️ moderno curato |
-| Contatti | [Google Maps](https://www.google.com/maps/search/?api=1&query=Naia+Arrecife) |
-| Valutazioni |CaptureAtlas ★★★★½|
-| Orari | mar–dom 13-15:30 / 19:30-22:30 |
+| Area | Arrecife – centro |
+| Cuisine | 🍽️ Creativa spagnola |
+| Speciality | Arroz de setas |
+| Cost | 💰€€€ for persona without bevande |
+| Setting | 🍽️ moderno curato |
+| Contacts | [Google Maps](https://www.google.com/maps/search/?api=1&query=Naia+Arrecife) |
+| Ratings |CaptureAtlas ★★★★½|
+| Hours | mar–dom 13-15:30 / 19:30-22:30 |
 
 ## Menu
 
@@ -22,4 +22,4 @@
 
 **Note**: Carta vini eccellente
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

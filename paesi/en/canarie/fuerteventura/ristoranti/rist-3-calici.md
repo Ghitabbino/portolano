@@ -1,25 +1,25 @@
 # 3 Calici
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| Zona | Corralejo – CC El Campanario |
-| Cucina | 🍝 Tapas italiane e vini |
-| Specialità | Pasta fresca · selezione vini |
-| Costo | 💰€€€ per persona senza bevande |
-| Location | 🍷 enoteca rilassata |
-| Contatti | +34 651 386 701 |
-| Valutazioni | ★★★★½|
-| Orari | cena; prenotare |
+| Area | Corralejo – CC El Campanario |
+| Cuisine | 🍝 Tapas italiane and vini |
+| Speciality | Pasta fresca · selezione vini |
+| Cost | 💰€€€ for persona without bevande |
+| Setting | 🍷 enoteca rilassata |
+| Contacts | +34 651 386 701 |
+| Ratings | ★★★★½|
+| Hours | cena; prenotare |
 
 ## Menu
 
-- Ravioli di pesce
+- Ravioli of pesce
 - Tagliere formaggi
 
 **Chef**: ND
 
 **Note**: Vicino Vista Lobos
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

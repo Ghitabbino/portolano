@@ -1,18 +1,18 @@
-# 10 — Ristoranti
+# 10 — Restaurants
 
 Fonte principale: portale turistico ufficiale Union Island con prezzi dichiarati (union-island.com).
 
 Legenda: **€** <20 · **€€** 20–40 · **€€€** >40 — prezzi in EC$ (~0,37 EUR)
 
-## Griglia generale
+## General Grid
 
-| Ristorante | Zona | Costo | Cucina | Specialità | Location | Stelle |
+| Restaurant | Area | Cost | Cuisine | Speciality | Location | Rating |
 |---|---|---|---|---|---|---|
-| [Anchorage Yacht Club](ristoranti/rist-anchorageyc.md) | Clifton | **€€** | **🐟 Caraibica** | *Pesce del giorno* | **⚓ waterfront Clifton** | ★★★ |
+| [Anchorage Yacht Club](ristoranti/rist-anchorageyc.md) | Clifton | **€€** | **🐟 Caribbeanca** | *Pesce del giorno* | **⚓ waterfront Clifton** | ★★★ |
 | [Sunbeach & Eat (Seckie & Vanessa)](ristoranti/rist-sunbeach.md) | Chatham Bay | **€€** | **🍖 Grill di spiaggia** | *Pesce/grill* | **🏖️ baia selvaggia ovest** | ★★★ |
 
-## App e fonti
+## Apps & Sources
 
 Google Maps recensioni · contatto diretto VHF/WhatsApp · prenotare aragosta al mattino
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

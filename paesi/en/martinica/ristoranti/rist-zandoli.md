@@ -1,17 +1,17 @@
 # Le Zandoli
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | Zona | Fort d'Alet |
 | Cucina | 🍽️ Gastronomica fusion |
 | Specialità | Menu Découverte 70 € · completo 95 € |
-| Costo | 💰€€€ per persona senza bevande |
+| Costo | 💰€€€ per person without drinks |
 | Location | 🏛️ boutique hotel 5*, vista baia |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Zandoli+Fort+d'Alet) |
 | Contatti | 0596 59 88 00 |
-| Valutazioni | TA 4,2/5 (809) → ★★★★ |
+| Currencyzioni | TA 4,2/5 (809) → ★★★★ |
 | Orari | ven–sab 19–22 (ultima comanda a tavola) |
 
 ## Menu

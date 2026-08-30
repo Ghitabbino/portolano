@@ -1,4 +1,4 @@
-# 00 — Ingresso, documenti e visti
+# 00 — Entry, documents & visas
 
 **Ultima verifica: 25/08/2026**
 
@@ -24,16 +24,16 @@ Territorio francese: nessuna estensione da richiedere per i cittadini UE, soggio
 
 ## La barca
 
-| Voce | Costo |
+| Item | Costo |
 |---|---|
 | Ancoraggio giornaliero | scala per lunghezza e posizione: esterno più economico, banchina più cara (decine di €/notte, ~€35/notte segnalati) |
 | Computer a terra | €3–5 di costo amministrativo |
 | Superyacht via agente | clearance doganale ~€350 (listino estate 2025) |
 
-Fonti: Noonsite ★★★ · medyachtservices.com ★★. Importazione temporanea extra-UE: **DATO MANCANTE** su fonte dedicata.
+Fonti: Noonsite ★★★ · medyachtservices.com ★★. Importazione temporanea extra-UE: **DATA MISSING** su fonte dedicata.
 
 ## Vaccini
 
-Nessun vaccino obbligatorio dall'Europa; febbre gialla solo da paesi a rischio (regola standard).
+No mandatory vaccinations dall'Europa; febbre gialla solo da paesi a rischio (regola standard).
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

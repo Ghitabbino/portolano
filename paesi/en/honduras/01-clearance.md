@@ -1,8 +1,8 @@
-# 01 — Clearance doganale della barca
+# 01 — Yacht Customs Clearance
 
-**Ultima verifica: 25/08/2026** · Fonti: DGMM/jotform ufficiale ★★★★ · Ocean Posse ★★★
+**Last checked: 25/08/2026** · Fonti: DGMM/jotform ufficiale ★★★★ · Ocean Posse ★★★
 
-## Procedura (tutto digitale)
+## Procedure (tutto digitale)
 
 | Passo | Come |
 |---|---|
@@ -30,19 +30,18 @@ Email capitaneria Roatán: cp.roatan@marinamercante.gob.hn
 - Overstay: multe consistenti all'uscita ★★★
 - Golfo de Fonseca (Pacifico): coordinare ingresso con Puerto Cortés/San Lorenzo ★★
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026
 
-## Chi deve farla
+## Who Must Clear
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Costi
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
 
-## Da verificare
+## Fees
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
+
+## To be verified
+
+**DATA MISSING** — da completare al controllo mensile.

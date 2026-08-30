@@ -1,6 +1,6 @@
-# 09 — Artigiani e negozi nautici
+# 09 — Artisans & chandleries
 
-Hub indiscusso è **IGY Rodney Bay Marina**: cantiere a secco con travelift 75 t, chandlery, elettronici e meccanici operano dentro o attorno alla marina e nel village; a Marigot Bay non risultano artigiani nautici dedicati (**DATO MANCANTE** — chiedere all'ufficio marina Capella/Marigot Bay Yacht Haven). Per lavori importanti chiedere sempre **preventivo scritto** e confermare i tempi in alta stagione (dic–apr), quando il cantiere è saturo per l'hivernage ARC. Contatto tipico via telefono/WhatsApp; si parla inglese.
+Hub indiscusso è **IGY Rodney Bay Marina**: cantiere a secco con travelift 75 t, chandlery, elettronici e meccanici operano dentro o attorno alla marina e nel village; a Marigot Bay non risultano artigiani nautici dedicati (**DATA MISSING** — chiedere all'ufficio marina Capella/Marigot Bay Yacht Haven). Per lavori importanti chiedere sempre **preventivo scritto** e confermare i tempi in alta stagione (dic–apr), quando il cantiere è saturo per l'hivernage ARC. Contatto tipico via telefono/WhatsApp; si parla inglese.
 
 ## Cantiere e haul-out
 
@@ -35,7 +35,7 @@ Hub indiscusso è **IGY Rodney Bay Marina**: cantiere a secco con travelift 75 t
 - **Elettronica/elettrico/frigo**: Regis Electronics + Marintek + Supply Tech. ★★★
 - **Vele/canvass**: Rodney Bay Sails e laboratori tessili presso Island Water World; vele nuove complete spesso più rapide da Martinica (Voilerie du Marin) o Antigua. ★★
 - **Inox/alluminio su misura**: Chinaman al boatyard. ★★★
-- **A Marigot Bay**: nessun artigiano dedicato verificato — **DATO MANCANTE**.
+- **A Marigot Bay**: nessun artigiano dedicato verificato — **DATA MISSING**.
 
 ## Negozi di attrezzature e shipchandler
 
@@ -50,8 +50,8 @@ Hub indiscusso è **IGY Rodney Bay Marina**: cantiere a secco con travelift 75 t
 ## Note pratiche
 
 - **Pagamenti**: carta accettata quasi ovunque nei negozi della marina; per i freelance contanti spesso gradito. Chiedere sempre ricevuta/fattura (utile per assicurazione). ★★
-- **Tempi ricambi**: ordinativi da USA/Europa = 1–3 settimane; alternativa rapida: Island Water World ha magazzini regionali (St. Maarten/Grenada) con trasferimenti intra-catena. ★★
+- **Processing time ricambi**: ordinativi da USA/Europa = 1–3 settimane; alternativa rapida: Island Water World ha magazzini regionali (St. Maarten/Grenada) con trasferimenti intra-catena. ★★
 - **Hivernage/uragani**: contratto caretaking IGY + assicurazione è la prassi; il boatyard fornisce cradle e cinghie. Vedi [05 Meteo](05-stagionalita-meteo.md). ★★★
 - **VHF**: i mezzi mobili lavorano anche su canale 16 (es. "Dragon Fly"). ★★
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

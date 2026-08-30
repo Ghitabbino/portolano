@@ -1,14 +1,14 @@
-# 09 — Artigiani e negozi nautici
+# 09 — Artisans & Shipchandlers
 
-**Ultimo aggiornamento: 24/08/2026** · fogo: offerta limitata, hub a Mindelo.
+**Dernière mise à jour: 24/08/2026** · fogo: offerta limitata, hub a Mindelo.
 
 ## Tabella artigiani
 
 | Ditta / Nome | Area | Tel | Sede | Recensioni |
 |---|---|---|---|---|
-| **Capitania / Porto fogo** | Coordinamento artigiani locali | **DATO MANCANTE** | Porto principale | ★★ |
-| **Meccanico locale** | Fuoribordo/entrobordo su chiamata | **DATO MANCANTE** | Su chiamata | ★ |
-| **Vetroresina/legno** | Riparazioni base pescherecci | **DATO MANCANTE** | Porto | ★ |
+| **Capitania / Port fogo** | Coordinamento artigiani locali | **DONNÉE MANQUANTE** | Port principale | ★★ |
+| **Meccanico locale** | Fuoribordo/entrobordo su chiamata | **DONNÉE MANQUANTE** | Su chiamata | ★ |
+| **Vetroresina/legno** | Riparazioni base pescherecci | **DONNÉE MANQUANTE** | Port | ★ |
 
 *Chiedere in capitania/porto; nessun contatto stabile verificato fuori Mindelo.*
 
@@ -17,10 +17,10 @@
 | Negozio | Cosa trovi | Note |
 |---|---|---|
 | Mini-ferramenta capoluogo | Utensili base, vernici | ★★ |
-| Shipchandler | **DATO MANCANTE** — nessun negozio nautico dedicato verificato | |
+| Shipchandler | **DONNÉE MANQUANTE** — nessun negozio nautico dedicato verificato | |
 
-## Note pratiche
+## Notes pratiques
 
 Per ricambi specialistici ordinare da Mindelo o Canarie con largo anticipo.
 
-Ultimo aggiornamento: 24/08/2026
+Dernière mise à jour: 24/08/2026

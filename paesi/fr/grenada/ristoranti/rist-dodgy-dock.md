@@ -1,18 +1,18 @@
 # Dodgy Dock
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | True Blue Bay (True Blue Bay Resort, True Blue Rd) |
-| Cucina | 🥗 Internazionale-caraibica (vegano/vegetariano/gluten-free ben serviti) |
-| Specialità | Serate tematiche · live band · pizza Reggae jerk |
-| Costo | 💰€€ per persona senza bevande (burger ~XCD 50) |
-| Location | ⚓ ristorante alfresco sul pontile del resort |
+| Zone | True Blue Bay (True Blue Bay Resort, True Blue Rd) |
+| Cuisine | 🥗 Internazionale-caraibica (vegano/vegetariano/gluten-free ben serviti) |
+| Spécialité | Serate tematiche · live band · pizza Reggae jerk |
+| Coût | 💰€€ per persona senza bevande (burger ~XCD 50) |
+| Emplacement | ⚓ ristorante alfresco sul pontile del resort |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dodgy+Dock+Restaurant+True+Blue+Bay+Grenada) |
-| Contatti | +1 473 443-8783 |
-| Valutazioni | TA/Google: DATO MANCANTE — verificare → ★★★★ |
-| Orari | tutti i giorni 7:00–23:00 |
+| Contacts | +1 473 443-8783 |
+| Évaluations | TA/Google: DONNÉE MANQUANTE — verificare → ★★★★ |
+| Horaires | tutti i giorni 7:00–23:00 |
 
 ## Programma serale
 

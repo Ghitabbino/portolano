@@ -1,20 +1,20 @@
 # Carenage (bacino nord St George's) {#anc-carenage}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← All anchorages](../08-ancoraggi.md)
 **12°03′14″ N 61°45′00″ W** ★★
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| **Profondità** |9–20 m|
-| **Tenuta àncora** |ANCORAGGIO VIETATO: riservato a unità commerciali|
-| **Venti/riparo** |—|
-| **Pericoli** |I diportisti non possono ancorare: solo sosta breve dinghy al molo|
-| **Boe/divieti/normative** |Grenada Ports Authority|
-| **A terra** |Fronte città|
+| **Depth** |9–20 m|
+| **Holding** |ANCORAGGIO VIETATO: riservato a unità commerciali|
+| **Winds/Shelter** |—|
+| **Hazards** |I diportisti non possono ancorare: only sosta breve dinghy at the molo|
+| **Buoys/Restrictions/Regulations** |Grenada Ports Authority|
+| **Ashore** |Fronte città|
 
 <div class="mapframe" data-slug="anc-carenage" data-lat="12.054" data-lon="-61.75"></div>
-*Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
+*Detail chart — zoom in to the bay · offline chart · approximate WGS84 coordinates, always verify with your chartplotter*
 
 Fonti: Grenada Ports Authority ★★★★ · sail-the-net ★★ · [DA VERIFICARE SATELLITE]
 
-Ultimo aggiornamento: 28/08/2026
+Last updated: 28/08/2026

@@ -1,17 +1,17 @@
 # D'View Sports Bar & Restaurant
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | Zona | Costa ovest |
 | Cucina | 🍽️ Mista |
 | Specialità | — |
-| Costo | 💰€€ per persona senza bevande |
+| Costo | 💰€€ per person without drinks |
 | Location | ⛰️ vista |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=D'View+Sports+Bar+&+Restaurant+Costa+ovest) |
 | Contatti | ND |
-| Valutazioni | Guida CCA 11/2025 → ★★ |
+| Currencyzioni | Guida CCA 11/2025 → ★★ |
 | Orari | stagione |
 
 ## Menu
@@ -22,6 +22,6 @@
 
 ## Foto
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Foto non still disponibili — recuperare at the controllo mensile.*
 
 **Note**: ND

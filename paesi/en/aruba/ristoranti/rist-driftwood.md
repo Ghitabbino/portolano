@@ -1,18 +1,18 @@
 # Driftwood Restaurant
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | Zona | Klipstraat 12, Oranjestad |
 | Cucina | 🐟 Frutti di mare locali autentici |
 | Specialità | Pesce fresco del giorno · zuppe di pesce · arubana |
-| Costo | 💰€€ per persona senza bevande |
+| Costo | 💰€€ per person without drinks |
 | Location | 🪶 legno nautico, autentico |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Driftwood+Restaurant+Oranjestad) |
 | Contatti | Klipstraat 12, Oranjestad |
 | Valutazioni | TA 4,5/5 · [VisitAruba.com](https://www.visitaruba.com/restaurants) + [AuthenticChicLifestyle Top 25](https://www.authenticchiclifestyle.com) → ★★★★ |
-| Orari | **DATO MANCANTE** — verificare su Facebook/Instagram locale |
+| Orari | **DATA MISSING** — verificare su Facebook/Instagram locale |
 
 ## Menu
 

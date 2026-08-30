@@ -1,10 +1,10 @@
-# 08 — Portolano degli ancoraggi
+# 08 — Anchorage Pilot
 
-**Ultima verifica: 24/08/2026**
+**Last checked: 24/08/2026**
 
-## Regole generali di ancoraggio (prima di tutto)
+## General Anchoring Rules (First and Foremost)
 
-Porto Rico applica regolamenti federali USA; l'ancoraggio è libero salvo **divieti espressi** per sicurezza, aree militari/ex-poligono e protezione ambientale. ⚠️ Verificare sempre *Coast Pilot* e *Notice to Mariners* prima di dare fondo.
+Puerto Rico applies US federal regulations; the anchorage is free subject to ** express prohibitions ** for security, military/ex-polygon areas and environmental protection. Always ⚠️ check *Coast Pilot* and *Notice to Mariners* before funding.
 
 | Regolamento | Cosa vieta / impone | Area |
 |---|---|---|
@@ -15,7 +15,7 @@ Porto Rico applica regolamenti federali USA; l'ancoraggio è libero salvo **divi
 
 > A **Vieques est** (ex *Naval Ammunition Support Detachment*) il fondale può contenere **ordigni inesplosi (UXO)**: non ancorare, non dragare, non immergersi fuori dalle aree autorizzate. Rispettare boe e cartelli. ★★★★★
 
-## Tabella riassuntiva — i migliori ancoraggi
+## Summary Table — Best Anchorages
 
 | # | Ancoraggio | Coordinate | Riparo alisei | Tenuta | Profondità | Note |
 |---|---|---|---|---|---|---|
@@ -29,15 +29,15 @@ Porto Rico applica regolamenti federali USA; l'ancoraggio è libero salvo **divi
 | 8 | **Boquerón — Cabo Rojo** | Sud-ovest | ★★★★ | ★★★★ sabbia | 2–4 m | Baia ridossata, villaggio e servizi a terra ★★★ |
 | 9 | **San Juan — Bahía de San Juan** | San Juan | ★★ | ★★ fango | 4–8 m | Rada urbana trafficata, solo appoggio tecnico; preferire marina ★★ |
 
-*Valutazioni riparo/tenuta qualitative da fonti diportiste aggregate e Coast Pilot; più ★ = meglio.*
+*Currencyzioni riparo/tenuta qualitative da fonti diportiste aggregate e Coast Pilot; più ★ = meglio.*
 
-### Mappa generale degli ancoraggi
+### General Anchorage Map
 
 <div class="mapframe" data-slug="porto-rico" data-minz="8" data-maxz="16" data-lat="18.20" data-lon="-66.50" data-markers='[[18.3027,-65.2863,"Ensenada Honda — Culebra"],[18.3317,-65.3181,"Bahía Flamenco — Culebra"],[18.0972,-65.4708,"Esperanza — Vieques"],[18.3486,-65.5681,"Palomino — Cordillera"],[18.4522,-66.1142,"San Juan Bay"],[17.8947,-66.5189,"Caja de Muertos — Ponce"],[17.9736,-67.0467,"Guánica / La Parguera"]]'></div>
 
-*Marker gialli — clic per nome.*
+*Marker gialli — clic for nome.*
 
-## Dettagli per area
+## Details for area
 
 ### Culebra — Ensenada Honda (hurricane hole)
 Baia a forma di sacca con ingresso stretto, ottimo ridosso da alisei e swell; fondo fangoso con buona tenuta ma verificare *holding* con catena abbondante. Servizi a **Dewey** (dinghy dock, colmados, Port of Entry 787-742-3531). Prima scelta con meteo incerto o per lasciare la barca. ★★★★
@@ -51,7 +51,7 @@ Acque turchesi e barriera, ideali con mare calmo; solo escursione giornaliera, p
 ### Sud — Caja de Muertos, Guánica, La Parguera, Boquerón
 Coste basse con mangrovie e secche coralline: navigazione solo di giorno con sole alto, seguire le rotte segnalate. **50 CFR 622.436**: salpare verticalmente, non trascinare l'ancora sul corallo. ★★★
 
-## Checklist àncora per Porto Rico
+## Anchor Checklist per Porto Rico
 
 1. Carte **NOAA ENC / Coast Pilot 5** a bordo e aggiornate ✓
 2. Regolamenti Vieques (33 CFR 110.245 / 165.787 / 334.1480) segnati sulla carta ✓
@@ -59,9 +59,8 @@ Coste basse con mangrovie e secche coralline: navigazione solo di giorno con sol
 4. Bandiera Q pronta per ROAM entro 12 miglia ✓
 5. Luci di ancoraggio e VHF 16 in ascolto ✓
 
-Ultimo aggiornamento: 24/08/2026
+Last updated: 24/08/2026
 
-## Cartografia ufficiale
+## Official Charts
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
+**DATA MISSING** — da completare al controllo mensile.

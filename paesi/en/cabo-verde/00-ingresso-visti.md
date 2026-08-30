@@ -1,52 +1,52 @@
-# 00 — Ingresso, documenti e visti
+# 00 — Entry, Documents & Visas
 
-**Ultima verifica: 22/08/2026**
+**Last checked: 22/08/2026**
 
 ## Status
 
-La **Repubblica di Capo Verde** è un arcipelago di **10 isole vulcaniche** a ~570 km dalla costa del Senegal. Capitale: **Praia** (isola di Santiago). Valuta: **escudo (CVE)**, cambio fisso ≈ **110,26 CVE = 1 EUR** (parità ancorata all'euro). Lingue ufficiali: **portoghese**, parlato correntemente il **crioulo** (kriolu). Fuso orario: **UTC−1**.
+The **Republic of Cape Verde** is an archipelago of **10 volcanic islands** about ~570 km off the coast of Senegal. Capital: **Praia** (Santiago Island). Currency: **escudo (CVE)**, fixed rate ≈ **110.26 CVE = 1 EUR** (pegged to the euro). Official languages: **Portuguese**, with **Crioulo** (Kriolu) widely spoken. Time zone: **UTC−1**.
 
-## Cittadini UE — nessun visto, ma pre-registrazione EASE
+## EU Citizens — No Visa, but EASE Pre-Registration
 
-| Voce | Regola | Fonte |
+| Item | Rule | Source |
 |---|---|---|
-| Visto | **Non richiesto** per soggiorni turistici ≤ 30 giorni |gov.uk "Cape Verde entry requirements" ★★★★|
-| Documenti | **Passaporto consigliato**, validità residua ≥ 6 mesi raccomandata; la carta d'identità è insufficiente come pratica standard d'ingresso |gov.uk ★★★★|
-| Pre-registrazione EASE | **Obbligatoria prima dell'arrivo** sul portale ufficiale [ease.gov.cv](https://www.ease.gov.cv) al posto del visto ("Efficient, Automatic and Safe Entry"): registrazione online dei viaggiatori con pagamento della tassa TSA | ease.gov.cv ★★★★★ |
+| Visa | **Not required** for tourist stays ≤ 30 days |gov.uk "Cape Verde entry requirements" ★★★★|
+| Documents | **Passport recommended**, ≥6 months remaining validity recommended; ID card alone is insufficient as standard practice |gov.uk ★★★★|
+| EASE Pre-Registration | **Mandatory before arrival** on the official portal [ease.gov.cv](https://www.ease.gov.cv) in place of a visa ("Efficient, Automatic and Safe Entry"): online traveller registration with payment of the TSA fee | ease.gov.cv ★★★★★ |
 
-⚠️ **Fee**: la tassa TSA inclusa nella pre-registrazione risulta ~3.400 CVE (~31 €) da fonti terze ★★ — valore NON confermato su fonte ufficiale → **verificare su ease.gov.cv prima dell'arrivo**. Attenzione ai siti privati con sovrapprezzi: usare solo il portale ufficiale. [ease.gov.cv ★★★★★]
+⚠️ **Fee**: the TSA fee included in pre-registration is reported as ~3,400 CVE (~€31) by third-party sources ★★ — value NOT confirmed on official source → **verify on ease.gov.cv before arrival**. Beware of private sites with mark-ups: use only the official portal. [ease.gov.cv ★★★★★]
 
-⚠️ **Dal 01/01/2026** il visto all'arrivo è stato abolito per 96 nazionalità extra-UE (Decreto 244/GMAI/2025): quelle nazionalità devono ottenere visto preventivo in ambasciata. I cittadini UE non sono coinvolti e usano la sola pre-registrazione EASE. [ease.gov.cv ★★★★★]
+⚠️ **From 01/01/2026** the visa on arrival has been abolished for 96 non-EU nationalities (Decree 244/GMAI/2025): those nationals must obtain a visa in advance at an embassy. EU citizens are not affected and use EASE pre-registration only. [ease.gov.cv ★★★★★]
 
-Nota: l'EASE nasce come procedura aeroportuale; per chi arriva via mare vale la dichiarazione in capitania.on è chiaro** → (da confermare in loco), da verificare su /autorità locali.
+Note: EASE was created as an airport procedure; for arrival by sea the declaration at the Harbour Office applies — **operational detail not yet clear** → (to be confirmed locally), to be verified with local authorities.
 
-## Arrivo via mare — clearance obbligatoria
+## Arrival by Sea — Mandatory Clearance
 
-- Il primo approdo deve essere una **fronteira marítima oficial**: Mindelo (São Vicente), Palmeira (Sal), Praia (Santiago), Porto Novo (Santo Antão), Tarrafal (São Nicolau), Sal Rei (Boa Vista). ★★★
-- **Clearance entro 24 h dall'arrivo** presso la **Capitania do Porto** del primo porto d'ingresso + **Polícia Marítima/Imigração**: documenti della nave (registrazione, assicurazione) e passaporti + crew list di tutto l'equipaggio. Bandiera gialla Q fino a formalità completate. Le autorità possono **trattenere il documento di registrazione della nave** durante il soggiorno. ★★★
-- Formalità generalmente **gratuite**; portare **almeno 10 copie della crew list**. ★★★
-- **Zarpe obbligatorio per la partenza verso l'estero**: viene richiesto dal paese successivo. Per gli spostamenti **isola→isola lo zarpe nazionale non è richiesto ma consigliato**: vari naviganti riportano che le autorità rilasciano comunque documenti di movimento inter-isole e che sbarcare senza notifica alla polizia marittima dell'isola successiva espone a contestazioni (a Brava si parla di sanzioni pesanti). ★★★
+- The first landfall must be an **official maritime border**: Mindelo (São Vicente), Palmeira (Sal), Praia (Santiago), Porto Novo (Santo Antão), Tarrafal (São Nicolau), Sal Rei (Boa Vista). ★★★
+- **Clearance within 24h of arrival** at the **Capitania do Porto** of the first port of entry + **Polícia Marítima/Immigration**: ship's papers (registration, insurance) and passports + crew list for all crew. Fly the yellow Q flag until formalities are completed. Authorities may **retain the vessel's registration document** for the duration of the stay. ★★★
+- Formalities are generally **free of charge**; bring **at least 10 copies of the crew list**. ★★★
+- **Zarpe (clearance) mandatory for departure abroad**: required by the next country. For **island-to-island moves the domestic zarpe is not required but recommended**: several cruisers report that authorities still issue inter-island movement papers and that landing without notifying the maritime police on the next island may lead to challenges (heavy penalties are reported on Brava). ★★★
 
-## La barca
+## The Yacht
 
-| Caso | Regola |
+| Case | Rule |
 |---|---|
-| Barca UE con IVA pagata | Nessun cruising permit nazionale noto |
-| Barca extra-UE | Nessun cruising permit nazionale noto |
+| Yacht EU VAT-paid | No national cruising permit known |
+| Yacht extra-UE | No national cruising permit known |
 
-⚠️ **Cruising permit**: nessun requisito nazionale confermato; valgono tasse portuali per capitania — ificare sulla pagina Formalities di prima della crociera. ★★★
+⚠️ **Cruising permit**: no national requirement confirmed; harbour office/port fees apply — verify on the Formalities page before the cruise. ★★★
 
-## Vaccini
+## Vaccinations
 
-Febbre gialla richiesta **solo se si arriva da un paese endemico** (Regolamento Sanitario Internazionale); nessun vaccino obbligatorio per ingresso dall'UE. Raccomandate le profilassi standard. ★★★★
+Yellow fever required **only if arriving from an endemic country** (International Health Regulations); no mandatory vaccination for entry from the EU. Standard prophylaxes recommended. ★★★★
 
-## In breve
+## At a Glance
 
-| Voce | Regola |
+| Item | Rule |
 |---|---|
-| Cittadini UE ≤ 30 gg | Passaporto + pre-registrazione EASE su ease.gov.cv, niente visto |
-| Soggiorno > 30 gg | Estensione presso polizia di frontiera locale ⚠️ — |ne — procedure: (da confermare in loco) |
-| Arrivo in barca | Clearance Capitania + Polizia entro 24 h al primo porto d'ingresso |
-| Partenza | Zarpe obbligatorio verso l'estero; consigliato isola→isola |
+| EU citizens ≤30 days | Passport + EASE pre-registration on ease.gov.cv, no visa |
+| Stay >30 days | Extension at local border police ⚠️ — |ne — procedures: (to be confirmed locally) |
+| Arrival by yacht | Clearance at Harbour Office + Police within 24h at first port of entry |
+| Departure | Zarpe mandatory for departure abroad; recommended island-to-island |
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026

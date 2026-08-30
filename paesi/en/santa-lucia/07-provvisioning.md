@@ -1,11 +1,11 @@
-# 07 — Provvisioning
+# 07 — Provisioning
 
 **Ultima verifica: 25/08/2026**
 
 ## Livello prezzi generale
 
 - Valuta: Dollaro dei Caraibi Orientali (XCD/E$, cambio fisso ~2,67 = 1 USD); contanti preferiti nei mercati (tagli piccoli), carte accettate nei supermercati. [stlucia.org](https://stlucia.org/en/blog/where-flavor-meets-culture-a-visit-to-castries-market/) 03/2026 ★★★★
-- Livello medio-caro sugli importati (distribuzione concentrata in poche catene), conveniente sul locale: frutta tropicale, pesce, spezie. Confronto diretto dei prezzi alimentari con la Martinica: **DATO MANCANTE**.
+- Livello medio-caro sugli importati (distribuzione concentrata in poche catene), conveniente sul locale: frutta tropicale, pesce, spezie. Confronto diretto dei prezzi alimentari con la Martinica: **DATA MISSING**.
 - Il carburante duty free rende l'isola una tappa classica di rifornimento prima della discesa alle Grenadine: nel 2019 diesel duty free ~0,92 USD/l contro ~1,60 USD/l a Le Marin ⚠️ prezzo da riverificare → [02 Costi](02-costi.md). Diario SV Meshugga 2019 ★★
 
 ## Supermercati
@@ -20,12 +20,12 @@
 | Massy Stores Rodney Heights | Rodney Heights | ~2 km | ✅ | +1 758 457 2000 | Secondo punto catena nel nord | shopsatrbm.com ★★★ |
 | Massy Stores Mega | Choc Estate, nord Castries | ~10 km | ❌ taxi/bus | — | Formato club/ingrosso: la scelta più ampia per grandi scorte | SSG ★★★ |
 
-- "Easy Shop" Rodney Bay citato da alcuni diportisti: non trovato online in questa sessione — **DATO MANCANTE**.
+- "Easy Shop" Rodney Bay citato da alcuni diportisti: non trovato online in questa sessione — **DATA MISSING**.
 - Ferramenta di diporto (Stanley's, Sunbuilt) lungo la Gros Islet Hwy vicino alla marina, utili per il tecnico accanto ai chandler. Diario di navigazione 2019 ★★
 
 ### Marigot Bay
 - Piccolo supermercato e food truck sulla collina sopra la baia (~10–15 min a piedi dal pontile): scorte limitate e prezzi da località resort. Recensioni Dockwa 2022 ★★
-- Nome/telefono del negozio locale: **DATO MANCANTE**.
+- Nome/telefono del negozio locale: **DATA MISSING**.
 - Comodo in taxi anche il Massy Stores Cul de Sac (~5 km), il punto catena più vicino lungo la costa. SSG ★★★
 
 ### Castries e sud
@@ -44,7 +44,7 @@
 
 | Servizio | Dove | Note |
 |---|---|---|
-| Water dock | IGY Rodney Bay (a contatore) · Marigot Bay (50 psi) | Tariffa/m³ **DATO MANCANTE** → [03](03-porti-ancoraggi.md) |
+| Water dock | IGY Rodney Bay (a contatore) · Marigot Bay (50 psi) | Tariffa/m³ **DATA MISSING** → [03](03-porti-ancoraggi.md) |
 | Fuel dock | IGY Rodney Bay (alta velocità, duty free) · Marigot Bay | Diesel duty free ~0,92 USD/l (2019 ⚠️ da riverificare) → [02 Costi](02-costi.md) |
 | Gas (GPL) | Riempimento bombole straniere a Rodney Bay (Suds Laundry) | Riempimento, non scambio all francese → [04 Servizi](04-servizi-cantieri.md) |
 
@@ -56,4 +56,4 @@
 - Taxi senza tassametro: pattuire la tariffa prima di salire; il bus locale è economicissimo (marina↔Castries ~EC$3,50, dato datato ★★).
 - Acqua in bottiglia: fare scorta prima delle traversate lunghe; nessun problema di potabilità segnalato alle banchine delle marine. ★★★
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

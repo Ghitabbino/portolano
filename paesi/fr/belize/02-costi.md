@@ -1,48 +1,48 @@
-# 02 — Costo della vita
+# 02 — Coût de la vie
 
-**Ultima verifica: 25/08/2026** · Cambio **fisso**: 1 USD = **2 BZ$**
+**Dernière vérification: 25/08/2026** · Cambio **fisso**: 1 USD = **2 BZ$**
 
-| Voce | Costo indicativo | Fonte/rank |
+| Rubrique | Coût indicativo | Source/rank |
 |---|---|---|
 | Permit Port Authority | BZ$240 / 30 gg (~US$120) | Old Belize ★★ |
-| Estensione immigrazione | BZ$25 / 30 gg per persona | Immigration ★★★★ |
-| Marina Belize City (Cucumber Beach, Radisson FG) | **DATO MANCANTE** — listini non pubblicati online | — |
+| Prolongation immigrazione | BZ$25 / 30 gg per persona | Immigration ★★★★ |
+| Marina Belize City (Cucumber Beach, Radisson FG) | **DONNÉE MANQUANTE** — listini non pubblicati online | — |
 | Ristoranti turistici cayes | piatti US$10–25 | osservazione generale ★ |
-| Supermercati (Belize City, San Pedro, Placencia) | livello caraibico-turistico: ~20-30% sopra USA per importati | ★★ |
+| Supermarchés (Belize City, San Pedro, Placencia) | livello caraibico-turistico: ~20-30% sopra USA per importati | ★★ |
 
 ## Pagamenti
 
 - USD accettati ovunque al cambio fisso; carte nei punti turistici; contante necessario
  nelle cayes e mercati ★★★
 
-Ultimo aggiornamento: 25/08/2026
+Dernière mise à jour: 25/08/2026
 
-## Alimentari
+## Alimentation
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Mangiare fuori
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## Carburanti
+## Restauration à terre
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Trasporti
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## Servizi quotidiani
+## Carburants
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## Contanti e pagamenti
+## Transports
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
+
+
+## Services quotidiens
+
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
+
+
+## Espèces & paiements
+
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 

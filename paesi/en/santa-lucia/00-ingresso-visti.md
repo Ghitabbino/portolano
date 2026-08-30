@@ -1,4 +1,4 @@
-# 00 — Ingresso, documenti e visti
+# 00 — Entry, documents & visas
 
 **Ultima verifica: 25/08/2026**
 
@@ -22,11 +22,11 @@ Nessun visto per i cittadini UE/italiani; soggiorno massimo **3 mesi**. L'estens
 
 ## E dopo i 3 mesi?
 
-Estensione in persona a Castries: **EC$100 per 21 giorni**, rinnovabile fino ai limiti consentiti. [Saint Lucia Tourism Authority](https://www.stlucia.org/en/plan-your-saint-lucia-trip/navigation-clearance) ★★★★★
+Extension in persona a Castries: **EC$100 per 21 giorni**, rinnovabile fino ai limiti consentiti. [Saint Lucia Tourism Authority](https://www.stlucia.org/en/plan-your-saint-lucia-trip/navigation-clearance) ★★★★★
 
 ## La barca
 
-| Voce | Costo | Note |
+| Item | Costo | Note |
 |---|---|---|
 | Ingresso tipico (orario normale) | ~EC$50 totali | Dettaglio: clearance EC$5 (&lt;40 ft)/EC$15 (&gt;40 ft); pratique EC$10 (&lt;100 GRT); navigational aids EC$15 |
 | Overtime | EC$10 sab/extra feriale · EC$15 dom/festivi | Minimo 3 h |
@@ -36,6 +36,6 @@ Estensione in persona a Castries: **EC$100 per 21 giorni**, rinnovabile fino ai 
 
 ## Vaccini
 
-Febbre gialla richiesta solo per arrivi da paesi a rischio (prassi regionale IHR). Fonte diretta dedicata: **DATO MANCANTE**.
+Febbre gialla richiesta solo per arrivi da paesi a rischio (prassi regionale IHR). Fonte diretta dedicata: **DATA MISSING**.
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

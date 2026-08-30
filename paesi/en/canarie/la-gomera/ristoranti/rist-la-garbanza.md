@@ -1,24 +1,24 @@
 # La Garbanza
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| Zona | Valle Gran Rey – Charco del Conde, 15 |
-| Cucina | 🥘 Canaria creativa |
-| Specialità | Prodotto locale rivisitato |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🏊 accanto piscina naturale |
-| Contatti | **922 805 456** |
-| Valutazioni |Instagram attivo ★★★★|
-| Orari | pranzo/cena |
+| Area | Valle Gran Rey – Charco of the Conde, 15 |
+| Cuisine | 🥘 Canaria creativa |
+| Speciality | Prodotto locale rivisitato |
+| Cost | 💰€€ for persona without bevande |
+| Setting | 🏊 accanto piscina naturale |
+| Contacts | **922 805 456** |
+| Ratings |Instagram attivo ★★★★|
+| Hours | pranzo/cena |
 
 ## Menu
 
-- Piatti del territorio
+- Piatti of the territorio
 
 **Chef**: ND
 
-**Note**: Zona bagno charco comoda
+**Note**: Area bagno charco comoda
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

@@ -1,6 +1,6 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026
 
 ## Ancoraggi
 
@@ -13,28 +13,28 @@ Ultimo aggiornamento: 22/08/2026
 
 Nessuna marina turistica: ancoraggio e pontili locali gestiti dalla capitania/porto pesca ⚠️.
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026
 
-## Tariffe
-## Distanze utili
-Ultimo aggiornamento: 22/08/2026
+## Tariffs
+## Useful Distances
+Last updated: 22/08/2026
 
-## Tariffe ormeggi e marine
+## Berthing & Marina Tariffs
 
-| Voce | Costo | Note |
+| Item | Cost | Notes |
 |---|---|---|
-| Posto pontile/peschereccio | **DATO MANCANTE** — concordare in capitania/porto | Nessun listino turistico pubblicato |
-| Boa | **DATO MANCANTE** | |
+| Posto pontile/peschereccio | **DATA MISSING** — concordare in capitania/porto | Nessun listino turistico pubblicato |
+| Boa | **DATA MISSING** | |
 | Ancoraggio | **Gratuito** fuori zone regolamentate | |
-| Acqua | **DATO MANCANTE** | Chiedere in porto |
-| Elettricità | **DATO MANCANTE** | |
+| Acqua | **DATA MISSING** | Chiedere in porto |
+| Elettricità | **DATA MISSING** | |
 
-## Distanze utili
+## Useful Distances
 
-| Tratta | Distanza | Note |
+| Passage | Distance | Note |
 |---|---|---|
 | Mindelo – Sal | ~110 Mm | Aliseo NE |
 | Praia – Fogo | ~30 Mm | |
 | Fogo – Brava | ~15 Mm | |
 
-Ultimo aggiornamento: 24/08/2026
+Last updated: 24/08/2026

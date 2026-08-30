@@ -1,13 +1,13 @@
-# 09 — Artigiani e negozi nautici
+# 09 — Artisans & Shipchandlers
 
-Hub indiscusso è **IGY Rodney Bay Marina**: cantiere a secco con travelift 75 t, chandlery, elettronici e meccanici operano dentro o attorno alla marina e nel village; a Marigot Bay non risultano artigiani nautici dedicati (**DATO MANCANTE** — chiedere all'ufficio marina Capella/Marigot Bay Yacht Haven). Per lavori importanti chiedere sempre **preventivo scritto** e confermare i tempi in alta stagione (dic–apr), quando il cantiere è saturo per l'hivernage ARC. Contatto tipico via telefono/WhatsApp; si parla inglese.
+Hub indiscusso è **IGY Rodney Bay Marina**: cantiere a secco con travelift 75 t, chandlery, elettronici e meccanici operano dentro o attorno alla marina e nel village; a Marigot Bay non risultano artigiani nautici dedicati (**DONNÉE MANQUANTE** — chiedere all'ufficio marina Capella/Marigot Bay Yacht Haven). Per lavori importanti chiedere sempre **preventivo scritto** e confermare i tempi in alta stagione (dic–apr), quando il cantiere è saturo per l'hivernage ARC. Contatto tipico via telefono/WhatsApp; si parla inglese.
 
 ## Cantiere e haul-out
 
-| Struttura | Dettaglio | Referente | Tel | Note | Recensioni |
+| Infrastructure | Détail | Referente | Tel | Note | Recensioni |
 |---|---|---|---|---|---|
 | **IGY Rodney Bay Boatyard** (in marina) | Travelift **75 t (max baglio 28 ft)**, dry storage, lavaggio, antifouling, osmosi, lucidatura, ripari vetroresina/gelcoat con tecnici certificati; fuel dock ad alta pressione | Yard Supervisor: Milton Mackenzie (mmckenzie@igymarinas.com) | +1 758 458 7200 | Pacchetti caretaking/hivernage con assicurazione dedicata; pit per chiglie profonde + cinghie; in uragano cat. 4–5 la marina può svuotare gli ormeggi | [Noonsite](https://www.noonsite.com/business/igy-rodney-bay-boatyard/) ★★★ · igymarinas.com ★★★★ |
-| Freelance/day workers del cantiere | Squadre di day-work (levigatura, verniciatura, pulizie) organizzate via ufficio tecnico marina | — | +1 758 458 7200 | Tariffe da concordare in capitainerie | elenco Shops at RBM ★★ |
+| Freelance/day workers del cantiere | Squadre di day-work (levigatura, verniciatura, pulizie) organizzate via ufficio tecnico marina | — | +1 758 458 7200 | Tarifs da concordare in capitainerie | elenco Shops at RBM ★★ |
 
 ## Tabella artigiani
 
@@ -28,16 +28,16 @@ Hub indiscusso è **IGY Rodney Bay Marina**: cantiere a secco con travelift 75 t
 
 > Nominativi da All At Sea (articolo "skilled marine craftsmen", 04/04/2024): dati verosimilmente ancora validi ma **riverificare telefono/orari al primo contatto**. Nessun contatto inventato.
 
-## Dove si trova cosa
+## Où trouver quoi
 
 - **Carenaggio/antivegetativa**: solo al **boatyard IGY** in laguna (travelift 75 t); nessun altro travelift commerciale noto sull'isola → prenotare con largo anticipo a marzo–giugno (raddobbi pre-hurricane). ★★★
 - **Motoristica**: IDS (Castries), Alwin Augustin (mobile), officine del boatyard. ★★★
 - **Elettronica/elettrico/frigo**: Regis Electronics + Marintek + Supply Tech. ★★★
 - **Vele/canvass**: Rodney Bay Sails e laboratori tessili presso Island Water World; vele nuove complete spesso più rapide da Martinica (Voilerie du Marin) o Antigua. ★★
 - **Inox/alluminio su misura**: Chinaman al boatyard. ★★★
-- **A Marigot Bay**: nessun artigiano dedicato verificato — **DATO MANCANTE**.
+- **A Marigot Bay**: nessun artigiano dedicato verificato — **DONNÉE MANQUANTE**.
 
-## Negozi di attrezzature e shipchandler
+## Magasins d’équipement & shipchandler
 
 | Negozio | Cosa trovi | Marchi notevoli | Tel | Sede & orari | Recensioni |
 |---|---|---|---|---|---|
@@ -47,11 +47,11 @@ Hub indiscusso è **IGY Rodney Bay Marina**: cantiere a secco con travelift 75 t
 | **KP Marine (St Lucia) Ltd** | Chandlery e forniture marine | — | +1 758 450 5564 | Willie Volney Drive, Edge Water, Gros Islet | Yachting Pages ★★ |
 | **The Marketplace / Massy Stores** (provvisionato, vedi [07](07-provvisioning.md)) | Supermercato marina + gourmet | — | +1 758 450 9993 / Massy 758 457 2226 | Shops at Rodney Bay Marina | elenco marina ★★★ |
 
-## Note pratiche
+## Notes pratiques
 
 - **Pagamenti**: carta accettata quasi ovunque nei negozi della marina; per i freelance contanti spesso gradito. Chiedere sempre ricevuta/fattura (utile per assicurazione). ★★
 - **Tempi ricambi**: ordinativi da USA/Europa = 1–3 settimane; alternativa rapida: Island Water World ha magazzini regionali (St. Maarten/Grenada) con trasferimenti intra-catena. ★★
 - **Hivernage/uragani**: contratto caretaking IGY + assicurazione è la prassi; il boatyard fornisce cradle e cinghie. Vedi [05 Meteo](05-stagionalita-meteo.md). ★★★
 - **VHF**: i mezzi mobili lavorano anche su canale 16 (es. "Dragon Fly"). ★★
 
-Ultimo aggiornamento: 25/08/2026
+Dernière mise à jour: 25/08/2026

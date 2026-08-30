@@ -1,6 +1,6 @@
-# 01 — Clearance doganale della barca
+# 01 — Formalités douanières
 
-**Ultima verifica: 22/08/2026** · Fonte principale: Cape Verdes ★★★
+**Dernière vérification: 22/08/2026** · Source principale: Cape Verdes ★★★
 
 ## Punto chiave
 
@@ -10,7 +10,7 @@
 - Clear-in consigliato a **Praia** (il porto d'ingresso del Sotavento): vedere paesi/cabo-verde/santiago/01-clearance.md.
 - Movimento interno: segnalarsi alla delegazione marittima a São Filipe; prassi informale ma obbligatoria.
 
-## Contatti
+## Contacts
 
 | Ufficio | Telefono |
 |---|---|
@@ -22,9 +22,9 @@
 2. A Fogo: ormeggiare (se il mare lo permette) al porto pesca di São Filipe o Vale de Cavaleiros e presentarsi alle autorità locali.
 3. Check-out finale solo nei porti ufficiali: pianificare il rientro a Praia prima della partenza dall'arcipelago.
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026
 
-## Chi deve farla
+## Qui doit effectuer les formalités
 ## Costi
-## Da verificare
-Ultimo aggiornamento: 22/08/2026
+## À vérifier
+Dernière mise à jour: 22/08/2026

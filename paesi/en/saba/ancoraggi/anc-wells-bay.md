@@ -1,4 +1,4 @@
-# Well's Bay — ancoraggio {#anc-wells-bay}
+# Well's Bay — anchorage {#anc-wells-bay}
 
 [← Tutti gli ancoraggi](../08-ancoraggi.md)
 **17°38.2′N 63°15.2′W**
@@ -16,4 +16,4 @@
 <div class="mapframe" data-slug="anc-wells-bay" data-lat="17.637" data-lon="-63.253"></div>
 *Mappa offline Well's Bay — zoom con i pulsanti +/−; menu in alto a destra per Carta nautica e Segnali*
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

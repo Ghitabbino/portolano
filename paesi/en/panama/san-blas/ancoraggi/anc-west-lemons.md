@@ -1,10 +1,10 @@
 # West Lemmons {#anc-west-lemons}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← All Anchorages](../08-ancoraggi.md)
 
 **9°33.0′N 78°57.5′W** ★★
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | **Profondità** |4–8 m su sabbia ★★|
 | **Tenuta àncora** | Ottima |
@@ -17,4 +17,4 @@
 <div class="mapframe" data-slug="anc-west-lemons" data-lat="9.538" data-lon="-78.699"></div>
 *Vista mappa West Lemmons · mappa offline*
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026

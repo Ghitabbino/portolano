@@ -1,17 +1,17 @@
 # Casa Rafa Restaurante de Mar
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | El Golfo (escursione ovest) |
-| Cucina | 🐟 Pesce alla lavica |
-| Specialità | Caldereta · cherne |
-| Costo | 💰€€€ per persona senza bevande |
-| Location | 🌋 fronte lago verde dei Clicos |
-| Contatti | [Google Maps](https://www.google.com/maps/search/?api=1&query=Casa+Rafa+Restaurante+de+Mar+El+Golfo) |
-| Valutazioni |TA ★★★★ (Travellers' Choice storica)|
-| Orari | pranzo; weekend affollato |
+| Zone | El Golfo (escursione ovest) |
+| Cuisine | 🐟 Pesce alla lavica |
+| Spécialité | Caldereta · cherne |
+| Coût | 💰€€€ per persona senza bevande |
+| Emplacement | 🌋 fronte lago verde dei Clicos |
+| Contacts | [Google Maps](https://www.google.com/maps/search/?api=1&query=Casa+Rafa+Restaurante+de+Mar+El+Golfo) |
+| Évaluations |TA ★★★★ (Travellers' Choice storica)|
+| Horaires | pranzo; weekend affollato |
 
 ## Menu
 
@@ -22,4 +22,4 @@
 
 **Note**: Icona dell'isola: valga il giro
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026

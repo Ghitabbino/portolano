@@ -1,6 +1,6 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
-**Ultimo aggiornamento: 23/08/2026**
+**Dernière mise à jour: 23/08/2026**
 
 
 | Marina | Note |
@@ -9,16 +9,16 @@
 | [Port de Marigot / Port La Royale](https://www.portdemarigot.com) | tel +590 590 87 54 03 ⚠️ ★★★ |
 | [Simpson Bay Marina (IGY)](https://www.igymarinas.com/marinas/simpson-bay-marina/) | [+1 721 545-5230](tel:+17215455230) · VHF 16/12 ★★★★ |
 | Anse Marcel Marine | cove riparata, clearance FR ★★★ |
-| Dock Maarten (Simpson Bay) | ⚠️ da verificare ★ |
+| Dock Maarten (Simpson Bay) | ⚠️ à vérifier ★ |
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026
 
-## Tariffe
+## Tarifs
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## Distanze utili
+## Distances utiles
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 

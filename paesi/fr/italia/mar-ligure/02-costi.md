@@ -1,62 +1,62 @@
-# 02 — Costo della vita
+# 02 — Coût de la vie
 
-**Ultimo aggiornamento: 27/08/2026** — Mar Ligure
+**Dernière mise à jour: 27/08/2026** — Mar Ligure
 
-Valuta: **euro (EUR)**. Livello prezzi: **DATO MANCANTE** per dettaglio zona — da verificare sul posto. Italia = UE, carte accettate quasi ovunque; contante utile nei borghi minori e mercati.
+Devise: **euro (EUR)**. Livello prezzi: **DONNÉE MANQUANTE** per dettaglio zona — à vérifier sul posto. Italia = UE, carte accettate quasi ovunque; contante utile nei borghi minori e mercati.
 
-> ⚠️ Le voci di questo elenco sono le stesse per tutti i paesi del portolano. Dove il dato non è stato ancora trovato dalle fonti si scrive **DATO MANCANTE**: viene ricercato al controllo mensile.
+> ⚠️ Le voci di questo elenco sono le stesse per tutti i paesi del portolano. Dove il dato non è stato ancora trovato dalle fonti si scrive **DONNÉE MANQUANTE**: viene ricercato al controllo mensile.
 
-## Alimentari e spesa di bordo
+## Alimentation & avitaillement
 
-| Voce | Prezzo indicativo | Note |
+| Rubrique | Prezzo indicativo | Note |
 |---|---|---|
-| Pane 1 kg | **DATO MANCANTE** | **DATO MANCANTE** |
-| Acqua imbottigliata 1,5 l | **DATO MANCANTE** | **DATO MANCANTE** |
-| Latte 1 l | **DATO MANCANTE** | **DATO MANCANTE** |
-| Birra locale 0,33 l | **DATO MANCANTE** | **DATO MANCANTE** |
-| Caffè al bancone | **DATO MANCANTE** | **DATO MANCANTE** |
+| Pane 1 kg | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Eau imbottigliata 1,5 l | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Latte 1 l | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Birra locale 0,33 l | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Caffè al bancone | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
 
-## Mangiare fuori (media)
+## Restauration à terre (moyenne)
 
-| Voce | Prezzo indicativo |
+| Rubrique | Prezzo indicativo |
 |---|---|
-| Trattoria locale | **DATO MANCANTE** |
-| Pizzeria | **DATO MANCANTE** |
-| Ristorante pesce fronte mare | **DATO MANCANTE** |
+| Trattoria locale | **DONNÉE MANQUANTE** |
+| Pizzeria | **DONNÉE MANQUANTE** |
+| Ristorante pesce fronte mare | **DONNÉE MANQUANTE** |
 
 Prezzi specifici per locale → [10 Ristoranti](10-ristoranti.md).
 
-## Carburanti (Mar Ligure)
+## Carburants (Mar Ligure)
 
-| Voce | Prezzo indicativo | Note |
+| Rubrique | Prezzo indicativo | Note |
 |---|---|---|
-| Gasolio banchina | **DATO MANCANTE** | Prezzi variabili per porto — verificare in loco |
-| Benzina SP95 | **DATO MANCANTE** | **DATO MANCANTE** |
-| Bombola gas (scambio) | **DATO MANCANTE** | **DATO MANCANTE** |
+| Gasolio banchina | **DONNÉE MANQUANTE** | Prezzi variabili per porto — verificare in loco |
+| Benzina SP95 | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Bombola gas (scambio) | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
 
-## Trasporti e collegamenti
+## Transports & liaisons
 
-| Voce | Prezzo indicativo | Note |
+| Rubrique | Prezzo indicativo | Note |
 |---|---|---|
-| Bus locale | **DATO MANCANTE** | **DATO MANCANTE** |
-| Taxi | **DATO MANCANTE** | **DATO MANCANTE** |
-| Noleggio auto giornaliero | **DATO MANCANTE** | **DATO MANCANTE** |
+| Bus locale | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Taxi | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| Noleggio auto giornaliero | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
 
-## Servizi quotidiani
+## Services quotidiens
 
-| Voce | Prezzo indicativo | Note |
+| Rubrique | Prezzo indicativo | Note |
 |---|---|---|
-| Lavanderia self-service | **DATO MANCANTE** | **DATO MANCANTE** |
-| SIM prepagata con dati | **DATO MANCANTE** | Operatori principali: TIM / Vodafone / WindTre |
-| Lavaggio scafo | **DATO MANCANTE** | **DATO MANCANTE** |
+| Lavanderia self-service | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
+| SIM prepagata con dati | **DONNÉE MANQUANTE** | Operatori principali: TIM / Vodafone / WindTre |
+| Lavaggio scafo | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
 
-## Contanti e pagamenti
+## Espèces & paiements
 
 Euro, POS diffuso. Bancomat nei capoluoghi e borghi maggiori. Nei porticcioli minori tenere contante.
 
-## Approfondimenti
+## Pour approfondir
 
-- Tariffe marine e boe → [03 Porti e marine](03-porti-ancoraggi.md)
+- Tarifs marine e boe → [03 Porti e marine](03-porti-ancoraggi.md)
 - Ristoranti con prezzi specifici → [10 Ristoranti](10-ristoranti.md)
 
-Ultimo aggiornamento: 27/08/2026
+Dernière mise à jour: 27/08/2026

@@ -1,18 +1,18 @@
 # Guachinche El Cañonazo
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All restaurants](../10-ristoranti.md)
 **28°27′54″ N 16°15′04″ W**
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| **Costo** |**DATO MANCANTE**|
-| **Cucina** |**DATO MANCANTE**|
-| **Specialità** |**DATO MANCANTE**|
-| **Location** |**DATO MANCANTE**|
+| **Cost** |**DATA MISSING**|
+| **Cuisine** |**DATA MISSING**|
+| **Speciality** |**DATA MISSING**|
+| **Setting** |**DATA MISSING**|
 
 <div class="mapframe" data-slug="rist-guachinche-el-canonazo-2" data-lat="28.4651" data-lon="-16.2511"></div>
-*Cartina di dettaglio: posizione a terra rispetto alla barca · zoom ±*
+*Cartina of dettaglio: posizione a terra rispetto at the barca · zoom ±*
 
-Fonti: **DATO MANCANTE**
+Fonti: **DATA MISSING**
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

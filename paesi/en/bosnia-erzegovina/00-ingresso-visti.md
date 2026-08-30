@@ -1,42 +1,42 @@
-# 00 — Ingresso, documenti e visti
+# 00 — Entry, Documents & Visas
 
-**Ultima verifica: 27/08/2026**
+**Last checked: 27/08/2026**
 
 ## Status
 
-La Bosnia-Erzegovina è uno **Stato extra-UE**, **fuori dall'area Schengen**. Valuta: **marco bosniaco convertibile (BAM)**.
+La Bosnia-Erzegovina è uno **Non-EU State**, **outside the Schengen Area**. Currency: **marco bosniaco convertibile (BAM)**.
 
-## Cittadini UE — nessun visto (principio generale)
+## EU Citizens — Visa-Free (General Rule)
 
-| Voce | Regola | Fonte |
+| Item | Rule | Source |
 |---|---|---|
-| Visto | **DATO MANCANTE** — verificare durata soggiorno senza visto per cittadini UE su fonte governativa bosnia-erzegovina | **DATO MANCANTE** |
-| Documenti | **DATO MANCANTE** — carta d'identità/passaporto: verificare requisiti esatti su exterior.gob.es / inclusion.gob.es | **DATO MANCANTE** |
-| Soggiorno | **DATO MANCANTE** | **DATO MANCANTE** |
+| Visa | **DATA MISSING** — verificare durata soggiorno senza visto per cittadini UE su fonte governativa bosnia-erzegovina | **DATA MISSING** |
+| Documents | **DATA MISSING** — ID card/passport: check exact requirements on exterior.gob.es / inclusion.gob.es | **DATA MISSING** |
+| Stay | **DATA MISSING** | **DATA MISSING** |
 
-> Dettagli su visti, documenti richiesti e modelli da compilare: **DATO MANCANTE** — da verificare su fonte governativa bosnia-erzegovina ★★★★★ prima della partenza.
+> Details on visas, required documents and forms to complete: **DATA MISSING** — to be verified on fonte governativa bosnia-erzegovina ★★★★★ before departure.
 
-## Nota importante per chi arriva via mare
+## Important Note for Arrival by Sea
 
-- Controlli persone e **clearance della barca** sono procedure separate → vedi [01 — Clearance doganale della barca](01-clearance.md).
-- **DATO MANCANTE** su procedure specifiche di ingresso via mare per diportisti in Bosnia-Erzegovina.
+- Personal checks and **yacht clearance** are separate procedures → see [01 — Yacht Customs Clearance](01-clearance.md).
+- **DATA MISSING** su procedure specifiche di ingresso via mare per diportisti in Bosnia-Erzegovina.
 
-## E dopo i 3 mesi? (cittadini italiani/UE)
+## Beyond 3 Months? (Italian/EU Citizens)
 
-| Situazione | Regola | Fonte |
+| Situation | Rule | Source |
 |---|---|---|
-| Soggiorno oltre 3 mesi | **DATO MANCANTE** | **DATO MANCANTE** |
-| Quota Schengen 90/180 | **DATO MANCANTE** | **DATO MANCANTE** |
+| Stay beyond 3 months | **DATA MISSING** | **DATA MISSING** |
+| Schengen 90/180 Allowance | **DATA MISSING** | **DATA MISSING** |
 
-## La barca: permanenza
+## The Yacht: Length of Stay
 
-| Barca | Regola | Fonte |
+| Yacht | Rule | Source |
 |---|---|---|
-| **UE con IVA pagata** | **DATO MANCANTE** — libera circolazione in UE, verificare dettagli doganali Bosnia-Erzegovina | **DATO MANCANTE** |
-| Extra-UE | **DATO MANCANTE** — verificare regime ammissione temporanea Bosnia-Erzegovina/UE | **DATO MANCANTE** |
+| **EU VAT-paid** | **DATA MISSING** — libera circolazione in UE, verificare dettagli doganali Bosnia-Erzegovina | **DATA MISSING** |
+| Non-EU | **DATA MISSING** — verificare regime ammissione temporanea Bosnia-Erzegovina/UE | **DATA MISSING** |
 
-## Vaccini
+## Vaccinations
 
-**DATO MANCANTE** — verificare su viaggiareinsicurezza.it / exterior.gob.es.
+**DATA MISSING** — check viaggiareinsicurezza.it / exterior.gob.es.
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

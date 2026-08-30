@@ -18,4 +18,4 @@
 
 Fonti: [Waterway Guide 2-1306](https://www.waterwayguide.com/anchorage/2-1306/cockburn-town-grand-turk) ★★★ · safetyanchoralarm.com ★★ · gov.tc DECR (Columbus Park) ★★★★
 
-Ultimo aggiornamento: 28/08/2026
+Last updated: 28/08/2026

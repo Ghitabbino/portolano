@@ -1,4 +1,4 @@
-# 08 — Ancoraggi
+# 08 — Anchorages
 
 ## Ancoraggi in dettaglio
 
@@ -9,29 +9,29 @@
 
 
 
-**Ultimo aggiornamento: 23/08/2026**
+**Last updated: 23/08/2026**
 
 
 Solo **boe del Saba Marine Park** (max 66 ft / 50 t, max 7 gg): Fort Bay, Well's Bay (stagionale, costa ovest), Ladder Bay. Ancoraggio vietato fuori. Costa senza spiagge: sbarco in dinghy al pier. ⚠️ Approcci solo con mare calmo — [Sabapark](https://sabapark.org/yachting-mooring/) ★★★★
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026
 
 ## Regole generali
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
 ## Tabella riassuntiva
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
 ## Cartografia ufficiale
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
 ## Checklist àncora
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 

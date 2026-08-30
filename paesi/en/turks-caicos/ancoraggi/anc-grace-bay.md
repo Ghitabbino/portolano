@@ -18,4 +18,4 @@
 
 Fonti: safetyanchoralarm.com ★★ · [visittci.com/about/national-parks](https://visittci.com/about/national-parks) (rev. 14/08/2026) ★★★ · gov.tc DECR Essential Info ★★★★ · National Parks Ordinance Schedule II ★★★★★
 
-Ultimo aggiornamento: 28/08/2026
+Last updated: 28/08/2026

@@ -1,57 +1,41 @@
-# Chi siamo
+# About Us
 
-**SailTropics** is an **independent, collaborative, non-profit** pilot book,
+**SailTropics** is an **independent, collaborative, non-profit** nautical pilot —
 community-driven, made **by sailors for sailors**.
 
-Nasce come quaderno di bordo condiviso: le informazioni che ci piacerebbe trovare
-quando entriamo in una rada nuova, scritte da chi ci è passato davvero.
+It began as a shared logbook: the information we’d like to find when we enter a new roadstead, written by those who have actually been there.
 
-## Cosa trovi
+## What You'll Find
 
-Ingresso e visti · clearance doganale · costi della vita · porti e ancoraggi ·
-servizi e cantieri · stagionalità e meteo · sicurezza · provvisioning ·
-portolano degli ancoraggi con mappe · artigiani nautici · ristoranti.
+Entry, Documents & Visas · Yacht Customs Clearance · Cost of Living · Ports & Marinas ·
+Services, Boatyards & Maintenance · Seasonality & Weather · Safety & Security · Provisioning ·
+Anchorage Pilot with charts · Marine Trades & Chandlers · Restaurants.
 
-Ogni paese segue lo stesso schema, per confrontare mele con mele.
+Every country follows the same layout, for a like-for-like comparison.
 
-## Come lavoriamo
+## How We Work
 
-- **Fonti classificate**: ogni informazione porta rank di attendibilità ★★★★★ (fonte
- governativa ufficiale) fino a ★ (voce di banchina), con data di verifica.
-- **Revisione periodica**: controllo mensile programmatico + verifica critica automatica
- sugli aspetti che contano (sicurezza, meteo, visti, tariffe, regolamenti).
-- **Mai dati inventati**: se qualcosa non è verificato, leggi *DATO MANCANTE*.
- È la nostra promessa più importante.
-- **Conflitti dichiarati**: quando le fonti si contraddicono, ti mostriamo entrambe
- le versioni con le fonti, non scegliamo noi al posto tuo.
+- **Ranked sources**: every item carries a reliability rank ★★★★★ (official government source) down to ★ (dockside rumour), with verification date.
+- **Periodic review**: scheduled monthly check + automatic critical verification on what matters (safety, weather, visas, tariffs, regulations).
+- **Never invented**: if something is not verified, you’ll read *DATA MISSING*. That is our most important promise.
+- **Conflicts disclosed**: when sources contradict each other, we show you both versions with sources — we don’t choose for you.
 
-## Non è un sito commerciale
+## Not a Commercial Site
 
-Nessuna prenotazione, nessuna pubblicità, nessun tracciamento, nessun profitto.
-Solo conoscenza condivisa tra chi va in mare.
+No bookings, no adverts, no tracking, no profit. Just shared knowledge among people who go to sea.
 
-## © Licenza libera
+## © Open Licence
 
-Tutti i contenuti **originali** di SailTropics (testi, schemi, tabelle) sono liberamente
-condivisibili: puoi copiarli, riutilizzarli e adattarli **a fini non commerciali**, con
-una semplice attribuzione ("SailTropics"). Le fonti esterne citate (Noonsite, Waterway
-Guide, siti governativi e altri) restano proprietà dei rispettivi autori: a noi
-riportiamo **solo il riferimento e il giudizio di affidabilità**, mai il testo altrui.
+All **original** SailTropics content (texts, tables, layouts) is free to share: you may copy, reuse and adapt it **for non-commercial purposes**, with simple attribution (“SailTropics”). External sources cited (Noonsite, Waterway Guide, government sites and others) remain the property of their respective authors: we report **only the reference and reliability rating**, never the third-party text.
 
-## ⚠️ Responsabilità
+## ⚠️ Disclaimer
 
-Le informazioni e le coordinate sono **indicative**: possono essere imprecise, superate
-o errate e non sostituiscono la cartografia ufficiale, le guide ufficiali né il controllo
-diretto in loco. Ancoraggi, accessi, regolamenti e condizioni del mare vanno sempre
-verificati dal Comandante prima e durante la navigazione.
-**Ogni decisione e responsabilità è esclusivamente del Comandante.**
-Gli autori non assumono alcuna responsabilità per danni, perdite, sanzioni o incidenti
-derivanti dall'uso di questi contenuti.
+Information and coordinates are **indicative**: they may be inaccurate, outdated or wrong and do not replace official charts, official pilots or direct verification on site. Anchorages, approaches, regulations and sea conditions must always be verified by the Skipper before and during the passage.
+**Every decision and responsibility rests solely with the Skipper.**
+The authors accept no liability for damage, loss, penalties or incidents arising from the use of this content.
 
-## 📴 Senza internet
+## 📴 Offline
 
-Dal menu laterale puoi scaricare il portolano completo di mappe offline in un file ZIP
-per oceano. Scaricalo prima della partenza, estrailo sul dispositivo e apri `index.html`:
-funziona completamente senza connessione.
+From the side menu you can download the complete pilot with offline charts as a ZIP per ocean. Download it before departure, unzip it on your device and open `index.html`: it works entirely offline.
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

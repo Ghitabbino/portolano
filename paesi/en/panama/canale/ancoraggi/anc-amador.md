@@ -1,9 +1,9 @@
 # Amador/Causeway {#anc-amador}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← All Anchorages](../08-ancoraggi.md)
 **8°54.7′N 79°31.8′W** ★★
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | **Profondità** |Boe Balboa YC 3–6 m; àncora consentita est della diga su fango ★★★|
 | **Tenuta àncora** | Buona |
@@ -16,4 +16,4 @@
 <div class="mapframe" data-slug="anc-amador" data-lat="8.912" data-lon="-79.530"></div>
 *Vista mappa Amador/Causeway · mappa offline*
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026

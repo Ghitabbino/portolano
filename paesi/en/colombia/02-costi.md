@@ -1,41 +1,41 @@
-# 02 — Costo della vita
+# 02 — Cost of Living
 
-**Ultima verifica: 28/08/2026** — *Scheda in completamento densità Martinica*
+**Last checked: 28/08/2026** — *Scheda in completamento densità Martinica*
 
-| Voce | Prezzo indicativo | Fonte |
+| Item | Price indicativo | Source |
 |---|---|---|
-| **DATO MANCANTE** | **DATO MANCANTE** — costi Colombia da verificare con fonti locali | **DATO MANCANTE** |
+| **DATA MISSING** | **DATA MISSING** — costi Colombia from check with fonti locali | **DATA MISSING** |
 
-> Dati in raccolta — vedi [07 Provvisioning](07-provvisioning.md) e [10 Ristoranti](10-ristoranti.md) per dettagli locali una volta completati.
+> Dati in raccolta — vedi [07 Provvisioning](07-provvisioning.md) and [10 Ristoranti](10-ristoranti.md) for dettagli locali una volta completati.
 
-Ultimo aggiornamento: 28/08/2026
+Last updated: 28/08/2026
 
-## Alimentari
+## Groceries
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Mangiare fuori
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## Carburanti
+## Eating Out
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Trasporti
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## Servizi quotidiani
+## Fuel
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## Contanti e pagamenti
+## Transport
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
+
+
+## Everyday Services
+
+**DATA MISSING** — to be completed at the monthly check.
+
+
+## Cash & Payments
+
+**DATA MISSING** — to be completed at the monthly check.
 

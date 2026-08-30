@@ -1,12 +1,12 @@
-# 02 — Costo della vita
+# 02 — Cost of Living
 
-**Ultima verifica: 25/08/2026** · Cambio **fisso**: 1 USD = **2 BZ$**
+**Last checked: 25/08/2026** · Cambio **fisso**: 1 USD = **2 BZ$**
 
-| Voce | Costo indicativo | Fonte/rank |
+| Item | Costo indicativo | Fonte/rank |
 |---|---|---|
 | Permit Port Authority | BZ$240 / 30 gg (~US$120) | Old Belize ★★ |
-| Estensione immigrazione | BZ$25 / 30 gg per persona | Immigration ★★★★ |
-| Marina Belize City (Cucumber Beach, Radisson FG) | **DATO MANCANTE** — listini non pubblicati online | — |
+| Extension immigrazione | BZ$25 / 30 gg per persona | Immigration ★★★★ |
+| Marina Belize City (Cucumber Beach, Radisson FG) | **DATA MISSING** — listini non pubblicati online | — |
 | Ristoranti turistici cayes | piatti US$10–25 | osservazione generale ★ |
 | Supermercati (Belize City, San Pedro, Placencia) | livello caraibico-turistico: ~20-30% sopra USA per importati | ★★ |
 
@@ -15,34 +15,34 @@
 - USD accettati ovunque al cambio fisso; carte nei punti turistici; contante necessario
  nelle cayes e mercati ★★★
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026
 
 ## Alimentari
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## Mangiare fuori
+## Eating Out
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Carburanti
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## Trasporti
+## Fuel
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Servizi quotidiani
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## Contanti e pagamenti
+## Transport
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
+
+
+## Everyday Services
+
+**DATA MISSING** — to be completed at the monthly check.
+
+
+## Cash & Payments
+
+**DATA MISSING** — to be completed at the monthly check.
 

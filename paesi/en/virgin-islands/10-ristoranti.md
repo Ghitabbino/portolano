@@ -1,4 +1,4 @@
-# 10 — Ristoranti
+# 10 — Restaurants
 
 ## Griglia generale
 

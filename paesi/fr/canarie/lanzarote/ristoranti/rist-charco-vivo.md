@@ -1,17 +1,17 @@
 # Charco Vivo
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Arrecife – Charco |
-| Cucina | 🔥 Grill canaria |
-| Specialità | Parrillada · bocadillos de pescado |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🌿 terrazza marinara |
-| Contatti | [Google Maps](https://www.google.com/maps/search/?api=1&query=Charco+Vivo+Arrecife) |
-| Valutazioni |sito ★★★★|
-| Orari | lun–sab 12:30-16:30 |
+| Zone | Arrecife – Charco |
+| Cuisine | 🔥 Grill canaria |
+| Spécialité | Parrillada · bocadillos de pescado |
+| Coût | 💰€€ per persona senza bevande |
+| Emplacement | 🌿 terrazza marinara |
+| Contacts | [Google Maps](https://www.google.com/maps/search/?api=1&query=Charco+Vivo+Arrecife) |
+| Évaluations |sito ★★★★|
+| Horaires | lun–sab 12:30-16:30 |
 
 ## Menu
 
@@ -19,6 +19,6 @@
 
 **Chef**: ND
 
-**Note**: Cucina onesta di prodotto
+**Note**: Cuisine onesta di prodotto
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026

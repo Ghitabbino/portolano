@@ -1,13 +1,13 @@
 # Aquarius
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | Zona | Renaissance Marina |
 | Cucina | 🐟 Contemporanea caraibica con tocchi internazionali |
 | Specialità | Ceviche · pesce del giorno · grill |
-| Costo | 💰€€€ per persona senza bevande |
+| Costo | 💰€€€ per person without drinks |
 | Location | ⚓ marina, vista harbour |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Aquarius+Restaurant+Renaissance+Marina+Aruba) |
 | Contatti | L.G. Smith Blvd 82, Renaissance Marina Hotel, Oranjestad |

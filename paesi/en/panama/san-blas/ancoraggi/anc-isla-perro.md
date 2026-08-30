@@ -1,10 +1,10 @@
 # Isla Perro {#anc-isla-perro}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← All Anchorages](../08-ancoraggi.md)
 
 **9°35.5′N 78°52.1′W** ★★
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | **Profondità** |3–7 m ★★|
 | **Tenuta àncora** | Buona |
@@ -17,4 +17,4 @@
 <div class="mapframe" data-slug="anc-isla-perro" data-lat="9.564" data-lon="-78.842"></div>
 *Vista mappa Isla Perro · mappa offline*
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026

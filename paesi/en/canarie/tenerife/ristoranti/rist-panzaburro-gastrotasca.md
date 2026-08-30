@@ -1,25 +1,25 @@
 # Panzaburro Gastrotasca
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| Zona | Santa Cruz – García Sanabria |
-| Cucina | 🥗 Creativa orto-biologica |
-| Specialità | Croquetas de cochino negro |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🌿 tasca con giardino |
-| Contatti | [Google Maps](https://www.google.com/maps/search/?api=1&query=Panzaburro+Gastrotasca+Santa+Cruz+de+Tenerife) |
-| Valutazioni |Guide ★★★★½|
-| Orari | mar–sab; chiuso lun–dom |
+| Area | Santa Cruz – García Sanabria |
+| Cuisine | 🥗 Creativa orto-biologica |
+| Speciality | Croquetas de cochino negro |
+| Cost | 💰€€ for persona without bevande |
+| Setting | 🌿 tasca with giardino |
+| Contacts | [Google Maps](https://www.google.com/maps/search/?api=1&query=Panzaburro+Gastrotasca+Santa+Cruz+de+Tenerife) |
+| Ratings |Guide ★★★★½|
+| Hours | mar–sab; chiuso lun–dom |
 
 ## Menu
 
-- Carne del giorno
+- Carne of the giorno
 - Postre artigianale
 
 **Chef**: ND
 
-**Note**: Orto biologico proprio
+**Note**: Orto biologico own
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

@@ -1,47 +1,46 @@
-# 08 — Ancoraggi
+# 08 — Anchorage Pilot
 
-## Ancoraggi in dettaglio
+## Anchorages in Detail
 
-| # | Ancoraggio | Riparo | Fondo | Prof. | Boe |
+| # | Anchorage | Shelter | Seabed | Depth | Moorings |
 |---|---|---|---|---|---|
-| 1 | [Road Bay (Sandy Ground)](ancoraggi/anc-road-bay.md) | ★★★ | Sabbia morbida | 3–5 m | No |
-| 2 | [Crocus Bay](ancoraggi/anc-crocus-bay.md) | ★★★ | Sabbia | 4–7 m | Boe obbligatorie a Little Bay ⚠️ |
+| 1 | [Road Bay (Sandy Ground)](ancoraggi/anc-road-bay.md) | ★★★ | Soft sand | 3–5 m | None |
+| 2 | [Crocus Bay](ancoraggi/anc-crocus-bay.md) | ★★★ | Sand | 4–7 m | Moorings mandatory at Little Bay ⚠️ |
 
 <div class="mapframe" data-lat="18.21" data-lon="-63.08" data-markers='[[18.19930,-63.09438,"Road Bay (Sandy Ground)","anc-road-bay"],[18.2200,-63.0700,"Crocus Bay","anc-crocus-bay"]]' data-zoom="12"></div>
-*Cartina generale — clicca l'àncora gialla per aprire la scheda di dettaglio · zoom fino alla baia*
+*General chart — click the yellow anchor to open the detail sheet · zoom to the bay*
 
-**Ultimo aggiornamento: 23/08/2026**
+**Last updated: 23/08/2026**
 
 
-| Ancoraggio | Protezione | Note |
+| Anchorage | Shelter | Notes |
 |---|---|---|
-| **Road Bay / Sandy Ground** | Buona con SE–S | Unico porto d'ingresso; beach bar sul mare ★★★★ |
-| **Crocus Bay** | Buona con NE | Acque turchesi, scogliere; snorkel — [12knots](https://12knots.com/en/itineraries/st-martin/st-barth-7-days) ★★★★ |
-| Little Bay (da Crocus) | Ottima | Piscina naturale, accesso in dinghy/kayak ★★★ |
-| Shoal Bay East | Esposta | Barriera famosa; fermarsi solo con mare calmo ★★ |
+| **Road Bay / Sandy Ground** | Good in SE–S | Only port of entry; waterfront beach bars ★★★★ |
+| **Crocus Bay** | Good in NE | Turquoise water, cliffs; snorkelling — [12knots](https://12knots.com/en/itineraries/st-martin/st-barth-7-days) ★★★★ |
+| Little Bay (from Crocus) | Excellent | Natural pool, dinghy/kayak access ★★★ |
+| Shoal Bay East | Exposed | Famous reef; stop only in calm seas ★★ |
 
-⚠️ Costa nord esposta all'aliseo: ancoraggi nord solo con finestre di mare calmo ★★★
+⚠️ North coast exposed to the trades: northern anchorages only in calm-weather windows ★★★
 
-Distanze: St-Martin–Anguilla ~12 km S (Crocus–Marigot 17 nm via St-Barth? no: diretto ~8 nm) ⚠️ verificare
+Distances: St-Martin–Anguilla ~12 km S (Crocus–Marigot 17 nm via St-Barth? no: direct ~8 nm) ⚠️ to be verified
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026
 
-## Regole generali
+## General Rules
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Tabella riassuntiva
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## Cartografia ufficiale
+## Summary Table
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## Checklist àncora
+## Official Charts
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
+
+## Anchor Checklist
+
+**DATA MISSING** — to be completed at the monthly check.

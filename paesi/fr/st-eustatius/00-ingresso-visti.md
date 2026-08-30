@@ -1,16 +1,16 @@
-# 00 — Ingresso, documenti e visti
+# 00 — Entrée, Documents & Visas
 
-**Ultima verifica: 25/08/2026**
+**Dernière vérification: 25/08/2026**
 
-## Status (cittadini UE/italiani)
+## Statut (cittadini UE/italiani)
 
 Municipalità speciale olandese caraibica (gruppo BES), stessa disciplina di Saba: valgono le regole del Regno dei Paesi Bassi.
 
-## Cittadini UE — nessun visto, ~90 giorni
+## Citoyens UE — pas de visa, ~90 giorni
 
-Cittadini UE esenti visto secondo le liste ufficiali: soggiorno turistico di circa 90 giorni con passaporto valido. [statiagovernment.com](https://www.statiagovernment.com/units-directorates/directorate-of-transport/harbour) ★★★★★ · statia-tourism.com ★★★
+Citoyens UE esenti visto secondo le liste ufficiali: soggiorno turistico di circa 90 giorni con passaporto valido. [statiagovernment.com](https://www.statiagovernment.com/units-directorates/directorate-of-transport/harbour) ★★★★★ · statia-tourism.com ★★★
 
-## Nota importante per chi arriva via mare
+## Note importante pour l’arrivée par mer
 
 - Unico ancoraggio: **Oranje Baai** davanti a Oranjestad. Avvicinamento solo di giorno; rispettare la zona di esclusione accanto al terminale petrolifero. All At Sea ★★★
 - Dogana e Immigrazione all'Harbour Office (VHF 14): lun–ven 8:00–16:00, weekend 8:00–11:00 (pratica reale ~9:30–15:30). L'uscita può essere anticipata fino a 24 h prima della partenza. [Noonsite](https://www.noonsite.com/place/statia/) ★★★
@@ -19,20 +19,20 @@ Cittadini UE esenti visto secondo le liste ufficiali: soggiorno turistico di cir
 
 ## E dopo i 90 giorni?
 
-Procedura di estensione del soggiorno: **DATO MANCANTE**.
+Procédure di estensione del soggiorno: **DONNÉE MANQUANTE**.
 
-## La barca
+## Le bateau
 
 Dogana e immigrazione **non costano nulla**. Si pagano soltanto:
 
-| Voce | Costo |
+| Rubrique | Coût |
 |---|---|
 | Port tax + fee Marine Park | US$10/notte oppure US$30/settimana (ancoraggio o boa) |
 
-Importazione temporanea per barche extra-UE: **DATO MANCANTE**. Fonti: Noonsite ★★★ · All At Sea ★★★
+Importazione temporanea per barche extra-UE: **DONNÉE MANQUANTE**. Fonti: Noonsite ★★★ · All At Sea ★★★
 
-## Vaccini
+## Vaccins
 
-Nessun vaccino obbligatorio per chi arriva dall'Europa; febbre gialla solo da paesi a rischio (regola generale confermata per il gruppo BES). Fonte sanitaria primaria dedicata: **DATO MANCANTE**.
+Nessun vaccino obbligatorio per chi arriva dall'Europa; febbre gialla solo da paesi a rischio (regola generale confermata per il gruppo BES). Source sanitaria primaria dedicata: **DONNÉE MANQUANTE**.
 
-Ultimo aggiornamento: 25/08/2026
+Dernière mise à jour: 25/08/2026

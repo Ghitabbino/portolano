@@ -1,13 +1,13 @@
-# 01 — Clearance doganale della barca
+# 01 — Yacht Customs Clearance
 
-## Chi deve farla
+## Who Must Clear
 
 | Chi | Obbligo |
 |---|---|
 | Tutte le barche straniere | Entro **72 h** dall'arrivo: Migración (persone) + Capitaneria/AMP (barca) + Permiso de Navegación oltre 3 giorni |
 | Chi vuole transitare il Canale | In più: registrazione PCA (Panama Canal Authority), admeasuring, agente/transit advisor |
 
-## Procedura online
+## Procedure online
 
 | Passo | Dettaglio |
 |---|---|
@@ -28,15 +28,15 @@
 | 6. Attrezzatura | 4 cime lunghe ≥38 m (125'), 8 parabordi grandi (gusci noleggiabili a Shelter Bay/Flamenco) |
 | Durata tipica | 1–2 giorni; notte possibile in lago Gatún ancorati |
 
-## Costi
+## Fees
 
-| Voce | Dato |
+| Item | Data |
 |---|---|
 | Pedaggi yacht ≤19,8 m (65 ft) | Toll fisso ~**US$1.935 (dic 2024) → ~US$2.130 (2025)**; struttura congelata fino a 30/09/2026; fascia 65–80 ft più alta | [ACP Maritime Tariff](https://pancanal.com/en/maritime-services/maritime-tariff/) ★★★★ |
 | Deposito cauzionale ("buffer") | **US$988 rimborsabile** se nessuna infrazione/danno; rimborso in poche settimane | [Guida agenti 2026](https://www.adimarships.com/panama-canal-transit-for-yachts-the-complete-2026-captains-guide/) ★★★ |
 | Agenzia locale (opzionale ma comune) |~US$350–500 gestisce carta, slot, advisor, noleggio attrezzatura ★★|
 
-## Copia cartacea timbrata
+## Paper Copy & Stamp
 
 Conservare: zarpe d'ingresso, timbri passaporti, Permiso de Navegación, ricevute PCA — richiesti a ogni capitaneria e all'uscita.
 
@@ -49,24 +49,24 @@ Conservare: zarpe d'ingresso, timbri passaporti, Permiso de Navegación, ricevut
 | AMP (Permiso) | Colón (Atlantico) · Diablo (Pacifico) |
 | PCA Admeasuring | Cristóbal (Atlantico) · Balboa (Pacifico) |
 
-## Esperienze dei crocieristi
+## Cruisers' Experiences
 
 | Fonte | Sintesi |
 |---|---|
 | Fonti diportiste aggregate ★★★ 2024–2025 | Succursali comode ma limitate: per visti lunghi serve l'ufficio principale; agenti accelerano tutto |
 | Forum ★★ | Transito piccolo ben organizzato; prenotare con settimane di anticipo in alta stagione (gen–apr) |
 
-## Sanzioni
+## Penalties
 
 | Violazione | Sanzione |
 |---|---|
 | Nessun timbro entro 72 h |Fino a US$1.000/persona ★★★|
 | Barca senza Permiso >3 giorni | Multa AMP + obbligo regolarizzazione |
 
-## Da verificare prima della crociera
+## To Verify Before Your Cruise
 
 - Tariffa PCA aggiornata e depositi → [Maritime Tariff ACP](https://pancanal.com/en/maritime-services/maritime-tariff/) (toll <65 ft ~US$2.130 '25, congelato FY2026) ★★★★
-- Tempi medi attuali per lo slot (variabili con congestione siccità 2024–25)
+- Current average times for the slot (variables with drought congestion 2024–25)
 - Disponibilità noleggio cime/parabordi a Shelter Bay e Flamenco
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026

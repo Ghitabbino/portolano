@@ -1,10 +1,10 @@
-# 05 — Stagionalità e meteo
+# 05 — Seasonality & Weather
 
-## Clima
+## Climate
 
 Tropicale umido, 26–31 °C; più ventilato delle Antille grazie agli alisei costanti.
 
-## Stagioni
+## Seasons
 
 | Periodo | Regime |
 |---|---|
@@ -12,7 +12,7 @@ Tropicale umido, 26–31 °C; più ventilato delle Antille grazie agli alisei co
 | Mag–ago | Alisei attenuati, raffiche pomeridiane, buona finestra per il swell assente |
 | Set–nov | Più variabile: calma di vento + forti raffiche temporalesche; mare spesso piatto |
 
-## Uragani
+## Hurricanes
 
 Zona fuori fascia (<10°N): rischio diretto quasi nullo; solo onde residue da sistemi caraibici settentrionali.
 
@@ -21,7 +21,7 @@ Zona fuori fascia (<10°N): rischio diretto quasi nullo; solo onde residue da si
 > metà ottobre). Rischio principale residuo: rovesci eccessivi e alluvioni flash.
 > Fonti: noaa.gov ★★★★★, rcc.cimh.edu.bb ★★★★.
 
-## Venti locali
+## Local Winds
 
 | Vento | Effetto |
 |---|---|
@@ -32,12 +32,12 @@ Zona fuori fascia (<10°N): rischio diretto quasi nullo; solo onde residue da si
 
 Swell nord occasionale dic–mar entra nelle baie esposte a N (Holandeses nord): spostarsi sul lato sud delle isole.
 
-## Finestre tipiche
+## Typical Weather Windows
 
 - Migliori mesi crociera: **dic–apr** (vento forte ma stabile) o **giu–set** (meno vento, più raffiche)
 - Attraversata verso Cartagena: idealmente mar–lug con alisei moderati
 
-## Link meteo e carte
+## Weather Links e carte
 
 | Fonte | Uso |
 |---|---|
@@ -45,11 +45,11 @@ Swell nord occasionale dic–mar entra nelle baie esposte a N (Holandeses nord):
 | NOAA NHC | monitoraggio uragani indiretto |
 | Windy · PredictWind · PassageWeather | alisei/raffiche; modelli GFS poco accurati sui pass tra isole |
 
-Cartografia: NOAA/DMA Caraibi occidentali datate + OpenCPN/OSM — DATO MANCANTE ENC DIGEIM San Blas.
-### Siti meteo locali
+Cartografia: NOAA/DMA Caribbean occidentali datate + OpenCPN/OSM — DATA MISSING ENC DIGEIM San Blas.
+### Local Weather Sites
 
 - [IMHPA](https://www.hidrometeorologia.gob.pa) — Istituto idrometeorologico Panama, ufficiale ★★★★
 - [Caribbean Chris Parker / MWXC](https://mwxc.com) — previsore SSB dei cruisers caraibici ★★★
 - [Windy Panama](https://www.windy.com/9.0/-80.0) — GRIB ★★★
 - Allerte ACP sul canale: bollettini [pancanal.com](https://www.pancanal.com) ★★★★
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026

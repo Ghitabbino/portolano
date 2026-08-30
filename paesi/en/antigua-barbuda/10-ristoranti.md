@@ -1,6 +1,6 @@
-# 10 — Ristoranti
+# 10 — Restaurants
 
-**Ultimo aggiornamento: 23/08/2026**
+**Last updated: 23/08/2026**
 
 
 | Locale | Zona | Prezzi | Cucina | Note |
@@ -16,14 +16,14 @@
 - **Epicurean** a Jolly Harbour: il migliore, aperto 07–21, farmacia e panetteria ★★★★
 - Mercati e negozi attorno alle marine English/Falmouth ★★★
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026
 
-## Griglia generale
+## General Grid
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## App e fonti
+## Apps & Sources
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 

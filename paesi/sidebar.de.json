@@ -15,7 +15,7 @@
     },
     {
       "id": "antigua-barbuda",
-      "label": "Antigua Barbuda"
+      "label": "Antigua und Barbuda"
     },
     {
       "id": "aruba",
@@ -23,7 +23,7 @@
     },
     {
       "id": "azzorre",
-      "label": "Azzorre"
+      "label": "Azoren"
     },
     {
       "id": "bahamas",
@@ -43,23 +43,23 @@
     },
     {
       "id": "bosnia-erzegovina",
-      "label": "Bosnia Erzegovina"
+      "label": "Bosnien und Herzegowina"
     },
     {
       "id": "cabo-verde",
-      "label": "Cabo Verde"
+      "label": "Kap Verde"
     },
     {
       "id": "canarie",
-      "label": "Canarie"
+      "label": "Kanarische Inseln"
     },
     {
       "id": "cayman",
-      "label": "Cayman"
+      "label": "Cayman Islands"
     },
     {
       "id": "cipro",
-      "label": "Cipro"
+      "label": "Zypern"
     },
     {
       "id": "colombia",
@@ -71,11 +71,11 @@
     },
     {
       "id": "costarica",
-      "label": "Costarica"
+      "label": "Costa Rica"
     },
     {
       "id": "croazia",
-      "label": "Croazia"
+      "label": "Kroatien"
     },
     {
       "id": "cuba",
@@ -83,7 +83,7 @@
     },
     {
       "id": "curacao",
-      "label": "Curacao"
+      "label": "Curaçao"
     },
     {
       "id": "dominica",
@@ -91,19 +91,19 @@
     },
     {
       "id": "egitto",
-      "label": "Egitto"
+      "label": "Ägypten"
     },
     {
       "id": "francia",
-      "label": "Francia"
+      "label": "Frankreich"
     },
     {
       "id": "giamaica",
-      "label": "Giamaica"
+      "label": "Jamaika"
     },
     {
       "id": "grecia",
-      "label": "Grecia"
+      "label": "Griechenland"
     },
     {
       "id": "grenada",
@@ -111,11 +111,11 @@
     },
     {
       "id": "grenadine",
-      "label": "Grenadine"
+      "label": "Grenadines"
     },
     {
       "id": "guadalupa",
-      "label": "Guadalupa"
+      "label": "Guadeloupe"
     },
     {
       "id": "haiti",
@@ -127,19 +127,19 @@
     },
     {
       "id": "israele",
-      "label": "Israele"
+      "label": "Israel"
     },
     {
       "id": "italia",
-      "label": "Italia"
+      "label": "Italien"
     },
     {
       "id": "libano",
-      "label": "Libano"
+      "label": "Libanon"
     },
     {
       "id": "libia",
-      "label": "Libia"
+      "label": "Libyen"
     },
     {
       "id": "madeira",
@@ -151,11 +151,11 @@
     },
     {
       "id": "marocco",
-      "label": "Marocco"
+      "label": "Marokko"
     },
     {
       "id": "martinica",
-      "label": "Martinica"
+      "label": "Martinique"
     },
     {
       "id": "monaco",
@@ -179,11 +179,11 @@
     },
     {
       "id": "porto-rico",
-      "label": "Porto Rico"
+      "label": "Puerto Rico"
     },
     {
       "id": "repubblica-dominicana",
-      "label": "Repubblica Dominicana"
+      "label": "Dominikanische Republik"
     },
     {
       "id": "saba",
@@ -199,11 +199,11 @@
     },
     {
       "id": "santa-lucia",
-      "label": "Santa Lucia"
+      "label": "St. Lucia"
     },
     {
       "id": "siria",
-      "label": "Siria"
+      "label": "Syria"
     },
     {
       "id": "slovenia",
@@ -211,19 +211,19 @@
     },
     {
       "id": "spagna",
-      "label": "Spagna"
+      "label": "Spanien"
     },
     {
       "id": "st-eustatius",
-      "label": "St Eustatius"
+      "label": "Sint Eustatius"
     },
     {
       "id": "st-kitts-nevis",
-      "label": "St Kitts Nevis"
+      "label": "Saint Kitts and Nevis"
     },
     {
       "id": "trinidad-tobago",
-      "label": "Trinidad Tobago"
+      "label": "Trinidad und Tobago"
     },
     {
       "id": "tunisia",
@@ -231,11 +231,11 @@
     },
     {
       "id": "turchia",
-      "label": "Turchia"
+      "label": "Türkei"
     },
     {
       "id": "turks-caicos",
-      "label": "Turks Caicos"
+      "label": "Turks- und Caicosinseln"
     },
     {
       "id": "venezuela",
@@ -243,7 +243,7 @@
     },
     {
       "id": "virgin-islands",
-      "label": "Virgin Islands"
+      "label": "Jungferninseln"
     }
   ],
   "ids": [

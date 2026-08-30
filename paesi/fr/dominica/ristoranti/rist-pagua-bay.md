@@ -1,18 +1,18 @@
 # Pagua Bay Bar & Grill
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Pagua Bay, Marigot — costa est (atlantica) |
-| Cucina | 🥩 Americana-caraibica |
-| Specialità | Goat tacos · mahi-mahi salsa · fresh seafood · rum punch |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🌅 terrazza con vista oceano, dentro Pagua Bay House |
+| Zone | Pagua Bay, Marigot — costa est (atlantica) |
+| Cuisine | 🥩 Americana-caraibica |
+| Spécialité | Goat tacos · mahi-mahi salsa · fresh seafood · rum punch |
+| Coût | 💰€€ per persona senza bevande |
+| Emplacement | 🌅 terrazza con vista oceano, dentro Pagua Bay House |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pagua+Bay+Bar+Grill+Marigot+Dominica) |
-| Contatti | via [Pagua Bay House](https://paguabayhouse.com/) |
-| Valutazioni | Destination Magazines ★★★ · Google **DATO MANCANTE** |
-| Orari | **DATO MANCANTE** |
+| Contacts | via [Pagua Bay House](https://paguabayhouse.com/) |
+| Évaluations | Destination Magazines ★★★ · Google **DONNÉE MANQUANTE** |
+| Horaires | **DONNÉE MANQUANTE** |
 
 ## Menu
 
@@ -21,7 +21,7 @@
 - Fresh seafood del giorno
 - Rum punch e beers
 
-**Chef**: **DATO MANCANTE**
+**Chef**: **DONNÉE MANQUANTE**
 
 ## Note
 
@@ -29,4 +29,4 @@ Ristorante della Pagua Bay House sulla costa est ventosa; cucina americana con f
 
 Fonti: [Destination Magazines](https://destination-magazines.com/10-best-restaurants-in-dominica/) ★★★ · [Pagua Bay House](https://paguabayhouse.com/) ★★
 
-Ultimo aggiornamento: 25/08/2026
+Dernière mise à jour: 25/08/2026

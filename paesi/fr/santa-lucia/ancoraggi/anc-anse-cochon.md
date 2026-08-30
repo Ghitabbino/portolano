@@ -1,20 +1,20 @@
 # Anse Cochon {#anc-anse-cochon}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← Tous les mouillages](../08-ancoraggi.md)
 **13°55′00″ N 61°04′00″ W** ★★★
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| **Profondità** |6–7 m al centro su sabbia|
-| **Tenuta àncora** |Buona|
-| **Venti/riparo** |Day stop ovest|
-| **Pericoli** |Lati N/S riservati snorkel/diving; relitto Lesleen M al largo|
-| **Boe/divieti/normative** |Boe SMMA presenti; zona Fishing Priority ancorabile solo 9–17|
-| **A terra** |Ti Kaye resort via sentiero|
+| **Profondeur** |6–7 m al centro su sabbia|
+| **Tenue de l’ancre** |Buona|
+| **Vents/abri** |Day stop ovest|
+| **Dangers** |Lati N/S riservati snorkel/diving; relitto Lesleen M al largo|
+| **Bouées/interdictions/réglementation** |Boe SMMA presenti; zona Fishing Priority ancorabile solo 9–17|
+| **À terre** |Ti Kaye resort via sentiero|
 
 <div class="mapframe" data-slug="anc-anse-cochon" data-lat="13.91669" data-lon="-61.06669"></div>
-*Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
+*Carte détaillée — zoomez jusqu’à la baie · carte hors ligne · coordinate WGS84 indicative, toujours vérifier avec le traceur*
 
 Fonti: slucia.com ★★★ · Spend Life Traveling ★★ · Navily ★★
 
-Ultimo aggiornamento: 25/08/2026
+Dernière mise à jour: 25/08/2026

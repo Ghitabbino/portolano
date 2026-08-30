@@ -1,17 +1,17 @@
 # Sunbeach & Eat (Seckie & Vanessa)
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | Zona | Chatham Bay |
 | Cucina | 🍖 Grill di spiaggia |
 | Specialità | Pesce/grill |
-| Costo | 💰€€ per persona senza bevande |
+| Costo | 💰€€ per person without drinks |
 | Location | 🏖️ baia selvaggia ovest |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sunbeach+&+Eat+(Seckie+&+Vanessa)+Chatham+Bay) |
 | Contatti | ND |
-| Valutazioni | Horizon update 2025 → ★★★ |
+| Currencyzioni | Horizon update 2025 → ★★★ |
 | Orari | stagione |
 
 ## Menu
@@ -23,6 +23,6 @@
 
 ## Foto
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Foto non still disponibili — recuperare at the controllo mensile.*
 
 **Note**: In ricostruzione post-Beryl: frequentare per supportare

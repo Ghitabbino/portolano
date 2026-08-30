@@ -1,17 +1,17 @@
 # Sagrario
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Santa Cruz – García Sanabria |
-| Cucina | 🍽️ Tradizionale elevata |
-| Specialità | Pesca fresca · carnes rojas |
-| Costo | 💰€€€ per persona senza bevande |
-| Location | 🍽️ elegante sobrio |
-| Contatti | +34 922 102 788 |
-| Valutazioni | ★★★★½|
-| Orari | cena |
+| Zone | Santa Cruz – García Sanabria |
+| Cuisine | 🍽️ Tradizionale elevata |
+| Spécialité | Pesca fresca · carnes rojas |
+| Coût | 💰€€€ per persona senza bevande |
+| Emplacement | 🍽️ elegante sobrio |
+| Contacts | +34 922 102 788 |
+| Évaluations | ★★★★½|
+| Horaires | cena |
 
 ## Menu
 
@@ -22,4 +22,4 @@
 
 **Note**: 40–60 €/persona
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026

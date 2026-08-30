@@ -1,19 +1,19 @@
-# Crocus Bay — ancoraggio {#anc-crocus-bay}
+# Crocus Bay — Anchorage {#anc-crocus-bay}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← All Anchorages](../08-ancoraggi.md)
 **18°11.0′N 63°04.2′W**
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| **Riparo** | ★★★ entra risacca da W |
-| **Fondo** | Sabbia |
-| **Tenuta àncora** | Buona |
-| **Profondità** | 4–7 m |
-| **Boe** | Boe obbligatorie a Little Bay ⚠️ |
-| **Pericoli** | Risacca W–NW; vietato in riserva |
-| **A terra** | Snorkel, gommoni per Little Bay |
+| **Shelter** | ★★★ swell wraps in from W |
+| **Seabed** | Sand |
+| **Holding** | Good |
+| **Depth** | 4–7 m |
+| **Moorings** | Moorings mandatory at Little Bay ⚠️ |
+| **Hazards** | W–NW swell; no anchoring in reserve |
+| **Ashore** | Snorkelling, dinghies to Little Bay |
 
 <div class="mapframe" data-slug="anc-crocus-bay" data-lat="18.2200" data-lon="-63.0700"></div>
-*Mappa offline Crocus Bay — zoom con i pulsanti +/−; menu in alto a destra per Carta nautica e Segnali*
+*Offline map Crocus Bay — zoom with +/− buttons; top-right menu for Nautical Chart and Beacons*
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

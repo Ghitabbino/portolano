@@ -1,4 +1,4 @@
-# 07 — Provvisioning
+# 07 — Provisioning
 
 **Ultima verifica: 28/08/2026**
 
@@ -26,7 +26,7 @@ Chandler per ricambi nautici base a South Bank (small shop) — per il resto fer
 |---|---|---|---|---|---|---|
 | **Graceway Grand Turk** | Pond St, Cockburn Town, Grand Turk | ~400–800 m da South Dock / Cockburn Town Roads | ✅ sì | +1 (649) 946-2111* | 7–20 (dom 7–17) | gracewaysupermarkets.com ★★★★ |
 
-*Telefono Grand Turk da verificare su gracewaysupermarkets.com — **DATO MANCANTE** se non trovato: chiedere in marina.
+*Telefono Grand Turk to be verified su gracewaysupermarkets.com — **DATA MISSING** se non trovato: chiedere in marina.
 
 ### South Caicos / Salt Cay
 
@@ -35,7 +35,7 @@ Chandler per ricambi nautici base a South Bank (small shop) — per il resto fer
 | Mini-mart locali (Cockburn Harbour, South Caicos) | Cockburn Harbour | ✅ sì | Scorta limitata; per grandi cambuse meglio Provo | ★★ |
 | Salt Cay — general store | Salt Cay settlement | ✅ sì | Molto limitato — autonomia necessaria | ★★ |
 
-> **Nota metodo**: i telefoni Graceway Provo sono verificati con webfetch 28/08/2026 ★★★★. Altri numeri indicati **DATO MANCANTE** se non trovato — chiedere in capitainerie.
+> **Nota metodo**: i telefoni Graceway Provo sono verificati con webfetch 28/08/2026 ★★★★. Altri numeri indicati **DATA MISSING** se non trovato — chiedere in capitainerie.
 
 ### Dettagli per base Providenciales (Turtle Cove / Grace Bay / South Bank)
 
@@ -54,7 +54,7 @@ Chandler per ricambi nautici base a South Bank (small shop) — per il resto fer
 
 | Servizio | Dove | Note |
 |---|---|---|
-| Water dock | Blue Haven Marina · South Bank Marina · Turtle Cove Marina | Acqua a banchina disponibile; tariffa/potabilità **DATO MANCANTE** — verificare in capitainerie → [03](03-porti-ancoraggi.md) |
+| Water dock | Blue Haven Marina · South Bank Marina · Turtle Cove Marina | Acqua a banchina disponibile; tariffa/potabilità **DATA MISSING** — verificare in capitainerie → [03](03-porti-ancoraggi.md) |
 | Fuel dock | South Bank Marina · Blue Haven Marina · Turtle Cove Marina | Prezzi variabili, gasolio ~1,3–1,8 USD/l → [02 Costi](02-costi.md); verificare orari/pescaggio |
 | Gas (butane/propane) | Scambio bombole tipo **USA 20 lb** | Solo scambio, niente rabbocco → [04 Servizi](04-servizi-cantieri.md) |
 | Ghiaccio | Graceway IGA/Gourmet · marine Provo | Verificare prima di traversate lunghe |
@@ -70,7 +70,7 @@ Chandler per ricambi nautici base a South Bank (small shop) — per il resto fer
 ### Bus / jitney
 
 - Minibus informali su Leeward Hwy (Provo): passaggio ogni 15–30 min di giorno, biglietto ~1–2 USD. **Sconsigliati di notte** e per sicurezza (jitney non registrati). [travel.gc.ca ★★★★]
-- Fermata più vicina alla marina: **DATO MANCANTE** esatta — chiedere in capitainerie; spesso sulla strada principale a 100–300 m. Scomodo con carichi pesanti.
+- Fermata più vicina alla marina: **DATA MISSING** esatta — chiedere in capitainerie; spesso sulla strada principale a 100–300 m. Scomodo con carichi pesanti.
 
 ## Consigli pratici
 
@@ -79,4 +79,4 @@ Chandler per ricambi nautici base a South Bank (small shop) — per il resto fer
 - **Rifornimento strategico**: Graceway IGA per la grande cambusa all'arrivo (tra aeroporto e Grace Bay), **Gourmet per rabbocchi quotidiani** a piedi da Grace Bay; per Grand Turk/South Caicos fare cambusa a Provo prima di muovere. ★★★
 - Verificare orari festivi e disponibilità di ghiaccio prima di traversate lunghe verso i cay esterni.
 
-Ultimo aggiornamento: 28/08/2026
+Last updated: 28/08/2026

@@ -1,17 +1,17 @@
-# 02 — Costo della vita
+# 02 — Coût de la vie
 
-Valuta: **euro**. Fuori dall'area IVA UE: vige l'**IGIC (~7%)** → beni e carburante in genere più economici che nel continente. Contesto fiscale comune → [../00-ingresso-visti.md](../00-ingresso-visti.md).
+Devise: **euro**. Hors zone TVA UE: vige l'**IGIC (~7%)** → beni e carburante in genere più economici che nel continente. Contesto fiscale comune → [../00-ingresso-visti.md](../00-ingresso-visti.md).
 
 ## Marina e ormeggi
 
-| Voce | Dato |
+| Rubrique | Dato |
 |---|---|
-| Pontile Marina La Palma (notte) | (da confermare) — listino 2026 da verificare in marina |
+| Ponton Marina La Palma (notte) | (da confermare) — listino 2026 à vérifier in marina |
 | Mese pontile | Tipico 12 m: ~500–900 €/mese ⚠️ listino capitaineria |
-| Elettricità/acqua | di norma incluse o a parte secondo contratto — (da confermare) |
+| Électricité/acqua | di norma incluse o a parte secondo contratto — (da confermare) |
 | Tazacorte (approdo) | tariffe pontile → (da confermare) |
 
-## Carburanti
+## Carburants
 
 | Carburante | Prezzo/L |
 |---|---|
@@ -21,24 +21,24 @@ Valuta: **euro**. Fuori dall'area IVA UE: vige l'**IGIC (~7%)** → beni e carbu
 
 ## Vita a bordo
 
-| Servizio | Costo |
+| Servizio | Coût |
 |---|---|
-| Alimentari (supermercati Santa Cruz, Los Llanos) | in linea con il resto dell'arcipelago; alcuni prodotti locali (banana de La Palma, vino) economici — prezzi puntuali (da confermare) |
+| Alimentation (supermercati Santa Cruz, Los Llanos) | in linea con il resto dell'arcipelago; alcuni prodotti locali (banana de La Palma, vino) economici — prezzi puntuali (da confermare) |
 | Lavanderia | 3–6 €/carico self-service |Marine e lavanderie urbane ★★|
 | SIM prepagata (operatori spagnoli) | offerte generose su dati; tariffa attuale (da confermare) |
 
-## Contanti e pagamenti
+## Espèces & paiements
 
 Carte accettate ovunque nei centri; contante utile a Tazacorte e per i piccoli servizi portuali.
 
-## Approfondimenti
+## Pour approfondir
 
 Porti/tariffe → [03-porti-ancoraggi.md](03-porti-ancoraggi.md); provisioning di arcipelago → vedere le pagine di Tenerife/Gran Canaria.
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026
 
-## Alimentari
-## Mangiare fuori
-## Trasporti
-## Servizi quotidiani
-Ultimo aggiornamento: 23/08/2026
+## Alimentation
+## Restauration à terre
+## Transports
+## Services quotidiens
+Dernière mise à jour: 23/08/2026

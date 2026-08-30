@@ -1,17 +1,17 @@
 # Mogán Mar
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Puerto de Mogán – paseo |
-| Cucina | 🥘 Canaria-messicana |
-| Specialità | Fusion due cucine |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🌅 terrazza paseo |
-| Contatti | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mogan+Mar+Puerto+de+Morgan+Gran+Canaria) |
-| Valutazioni |sito ★★★|
-| Orari | pranzo/cena |
+| Zone | Puerto de Mogán – paseo |
+| Cuisine | 🥘 Canaria-messicana |
+| Spécialité | Fusion due cucine |
+| Coût | 💰€€ per persona senza bevande |
+| Emplacement | 🌅 terrazza paseo |
+| Contacts | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mogan+Mar+Puerto+de+Morgan+Gran+Canaria) |
+| Évaluations |sito ★★★|
+| Horaires | pranzo/cena |
 
 ## Menu
 
@@ -22,4 +22,4 @@
 
 **Note**: Varietà insolita nel borgo
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026

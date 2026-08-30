@@ -1,20 +1,20 @@
-# 05 — Stagionalità e meteo
+# 05 — Seasonality & Weather
 
-**Ultima verifica: 24/08/2026**
+**Last checked: 24/08/2026**
 
-## Clima
+## Climate
 
 - **Tropicale marittimo**: inverno **26–29 °C**, estate **31–33 °C**; temperatura del mare **28–29 °C** tutto l'anno. Alisei da E/ENE predominanti. ★★★★
 
-## Stagioni
+## Seasons
 
-| Periodo | Caratteristiche |
+| Period | Characteristics |
 |---|---|
 | **Dicembre – aprile** | **Alta stagione / stagione secca**: alisei stabili **15–22 nodi**, poca pioggia, **finestra migliore per navigare** ★★★★★ |
 | **Maggio – novembre** | Più caldo e umido, rovesci e temporali pomeridiani |
 | **01 giugno – 30 novembre** | **Stagione ufficiale degli uragani atlantici**, picco **agosto–ottobre** — assicurazioni spesso impongono limiti di navigazione/hurricane box | ★★★★★ |
 
-## Uragani — previsioni 2026 e storico
+## Hurricanes — previsioni 2026 and storico
 
 - **NOAA Outlook 2026** (atlantico): **7–13 tempeste nominate**, di cui **2–6 uragani** e **0–2 major (cat. 3+)**; stagione pronosticata **sotto la media** con probabilità **90%** per influenza **El Niño**. ★★★★★
 - Storico rilevante: **Uragano Maria, cat. 5, settembre 2017** — impatto devastante su Porto Rico; da allora miglioramento dei protocolli di evacuazione e messa a terra. ★★★★★
@@ -24,7 +24,7 @@
 - Alisei rinforzano nel pomeriggio; canale tra Porto Rico e USVI/BVI con onda formata da E. Attenzione a swell di nord in inverno sulla costa nord/atlantica. ★★★
 - Temporali estivi rapidi con raffiche: monitorare radar in tempo reale. ★★★
 
-## Finestre tipiche
+## Typical Weather Windows
 
 - Fajardo→Culebra/Vieques: traversata breve (17–20 M) fattibile quasi ogni giorno con aliseo ≤20 kn; preferibile partenza mattutina. ★★★★
 - Porto Rico→USVI/BVI verso est: bolina con aliseo — finestra migliore con aliseo moderato (<18 kn) e assenza di onda lunga da E. ★★★
@@ -36,7 +36,7 @@
 | NOAA ENC US5PR01M / Coast Pilot 5 | Porto Rico e Isole Vergini — ufficiale USA ★★★★★ |
 | NV Charts / Imray | Arc caraibico — alternativa plaisance |
 
-## Link meteo ufficiali e utili
+## Weather Links ufficiali e utili
 
 | Risorsa | Uso |
 |---|---|
@@ -46,9 +46,8 @@
 | [Windy](https://www.windy.com) · [PassageWeather](http://www.passageweather.com) · [PredictWind](https://www.predictwind.com) ★★★ | Modelli vento/onda per pianificare traversate Fajardo↔USVI |
 | [NOAA NDBC — boe atlantiche](https://www.ndbc.noaa.gov) ★★★★ | Dati onda/vento in tempo reale sulle boe al largo |
 
-Ultimo aggiornamento: 24/08/2026
+Last updated: 24/08/2026
 
-## Venti locali
+## Local Winds
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
+**DATA MISSING** — da completare al controllo mensile.

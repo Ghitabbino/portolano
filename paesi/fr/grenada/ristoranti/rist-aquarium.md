@@ -1,18 +1,18 @@
 # Aquarium Restaurant
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Magazine Beach, St George's (Lowlands) |
-| Cucina | 🐟 Internazionale-caraibica con accento West Indian |
-| Specialità | Aquarium Medley (lobster, gamberi, scallops) · Callaloo Cannelloni · grilled lobster |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🏖️ fronte mare con acquari, terrazza e La Sirena beach bar |
+| Zone | Magazine Beach, St George's (Lowlands) |
+| Cuisine | 🐟 Internazionale-caraibica con accento West Indian |
+| Spécialité | Aquarium Medley (lobster, gamberi, scallops) · Callaloo Cannelloni · grilled lobster |
+| Coût | 💰€€ per persona senza bevande |
+| Emplacement | 🏖️ fronte mare con acquari, terrazza e La Sirena beach bar |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Aquarium+Restaurant+Magazine+Beach+Grenada) |
-| Contatti | +1 473 444 1410 · aquariumrestaurant473@gmail.com · [aquariumgrenada.com](https://aquariumgrenada.com) |
-| Valutazioni | TA 4,4/5 (800+), Google 4,5/5 → ★★★★½ · [PureGrenada](https://www.puregrenada.com/aquarium-restaurant/) ★★★★ · [Sluurpy 2026](https://www.sluurpy.com) ★★★ |
-| Orari | mar–dom 10:00–23:00 (lun chiuso); pranzo 12–16, cena 18–22; Sunday BBQ dalle 11 con live band dalle 15 |
+| Contacts | +1 473 444 1410 · aquariumrestaurant473@gmail.com · [aquariumgrenada.com](https://aquariumgrenada.com) |
+| Évaluations | TA 4,4/5 (800+), Google 4,5/5 → ★★★★½ · [PureGrenada](https://www.puregrenada.com/aquarium-restaurant/) ★★★★ · [Sluurpy 2026](https://www.sluurpy.com) ★★★ |
+| Horaires | mar–dom 10:00–23:00 (lun chiuso); pranzo 12–16, cena 18–22; Sunday BBQ dalle 11 con live band dalle 15 |
 
 ## Menu
 

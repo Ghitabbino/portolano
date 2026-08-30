@@ -1,15 +1,15 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026
 
 ## Ancoraggi e approdi
 
-| Posto | Fondo | Prof. | Note |
+| Place | Bottom | Depth | Notes |
 |---|---|---|---|
-| Charlestown Bay | sabbia/fango | 3–9 m | Riparata; pontili resort a nord della baia |
+| Charlestown Bay | sand/mud | 3–9 m | Sheltered; resort piers north of the bay |
 
 ## Marine
 
 Clearance a Charlestown; jetty dei resort con accesso regolamentato.
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026

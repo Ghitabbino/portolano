@@ -1,20 +1,20 @@
 # Surfside Beach {#anc-surfside}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← Tous les mouillages](../08-ancoraggi.md)
 **12°30′31″ N 70°02′03″ W** ★★★
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| **Profondità** |2–3,5 m vicino riva|
-| **Tenuta àncora** |Sabbia, buona|
-| **Venti/riparo** |Sottovento alla diga del porto|
-| **Pericoli** |Tenersi vicino alla barriera|
-| **Boe/divieti/normative** |Waypoint ufficiale guida locale|
-| **A terra** |Spiaggia, ristoranti|
+| **Profondeur** |2–3,5 m vicino riva|
+| **Tenue de l’ancre** |Sabbia, buona|
+| **Vents/abri** |Sottovento alla diga del porto|
+| **Dangers** |Tenersi vicino alla barriera|
+| **Bouées/interdictions/réglementation** |Waypoint ufficiale guida locale|
+| **À terre** |Spiaggia, ristoranti|
 
 <div class="mapframe" data-slug="anc-surfside" data-minz="12" data-maxz="17" data-lat="12.5085" data-lon="-70.0341"></div>
-*Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
+*Carte détaillée — zoomez jusqu’à la baie · carte hors ligne · coordinate WGS84 indicative, toujours vérifier avec le traceur*
 
 Fonti: aruba-cruisingguide.com ★★★
 
-Ultimo aggiornamento: 25/08/2026
+Dernière mise à jour: 25/08/2026

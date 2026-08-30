@@ -1,30 +1,30 @@
-# 08 — Portolano degli ancoraggi
+# 08 — Guide des mouillages
 
-Ultimo aggiornamento: 22/08/2026 · Cartografia ufficiale DHN/C-Maps + Navionics — dettaglio coste scarso su alcune zone: prudenza
+Dernière mise à jour: 22/08/2026 · Cartographie officielle DHN/C-Maps + Navionics — dettaglio coste scarso su alcune zone: prudenza
 
-## Regole generali
+## Règles générales
 
 - La più piccola e remota: nebbia frequente, approccio delicato, popolazione che emigra.
-- Aliseo NE nov–giu: versanti sud/ovest sottovento.
+- Alizé NE nov–giu: versanti sud/ovest sottovento.
 - Zone di pesca locali: chiedere sempre alle barche prima di àncorare.
 
-## Tabella riassuntiva
+## Tableau récapitulatif
 
-| # | Ancoraggio | Riparo | Tenuta | Profondità | Affollamento | Giudizio |
+| # | Mouillage | Riparo | Tenue | Profondeur | Affluence | Giudizio |
 |---|---|---|---|---|---|---|
-| 1 | Furna | ★★★ | roccia | 5–12 m | Basso | Baia-sud protetta dal villaggio a terrazze |
+| 1 | Furna | ★★★ | roccia | 5–12 m | Basso | Baie-sud protetta dal villaggio a terrazze |
 | 2 | Fajã de Água (ovest) | ★ | roccia | — | — | Solo clam; pontile minimo |
 
-## Cartografia ufficiale
+## Cartographie officielle
 
 Carte idrografiche della Marina capoverdiana (DHN) datate + Navionics/C-MAP aggiornate. Molti fondali poco rilevati: sonde frequenti.
 
-## Checklist àncora
+## Check-list mouillage
 
-1. Stagione giusta (nov–giu alisei stabili)?
+1. Saison giusta (nov–giu alisei stabili)?
 2. Fondo confermato?
 3. Pescatori avvisati/presenti?
 4. Meteo 48h senza rotta sud (swell oceanico)?
 5. Contante per eventuali accordi locali?
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026

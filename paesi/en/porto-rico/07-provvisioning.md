@@ -1,14 +1,14 @@
-# 07 — Provvisioning
+# 07 — Provisioning
 
-**Ultima verifica: 24/08/2026**
+**Last checked: 24/08/2026**
 
-## Livello prezzi generale
+## General Price Level
 
 - Assortimento **USA**: grande scelta di prodotti confezionati continentali; prezzi poco superiori alla media USA per via del trasporto, comunque **inferiori a molte isole caraibiche indipendenti** per la scala logistica. IVU 11,5% spesso non inclusa nel prezzo esposto. ★★★★
 - Prodotti locali convenienti: frutta tropicale, pesce fresco nei mercati (soprattutto San Juan/La Placita), pane e *panaderías* in ogni quartiere. ★★★
 - Per Culebra/Vieques la logistica impone **prezzi +15–30%** sui colmados; fare cambusa a Fajardo conviene sempre. ★★★★
 
-## Supermercati — catene principali
+## Supermarkets — catene principali
 
 | Catena | Rete sull'isola | Dove trovarla | Note per il diportista |
 |---|---|---|---|
@@ -22,17 +22,17 @@
 
 ## Per zona di navigazione — tabelle di dettaglio
 
-> Dati raccolti con websearch 24/08/2026 ("Econo supermarket Fajardo phone", "Pueblo supermarket Puerto Rico delivery", "Walmart Fajardo phone", "Uber taxi Puerto Rico phone price", "Tren Urbano San Juan stop frequency ticket" e varianti). I numeri/telefoni sono parafrasati dalle schede ufficiali/aggregatori; dove la fonte non pubblicava il dato si indica **DATO MANCANTE**. Le distanze sono dal punto di sbarco più vicino (marina/ferry dock) e vanno confermate con taxi/marina.
+> Dati raccolti con websearch 24/08/2026 ("Econo supermarket Fajardo phone", "Pueblo supermarket Puerto Rico delivery", "Walmart Fajardo phone", "Uber taxi Puerto Rico phone price", "Tren Urbano San Juan stop frequency ticket" e varianti). I numeri/telefoni sono parafrasati dalle schede ufficiali/aggregatori; dove la fonte non pubblicava il dato si indica **DATA MISSING**. Le distanze sono dal punto di sbarco più vicino (marina/ferry dock) e vanno confermate con taxi/marina.
 
 ### Fajardo / Puerto del Rey ⚓ base per Culebra/Vieques
 
-| Negozio | Ubicazione | Distanza dalla marina | A piedi? | Telefono | Consegna a bordo? | Fonte |
+| Negozio | Ubicazione | Distance dalla marina | A piedi? | Telefono | Consegna a bordo? | Source |
 |---|---|---|---|---|---|---|
-| **Econo Fajardo** | PR-3 / Centro Fajardo | ~4–6 km | ❌ no — taxi/auto | **DATO MANCANTE** (scheda catena Econo, tel. generico non pubblicato su pagina singola) | ❌ no (ritiro in negozio); delivery tramite app terze **DATO MANCANTE** | ★★ |
-| **Walmart Supercenter Fajardo** | PR-194, Fajardo | ~5–7 km | ❌ no | **DATO MANCANTE** — centralino Walmart USA non riportato su scheda locale | ❌ no — ritiro curbside possibile tramite app Walmart | ★★ |
-| **Ralph's Food Warehouse** | Hwy 195, Fajardo | ~3–5 km | ❌ no | **DATO MANCANTE** | ❌ no | ★★ |
-| **Pueblo Fajardo** | Fajardo centro | ~5 km | ❌ no | **DATO MANCANTE** | Pueblo *to Go* delivery attivo su San Juan/Fajardo via pueblo.net — verificare CAP | ★★ |
-| **Selectos Fajardo** | Fajardo | ~4 km | ❌ no | **DATO MANCANTE** | ❌ no | ★★ |
+| **Econo Fajardo** | PR-3 / Centro Fajardo | ~4–6 km | ❌ no — taxi/auto | **DATA MISSING** (scheda catena Econo, tel. generico non pubblicato su pagina singola) | ❌ no (ritiro in negozio); delivery tramite app terze **DATA MISSING** | ★★ |
+| **Walmart Supercenter Fajardo** | PR-194, Fajardo | ~5–7 km | ❌ no | **DATA MISSING** — centralino Walmart USA non riportato su scheda locale | ❌ no — ritiro curbside possibile tramite app Walmart | ★★ |
+| **Ralph's Food Warehouse** | Hwy 195, Fajardo | ~3–5 km | ❌ no | **DATA MISSING** | ❌ no | ★★ |
+| **Pueblo Fajardo** | Fajardo centro | ~5 km | ❌ no | **DATA MISSING** | Pueblo *to Go* delivery attivo su San Juan/Fajardo via pueblo.net — verificare CAP | ★★ |
+| **Selectos Fajardo** | Fajardo | ~4 km | ❌ no | **DATA MISSING** | ❌ no | ★★ |
 
 *Nota Fajardo*: nessun supermercato è walkable da Puerto del Rey con carico; noleggiare auto (~$217/sett) o taxi van è la norma. Chandlery e ghiaccio in marina. ★★★★
 
@@ -40,29 +40,29 @@
 
 | Negozio | Ubicazione | Distanza dal Club Náutico / Old San Juan | A piedi? | Telefono | Consegna a bordo? | Fonte |
 |---|---|---|---|---|---|---|
-| **Pueblo San Juan** (diverse sedi: Santurce, Carolina) | Av. Ponce de León, Santurce | ~2–5 km | ⚠️ possibile per spesa leggera, scomodo con carico | **DATO MANCANTE** | ✅ sì — Pueblo to Go / Uber Eats | ★★★ |
-| **SuperMax Santurce / Carolina** | Santurce, Carolina (Costco area) | ~3–6 km | ❌ no | **DATO MANCANTE** | ✅ sì via app | ★★★ |
-| **Econo San Juan** | Hato Rey, Río Piedras | ~4–8 km | ❌ no | **DATO MANCANTE** | **DATO MANCANTE** | ★★ |
-| **Walmart San Juan (Santurce/Carolina)** | Carolina / Santurce | ~5–10 km | ❌ no | **DATO MANCANTE** | ✅ ritiro/curbside | ★★★ |
-| **Costco Carolina / Bayamón** | Carolina, Bayamón | ~8–12 km | ❌ no — auto/taxi | **DATO MANCANTE** | ❌ no — solo in negozio con tessera | ★★★ |
+| **Pueblo San Juan** (diverse sedi: Santurce, Carolina) | Av. Ponce de León, Santurce | ~2–5 km | ⚠️ possibile per spesa leggera, scomodo con carico | **DATA MISSING** | ✅ sì — Pueblo to Go / Uber Eats | ★★★ |
+| **SuperMax Santurce / Carolina** | Santurce, Carolina (Costco area) | ~3–6 km | ❌ no | **DATA MISSING** | ✅ sì via app | ★★★ |
+| **Econo San Juan** | Hato Rey, Río Piedras | ~4–8 km | ❌ no | **DATA MISSING** | **DATA MISSING** | ★★ |
+| **Walmart San Juan (Santurce/Carolina)** | Carolina / Santurce | ~5–10 km | ❌ no | **DATA MISSING** | ✅ ritiro/curbside | ★★★ |
+| **Costco Carolina / Bayamón** | Carolina, Bayamón | ~8–12 km | ❌ no — auto/taxi | **DATA MISSING** | ❌ no — solo in negozio con tessera | ★★★ |
 | **La Placita de Santurce** (mercato) | Santurce, Calle Dos Hermanos | ~2 km da San Juan Bay | ✅ sì dal centro | — | ❌ no | ★★★★ |
 
 ### Ponce — costa sud
 
 | Negozio | Ubicazione | Distanza da Ponce Yacht & Fishing Club | A piedi? | Telefono | Consegna a bordo? | Fonte |
 |---|---|---|---|---|---|---|
-| **Econo Ponce** | Ponce centro / PR-2 | ~2–4 km | ⚠️ possibile ma scomodo con carico | **DATO MANCANTE** | **DATO MANCANTE** | ★★ |
-| **Selectos Ponce** | Ponce | ~2–4 km | ⚠️ sì leggero | **DATO MANCANTE** | **DATO MANCANTE** | ★★ |
-| **Pueblo Ponce** | Ponce | ~3 km | ❌ no | **DATO MANCANTE** | ✅ via Pueblo to Go (verificare zona) | ★★ |
-| **Walmart Supercenter Ponce** | PR-2, Ponce | ~4–6 km | ❌ no | **DATO MANCANTE** | ✅ curbside | ★★ |
+| **Econo Ponce** | Ponce centro / PR-2 | ~2–4 km | ⚠️ possibile ma scomodo con carico | **DATA MISSING** | **DATA MISSING** | ★★ |
+| **Selectos Ponce** | Ponce | ~2–4 km | ⚠️ sì leggero | **DATA MISSING** | **DATA MISSING** | ★★ |
+| **Pueblo Ponce** | Ponce | ~3 km | ❌ no | **DATA MISSING** | ✅ via Pueblo to Go (verificare zona) | ★★ |
+| **Walmart Supercenter Ponce** | PR-2, Ponce | ~4–6 km | ❌ no | **DATA MISSING** | ✅ curbside | ★★ |
 
 ### Culebra — Ensenada Honda / Dewey
 
 | Negozio | Ubicazione | Distanza dal Dewey Dock | A piedi? | Telefono | Consegna a bordo? | Fonte |
 |---|---|---|---|---|---|---|
-| **Colmado Milka** | Dewey centro | ~200–400 m | ✅ sì | **DATO MANCANTE** | ❌ no | ★★ |
-| **Colmado Costa del Sol / colmados vari** | Ensenada Honda / Flamenco road | ~300–800 m | ✅ sì | **DATO MANCANTE** | ❌ no | ★★ |
-| **Minimarket Flamenco area** | Vicino a Playa Flamenco | ~1 km | ✅ sì | **DATO MANCANTE** | ❌ no | ★★ |
+| **Colmado Milka** | Dewey centro | ~200–400 m | ✅ sì | **DATA MISSING** | ❌ no | ★★ |
+| **Colmado Costa del Sol / colmados vari** | Ensenada Honda / Flamenco road | ~300–800 m | ✅ sì | **DATA MISSING** | ❌ no | ★★ |
+| **Minimarket Flamenco area** | Vicino a Playa Flamenco | ~1 km | ✅ sì | **DATA MISSING** | ❌ no | ★★ |
 
 *Nota*: assortimento limitato, prezzi più alti; rifornimento principale **sempre a Fajardo** prima di traversare (17 M). Ghiaccio e acqua in tanica vanno presi a Puerto del Rey. ★★★★
 
@@ -70,14 +70,14 @@
 
 | Negozio | Ubicazione | Distanza da Esperanza / Mosquito Pier | A piedi? | Telefono | Consegna a bordo? | Fonte |
 |---|---|---|---|---|---|---|
-| **Supermercado Morales** | Isabel Segunda | ~1–2 km da Mosquito Pier | ✅ sì / bici | **DATO MANCANTE** | ❌ no | ★★ |
-| **Green Store (Esperanza)** | Malecón Esperanza | ~100–300 m dal dinghy | ✅ sì | **DATO MANCANTE** | ❌ no | ★★ |
-| **Colmados Esperanza (vari)** | Lungomare Esperanza | ~100–400 m | ✅ sì | **DATO MANCANTE** | ❌ no | ★★ |
-| **Black Beard Sports / minimarket** | Isabel Segunda | ~1 km | ✅ sì | **DATO MANCANTE** | ❌ no | ★★ |
+| **Supermercado Morales** | Isabel Segunda | ~1–2 km da Mosquito Pier | ✅ sì / bici | **DATA MISSING** | ❌ no | ★★ |
+| **Green Store (Esperanza)** | Malecón Esperanza | ~100–300 m dal dinghy | ✅ sì | **DATA MISSING** | ❌ no | ★★ |
+| **Colmados Esperanza (vari)** | Lungomare Esperanza | ~100–400 m | ✅ sì | **DATA MISSING** | ❌ no | ★★ |
+| **Black Beard Sports / minimarket** | Isabel Segunda | ~1 km | ✅ sì | **DATA MISSING** | ❌ no | ★★ |
 
 *Nota Vieques*: scelta ridotta, meglio arrivare con cambusa fatta; verificare divieti di ancoraggio est (Vieques est ex poligono). ★★★
 
-## Taxi — per zona
+## Taxis — per zona
 
 | Zona | Operatore / Numero | Costo indicativo corsa | Note | Fonte |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@
 | **Ponce** | Taxi Ponce locali | **$10–20** marina↔supermercato | Concordare, pochi Uber fuori San Juan | ★★ |
 | **Culebra / Vieques** | Taxi collettivi / *públicos* sull'isola | **$5–15** dock↔spiaggia/colmado | Spesso van condivisi, prezzo a persona | ★★ |
 
-*Websearch "Uber taxi Puerto Rico phone price" non ha restituito listino unico pubblicato; i costi sopra sono sintesi di tariffe municipali e stime diportiste aggregate. Telefono singolo centralizzato **DATO MANCANTE** — usare app Uber o chiedere in capitainerie. ★★*
+*Websearch "Uber taxi Puerto Rico phone price" non ha restituito listino unico pubblicato; i costi sopra sono sintesi di tariffe municipali e stime diportiste aggregate. Telefono singolo centralizzato **DATA MISSING** — usare app Uber o chiedere in capitainerie. ★★*
 
 ## Bus e Tren Urbano — per zona
 
@@ -94,29 +94,29 @@
 |---|---|---|---|---|---|
 | **Tren Urbano (San Juan)** | Sagrado Corazón, Hato Rey (poi bus AMA per Old San Juan / Santurce) | ~**8–12 min** (lun–sab), ~12–16 min domenica | **$1,50** a corsa | Carte ricaricabili alle stazioni Tren Urbano; biglietto singolo alle macchinette | ★★★★ |
 | **AMA Bus San Juan** | Fermate su Av. Ponce de León / Santurce / Old San Juan | **15–30 min** linee principali | **$0,75–2,00** | A bordo (monete/carta) o app AMA | ★★★ |
-| **Fajardo → San Juan (públicos / bus interurbani)** | Terminal Fajardo | **DATO MANCANTE** frequenza irregolare | **DATO MANCANTE** | A bordo / terminal | ★ |
-| **Ponce urbano** | Ponce centro | **DATO MANCANTE** | **$0,75–1,50** stimato | A bordo | ★ |
+| **Fajardo → San Juan (públicos / bus interurbani)** | Terminal Fajardo | **DATA MISSING** frequenza irregolare | **DATA MISSING** | A bordo / terminal | ★ |
+| **Ponce urbano** | Ponce centro | **DATA MISSING** | **$0,75–1,50** stimato | A bordo | ★ |
 | **Culebra / Vieques** | — | **Nessun servizio urbano** — solo taxi/públicos e noleggio golf cart | — | — | ★★★ |
 
-*La rete AMA/Tren Urbano serve **solo l'area metropolitana di San Juan**; per Fajardo, Ponce e isole spagnole il bus non è praticabile con spesa di bordo — serve taxi/auto. DATO MANCANTE per orari Fajardo/Ponce verrà ricercato al controllo mensile. ★★*
+*La rete AMA/Tren Urbano serve **solo l'area metropolitana di San Juan**; per Fajardo, Ponce e isole spagnole il bus non è praticabile con spesa di bordo — serve taxi/auto. DATA MISSING per orari Fajardo/Ponce verrà ricercato al controllo mensile. ★★*
 
-## Mercati
+## Markets
 
 - **La Placita de Santurce (San Juan)**: mercato storico coperto con banchi di frutta/verdura, carne, pesce e spezie; ideale per spesa fresca e colazione — mattino presto ★★★★
 - **Mercato del pesce Fajardo / pescatori Puerto del Rey**: rientro barche al mattino — verificare in banchina ★★★
 - **Ponce / La Parguera / Boquerón**: mercati ittici locali per pesce del giorno ★★★
 - **Culebra/Vieques**: banchi occasionali e vendita diretta pescatori a Dewey/Esperanza ★★
 
-## Acqua e carburante
+## Water & Fuel
 
-| Servizio | Dove | Note | Fonte |
+| Service | Dove | Note | Source |
 |---|---|---|---|
 | Water dock | Marine principali (Puerto del Rey, Ponce, San Juan) | A banchina, spesso inclusa o a tariffa marina; razionamenti estivi possibili | ★★★ |
 | Fuel dock | Puerto del Rey **08:30–17:30** + marine cittadine | Prezzo marina ~**$4,30/gal** (~$1,14/L) vs terra ~$1,04/L benzina ★★★ | ★★★ |
 | Gas (GPL bombole) | In marina (scambio/ricarica formato USA QCC/Type 1) | Verificare adattatore europeo; spesso solo scambio | ★★ |
 | Ghiaccio | Puerto del Rey Ships Store, colmados Culebra/Vieques | Cubetti/blocchi — fare scorta prima delle Spagnole | ★★★ |
 
-## Consigli pratici
+## Practical Tips
 
 - **Cambusa per le Spagnole**: fare spesa grossa a **Fajardo** (Econo/Walmart/Ralph's) prima di Culebra/Vieques; carrello pieghevole utile, ma serve taxi van per il carico. Ghiaccio extra e acqua in tanica. ★★★★
 - **Mezzi**: auto a noleggio economica da **~$217/settimana** (media economy, alta stagione più cara); per spesa grande è l'opzione più comoda. ★★
@@ -124,4 +124,4 @@
 - **Consegna a bordo**: Pueblo e Walmart offrono delivery/curbside solo in area metropolitana; per la barca indicare nome barca, pontile, telefono e concordare fascia oraria. A Culebra/Vieques **nessuna consegna**. ★★
 - **Orari**: supermercati tipicamente 7–22, domenica orario ridotto; verificare su Google Maps il giorno stesso. ★★★
 
-Ultimo aggiornamento: 24/08/2026
+Last updated: 24/08/2026

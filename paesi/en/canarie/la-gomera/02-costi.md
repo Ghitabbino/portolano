@@ -1,42 +1,42 @@
-# 02 — Costo della vita
+# 02 — Cost of Living
 
-Valuta: **euro**. Fuori dall'area IVA UE: vige l'**IGIC (~7%)**. Contesto fiscale comune → [../00-ingresso-visti.md](../00-ingresso-visti.md).
+Currency: **euro**. Outside the EU VAT area: vige l'**IGIC (~7%)**. Contesto fiscale comune → [../00-ingresso-visti.md](../00-ingresso-visti.md).
 
-## Marina e ormeggi
+## Marina and ormeggi
 
-| Voce | Dato |
+| Item | Data |
 |---|---|
-| Pontile San Sebastián (notte) | (da confermare) — listino 2026 da verificare in marina |
-| Pontile La Puntilla/Vueltas (Valle Gran Rey) | piccolo; tariffe → (da confermare) |
-| Elettricità/acqua | secondo marina — (da confermare) |
+| Pontoon San Sebastián (notte) | (from confermare) — listino 2026 from check in marina |
+| Pontoon La Puntilla/Vueltas (Valle Gran Rey) | small; tariffe → (from confermare) |
+| Electricity/acqua | second marina — (from confermare) |
 
-## Carburanti
+## Fuel
 
-| Carburante | Prezzo/L |
+| Carburante | Price/L |
 |---|---|
-| Gasolio marina | (da confermare) (IGIC favorevole vs continente); rifornimento in isola limitato: verificare a San Sebastián |
+| Gasolio marina | (from confermare) (IGIC favorevole vs continente); rifornimento in isola limitato: check a San Sebastián |
 | Benzina | Gasolina 95 ~1,45 €/l · Gasóleo ~1,40 €/l |[Geoportal MITECO](https://www.geoportalgasolineras.es/) ★★★★|
 
 ## Vita a bordo
 
-| Servizio | Costo |
+| Service | Cost |
 |---|---|
-| Alimentari (San Sebastián, Valle Gran Rey) | in linea con l'arcipelago; isola tranquilla e poco turistica di massa — prezzi puntuali (da confermare) |
-| Lavanderia | 3–6 €/carico self-service |Marine e lavanderie urbane ★★|
-| SIM prepagata (operatori spagnoli) | copertura buona nei centri; tariffa attuale (da confermare) |
+| Groceries (San Sebastián, Valle Gran Rey) | in linea with l'arcipelago; isola tranquilla and poco turistica of massa — prezzi puntuali (from confermare) |
+| Lavanderia | 3–6 €/carico self-service |Marine and lavanderie urbane ★★|
+| SIM prepagata (operatori spagnoli) | copertura buona nei centri; tariffa attuale (from confermare) |
 
-## Contanti e pagamenti
+## Cash & Payments
 
-Carte accettate nei centri principali; contante utile nei piccoli esercizi di Valle Gran Rey e per i servizi portuali minori.
+Carte accettate nei centri principali; contante utile nei piccoli esercizi of Valle Gran Rey and for i servizi portuali minori.
 
-## Approfondimenti
+## Further Reading
 
 Porti/tariffe → [03-porti-ancoraggi.md](03-porti-ancoraggi.md); servizi maggiori (carenaggio, cantieri) → vedere Tenerife/Gran Canaria.
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026
 
-## Alimentari
-## Mangiare fuori
-## Trasporti
-## Servizi quotidiani
-Ultimo aggiornamento: 23/08/2026
+## Groceries
+## Eating Out
+## Transport
+## Everyday Services
+Last updated: 23/08/2026

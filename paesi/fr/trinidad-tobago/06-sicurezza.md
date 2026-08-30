@@ -1,18 +1,18 @@
-# 06 — Sicurezza
+# 06 — Sécurité
 
-**Ultima verifica completa: 24/08/2026** · Prossimo controllo mensile: 24/09/2026
+**Dernière vérification complète: 24/08/2026** · Prochain contrôle mensuel: 24/09/2026
 
-## Valutazione sicurezza: **DATO MANCANTE / 5 — in corso di verifica**
+## Évaluation sécurité: **DONNÉE MANQUANTE / 5 — in corso di verifica**
 
 | Aspetto | Voto | Motivazione |
 |---|---|---|
-| Sicurezza personale (turisti/crocieristi) | DATO MANCANTE | Verificare advisory aggiornate |
-| Furti materiali a bordo | 2–3/5 | Dinghy/fuoribordo = rischio ricorrente in tutti i Caraibi |
-| Contesto generale dell'isola | DATO MANCANTE | — |
+| Sicurezza personale (turisti/crocieristi) | DONNÉE MANQUANTE | Vérifier advisory aggiornate |
+| Furti materiali a bordo | 2–3/5 | Dinghy/fuoribordo = rischio ricorrente in tutti i Caraïbes |
+| Contesto generale dell'isola | DONNÉE MANQUANTE | — |
 
 *Scala: 0 = terribile → 5 = molto sicuro. Valutazione in attesa di fonti mensili.*
 
-## Quadro generale
+## Vue d’ensemble
 
 - Furti opportunistici (borseggi, furti in auto, dinghy) sono il rischio principale riportato dai naviganti; violenza contro i crocieristi rara ma non inesistente. ★★
 
@@ -20,43 +20,43 @@
 
 ### ✅ Posti sicuri
 
-| Zona | Note | Fonte |
+| Zone | Note | Source |
 |---|---|---|
 | Marina principale e waterfront di giorno | Presidiato, buone recensioni | ★★ |
 | Villaggi turistici di giorno | Familiare, bassa criminalità | ★★ |
 
 ### ⛔ Posti da evitare o attenzione
 
-| Zona | Rischio | Fonte |
+| Zone | Rischio | Source |
 |---|---|---|
 | Spiagge deserte e zone isolate di notte | Advisory: evitare | ★★ |
 | Pontili dinghy di notte | Furti dinghy/fuoribordo | CSSN ★★ |
-| Quartieri sensibili del capoluogo (Port of Spain) di notte | Microcriminalità | DATO MANCANTE |
+| Quartieri sensibili del capoluogo (Port of Spain) di notte | Microcriminalità | DONNÉE MANQUANTE |
 
 ## Furti ai danni dei crocieristi
 
 
-## Navigazione
+## Navigation
 
-| Rischio | Dettaglio | Fonte |
+| Rischio | Détail | Source |
 |---|---|---|
 | Nasse da pesca | Boe e lenze galleggianti, talvolta oltre 3 miglia | ★★ |
 | IALA-B | Sistema boe americano (rosso a dritta entrando) — invertito vs Europa | ★★ |
 | Reef / bassi fondali | Attenzione a reef non segnalati e restrizioni parco marino | ★★ |
 
-## Numeri di emergenza
+## Numéros d’urgence
 
 | Emergenza | Numero |
 |---|---|
 | Numero unico emergenze | **911 / 112** (verificare locale) |
 | VHF soccorso | **16** |
 
-## Salvataggio ed emergenze
+## Sauvetage et urgences
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
 ## Monitoraggio mensile
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 

@@ -1,18 +1,18 @@
 # Umbrella's Beach Bar
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Grand Anse, estremità sud della spiaggia |
-| Cucina | 🥩 Beach grill e burger |
-| Specialità | Pesce fresco · cocktail · vista oceano |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🏖️ sulla sabbia con posti a sedere all'aperto, rooftop e indoor |
+| Zone | Grand Anse, estremità sud della spiaggia |
+| Cuisine | 🥩 Beach grill e burger |
+| Spécialité | Pesce fresco · cocktail · vista oceano |
+| Coût | 💰€€ per persona senza bevande |
+| Emplacement | 🏖️ sulla sabbia con posti a sedere all'aperto, rooftop e indoor |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Umbrellas+Beach+Bar+Grand+Anse+Grenada) |
-| Contatti | via pagina Facebook/TripAdvisor — telefono DATO MANCANTE (verificare) |
-| Valutazioni | TA: tra i beach bar più citati di Grand Anse; punteggio esatto DATO MANCANTE → ★★★★ |
-| Orari | giorno e sera in stagione (verificare) |
+| Contacts | via pagina Facebook/TripAdvisor — telefono DONNÉE MANQUANTE (verificare) |
+| Évaluations | TA: tra i beach bar più citati di Grand Anse; punteggio esatto DONNÉE MANQUANTE → ★★★★ |
+| Horaires | giorno e sera in stagione (verificare) |
 
 ## Menu
 

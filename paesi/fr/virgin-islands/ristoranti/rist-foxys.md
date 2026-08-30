@@ -1,18 +1,18 @@
 # Foxy's Bar
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Great Harbour, Jost Van Dyke |
-| Cucina | 🍹 Bar leggendario |
-| Specialità | Grill · rum |
-| Costo | 💰€€ per persona senza bevande |
-| Location | ⚓ porto d'ingresso |
+| Zone | Great Harbour, Jost Van Dyke |
+| Cuisine | 🍹 Bar leggendario |
+| Spécialité | Grill · rum |
+| Coût | 💰€€ per persona senza bevande |
+| Emplacement | ⚓ porto d'ingresso |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Foxy's+Bar+Great+Harbour,+Jost+Van+Dyke) |
-| Contatti | ND |
-| Valutazioni | Icona BVI → ★★★★ |
-| Orari | giorno/sera |
+| Contacts | ND |
+| Évaluations | Icona BVI → ★★★★ |
+| Horaires | giorno/sera |
 
 ## Menu
 
@@ -21,8 +21,8 @@
 
 **Chef**: Foxy Callwood
 
-## Foto
+## Photos
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Photos non ancora disponibili — recuperare al controllo mensile.*
 
 **Note**: Istituzione; il Capodanno a Foxy's è famoso

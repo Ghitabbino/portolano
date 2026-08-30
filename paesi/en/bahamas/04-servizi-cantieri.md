@@ -1,10 +1,10 @@
-# 04 — Servizi, cantieri e manutenzione
+# 04 — Services, Boatyards & Maintenance
 
-**Ultima verifica: 24/08/2026**
+**Last checked: 24/08/2026**
 
 ## Hub principali — dove si trova il cantiere
 
-Le Bahamas **non sono un hub cantieristico economico** come Florida o Martinica: pochi travelift, prezzi alti, ricambi quasi tutti da importare da USA. I poli utili sono **Freeport (Grand Bahama)**, **Nassau (New Providence)** e **Spanish Wells (Eleuthera)** per l'out-of-water; per interventi complessi molti armatori rientrano in Florida. ★★★★
+Le Bahamas **non sono un hub cantieristico economico** come Florida or Martinica: pochi travelift, prezzi alti, ricambi quasi tutti da importare da USA. I poli utili sono **Freeport (Grand Bahama)**, **Nassau (New Providence)** e **Spanish Wells (Eleuthera)** per l'out-of-water; per interventi complessi molti armatori rientrano in Florida. ★★★★
 
 ### Grand Bahama — polo industriale
 
@@ -28,16 +28,16 @@ Le Bahamas **non sono un hub cantieristico economico** come Florida o Martinica:
 - **10.000 lbs (4,5 T)** — solo tender / piccole barche a George Town. ★★★
 
 #### Compass Marine — Nassau ★★★★
-- **24/7 emergenza**, dealer **MTU / Cummins / Volvo Penta / Yanmar** — diagnosi, ricambi motori, elettrica. Interventi a bordo in marina o in rada via workboat. ★★★★
+- **24/7 emergenza**, dealer **MTU / Cummins / Volvo Penta / Yanmar** — diagnosi, ricambi motori, elettrica. Interventi a bordo in marina or in rada via workboat. ★★★★
 
 > Altri artigiani dispersi: elettricisti, frigoristi e rigger freelance operano tra Nassau, Marsh Harbour e George Town — chiedere in capitaineria; **sempre farsi fare devis scritto** prima dei lavori. ★★
 
-## Gas e bombole
+## Gas & Bottles
 
-- **GPL/Gas: bombole USA standard** — ricarica possibile in alcuni punti (DATO MANCANTE per singolo cay), altrimenti **scambio bombola** tipo Blue Rhino USA. Adattatori USA↔EU necessari per barche europee. ★★
-- Verificare **compatibilità raccordi** prima della partenza dalla Florida. ★★
+- **GPL/Gas: bombole USA standard** — ricarica possibile in alcuni punti (DATA MISSING per singolo cay), altrimenti **scambio bombola** tipo Blue Rhino USA. Adattatori USA↔EU necessari per barche europee. ★★
+- Verificare **compatibilità raccordi** before departure dalla Florida. ★★
 
-## Acqua dolce
+## Fresh Water
 
 - Acqua **dissalata RO** ovunque: **$0,10–0,25 / gal** a Nassau/Georgetown, **$0,40–0,50 / gal** a Highbourne/Staniel (vedi dettaglio per zona in [07 Provisioning](07-provvisioning.md)). Nessun razionamento strutturale come in Martinica, ma nei **cays remoti (Exumas)** la disponibilità dipende dal dissalatore della marina — fare riserva. Tel marine acqua: Hurricane Hole VHF 11, Highbourne 242-355-1009, Staniel 242-355-2024. ★★★★
 
@@ -46,21 +46,21 @@ Le Bahamas **non sono un hub cantieristico economico** come Florida o Martinica:
 | Servizio | Contatto |
 |---|---|
 | **BASRA (Bahamas Air Sea Rescue Association)** | **242-325-8864** (HQ Nassau) · **VHF 16** |
-| **Polizia / Emergenza generale** | **919** (anche **911 / 112** funzionano da cellulare) ★★★★ |
+| **Police / Emergenza generale** | **919** (anche **911 / 112** funzionano da cellulare) ★★★★ |
 | **Chiamata di soccorso** | **VHF 16 — PAN PAN / MAYDAY** — BASRA + Harbour Control Nassau H24 |
 
 BASRA è **volontaria e donation-based** — come la RNLI britannica: contributi graditi, interventi gratuiti. Nessun equivalente del CROSS francese. ★★★★
 
-## Note strategiche
+## Strategic Notes
 
-- **Ricambi**: ordinare da USA (West Marine, Defender, Amazon US) con spedizione a **Nassau ( freight forwarder )** o **Florida** — sdoganamento Bahamas **+ VAT 10% + dazio 10–45%** secondo categoria. Tempi 1–3 settimane. ★★★
+- **Ricambi**: ordinare da USA (West Marine, Defender, Amazon US) con spedizione a **Nassau ( freight forwarder )** or **Florida** — sdoganamento Bahamas **+ VAT 10% + dazio 10–45%** secondo categoria. Processing time 1–3 settimane. ★★★
 - **Antivegetativa**: disponibile a Nassau/Freeport — marche USA (Interlux, Pettit) — prezzi +30% vs USA. ★★
-- **Vela / sartie**: nessun loft importante stabile — **DATO MANCANTE** per sailmaker locale; appoggio in Florida per vele nuove. ★★
+- **Vela / sartie**: nessun loft importante stabile — **DATA MISSING** per sailmaker locale; appoggio in Florida per vele nuove. ★★
 - Per lavori sotto i 50 ft, **R&B Spanish Wells** è il miglior compromesso qualità/prezzo nelle Bahamas centrali. ★★★
 
-Ultimo aggiornamento: 24/08/2026
+Last updated: 24/08/2026
 
-## Hub tecnico
+## Technical Hub
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 

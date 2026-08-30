@@ -1,18 +1,18 @@
 # Pirates Beach
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Anse Caritan |
-| Cucina | 🥩 Burgers antillais |
-| Specialità | Boeuf mijoté aux épices · accras |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🏖️ beach club con sdraio |
+| Zone | Anse Caritan |
+| Cuisine | 🥩 Burgers antillais |
+| Spécialité | Boeuf mijoté aux épices · accras |
+| Coût | 💰€€ per persona senza bevande |
+| Emplacement | 🏖️ beach club con sdraio |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pirates+Beach+Anse+Caritan) |
-| Contatti | 0696 86 08 64 / 0596 67 07 56 |
-| Valutazioni | TA 4,5/5 (302) → ★★★★½ |
-| Orari | mer–dom ~12–17/18 · chiuso lun–mar |
+| Contacts | 0696 86 08 64 / 0596 67 07 56 |
+| Évaluations | TA 4,5/5 (302) → ★★★★½ |
+| Horaires | mer–dom ~12–17/18 · chiuso lun–mar |
 
 ## Menu
 
@@ -23,10 +23,10 @@
 
 **Chef**: Cédric
 
-## Foto
+## Photos
 
 ![Pirates Beach](img/martinica/rist-pirates-beach.jpg)
 
-*Fonte: bellemartinique.com*
+*Source: bellemartinique.com*
 
 **Note**: Plage de l'Anse Caritan ⚠️ non Pointe Marin come spesso riportato · restaurantpiratesbeach.com · prenotazione solo via modulo online

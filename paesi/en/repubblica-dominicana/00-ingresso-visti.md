@@ -1,9 +1,9 @@
-# 00 — Ingresso, documenti e visti
+# 00 — Entry, Documents & Visas
 ## Cittadini italiani
 
 ### Visto turistico
 
-| Voce | Regola | Fonte |
+| Item | Rule | Source |
 |---|---|---|
 | Visto per italiani | **Non richiesto** per soggiorno turistico fino a **30 giorni** | Dirección General de Migración (DGM) ★★★★★ |
 | Estensione permanenza | Prorogabile fino a **60 giorni senza costi**; proroga complessiva fino a **120 giorni** su richiesta alla DGM (procedura e eventuale pagamento presso uffici Migración) | DGM ★★★★★ |
@@ -13,7 +13,7 @@
 
 ### Passaporto
 
-| Voce | Regola | Fonte |
+| Item | Rule | Source |
 |---|---|---|
 | Validità ordinaria | **6 mesi residui** dalla data di ingresso | DGM ★★★★★ |
 | Misura eccezionale fino al **31/12/2026** | Per turismo, ai cittadini di UE, USA, Canada e Regno Unito è sufficiente il passaporto **valido per la durata del soggiorno** (deroga temporanea alla regola dei 6 mesi) | DGM / Ministerio de Relaciones Exteriores (MIREX) ★★★★★ |
@@ -22,7 +22,7 @@ Consiglio pratico: anche durante l'eccezione, molte compagnie aeree continuano a
 
 ### e-Ticket (dichiarazione elettronica d'ingresso/uscita)
 
-| Voce | Regola | Fonte |
+| Item | Rule | Source |
 |---|---|---|
 | Obbligo | **e-Ticket obbligatorio e gratuito** per tutti i passeggeri in **aereo** in ingresso e in uscita | Dirección General de Migración / eticket.migracion.gob.do ★★★★★ |
 | Sito ufficiale | `https://eticket.migracion.gob.do` — **gratuito**; diffidare di siti a pagamento che offrono lo stesso servizio | DGM ★★★★★ |
@@ -35,9 +35,9 @@ Consiglio pratico: anche durante l'eccezione, molte compagnie aeree continuano a
 - Obbligo di **dichiarazione doganale** per valori pari o superiori a **10.000 USD** (o equivalente in altra valuta) in contanti o strumenti equivalenti, in ingresso e in uscita. Modulo fornito a bordo o in aeroporto. ★★★★★
 - Franchigie bagaglio e restrizioni su alimenti/prodotti agricoli controllate da **Dirección General de Aduanas / Ministerio de Agricultura**. ★★★★
 
-### Vaccini e salute
+### Vaccinations e salute
 
-| Voce | Regola | Fonte |
+| Item | Rule | Source |
 |---|---|---|
 | COVID-19 | **Nessun obbligo** vaccinale né test per l'ingresso | Ministerio de Salud Pública RD ★★★★★ |
 | Febbre gialla | Certificato richiesto **solo** se si proviene da area endemica (es. **Brasile, Venezuela** e altri paesi segnalati) | Ministerio de Salud Pública / OMS ★★★★★ |
@@ -45,25 +45,24 @@ Consiglio pratico: anche durante l'eccezione, molte compagnie aeree continuano a
 | Colera / dengue | Presenti a livello regionale; nessuna vaccinazione obbligatoria per provenienza dall'Europa, ma raccomandate misure igienico-sanitarie | OMS / Ministerio de Salud Pública ★★★ |
 
 
-## Contatti utili visti
+## Useful Contacts visti
 
 - **DGM Repubblica Dominicana**: `https://migracion.gob.do` — e-Ticket: `https://eticket.migracion.gob.do` ★★★★★
 - **MIREX (Relazioni Estere RD)**: `https://mirex.gob.do` ★★★★★
 - **iKat Haiti**: `https://delidoc.gouv.ht/ikat` ★★★★★
 
-Ultimo aggiornamento: 24/08/2026
+Last updated: 24/08/2026
 
 ## Status
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
 
-## Cittadini UE
+## EU Citizens
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
 
-## La barca
+## The Yacht
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
+**DATA MISSING** — da completare al controllo mensile.

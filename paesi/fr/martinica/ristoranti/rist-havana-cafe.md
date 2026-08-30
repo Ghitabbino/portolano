@@ -1,18 +1,18 @@
 # Havana Café
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Pointe du Bout |
-| Cucina | 🥩 Fajitas e grill |
-| Specialità | Fajitas · crêpes · cocktail maison |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🎶 musica live, animato |
+| Zone | Pointe du Bout |
+| Cuisine | 🥩 Fajitas e grill |
+| Spécialité | Fajitas · crêpes · cocktail maison |
+| Coût | 💰€€ per persona senza bevande |
+| Emplacement | 🎶 musica live, animato |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Havana+Café+Pointe+du+Bout) |
-| Contatti | 0596 66 15 93 |
-| Valutazioni | Petit Futé 3,6/5 → ★★★½ |
-| Orari | 7/7 servizio continuato 11:30–23 (mezzanotte nel week-end) |
+| Contacts | 0596 66 15 93 |
+| Évaluations | Petit Futé 3,6/5 → ★★★½ |
+| Horaires | 7/7 servizio continuato 11:30–23 (mezzanotte nel week-end) |
 
 ## Menu
 
@@ -26,11 +26,11 @@
 
 **Chef**: ND
 
-## Foto
+## Photos
 
 ![Havana Café](img/martinica/rist-havana-cafe.jpg)
 
-*Fonte: havana-cafe-martinique.fr (wixstatic)*
+*Source: havana-cafe-martinique.fr (wixstatic)*
 
 **Note**: Village Créole, rue du Chacha, Les Trois-Îlets · havana-cafe-martinique.fr
 

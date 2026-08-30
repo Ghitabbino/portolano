@@ -1,43 +1,43 @@
-# 06 — Sicurezza
+# 06 — Safety & Security
 
-## Valutazione sicurezza
+## Safety Rating
 
-**4/5** — isola tranquillissima, criminalità quasi assente; i rischi reali sono nautici: remotità, mare aperto, un solo rifugio.
+**4/5** — isola tranquillissima, criminalità quasi assente; i rischi reali are nautici: remotità, mare aperto, un only rifugio.
 
-## Mappa delle zone — offline
+## Zone Map — Offline
 
 <div class="mapframe" data-slug="el-hierro" data-minz="10" data-maxz="15" data-lat="27.73" data-lon="-18.03"></div>
 
 *Nessuna zona a rischio documentata.* Arancione = prudenza. Nessuna zona rossa documentata contro diportisti.
 
-## Quadro generale
+## General Overview
 
-| Zona | Giudizio |
+| Area | Giudizio |
 |---|---|
-| La Restinga | Sicura e accogliente; paese dei pescatori, ambiente sereno |
-| Marina La Restinga | Tranquilla; normali precauzioni a bordo |
-| Resto della costa | Nessuna sosta: vento e mare aperti su tutto il perimetro |
+| La Restinga | Sicura and accogliente; paese of the pescatori, ambiente sereno |
+| Marina La Restinga | Quiet; normali precauzioni a bordo |
+| Resto of the costa | Nessuna sosta: vento and mare aperti on all il perimetro |
 
 ## Navigazione
 
-- **Remotità = autosufficienza**: barca e attrezzature in ordine prima della traversata da La Palma (60–70 NM, tratto più aperto).
-- Un solo porto: se il meteo peggiora non ci sono alternative → monitorare le previsioni con anticipo.
-- Swell da S: La Restinga può risultare scomoda; cime tese e parabordi generosi.
-- Rispettare la **Riserva Marina de la Punta de la Restinga**: zonizzazione pesca/ancoraggio e traffico subacqueo intenso (El Bajón) — prudenza e regole locali.
+- **Remotità = autosufficienza**: barca and attrezzature in ordine prima of the traversata from La Palma (60–70 NM, tratto more aperto).
+- Un only porto: se il meteo peggiora non ci are alternative → monitorare le previsioni with anticipo.
+- Swell from S: La Restinga può risultare scomoda; cime tese and parabordi generosi.
+- Rispettare la **Riserva Marina de la Punta de la Restinga**: zonizzazione pesca/ancoraggio and traffico subacqueo intenso (El Bajón) — prudenza and regole locali.
 
-## A bordo e a terra
+## Aboard and a terra
 
-- Barche chiuse di notte; documenti originali al sicuro, copie a bordo.
-- Servizi sanitari limitati in isola: per emergenze gravi l'evacuazione avviene verso Tenerife — fattore da tenere presente.
+- Barche chiuse of notte; documenti originali at the sicuro, copie a bordo.
+- Services sanitari limitati in isola: for emergenze gravi l'evacuazione avviene verso Tenerife — fattore from tenere presente.
 
-## Salvataggio ed emergenze
+## Rescue & Emergencies
 
 | Emergenza | Numero |
 |---|---|
 | Emergenze unificate (UE) | **112** |
 | SAR marittimo (Salvamento Marítimo) | **VHF 16** |
-| Marina più vicina per assistenza | La Restinga |
+| Marina more vicina for assistenza | La Restinga |
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026
 
 ## Posti sicuri

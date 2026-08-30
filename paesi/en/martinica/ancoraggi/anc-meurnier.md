@@ -1,7 +1,7 @@
 # Anse Meurnier {#anc-meurnier}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
-| Campo | Dettaglio |
+[← All Anchorages](../08-ancoraggi.md)
+| Field | Detail |
 |---|---|
 | **Profondità** |**2,5–3 m** ★★|
 | **Tenuta** |Buona su sabbia ★★|
@@ -13,4 +13,4 @@
 <div class="mapframe" data-slug="meurnier" data-lat="14.5940546" data-lon="-60.8705932"></div>
 *Vista mappa Anse Meurnier (coord. indicative) — zoom con i pulsanti +/−; menu in alto a destra per passare a Carta nautica e Segnali nautici · mappa offline*
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026

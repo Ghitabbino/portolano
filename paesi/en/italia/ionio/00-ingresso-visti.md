@@ -1,21 +1,21 @@
-# 00 — Ingresso, documenti e visti
+# 00 — Entry, Documents & Visas
 
-**Ultima verifica: 27/08/2026** · Contesto generale in [00 — Ingresso comune](../00-ingresso-visti.md) — vale per tutta l'Italia.
+**Last checked: 27/08/2026** · Contesto generale in [00 — Ingresso comune](../00-ingresso-visti.md) — vale per tutta l'Italia.
 
 ## Status (richiamo)
 
-| Voce | Dato |
+| Item | Data |
 |---|---|
 | Paese | Italia — UE / Schengen / Euro |
 | Zona | **Ionio** — suddivisione portolano |
 | Documenti UE | Carta d'identità o passaporto validi |
-| Visto UE | Non richiesto (libera circolazione) |
+| Area | **Cicladi** — suddivisione portolano |
 
-> Dettaglio ingressi via mare per questa zona: **DATO MANCANTE** — da verificare presso Capitaneria di Porto competente per Ionio.
+> Dettaglio ingressi via mare per questa zona: **DATA MISSING** — da verificare presso Capitaneria di Porto competente per Ionio.
 
-## Specificità di zona
+## Specificità of zona
 
-- Approdi di ingresso con Polizia di Frontiera in Ionio: **DATO MANCANTE** — verificare elenco Porti di Ingresso su mit.gov.it / Polizia di Stato ★★★★★
-- Formalità locali (tasse di soggiorno, aree marine protette): **DATO MANCANTE** per Ionio
+- Approdi di ingresso con Polizia di Frontiera in Ionio: **DATA MISSING** — verificare elenco Porti di Ingresso su mit.gov.it / Polizia di Stato ★★★★★
+- Formalità locali (tasse di soggiorno, aree marine protette): **DATA MISSING** per Ionio
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

@@ -1,17 +1,17 @@
 # Whaleboner Inn
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
 | Zona | Belmont |
 | Cucina | 🦴 West Indian |
 | Specialità | Lobster · fish & chips |
-| Costo | 💰€€€ per persona senza bevande |
+| Costo | 💰€€€ per person without drinks |
 | Location | 🐋 bar in mandibola di balena |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Whaleboner+Inn+Belmont) |
 | Contatti | +1 784 458-3233 |
-| Valutazioni | Google positiva → ★★★★ |
+| Currencyzioni | Google positiva → ★★★★ |
 | Orari | 08–21 · bar fino tardi |
 
 ## Menu
@@ -24,6 +24,6 @@
 
 ## Foto
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Foto non still disponibili — recuperare at the controllo mensile.*
 
 **Note**: Jump-up lun/ven/sab · main EC$46–89

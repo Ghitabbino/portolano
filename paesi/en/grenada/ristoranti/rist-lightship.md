@@ -1,24 +1,24 @@
 # The Lightship
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| Zona | Le Phare Bleu Marina, Petit Calivigny |
-| Cucina | 🐟 Bar-restaurant da marina |
-| Specialità | Happy hour cruiser · tramonto |
-| Costo | 💰€€ per persona senza bevande |
-| Location | ⚓ su una nave-faro ormeggiata nella marina |
+| Area | Le Phare Bleu Marina, Petit Calivigny |
+| Cuisine | 🐟 Bar-restaurant from marina |
+| Speciality | Happy hour cruiser · tramonto |
+| Cost | 💰€€ for persona without bevande |
+| Setting | ⚓ on una nave-faro ormeggiata nella marina |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=The+Lightship+Le+Phare+Bleu+Grenada) |
-| Contatti | via Le Phare Bleu Resort — telefono DATO MANCANTE (verificare) |
-| Valutazioni | Google/TA: DATO MANCANTE — verificare → ★★★ |
-| Orari | pranzo e aperitivo/cena in stagione |
+| Contacts | via Le Phare Bleu Resort — telefono DATA MISSING (check) |
+| Ratings | Google/TA: DATA MISSING — check → ★★★ |
+| Hours | pranzo and aperitivo/cena in stagione |
 
 ## Menu
 
-- Piatti da bar e pesce fresco
-- Cocktail all'ora del tramonto
+- Piatti from bar and pesce fresco
+- Cocktail all'ora of the tramonto
 
 <div class="mapframe" data-slug="rist-lightship" data-lat="12.003358" data-lon="-61.723877"></div>
 
-**Note**: simbolo della marina Le Phare Bleu; ancoraggio di Petit Calivigny a breve dinghy. [guide locali/OSM ★★★; agg. 28/08/2026]
+**Note**: simbolo of the marina Le Phare Bleu; ancoraggio of Petit Calivigny a breve dinghy. [guide locali/OSM ★★★; agg. 28/08/2026]

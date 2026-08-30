@@ -1,16 +1,16 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026
 
 ## Ancoraggi e approdi
 
-| Posto | Fondo | Prof. | Note |
+| Place | Bottom | Depth | Notes |
 |---|---|---|---|
 | Petit Bateau / Baradal | sabbia | 2–6 m | Mooring balls gestiti dal parco; tartarughe Haulover Reef |
-| Petit Tabac | sabbia | 3–7 m | Isola del Pirata dei Caraibi; aperto atlantico |
+| Petit Tabac | sabbia | 3–7 m | Isola del Pirata dei Caribbean; aperto atlantico |
 
 ## Marine
 
-Nessuna dogana: parco naturale; ranger TCMP su **VHF68**, Clifton è il porto di riferimento.
+No customs: nature park; TCMP ranger on **VHF68* *, Clifton is the reference port.
 
-Ultimo aggiornamento: 22/08/2026
+Last updated: 22/08/2026

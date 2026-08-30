@@ -1,29 +1,29 @@
-# 08 — Portolano degli ancoraggi
+# 08 — Anchorage Pilot
 
-**Ultima verifica: 28/08/2026** — *Scheda in completamento*
+**Last checked: 28/08/2026** — *Scheda in completamento*
 
-## Tabella riassuntiva
+## Summary Table
 
-| # | Ancoraggio | Riparo | Note |
+| # | Anchorage | Riparo | Note |
 |---|---|---|---|
 | 1 | **Cartagena — Bahía interna** | ★★★★ | Controlli DIMAR frequenti |
-| — | **DATO MANCANTE** | — | In raccolta |
+| — | **DATA MISSING** | — | In raccolta |
 
 <div class="mapframe" data-slug="colombia" data-minz="5" data-maxz="16" data-lat="10.40" data-lon="-75.50" data-markers='[[10.3930, -75.5540, "Cartagena — Bahía", "anc-cartagena-bahia"]]'></div>
 
-Ultimo aggiornamento: 28/08/2026
+Last updated: 28/08/2026
 
-## Regole generali
+## General Rules
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Cartografia ufficiale
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
 
 
-## Checklist àncora
+## Official Charts
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — to be completed at the monthly check.
+
+
+## Anchor Checklist
+
+**DATA MISSING** — to be completed at the monthly check.
 

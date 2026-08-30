@@ -1,17 +1,17 @@
 # San Sebastián 57
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| Zona | Santa Cruz – mercato Nuestra Señora África |
-| Cucina | 🍽️ Cucina d'autore mare |
-| Specialità | Ostriche · tartare di tonno |
-| Costo | 💰€€€ per persona senza bevande |
-| Location | 🍽️ contemporaneo piccolo |
-| Contatti | +34 822 104 325 |
-| Valutazioni |TA ★★★★½|
-| Orari | pranzo/cena su prenotazione |
+| Zone | Santa Cruz – mercato Nuestra Señora África |
+| Cuisine | 🍽️ Cuisine d'autore mare |
+| Spécialité | Ostriche · tartare di tonno |
+| Coût | 💰€€€ per persona senza bevande |
+| Emplacement | 🍽️ contemporaneo piccolo |
+| Contacts | +34 822 104 325 |
+| Évaluations |TA ★★★★½|
+| Horaires | pranzo/cena su prenotazione |
 
 ## Menu
 
@@ -22,4 +22,4 @@
 
 **Note**: Pochi coperti: prenotare
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026

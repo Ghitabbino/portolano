@@ -1,18 +1,18 @@
 # Jacques Waterfront Dining
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Tous les restaurants](../10-ristoranti.md)
 **14°04′22″ N 60°57′14″ W**
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| **Costo** |**DATO MANCANTE**|
-| **Cucina** |**DATO MANCANTE**|
-| **Specialità** |**DATO MANCANTE**|
-| **Location** |**DATO MANCANTE**|
+| **Coût** |**DONNÉE MANQUANTE**|
+| **Cuisine** |**DONNÉE MANQUANTE**|
+| **Spécialité** |**DONNÉE MANQUANTE**|
+| **Emplacement** |**DONNÉE MANQUANTE**|
 
 <div class="mapframe" data-slug="rist-jacques-waterfront-dining" data-lat="14.0728" data-lon="-60.954"></div>
 *Cartina di dettaglio: posizione a terra rispetto alla barca · zoom ±*
 
-Fonti: **DATO MANCANTE**
+Fonti: **DONNÉE MANQUANTE**
 
-Ultimo aggiornamento: 25/08/2026
+Dernière mise à jour: 25/08/2026

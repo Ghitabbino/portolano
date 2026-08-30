@@ -1,14 +1,14 @@
-# 09 — Artigiani e negozi nautici
+# 09 — Artisans & Shipchandlers
 
-Ultimo aggiornamento: 22/08/2026 · ⚠️ Contatti non ancora verificati: nulla viene inventato, le voci (da confermare) vengono ricercate nei controlli mensili.
+Dernière mise à jour: 22/08/2026 · ⚠️ Contacts non ancora verificati: nulla viene inventato, le voci (da confermare) vengono ricercate nei controlli mensili.
 
 ## Tabella operatori
 
-| Servizio | Dove/Nome | Contatti | Note |
+| Servizio | Dove/Nome | Contacts | Note |
 |---|---|---|---|
 | Tutto | Isola | (da confermare) | Interventi seri → Tenerife/GC |
 
-## Dove si trova cosa
+## Où trouver quoi
 
 - Assistenza ordinaria: chiedere in capitaineria dell'[hub](04-servizi-cantieri.md).
 - Lavori seri (rigging, motoristica pesante, verniciature): **Las Palmas de Gran Canaria**.
@@ -18,8 +18,8 @@ Ultimo aggiornamento: 22/08/2026 · ⚠️ Contatti non ancora verificati: nulla
 
 Elenco puntuali in aggiornamento continuo: vedi pagine singole isola.
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026
 
 Tabella artigiani
-## Note pratiche
-Ultimo aggiornamento: 23/08/2026
+## Notes pratiques
+Dernière mise à jour: 23/08/2026

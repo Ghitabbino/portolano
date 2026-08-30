@@ -1,35 +1,35 @@
-# 04 — Servizi, cantieri e manutenzione
+# 04 — Services, Boatyards & Maintenance
 
-**Ultima verifica: 27/08/2026**
+**Last checked: 27/08/2026**
 
-## Hub tecnico — DATO MANCANTE
+## Hub tecnico — DATA MISSING
 
-Il principale hub tecnico mediterraneo per la Grecia — Golfo Saronico è **DATO MANCANTE** — da verificare su Hellenic Hydrographic Service / Port Authority / associazioni nautiche. Possibili poli: Barcellona, Valencia, Palma di Mallorca, Cartagena.
+Il principale hub tecnico mediterraneo for la Grecia — Golfo Saronico è **DATA MISSING** — from check on Hellenic Hydrographic Service / Port Authority / associazioni nautiche. Possibili poli: Barcellona, Valencia, Palma of Mallorca, Cartagena.
 
-| Servizio | Dettaglio | Fonte |
+| Service | Detail | Source |
 |---|---|---|
-| Travelift / carenaggio | **DATO MANCANTE** | **DATO MANCANTE** |
-| Professionisti in porto | **DATO MANCANTE** | **DATO MANCANTE** |
-| Spedizione ricambi | **DATO MANCANTE** | **DATO MANCANTE** |
+| Travelift / carenaggio | **DATA MISSING** | **DATA MISSING** |
+| Professionisti in porto | **DATA MISSING** | **DATA MISSING** |
+| Spedizione ricambi | **DATA MISSING** | **DATA MISSING** |
 
-## Altri cantieri
+## Other Boatyards
 
-**DATO MANCANTE**.
+**DATA MISSING**.
 
-## Gas e bombole
+## Gas and bombole
 
-**DATO MANCANTE** — verificare standard bombole Grecia — Golfo Saronico (scambio/ricarica).
+**DATA MISSING** — check standard bombole Grecia — Golfo Saronico (scambio/ricarica).
 
-## Acqua dolce
+## Water dolce
 
-**DATO MANCANTE**.
+**DATA MISSING**.
 
 ## Note strategiche
 
-**DATO MANCANTE** — la Grecia — Golfo Saronico dispone di rete estesa di marine e cantieri; dettagli da verificare per area (Costa Brava, Baleari, Costa del Sol).
+**DATA MISSING** — la Grecia — Golfo Saronico dispone of rete estesa of marine and cantieri; dettagli from check for area (Costa Brava, Baleari, Costa of the Sol).
 
 ## Hub tecnico
 
-**DATO MANCANTE** — travelift, professionisti, chandler: da censire con fonti locali.
+**DATA MISSING** — travelift, professionisti, chandler: from censire with fonti locali.
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

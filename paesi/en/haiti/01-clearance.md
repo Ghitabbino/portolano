@@ -1,16 +1,16 @@
-# 01 — Clearance doganale della barca
+# 01 — Yacht Customs Clearance
 
-**Ultima verifica: 28/08/2026**
+**Last checked: 28/08/2026**
 
 > ⚠️ **Situazione generale sconsigliata**: Noonsite e avvisi governativi segnalano per Haiti **instabilità, gang armate, colera endemico** e **Level 4 Do Not Travel** USA al 10/07/2026; navigazione da diporto **fortemente sconsigliata** salvo necessità con precauzioni estreme e aggiornamento quotidiano. Labadee (nord) sospesa al traffico crocieristico fino a giugno 2027 ★★★★★
 
-## Chi deve farla
+## Who Must Clear
 
 - **Tutte le imbarcazioni** in arrivo da/per l'estero, equipaggio incluso. iKat personale è comunque obbligatorio per ogni POB (vedi [00 Ingresso](00-ingresso-visti.md)). ★★★★★
 
-## Procedura
+## Procedure
 
-| Passo | Cosa fare | Fonte |
+| Passo | Cosa fare | Source |
 |---|---|---|
 | **1. iKat mare** | Compilare **iKat** su `https://delidoc.gouv.ht/ikat` **entro 72 ore** prima dell'arrivo/partenza (anche via mare) e conservare **QR code** per immigrazione/sanità/dogana; sostituisce i 3 moduli cartacei; modificabile con codice + passaporto; operativo su tutti i punti dal 01/05/2026 (decreto 31/12/2025) | DIE Haiti ★★★★★; InfoNation 13/03/2026 ★★★ |
 | **2. Approdo** | Presentazione a **Immigrazione / Douane / APN / Semanah** nel porto di ingresso con passaporti, documenti barca, lista equipaggio, QR iKat; possibile ispezione | Prassi locale ★★ |
@@ -18,13 +18,13 @@
 
 - VHF di chiamata: **16** (ove presidiato). ★★
 
-## Costi
+## Fees
 
-| Voce | Importo | Fonte |
+| Item | Importo | Fonte |
 |---|---|---|
 | Tassa ingresso persone (via iKat) | **10 USD** a persona per esenti visto | LegalClarity ★★★ |
-| Diritti portuali/APN/Semanah | **DATO MANCANTE** — listino non pubblicato online al 28/08/2026; chiedere in loco ad APN/Semanah o resort (Île-à-Vache/Port Morgan) | **DATO MANCANTE** |
-| Cruising permit specifico | **DATO MANCANTE** | **DATO MANCANTE** |
+| Diritti portuali/APN/Semanah | **DATA MISSING** — listino non pubblicato online al 28/08/2026; chiedere in loco ad APN/Semanah o resort (Île-à-Vache/Port Morgan) | **DATA MISSING** |
+| Cruising permit specifico | **DATA MISSING** | **DATA MISSING** |
 
 ## Punti d'ingresso noti
 
@@ -42,16 +42,16 @@
 
 ## Numeri utili clearance
 
-- **APN / Semanah / Immigrazione Haiti**: recapiti ufficiali **DATO MANCANTE** per fluttuazioni operative — coordinarsi via **agente locale o resort** (es. Port Morgan, Île-à-Vache) e VHF 16. ★★
+- **APN / Semanah / Immigrazione Haiti**: recapiti ufficiali **DATA MISSING** per fluttuazioni operative — coordinarsi via **agente locale o resort** (es. Port Morgan, Île-à-Vache) e VHF 16. ★★
 - **DIE Haiti — iKat**: `https://delidoc.gouv.ht/ikat` ★★★★★
 
-## Sanzioni / note
+## Penalties / note
 
 - Soggiorno oltre i **90 giorni** senza permesso → rischio multe/detenzione/espulsione. ★★★
 - Navigare senza clearance/iKat → sanzioni e fermo; controlli possibili anche in rada. ★★
 
-## Da verificare
+## To be verified
 
 - Listino diritti APN/Semanah aggiornato e procedura di zarpe inter-porti haitiani.
 
-Ultimo aggiornamento: 28/08/2026
+Last updated: 28/08/2026

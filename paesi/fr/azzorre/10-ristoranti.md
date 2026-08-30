@@ -1,26 +1,26 @@
-# 10 — Ristoranti
+# 10 — Restaurants
 
-**DATO MANCANTE** — griglia completa da creare. Schede già presenti:
+**DONNÉE MANQUANTE** — griglia completa da creare. Schede già presenti:
 
 | Ristorante | Isola/area | Note |
 |---|---|---|
-| Alcides | Terceira? **da verificare** | scheda presente |
-| Ancoradouro | **da verificare** | scheda presente |
-| Beira Mar | **da verificare** | scheda presente |
-| O Gato | **da verificare** | scheda presente |
-| O Pescador | **da verificare** | scheda presente |
-| A Petisca | **da verificare** | scheda presente |
-| Rotas | **da verificare** | scheda presente |
-| Ti Choa | **da verificare** | scheda presente |
+| Alcides | Terceira? **à vérifier** | scheda presente |
+| Ancoradouro | **à vérifier** | scheda presente |
+| Beira Mar | **à vérifier** | scheda presente |
+| O Gato | **à vérifier** | scheda presente |
+| O Pescador | **à vérifier** | scheda presente |
+| A Petisca | **à vérifier** | scheda presente |
+| Rotas | **à vérifier** | scheda presente |
+| Ti Choa | **à vérifier** | scheda presente |
 
-Ultimo aggiornamento: 25/08/2026
+Dernière mise à jour: 25/08/2026
 
-## Griglia generale
+## Grille générale
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## App e fonti
+## Applis et sources
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 

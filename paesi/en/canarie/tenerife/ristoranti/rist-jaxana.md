@@ -1,17 +1,17 @@
 # Jaxana
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| Zona | Santa Cruz – Plaza España |
-| Cucina | 🍣 Fusion asiatica-canaria |
-| Specialità | Uramaki obako (banana+capra) |
-| Costo | 💰€€€ per persona senza bevande |
-| Location | 🍽️ design dimesso |
-| Contatti | +34 922 894 452 |
-| Valutazioni | ★★★★|
-| Orari | cena |
+| Area | Santa Cruz – Plaza España |
+| Cuisine | 🍣 Fusion asiatica-canaria |
+| Speciality | Uramaki obako (banana+capra) |
+| Cost | 💰€€€ for persona without bevande |
+| Setting | 🍽️ design dimesso |
+| Contacts | +34 922 894 452 |
+| Ratings | ★★★★|
+| Hours | cena |
 
 ## Menu
 
@@ -22,4 +22,4 @@
 
 **Note**: 30–60 €/persona
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

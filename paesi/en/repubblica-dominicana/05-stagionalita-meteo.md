@@ -1,5 +1,5 @@
-# 05 — Stagionalità e meteo
-## Clima generale
+# 05 — Seasonality & Weather
+## Climate generale
 
 - **Clima tropicale marittimo** su tutta l'isola di Hispaniola, latitudine **18–20°N**. Temperature stabili, umidità alta e alisei dominanti. ★★★★
 - **Repubblica Dominicana e Haiti condividono lo stesso regime sinottico**, con sfumature locali (nord più esposto agli alisei e ai fronti invernali; sud più secco, soprattutto Barahona/Pedernales e nord-ovest haitiano). ★★★
@@ -12,22 +12,22 @@
 ★ ★★
 
 
-## Stagioni
+## Seasons
 
-| Periodo | Caratteristiche | Finestra per la crociera |
+| Period | Characteristics | Finestra per la crociera |
 |---|---|---|
 | **Dicembre – aprile** | **Stagione secca (invierno boreale)**: alisei stabili da NE–E 15–20 kt, scrosci brevi, aria più fresca. **Periodo migliore per navigare** sottovento all'isola e per traversate verso Puerto Rico e Turks & Caicos | ★★★★★ |
 | **Maggio – novembre** | **Stagione umida e ciclonica**: caldo umido, temporali pomeridiani, onde da E–SE, rischio cicloni tropicali. Navigazione possibile ma con finestre meteo più corte | ★★★ |
 | **01 giugno – 30 novembre** | **Stagione ufficiale degli uragani atlantici**, con **picco agosto–ottobre** | ★★★★★ |
 
 
-## Uragani — statistiche recenti
+## Hurricanes — statistiche recenti
 
 | Fonte | Previsione / Consuntivo | Note |
 |---|---|---|
 | **NOAA — outlook 2025** | **13–19 tempeste nominate, di cui 6–10 uragani** (di cui 3–5 maggiori) | Outlook stagionale Atlantico ★★★★★ |
 | **INDOMET (Instituto Dominicano de Meteorología)** | **~17 tempeste** attese per la stagione 2025 | Ufficio meteo ufficiale RD ★★★★★ |
-| Effetti su Hispaniola | L'isola è colpita direttamente in media ogni pochi anni; mareggiate anche con cicloni di passaggio a nord (Turks, Bahamas) o a sud (Caraibi) | ★★★ |
+| Effetti su Hispaniola | L'isola è colpita direttamente in media ogni pochi anni; mareggiate anche con cicloni di passaggio a nord (Turks, Bahamas) o a sud (Caribbean) | ★★★ |
 
 > **Luperón** è riconosciuto come uno dei **migliori hurricane hole al mondo** per la sua baia chiusa a bottiglia: molte barche vi fanno **hivernage ciclonico** a boa o in marina, con assicurazioni che lo accettano come riparo nominato — ma **nessun riparo è garantito a 100%**; ormeggi rinforzati e piano ciclone obbligatori. ★★★★
 
@@ -40,18 +40,18 @@
 - **Swell atlantico**: costa nord esposta a swell da NE (dic–mar); ancoraggi nord da scegliere con riparo. ★★
 
 
-## Finestre tipiche per le traversate
+## Typical Weather Windows per le traversate
 
 | Tratta | Miglia | Finestra consigliata |
 |---|---|---|
 | Luperón → Turks & Caicos / Bahamas | ~250–400 M | Con alta delle Azzorre stabile e aliseo moderato (<20 kt), evitando coda di fronte freddo |
-| Samaná → Puerto Rico (Mayagüez) | ~70–100 M | Aliseo <18 kt, partenza all'alba per arrivo diurno nel Canale della Mona |
+| Samaná → Puerto Rico (Mayagüez) | ~70–100 M | Aliseo <18 kt, departure at dawn for daytime arrival in the Mona Canal |
 | Santo Domingo → Aruba / Curaçao | ~350–400 M | Aliseo stabilizzato, finestra di 3 giorni senza onda ciclonica |
 
 ★ ★
 
 
-## Link meteo e carte locali
+## Weather Links & Local Charts
 
 | Servizio | Cosa offre | Fonte |
 |---|---|---|
@@ -62,22 +62,21 @@
 | **Meteo Tropicale — ONAMET/INDOMET tropical** | Analisi onde tropicali e perturbazioni (agg. quotidiano in stagione) | ★★★★ |
 | [Windy](https://www.windy.com) · [PassageWeather](http://www.passageweather.com) · [PredictWind](https://www.predictwind.com) | Modelli vento/onda per pianificare traversate | ★★★ |
 
-### Siti meteo locali RD/Haiti
+### Local Weather Sites RD/Haiti
 
 - **INDOMET** — autorità ufficiale, allerte cicloni RD ★★★★★
 - **Meteo Haiti (Unité Hydrométéorologique d'Haïti — UHM)** — bollettini Haiti, ma copertura limitata ★★★
 - **Windguru / Windfinder** — spot Samaná, Cabarete, Las Terrenas, Boca Chica ★★★
 
 
-## Consigli pratici
+## Practical Tips
 
 - In **stagione secca (dic–apr)**: navigazione sottovento costa sud RD ben riparata; costa nord con swell ma ancoraggi sicuri una volta dentro (Luperón, Puerto Bahía). ★★★
 - In **stagione ciclonica**: seguire quotidianamente **INDOMET + NHC + COE**; avere piano B con ormeggio rinforzato a Luperón o marina con contratto hivernage. Le marine RD richiedono spesso **contratto anticipato** per la sosta ciclonica. ★★★★
 - Controllare **orari alba/tramonto e escursione di marea** (modesta, <0,5 m) ma con corrente in foci fluviali (Rio Ozama). ★★
 
-Ultimo aggiornamento: 24/08/2026
+Last updated: 24/08/2026
 
-## Venti locali
+## Local Winds
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
+**DATA MISSING** — da completare al controllo mensile.

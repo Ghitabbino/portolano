@@ -1,8 +1,8 @@
-# 08 — Ancoraggi
+# 08 — Guide des mouillages
 
 ## Ancoraggi in dettaglio
 
-| # | Ancoraggio | Riparo | Fondo | Prof. | Boe |
+| # | Mouillage | Riparo | Fondo | Prof. | Boe |
 |---|---|---|---|---|---|
 | 1 | [English Harbour (Freeman)](ancoraggi/anc-english-harbour.md) | ★★★★★ | Sabbia | 4–10 m | No (parco ~US$15/notte ⚠️) |
 | 2 | [Falmouth Harbour](ancoraggi/anc-falmouth.md) | ★★★★ | Sabbia e fango | 5–12 m | Boe AYC Marina ⚠️ |
@@ -10,10 +10,10 @@
 
 
 
-**Ultimo aggiornamento: 23/08/2026**
+**Dernière mise à jour: 23/08/2026**
 
 
-| Ancoraggio | Protezione | Fondo / profondità | Note |
+| Mouillage | Protezione | Fondo / profondità | Note |
 |---|---|---|---|
 | **English Harbour** | Ottima ogni vento | Sabbia, 3–8 m | Nelson's Dockyard; niente ancoraggio nei canali segnalati; tasse all'Harbour Master ★★★★ |
 | **Falmouth Harbour** | Ottima | Sabbia/posidonia, 4–10 m | Ampa a ferro di cavallo; boe disponibili; 3 marine — [Navily](https://www.navily.com/mouillage/falmouth-harbour/13119) ★★★★ |
@@ -23,28 +23,28 @@
 
 ⚠️ Scogli lungo la costa NE e attorno Barbuda; navigazione notturna sconsigliata (regole charter) ★★★
 
-Fonte: [safetyanchoralarm](https://safetyanchoralarm.com/anchorages/antigua-barbuda) · [ABYMA](https://abyma.ag/yachting/anchorages/)
+Source: [safetyanchoralarm](https://safetyanchoralarm.com/anchorages/antigua-barbuda) · [ABYMA](https://abyma.ag/yachting/anchorages/)
 
 Distanze: Antigua–Barbuda ~45 km N · Antigua–Guadeloupe ~65 km S · Antigua–St-Barth ~90 km NW
 
-Ultimo aggiornamento: 23/08/2026
+Dernière mise à jour: 23/08/2026
 
-## Regole generali
+## Règles générales
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Tabella riassuntiva
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## Cartografia ufficiale
+## Tableau récapitulatif
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## Checklist àncora
+## Cartographie officielle
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
+
+
+## Check-list mouillage
+
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 

@@ -1,9 +1,9 @@
-# 06 — Sicurezza
+# 06 — Sécurité
 
 | Servizio | Contatto |
 |---|---|
 | Emergenza nazionale | **911** (travel.gc.ca ★★★★★) |
-| Polizia Turistica | +506 2283-3377 (ICT) |
+| Police Turistica | +506 2283-3377 (ICT) |
 | Cruz Roja | +506 2222-7888 |
 | Bomberos | +506 2233-9898 |
 
@@ -14,29 +14,29 @@
 - **Correnti di risacca (rip currents) PERICOLOSE su tutte le spiagge caraibiche; pochi bagnini (Cocles, Manzanilla, Negra, Punta Uva hanno postazioni ma non sempre presidiate)** (travel.gc.ca ★★★★★).
 - **Ancoraggi: furti a bordo / tender / fuoribordo segnalati in passato (Limón 2011: navi derubate a gunpoint in rada; finora yacht non bersagliati ma "visitors should be wary")** (Sea-Seek ★★★; Noonsite ★★★★).
 
-**Ultimo aggiornamento: 24/08/2026**
+**Dernière mise à jour: 24/08/2026**
 
-Valutazione sicurezza
+Évaluation sécurité
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## Quadro generale
+## Vue d’ensemble
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
 ## Posti sicuri
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
-## Salvataggio ed emergenze
+## Sauvetage et urgences
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 
 
 ## Monitoraggio mensile
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DONNÉE MANQUANTE** — da completare al controllo mensile.
 

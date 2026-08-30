@@ -1,62 +1,62 @@
-# 02 — Costo della vita
+# 02 — Cost of Living
 
-**Ultimo aggiornamento: 27/08/2026** — Tirreno Meridionale
+**Last updated: 27/08/2026** — Tirreno Meridionale
 
-Valuta: **euro (EUR)**. Livello prezzi: **DATO MANCANTE** per dettaglio zona — da verificare sul posto. Italia = UE, carte accettate quasi ovunque; contante utile nei borghi minori e mercati.
+Currency: **euro (EUR)**. Livello prezzi: **DATA MISSING** per dettaglio zona — da verificare sul posto. Italia = UE, carte accettate quasi ovunque; contante utile nei borghi minori e mercati.
 
-> ⚠️ Le voci di questo elenco sono le stesse per tutti i paesi del portolano. Dove il dato non è stato ancora trovato dalle fonti si scrive **DATO MANCANTE**: viene ricercato al controllo mensile.
+> ⚠️ Le voci di questo elenco sono le stesse per tutti i paesi del portolano. Dove il dato non è stato ancora trovato dalle fonti si scrive **DATA MISSING**: viene ricercato al controllo mensile.
 
-## Alimentari e spesa di bordo
+## Groceries & Galley Provisioning
 
-| Voce | Prezzo indicativo | Note |
+| Item | Indicative Price | Notes |
 |---|---|---|
-| Pane 1 kg | **DATO MANCANTE** | **DATO MANCANTE** |
-| Acqua imbottigliata 1,5 l | **DATO MANCANTE** | **DATO MANCANTE** |
-| Latte 1 l | **DATO MANCANTE** | **DATO MANCANTE** |
-| Birra locale 0,33 l | **DATO MANCANTE** | **DATO MANCANTE** |
-| Caffè al bancone | **DATO MANCANTE** | **DATO MANCANTE** |
+| Pane 1 kg | **DATA MISSING** | **DATA MISSING** |
+| Acqua imbottigliata 1,5 l | **DATA MISSING** | **DATA MISSING** |
+| Latte 1 l | **DATA MISSING** | **DATA MISSING** |
+| Birra locale 0,33 l | **DATA MISSING** | **DATA MISSING** |
+| Caffè al bancone | **DATA MISSING** | **DATA MISSING** |
 
-## Mangiare fuori (media)
+## Eating Out (Average)
 
-| Voce | Prezzo indicativo |
+| Item | Indicative Price |
 |---|---|
-| Trattoria locale | **DATO MANCANTE** |
-| Pizzeria | **DATO MANCANTE** |
-| Ristorante pesce fronte mare | **DATO MANCANTE** |
+| Trattoria locale | **DATA MISSING** |
+| Pizzeria | **DATA MISSING** |
+| Ristorante pesce fronte mare | **DATA MISSING** |
 
-Prezzi specifici per locale → [10 Ristoranti](10-ristoranti.md).
+Prezzi specifici per locale → [10 Restaurants](10-ristoranti.md).
 
-## Carburanti (Tirreno Meridionale)
+## Fuel (Tirreno Meridionale)
 
-| Voce | Prezzo indicativo | Note |
+| Item | Indicative Price | Notes |
 |---|---|---|
-| Gasolio banchina | **DATO MANCANTE** | Prezzi variabili per porto — verificare in loco |
-| Benzina SP95 | **DATO MANCANTE** | **DATO MANCANTE** |
-| Bombola gas (scambio) | **DATO MANCANTE** | **DATO MANCANTE** |
+| Gasolio banchina | **DATA MISSING** | Prezzi variabili per porto — verificare in loco |
+| Benzina SP95 | **DATA MISSING** | **DATA MISSING** |
+| Bombola gas (scambio) | **DATA MISSING** | **DATA MISSING** |
 
-## Trasporti e collegamenti
+## Transport & Connections
 
-| Voce | Prezzo indicativo | Note |
+| Item | Indicative Price | Notes |
 |---|---|---|
-| Bus locale | **DATO MANCANTE** | **DATO MANCANTE** |
-| Taxi | **DATO MANCANTE** | **DATO MANCANTE** |
-| Noleggio auto giornaliero | **DATO MANCANTE** | **DATO MANCANTE** |
+| Bus locale | **DATA MISSING** | **DATA MISSING** |
+| Taxi | **DATA MISSING** | **DATA MISSING** |
+| Noleggio auto giornaliero | **DATA MISSING** | **DATA MISSING** |
 
-## Servizi quotidiani
+## Everyday Services
 
-| Voce | Prezzo indicativo | Note |
+| Item | Indicative Price | Notes |
 |---|---|---|
-| Lavanderia self-service | **DATO MANCANTE** | **DATO MANCANTE** |
-| SIM prepagata con dati | **DATO MANCANTE** | Operatori principali: TIM / Vodafone / WindTre |
-| Lavaggio scafo | **DATO MANCANTE** | **DATO MANCANTE** |
+| Lavanderia self-service | **DATA MISSING** | **DATA MISSING** |
+| SIM prepagata con dati | **DATA MISSING** | Operatori principali: TIM / Vodafone / WindTre |
+| Lavaggio scafo | **DATA MISSING** | **DATA MISSING** |
 
-## Contanti e pagamenti
+## Cash & Payments
 
 Euro, POS diffuso. Bancomat nei capoluoghi e borghi maggiori. Nei porticcioli minori tenere contante.
 
-## Approfondimenti
+## Further Reading
 
-- Tariffe marine e boe → [03 Porti e marine](03-porti-ancoraggi.md)
-- Ristoranti con prezzi specifici → [10 Ristoranti](10-ristoranti.md)
+- Tariffe marine e boe → [03 Ports & Marinas](03-porti-ancoraggi.md)
+- Restaurants con prezzi specifici → [10 Restaurants](10-ristoranti.md)
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

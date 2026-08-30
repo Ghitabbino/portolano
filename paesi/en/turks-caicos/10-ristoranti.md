@@ -1,8 +1,8 @@
-# 10 — Ristoranti
+# 10 — Restaurants
 
-**Ultimo aggiornamento: 28/08/2026**
+**Last updated: 28/08/2026**
 
-Selezione orientata alla crociera: locali raggiungibili a piedi / breve taxi dagli ancoraggi e marine del portolano ([08 Ancoraggi](08-ancoraggi.md)). Valutazione ponderata = media Google/OpenTable/TripAdvisor + **siti locali** (visittci.com) verificata il 28/08/2026. Prezzi indicativi per persona senza bevande (tasse resort ≥22% spesso extra).
+Cruiser-oriented selection: locali raggiungibili a piedi / breve taxi dagli ancoraggi e marine del portolano ([08 Ancoraggi](08-ancoraggi.md)). Valutazione ponderata = media Google/OpenTable/TripAdvisor + **siti locali** (visittci.com) verificata il 28/08/2026. Prezzi indicativi per person without drinks (tasse resort ≥22% spesso extra).
 
 Legenda prezzi: **€** <25 USD · **€€** 25–50 USD · **€€€** >50 USD — Cucina: 🐟 pesce e frutti di mare · 🥩 carne e grill · 🥗 vegetariano-friendly · 🥙 street food creolo · 🍰 caffè/dolci — Location: 🏖️ spiaggia · ⚓ marina · 🌴 palmeto · 🪶 casual · 🍽️ gourmet
 
@@ -40,6 +40,6 @@ Legenda prezzi: **€** <25 USD · **€€** 25–50 USD · **€€€** >50 U
 | Google Maps recensioni | Il più aggiornato; orari spesso errati fuori stagione (sett–ott chiusura "silly season") |
 | Facebook / Instagram locali | Pagine ristoranti: menu e chiusure in tempo reale |
 
-> Estensione a **siti locali** eseguita su **visittci.com** (portale turistico ufficiale curato localmente) + OpenTable locale + TripAdvisor per incrocio rating — come richiesto da standard 27/08/2026. Ogni scheda riporta fonte locale + ranking ★.
+> Extension a **siti locali** eseguita su **visittci.com** (portale turistico ufficiale curato localmente) + OpenTable locale + TripAdvisor per incrocio rating — come richiesto da standard 27/08/2026. Ogni scheda riporta fonte locale + ranking ★.
 
-Ultimo aggiornamento: 28/08/2026
+Last updated: 28/08/2026

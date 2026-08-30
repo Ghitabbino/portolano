@@ -1,33 +1,33 @@
-# 09 — Artigiani e negozi nautici
+# 09 — Artisans & Shipchandlers
 
-Hub principale **DATO MANCANTE** — da verificare (possibili poli: Barcellona, Valencia, Palma di Mallorca). Contatto tipico via telefono / WhatsApp; si parla albania e spesso inglese. Per lavori importanti chiedere sempre **presupuesto** (preventivo scritto) e confermare i tempi in alta stagione.
+Hub principale **DONNÉE MANQUANTE** — à vérifier (possibili poli: Barcellona, Valencia, Palma di Mallorca). Contatto tipico via telefono / WhatsApp; si parla albania e spesso inglese. Per lavori importanti chiedere sempre **presupuesto** (preventivo scritto) e confermare i tempi in alta stagione.
 
 ## Tabella artigiani
 
 | Ditta / Nome | Referente | Area di intervento | Dealer / Installatore autorizzato (marchi) | Tel | Mail | Sede & orari | Recensioni |
 |---|---|---|---|---|---|---|---|
-| **DATO MANCANTE** | **DATO MANCANTE** | Meccanico / rigger / velaio / frigorista | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** |
+| **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | Meccanico / rigger / velaio / frigorista | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
 
 ## Altri operatori utili
 
-- **DATO MANCANTE** — da censire al controllo mensile.
+- **DONNÉE MANQUANTE** — da censire al controllo mensile.
 
-## Dove si trova cosa
+## Où trouver quoi
 
-- **Motoristica/frigoriferi/saldatura**: **DATO MANCANTE**
-- **Vele**: **DATO MANCANTE**
-- **Antifouling/carenaggio**: **DATO MANCANTE**
+- **Motoristica/frigoriferi/saldatura**: **DONNÉE MANQUANTE**
+- **Vele**: **DONNÉE MANQUANTE**
+- **Antifouling/carenaggio**: **DONNÉE MANQUANTE**
 
-## Negozi di attrezzature e shipchandler
+## Magasins d’équipement & shipchandler
 
 | Negozio | Cosa trovi | Marchi notevoli | Tel | Mail / sito | Sede & orari | Recensioni |
 |---|---|---|---|---|---|---|
-| **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** | **DATO MANCANTE** |
+| **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** |
 
-## Note pratiche
+## Notes pratiques
 
-- **Pagamenti**: **DATO MANCANTE**
-- **Tempi**: ricambi dall'Europa = 1–2 settimane tipicamente — **DATO MANCANTE** su dettagli locali.
-- **Energia di bordo**: **DATO MANCANTE**
+- **Pagamenti**: **DONNÉE MANQUANTE**
+- **Tempi**: ricambi dall'Europa = 1–2 settimane tipicamente — **DONNÉE MANQUANTE** su dettagli locali.
+- **Energia di bordo**: **DONNÉE MANQUANTE**
 
-Ultimo aggiornamento: 27/08/2026
+Dernière mise à jour: 27/08/2026

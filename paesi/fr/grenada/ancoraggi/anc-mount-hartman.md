@@ -1,20 +1,20 @@
 # Mount Hartman Bay / Secret Harbour {#anc-mount-hartman}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← Tous les mouillages](../08-ancoraggi.md)
 **12°00′15″ N 61°45′07″ W** ★★★★
 
-| Campo | Dettaglio |
+| Champ | Détail |
 |---|---|
-| **Profondità** |**DATO MANCANTE**|
-| **Tenuta àncora** |Baia chiusa + mangrovie: tra le più sicure dei Caraibi|
-| **Venti/riparo** |Hurricane hole storico|
-| **Pericoli** |Ingresso stretto|
-| **Boe/divieti/normative** |Marina 53 slip (max 20 ft pescaggio); niente dogana: si sdogana a Prickly Bay|
-| **A terra** |Secret Harbour Marina|
+| **Profondeur** |**DONNÉE MANQUANTE**|
+| **Tenue de l’ancre** |Baie chiusa + mangrovie: tra le più sicure dei Caraïbes|
+| **Vents/abri** |Hurricane hole storico|
+| **Dangers** |Ingresso stretto|
+| **Bouées/interdictions/réglementation** |Marina 53 slip (max 20 ft pescaggio); niente dogana: si sdogana a Prickly Bay|
+| **À terre** |Secret Harbour Marina|
 
 <div class="mapframe" data-slug="anc-mount-hartman" data-lat="12.0042" data-lon="-61.7519"></div>
-*Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
+*Carte détaillée — zoomez jusqu’à la baie · carte hors ligne · coordinate WGS84 indicative, toujours vérifier avec le traceur*
 
 Fonti: [secretharbourgrenada.com](https://secretharbourgrenada.com) ★★★★ · Pure Grenada ★★★
 
-Ultimo aggiornamento: 28/08/2026
+Dernière mise à jour: 28/08/2026

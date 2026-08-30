@@ -5,8 +5,8 @@
 
 | Campo | Dettaglio |
 |---|---|
-| **Profondità** |**DATO MANCANTE**|
-| **Tenuta àncora** |**DATO MANCANTE**|
+| **Profondità** |**DATA MISSING**|
+| **Tenuta àncora** |**DATA MISSING**|
 | **Venti/riparo** |Baia di Soufrière|
 | **Pericoli** |Hummingbird Beach = Fishing Priority Area chiusa all'ancoraggio (riaperta solo con maltempo su avviso VHF)|
 | **Boe/divieti/normative** |5 boe yacht a Rachette Point; Customs in paese|
@@ -17,4 +17,4 @@
 
 Fonti: SMMA ★★★★ · Noonsite ★★★ · [DA VERIFICARE SATELLITE]
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026

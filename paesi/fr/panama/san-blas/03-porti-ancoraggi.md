@@ -1,25 +1,25 @@
-# 03 — Porti e marine
+# 03 — Ports & Marinas
 
 ## Panoramica zone
 
 Non esistono marine né porti turistici nella comarca: solo anse tra le isole coralline e villaggi sulla costa. Riferimenti logistici fuori comarca: **Linton Bay** (12 NM ovest) e **Colón**.
 
-| Zona | Caratteristiche |
+| Zone | Caratteristiche |
 |---|---|
 | Ovest (Cartí–Lemmons) | Isole più vicine alla costa, affollate, primo approccio tipico |
 | Centro (Salardup–Río Sidra) | Villaggi con servizi base, acquisto pesce |
 | Est (Holandeses) | Le isole più belle, acqua limpida, meno servizi |
 | Nord-est (Mamitupu, Playón Chico) | Villaggi autentici, pochi yacht |
 
-## Tariffe ormeggi
+## Tarifs ormeggi
 
-| Voce | Dato |
+| Rubrique | Dato |
 |---|---|
-| Ancoraggio | Gratuito ovunque + permesso Guna ($50 barca/$20 persona) [01-clearance] |
-| Boe | Quasi assenti; alcune private presso lodge — DATO MANCANTE elenco |
-| Molo | Nessuno per yacht |
+| Mouillage | Gratuito ovunque + permesso Guna ($50 barca/$20 persona) [01-clearance] |
+| Boe | Quasi assenti; alcune private presso lodge — DONNÉE MANQUANTE elenco |
+| Jetée | Nessuno per yacht |
 
-## Distanze utili
+## Distances utiles
 
 | Da → A | NM |
 |---|---|
@@ -29,4 +29,4 @@ Non esistono marine né porti turistici nella comarca: solo anse tra le isole co
 | Holandeses → Capo Tiburón (uscita sud) | ~25 |
 | Porvenir → Cartagena | ~230 |
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026

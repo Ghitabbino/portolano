@@ -1,17 +1,17 @@
 # Caprichos de La Gomera
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← All restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Field | Detail |
 |---|---|
-| Zona | San Sebastián – Paseo Fred Olsen |
-| Cucina | 🍽️ Raffinata vista mare |
-| Specialità | Cucina autoriale |
-| Costo | 💰€€€ per persona senza bevande |
-| Location | 🌅 paseo terminal ferry |
-| Contatti | +34 629 650 889 |
-| Valutazioni |sito ufficiale ★★★★|
-| Orari | cena |
+| Area | San Sebastián – Paseo Fred Olsen |
+| Cuisine | 🍽️ Raffinata vista mare |
+| Speciality | Cuisine autoriale |
+| Cost | 💰€€€ for persona without bevande |
+| Setting | 🌅 paseo terminal ferry |
+| Contacts | +34 629 650 889 |
+| Ratings |sito ufficiale ★★★★|
+| Hours | cena |
 
 ## Menu
 
@@ -19,6 +19,6 @@
 
 **Chef**: ND
 
-**Note**: Scelta elegante davanti al porto
+**Note**: Scelta elegante davanti at the porto
 
-Ultimo aggiornamento: 23/08/2026
+Last updated: 23/08/2026

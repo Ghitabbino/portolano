@@ -1,6 +1,6 @@
-# 07 — Provvisioning
+# 07 — Provisioning
 
-**Ultima verifica: 25/08/2026**
+**Last checked: 25/08/2026**
 
 | Zona | Dove | Note |
 |---|---|---|
@@ -11,19 +11,18 @@
 
 - Acqua in bottiglia o RO; carburante ai dock di French Harbour/Coxen Hole ★★
 
-Ultimo aggiornamento: 25/08/2026
+Last updated: 25/08/2026
 
-## Supermercati
+## Supermarkets
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Acqua e carburante
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
 
-## Consigli pratici
+## Water & Fuel
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATA MISSING** — da completare al controllo mensile.
 
+
+## Practical Tips
+
+**DATA MISSING** — da completare al controllo mensile.

@@ -1,10 +1,10 @@
-# 10 — Ristoranti
+# 10 — Restaurants
 ## Griglia generale — Repubblica Dominicana
 
 | Ristorante | Zona | Costo | Cucina | Specialità | Location | Stelle |
 |---|---|---|---|---|---|---|
 | **Puerto Blanco Restaurant** | Luperón (in baia) | **€€** | 🥗 Internazionale / pesce | Pesce del giorno, lobster in stagione, menu cruiser | **⚓ in baia, dinghy dock** | ★★★★ |
-| **Ocean World — Ristoranti Marina** | Cofresí / Puerto Plata | **€€–€€€** | 🐟 Pesce / 🥩 grill | Grill, buffet resort, pizza | **⚓ marina resort** | ★★★ |
+| **Ocean World — Restaurants Marina** | Cofresí / Puerto Plata | **€€–€€€** | 🐟 Pesce / 🥩 grill | Grill, buffet resort, pizza | **⚓ marina resort** | ★★★ |
 | **Muelle 18** | Luperón paese | **€** | 🐟 Pesce locale | Pescado frito con tostones | **🪶 semplice, locale** | ★★★ |
 | **La Tarappa** | Samaná città | **€€** | 🐟 Pesce creolo | Ceviche, camarones al coco | **🌅 sul mare** | ★★★★ |
 | **Puerto Bahía — Ristorante Marina** | Samaná (Puerto Bahía) | **€€** | 🥗 Internazionale | Club sandwich, pesce, pool bar | **⚓ marina** | ★★★½ |
@@ -37,4 +37,4 @@
 | Facebook / Instagram del locale | Menu e chiusure in tempo reale (molti ristoranti RD aggiornano solo lì) |
 | Noonsite / Cruisers Forum | Recensioni recenti dei naviganti per Luperón/Samaná |
 
-Ultimo aggiornamento: 24/08/2026
+Last updated: 24/08/2026

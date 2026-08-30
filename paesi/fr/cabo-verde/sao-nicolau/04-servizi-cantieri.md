@@ -1,27 +1,27 @@
-# 04 — Servizi, cantieri e manutenzione
+# 04 — Services, Chantiers & Entretien
 
-**Ultima verifica: 24/08/2026** · sao-nicolau: servizi essenziali, per lavori importanti andare a Mindelo.
+**Dernière vérification: 24/08/2026** · sao-nicolau: servizi essenziali, per lavori importanti andare a Mindelo.
 
 ## Hub tecnico
 
-Nessun travelift/cantiere turistico a sao-nicolau; alaggio solo per pescherecci locali. **DATO MANCANTE** per gru vela verificata.
+Nessun travelift/cantiere turistico a sao-nicolau; alaggio solo per pescherecci locali. **DONNÉE MANQUANTE** per gru vela verificata.
 
 ## Servizi disponibili
 
 | Servizio | Dove | Note |
 |---|---|---|
-| Carburante | Porto principale distributore | Prezzo regolato 95–115 CVE/l |
-| Acqua | Banchina porto | Razionata, chiedere capitania |
+| Carburante | Port principale distributore | Prezzo regolato 95–115 CVE/l |
+| Eau | Banchina porto | Razionata, chiedere capitania |
 | Gas LPG | Negozi capoluogo | Scambio bombole, disponibilità variabile |
-| Elettricità | **DATO MANCANTE** | Banchina pescherecci se disponibile |
-| Meccanica | Artigiani locali su richiesta | **DATO MANCANTE** — chiedere in capitania/porto |
+| Électricité | **DONNÉE MANQUANTE** | Banchina pescherecci se disponibile |
+| Meccanica | Artigiani locali su richiesta | **DONNÉE MANQUANTE** — chiedere in capitania/porto |
 
 ## Artigiani
 
-**DATO MANCANTE** — nessun contatto verificato stabile fuori Mindelo; passaparola locale via marina/porto.
+**DONNÉE MANQUANTE** — nessun contatto verificato stabile fuori Mindelo; passaparola locale via marina/porto.
 
-## Note strategiche
+## Notes stratégiques
 
 Portare ricambi critici da Mindelo/Praia o dalle Canarie; tempi di approvvigionamento lunghi.
 
-Ultimo aggiornamento: 24/08/2026
+Dernière mise à jour: 24/08/2026

@@ -1,51 +1,51 @@
-# 02 — Costo della vita
+# 02 — Cost of Living
 
-**Ultimo aggiornamento: 27/08/2026**
+**Last updated: 27/08/2026**
 
-Valuta: **shekel israeliano (ILS)**. Livello prezzi: **DATO MANCANTE** — da verificare con fonti locali aggiornate.
+Currency: **shekel israeliano (ILS)**. Livello prezzi: **DATA MISSING** — da verificare con fonti locali aggiornate.
 
-> ⚠️ Le voci di questo elenco sono le stesse per tutti i paesi del portolano. Dove il dato non è stato ancora trovato si scrive **DATO MANCANTE**: viene ricercato al controllo mensile.
+> ⚠️ Le voci di questo elenco sono le stesse per tutti i paesi del portolano. Dove il dato non è stato ancora trovato si scrive **DATA MISSING**: viene ricercato al controllo mensile.
 
-## Alimentari e spesa di bordo
+## Groceries & Galley Provisioning
 
-| Voce | Prezzo indicativo | Note |
+| Item | Indicative Price | Notes |
 |---|---|---|
-| Birra locale supermercato (0,33 l) | **DATO MANCANTE** | **DATO MANCANTE** |
-| Caffè al bancone | **DATO MANCANTE** | **DATO MANCANTE** |
-| Pane / baguette | **DATO MANCANTE** | **DATO MANCANTE** |
-| Acqua imbottigliata 1,5 l | **DATO MANCANTE** | **DATO MANCANTE** |
-| Latte 1 l | **DATO MANCANTE** | **DATO MANCANTE** |
-| Riso 1 kg | **DATO MANCANTE** | **DATO MANCANTE** |
-| Pollo fresco 1 kg | **DATO MANCANTE** | **DATO MANCANTE** |
+| Birra locale supermercato (0,33 l) | **DATA MISSING** | **DATA MISSING** |
+| Caffè al bancone | **DATA MISSING** | **DATA MISSING** |
+| Pane / baguette | **DATA MISSING** | **DATA MISSING** |
+| Acqua imbottigliata 1,5 l | **DATA MISSING** | **DATA MISSING** |
+| Latte 1 l | **DATA MISSING** | **DATA MISSING** |
+| Riso 1 kg | **DATA MISSING** | **DATA MISSING** |
+| Pollo fresco 1 kg | **DATA MISSING** | **DATA MISSING** |
 
-## Mangiare fuori (media)
+## Eating Out (Average)
 
-| Voce | Prezzo indicativo |
+| Item | Indicative Price |
 |---|---|
-| Menu ristorante medio | **DATO MANCANTE** |
-| Fast food / street food | **DATO MANCANTE** |
+| Menu ristorante medio | **DATA MISSING** |
+| Fast food / street food | **DATA MISSING** |
 
-## Carburanti
+## Fuel
 
-| Voce | Prezzo | Fonte |
+| Item | Prezzo | Fonte |
 |---|---|---|
-| Gasolio banchina | **DATO MANCANTE** | **DATO MANCANTE** |
-| Benzina | **DATO MANCANTE** | **DATO MANCANTE** |
+| Gasolio banchina | **DATA MISSING** | **DATA MISSING** |
+| Benzina | **DATA MISSING** | **DATA MISSING** |
 
-## Trasporti
+## Transport
 
-**DATO MANCANTE**.
+**DATA MISSING**.
 
-## Servizi quotidiani
+## Everyday Services
 
-**DATO MANCANTE**.
+**DATA MISSING**.
 
-## Contanti e pagamenti
+## Cash & Payments
 
-**DATO MANCANTE** — verificare diffusione carte / ATM vicino alle marine.
+**DATA MISSING** — verificare diffusione carte / ATM vicino alle marine.
 
-## Approfondimenti
+## Further Reading
 
-**DATO MANCANTE**.
+**DATA MISSING**.
 
-Ultimo aggiornamento: 27/08/2026
+Last updated: 27/08/2026

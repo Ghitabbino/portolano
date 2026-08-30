@@ -1,19 +1,19 @@
-# 08 — Portolano degli ancoraggi
+# 08 — Guide des mouillages
 
 ## Ancoraggi in dettaglio
 
-| # | Ancoraggio | Riparo | Fondo | Prof. | Boe |
+| # | Mouillage | Riparo | Fondo | Prof. | Boe |
 |---|---|---|---|---|---|
 | 1 | [Charlestown](ancoraggi/anc-charlestown-nevis.md) | ★★★★ | Sabbia | 4–8 m | Boe resort ⚠️ |
 
 
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026
 
-## Tabella riassuntiva
+## Tableau récapitulatif
 
-| # | Ancoraggio | Fondo | Prof. | Note |
+| # | Mouillage | Fondo | Prof. | Note |
 |---|---|---|---|---|
 | 1 | Charlestown Bay | sabbia/fango | 3–9 m | Riparata; pontili resort a nord della baia |
 
-Ultimo aggiornamento: 22/08/2026
+Dernière mise à jour: 22/08/2026
