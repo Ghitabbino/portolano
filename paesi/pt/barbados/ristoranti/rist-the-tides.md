@@ -2,7 +2,7 @@
 
 [← Tutti i ristoranti](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Campo | Detalhe |
 |---|---|
 | Zona | St. James — Holetown (1 km a piedi da Port St. Charles via Highway 1) |
 | Cucina | 🍽️ Haute internazionale + 🐟 frutti di mare |
@@ -27,4 +27,4 @@
 
 Fonti: [barbados.org — The Tides](https://barbados.org/orestloc.htm) ★★★ · [Totally Barbados — The Tides](https://www.totallybarbados.com/place/the-tides-restaurant/) ★★★ · [thetidesbarbados.com](https://www.thetidesbarbados.com) ★★★ · Google/TripAdvisor 28/08/2026 ★★★
 
-Ultimo aggiornamento: 28/08/2026
+Última atualização: 28/08/2026

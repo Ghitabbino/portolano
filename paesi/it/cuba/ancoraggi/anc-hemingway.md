@@ -15,6 +15,6 @@
 <div class="mapframe" data-slug="anc-hemingway" data-lat="23.087" data-lon="-82.497"></div>
 *Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
 
-Fonti: Noonsite Cuba ★★★ · ricerche/cuba.md
+Fonti: Fonti diportiste aggregate Cuba ★★★ · ricerche/cuba.md
 
 Ultimo aggiornamento: 25/08/2026

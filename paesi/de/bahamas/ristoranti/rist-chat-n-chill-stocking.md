@@ -1,18 +1,18 @@
 # Chat ’N’ Chill — Stocking
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Alle Restaurants](../10-ristoranti.md)
 **23°31′09″ N 75°45′22″ W**
 
-| Campo | Dettaglio |
+| Feld | Detail |
 |---|---|
-| **Costo** |**DATO MANCANTE**|
-| **Cucina** |**DATO MANCANTE**|
-| **Specialità** |**DATO MANCANTE**|
-| **Location** |**DATO MANCANTE**|
+| **Kosten** |**DATEN FEHLEN**|
+| **Küche** |**DATEN FEHLEN**|
+| **Spezialität** |**DATEN FEHLEN**|
+| **Lage** |**DATEN FEHLEN**|
 
 <div class="mapframe" data-slug="rist-chat-n-chill-stocking" data-lat="23.5192" data-lon="-75.756"></div>
-*Cartina di dettaglio: posizione a terra rispetto alla barca · zoom ±*
+*Detailkarte: Position an Land relativ zum Boot · Zoom ±*
 
-Fonti: **DATO MANCANTE**
+Quellen: **DATEN FEHLEN**
 
-Ultimo aggiornamento: 25/08/2026
+Letzte Aktualisierung: 25/08/2026

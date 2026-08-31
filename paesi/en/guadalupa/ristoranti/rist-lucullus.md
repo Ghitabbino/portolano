@@ -5,24 +5,24 @@
 | Field | Detail |
 |---|---|
 | Area | Sainte-Anne |
-| Cuisine | 🐟 Creola-francese |
-| Speciality | Pesce · langouste |
-| Cost | 💰€€ for persona without bevande |
-| Setting | 🌅 terrazza |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Lucullus+Sainte-Anne) |
-| Contacts | [Scheda TripAdvisor](https://www.tripadvisor.fr/Restaurant_Review-g147303-d1945770-Reviews-Le_Lucullus-Sainte_Anne_Grande_Terre_Island_Guadeloupe.html) |
-| Ratings | Google 4,3/5 (1366) → ★★★★ |
-| Hours | aperto all l'anno · 12–15 / 19–22:30 tipici ⚠️ |
+| Cuisine | 🐟 Creole-French |
+| Speciality | Fish · lobster |
+| Cost | 💰€€ per person without drinks |
+| Setting | 🌅 terrace |
+| Map | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Lucullus+Sainte-Anne) |
+| Contacts | [TripAdvisor page](https://www.tripadvisor.fr/Restaurant_Review-g147303-d1945770-Reviews-Le_Lucullus-Sainte_Anne_Grande_Terre_Island_Guadeloupe.html) |
+| Ratings | Google 4.3/5 (1366) → ★★★★ |
+| Hours | open all year · typical 12–15 / 19–22:30 ⚠️ |
 
 ## Menu
 
-- Pesce
-- Langouste
+- Fish
+- Lobster
 
 **Chef**: ND
 
-## Foto
+## Photos
 
-*Foto non still disponibili — recuperare at the controllo mensile.*
+*No photos available yet — to be added on monthly check.*
 
-**Note**: Fronte mare · classico affidabile of the spiaggia
+**Notes**: Seafront · reliable beach classic

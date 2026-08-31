@@ -1,6 +1,6 @@
 # 01 — Formalités douanières
 
-**Dernière vérification: 25/08/2026** · Sources principales: [Noonsite Dominica](https://www.noonsite.com/place/dominica) ★★★ · [Noonsite Roseau Clearance](https://www.noonsite.com/place/dominica/roseau/view/clearance/) ★★★ · [PAYS Dominica](https://paysdominica.com/) ★★★★ · [edcard.dominica.gov.dm](https://edcard.dominica.gov.dm) ★★★★
+**Dernière vérification: 25/08/2026** · Sources principales: Sources plaisance agrégées ★★★ · Sources plaisance agrégées ★★★ · [PAYS Dominica](https://paysdominica.com/) ★★★★ · [edcard.dominica.gov.dm](https://edcard.dominica.gov.dm) ★★★★
 
 ## Qui doit effectuer les formalités
 
@@ -13,7 +13,7 @@ Tutti i natanti da diporto, qualsiasi nazionalità e bandiera, che:
 
 ## Procédure online (prima dell'arrivo)
 
-1. **SailClear**: creare la pratica su [sailclear.com](https://www.sailclear.com) con dati barca (nome, bandiera, registrazione, LOA, pescaggio, MMSI), equipaggio (nome, data nascita, nazionalità, n° passaporto), ultimo/prossimo porto, ETA. SailClear è ancora richiesto dalle autorità di Dominica (conferma Noonsite feb 2025) ★★★.
+1. **SailClear**: creare la pratica su [sailclear.com](https://www.sailclear.com) con dati barca (nome, bandiera, registrazione, LOA, pescaggio, MMSI), equipaggio (nome, data nascita, nazionalità, n° passaporto), ultimo/prossimo porto, ETA. SailClear è ancora richiesto dalle autorità di Dominica (conferma Sources plaisance agrégées feb 2025) ★★★.
 2. **eD Card governativa**: compilare il modulo su [edcard.dominica.gov.dm](https://edcard.dominica.gov.dm) per l'Immigration (dati personali + viaggio). I due sistemi **coesistono**: inviare SailClear **e** eD Card evita ritardi al terminal. ★★★★
 3. Inviare e conservare le ricevute elettroniche; all'arrivo presentarsi di persona in dogana/immigrazione con passaporti e documenti barca.
 

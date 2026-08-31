@@ -15,6 +15,6 @@
 <div class="mapframe" data-slug="anc-port-of-spain" data-lat="10.6747" data-lon="-61.5688"></div>
 *Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
 
-Fonti: Noonsite ★★★
+Fonti: Fonti diportiste aggregate ★★★
 
 Ultimo aggiornamento: 25/08/2026

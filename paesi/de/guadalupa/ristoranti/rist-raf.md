@@ -1,27 +1,27 @@
 # Chez Raf
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Alle Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Feld | Detail |
 |---|---|
-| Zona | Deshaies |
-| Cucina | 🍽️ Raffinata caraibica |
-| Specialità | Pesce creativo |
-| Costo | 💰€€€ per persona senza bevande |
-| Location | 🍽️ elegante informale, cocktails |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chez+Raf+Deshaies) |
-| Contatti | [Mappa](https://www.google.com/maps/search/?api=1&query=Chez+Raf+Deshaies) |
-| Valutazioni | Google 4,9/5 (~250) → ★★★★★ |
-| Orari | cena · prenotare ⚠️ |
+| Gebiet | Deshaies |
+| Küche | 🍽️ Raffiniert karibisch |
+| Spezialität | Kreative Fischgerichte |
+| Preis | 💰€€€ pro Person ohne Getränke |
+| Lage | 🍽️ elegant-lässig, Cocktails |
+| Karte | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chez+Raf+Deshaies) |
+| Kontakt | [Karte](https://www.google.com/maps/search/?api=1&query=Chez+Raf+Deshaies) |
+| Bewertungen | Google 4,9/5 (~250) → ★★★★★ |
+| Öffnungszeiten | Abendessen · Reservierung erforderlich ⚠️ |
 
-## Menu
+## Menü
 
-- Pesce creativo
+- Kreative Fischgerichte
 
 **Chef**: ND
 
-## Foto
+## Fotos
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Noch keine Fotos verfügbar — werden bei der monatlichen Kontrolle ergänzt.*
 
-**Note**: Vista mare · tra i migliori del bourg · menu 35–55 €
+**Hinweise**: Meerblick · eines der besten im Ort · Menü 35–55 €

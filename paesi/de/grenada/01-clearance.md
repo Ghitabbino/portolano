@@ -11,7 +11,7 @@ Tutti i natanti da diporto stranieri, qualsiasi bandiera, che:
 
 ## Procedura online (pre-notifica)
 
-1. Prima della traversata registrarsi su **[SailClear](https://www.sailclear.com/)** (sistema regionale CCLEC): si inseriscono natante, equipaggio e porto precedente; agli uffici basta presentare il **Notification ID**. Da 2024–25 richiede abbonamento annuale **US$25**. [Money for Mangos, feb 2025](https://moneyformangos.com/clearing-into-grenada/) ★★★ · Noonsite ★★★ — obbligatorietà contestata dalle fonti: trattarla come opzionale ma comoda; confermare prima dell'arrivo.
+1. Prima della traversata registrarsi su **[SailClear](https://www.sailclear.com/)** (sistema regionale CCLEC): si inseriscono natante, equipaggio e porto precedente; agli uffici basta presentare il **Notification ID**. Da 2024–25 richiede abbonamento annuale **US$25**. [Money for Mangos, feb 2025](https://moneyformangos.com/clearing-into-grenada/) ★★★ · Aggregierte Fahrtensegler-Quellen ★★★ — obbligatorietà contestata dalle fonti: trattarla come opzionale ma comoda; confermare prima dell'arrivo.
 2. All'ingresso nelle acque: issare **bandiera Q**, ancorare (o ormeggiare al molo del POE, piccolo sovrapprezzo) e **non sbarcare**.
 3. Solo il **capitano** va negli uffici: la clearance d'ingresso va completata prima che qualsiasi membro dell'equipaggio metta piede a terra. [Carriacou Marine](https://carriacoumarine.com/customs-immigration/) ★★★★
 4. Presentarsi entro le **15:00** per chiudere le formalità nella giornata lavorativa. [Carriacou Marine](https://carriacoumarine.com/customs-immigration/) ★★★★
@@ -33,7 +33,7 @@ Evitare l'arrivo nel week-end: sabato/dom/festivi si paga **overtime** (tariffa 
 | Cruising permit 1 mese | **EC$50–125** per fascia di stazza (≤40 / 40–60 / 60–80 / >80 ft) — vedi dettaglio in [00](00-ingresso-visti.md); l'[Atto](https://grenadaparliament.gd/wp-content/uploads/2021/08/Cap345-YACHTING-ACT.pdf) ★★★★★ indica EC$150 per >80 ft: fascia massima da confermare | Yachting Act Cap. 345 ★★★★★ + dato verificato |
 | Pre-notifica SailClear (opzionale) | US$25/anno | Money for Mangos feb 2025 ★★★ |
 | Overtime (clearance fuori orario) | Variabile per grado: da EC$40 a EC$143 osservati | Cruisers Wiki ★★★ · Money for Mangos feb 2025 ★★★ |
-| Sovrapprezzo Porto di St George's (porto commerciale) | Presente, importo **DATO MANCANTE** | [Noonsite, magg 2022](https://www.noonsite.com/place/grenada/st-georges/view/clearance/) ★★★ |
+| Sovrapprezzo Porto di St George's (porto commerciale) | Presente, importo **DATO MANCANTE** | Aggregierte Fahrtensegler-Quellen ★★★ |
 | Embarkation tax chi arriva in barca e riparte in aereo | EC$20/persona | [Tyrell Bay Marina](https://www.tyrellbaymarinacarriacou.com/usefull-info/) ★★★★ |
 | Boe MPMBPA / ancoreggio | Vedi [03 Porti](03-porti-ancoraggi.md) | — |
 
@@ -43,10 +43,10 @@ Uffici doganali direttamente **a bordo molo** nelle marine. [Carriacou Marine](h
 
 | Località | Ufficio | Contatti | Orari |
 |---|---|---|---|
-| **St George's** | [Port Louis Marina](https://cnmarinas.com/marinas/port-louis-marina/details/), uffici Custom/Immigration dietro la marina office (trasferiti qui dall'ex Grenada Yacht Club) | tramite marina office +1 473 435 7432 | lun–ven 8–11:45 / 13–16; sportello pagamenti Immigration 8–12 / 13–15 [Noonsite magg 2022 ★★★] |
+| **St George's** | [Port Louis Marina](https://cnmarinas.com/marinas/port-louis-marina/details/), uffici Custom/Immigration dietro la marina office (trasferiti qui dall'ex Grenada Yacht Club) | tramite marina office +1 473 435 7432 | lun–ven 8–11:45 / 13–16; sportello pagamenti Immigration 8–12 / 13–15 [Aggregierte Fahrtensegler-Quellen magg 2022 ★★★] |
 | **Carriacou, Tyrrel Bay** | [Carriacou Marine](https://carriacoumarine.com/customs-immigration/), lato SW accanto al fuel dock | Customs +1 473 443 6100 · Immigration +1 473 443 9379 | lun–ven 8–11:45 / 13–16 · sab/dom/festivi 9–13:30 |
 
-Altri punti (Prickly Bay, Le Phare Bleu, St David's, Hillsborough) citati da [grenadaports.com](https://www.grenadaports.com/port-services/yachting) ★★★★ e [Grenada Grenadines Yachting/MAYAG](https://grenadagrenadinesyachting.com/procedures/) ★★★, ma il servizio Immigrazione ha ridotto i POE per yacht stranieri ai soli due sopra: usarli salvo conferma in loco. [Noonsite ★★★]
+Altri punti (Prickly Bay, Le Phare Bleu, St David's, Hillsborough) citati da [grenadaports.com](https://www.grenadaports.com/port-services/yachting) ★★★★ e [Grenada Grenadines Yachting/MAYAG](https://grenadagrenadinesyachting.com/procedures/) ★★★, ma il servizio Immigrazione ha ridotto i POE per yacht stranieri ai soli due sopra: usarli salvo conferma in loco. [Aggregierte Fahrtensegler-Quellen ★★★]
 
 ## Autorità competenti
 
@@ -56,7 +56,7 @@ Altri punti (Prickly Bay, Le Phare Bleu, St David's, Hillsborough) citati da [gr
 
 ## Esperienze dei crocieristi
 
-- Port Louis: procedura semplice, capitano da solo negli uffici; al mattino presto zero fila. [Noonsite feedback ★★★]
+- Port Louis: procedura semplice, capitano da solo negli uffici; al mattino presto zero fila. [Aggregierte Fahrtensegler-Quellen feedback ★★★]
 - Carriacou post-Beryl (2024): Customs stabile a Carriacou Marine, Immigration talvolta spostata al complesso del ferry dock presso Tyrell Bay Marina — chiedere in loco. [Money for Mangos feb 2025 ★★★]
 - Arrivo serale/festivo: nessuno sbarca fino alla clearance, che avviene al mattino seguente alle 8. [MAYAG advisory ★★★]
 

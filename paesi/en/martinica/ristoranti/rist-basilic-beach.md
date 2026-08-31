@@ -4,28 +4,28 @@
 
 | Field | Detail |
 |---|---|
-| Zona | Pointe Marin |
-| Cucina | 🐟 Beach creolo rivisitato |
-| Specialità | Pesce fresco · cocktail |
-| Costo | 💰€€ per person without drinks |
-| Location | 🏖️ sulla spiaggia |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Basilic+Beach+Pointe+Marin) |
-| Contatti | 0696 32 67 92 |
-| Currencyzioni | TA 4,1/5 (406) · Petit Futé 4,5/5 (26) → ★★★★ |
-| Area | Puerto de Mogán – paseo |
+| Area | Pointe Marin |
+| Cuisine | 🐟 Modern Creole beach restaurant |
+| Signature | Fresh fish · cocktails |
+| Price | 💰€€ per person without drinks |
+| Setting | 🏖️ on the beach |
+| Map | [Google Maps](https://www.google.com/maps/search/?api=1&query=Basilic+Beach+Pointe+Marin) |
+| Contact | 0696 32 67 92 |
+| Ratings | TA 4.1/5 (406) · Petit Futé 4.5/5 (26) → ★★★★ |
+| Hours | daily |
 
 ## Menu
 
-- Pesce fresco of the giorno
-- Cucina creola rivisitata
-- Cocktail
+- Fresh fish of the day
+- Modern Creole cuisine
+- Cocktails
 
-**Chef**: ND
+**Chef**: n/a
 
-## Foto
+## Photos
 
 ![Basilic Beach](img/martinica/rist-basilic-beach.jpg)
 
-*Fonte: jimcdn (sito ristorante)*
+*Source: jimcdn (restaurant website)*
 
-**Note**: Plage de Pointe Marin · vista splendida, buon rapporto qualità/prezzo
+**Notes**: Plage de Pointe Marin · splendid view, good value for money

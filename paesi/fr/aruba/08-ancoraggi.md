@@ -15,7 +15,7 @@
 | **Parke Marino Aruba — MPA Arikok, Mangel Halto, Sero Colorado, Oranjestad Reef Islands** | Àncora vietata su corallo/posidonia e secche; in molte aree solo boe obbligatorie una volta installate (AB 2018 no.77) | [FPNA](https://www.arubanationalpark.org/main/management-plan-marine-park/) ★★★★ |
 | **Barriera corallina e isolotti reef** | Vietato ancorare o appoggiare catena su corallo; vietato legarsi alle mangrovie | AB 2018 no.77 art.9c ★★★★ |
 | **Canale e bacino di Oranjestad** | Divieto di ancoraggio nel canale dragato e nel bacino crociere; ormeggio solo su istruzione Port Control | [Aruba Ports Authority](https://www.arubaports.com) ★★★★★ |
-| **Canale di Bateaudera** | Divieto di ancoraggio nel canale commerciale; transito solo su autorizzazione VHF 16/11 | Aruba Ports Authority ★★★★★ · [Noonsite](https://www.noonsite.com/place/aruba/barcadera/) ★★★ |
+| **Canale di Bateaudera** | Divieto di ancoraggio nel canale commerciale; transito solo su autorizzazione VHF 16/11 | Aruba Ports Authority ★★★★★ · Sources plaisance agrégées ★★★ |
 | **Boe private e corridoi balneazione** | Boe dei charter/hotel e corridoi spiaggia non utilizzabili senza permesso; rispettare segnalazione balneare | aruba-cruisingguide.com ★★★ |
 | **Secca di Bucuti** | Bancata da 1,9 m tra boe charter e Bucuti Yacht Club — divieto di attraversamento fuori canale | aruba-cruisingguide.com ★★★ |
 

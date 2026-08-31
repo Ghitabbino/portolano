@@ -1,28 +1,28 @@
 # Désirade — Baie Mahault {#anc-desireade}
 
-[← Tutti gli ancoraggi(../08-ancoraggi.md)
+[← Todos los fondeaderos](../08-ancoraggi.md)
 <div class="mapframe" data-slug="desireade" data-lat="16.3292839" data-lon="-61.0086499" data-name="Baie Mahault, La Désirade"></div>
 
-L'isola geologica più antica del mondo: plateau selvaggio, villaggi colorati, ospedale-lebbrosario abbandonato. Baie Mahault riparata dagli alisei NE, fondo sabbia/erba 4–7 m; roll con sud. Traghetto/ferry da Saint-François. Piccoli negozi e ristoranti.
+La isla geológicamente más antigua del mundo: meseta salvaje, pueblos coloridos, antiguo hospital-leprosería abandonado. Baie Mahault resguardada de los alisios del NE, fondo de arena/algas en 4–7 m; balancea con sur. Ferry desde Saint-François. Pequeñas tiendas y restaurantes.
 
-## Cartografia ufficiale
+## Cartografía oficial
 
-SHOM serie Guadeloupe/Dominica (consultare shom.fr per le edizioni aggiornate) + Navionics/C-MAP. Segnaletica **IALA-B** (invertita rispetto all'Italia). Attenzione ai banchi Mouchoir Carré davanti a Bas-du-Fort e alla barcaia di Petite Terre.
+Serie SHOM Guadalupe/Dominica (consultar shom.fr para ediciones actualizadas) + Navionics/C-MAP. Balizamiento **IALA-B** (invertido respecto a Europa). Atención a los bajos Mouchoir Carré frente a Bas-du-Fort y al paso de Petite Terre.
 
-## Non inclusi (per ora)
+## No incluidos (por ahora)
 
-- **Costa atlantica nord** (Anse-Bertrand, Port-Louis, Le Moule): mouillage solo con condizioni calme, nasse da pesca → vedi [06 Sicurezza](../06-sicurezza.md).
-- **Grand Cul-de-Sac marin** (mangrovie): mouillage tranquilli ma serve guida locale per i passi.
-- **Petite Terre costa est**: nessun riparo.
+- **Costa atlántica norte** (Anse-Bertrand, Port-Louis, Le Moule): fondeo solo con condiciones en calma, nasas → ver [06 Seguridad](../06-sicurezza.md).
+- **Grand Cul-de-Sac marin** (manglar): fondeaderos tranquilos pero se necesita guía local para los pasos.
+- **Costa este de Petite Terre**: sin abrigo.
 
-## Checklist àncora per la Guadalupa
+## Lista de control de fondeo para Guadalupe
 
-1. Clearance fatta? → [01 Clearance](../01-clearance.md)
-2. Aliseo NE previsto ≤20 kn sulle tratte esposte?
-3. Swell NW in arrivo? (rolla tutta la costa ovest)
-4. Dentro una riserva? → tabella regole sopra
-5. Nasse segnalate sulla rotta atlantica?
-6. Carta SHOM/Navionics aggiornata + IALA-B in mente
-7. Boa Petite Terre prenotata?
+1. ¿Despacho hecho? → [01 Clearance](../01-clearance.md)
+2. ¿Alisio NE previsto ≤20 nudos en tramos expuestos?
+3. ¿Mar de fondo del NW en camino? (hace balancear toda la costa oeste)
+4. ¿Dentro de una reserva? → tabla de normas arriba
+5. ¿Nasas señalizadas en la ruta atlántica?
+6. Carta SHOM/Navionics actualizada + IALA-B presente
+7. ¿Boya de Petite Terre reservada?
 
-Ultimo aggiornamento: 22/08/2026
+Última actualización: 22/08/2026

@@ -16,6 +16,6 @@
 <div class="mapframe" data-slug="anc-west-caicos" data-lat="21.45" data-lon="-72.0" data-minz="12" data-maxz="17"></div>
 *Cartina di dettaglio — zoom ± fino alla costa est · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
 
-Fonti: tcimall.tc ★★★ · visittci.com/west-caicos (rev. 2026) ★★★ · Noonsite West Caicos ★★★ · gov.tc DECR (West Caicos NP) ★★★★
+Fonti: tcimall.tc ★★★ · visittci.com/west-caicos (rev. 2026) ★★★ · Aggregierte Fahrtensegler-Quellen West Caicos ★★★ · gov.tc DECR (West Caicos NP) ★★★★
 
 Ultimo aggiornamento: 28/08/2026

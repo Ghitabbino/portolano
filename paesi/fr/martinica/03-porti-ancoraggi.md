@@ -1,93 +1,93 @@
-# 03 — Ports & Marinas
+# 03 — Ports et mouillages
 
-**Dernière vérification: 21/08/2026** · Coordinate in gradi decimali o N/W come da fonte
+**Dernière vérification : 21/08/2026** · Coordonnées en degrés décimaux ou N/W selon source
 
-## Costa sud — la zona base
+## Côte sud — la zone de base
 
-### Le Marin ⚓ porto principale
+### Le Marin ⚓ port principal
 - **14°28.14'N 60°52.01'W** · VHF 09 · www.marina-martinique.fr ★★★★
-- La più grande marina dei Caraïbes orientali: **830 posti a pontile + 100 boe**, fino a 60 m di LOA e 4,80 m di pescaggio, 220/400 V, raccolta acque nere/grigie a pontile, centro medico, lavanderia, supermercati, ristoranti, **riparo ciclonico**. ★★★
-- Attracco tipico: poppa a pontile, prua a boa; staff aiuta alle manovre. ★★
-- Clearance in capitainerie (vedi [01](01-clearance.md)).
-- Carburante: Station-service CAP Ponton N°3, +596 596 765 161, tutti i giorni 7:30–13/14–17. ★★★★★
-- Carenago rinnovato con travelift; molti professionisti. ★★ → dettagli in [04](04-servizi-cantieri.md)
+- La plus grande marina des Caraïbes orientales : **830 places à quai + 100 bouées**, jusqu'à 60 m de LOA et 4,80 m de tirant d'eau, 220/400 V, aspiration eaux noires/grises à quai, centre médical, laverie, supermarchés, restaurants, **abri cyclonique**. ★★★
+- Amarrage typique : arrière à quai, avant sur bouée ; équipe à quai assiste la manœuvre. ★★
+- Clearance à la capitainerie (voir [01](01-clearance.md)).
+- Carburant : Station-service CAP Ponton N°3, +596 596 765 161, tous les jours 7h30–13h/14h–17h. ★★★★★
+- Carénage rénové avec travelift ; nombreux professionnels. ★★ → détails en [04](04-servizi-cantieri.md)
 
 ### Sainte-Anne
-- Mouillage enorme e facile su fondale sabbioso che degrada lento: spazio per centinaia di barche. Buon riparo dagli alisei; swell incide poco. ★★★
-- Ponton dinghy: attenzione che lo scafo non scivoli sotto il pontile con il mare; meglio prua sollevata o àncora di poppa. ★★
-- Clearance: Snack BOUBOU accanto alla chiesa. ★★★★★
+- Immense mouillage facile sur fond de sable en pente douce : de la place pour des centaines de bateaux. Bonne protection contre les alizés ; la houle porte peu. ★★★
+- Ponton annexes : attention à ce que la coque ne glisse pas sous le ponton avec le clapot ; mieux vaut étrave relevée ou ancre à terre. ★★
+- Clearance : Snack BOUBOU à côté de l'église. ★★★★★
 
 ### Pointe du Bout / Trois-Îlets
-- Marina Pointe du Bout (di fronte a Fort-de-France): +596 596 660 774 · marina.3ilets@marina3ilets.fr. Clearance in marina. ★★★★★
+- Marina Pointe du Bout (face à Fort-de-France) : +596 596 660 774 · marina.3ilets@marina3ilets.fr. Clearance à la marina. ★★★★★
 
-## Costa ovest
+## Côte ouest
 
 ### Fort-de-France
-- Capitale. Boe per visitatori nella baia di Fort Saint-Louis senza prenotazione ("turn up and see"), in alternativa àncora. ★★★
-- Port de plaisance de l'Étang Z'Abricots: +596 596 751 157 · contact@portetangzabricots.fr · permanenza 6–18. ★★★★★
-- Centre de carénage DCML Baie des Tourelles (clearance + carenago): +596 596 717 464.
-- ⚠️ In città attenzione al dinghy al pontile: episodi di manomissioni segnalati; chiuderlo a chiave. ★★
+- Capitale. Bouées visiteurs en baie de Fort Saint-Louis sans réservation (« turn up and see »), sinon mouillage sur ancre. ★★★
+- Port de plaisance de l'Étang Z'Abricots : +596 596 751 157 · contact@portetangzabricots.fr · accueil 6h–18h. ★★★★★
+- Centre de carénage DCML Baie des Tourelles (clearance + carénage) : +596 596 717 464.
+- ⚠️ En ville attention à l'annexe au ponton : cas de dégradations signalés ; la cadenasser. ★★
 
-### Anses d'Arlet (Grand Anse)
-- Baie pittoresca; negli ultimi anni regole di ancoraggio variabili: le boe installate non hanno funzionato e si può ancora ancorare vicino alla spiaggia (rispettando i bagnanti). Prima notte spesso mossa: stare il più possibile a terra. Guardacoste pattugliano l'ingresso senza controllare sistematicamente. ★★★
-- Clearance: Cyberbase sul lungomare (ex punto Petite Bateaux/Grand Anse NON più attivo). ★★★★★
+### Anses d'Arlet (Grande Anse)
+- Baie pittoresque ; ces dernières années règles de mouillage variables : les bouées installées n'ont pas tenu et l'on peut encore mouiller près de la plage (en respectant les baigneurs). Première nuit souvent agitée : se mettre le plus à terre possible. La gendarmerie maritime patrouille à l'entrée sans contrôler systématiquement. ★★★
+- Clearance : Cyberbase sur le front de mer (ancien point Petite Bateaux/Grande Anse N'est PLUS actif). ★★★★★
 
 ### Saint-Pierre
-- Sotto il Mont Pelée. **Boe con prenotazione obbligatoria via app Navilly** (nuovo dal 2025), pagamento in app, estensioni facili. ★★★
-- Le boe francesi hanno anse metalliche rigide: serve far passare la cima dentro l'anello (utile gancio Osculati/Magic boathook). Àncora possibile a sud del campo boe (plateau stretto ma frequentato). ★★★
-- Clearance: Office de tourisme Villa Sainte-Anne (rue Victor Hugo) o L'Alsace en Kay. ★★★★★
+- Au pied de la Montagne Pelée. **Bouées sur réservation obligatoire via appli Navily** (nouveau depuis 2025), paiement dans l'appli, prolongations faciles. ★★★
+- Les bouées françaises ont des anneaux métalliques rigides : il faut passer le bout dans l'anneau (crochet Osculati/Magic boathook utile). Mouillage sur ancre possible au sud du champ de bouées (plateau étroit mais fréquenté). ★★★
+- Clearance : Office de tourisme Villa Sainte-Anne (rue Victor Hugo) ou L'Alsace en Kay. ★★★★★
 
-## Costa atlantica (est)
+## Côte atlantique (est)
 
 ### Le François — Pointe Bateau
-- Capitainerie marina, tutti i giorni 8–18: +596 596 542 954. Clearance in loco. ★★★★★
+- Capitainerie de la marina, tous les jours 8h–18h : +596 596 542 954. Clearance sur place. ★★★★★
 
 ### La Trinité / Havre de la Trinité
-- Port d'ingresso ufficiale; clearance alla Brigade des douanes, Quartier Raisinier: +596 596 581 790. ★★★★★
-- ⚠️ Costa est/sud-est: numerose **file di nasse da pesca** con lenze galleggianti quasi invisibili, segnalate anche oltre 3 miglia dalla costa. Massima attenzione. ★★
+- Port d'entrée officiel ; clearance à la Brigade des douanes, Quartier Raisinier : +596 596 581 790. ★★★★★
+- ⚠️ Côte est/sud-est : nombreuses **filières de casiers** avec orins flottants quasi invisibles, signalées même à plus de 3 milles de la côte. Vigilance maximale. ★★
 
 ## Nord
 
 ### Le Prêcheur / Saint-Pierre nord
-- Rade esposta; solo con meteo stabile. *(voce di banchina ★ — à vérifier)*
+- Rade exposée ; seulement par météo stable. *(ouï-dire de ponton ★ — à vérifier)*
 
-## Tarifs d’amarrage & marinas
+## Tarifs amarrage et marinas
 
-> Stesse voci per tutti i paesi; **DONNÉE MANQUANTE** = da ricercare al controllo mensile.
+> Mêmes rubriques pour tous les pays ; **DONNÉE MANQUANTE** = à rechercher lors du contrôle mensuel.
 
-### Marina du Marin — listino ufficiale 2024-25 (IVA 8,5% inclusa) ★★★★
+### Marina du Marin — grille officielle 2024-25 (TVA 8,5 % incluse) ★★★★
 
-Contratti dovuti in anticipo. Prenotazione online www.marina-martinique.fr · VHF 09.
+Contrats dus d'avance. Réservation en ligne www.marina-martinique.fr · VHF 09.
 
-| Rubrique | Coût | Note |
+| Rubrique | Coût | Notes |
 |---|---|---|
-| Posto pontile — notte (barca ~12 m) | 0,72 €/piede ≈ **29 €** |Scaglione 30–49 ft; prime 2 notti 0,60 €/piede ★★★★|
-| Place à quai — par nuit (multicoque ~12 m) | ×1,5 ≈ **43 €** |Multiscafo +50% ★★★★|
-| Bouée/mouillage marina — notte (~12 m) | **12 €** |30–49 ft; notti successive 14,40 € ★★★★|
-| Mois à quai (~12 m) | 11,80 €/piede ≈ **472 €** |Semestre 56,10 €/piede · anno 112,20 €/piede ★★★★|
-| Électricité | **0,36 €/kWh** |Pontili ★★★★|
-| Eau | **9,00 €/m³** |Consegna a galla 2,50 €/100 l ★★★★|
-| Mouillage | **Gratuito** | Fuori zone regolamentate |
-| Multiscafo supplementare | **+50%** | ★★★★ |
+| Place à quai — nuit (bateau ~12 m) | 0,72 €/pied ≈ **29 €** | Tranche 30–49 ft ; 2 premières nuits 0,60 €/pied ★★★★ |
+| Place à quai — nuit (multicoque ~12 m) | ×1,5 ≈ **43 €** | Multicoque +50 % ★★★★ |
+| Bouée/mouillage marina — nuit (~12 m) | **12 €** | 30–49 ft ; nuits suivantes 14,40 € ★★★★ |
+| Mois à quai (~12 m) | 11,80 €/pied ≈ **472 €** | Semestre 56,10 €/pied · année 112,20 €/pied ★★★★ |
+| Électricité | **0,36 €/kWh** | Pontons ★★★★ |
+| Eau | **9,00 €/m³** | Livraison à couple 2,50 €/100 l ★★★★ |
+| Mouillage | **Gratuit** | Hors zones réglementées |
+| Supplément multicoque | **+50 %** | ★★★★ |
 
-Maggiorazioni: live-aboard oltre 3 mesi +15%; tassa soggiorno 0,66 €/notte (solo stopover). Incluso: pompa acque nere/grigie, wifi, sanitari, rifiuti, posta/pacchi, navetta a galla, videosorveglianza.
+Majorations : live-aboard au-delà de 3 mois +15 % ; taxe de séjour 0,66 €/nuit (uniquement en escale). Inclus : pompage eaux noires/grises, wifi, sanitaires, déchets, poste/colis, navette à couple, vidéosurveillance.
 
 ### Autres infrastructures
 
 | Infrastructure | Coût/notes | Source |
 |---|---|---|
-| Boe visitatori Fort Saint-Louis (Fort-de-France) | Non prenotabili, "turn up and see"; ≈ **10–15 €/notte**, raccolta incasso in barca ⚠️ confermare sul posto |Fonti diportiste aggregate ★★|
-| Boe Saint-Pierre | Prenotazione obbligatoria via app **Navilly** (nuovo 2025), pagamento in app; tariffa mostrata in app alla prenotazione (~10–15 €/notte) ⚠️ |SDSA feb 2025 ★★|
+| Bouées visiteurs Fort Saint-Louis (Fort-de-France) | Non réservables, « turn up and see » ; ≈ **10–15 €/nuit**, collecte à bord ⚠️ confirmer sur place | Sources plaisance agrégées ★★ |
+| Bouées Saint-Pierre | Réservation obligatoire via appli **Navily** (nouveau 2025), paiement dans l'appli ; tarif affiché à la réservation (~10–15 €/nuit) ⚠️ | SDSA fév. 2025 ★★ |
 
-⚠️ **À vérifier avant la croisière**: listino Marina du Marin stagione successiva (PDF pubblicato di solito a gennaio), prezzi boe Saint-Pierre/Fort Saint-Louis, carburante CAP Ponton.
+⚠️ **À vérifier avant la croisière** : grille Marina du Marin saison suivante (PDF publié en général en janvier), prix bouées Saint-Pierre/Fort Saint-Louis, carburant CAP Ponton.
 
 ## Distances utiles
 
 | Trajet | Distance |
 |---|---|
-| Martinica – Santa Lucia | ~26 km sud |
-| Martinica – Dominica | ~35 km NW |
+| Martinique – Sainte-Lucie | ~26 km sud |
+| Martinique – Dominique | ~35 km NW |
 
 ★★★
 
-Dernière mise à jour: 23/08/2026
+Dernière mise à jour : 23/08/2026

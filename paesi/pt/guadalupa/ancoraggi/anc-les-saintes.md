@@ -1,8 +1,8 @@
 # Les Saintes — Bourg de Terre-de-Haut {#anc-les-saintes}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← Todas as ancoragens](../08-ancoraggi.md)
 <div class="mapframe" data-slug="les-saintes" data-lat="15.8680" data-lon="-61.5820" data-name="Bourg de Terre-de-Haut"></div>
 
-La baia più fotografata dei Caraibi francesi: villaggio creolo, Fort Napoléon, spiagge. Fondo sabbioso 6–12 m, buona tenuta; roll con sud-ovest. Moorings Cabrit/Pain de Sucre 13–18 €/notte. Servizi: ISM (clearance), negozi, ristoranti, water al pontile. Molto affollata in alta stagione: arrivare prima delle 14h. ★★★
+A baía mais fotografada do Caribe francês: vila crioula, Fort Napoléon, praias. Fundo arenoso em 6–12 m, boa tensa; balança com sudoeste. Boias Cabrit/Pain de Sucre 13–18 €/noite. Serviços: ISM (despacho), lojas, restaurantes, água no pontão. Muito lotada na alta estação: chegar antes das 14h. ★★★
 
-Ultimo aggiornamento: 22/08/2026
+Última atualização: 22/08/2026

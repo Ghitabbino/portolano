@@ -8,13 +8,13 @@
 | **Profondità** |~5 m sabbia/posidonia|
 | **Tenuta àncora** |Media|
 | **Venti/riparo** |Poco riparata|
-| **Pericoli** |⚠️ Furto dinghy documentato (Noonsite, lucchetto tagliato); molo inutilizzabile per i dinghy|
+| **Pericoli** |⚠️ Furto dinghy documentato (Fuentes náuticas agregadas, lucchetto tagliato); molo inutilizzabile per i dinghy|
 | **Boe/divieti/normative** |—|
 | **A terra** |Villaggio|
 
 <div class="mapframe" data-slug="anc-canaries" data-lat="13.889" data-lon="-61.079"></div>
 *Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
 
-Fonti: Spend Life Traveling ★★ · Noonsite ★★★ · [DA VERIFICARE SATELLITE]
+Fonti: Spend Life Traveling ★★ · Fuentes náuticas agregadas ★★★ · [DA VERIFICARE SATELLITE]
 
 Ultimo aggiornamento: 25/08/2026

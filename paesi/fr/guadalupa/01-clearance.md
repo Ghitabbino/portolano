@@ -1,68 +1,68 @@
-# 01 — Formalités douanières
+# 01 — Formalités douanières du bateau
 
-**Dernière vérification: 21/08/2026**
+**Dernière vérification : 21/08/2026**
 
 ## Qui doit effectuer les formalités
 
-Tutti i natanti da diporto, qualsiasi nazionalità e bandiera, che:
-- **entrano** nelle acque francesi delle Antille provenendo da porto/mare territoriale straniero o alto mare;
-- **escono** verso porto/mare straniero o alto mare;
-- **si spostano tra le isole francesi delle Antille** (obbligatorio anche Guadalupa↔Martinica ecc. dal 01/09/2024). [martinique.gouv.fr 30/01/2026 ★★★★★]
+Tous les navires de plaisance, quelle que soit la nationalité et le pavillon, qui :
+- **entrent** dans les eaux françaises des Antilles en provenance d'un port/eaux territoriales étrangers ou du large ;
+- **sortent** vers un port/eaux étrangers ou le large ;
+- **naviguent entre les îles françaises des Antilles** (obligatoire aussi Guadeloupe↔Martinique etc. depuis le 01/09/2024). [martinique.gouv.fr 30/01/2026 ★★★★★]
 
-## Procédure online (obbligatoria dal 09/2024)
+## Procédure en ligne (obligatoire depuis 09/2024)
 
-Tutte le Antille francesi usano lo stesso portale: **https://www.demarches-simplifiees.fr/commencer/declaration-clearance-antilles** — dichiarazione d'ingresso e di partenza per natanti da/per l'estero. [/ ★★★★; 2024, martinique.gouv.fr ★★★★★]
+Toutes les Antilles françaises utilisent le même portail : **https://www.demarches-simplifiees.fr/commencer/declaration-clearance-antilles** — déclaration d'entrée et de départ pour navires en provenance/à destination de l'étranger. [/ ★★★★ ; 2024, martinique.gouv.fr ★★★★★]
 
-1. Compilare il modulo online (nave, equipaggio, provenienza/destinazione) **prima** dell'arrivo o subito dopo.
-2. Conservare la ricevuta PDF ricevuta via mail: è il documento da mostrare in caso di controllo.
-3. Nessun timbro, nessuna fila: i punti agréé servono solo se si vuole/vuole assistenza o non si ha internet.
+1. Remplir le formulaire en ligne (navire, équipage, provenance/destination) **avant** l'arrivée ou immédiatement après.
+2. Conserver le récépissé PDF reçu par e-mail : c'est le document à présenter en cas de contrôle.
+3. Aucun tampon, aucune file : les points agréés ne servent que si vous souhaitez une assistance ou n'avez pas internet.
 
-Dopo la prima clearance in un porto francese delle Antille, gli spostamenti tra Martinica, Guadalupa, Saint-Barth e Saint-Martin sono **liberi e senza formalità** (stesso territorio doganale). ★★★★★
+Après la première clearance dans un port français des Antilles, les déplacements entre Martinique, Guadeloupe, Saint-Barth et Saint-Martin sont **libres et sans formalité** (même territoire douanier). ★★★★★
 
-## Copia cartacea timbrata
+## Copie papier tamponnée
 
-- Finché gli altri stati caraibici non riconoscono la dichiarazione elettronica, **stampare l'attestation**: serve in carta per il check-in nei paesi NON francesi (es. Antigua, Dominica). [martinique.gouv.fr ★★★★★]
-- Il timbro (se richiesto) si ottiene in un **Point agréé Clearance** al costo di **5 €**; con il solo modulo online non è obbligatorio entrare in un porto ufficiale. ★★★
+- Tant que les autres États caribéens ne reconnaissent pas la déclaration électronique, **imprimer l'attestation** : une copie papier est exigée pour l'entrée dans les pays NON français (ex. Antigua, Dominique). [martinique.gouv.fr ★★★★★]
+- Le tampon (si nécessaire) s'obtient dans un **Point agréé Clearance** pour **5 €** ; avec le seul formulaire en ligne vous n'êtes pas obligé d'entrer dans un port officiel. ★★★
 
-## Costi
+## Coûts
 
 | Rubrique | Coût | Source |
 |---|---|---|
-| Dichiarazione online | **Gratuita** | martinique.gouv.fr ★★★★★ |
-| Stampa+timbro attestation in Point agréé (opzionale) | **5 €** |Fonti diportiste aggregate ★★★|
+| Déclaration en ligne | **Gratuite** | martinique.gouv.fr ★★★★★ |
+| Impression + tampon de l'attestation en Point agréé (optionnel) | **5 €** | Sources plaisance agrégées ★★★ |
 
-## Points agréés Guadalupa (lista ufficiale dogane, v. 12/2025)
+## Points agréés — Guadeloupe (liste officielle douanes, v. 12/2025)
 
-| Località | Prestatore | Contacts | Horaires |
+| Localité | Prestataire | Contacts | Horaires |
 |---|---|---|---|
-| **Deshaies** | Mairie — Service portualie | alefort@villeedeshaies.fr · +590 690 25 37 80 | su orari municipio |
-| **Gourbeyre** (Rivière Sens) | SAS Sud Ancrage — Capitainerie Marina | +590 590 867 943 · sudancrage@orange.fr | lun–ven 7h–17h30; sab–dom 8h–12h |
-| Gourbeyre (Rivière Sens) | Restaurant Barracuda Marina | +590 590 922 786 / +590 590 945 425 | lun–ven 7h–17h30; sab–dom 8h–12h |
-| **Les Saintes** (Terre-de-Haut) | I.S.M Les Saintes Multiservices, 3 rue Jean Calot | +590 590 815 357 · lessaintesmultiservices@gmail.com | lun–sab 9h–12h / 14h–19h; dom chiuso |
-| **Marie-Galante** | Brigade douanes Grand-Bourg, 8 rue du Fort | +590 590 975 449 | **su appuntamento** |
+| **Deshaies** | Mairie — Service portuaire | alefort@villeedeshaies.fr · +590 690 25 37 80 | aux horaires de la mairie |
+| **Gourbeyre** (Rivière Sens) | SAS Sud Ancrage — Capitainerie Marina | +590 590 867 943 · sudancrage@orange.fr | lun–ven 7h–17h30 ; sam–dim 8h–12h |
+| Gourbeyre (Rivière Sens) | Restaurant Barracuda Marina | +590 590 922 786 / +590 590 945 425 | lun–ven 7h–17h30 ; sam–dim 8h–12h |
+| **Les Saintes** (Terre-de-Haut) | I.S.M Les Saintes Multiservices, 3 rue Jean Calot | +590 590 815 357 · lessaintesmultiservices@gmail.com | lun–sam 9h–12h / 14h–19h ; dim fermé |
+| **Marie-Galante** | Brigade douanes Grand-Bourg, 8 rue du Fort | +590 590 975 449 | **sur rendez-vous** |
 | Marie-Galante (Saint-Louis) | Chez ZELES, 17 av. Raphaël Jerpan | — | — |
-| **Pointe-à-Pitre** | Capitainerie Marina Bas-du-Fort | +590 590 936 620 / +590 690 351 919 · info@marinaguadeloupe.com | variabile per stagione |
-| **Saint-François** | Capitainerie, Avenue de l'Europe (Immeuble GBH) | +590 596 738 405 / +590 596 789 519 · marina@ville-saintfrancois.fr | lun–ven 7h–12h / 14h–17h; sab 8h30–12h; dom chiuso |
+| **Pointe-à-Pitre** | Capitainerie Marina Bas-du-Fort | +590 590 936 620 / +590 690 351 919 · info@marinaguadeloupe.com | variable selon saison |
+| **Saint-François** | Capitainerie, Avenue de l'Europe (Immeuble GBH) | +590 596 738 405 / +590 596 789 519 · marina@ville-saintfrancois.fr | lun–ven 7h–12h / 14h–17h ; sam 8h30–12h ; dim fermé |
 
-Source: lista ufficiale "Points agréés clearance plaisance" (Punti autorizzati clearance diportiva) Direction régionale des douanes, versione 15/12/2025 ★★★★★ (archiviata in `fonti/points_clearance.txt`).
+Source : liste officielle « Points agréés clearance plaisance » Direction régionale des douanes, version 15/12/2025 ★★★★★ (archivée dans `fonti/points_clearance.txt`).
 
 ## Douane régionale
 
 Direction Régionale des Douanes de Guadeloupe — 151 allée Maurice Micaux, 97102 Basse-Terre · +590 590 994 530 · dr-guadeloupe@douane.finances.gouv.fr ★★★★★
 
-## Retours de navigateurs
+## Retours des plaisanciers
 
-- Les Saintes (ISM): check-in semplice, 14h–16h; internet e lavanderia disponibili in loco. ★★★
-- Deshaies: procedura rapida ma personale a volte assente negli orari dichiarati — evitare l'ora di pranzo. ★★★
-- Pointe-à-Pitre (Bas-du-Fort): ufficio affollato al mattino e a pranzo; clearance elettronica in capitaineria 8h–17h30 (8h–13h/14h–17h30 fuori stagione), dom/festivi 8h–12h. ★★★
+- Les Saintes (ISM) : check-in simple, 14h–16h ; internet et laverie disponibles sur place. ★★★
+- Deshaies : procédure rapide mais personnel parfois absent aux horaires indiqués — éviter l'heure du déjeuner. ★★★
+- Pointe-à-Pitre (Bas-du-Fort) : bureau bondé le matin et à midi ; clearance électronique à la capitainerie 8h–17h30 (8h–13h / 14h–17h30 hors saison), dim/jours fériés 8h–12h. ★★★
 
 ## Sanctions
 
-L'omessa dichiarazione di arrivo/partenza extra-UE è un'infrazione doganale: sanzioni pecuniarie e possibile sequestro fino alla regolarizzazione. Con l'online non ci sono scuse: farla prima di lasciare l'ancoraggio. [Code des douanes art. 411 ss. ★★★★★]
+Défaut de déclaration d'arrivée/départ hors UE = infraction douanière : sanctions pécuniaires et saisie possible jusqu'à régularisation. Avec le système en ligne il n'y a pas d'excuse : déclarer avant de quitter le mouillage. [Code des douanes art. 411 et suiv. ★★★★★]
 
 ## À vérifier avant la croisière
 
-- Eventuale nuovo URL del modulo (la piattaforma cambia spesso).
-- Lista punti agréé aggiornata (nuove versioni pubblicate dalle douanes).
+- Éventuelle nouvelle URL du formulaire (la plateforme change souvent).
+- Liste points agréés mise à jour (nouvelles versions publiées par les douanes).
 
-Dernière mise à jour: 22/08/2026
+Dernière mise à jour : 22/08/2026

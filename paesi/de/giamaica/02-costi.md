@@ -46,7 +46,7 @@ Prezzi specifici per locale → [10 Ristoranti](10-ristoranti.md).
 |---|---|---|
 | Benzina (unleaded 90) pompa stradale | **J$239,44 / l** al 03/08/2026 (+9,2% su 3 mesi) | GlobalPetrolPrices ★★★ |
 | Diesel pompa stradale | **J$230–240 / l** stima parallela | ★★ |
-| Diesel marina (MBYC/RJYC) 2022 | **US$5,43 / gal** (≈US$1,43/l) | Noonsite 2014–22 ★★ |
+| Diesel marina (MBYC/RJYC) 2022 | **US$5,43 / gal** (≈US$1,43/l) | Aggregierte Fahrtensegler-Quellen 2014–22 ★★ |
 | Benzina premium marina | **US$5,26 / gal** | ★★ |
 | Gas GPL bombola 20 lb | **J$2.500–4.000 ricarica** | Via chandler/stazione ★★ |
 

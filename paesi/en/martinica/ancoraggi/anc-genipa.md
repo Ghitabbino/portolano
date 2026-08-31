@@ -1,17 +1,17 @@
-# Baie de Genipa — la tranquilla {#anc-genipa}
+# Baie de Genipa — the quiet corner {#anc-genipa}
 
 [← All Anchorages](../08-ancoraggi.md)
 | Field | Detail |
 |---|---|
-| **Where** | Fort-de-France Bay seabed, mangrove canals |
-| **Profondità** | 2–5 m circa nei canali |
-| **Tenuta** |Ottima su fango ★★|
-| **Venti/riparo** |Swell praticamente zero, riparo totale; senza vento arrivano zanzare ★★|
-| **Pericoli** | Passaggi tra mangrovie: serve attenzione alla batimetria all'ingresso |
-| **Affollamento** |Bassa densità, atmosfera tranquilla ★★|
-| **Divieti** |Verificare cartografia ZMEL/interdizioni della baia di Fort-de-France prima di entrare ★★★★|
+| **Location** |Head of Baie de Fort-de-France, channels among the mangroves |
+| **Depth** |Approx. 2–5 m in the channels |
+| **Holding** |Excellent in mud ★★|
+| **Shelter** |Swell virtually nil, fully sheltered; mosquitoes appear when wind drops ★★|
+| **Hazards** |Mangrove channels: pay close attention to soundings on entry |
+| **Crowding** |Low density, tranquil atmosphere ★★|
+| **Restrictions** |Check ZMEL/prohibited-area chart for Baie de Fort-de-France before entering ★★★★|
 
 <div class="mapframe" data-slug="genipa" data-lat="14.5520" data-lon="-61.0650"></div>
-*Vista mappa Baie de Genipa (coord. indicative) — zoom con i pulsanti +/−; menu in alto a destra per passare a Carta nautica e Segnali nautici · mappa offline*
+*Map view Baie de Genipa (approx. position) — zoom with +/− buttons; top-right menu to switch to Nautical Chart and AtoN overlay · offline map*
 
 Last updated: 22/08/2026

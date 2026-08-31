@@ -1,28 +1,28 @@
 # Le Balaou
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Alle Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Feld | Detail |
 |---|---|
-| Zona | Sainte-Anne |
-| Cucina | 🐟 Tataki di tonno |
-| Specialità | Tataki de thon · pesce |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🌅 terrazza rilassata |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Balaou+Sainte-Anne) |
-| Contatti | [Mappa](https://www.google.com/maps/search/?api=1&query=Le+Balaou+Sainte-Anne+Guadeloupe) |
-| Valutazioni | Google 4,3/5 (405) → ★★★★ |
-| Orari | cena dal tramonto · chiusura variabile ⚠️ |
+| Gebiet | Sainte-Anne |
+| Küche | 🐟 Thunfisch-Tataki |
+| Spezialität | Thunfisch-Tataki · Fisch |
+| Preis | 💰€€ pro Person ohne Getränke |
+| Lage | 🌅 entspannte Terrasse |
+| Karte | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Balaou+Sainte-Anne) |
+| Kontakt | [Karte](https://www.google.com/maps/search/?api=1&query=Le+Balaou+Sainte-Anne+Guadeloupe) |
+| Bewertungen | Google 4,3/5 (405) → ★★★★ |
+| Öffnungszeiten | Abendessen ab Sonnenuntergang · variabler Ruhetag ⚠️ |
 
-## Menu
+## Menü
 
-- Tataki de thon
-- Pesce
+- Thunfisch-Tataki
+- Fisch
 
 **Chef**: ND
 
-## Foto
+## Fotos
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Noch keine Fotos verfügbar — werden bei der monatlichen Kontrolle ergänzt.*
 
-**Note**: Buona carta dei vini
+**Hinweise**: Gute Weinkarte

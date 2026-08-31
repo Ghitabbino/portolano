@@ -4,7 +4,7 @@
 
 Valuta: **euro (EUR)**. Livello prezzi: **DATO MANCANTE** — da verificare con fonti locali aggiornate.
 
-> ⚠️ Le voci di questo elenco sono le stesse per tutti i paesi del portolano. Dove il dato non è stato ancora trovato dalle fonti si scrive **DATO MANCANTE**: viene ricercato al controllo mensile (vedi [00 Indice](../00-indice.md)).
+> ⚠️ Le voci di questo elenco sono le stesse per tutti i paesi del portolano. Dove il dato non è stato ancora trovato dalle fonti si scrive **DATO MANCANTE**: viene ricercato al controllo mensile (vedi [00 Indice](../../00-indice.md)).
 
 ## Alimentari e spesa di bordo
 

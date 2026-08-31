@@ -5,24 +5,24 @@
 | Field | Detail |
 |---|---|
 | Area | Marie-Galante |
-| Cuisine | 🐟 Locale rivisitata |
-| Speciality | Pesce · boudin créole |
-| Cost | 💰€€ for persona without bevande |
-| Setting | 🏖️ beach front |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Playa+Marie-Galante) |
-| Contacts | [Mappa](https://www.google.com/maps/search/?api=1&query=La+Playa+Marie-Galante) |
-| Ratings | Google positive → ★★★★ |
-| Hours | stagionale ⚠️ |
+| Cuisine | 🐟 Modern local |
+| Speciality | Fish · Creole blood sausage |
+| Cost | 💰€€ per person without drinks |
+| Setting | 🏖️ beachfront |
+| Map | [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Playa+Marie-Galante) |
+| Contacts | [Map](https://www.google.com/maps/search/?api=1&query=La+Playa+Marie-Galante) |
+| Ratings | Google — positive reviews → ★★★★ |
+| Hours | seasonal ⚠️ |
 
 ## Menu
 
-- Pesce
-- Boudin créole
+- Fish
+- Creole blood sausage
 
 **Chef**: ND
 
-## Foto
+## Photos
 
-*Foto non still disponibili — recuperare at the controllo mensile.*
+*No photos available yet — to be added on monthly check.*
 
-**Note**: Da abbinare at the giro dell'isola in scooter · from 25 €
+**Notes**: To combine with a scooter tour of the island · from €25

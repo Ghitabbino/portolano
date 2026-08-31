@@ -49,7 +49,7 @@
 ### Marina Los Morros — Cabo San Antonio
 - 21°55'N 084°54'W ca. · VHF 16 · Rade esposta, solo con calma, fuel disponibile fino 2013 poi intermittente, spesso chiusa per danni uragano, Guarda Frontera presente. ★★★
 
-## Tarifs d’amarrage & marinas — listino Marlin 2024-25 (verificato Noonsite ★★★★)
+## Tarifs d’amarrage & marinas — listino Marlin 2024-25 (verificato Sources plaisance agrégées ★★★★)
 
 > Stesse voci per tutti i paesi; **DONNÉE MANQUANTE** = da ricercare al controllo mensile. Tarifs in USD (o CUC storico 1:1), pagamento carta non-USA a Hemingway/Cayo Largo, cash altrove. IVA inclusa dove indicata.
 

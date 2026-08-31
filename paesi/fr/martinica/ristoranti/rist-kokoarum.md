@@ -5,27 +5,27 @@
 | Champ | Détail |
 |---|---|
 | Zone | Marina du Marin |
-| Cuisine | 🥩 Grill e burger caraibico |
-| Spécialité | Burger garnis · colombo de poisson |
-| Coût | 💰€€ per persona senza bevande |
-| Emplacement | ⚓ marina, musica live |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=KokOaRum+Bar+Marina+du+Marin) |
+| Cuisine | 🥩 Grill et burger caraïbe |
+| Spécialité | Burgers garnis · colombo de poisson |
+| Coût | 💰€€ par personne hors boissons |
+| Emplacement | ⚓ marina, musique live |
+| Carte | [Google Maps](https://www.google.com/maps/search/?api=1&query=KokOaRum+Bar+Marina+du+Marin) |
 | Contacts | 0596 48 02 21 |
 | Évaluations | Google 4,0/5 (747) · TA 3,5/5 (281) → ★★★½ |
-| Horaires | serale · happy hour 17–19 · concerti mer e ven |
+| Horaires | soirée · happy hour 17–19 · concerts mer et ven |
 
 ## Menu
 
-- Burger garnis 15–20 €
+- Burgers garnis 15–20 €
 - Colombo de poisson
-- Cocktail signature 10–12 €
+- Cocktails signature 10–12 €
 
-**Chef**: ND (gestori: F. Chanelière e Valérie)
+**Chef**: ND (gérants : F. Chanelière et Valérie)
 
 ## Photos
 
 ![KokOaRum Bar](img/martinica/rist-kokoarum.jpg)
 
-*Source: bellemartinique.com*
+*Source : bellemartinique.com*
 
-**Note**: Sui pontili della marina · gestione Frédéric Chanelière e Valérie dal 2017
+**Notes** : Sur les pontons de la marina · gérance Frédéric Chanelière et Valérie depuis 2017

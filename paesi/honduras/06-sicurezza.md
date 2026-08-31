@@ -35,7 +35,7 @@ Ultimo aggiornamento: 25/08/2026
 
 | Data | Fonte | Azione |
 |---|---|---|
-| 29/08/2026 | GOV.UK, Noonsite, Ocean Posse | Confermata 2,5/5, Bay Islands 3,5/5, nessun L3 nuovo |
+| 29/08/2026 | GOV.UK, Fonti diportiste aggregate, Ocean Posse | Confermata 2,5/5, Bay Islands 3,5/5, nessun L3 nuovo |
 
 Ultimo aggiornamento: 29/08/2026
 

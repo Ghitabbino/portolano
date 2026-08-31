@@ -2,46 +2,45 @@
 
 **Dernière mise à jour: 28/08/2026**
 
-Selezione orientata alla crociera: locali raggiungibili **a piedi, in dinghy o con breve taxi/bus** dagli ancoraggi e dalle marine del portolano ([08 Ancoraggi](08-ancoraggi.md) — Carlisle Bay/Bridgetown + Port St. Charles/Speightstown + Oistins). Valutazione ponderata = media **Google + TripAdvisor + siti locali barbados.org / totallybarbados.com** (regola 14), verificata il **28/08/2026**. Prezzi indicativi per persona senza bevande; **prenotazione consigliata** in alta stagione (dic–apr) e alla domenica per i brunch.
+Sélection pour plaisanciers : établissements accessibles **à pied, en annexe ou avec un court trajet en taxi/bus** depuis les mouillages et marinas du portulan ([08 Mouillages](08-ancoraggi.md) — Carlisle Bay/Bridgetown + Port St. Charles/Speightstown + Oistins). Évaluation pondérée = moyenne **Google + TripAdvisor + sites locaux barbados.org / totallybarbados.com** (règle 14), vérifiée le **28/08/2026**. Prix indicatifs par personne sans boissons ; **réservation conseillée** en haute saison (déc–avr) et le dimanche pour les brunchs.
 
-Légende prezzi: **€** <20 · **€€** 20–40 · **€€€** 40–70 · **€€€€** >70 — Cuisine: 🐟 pesce e frutti di mare · 🥩 carne e grill · 🥗 vegetariano-friendly · 🥙 street food creolo · 🍰 dolci/gelato · 🍽️ internazionale/fine dining
+Légende prix : **€** <20 · **€€** 20–40 · **€€€** 40–70 · **€€€€** >70 — Cuisine : 🐟 poisson et fruits de mer · 🥩 viande et grill · 🥗 végétarien · 🥙 street food créole · 🍰 desserts/glaces · 🍽️ internationale/fine dining
 
 ## Carte des restaurants
 
 <div class="mapframe" data-slug="barbados" data-minz="7" data-maxz="17" data-lat="13.16" data-lon="-59.60" data-markers='[[13.0967, -59.6168, "Waterfront Cafe", "rist-waterfront-cafe"], [13.0942, -59.615, "Brown Sugar", "rist-brown-sugar"], [13.0725, -59.596, "Champers", "rist-champers"], [13.072, -59.603, "Deia Beach", "rist-deia-beach"], [13.065, -59.543, "Oistins Fish Fry (Pat’s Place)", "rist-oistins-fish-fry"], [13.071, -59.5815, "Primo Bar & Bistro", "rist-primo"], [13.185, -59.64, "The Tides", "rist-the-tides"], [13.257, -59.642, "Lone Star", "rist-lone-star"], [13.2585, -59.642, "13°/59° Port Ferdinand", "rist-1359-port-ferdinand"]]' ></div>
 
-*Marker cliccabili: il popup apre direttamente la scheda del ristorante. Tasselli locali zoom 7–15 (satellitare / carta nautica / segnali OpenSeaMap). Coordinate WGS84 da fonti locali ufficiali (barbados.org / totallybarbados.com) e siti dei ristoranti — verificare sempre con Google Maps prima di muoversi.*
+*Marqueurs cliquables : le popup ouvre directement la fiche du restaurant. Tuiles locales zoom 7–15 (satellite / carte nautique / OpenSeaMap). Coordonnées WGS84 d'après sources locales officielles (barbados.org / totallybarbados.com) et sites des restaurants — toujours vérifier avec Google Maps avant de se déplacer.*
 
 ## Grille générale
 
-| Ristorante | Zone | Coût | Cuisine | Spécialité | Emplacement | Stelle |
+| Restaurant | Zone | Coût | Cuisine | Spécialité | Emplacement | Étoiles |
 |---|---|---|---|---|---|---|
-| [Waterfront Cafe](ristoranti/rist-waterfront-cafe.md) | Bridgetown — The Careenage | **€€** | **🐟 Bajan / pesce creolo** | *Flying fish cutter · mahi-mahi · rum punch* | **⚓ direttamente sul canale, waterfront storico** | ★★★★½ |
-| [Brown Sugar](ristoranti/rist-brown-sugar.md) | Bridgetown — Bay Street (a 400 m dal Careenage) | **€€** | **🐟 Bajan buffet** | *Buffet bajan domenicale · macaroni pie · pudding & souse* | **🌴 giardino creolo, istituzione dal 1980** | ★★★★ |
-| [Champers](ristoranti/rist-champers.md) | Christ Church — Rockley / Accra Beach | **€€€** | **🐟 Pesce creolo contemporaneo** | *Wahoo · tuna · lobster (stagione) · sunset* | **🌅 terrazza sul mare, fine dining pieds dans l’eau** | ★★★★½ |
-| [Deia Beach](ristoranti/rist-deia-beach.md) | Christ Church — Worthing Beach (tra Oistins e Bridgetown) | **€€€** | **🐟 Mediterranea-caraibica** | *Crudi · pesce alla griglia · cocktail* | **🏖️ beach club elegante, tutto il giorno** | ★★★★½ |
-| [Oistins Fish Fry — Pat’s Place](ristoranti/rist-oistins-fish-fry.md) | Christ Church — Oistins Bay Garden | **€** | **🐟 / 🥙 Pesce alla griglia / street food** | *Grilled marlin · flying fish · macaroni pie — venerdì iconico* | **🥙 bancarelle sul molo, autentico bajan** | ★★★★ |
-| [Primo Bar & Bistro](ristoranti/rist-primo.md) | Christ Church — St. Lawrence Gap (“The Gap”) | **€€** | **🍽️ Internazionale / caraibica** | *Seafood pasta · ribs · fish cakes* | **🎶 gap animato, musica live** | ★★★★ |
-| [The Tides](ristoranti/rist-the-tides.md) | St. James — Holetown (a 1 km da Port St. Charles) | **€€€€** | **🍽️ Haute internazionale + 🐟 seafood** | *Tuna tartare · lobster · tasting menu* | **🏖️ oceanfront, istituzione fine dining** | ★★★★½ |
-| [Lone Star](ristoranti/rist-lone-star.md) | St. James — Mount Standfast / Paynes Bay | **€€€** | **🐟 Mediterranea-caraibica pieds dans l’eau** | *Pizza al forno a legna · pesce fresco · sunset* | **🏖️ direttamente sulla spiaggia, piedi nella sabbia** | ★★★★½ |
-| [13°/59°](ristoranti/rist-1359-port-ferdinand.md) | St. Peter — Port Ferdinand Marina | **€€€** | **🐟 Caraïbesca-internazionale resort** | *Wahoo · mahi · lobster · brunch domenica* | **⚓ marina resort 5★, sul bacino** | ★★★★ |
+| [Waterfront Cafe](ristoranti/rist-waterfront-cafe.md) | Bridgetown — The Careenage | **€€** | **🐟 Bajan / poisson créole** | *Flying fish cutter · mahi-mahi · rum punch* | **⚓ directement sur le chenal, waterfront historique** | ★★★★½ |
+| [Brown Sugar](ristoranti/rist-brown-sugar.md) | Bridgetown — Bay Street (à 400 m du Careenage) | **€€** | **🐟 Buffet bajan** | *Buffet bajan du dimanche · macaroni pie · pudding & souse* | **🌴 jardin créole, institution depuis 1980** | ★★★★ |
+| [Champers](ristoranti/rist-champers.md) | Christ Church — Rockley / Accra Beach | **€€€** | **🐟 Poisson créole contemporain** | *Wahoo · thon · langouste (saison) · sunset* | **🌅 terrasse sur mer, fine dining pieds dans l'eau** | ★★★★½ |
+| [Deia Beach](ristoranti/rist-deia-beach.md) | Christ Church — Worthing Beach (entre Oistins et Bridgetown) | **€€€** | **🐟 Méditerranéenne-caraïbe** | *Crus · poisson grillé · cocktail* | **🏖️ beach club élégant, toute la journée** | ★★★★½ |
+| [Oistins Fish Fry — Pat’s Place](ristoranti/rist-oistins-fish-fry.md) | Christ Church — Oistins Bay Garden | **€** | **🐟 / 🥙 Poisson grillé / street food** | *Grilled marlin · flying fish · macaroni pie — vendredi iconique* | **🥙 étals sur le quai, authentique bajan** | ★★★★ |
+| [Primo Bar & Bistro](ristoranti/rist-primo.md) | Christ Church — St. Lawrence Gap (“The Gap”) | **€€** | **🍽️ Internationale / caraïbe** | *Seafood pasta · ribs · fish cakes* | **🎶 gap animé, musique live** | ★★★★ |
+| [The Tides](ristoranti/rist-the-tides.md) | St. James — Holetown (à 1 km de Port St. Charles) | **€€€€** | **🍽️ Haute internationale + 🐟 seafood** | *Tuna tartare · langouste · tasting menu* | **🏖️ oceanfront, institution fine dining** | ★★★★½ |
+| [Lone Star](ristoranti/rist-lone-star.md) | St. James — Mount Standfast / Paynes Bay | **€€€** | **🐟 Méditerranéenne-caraïbe pieds dans l'eau** | *Pizza au feu de bois · poisson frais · sunset* | **🏖️ directement sur la plage, pieds dans le sable** | ★★★★½ |
+| [13°/59°](ristoranti/rist-1359-port-ferdinand.md) | St. Peter — Port Ferdinand Marina | **€€€** | **🐟 Caraïbe-internationale resort** | *Wahoo · mahi · langouste · brunch dimanche* | **⚓ marina resort 5★, sur le bassin** | ★★★★ |
 
-*Prezzi per persona senza bevande; vini/cocktail a parte. Cuisine: icona principale. Emplacement: descrizione sintetica. Stelle: media ponderata Google/TripAdvisor/locali al 28/08/2026 (vedi schede).*
+*Prix par personne sans boissons ; vins/cocktails à part. Cuisine : icône principale. Emplacement : description synthétique. Étoiles : moyenne pondérée Google/TripAdvisor/locaux au 28/08/2026 (voir fiches).*
 
 ## Applis et sources
 
-| Piattaforma | Uso locale |
+| Plateforme | Usage local |
 |---|---|
-| [barbados.org — Restaurants by Emplacement](https://barbados.org/orestloc.htm) ★★★ | **Sito locale storico di riferimento** (regola 14): lista per parish, cucina, fascia prezzo, tel — usato come fonte primaria per questa selezione |
-| [Totally Barbados — Restaurant Guide](https://www.totallybarbados.com/local-places/restaurant-guide/) ★★★ | Guida locale (dal 1996) con schede per 300+ ristoranti, foto, mappa, tel — **verifica ristorante per ristorante** |
-| [TripAdvisor — Barbados](https://www.tripadvisor.com/Restaurants-g147262-zft10613-Barbados.html) ★★★ | Confronto valutazioni internazionali (150–2.400 recensioni per i top) — media ponderata con Google |
-| Google Maps recensioni | Il più aggiornato per orari/chiusure; verificare sempre prima di prenotare — orari spesso errati fuori stagione |
-| [OpenTable — Barbados](https://www.opentable.com/region/caribbean/barbados-restaurants) ★★ | Prenotazioni online per i top su sud/ovest (Champers, The Tides, Lone Star) |
-| Facebook / Instagram locali | Pagine dei ristoranti: menu del giorno, chiusure per ferie/renovation, eventi Fish Fry venerdì |
-| [TheFork/LaFourchette](https://www.thefork.com) | Copertura **limitata** nei Caraïbes — verificare ristorante per ristorante, non affidarsi come unica fonte |
-| [Visit Barbados — Dining](https://www.visitbarbados.org) ★★★ | Portale ufficiale turismo con selezioni food & rum |
+| [barbados.org — Restaurants by Emplacement](https://barbados.org/orestloc.htm) ★★★ | **Site local historique de référence** (règle 14) : liste par paroisse, cuisine, tranche prix, tél — utilisé comme source primaire pour cette sélection |
+| [Totally Barbados — Restaurant Guide](https://www.totallybarbados.com/local-places/restaurant-guide/) ★★★ | Guide local (depuis 1996) avec fiches pour 300+ restaurants, photos, carte, tél — **vérification restaurant par restaurant** |
+| [TripAdvisor — Barbados](https://www.tripadvisor.com/Restaurants-g147262-zft10613-Barbados.html) ★★★ | Comparaison évaluations internationales (150–2 400 avis pour les tops) — moyenne pondérée avec Google |
+| Google Maps avis | Le plus à jour pour horaires/fermetures ; toujours vérifier avant de réserver — horaires souvent erronés hors saison |
+| [OpenTable — Barbados](https://www.opentable.com/region/caribbean/barbados-restaurants) ★★ | Réservations en ligne pour les tops sur sud/ouest (Champers, The Tides, Lone Star) |
+| Facebook / Instagram locaux | Pages des restaurants : menu du jour, fermetures pour congés/rénovation, événements Fish Fry vendredi |
+| [TheFork/LaFourchette](https://www.thefork.com) | Couverture **limitée** dans les Caraïbes — vérifier restaurant par restaurant, ne pas s'y fier comme seule source |
+| [Visit Barbados — Dining](https://www.visitbarbados.org) ★★★ | Portail officiel tourisme avec sélections food & rum |
 
-
-> **Nota siti locali (regola 14):** per ogni ristorante sotto è riportata la valutazione **barbados.org + totallybarbados.com** (locale) + Google/TripAdvisor dove disponibili, con data di verifica **28/08/2026** e rank ★. Se un dato non è verificato su sito locale → **DONNÉE MANQUANTE** per recensioni, ma la scheda resta con mappa e contatti. Nessun dato inventato.
+> **Note sites locaux (règle 14) :** pour chaque restaurant ci-dessous est reportée l'évaluation **barbados.org + totallybarbados.com** (local) + Google/TripAdvisor où disponibles, avec date de vérification **28/08/2026** et rang ★. Si une donnée n'est pas vérifiée sur site local → **DONNÉE MANQUANTE** pour avis, mais la fiche reste avec carte et contacts. Aucune donnée inventée.
 
 Dernière mise à jour: 28/08/2026

@@ -4,7 +4,7 @@
 
 Currency: **dollaro of the Cayman (CI$)** a **cambio fisso 1 CI$ = 1,22 USD / 1 USD = 0,82 CI$**. **USD accettati ovunque** (resto spesso in CI$). The Cayman Islands are **between le more care of the Caraibi**, livello paragonabile a Bermuda/US Virgin. ★★★★
 
-> ⚠️ Le voci of questo elenco are le stesse for all i paesi of the portolano. Dove il dato non è stato still trovato dalle fonti si scrive **DATA MISSING**: viene ricercato at the controllo mensile (vedi [00 Index](../00-indice.md)).
+> ⚠️ Le voci of questo elenco are le stesse for all i paesi of the portolano. Dove il dato non è stato still trovato dalle fonti si scrive **DATA MISSING**: viene ricercato at the controllo mensile (vedi [00 Index](00-indice.md)).
 
 ## Groceries & Galley Provisioning
 

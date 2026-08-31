@@ -17,4 +17,4 @@
 
 Fonti: [noforeignland](https://www.noforeignland.com/guides/countries/bb) (26-01-2026) ★3.8 ★★ · BPI Yacht Masters Guide (luce n.5807) ★★★★ · verificato su BA 1042 + satellite
 
-Ultimo aggiornamento: 25/08/2026
+Última actualización: 25/08/2026

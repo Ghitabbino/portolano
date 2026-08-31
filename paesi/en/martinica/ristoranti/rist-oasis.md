@@ -4,31 +4,31 @@
 
 | Field | Detail |
 |---|---|
-| Zona | Anses d'Arlet |
-| Cucina | 🐟 Pesce e tartare |
-| Specialità | Thon mi-cuit · tartare de poisson |
-| Costo | 💰€€ per person without drinks |
-| Location | 🌅 terrazza sul mare |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=L'Oasis+Anses+d'Arlet) |
-| Contatti | 0596 48 00 69 |
-| Currencyzioni | Petit Futé → ★★★★ (stima) → ★★★★ |
-| Orari | mer–dom · chiusura annuale set–ott |
+| Area | Anses d'Arlet |
+| Cuisine | 🐟 Fish and tartare |
+| Signature | Seared tuna · fish tartare |
+| Price | 💰€€ per person without drinks |
+| Setting | 🌅 sea-view terrace |
+| Map | [Google Maps](https://www.google.com/maps/search/?api=1&query=L'Oasis+Anses+d'Arlet) |
+| Contact | 0596 48 00 69 |
+| Ratings | Petit Futé → ★★★★ (estimate) → ★★★★ |
+| Hours | Wed–Sun · annual closure Sep–Oct |
 
 ## Menu
 
-- Thon mi-cuit
-- Tartare de poisson
-- Daurade sauce wasabi
+- Seared tuna (thon mi-cuit)
+- Fish tartare
+- Daurade with wasabi sauce
 - Entrecôte
 - Burger
-- Vacherin coco
+- Coconut vacherin
 
-**Chef**: ND
+**Chef**: n/a
 
-## Foto
+## Photos
 
 ![L'Oasis](img/martinica/rist-oasis.jpg)
 
-*Fonte: bellemartinique.com*
+*Source: bellemartinique.com*
 
-**Note**: 19 bd des Arlésiens, bourg · sul molo
+**Notes**: 19 bd des Arlésiens, bourg · on the quay

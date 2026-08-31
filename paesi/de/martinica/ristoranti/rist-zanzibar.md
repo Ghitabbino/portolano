@@ -1,20 +1,20 @@
 # Zanzibar
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Alle Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Feld | Detail |
 |---|---|
-| Zona | Le Marin |
-| Cucina | 🐟 Pesce creolo contemporaneo |
-| Specialità | Crabe cirique farci · marmite de la Mer |
-| Costo | 💰€€€ per persona senza bevande |
-| Location | 🏖️ spiaggia elegante |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zanzibar+Le+Marin) |
-| Contatti | 0596 74 08 46 |
-| Valutazioni | TA 4,2/5 (1368) → ★★★★ |
-| Orari | mar–sab 12–14:30 / 18:30–22 · dom pranzo · lun chiuso |
+| Zone | Le Marin |
+| Küche | 🐟 Zeitgenössisch-kreolischer Fisch |
+| Spezialität | Crabe cirique farci · marmite de la Mer |
+| Preis | 💰€€€ pro Person ohne Getränke |
+| Lage | 🏖️ eleganter Strand |
+| Karte | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zanzibar+Le+Marin) |
+| Kontakt | 0596 74 08 46 |
+| Bewertungen | TA 4,2/5 (1368) → ★★★★ |
+| Öffnungszeiten | Di–Sa 12:00–14:30 / 18:30–22:00 · So Mittagessen · Mo geschlossen |
 
-## Menu
+## Speisekarte
 
 - Crabe cirique farci
 - Gravlax de poisson local
@@ -23,16 +23,18 @@
 - Marmite de la Mer
 - Menu “Héritage Caribéen”
 
-**Chef**: Julie
+**Küchenchef**: Julie
 
-## Foto
+## Fotos
 
 ![Zanzibar](img/martinica/rist-zanzibar.jpg)
 
-*Fonte: restaurantzanzibar.com (wixstatic)*
+*Quelle: restaurantzanzibar.com (wixstatic)*
 
 ![Zanzibar](img/martinica/rist-zanzibar-2.jpg)
 
-*Fonte: restaurantzanzibar.com (wixstatic)*
+*Quelle: restaurantzanzibar.com (wixstatic)*
 
-**Note**: 11 bd Allègre, Plage du Bourg · restaurantzanzibar.com · prenotare in alta stagione; menu “Héritage Caribéen”
+**Hinweise**: 11 bd Allègre, Plage du Bourg · restaurantzanzibar.com · in der Hochsaison reservieren; menu “Héritage Caribéen”
+
+Letzte Aktualisierung: 22/08/2026

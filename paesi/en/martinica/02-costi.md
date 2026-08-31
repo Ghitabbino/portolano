@@ -2,67 +2,67 @@
 
 **Last updated: 21/08/2026**
 
-Currency: **euro**. Livello prezzi: alimentari ~**+40%** vs Francia metropolitana; carburante regolato come in metropoli. ★★★★
+Currency: **euro**. Price level: groceries ~**+40%** vs mainland France; fuel price-controlled as in mainland France. ★★★★
 
-> ⚠️ Le voci di questo elenco sono le stesse per tutti i paesi del portolano. Dove il dato non è stato ancora trovato dalle fonti si scrive **DATA MISSING**: viene ricercato al controllo mensile (vedi [00 Indice](../00-indice.md)).
+> ⚠️ This list uses the same headings for every country in the pilot. Where a figure has not yet been sourced it is marked **DATA MISSING** — it is researched at each monthly check (see [00 Contents](00-indice.md)).
 
-## Groceries & Galley Provisioning
+## Groceries & Galley Stores
 
 | Item | Indicative Price | Notes |
 |---|---|---|
-| Birra locale supermercato (0,33 l) | 1–1,5 € |Lorraine/Bièreh ★★|
-| Caffè al bancone | 1,50–2,50 € |Bar del bourg ★★|
-| Baguette | ~1,20 € |Prezzo regolato francese ★★★|
-| Acqua imbottigliata 1,5 l | 0,80–1,50 € |Supermercato ★★|
-| Latte 1 l | ~1,55 € (range 0,94–1,99) |[Numbeo Fort-de-France](https://www.numbeo.com/food-prices/in/Fort-de-france-Martinique) ★★★|
-| Riso 1 kg | ~3,20 € |[Numbeo FdF](https://www.numbeo.com/food-prices/in/Fort-de-france-Martinique) ★★★|
-| Pollo fresco 1 kg | Petto ~19,80 €/kg |[Numbeo FdF](https://www.numbeo.com/food-prices/in/Fort-de-france-Martinique); intero più economico ★★★|
+| Local beer in supermarket (0.33 l) | 1–1.50 € | Lorraine / Bière Lorraine ★★|
+| Espresso at the bar | 1.50–2.50 € | Village bar ★★|
+| Baguette | ~1.20 € | French regulated price ★★★|
+| Bottled water 1.5 l | 0.80–1.50 € | Supermarket ★★|
+| Milk 1 l | ~1.55 € (range 0.94–1.99) |[Numbeo Fort-de-France](https://www.numbeo.com/food-prices/in/Fort-de-france-Martinique) ★★★|
+| Rice 1 kg | ~3.20 € |[Numbeo FdF](https://www.numbeo.com/food-prices/in/Fort-de-france-Martinique) ★★★|
+| Fresh chicken 1 kg | Breast ~19.80 €/kg |[Numbeo FdF](https://www.numbeo.com/food-prices/in/Fort-de-france-Martinique); whole bird cheaper ★★★|
 
 ## Eating Out (Average)
 
 | Item | Indicative Price |
 |---|---|
-| Menu creolo ristorante medio | 15–25 € |
-| Ti-punch al bar | 2,5–4 € |
-| Birra al bar | 3–5 € |
-| Menu ristorante di fascia alta | 40–60 € |
-| Snack/bokit da strada | 5–8 € |Snack creoli/bokit ★★|
+| Creole set menu, mid-range restaurant | 15–25 € |
+| Ti-punch at the bar | 2.5–4 € |
+| Beer at the bar | 3–5 € |
+| Upmarket restaurant menu | 40–60 € |
+| Street snack / bokit | 5–8 € | Creole snacks / bokits ★★|
 
-Prezzi specifici per locale → [10 Restaurants](10-ristoranti.md).
+Specific prices by venue → [10 Restaurants](10-ristoranti.md).
 
 ## Fuel
 
 | Item | Indicative Price | Notes |
 |---|---|---|
-| Gasolio | ~1,0–1,2 €/l |Regolato francese ★★★★|
-| Gasolio | ~1,0–1,2 €/l |Ruleto francese ★★★★|
-| Benzina SP98 | ~1,85 €/l |[Prix carburants gouv](https://www.prix-carburants.gouv.fr/) ★★★★|
-| Bombola gas (scambio) | ~35–40 € (butane 13 kg) |Punti scambio Antillaise Gaz ★★|
+| Diesel | ~1.0–1.2 €/l | French regulated price ★★★★|
+| Petrol SP95 | ~1.3–1.5 €/l | French regulated price ★★★★|
+| Petrol SP98 | ~1.85 €/l |[Prix carburants gouv](https://www.prix-carburants.gouv.fr/) ★★★★|
+| Gas cylinder (exchange) | ~35–40 € (13 kg butane) | Antillaise Gaz exchange points ★★|
 
 ## Transport & Connections
 
 | Item | Indicative Price | Notes |
 |---|---|---|
-| Bus locale | ~1,30–1,50 €/corsa |Rete Mozeau ★★|
-| Collegamento marittimo locale (navetta baie FdF) | ~5–7 €/tratta ⚠️ da verificare |Pointe du Bout/Trois-Îlets ★★|
-| Noleggio auto giornaliero | 35–55 € |Agenzie Le Marin/FdF/aeroporto ★★|
-| Taxi | Costoso, tariffe non regulate |Concordare prima ★★|
+| Local bus | ~1.30–1.50 €/ride | Mozaïk network ★★|
+| Local ferry (Fort-de-France bay shuttle) | ~5–7 €/leg ⚠️ to be verified | Pointe du Bout / Trois-Îlets ★★|
+| Hire car per day | 35–55 € | Agencies at Le Marin / Fort-de-France / airport ★★|
+| Taxi | Expensive, unregulated fares | Agree price beforehand ★★|
 
 ## Everyday Services
 
 | Item | Indicative Price | Notes |
 |---|---|---|
-| Lavanderia self-service | ~5–8 €/carico |Marina du Marin ★★|
-| SIM prepagata with dati | 10–20 € |Orange/Digicel ★★★|
-| Lavaggio scafo (hull dive) | ~2–3 €/piede |Diver marina, confermare sul posto ★★|
+| Self-service laundry | ~5–8 €/load | Marina du Marin ★★|
+| Prepaid SIM with data | 10–20 € | Orange / Digicel ★★★|
+| Hull clean (dive) | ~2–3 €/ft | Marina diver, confirm on site ★★|
 
 ## Cash & Payments
 
-Euro, carte accettate quasi ovunque; contante utile nei mercati, negli snack da spiaggia e sulle boe (raccolta in barca). Bancomat a Le Marin, Sainte-Anne, Fort-de-France.
+Euro, cards accepted almost everywhere; keep cash for markets, beach snacks and for mooring-buoy collection (collected by boat). ATMs at Le Marin, Sainte-Anne, Fort-de-France.
 
 ## Further Reading
 
-- Tariffe complete marine e boe → [03 Ports & Marinas](03-porti-ancoraggi.md)
-- Restaurants con prezzi specifici per locale → [10 Restaurants](10-ristoranti.md)
+- Full marina and buoy tariffs → [03 Ports & Marinas](03-porti-ancoraggi.md)
+- Restaurants with venue-by-venue prices → [10 Restaurants](10-ristoranti.md)
 
 Last updated: 23/08/2026

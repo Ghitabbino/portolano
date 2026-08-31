@@ -2,7 +2,7 @@
 
 [← Tutti i ristoranti](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Campo | Detalhe |
 |---|---|
 | Zona | Bridgetown — Bay Street (400 m a piedi dal Careenage, dietro Carlisle Bay) |
 | Cucina | 🐟 Bajan tradizionale / buffet creolo |
@@ -26,4 +26,4 @@
 
 Fonti: [barbados.org](https://barbados.org/orestloc.htm) ★★★ · [Totally Barbados — Brown Sugar](https://www.totallybarbados.com/place/brown-sugar-restaurant/) ★★★ · [brownsugarbarbados.com](https://www.brownsugarbarbados.com) ★★★ · Google/TripAdvisor 28/08/2026 ★★★
 
-Ultimo aggiornamento: 28/08/2026
+Última atualização: 28/08/2026

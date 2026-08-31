@@ -15,6 +15,6 @@
 <div class="mapframe" data-slug="anc-hemingway" data-lat="23.087" data-lon="-82.497"></div>
 *Detail chart — zoom in to the bay · offline chart · approximate WGS84 coordinates, always verify with your chartplotter*
 
-Fonti: Noonsite Cuba ★★★ · ricerche/cuba.md
+Fonti: Cruising sources aggregate Cuba ★★★ · ricerche/cuba.md
 
 Last updated: 25/08/2026

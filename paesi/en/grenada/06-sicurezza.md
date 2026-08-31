@@ -33,7 +33,7 @@
 | Area | Note | Source |
 |---|---|---|
 | Marine recintate (Port Louis, Secret Harbour, Prickly Bay Marina) | Videosorveglianza, security, controlli regolari at the boe | noforeignland community ★★★ |
-| Baie of the crociera sud (True Blue, Hog Island, Mt Hartman) | Comunità cruiser attiva, rete VHF, bassa criminalità | ALL AT SEA/noonsite ★★★ |
+| Baie of the crociera sud (True Blue, Hog Island, Mt Hartman) | Comunità cruiser attiva, rete VHF, bassa criminalità | ALL AT SEA/Fonti diportiste aggregate ★★★ |
 | Grand Anse of giorno | Presidiata, frequentata; normale attenzione at the beni | travel.gc.ca ★★★★ |
 | Waterfront St George's of giorno | Affollato, polizia visibile; non lasciare oggetti in vista | advisory ★★★ |
 
@@ -66,7 +66,7 @@
 | Rischio | Detail | Source |
 |---|---|---|
 | Nasse from pesca | Boe and lenze galleggianti also oltre 3 miglia, specie costa est/sud-est | portali diportisti ★★ |
-| IALA-B | Sistema boe americano ("red right returning") — invertito rispetto all'Europa | noonsite/facts ★★★ |
+| IALA-B | Sistema boe americano ("red right returning") — invertito rispetto all'Europa | Fonti diportiste aggregate/facts ★★★ |
 | Reef and ingressi moli | Passaggi stretti between reef (Hog Island, Mt Hartman, Clarkes Court, Molinere): luce alta and occhio at the mare | guide locali ★★★ |
 | Molinere MPA | Anchorage vietato, only boe (~US$10/ora); ingresso parco US$3,50 pp → $7 from 10/2026 → $10 dal 2027 | gestione parco ★★★★ |
 | Hurricanes | Sotto la belt ma Ivan 2004 devastante: piano of emergenza and storage a terra consigliati (vedi [05 Meteo](05-stagionalita-meteo.md)) | NaDMA/CSSN ★★★★ |
@@ -87,11 +87,11 @@
 
 - **VHF 16 always monitorato** from Coast Guard and stazioni marina; rete cruiser quotidiana on **VHF 66i ore 7:30** (notizie, avvisi sicurezza). [ALL AT SEA ★★★]
 - Dopo eventi severi le linee fisse possono cadere (caso Beryl 07/2024): la RGPF pubblica numeri cellulari of emergenza alternativi (es. 405-9194 / 407-3122). [RGPF notice 03/07/2024 ★★★★]
-- Carriacou: servizi marittimi ripristinati dopo Beryl ma alcuni servizi possono essere limitati. [noonsite 02/2025 ★★★★]
+- Carriacou: servizi marittimi ripristinati dopo Beryl ma alcuni servizi possono essere limitati. [Fonti diportiste aggregate 02/2025 ★★★★]
 
 ## Monitoraggio mensile
 
-- **Fonti from controllare each mese**: [CSSN Grenada](https://www.safetyandsecuritynet.org/) ★★★★ · [Noonsite Grenada](https://www.noonsite.com/place/grenada) ★★★ · [Travel.gc.ca advisory Grenada](https://travel.gc.ca/destinations/grenada) ★★★★ · [Gov.uk FCDO Grenada](https://www.gov.uk/foreign-travel-advice/grenada) ★★★★ · stampa locale [NOW Grenada](https://nowgrenada.com) ★★★ · gruppi FB "Grenada Cruisers" / "Grenada News" ★★.
+- **Fonti from controllare each mese**: [CSSN Grenada](https://www.safetyandsecuritynet.org/) ★★★★ · Cruising sources aggregate ★★★ · [Travel.gc.ca advisory Grenada](https://travel.gc.ca/destinations/grenada) ★★★★ · [Gov.uk FCDO Grenada](https://www.gov.uk/foreign-travel-advice/grenada) ★★★★ · stampa locale [NOW Grenada](https://nowgrenada.com) ★★★ · gruppi FB "Grenada Cruisers" / "Grenada News" ★★.
 - **Azioni**: check nuovi episodi CSSN, aggiornare valutazione 0–5, rivedere mappa zone and posti sicuri/from evitare, controllare numeri emergenza and canali VHF.
 - **Prossimo controllo**: **28/09/2026** (ciclo mensile). **Last checked completa: 28/08/2026**.
 

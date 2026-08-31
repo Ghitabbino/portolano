@@ -7,13 +7,13 @@
 | Zone | Bridgetown — The Careenage (sul canale, a 30 m dal pontile dinghy) |
 | Cuisine | 🐟 Bajan / pesce creolo + 🥩 grill |
 | Spécialité | *Flying fish cutter · catch of the day (mahi-mahi/wahoo) · pepperpot · rum punch* |
-| Coût | 💰€€ per persona senza bevande (~40–70 BBD) |
+| Coût | 💰€€ par personne sans boissons (~40–70 BBD) |
 | Emplacement | ⚓ direttamente sul Careenage, terrazza waterfront storica (edificio in pietra) |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Waterfront+Cafe+Bridgetown+Careenage) |
 | Contacts | The Careenage, Bridgetown · tel +1 246 427-0093 · [waterfrontcafe.com.bb](https://www.waterfrontcafe.com.bb) |
 | Évaluations | **barbados.org Moderate ★★★ · totallybarbados.com ★★★★ · Google 4,4/5 (1.800) · TripAdvisor 4,0/5 (900) → ★★★★½** |
 | Horaires | lun–sab 11:30–22:00 · dom 11:30–15:30 (brunch) · verificare chiusura Crop Over/Natale |
-| Note | A piedi dal dinghy — ideale sbarco diretto per pranzo dopo clearance; prenotazione serale consigliata |
+| Note | À pied depuis l annexe — ideale sbarco diretto per pranzo dopo clearance; prenotazione serale consigliata |
 
 ## Menu
 
@@ -23,8 +23,8 @@
 - Rum punch e Banks on tap
 
 <div class="mapframe" data-slug="rist-waterfront-cafe" data-lat="13.0967" data-lon="-59.6168"></div>
-*Cartina di dettaglio — posizione a terra rispetto alla barca · zoom ±*
+*Carte détaillée — position à terre par rapport au bateau · zoom ±*
 
-Fonti: [barbados.org — Restaurants Bridgetown](https://barbados.org/orestloc.htm) ★★★ · [Totally Barbados — Waterfront Cafe](https://www.totallybarbados.com/place/waterfront-cafe/) ★★★ · [waterfrontcafe.com.bb](https://www.waterfrontcafe.com.bb) ★★★ · Google/TripAdvisor 28/08/2026 ★★★
+Sources: [barbados.org — Restaurants Bridgetown](https://barbados.org/orestloc.htm) ★★★ · [Totally Barbados — Waterfront Cafe](https://www.totallybarbados.com/place/waterfront-cafe/) ★★★ · [waterfrontcafe.com.bb](https://www.waterfrontcafe.com.bb) ★★★ · Google/TripAdvisor 28/08/2026 ★★★
 
 Dernière mise à jour: 28/08/2026

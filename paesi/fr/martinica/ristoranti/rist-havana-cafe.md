@@ -5,24 +5,24 @@
 | Champ | Détail |
 |---|---|
 | Zone | Pointe du Bout |
-| Cuisine | 🥩 Fajitas e grill |
+| Cuisine | 🥩 Fajitas et grill |
 | Spécialité | Fajitas · crêpes · cocktail maison |
-| Coût | 💰€€ per persona senza bevande |
-| Emplacement | 🎶 musica live, animato |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Havana+Café+Pointe+du+Bout) |
+| Coût | 💰€€ par personne hors boissons |
+| Emplacement | 🎶 musique live, animé |
+| Carte | [Google Maps](https://www.google.com/maps/search/?api=1&query=Havana+Café+Pointe+du+Bout) |
 | Contacts | 0596 66 15 93 |
 | Évaluations | Petit Futé 3,6/5 → ★★★½ |
-| Horaires | 7/7 servizio continuato 11:30–23 (mezzanotte nel week-end) |
+| Horaires | 7/7 service continu 11:30–23 (minuit le week-end) |
 
 ## Menu
 
 - Fajitas mexicaines
-- Tartares di pesce fresco
+- Tartares de poisson frais
 - Grillades
 - Salades composées
-- Galettes e crêpes dolci
+- Galettes et crêpes sucrées
 - Coupes glacées
-- Cocktail maison (carta 20–30 €)
+- Cocktails maison (carte 20–30 €)
 
 **Chef**: ND
 
@@ -30,8 +30,8 @@
 
 ![Havana Café](img/martinica/rist-havana-cafe.jpg)
 
-*Source: havana-cafe-martinique.fr (wixstatic)*
+*Source : havana-cafe-martinique.fr (wixstatic)*
 
-**Note**: Village Créole, rue du Chacha, Les Trois-Îlets · havana-cafe-martinique.fr
+**Notes** : Village Créole, rue du Chacha, Les Trois-Îlets · havana-cafe-martinique.fr
 
-**Extra**: email havanacafemartinique@gmail.com
+**Extra** : email havanacafemartinique@gmail.com

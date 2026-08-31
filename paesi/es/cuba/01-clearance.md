@@ -1,6 +1,6 @@
 # 01 — Clearance doganale della barca
 
-**Ultima verifica: 24/08/2026** · Fonti principali: Noonsite ★★★★, Aduana General de la República ★★★★★, Yacht Pilot ★★★, Triton/CubaPLUS ★★★, Marlin Marinas ★★★★
+**Ultima verifica: 24/08/2026** · Fonti principali: Fuentes náuticas agregadas ★★★★, Aduana General de la República ★★★★★, Yacht Pilot ★★★, Triton/CubaPLUS ★★★, Marlin Marinas ★★★★
 
 ## Chi deve farla
 
@@ -36,14 +36,14 @@ Baracoa exit-only aggiuntiva per uscita verso E. Arrivare fuori da un porto desi
 
 | Voce | Importo indicativo | Note | Fonte |
 |---|---|---|---|
-| Visto equipaggio 90 gg | **~78 USD p.p.** | Single-entry, prorogabile 90 gg in loco | Noonsite 2023 ★★★★ |
-| Cruising permit + despacho | **~57 USD** a barca | Include despacho interno iniziale | Noonsite ★★★★ |
-| Health report / sanità | **~60 USD** a barca | Ispezione sanitaria | Noonsite ★★★★ |
+| Visto equipaggio 90 gg | **~78 USD p.p.** | Single-entry, prorogabile 90 gg in loco | Fuentes náuticas agregadas 2023 ★★★★ |
+| Cruising permit + despacho | **~57 USD** a barca | Include despacho interno iniziale | Fuentes náuticas agregadas ★★★★ |
+| Health report / sanità | **~60 USD** a barca | Ispezione sanitaria | Fuentes náuticas agregadas ★★★★ |
 | Tassa faro/porto locale | **~10-15 USD** | Variabile per marina | Yacht Pilot ★★★ |
-| Ormeggio Marina Hemingway | **0,70 USD/ft/die <45 ft · 1,00 USD/ft/die >45 ft · 1,80 USD/ft 74-89 ft · 2,50 >89 ft** (sconto 30% canale 1 senza acqua/luce) | Pagamento solo carta non-USA a Hemingway; altrove EUR/USD cash | Noonsite ★★★★ |
+| Ormeggio Marina Hemingway | **0,70 USD/ft/die <45 ft · 1,00 USD/ft/die >45 ft · 1,80 USD/ft 74-89 ft · 2,50 >89 ft** (sconto 30% canale 1 senza acqua/luce) | Pagamento solo carta non-USA a Hemingway; altrove EUR/USD cash | Fuentes náuticas agregadas ★★★★ |
 | Elettricità Hemingway | Metered 110/220V + 340V 200A | Verificare polarità con tester | Marina ★★★ |
 | Acqua Hemingway | Inclusa ma spesso interrotta | Watermaker indispensabile | Marina ★★★ |
-| **Totale entry double-handed 40 ft 1 notte** | **~300-350 USD** | Include 1 notte pontile + fee | Noonsite ★★★★ |
+| **Totale entry double-handed 40 ft 1 notte** | **~300-350 USD** | Include 1 notte pontile + fee | Fuentes náuticas agregadas ★★★★ |
 | Proroga visto 90 gg | **~25-30 USD p.p.** | All'ufficio immigrazione (Calle 17 e K, Vedado L'Avana e capoluoghi) | EDA Svizzera ★★★ |
 
 Pagamento: **solo carte non-USA (Visa/Mastercard)** a Hemingway e Cayo Largo (no contanti); altrove **EUR/USD contanti** (banconote perfette, tagli 5-20, no scritte/pieghe) o MLC prepagata. Carte USA non funzionano mai. Sovrattassa 3% con carta. ATM eroga CUP a tasso ufficiale (sfavorevole).
@@ -80,7 +80,7 @@ Mancata presentazione in porto designato = respinta/espulsione e possibile black
 
 ## Da verificare prima della crociera
 
-- Lista porti aggiornata su Noonsite / Aduana (Los Morros spesso chiusa post-uragano, Cayo Guillermo depth restricted).
+- Lista porti aggiornata su Fuentes náuticas agregadas / Aduana (Los Morros spesso chiusa post-uragano, Cayo Guillermo depth restricted).
 - Disponibilità carburante ed elettricità in marina (crisi 2026: fuel intermittente, blackout).
 - Validità URL D'Viajeros (https://dviajeros.mitrans.gob.cu) ed eVisa (cambio 01/07/2025: solo elettronico).
 - Avviso agli USA: visita Cuba = perdita ESTA.

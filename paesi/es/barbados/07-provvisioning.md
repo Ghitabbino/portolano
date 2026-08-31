@@ -1,10 +1,10 @@
-# 07 — Provvisioning
+# 07 — Aprovisionamiento
 
-**Ultima verifica: 28/08/2026**
+**Última verificación: 28/08/2026**
 
 ## Livello prezzi generale — Barbados
 
-- Valuta: **Dollaro di Barbados (BBD, 2:1 fisso con USD)** — prezzi alimentari **importati, più cari che in Europa continentale (+30–50%)**; prodotti locali (pesce, frutta tropicale, pane) più convenienti. [skiptomalouuu.com](https://www.skiptomalouuu.com/blog/best-eateries-in-barbados) ★★★
+- Moneda: **dólar de Barbados (BBD, Bds$) — anclado a 2 BBD = 1 USD** — precios alimentarios **importados, más caros que en Europa continental (+30–50%)**; productos locales (pescado, fruta tropical, pan) más baratos. [skiptomalouuu.com](https://www.skiptomalouuu.com/blog/best-eateries-in-barbados) ★★★
 - Logistica da yacht: per **scorte oceaniche** meglio rifornirsi nelle isole maggiori (Antigua, St. Martin, Trinidad) dove c'è grande distribuzione duty-free; Barbados ha **buona distribuzione urbana** (Massy, Trimart, Cost U Less) ma prezzi più alti per import. ★★
 
 ## Supermercati
@@ -13,20 +13,20 @@
 
 | Negozio | Ubicazione | Distanza dalla marina/ancoraggio | A piedi? | Telefono | Consegna a bordo? | Fonte |
 |---|---|---|---|---|---|---|
-| **Massy Stores — Harbour Road / Worthing / Garrison** | Harbour Road (Princess Alice Hwy) — Worthing (a sud) — Garrison | Harbour Road **~500 m** dal Careenage/Shallow Draught; Worthing ~5 km | ✅ sì Harbour Road (5–7 min) · ⚠️ taxi/bus Worthing | +1 246 434-0081 (Harbour Road) ★★ · +1 246 435-7927 (Worthing) ★★ | **DATO MANCANTE** — verificare in negozio (provisioning yacht su richiesta) | [Massy Stores Barbados](https://massystoresbb.com) ★★★ |
-| **Trimart — Rendezvous / Hastings** | Rendezvous (Christ Church) | ~4 km dal Careenage | ⚠️ taxi/bus | DATO MANCANTE | DATO MANCANTE | ★★ |
+| **Massy Stores — Harbour Road / Worthing / Garrison** | Harbour Road (Princess Alice Hwy) — Worthing (a sud) — Garrison | Harbour Road **~500 m** dal Careenage/Shallow Draught; Worthing ~5 km | ✅ sì Harbour Road (5–7 min) · ⚠️ taxi/bus Worthing | +1 246 434-0081 (Harbour Road) ★★ · +1 246 435-7927 (Worthing) ★★ | **DATO FALTANTE** — verificare in negozio (provisioning yacht su richiesta) | [Massy Stores Barbados](https://massystoresbb.com) ★★★ |
+| **Trimart — Rendezvous / Hastings** | Rendezvous (Christ Church) | ~4 km dal Careenage | ⚠️ taxi/bus | DATO FALTANTE | DATO FALTANTE | ★★ |
 | **Cost U Less — Warrens** | Warrens (St. Michael) | ~8 km | ⚠️ taxi/auto | +1 246 417-5400 ★★ | No (cash & carry) | ★★ |
-| **Sol Minimart / Emerald City — Six Roads / Oistins** | Six Roads, Oistins (south) | ~6–7 km da Carlisle | ⚠️ taxi | DATO MANCANTE | DATO MANCANTE | ★★ |
+| **Sol Minimart / Emerald City — Six Roads / Oistins** | Six Roads, Oistins (south) | ~6–7 km da Carlisle | ⚠️ taxi | DATO FALTANTE | DATO FALTANTE | ★★ |
 
 ### Nord-ovest (Port St. Charles / Speightstown)
 
 | Negozio | Ubicazione | Distanza | A piedi? | Telefono | Consegna? |
 |---|---|---|---|---|---|
-| **Massy Stores — Holetown (Limegrove / Sunset Crest)** | Holetown | ~1,5 km da Port St. Charles (via Highway 1) | ✅ sì (15–20 min) o taxi 10 BBD | +1 246 432-1260 (Holetown) ★★ | DATO MANCANTE |
-| **Massy / Trimart — Speightstown** | Speightstown centre | ~400 m dalla rada di Speightstown | ✅ sì | DATO MANCANTE | DATO MANCANTE |
-| **Jordan's Supermarket — Speightstown / Fitts Village** | Fitts Village · Speightstown | ~500 m–1 km | ✅ sì | +1 246 419-6130 ★★ | DATO MANCANTE |
+| **Massy Stores — Holetown (Limegrove / Sunset Crest)** | Holetown | ~1,5 km da Port St. Charles (via Highway 1) | ✅ sì (15–20 min) o taxi 10 BBD | +1 246 432-1260 (Holetown) ★★ | DATO FALTANTE |
+| **Massy / Trimart — Speightstown** | Speightstown centre | ~400 m dalla rada di Speightstown | ✅ sì | DATO FALTANTE | DATO FALTANTE |
+| **Jordan's Supermarket — Speightstown / Fitts Village** | Fitts Village · Speightstown | ~500 m–1 km | ✅ sì | +1 246 419-6130 ★★ | DATO FALTANTE |
 
-> **Nota metodo:** quando il telefono è indicato **DATO MANCANTE** significa che non è stato verificato con websearch/webfetch in questa sessione su sito ufficiale Massy/Trimart al 28/08/2026; verrà ricercato al controllo mensile con verifica diretta. ★★
+> **Nota metodo:** quando il telefono è indicato **DATO FALTANTE** significa che non è stato verificato con websearch/webfetch in questa sessione su sito ufficiale Massy/Trimart al 28/08/2026; verrà ricercato al controllo mensile con verifica diretta. ★★
 
 ### Dettagli per base principale — Bridgetown Careenage / Shallow Draught
 
@@ -46,7 +46,7 @@
 
 | Servizio | Dove | Note |
 |---|---|---|
-| Water dock | Marina Shallow Draught / Careenage · Port St. Charles · Port Ferdinand | **DATO MANCANTE** tariffa/m³ a Barbados al 28/08/2026 — verificare in capitainerie; acqua BWA potabile ma filtrare → [03](03-porti-ancoraggi.md) |
+| Water dock | Marina Shallow Draught / Careenage · Port St. Charles · Port Ferdinand | **DATO FALTANTE** tariffa/m³ a Barbados al 28/08/2026 — verificare in capitainerie; acqua BWA potabile ma filtrare → [03](03-porti-ancoraggi.md) |
 | Fuel dock | Stazione carburante del porto (Bridgetown) · Port St. Charles (fuel duty-free allo sdoganamento) | Prezzi variabili, gasolio ~1,4–2,0 BBD/l · benzina ~1,6–2,2 BBD/l → [02 Costi](02-costi.md) |
 | Gas (butane/propane) | Scambio bombole tipo locale/US a Bridgetown | Solo scambio, niente rabbocco dove non previsto → [04 Servizi](04-servizi-cantieri.md) |
 | Ghiaccio | Supermercati Massy/Trimart, Fisheries Complex | Sacchi da 5–10 BBD; verificare disponibilità prima di traversate lunghe |
@@ -57,7 +57,7 @@
 
 - Servizio **non a tassametro** nella maggior parte dell'isola: **tariffa da concordare prima di salire**. Tariffa regolata da Barbados Tourism con listino ufficiale per tratte turistiche. ★★★
 - Tratta tipica **Careenage/Shallow Draught ↔ Massy Harbour Road**: **10–20 BBD (~5–10 USD)**; **Careenage ↔ Worthing/Trimart**: **40–60 BBD**; **Oistins ↔ Bridgetown**: **50–70 BBD**; **Holetown ↔ Speightstown**: **30–50 BBD** — confermare con autista o capitainerie. ★★
-- Contatto taxi: chiedere in marina/capitainerie o al supermarket; taxi stand a Harbour Road, Bridgetown Bus Terminal, aeroporto. Numero centrale Barbados Taxi Association **+1 246 426-1021** (verificare al 28/08/2026) — **DATO MANCANTE** se non risponde, usare taxi hotel.
+- Contatto taxi: chiedere in marina/capitainerie o al supermarket; taxi stand a Harbour Road, Bridgetown Bus Terminal, aeroporto. Numero centrale Barbados Taxi Association **+1 246 426-1021** (verificare al 28/08/2026) — **DATO FALTANTE** se non risponde, usare taxi hotel.
 
 ### Bus / ZR / minibus
 
@@ -72,4 +72,4 @@
 - Verificare sempre **orari festivi e disponibilità di ghiaccio** prima di traversate lunghe (180–240 M).
 - Per **cambusa oceanica** (transatlantica): meglio **Bridgetown (Massy Harbour Road + Cost U Less Warrens)** in un'unica spesa grande con taxi; per integrazioni giornaliere usare **Holetown/Speightstown** se ancorati a nord.
 
-Ultimo aggiornamento: 28/08/2026
+Última actualización: 28/08/2026

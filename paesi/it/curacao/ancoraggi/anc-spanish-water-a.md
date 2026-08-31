@@ -15,6 +15,6 @@
 <div class="mapframe" data-slug="anc-spanish-water-a" data-lat="12.0806" data-lon="-68.8624"></div>
 *Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 verificate satellite (in mezzo al mare)*
 
-Fonti: Guida Zeezwaluw (PDF curato) ★★★ · Navily "Spanish Water West" (10/2025) ★★ · Noonsite — Spanish Water ★★★ · Sailing Anima ★★★
+Fonti: Guida Zeezwaluw (PDF curato) ★★★ · Navily "Spanish Water West" (10/2025) ★★ · Fonti diportiste aggregate ★★★ · Sailing Anima ★★★
 
 Ultimo aggiornamento: 28/08/2026

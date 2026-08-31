@@ -6,23 +6,23 @@
 |---|---|
 | Zone | Saint-François |
 | Cuisine | 🐟 Pieds dans l'eau |
-| Spécialité | Crabe farci · dorade al riso nero |
-| Coût | 💰€€ per persona senza bevande |
-| Emplacement | 🏖️ spiaggia, tramonto |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Zagaya+Saint-François) |
-| Contacts | [Mappa](https://www.google.com/maps/search/?api=1&query=Zagaya+Saint-Francois+Guadeloupe) |
-| Évaluations | Google positive → ★★★★ |
-| Horaires | pieds dans l'eau · cena stagionale ⚠️ |
+| Spécialité | Crabe farci · dorade au riz noir |
+| Coût | 💰€€ par personne hors boissons |
+| Emplacement | 🏖️ plage, coucher de soleil |
+| Carte | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Zagaya+Saint-François) |
+| Contacts | [Carte](https://www.google.com/maps/search/?api=1&query=Zagaya+Saint-Francois+Guadeloupe) |
+| Évaluations | Google — avis positifs → ★★★★ |
+| Horaires | pieds dans l'eau · dîner en saison ⚠️ |
 
 ## Menu
 
 - Crabe farci
-- Dorade al riso nero
+- Dorade au riz noir
 
-**Chef**: ND
+**Chef** : ND
 
 ## Photos
 
-*Photos non ancora disponibili — recuperare al controllo mensile.*
+*Photos non encore disponibles — à récupérer lors du contrôle mensuel.*
 
-**Note**: Comodo dalla marina/laguna · carta ampia 10–50 €
+**Notes** : Pratique depuis la marina/lagon · large carte 10–50 €

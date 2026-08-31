@@ -4,7 +4,7 @@
 
 Devise: **dollaro delle Cayman (CI$)** a **cambio fisso 1 CI$ = 1,22 USD / 1 USD = 0,82 CI$**. **USD accettati ovunque** (resto spesso in CI$). Le Cayman sono **tra le più care dei Caraïbes**, livello paragonabile a Bermuda/US Virgin. ★★★★
 
-> ⚠️ Le voci di questo elenco sono le stesse per tutti i paesi del portolano. Dove il dato non è stato ancora trovato dalle fonti si scrive **DONNÉE MANQUANTE**: viene ricercato al controllo mensile (vedi [00 Index](../00-indice.md)).
+> ⚠️ Le voci di questo elenco sono le stesse per tutti i paesi del portolano. Dove il dato non è stato ancora trovato dalle fonti si scrive **DONNÉE MANQUANTE**: viene ricercato al controllo mensile (vedi [00 Index](00-indice.md)).
 
 ## Alimentation & avitaillement
 

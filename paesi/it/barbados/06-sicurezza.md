@@ -80,7 +80,7 @@ Dati **Caribbean Safety and Security Net (CSSN — thecssn.org ★★★)** + ad
 | Segnaletica **IALA-B** | "Red right returning": sistema **invertito** rispetto all'Europa — rosso a dritta entrando in porto, attenzione alle boe in ingresso Bridgetown/Careenage |Fonti diportiste aggregate ★★★|
 | Reef / bassi fondali e parco marino | Barriera e reef affioranti su costa sud/est e secche a Carlisle (relitti protetti); ancoraggio vietato su corallo — solo sabbia o boe dove presenti |guide locali ★★★|
 | Nasse da pesca / FAD | Boe con lenze galleggianti poco visibili anche oltre 1–2 miglia; visibilità scarsa di notte; anche a Carlisle piccola pesca locale |★★|
-| Avvicinamento Bridgetown | Porto commerciale trafficato; restare fuori dal canale navi fino a istruzioni Signal Station VHF 12; **non** puntare al molo doganale con barche <20 m — dinghy al Passenger Terminal |BPI ★★★★★ · Noonsite 31/12/2022 ★★|
+| Avvicinamento Bridgetown | Porto commerciale trafficato; restare fuori dal canale navi fino a istruzioni Signal Station VHF 12; **non** puntare al molo doganale con barche <20 m — dinghy al Passenger Terminal |BPI ★★★★★ · Fonti diportiste aggregate 31/12/2022 ★★|
 | Ponte mobile Careenage | Ponte interno a Bridgetown centro: verifica apertura e altezza; luce Molehead Fl R 10s 2M |BPI Yacht Masters Guide ★★★★|
 | Narcotraffico in transito | Corridoio Venezuela–ABC–Windward; pacchi sospetti in mare (balle) — non recuperare, segnalare a Guardia Costiera / BPI VHF 12 |UK FCDO ★★★★|
 | Costa est atlantica | **Vietata come ancoraggio notturno**: frangenti, swell continuo, reef — tenere **≥2 M** al largo senza necessità |safetyanchoralarm ★★|

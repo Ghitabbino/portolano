@@ -11,8 +11,8 @@
 | **Emplacement** |**DONNÉE MANQUANTE**|
 
 <div class="mapframe" data-slug="rist-boubou-bokits" data-lat="14.436" data-lon="-60.8795"></div>
-*Cartina di dettaglio: posizione a terra rispetto alla barca · zoom ±*
+*Carte détaillée : position à terre par rapport au bateau · zoom ±*
 
-Fonti: **DONNÉE MANQUANTE**
+Sources : **DONNÉE MANQUANTE**
 
 Dernière mise à jour: 25/08/2026

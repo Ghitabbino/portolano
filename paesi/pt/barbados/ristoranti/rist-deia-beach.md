@@ -2,7 +2,7 @@
 
 [← Tutti i ristoranti](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Campo | Detalhe |
 |---|---|
 | Zona | Christ Church — Worthing Beach (a 1 km da St. Lawrence Gap) |
 | Cucina | 🐟 Mediterranea-caraibica / beach club |
@@ -27,4 +27,4 @@
 
 Fonti: [OpenTable — Deia Beach](https://www.opentable.com/region/caribbean/barbados-restaurants) ★★ · [Totally Barbados — Deia Beach](https://www.totallybarbados.com/place/deia-beach-bar/) ★★★ · [deiabeach.com](https://www.deiabeach.com) ★★★ · Google 28/08/2026 ★★★
 
-Ultimo aggiornamento: 28/08/2026
+Última atualização: 28/08/2026

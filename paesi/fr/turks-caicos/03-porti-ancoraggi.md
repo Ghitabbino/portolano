@@ -23,7 +23,7 @@
 
 ### South Dock / Southside Marina (South Side, Provo)
 - **21°44′06″N 72°16′48″W** (South Dock) · VHF 16 ★★★
-- **Dock commerciale / doganale** principale di Provo: banchine cargo, dogana/immigration. **Non** attraccabile con vela al molo commerciale — ancoraggio antistante e **dinghy a terra + a piedi** (richiesti casco/gilet in area portuale). **Carte spesso non accettate** → contanti USD. [Noonsite commenti 2019 ★★★; borderforce.gov.tc ★★★★★]
+- **Dock commerciale / doganale** principale di Provo: banchine cargo, dogana/immigration. **Non** attraccabile con vela al molo commerciale — ancoraggio antistante e **dinghy a terra + a piedi** (richiesti casco/gilet in area portuale). **Carte spesso non accettate** → contanti USD. [Sources plaisance agrégées commenti 2019 ★★★; borderforce.gov.tc ★★★★★]
 - Anchorage antistante: rada commerciale, traffico navi — solo sosta breve per pratiche. [ancoraggi/anc-southside-provo.md]
 
 ### Sapodilla Bay (SW Provo) — rada POE

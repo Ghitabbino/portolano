@@ -6,11 +6,11 @@
 
 ### Spanish Water ⚓ polo principale yacht
 - **12°04,8' N 68°51,5' W** (bacino) · **Ingresso laguna 12°03,7' N 68°51,2' W** · VHF 16 (Guardia Costiera) / 67 (Seru Boca) ★★★
-- Laguna riparata a **5 zone designate A–E** (max **90 giorni**), la più grande e sicura dei Caraibi meridionali: **~100 posti** totali, fango 5–10 m, ben protetta dagli alisei salvo swell da S/SW a ovest della laguna. [Sailing Anima ★★★; Noonsite — Spanish Water ★★★]
+- Laguna riparata a **5 zone designate A–E** (max **90 giorni**), la più grande e sicura dei Caraibi meridionali: **~100 posti** totali, fango 5–10 m, ben protetta dagli alisei salvo swell da S/SW a ovest della laguna. [Sailing Anima ★★★; Fontes náuticas agregadas ★★★]
 - **Seru Boca Marina** (130+ posti, fino a 80 ft; Barbara Beach 20 posti fino a 170 ft) — acqua/luce 50Hz/WiFi/sicurezza 24h; gestione Harbour Master Robert van den Heuvel · +599 9 840 0080 · marinas@santabarbaraplantation.com · VHF 67. [Curacao Ports — Port Partners ★★★★; Seru Boca ★★★★]
 - **Curaçao Yacht Club** — Brakkeput Ariba z/n · +599 9 767 4627/3038 · cyc@curacaoyachtclub.com — pochi transiti, fuel dock, niente docce/lavanderia, WiFi debole. [Curacao Ports ★★★★]
 - **Kima Kalki Marina** — Brakkeput Ariba 62 · +599 9 767-3014 / 660-2707 · kimakalki@gmail.com — piccola, fino a 60 ft, acqua/luce. [Curacao Ports ★★★★]
-- Dinghy dock al porto pescatori + shuttle bus gratuito verso town (mattina). [Noonsite ★★★]
+- Dinghy dock al porto pescatori + shuttle bus gratuito verso town (mattina). [Fontes náuticas agregadas ★★★]
 - Clearance via Spanish Water (vedi [01](01-clearance.md)); nuovo ufficio Santa Barbara **non ancora operativo** (13/08/2025). ★★★
 
 ### Caracasbaai / Fuik Baai (est)
@@ -21,7 +21,7 @@
 
 ### Willemstad — St. Anna Bay
 - **12°07' N 68°56' W** · VHF 12 (Port Control per Queen Emma Bridge) ★★★
-- Porto commerciale principale: **VIETATO ancorare/ormeggiare ai diportisti in St. Anna Bay** (banchine ISPS est/ovest riservate a navi/tug; wash pericoloso). Eccezioni solo su richiesta speciale Harbour Master a Handelskade/Mathey Wharf. [Noonsite — Spanish Water ★★★]
+- Porto commerciale principale: **VIETATO ancorare/ormeggiare ai diportisti in St. Anna Bay** (banchine ISPS est/ovest riservate a navi/tug; wash pericoloso). Eccezioni solo su richiesta speciale Harbour Master a Handelskade/Mathey Wharf. [Fontes náuticas agregadas ★★★]
 - **Curaçao Marine** — Pletterijweg 6 (St. Anna Bay) · +599 9 465 8936 / 562 8001 · info@curacaomarine.com — **cantiere full-service, travelift max 60 t**, monoscafi/multiscafi, rimessaggio, verniciatura, trafori. Entrepot **illimitato** senza equipaggio. [Curacao Ports ★★★★; curacaomarine.com ★★★]
 - Queen Emma Bridge apribile su richiesta Port Control VHF 12. ★★★
 
@@ -33,15 +33,15 @@
 ## Costa ovest
 
 ### Santa Martha Bay (laguna)
-- **12°16,2' N 69°07,6' W** · laguna interna con **bocca stretta ~3 m**, fango ottimo 4–5 m; **entrare solo con sole alto**, max 3 notti designata CPA. [Spend Life Traveling ★★★; Noonsite 13/08/2025 ★★★]
+- **12°16,2' N 69°07,6' W** · laguna interna con **bocca stretta ~3 m**, fango ottimo 4–5 m; **entrare solo con sole alto**, max 3 notti designata CPA. [Spend Life Traveling ★★★; Fontes náuticas agregadas 13/08/2025 ★★★]
 - Vicino a Soto; servizi limitati; ristoranti isolati (Captain Good Life). [CruisersForum 29/03/2015 ★★]
 
 ### Santa Cruz / Santu Pretu
 - **12°18,5' N 69°08,5' W** (indicativa) · sabbia 5 m vicino riva (>10 m fuori), davanti a **Santu Pretu** (non playa Santa Cruz); attenzione a **relitto non segnalato**; boa immersioni verificata **12,2972 N −69,1557 W**. Max 3 notti. [Spend Life Traveling ★★★; Sailing Divers 2022 ★★]
-- Spiaggia, snorkeling relitto a 6 m (100' wreck). [Noonsite commento 12/09/2023 ★★]
+- Spiaggia, snorkeling relitto a 6 m (100' wreck). [Fontes náuticas agregadas commento 12/09/2023 ★★]
 
 ### Klein Curaçao (isola disabitata — 10,5 M SE di Curaçao)
-- **11°59,4' N 68°38,6' W** (lato ovest) · sabbia ≤5 m vicino spiaggia, lato sottovento davanti alla spiaggia; boe limitate; **max 3 notti ogni 5** (Harbour Master). [Noonsite ★★★; Wikipedia 11°59'24"N 68°38'35"W ★★★★]
+- **11°59,4' N 68°38,6' W** (lato ovest) · sabbia ≤5 m vicino spiaggia, lato sottovento davanti alla spiaggia; boe limitate; **max 3 notti ogni 5** (Harbour Master). [Fontes náuticas agregadas ★★★; Wikipedia 11°59'24"N 68°38'35"W ★★★★]
 - Corallo e grotte, tartarughe; faro e relitto Maria Bianca Guidesman. [Wikipedia Klein Curaçao ★★★★]
 
 ## Costa est — attenzione
@@ -67,7 +67,7 @@
 | Tratta | Distanza |
 |---|---|
 | Curaçao (Spanish Water) ↔ Bonaire (Kralendijk) | **~35 M** |
-| Curaçao ↔ Aruba (Oranjestad/Barcadera) | **~70–75 M** [Noonsite 12/09/2023 ★★] |
+| Curaçao ↔ Aruba (Oranjestad/Barcadera) | **~70–75 M** [Fontes náuticas agregadas 12/09/2023 ★★] |
 | Curaçao ↔ Klein Curaçao | **~10,5 M SE** |
 | Curaçao ↔ Grenada/Trinidad (via rotta ABC) | **DATO MANCANTE — verificare carta** — traversata lunga, finestra post-onda tropicale |
 | Canali inter-isole Leeward | **15–45 M** tra isole vicine |

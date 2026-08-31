@@ -26,13 +26,13 @@
 
 ### Île-à-Vache — Port Morgan {#anc-port-morgan}
 
-**Coordinate:** 18°06.30′N 73°41.70′W (porto/rada NW isola, 5,5 M da Les Cayes) — Noonsite / Port Morgan ★★ · WGS84. **Profondità:** 3–16 m (8 m centro baia, 3 m sottocosta) ★★. **Fondo:** sabbia. **Riparo:** buono da E/NE, esposto a S-W.
+**Coordinate:** 18°06.30′N 73°41.70′W (porto/rada NW isola, 5,5 M da Les Cayes) — Fontes náuticas agregadas / Port Morgan ★★ · WGS84. **Profondità:** 3–16 m (8 m centro baia, 3 m sottocosta) ★★. **Fondo:** sabbia. **Riparo:** buono da E/NE, esposto a S-W.
 
 **Descrizione:** isola rurale a SW di Haiti, fuori dalle zone gang della terraferma; rada NW nota come “Ferret Bay”, storica pirateria/morganesco. Resort Port Morgan con marina naturale, posti in banchina e boe (pescaggio max ~3 m) e servizi di sosta; villaggio Cay Coq/Cacor adiacente. Avvicinamento da sud/ovest con transizione rapida oceano→shelf (6–8 m a ridosso isola, attenzione a linee pesca galleggianti <45 m) — incrociare con Navionics/Free Cruising Guides Haiti ★★
 
 <div class="mapframe" data-slug="haiti-port-morgan" data-minz="12" data-maxz="16" data-lat="18.1050" data-lon="-73.6950" data-markers='[[18.1050, -73.6950, "Île-à-Vache — Port Morgan", "anc-port-morgan"]]'></div>
 
-**Note:** unico punto haitiano con **minima infrastruttura per yacht**; contesto generale resta **sconsigliato** — verificare sicurezza giornaliera con Noonsite/advisory e resort. Contatti resort: info@port-morgan.com · +509 3921-2000 ★★
+**Note:** unico punto haitiano con **minima infrastruttura per yacht**; contesto generale resta **sconsigliato** — verificare sicurezza giornaliera con Fontes náuticas agregadas/advisory e resort. Contatti resort: info@port-morgan.com · +509 3921-2000 ★★
 
 ## Cartografia ufficiale
 

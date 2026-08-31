@@ -1,53 +1,52 @@
-# 04 — Servizi, cantieri e manutenzione
+# 04 — Servicios, varaderos y mantenimiento
 
-**Ultima verifica: 28/08/2026**
+**Última verificación: 28/08/2026**
 
-## Hub principale — Bridgetown / Shallow Draught
+## Hub principal — Bridgetown / Shallow Draught
 
-- Servizi concentrati nella **marina/porto di Bridgetown** (Shallow Draught + Careenage); per lavori importanti la zona marina/Bay Street è il riferimento. Barbados **non è un hub tecnico caraibico**: infrastruttura limitata rispetto ad Antigua, St. Martin o Trinidad. ★★
-- **Travelift / gru / alaggio**: **DATO MANCANTE** capacità verificata a Barbados — chiedere a Harbour Master +1 246 434-6100 o a Port St. Charles +1 246 419-1000. Per refit strutturali, molti armatori si appoggiano a **Antigua (English Harbour/Jolly Harbour), Sint Maarten (Simpson Bay) o Trinidad (Chaguaramas)** con travelift 70–300 t e decine di professionisti. [Yachting World 2017 — Barbados](https://www.yachtingworld.com/features/reinventing-barbados-caribbean-island-works-welcome-back-cruisers-71257) ★★★
-- **Shipchandler / accastillage**: assortimento **base** in loco (ferramenta, ancore, cime, vernici); per ricambi specifici (Volvo Penta, Yanmar, elettronica NKE/Raymarine) ordinare con **1–3 settimane** di anticipo via Miami/St. Martin/UK. Spedizione: DHL/Colissimo; dazio pagabile all'arrivo. ★★
-- **Carenaggio**: possibilità di **carenaggio e verniciatura nei bacini di Bridgetown** secondo segnalazioni locali, ma **DATO MANCANTE** per travelift/gru certificato a Barbados — verificare in capitainerie prima di pianificare. ★★
+- Servicios concentrados en la **marina/puerto de Bridgetown** (Shallow Draught + Careenage); para trabajos importantes la zona marina/Bay Street es la referencia. Barbados **no es un hub técnico caribeño**: infraestructura limitada respecto a Antigua, St. Martin o Trinidad. ★★
+- **Travelift / grúa / varada**: **DATO FALTANTE** capacidad verificada en Barbados — preguntar a Harbour Master +1 246 434-6100 o a Port St. Charles +1 246 419-1000. Para refit estructurales, muchos armadores se apoyan en **Antigua (English Harbour/Jolly Harbour), Sint Maarten (Simpson Bay) o Trinidad (Chaguaramas)** con travelift 70–300 t y decenas de profesionales. [Yachting World 2017 — Barbados](https://www.yachtingworld.com/features/reinventing-barbados-caribbean-island-works-welcome-back-cruisers-71257) ★★★
+- **Shipchandler / acastillaje**: surtido **básico** in situ (ferretería, anclas, cabos, pinturas); para repuestos específicos (Volvo Penta, Yanmar, electrónica NKE/Raymarine) pedir con **1–3 semanas** de antelación vía Miami/St. Martin/UK. Envío: DHL/Colissimo; arancel pagadero a la llegada. ★★
+- **Carena**: posibilidad de **carena y pintado en las dársenas de Bridgetown** según reportes locales, pero **DATO FALTANTE** para travelift/grúa certificado en Barbados — verificar en capitanías antes de planificar. ★★
 
-## Servizi elencati (verifica sul posto)
+## Servicios listados (verificación in situ)
 
-| Servizio | Nome | Contatto | Note |
+| Servicio | Nombre | Contacto | Notas |
 |---|---|---|---|
-| Meccanico entrobordo / diesel | **DATO MANCANTE** | **DATO MANCANTE** — chiedere a Harbour Master +1 246 434-6100 | Freelance operanti in marina, verificare in banchina ★★ |
-| Elettricista marine | **DATO MANCANTE** | **DATO MANCANTE** | Molti lavori su appuntamento — DATO MANCANTE nominativo verificato al 28/08/2026 ★★ |
-| Velaio / sailmaker / rigger | **DATO MANCANTE** | **DATO MANCANTE** — spesso mobile da Antigua/St. Martin | Servizio esterno su chiamata, tempi 1–2 settimane ★★ |
-| Frigorista / refrigerazione | **DATO MANCANTE** | **DATO MANCANTE** | — |
-| Saldatura inox/alluminio, biminis | **DATO MANCANTE** | **DATO MANCANTE** | — |
-| Elettronica (Raymarine, Garmin, B&G) | **DATO MANCANTE** | **DATO MANCANTE** | Dealer Barbados — DATO MANCANTE, chiedere in chandler ★★ |
-| Zattere / safety | **DATO MANCANTE** | **DATO MANCANTE** | Revisione zattere — servizio regionale, non in loco |
+| Mecánico intraborda / diésel | **DATO FALTANTE** | **DATO FALTANTE** — preguntar a Harbour Master +1 246 434-6100 | Freelance operativos en marina, verificar en muelle ★★ |
+| Electricista marino | **DATO FALTANTE** | **DATO FALTANTE** | Muchos trabajos con cita — DATO FALTANTE nombre verificado al 28/08/2026 ★★ |
+| Velero / sailmaker / jarcia | **DATO FALTANTE** | **DATO FALTANTE** — a menudo móvil desde Antigua/St. Martin | Servicio externo bajo llamada, plazos 1–2 semanas ★★ |
+| Frigorista / refrigeración | **DATO FALTANTE** | **DATO FALTANTE** | — |
+| Soldadura inox/aluminio, bimini | **DATO FALTANTE** | **DATO FALTANTE** | — |
+| Electrónica (Raymarine, Garmin, B&G) | **DATO FALTANTE** | **DATO FALTANTE** | Dealer Barbados — DATO FALTANTE, preguntar en chandler ★★ |
+| Balsas / seguridad | **DATO FALTANTE** | **DATO FALTANTE** | Revisión de balsas — servicio regional, no in situ |
 
-> Quando indicato **DATO MANCANTE** il nominativo non è stato verificato con websearch/webfetch in questa sessione su fonti governative/marine Barbados al 28/08/2026; verrà ricercato al controllo mensile con verifica telefonica/marine dirette. ★★
+> Cuando se indica **DATO FALTANTE** el nombre no ha sido verificado con websearch/webfetch en esta sesión en fuentes gubernamentales/marinas de Barbados al 28/08/2026; se buscará en el control mensual con verificación telefónica/marinas directas. ★★
 
-## Altri operatori utili ( hubs regionali consigliati per refit)
+## Otros operadores útiles (hubs regionales recomendados para refit)
 
-- **Antigua — English Harbour / Jolly Harbour**: travelift 70 t, dozzine di professionisti (meccanica, compositi, vele North/Sanders), hub più vicino a est di Barbados per lavori seri. ★★★
-- **Sint Maarten — Simpson Bay Lagoon**: Budget Marine, FKG, cantieri multipli, travelift 100 t+, duty-free. ★★★★
-- **Trinidad — Chaguaramas (Peakes, Power Boats, Coral Cove)**: travelift fino a 300 t, hub uragani più attrezzato dei Caraibi meridionali. ★★★★
-- Localmente a Bridgetown: **chandler base** + ferramenta cittadina; per composito/vetroresina chiedere in porto — disponibilità limitata.
+- **Antigua — English Harbour / Jolly Harbour**: travelift 70 t, decenas de profesionales (mecánica, composites, velas North/Sanders), hub más cercano al este de Barbados para trabajos serios. ★★★
+- **Sint Maarten — Simpson Bay Lagoon**: Budget Marine, FKG, múltiples varaderos, travelift 100 t+, duty-free. ★★★★
+- **Trinidad — Chaguaramas (Peakes, Power Boats, Coral Cove)**: travelift hasta 300 t, hub de huracanes más equipado del Caribe meridional. ★★★★
+- Localmente en Bridgetown: **chandler básico** + ferretería en ciudad; para composite/fibra preguntar en puerto — disponibilidad limitada.
 
-## Gas e bombole
+## Gas y bombonas
 
-- **Gas/GPL: spesso solo scambio bombole** standard locale/US (es. Campingaz 904/907 o americane 20 lb). Le bombole **non si riempiono, si scambiano** nei punti GPL o ferramenta; verificare compatibilità regolatore US vs EU (adattatore necessario). [Noonsite — Barbados](https://www.noonsite.com/place/barbados/) ★★★
-- Supermercati/chandler a Bridgetown hanno adattatori e bombole Campingaz; per ricarica vera serve spostarsi in hub maggiori. ★★
+- **Gas/GLP: a menudo solo intercambio de bombonas** estándar local/US (ej. Campingaz 904/907 o americanas 20 lb). Las bombonas **no se rellenan, se intercambian** en puntos GLP o ferreterías; verificar compatibilidad regulador US vs EU (adaptador necesario). Fuentes náuticas agregadas ★★★
+- Supermercados/chandler en Bridgetown tienen adaptadores y bombonas Campingaz; para recarga real hay que desplazarse a hubs mayores. ★★
 
-## Acqua dolce
+## Agua dulce
 
-- **Acqua di banchina**: potabile secondo **BWA (Barbados Water Authority)**, desalinizzata nella zona di Bridgetown; tuttavia **DATO MANCANTE** su potabilità certificata al pontile Shallow Draught — chiedere in marina e considerare **filtraggio/carboni attivi** o dissalatore. Rete idrica pressurizzata ma **possibili cali di pressione** con alta stagione — tenere riserve. ★★
-- Costo acqua: **DATO MANCANTE** tariffa/m³ a Barbados al 28/08/2026 — chiedere in capitainerie → [03 Porti](03-porti-ancoraggi.md).
+- **Agua de muelle**: potable según **BWA (Barbados Water Authority)**, desalada en la zona de Bridgetown; sin embargo **DATO FALTANTE** sobre potabilidad certificada en el pantalán Shallow Draught — preguntar en marina y considerar **filtrado/carbón activo** o desalinizadora. Red de agua presurizada pero **posibles caídas de presión** en temporada alta — mantener reservas. ★★
+- Coste agua: **DATO FALTANTE** tarifa/m³ en Barbados al 28/08/2026 — preguntar en capitanías → [03 Puertos](03-porti-ancoraggi.md).
 
-## Note strategiche
+## Notas estratégicas
 
-- Barbados **non è isola di refit**: se il lavoro è programmabile (sartiame, vele, motore, osmosi), **pianificare a Antigua/St. Martin/Trinidad** prima o dopo la tappa Barbados; tenere la sosta a Barbados per provviste/clearance/sosta tecnica leggera. Questo è confermato da tutte le guide 2017–2025 che lo definiscono “basic yachting facilities, good repair facilities but improving” — non un hub. [Noonsite — Barbados Facts](https://www.noonsite.com/place/barbados/) ★★★ · [Yachting World](https://www.yachtingworld.com/features/reinventing-barbados-caribbean-island-works-welcome-back-cruisers-71257) ★★★
-- **Ricambi**: spedire **presso la marina indicando nome barca, posto barca e telefono**; confermare arrivo via email/telefono della reception; dazio pagabile online o in banchina. Tempi EU/USA → Barbados **7–14 giorni** via corriere; prevedere sdoganamento. ★★
+- Barbados **no es isla de refit**: si el trabajo es programable (jarcia, velas, motor, ósmosis), **planificar en Antigua/St. Martin/Trinidad** antes o después de la escala Barbados; dejar la escala en Barbados para provisiones/despacho/escala técnica ligera. Esto lo confirman todas las guías 2017–2025 que lo definen como "basic yachting facilities, good repair facilities but improving" — no es un hub. Fuentes náuticas agregadas ★★★ · [Yachting World](https://www.yachtingworld.com/features/reinventing-barbados-caribbean-island-works-welcome-back-cruisers-71257) ★★★
+- **Repuestos**: enviar **a la marina indicando nombre del barco, plaza y teléfono**; confirmar llegada vía email/teléfono de recepción; arancel pagadero online o en muelle. Plazos EU/USA → Barbados **7–14 días** vía mensajería; prever despacho aduanero. ★★
 
-Ultimo aggiornamento: 28/08/2026
+Última actualización: 28/08/2026
 
-## Hub tecnico
+## Hub técnico
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
+**DATO FALTANTE** — a completar en el control mensual.

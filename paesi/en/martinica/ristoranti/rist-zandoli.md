@@ -4,27 +4,27 @@
 
 | Field | Detail |
 |---|---|
-| Zona | Fort d'Alet |
-| Cucina | 🍽️ Gastronomica fusion |
-| Specialità | Menu Découverte 70 € · completo 95 € |
-| Costo | 💰€€€ per person without drinks |
-| Location | 🏛️ boutique hotel 5*, vista baia |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Zandoli+Fort+d'Alet) |
-| Contatti | 0596 59 88 00 |
-| Currencyzioni | TA 4,2/5 (809) → ★★★★ |
-| Orari | ven–sab 19–22 (ultima comanda a tavola) |
+| Area | Fort d'Alet |
+| Cuisine | 🍽️ Fusion fine dining |
+| Signature | Découverte menu €70 · full menu €95 |
+| Price | 💰€€€ per person without drinks |
+| Setting | 🏛️ 5-star boutique hotel, bay view |
+| Map | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Zandoli+Fort+d'Alet) |
+| Contact | 0596 59 88 00 |
+| Ratings | TA 4.2/5 (809) → ★★★★ |
+| Hours | Fri–Sat 19:00–22:00 (last orders at table) |
 
 ## Menu
 
-- Découverte 70 €: mise en bouche, chatrou, l'Œuf, le Loup, l'Instant Planteur
-- Completo 95 €: + canard, formaggio
+- Découverte €70: amuse-bouche, chatrou, l'Œuf, le Loup, l'Instant Planteur
+- Full €95: + duck, cheese
 
 **Chef**: Julien Fournet
 
-## Foto
+## Photos
 
 ![Le Zandoli](img/martinica/rist-zandoli.jpg)
 
-*Fonte: la-suite-villa.com*
+*Source: la-suite-villa.com*
 
-**Note**: La Suite Villa, route du Fort d'Alet, Les Trois-Îlets — domina la baia di FdF · menu PDF aggiornato lug 2026 · taxi dalla rada
+**Notes**: La Suite Villa, route du Fort d'Alet, Les Trois-Îlets — overlooking Baie de Fort-de-France · menu PDF updated Jul 2026 · taxi from the roadstead

@@ -1,6 +1,6 @@
-# 10 — Ristoranti
+# 10 — Restaurantes
 
-**Ultimo aggiornamento: 28/08/2026**
+**Última atualização: 28/08/2026**
 
 Selezione orientata alla crociera: locali raggiungibili **a piedi, in dinghy o con breve taxi/bus** dagli ancoraggi e dalle marine del portolano ([08 Ancoraggi](08-ancoraggi.md) — Carlisle Bay/Bridgetown + Port St. Charles/Speightstown + Oistins). Valutazione ponderata = media **Google + TripAdvisor + siti locali barbados.org / totallybarbados.com** (regola 14), verificata il **28/08/2026**. Prezzi indicativi per persona senza bevande; **prenotazione consigliata** in alta stagione (dic–apr) e alla domenica per i brunch.
 
@@ -10,9 +10,9 @@ Legenda prezzi: **€** <20 · **€€** 20–40 · **€€€** 40–70 · **
 
 <div class="mapframe" data-slug="barbados" data-minz="7" data-maxz="17" data-lat="13.16" data-lon="-59.60" data-markers='[[13.0967, -59.6168, "Waterfront Cafe", "rist-waterfront-cafe"], [13.0942, -59.615, "Brown Sugar", "rist-brown-sugar"], [13.0725, -59.596, "Champers", "rist-champers"], [13.072, -59.603, "Deia Beach", "rist-deia-beach"], [13.065, -59.543, "Oistins Fish Fry (Pat’s Place)", "rist-oistins-fish-fry"], [13.071, -59.5815, "Primo Bar & Bistro", "rist-primo"], [13.185, -59.64, "The Tides", "rist-the-tides"], [13.257, -59.642, "Lone Star", "rist-lone-star"], [13.2585, -59.642, "13°/59° Port Ferdinand", "rist-1359-port-ferdinand"]]' ></div>
 
-*Marker cliccabili: il popup apre direttamente la scheda del ristorante. Tasselli locali zoom 7–15 (satellitare / carta nautica / segnali OpenSeaMap). Coordinate WGS84 da fonti locali ufficiali (barbados.org / totallybarbados.com) e siti dei ristoranti — verificare sempre con Google Maps prima di muoversi.*
+*Marcadores clicáveis: o popup abre diretamente a ficha do restaurante. Mosaicos locais zoom 7–15 (satélite / carta náutica / sinais OpenSeaMap). Coordenadas WGS84 de fontes locais oficiais (barbados.org / totallybarbados.com) e sites dos restaurantes — verificar sempre com Google Maps antes de se deslocar.*
 
-## Griglia generale
+## Grelha geral
 
 | Ristorante | Zona | Costo | Cucina | Specialità | Location | Stelle |
 |---|---|---|---|---|---|---|
@@ -42,6 +42,6 @@ Legenda prezzi: **€** <20 · **€€** 20–40 · **€€€** 40–70 · **
 | [Visit Barbados — Dining](https://www.visitbarbados.org) ★★★ | Portale ufficiale turismo con selezioni food & rum |
 
 
-> **Nota siti locali (regola 14):** per ogni ristorante sotto è riportata la valutazione **barbados.org + totallybarbados.com** (locale) + Google/TripAdvisor dove disponibili, con data di verifica **28/08/2026** e rank ★. Se un dato non è verificato su sito locale → **DATO MANCANTE** per recensioni, ma la scheda resta con mappa e contatti. Nessun dato inventato.
+> **Nota siti locali (regola 14):** per ogni ristorante sotto é riportata la valutazione **barbados.org + totallybarbados.com** (locale) + Google/TripAdvisor dove disponibili, con data di verifica **28/08/2026** e rank ★. Se un dato non é verificato su sito locale → **DADO EM FALTA** per recensioni, ma la scheda resta con mappa e contatti. Nessun dato inventato.
 
-Ultimo aggiornamento: 28/08/2026
+Última atualização: 28/08/2026

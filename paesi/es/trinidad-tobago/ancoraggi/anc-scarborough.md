@@ -15,6 +15,6 @@
 <div class="mapframe" data-slug="anc-scarborough" data-lat="11.1853" data-lon="-60.7386"></div>
 *Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
 
-Fonti: Noonsite (09/2024) ★★★
+Fonti: Fuentes náuticas agregadas (09/2024) ★★★
 
 Ultimo aggiornamento: 25/08/2026

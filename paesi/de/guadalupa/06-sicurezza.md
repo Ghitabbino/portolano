@@ -1,60 +1,63 @@
-# 06 — Sicurezza
+# 06 — Sicherheit
 
-**Ultimo aggiornamento: 21/08/2026 · prossimo controllo media: entro 21/09/2026**
+**Letzte Aktualisierung: 21/08/2026 · nächster Monatscheck: bis 21/09/2026**
 
-## Valutazione sicurezza: **4 / 5**
+## Sicherheitsbewertung: **4 / 5**
 
-Crimini violenti contro turisti e crocieristi **rari**; rischio principale = furti (dinghy, fuoribordi, oggetti a bordo). Leggermente più prudenza rispetto alla Martinica: la Guadalupa ha indici di criminalità generale un po' più alti, concentrati però in zone urbane lontane dai mouillage.
+Gewaltdelikte gegen Touristen und Fahrtensegler **selten**; Hauptrisiko = Diebstähle (Dinghy, Außenborder, Gegenstände an Bord). Etwas mehr Vorsicht als auf Martinique: Guadeloupe hat insgesamt etwas höhere Kriminalitätsraten, konzentriert jedoch in städtischen Zonen fern der Ankerplätze.
 
-## Quadro generale
+## Gesamtlage
 
-- ****: incidenti segnalati in Guadalupa negli ultimi anni, prevalentemente furti notturni a bordo e tentati scassi in marina; caso tipico: uomo scalato il cancello chiuso del guest dock alla **Marina Bas-du-Fort** di notte (allarme dei diportisti, intervento sicurezza). Furto documentato nel 2025 (incidente n. 3893). ★★★
-- **Statistiche ufficiali**: bilancio prefettura conferma criminalità concentrata nei quartieri urbani dell'agglomerato pointois (Les Abymes, Pointe-à-Pitre nord, Baie-Mahault); narcotraffico genera violenze endogene non dirette ai turisti. [préfecture de Guadeloupe, bilan annuel ★★★★★]
-- **Advisory Canada**: sole precauzioni normali; raccomandata attenzione nelle spiagge isolate e trasporti notturni. ★★★★
+- ****: Vorfälle in Guadeloupe in den letzten Jahren gemeldet, überwiegend nächtliche Einbrüche an Bord und versuchte Aufbrüche in der Marina; typischer Fall: Mann kletterte nachts über das geschlossene Tor des Gaststegs in der **Marina Bas-du-Fort** (Alarm der Segler, Eingreifen des Sicherheitsdienstes). Dokumentierter Diebstahl 2025 (Vorfall Nr. 3893). ★★★
+- **Offizielle Statistiken**: Bilanz der Préfecture bestätigt Kriminalität konzentriert in städtischen Vierteln des Ballungsraums Pointe-à-Pitre (Les Abymes, Pointe-à-Pitre Nord, Baie-Mahault); Drogenhandel erzeugt endogene Gewalt nicht gegen Touristen gerichtet. [préfecture de Guadeloupe, bilan annuel ★★★★★]
+- **Hinweis Kanada**: nur normale Vorsicht; erhöhte Aufmerksamkeit an einsamen Stränden und bei nächtlichen Fahrten. ★★★★
 
-## Mappa delle zone — offline
+## Zonenkarte — offline
 
 <div class="mapframe" data-slug="guadalupa" data-minz="10" data-maxz="15" data-lat="16.10" data-lon="-61.39" data-zones='[[16.2720,-61.5070,1800,"#ef6c00","Les Abymes / Raizet — evitare di notte"],[16.2400,-61.5330,1200,"#ef6c00","Pointe-à-Pitre centro — attenzione di notte"]]'></div>
 
-*Arancione = prudenza (furti/scippi serali). Nessuna zona rossa documentata contro diportisti.*
+*Orange = Vorsicht (Diebstähle/Entreißen abends). Keine rote Zone gegen Segler dokumentiert.*
 
-## Posti sicuri / posti da evitare
+## Sichere Orte / zu meidende Orte
 
-| ✅ Sicuri | ⚠️ Attenzione |
+| ✅ Sicher | ⚠️ Achtung |
 |---|---|
-| Les Saintes (sicurissima) | Dinghy lasciato incustodito di sera a Saint-François e PAP |
-| Petite Terre (riserva presidiata) | Passeggiata notturna a Pointe-à-Pitre fuori zona portuale |
-| Deshaies, Malendure di giorno | Quartieri Abymes/Raizet anche in auto |
-| Marina Bas-du-Fort (videosorveglianza) | Spiagge isolate con effetti personali incustoditi |
+| Les Saintes (sehr sicher) | Dinghy abends unbeaufsichtigt in Saint-François und PAP |
+| Petite Terre (bewachtes Reservat) | Nächtlicher Spaziergang in Pointe-à-Pitre außerhalb der Hafenzone |
+| Deshaies, Malendure tagsüber | Viertel Abymes/Raizet auch mit Auto |
+| Marina Bas-du-Fort (Videoüberwachung) | Einsame Strände mit unbeaufsichtigten Wertsachen |
 
-## Furti ai danni dei crocieristi
+## Diebstähle zu Lasten von Seglern
 
-- Dinghy/fuoribordo: episodi ricorrenti nei porti della Grande-Terre; catene antitaglio + motore rimosso di notte restano lo standard.
-- Scasso a bordo: preferire barche illuminate, serrature secondarie, oggetti di valore nascosti; i casi avvengono quasi sempre tra 01h e 04h.
-- In marina: segnalare sconosciuti sui pontili alla guardia; il caso Bas-du-Fort è stato risolto proprio dalla reazione tempestiva dei diportisti.
+- Dinghy/Außenborder: wiederkehrende Vorfälle in den Häfen der Grande-Terre; schnittfeste Ketten + nachts abgenommener Motor bleiben Standard.
+- Einbruch an Bord: beleuchtete Boote bevorzugen, Zweitschlösser, Wertsachen verstecken; Fälle fast immer zwischen 01h und 04h.
+- In der Marina: Fremde auf den Stegen der Wache melden; der Fall Bas-du-Fort wurde gerade durch schnelles Reagieren der Segler gelöst.
 
-## A bordo e a terra
+## An Bord und an Land
 
-- Documenti e contanti in cassaforte; fotocopie digitalizzate.
-- Auto: nulla in vista, parcheggi sorvegliati; evitare fermate nei quartieri sensibili.
-- Escursioni: Soufrière e cascate solo su sentieri ufficiali; non lasciare oggetti in auto ai trailhead.
+- Dokumente und Bargeld im Safe; digitalisierte Kopien.
+- Auto: nichts sichtbar liegen lassen, bewachte Parkplätze; Stopps in sensiblen Vierteln meiden.
+- Ausflüge: Soufrière und Wasserfälle nur auf offiziellen Wegen; keine Gegenstände im Auto an Trailheads lassen.
 
-## Navigazione
+## Navigation
 
-- **Nasse e reti** sulla costa atlantica della Grande-Terre (Le Moule, Port-Louis, Anse-Bertrand): boe con lenze quasi invisibili anche oltre 3 miglia — navigare a sud di esse o con sole alto. ★★★
-- **Swell da nord-ovest**: raro ma fa rollare tutti i mouillage della costa ovest (Deshaies, Malendure, Ravine Paul Thomas); monitorare lo swell (*houle*) prima di fermarsi. ★★★★
-- **Riserve naturali** (Cousteau, Petite Terre): ancoraggio regolamentato/vietato, sorveglianza attiva → vedi [08 Ancoraggi](08-ancoraggi.md).
+- **Reusen und Netze** an der Atlantikküste der Grande-Terre (Le Moule, Port-Louis, Anse-Bertrand): Bojen mit fast unsichtbaren Leinen auch über 3 sm — südlich davon segeln oder bei hochstehender Sonne. ★★★
+- **Nordwest-Schwell**: selten, lässt aber alle Ankerplätze der Westküste schwojen (Deshaies, Malendure, Ravine Paul Thomas); Schwell (*houle*) vor dem Ankern prüfen. ★★★★
+- **Naturreservate** (Cousteau, Petite Terre): Ankern reguliert/verboten, aktive Überwachung → siehe [08 Ankerplätze](08-ancoraggi.md).
 
-## Salvataggio ed emergenze
+## Rettung & Notfälle
 
-| Numero | Servizio |
+| Nummer | Dienst |
 |---|---|
-| **112** | Emergenze UE |
-| 17 / 18 / 15 | Polizia / Vigili del fuoco / SAMU |
-| **+590 590 99 26 35** | CROSS Antilles-Guyana (SAR marittimo) — VHF 16 |
-| Gendarmerie maritime Terre-de-Haut | +590 590 85 80 13 ⚠️ da verificare |
+| **112** | EU-Notruf |
+| 17 / 18 / 15 | Polizei / Feuerwehr / SAMU |
+| **+590 590 99 26 35** | CROSS Antilles-Guyane (SAR See) — UKW 16 |
+| Gendarmerie maritime Terre-de-Haut | +590 590 85 80 13 ⚠️ zu prüfen |
 
-## Monitoraggio mensile
+## Monatliches Monitoring
 
-**DATO MANCANTE** — da completare al controllo mensile.
+| Datum | Quelle | Maßnahme |
+|---|---|---|
+| 29/08/2026 | GOV.UK, Aggregierte Fahrtensegler-Quellen, CSSN | Sicherheitscheck — keine Änderung L3, Gesamtlage bestätigt |
 
+Letzte Aktualisierung: 22/08/2026

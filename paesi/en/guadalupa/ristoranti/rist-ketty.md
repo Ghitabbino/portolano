@@ -5,23 +5,23 @@
 | Field | Detail |
 |---|---|
 | Area | Deshaies |
-| Cuisine | 🐟 Langouste grigliata |
-| Speciality | Langouste (prenotarla at the mattino) |
-| Cost | 💰€€ for persona without bevande |
-| Setting | 🌴 case créole in giardino |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chez+Ketty+Deshaies) |
+| Cuisine | 🐟 Grilled lobster |
+| Speciality | Lobster (order in the morning) |
+| Cost | 💰€€ per person without drinks |
+| Setting | 🌴 Creole cottage in garden |
+| Map | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chez+Ketty+Deshaies) |
 | Contacts | +590 690 69-3539 |
-| Ratings | Google 4,7/5 (217) → ★★★★★ |
-| Hours | lun 19–22 · gio–dom 12–22 · chiuso mar/mer |
+| Ratings | Google 4.7/5 (217) → ★★★★★ |
+| Hours | Mon 19–22 · Thu–Sun 12–22 · closed Tue/Wed |
 
 ## Menu
 
-- Langouste grigliata
+- Grilled lobster
 
 **Chef**: ND
 
-## Foto
+## Photos
 
-*Foto non still disponibili — recuperare at the controllo mensile.*
+*No photos available yet — to be added on monthly check.*
 
-**Note**: N2 entrée gîtes Migneret
+**Notes**: N2 entrance gîtes Migneret

@@ -1,93 +1,93 @@
-# 03 — Porti e marine
+# 03 — Häfen & Ankerplätze
 
-**Ultima verifica: 21/08/2026** · Coordinate in gradi decimali o N/W come da fonte
+**Letzte Überprüfung: 21/08/2026** · Koordinaten in Dezimalgrad oder N/W wie in der Quelle
 
-## Costa sud — la zona base
+## Südküste — das Basisrevier
 
-### Le Marin ⚓ porto principale
-- **14°28.14'N 60°52.01'W** · VHF 09 · www.marina-martinique.fr ★★★★
-- La più grande marina dei Caraibi orientali: **830 posti a pontile + 100 boe**, fino a 60 m di LOA e 4,80 m di pescaggio, 220/400 V, raccolta acque nere/grigie a pontile, centro medico, lavanderia, supermercati, ristoranti, **riparo ciclonico**. ★★★
-- Attracco tipico: poppa a pontile, prua a boa; staff aiuta alle manovre. ★★
-- Clearance in capitainerie (vedi [01](01-clearance.md)).
-- Carburante: Station-service CAP Ponton N°3, +596 596 765 161, tutti i giorni 7:30–13/14–17. ★★★★★
-- Carenago rinnovato con travelift; molti professionisti. ★★ → dettagli in [04](04-servizi-cantieri.md)
+### Le Marin ⚓ Haupthafen
+- **14°28.14'N 60°52.01'W** · UKW 09 · www.marina-martinique.fr ★★★★
+- Größte Marina der östlichen Karibik: **830 Liegeplätze am Steg + 100 Bojen**, bis 60 m LOA und 4,80 m Tiefgang, 220/400 V, Schwarz-/Grauwasser-Absaugung am Steg, Ärztezentrum, Wäscherei, Supermärkte, Restaurants, **Zyklonschutz**. ★★★
+- Anlegen typisch: Heck zum Steg, Bug an Boje; Personal hilft beim Manöver. ★★
+- Clearance in der Capitainerie (siehe [01](01-clearance.md)).
+- Kraftstoff: Station-service CAP Ponton N°3, +596 596 765 161, täglich 7:30–13/14–17. ★★★★★
+- Werftareal erneuert mit Travelift; viele Fachbetriebe. ★★ → Details in [04](04-servizi-cantieri.md)
 
 ### Sainte-Anne
-- Ancoraggio enorme e facile su fondale sabbioso che degrada lento: spazio per centinaia di barche. Buon riparo dagli alisei; swell incide poco. ★★★
-- Pontile dinghy: attenzione che lo scafo non scivoli sotto il pontile con il mare; meglio prua sollevata o àncora di poppa. ★★
-- Clearance: Snack BOUBOU accanto alla chiesa. ★★★★★
+- Riesiger, einfacher Ankerplatz über langsam abfallendem Sandgrund: Platz für Hunderte Yachten. Guter Schutz vor Passat; Schwell kaum spürbar. ★★★
+- Dinghy-Steg: Achtung, Rumpf rutscht bei Seegang unter den Steg; besser Bug hoch oder Heckanker. ★★
+- Clearance: Snack BOUBOU neben der Kirche. ★★★★★
 
 ### Pointe du Bout / Trois-Îlets
-- Marina Pointe du Bout (di fronte a Fort-de-France): +596 596 660 774 · marina.3ilets@marina3ilets.fr. Clearance in marina. ★★★★★
+- Marina Pointe du Bout (gegenüber Fort-de-France): +596 596 660 774 · marina.3ilets@marina3ilets.fr. Clearance in der Marina. ★★★★★
 
-## Costa ovest
+## Westküste
 
 ### Fort-de-France
-- Capitale. Boe per visitatori nella baia di Fort Saint-Louis senza prenotazione ("turn up and see"), in alternativa àncora. ★★★
-- Port de plaisance de l'Étang Z'Abricots: +596 596 751 157 · contact@portetangzabricots.fr · permanenza 6–18. ★★★★★
-- Centre de carénage DCML Baie des Tourelles (clearance + carenago): +596 596 717 464.
-- ⚠️ In città attenzione al dinghy al pontile: episodi di manomissioni segnalati; chiuderlo a chiave. ★★
+- Hauptstadt. Besucher-Bojen in der Bucht von Fort Saint-Louis ohne Reservierung („turn up and see“), alternativ Anker. ★★★
+- Port de plaisance de l'Étang Z'Abricots: +596 596 751 157 · contact@portetangzabricots.fr · Aufenthalt 6–18. ★★★★★
+- Centre de carénage DCML Baie des Tourelles (Clearance + Werft): +596 596 717 464.
+- ⚠️ In der Stadt Achtung am Dinghy-Steg: Manipulationen gemeldet; abschließen. ★★
 
-### Anses d'Arlet (Grand Anse)
-- Baia pittoresca; negli ultimi anni regole di ancoraggio variabili: le boe installate non hanno funzionato e si può ancora ancorare vicino alla spiaggia (rispettando i bagnanti). Prima notte spesso mossa: stare il più possibile a terra. Guardacoste pattugliano l'ingresso senza controllare sistematicamente. ★★★
-- Clearance: Cyberbase sul lungomare (ex punto Petite Bateaux/Grand Anse NON più attivo). ★★★★★
+### Anses d'Arlet (Grande Anse)
+- Malerische Bucht; in den letzten Jahren wechselnde Ankerregeln: Die installierten Bojen funktionierten nicht, Ankern nahe dem Strand weiterhin möglich (Badegäste respektieren). Erste Nacht oft unruhig: möglichst landnah liegen. Küstenwache patrouilliert die Einfahrt ohne systematische Kontrollen. ★★★
+- Clearance: Cyberbase an der Uferpromenade (ehemaliger Punkt Petite Bateaux/Grande Anse NICHT mehr aktiv). ★★★★★
 
 ### Saint-Pierre
-- Sotto il Mont Pelée. **Boe con prenotazione obbligatoria via app Navilly** (nuovo dal 2025), pagamento in app, estensioni facili. ★★★
-- Le boe francesi hanno anse metalliche rigide: serve far passare la cima dentro l'anello (utile gancio Osculati/Magic boathook). Àncora possibile a sud del campo boe (plateau stretto ma frequentato). ★★★
-- Clearance: Office de tourisme Villa Sainte-Anne (rue Victor Hugo) o L'Alsace en Kay. ★★★★★
+- Unter dem Mont Pelée. **Bojen mit Reservierungspflicht via App Navily** (neu ab 2025), Zahlung in der App, Verlängerungen einfach. ★★★
+- Französische Bojen haben starre Metallringe: Leine durch den Ring führen (nützlich: Osculati-/Magic-Bootshaken). Ankern südlich des Bojenfelds möglich (schmales, aber frequentiertes Plateau). ★★★
+- Clearance: Office de tourisme Villa Sainte-Anne (rue Victor Hugo) oder L'Alsace en Kay. ★★★★★
 
-## Costa atlantica (est)
+## Atlantikküste (Ost)
 
 ### Le François — Pointe Bateau
-- Capitainerie marina, tutti i giorni 8–18: +596 596 542 954. Clearance in loco. ★★★★★
+- Capitainerie Marina, täglich 8–18: +596 596 542 954. Clearance vor Ort. ★★★★★
 
 ### La Trinité / Havre de la Trinité
-- Porto d'ingresso ufficiale; clearance alla Brigade des douanes, Quartier Raisinier: +596 596 581 790. ★★★★★
-- ⚠️ Costa est/sud-est: numerose **file di nasse da pesca** con lenze galleggianti quasi invisibili, segnalate anche oltre 3 miglia dalla costa. Massima attenzione. ★★
+- Offizieller Einreisehafen; Clearance bei der Brigade des douanes, Quartier Raisinier: +596 596 581 790. ★★★★★
+- ⚠️ Ost-/Südostküste: zahlreiche **Fischreusen-Reihen** mit fast unsichtbaren Schwimmleinen, auch über 3 sm vor der Küste gemeldet. Höchste Aufmerksamkeit. ★★
 
-## Nord
+## Norden
 
-### Le Prêcheur / Saint-Pierre nord
-- Rada esposta; solo con meteo stabile. *(voce di banchina ★ — da verificare)*
+### Le Prêcheur / Saint-Pierre Nord
+- Offene Reede; nur bei stabilem Wetter. *(Stegweisheit ★ — zu prüfen)*
 
-## Tariffe ormeggi e marine
+## Liegeplatz- & Marina-Tarife
 
-> Stesse voci per tutti i paesi; **DATO MANCANTE** = da ricercare al controllo mensile.
+> Gleiche Posten für alle Länder; **DATEN FEHLEN** = wird beim monatlichen Check recherchiert.
 
-### Marina du Marin — listino ufficiale 2024-25 (IVA 8,5% inclusa) ★★★★
+### Marina du Marin — offizieller Tarif 2024-25 (inkl. 8,5 % MwSt.) ★★★★
 
-Contratti dovuti in anticipo. Prenotazione online www.marina-martinique.fr · VHF 09.
+Verträge im Voraus fällig. Reservierung online www.marina-martinique.fr · UKW 09.
 
-| Voce | Costo | Note |
+| Posten | Kosten | Hinweise |
 |---|---|---|
-| Posto pontile — notte (barca ~12 m) | 0,72 €/piede ≈ **29 €** |Scaglione 30–49 ft; prime 2 notti 0,60 €/piede ★★★★|
-| Posto pontile — notte (multiscafo ~12 m) | ×1,5 ≈ **43 €** |Multiscafo +50% ★★★★|
-| Boa/mouillage marina — notte (~12 m) | **12 €** |30–49 ft; notti successive 14,40 € ★★★★|
-| Mese pontile (~12 m) | 11,80 €/piede ≈ **472 €** |Semestre 56,10 €/piede · anno 112,20 €/piede ★★★★|
-| Elettricità | **0,36 €/kWh** |Pontili ★★★★|
-| Acqua | **9,00 €/m³** |Consegna a galla 2,50 €/100 l ★★★★|
-| Ancoraggio | **Gratuito** | Fuori zone regolamentate |
-| Multiscafo supplementare | **+50%** | ★★★★ |
+| Stegplatz — Nacht (Boot ~12 m) | 0,72 €/Fuß ≈ **29 €** |Staffel 30–49 ft; erste 2 Nächte 0,60 €/Fuß ★★★★|
+| Stegplatz — Nacht (Katamaran ~12 m) | ×1,5 ≈ **43 €** |Katamaran +50% ★★★★|
+| Boje/Mouillage Marina — Nacht (~12 m) | **12 €** |30–49 ft; Folgenächte 14,40 € ★★★★|
+| Monat Steg (~12 m) | 11,80 €/Fuß ≈ **472 €** |Halbjahr 56,10 €/Fuß · Jahr 112,20 €/Fuß ★★★★|
+| Strom | **0,36 €/kWh** |Stege ★★★★|
+| Wasser | **9,00 €/m³** |Lieferung längsseits 2,50 €/100 l ★★★★|
+| Ankern | **Kostenlos** | Außerhalb regulierter Zonen |
+| Katamaran-Zuschlag | **+50%** | ★★★★ |
 
-Maggiorazioni: live-aboard oltre 3 mesi +15%; tassa soggiorno 0,66 €/notte (solo stopover). Incluso: pompa acque nere/grigie, wifi, sanitari, rifiuti, posta/pacchi, navetta a galla, videosorveglianza.
+Zuschläge: Liveaboard über 3 Monate +15 %; Kurtaxe 0,66 €/Nacht (nur Stopover). Inklusive: Fäkalien-/Grauwasserpumpe, WLAN, Sanitär, Müll, Post/Pakete, Wassertaxi, Videoüberwachung.
 
-### Altre strutture
+### Andere Anlagen
 
-| Struttura | Costo/note | Fonte |
+| Anlage | Kosten/Hinweise | Quelle |
 |---|---|---|
-| Boe visitatori Fort Saint-Louis (Fort-de-France) | Non prenotabili, "turn up and see"; ≈ **10–15 €/notte**, raccolta incasso in barca ⚠️ confermare sul posto |Fonti diportiste aggregate ★★|
-| Boe Saint-Pierre | Prenotazione obbligatoria via app **Navilly** (nuovo 2025), pagamento in app; tariffa mostrata in app alla prenotazione (~10–15 €/notte) ⚠️ |SDSA feb 2025 ★★|
+| Besucher-Bojen Fort Saint-Louis (Fort-de-France) | Nicht reservierbar, „turn up and see“; ≈ **10–15 €/Nacht**, Inkasso per Boot ⚠️ vor Ort bestätigen |Aggregierte Seglerquellen ★★|
+| Bojen Saint-Pierre | Reservierungspflicht via App **Navily** (neu 2025), Zahlung in der App; Tarif bei Reservierung in der App angezeigt (~10–15 €/Nacht) ⚠️ |SDSA Feb 2025 ★★|
 
-⚠️ **Da verificare prima della crociera**: listino Marina du Marin stagione successiva (PDF pubblicato di solito a gennaio), prezzi boe Saint-Pierre/Fort Saint-Louis, carburante CAP Ponton.
+⚠️ **Vor dem Törn zu prüfen**: Tarif Marina du Marin Folgesaison (PDF meist im Januar), Preise Bojen Saint-Pierre/Fort Saint-Louis, Kraftstoff CAP Ponton.
 
-## Distanze utili
+## Nützliche Distanzen
 
-| Tratta | Distanza |
+| Strecke | Distanz |
 |---|---|
-| Martinica – Santa Lucia | ~26 km sud |
-| Martinica – Dominica | ~35 km NW |
+| Martinique – St. Lucia | ~26 km südlich |
+| Martinique – Dominica | ~35 km NW |
 
 ★★★
 
-Ultimo aggiornamento: 23/08/2026
+Letzte Aktualisierung: 22/08/2026

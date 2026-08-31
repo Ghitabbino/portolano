@@ -8,13 +8,13 @@
 | **Profondità** |3–4 m sabbia|
 | **Tenuta àncora** |Buon holding|
 | **Venti/riparo** |Calmo salvo swell occasionale; costa ovest sottovento|
-| **Pericoli** |Tartarughe in zona; bocca marina Noonsite 13°15′45″N 59°38′40″W (13.26250, -59.64444) verificato su BA 1042 + satellite|
+| **Pericoli** |Tartarughe in zona; bocca marina Fonti diportiste aggregate 13°15′45″N 59°38′40″W (13.26250, -59.64444) verificato su BA 1042 + satellite|
 | **Boe/divieti/normative** |POE ufficiale: dogana/immigrazione/coast guard/polizia nello stesso stabile in fondo al molo frangiflutti; check-in rapido e cordiale (report nov 2025); 6 berths mega-yacht fino a 200 ft, pescaggio 13,5 ft; fuel duty-free allo sdoganamento (cash)|
 | **A terra** |Resort Port St. Charles|
 
 <div class="mapframe" data-slug="anc-psc-anch" data-lat="13.264" data-lon="-59.6465"></div>
 *Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
 
-Fonti: [Noonsite Port St. Charles](https://www.noonsite.com/place/barbados/port-st-charles) (dic 2025) ★★★ · Noonsite Yachting Essentials ★★★ · verificato su BA 1042 + satellite
+Fonti: Fonti diportiste aggregate ★★★(dic 2025) ★★★ · Fonti diportiste aggregate Yachting Essentials ★★★ · verificato su BA 1042 + satellite
 
 Ultimo aggiornamento: 25/08/2026

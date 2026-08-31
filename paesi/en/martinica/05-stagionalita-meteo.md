@@ -4,46 +4,46 @@
 
 ## Climate
 
-- Temperatura media **26 °C tutto l'anno**, clima marittimo con **alisei moderati** e rovesci intensi. ★★★
+- Average temperature **26 °C year-round**, maritime climate with **moderate trades** and heavy showers. ★★★
 
 ## Seasons
 
 | Period | Characteristics |
 |---|---|
-| **Dicembre – aprile/maggio** | Stagione secca e fresca, alisei stabili: **periodo migliore per la crociera** |
-| **Luglio – novembre** | **Stagione degli uragani**: molti assicuratori impongono aree/limiti; il Marin ha "trou à cyclone" (riparo ciclonico) ma nessun riparo è garantito |
+| **December – April/May** | Dry, cooler season with steady trades: **best time to cruise** |
+| **July – November** | **Hurricane season**: many insurers impose area restrictions; Le Marin has a *trou à cyclone* (hurricane hole) but no shelter is guaranteed |
 
 ★★★
 
-## Consignes cicloniche (ufficiale ★★★★)
+## Hurricane Instructions (official ★★★★)
 
-Le norme di costruzione di pontili e mouillages sono conformi agli standard, MA il cliente non può rivalersi sul porto per danni da rottura di ormeggi/ancoraggi causati da un ciclone. Documento: "Consignes aux usagers en cas de cyclones" (Istruzioni agli utenti in caso di cicloni) (marin.marina-martinique.fr).
+Pontoon and mooring construction standards are compliant, BUT the harbour cannot be held liable for damage from failure of moorings/ground tackle caused by a cyclone. Document: *Consignes aux usagers en cas de cyclones* (Instructions to users in the event of a cyclone) (marin.marina-martinique.fr).
 
 ## Hurricanes
 
-Stagione **giugno–novembre**, picco agosto–ottobre. La Martinica è stata colpita da cicloni maggiori nel 1891, 1963 (Edith), 1979 (David), 2007 (Dean cat. 2). Piano oragan: consignes préfectorales e capitanerie pubblicano le procedure di messa in sicurezza; la Marina du Marin richiede contratti anticipati per l'hivernage. [Météo-France ★★★★★; préfecture ★★★★★]
+Season **June–November**, peak August–October. Martinique has been struck by major cyclones in 1891, 1963 (Edith), 1979 (David), 2007 (Dean Cat. 2). Hurricane plan: préfecture *consignes* and harbour offices publish securing procedures; Marina du Marin requires contracts in advance for winter storage. [Météo-France ★★★★★; préfecture ★★★★★]
 
 ## Local Winds
 
-- Alisei da ENE tipici delle Windward; raffiche scese dai rilievi nelle baie della costa ovest. ★★
-- Traversate inter-isole (canale Santa Lucia): attenzione alle collisioni con cetacei — un catamarano colpito da una balena nel canale nel 2017, terzo caso in pochi mesi secondo il capitano portuale. ★★
+- ENE trades typical of the Windwards; gusty katabatics off the high ground in west-coast bays. ★★
+- Inter-island passages (Saint Lucia Channel): beware collisions with cetaceans — a catamaran holed by a whale in the channel in 2017, the third such case in a few months according to the harbourmaster. ★★
 
 ## Typical Weather Windows
 
-Traversate Martinica→Sainte-Lucie (22 M N) o →Dominica (30 M NW): fattibili con aliseo ≤20 kn, meglio mattino presto quando il vento è minimo. Il canale Santa Lucia (110 M verso Guadalupa) si naviga con finestra post-frontale in stagione secca. ★★★★
+Passages Martinique→Saint Lucia (22 M S) or →Dominica (30 M NW): feasible with trades ≤20 kt, best in the early morning when the wind is lightest. The Saint Lucia Channel (110 M towards Guadeloupe) is best with a post-frontal window in the dry season. ★★★★
 
 ## Weather Links & Local Charts
 
-- [Météo-France Martinique](https://meteofrance.mq/fr) ★★★★★ — sito ufficiale: previsioni per comune, vigilance, attività ciclonica in tempo reale.
-- [Météo marine Martinique](https://meteofrance.mq/fr/marine) ★★★★★ — bulletins côtiers e larges, BMS in corso, carte vent/stato del mare.
-- [Vigilance météo Antilles](https://meteofrance.mq/fr/vigilance-meteo-antilles) ★★★★★ — mappa ufficiale di allerta (verde/gialla/arancione/rossa).
-- Animazioni radar e satellite sullo stesso sito ([radar Martinica](https://meteofrance.mq/fr)) — mosaico radar Antilles 50/200 km, immagini satellite Antilles-Guyane.
-- [NOAA National Hurricane Center](https://www.nhc.noaa.gov) ★★★★★ — bollettini e traiettorie uragani atlantici (giugno–novembre).
-- [Météo-France Guadeloupe, St-Martin and St-Barth](https://meteofrance.gp/fr) ★★★★★ — sito ufficiale: previsioni for comune (incluse Les Saintes, Marie-Galante, La Désirade), vigilance, attività ciclonica in tempo reale.
+- [Météo-France Martinique](https://meteofrance.mq/fr) ★★★★★ — official site: forecasts by commune, *vigilance*, live cyclone activity.
+- [Météo marine Martinique](https://meteofrance.mq/fr/marine) ★★★★★ — coastal and offshore bulletins, current warnings (BMS), wind/sea-state charts.
+- [Vigilance météo Antilles](https://meteofrance.mq/fr/vigilance-meteo-antilles) ★★★★★ — official alert map (green/yellow/orange/red).
+- Radar and satellite animations on the same site ([Martinique radar](https://meteofrance.mq/fr)) — Antilles radar mosaic 50/200 km, Antilles-Guiana satellite imagery.
+- [NOAA National Hurricane Center](https://www.nhc.noaa.gov) ★★★★★ — Atlantic hurricane bulletins and tracks (June–November).
+- [Windy](https://www.windy.com) · [PassageWeather](http://www.passageweather.com) · [PredictWind](https://www.predictwind.com) ★★★ — wind/swell models for passage planning.
 ### Local Weather Sites
 
-- [Météo-France Antilles-Guyane](https://meteofrance.com/fr/antilles) — autorità ufficiale, allerte cicloni ★★★★
-- [Meteo Martinique](https://www.meteomartinique.com/) — previsioni locali ★★★
-- [Windguru Martinique](https://www.windguru.cz/485) — spot Anse Marcel/tramonto Le Marin ★★★
-- Carbet des Sciences sismico/vulcanico: [volcan Martinique](https://www.volcan-martinique.org) ★★★
+- [Météo-France Antilles-Guyane](https://meteofrance.com/fr/antilles) — official authority, cyclone warnings ★★★★
+- [Meteo Martinique](https://www.meteomartinique.com/) — local forecasts ★★★
+- [Windguru Martinique](https://www.windguru.cz/485) — spots Anse Marcel / Le Marin sunset ★★★
+- Carbet des Sciences seismic/volcanic: [volcan Martinique](https://www.volcan-martinique.org) ★★★
 Last updated: 22/08/2026

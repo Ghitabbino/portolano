@@ -1,20 +1,20 @@
 # Ti Cozy
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Alle Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Feld | Detail |
 |---|---|
-| Zona | Sainte-Anne |
-| Cucina | 🍰 Crêperie bretona |
-| Specialità | Galette sarrasin · glaces artigianali |
-| Costo | 💰€ per persona senza bevande |
-| Location | 🪶 rustico curato |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ti+Cozy+Sainte-Anne) |
-| Contatti | 0696 05 44 10 / 0596 97 74 89 |
-| Valutazioni | TA 5,0/5 (198), Travellers' Choice 2024 → ★★★★★ |
-| Orari | 11–21:30 · chiusura settimanale divergente tra le fonti ⚠️ chiamare |
+| Zone | Sainte-Anne |
+| Küche | 🍰 Bretonische Crêperie |
+| Spezialität | Galette sarrasin · glaces artigianali |
+| Preis | 💰€ pro Person ohne Getränke |
+| Lage | 🪶 gepflegt-rustikal |
+| Karte | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ti+Cozy+Sainte-Anne) |
+| Kontakt | 0696 05 44 10 / 0596 97 74 89 |
+| Bewertungen | TA 5,0/5 (198), Travellers' Choice 2024 → ★★★★★ |
+| Öffnungszeiten | 11:00–21:30 · Ruhetag je nach Quelle abweichend ⚠️ anrufen |
 
-## Menu
+## Speisekarte
 
 - Galette sarrasin da 6 €
 - Crêpe Saint-Jacques
@@ -22,18 +22,20 @@
 - Glaces artigianali locali
 - Jus frais maison
 
-**Chef**: Fred (cucina) e Franck Respriget (sala), bretoni
+**Küchenchef**: Fred (cucina) e Franck Respriget (sala), bretoni
 
-## Foto
+## Fotos
 
 ![Ti Cozy](img/martinica/rist-ti-cozy.jpg)
 
-*Fonte: TripAdvisor media CDN*
+*Quelle: TripAdvisor media CDN*
 
 ![Ti Cozy](img/martinica/rist-ti-cozy-2.jpg)
 
-*Fonte: TripAdvisor media CDN*
+*Quelle: TripAdvisor media CDN*
 
-**Note**: 8 av. J.-M. Tjibaou · N°1 TA a Sainte-Anne · pochi coperti
+**Hinweise**: 8 av. J.-M. Tjibaou · N°1 TA a Sainte-Anne · pochi coperti
 
 **Extra**: email franck.respriget29@orange.fr
+
+Letzte Aktualisierung: 22/08/2026

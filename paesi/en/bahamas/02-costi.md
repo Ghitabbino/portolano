@@ -2,89 +2,88 @@
 
 **Last updated: 24/08/2026**
 
-Currency: **dollaro bahamense (BSD)** — **parità fissa 1:1 con USD**; ovunque accettati **USD** (resto spesso in BSD). **IVA (VAT) 10%** su quasi tutto, **12%** su alcuni servizi/ristorazione di fascia alta. Livello prezzi: **+20–80% rispetto agli USA** (tutto importato, + VAT e logistica insulare). ★★★★
+Currency: **Bahamian dollar (BSD)** — **fixed parity 1:1 with USD**; **USD** accepted everywhere (change often given in BSD). **VAT 10%** on almost everything, **12%** on some higher-end services/restaurants. Price level: **+20–80% vs the USA** (everything imported, + VAT and island logistics). ★★★★
 
-> ⚠️ Le voci di questo elenco sono le stesse per tutti i paesi del portolano. Dove il dato non è stato ancora trovato dalle fonti si scrive **DATA MISSING**: viene ricercato al controllo mensile.
+> ⚠️ The items in this list are the same for all countries in the pilot. Where data has not yet been found the entry reads **DATA MISSING**: it will be researched at the monthly check.
 
-## Alloggio e utenze (indicativo terra — utile per soste lunghe)
+## Accommodation & Utilities (Indicative Ashore — Useful for Long Stays)
 
 | Item | Indicative Price | Notes |
 |---|---|---|
-| Affitto 1 camera (centro) | **$1.382 / mese** | Nassau/Freeport media ★★★ |
-| Affitto 3 camere | **$2.496 / mese** | Famiglia ★★★ |
-| Utenze (elettricità/acqua/gas) | **$195–301 / mese** | + **Fuel Surcharge** elettrico variabile ★★★ |
-| Internet 60Mbps+ | **$87 / mese** | BTC / Aliv ★★★ |
-| Spesa alimentare singolo | **$762 / mese** | Senza affitto ★★★ |
-| Spesa famiglia 4 p. con affitto | **$6.842 / mese** | Stima Numbeo aggregata ★★★ |
+| Rent 1-bed (centre) | **$1,382 / month** | Nassau/Freeport average ★★★ |
+| Rent 3-bed | **$2,496 / month** | Family ★★★ |
+| Utilities (electric/water/gas) | **$195–301 / month** | + variable electric **Fuel Surcharge** ★★★ |
+| Internet 60Mbps+ | **$87 / month** | BTC / Aliv ★★★ |
+| Groceries single person | **$762 / month** | Without rent ★★★ |
+| Groceries family of 4 with rent | **$6,842 / month** | Numbeo aggregate estimate ★★★ |
 
-## Eating Out (media Bahamas)
+## Eating Out (Bahamas Average)
 
 | Item | Indicative Price |
 |---|---|
-| Pranzo economico (locale) | **$31,20** |
-| Cena per 2 in ristorante medio | **$79,30** |
-| Menu McDonald's / fast food | **$11,80** |
-| Birra locale al bar (0,33–0,5 l) | **$5,33** |
+| Cheap lunch (local eatery) | **$31.20** |
+| Dinner for 2 in mid-range restaurant | **$79.30** |
+| McDonald's / fast food menu | **$11.80** |
+| Local draught beer (0.33–0.5 l) | **$5.33** |
 
-Prezzi specifici per locale → [10 Restaurants](10-ristoranti.md).
+Specific prices per venue → [10 Restaurants](10-ristoranti.md).
 
-## Spesa di bordo — supermercato
+## Ships Stores — Supermarket
 
 | Item | Indicative Price | Notes |
 |---|---|---|
-| Acqua RO in banchina | **$0,10–0,25 / gallone** | Vedi [07 Provisioning](07-provvisioning.md) ★★★★ |
-| Pane / latte / uova | **DATA MISSING** | Più caro che in Florida del 30–50% |
-| Frutta/verdura importata | Cara, qualità variabile fuori Nassau | Meglio mercati locali ★★ |
-| Pesce locale (conch, grouper, snapper) | Più conveniente se da pescatori | Potter's Cay ★★★ |
+| RO water at the dock | **$0.10–0.25 / gallon** | See [07 Provisioning](07-provvisioning.md) ★★★★ |
+| Bread / milk / eggs | **DATA MISSING** | 30–50% more expensive than Florida |
+| Imported fruit/veg | Expensive, variable quality outside Nassau | Better at local markets ★★ |
+| Local fish (conch, grouper, snapper) | Cheaper if from fishermen | Potter's Cay ★★★ |
 
 ## Fuel
 
 | Item | Indicative Price | Notes |
 |---|---|---|
-| Diesel — prezzo nazionale GlobalPetrol | **$1,685 / L = $6,38 / gal** | Media nazionale 2026 ★★★★ |
-| Diesel in marina | **$6,50–8,50 / gal** | Varia per isola e trasporto ★★★★ |
-| Diesel **Hurricane Hole Marina, Nassau** | **$6,93 / gal** al **01/06/2026** | Rilevazione marina ★★★★ |
-| Benzina in marina | **DATA MISSING** | ~ $6–8 / gal stimato, to be verified sul posto |
-| Bombola gas (scambio) | **DATA MISSING** | |
+| Diesel — GlobalPetrol national price | **$1.685 / L = $6.38 / gal** | National average 2026 ★★★★ |
+| Diesel at marina | **$6.50–8.50 / gal** | Varies by island and transport ★★★★ |
+| Diesel **Hurricane Hole Marina, Nassau** | **$6.93 / gal** on **01/06/2026** | Marina survey ★★★★ |
+| Petrol at marina | **DATA MISSING** | ~ $6–8 / gal estimated, to be verified on site |
+| Gas bottle (exchange) | **DATA MISSING** | |
 
-Il carburante in banchina è il più caro dei Caraibi dopo Bermuda — fare pieno in Florida se possibile. ★★★★
+Fuel at the dock is the most expensive in the Caribbean after Bermuda — fill up in Florida if possible. ★★★★
 
 ## Transport & Connections
 
 | Item | Indicative Price | Notes |
 |---|---|---|
-| Jitney (bus locale Nassau) | **$1,25–1,50 / corsa** cash a bordo | Solo New Providence. Fermate a richiesta su Bay St./East Bay St., frequenza 10–20 min lun–sab 6:30–19, dom ridotta 20–30 min. Scomodo con carichi — vedi [07 Provisioning](07-provvisioning.md) ★★★ |
-| Taxi corsa breve (Nassau) | **$15–25** | Tariffe non tassametrate, concordare prima. Dispatch **242-323-3030 / 242-325-3333** ★★★ |
-| Taxi aeroporto–centro Nassau | **$30–35** | + supplemento bagagli $2/collo ★★ |
-| Taxi Hurricane Hole → Harbour Bay (Solomon's) | **$18–28 A/R** stimato | Con attesa 30 min spesa — concordare chiuso ★★ |
-| Taxi Freeport (Grand Bahama) | **$15–20** breve / **$25–30** aeroporto–Lucayan | **DATA MISSING** dispatch verificato — chiedere in marina ★★ |
-| Taxi Marsh Harbour / Georgetown | **$10–20** (golf-cart taxi) | Abacos/Exumas: poche auto, più golf-cart ★★ |
-| Noleggio auto / golf-cart giornaliero | **$50–120 / giorno** auto · **$60–90** golf-cart Abacos/Exumas | Nassau/Freeport auto; Marsh Harbour/Georgetown/Staniel golf-cart — **DATA MISSING** per tariffa 2026 esatta |
-| Traghetto Bahamas Ferries | **DATA MISSING** su prezzo tratta | Da **Potter's Cay Dock, Nassau — 242-323-2166 ext. 250** → Harbour Island, Eleuthera, Marsh Harbour, Exuma. Uffici islands: Freeport 242-807-8018, Exuma 242-808-0658, Marsh Harbour 242-808-0581. Prenotazione: booking.bahamasferries.com ★★★★ |
-| Mail boat / ferry minori | **DATA MISSING** | Collegamenti settimanali cays remoti — chiedere in marina VHF 16 |
+| Jitney (local bus Nassau) | **$1.25–1.50 / ride** cash on board | New Providence only. Hail stop on Bay St./East Bay St., frequency 10–20 min Mon–Sat 6:30–19, Sun reduced 20–30 min. Awkward with loads — see [07 Provisioning](07-provvisioning.md) ★★★ |
+| Short taxi ride (Nassau) | **$15–25** | Fares not metered, agree before. Dispatch **242-323-3030 / 242-325-3333** ★★★ |
+| Taxi airport–downtown Nassau | **$30–35** | + $2/bag supplement ★★ |
+| Taxi Hurricane Hole → Harbour Bay (Solomon's) | **$18–28 return** estimated | With 30 min shopping wait — agree fixed price ★★ |
+| Taxi Freeport (Grand Bahama) | **$15–20** short / **$25–30** airport–Lucayan | **DATA MISSING** verified dispatch — ask at marina ★★ |
+| Taxi Marsh Harbour / Georgetown | **$10–20** (golf-cart taxi) | Abacos/Exumas: few cars, more golf-carts ★★ |
+| Car / golf-cart hire per day | **$50–120 / day** car · **$60–90** golf-cart Abacos/Exumas | Nassau/Freeport cars; Marsh Harbour/Georgetown/Staniel golf-cart — **DATA MISSING** for exact 2026 rate |
+| Bahamas Ferries ferry | **DATA MISSING** on fare per leg | From **Potter's Cay Dock, Nassau — 242-323-2166 ext. 250** → Harbour Island, Eleuthera, Marsh Harbour, Exuma. Island offices: Freeport 242-807-8018, Exuma 242-808-0658, Marsh Harbour 242-808-0581. Booking: booking.bahamasferries.com ★★★★ |
+| Mail boat / minor ferries | **DATA MISSING** | Weekly connections to remote cays — ask at marina VHF 16 |
 
-## Everyday Services
+## Daily Services
 
 | Item | Indicative Price | Notes |
 |---|---|---|
-| Elettricità marina (liveaboard) | **~$250 / mese** + fuel surcharge | BPL — molto caro ★★★ |
-| Lavanderia self-service | **$5–10 / carico** | Marina or lavanderie in città ★★ |
-| SIM prepagata con dati (BTC/Aliv) | **DATA MISSING** | |
-| Lavaggio scafo / hull dive | **DATA MISSING** | |
+| Marina electricity (liveaboard) | **~$250 / month** + fuel surcharge | BPL — very expensive ★★★ |
+| Self-service laundry | **$5–10 / load** | Marina or laundries in town ★★ |
+| Prepaid SIM with data (BTC/Aliv) | **DATA MISSING** | |
+| Hull wash / hull dive | **DATA MISSING** | |
 
 ## Cash & Payments
 
-BSD e USD 1:1, carte **Visa/Mastercard** accettate nelle marine e nei resort; contante (USD piccoli tagli) indispensabile nei **cays remoti, chioschi e distributori fuel**. Bancomat (ATM) a Nassau, Freeport, Marsh Harbour, George Town — commissioni alte. Mance: **15–18%** atteso nei ristoranti.
+BSD and USD 1:1, **Visa/Mastercard** accepted at marinas and resorts; cash (small USD notes) essential in **remote cays, kiosks and fuel docks**. ATMs in Nassau, Freeport, Marsh Harbour, George Town — high fees. Tips: **15–18%** expected in restaurants.
 
 ## Further Reading
 
-- Tariffe marine e boe → [03 Ports & Marinas](03-porti-ancoraggi.md)
-- Ancoraggi gratuiti vs Anchorage Fee → [08 Ancoraggi](08-ancoraggi.md)
-- Ristoranti con prezzi per locale → [10 Restaurants](10-ristoranti.md)
+- Marina & mooring fees → [03 Ports & Marinas](03-porti-ancoraggi.md)
+- Free anchorages vs Anchorage Fee → [08 Anchorages](08-ancoraggi.md)
+- Restaurants with prices per venue → [10 Restaurants](10-ristoranti.md)
 
 Last updated: 24/08/2026
 
-## Alimentari
+## Groceries
 
 **DATA MISSING** — to be completed at the monthly check.
-

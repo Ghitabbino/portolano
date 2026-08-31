@@ -25,7 +25,7 @@
 
 ## Costa nord-ovest — Malmok, Arashi, California Lighthouse
 
-- Rada di **Arashi / Malmok** (estremità NW): sabbia e qualche chiazza di roccia, 4–10 m; riparo discreto dagli alisei ma aperta a N. Molto frequentata di giorno per snorkeling, tranquilla al tramonto — buon punto di sosta prima di saltare verso Curaçao/Bonaire. ★★ [Noonsite/Cruisers reports] ★★
+- Rada di **Arashi / Malmok** (estremità NW): sabbia e qualche chiazza di roccia, 4–10 m; riparo discreto dagli alisei ma aperta a N. Molto frequentata di giorno per snorkeling, tranquilla al tramonto — buon punto di sosta prima di saltare verso Curaçao/Bonaire. ★★ [Fontes náuticas agregadas/Cruisers reports] ★★
 - Avvicinamento da W: costa bassa con reef affiorante — tenersi a **>0,5 M** dalla scogliera e seguire la batimetrica dei 10 m fino al punto di ancoraggio; di notte entrare solo con waypoints verificati ed eco. ★★
 
 ## Costa sopravvento est e sud — Barcadera, Spanish Lagoon, Baby Beach

@@ -1,6 +1,6 @@
 # 01 — Clearance doganale della barca
 
-**Ultima verifica: 24/08/2026** · Fonte principale: Noonsite 11/03/2026 ★★★, Maritime Authority of Jamaica ★★★★★, VisitJamaica ★★★★★
+**Ultima verifica: 24/08/2026** · Fonte principale: Fuentes náuticas agregadas 11/03/2026 ★★★, Maritime Authority of Jamaica ★★★★★, VisitJamaica ★★★★★
 
 ## Chi deve farla
 
@@ -18,14 +18,14 @@ Tutte le imbarcazioni da diporto provenienti dall'estero o che si spostano tra p
 
 | Voce | Costo | Fonte |
 |---|---|---|
-| Clearance orario ufficio lun–ven 09:00–16:00 | **Gratuita** | Noonsite ★★★ |
+| Clearance orario ufficio lun–ven 09:00–16:00 | **Gratuita** | Fuentes náuticas agregadas ★★★ |
 | Overtime dopo 16:00 feriale | **USD 80 / imbarcazione** | Montego Bay Yacht Club ★★★★ |
 | Weekend/festivi Customs | **USD 150 / imbarcazione** | MBYC ★★★★ |
 | Montego Bay Yacht Club facilities | **USD 10 / persona / giorno** (per ancoraggio) | MBYC ★★★★ |
 | Immigration domenica/festivi | USD 16 | ★★ |
 | Cruising Permit 6 mesi | **USD 150** (USD 300 per bandiera USA/anno) | MAJ ★★★★★ |
 
-Kingston sabato 08:00: USD 65 rilevato (Noonsite 2014 ★★).
+Kingston sabato 08:00: USD 65 rilevato (Fuentes náuticas agregadas 2014 ★★).
 
 ## Punti agréé in Giamaica (porti d'ingresso)
 

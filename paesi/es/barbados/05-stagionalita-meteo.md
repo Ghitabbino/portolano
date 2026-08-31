@@ -1,12 +1,12 @@
-# 05 — Stagionalità e meteo
+# 05 — Estacionalidad y meteorología
 
-**Ultima verifica: 28/08/2026**
+**Última verificación: 28/08/2026**
 
 ## Clima
 
-- Temperatura media **26–28 °C tutto l'anno**, clima **tropicale marittimo moderato** con **alisei da ENE 12–20 kn**; escursione termica giornaliera limitata. ★★★ [Noonsite — Barbados Weather](https://www.noonsite.com/place/barbados/view/weather/) ★★★
+- Temperatura media **26–28 °C tutto l'anno**, clima **tropicale marittimo moderato** con **alisei da ENE 12–20 kn**; escursione termica giornaliera limitata. ★★★ Fuentes náuticas agregadas ★★★
 - Acqua **26–29 °C** tutto l'anno (picco 28–29 ad agosto–ottobre); umidità 75–85%, rovesci brevi anche in stagione secca. ★★
-- Barbados è **100 km a est dell'arco delle Windward**, esposta direttamente all'Atlantico: prende **più swell oceanico** delle isole sottovento (Santa Lucia, Grenadine) — mare formato più frequente sul lato sopravvento. [Noonsite — Barbados Facts](https://www.noonsite.com/place/barbados/) ★★★
+- Barbados è **100 km a est dell'arco delle Windward**, esposta direttamente all'Atlantico: prende **più swell oceanico** delle isole sottovento (Santa Lucia, Grenadine) — mare formato più frequente sul lato sopravvento. Fuentes náuticas agregadas ★★★
 
 ## Stagioni
 
@@ -54,4 +54,4 @@ Stagione **giugno–novembre**, picco **agosto–ottobre**. Barbados è **espost
 - [Caribbean Weather — PassageWeather Barbados](http://www.passageweather.com) — carte vento/onda Windward ★★★
 - [NOAA — Marine Forecast Barbados](https://marine.weather.gov) — bollettini offshore ★★★★
 
-Ultimo aggiornamento: 28/08/2026
+Última actualización: 28/08/2026

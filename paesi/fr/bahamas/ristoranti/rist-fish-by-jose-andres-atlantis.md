@@ -11,8 +11,8 @@
 | **Emplacement** |**DONNÉE MANQUANTE**|
 
 <div class="mapframe" data-slug="rist-fish-by-jose-andres-atlantis" data-lat="25.0843" data-lon="-77.3192"></div>
-*Cartina di dettaglio: posizione a terra rispetto alla barca · zoom ±*
+*Carte détaillée : position à terre par rapport au bateau · zoom ±*
 
-Fonti: **DONNÉE MANQUANTE**
+Sources : **DONNÉE MANQUANTE**
 
-Dernière mise à jour: 25/08/2026
+Dernière mise à jour : 25/08/2026

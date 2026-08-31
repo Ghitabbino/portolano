@@ -1,6 +1,6 @@
-# 08 — Portolano degli ancoraggi
+# 08 — Derrotero de fondeaderos
 
-**Ultima verifica: 28/08/2026 · coordinate indicative, navigare con cartografia ufficiale**
+**Última verificación: 28/08/2026 · coordinate indicative, navigare con cartografia ufficiale**
 
 ## Regole generali di ancoraggio (prima di tutto)
 
@@ -9,7 +9,7 @@
 - **Barriera e reef**: tenersi sempre **>0,5 M** dal reef affiorante a nord-ovest (Six Men's Bay frangente) e **>1 M** dalla costa est atlantica (frangenti continui); entrare in rada solo con buona luce seguendo la batimetrica dei 10 m; di notte solo con waypoint verificati ed eco. ★★
 - **Jet-ski e traffico diurno**: Carlisle Bay molto frequentata da jet-ski e tour snorkeling 09:00–17:00 — mantenere distanza, catena ben distesa, boa di segnalazione se si nuota sui relitti. ★★
 
-### ⛔ Zone di divieto assoluto (ufficiali / pratiche)
+### ⛔ Zonas de prohibición absoluta (oficiales / prácticas)
 
 | Zona | Divieto | Fonte |
 |---|---|---|
@@ -33,7 +33,7 @@ Testi integrali e brochure: **BPI Yacht Masters Guide** (PDF su barbadosport.com
 | 3 | [Bridgetown Deep Water Harbour (POE)](ancoraggi/anc-bridgetown-dwh.md) | ★★★★★ porto chiuso | — banchina | profondo | Solo clearance | — POE |
 | 4 | [Bridgetown Shallow Draught (marina yacht)](ancoraggi/anc-shallow-draught.md) | ★★★★★ darsena riparata | — pontile | 3–5 m | Medio-alto (40 posti) | ★★★★ [BPI] |
 | 5 | [The Careenage (Bridgetown centro)](ancoraggi/anc-careenage.md) | ★★★★★ canale interno | — banchina stern-to | 2–3 m | Medio, prenotazione | città UNESCO |
-| 6 | [Port St. Charles (POE nord — rada esterna)](ancoraggi/anc-psc-anch.md) | ★★★★★ sottovento calmo | ★★★★ sabbia | 3–4 m | Basso-medio | ★★★ [Noonsite] |
+| 6 | [Port St. Charles (POE nord — rada esterna)](ancoraggi/anc-psc-anch.md) | ★★★★★ sottovento calmo | ★★★★ sabbia | 3–4 m | Basso-medio | ★★★ [Fuentes náuticas agregadas] |
 | 7 | [Port Ferdinand Marina (nord-ovest)](ancoraggi/anc-port-ferdinand.md) | ★★★★★ darsena scavata | — marina 120+ berths | 4–6 m | Medio | resort lusso |
 | 8 | [Speightstown (costa ovest)](ancoraggi/anc-speightstown.md) | ★★★★ sottovento | ★★★★ sabbia | 3–8 m | Medio | ★4,5/5 [NFL] |
 | 9 | [Oistins Bay (costa sud — condizionale)](ancoraggi/anc-oistins.md) | ★★ esposta a sud | ★★★ sabbia | 3–8 m | Basso, ma pesca intensa | day-stop ★★ |
@@ -45,7 +45,7 @@ Testi integrali e brochure: **BPI Yacht Masters Guide** (PDF su barbadosport.com
 
 <div class="mapframe" data-slug="barbados" data-minz="7" data-maxz="16" data-lat="13.18" data-lon="-59.55" data-markers='[[13.078, -59.6275, "Carlisle Bay (ancoraggio principale)", "anc-carlisle-main"], [13.07, -59.634, "Carlisle Bay Sud (Needham’s Point)", "anc-carlisle-south"], [13.106, -59.63, "Bridgetown Deep Water Harbour (POE, ingresso)", "anc-bridgetown-dwh"], [13.101, -59.627, "Bridgetown Shallow Draught (marina yacht + dogana dedicata)", "anc-shallow-draught"], [13.1, -59.6195, "The Careenage (Bridgetown centro)", "anc-careenage"], [13.264, -59.6465, "Port St. Charles (POE nord — ancoraggio esterno)", "anc-psc-anch"], [13.2585, -59.642, "Port Ferdinand Marina (nord-ovest)", "anc-port-ferdinand"], [13.253, -59.645, "Speightstown (costa ovest)", "anc-speightstown"], [13.0655, -59.541, "Oistins Bay (costa sud — condizionale)", "anc-oistins"], [13.247, -59.536, "Bathsheba / Tent Bay (costa EST — NON ANCORABILE)", "anc-bathsheba"]]'></div>
 
-*Marker cliccabili: il popup apre direttamente la scheda dell'ancoraggio. Tasselli locali zoom 7–13 (satellitare / carta nautica / segnali OpenSeaMap). Tutti i pin sono verificati **in mezzo al mare**, al centro della rada/baia (100–400 m dalla riva, profondità 3–10 m), mai a terra e mai a miglia dalla costa — come da vista satellitare.*
+*Marcadores clicables: el popup abre directamente la ficha del fondeadero. Mosaicos locales zoom 7–13 (satélite / carta náutica / señales OpenSeaMap). Todos los pins están verificados **en medio del mar**, en el centro de la rada/bahía (100–400 m de la orilla, profundidad 3–10 m), nunca en tierra y nunca a millas de la costa — como en vista satélite.*
 
 ---
 
@@ -80,4 +80,4 @@ Testi integrali e brochure: **BPI Yacht Masters Guide** (PDF su barbadosport.com
 6. Bollettino **BMS + NHC** controllato (swell est anche con aliseo moderato) ✓
 7. Zarpe e ricevute travelform/SailClear pronte per eventuale controllo in rada ✓
 
-Ultimo aggiornamento: 28/08/2026
+Última actualización: 28/08/2026

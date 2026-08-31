@@ -1,28 +1,28 @@
 # La Savane
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Todos os restaurantes](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Campo | Detalhe |
 |---|---|
 | Zona | Deshaies |
-| Cucina | 🐟 Francese-caraibica |
-| Specialità | Pesce fresco · colombo |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🌅 vista mare |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Savane+Deshaies) |
-| Contatti | 0590 91 39 58 · la-savane.com |
-| Valutazioni | Google 4,5/5 (568) → ★★★★½ |
-| Orari | tutti i giorni 11:30–22:30 (serv. 12–14/18–21) |
+| Cozinha | 🐟 Franco-caribenha |
+| Especialidade | Peixe fresco · colombo |
+| Custo | 💰€€ por pessoa sem bebidas |
+| Local | 🌅 vista para o mar |
+| Mapa | [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Savane+Deshaies) |
+| Contactos | 0590 91 39 58 · la-savane.com |
+| Avaliações | Google 4,5/5 (568) → ★★★★½ |
+| Horário | todos os dias 11:30–22:30 (serviço 12–14 / 18–21) |
 
 ## Menu
 
-- Pesce fresco
+- Peixe fresco
 - Colombo
 
 **Chef**: ND
 
-## Foto
+## Fotos
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Fotos ainda não disponíveis — a recolher no controlo mensal.*
 
-**Note**: Bd des Poissonniers · a piedi dall'ancoraggio
+**Notas**: Bd des Poissonniers · a pé do fundeadouro

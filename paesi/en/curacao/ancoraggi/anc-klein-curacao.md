@@ -15,6 +15,6 @@
 <div class="mapframe" data-slug="anc-klein-curacao" data-lat="11.99" data-lon="-68.647"></div>
 *Cartina of dettaglio — zoom ± fino at the baia · mappa offline · coordinate WGS84 verificate satellite (in mezzo at the mare)*
 
-Fonti: Noonsite — Klein Curaçao ★★★ · Wikipedia — Klein Curaçao 11°59'24"N 68°38'35"W ★★★★ · Noonsite Update 13/08/2025 ★★★
+Fonti: Cruising sources aggregate ★★★ · Wikipedia — Klein Curaçao 11°59'24"N 68°38'35"W ★★★★ · Cruising sources aggregate Update 13/08/2025 ★★★
 
 Last updated: 28/08/2026

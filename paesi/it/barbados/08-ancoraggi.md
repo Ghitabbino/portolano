@@ -33,7 +33,7 @@ Testi integrali e brochure: **BPI Yacht Masters Guide** (PDF su barbadosport.com
 | 3 | [Bridgetown Deep Water Harbour (POE)](ancoraggi/anc-bridgetown-dwh.md) | ★★★★★ porto chiuso | — banchina | profondo | Solo clearance | — POE |
 | 4 | [Bridgetown Shallow Draught (marina yacht)](ancoraggi/anc-shallow-draught.md) | ★★★★★ darsena riparata | — pontile | 3–5 m | Medio-alto (40 posti) | ★★★★ [BPI] |
 | 5 | [The Careenage (Bridgetown centro)](ancoraggi/anc-careenage.md) | ★★★★★ canale interno | — banchina stern-to | 2–3 m | Medio, prenotazione | città UNESCO |
-| 6 | [Port St. Charles (POE nord — rada esterna)](ancoraggi/anc-psc-anch.md) | ★★★★★ sottovento calmo | ★★★★ sabbia | 3–4 m | Basso-medio | ★★★ [Noonsite] |
+| 6 | [Port St. Charles (POE nord — rada esterna)](ancoraggi/anc-psc-anch.md) | ★★★★★ sottovento calmo | ★★★★ sabbia | 3–4 m | Basso-medio | ★★★ [Fonti diportiste aggregate] |
 | 7 | [Port Ferdinand Marina (nord-ovest)](ancoraggi/anc-port-ferdinand.md) | ★★★★★ darsena scavata | — marina 120+ berths | 4–6 m | Medio | resort lusso |
 | 8 | [Speightstown (costa ovest)](ancoraggi/anc-speightstown.md) | ★★★★ sottovento | ★★★★ sabbia | 3–8 m | Medio | ★4,5/5 [NFL] |
 | 9 | [Oistins Bay (costa sud — condizionale)](ancoraggi/anc-oistins.md) | ★★ esposta a sud | ★★★ sabbia | 3–8 m | Basso, ma pesca intensa | day-stop ★★ |

@@ -5,23 +5,23 @@
 | Field | Detail |
 |---|---|
 | Area | Deshaies |
-| Cuisine | 🍽️ Raffinata caraibica |
-| Speciality | Pesce creativo |
-| Cost | 💰€€€ for persona without bevande |
-| Setting | 🍽️ elegante informale, cocktails |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chez+Raf+Deshaies) |
-| Contacts | [Mappa](https://www.google.com/maps/search/?api=1&query=Chez+Raf+Deshaies) |
-| Ratings | Google 4,9/5 (~250) → ★★★★★ |
-| Hours | cena · prenotare ⚠️ |
+| Cuisine | 🍽️ Refined Caribbean |
+| Speciality | Creative fish |
+| Cost | 💰€€€ per person without drinks |
+| Setting | 🍽️ smart-casual, cocktails |
+| Map | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chez+Raf+Deshaies) |
+| Contacts | [Map](https://www.google.com/maps/search/?api=1&query=Chez+Raf+Deshaies) |
+| Ratings | Google 4.9/5 (~250) → ★★★★★ |
+| Hours | dinner · booking required ⚠️ |
 
 ## Menu
 
-- Pesce creativo
+- Creative fish
 
 **Chef**: ND
 
-## Foto
+## Photos
 
-*Foto non still disponibili — recuperare at the controllo mensile.*
+*No photos available yet — to be added on monthly check.*
 
-**Note**: Vista mare · between i migliori of the bourg · menu 35–55 €
+**Notes**: Sea view · among the best in the village · menu €35–55

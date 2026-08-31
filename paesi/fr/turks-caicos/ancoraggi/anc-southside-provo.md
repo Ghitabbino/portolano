@@ -16,6 +16,6 @@
 <div class="mapframe" data-slug="anc-southside-provo" data-lat="21.735" data-lon="-72.28" data-minz="12" data-maxz="17"></div>
 *Cartina di dettaglio — zoom ± fino al dock · carte hors ligne · coordinate WGS84 indicative, toujours vérifier avec le traceur*
 
-Fonti: Noonsite commento utente (2019/2026) ★★★ · borderforce.gov.tc POE South Dock ★★★★★ · visittci.com ★★★
+Fonti: Sources plaisance agrégées commento utente (2019/2026) ★★★ · borderforce.gov.tc POE South Dock ★★★★★ · visittci.com ★★★
 
 Dernière mise à jour: 28/08/2026

@@ -4,13 +4,13 @@
 | Champ | Détail |
 |---|---|
 | **Profondeur** |**2,5–3 m** ★★|
-| **Tenue** |Buona su sabbia ★★|
-| **Vents/abri** | Discreto riparo |
-| **Affluence** |Week-end presidiati dai charter; **in settimana tranquilla** ★★|
-| **Divieti** | Nessuno specifico noto |
-| **Extra** | Spiaggia bella, ambiente rilassato |
+| **Tenue** |Bonne sur sable ★★|
+| **Vents/abri** | Abri correct |
+| **Affluence** |Week-ends prisés des charter ; **calme en semaine** ★★|
+| **Réglementation** | Aucune interdiction particulière connue |
+| **Extra** | Belle plage, ambiance détendue |
 
 <div class="mapframe" data-slug="meurnier" data-lat="14.5940546" data-lon="-60.8705932"></div>
-*Vista mappa Anse Meurnier (coord. indicative) — zoom con i pulsanti +/−; menu in alto a destra per passare a Carta nautica e Segnali nautici · carte hors ligne*
+*Vue carte Anse Meurnier (coord. indicatives) — zoomez avec les boutons +/− ; menu en haut à droite pour passer à Carte nautique et Balisage · carte hors ligne*
 
 Dernière mise à jour: 22/08/2026

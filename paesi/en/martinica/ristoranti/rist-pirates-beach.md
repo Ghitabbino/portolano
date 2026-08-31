@@ -4,29 +4,29 @@
 
 | Field | Detail |
 |---|---|
-| Zona | Anse Caritan |
-| Cucina | 🥩 Burgers antillais |
-| Specialità | Boeuf mijoté aux épices · accras |
-| Costo | 💰€€ per person without drinks |
-| Location | 🏖️ beach club con sdraio |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pirates+Beach+Anse+Caritan) |
-| Contatti | 0696 86 08 64 / 0596 67 07 56 |
-| Currencyzioni | TA 4,5/5 (302) → ★★★★½ |
-| Orari | mer–dom ~12–17/18 · chiuso lun–mar |
+| Area | Anse Caritan |
+| Cuisine | 🥩 Antillean burgers |
+| Signature | Slow-cooked spiced beef · accras |
+| Price | 💰€€ per person without drinks |
+| Setting | 🏖️ beach club with loungers |
+| Map | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pirates+Beach+Anse+Caritan) |
+| Contact | 0696 86 08 64 / 0596 67 07 56 |
+| Ratings | TA 4.5/5 (302) → ★★★★½ |
+| Hours | Wed–Sun ~12:00–17:00/18:00 · closed Mon–Tue |
 
 ## Menu
 
-- Burgers antillais ~15 €
+- Antillean burgers ~€15
 - Tapas
-- Boeuf mijoté aux épices locales
+- Slow-cooked beef with local spices (boeuf mijoté aux épices)
 - Accras du Rocher
 
 **Chef**: Cédric
 
-## Foto
+## Photos
 
 ![Pirates Beach](img/martinica/rist-pirates-beach.jpg)
 
-*Fonte: bellemartinique.com*
+*Source: bellemartinique.com*
 
-**Note**: Plage de l'Anse Caritan ⚠️ non Pointe Marin come spesso riportato · restaurantpiratesbeach.com · prenotazione solo via modulo online
+**Notes**: Plage de l'Anse Caritan ⚠️ not Pointe Marin as often reported · restaurantpiratesbeach.com · booking via online form only

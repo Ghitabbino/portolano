@@ -1,8 +1,8 @@
 # Marie-Galante — Saint-Louis {#anc-marie-galante}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← Alle Ankerplätze](../08-ancoraggi.md)
 <div class="mapframe" data-slug="marie-galante" data-lat="15.97" data-lon="-61.018" data-name="Saint-Louis de Marie-Galante"></div>
 
-L'isola "com'era": distillerie di rum (Bielle, Poisson/Père Labat), grotte, spiagge vuote. Saint-Louis: pontile, clearance (Chez ZELES/douanes su appuntamento), negozi. Anse Canot (est) il mouillage più votato ma esposto; scegliere finestra meteo. ★★★
+Die Insel „wie früher“: Rum-Destillerien (Bielle, Poisson/Père Labat), Höhlen, leere Strände. Saint-Louis: Dinghisteg, Einklarierung (Chez ZELES/Zoll nach Vereinbarung), Geschäfte. Anse Canot (Ost) ist der bestbewertete Ankerplatz, aber exponiert; Wetterfenster abwarten. ★★★
 
-Ultimo aggiornamento: 22/08/2026
+Letzte Aktualisierung: 22/08/2026

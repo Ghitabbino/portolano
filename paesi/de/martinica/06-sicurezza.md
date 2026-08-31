@@ -1,97 +1,99 @@
-# 06 — Sicurezza
+# 06 — Sicherheit
 
-**Ultima verifica completa: 21/08/2026** · Prossimo controllo mensile: **21/09/2026**
+**Letzte Gesamtprüfung: 21/08/2026** · Nächster Monatscheck: **21/09/2026**
 
-## Valutazione sicurezza: **4 / 5**
+## Sicherheitsbewertung: **4 / 5**
 
-| Aspetto | Voto | Motivazione |
+| Aspekt | Note | Begründung |
 |---|---|---|
-| Sicurezza personale (turisti/crocieristi) | 4/5 | Crimini violenti contro visitatori rari; nessun attacco armato a velisti segnalato nelle fonti degli ultimi 5 anni |
-| Furti materiali a bordo | 2/5 | Dinghy/fuoribordo = problema endemico attorno a Le Marin e Sainte-Anne (37 incidenti registrati in 5 anni nel raggio di 10 km) |
-| Contesto generale dell'isola | 4/5 | Criminalità complessiva sotto la media francese; violenza armata legata al narcotraffico, concentrata nei quartieri di Fort-de-France e tra locali |
+| Personensicherheit (Touristen/Segler) | 4/5 | Gewaltdelikte gegen Besucher selten; keine bewaffneten Übergriffe auf Segler in den Quellen der letzten 5 Jahre |
+| Diebstahl an Bord | 2/5 | Dinghy/Außenborder = endemisches Problem um Le Marin und Sainte-Anne (37 Vorfälle in 5 Jahren im 10-km-Radius) |
+| Gesamtlage der Insel | 4/5 | Gesamtkriminalität unter französischem Durchschnitt; bewaffnete Gewalt mit Drogenhandel verknüpft, konzentriert in Vierteln von Fort-de-France und unter Einheimischen |
 
-*Scala: 0 = terribile → 5 = molto sicuro. Valutazione nostra, sintesi delle fonti sotto; aggiornata a ogni controllo mensile.*
+*Skala: 0 = katastrophal → 5 = sehr sicher. Eigene Bewertung, Synthese der Quellen unten; bei jedem Monatscheck aktualisiert.*
 
-**Perché non 5**: furti ricorrenti di dinghy/fuoribordo (anche incatenati) e escalation di violenza armata legata al narcotraffico a Fort-de-France. Nessuna delle due categorie ha finora preso di mira i crocieristi con violenza fisica.
+**Warum nicht 5**: wiederkehrende Diebstähle von Dinghy/Außenborder (auch angeschlossen) und Eskalation bewaffneter Gewalt mit Drogenbezug in Fort-de-France. Keine der beiden Kategorien hat bisher Segler mit körperlicher Gewalt gezielt getroffen.
 
-## Quadro generale
+## Gesamtlage
 
-- Advisory governativa canadese (agg. 29/07/2026 ★★★★): **"Adottate normali misure di sicurezza"** (*Prenez des mesures de sécurité normales*) — livello più basso di allerta. Microcriminalità (borseggi, strappi, furti in auto) concentrata a Fort-de-France; evitare spiagge deserte e luoghi isolati dopo il tramonto.
-- Bilancio prefettura 2025 (presentato 04/02/2026 ★★★★★): reati contro i beni (*atteintes aux biens*) **−6,3%**, cambriolaggi −10%, furti di veicoli −9%; tasso complessivo **20,51 fatti/1.000 ab. contro 27,71 della media francese** — eccezione: furti con violenza (*vols avec violence*) sopra la media; violenze alle persone +5,1%.
-- Omicidi legati al narcotraffico: 29 con arma da fuoco nel 2024, 17 nel I semestre 2025; tentati omicidi 88 (2023) → 199 (2024). Vittime quasi esclusivamente nell'ambito dei traffici, concentrate a Fort-de-France ★★★.
-- Stampa locale 2025–2026: rapine a mano armata a FdF (Terres-Sainville, Dillon, rue Lamartine, centro con intervento RAID set 2025), ristorante a Sainte-Luce (nov 2025), sparate su spiaggia ad Anse Moustique e Anse Meurnier durante gli "after yoles" ago 2026 (vittime locali giovanili) ★★★.
-- Nessuna advisory restrittiva francese; isola turistica con infrastrutture europee.
+- Kanadischer Reisehinweis (aktualisiert 29/07/2026 ★★★★): **„Treffen Sie normale Sicherheitsvorkehrungen“** (*Prenez des mesures de sécurité normales*) — niedrigste Warnstufe. Kleinkriminalität (Taschendiebstahl, Entreißen, Autodiebstahl) konzentriert in Fort-de-France; menschenleere Strände und isolierte Orte nach Einbruch der Dunkelheit meiden.
+- Bilanz Präfektur 2025 (vorgelegt 04/02/2026 ★★★★★): Eigentumsdelikte (*atteintes aux biens*) **−6,3 %**, Einbrüche −10 %, Fahrzeugdiebstähle −9 %; Gesamtquote **20,51 Taten/1.000 Einw. vs. 27,71 im französischen Mittel** — Ausnahme: Raub (*vols avec violence*) über Durchschnitt; Körperverletzungen +5,1 %.
+- Tötungsdelikte mit Drogenbezug: 29 mit Schusswaffe 2024, 17 im 1. Halbjahr 2025; versuchte Tötungen 88 (2023) → 199 (2024). Opfer fast ausschließlich im Drogenmilieu, konzentriert in Fort-de-France ★★★.
+- Lokalpresse 2025–2026: bewaffnete Raubüberfälle in FdF (Terres-Sainville, Dillon, rue Lamartine, Zentrum mit RAID-Einsatz Sep 2025), Restaurant in Sainte-Luce (Nov 2025), Schüsse am Strand bei Anse Moustique und Anse Meurnier während „after yoles“ Aug 2026 (Opfer junge Einheimische) ★★★.
+- Keine restriktiven französischen Hinweise; touristische Insel mit europäischer Infrastruktur.
 
-## Mappa delle zone — offline
+## Zonenkarte — offline
 
 <div class="mapframe" data-slug="martinica" data-minz="10" data-maxz="15" data-lat="14.60" data-lon="-61.03" data-zones='[[14.6075,-61.0640,2200,"#d32f2f","Fort-de-France: quartieri sensibili (Terres-Sainville, Dillon, Trénelle-Citron, Châteauboeuf, Sainte-Thérèse) — evitare soprattutto di notte"],[14.4680,-60.8680,1500,"#ef6c00","Le Marin: furti dinghy/fuoribordo frequenti — pontili, marina, ancoraggio"],[14.4383,-60.8850,1200,"#ef6c00","Sainte-Anne: furti dinghy frequenti — pontile e spiagge"]]'></div>
 
-*Legenda: cerchio rosso tratteggiato = zona da evitare di notte · cerchio arancio = zona con furti frequenti a danno dei crocieristi (attenzione, non evitare). Clicca sul cerchio per il dettaglio.*
+*Legende: gestrichelter roter Kreis = nachts zu meidende Zone · oranger Kreis = Zone mit häufigen Diebstählen zu Lasten von Seglern (Achtung, nicht meiden). Auf den Kreis klicken für Details.*
 
-## Posti sicuri / posti da evitare
+## Sichere Orte / zu meidende Orte
 
-### ✅ Posti sicuri
+### ✅ Sichere Orte
 
-| Zona | Note | Fonte |
+| Zone | Hinweise | Quelle |
 |---|---|---|
-| Marina du Marin | Recintata, videosorveglianza, guardia; reati comunque accaduti (vedi sotto) |★★★|
-| Sainte-Anne villaggio e Plage des Salines | Familiare, presidiato di giorno; criminalità bassa |travelsafe-abroad/advisory ★★|
-| Les Anses d'Arlet, Petite Anse | Villaggi tranquilli, bassa criminalità |travelsafe-abroad ★★|
-| Saint-Pierre, Le Carbet, Le Diamant | Piccole città calme, poca vita notturna |travelsafe-abroad ★★|
-| Trois-Îlets / Anse Mitan | Zona turistica ordinata |advisory ★★★|
-| Fort-de-France waterfront di giorno (La Savane, porto crociere) | Presidio polizia visibile; normali precauzioni |travelsafe-abroad ★★|
+| Marina du Marin | Umzäunt, Videoüberwachung, Wache; dennoch Delikte vorgekommen (siehe unten) |★★★|
+| Sainte-Anne Dorf und Plage des Salines | Familiär, tagsüber bewacht; niedrige Kriminalität |travelsafe-abroad/advisory ★★|
+| Les Anses d'Arlet, Petite Anse | Ruhige Dörfer, niedrige Kriminalität |travelsafe-abroad ★★|
+| Saint-Pierre, Le Carbet, Le Diamant | Kleine ruhige Städte, wenig Nachtleben |travelsafe-abroad ★★|
+| Trois-Îlets / Anse Mitan | Geordnetes Touristengebiet |advisory ★★★|
+| Fort-de-France Waterfront tagsüber (La Savane, Kreuzfahrthafen) | Sichtbare Polizeipräsenz; normale Vorsicht |travelsafe-abroad ★★|
 
-### ⛔ Posti da evitare o attenzione
+### ⛔ Zu meidende bzw. Vorsichtszonen
 
-| Zona | Rischio | Fonte |
+| Zone | Risiko | Quelle |
 |---|---|---|
-| Fort-de-France: Terres-Sainville, Dillon, Trénelle-Citron, Châteauboeuf, Sainte-Thérèse, Volga-Plage | Quartieri sensibili: violenza armata e rapine; **evitare dopo il tramonto** (consiglio: non muoversi da soli dopo le 19:30) |stampa locale/guide ★★★|
-| Feste popolari notturne su spiaggia ("after yoles", eventi in margine al Tour des Yoles) | Spari documentati ago 2026 (Anse Moustique, Anse Meurnier) tra presenti locali |Stampa locale antillana/La 1ère ★★★|
-| Pontili dinghy del Marin di notte | Furti anche di imbarcazioni incatenate |★★★|
-| Baie de Fort-de-France per la balneazione | Inquinamento urbano/portuale (rischio sanitario, non criminale) |guide locali ★★|
+| Fort-de-France: Terres-Sainville, Dillon, Trénelle-Citron, Châteauboeuf, Sainte-Thérèse, Volga-Plage | Sensible Viertel: bewaffnete Gewalt und Raub; **nach Einbruch meiden** (Tipp: nach 19:30 nicht allein unterwegs) |Lokalpresse/Guides ★★★|
+| Nächtliche Strandfeste („after yoles“, Events am Rande der Tour des Yoles) | Schüsse dokumentiert Aug 2026 (Anse Moustique, Anse Meurnier) unter anwesenden Einheimischen |Lokale Presse Antillen/La 1ère ★★★|
+| Dinghy-Stege Le Marin nachts | Diebstähle auch angeschlossener Boote |★★★|
+| Baie de Fort-de-France zum Baden | Städtische/Hafen-Verschmutzung (Gesundheitsrisiko, nicht kriminell) |Lokale Guides ★★|
 
-## Furti ai danni dei crocieristi
+## Diebstähle zu Lasten von Seglern
 
-Dati ** Caribbean Safety and Security Net** (the.org ★★★), controllo 21/08/2026:
+Daten **Caribbean Safety and Security Net** (the.org ★★★), Check 21/08/2026:
 
-- **37 incidenti negli ultimi 5 anni entro 10 km da Le Marin**: quasi tutti furti di dinghy e fuoribordo, alcuni burglary a bordo all'ancoraggio, vandalismo. Nessuna violenza alle persone.
-- Hotspot ricorrenti: pontile Leader Price/Carrefour (2022×2, 2023, 2024), Indigo dock (2019, giu 2026), marina (apr 2022, ott 2024, ago 2025 ×2), ancoraggio del Marin (burglary giu/set 2022, set 2025, mag 2026), cantiere Carenantiles (nov 2024), Sainte-Anne (serie 2022–2026), Baie des Anglais (lug 2021).
-- Anche dinghy **incatenati** sono stati portati via ( set 2022, ago 2024).
-- Contromisure efficaci riportate dai naviganti: catena corta + lucchetto attraverso il transito, motore sempre bloccato al dinghy con lucchetto specifico, dinghy sollevato a bordo di notte, allarme sul dinghy, niente oggetti in vista né nel dinghy né a bordo.
-- Segnalazione incidenti: (report online), gendarmerie maritime, CROSS. Gruppo FB "Martinique Cruisers" per avvisi rapidi ★★.
+- **37 Vorfälle in den letzten 5 Jahren im Umkreis 10 km um Le Marin**: fast ausschließlich Dinghy- und Außenborder-Diebstähle, einige Einbrüche am Ankerplatz, Vandalismus. Keine Gewalt gegen Personen.
+- Wiederkehrende Hotspots: Steg Leader Price/Carrefour (2022×2, 2023, 2024), Indigo dock (2019, Juni 2026), Marina (Apr 2022, Okt 2024, Aug 2025 ×2), Ankerplatz Le Marin (Einbrüche Juni/Sep 2022, Sep 2025, Mai 2026), Werft Carenantiles (Nov 2024), Sainte-Anne (Serie 2022–2026), Baie des Anglais (Juli 2021).
+- Auch **angeschlossene** Dinghys wurden entwendet (Sep 2022, Aug 2024).
+- Wirksame Gegenmaßnahmen laut Seglern: kurze Kette + Schloss durch den Spiegel, Motor stets mit speziellem Schloss am Dinghy sichern, Dinghy nachts an Bord hochnehmen, Dinghy-Alarm, nichts offen sichtbar lassen weder im Dinghy noch an Bord.
+- Meldung von Vorfällen: (Online-Report), Gendarmerie maritime, CROSS. FB-Gruppe „Martinique Cruisers“ für schnelle Warnungen ★★.
 
-## A bordo e a terra
+## An Bord und an Land
 
-| Rischio | Dettaglio | Fonte |
+| Risiko | Detail | Quelle |
 |---|---|---|
-| Furti dinghy | Unici problemi segnalati da Fonti diportiste aggregate: furti occasionali di annex |Fonti diportiste aggregate FAQ ★★★|
-| Dinghy a Fort-de-France | Episodio documentato (2015): dinghy slegato e calciato in mare + minacce → chiudere a chiave il dinghy al pontile |Commenti su portali nautici ★★|
-| Pontile Sainte-Anne | Il pontile dinghy affonda sotto carico/mare: prua sollevata o àncora di poppa |Commenti su portali nautici ★★|
+| Dinghy-Diebstähle | Einzige von aggregierten Seglerquellen gemeldete Probleme: gelegentliche Beiboot-Diebstähle |Aggregierte Seglerquellen FAQ ★★★|
+| Dinghy in Fort-de-France | Dokumentierter Vorfall (2015): Dinghy losgebunden und ins Wasser getreten + Drohungen → Dinghy am Steg abschließen |Kommentare auf Segelportalen ★★|
+| Steg Sainte-Anne | Dinghy-Steg taucht bei Last/Seegang unter: Bug hoch oder Heckanker |Kommentare auf Segelportalen ★★|
 
-## Navigazione
+## Navigation
 
-| Rischio | Dettaglio | Fonte |
+| Risiko | Detail | Quelle |
 |---|---|---|
-| Nasse da pesca costa est/sud-est | File di boe con lenze galleggianti quasi invisibili anche oltre 3 miglia dalla costa; anche ad Anses d'Arlet boe fatte di bottiglie trasparenti |Commenti su portali nautici 2019/2014 ★★|
-| Cetacei nel canale Santa Lucia | Collisioni documentate (2017: scafo sfondato sotto la galleggiamento) |Commenti su portali nautici ★★|
-| Segnaletica **IALA-B** | "Red right returning": sistema INVERTITO rispetto all'Europa — attenzione alle boe in ingresso porto |Fonti diportiste aggregate Facts ★★★|
-| Mont Pelée | Vulcano attivo (1902: 30.000 morti); osservatorio sorveglia, seguire le istruzioni (*consignes*) |Fonti diportiste aggregate Facts ★★★|
-| Narcotraffico in mare | Sequestri record di cocaina in mare (21,8 t zona Antille-Guyana 2024; 500 kg su un voilier apr 2026): segnalare pacchi sospetti in mare, non recuperare ballotte |La 1ère/JIRS ★★★|
+| Fischreusen Ost-/Südostküste | Reihen von Bojen mit fast unsichtbaren Schwimmleinen auch über 3 sm vor der Küste; auch bei Anses d'Arlet Bojen aus transparenten Flaschen |Kommentare auf Segelportalen 2019/2014 ★★|
+| Wale im St.-Lucia-Kanal | Kollisionen dokumentiert (2017: Rumpf unter Wasserlinie durchschlagen) |Kommentare auf Segelportalen ★★|
+| Betonnung **IALA-B** | „Red right returning“: System GEGENLÄUFIG zu Europa — Achtung bei Tonnen in der Hafeneinfahrt |Aggregierte Seglerquellen Facts ★★★|
+| Mont Pelée | Aktiver Vulkan (1902: 30.000 Tote); Observatorium überwacht, Anweisungen (*consignes*) befolgen |Aggregierte Seglerquellen Facts ★★★|
+| Drogenhandel auf See | Rekord-Beschlagnahmen Kokain auf See (21,8 t Zone Antillen-Guayana 2024; 500 kg auf Segelyacht Apr 2026): verdächtige Pakete im Wasser melden, Ballen nicht bergen |La 1ère/JIRS ★★★|
 
-## Numeri di emergenza
+## Notrufnummern
 
-| Emergenza | Numero |
+| Notfall | Nummer |
 |---|---|
-| Numero unico emergenze | **112** |
+| Europaweiter Notruf | **112** |
 
+## Rettung & Notfälle
 
-## Salvataggio ed emergenze
+- Nummern: **15 SAMU · 17 Polizei · 18 Feuerwehr · 112 EU · CROSS Antilles-Guyane 0596 70 92 92** (SAR auf See, *secours en mer*).
+- CROSS koordiniert SAR in der Zone (Jahresbilanzen der Direction de la Mer veröffentlicht ★★★★★). UKW 16 wird ständig überwacht.
+- Jüngster Fall: Segler zwischen Union Island und Martinique vermisst, 3 Schiffbrüchige gerettet (11/03/2026) ★★★.
 
-- Numeri: **15 SAMU · 17 polizia · 18 pompieri · 112 UE · CROSS Antilles-Guyane 0596 70 92 92** (soccorso in mare, *secours en mer*).
-- CROSS coordina SAR nella zona (bilanci annuali pubblicati dalla Direction de la Mer ★★★★★). VHF 16 sempre monitorato.
-- Caso recente: velista disperso tra Union Island e Martinica, 3 naufraghi soccorsi (11/03/2026) ★★★.
+## Monatliches Monitoring
 
-## Monitoraggio mensile
+| Datum | Quelle | Maßnahme |
+|---|---|---|
+| 29/08/2026 | GOV.UK, Aggregierte Fahrtensegler-Quellen, CSSN | Sicherheitscheck — keine Änderung L3, Gesamtlage bestätigt |
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
+Letzte Aktualisierung: 22/08/2026

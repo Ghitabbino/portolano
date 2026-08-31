@@ -1,8 +1,8 @@
-# Malendure — Îlets Pigeon (Réserve Cousteau) {#anc-malendure-cousteau}
+# Malendure — Îlets Pigeon (Reserva Cousteau) {#anc-malendure-cousteau}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← Todas as ancoragens](../08-ancoraggi.md)
 <div class="mapframe" data-slug="malendure-cousteau" data-lat="16.172" data-lon="-61.780" data-name="Malendure / Îlets Pigeon"></div>
 
-Il miglior snorkeling dell'arcipelago: riserva Cousteau, tartarughe, coralli. Ancoraggio su sabbia fuori dalla riserva davanti a Plage de Malendure (4–8 m, tenuta media); boe della riserva solo <8 m. Rolly con sud-ovest. A terra: club diving, supermercato, lavanderia, stazione benzina a 5 min a piedi. ★★★
+O melhor snorkeling do arquipélago: reserva Cousteau, tartarugas, corais. Fundeadouro sobre areia fora da reserva em frente à Plage de Malendure (4–8 m, tensa média); boias da reserva apenas <8 m. Balanço com sudoeste. Em terra: centros de mergulho, supermercado, lavandaria, posto de combustível a 5 min a pé. ★★★
 
-Ultimo aggiornamento: 22/08/2026
+Última atualização: 22/08/2026

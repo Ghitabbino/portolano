@@ -38,8 +38,8 @@ Nota: Francia 30 gg, Italia 90 gg (tabella PICA 19/07/2023 ★★★★★); Sve
 |---|---|---|
 | Tutte le bandiere | **Cruising Permit 6 mesi** dalla clearance, via portale MAJ `cruise.maritimejamaica.com` | Maritime Authority of Jamaica ★★★★★ |
 | Rinnovo | Solo dopo **15 giorni consecutivi fuori** dalle acque giamaicane + prova clearance estera | MAJ ★★★★★ |
-| Bandiera USA | **1 anno ininterrotto** per accordo bilaterale, fee **USD 300** (vs 150 per altre) | MAJ ★★★★★; Noonsite ★★★ |
-| Costo indicativo | **USD 150 / 6 mesi** (doppio se sistema addebita errato per US flag — chiedere rimborso) | Noonsite 12/02/2025 ★★★ |
+| Bandiera USA | **1 anno ininterrotto** per accordo bilaterale, fee **USD 300** (vs 150 per altre) | MAJ ★★★★★; Fonti diportiste aggregate ★★★ |
+| Costo indicativo | **USD 150 / 6 mesi** (doppio se sistema addebita errato per US flag — chiedere rimborso) | Fonti diportiste aggregate 12/02/2025 ★★★ |
 | Contatti MAJ | 12 Ocean Blvd, Kingston · (876)967-1060-5 · maj@jamaicaships.com | MAJ ★★★★★ |
 
 ## Vaccini

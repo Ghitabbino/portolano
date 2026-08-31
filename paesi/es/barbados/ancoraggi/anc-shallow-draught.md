@@ -17,4 +17,4 @@
 
 Fonti: [BPI news](https://barbadosport.com/news/page/4) (2024-12) ★★★★ · [Yachting World](https://www.yachtingworld.com/features/reinventing-barbados-caribbean-island-works-welcome-back-cruisers-71257) (2017) ★★★ · verificato su BA 1042 + satellite
 
-Ultimo aggiornamento: 25/08/2026
+Última actualización: 25/08/2026

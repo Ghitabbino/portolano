@@ -49,7 +49,7 @@
 ### Marina Los Morros — Cabo San Antonio
 - 21°55'N 084°54'W ca. · VHF 16 · Roadstead esposta, only with calma, fuel disponibile fino 2013 poi intermittente, spesso chiusa for danni uragano, Guarda Frontera presente. ★★★
 
-## Berthing & Marina Tariffs — listino Marlin 2024-25 (verificato Noonsite ★★★★)
+## Berthing & Marina Tariffs — listino Marlin 2024-25 (verificato Cruising sources aggregate ★★★★)
 
 > Stesse voci for all i paesi; **DATA MISSING** = from ricercare at the controllo mensile. Tariffs in USD (or CUC storico 1:1), pagamento carta non-USA a Hemingway/Cayo Largo, cash altrove. IVA inclusa dove indicata.
 

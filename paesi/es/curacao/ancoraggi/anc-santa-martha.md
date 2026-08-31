@@ -15,6 +15,6 @@
 <div class="mapframe" data-slug="anc-santa-martha" data-lat="12.268" data-lon="-69.125"></div>
 *Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 verificate satellite (in mezzo al mare)*
 
-Fonti: Spend Life Traveling (guida vela) ★★★ · Noonsite Update 13/08/2025 ★★★ · CruisersForum 29/03/2015 ★★
+Fonti: Spend Life Traveling (guida vela) ★★★ · Fuentes náuticas agregadas Update 13/08/2025 ★★★ · CruisersForum 29/03/2015 ★★
 
 Ultimo aggiornamento: 28/08/2026

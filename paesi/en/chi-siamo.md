@@ -26,7 +26,7 @@ No bookings, no adverts, no tracking, no profit. Just shared knowledge among peo
 
 ## © Open Licence
 
-All **original** SailTropics content (texts, tables, layouts) is free to share: you may copy, reuse and adapt it **for non-commercial purposes**, with simple attribution (“SailTropics”). External sources cited (Noonsite, Waterway Guide, government sites and others) remain the property of their respective authors: we report **only the reference and reliability rating**, never the third-party text.
+All **original** SailTropics content (texts, tables, layouts) is free to share: you may copy, reuse and adapt it **for non-commercial purposes**, with simple attribution (“SailTropics”). External sources cited (Cruising sources aggregate, Waterway Guide, government sites and others) remain the property of their respective authors: we report **only the reference and reliability rating**, never the third-party text.
 
 ## ⚠️ Disclaimer
 

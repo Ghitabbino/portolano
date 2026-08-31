@@ -4,7 +4,7 @@
 
 Currency: **XCD (Eastern Caribbean Dollar)** — 1 XCD ≈ 0,37 USD (cambio fisso 2,70 XCD/USD). Price level: isola vulcanica with forte importazione; alimentari **+20–40% vs USA/Europa continentale**, ristorazione turistica cara nelle zone marine; prodotti locali (pesce, frutta tropicale, provisions from mercato) more convenienti. ★★
 
-> ⚠️ Le voci of questo elenco are le stesse for all i paesi of the portolano. Dove il dato non è stato still trovato dalle fonti si scrive **DATA MISSING**: viene ricercato at the controllo mensile (vedi [00 Index](../00-indice.md)).
+> ⚠️ Le voci of questo elenco are le stesse for all i paesi of the portolano. Dove il dato non è stato still trovato dalle fonti si scrive **DATA MISSING**: viene ricercato at the controllo mensile (vedi [00 Index](00-indice.md)).
 
 ## Groceries & Galley Provisioning
 

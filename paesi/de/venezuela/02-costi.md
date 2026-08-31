@@ -8,7 +8,7 @@
 
 **Cambio**: tasso ufficiale BCV **784,66 Bs/USD al 24 ago 2026**; variazione annua 2026 **+160,8%**; +453-463% su base annua (≈142 Bs/USD ad ago 2025) [Finanzas Digital / ACN, 20-24 ago 2026] ★★★. Valore attuale del **parallelo**: DATO MANCANTE (tracker esiste: cuentora.com/tasas).
 
-**Birra/cena prezzi cruiser 2025-26**: **DATO MANCANTE** (unico riscontro: aneddotico 2017 — birre $0,50, menù $6 a Roques [Noonsite comment, 2017] ★).
+**Birra/cena prezzi cruiser 2025-26**: **DATO MANCANTE** (unico riscontro: aneddotico 2017 — birre $0,50, menù $6 a Roques [Aggregierte Fahrtensegler-Quellen comment, 2017] ★).
 
 **Pagamenti**: molte attività accettano bolívares, USD o carta, ma molti POS **non accettano carte internazionali** [GOV.UK, lug 2026] ★★★.
 

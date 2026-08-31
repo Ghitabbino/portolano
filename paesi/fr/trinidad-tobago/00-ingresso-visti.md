@@ -1,6 +1,6 @@
 # 00 — Entrée, Documents & Visas
 
-**Dernière vérification: 25/08/2026** · Fonti: gov.uk ★★★★ · Noonsite ★★★ · MSATT/YSATT ★★★ · gotrinidadandtobago.com ★★★
+**Dernière vérification: 25/08/2026** · Fonti: gov.uk ★★★★ · Sources plaisance agrégées ★★★ · MSATT/YSATT ★★★ · gotrinidadandtobago.com ★★★
 
 ## Statut
 

@@ -5,23 +5,23 @@
 | Champ | Détail |
 |---|---|
 | Zone | Anse-Bertrand |
-| Cuisine | 🍽️ Creativa locale |
-| Spécialité | Menù degustazione |
-| Coût | 💰€€€ per persona senza bevande |
-| Emplacement | 🌅 vista oceano atlantico |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Rayon+de+Soleil+Anse-Bertrand) |
-| Contacts | [Mappa](https://www.google.com/maps/search/?api=1&query=Rayon+Soleil+Anse-Bertrand) |
-| Évaluations | Google positive → ★★★★ |
-| Horaires | pranzo · cena su prenotazione ⚠️ |
+| Cuisine | 🍽️ Créative locale |
+| Spécialité | Menu dégustation |
+| Coût | 💰€€€ par personne hors boissons |
+| Emplacement | 🌅 vue océan Atlantique |
+| Carte | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Rayon+de+Soleil+Anse-Bertrand) |
+| Contacts | [Carte](https://www.google.com/maps/search/?api=1&query=Rayon+Soleil+Anse-Bertrand) |
+| Évaluations | Google — avis positifs → ★★★★ |
+| Horaires | déjeuner · dîner sur réservation ⚠️ |
 
 ## Menu
 
-- Menù degustazione
+- Menu dégustation
 
-**Chef**: ND
+**Chef** : ND
 
 ## Photos
 
-*Photos non ancora disponibili — recuperare al controllo mensile.*
+*Photos non encore disponibles — à récupérer lors du contrôle mensuel.*
 
-**Note**: Hôtel Toubana · dopo la visita alla Pointe de la Grande Vigie · menu 25–60 €
+**Notes** : Hôtel Toubana · après la visite de la Pointe de la Grande Vigie · menu 25–60 €

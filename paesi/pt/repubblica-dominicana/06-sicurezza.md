@@ -4,7 +4,7 @@
 | Area | Voto | Motivazione |
 |---|---|---|
 | **Repubblica Dominicana** — sicurezza personale turisti/crocieristi | **3,0–3,5/5** | Reati predatori (furto, scippo, truffa) diffusi nelle aree urbane e turistiche, ma **violenza mirata contro i diportisti rara** se si rispettano le zone gated/marina ★★★ |
-| **Haiti** — sicurezza generale | **0,5/5** | **Estremo: evitare**. Controllo territoriale di gang armate, rapimenti, collasso servizi, colera endemico. Sconsigliato da tutte le fonti governative e da Noonsite ★★★★★ |
+| **Haiti** — sicurezza generale | **0,5/5** | **Estremo: evitare**. Controllo territoriale di gang armate, rapimenti, collasso servizi, colera endemico. Sconsigliato da tutte le fonti governative e da Fontes náuticas agregadas ★★★★★ |
 | Furti materiali a bordo | **2,5/5** | Furti opportunistici (dinghy non legato, oggetti in pozzetto) nelle baie isolate e nei centri urbani; meno frequenti nelle marine sorvegliate |
 
 *Scala: 0 = terribile → 5 = molto sicuro. Valutazione nostra, sintesi delle fonti sotto.*

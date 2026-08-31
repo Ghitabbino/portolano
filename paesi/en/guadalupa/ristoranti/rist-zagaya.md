@@ -5,24 +5,24 @@
 | Field | Detail |
 |---|---|
 | Area | Saint-François |
-| Cuisine | 🐟 Pieds dans l'eau |
-| Speciality | Crabe farci · dorade at the riso nero |
-| Cost | 💰€€ for persona without bevande |
-| Setting | 🏖️ spiaggia, tramonto |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Zagaya+Saint-François) |
-| Contacts | [Mappa](https://www.google.com/maps/search/?api=1&query=Zagaya+Saint-Francois+Guadeloupe) |
-| Ratings | Google positive → ★★★★ |
-| Hours | pieds dans l'eau · cena stagionale ⚠️ |
+| Cuisine | 🐟 Beachfront (feet in the water) |
+| Speciality | Stuffed crab · black-rice sea bream |
+| Cost | 💰€€ per person without drinks |
+| Setting | 🏖️ beach, sunset |
+| Map | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Zagaya+Saint-François) |
+| Contacts | [Map](https://www.google.com/maps/search/?api=1&query=Zagaya+Saint-Francois+Guadeloupe) |
+| Ratings | Google — positive reviews → ★★★★ |
+| Hours | feet in the water · dinner seasonally ⚠️ |
 
 ## Menu
 
-- Crabe farci
-- Dorade at the riso nero
+- Stuffed crab
+- Sea bream with black rice
 
 **Chef**: ND
 
-## Foto
+## Photos
 
-*Foto non still disponibili — recuperare at the controllo mensile.*
+*No photos available yet — to be added on monthly check.*
 
-**Note**: Comodo dalla marina/laguna · carta ampia 10–50 €
+**Notes**: Handy from the marina/lagoon · extensive menu €10–50

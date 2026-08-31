@@ -1,18 +1,18 @@
 # Staniel Cay YC
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Todos los restaurantes](../10-ristoranti.md)
 **24°10′00″ N 76°26′29″ W**
 
-| Campo | Dettaglio |
+| Campo | Detalle |
 |---|---|
-| **Costo** |**DATO MANCANTE**|
-| **Cucina** |**DATO MANCANTE**|
-| **Specialità** |**DATO MANCANTE**|
-| **Location** |**DATO MANCANTE**|
+| **Coste** |**DATO NO DISPONIBLE**|
+| **Cocina** |**DATO NO DISPONIBLE**|
+| **Especialidad** |**DATO NO DISPONIBLE**|
+| **Ubicación** |**DATO NO DISPONIBLE**|
 
 <div class="mapframe" data-slug="rist-staniel-cay-yc" data-lat="24.16677" data-lon="-76.44147"></div>
-*Cartina di dettaglio: posizione a terra rispetto alla barca · zoom ±*
+*Mapa detallado: posición en tierra respecto al barco · zoom ±*
 
-Fonti: **DATO MANCANTE**
+Fuentes: **DATO NO DISPONIBLE**
 
-Ultimo aggiornamento: 25/08/2026
+Última actualización: 25/08/2026

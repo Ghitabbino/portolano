@@ -6,7 +6,7 @@ Hub indiscusso è **IGY Rodney Bay Marina**: cantiere a secco con travelift 75 t
 
 | Infrastructure | Détail | Referente | Tel | Note | Recensioni |
 |---|---|---|---|---|---|
-| **IGY Rodney Bay Boatyard** (in marina) | Travelift **75 t (max baglio 28 ft)**, dry storage, lavaggio, antifouling, osmosi, lucidatura, ripari vetroresina/gelcoat con tecnici certificati; fuel dock ad alta pressione | Yard Supervisor: Milton Mackenzie (mmckenzie@igymarinas.com) | +1 758 458 7200 | Pacchetti caretaking/hivernage con assicurazione dedicata; pit per chiglie profonde + cinghie; in uragano cat. 4–5 la marina può svuotare gli ormeggi | [Noonsite](https://www.noonsite.com/business/igy-rodney-bay-boatyard/) ★★★ · igymarinas.com ★★★★ |
+| **IGY Rodney Bay Boatyard** (in marina) | Travelift **75 t (max baglio 28 ft)**, dry storage, lavaggio, antifouling, osmosi, lucidatura, ripari vetroresina/gelcoat con tecnici certificati; fuel dock ad alta pressione | Yard Supervisor: Milton Mackenzie (mmckenzie@igymarinas.com) | +1 758 458 7200 | Pacchetti caretaking/hivernage con assicurazione dedicata; pit per chiglie profonde + cinghie; in uragano cat. 4–5 la marina può svuotare gli ormeggi | Sources plaisance agrégées ★★★ · igymarinas.com ★★★★ |
 | Freelance/day workers del cantiere | Squadre di day-work (levigatura, verniciatura, pulizie) organizzate via ufficio tecnico marina | — | +1 758 458 7200 | Tarifs da concordare in capitainerie | elenco Shops at RBM ★★ |
 
 ## Tabella artigiani

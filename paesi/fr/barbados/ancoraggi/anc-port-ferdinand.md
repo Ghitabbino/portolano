@@ -5,16 +5,16 @@
 
 | Champ | Détail |
 |---|---|
-| **Profondeur** |Darsena interna scavata nella roccia|
-| **Tenue de l’ancre** |— (~120–126 berths, adatta superyacht)|
-| **Vents/abri** |Ingresso via Six Men's Bay sotto ponte sollevabile|
-| **Dangers** |Yacht grandi spesso all'ancora fuori; ingresso sotto ponte sollevabile verificato su BA 1042 + satellite|
-| **Bouées/interdictions/réglementation** |NON è POE|
-| **À terre** |Ristorante 13°/59°; residenziale/lusso|
+| **Profondeur** |Bassin intérieur creusé dans la roche|
+| **Tenue de l’ancre** |— (~120–126 berths, adapté superyachts)|
+| **Vents/abri** |Entrée via Six Men's Bay sous pont levant|
+| **Dangers** |Grands yachts souvent au mouillage à l'extérieur ; entrée sous pont levant vérifié sur BA 1042 + satellite|
+| **Bouées/interdictions/réglementation** |N'EST PAS POE|
+| **À terre** |Restaurant 13°/59° ; résidentiel/luxe|
 
 <div class="mapframe" data-slug="anc-port-ferdinand" data-lat="13.2585" data-lon="-59.642"></div>
-*Carte détaillée — zoomez jusqu’à la baie · carte hors ligne · coordinate WGS84 indicative, toujours vérifier avec le traceur*
+*Carte détaillée — zoomez jusqu’à la baie · carte hors ligne · coordonnées WGS84 indicatives, toujours vérifier avec le traceur*
 
-Fonti: [Yachting World](https://www.yachtingworld.com/features/reinventing-barbados-caribbean-island-works-welcome-back-cruisers-71257) (2017) ★★★ · barbados.org Port Ferdinand ★★ · verificato su BA 1042 + satellite
+Sources: [Yachting World](https://www.yachtingworld.com/features/reinventing-barbados-caribbean-island-works-welcome-back-cruisers-71257) (2017) ★★★ · barbados.org Port Ferdinand ★★ · vérifié sur BA 1042 + satellite
 
 Dernière mise à jour: 25/08/2026

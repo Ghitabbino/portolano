@@ -1,93 +1,95 @@
-# 06 — Sicurezza
+# 06 — Seguridad
 
-**Ultima verifica completa: 24/08/2026** · Prossimo controllo mensile: **24/09/2026**
+**Última verificación completa: 24/08/2026** · Próximo control mensual: **24/09/2026**
 
-## Valutazione sicurezza: **3,5 / 5** — media ponderata
+## Valoración seguridad: **3,5 / 5** — media ponderada
 
-| Aspetto | Voto | Motivazione |
+| Aspecto | Nota | Motivación |
 |---|---|---|
-| **Exumas / Out Islands (cays remoti)** | **4–4,5 / 5** | Bassissima criminalità, comunità tiny, ancoraggi tranquilli |
-| **Nassau / New Providence** | **2,5–3 / 5** | Microcriminalità e rapine, soprattutto di notte in aree degradate |
-| **Media arcipelago per crocierista** | **3,5 / 5** | Sicuro se si applicano normali precauzioni, ma Nassau richiede attenzione |
+| **Exumas / Out Islands (cayos remotos)** | **4–4,5 / 5** | Criminalidad bajísima, comunidades diminutas, fondeos tranquilos |
+| **Nassau / New Providence** | **2,5–3 / 5** | Delincuencia menor y robos, sobre todo de noche en áreas degradadas |
+| **Media archipiélago para cruceristas** | **3,5 / 5** | Seguro si se aplican precauciones normales, pero Nassau exige atención |
 
-*Scala: 0 = terribile → 5 = molto sicuro. Valutazione nostra, sintesi delle fonti sotto; aggiornata a ogni controllo mensile.*
+*Escala: 0 = terrible → 5 = muy seguro. Valoración propia, síntesis de las fuentes abajo; actualizada en cada control mensual.*
 
-**Perché non 4,5**: il dato nazionale è appesantito da **Nassau**, dove si concentra l'80% della popolazione e della criminalità; i cays esterni sono molto più sicuri della capitale.
+**Por qué no 4,5**: el dato nacional está lastrado por **Nassau**, donde se concentra el 80% de la población y la criminalidad; los cayos exteriores son mucho más seguros que la capital.
 
-## Quadro generale
+## Cuadro general
 
-- **US State Dept. Level 2 — Exercise Increased Caution** (agg. **28/07/2026** ★★★★★): Bahamas al livello 2 su 4 — "aumentata cautela" per criminalità, soprattutto a **Nassau (New Providence) e Freeport (Grand Bahama)**.
-- **CSSN (Caribbean Safety and Security Net) 2025**: **124 incidenti violenti** registrati nei Caraibi, **pochi nelle Bahamas** — arcipelago **non tra gli hotspot** (hotspot 2025: St. Vincent, St. Lucia, Grenada). ★★★★
-- **Nassau — Over the Hill**: quartieri a **sud di Shirley Street** concentrano sparatorie legate a gang locali — vittime quasi sempre locali, ma rischio di rapina per turisti di notte. ★★★★
-- **Furti ai crocieristi**: il problema principale è il **furto di tender/fuoribordo** — nella regione Caraibi rappresenta **81,5%** dei furti a danno di velisti (CSSN 2025) — Bahamas incluse, soprattutto a Nassau e nelle marine affollate. ★★★★
+- **US State Dept. Nivel 2 — Exercise Increased Caution** (act. **28/07/2026** ★★★★★): Bahamas en nivel 2 de 4 — "precaución aumentada" por criminalidad, sobre todo en **Nassau (New Providence) y Freeport (Grand Bahama)**.
+- **CSSN (Caribbean Safety and Security Net) 2025**: **124 incidentes violentos** registrados en el Caribe, **pocos en Bahamas** — archipiélago **no entre los hotspots** (hotspots 2025: St. Vincent, St. Lucia, Grenada). ★★★★
+- **Nassau — Over the Hill**: barrios al **sur de Shirley Street** concentran tiroteos vinculados a bandas locales — víctimas casi siempre locales, pero riesgo de robo para turistas de noche. ★★★★
+- **Robos a cruceristas**: el problema principal es el **robo de auxiliar/fueraborda** — en la región Caribe representa **81,5%** de los robos a navegantes (CSSN 2025) — Bahamas incluidas, sobre todo en Nassau y marinas abarrotadas. ★★★★
 
-## Posti sicuri / posti da evitare
+## Lugares seguros / lugares a evitar
 
-### ✅ Posti sicuri
+### ✅ Lugares seguros
 
-| Zona | Note | Fonte |
+| Zona | Notas | Fuente |
 |---|---|---|
-| **Paradise Island / Cable Beach (Nassau resort)** | Resort presidiati, sicurezza privata H24 | Advisory USA/UK ★★★★ |
-| **Exumas (Highbourne, Staniel, Compass, George Town)** | Comunità piccole, criminalità quasi nulla — ancoraggi tranquilli | CSSN + cruiser reports ★★★★ |
-| **Abacos — Elbow Cay / Green Turtle Cay** | Villaggi tranquilli, bassa criminalità | Cruiser reports ★★★ |
-| **Eleuthera — Harbour Island / Spanish Wells** | Molto sicuri, comunità chiuse | Cruiser reports ★★★ |
-| **Berry Islands — Chub Cay** | Marina resort privata, sicura | Resort ★★★ |
+| **Paradise Island / Cable Beach (resorts Nassau)** | Resorts vigilados, seguridad privada H24 | Advisory USA/UK ★★★★ |
+| **Exumas (Highbourne, Staniel, Compass, George Town)** | Comunidades pequeñas, criminalidad casi nula — fondeos tranquilos | CSSN + reportes cruceristas ★★★★ |
+| **Abacos — Elbow Cay / Green Turtle Cay** | Pueblos tranquilos, baja criminalidad | Reportes cruceristas ★★★ |
+| **Eleuthera — Harbour Island / Spanish Wells** | Muy seguros, comunidades cerradas | Reportes cruceristas ★★★ |
+| **Berry Islands — Chub Cay** | Marina resort privada, segura | Resort ★★★ |
 
-### ⛔ Posti da evitare o attenzione
+### ⛔ Lugares a evitar o con precaución
 
-| Zona | Rischio | Fonte |
+| Zona | Riesgo | Fuente |
 |---|---|---|
-| **Nassau — Over the Hill (sud di Shirley St.)** | **Evitare sempre**, soprattutto di notte — rapine, sparatorie gang | US Advisory 28/07/2026 ★★★★★ |
-| **Nassau — Downtown di notte, Fish Fry dopo tarda sera, spiagge deserte** | Borseggi, scippi, rapine — non camminare soli dopo il tramonto | US Advisory ★★★★ |
-| **Nassau — ancoraggi non custoditi / dinghy dock incustoditi** | **Furti tender/fuoribordo** — anche con catena (81,5% dei furti Caraibi) | CSSN ★★★★ |
-| **Freeport — aree degradate fuori resort** | Microcriminalità notturna | Advisory ★★★ |
+| **Nassau — Over the Hill (sur de Shirley St.)** | **Evitar siempre**, sobre todo de noche — robos, tiroteos de bandas | US Advisory 28/07/2026 ★★★★★ |
+| **Nassau — Centro de noche, Fish Fry de madrugada, playas desiertas** | Hurtos, tirones, robos — no caminar solo tras la puesta de sol | US Advisory ★★★★ |
+| **Nassau — fondeos sin vigilancia / dinghy docks sin custodia** | **Robos de auxiliar/fueraborda** — incluso con cadena (81,5% de los robos Caribe) | CSSN ★★★★ |
+| **Freeport — áreas degradadas fuera de resorts** | Delincuencia menor nocturna | Advisory ★★★ |
 
-## Furti ai danni dei crocieristi
+## Robos a cruceristas
 
-Dati **CSSN** agg. 2025:
-- **Hotspot Bahamas**: Nassau Harbour / Paradise Island dinghy dock, Marsh Harbour (Abacos) — episodi sporadici, non sistematici come in Martinica/Antille.
-- **Modus**: tender lasciato incustodito al dinghy dock, furto notturno di fuoribordo, rari burglary in rada a Nassau.
-- **Contromisure**: catena corta + lucchetto inox attraverso il transito, motore bloccato con lucchetto dedicato, **tender sollevato a bordo di notte**, niente oggetti in vista, allarme fuoribordo; a Nassau preferire marina con guardianaggio. ★★★★
+Datos **CSSN** act. 2025:
+- **Hotspots Bahamas**: Nassau Harbour / Paradise Island dinghy dock, Marsh Harbour (Abacos) — episodios esporádicos, no sistemáticos como en Martinica/Antillas.
+- **Modus**: auxiliar dejado sin vigilancia en dinghy dock, robo nocturno de fueraborda, raros robos a bordo en fondeo en Nassau.
+- **Contramedidas**: cadena corta + candado inox a través del espejo, motor bloqueado con candado dedicado, **auxiliar izado a bordo de noche**, nada a la vista, alarma de fueraborda; en Nassau preferir marina con vigilancia. ★★★★
 
-## A bordo e a terra
+## A bordo y en tierra
 
-| Rischio | Dettaglio | Fonte |
+| Riesgo | Detalle | Fuente |
 |---|---|---|
-| Segnaletica **IALA-B** | **Red right returning** — sistema **invertito** rispetto all'Europa (rosso a dritta entrando) — attenzione a boe e canali | Admiralty ★★★★★ |
-| Nasse / coral heads | Testate coralline isolate sui Banks — navigare con sole alto, occhio al colore dell'acqua | Explorer Charts ★★★★★ |
-| Cuts Exumas | Corrente **2–4 kt** ai cambi di marea — transito solo a slack | Explorer ★★★★★ |
-| Inquinamento Nassau Harbour | Acque portuali inquinate — balneazione sconsigliata in porto | Local ★★ |
+| Balizamiento **IALA-B** | **Red right returning** — sistema **invertido** respecto a Europa (rojo a estribor entrando) — atención a boyas y canales | Admiralty ★★★★★ |
+| Nasas / cabezos de coral | Cabezos aislados en los Banks — navegar con sol alto, ojo al color del agua | Explorer Charts ★★★★★ |
+| Cuts Exumas | Corriente **2–4 nudos** en cambios de marea — tránsito solo en estoa | Explorer ★★★★★ |
+| Contaminación Nassau Harbour | Aguas portuarias contaminadas — baño desaconsejado en puerto | Local ★★ |
 
-## Navigazione sicura
+## Navegación segura
 
-- **Gulf Stream** (vedi [05 Meteo](05-stagionalita-meteo.md)): fino a 5 kt verso nord tra Bimini e Florida — pianificare la rotta con correzione.
-- Nessun rischio vulcanico; rischio uragani giugno–novembre (vedi [05](05-stagionalita-meteo.md)).
+- **Gulf Stream** (ver [05 Meteo](05-stagionalita-meteo.md)): hasta 5 nudos hacia el norte entre Bimini y Florida — planificar derrota con corrección.
+- Ningún riesgo volcánico; riesgo de huracanes junio–noviembre (ver [05](05-stagionalita-meteo.md)).
 
-## Numeri di emergenza
+## Números de emergencia
 
-| Emergenza | Numero |
+| Emergencia | Número |
 |---|---|
-| **Emergenza generale / Polizia** | **919** (anche **911 / 112** da cellulare) |
-| **BASRA (soccorso in mare volontario)** | **242-325-8864** · **VHF 16** |
+| **Emergencia general / Policía** | **919** (también **911 / 112** desde móvil) |
+| **BASRA (salvamento marítimo voluntario)** | **242-325-8864** · **VHF 16** |
 | **Police Nassau** | **242-322-4444** |
 | **Harbour Control Nassau** | **VHF 16 — H24** |
 
-BASRA coordina il soccorso in mare con volontari — donazioni ben accette.
+BASRA coordina el salvamento en el mar con voluntarios — donaciones bienvenidas.
 
-## Mappa delle zone — offline
+## Mapa de zonas — offline
 
 <div class="mapframe" data-slug="bahamas" data-minz="6" data-maxz="15" data-lat="24.50" data-lon="-76.00" data-zones='[[25.07,-77.34,3000,"#d32f2f","Nassau Over the Hill — evitare"],[26.53,-78.687,2000,"#ef6c00","Freeport — attenzione notte"],[24.39,-76.48,1500,"#ef6c00","Highbourne — furti tender"]]'></div>
 
-*Legenda: cerchio rosso = zona da evitare · arancio = attenzione.*
+*Leyenda: círculo rojo = zona a evitar · naranja = atención.*
 
-Ultimo aggiornamento: 24/08/2026
+Última actualización: 24/08/2026
 
-## Salvataggio ed emergenze
+## Salvamento y emergencias
 
-**DATO MANCANTE** — da completare al controllo mensile.
+- **Emergencias**: **112** (donde disponible) / **911** Américas · **VHF 16** · MRCC local vía marina. Llevar EPIRB/PLB. ★★
+- **Asistencia médica**: hospital principal en la capital + clínicas privadas en bahías turísticas. ★★
 
 
-## Monitoraggio mensile
+## Seguimiento mensual
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
+| Fecha | Fuente | Acción |
+|---|---|---|
+| 29/08/2026 | GOV.UK, Fuentes náuticas agregadas, CSSN | Verificación seguridad — sin variación L3, cuadro general confirmado |

@@ -1,17 +1,17 @@
-# Baie de Genipa — la tranquilla {#anc-genipa}
+# Baie de Genipa — la tranquila {#anc-genipa}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
-| Campo | Dettaglio |
+[← Todos los fondeaderos](../08-ancoraggi.md)
+| Campo | Detalle |
 |---|---|
-| **Dove** | Fondale della baia di Fort-de-France, canali tra mangrovie |
-| **Profondità** | 2–5 m circa nei canali |
-| **Tenuta** |Ottima su fango ★★|
-| **Venti/riparo** |Swell praticamente zero, riparo totale; senza vento arrivano zanzare ★★|
-| **Pericoli** | Passaggi tra mangrovie: serve attenzione alla batimetria all'ingresso |
-| **Affollamento** |Bassa densità, atmosfera tranquilla ★★|
-| **Divieti** |Verificare cartografia ZMEL/interdizioni della baia di Fort-de-France prima di entrare ★★★★|
+| **Ubicación** | Fondo de la bahía de Fort-de-France, canales entre manglares |
+| **Profundidad** | 2–5 m aprox. en los canales |
+| **Tenedero** |Excelente sobre fango ★★|
+| **Vientos/Abrigo** |Marejada prácticamente nula, abrigo total; sin viento llegan los mosquitos ★★|
+| **Peligros** | Pasos entre manglares: atención a la batimetría a la entrada |
+| **Afluencia** |Baja densidad, ambiente tranquilo ★★|
+| **Restricciones** |Verificar cartografía ZMEL/prohibiciones de la bahía de Fort-de-France antes de entrar ★★★★|
 
 <div class="mapframe" data-slug="genipa" data-lat="14.5520" data-lon="-61.0650"></div>
-*Vista mappa Baie de Genipa (coord. indicative) — zoom con i pulsanti +/−; menu in alto a destra per passare a Carta nautica e Segnali nautici · mappa offline*
+*Vista del mapa Baie de Genipa (coords. indicativas) — haz zoom con los botones +/−; menú arriba a la derecha para cambiar a Carta náutica y Señales náuticas · mapa offline*
 
-Ultimo aggiornamento: 22/08/2026
+Última actualización: 22/08/2026

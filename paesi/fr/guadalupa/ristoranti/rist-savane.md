@@ -5,24 +5,24 @@
 | Champ | Détail |
 |---|---|
 | Zone | Deshaies |
-| Cuisine | 🐟 Francese-caraibica |
-| Spécialité | Pesce fresco · colombo |
-| Coût | 💰€€ per persona senza bevande |
-| Emplacement | 🌅 vista mare |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Savane+Deshaies) |
+| Cuisine | 🐟 Franco-caraïbe |
+| Spécialité | Poisson frais · colombo |
+| Coût | 💰€€ par personne hors boissons |
+| Emplacement | 🌅 vue mer |
+| Carte | [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Savane+Deshaies) |
 | Contacts | 0590 91 39 58 · la-savane.com |
 | Évaluations | Google 4,5/5 (568) → ★★★★½ |
-| Horaires | tutti i giorni 11:30–22:30 (serv. 12–14/18–21) |
+| Horaires | tous les jours 11h30–22h30 (service 12h–14h / 18h–21h) |
 
 ## Menu
 
-- Pesce fresco
+- Poisson frais
 - Colombo
 
-**Chef**: ND
+**Chef** : ND
 
 ## Photos
 
-*Photos non ancora disponibili — recuperare al controllo mensile.*
+*Photos non encore disponibles — à récupérer lors du contrôle mensuel.*
 
-**Note**: Bd des Poissonniers · a piedi dall'ancoraggio
+**Notes** : Bd des Poissonniers · à pied du mouillage

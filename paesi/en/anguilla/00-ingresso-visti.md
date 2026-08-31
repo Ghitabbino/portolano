@@ -8,7 +8,7 @@ British Overseas Territory: British-style immigration policy, controls carried o
 
 ## EU Citizens — no visa, 90 days
 
-For tourism, Italians/EU enter without a visa: on arrival a stay of **90 days** is normally stamped. Passport recommended valid for 6 months (standard practice for British Overseas Territories). [ivisitanguilla.com](https://ivisitanguilla.com/entry-requirements/) ★★★★★ · Noonsite ★★★
+For tourism, Italians/EU enter without a visa: on arrival a stay of **90 days** is normally stamped. Passport recommended valid for 6 months (standard practice for British Overseas Territories). [ivisitanguilla.com](https://ivisitanguilla.com/entry-requirements/) ★★★★★ · Cruising sources aggregate ★★★
 
 ## Important note for those arriving by sea
 
@@ -29,7 +29,7 @@ Procedure for extending your stay at the local Immigration office: **DATA MISSIN
 | Cruising permit outside Road Bay | required and EXPENSIVE, even for the tender |
 | Passenger departure tax | US$28 per adult |
 
-Temporary import regime for non-EU boats: **DATA MISSING**. Tariff source: Noonsite ★★★
+Temporary import regime for non-EU boats: **DATA MISSING**. Tariff source: Cruising sources aggregate ★★★
 
 ## Vaccinations
 

@@ -2,43 +2,43 @@
 
 **Last updated: 21/08/2026**
 
-## Marina Bas-du-Fort (Pointe-à-Pitre) — hub tecnico
+## Marina Bas-du-Fort (Pointe-à-Pitre) — Technical Hub
 
-Gestione Compagnie Générale Portuaire (CGP). ★★★★
+Operated by Compagnie Générale Portuaire (CGP). ★★★★
 
 | Service | Detail |
 |---|---|
-| Posti | 1200 (70 visitatori + 40 coffers); profondità 4,5 m |
-| Travelift | **35 t** + gru 2,5 t |
-| Carenaggio | Centro carenaggio + **dock flottante 700 t (45×20 m)**; 6.000 m² zona tecnica |
-| Ashore | Water, elec 110–220–380 V, ghiaccio, wifi, lavanderia, sanitari, pompa acque nere, raccolta oli |
-| Safety & security | Videosorveglianza, guardia notturna in stagione |
-| Fuel dock | 8h–12h / 14h–18h |
-| Contacts | VHF 9 (7h–9h) · +590 590 936 620 · contact@marinaguadeloupe.com · marinaguadeloupe.com |
+| Berths | 1200 (70 visitors + 40 moorings); depth 4.5 m |
+| Travelift | **35 t** + 2.5 t crane |
+| Haul-out | Careening centre + **700 t floating dock (45×20 m)**; 6,000 m² technical area |
+| Ashore | Water, power 110–220–380 V, ice, wifi, laundry, showers/WCs, black-water pump-out, waste-oil collection |
+| Security | CCTV, night guard in season |
+| Fuel dock | 08:00–12:00 / 14:00–18:00 |
+| Contacts | VHF 9 (07:00–09:00) · +590 590 936 620 · contact@marinaguadeloupe.com · marinaguadeloupe.com |
 | Concierge | Guadeloupe Yacht Concierge +590 690 72 88 09 |
 
-Note dai crocieristi: porto ben protetto ma **odore of fogne segnalato** in alcuni periodi; ponti nord chiusi fino a new avviso. ★★★★
+Cruisers' notes: well-sheltered harbour but **sewage smell reported** at times; northern pontoons closed until further notice. ★★★★
 
-## Caraïbes Docks Services (chantier naval)
+## Caraïbes Docks Services (Boatyard)
 
-Carénage, riparazione and manutenzione navale. Tel **+590 690 61 78 25** ·. Recensioni miste sulla pulizia of the strutture; personale non always anglofono. ★★★
+Careening, repair and marine maintenance. Tel **+590 690 61 78 25** ·. Mixed reviews on cleanliness of facilities; staff not always English-speaking. ★★★
 
 ## Jarry (Baie-Mahault)
 
-La maggiore zona industriale/commerciale of the Caraibi (3.500 imprese): fornitori industriali, refrigerazione, elettronica, concessionarie. Qui si trovano pezzi che altrove nelle Piccole Antille mancano. ★★
+The largest industrial/commercial zone in the Caribbean (3,500 businesses): industrial suppliers, refrigeration, electronics, dealerships. This is where you find parts that are unavailable elsewhere in the Lesser Antilles. ★★
 
-## Gas and bombole
+## Gas & Cylinders
 
-Scambio bottiglie standard francesi (butane/propane) a Jarry and nei punti Super U; attenzione at the raccordi. Niente rabbocco. ★★
+Exchange for standard French bottles (butane/propane) at Jarry and at Super U outlets; watch the fittings. No refilling. ★★
 
-## Water dolce
+## Fresh Water
 
-Water dock a Marina Bas-du-Fort (incluso nel posto), Saint-François, Deshaies (pontile municipio), Rivière Sens. ★★
+Water dock at Marina Bas-du-Fort (included with berth), Saint-François, Deshaies (town pontoon), Rivière Sens. ★★
 
-## Note strategiche
+## Strategic Notes
 
-- **Confronto with la Martinica**: for lavori importanti (rigging completo, motoristica pesante, verniciature professionali) molti crocieristi continuano a usare **Le Marin**: travelift 70 t vs 35 t, more artigiani specializzati. La Guadalupa vince for posizione (more a nord verso Antigua/Saint-Martin) and costi leggermente inferiori.
-- **Hivernage**: posti a secco limitati; prenotare with largo anticipo for giugno–novembre; assicurazioni richiedono piano uragano scritto (dock flottante or ashore).
+- **Comparison with Martinique**: for major works (full re-rig, heavy engine work, professional painting) many cruisers still use **Le Marin**: 70 t travelift vs 35 t, more specialist trades. Guadeloupe wins on position (further north towards Antigua/Saint-Martin) and slightly lower costs.
+- **Winter storage**: limited hard-standing; book well ahead for June–November; insurers require a written hurricane plan (floating dock or ashore).
 
-## Hub tecnico
+## Technical Hub
 Last updated: 22/08/2026

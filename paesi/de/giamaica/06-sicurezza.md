@@ -19,7 +19,7 @@
 - US State Department 23/06/2026 Level 2 `Exercise Increased Caution` (C, H) ★★★★★: `Violent crimes such as home invasions, armed robberies, sexual assaults, homicides are common. Sexual assaults occur frequently, including at all-inclusive resorts. Local police often do not respond effectively.` Famiglie attendono 1+ anno per certificati di morte.
 - GOV.UK FCDO 06/05/2026 ★★★★★: nessun sconsiglio formale ai viaggi, ma il ministero britannico segnala **criminalità elevata in e intorno a Kingston e Montego Bay**, con violenza di gang e sparatorie frequenti nelle zone interne urbane. Motivo attacchi su turisti: rapina. Molti hotel sorvegliati ma furti possibili. Nuovo: Melissa 10/2025 — ovest senza elettricità/acqua/sanità, detriti/acqua stagnante rischi sanitari.
 - OSAC/Embassy Kingston ★★★★★: 44 aree off-limits per personale USA (Kingston Arnett/Tivoli Gardens, St Catherine Spanish Town, Montego Bay Flankers/Canterbury).
-- Noonsite 11/03/2026 ★★★: `Jamaica has reputation for being dangerous, however most crime is in city centers. Generally safe for cruisers with normal Caribbean precautions.`
+- Aggregierte Fahrtensegler-Quellen 11/03/2026 ★★★: `Jamaica has reputation for being dangerous, however most crime is in city centers. Generally safe for cruisers with normal Caribbean precautions.`
 
 ## Mappa delle zone — offline
 

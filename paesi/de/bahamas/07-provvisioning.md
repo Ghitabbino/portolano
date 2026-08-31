@@ -1,160 +1,159 @@
-# 07 — Provvisioning
+# 07 — Proviant & Versorgung
 
-**Ultima verifica: 24/08/2026**
+**Letzte Überprüfung: 24/08/2026**
 
-## Livello prezzi generale
+## Allgemeines Preisniveau
 
-Spesa **cara: +20–80% vs USA** per via di importazione + **VAT 10%** (12% su alcuni prodotti/servizi ristorazione). Prodotti locali (pesce fresco, conch) più convenienti; frutta/verdura importata cara e deperibile fuori Nassau. Conveniente **fare cambusa grossa in Florida** e rifornire fresco nei cays. ★★★★
+Einkauf **teuer: +20–80% vs USA** wegen Import + **VAT 10%** (12% auf einige Produkte/Restaurant-Services). Lokale Produkte (frischer Fisch, Conch) günstiger; importiertes Obst/Gemüse teuer und außerhalb Nassaus verderblich. Am besten **Großeinkauf in Florida** und Frischware in den Cays ergänzen. ★★★★
 
-- Buste / sacchetti a pagamento, meglio carrello/trolley pieghevole a bordo.
-- Domenica molti shop chiusi o mezza giornata fuori Nassau — pianificare.
+- Tüten kostenpflichtig, besser faltbaren Trolley an Bord haben.
+- Sonntags viele Läden geschlossen oder halber Tag außerhalb Nassaus — planen.
 
 ---
 
-## Nassau / Paradise Island — Hurricane Hole & Atlantis ⚓ hub principale
+## Nassau / Paradise Island — Hurricane Hole & Atlantis ⚓ Haupt-Hub
 
-Hub dove conviene fare la **spesa grossa**. Taxi indispensabile salvo Sawyer's dentro Hurricane Hole.
+Hub wo sich der **Großeinkauf** lohnt. Taxi unverzichtbar außer Sawyer's in Hurricane Hole.
 
-| Negozio | Ubicazione | Distanza dalla marina | A piedi? | Telefono | Consegna a bordo? | Note | Fonte |
+| Geschäft | Lage | Entfernung zur Marina | Zu Fuß? | Telefon | Lieferung an Bord? | Hinweise | Quelle |
 |---|---|---|---|---|---|---|---|
-| **Solomon's Fresh Market — Harbour Bay** | Harbour Bay Shopping Plaza, East Bay St. | ~6–8 km da Hurricane Hole / ~3 km da Bay Street Marina | ⚠️ taxi/bus | **242-605-5130** (alt. 242-677-7290) · rrolle@amlfoods.com | **Sì — Shop Online + delivery via storebyweb.com**; su richiesta consegna in marina (da confermare importo minimo) | Il più curato: prodotti USA/organic, reparto fresco, panetteria, coffee bar, deli/salad bar. Lun–sab 7–20, dom 7–18. Il più caro ma migliore qualità | AML Foods ★★★★ · Facebook ★★★★ |
-| **Solomon's Fresh Market — Old Fort Bay** | Old Fort Bay Town Centre, West Nassau | ~12 km da Hurricane Hole | ⚠️ taxi | **242-677-7280** | **Sì — Shop Online** | Stessa catena, grande, più nuova; comoda per barche a ovest (Lyford Cay) | AML Foods ★★★★ |
-| **Sawyer's Fresh Market — Hurricane Hole** | **Dentro Hurricane Hole Marina, Paradise Island** | **0 m** | ✅ sì | **DATO MANCANTE** (chiedere in capitaineria Hurricane Hole VHF 11) | **Sì — a piedi in marina** | Comodissimo per chi è in marina — assortimento medio, pane fresco; prezzi +20% vs Solomon's | Cruisers ★★★★ |
-| **Super Value** | **13 stores in New Providence** (Winton, Cable Beach, Prince Charles, Mackey St. ecc.) | Vari — 2–10 km secondo marina | ⚠️ taxi/bus per la maggioranza; Winton ~15 min taxi da Paradise | **DATO MANCANTE** — centrale Super Value 242-356-1800 da verificare | **DATO MANCANTE** | Catena bahamense più diffusa, prezzi medi, buona copertura; meno curata di Solomon's | ★★★★ |
-| **Cost Right — Wholesale** | Town Road / vicino Solomon's Old Fort | ~10 km da Paradise | ⚠️ taxi | **DATO MANCANTE** | **No** (cash&carry) | Warehouse / cash&carry — confezioni grandi, prezzi migliori per scorte lunghe | ★★★ |
-| **700 Wines & Spirits** | Nassau + cays (Bay St., Harbour Bay) | Taxi / a piedi Bay St. | ✅/⚠️ | **DATO MANCANTE** | **No** | Catena liquori — birra Kalik, rum, vino | ★★★ |
-| **Island Purveyors** | Nassau (industriale) | Taxi | ⚠️ | **DATO MANCANTE** | **Sì su ordinazione yacht grandi** | Ingrosso ristoranti — ordini pallet, carne premium | ★★ |
+| **Solomon's Fresh Market — Harbour Bay** | Harbour Bay Shopping Plaza, East Bay St. | ~6–8 km von Hurricane Hole / ~3 km von Bay Street Marina | ⚠️ Taxi/Bus | **242-605-5130** (alt. 242-677-7290) · rrolle@amlfoods.com | **Ja — Shop Online + Lieferung via storebyweb.com**; auf Anfrage Lieferung in Marina (Mindestbetrag bestätigen) | Am gepflegtesten: USA/Bio-Produkte, Frischetheke, Bäckerei, Coffee Bar, Deli/Salad Bar. Mo–Sa 7–20, So 7–18. Teuerste aber beste Qualität | AML Foods ★★★★ · Facebook ★★★★ |
+| **Solomon's Fresh Market — Old Fort Bay** | Old Fort Bay Town Centre, West Nassau | ~12 km von Hurricane Hole | ⚠️ Taxi | **242-677-7280** | **Ja — Shop Online** | Gleiche Kette, groß, neuer; praktisch für Boote im Westen (Lyford Cay) | AML Foods ★★★★ |
+| **Sawyer's Fresh Market — Hurricane Hole** | **In Hurricane Hole Marina, Paradise Island** | **0 m** | ✅ ja | **DATEN FEHLEN** (in Hafenbüro Hurricane Hole VHF 11 fragen) | **Ja — zu Fuß in Marina** | Super praktisch für Lieger in Marina — mittleres Sortiment, frisches Brot; Preise +20% vs Solomon's | Cruiser ★★★★ |
+| **Super Value** | **13 Filialen in New Providence** (Winton, Cable Beach, Prince Charles, Mackey St. usw.) | Verschieden — 2–10 km je nach Marina | ⚠️ Taxi/Bus für die meisten; Winton ~15 Min Taxi von Paradise | **DATEN FEHLEN** — Zentrale Super Value 242-356-1800 zu prüfen | **DATEN FEHLEN** | Am weitesten verbreitete bahamaische Kette, mittlere Preise, gute Abdeckung; weniger gepflegt als Solomon's | ★★★★ |
+| **Cost Right — Wholesale** | Town Road / nahe Solomon's Old Fort | ~10 km von Paradise | ⚠️ Taxi | **DATEN FEHLEN** | **Nein** (Cash&Carry) | Lager / Cash&Carry — Großpackungen, bessere Preise für Langvorrat | ★★★ |
+| **700 Wines & Spirits** | Nassau + Cays (Bay St., Harbour Bay) | Taxi / zu Fuß Bay St. | ✅/⚠️ | **DATEN FEHLEN** | **Nein** | Spirituosenkette — Kalik Bier, Rum, Wein | ★★★ |
+| **Island Purveyors** | Nassau (Gewerbe) | Taxi | ⚠️ | **DATEN FEHLEN** | **Ja auf Bestellung große Yachten** | Großhandel Gastronomie — Palettenbestellungen, Premium-Fleisch | ★★ |
 
-### Trasporti — Nassau / Paradise Island
+### Transport — Nassau / Paradise Island
 
 **Taxi:**
-- Centrale / dispatch Nassau: **242-323-3030 / 242-325-3333** — tariffa **non tassametrata, concordare prima**. Corsa breve Bay Street–Paradise **$15–25**, aeroporto–centro/downtown **$30–35** + supplemento bagagli ($2/collo) ★★★. Da Hurricane Hole/Atlantis a Harbour Bay Solomon's **$18–28 A/R** stimato. Chiedere prezzo chiuso andata/ritorno con attesa (30 min spesa) ★★.
-- App: nessuna Uber ufficiale; taxi hotel/marina chiamano sul momento (5–10 min attesa).
+- Zentrale / Dispatch Nassau: **242-323-3030 / 242-325-3333** — Tarif **nicht taxameterpflichtig, vorher vereinbaren**. Kurzfahrt Bay Street–Paradise **$15–25**, Flughafen–Zentrum/Downtown **$30–35** + Gepäckzuschlag ($2/Stück) ★★★. Von Hurricane Hole/Atlantis nach Harbour Bay Solomon's **$18–28 Hin/Rück** geschätzt. Festpreis Hin/Rück mit Wartezeit (30 Min Einkauf) fragen ★★.
+- App: kein offizielles Uber; Hotel/Marina-Taxis rufen vor Ort (5–10 Min Wartezeit).
 
-**Jitney (bus locale):**
-- Solo New Providence. Rete pubblica **#1, #8, #10, #10A** passano per East Bay / Bay Street / Harbour Bay. Fermata **a richiesta su Bay Street / East Bay Street** (palo giallo/segnaletica minima) ★★. Frequenza **ogni 10–20 min** lun–sab 6:30–19, domenica ridotta (6:30–18, ogni 20–30 min) ★★. Biglietto **$1,25–1,50 / corsa** cash a bordo, nessun abbonamento turistico ★★★. Non serve per carichi pesanti; scomodo con casse d'acqua. Fonte: 02-costi ★★★ + reports locali.
+**Jitney (Lokalbus):**
+- Nur New Providence. Öffentliches Netz **#1, #8, #10, #10A** fährt über East Bay / Bay Street / Harbour Bay. Halt **auf Zuruf an Bay Street / East Bay Street** (minimaler gelber Pfosten/Beschilderung) ★★. Takt **alle 10–20 Min** Mo–Sa 6:30–19, Sonntag reduziert (6:30–18, alle 20–30 Min) ★★. Fahrpreis **$1,25–1,50 / Fahrt** bar an Bord, kein Touristen-Abo ★★★. Nicht für schwere Lasten; unpraktisch mit Wasserkisten. Quelle: 02-Kosten ★★★ + lokale Reports.
 
-**Traghetto (per rifornirsi e spostare equipaggio):**
-- **Bahamas Ferries** da **Potter's Cay Dock (Western End), Nassau** — tel **242-323-2166 ext. 250** / reservations@bahamasferries.com — collega **Harbour Island, Eleuthera (Governor's Harbour, Rock Sound), Marsh Harbour (Abaco), Exuma**. Ufficio famiglia isole: Freeport 242-807-8018, Exuma 242-808-0658, Marsh Harbour 242-808-0581 ★★★★. Utile se l'equipaggio vuole fare spesa a Nassau e rientrare ai cays via ferry con colli (ma limite bagaglio). Costo tratta **DATO MANCANTE** — prenotare su booking.bahamasferries.com.
-- **Fast Ferry / mail boat** per Exumas del nord (Highbourne→ Nassau) irregolare — **DATO MANCANTE**, chiedere in marina.
+**Fähre (zum Versorgen und Crew bewegen):**
+- **Bahamas Ferries** ab **Potter's Cay Dock (Western End), Nassau** — Tel. **242-323-2166 ext. 250** / reservations@bahamasferries.com — verbindet **Harbour Island, Eleuthera (Governor's Harbour, Rock Sound), Marsh Harbour (Abaco), Exuma**. Insel-Familienbüros: Freeport 242-807-8018, Exuma 242-808-0658, Marsh Harbour 242-808-0581 ★★★★. Nützlich wenn Crew in Nassau einkaufen und mit Gepäck via Fähre zu den Cays zurück will (aber Gepäcklimit). Fahrpreis **DATEN FEHLEN** — buchen auf booking.bahamasferries.com.
+- **Fast Ferry / Mail Boat** für nördliche Exumas (Highbourne→ Nassau) unregelmäßig — **DATEN FEHLEN**, in Marina fragen.
 
 ### Fish Market — Nassau
 
-| Negozio | Ubicazione | Distanza | A piedi? | Telefono | Consegna? | Note | Fonte |
+| Geschäft | Lage | Entfernung | Zu Fuß? | Telefon | Lieferung? | Hinweise | Quelle |
 |---|---|---|---|---|---|---|---|
-| **Potter's Cay Fish Market** | Sotto Paradise Island Bridge, Nassau | ~1 km da Nassau Yacht Haven / Bay Street Marina; 3 km da Hurricane Hole | ✅ da Bay Street Marina / ⚠️ taxi da Paradise | **DATO MANCANTE** (banchi singoli) | **No** | **Conch fresco, grouper, snapper, aragosta (stagione 1 ago–31 mar)** — banchi pescatori, prezzi locali, contanti USD/BSD. Mattino presto migliore scelta | ★★★★★ |
-| **Montagu Fish Ramp** | East Nassau, Montagu Bay | Taxi | ⚠️ | **DATO MANCANTE** | No | Alternativa est | ★★ |
+| **Potter's Cay Fish Market** | Unter Paradise Island Bridge, Nassau | ~1 km von Nassau Yacht Haven / Bay Street Marina; 3 km von Hurricane Hole | ✅ von Bay Street Marina / ⚠️ Taxi von Paradise | **DATEN FEHLEN** (einzelne Stände) | **Nein** | **Frischer Conch, Grouper, Snapper, Hummer (Saison 1. Aug–31. Mär)** — Fischerstände, lokale Preise, Bar USD/BSD. Früh morgens beste Auswahl | ★★★★★ |
+| **Montagu Fish Ramp** | East Nassau, Montagu Bay | Taxi | ⚠️ | **DATEN FEHLEN** | Nein | Alternative Ost | ★★ |
 
 ---
 
 ## Grand Bahama — Freeport / Lucayan / West End
 
-| Negozio | Ubicazione | Distanza dalla marina | A piedi? | Telefono | Consegna a bordo? | Note | Fonte |
+| Geschäft | Lage | Entfernung zur Marina | Zu Fuß? | Telefon | Lieferung an Bord? | Hinweise | Quelle |
 |---|---|---|---|---|---|---|---|
-| **Solomon's Fresh Market — Freeport** | Freeport (Lucaya area) | ~5 min taxi da Grand Bahama Yacht Club | ⚠️ taxi | **DATO MANCANTE** (verificare AML Foods Freeport) | **DATO MANCANTE** | Replica formula Nassau — buon fresco, panetteria | ★★★★ |
-| **Super Value — Freeport** | Diversi in città | Taxi | ⚠️ | **DATO MANCANTE** | DATO MANCANTE | Catena economica locale | ★★★ |
-| **Cost Right — Freeport** | Freeport | Taxi | ⚠️ | **DATO MANCANTE** | No | Wholesale | ★★ |
+| **Solomon's Fresh Market — Freeport** | Freeport (Lucaya-Gegend) | ~5 Min Taxi von Grand Bahama Yacht Club | ⚠️ Taxi | **DATEN FEHLEN** (AML Foods Freeport prüfen) | **DATEN FEHLEN** | Gleiche Formel wie Nassau — gute Frischware, Bäckerei | ★★★★ |
+| **Super Value — Freeport** | Mehrere in Stadt | Taxi | ⚠️ | **DATEN FEHLEN** | DATEN FEHLEN | Lokale Budgetkette | ★★★ |
+| **Cost Right — Freeport** | Freeport | Taxi | ⚠️ | **DATEN FEHLEN** | Nein | Wholesale | ★★ |
 
-**Taxi Freeport:** tariffa breve **$15–20**, aeroporto Freeport–Lucayan **$25–30** ★★ — chiedere in marina; dispatch locale 242-352-7101 / 242-352-6666 da verificare (**DATO MANCANTE** verificato al 24/08).
+**Taxi Freeport:** Kurzstrecke **$15–20**, Flughafen Freeport–Lucayan **$25–30** ★★ — in Marina fragen; lokaler Dispatch 242-352-7101 / 242-352-6666 zu prüfen (**DATEN FEHLEN** verifiziert am 24.08.).
 
-**Jitney Freeport:** servizio limitato, **non affidabile per provisioning** — meglio taxi. **DATO MANCANTE** su linee/orari.
+**Jitney Freeport:** begrenzter Service, **nicht zuverlässig für Versorgung** — besser Taxi. **DATEN FEHLEN** zu Linien/Fahrplänen.
 
-**Traghetto:** Bahamas Ferries Potter's Cay ↔ Freeport — tel sopra 242-323-2166. Grand Bahama è anche collegata via ferry catamarano da Florida (Baleària) — non utile per spesa locale.
+**Fähre:** Bahamas Ferries Potter's Cay ↔ Freeport — Tel. oben 242-323-2166. Grand Bahama auch via Katamaran-Fähre ab Florida (Baleària) verbunden — nicht nützlich für lokalen Einkauf.
 
 ---
 
-## Abacos — Marsh Harbour (hub) & Cays
+## Abacos — Marsh Harbour (Hub) & Cays
 
-| Negozio | Ubicazione | Distanza dalla marina | A piedi? | Telefono | Consegna a bordo? | Note | Fonte |
+| Geschäft | Lage | Entfernung zur Marina | Zu Fuß? | Telefon | Lieferung an Bord? | Hinweise | Quelle |
 |---|---|---|---|---|---|---|---|
-| **Maxwell's Supermarket — Marsh Harbour** | Marsh Harbour, Great Abaco — strada principale vicino Boat Harbour / Abaco Beach Resort | ~400–800 m da Abaco Beach Resort & Boat Harbour Marina | ✅ sì (5–10 min) | **242-367-2648** *(numero storico da directory, da verificare)* / **DATO MANCANTE aggiornato** | **Sì — su richiesta per yacht con golf-cart/delivery locale** (confermare al banco) | Il più grande degli Abacos — simile a supermarket USA, buon rifornimento per tutta la catena Abacos. Orari lun–sab 7–19, dom mezza giornata | Cruisers ★★★★ |
-| **Green Turtle Cay — shops** | Green Turtle Cay (New Plymouth) | Dinghy dock + 5 min piedi | ✅ sì | **DATO MANCANTE** | No | Minimarket locali — caro e limitato, solo emergenza | ★★ |
-| **Spanish Wells — Pinder's Supermarket** | Spanish Wells, Eleuthera nord (transito Abacos→ Exumas) | Dinghy dock vicino | ✅ sì | **242-333-4000 ca.** (**DATO MANCANTE** verificato) | **Sì — consegna al dinghy dock su chiamata** | Ben fornito per standard Out Islands — rifornimento strategico prima degli Exumas del nord | ★★★★ |
+| **Maxwell's Supermarket — Marsh Harbour** | Marsh Harbour, Great Abaco — Hauptstraße nahe Boat Harbour / Abaco Beach Resort | ~400–800 m von Abaco Beach Resort & Boat Harbour Marina | ✅ ja (5–10 Min) | **242-367-2648** *(historische Verzeichnisnummer, zu prüfen)* / **DATEN FEHLEN aktualisiert** | **Ja — auf Anfrage für Yachten mit Golf-Cart/lokaler Lieferung** (an Theke bestätigen) | Größter in den Abacos — ähnlich US-Supermarkt, gute Nachversorgung für gesamte Abacos-Kette. Zeiten Mo–Sa 7–19, So halber Tag | Cruiser ★★★★ |
+| **Green Turtle Cay — Shops** | Green Turtle Cay (New Plymouth) | Dinghy-Dock + 5 Min Fuß | ✅ ja | **DATEN FEHLEN** | Nein | Lokale Minimarkets — teuer und begrenzt, nur Notfall | ★★ |
+| **Spanish Wells — Pinder's Supermarket** | Spanish Wells, Nord-Eleuthera (Transit Abacos→ Exumas) | Dinghy-Dock nah | ✅ ja | **242-333-4000 ca.** (**DATEN FEHLEN** verifiziert) | **Ja — Lieferung zum Dinghy-Dock auf Anruf** | Gut sortiert für Out-Islands-Standard — strategische Versorgung vor nördlichen Exumas | ★★★★ |
 
-**Taxi Abacos:** pochi taxi, si usa **golf-cart taxi** ($10–15 corsa in Marsh Harbour) o auto noleggio; chiedere in marina Boat Harbour ★★.
+**Taxi Abacos:** wenige Taxis, man nutzt **Golf-Cart-Taxi** ($10–15 Fahrt in Marsh Harbour) oder Mietwagen; in Boat Harbour Marina fragen ★★.
 
-**Traghetto:** Bahamas Ferries Nassau ↔ Marsh Harbour (Abaco) — vedi sopra Potter's Cay tel 242-323-2166.
+**Fähre:** Bahamas Ferries Nassau ↔ Marsh Harbour (Abaco) — siehe oben Potter's Cay Tel. 242-323-2166.
 
 ---
 
-## Eleuthera & Spanish Wells (tappa intermedia)
+## Eleuthera & Spanish Wells (Zwischenstopp)
 
-| Negozio | Ubicazione | Distanza | A piedi? | Telefono | Consegna? | Note |
+| Geschäft | Lage | Entfernung | Zu Fuß? | Telefon | Lieferung? | Hinweise |
 |---|---|---|---|---|---|---|
-| **Pinder's Supermarket — Spanish Wells** | Spanish Wells waterfront | <300 m dal dock | ✅ sì | 242-333-4000 / **DATO MANCANTE** | Sì al dock | Vedi sopra — eccellente prima degli Exumas |
-| **The Market — Rock Sound** | Rock Sound, Eleuthera sud | Taxi/bus | ⚠️ | **DATO MANCANTE** | DATO MANCANTE | Alternativa sud Eleuthera |
+| **Pinder's Supermarket — Spanish Wells** | Spanish Wells Waterfront | <300 m vom Dock | ✅ ja | 242-333-4000 / **DATEN FEHLEN** | Ja zum Dock | Siehe oben — exzellent vor nördlichen Exumas |
+| **The Market — Rock Sound** | Rock Sound, Süd-Eleuthera | Taxi/Bus | ⚠️ | **DATEN FEHLEN** | DATEN FEHLEN | Alternative Süd-Eleuthera |
 
 ---
 
-## Exumas — Georgetown (Great Exuma) ⚓ capitale rifornimento sud
+## Exumas — Georgetown (Great Exuma) ⚓ Versorgungs-Hauptstadt Süden
 
-| Negozio | Ubicazione | Distanza dalla marina | A piedi? | Telefono | Consegna a bordo? | Note | Fonte |
+| Geschäft | Lage | Entfernung zur Marina | Zu Fuß? | Telefon | Lieferung an Bord? | Hinweise | Quelle |
 |---|---|---|---|---|---|---|---|
-| **Exuma Markets — George Town** | **George Town, Queen's Highway vicino dinghy dock** | ~200–400 m dal dinghy dock / 1 km da Exuma Yacht Club | ✅ sì | **242-336-2658 / 242-336-2401** *(storico da directory, da verificare 24/08)* | **Sì — delivery a bordo su richiesta (golf-cart)** | Il supermercato più grande a sud di Nassau — rifornimento principale Exumas centrale/sud. **Acqua RO** disponibile al dock vicino. Prezzi +30–50% vs Nassau | ★★★★ |
-| **Shop di Georgetown (altri minimarket)** | Georgetown centro | <500 m | ✅ | **DATO MANCANTE** | No | Carne/surgelati limitati, pane fresco al mattino | ★★ |
+| **Exuma Markets — George Town** | **George Town, Queen's Highway nahe Dinghy-Dock** | ~200–400 m vom Dinghy-Dock / 1 km von Exuma Yacht Club | ✅ ja | **242-336-2658 / 242-336-2401** *(historisches Verzeichnis, zu prüfen 24.08.)* | **Ja — Lieferung an Bord auf Anfrage (Golf-Cart)** | Größter Supermarkt südlich von Nassau — Hauptversorgung zentrale/südliche Exumas. **RO-Wasser** am nahen Dock verfügbar. Preise +30–50% vs Nassau | ★★★★ |
+| **Andere Georgetown Shops (weitere Minimarkets)** | Zentrum Georgetown | <500 m | ✅ | **DATEN FEHLEN** | Nein | Begrenzt Fleisch/Tiefkühl, morgens frisches Brot | ★★ |
 
-**Taxi Georgetown:** taxi locali su chiamata **242-357-0169 / VHF 16** (da verificare) — corsa centro–marina **$15–20** ★★. Golf-cart più usato.
+**Taxi Georgetown:** lokale Taxis auf Abruf **242-357-0169 / VHF 16** (zu prüfen) — Fahrt Zentrum–Marina **$15–20** ★★. Golf-Cart häufiger.
 
-**Traghetto:** Bahamas Ferries **Nassau (Potter's Cay) ↔ George Town (Exuma)** — tel 242-808-0658 (ufficio Exuma) — 2–3 corse/settimana, prenotare. Costa **DATO MANCANTE**.
+**Fähre:** Bahamas Ferries **Nassau (Potter's Cay) ↔ George Town (Exuma)** — Tel. 242-808-0658 (Büro Exuma) — 2–3 Fahrten/Woche, buchen. Kosten **DATEN FEHLEN**.
 
-**Jitney Georgetown:** nessun jitney — solo taxi/golf-cart.
+**Jitney Georgetown:** kein Jitney — nur Taxi/Golf-Cart.
 
 ---
 
-## Exumas centrale — Staniel Cay
+## Zentrale Exumas — Staniel Cay
 
-| Negozio | Ubicazione | Distanza | A piedi? | Telefono | Consegna? | Note | Fonte |
+| Geschäft | Lage | Entfernung | Zu Fuß? | Telefon | Lieferung? | Hinweise | Quelle |
 |---|---|---|---|---|---|---|---|
-| **Staniel Cay — shop vicino Staniel Cay Yacht Club** | Staniel Cay, adiacente SCYC | ~100 m dalla marina | ✅ sì | **242-355-2024 (SCYC) — shop DATO MANCANTE** | **Sì — via Yacht Club** | Piccolo shop + Yacht Club provisions — caro, essenziale (pane, lattine, snack, birra Kalik, ghiaccio). Rifornimento vero solo a Georgetown o Nassau | SCYC ★★★ |
-| **Isles General Store — Staniel Cay** | Villaggio | 5 min piedi | ✅ | **DATO MANCANTE** | No | Minimarket villaggio, orario ridotto domenica | ★★ |
+| **Staniel Cay — Shop nahe Staniel Cay Yacht Club** | Staniel Cay, angrenzend SCYC | ~100 m von Marina | ✅ ja | **242-355-2024 (SCYC) — Shop DATEN FEHLEN** | **Ja — via Yacht Club** | Kleiner Shop + Yacht-Club-Proviant — teuer, einfach (Brot, Dosen, Snacks, Kalik Bier, Eis). Richtige Versorgung nur in Georgetown oder Nassau | SCYC ★★★ |
+| **Isles General Store — Staniel Cay** | Dorf | 5 Min Fuß | ✅ | **DATEN FEHLEN** | Nein | Dorf-Minimarket, Sonntags reduzierte Zeiten | ★★ |
 
-**Taxi:** inesistente — **golf-cart** del SCYC.
+**Taxi:** keines — **Golf-Cart** des SCYC.
 
 ---
 
-## Exumas nord — Highbourne Cay
+## Nördliche Exumas — Highbourne Cay
 
-| Negozio | Ubicazione | Distanza | A piedi? | Telefono | Consegna? | Note | Fonte |
+| Geschäft | Lage | Entfernung | Zu Fuß? | Telefon | Lieferung? | Hinweise | Quelle |
 |---|---|---|---|---|---|---|---|
-| **Highbourne Cay Marina Shop** | Highbourne Cay Marina, edificio capitaineria | **0 m** | ✅ sì | **242-355-1009 (marina)** | **Sì — in banchina** | Minimarket resort — caro, assortimento limitato (pane, latte UHT, lattine, snack, ghiaccio, qualche verdura). **Acqua RO cara** — fare pieno a Nassau/Georgetown se possibile | Marina ★★★ |
+| **Highbourne Cay Marina Shop** | Highbourne Cay Marina, Hafenmeistergebäude | **0 m** | ✅ ja | **242-355-1009 (Marina)** | **Ja — an der Pier** | Resort-Minimarket — teuer, begrenztes Sortiment (Brot, H-Milch, Dosen, Snacks, Eis, etwas Gemüse). **RO-Wasser teuer** — wenn möglich in Nassau/Georgetown bunkern | Marina ★★★ |
 
-**Taxi/traghetto:** nessuno — isola privata resort; accesso solo via barca. Ferry privato resort su prenotazione **DATO MANCANTE**.
+**Taxi/Fähre:** keine — private Resort-Insel; Zugang nur per Boot. Private Resort-Fähre auf Buchung **DATEN FEHLEN**.
 
-**Nota Highbourne→ Nassau:** 35 M — molti equipaggi tornano a Nassau per cambusa grossa e rientro.
+**Hinweis Highbourne→ Nassau:** 35 SM — viele Crews kehren für Großeinkauf nach Nassau zurück.
 
 ---
 
-## Acqua e carburante (riepilogo operativo)
+## Wasser & Kraftstoff (Betriebsübersicht)
 
-| Servizio | Dove | Prezzo / Orario | Note |
+| Service | Wo | Preis / Zeiten | Hinweise |
 |---|---|---|---|
-| **Acqua RO in banchina** | Tutte le marine Nassau (Hurricane Hole, Atlantis, Bay St.) + Highbourne/Staniel/Georgetown | **$0,10–0,25 / gal** a Nassau/Georgetown; **$0,40–0,50 / gal** a Highbourne/Staniel (più cara) | Fare pieno dove costa meno (Nassau/George Town) ★★★★ |
-| **Fuel dock** | Hurricane Hole 7:30–17:30 + tutte le marine in [03](03-porti-ancoraggi.md) | Diesel **$6,50–8,50 / gal** (media nazionale $6,38 / gal GlobalPetrol) | Vedi [02 Costi](02-costi.md) |
-| **Gas / GPL** | Bombole USA — scambio/ricarica a Nassau/Freeport | Adattatori EU↔USA necessari | Solo scambio, niente rabbocco europeo → [04 Servizi](04-servizi-cantieri.md) ★★ |
+| **RO-Wasser an der Pier** | Alle Nassau-Marinas (Hurricane Hole, Atlantis, Bay St.) + Highbourne/Staniel/Georgetown | **$0,10–0,25 / gal** in Nassau/Georgetown; **$0,40–0,50 / gal** in Highbourne/Staniel (teurer) | Füllen wo günstiger (Nassau/George Town) ★★★★ |
+| **Tankstelle** | Hurricane Hole 7:30–17:30 + alle Marinas in [03](03-porti-ancoraggi.md) | Diesel **$6,50–8,50 / gal** (nationaler Schnitt $6,38 / gal GlobalPetrol) | Siehe [02 Kosten](02-costi.md) |
+| **Gas / LPG** | US-Flaschen — Tausch/Nachfüllen in Nassau/Freeport | EU↔USA Adapter nötig | Nur Tausch, keine europäische Füllung → [04 Services](04-servizi-cantieri.md) ★★ |
 
 ---
 
-## Mercati locali
+## Lokale Märkte
 
-- **Potter's Cay (Nassau)**: pesce fresco quotidiano — il migliore per conch/grouper. Arrivo consigliato 7–9 am. ★★★★★
-- **Mercati frutta/verdura**: piccoli banchi a Nassau (Fox Hill, Arawak Cay), Marsh Harbour, George Town — prodotti locali stagionali (mango, papaya, banana, lime). ★★
-- **Pesca diretta**: chiedere a pescatori al Fish Dock Georgetown o Staniel — conch pulito al momento, aragosta (stagione).
+- **Potter's Cay (Nassau)**: täglich frischer Fisch — bester für Conch/Grouper. Ankunft empfohlen 7–9 Uhr. ★★★★★
+- **Obst-/Gemüsemärkte**: kleine Stände in Nassau (Fox Hill, Arawak Cay), Marsh Harbour, George Town — lokale Saisonprodukte (Mango, Papaya, Banane, Limette). ★★
+- **Direktfisch**: Fischer am Fish Dock Georgetown oder Staniel fragen — Conch frisch geputzt, Hummer (in Saison).
 
 ---
 
-## Consigli pratici (standard Martinica)
+## Praktische Tipps (Martinique-Standard)
 
-- **Cambusa strategica**: grosso in **Florida o Nassau (Solomon's/Super Value/Cost Right Harbour Bay)**, fresco a **Potter's Cay** e nei cays (Pinder's, Maxwell's, Exuma Markets). Evitare di partire sottoprovvisti per gli Exumas centrali. ★★★★
-- **Taxi vs Jitney**: con carichi pesanti **sempre taxi concordato**; jitney solo per ricognizione leggera a Nassau. Tenere **contanti USD piccoli tagli** ($1, $5) per jitney e mercati.
-- **Acqua**: portare **taniche extra 20–40 L** per gli Exumas centrali — tra Highbourne e George Town i punti acqua sono radi e cari.
-- **Consegna a bordo**: Solomon's Harbour Bay/Old Fort e Exuma Markets offrono delivery — ordinare **24h prima via telefono/shop online** e farsi consegnare in marina (verificare orario e minimo). Sawyer's dentro Hurricane Hole è già a bordo — niente delivery necessario.
-- **Contanti**: nei cays remoti molti shop prendono solo **cash USD/BSD** — tenere piccoli tagli; carte Visa/Mastercard ok a Nassau/Atlantis/Marsh Harbour/Georgetown ★★★.
-- **Orari**: domenica molti shop chiusi o mezza giornata fuori Nassau — pianificare; Solomon's Harbour Bay domenica 7–18, Old Fort 7–20.
-- **Carrello**: trolley pieghevole indispensabile da Bay Street Marina a Potter's Cay e da Boat Harbour a Maxwell's.
+- **Strategischer Proviant**: Groß in **Florida oder Nassau (Solomon's/Super Value/Cost Right Harbour Bay)**, Frischware bei **Potter's Cay** und Cays (Pinder's, Maxwell's, Exuma Markets). Nicht unterversorgt in die zentralen Exumas losfahren. ★★★★
+- **Taxi vs Jitney**: mit schwerer Last **immer vereinbartes Taxi**; Jitney nur für leichte Erkundung in Nassau. **Kleine USD-Scheine** ($1, $5) für Jitney und Märkte bereithalten.
+- **Wasser**: **Extra-Kanister 20–40 L** für zentrale Exumas mitnehmen — zwischen Highbourne und George Town sind Wasserstellen rar und teuer.
+- **Lieferung an Bord**: Solomon's Harbour Bay/Old Fort und Exuma Markets bieten Lieferung — **24h vorher per Telefon/Online-Shop** bestellen und in Marina liefern lassen (Zeit und Minimum prüfen). Sawyer's in Hurricane Hole ist bereits an Bord — keine Lieferung nötig.
+- **Bargeld**: in entlegenen Cays nehmen viele Läden nur **Bar USD/BSD** — kleine Scheine bereithalten; Visa/Mastercard ok in Nassau/Atlantis/Marsh Harbour/Georgetown ★★★.
+- **Zeiten**: Sonntags viele Läden geschlossen oder halber Tag außerhalb Nassaus — planen; Solomon's Harbour Bay So 7–18, Old Fort 7–20.
+- **Trolley**: faltbarer Trolley unverzichtbar von Bay Street Marina nach Potter's Cay und von Boat Harbour zu Maxwell's.
 
-Ultimo aggiornamento: 24/08/2026 — Tel verificati: Solomon's via AML Foods/Facebook; altri numeri da directory storiche **da riconfermare in loco VHF 16**. “DATO MANCANTE” = ricercato al controllo mensile.
+Letzte Aktualisierung: 24/08/2026 — Telefone verifiziert: Solomon's via AML Foods/Facebook; andere Nummern aus historischen Verzeichnissen **vor Ort über VHF 16 zu bestätigen**. "DATEN FEHLEN" = beim monatlichen Check recherchiert.
 
-## Supermercati
+## Supermärkte
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
+**DATEN FEHLEN** — beim monatlichen Check zu vervollständigen.

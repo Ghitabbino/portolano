@@ -1,31 +1,33 @@
 # KokOaRum Bar
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Alle Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Feld | Detail |
 |---|---|
-| Zona | Marina du Marin |
-| Cucina | 🥩 Grill e burger caraibico |
-| Specialità | Burger garnis · colombo de poisson |
-| Costo | 💰€€ per persona senza bevande |
-| Location | ⚓ marina, musica live |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=KokOaRum+Bar+Marina+du+Marin) |
-| Contatti | 0596 48 02 21 |
-| Valutazioni | Google 4,0/5 (747) · TA 3,5/5 (281) → ★★★½ |
-| Orari | serale · happy hour 17–19 · concerti mer e ven |
+| Zone | Marina du Marin |
+| Küche | 🥩 Grill & karibische Burger |
+| Spezialität | Burger garnis · colombo de poisson |
+| Preis | 💰€€ pro Person ohne Getränke |
+| Lage | ⚓ Marina, Live-Musik |
+| Karte | [Google Maps](https://www.google.com/maps/search/?api=1&query=KokOaRum+Bar+Marina+du+Marin) |
+| Kontakt | 0596 48 02 21 |
+| Bewertungen | Google 4,0/5 (747) · TA 3,5/5 (281) → ★★★½ |
+| Öffnungszeiten | serale · happy hour 17–19 · concerti Mi e Fr |
 
-## Menu
+## Speisekarte
 
 - Burger garnis 15–20 €
 - Colombo de poisson
 - Cocktail signature 10–12 €
 
-**Chef**: ND (gestori: F. Chanelière e Valérie)
+**Küchenchef**: ND (gestori: F. Chanelière e Valérie)
 
-## Foto
+## Fotos
 
 ![KokOaRum Bar](img/martinica/rist-kokoarum.jpg)
 
-*Fonte: bellemartinique.com*
+*Quelle: bellemartinique.com*
 
-**Note**: Sui pontili della marina · gestione Frédéric Chanelière e Valérie dal 2017
+**Hinweise**: An den Stegen der Marina · geführt von Frédéric Chanelière und Valérie seit 2017
+
+Letzte Aktualisierung: 22/08/2026

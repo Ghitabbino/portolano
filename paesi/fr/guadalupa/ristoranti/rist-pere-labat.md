@@ -5,25 +5,25 @@
 | Champ | Détail |
 |---|---|
 | Zone | Grand-Bourg |
-| Cuisine | 🐟 Antillana-francese |
-| Spécialité | Lambi · dolci al rum |
-| Coût | 💰€€ per persona senza bevande |
-| Emplacement | 🪶 tradizionale |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Table+du+Père+Labat+Grand-Bourg) |
-| Contacts | [Mappa](https://www.google.com/maps/search/?api=1&query=Pere+Labat+Grand-Bourg+Marie-Galante) |
-| Évaluations | Google positive → ★★★★ |
-| Horaires | orari legati ai traghetti ⚠️ |
+| Cuisine | 🐟 Antillaise-française |
+| Spécialité | Lambi · desserts au rhum |
+| Coût | 💰€€ par personne hors boissons |
+| Emplacement | 🪶 traditionnel |
+| Carte | [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Table+du+Père+Labat+Grand-Bourg) |
+| Contacts | [Carte](https://www.google.com/maps/search/?api=1&query=Pere+Labat+Grand-Bourg+Marie-Galante) |
+| Évaluations | Google — avis positifs → ★★★★ |
+| Horaires | horaires liés aux ferries ⚠️ |
 
 ## Menu
 
 - Lambi
 - Boudin
-- Dolci al rum
+- Desserts au rhum
 
-**Chef**: ND
+**Chef** : ND
 
 ## Photos
 
-*Photos non ancora disponibili — recuperare al controllo mensile.*
+*Photos non encore disponibles — à récupérer lors du contrôle mensuel.*
 
-**Note**: Vicino alle distillerie Bielle/Poisson · menu 15–30 €
+**Notes** : Près des distilleries Bielle/Poisson · menu 15–30 €

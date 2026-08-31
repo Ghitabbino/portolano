@@ -3,7 +3,7 @@
 
 | Area | Voto | Motivazione |
 |---|---|---|
-| **Haiti** — sicurezza generale | **0,5/5** | **Estremo: evitare**. Controllo territoriale di gang armate, rapimenti, collasso servizi, colera endemico. Sconsigliato da tutte le fonti governative e da Noonsite ★★★★★ |
+| **Haiti** — sicurezza generale | **0,5/5** | **Estremo: evitare**. Controllo territoriale di gang armate, rapimenti, collasso servizi, colera endemico. Sconsigliato da tutte le fonti governative e da Aggregierte Fahrtensegler-Quellen ★★★★★ |
 | Furti materiali a bordo | **1/5** | Furti opportunistici e violenze possibili anche in rada; nessuna marina sorvegliata operativa |
 
 *Scala: 0 = terribile → 5 = molto sicuro. Valutazione nostra, sintesi delle fonti sotto.*
@@ -12,7 +12,7 @@
 
 ## Quadro generale — Haiti
 
-- **Evitare la navigazione da diporto in acque haitiane** se non per emergenza. Noonsite: **"Haiti — gang, colera, sconsigliato"**; servizi di soccorso e autorità portuali intermittenti. ★★★★
+- **Evitare la navigazione da diporto in acque haitiane** se non per emergenza. Aggregierte Fahrtensegler-Quellen: **"Haiti — gang, colera, sconsigliato"**; servizi di soccorso e autorità portuali intermittenti. ★★★★
 - **Gang armate** controllano ampi quartieri di Port-au-Prince e assi stradali; posti di blocco irregolari, rapimenti mirati a stranieri, collasso servizi pubblici. Copertura polizia limitata fuori dalla capitale. ★★★★★
 - **Colera endemico** e carenze sanitarie; strutture ospedaliere limitate, acqua non potabile senza trattamento. ★★★★
 - In caso di emergenza umanitaria/sicurezza, contattare l'ambasciata del proprio paese accreditata per Haiti (spesso a Santo Domingo). ★★★
@@ -80,7 +80,7 @@
 
 ## Monitoraggio mensile (per agenti)
 
-- Fonti da ricontrollare ogni 30 gg: `travel.state.gov` (advisory Haiti), `gov.uk/foreign-travel-advice/haiti`, `voyage.gc.ca`, `Noonsite`, `CSSN (safetyandsecuritynet.org)`, stampa locale haitiana, gruppi FB cruisers Hispaniola. Aggiornare valutazione 0,5/5 e banner L3 se evento <90 gg con 2 fonti ★★★★★. ★★
+- Fonti da ricontrollare ogni 30 gg: `travel.state.gov` (advisory Haiti), `gov.uk/foreign-travel-advice/haiti`, `voyage.gc.ca`, `Aggregierte Fahrtensegler-Quellen`, `CSSN (safetyandsecuritynet.org)`, stampa locale haitiana, gruppi FB cruisers Hispaniola. Aggiornare valutazione 0,5/5 e banner L3 se evento <90 gg con 2 fonti ★★★★★. ★★
 
 Ultimo aggiornamento: 28/08/2026
 

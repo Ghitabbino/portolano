@@ -27,4 +27,4 @@
 
 Fonti: [Totally Barbados — Lone Star](https://www.totallybarbados.com/place/lone-star-restaurant/) ★★★ · [thelonestar.com](https://www.thelonestar.com) ★★★ · Google/TripAdvisor 28/08/2026 ★★★
 
-Ultimo aggiornamento: 28/08/2026
+Última actualización: 28/08/2026

@@ -1,20 +1,20 @@
-# Carlisle Bay Sud (Needham's Point) {#anc-carlisle-south}
+# Carlisle Bay Süd (Needham's Point) {#anc-carlisle-south}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← Alle Ankerplätze](../08-ancoraggi.md)
 **13°04′12″ N 59°38′02″ W** ★★
 
-| Campo | Dettaglio |
+| Feld | Detail |
 |---|---|
-| **Profondità** |5–10 m sabbia|
-| **Tenuta àncora** |Buon holding; leggero rollio|
-| **Venti/riparo** |Davanti Needham's Point|
-| **Pericoli** |Landing canotto difficile (scogli); luce di settore rossa Fl R 8s su Needham's Point verificato su BA 1042 + satellite|
-| **Boe/divieti/normative** |—|
-| **A terra** |Needham's Point|
+| **Tiefe** |5–10 m Sand|
+| **Halt** |Guter Halt; leichtes Schwojen|
+| **Wind/Schutz** |Vor Needham's Point|
+| **Gefahren** |Dinghy-Anlandung schwierig (Felsen); rotes Sektorfeuer Fl R 8s auf Needham's Point — verifiziert auf BA 1042 + Satellit|
+| **Bojen/Verbote/Vorschriften** |—|
+| **Landgang** |Needham's Point|
 
 <div class="mapframe" data-slug="anc-carlisle-south" data-lat="13.07" data-lon="-59.634"></div>
-*Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
+*Detailkarte — mit ± bis in die Bucht zoomen · Offline-Karte · Koordinaten WGS84 indikativ, stets mit Plotter prüfen*
 
-Fonti: [noforeignland](https://www.noforeignland.com/guides/countries/bb) (26-01-2026) ★3.8 ★★ · BPI Yacht Masters Guide (luce n.5807) ★★★★ · verificato su BA 1042 + satellite
+Quellen: [noforeignland](https://www.noforeignland.com/guides/countries/bb) (26.01.2026) ★3.8 ★★ · BPI Yacht Masters Guide (Feuer Nr. 5807) ★★★★ · verifiziert auf BA 1042 + Satellit
 
-Ultimo aggiornamento: 25/08/2026
+Letzte Aktualisierung: 25/08/2026

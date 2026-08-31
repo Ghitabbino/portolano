@@ -26,4 +26,4 @@
 
 Fonti: [barbados.org](https://barbados.org/orestloc.htm) ★★★ · [Totally Barbados — Brown Sugar](https://www.totallybarbados.com/place/brown-sugar-restaurant/) ★★★ · [brownsugarbarbados.com](https://www.brownsugarbarbados.com) ★★★ · Google/TripAdvisor 28/08/2026 ★★★
 
-Ultimo aggiornamento: 28/08/2026
+Última actualización: 28/08/2026

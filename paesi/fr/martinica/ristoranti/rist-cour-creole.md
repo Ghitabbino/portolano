@@ -5,14 +5,14 @@
 | Champ | Détail |
 |---|---|
 | Zone | Sainte-Anne |
-| Cuisine | 🥩 Creola tradizionale |
+| Cuisine | 🥩 Créole traditionnelle |
 | Spécialité | Colombo de poulet · boudin antillais |
-| Coût | 💰€€ per persona senza bevande |
-| Emplacement | 🌴 patio creolo |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Cour+Créole+Sainte-Anne) |
+| Coût | 💰€€ par personne hors boissons |
+| Emplacement | 🌴 patio créole |
+| Carte | [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Cour+Créole+Sainte-Anne) |
 | Contacts | 0596 62 59 18 / 0696 28 44 39 |
 | Évaluations | TA 4,5/5 (344) → ★★★★½ |
-| Horaires | mar–mer 10–18 · gio–sab 10–21 · dom 10–18 · lun chiuso |
+| Horaires | mar–mer 10–18 · jeu–sam 10–21 · dim 10–18 · lun fermé |
 
 ## Menu
 
@@ -28,6 +28,6 @@
 
 ![La Cour Créole](img/martinica/rist-cour-creole.jpg)
 
-*Source: bellemartinique.com*
+*Source : bellemartinique.com*
 
-**Note**: 15 rue J.-M. Tjibaou · adatto alle famiglie
+**Notes** : 15 rue J.-M. Tjibaou · idéal pour familles

@@ -3,15 +3,15 @@
 [← All Anchorages](../08-ancoraggi.md)
 | Field | Detail |
 |---|---|
-| **Profondità** |Fino a ~12 m ★★|
-| **Tenuta** |Forte su sabbia nelle zone giuste ★★|
-| **Venti/riparo** |Protezione scarsa da vento/swell ★★★: tappa serena solo con alisei deboli|
-| **Pericoli** |Spazio limitato: le barche ruotano molto in rada, distanze strette ★★|
-| **Affollamento** | Basso-medio |
-| **Divieti** |Nessuno specifico noto → verificare cartografia coralli protetti (fondali ricchi!) ★★★★|
-| **Extra** | Sabbia nera, tartarughe, stelle marine, grotta dei pipistrelli; snorkeling top |
+| **Depth** |Up to ~12 m ★★|
+| **Holding** |Good holding on sand in the right patches ★★|
+| **Shelter** |Poor protection from wind/swell ★★★ — comfortable only in light trades|
+| **Hazards** |Tight room: boats swing wide at anchor, keep generous berths ★★|
+| **Crowding** | Low–moderate |
+| **Restrictions** |No specific prohibition known → check chart for protected coral (rich seabed!) ★★★★|
+| **Highlights** | Black sand, turtles, starfish, bat cave; excellent snorkelling |
 
 <div class="mapframe" data-slug="anse-noire" data-lat="14.4926458" data-lon="-61.0903117"></div>
-*Vista mappa Anse Noire/Dufour (coord. indicative) — zoom con i pulsanti +/−; menu in alto a destra per passare a Carta nautica e Segnali nautici · mappa offline*
+*Map view Anse Noire/Dufour (approx. position) — zoom with +/− buttons; top-right menu to switch to Nautical Chart and AtoN overlay · offline map*
 
 Last updated: 22/08/2026

@@ -1,6 +1,6 @@
 # 01 — Yacht Customs Clearance
 
-**Last checked: 25/08/2026** · Fonti: Noonsite ★★★ · Ocean Posse ★★★ · cruiserswiki ★★★
+**Last checked: 25/08/2026** · Fonti: Cruising sources aggregate ★★★ · Ocean Posse ★★★ · cruiserswiki ★★★
 
 ## San Juan del Sur (POE più usato)
 

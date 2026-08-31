@@ -15,6 +15,6 @@
 <div class="mapframe" data-slug="anc-prickly-bay" data-lat="11.9952" data-lon="-61.763"></div>
 *Carte détaillée — zoomez jusqu’à la baie · carte hors ligne · coordinate WGS84 indicative, toujours vérifier avec le traceur*
 
-Fonti: GPA ★★★★ · Noonsite ★★★ · Cruising Association (2023) ★★★
+Fonti: GPA ★★★★ · Sources plaisance agrégées ★★★ · Cruising Association (2023) ★★★
 
 Dernière mise à jour: 28/08/2026

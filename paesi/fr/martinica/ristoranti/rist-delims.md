@@ -5,30 +5,30 @@
 | Champ | Détail |
 |---|---|
 | Zone | Sainte-Anne |
-| Cuisine | 🐟 Langouste e lambi |
+| Cuisine | 🐟 Langouste et lambi |
 | Spécialité | Langouste · lambi · chatrou |
-| Coût | 💰€€€ per persona senza bevande |
-| Emplacement | 🍽️ raffinato |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Delim's+Sainte-Anne) |
-| Contacts | 0696 35 48 59 (prenotazioni 0696 75 49 13) |
+| Coût | 💰€€€ par personne hors boissons |
+| Emplacement | 🍽️ raffiné |
+| Carte | [Google Maps](https://www.google.com/maps/search/?api=1&query=Delim's+Sainte-Anne) |
+| Contacts | 0696 35 48 59 (réservations 0696 75 49 13) |
 | Évaluations | TA 4,7/5 (140) → ★★★★½ |
-| Horaires | lun-gio-ven-sab 19–22 · sab-dom 12–15 · chiuso mar–mer |
+| Horaires | lun–jeu–ven–sam 19–22 · sam–dim 12–15 · fermé mar–mer |
 
 ## Menu
 
 - Langouste
 - Lambi
 - Chatrou
-- Formule entrée+plat+cocktail o plat+dessert+cocktail 40 €
+- Formule entrée+plat+cocktail ou plat+dessert+cocktail 40 €
 
-**Chef**: Marie-Claude (cucina), sorella Marie-Laure in sala
+**Chef**: Marie-Claude (cuisine), sœur Marie-Laure en salle
 
 ## Photos
 
 ![Delim's](img/martinica/rist-delims.jpg)
 
-*Source: ledelims.com*
+*Source : ledelims.com*
 
-**Note**: Avenue Nelson Mandela · ledelims.com · anche traiteur · pizze d'asporto la sera
+**Notes** : Avenue Nelson Mandela · ledelims.com · aussi traiteur · pizzas à emporter le soir
 
-**Extra**: email ledelims@gmail.com
+**Extra** : email ledelims@gmail.com

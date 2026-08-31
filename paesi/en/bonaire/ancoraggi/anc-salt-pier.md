@@ -1,20 +1,20 @@
-# Salt Pier — boa immersioni (solo day-use) {#anc-salt-pier}
+# Salt Pier — Dive Mooring (Day-Use Only) {#anc-salt-pier}
 
-[← All Anchorages](../08-ancoraggi.md)
-**12°06′18″ N 68°17′24″ W** ★★★ — boa gialla dive-site a sud di Kralendijk (WGS84, stima — verificare in loco)
+[← All Moorings](../08-ancoraggi.md)
+**12°06′18″ N 068°17′24″ W** ★★★ — yellow dive-site mooring south of Kralendijk (WGS84, estimate — verify on site)
 
 | Field | Detail |
 |---|---|
-| **Depth** | 5–15 m sabbia e piloni; reef a frangia vicino ai pali |
-| **Holding** | **Solo boa gialla day-use — ancoraggio VIETATO**; max 2 h, max 13 m, una yacht per boa ★★★★★ |
-| **Wind/Shelter** | Costa sud-ovest sottovento, discreto con aliseo ENE; swell meridionale può entrare |
-| **Hazards** | **Avvicinarsi solo senza nave Cargill in banchina** (carico sale): interdizione temporanea quando la nave è all'ormeggio; traffico dive boats; non ormeggiare ai piloni |
-| **Affollamento** | Basso-medio diurno; non per notte — rientro al campo di Kralendijk |
-| **Buoys/Restrictions/Regulations** | Boa pubblica gialla per immersioni (nome sito sulla boa); vietato pernottamento; STINAPA dive map di riferimento |
-| **Ashore** | Nessun servizio a terra (area industriale Cargill a nord); snorkeling eccellente sotto i piloni solo con boa libera |
+| **Depth** | 5–15 m sand and pier piles; fringing reef close to the piles |
+| **Holding / Anchoring** | **Yellow day-use mooring only — anchoring PROHIBITED**; max 2 h, max 13 m, one boat per mooring ★★★★★ |
+| **Wind / Shelter** | Leeward south-west coast, fair with ENE trades; southerly swell can wrap in |
+| **Hazards** | **Approach only when no Cargill ship is alongside** (salt loading): temporary exclusion while the vessel is berthed; dive-boat traffic; do not tie to the pier piles |
+| **Crowding** | Low–medium by day; not for overnight — return to the Kralendijk field |
+| **Moorings / Rules** | Public yellow dive mooring (site name on the buoy); overnight stay prohibited; refer to STINAPA dive map |
+| **Ashore** | No facilities ashore (Cargill industrial area to the north); excellent snorkelling under the piles only when the mooring is free |
 
 <div class="mapframe" data-slug="anc-salt-pier" data-minz="12" data-maxz="17" data-lat="12.1050" data-lon="-68.2900"></div>
-*Cartina di dettaglio — zoom ± fino alla boa · mappa offline · coordinate WGS84 indicative (stima da carta STINAPA), verificare sempre con plotter. **Marker in mezzo al mare**, sulla boa del sito.*
+*Detail chart — zoom in/out to the mooring · offline map · WGS84 coordinates are indicative (estimate from STINAPA chart), always verify with your plotter. **Marker in the water**, on the site mooring.*
 
 Sources: [STINAPA — Mooring & Dive Map](https://stinapabonaire.org/bonaire-national-marine-park/dive-map) ★★★★ · [STINAPA — Boating](https://stinapabonaire.org/rules-and-regulations/boating/) ★★★★★ · [InfoBonaire — Dive Sites / Salt Pier](https://infobonaire.com/scuba-diving/) ★★★
 

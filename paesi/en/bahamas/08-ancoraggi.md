@@ -1,83 +1,83 @@
-# 08 — Anchorage Pilot
+# 08 — Pilot of Anchorages
 
 **Last checked: 24/08/2026**
 
-## General Anchoring Rules (First and Foremost)
+## General Anchoring Rules (First of All)
 
-- **Anchorage fee obbligatoria** se si àncora fuori da una marina: **$200 / 12 mesi per ≤50 ft**, **$1.500 / 12 mesi per >100 ft** (intermedi **DATA MISSING**) — riscossa con il cruising permit (vedi [01 Clearance](01-clearance.md)). Chi sta in marina **non paga** l'anchorage fee per i giorni in banchina. ★★★★★
-- **Divieto assoluto** di ancorare su **corallo e praterie di seagrass** — danni punibili con ammenda. Usare sempre **sabbia chiara** visibile. ★★★★★
-- **Exuma Cays Land and Sea Park (Warderick Wells)**: **solo su mooring** — àncora **vietata** in tutto il parco. Prenotazione via Bahamas National Trust. ★★★★★
-- **Marea 0,8–1,0 m** ma corrente nei **cuts 2–4 kt** — ancorare lontano dai canali di marea. ★★★★
+- **Anchorage fee mandatory** if anchoring outside a marina: **$200 / 12 months for ≤50 ft**, **$1,500 / 12 months for >100 ft** (intermediate **DATA MISSING**) — collected with the cruising permit (see [01 Clearance](01-clearance.md)). Those staying in a marina **do not pay** the anchorage fee for the days at the dock. ★★★★★
+- **Absolute prohibition** on anchoring on **coral and seagrass beds** — damage punishable by fine. Always use **visible light sand**. ★★★★★
+- **Exuma Cays Land and Sea Park (Warderick Wells)**: **mooring only** — anchoring **forbidden** throughout the park. Book via Bahamas National Trust. ★★★★★
+- **Tide 0.8–1.0 m** but current in **cuts 2–4 kt** — anchor away from tidal channels. ★★★★
 
-### ⛔ Zone di divieto / restrizione assoluta
+### ⛔ Absolute Prohibition / Restriction Zones
 
 | Area | Prohibition | Source |
 |---|---|---|
-| **Exuma Cays Land and Sea Park — Warderick Wells e cays del parco** | Àncora vietata — **solo mooring $35–40 / notte** | Bahamas National Trust ★★★★★ |
-| **Barriera corallina e seagrass ovunque** | Àncora e catena non devono toccare corallo/seagrass | Bahamas Environment ★★★★★ |
-| **Aree portuali Nassau Harbour / Freeport Harbour** | Ancoraggio vietato nei canali e nelle zone di manovra navi | Harbour Control ★★★★ |
-| **Zone private (es. Baker's Bay)** | Accesso/ancoraggio riservato a membri — divieto per diportisti di passaggio | Resort ★★ |
+| **Exuma Cays Land and Sea Park — Warderick Wells and park cays** | Anchoring forbidden — **mooring only $35–40 / night** | Bahamas National Trust ★★★★★ |
+| **Reef and seagrass everywhere** | Anchor and chain must not touch coral/seagrass | Bahamas Environment ★★★★★ |
+| **Nassau Harbour / Freeport Harbour port areas** | Anchoring forbidden in channels and ship manoeuvring areas | Harbour Control ★★★★ |
+| **Private areas (e.g. Baker's Bay)** | Access/anchoring reserved to members — forbidden for passing yachts | Resort ★★ |
 
-Testi integrali: Bahamas National Trust (bnt.bs) per il parco Exuma; Harbour Control VHF 16 per Nassau.
+Full texts: Bahamas National Trust (bnt.bs) for the Exuma park; Harbour Control VHF 16 for Nassau.
 
-- **IALA-B** invertita rispetto all'Europa — attenzione a boe. ★★★★★
-- Cartografia di riferimento: **Explorer Chartbook — Bahamas** (standard de facto per i Banks) + carte elettroniche Navionics/Garmin. ★★★★★
+- **IALA-B** reversed vs Europe — watch buoys. ★★★★★
+- Reference charting: **Explorer Chartbook — Bahamas** (de facto standard for the Banks) + electronic charts Navionics/Garmin. ★★★★★
 
-## Summary Table — Best Anchorages
+## Summary Table — The Best Anchorages
 
-| # | Ancoraggio | Riparo alisei | Tenuta | Depth | Affollamento | Giudizio comunità |
+| # | Anchorage | Trades Shelter | Holding | Depth | Crowding | Community Rating |
 |---|---|---|---|---|---|---|
-| 1 | **Highbourne Cay — 24°42.6'N 076°49.4'W** | ★★★★ | ★★★★ sabbia | 2–4 m | Medio-alto | ★4,2/5 — sosta nord Exumas |
-| 2 | **Norman's Cay** | ★★★★ | ★★★★ sabbia | 2–5 m | Medio | ★4,0/5 — relitto aereo famoso |
-| 3 | **Shroud Cay** | ★★★★★ | ★★★★★ sabbia/fango | 1,5–3 m | Basso | ★4,5/5 — mangrovie, selvaggio |
-| 4 | **Warderick Wells (Exuma Park) — mooring $35–40** | ★★★★★ | — mooring | 3–6 m | Alto (parco) | ★4,7/5 — solo boe, parco |
-| 5 | **Cambridge / Compass Cay — mooring $35** | ★★★★ | ★★★★ sabbia / mooring | 2–4 m | Medio | ★4,3/5 — squali nutrice |
-| 6 | **Staniel Cay / Big Major Spot (maiali)** | ★★★★ | ★★★★ sabbia | 2–4 m | Alto | ★4,4/5 — maiali nuotatori |
-| 7 | **Pipe Cay** | ★★★★ | ★★★★ sabbia | 2–3 m | Basso-medio | ★4,1/5 |
-| 8 | **Little Bay — Stocking Island (George Town)** | ★★★★★ | ★★★★★ sabbia | 2–3 m | Alto stagione | ★4,3/5 — base George Town |
-| 9 | **Hope Town — Elbow Cay (Abacos)** | ★★★★ | ★★★★ sabbia | 2–4 m | Medio | ★4,2/5 — villaggio iconico |
+| 1 | **Highbourne Cay — 24°42.6'N 076°49.4'W** | ★★★★ | ★★★★ sand | 2–4 m | Medium-high | ★4.2/5 — northern Exumas stop |
+| 2 | **Norman's Cay** | ★★★★ | ★★★★ sand | 2–5 m | Medium | ★4.0/5 — famous plane wreck |
+| 3 | **Shroud Cay** | ★★★★★ | ★★★★★ sand/mud | 1.5–3 m | Low | ★4.5/5 — mangroves, wild |
+| 4 | **Warderick Wells (Exuma Park) — mooring $35–40** | ★★★★★ | — mooring | 3–6 m | High (park) | ★4.7/5 — buoys only, park |
+| 5 | **Cambridge / Compass Cay — mooring $35** | ★★★★ | ★★★★ sand / mooring | 2–4 m | Medium | ★4.3/5 — nurse sharks |
+| 6 | **Staniel Cay / Big Major Spot (swimming pigs)** | ★★★★ | ★★★★ sand | 2–4 m | High | ★4.4/5 — swimming pigs |
+| 7 | **Pipe Cay** | ★★★★ | ★★★★ sand | 2–3 m | Low-medium | ★4.1/5 |
+| 8 | **Little Bay — Stocking Island (George Town)** | ★★★★★ | ★★★★★ sand | 2–3 m | High season | ★4.3/5 — George Town base |
+| 9 | **Hope Town — Elbow Cay (Abacos)** | ★★★★ | ★★★★ sand | 2–4 m | Medium | ★4.2/5 — iconic village |
 
-*Riparo/tenuta = valutazione qualitativa dalle fonti cruiser (più ★ = meglio). Coordinate Highbourne da rilevazione marina ★★★★; altre da Explorer Chartbook ★★★★★.*
+*Shelter/holding = qualitative assessment from cruiser sources (more ★ = better). Highbourne coordinates from marina survey ★★★★; others from Explorer Chartbook ★★★★★.*
 
 ### General Anchorage Map
 
 <div class="mapframe" data-slug="bahamas" data-minz="6" data-maxz="16" data-lat="24.50" data-lon="-76.00" data-markers='[[25.0801,-77.3207,"Hurricane Hole — Paradise"],[25.0827,-77.3220,"Atlantis Marina"],[24.7092,-76.8230,"Highbourne Cay"],[24.5922,-76.8127,"Norman’s Cay"],[24.3950,-76.6320,"Warderick Wells — Park"],[24.2618,-76.5128,"Cambridge — Compass"],[24.1735,-76.4485,"Staniel Cay"],[23.5047,-75.7660,"Georgetown — Exuma"]]'></div>
 
-*Marker gialli — clic per nome.*
+*Yellow markers — click for name.*
 
-## Note per ancoraggio
+## Anchoring Notes
 
-- **Acqua chiara**: ancorare sempre su **sabbia bianca** ben visibile — se vedi scuro (corallo/erba) sposta. ★★★★★
-- **Protezione alisei**: gli Exumas offrono riparo eccellente da E/NE dietro i cays — ma esposizione a W/NW con fronti freddi invernali (dic–feb) — controllare previsione. ★★★★
-- **Affollamento**: **dic–apr altissimo** negli Exumas centrali (Warderick, Staniel) — arrivare presto per prendere mooring/ancoraggio. ★★★
-- **App utile**: **Bahamas Marinas** + **Explorer Charts** + **Navionics** per i Banks — indispensabili. ★★★★
+- **Clear water**: always anchor on **white sand** clearly visible — if you see dark (coral/weed) move. ★★★★★
+- **Trade shelter**: the Exumas offer excellent shelter from E/NE behind cays — but exposed to W/NW with winter cold fronts (Dec–Feb) — check forecast. ★★★★
+- **Crowding**: **Dec–Apr very high** in central Exumas (Warderick, Staniel) — arrive early to secure mooring/anchorage. ★★★
+- **Useful app**: **Bahamas Marinas** + **Explorer Charts** + **Navionics** for the Banks — essential. ★★★★
 
-## Official Charts
+## Official Charting
 
 | Chart | Coverage | Notes |
 |---|---|---|
-| **Explorer Chartbook — Near Bahamas** | Bimini / Berry / Nassau / Northern Exumas | ~$40–50 — **la bibbia dei Banks** ★★★★★ |
+| **Explorer Chartbook — Near Bahamas** | Bimini / Berry / Nassau / Northern Exumas | ~$40–50 — **the Banks bible** ★★★★★ |
 | **Explorer Chartbook — Exumas** | Highbourne → Great Exuma / Long Island | ~$40–50 ★★★★★ |
 | **Explorer Chartbook — Far Bahamas** | Abacos / Eleuthera / Long Island / Ragged | ~$40–50 ★★★★★ |
-| **BA Charts (UKHO)** | Bahamas — carte ammiragliato britanniche | Ufficiali ma meno dettagliate sui Banks ★★★ |
-| **Navionics / Garmin / C-MAP** | Tutte le Bahamas | Elettroniche, verificare con Explorer ★★★★ |
+| **BA Charts (UKHO)** | Bahamas — British Admiralty charts | Official but less detailed on Banks ★★★ |
+| **Navionics / Garmin / C-MAP** | All Bahamas | Electronic, verify with Explorer ★★★★ |
 
-- Le carte **Explorer** riportano vie, waypoint e profondità reali rilevate — più affidabili delle ufficiali sui Banks. Acquistabili a Nassau (Harbour Chandler), in Florida or online. ★★★★★
-- Per la navigazione quotidiana: **plotter + Explorer cartaceo** come riserva — mai fidarsi solo dell'elettronico sui Banks. ★★★★★
+- **Explorer** charts show routes, waypoints and actual surveyed depths — more reliable than official on the Banks. Buyable in Nassau (Harbour Chandler), Florida or online. ★★★★★
+- For daily navigation: **plotter + paper Explorer** as backup — never trust only electronics on the Banks. ★★★★★
 
 ## Not Included (For Now)
 
-- **Abacos — Man-O-War Cay, Great Guana Cay**: ancoraggi secondari → dati insufficienti, **da verificare**
-- **Ragged Islands / Jumentos**: remoti, bellissimi ma servizi zero → **da verificare**
-- **South Andros / Acklins**: poco frequentati — **DATA MISSING**
+- **Abacos — Man-O-War Cay, Great Guana Cay**: secondary anchorages → insufficient data, **to be verified**
+- **Ragged Islands / Jumentos**: remote, beautiful but zero services → **to be verified**
+- **South Andros / Acklins**: little frequented — **DATA MISSING**
 
-## Anchor Checklist per le Bahamas
+## Bahamas Anchor Checklist
 
-1. Anchorage fee pagata con Click2Clear (se àncori fuori marina) ✓
-2. Cartografia Explorer a bordo + elettronica aggiornata ✓
-3. Àncora leggera ma con molta catena — tenuta ottima su sabbia, pessima su corallo
-4. Occhio al colore dell'acqua: **bianco = sabbia ok, scuro = corallo no**
-5. Slack water per i cuts tra Banks e Sound ✓
-6. Prenotazione mooring Warderick Wells se si punta al parco ✓
+1. Anchorage fee paid with Click2Clear (if anchoring outside marina) ✓
+2. Explorer charting aboard + updated electronics ✓
+3. Light anchor but lots of chain — excellent holding on sand, terrible on coral
+4. Watch water colour: **white = sand ok, dark = coral no**
+5. Slack water for cuts between Banks and Sound ✓
+6. Booking for Warderick Wells mooring if heading to the park ✓
 
 Last updated: 24/08/2026

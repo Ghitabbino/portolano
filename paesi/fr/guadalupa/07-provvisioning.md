@@ -1,41 +1,41 @@
 # 07 — Avitaillement
 
-**Dernière mise à jour: 21/08/2026**
+**Dernière mise à jour : 21/08/2026**
 
-## Livello prezzi generale
+## Niveau général des prix
 
-- Alimentation ~+30–40% vs Francia metropolitana, in linea con la Martinica; più economici delle Grenadine secondo i naviganti. ★★
-- Prodotti locali convenienti: pesce dai pescatori, frutta/verdura dei mercati, pane/boulangerie. ★★★
+- Alimentation ~+30–40 % vs France métropolitaine, alignée sur la Martinique ; moins chère que les Grenadines selon les navigateurs. ★★
+- Produits locaux avantageux : poisson auprès des pêcheurs, fruits/légumes des marchés, pain/boulangerie. ★★★
 
 ## Supermarchés
 
-| Negozio | Dove | Note |
+| Magasin | Lieu | Notes |
 |---|---|---|
-| **Hyper Casino Jarry** | Baie-Mahault | Il più grande dell'arcipelago; tutto, prezzi migliori |
-| **Carrefour Jarry** | Baie-Mahault | Ottima selezione francesi/import |
-| Super U / Leader Price | Pointe-à-Pitre, Le Gosier, Sainte-Anne, Saint-François, Basse-Terre | Diffusi ovunque |
-| Supermarchés Bas-du-Fort | accanto alla marina | Comodo per rifornimento rapido |
+| **Hyper Casino Jarry** | Baie-Mahault | Le plus grand de l'archipel ; tout, meilleurs prix |
+| **Carrefour Jarry** | Baie-Mahault | Excellente sélection française/import |
+| Super U / Leader Price | Pointe-à-Pitre, Le Gosier, Sainte-Anne, Saint-François, Basse-Terre | Partout |
+| Supermarchés Bas-du-Fort | à côté de la marina | Pratique pour un avitaillement rapide |
 
-La zona **Jarry** (3.500 imprese) è il maggiore polo commerciale dei Caraïbes: qui si trova praticamente tutto, compresi pezzi industriali e ricambi. ★★
+La zone **Jarry** (3 500 entreprises) est le plus grand pôle commercial des Caraïbes : on y trouve pratiquement tout, y compris pièces industrielles et rechanges. ★★
 
 ## Marchés
 
-- **Marché de la Darse** (Pointe-à-Pitre, sul molo): frutta, verdura, pesce, spezie — mattino, meglio sabato. Iconico edificio giallo e verde.
-- Marché di Saint-Antoine (PAP) e mercati comunali di Basse-Terre, Saint-François, Capesterre (Marie-Galante).
-- Pesce fresco: approccio ai pescatori nei porti (Deshaies, Saint-Louis de Marie-Galante) al ritorno delle barche (~10h).
+- **Marché de la Darse** (Pointe-à-Pitre, sur le quai) : fruits, légumes, poisson, épices — le matin, mieux le samedi. Bâtiment jaune et vert iconique.
+- Marché de Saint-Antoine (PAP) et marchés communaux de Basse-Terre, Saint-François, Capesterre (Marie-Galante).
+- Poisson frais : contact direct avec les pêcheurs dans les ports (Deshaies, Saint-Louis de Marie-Galante) au retour des barques (~10h).
 
 ## Eau et carburant
 
-| Servizio | Dove |
+| Service | Lieu |
 |---|---|
-| Water dock | Marina Bas-du-Fort (incluso nel posto), Saint-François, Deshaies (pontile municipio), Rivière Sens |
-| Fuel dock | Bas-du-Fort 8h–12h/14h–18h; Saint-François; stazioni stradali Jarry con tanica |
-| Gas (butane/propane) | Scambi bottiglia standard francesi a Jarry e nei punti U; attenzione ai raccordi |
+| Point d'eau | Marina Bas-du-Fort (inclus à la place), Saint-François, Deshaies (ponton municipal), Rivière Sens |
+| Station carburant | Bas-du-Fort 8h–12h/14h–18h ; Saint-François ; stations routières Jarry avec jerrican |
+| Gaz (butane/propane) | Échange bouteilles standard françaises à Jarry et dans les points U ; attention aux raccords |
 
 ## Conseils pratiques
 
-- Grande spesa = Jarry (auto/taxi dalla marina, 15 min); fresco quotidiano = mercato Darse.
-- Sulle isole minori (Saintes, Petite Terre, Désirade) scelta limitata: fare scorta prima.
-- Consegne: alcuni supermercati Jarry consegnano in marina per ordini telefonici ⚠️ à vérifier caso per caso.
+- Gros avitaillement = Jarry (voiture/taxi depuis la marina, 15 min) ; frais du jour = marché de la Darse.
+- Sur les petites îles (Saintes, Petite Terre, La Désirade) choix limité : faire des réserves avant.
+- Livraisons : certains supermarchés de Jarry livrent à la marina sur commande téléphonique ⚠️ à vérifier au cas par cas.
 
-Dernière mise à jour: 22/08/2026
+Dernière mise à jour : 22/08/2026

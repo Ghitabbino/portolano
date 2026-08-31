@@ -1,90 +1,89 @@
-# 02 — Costo della vita
+# 02 — Lebenshaltungskosten
 
-**Ultimo aggiornamento: 24/08/2026**
+**Letzte Aktualisierung: 24/08/2026**
 
-Valuta: **dollaro bahamense (BSD)** — **parità fissa 1:1 con USD**; ovunque accettati **USD** (resto spesso in BSD). **IVA (VAT) 10%** su quasi tutto, **12%** su alcuni servizi/ristorazione di fascia alta. Livello prezzi: **+20–80% rispetto agli USA** (tutto importato, + VAT e logistica insulare). ★★★★
+Währung: **Bahama-Dollar (BSD)** — **fester Kurs 1:1 zum USD**; überall werden **USD** akzeptiert (Wechselgeld oft in BSD). **MwSt. (VAT) 10%** auf fast alles, **12%** auf einige gehobene Services/Restaurants. Preisniveau: **+20–80% gegenüber USA** (alles importiert, + VAT und Insellogistik). ★★★★
 
-> ⚠️ Le voci di questo elenco sono le stesse per tutti i paesi del portolano. Dove il dato non è stato ancora trovato dalle fonti si scrive **DATO MANCANTE**: viene ricercato al controllo mensile.
+> ⚠️ Die Posten dieser Liste sind für alle Länder des Handbuchs gleich. Wo der Wert noch nicht ermittelt wurde, steht **DATEN FEHLEN**: wird beim monatlichen Check recherchiert.
 
-## Alloggio e utenze (indicativo terra — utile per soste lunghe)
+## Unterkunft & Nebenkosten (indikativ an Land — nützlich für längere Aufenthalte)
 
-| Voce | Prezzo indicativo | Note |
+| Punkt | Richtpreis | Hinweise |
 |---|---|---|
-| Affitto 1 camera (centro) | **$1.382 / mese** | Nassau/Freeport media ★★★ |
-| Affitto 3 camere | **$2.496 / mese** | Famiglia ★★★ |
-| Utenze (elettricità/acqua/gas) | **$195–301 / mese** | + **Fuel Surcharge** elettrico variabile ★★★ |
-| Internet 60Mbps+ | **$87 / mese** | BTC / Aliv ★★★ |
-| Spesa alimentare singolo | **$762 / mese** | Senza affitto ★★★ |
-| Spesa famiglia 4 p. con affitto | **$6.842 / mese** | Stima Numbeo aggregata ★★★ |
+| Miete 1-Zimmer (Zentrum) | **$1.382 / Monat** | Durchschnitt Nassau/Freeport ★★★ |
+| Miete 3-Zimmer | **$2.496 / Monat** | Familie ★★★ |
+| Nebenkosten (Strom/Wasser/Gas) | **$195–301 / Monat** | + variabler Strom-**Fuel Surcharge** ★★★ |
+| Internet 60 Mbps+ | **$87 / Monat** | BTC / Aliv ★★★ |
+| Lebensmittel Single | **$762 / Monat** | Ohne Miete ★★★ |
+| Lebensmittel Familie 4 Pers. mit Miete | **$6.842 / Monat** | Aggregierte Numbeo-Schätzung ★★★ |
 
-## Mangiare fuori (media Bahamas)
+## Essen gehen (Bahamas-Durchschnitt)
 
-| Voce | Prezzo indicativo |
+| Punkt | Richtpreis |
 |---|---|
-| Pranzo economico (locale) | **$31,20** |
-| Cena per 2 in ristorante medio | **$79,30** |
-| Menu McDonald's / fast food | **$11,80** |
-| Birra locale al bar (0,33–0,5 l) | **$5,33** |
+| Günstiges Mittagessen (Lokal) | **$31,20** |
+| Abendessen für 2 im mittleren Restaurant | **$79,30** |
+| McDonald's / Fast-Food-Menü | **$11,80** |
+| Lokales Bier an der Bar (0,33–0,5 l) | **$5,33** |
 
-Prezzi specifici per locale → [10 Ristoranti](10-ristoranti.md).
+Spezifische Preise pro Lokal → [10 Restaurants](10-ristoranti.md).
 
-## Spesa di bordo — supermercato
+## Bordverpflegung — Supermarkt
 
-| Voce | Prezzo indicativo | Note |
+| Punkt | Richtpreis | Hinweise |
 |---|---|---|
-| Acqua RO in banchina | **$0,10–0,25 / gallone** | Vedi [07 Provisioning](07-provvisioning.md) ★★★★ |
-| Pane / latte / uova | **DATO MANCANTE** | Più caro che in Florida del 30–50% |
-| Frutta/verdura importata | Cara, qualità variabile fuori Nassau | Meglio mercati locali ★★ |
-| Pesce locale (conch, grouper, snapper) | Più conveniente se da pescatori | Potter's Cay ★★★ |
+| RO-Wasser an der Pier | **$0,10–0,25 / Gallone** | Siehe [07 Versorgung](07-provvisioning.md) ★★★★ |
+| Brot / Milch / Eier | **DATEN FEHLEN** | 30–50% teurer als in Florida |
+| Importiertes Obst/Gemüse | Teuer, Qualität außerhalb Nassaus schwankend | Besser auf lokalen Märkten ★★ |
+| Lokaler Fisch (Conch, Grouper, Snapper) | Günstiger direkt vom Fischer | Potter's Cay ★★★ |
 
-## Carburanti
+## Kraftstoffe
 
-| Voce | Prezzo indicativo | Note |
+| Punkt | Richtpreis | Hinweise |
 |---|---|---|
-| Diesel — prezzo nazionale GlobalPetrol | **$1,685 / L = $6,38 / gal** | Media nazionale 2026 ★★★★ |
-| Diesel in marina | **$6,50–8,50 / gal** | Varia per isola e trasporto ★★★★ |
-| Diesel **Hurricane Hole Marina, Nassau** | **$6,93 / gal** al **01/06/2026** | Rilevazione marina ★★★★ |
-| Benzina in marina | **DATO MANCANTE** | ~ $6–8 / gal stimato, da verificare sul posto |
-| Bombola gas (scambio) | **DATO MANCANTE** | |
+| Diesel — nationaler GlobalPetrol-Preis | **$1,685 / L = $6,38 / gal** | Landesdurchschnitt 2026 ★★★★ |
+| Diesel in der Marina | **$6,50–8,50 / gal** | Je nach Insel und Transport variabel ★★★★ |
+| Diesel **Hurricane Hole Marina, Nassau** | **$6,93 / gal** am **01.06.2026** | Marina-Erhebung ★★★★ |
+| Benzin in der Marina | **DATEN FEHLEN** | ~ $6–8 / gal geschätzt, vor Ort zu prüfen |
+| Gasflasche (Tausch) | **DATEN FEHLEN** | |
 
-Il carburante in banchina è il più caro dei Caraibi dopo Bermuda — fare pieno in Florida se possibile. ★★★★
+Kraftstoff an der Pier ist der teuerste in der Karibik nach Bermuda — wenn möglich in Florida bunkern. ★★★★
 
-## Trasporti e collegamenti
+## Transport & Verbindungen
 
-| Voce | Prezzo indicativo | Note |
+| Punkt | Richtpreis | Hinweise |
 |---|---|---|
-| Jitney (bus locale Nassau) | **$1,25–1,50 / corsa** cash a bordo | Solo New Providence. Fermate a richiesta su Bay St./East Bay St., frequenza 10–20 min lun–sab 6:30–19, dom ridotta 20–30 min. Scomodo con carichi — vedi [07 Provisioning](07-provvisioning.md) ★★★ |
-| Taxi corsa breve (Nassau) | **$15–25** | Tariffe non tassametrate, concordare prima. Dispatch **242-323-3030 / 242-325-3333** ★★★ |
-| Taxi aeroporto–centro Nassau | **$30–35** | + supplemento bagagli $2/collo ★★ |
-| Taxi Hurricane Hole → Harbour Bay (Solomon's) | **$18–28 A/R** stimato | Con attesa 30 min spesa — concordare chiuso ★★ |
-| Taxi Freeport (Grand Bahama) | **$15–20** breve / **$25–30** aeroporto–Lucayan | **DATO MANCANTE** dispatch verificato — chiedere in marina ★★ |
-| Taxi Marsh Harbour / Georgetown | **$10–20** (golf-cart taxi) | Abacos/Exumas: poche auto, più golf-cart ★★ |
-| Noleggio auto / golf-cart giornaliero | **$50–120 / giorno** auto · **$60–90** golf-cart Abacos/Exumas | Nassau/Freeport auto; Marsh Harbour/Georgetown/Staniel golf-cart — **DATO MANCANTE** per tariffa 2026 esatta |
-| Traghetto Bahamas Ferries | **DATO MANCANTE** su prezzo tratta | Da **Potter's Cay Dock, Nassau — 242-323-2166 ext. 250** → Harbour Island, Eleuthera, Marsh Harbour, Exuma. Uffici isole: Freeport 242-807-8018, Exuma 242-808-0658, Marsh Harbour 242-808-0581. Prenotazione: booking.bahamasferries.com ★★★★ |
-| Mail boat / ferry minori | **DATO MANCANTE** | Collegamenti settimanali cays remoti — chiedere in marina VHF 16 |
+| Jitney (Lokalbus Nassau) | **$1,25–1,50 / Fahrt** bar an Bord | Nur New Providence. Halt auf Zuruf an Bay St./East Bay St., Takt 10–20 Min Mo–Sa 6:30–19, So reduziert 20–30 Min. Ungünstig mit Lasten — siehe [07 Versorgung](07-provvisioning.md) ★★★ |
+| Taxi Kurzstrecke (Nassau) | **$15–25** | Preise nicht taxameterpflichtig, vorher vereinbaren. Dispatch **242-323-3030 / 242-325-3333** ★★★ |
+| Taxi Flughafen–Zentrum Nassau | **$30–35** | + Gepäckzuschlag $2/Stück ★★ |
+| Taxi Hurricane Hole → Harbour Bay (Solomon's) | **$18–28 Hin/Rück** geschätzt | Mit 30 Min Einkaufswartezeit — Festpreis vereinbaren ★★ |
+| Taxi Freeport (Grand Bahama) | **$15–20** kurz / **$25–30** Flughafen–Lucayan | **DATEN FEHLEN** verifizierter Dispatch — in Marina fragen ★★ |
+| Taxi Marsh Harbour / Georgetown | **$10–20** (Golf-Cart-Taxi) | Abacos/Exumas: wenige Autos, mehr Golf-Carts ★★ |
+| Mietwagen / Golf-Cart pro Tag | **$50–120 / Tag** Auto · **$60–90** Golf-Cart Abacos/Exumas | Nassau/Freeport Auto; Marsh Harbour/Georgetown/Staniel Golf-Cart — **DATEN FEHLEN** für exakten Tarif 2026 |
+| Fähre Bahamas Ferries | **DATEN FEHLEN** zum Streckenpreis | Ab **Potter's Cay Dock, Nassau — 242-323-2166 ext. 250** → Harbour Island, Eleuthera, Marsh Harbour, Exuma. Insel-Büros: Freeport 242-807-8018, Exuma 242-808-0658, Marsh Harbour 242-808-0581. Buchung: booking.bahamasferries.com ★★★★ |
+| Mail boat / kleinere Fähren | **DATEN FEHLEN** | Wöchentliche Verbindungen zu entlegenen Cays — in Marina auf VHF 16 fragen |
 
-## Servizi quotidiani
+## Tägliche Services
 
-| Voce | Prezzo indicativo | Note |
+| Punkt | Richtpreis | Hinweise |
 |---|---|---|
-| Elettricità marina (liveaboard) | **~$250 / mese** + fuel surcharge | BPL — molto caro ★★★ |
-| Lavanderia self-service | **$5–10 / carico** | Marina o lavanderie in città ★★ |
-| SIM prepagata con dati (BTC/Aliv) | **DATO MANCANTE** | |
-| Lavaggio scafo / hull dive | **DATO MANCANTE** | |
+| Marina-Strom (Liveaboard) | **~$250 / Monat** + Fuel Surcharge | BPL — sehr teuer ★★★ |
+| Selbstbedienungs-Wäscherei | **$5–10 / Ladung** | Marina oder Wäschereien in der Stadt ★★ |
+| Prepaid-SIM mit Daten (BTC/Aliv) | **DATEN FEHLEN** | |
+| Rumpfreinigung / Hull Dive | **DATEN FEHLEN** | |
 
-## Contanti e pagamenti
+## Bargeld & Zahlungen
 
-BSD e USD 1:1, carte **Visa/Mastercard** accettate nelle marine e nei resort; contante (USD piccoli tagli) indispensabile nei **cays remoti, chioschi e distributori fuel**. Bancomat (ATM) a Nassau, Freeport, Marsh Harbour, George Town — commissioni alte. Mance: **15–18%** atteso nei ristoranti.
+BSD und USD 1:1, Karten **Visa/Mastercard** in Marinas und Resorts akzeptiert; Bargeld (kleine USD-Scheine) unerlässlich in **entlegenen Cays, Kiosken und Tankstellen**. Geldautomaten (ATM) in Nassau, Freeport, Marsh Harbour, George Town — hohe Gebühren. Trinkgeld: **15–18%** im Restaurant erwartet.
 
-## Approfondimenti
+## Vertiefung
 
-- Tariffe marine e boe → [03 Porti e marine](03-porti-ancoraggi.md)
-- Ancoraggi gratuiti vs Anchorage Fee → [08 Ancoraggi](08-ancoraggi.md)
-- Ristoranti con prezzi per locale → [10 Ristoranti](10-ristoranti.md)
+- Marina- & Bojengebühren → [03 Häfen und Marinas](03-porti-ancoraggi.md)
+- Gratis-Ankerplätze vs Anchorage Fee → [08 Ankerplätze](08-ancoraggi.md)
+- Restaurants mit Preisen pro Lokal → [10 Restaurants](10-ristoranti.md)
 
-Ultimo aggiornamento: 24/08/2026
+Letzte Aktualisierung: 24/08/2026
 
-## Alimentari
+## Lebensmittel
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
+**DATEN FEHLEN** — beim monatlichen Check zu vervollständigen.

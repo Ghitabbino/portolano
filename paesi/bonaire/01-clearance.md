@@ -1,6 +1,6 @@
 # 01 — Clearance doganale della barca
 
-**Ultima verifica: 28/08/2026** · Fonti principali: Belastingdienst Caribisch Nederland (Douane CN) ★★★★★, RijksdienstCN/IND ★★★★★, STINAPA ★★★★★, Noonsite/Ocean Posse/CruisersWiki ★★★
+**Ultima verifica: 28/08/2026** · Fonti principali: Belastingdienst Caribisch Nederland (Douane CN) ★★★★★, RijksdienstCN/IND ★★★★★, STINAPA ★★★★★, Fonti diportiste aggregate/Ocean Posse/CruisersWiki ★★★
 
 ## Chi deve farla
 
@@ -13,12 +13,12 @@ Anche i residenti BES in rientro da navigazione estera devono presentarsi. Lo sp
 
 ## Pre-arrivo: SailClear e documenti
 
-1. **Pre-notifica SailClear attesa dalla Dogana (dal 2023)** — creare la notifica su [sailclear.com](https://www.sailclear.com) **prima di salpare**: in banchina a Kralendijk **non c'è computer disponibile** per compilarla. Riduce i tempi in ufficio ma **non sostituisce la presentazione fisica**. [Noonsite — Bonaire](https://www.noonsite.com/place/bonaire) ★★★; [SailClear FAQ](https://www.sailclear.com/faq) ★★★
+1. **Pre-notifica SailClear attesa dalla Dogana (dal 2023)** — creare la notifica su [sailclear.com](https://www.sailclear.com) **prima di salpare**: in banchina a Kralendijk **non c'è computer disponibile** per compilarla. Riduce i tempi in ufficio ma **non sostituisce la presentazione fisica**. Fonti diportiste aggregate ★★★; [SailClear FAQ](https://www.sailclear.com/faq) ★★★
 2. Preparare in cartella (originali + 2 copie):
    - passaporti di tutto l'equipaggio (validi per l'intera permanenza);
    - **registrazione/nazionalità del natante**, prova di proprietà/assicurazione;
    - **crew list / passenger manifest** (nome, data nascita, nazionalità, n° passaporto);
-   - **documento di uscita (zarpe/despacho) del porto precedente — obbligatorio**: senza prova del Paese di provenienza l'ingresso può essere rifiutato (controllo applicato anche su arrivi dal Venezuela/Los Roques). [Noonsite — Bonaire](https://www.noonsite.com/place/bonaire) ★★★; [Doyle Guides — Bonaire Updates 30/05/2017](https://doyleguides.com/bonaire-updated-guide/) ★★
+   - **documento di uscita (zarpe/despacho) del porto precedente — obbligatorio**: senza prova del Paese di provenienza l'ingresso può essere rifiutato (controllo applicato anche su arrivi dal Venezuela/Los Roques). Fonti diportiste aggregate ★★★; [Doyle Guides — Bonaire Updates 30/05/2017](https://doyleguides.com/bonaire-updated-guide/) ★★
    - ricevute **Visitor Entry Tax** e **STINAPA Nature Fee** se già pagate online (consigliato entro 48 h prima per la Entry Tax).
 3. **Avvisare Harbour Village Marina per l'ormeggio**: VHF **17** (gestione mooring) o **12** per disponibilità prima dell'ingresso secondo fonti secondarie; tel +599 717 7419. Le boe overnight non sono prenotabili, assegnazione first-come first-served. [InfoBonaire — Yachting & Cruising](https://infobonaire.com/getting-to-bonaire/yachting-cruising/) ★★★; [NoForeignLand — Kralendijk](https://www.noforeignland.com/map/place/5730169490767872) ★★★
 
@@ -46,7 +46,7 @@ Se arrivi fuori orario (es. domenica), occupa una boa overnight libera e present
 
 | Voce | Costo | Fonte |
 |---|---|---|
-| Clearance Dogana + Immigrazione (ingresso/uscita) | **Gratuita** (in orario) | [Noonsite — Bonaire](https://www.noonsite.com/place/bonaire) ★★★; [CruisersWiki] ★★ |
+| Clearance Dogana + Immigrazione (ingresso/uscita) | **Gratuita** (in orario) | Fonti diportiste aggregate ★★★; [CruisersWiki] ★★ |
 | STINAPA Nature Fee | **US$ 40 p.p./anno solare** (1 gen–31 dic); <13 anni e residenti BES/ABC gratis; crocieristi Washington Slagbaai US$ 10/giorno | [stinapa.bonairenaturefee.org](https://stinapa.bonairenaturefee.org) ★★★★★; [STINAPA FAQ](https://stinapabonaire.org/contact/frequently-asked-questions/) ★★★★★ |
 | Visitor Entry Tax | **US$ 75 adulti / US$ 10 bambini 0–12 e residenti ex-Antille**; per visita, valida 1 mese; pagamento entro 48 h su tourismtax.bonairegov.com | [tourismtax.bonairegov.com](https://tourismtax.bonairegov.com) ★★★★★ |
 | Boa overnight STINAPA (visitatori) | **US$ 35/notte** — 30–51 boe bicolori davanti a Kralendijk, first-come first-served, max 18 m, tramite Harbour Village Marina | [Annual Report STINAPA 2022](https://stinapabonaire.org/wp-content/uploads/2023/03/STINAPA-Annual-Report-2022_Digital.pdf) ★★★★; [InfoBonaire](https://infobonaire.com/getting-to-bonaire/yachting-cruising/) ★★★ |
@@ -77,7 +77,7 @@ Bonaire National Marine Park circonda l'intera isola: **ancorare è vietato su c
 
 - Ingresso definito “facile e cordiale, gratuito, efficiente; tutti devono presentarsi per headcount” — Dogana trattiene flare/spear gun senza problemi e li restituisce in uscita. ★★ [CruisersWiki — Bonaire; Doyle Guides 2017]
 - Harbour Village molto reattivo su VHF per assegnazione boa; in alta stagione le boe si riempiono — chiamare prima dell'ingresso e tenere pronta cima lunga (≥6 m). ★★★ [NoForeignLand — Kralendijk; InfoBonaire]
-- Dal 2023 la Dogana si aspetta SailClear pre-compilato: chi arriva senza trova solo moduli cartacei e tempi più lunghi. ★★★ [Noonsite — Bonaire]
+- Dal 2023 la Dogana si aspetta SailClear pre-compilato: chi arriva senza trova solo moduli cartacei e tempi più lunghi. ★★★ [Fonti diportiste aggregate — Bonaire]
 
 ## Sanzioni
 

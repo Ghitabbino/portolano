@@ -8,7 +8,7 @@ Territorio d'oltremare britannico: politica migratoria di stampo britannico, con
 
 ## Cittadini UE — nessun visto, 90 giorni
 
-Per turismo gli italiani/UE entrano senza visto: all'arrivo viene di norma timbrato un soggiorno di **90 giorni**. Passaporto consigliato valido 6 mesi (prassi dei territori britannici). [ivisitanguilla.com](https://ivisitanguilla.com/entry-requirements/) ★★★★★ · Noonsite ★★★
+Per turismo gli italiani/UE entrano senza visto: all'arrivo viene di norma timbrato un soggiorno di **90 giorni**. Passaporto consigliato valido 6 mesi (prassi dei territori britannici). [ivisitanguilla.com](https://ivisitanguilla.com/entry-requirements/) ★★★★★ · Fontes náuticas agregadas ★★★
 
 ## Nota importante per chi arriva via mare
 
@@ -29,7 +29,7 @@ Procedura di estensione del soggiorno presso l'Immigrazione locale: **DATO MANCA
 | Cruising permit fuori da Road Bay | richiesto e COSTOSO, anche per il tender |
 | Tassa di partenza passeggeri | US$28 per adulto |
 
-Regime di importazione temporanea per barche extra-UE: **DATO MANCANTE**. Fonte tariffe: Noonsite ★★★
+Regime di importazione temporanea per barche extra-UE: **DATO MANCANTE**. Fonte tariffe: Fontes náuticas agregadas ★★★
 
 ## Vaccini
 

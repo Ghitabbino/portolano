@@ -10,8 +10,8 @@
 - Servizi: fuel dock ad alta pressione (gasolio duty free), chandler [Island Water World](https://www.shopsatrbm.com/marine-services.html), provisioning, lavanderia, wifi 24 h, ristoranti, noleggio auto, agenzia viaggi. ★★★★
 - Acqua ed elettricità **a contatore per singola barca**: il collegamento/la lettura li fa lo staff di pontile, mai manometterli. IGY regolamento marina ★★★★
 - Clearance in marina (vedi [01](01-clearance.md)); diritti ingresso <40 ft EC$5, >40 ft EC$15, overtime fuori orario (EC$10 sabato/festivi anticipati, EC$15 domenica, minimo 3 h). [stlucia.org](https://stlucia.org/en/plan-your-saint-lucia-trip/navigation-clearance/) 03/2026 ★★★★
-- Net dei cruiser locale ore 08:30 su VHF 68, lun–sab. [Noonsite](https://www.noonsite.com/place/st-lucia/rodney-bay/) ★★★★
-- ⚠️ Furti di dinghy/fuoribordo alle ancore e tentativi di imbarco notturni ricorrenti: sollevare e chiudere a chiave tutto, niente oggetti sciolti in cockpit. Noonsite ★★★★
+- Net dei cruiser locale ore 08:30 su VHF 68, lun–sab. Fuentes náuticas agregadas ★★★
+- ⚠️ Furti di dinghy/fuoribordo alle ancore e tentativi di imbarco notturni ricorrenti: sollevare e chiudere a chiave tutto, niente oggetti sciolti in cockpit. Fuentes náuticas agregadas ★★★★
 
 ### Ancoraggio nella baia di Rodney Bay
 - Rada ampia con buona tenuta su sabbia davanti a Reduit Beach, verso Gros Islet e sotto Pigeon Island (l'ancoraggio più tranquillo, il parco chiude la sera). Ancoraggio **gratuito**, nessun gestore; dinghy dock gratuito in marina. Cruisers Wiki / [blue-joline](https://blue-joline.com/en/sailing-area-Caribbean-island-of-St.-Lucia/) 2024 ★★
@@ -24,7 +24,7 @@
 
 ### Marigot Bay — Marigot Bay Yacht Haven (ex Capella, resort Zoëtry)
 - **13°58.0'N 61°01.5'W** · ufficio 8:00–16:30, check-in 13:00, check-out 11:00 · [marigotbayyachthaven.com](https://marigotbayyachthaven.com/) ★★★★
-- Baia cieca quasi invisibile dal mare, a metà costa ovest (~3,4 M a sud di Castries): hurricane hole storico riconosciuto come rifugio sicuro dalle principali assicurazioni. [Dockwa](https://dockwa.com/explore/destination/z4c32r-marigot-bay-yacht-haven) / Noonsite ★★★★
+- Baia cieca quasi invisibile dal mare, a metà costa ovest (~3,4 M a sud di Castries): hurricane hole storico riconosciuto come rifugio sicuro dalle principali assicurazioni. [Dockwa](https://dockwa.com/explore/destination/z4c32r-marigot-bay-yacht-haven) / Fuentes náuticas agregadas ★★★★
 - 42 posti su pontili fissi fino a 280 ft (85 m) e pescaggio fino a ~5–6 m; corrente 110/220 V mono e 410 V trifase 50 Hz, acqua potabile 50 psi, wifi incluso. Dogana/immigrazione alla reception della marina (anche riscossione tasse SLASPA). [Ocean Posse](https://oceanposse.com/marigot-bay-yacht-haven/) / stlucia.org ★★★★
 - 20 boe nel bacino interno certificate 70 t: boa in alta stagione ~40 USD/notte (recensioni 2022–24, confermare). Fuel diesel/benzina a pontile, difficoltoso oltre 16 m. Partner Ocean Posse: **−15 % dockage**. Ingressi chiusi con vento >15 kn. Ocean Posse / recensioni Dockwa ★★★
 - Accesso alle piscine del resort a pagamento: day pass ~10 USD o pacchetti cena 70–110 USD pp. Recensioni Dockwa ★★
@@ -36,7 +36,7 @@
 - Porto d'ingresso ufficiale: dogana nell'ufficio SMMA sul lungomare, +1 758 459 5656; immigrazione alla polizia in bayfront. Nessun pontile yacht: si resta a boa (o àncora nelle zone ammesse). stlucia.org / SSG 07/2026 ★★★★
 - **Ancoraggio vietato in tutta la SMMA** salvo due micro-zone (a nord di Anse Chastanet e la parte nord di Hummingbird Beach, aperta al bisogno solo per maltempo su annuncio VHF). Circa 60 boe in 5 aree: Anse Chastanet/Mamin, Rachette Point, jetty di Soufrière, Malgretoute (oltre 20 a nord del Petit Piton), Beausejour; boe scenografiche anche a Jalousie/Sugar Beach tra i due Piton. [SMMA](https://smmainc.com/yacht-mooring-areas/) ★★★★
 - Obbligatorio il **Coral Conservation Permit**, pagato ai ranger su VHF 16 (verifica chiamando il 16); prenotazione boa possibile col modulo online SMMA. Codice boe: bianche/blu yacht, arancioni dive/dinghy, gialle private. SMMA / stlucia.org ★★★★
-- ⚠️ Noonsite segnala un doganiere che ha chiesto EC$125 extra oltre il permit: pretendere sempre la ricevuta. ★★★★
+- ⚠️ Fuentes náuticas agregadas segnala un doganiere che ha chiesto EC$125 extra oltre il permit: pretendere sempre la ricevuta. ★★★★
 - ⚠️ Episodi gravi contro yacht ancorati segnalati da diportisti proprio a Soufrière/Anse Canaries: massima cautela notturna, serrature ovunque. Recensioni marinas.com ★★
 
 ## Costa atlantica (est)

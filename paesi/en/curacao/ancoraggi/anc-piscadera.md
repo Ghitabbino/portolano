@@ -15,6 +15,6 @@
 <div class="mapframe" data-slug="anc-piscadera" data-lat="12.122" data-lon="-68.968"></div>
 *Cartina of dettaglio — zoom ± fino at the baia · mappa offline · coordinate WGS84 verificate satellite (in mezzo at the mare)*
 
-Fonti: Sailing Anima (01/2026) ★★★ · Piscadera Bay 12°07'30"N 68°58'00"W (Wikipedia/Mapcarta) ★★★★ · Noonsite Update 13/08/2025 ★★★
+Fonti: Sailing Anima (01/2026) ★★★ · Piscadera Bay 12°07'30"N 68°58'00"W (Wikipedia/Mapcarta) ★★★★ · Cruising sources aggregate Update 13/08/2025 ★★★
 
 Last updated: 28/08/2026

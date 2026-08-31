@@ -5,23 +5,23 @@
 | Champ | Détail |
 |---|---|
 | Zone | Le Diamant |
-| Cuisine | 🥩 Brasiliana-caraibica |
-| Spécialité | Tartare pesce del giorno · accras |
-| Coût | 💰€€ per persona senza bevande |
-| Emplacement | 🌅 vista Rocher, tramonto |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Palmeiras+Karaïb+Le+Diamant) |
+| Cuisine | 🥩 Brésilienne-caraïbe |
+| Spécialité | Tartare poisson du jour · accras |
+| Coût | 💰€€ par personne hors boissons |
+| Emplacement | 🌅 vue Rocher, coucher de soleil |
+| Carte | [Google Maps](https://www.google.com/maps/search/?api=1&query=Palmeiras+Karaïb+Le+Diamant) |
 | Contacts | 0596 76 12 99 |
 | Évaluations | Google 4,4/5 (880) · TA 4,2/5 (1029) → ★★★★½ |
-| Horaires | lun 12–23 · mer–sab 12–23 · dom 12–15 · chiuso martedì |
+| Horaires | lun 12–23 · mer–sam 12–23 · dim 12–15 · fermé mardi |
 
 ## Menu
 
-- Tartare pesce del giorno
-- Burger pane fatto in casa
-- Camembert fritto
+- Tartare poisson du jour
+- Burger pain maison
+- Camembert frit
 - Accras du Rocher
 - Tapas
-- Cocktail
+- Cocktails
 
 **Chef**: ND
 
@@ -29,6 +29,6 @@
 
 ![Palmeiras Karaïb](img/martinica/rist-palmeiras.jpg)
 
-*Source: bellemartinique.com*
+*Source : bellemartinique.com*
 
-**Note**: Spiaggia Dizac/Anse Caffard davanti al Rocher (ex New Cap) · riaperto 31/07/2026 dopo sargassi
+**Notes** : Plage de Dizac/Anse Caffard face au Rocher (ex New Cap) · rouvert 31/07/2026 après sargasses

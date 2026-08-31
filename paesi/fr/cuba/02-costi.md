@@ -4,7 +4,7 @@
 
 Devise: **peso cubano CUP** + **MLC digitale** (Moneda Libremente Convertible) su carta prepagata. CUC abolito dal 2021. Tasso ufficiale ~120 CUP/USD, **tasso informale 330-380 CUP/USD** (elToque 05/2026 ★★★★). Usare il tasso ufficiale con carta/ATM si perde 2/3 del valore — portare **EUR cash** in banconote perfette ★★★★
 
-> ⚠️ Le voci di questo elenco sono le stesse per tutti i paesi del portolano. Dove il dato non è stato ancora trovato dalle fonti si scrive **DONNÉE MANQUANTE**: viene ricercato al controllo mensile (vedi [00 Index](../00-indice.md)).
+> ⚠️ Le voci di questo elenco sono le stesse per tutti i paesi del portolano. Dove il dato non è stato ancora trovato dalle fonti si scrive **DONNÉE MANQUANTE**: viene ricercato al controllo mensile (vedi [00 Index](00-indice.md)).
 
 ## Alimentation & avitaillement
 

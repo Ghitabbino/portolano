@@ -1,49 +1,49 @@
-# 00 — Ingresso, documenti e visti
+# 00 — Einreise, Dokumente & Visa
 
-**Ultima verifica: 21/08/2026 · fonti ufficiali controllate**
+**Letzte Überprüfung: 21/08/2026 · offizielle Quellen geprüft**
 
 ## Status
 
-La Guadalupa è un **dipartimento francese d'oltremare (DROM)**: parte dell'UE (regione ultraperiferica) ma **fuori dall'area Schengen**, esattamente come la Martinica. Regime identico per persone; territorio doganale unico UE per le barche.
+Guadeloupe ist ein **französisches Übersee-Département (DROM)**: Teil der EU (Region in äußerster Randlage) aber **außerhalb des Schengen-Raums**, genau wie Martinique. Identisches Regime für Personen; einheitliches EU-Zollgebiet für Yachten.
 
-## Cittadini UE — nessun visto
+## EU-Bürger — kein Visum
 
-| Voce | Regola | Fonte |
+| Posten | Regel | Quelle |
 |---|---|---|
-| Visto | **Non richiesto** ai cittadini europei per l'outre-mer | immigration.interieur.gouv.fr, "Les visas pour l'outre-mer" (I visti per l'oltremare) ★★★★★ |
-| Documenti | **Carta d'identità o passaporto in corso di validità** — la carta basta per Guadeloupe/Martinique | Service-Public F591, verificato 10/12/2024 ★★★★★ |
-| Soggiorno ≤3 mesi | "Potete entrare e soggiornare fino a 3 mesi in Francia (oltremare compreso) senza formalità particolari" [orig.: *vous pouvez entrer et séjourner jusqu'à 3 mois en France, y compris outre-mer*] | Service-Public F10610, verificato 20/11/2024 ★★★★★ |
+| Visum | **Nicht erforderlich** für europäische Bürger für das Outre-mer | immigration.interieur.gouv.fr, "Les visas pour l'outre-mer" (Visa für Übersee) ★★★★★ |
+| Dokumente | **Gültiger Personalausweis oder Reisepass** — der Ausweis genügt für Guadeloupe/Martinique | Service-Public F591, geprüft 10/12/2024 ★★★★★ |
+| Aufenthalt ≤3 Monate | "Sie können bis zu 3 Monate ohne besondere Formalitäten nach Frankreich (einschließlich Übersee) einreisen und sich dort aufhalten" [Orig.: *vous pouvez entrer et séjourner jusqu'à 3 mois en France, y compris outre-mer*] | Service-Public F10610, geprüft 20/11/2024 ★★★★★ |
 
-⚠️ **Attenzione al transito**: se il viaggio passa da un paese extra-UE (es. Sint Maarten, Antigua), serve il **passaporto**. [Service-Public F591 ★★★★★]
+⚠️ **Achtung Transit**: Führt die Reise über ein Nicht-EU-Land (z. B. Sint Maarten, Antigua), ist der **Reisepass erforderlich**. [Service-Public F591 ★★★★★]
 
-## Nota importante per chi arriva via mare
+## Wichtiger Hinweis für Ankommende auf See
 
-- Controlli **persone** (police) separati dalla **clearance barca** (dogane): la clearance è obbligatoria per tutti i natanti da/per l'estero → vedi [01 — Clearance](01-clearance.md).
-- Arrivando direttamente da isola estera (Dominica, Antigua, Montserrat) tenere pronti i documenti di tutto l'equipaggio: la dichiarazione online li richiede uno per uno. [ 2024, martinique.gouv.fr ★★★★★]
+- **Personenkontrollen** (Police) getrennt von der **Yacht-Clearance** (Zoll): Die Clearance ist für alle Yachten von/nach dem Ausland verpflichtend → siehe [01 — Clearance](01-clearance.md).
+- Bei Direktanlauf von einer ausländischen Insel (Dominica, Antigua, Montserrat) Dokumente der gesamten Crew bereithalten: Die Online-Erklärung verlangt sie einzeln. [ 2024, martinique.gouv.fr ★★★★★]
 
-## E dopo i 3 mesi? (cittadini italiani/UE)
+## Über 3 Monate hinaus (italienische/EU-Bürger)
 
-**Nessuna formalità da completare**: non c'è un permesso da rinnovare né un'estensione da chiedere.
+**Keine Formalität erforderlich**: Es gibt keine zu verlängernde Erlaubnis und keinen zu beantragenden Aufschub.
 
-| Situazione | Regola | Fonte |
+| Situation | Regel | Quelle |
 |---|---|---|
-| Soggiorno turistico oltre 3 mesi | Per cittadini UE/Svizzera **non esiste un limite specifico** ai soggiorni turistici; la carte de séjour in Francia è **facoltativa** | Les Îles de Guadeloupe (comitato turismo ufficiale), FAQ 04/06/2025 ★★★★; Service-Public F22116 ★★★★★ |
-| Quota Schengen 90/180 | **Non si applica**: le regole Schengen valgono solo per il territorio europeo della Francia (art. 138 Convenzione di applicazione Schengen). I giorni qui NON consumano la quota europea; viceversa un visto Schengen non permette di entrare nelle Antille | immigration.interieur.gouv.fr ★★★★★; Service-Public F10610 ★★★★★ |
-| Soggiorni lunghi | Come in tutta l'UE (direttiva 2004/38): risorse sufficienti e assicurazione malattia; nessun atto obbligatorio se non si richiede volontariamente un titolo | Service-Public F10610 ★★★★★ |
+| Touristenaufenthalt über 3 Monate | Für EU-/Schweizer Bürger **keine spezifische Begrenzung** für touristische Aufenthalte; die carte de séjour in Frankreich ist **fakultativ** | Les Îles de Guadeloupe (offizielles Tourismuskomitee), FAQ 04/06/2025 ★★★★; Service-Public F22116 ★★★★★ |
+| Schengen-Quote 90/180 | **Nicht anwendbar**: Schengen-Regeln gelten nur für das europäische Hoheitsgebiet Frankreichs (Art. 138 Schengener Durchführungsübereinkommen). Tage hier verbrauchen NICHT das europäische Kontingent; umgekehrt berechtigt ein Schengen-Visum nicht zur Einreise in die Antillen | immigration.interieur.gouv.fr ★★★★★; Service-Public F10610 ★★★★★ |
+| Lange Aufenthalte | Wie überall in der EU (Richtlinie 2004/38): ausreichende Mittel und Krankenversicherung; kein Pflichtakt, solange kein Titel freiwillig beantragt wird | Service-Public F10610 ★★★★★ |
 
-In pratica: **si resta a tempo indeterminato** (turismo) con la sola carta d'identità valida. Per lavoro locale o residenza stabile cambiano fiscalità e regole residenziali — serve consulenza dedicata.
+In der Praxis: **Man kann unbegrenzt bleiben** (Tourismus) nur mit gültigem Personalausweis. Für lokale Arbeit oder festen Wohnsitz gelten andere Steuer- und Melde­regeln — spezifische Beratung erforderlich.
 
-## La barca: nessun limite di permanenza
+## Das Boot: keine Aufenthaltsbegrenzung
 
-| Barca | Regola | Fonte |
+| Yacht | Regel | Quelle |
 |---|---|---|
-| **UE con IVA pagata** (caso tipico: barca italiana) | Territorio doganale UE → **libera circolazione, nessun limite di tempo, nessun cruising permit**. Solo clearance dichiarativa online all'arrivo/partenza da extra-UE | douane.gouv.fr ★★★★★ |
-| Extra-UE | **Admission Temporaire (AT)**: max **18 mesi** nel territorio doganale UE (artt. 250–253 CDU); rinnovabile uscendo dal territorio UE (tocco porto terzo sul log-book = prova); tetto cumulativo 10 anni. In Antille valida anche nel Marché Unique Antillais/OECS | douane.gouv.fr "Régime particulier : l'admission temporaire" (Regime particolare: ammissione temporanea), agg. 15/02/2024 ★★★★★; CDUE art. 251 ★★★★★; bateaux-antilles.fr ★★★ |
+| **EU mit bezahlter MwSt.** (typisch: italienische Yacht) | EU-Zollgebiet → **freier Verkehr, keine zeitliche Begrenzung, kein Cruising Permit**. Nur deklaratorische Online-Clearance bei Ankunft/Abfahrt von/nach Nicht-EU | douane.gouv.fr ★★★★★ |
+| Nicht-EU | **Vorübergehende Verwendung (Admission Temporaire, AT)**: max. **18 Monate** im EU-Zollgebiet (Art. 250–253 UZK); verlängerbar durch Verlassen des EU-Gebiets (Anlaufen eines Dritt­hafens im Logbuch = Nachweis); kumulierte Obergrenze 10 Jahre. Auf den Antillen auch im Marché Unique Antillais/OECS gültig | douane.gouv.fr "Régime particulier : l'admission temporaire" (Besondere Regelung: vorübergehende Verwendung), aktualisiert 15/02/2024 ★★★★★; Unionszollkodex Art. 251 ★★★★★; bateaux-antilles.fr ★★★ |
 
-⚠️ Barca extra-UE sotto AT: vietato noleggio e vendita in UE, uso privato da residenti extra-UE soltanto — violazione = tassazione immediata. ★★★★★
+⚠️ Yacht unter AT (Nicht-EU): kein Chartern und kein Verkauf in der EU, ausschließlich private Nutzung durch Gebietsfremde — Verstoß führt zur sofortigen Besteuerung. ★★★★★
 
-## Vaccini
+## Impfungen
 
-Nessun vaccino obbligatorio dall'UE. Raccomandata protezione antilarvale (dengue presente). ★★★★
+Keine Pflichtimpfung bei Einreise aus der EU. Mückenschutz empfohlen (Dengue vorhanden). ★★★★
 
-Ultimo aggiornamento: 22/08/2026
+Letzte Aktualisierung: 22/08/2026

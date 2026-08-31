@@ -15,6 +15,6 @@
 <div class="mapframe" data-slug="anc-hemingway" data-lat="23.087" data-lon="-82.497"></div>
 *Carte détaillée — zoomez jusqu’à la baie · carte hors ligne · coordinate WGS84 indicative, toujours vérifier avec le traceur*
 
-Fonti: Noonsite Cuba ★★★ · ricerche/cuba.md
+Fonti: Sources plaisance agrégées Cuba ★★★ · ricerche/cuba.md
 
 Dernière mise à jour: 25/08/2026

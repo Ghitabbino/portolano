@@ -11,7 +11,7 @@ Hub of the crociera è la **costa sud**: quattro cantieri (Clarkes Court, Spice 
 | **Grenada Marine** | St David's Harbour (SE) | Travelift **70 t extra-largo (fino a 32 ft of baglio)** — very usato dai multibigli | Storage fino a ~230-250 unità, manutenzione/repair, shipwright, metal fabbrica, riggers, elettrici, bar/ristorante, chandlery Island Water World in sede, dogana/immigrazione; only armatori/equipaggi possono lavorare sulle barche | +1 473 443-1667 · customerservice@grenadamarine.com · grenadamarine.com · VHF 16 | ★★½ — Google 3,3/5 (48): haul-out puntuali and ben gestiti; ma casi documentati of riparazioni rifatte altrove and aumenti non comunicati |
 | **Secret Harbour Marina** | Mt Hartman Bay, Lance aux Épines (12°00,25'N 61°45,11'W) | 53 posti fino a 200 ft, pescaggio max 20 ft, corrente 50 Hz ad alta capacità | Dockage sicuro (uno of the porti considerati more protetti of the Caraibi), Hurricane Plan pubblicato, security dedicata, fuel, acqua/ghiaccio, wifi, ristorante/bar, pool/tennis | +1 473 444-4449 · WhatsApp +1 473 405-2884 · Security +1 473 405-2529 · enquiries@secretharbourgrenada.com · VHF 16/68 | ★★★★ — NFL marina 4,6/5: staff gentile; segnalate infrastrutture molo from manutenere and costi luce alti |
 
-[clarkescourtmarina.com ★★★★; spiceislandmarine.com/noonsite ★★★★; noonsite St David's ★★★★; secretharbourgrenada.com ★★★★; noforeignland.com community ★★★; agg. 28/08/2026]
+[clarkescourtmarina.com ★★★★; spiceislandmarine.com/Fonti diportiste aggregate ★★★★; Fonti diportiste aggregate St David's ★★★★; secretharbourgrenada.com ★★★★; noforeignland.com community ★★★; agg. 28/08/2026]
 
 Nota: **Hartman Cove Marine Services** (Mt Hartman) offre haul-out with travelift new; NFL 4,5/5 — servizi essenziali, essere presenti durante i lavori. [noforeignland ★★★]
 
@@ -30,12 +30,12 @@ Nota: **Hartman Cove Marine Services** (Mt Hartman) offre haul-out with travelif
 | **Onboard Services Electrical A/C & Refrig** | — | Elettrico + clima/frigo, visite ripetute fino a risoluzione | DATA MISSING | Mobile | ★★★★★ NFL |
 | **Dolphin Marine** | — | Lavaggio/pulizia scafi, rimozione ruggine, cleaning fondali | DATA MISSING | Mobile | ★★★★★ NFL |
 
-> Nominativi tratti dalla community noforeignland (recensioni verificate 2026). Telefoni with **DATA MISSING**: recuperare i contatti at the controllo mensile or via directory cantieri/noonsite — never inventare numeri.
+> Nominativi tratti dalla community noforeignland (recensioni verificate 2026). Telefoni with **DATA MISSING**: recuperare i contatti at the controllo mensile or via directory cantieri/Fonti diportiste aggregate — never inventare numeri.
 
 ## Dove si trova cosa
 
 - **Motoristica/frigo/elettrico**: artigiani mobili che raggiungono le baie (tabella sopra) + officine interne at the cantieri (Spice Island: squadra saldatura/fabbricazione attiva from oltre 11 anni; Grenada Metal Fabbrica a St David's). [spiceislandmarine.com ★★★★]
-- **Vele/rigging**: sail loft a Spice Island (Budget Marine campus) and riggers approvati a Clarkes Court and Grenada Marine; canvas very forte sul territorio. [puregrenada/noonsite ★★★]
+- **Vele/rigging**: sail loft a Spice Island (Budget Marine campus) and riggers approvati a Clarkes Court and Grenada Marine; canvas very forte sul territorio. [puregrenada/Fonti diportiste aggregate ★★★]
 - **Storage uragani**: Grenada Marine ha il record storico migliore on Ivan second i forum; Clarkes Court è la scelta more citata for multihull grandi (37 ft of baglio); prenotare entro primavera. [cruisersforum ★★★; thetripverdict ★★★]
 
 ## Negozi of attrezzature and shipchandler
@@ -54,7 +54,7 @@ Nota: **Hartman Cove Marine Services** (Mt Hartman) offre haul-out with travelif
 
 - **Pagamenti**: XCD (2,70 = US$1); carte accettate nei cantieri/negozi grandi, contanti for gli artigiani mobili. Chiedere always fattura.
 - **Processing time**: ricambi from USA/Europa = 1–3 settimane; Wholesale Yacht Parts and i negozi IWW/Budget fanno from ponte with i fornitori USA. Ordini online consegnabili presso marina/cantiere indicando nome barca.
-- **Fee contratisti esterni**: ~15% a Clarkes Court for ditte non approvate; a Grenada Marine i lavori esterni are limitati at the casi in cui i 12 tecnici interni non possano eseguirli. [clarkescourtmarina.com/noonsite ★★★★]
+- **Fee contratisti esterni**: ~15% a Clarkes Court for ditte non approvate; a Grenada Marine i lavori esterni are limitati at the casi in cui i 12 tecnici interni non possano eseguirli. [clarkescourtmarina.com/Fonti diportiste aggregate ★★★★]
 - **Superyacht**: directory dedicata on superyachtservicesgrenada.com (Spice Island Marine and IWW vi are censiti). [SSG ★★★]
 
 Last updated: 28/08/2026

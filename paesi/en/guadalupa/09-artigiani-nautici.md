@@ -1,44 +1,44 @@
-# 09 — Marine Trades & Chandlers
+# 09 — Marine Artisans & Chandlers
 
 **Last updated: 21/08/2026**
 
-⚠️ Contacts raccolti from fonti pubbliche/recensioni: quelli without fonte diretta vanno verificati telefonicamente prima of affidare lavori.
+⚠️ Contacts gathered from public sources/reviews: those without a direct source should be verified by phone before commissioning work.
 
-## Tabella artigiani
+## Artisans Table
 
-| Service | Nome | Contacts | Note | Source |
+| Service | Name | Contacts | Notes | Source |
 |---|---|---|---|---|
-| Chantier navale | **Caraïbes Docks Services** | +590 690 61 78 25 · docks971.com | Carénage, riparazioni, manutenzione; recensioni miste on pulizia strutture |sito ★★★|
-| Shipchandler | **USHIP** | — | Votato miglior chandlery of the Caraibi dai crocieristi: assortimento pesca+nautica completo |★★★★★|
-| Shipchandler | **Captain' Nautic** | — | Ben fornito, personale anglofono |★★★★★|
-| Concierge/servizi barca | Guadeloupe Yacht Concierge | +590 690 72 88 09 | Assistenza in marina Bas-du-Fort |★★★★|
-| Capitaineria | Marina Bas-du-Fort | +590 590 936 620 · contact@marinaguadeloupe.com · VHF 9 | Travelift 35 t, dock 700 t |★★★★|
-| Marina | Saint-François capitainerie | +590 596 738 405 · marina@ville-saintfrancois.fr | Fuel, water, carenaggio leggero |lista dogane ★★★★★|
-| Marina/rifugio | Sud Ancrage (Rivière Sens) | +590 590 867 943 · sudancrage@orange.fr | Ottimo riparo sud-ovest, clearance |lista dogane ★★★★★|
-| Marina/rifugio | Barracuda Marina (Rivière Sens) | +590 590 922 786 | Clearance + ristorante |lista dogane ★★★★★|
-| Multiservizi | I.S.M Les Saintes | +590 590 815 357 · lessaintesmultiservices@gmail.com | Clearance, internet, lavanderia |lista dogane ★★★★★|
+| Boatyard | **Caraïbes Docks Services** | +590 690 61 78 25 · docks971.com | Careening, repairs, maintenance; mixed reviews on cleanliness |site ★★★|
+| Chandlery | **USHIP** | — | Voted best Caribbean chandlery by cruisers: full fishing + yachting range |★★★★★|
+| Chandlery | **Captain' Nautic** | — | Well stocked, English-speaking staff |★★★★★|
+| Yacht concierge / boat services | Guadeloupe Yacht Concierge | +590 690 72 88 09 | Assistance in Marina Bas-du-Fort |★★★★|
+| Harbour office | Marina Bas-du-Fort | +590 590 936 620 · contact@marinaguadeloupe.com · VHF 9 | 35 t travelift, 700 t dock |★★★★|
+| Marina | Saint-François harbour office | +590 596 738 405 · marina@ville-saintfrancois.fr | Fuel, water, light careening |customs list ★★★★★|
+| Marina / hurricane hole | Sud Ancrage (Rivière Sens) | +590 590 867 943 · sudancrage@orange.fr | Excellent SW shelter, clearance |customs list ★★★★★|
+| Marina / hurricane hole | Barracuda Marina (Rivière Sens) | +590 590 922 786 | Clearance + restaurant |customs list ★★★★★|
+| Multi-services | I.S.M Les Saintes | +590 590 815 357 · lessaintesmultiservices@gmail.com | Clearance, internet, laundry |customs list ★★★★★|
 
-## Altri operatori utili
+## Other Useful Operators
 
-⚠️ Elenco to be completed at the prossimo aggiornamento: freelance motoristica/elettronica segnalati in capitaineria Bas-du-Fort; sailmaker itineranti in stagione. [from check]
+⚠️ List to be completed at next update: freelance engine/electronics technicians listed at Marina Bas-du-Fort harbour office; itinerant sailmakers in season. [to be verified]
 
-## Dove si trova cosa
+## Where to Find What
 
-- **Motoristica/refrigerazione/elettronica**: rete less fitta of Le Marin; chiedere in capitaineria Bas-du-Fort or at the concierge for l'elenco aggiornato of the freelance.
-- **Vele**: no veleria importante in loco ⚠️ — riparazioni urgenti presso sailmaker itineranti; lavori seri a Le Marin (Martinica).
-- **Rigging**: professionisti mobili from Jarry; check referenze prima of lavori in quota.
-- **Antifouling/carenaggio**: Caraïbes Docks or centro Bas-du-Fort (dock flottante 700 t).
+- **Engines / refrigeration / electronics**: thinner network than Le Marin; ask at Marina Bas-du-Fort harbour office or the concierge for the current freelance list.
+- **Sails**: no major sail loft on site ⚠️ — emergency repairs by itinerant sailmakers; major jobs at Le Marin (Martinique).
+- **Rigging**: mobile professionals from Jarry; check references before aloft work.
+- **Antifouling / careening**: Caraïbes Docks or Bas-du-Fort centre (700 t floating dock).
 
-## Negozi of attrezzature and shipchandler
+## Chandlery & Equipment Shops
 
-| Negozio | Area | Note | Source |
+| Shop | Area | Notes | Source |
 |---|---|---|---|
-| **USHIP** | Baie-Mahault/Grande-Terre | Votato miglior chandlery of the Caraibi dai crocieristi: assortimento pesca+nautica completo |★★★★★|
-| **Captain' Nautic** | Grande-Terre | Ben fornito, personale anglofono |★★★★★|
+| **USHIP** | Baie-Mahault/Grande-Terre | Voted best Caribbean chandlery by cruisers: full fishing + yachting range |★★★★★|
+| **Captain' Nautic** | Grande-Terre | Well stocked, English-speaking staff |★★★★★|
 
-## Note pratiche
+## Practical Notes
 
-- Per grandi lavori la coppia vincente resta: **Guadalupa = provviste/pezzi (Jarry)** + **Le Marin = manodopera specializzata**.
-- Chi sverna qui fa bene a prenotare il travelift Bas-du-Fort with anticipo (giugno–novembre pieno).
+- For major jobs the winning combination remains: **Guadeloupe = provisioning/parts (Jarry)** + **Le Marin = specialist labour**.
+- If overwintering here, book the Bas-du-Fort travelift well in advance (June–November fully booked).
 
 Last updated: 22/08/2026

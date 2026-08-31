@@ -17,4 +17,4 @@
 
 Fonti: [safetyanchoralarm.com South & East Coast](https://safetyanchoralarm.com/anchorages/barbados/barbados-south-east) ★★ · verificato su BA 1042 + satellite
 
-Ultimo aggiornamento: 25/08/2026
+Última actualización: 25/08/2026

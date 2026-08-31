@@ -27,4 +27,4 @@
 
 Fonti: [Totally Barbados — 13°/59°](https://www.totallybarbados.com/place/1359-restaurant/) ★★★ · [portferdinand.com](https://www.portferdinand.com) ★★★ · Google/TripAdvisor 28/08/2026 ★★★
 
-Ultimo aggiornamento: 28/08/2026
+Última actualización: 28/08/2026

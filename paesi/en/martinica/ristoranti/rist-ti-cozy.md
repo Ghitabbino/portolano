@@ -4,36 +4,36 @@
 
 | Field | Detail |
 |---|---|
-| Zona | Sainte-Anne |
-| Cucina | 🍰 Crêperie bretona |
-| Specialità | Galette sarrasin · glaces artigianali |
-| Costo | 💰€ per person without drinks |
-| Location | 🪶 rustico curato |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ti+Cozy+Sainte-Anne) |
-| Contatti | 0696 05 44 10 / 0596 97 74 89 |
-| Currencyzioni | TA 5,0/5 (198), Travellers' Choice 2024 → ★★★★★ |
-| Orari | 11–21:30 · chiusura settimanale divergente tra le fonti ⚠️ chiamare |
+| Area | Sainte-Anne |
+| Cuisine | 🍰 Breton crêperie |
+| Signature | Buckwheat galette · artisan ice creams |
+| Price | 💰€ per person without drinks |
+| Setting | 🪶 rustic, well-kept |
+| Map | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ti+Cozy+Sainte-Anne) |
+| Contact | 0696 05 44 10 / 0596 97 74 89 |
+| Ratings | TA 5.0/5 (198), Travellers' Choice 2024 → ★★★★★ |
+| Hours | 11:00–21:30 · weekly closure varies between sources ⚠️ please call |
 
 ## Menu
 
-- Galette sarrasin da 6 €
-- Crêpe Saint-Jacques
-- Crêpes dolci
-- Glaces artigianali locali
-- Jus frais maison
+- Buckwheat galette from €6
+- Saint-Jacques crêpe
+- Sweet crêpes
+- Local artisan ice creams
+- Homemade fresh juices
 
-**Chef**: Fred (cucina) e Franck Respriget (sala), bretoni
+**Chef**: Fred (kitchen) and Franck Respriget (dining room), both Breton
 
-## Foto
+## Photos
 
 ![Ti Cozy](img/martinica/rist-ti-cozy.jpg)
 
-*Fonte: TripAdvisor media CDN*
+*Source: TripAdvisor media CDN*
 
 ![Ti Cozy](img/martinica/rist-ti-cozy-2.jpg)
 
-*Fonte: TripAdvisor media CDN*
+*Source: TripAdvisor media CDN*
 
-**Note**: 8 av. J.-M. Tjibaou · N°1 TA a Sainte-Anne · pochi coperti
+**Notes**: 8 av. J.-M. Tjibaou · no. 1 on TA in Sainte-Anne · few covers
 
 **Extra**: email franck.respriget29@orange.fr

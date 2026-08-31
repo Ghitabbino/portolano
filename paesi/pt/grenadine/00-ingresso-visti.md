@@ -25,7 +25,7 @@
 
 ## Da verificare
 
-- Tariffa cruising permit 2026–27 (eventuali aggiornamenti Noonsite)
+- Tariffa cruising permit 2026–27 (eventuali aggiornamenti Fontes náuticas agregadas)
 
 Ultimo aggiornamento: 23/08/2026
 

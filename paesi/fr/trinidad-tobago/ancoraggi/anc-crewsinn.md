@@ -15,6 +15,6 @@
 <div class="mapframe" data-slug="anc-crewsinn" data-lat="10.6864" data-lon="-61.6381"></div>
 *Carte détaillée — zoomez jusqu’à la baie · carte hors ligne · coordinate WGS84 indicative, toujours vérifier avec le traceur*
 
-Fonti: Noonsite POE ★★★ · allatsea (04/2026) ★★★ · msatt.org ★★★★
+Fonti: Sources plaisance agrégées POE ★★★ · allatsea (04/2026) ★★★ · msatt.org ★★★★
 
 Dernière mise à jour: 25/08/2026

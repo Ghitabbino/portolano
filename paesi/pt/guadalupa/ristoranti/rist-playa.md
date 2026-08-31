@@ -1,28 +1,28 @@
 # La Playa
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Todos os restaurantes](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Campo | Detalhe |
 |---|---|
 | Zona | Marie-Galante |
-| Cucina | 🐟 Locale rivisitata |
-| Specialità | Pesce · boudin créole |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🏖️ beach front |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Playa+Marie-Galante) |
-| Contatti | [Mappa](https://www.google.com/maps/search/?api=1&query=La+Playa+Marie-Galante) |
-| Valutazioni | Google positive → ★★★★ |
-| Orari | stagionale ⚠️ |
+| Cozinha | 🐟 Local revisitada |
+| Especialidade | Peixe · morcela crioula |
+| Custo | 💰€€ por pessoa sem bebidas |
+| Local | 🏖️ em frente à praia |
+| Mapa | [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Playa+Marie-Galante) |
+| Contactos | [Mapa](https://www.google.com/maps/search/?api=1&query=La+Playa+Marie-Galante) |
+| Avaliações | Google — avaliações positivas → ★★★★ |
+| Horário | sazonal ⚠️ |
 
 ## Menu
 
-- Pesce
-- Boudin créole
+- Peixe
+- Morcela crioula
 
 **Chef**: ND
 
-## Foto
+## Fotos
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Fotos ainda não disponíveis — a recolher no controlo mensal.*
 
-**Note**: Da abbinare al giro dell'isola in scooter · da 25 €
+**Notas**: Para combinar com volta à ilha de scooter · a partir de 25 €

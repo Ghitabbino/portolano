@@ -41,7 +41,7 @@ Cuba è una repubblica socialista insulare; non fa parte dell'UE né di Schengen
 
 | Barca | Regola | Fonte |
 |---|---|---|
-| Tutte le bandiere (UE/extra-UE) | **Cruising permit / despacho** rilasciato all'ingresso (fee inclusa nei costi clearance ~57 USD); valido per navigazione costiera con obbligo di **despacho interno** ad ogni spostamento tra porti (firma Guarda Frontera) | Noonsite ★★★★; Yacht Pilot ★★★ |
+| Tutte le bandiere (UE/extra-UE) | **Cruising permit / despacho** rilasciato all'ingresso (fee inclusa nei costi clearance ~57 USD); valido per navigazione costiera con obbligo di **despacho interno** ad ogni spostamento tra porti (firma Guarda Frontera) | Fontes náuticas agregadas ★★★★; Yacht Pilot ★★★ |
 | Durata scafo | **Non esiste limite pubblicato per lo scafo** oltre la validità del visto equipaggio (90+90); per soste lunghe (>6 mesi) verificare con Aduana/Guarda Frontera al porto d'ingresso; nessuna tassa di importazione temporanea pubblicata come in UE | **DATO MANCANTE** per tetto ufficiale — da verificare in loco |
 | Obblighi | Despacho sempre a bordo, bandiera Q fino a clearance, divieto tender a terra fuori marina sull'isola principale, divieto ancoraggio 0-5 miglia nord | Marlin ★★★★ |
 | Svernamento | Nessun marina offre contratto svernamento ciclonico garantito; Hemingway ha qualche posto annuale ma senza riparo certificato | Marlin ★★ |

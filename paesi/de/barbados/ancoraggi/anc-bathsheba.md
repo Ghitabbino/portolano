@@ -1,20 +1,20 @@
-# Bathsheba / Tent Bay (costa EST — NON ANCORABILE) {#anc-bathsheba}
+# Bathsheba / Tent Bay (Ostküste — NICHT ANKERTAUGLICH) {#anc-bathsheba}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← Alle Ankerplätze](../08-ancoraggi.md)
 **13°14′49″ N 59°32′10″ W** ★
 
-| Campo | Dettaglio |
+| Feld | Detail |
 |---|---|
-| **Profondità** |4–10 m ma swell atlantico diretto continuo|
-| **Tenuta àncora** |NESSUNA PROTEZIONE: NON ANCORABILE in condizioni normali (solo pescherecci locali)|
-| **Venti/riparo** |Nessuna: costa a windward atlantica|
-| **Pericoli** |Da escludere dal portolano come ancoraggio (vale anche per Consett Bay); punto indicato solo come da EVITARE verificato su BA 1042 + satellite|
-| **Boe/divieti/normative** |—|
-| **A terra** |Bathsheba town|
+| **Tiefe** |4–10 m aber kontinuierlicher Atlantikschwell direkt |
+| **Halt** |KEIN SCHUTZ: UNTER NORMALEN BEDINGUNGEN NICHT ANKERTAUGLICH (nur lokale Fischerboote)|
+| **Wind/Schutz** |Keiner: atlantische Luvküste|
+| **Gefahren** |Als Ankerplatz aus dem Revierführer auszuschließen (gilt auch für Consett Bay); Punkt nur als ZU MEIDEN geführt — verifiziert auf BA 1042 + Satellit|
+| **Bojen/Verbote/Vorschriften** |—|
+| **Landgang** |Ort Bathsheba|
 
 <div class="mapframe" data-slug="anc-bathsheba" data-lat="13.247" data-lon="-59.536"></div>
-*Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
+*Detailkarte — mit ± bis in die Bucht zoomen · Offline-Karte · Koordinaten WGS84 indikativ, stets mit Plotter prüfen*
 
-Fonti: [safetyanchoralarm.com South & East Coast](https://safetyanchoralarm.com/anchorages/barbados/barbados-south-east) ★★ · verificato su BA 1042 + satellite
+Quellen: [safetyanchoralarm.com South & East Coast](https://safetyanchoralarm.com/anchorages/barbados/barbados-south-east) ★★ · verifiziert auf BA 1042 + Satellit
 
-Ultimo aggiornamento: 25/08/2026
+Letzte Aktualisierung: 25/08/2026

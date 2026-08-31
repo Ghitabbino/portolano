@@ -11,8 +11,8 @@
 | **Emplacement** |**DONNÉE MANQUANTE**|
 
 <div class="mapframe" data-slug="rist-arawak-cay-fish-fry" data-lat="25.08671" data-lon="-77.3619"></div>
-*Cartina di dettaglio: posizione a terra rispetto alla barca · zoom ±*
+*Carte détaillée : position à terre par rapport au bateau · zoom ±*
 
-Fonti: **DONNÉE MANQUANTE**
+Sources : **DONNÉE MANQUANTE**
 
-Dernière mise à jour: 25/08/2026
+Dernière mise à jour : 25/08/2026

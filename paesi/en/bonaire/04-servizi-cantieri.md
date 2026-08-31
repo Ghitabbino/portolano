@@ -2,42 +2,42 @@
 
 **Last checked: 28/08/2026**
 
-## Harbour Village Marina & Boat Yard Bonaire — hub tecnico dell'isola
+## Harbour Village Marina & Boat Yard Bonaire — The Island's Technical Hub
 
-### Harbour Village Marina (ufficiale ★★★★)
-- Kaya Gobernador Debrot 71, Kralendijk · +599 717-7419 / WA +599 701-7500 · [harbourvillage.com](https://www.harbourvillage.com/bonaire-marina) — 60 posti fino a 60 ft (mega-yacht 240 ft), diesel/benzina, propane $4,50/lb. ★★★★
-- Tariffe a piede/giorno: A&B $1,50/1,20/0,85, Lighthouse $0,95/0,85/0,80, catamarani +25 ft supplemento; pagamento anticipato, tax 6% gov. ★★★★
-- Servizi: acqua $0,10/gal, elettricità $0,75/kWh, Wi-Fi, lavanderia $5,50/kg, pump-out, sicurezza; VHF **DATA MISSING** — chiedere in capitaineria. ★★★
+### Harbour Village Marina (official ★★★★)
+- Kaya Gobernador Debrot 71, Kralendijk · +599 717-7419 / WA +599 701-7500 · [harbourvillage.com](https://www.harbourvillage.com/bonaire-marina) — 60 berths up to 60 ft (mega-yacht 240 ft), diesel/petrol, propane $4.50/lb. ★★★★
+- Rates per foot/day: A&B $1.50/1.20/0.85, Lighthouse $0.95/0.85/0.80, catamarans >25 ft beam surcharge; payment in advance, 6% govt tax. ★★★★
+- Services: water $0.10/gal, power $0.75/kWh, Wi-Fi, laundry $5.50/kg, pump-out, security; VHF **DATA MISSING** — ask at the marina office. ★★★
 
-### Artigiani e servizi segnalati (★★ — esperienze individuali)
+### Trades & Services Reported (★★ — individual experiences)
 
-| Servizio | Nome | Contatto | Note |
+| Service | Name | Contact | Notes |
 |---|---|---|---|
-| Alaggio & storage | [Boat Yard Bonaire](https://www.boatyardbonaire.com) | Kaya Rotterdam 22, Hato · +599 717 00 63 · WA +599 7867159 | 7.500 mq, fino a 50 ft (scivolo 26–28 ft per cat), antifouling/sabbiatura ★★★ |
-| Carenaggio/Varadero | [Marina de Bonaire Varadero](https://marinadebonaire.com/en/varadero) | VHF 9 · varadero@marinadebonaire.com | 5.400 mq, travelift **28 t** (28 GRT), max 16×5 m, lavaggio 250 bar ★★★★ |
-| Elettronica/Victron | [Yacht Services Bonaire](https://www.yachtbonaire.com) | Kaya Rotterdam 22 · +599 7823851 · info@yachtbonaire.com | Lithium, solar, NMEA, watermaker, off-grid ★★ |
-| Fuoribordo/mercury | [ABC Marine Bonaire](https://abcmarinebonaire.com) | Tras Montagne 11 · +599 7806919 / +599 7959450 | Mercury certificato dal 2003, diesel, dry storage ★★ |
+| Haul-out & storage | [Boat Yard Bonaire](https://www.boatyardbonaire.com) | Kaya Rotterdam 22, Hato · +599 717 00 63 · WA +599 7867159 | 7,500 sq m, up to 50 ft (slipway 26–28 ft for cats), antifouling/blasting ★★★ |
+| Careening / boatyard | [Marina de Bonaire Varadero](https://marinadebonaire.com/en/varadero) | VHF 9 · varadero@marinadebonaire.com | 5,400 sq m, travelift **28 t** (28 GRT), max 16×5 m, 250-bar wash ★★★★ |
+| Electronics / Victron | [Yacht Services Bonaire](https://www.yachtbonaire.com) | Kaya Rotterdam 22 · +599 7823851 · info@yachtbonaire.com | Lithium, solar, NMEA, watermakers, off-grid ★★ |
+| Outboards / Mercury | [ABC Marine Bonaire](https://abcmarinebonaire.com) | Tras Montagne 11 · +599 7806919 / +599 7959450 | Certified Mercury dealer since 2003, diesel, dry storage ★★ |
 
-## Bonaire Nautico Marina / Kralendijk — supporto in città
-- [Bonaire Nautico Marina](https://bonairenautico.com) e Plaza Resort Marina (circa 7,5 ft in alta marea) · profondità limitata; supporto dinghy/slip, non polo di carenaggio. ★★
-- Per alaggio e refit importanti si usano Harbour Village / Boat Yard / Varadero; per grandi lavori hub regionali: **Curaçao (Spanish Water), Aruba (Varadero 60 t), Sint Maarten**. ★★
+## Bonaire Nautico Marina / Kralendijk — In-Town Support
+- [Bonaire Nautico Marina](https://bonairenautico.com) and Plaza Resort Marina (about 7.5 ft at high water) · limited depth; dinghy/slip support, not a haul-out centre. ★★
+- For haul-out and major refits use Harbour Village / Boat Yard / Varadero; for big jobs the regional hubs are: **Curaçao (Spanish Water), Aruba (Varadero 60 t), Sint Maarten**. ★★
 
-## Gas & Bottles
+## Gas & Cylinders
 
-- **Gas/GPL: scambio bombole** standard US; propane disponibile a Harbour Village ($4,50/lb) e via dealer locale — verificare attacco regolatore US. ★★★
-- Bombole Campingaz non sempre ricaricabili: prevedere adattatore EU/US e scorta; scambio spesso unico modo. ★★
+- **Gas/LPG: cylinder exchange** — US standard; propane available at Harbour Village ($4.50/lb) and via local dealers — check US thread/regulator. ★★★
+- Campingaz cylinders not always refillable: bring an EU/US adapter and keep a spare; exchange is often the only option. ★★
 
 ## Fresh Water
 
-- Harbour Village: **acqua a consumo $0,10/gal**; Boat Yard/Varadero: colonnine acqua+220 V in piazzale. Potabilità via rete WEB — chiedere conferma e tenere riserve/dissalatore. ★★★★
+- Harbour Village: **water metered at $0.10/gal**; Boat Yard/Varadero: water + 220 V pedestals in the yard. Potability via WEB mains — ask for confirmation and keep reserves/watermaker. ★★★★
 
 ## Strategic Notes
 
-Bonaire è **fuori dalla cintura uraganica principale** (12°N) e consente sosta lunga fuori stagione; ricambi spesso da ordinare via Curaçao/Miami con 1–3 settimane; spedire presso marina con nome yacht/posto/tel. ★★★
+Bonaire lies **outside the main hurricane belt** (12°N) and allows a long stay out of season; spares often have to be ordered via Curaçao/Miami with 1–3 weeks lead time; have items shipped care of the marina with boat name/berth/phone. ★★★
 
 ## Technical Hub
 
-Il polo è **Harbour Village + Boat Yard/Varadero**: **travelift 28 t**, scivolo fino a 50 ft, **7.500 mq storage** videosorvegliato,
-**full services e marchi Mercury/Victron**; artigiani concentrati a Hato/Kaya Rotterdam. ★★
+The hub is **Harbour Village + Boat Yard/Varadero**: **28 t travelift**, slipway up to 50 ft, **7,500 sq m of monitored storage**,
+**full services and Mercury/Victron dealers**; trades concentrated at Hato/Kaya Rotterdam. ★★
 
 Last updated: 28/08/2026

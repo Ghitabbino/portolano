@@ -51,7 +51,7 @@
 
 ## Furti ai danni dei crocieristi
 
-Dati **Caribbean Safety and Security Net (CSSN)** e **Noonsite** (controllo 25/08/2026):
+Dati **Caribbean Safety and Security Net (CSSN)** e **Fontes náuticas agregadas** (controllo 25/08/2026):
 
 - **Pochissimi incidenti gravi** su Dominica negli ultimi 5 anni entro 10 km da Roseau/Portsmouth; quasi tutti **furti di dinghy/fuoribordo** o **oggetti in pozzetto** durante assenza equipaggio. **Nessuna violenza alle persone** nei report su Dominica. ★★★
 - Hotspot segnalati (storico): **Roseau dinghy dock** (furti notturni), **Portsmouth** prima dell'arrivo di PAYS; dal presidio PAYS i report a Portsmouth sono **quasi azzerati**. ★★★
@@ -64,7 +64,7 @@ Dati **Caribbean Safety and Security Net (CSSN)** e **Noonsite** (controllo 25/0
 |---|---|---|
 | Furti dinghy | Unico problema ricorrente in tutti i Caraibi; a Dominica contenuto dal sistema PAYS | CSSN ★★★ |
 | Borseggi a Roseau | Mercato e Bay Front affollati: tenere borsa a tracolla, niente zaino aperto | advisory ★★★ |
-| Truffe ai boatboys | A Portsmouth i boatboys sono **organizzati in PAYS** (tariffe trasparenti EC$30 boa); a Roseau contrattare prima il prezzo boa/taxi | PAYS/Noonsite ★★★ |
+| Truffe ai boatboys | A Portsmouth i boatboys sono **organizzati in PAYS** (tariffe trasparenti EC$30 boa); a Roseau contrattare prima il prezzo boa/taxi | PAYS/Fontes náuticas agregadas ★★★ |
 
 ## Navigazione
 
@@ -74,7 +74,7 @@ Dati **Caribbean Safety and Security Net (CSSN)** e **Noonsite** (controllo 25/0
 | **Cabrits National Park** | Fondali protetti davanti a Portsmouth; rispettare boe e divieti parco | ★★★ |
 | Nasse da pesca | Boe e lenze galleggianti, talvolta oltre 3 M dalla costa ovest | ★★ |
 | IALA-B | Sistema boe **americano** (rosso a dritta entrando) — **invertito vs Europa** | ★★★ |
-| Swell da N/NW | Con mareggiata da nord, **Roseau e Pottersville** diventano pericolosi per la tenuta (rotture dinghy 2017) | Noonsite ★★ |
+| Swell da N/NW | Con mareggiata da nord, **Roseau e Pottersville** diventano pericolosi per la tenuta (rotture dinghy 2017) | Fontes náuticas agregadas ★★ |
 | Reef / bassi fondali non segnalati | Attenzione a reef vulcanici e secche vicino a Scotts Head e Mero; navigare con sole alto | ★★ |
 
 ## Numeri di emergenza
@@ -97,6 +97,6 @@ Dati **Caribbean Safety and Security Net (CSSN)** e **Noonsite** (controllo 25/0
 
 ## Monitoraggio mensile
 
-Fonti controllate ogni mese per l'aggiornamento di questa pagina: **voyage.gc.ca (Canada)** · **gov.uk/FCDO** · **travel.state.gov (USA)** · **safetyandsecuritynet.org (CSSN)** · **Noonsite** · **stampa locale Dominica (Dominica News Online, The Chronicle)** · **gruppi FB Dominica Cruisers / Caribbean Cruisers**. ★★
+Fonti controllate ogni mese per l'aggiornamento di questa pagina: **voyage.gc.ca (Canada)** · **gov.uk/FCDO** · **travel.state.gov (USA)** · **safetyandsecuritynet.org (CSSN)** · **Fontes náuticas agregadas** · **stampa locale Dominica (Dominica News Online, The Chronicle)** · **gruppi FB Dominica Cruisers / Caribbean Cruisers**. ★★
 
 Ultimo aggiornamento: 25/08/2026

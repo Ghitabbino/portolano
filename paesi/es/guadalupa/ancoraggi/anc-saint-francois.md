@@ -1,8 +1,8 @@
 # Saint-François {#anc-saint-francois}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← Todos los fondeaderos](../08-ancoraggi.md)
 <div class="mapframe" data-slug="saint-francois" data-lat="16.2450" data-lon="-61.2810" data-name="Saint-François"></div>
 
-Marina turistica + laguna protetta dalla diga: clearance point, fuel, water, ristoranti, casinò. Base comoda per Pointe des Châteaux e le isole orientali. Dentro la laguna quasi zero rollio anche con aliseo forte. Capitainerie +590 596 738 405.
+Marina turística + laguna protegida por el dique: punto de despacho, combustible, agua, restaurantes, casino. Base cómoda para Pointe des Châteaux y las islas orientales. Dentro de la laguna casi cero balanceo incluso con alisio fuerte. Capitanía +590 596 738 405.
 
-Ultimo aggiornamento: 22/08/2026
+Última actualización: 22/08/2026

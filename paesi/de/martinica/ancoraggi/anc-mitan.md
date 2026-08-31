@@ -1,17 +1,17 @@
 # Anse Mitan {#anc-mitan}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
-| Campo | Dettaglio |
+[← Alle Ankerplätze](../08-ancoraggi.md)
+| Feld | Detail |
 |---|---|
-| **Profondità** | 3–7 m circa |
-| **Tenuta** |Buona su sabbia ★★★|
-| **Venti/riparo** |Scarsa protezione da vento e swell ★★★|
-| **Pericoli** | Traffico di taxi boat verso Fort-de-France e gommoni |
-| **Affollamento** |**Molto affollata in alta stagione** ★★★|
-| **Divieti** |Zone balneazione segnalate davanti alla spiaggia; chenal dei taxi boat per Fort-de-France da non ostruire ★★; piano di balisaggio comunale Les Trois-Îlets da verificare ★★★★|
-| **Extra** | Vicinissima alla marina Pointe du Bout: servizi, ristoranti, navetta per la capitale |
+| **Tiefe** | Ca. 3–7 m |
+| **Halt** |Gut auf Sand ★★★|
+| **Wind/Schutz** |Geringer Schutz vor Wind und Schwell ★★★|
+| **Gefahren** | Verkehr von Wassertaxis nach Fort-de-France und Dinghys |
+| **Belegung** |**Sehr voll in der Hochsaison** ★★★|
+| **Verbote** |Badezonen vor dem Strand markiert; Fahrwasser der Wassertaxis nach Fort-de-France nicht blockieren ★★; kommunaler Betonnungsplan Les Trois-Îlets prüfen ★★★★|
+| **Extras** | Direkt neben Marina Pointe du Bout: Services, Restaurants, Shuttle in die Hauptstadt |
 
 <div class="mapframe" data-slug="mitan" data-lat="14.5071771" data-lon="-61.100251"></div>
-*Vista mappa Anse Mitan (coord. indicative) — zoom con i pulsanti +/−; menu in alto a destra per passare a Carta nautica e Segnali nautici · mappa offline*
+*Kartenansicht Anse Mitan (Koord. indikativ) — Zoom mit +/−; Menü oben rechts für Seekarte und Seezeichen · Offline-Karte*
 
-Ultimo aggiornamento: 22/08/2026
+Letzte Aktualisierung: 22/08/2026

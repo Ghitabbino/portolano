@@ -1,20 +1,20 @@
 # Snack Boubou Bokits
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Todos os restaurantes](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Campo | Detalhe |
 |---|---|
 | Zona | Sainte-Anne |
-| Cucina | 🥙 Street food creolo |
-| Specialità | Bokit morue/poulet |
-| Costo | 💰€ per persona senza bevande |
-| Location | 🥙 snack da strada |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Snack+Boubou+Bokits+Sainte-Anne) |
-| Contatti | 0696 50 01 93 / 0596 76 28 46 |
-| Valutazioni | Google 4,7/5 (305) · TA 4,7/5 (316), Travellers' Choice → ★★★★½ |
-| Orari | lun-gio-ven-sab-dom 10:30–15 · chiusura settimanale divergente ⚠️ |
+| Cozinha | 🥙 Street food crioulo |
+| Especialidade | Bokit morue/poulet |
+| Custo | 💰€ por pessoa sem bebidas |
+| Localização | 🥙 snack de rua |
+| Mapa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Snack+Boubou+Bokits+Sainte-Anne) |
+| Contactos | 0696 50 01 93 / 0596 76 28 46 |
+| Avaliações | Google 4,7/5 (305) · TA 4,7/5 (316), Travellers' Choice → ★★★★½ |
+| Horário | seg-qui-sex-sáb-dom 10:30–15 · encerramento semanal divergente ⚠️ |
 
-## Menu
+## Ementa
 
 - Bokit morue ~8 €
 - Bokit poulet ~8 €
@@ -23,10 +23,12 @@
 
 **Chef**: ND (“Boubou”)
 
-## Foto
+## Fotos
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Fotos ainda não disponíveis — a recuperar no controlo mensal.*
 
-**Note**: 32 rue François Saffache, accanto alla chiesa (anche punto clearance!) · attivo dal 2006 · contante
+**Notas**: 32 rue François Saffache, ao lado da igreja (também ponto de clearance!) · ativo desde 2006 · numerário
 
-**Extra**: 🔴 foto non ancora scaricabili (CDN protetti) — recuperare al controllo mensile
+**Extra**: 🔴 fotos ainda não descarregáveis (CDN protegidos) — a recuperar no controlo mensal
+
+Última atualização: 22/08/2026

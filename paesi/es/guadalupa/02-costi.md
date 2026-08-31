@@ -1,68 +1,68 @@
-# 02 — Costo della vita
+# 02 — Coste de la vida
 
-**Ultimo aggiornamento: 21/08/2026**
+**Última actualización: 21/08/2026**
 
-Valuta: **euro**. Livello prezzi: alimentari ~**+30–40%** vs Francia metropolitana, in linea con la Martinica; carburante regolato come in metropoli. ★★★★
+Moneda: **euro**. Nivel de precios: alimentación ~**+30–40%** vs Francia metropolitana, en línea con Martinica; combustible regulado como en metrópoli. ★★★★
 
-> ⚠️ Le voci di questo elenco sono le stesse per tutti i paesi del portolano. Dove il dato non è stato ancora trovato dalle fonti si scrive **DATO MANCANTE**: viene ricercato al controllo mensile (vedi [00 Indice](../00-indice.md)).
+> ⚠️ Los conceptos de esta lista son los mismos para todos los países del derrotero. Donde el dato aún no ha sido hallado por las fuentes se escribe **DATO NO DISPONIBLE**: se busca en el control mensual (ver [00 Índice](00-indice.md)).
 
-## Alimentari e spesa di bordo
+## Alimentación y compra para el barco
 
-| Voce | Prezzo indicativo | Note |
+| Concepto | Precio indicativo | Notas |
 |---|---|---|
-| Birra locale supermercato (0,33 l) | 1–1,5 € |Concorde/Korbel ★★|
-| Caffè al bancone | 1,50–2,50 € |Bar del bourg ★★|
-| Baguette | ~1,20 € |Prezzo regolato francese ★★★|
-| Acqua imbottigliata 1,5 l | 0,80–1,50 € |Supermercato ★★|
-| Latte 1 l | ~1,55 € |[Numbeo FdF](https://www.numbeo.com/food-prices/in/Fort-de-france-Martinique) come riferimento DOM ★★★|
-| Riso 1 kg | ~3,20 € |[Numbeo FdF](https://www.numbeo.com/food-prices/in/Fort-de-france-Martinique), prezzi DOM allineati ★★★|
-| Pollo fresco 1 kg | Petto ~19,80 €/kg |[Numbeo FdF](https://www.numbeo.com/food-prices/in/Fort-de-france-Martinique); intero meno caro ★★★|
+| Cerveza local supermercado (0,33 l) | 1–1,5 € |Concorde/Korbel ★★|
+| Café en barra | 1,50–2,50 € |Bar del bourg ★★|
+| Baguette | ~1,20 € |Precio regulado francés ★★★|
+| Agua embotellada 1,5 l | 0,80–1,50 € |Supermercado ★★|
+| Leche 1 l | ~1,55 € |[Numbeo FdF](https://www.numbeo.com/food-prices/in/Fort-de-france-Martinique) como referencia DOM ★★★|
+| Arroz 1 kg | ~3,20 € |[Numbeo FdF](https://www.numbeo.com/food-prices/in/Fort-de-france-Martinique), precios DOM alineados ★★★|
+| Pollo fresco 1 kg | Pechuga ~19,80 €/kg |[Numbeo FdF](https://www.numbeo.com/food-prices/in/Fort-de-france-Martinique); entero más barato ★★★|
 
-## Mangiare fuori (media)
+## Comer fuera (media)
 
-| Voce | Prezzo indicativo |
+| Concepto | Precio indicativo |
 |---|---|
-| Menu creolo ristorante medio | 15–25 € |
-| Ti-punch al bar | 2,5–4 € |
-| Birra al bar | 3–5 € |
-| Menu ristorante di fascia alta | 40–60 € |
-| Snack/bokit da strada | 5–8 € |Bokit/aggretti/snack ★★|
+| Menú criollo restaurante medio | 15–25 € |
+| Ti-punch en el bar | 2,5–4 € |
+| Cerveza en el bar | 3–5 € |
+| Menú restaurante de gama alta | 40–60 € |
+| Snack/bokit callejero | 5–8 € |Bokit/aperitivos/snack ★★|
 
-Prezzi specifici per locale → [10 Ristoranti](10-ristoranti.md).
+Precios específicos por local → [10 Restaurantes](10-ristoranti.md).
 
-## Carburanti
+## Combustibles
 
-| Voce | Prezzo indicativo | Note |
+| Concepto | Precio indicativo | Notas |
 |---|---|---|
-| Gasolio | ~1,0–1,2 €/l |Regolato francese ★★★★|
-| Benzina SP95 | ~1,3–1,5 €/l |Regolato francese ★★★★|
-| Benzina SP98 | ~1,85 €/l |Prezzi regolati ★★★★|
-| Bombola gas (scambio) | ~35–40 € (butane 13 kg) |Punti scambio locali ★★|
+| Gasóleo | ~1,0–1,2 €/l |Regulado francés ★★★★|
+| Gasolina SP95 | ~1,3–1,5 €/l |Regulado francés ★★★★|
+| Gasolina SP98 | ~1,85 €/l |Precios regulados ★★★★|
+| Bombona de gas (intercambio) | ~35–40 € (butano 13 kg) |Puntos de intercambio locales ★★|
 
-## Trasporti e collegamenti
+## Transportes y conexiones
 
-| Voce | Prezzo indicativo | Note |
+| Concepto | Precio indicativo | Notas |
 |---|---|---|
-| Bus locale | ~1,00–1,40 €/corsa |[Rete Karu'lis](https://www.karulis.net) ★★★|
-| Collegamento marittimo locale (ferry) | ~20–25 € A/R Pointe-à-Pitre–Les Saintes |Express des Îles etc. ★★|
-| Noleggio auto giornaliero | 35–55 € |Aeroporto/Jarry/Saint-François ★★|
-| Taxi | Costoso, tariffe non regulate |Concordare prima ★★|
+| Autobús local | ~1,00–1,40 €/trayecto |[Red Karu'lis](https://www.karulis.net) ★★★|
+| Conexión marítima local (ferry) | ~20–25 € A/R Pointe-à-Pitre–Les Saintes |Express des Îles etc. ★★|
+| Alquiler de coche por día | 35–55 € |Aeropuerto/Jarry/Saint-François ★★|
+| Taxi | Caro, tarifas no reguladas |Acordar antes ★★|
 
-## Servizi quotidiani
+## Servicios cotidianos
 
-| Voce | Prezzo indicativo | Note |
+| Concepto | Precio indicativo | Notas |
 |---|---|---|
-| Lavanderia self-service | ~5–8 €/carico |Bas-du-Fort, Saint-François ★★|
-| SIM prepagata con dati | 10–20 € |Orange/Digicel ★★★|
-| Lavaggio scafo (hull dive) | ~2–3 €/piede |Confermare sul posto ★★|
+| Lavandería autoservicio | ~5–8 €/carga |Bas-du-Fort, Saint-François ★★|
+| SIM prepago con datos | 10–20 € |Orange/Digicel ★★★|
+| Limpieza de casco (buceo de carena) | ~2–3 €/pie |Confirmar in situ ★★|
 
-## Contanti e pagamenti
+## Efectivo y pagos
 
-Euro, carte accettate ovunque nei centri; contante utile nei mercati e sulle isole minori (Saintes, Marie-Galante). Bancomat a Pointe-à-Pitre, Jarry, Saint-François, Basse-Terre, Terre-de-Haut.
+Euro, tarjetas aceptadas en casi todas partes en los centros; efectivo útil en mercados y en las islas menores (Saintes, Marie-Galante). Cajeros en Pointe-à-Pitre, Jarry, Saint-François, Basse-Terre, Terre-de-Haut.
 
-## Approfondimenti
+## Para profundizar
 
-- Tariffe complete marine e boe → [03 Porti e marine](03-porti-ancoraggi.md)
-- Ristoranti con prezzi specifici per locale → [10 Ristoranti](10-ristoranti.md)
+- Tarifas completas de marinas y boyas → [03 Puertos y fondeos](03-porti-ancoraggi.md)
+- Restaurantes con precios específicos por local → [10 Restaurantes](10-ristoranti.md)
 
-Ultimo aggiornamento: 22/08/2026
+Última actualización: 22/08/2026

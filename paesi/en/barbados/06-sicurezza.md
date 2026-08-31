@@ -6,28 +6,28 @@
 
 | Aspect | Rating | Reason |
 |---|---|---|
-| Personal safety (tourists/cruisers) | 3/5 | Advisory USA/UK/Canada **Level 1 “normal precautions”** — petty crime comune, violenza mirata ai turisti rara ma furti opportunistici frequenti nelle zone turistiche |
-| Theft from yacht | 2/5 | Dinghy/fuoribordo e oggetti in pozzetto = problema ricorrente in rada e ai pontili (CSSN: 37 incidenti in 5 anni nel raggio 10 km da Le Marin-Martinica come benchmark; a Barbados fenomeno analogo su Carlisle/Bridgetown) |
-| General context dell'isola | 3/5 | **50 omicidi nel 2024 (+17,7/100k)**, criminalità complessiva in lieve calo (-4% 2024→2025) ma **reati con arma da fuoco +60%**; violenza legata a gang, concentrata tra locali e in alcune parish — turisti non bersaglio primario |
+| Personal safety (tourists/cruisers) | 3/5 | US/UK/Canada advisories **Level 1 "exercise normal precautions"** — petty crime is common, targeted violence against tourists is rare but opportunistic theft is frequent in tourist areas |
+| Theft from yacht | 2/5 | Dinghy/outboard and cockpit items are a recurring problem in the roadstead and at dinghy docks (CSSN: 37 incidents in 5 years within 10 km of Le Marin, Martinique as benchmark; similar pattern at Carlisle/Bridgetown in Barbados) |
+| Overall island context | 3/5 | **50 homicides in 2024 (17.7/100k)**, overall crime slightly down (-4% 2024→2025) but **firearms offences +60%**; gang-related violence, concentrated among locals and in certain parishes — tourists are not the primary target |
 
 *Scale: 0 = terrible → 5 = very safe. Our rating, synthesising the sources below; updated at each monthly check.*
 
-**Perché non 4/5**: oltre ai furti opportunistici (borseggi, scippi, furti in auto, dinghy) documentati dalle advisory, Barbados ha tassi di omicidio **tra i più alti dei Caraibi orientali** in proporzione (~17,7/100k nel 2024, 50 casi) con recente impennata armi da fuoco e rapine; i resort/marine restano però presidiati e la violenza contro i crocieristi con aggressione fisica è rara nelle fonti degli ultimi 5 anni.
+**Why not 4/5**: besides opportunistic theft (pickpocketing, bag-snatching, car break-ins, dinghy theft) documented by the advisories, Barbados has homicide rates **among the highest in the eastern Caribbean** proportionally (~17.7/100k in 2024, 50 cases) with a recent surge in firearms and robberies; resorts/marinas remain guarded, however, and physical attacks on cruisers have been rare in sources over the last 5 years.
 
 ## General Overview
 
-- **Advisory USA — Travel.State.gov (agg. 10/04/2026 ★★★★): Level 1 — “Exercise normal precautions”** — livello più basso su 4. Reati più probabili contro turisti: purse snatching, pickpocketing, burglary, vehicle break-ins in luoghi turistici; occasionalmente rapina a mano armata, sexual assault, shootings, drug-related crime. Raccomandazioni: non lasciare valori incustoditi in spiaggia/auto/hotel, non camminare soli di notte su spiagge/zone poco illuminate, **vigilanza extra downtown e su party cruises di sera**, non lasciare drink incustoditi, attenzione ad ATMs isolati. [travel.state.gov — Barbados](https://travel.state.gov/en/international-travel/travel-advisories/barbados.html) ★★★★
-- **OSAC — Barbados Country Security Report (01/05/2025 ★★★★): Bridgetown valutata HIGH-threat per crime vs interessi USA (overall), LOW per terrorismo.** Crime emergency **211** or (246) 430-7100. **50 omicidi nel 2024** (17,7/100k) vs aumento rispetto al 2023; Barbados ha comunque tasso inferiore alla media regionale ma la **violenza è concentrata tra gang rivali** e raramente si riversa sui turisti; rischio maggiore per viaggiatori = **petty theft**; rapine e furti d'auto possibili; evitare aree non turistiche di notte, strade non illuminate, spiagge isolate. [osac.gov — Barbados CSR 2025](https://www.osac.gov/Content/Report/3973d1bc-d690-4174-8c90-1c4921f657a3) ★★★★
-- **Advisory britannica FCDO (07/07/2026 ★★★★) + canadese (29/07/2026 ★★★★)**: microcriminalità e occasional street crime; non camminare in aree remote di notte, non lasciare valori in auto/spiaggia, tenere borse non afferrabili; Barbados è **corridoio narcotraffico Sud America → Europa/Nord America** (UK) con possibile criminalità correlata; terrorismo senza storia recente ma non escludibile.
-- **Stampa locale 2025–2026 ★★★**: Q1 2025 crime vicino ai record con spike omicidi e furti veicoli (Barbados Today 23/05/2025); overall crime -4% 6.301→6.063 (2024→2025) ma **major crimes +41% e firearm +60%** secondo Criminal Justice Research Unit (03/2026); InSight Crime 2025 homicide round-up: **50 omicidi 2024, stabile 50 nel 2025**, rate 17,7/100k — tra i più alti ARC.
-- **Governo di Barbados ★★★★★**: numero emergenza **211** polizia · **511** ambulanza — vedi Numeri sotto; U.S. Embassy (Wildey Business Park) +1 246 227-4000 per assistenza.
-- Contesto operativo: isola compatta (34 km) con **forte presidio turistico** su west/south coast (Holetown, St. Lawrence Gap, Hastings, Carlisle) e tempi di intervento rapidi nelle zone hotel; sorveglianza privata diffusa in resort/marine. Fuori dalle aree turistiche e di notte la copertura cala. ★★
+- **US Advisory — Travel.State.gov (upd. 10/04/2026 ★★★★): Level 1 — "Exercise normal precautions"** — the lowest of four levels. Crimes most likely against tourists: purse snatching, pickpocketing, burglary, vehicle break-ins in tourist areas; occasionally armed robbery, sexual assault, shootings, drug-related crime. Advice: do not leave valuables unattended on the beach/in the car/hotel, do not walk alone at night on beaches/poorly lit areas, **extra vigilance downtown and on evening party cruises**, do not leave drinks unattended, watch out at isolated ATMs. [travel.state.gov — Barbados](https://travel.state.gov/en/international-travel/travel-advisories/barbados.html) ★★★★
+- **OSAC — Barbados Country Security Report (01/05/2025 ★★★★): Bridgetown rated HIGH threat for crime vs US interests (overall), LOW for terrorism.** Crime emergency **211** or (246) 430-7100. **50 homicides in 2024** (17.7/100k) up on 2023; Barbados still below the regional average but **violence is concentrated between rival gangs** and rarely spills over to tourists; greatest risk to travellers = **petty theft**; robberies and car theft possible; avoid non-tourist areas at night, unlit roads, isolated beaches. [osac.gov — Barbados CSR 2025](https://www.osac.gov/Content/Report/3973d1bc-d690-4174-8c90-1c4921f657a3) ★★★★
+- **UK FCDO advisory (07/07/2026 ★★★★) + Canadian (29/07/2026 ★★★★)**: petty crime and occasional street crime; do not walk in remote areas at night, do not leave valuables in the car/on the beach, keep bags out of grab-reach; Barbados is a **South America → Europe/North America drug-trafficking corridor** (UK) with possible associated crime; no recent history of terrorism but cannot be ruled out.
+- **Local press 2025–2026 ★★★**: Q1 2025 crime near record levels with spikes in homicides and vehicle theft (Barbados Today 23/05/2025); overall crime -4% 6,301→6,063 (2024→2025) but **major crimes +41% and firearms +60%** per Criminal Justice Research Unit (03/2026); InSight Crime 2025 homicide round-up: **50 homicides in 2024, steady at 50 in 2025**, rate 17.7/100k — among the highest in the ARC.
+- **Government of Barbados ★★★★★**: emergency number **211** police · **511** ambulance — see Numbers below; U.S. Embassy (Wildey Business Park) +1 246 227-4000 for assistance.
+- Operational context: compact island (34 km) with a **strong tourist presence** on the west/south coasts (Holetown, St. Lawrence Gap, Hastings, Carlisle) and fast response times in hotel areas; private security widespread in resorts/marinas. Outside tourist areas and at night coverage drops. ★★
 
 ## Zone Map — Offline
 
-<div class="mapframe" data-slug="barbados" data-minz="10" data-maxz="15" data-lat="13.10" data-lon="-59.60" data-zones='[[13.0911,-59.6156,1400,"#ef6c00","Bridgetown Careenage/Carlisle Bay: furti dinghy/fuoribordo, borseggi, scippi — vigilanza extra di notte"],[13.083,-59.546,1800,"#ef6c00","Oistins / St. Lawrence Gap / Hastings (south coast): borseggi, furti auto e da spiaggia di notte — non lasciare valori incustoditi"],[13.260,-59.640,1200,"#ef6c00","Port St. Charles / Speightstown (north-west): furti opportunistici da pozzetto/dinghy — chiudere a chiave"],[13.131,-59.52,2200,"#d32f2f","Costa atlantica est (Bathsheba/Consett): isolata, frangenti, nessuna assistenza notturna — evitare ancoraggi notturni"]]'></div>
+<div class="mapframe" data-slug="barbados" data-minz="10" data-maxz="15" data-lat="13.10" data-lon="-59.60" data-zones='[[13.0911,-59.6156,1400,"#ef6c00","Bridgetown Careenage/Carlisle Bay: dinghy/outboard theft, pickpocketing, bag-snatching — extra vigilance at night"],[13.083,-59.546,1800,"#ef6c00","Oistins / St. Lawrence Gap / Hastings (south coast): pickpocketing, car and beach theft at night — do not leave valuables unattended"],[13.260,-59.640,1200,"#ef6c00","Port St. Charles / Speightstown (north-west): opportunistic theft from cockpit/dinghy — keep locked"],[13.131,-59.52,2200,"#d32f2f","Atlantic east coast (Bathsheba/Consett): isolated, surf, no assistance at night — avoid overnight anchoring"]]'></div>
 
-*Legenda: cerchio rosso = zona da evitare di notte (isolamento/pericolo naturale) · cerchio arancio = zona con furti frequenti a danno di turisti/crocieristi (attenzione, non evitare). Clicca sul cerchio per il dettaglio.*
+*Key: red circle = area to avoid at night (isolation/natural hazard) · orange circle = area with frequent theft against tourists/cruisers (take care, not off-limits). Click the circle for detail.*
 
 ## Safe Areas / Areas to Avoid
 
@@ -35,79 +35,79 @@
 
 | Area | Notes | Source |
 |---|---|---|
-| Shallow Draught / Careenage (Bridgetown) di giorno | Presidiata, dogana/Port Health in loco; furti comunque possibili — lucchetto obbligatorio |BPI ★★★★|
-| Carlisle Bay waterfront di giorno (Boatyard, Browne's Beach) | Spiaggia presidiata, molti bagnanti; precauzioni standard con valori |advisory USA ★★★★|
-| Holetown / Paynes Bay / Sandy Lane (west coast) | Area turistica più pattugliata, alta percezione sicurezza di giorno/sera con normali precauzioni; Limegrove lifestyle centre |OSAC/advisory ★★★★|
-| St. Lawrence Gap / Hastings di giorno | Zona turistica ordinata, ristoranti/bar presidiati di giorno |advisory ★★|
-| Speightstown / Port St. Charles (nord-ovest) di giorno | Villaggi calmi, marina resort sorvegliata |★★|
-| Port Ferdinand resort | Gated resort, security 24h |★★|
+| Shallow Draught / Careenage (Bridgetown) by day | Guarded, customs/Port Health on site; theft still possible — padlock essential |BPI ★★★★|
+| Carlisle Bay waterfront by day (Boatyard, Browne's Beach) | Guarded beach, many bathers; standard precautions with valuables |US advisory ★★★★|
+| Holetown / Paynes Bay / Sandy Lane (west coast) | Most patrolled tourist area, high perceived safety by day/evening with normal precautions; Limegrove Lifestyle Centre |OSAC/advisory ★★★★|
+| St. Lawrence Gap / Hastings by day | Orderly tourist area, restaurants/bars guarded by day |advisory ★★|
+| Speightstown / Port St. Charles (north-west) by day | Quiet villages, guarded resort marina |★★|
+| Port Ferdinand resort | Gated resort, 24h security |★★|
 
 ### ⛔ Places to Avoid or Caution
 
 | Area | Risk | Source |
 |---|---|---|
-| Bridgetown fuori dal waterfront di notte (Baxter's Road, Nelson St, Back Ivy) | Microcriminalità, scippi, strade poco illuminate — **evitare a piedi dopo il tramonto** |OSAC ★★★★ · stampa locale ★★★|
-| Spiagge deserte / non sorvegliate di notte (specie est/ sud-est isolate) | Advisory USA/UK: evitare; rischio furto e scarsa assistenza; forti correnti est |travel.state.gov ★★★★ · FCDO ★★★★|
-| Pontili dinghy e rada di Carlisle/Bridgetown di notte | Furti dinghy/fuoribordo anche con cavo tagliato — usare catena + lucchetto |CSSN (Martinica benchmark 37 casi) ★★★ · OSAC ★★|
-| Oistins Fish Fry / St. Lawrence Gap la notte (folla, alcol) | Pickpocketing, scippi, risse; **non lasciare drink incustodito**, muoversi in gruppo |USA advisory ★★★★|
-| Costa atlantica est (Bathsheba, Bath, Consett Bay) | **Pericolo mare** (frangenti, rip current) + isolamento — non adatta a sosta notturna |guide locali ★★|
-| Auto a noleggio incustodite (ovunque) | Scassi frequenti; non lasciare nulla in vista, assicurazione to be verified |USA ★★★★|
+| Bridgetown away from the waterfront at night (Baxter's Road, Nelson St, Back Ivy) | Petty crime, bag-snatching, poorly lit streets — **avoid on foot after dark** |OSAC ★★★★ · local press ★★★|
+| Deserted / unguarded beaches at night (especially isolated east/south-east) | US/UK advisories: avoid; risk of theft and poor assistance; strong easterly currents |travel.state.gov ★★★★ · FCDO ★★★★|
+| Dinghy docks and Carlisle/Bridgetown roadstead at night | Dinghy/outboard theft even with cut cable — use chain + padlock |CSSN (Martinique benchmark 37 cases) ★★★ · OSAC ★★|
+| Oistins Fish Fry / St. Lawrence Gap at night (crowds, alcohol) | Pickpocketing, bag-snatching, fights; **do not leave drinks unattended**, stay in a group |US advisory ★★★★|
+| Atlantic east coast (Bathsheba, Bath, Consett Bay) | **Sea hazard** (surf, rip currents) + isolation — not suitable for an overnight stop |local guides ★★|
+| Unattended hire cars (anywhere) | Frequent break-ins; leave nothing visible, check insurance |US ★★★★|
 
 ## Theft Against Cruisers
 
-Dati **Caribbean Safety and Security Net (CSSN — thecssn.org ★★★)** + advisory incrociate, controllo 28/08/2026:
+Data from **Caribbean Safety and Security Net (CSSN — thecssn.org ★★★)** + cross-checked advisories, checked 28/08/2026:
 
-- **Trend Barbados**: nessuna ondata di attacchi violenti armati a velisti segnalata nelle fonti degli ultimi 5 anni; i casi riguardano quasi esclusivamente **furti opportunistici notturni di dinghy/fuoribordo e oggetti lasciati in pozzetto or in spiaggia**. Fenomeno endemico in tutti i Caraibi orientali (benchmark Martinica: 37 incidenti in 5 anni entro 10 km da Le Marin). A Barbados gli hotspot sono i **pontili dinghy di Bridgetown/Careenage** e la **rada di Carlisle Bay** (dinghy a spiaggia), e in misura minore le baie nord (Speightstown/Port St. Charles) dove yacht grandi stanno alla fonda.
-- **Modalità**: tender **non lucchettati** or con cavo sottile tagliato; fuoribordo portato via anche incatenato con catena corta se non passante per il transito; borse/telefoni lasciati in spiaggia mentre si nuota; furti d'auto a noleggio con scasso.
-- **Contromisure efficaci riportate**: catena corta + lucchetto **passante per il fuoribordo e per l'anello del tender**, motore sempre bloccato con lucchetto dedicato, tender **sollevato in davits or a bordo di notte**, niente oggetti in vista in pozzetto/dinghy, allarme dinghy/illuminazione, borsa stagna con valori sempre addosso in spiaggia.
-- **Segnalazione**: polizia **211** or (246) 430-7100 · emergenza **511** ambulanza · Harbour Master VHF 12 · guardia costiera via BPI; report online CSSN; gruppo FB “Barbados Cruisers” per avvisi rapidi.
+- **Barbados trend**: no wave of violent armed attacks on yachtsmen reported in sources over the last 5 years; cases concern almost exclusively **opportunistic night theft of dinghies/outboards and items left in the cockpit or on the beach**. Endemic across the eastern Caribbean (Martinique benchmark: 37 incidents in 5 years within 10 km of Le Marin). In Barbados hotspots are the **Bridgetown/Careenage dinghy docks** and the **Carlisle Bay roadstead** (dinghies hauled up on the beach), and to a lesser extent the northern bays (Speightstown/Port St. Charles) where large yachts lie at anchor.
+- **Modus operandi**: tenders **not locked** or with thin cable cut; outboards taken even when chained with a short chain if not through the transom; bags/phones left on the beach while swimming; hire-car break-ins.
+- **Effective countermeasures reported**: short chain + padlock **through the outboard and the tender's ring**, engine always secured with a dedicated lock, tender **hoisted in davits or aboard at night**, nothing visible in cockpit/dinghy, dinghy alarm/lighting, dry bag with valuables always on your person on the beach.
+- **Reporting**: police **211** or (246) 430-7100 · ambulance emergency **511** · Harbour Master VHF 12 · coast guard via BPI; online report to CSSN; FB group "Barbados Cruisers" for rapid alerts.
 
 ## On Board & Ashore
 
 | Risk | Detail | Source |
 |---|---|---|
-| Furti dinghy / fuoribordo | Unici problemi ricorrenti segnalati dalle fonti diportiste: furti notturni, sempre su mezzi non assicurati correttamente |CSSN ★★★ · OSAC ★★|
-| Furti in pozzetto / spiaggia | Binocoli, canne, maschere, borse rubate da barche all'ancora or in spiaggia anche di giorno mentre si nuota |USA advisory ★★★★|
-| Auto a noleggio | Scassi e furti d'auto, in particolare rental; non lasciare nulla in vista, chiudere a chiave, parcheggiare in aree illuminate |USA ★★★★ · Canada ★★★★|
-| Spiaggia / mare (pericolo naturale) | **Correnti di risacca (rip currents) sulla costa est/atlantica** — forti correnti al largo di Bathsheba/Soup Bowl; bagnare solo dove sorvegliato |guide locali ★★|
-| Molestie / attenzioni notturne | Possibili attenzioni indesiderate a donne sole la sera in locali/ Gap — muoversi in coppia/gruppo |Canada ★★★★|
-| Camouflage clothing | **Illegale** indossare mimetica or portare oggetti mimetici — sequestrabili in dogana (valido per tutto l'est dei Caraibi) |OSAC/ travel.state.gov ★★★★|
+| Dinghy / outboard theft | Only recurring problem reported by cruising sources: night theft, always on poorly secured tenders |CSSN ★★★ · OSAC ★★|
+| Cockpit / beach theft | Binoculars, fishing rods, masks, bags stolen from boats at anchor or on the beach even by day while swimming |US advisory ★★★★|
+| Hire car | Break-ins and car theft, especially rentals; leave nothing visible, lock up, park in lit areas |US ★★★★ · Canada ★★★★|
+| Beach / sea (natural hazard) | **Rip currents on the Atlantic east coast** — strong currents off Bathsheba/Soup Bowl; swim only where lifeguarded |local guides ★★|
+| Harassment / unwanted attention at night | Possible unwanted attention to women alone in the evening in bars/The Gap — move in pairs/groups |Canada ★★★★|
+| Camouflage clothing | **Illegal** to wear camouflage or carry camouflaged items — can be seized at customs (applies across the eastern Caribbean) |OSAC/ travel.state.gov ★★★★|
 
 ## Navigation
 
 | Risk | Detail | Source |
 |---|---|---|
-| Segnaletica **IALA-B** | "Red right returning": sistema **invertito** rispetto all'Europa — rosso a dritta entrando in porto, attenzione alle boe in ingresso Bridgetown/Careenage |Fonti diportiste aggregate ★★★|
-| Reef / bassi fondali e parco marino | Barriera e reef affioranti su costa sud/est e secche a Carlisle (relitti protetti); ancoraggio vietato su corallo — solo sabbia or boe dove presenti |guide locali ★★★|
-| Nasse da pesca / FAD | Boe con lenze galleggianti poco visibili anche oltre 1–2 miglia; visibilità scarsa di notte; anche a Carlisle piccola pesca locale |★★|
-| Avvicinamento Bridgetown | Porto commerciale trafficato; restare fuori dal canale navi fino a istruzioni Signal Station VHF 12; **non** puntare al molo doganale con barche <20 m — dinghy al Passenger Terminal |BPI ★★★★★ · Noonsite 31/12/2022 ★★|
-| Ponte mobile Careenage | Ponte interno a Bridgetown centro: verifica apertura e altezza; luce Molehead Fl R 10s 2M |BPI Yacht Masters Guide ★★★★|
-| Narcotraffico in transito | Corridoio Venezuela–ABC–Windward; pacchi sospetti in mare (balle) — non recuperare, segnalare a Guardia Costiera / BPI VHF 12 |UK FCDO ★★★★|
-| Costa est atlantica | **Vietata come ancoraggio notturno**: frangenti, swell continuo, reef — tenere **≥2 M** al largo senza necessità |safetyanchoralarm ★★|
+| **IALA-B** buoyage | "Red right returning": system **reversed** versus Europe — red to starboard when entering harbour, watch the buoys on entry to Bridgetown/Careenage |Cruising sources aggregate ★★★|
+| Reef / shoals and marine park | Barrier and fringing reefs on the south/east coasts and shoals at Carlisle (protected wrecks); anchoring on coral is forbidden — sand only or buoys where present |local guides ★★★|
+| Fish pots / FADs | Buoys with floating lines barely visible even 1–2 miles out; poor visibility at night; also small-scale fishing at Carlisle |★★|
+| Approaching Bridgetown | Busy commercial harbour; stay outside the shipping channel until instructed by Signal Station VHF 12; **do not** head for the customs wharf with boats <20 m — dinghy to the Passenger Terminal |BPI ★★★★★ · Cruising sources aggregate 31/12/2022 ★★|
+| Careenage lifting bridge | Inner bridge in central Bridgetown: check opening and clearance; Molehead light Fl R 10s 2M |BPI Yacht Masters Guide ★★★★|
+| Drug trafficking in transit | Venezuela–ABC–Windward corridor; suspicious packages at sea (bales) — do not recover, report to Coast Guard / BPI on VHF 12 |UK FCDO ★★★★|
+| Atlantic east coast | **Forbidden as an overnight anchorage**: surf, continuous swell, reef — keep **≥2 M** offshore unless necessary |safetyanchoralarm ★★|
 
 ## Emergency Numbers
 
 | Emergency | Number |
 |---|---|
-| Police (emergenza crime) | **211** · (246) 430-7100 |
+| Police (crime emergency) | **211** · (246) 430-7100 |
 | Ambulance | **511** |
-| Single emergency number emergenze (polizia/vigili/ambulanza) | **211 / 511** (Bridgetown) — in alternativa **112** su mobile UE se roaming |
-| U.S. Embassy / assistenza consolare (Wildey) | **+1 246 227-4000** (24h) |
+| Single emergency number (police/fire/ambulance) | **211 / 511** (Bridgetown) — alternatively **112** on an EU mobile when roaming |
+| U.S. Embassy / consular assistance (Wildey) | **+1 246 227-4000** (24h) |
 | Immigration — BTI Corporate Centre | **+1 246 535-4100** |
 | Barbados Port Inc. / Harbour Master / Signal Station | **+1 246 434-6100** · VHF **12** ("8P") / VHF **16** |
-| Barbados Coast Guard (via BPI) | VHF **16** + tramite Signal Station |
-| Ospedale QEH (Queen Elizabeth Hospital, Bridgetown) | **+1 246 436-6450** |
-| VHF soccorso in mare | **16** |
+| Barbados Coast Guard (via BPI) | VHF **16** + via Signal Station |
+| Queen Elizabeth Hospital QEH (Bridgetown) | **+1 246 436-6450** |
+| VHF distress at sea | **16** |
 
 ## Rescue & Emergencies
 
-- Centrali operative: **211** smista polizia · **511** ambulanza · VHF **16** sempre monitorato da Signal Station e guardia costiera. Il QEH (Queen Elizabeth Hospital) a Bridgetown è il principale pronto soccorso 24h (Martindales Road). Per casi gravi può essere necessaria **evacuazione medica** con assicurazione dedicata (elisoccorso/trasferimento USA). ★★★
-- Assistenza consolare: **USA via Embassy Bridgetown** (Wildey) +1 246 227-4000 ★★★★; **UK via High Commission Bridgetown** +1 246 430-7800; **Canada via High Commission Bridgetown** +1 246 629-3550; nessun consolato IT in loco — riferimento **Ambasciata d'Italia a Port of Spain (Trinidad)** +1 868 628-6506 or **Consolato Caracas**. In mare: chiamare **Signal Station VHF 12** or **VHF 16** per coordinamento SAR (BPI/Coast Guard).
-- Uragani: isola eventualmente esposta (giugno–novembre); monitorare **Barbados Met Services** + **NHC** + media locali DEM; seguire consignes BPI/Harbour Master su VHF per messa in sicurezza banchine.
-- Segnalazione reati dei crocieristi: report online **CSSN (thecssn.org)** + VHF locale; gruppi FB “Barbados Cruisers” per avvisi rapidi. VHF 16 sempre monitorato.
+- Control centres: **211** for police · **511** for ambulance · VHF **16** always monitored by the Signal Station and coast guard. The QEH (Queen Elizabeth Hospital) in Bridgetown is the main 24h A&E (Martindales Road). For serious cases **medical evacuation** with dedicated insurance may be needed (helicopter/US transfer). ★★★
+- Consular assistance: **USA via Embassy Bridgetown** (Wildey) +1 246 227-4000 ★★★★; **UK via High Commission Bridgetown** +1 246 430-7800; **Canada via High Commission Bridgetown** +1 246 629-3550; no Italian consulate locally — contact **Embassy of Italy in Port of Spain (Trinidad)** +1 868 628-6506 or **Consulate in Caracas**. At sea: call **Signal Station VHF 12** or **VHF 16** for SAR coordination (BPI/Coast Guard).
+- Hurricanes: island potentially exposed (June–November); monitor **Barbados Met Services** + **NHC** + local DEM media; follow BPI/Harbour Master instructions on VHF for securing alongside.
+- Reporting cruiser crime: online report to **CSSN (thecssn.org)** + local VHF; FB groups "Barbados Cruisers" for rapid alerts. VHF 16 always monitored.
 
 ## Monthly Monitoring
 
-Fonti monitorate: **thecssn.org (CSSN)**, **travel.state.gov (USA)**, **gov.uk/FCDO (UK)**, **voyage.gc.ca (Canada)**, **osac.gov (OSAC)**, gruppi FB locali, stampa locale (Barbados Today, Barbados Nation) — controllo 28/08/2026, prossimo 28/09/2026. Nessuna allerta attiva di attacco armato a velisti oltre i furti opportunistici già descritti.
+Sources monitored: **thecssn.org (CSSN)**, **travel.state.gov (USA)**, **gov.uk/FCDO (UK)**, **voyage.gc.ca (Canada)**, **osac.gov (OSAC)**, local FB groups, local press (Barbados Today, Barbados Nation) — checked 28/08/2026, next 28/09/2026. No active alert of armed attack on yachtsmen beyond the opportunistic theft already described.
 
 Last updated: 28/08/2026

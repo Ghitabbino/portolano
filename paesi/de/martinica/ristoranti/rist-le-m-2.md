@@ -1,18 +1,18 @@
 # Le M
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Alle Restaurants](../10-ristoranti.md)
 **14°26′13″ N 60°52′43″ W**
 
-| Campo | Dettaglio |
+| Feld | Detail |
 |---|---|
-| **Costo** |**DATO MANCANTE**|
-| **Cucina** |**DATO MANCANTE**|
-| **Specialità** |**DATO MANCANTE**|
-| **Location** |**DATO MANCANTE**|
+| **Costo** |**DATEN FEHLEN**|
+| **Cucina** |**DATEN FEHLEN**|
+| **Specialità** |**DATEN FEHLEN**|
+| **Location** |**DATEN FEHLEN**|
 
 <div class="mapframe" data-slug="rist-le-m-2" data-lat="14.437" data-lon="-60.8785"></div>
 *Cartina di dettaglio: posizione a terra rispetto alla barca · zoom ±*
 
-Fonti: **DATO MANCANTE**
+Fonti: **DATEN FEHLEN**
 
-Ultimo aggiornamento: 25/08/2026
+Letzte Aktualisierung: 22/08/2026

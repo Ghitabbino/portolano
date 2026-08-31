@@ -15,7 +15,7 @@
 | **Inox / saldatura** | — | — | **DONNÉE MANQUANTE** | — |
 | **Scafo / vetroresina** | — | — | **DONNÉE MANQUANTE** | — |
 
-> Colonna Recensioni = fonti locali/Google/Noonsite ove disponibili. In Haiti la colonna resta **DONNÉE MANQUANTE** per assenza di operatori yacht verificabili.
+> Colonna Recensioni = fonti locali/Google/Sources plaisance agrégées ove disponibili. In Haiti la colonna resta **DONNÉE MANQUANTE** per assenza di operatori yacht verificabili.
 
 ## Altri operatori
 

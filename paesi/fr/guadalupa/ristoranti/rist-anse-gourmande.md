@@ -5,24 +5,24 @@
 | Champ | Détail |
 |---|---|
 | Zone | Deshaies |
-| Cuisine | 🐟 Caraïbesca |
-| Spécialité | Pesce · prodotti locali |
-| Coût | 💰€€ per persona senza bevande |
-| Emplacement | 🪶 locale nuovo |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=L'Anse+Gourmande+Deshaies) |
-| Contacts | [Mappa](https://www.google.com/maps/search/?api=1&query=Anse+Gourmande+Deshaies) |
-| Évaluations | Google 4,9/5 (35) — pochi dati → ★★★★★* |
-| Horaires | novità 2025-26: orari in definizione ⚠️ |
+| Cuisine | 🐟 Caraïbe |
+| Spécialité | Poisson · produits locaux |
+| Coût | 💰€€ par personne hors boissons |
+| Emplacement | 🪶 petit lieu intimiste et récent |
+| Carte | [Google Maps](https://www.google.com/maps/search/?api=1&query=L'Anse+Gourmande+Deshaies) |
+| Contacts | [Carte](https://www.google.com/maps/search/?api=1&query=Anse+Gourmande+Deshaies) |
+| Évaluations | Google 4,9/5 (35) — peu d'avis → ★★★★★* |
+| Horaires | nouveauté 2025–26 : horaires en cours de définition ⚠️ |
 
 ## Menu
 
-- Pesce
-- Prodotti locali
+- Poisson
+- Produits locaux
 
-**Chef**: ND
+**Chef** : ND
 
 ## Photos
 
-*Photos non ancora disponibili — recuperare al controllo mensile.*
+*Photos non encore disponibles — à récupérer lors du contrôle mensuel.*
 
-**Note**: Apertura recente: valutazioni da monitorare
+**Notes** : Ouverture récente : évaluations à suivre

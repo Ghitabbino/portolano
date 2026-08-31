@@ -15,7 +15,7 @@ L'equipaggio è tenuto a **restare a bordo** fino a clearance ultimata (area “
 
 Aruba **non ha un portale unico** tipo “démarche-simplifiée” delle Antille francesi: la parte digitale è **pre-avviso** + **ED Card persone**, il resto è cartaceo in banchina.
 
-1. **Pre-avviso barca — SailClear**: la Dogana utilizza [SailClear](https://www.sailclear.com) — compilarlo online **prima dell'arrivo** (dati barca, armatore, equipaggio, ultimo/prossimo porto, ETA, bandiera, MMSI, dimensioni, motori, carburante). Non sostituisce la presenza in banchina ma accelera la pratica. [noonsite.com Aruba “Customs use SailClear” ★★★; aruba-cruisingguide.com ★★★]
+1. **Pre-avviso barca — SailClear**: la Dogana utilizza [SailClear](https://www.sailclear.com) — compilarlo online **prima dell'arrivo** (dati barca, armatore, equipaggio, ultimo/prossimo porto, ETA, bandiera, MMSI, dimensioni, motori, carburante). Non sostituisce la presenza in banchina ma accelera la pratica. [Fuentes náuticas agregadas Aruba “Customs use SailClear” ★★★; aruba-cruisingguide.com ★★★]
 2. **Pre-avviso persone — ED Card**: ogni persona a bordo (anche neonati) compila la **ED Card su [edcardaruba.aw](https://edcardaruba.aw)** entro **7 giorni** dall'arrivo, indicando dati passaporto, volo/nave, alloggio (per yacht: nome barca/porto). La ED Card **non è un visto** e non garantisce da sola l'ammissione, ma è **requisito d'ingresso** e va esibita all'Immigration (IASA). Pagamento eventuale Sustainability Fee US$20 integrato nella ED Card (vedi Costi). [edcardaruba.aw ★★★★★; visitaruba.com ★★★★★; aruba.com immigration ★★★★★]
 3. **Moduli cartacei** (facoltativi ma consigliati per velocizzare): stampare **Immigration 3 copie + Customs 2 copie** (PDF EN/ES/NL su arubaports.com). Se non stampati, disponibili negli uffici sul molo. [arubaports.com Download Forms ★★★★★]
 4. **Avvicinamento**: a ~30 min dall'arrivo chiamare **Aruba Port Control su VHF 16** (passa a 11 o 14 su istruzione della torre) e chiedere permesso di entrare per clearance; seguire le istruzioni fino all'ormeggio e **issare bandiera Q gialla**. [arubaports.com ★★★★★; aruba-cruisingguide.com ★★★]
@@ -35,7 +35,7 @@ Compilare SailClear ed ED Card con qualche giorno di anticipo e portare a bordo 
 
 | Voce | Costo | Fonte |
 |---|---|---|
-| Pre-avviso SailClear | **Gratuito** | sailclear.com / noonsite.com ★★★ |
+| Pre-avviso SailClear | **Gratuito** | sailclear.com / Fuentes náuticas agregadas ★★★ |
 | ED Card | **Gratuita** (il modulo persone è gratis) | edcardaruba.aw ★★★★★ |
 | Sustainability Fee via ED Card | **US$20 a persona** (Visa/Mastercard/Discover, voce “Aruba Wastewater”); esenti: residenti, <8 anni, transito <24h, equipaggi in servizio, **repeat visitor entro 1 anno** (dal 07/07/2025 auto-riconoscimento via passaporto), studenti arubani all'estero. Per yacht: dovuta se si passa per Immigration con ED Card. Rimborso entro 60 gg a info@awss.aw in caso di addebito errato o esenzione | awss.aw FAQ ★★★★★; aruba.com Sustainability Fee ★★★★★; edcardaruba.aw ★★★★★ |
 | Broker doganale per importazione temporanea yacht | **US$65–100** (avvio pratica entro 2° giorno; obbligatorio se permanenza >7 gg) | allatsea.net ★★★; aruba-cruisingguide.com ★★★ |
@@ -52,7 +52,7 @@ Aruba ha **un solo porto d'ingresso per yacht**: Barcadera (con deviazione tempo
 | **Barcadera** | Banchina dogana NW (molo con paratia in legno) — uffici Immigration + Customs sul molo | Ingresso boa **12°28.834' N 70°00.430' W**; banchina **12°28.855' N 70°00.014' W** | Aruba Port Control **VHF 16/11**; APA tel. **+297 523-4300** (orario ufficio) · Marine Traffic Control Tower **+297 523-4336/37** (24/7) · info@arubaports.com / KustStation@arubaports.com | **DATO MANCANTE** — nessuna fonte governativa trovata con orari sportello Immigration/Customs a Barcadera; da verificare in loco/VHF (arrivi dopo 22:00 con permesso Guardia Costiera) |
 | **Oranjestad (deviazione)** | Customs Quay / H Pier — secondo bacino a W della banchina crociere (“Hans dock”) — su assegnazione Port Control | Ingresso SE **12°30.317' N 70°02.153' W**; Hans dock **12°31.285' N 70°02.709' W** | Stessi contatti APA/Port Control VHF 16 | **DATO MANCANTE** — orari non pubblicati; operatività su chiamata Port Control (Immigration deve scendere da Barcadera) ★★★ |
 
-Note nautiche Barcadera (verificate su tre fonti): restare nel **canale navi fino al traverso della banchina** (boa bianca/serbatoi bianchi come riferimento), poi accostare tenendo due bitte tonde a sinistra e due squadrate a dritta; pescaggio **fino a 2,1 m** può arrivare in fondo al molo di legno restando a un baglio dalla banchina; **3 m** solo fino allo spigolo del tug nero; **>3 m chiamare Port Control** per istruzione alternativa (terminal container o Oranjestad). [aruba-cruisingguide.com “To get to the customs dock” ★★★; noonsite.com Barcadera ★★★; blue-joline.com ★★★]
+Note nautiche Barcadera (verificate su tre fonti): restare nel **canale navi fino al traverso della banchina** (boa bianca/serbatoi bianchi come riferimento), poi accostare tenendo due bitte tonde a sinistra e due squadrate a dritta; pescaggio **fino a 2,1 m** può arrivare in fondo al molo di legno restando a un baglio dalla banchina; **3 m** solo fino allo spigolo del tug nero; **>3 m chiamare Port Control** per istruzione alternativa (terminal container o Oranjestad). [aruba-cruisingguide.com “To get to the customs dock” ★★★; Fuentes náuticas agregadas Barcadera ★★★; blue-joline.com ★★★]
 
 ## Dogana regionale
 
@@ -71,13 +71,13 @@ Fonti: arubaports.com Yachting ★★★★★; visitaruba.com IASA/DIMAS ★★
 - Uffici di Barcadera descritti come **cordiali ed efficienti** una volta ormeggiati, anche se l'area (zona industriale, discarica a NW) non è scenografica — ormeggiare con parabordi e cime pronte sul lato di accosto (di solito sinistra). ★★★ (aruba-cruisingguide.com; cruiserswiki.org)
 - A Barcadera la manovra col vento al traverso richiede preparazione; tenersi pronti **helpers a terra** per le cime. ★★★ (blue-joline.com 2024)
 - Chiamare **30 min prima** dell'arrivo velocizza l'uscita dell'ufficiale Immigration (che deve scendere da Barcadera se si è dirottati a Oranjestad). ★★★ (aruba-cruisingguide.com)
-- Oranjestad Customs Quay criticato perché **banchina non pensata per piccole barche** e vicina al traffico crocieristico — preferibile Barcadera quando disponibile. ★★ (noonsite.com commenti naviganti)
+- Oranjestad Customs Quay criticato perché **banchina non pensata per piccole barche** e vicina al traffico crocieristico — preferibile Barcadera quando disponibile. ★★ (Fuentes náuticas agregadas commenti naviganti)
 
 ## Sanzioni
 
 - **Permanere in acque arubane senza consenso dell'immigrazione è reato** (“It is considered an offense to remain in Aruban waters without the prior consent of the immigration authorities”). [arubaports.com Yachting — REQUIREMENTS ONCE IN ARUBAN WATERS ★★★★★]
 - **Soggiorno oltre i giorni concessi senza proroga** può comportare **rifiuto di future ammissioni** e annotazione *blacklist* al controllo di frontiera. [visitaruba.com “Staying longer … can have negative consequences for future admission ; Admission can be refused if … blacklisted” ★★★★★]
-- **Armi e fiocine non dichiarate / non consegnate**: sequestro immediato all'ispezione e possibili sanzioni doganali — **DATO MANCANTE** sull'importo: nessuna tabella sanzioni pubblicata trovata su arubaports.com o gobierno.aw; da verificare con Dogana in banchina. [varaderoaruba.com / noonsite — “rifles and spear guns will be seized” ★★★]
+- **Armi e fiocine non dichiarate / non consegnate**: sequestro immediato all'ispezione e possibili sanzioni doganali — **DATO MANCANTE** sull'importo: nessuna tabella sanzioni pubblicata trovata su arubaports.com o gobierno.aw; da verificare con Dogana in banchina. [varaderoaruba.com / Fonti diportiste aggregate — “rifles and spear guns will be seized” ★★★]
 - **Dettaglio importi multe doganali/immigrazione**: **DATO MANCANTE** — nessuna fonte governativa con tariffario sanzioni per mancata clearance yacht reperita su overheid.aw / dimasaruba.aw al 27/08/2026; verificare con APA/Douane prima della crociera.
 
 ## Da verificare prima della crociera

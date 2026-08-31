@@ -41,7 +41,7 @@
 | Piattaforma | Uso locale |
 |---|---|
 | Google Maps recensioni | Limitate, ma utili per Port Morgan ★★ |
-| Noonsite / Cruisers Forum | Segnalazioni dei naviganti di passaggio ★★ |
+| Sources plaisance agrégées / Cruisers Forum | Segnalazioni dei naviganti di passaggio ★★ |
 | CSSN | Incidenti e contesto sicurezza ★★ |
 | Siti locali Haiti | **DONNÉE MANQUANTE** — nessuna guida food locale continuativa verificata |
 

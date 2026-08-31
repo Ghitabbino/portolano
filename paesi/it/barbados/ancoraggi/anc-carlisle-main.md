@@ -15,6 +15,6 @@
 <div class="mapframe" data-slug="anc-carlisle-main" data-lat="13.078" data-lon="-59.6275"></div>
 *Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
 
-Fonti: [BPI Yacht Masters Guide](https://barbadosport.com/barbados-yacht-masters-guide) (2026-03) ★★★★ · [Noonsite](https://www.noonsite.com/place/barbados/view/yachting-essentials) (dic 2025) ★★★ · verificato su BA 1042 + satellite
+Fonti: [BPI Yacht Masters Guide](https://barbadosport.com/barbados-yacht-masters-guide) (2026-03) ★★★★ · Fonti diportiste aggregate (dic 2025) ★★★ · verificato su BA 1042 + satellite
 
 Ultimo aggiornamento: 25/08/2026

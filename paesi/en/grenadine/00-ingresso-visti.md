@@ -24,7 +24,7 @@
 
 **To be verified**
 
-- Cruising permit tariff 2026–27 (any updates from Noonsite)
+- Cruising permit tariff 2026–27 (any updates from Cruising sources aggregate)
 
 **Last updated: 23/08/2026**
 

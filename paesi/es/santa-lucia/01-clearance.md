@@ -8,9 +8,9 @@ Tutti i natanti stranieri in arrivo a Santa Lucia devono **procedere direttament
 
 ## Procedura online pre-arrivo
 
-1. **[SailClear](https://sailclear.com)** — pre-dichiarazione doganale caraibica usata anche da Martinica e St Vincent; registrazione con quota annua (~US$25); restituisce un **numero SailClear** da mostrare all'ufficiale. Per l'uscita si compila il form di check-out e si riceve il clearance number via email. [Noonsite ★★★★; report crocierista dic 2024 ★★]
+1. **[SailClear](https://sailclear.com)** — pre-dichiarazione doganale caraibica usata anche da Martinica e St Vincent; registrazione con quota annua (~US$25); restituisce un **numero SailClear** da mostrare all'ufficiale. Per l'uscita si compila il form di check-out e si riceve il clearance number via email. [Fuentes náuticas agregadas ★★★★; report crocierista dic 2024 ★★]
 2. **Form immigrazione elettronico** su [travelslu.govt.lc](https://travelslu.govt.lc): un form per famiglia/gruppo, inviabile non oltre **72 h prima dell'arrivo**; per ogni membro arriva via email una ricevuta PDF con QR code da presentare all'Immigration. [travelslu.govt.lc ★★★★]
-3. **Maritime Declaration of Health** pronta all'arrivo. [Noonsite ★★★★]
+3. **Maritime Declaration of Health** pronta all'arrivo. [Fuentes náuticas agregadas ★★★★]
 
 ### Trucco utile (dic 2024 ★★)
 A Rodney Bay tutti gli uffici stanno nello stesso edificio e si fanno in ordine fisso: Customs al piano superiore (si consegna il numero SailClear) → Immigration (PDF con QR di ciascun equipaggiante) → banco SLASPA/port authority accanto. Arrivando di sera si sosta in marina e si sbarcca alle 8 del mattino.
@@ -27,7 +27,7 @@ Patente nautica e polizza **non** figurano tra i requisiti ufficiali: portarle c
 
 | Voce | Costo | Fonte |
 |---|---|---|
-| Ingresso tipico yacht da crociera (orari normali) | **~EC$50 totale** | [Noonsite](https://www.noonsite.com/place/st-lucia/) ★★★★ |
+| Ingresso tipico yacht da crociera (orari normali) | **~EC$50 totale** | Fuentes náuticas agregadas ★★★ |
 | Pratique <100 GRT (qualsiasi orario) | EC$10 | stlucia.org ★★★★ |
 | Pratique >100 GRT (08–16 / 16–08) | EC$20 / EC$40 | stlucia.org ★★★★ |
 | Fee clearance <40 ft / >40 ft | EC$5 / EC$15 | stlucia.org ★★★★ |
@@ -62,8 +62,8 @@ Ingresso solo con **Import Permit** preventivo della Veterinary Authority: micro
 
 ## Sicurezza ed esperienze dei crocieristi
 
-- Emergenze **911**. Furti di dinghy ricorrenti al dinghy dock di Rodney Bay: mai lasciato incustodito di notte, sempre incatenato. Furti a bordo segnalati a Rodney Bay/Vieux Fort/Soufrière. [Noonsite ★★★★; Britican ★★]
-- A Soufrière skipper segnalano richieste doganali fuori tariffa (es. EC$125 oltre la boa già pagata): chiedere sempre ricevuta motivata. [Noonsite forum ★★]
+- Emergenze **911**. Furti di dinghy ricorrenti al dinghy dock di Rodney Bay: mai lasciato incustodito di notte, sempre incatenato. Furti a bordo segnalati a Rodney Bay/Vieux Fort/Soufrière. [Fuentes náuticas agregadas ★★★★; Britican ★★]
+- A Soufrière skipper segnalano richieste doganali fuori tariffa (es. EC$125 oltre la boa già pagata): chiedere sempre ricevuta motivata. [Fuentes náuticas agregadas forum ★★]
 - A Rodney Bay il **Customs slip** sul dock esterno (palo giallo, ~2/3 del molo) è gratuito per le formalità. [slucia.com ★★]
 
 ## Sanzioni

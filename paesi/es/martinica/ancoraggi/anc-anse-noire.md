@@ -1,17 +1,17 @@
 # Anse Noire / Anse Dufour {#anc-anse-noire}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
-| Campo | Dettaglio |
+[← Todos los fondeaderos](../08-ancoraggi.md)
+| Campo | Detalle |
 |---|---|
-| **Profondità** |Fino a ~12 m ★★|
-| **Tenuta** |Forte su sabbia nelle zone giuste ★★|
-| **Venti/riparo** |Protezione scarsa da vento/swell ★★★: tappa serena solo con alisei deboli|
-| **Pericoli** |Spazio limitato: le barche ruotano molto in rada, distanze strette ★★|
-| **Affollamento** | Basso-medio |
-| **Divieti** |Nessuno specifico noto → verificare cartografia coralli protetti (fondali ricchi!) ★★★★|
-| **Extra** | Sabbia nera, tartarughe, stelle marine, grotta dei pipistrelli; snorkeling top |
+| **Profundidad** |Hasta ~12 m ★★|
+| **Tenedero** |Bueno sobre arena en las zonas adecuadas ★★|
+| **Vientos/Abrigo** |Escasa protección contra viento/marejada ★★★: escala tranquila solo con alisios flojos|
+| **Peligros** |Espacio limitado: los barcos bornea mucho, distancias muy justas ★★|
+| **Afluencia** | Baja-media |
+| **Restricciones** |Ninguna específica conocida → verificar cartografía de corales protegidos (¡fondos muy ricos!) ★★★★|
+| **Extras** | Arena negra, tortugas, estrellas de mar, cueva de los murciélagos; esnórquel excelente |
 
 <div class="mapframe" data-slug="anse-noire" data-lat="14.4926458" data-lon="-61.0903117"></div>
-*Vista mappa Anse Noire/Dufour (coord. indicative) — zoom con i pulsanti +/−; menu in alto a destra per passare a Carta nautica e Segnali nautici · mappa offline*
+*Vista del mapa Anse Noire/Dufour (coords. indicativas) — haz zoom con los botones +/−; menú arriba a la derecha para cambiar a Carta náutica y Señales náuticas · mapa offline*
 
-Ultimo aggiornamento: 22/08/2026
+Última actualización: 22/08/2026

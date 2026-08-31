@@ -1,16 +1,16 @@
 # Anse Meurnier {#anc-meurnier}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
-| Campo | Dettaglio |
+[← Todos os fundeadouros](../08-ancoraggi.md)
+| Campo | Detalhe |
 |---|---|
-| **Profondità** |**2,5–3 m** ★★|
-| **Tenuta** |Buona su sabbia ★★|
-| **Venti/riparo** | Discreto riparo |
-| **Affollamento** |Week-end presidiati dai charter; **in settimana tranquilla** ★★|
-| **Divieti** | Nessuno specifico noto |
-| **Extra** | Spiaggia bella, ambiente rilassato |
+| **Profundidade** |**2,5–3 m** ★★|
+| **Tensão** |Boa sobre areia ★★|
+| **Ventos/abrigo** | Abrigo razoável |
+| **Lotação** |Fins de semana com charter; **durante a semana tranquila** ★★|
+| **Proibições** | Nenhuma específica conhecida |
+| **Extra** | Praia bonita, ambiente descontraído |
 
 <div class="mapframe" data-slug="meurnier" data-lat="14.5940546" data-lon="-60.8705932"></div>
-*Vista mappa Anse Meurnier (coord. indicative) — zoom con i pulsanti +/−; menu in alto a destra per passare a Carta nautica e Segnali nautici · mappa offline*
+*Vista do mapa Anse Meurnier (coord. indicativas) — zoom com os botões +/−; menu no canto superior direito para mudar para Carta náutica e Sinais náuticos · mapa offline*
 
-Ultimo aggiornamento: 22/08/2026
+Última atualização: 22/08/2026

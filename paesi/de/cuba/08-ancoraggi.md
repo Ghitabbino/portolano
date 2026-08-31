@@ -14,9 +14,9 @@
 | Zona | Divieto | Fonte |
 |---|---|---|
 | **Baie nord chiuse** (0-5 miglia, da Cabo San Antonio a Punta Maisí) | Ancoraggio e navigazione costiera vietati senza despacho; Guarda Frontera ferma | Yacht Pilot ★★★; Marlin ★★★★ |
-| **Zapata Swamp (~600 miglia², Pen. Zapata)** | Deviazione obbligatoria a sud via **Guano del Este** (passaggio largo) | BWSailing ★★; Noonsite ★★★★ |
-| **Jardines de la Reina** | Chiuso ai visitatori stranieri dal 2019 salvo permesso speciale caso-per-caso (Avalon) — divieto ancoraggio eccetto permessi scientifici | Noonsite ★★★★ |
-| **Maria La Gorda (Bahía Corrientes)** | Ancoraggio/moorings chiusi dal 2022, nuovi campi attesi — verificare | Noonsite ★★★★ |
+| **Zapata Swamp (~600 miglia², Pen. Zapata)** | Deviazione obbligatoria a sud via **Guano del Este** (passaggio largo) | BWSailing ★★; Aggregierte Fahrtensegler-Quellen ★★★★ |
+| **Jardines de la Reina** | Chiuso ai visitatori stranieri dal 2019 salvo permesso speciale caso-per-caso (Avalon) — divieto ancoraggio eccetto permessi scientifici | Aggregierte Fahrtensegler-Quellen ★★★★ |
+| **Maria La Gorda (Bahía Corrientes)** | Ancoraggio/moorings chiusi dal 2022, nuovi campi attesi — verificare | Aggregierte Fahrtensegler-Quellen ★★★★ |
 | **Riserve coralline / parchi** | Àncora su corallo vietata ovunque (decreto ambientale cubano) | Marlin ★★★ |
 
 Mémento: carte con zone interdette su sito Marlin e guide Nigel Calder Cruising Guide to Cuba.

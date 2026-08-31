@@ -1,43 +1,41 @@
-# 04 — Servizi, cantieri e manutenzione
+# 04 — Services, Werften & Wartung
 
-**Ultima verifica: 21/08/2026**
+**Letzte Überprüfung: 21/08/2026**
 
-## Le Marin — hub servizi dei Caraibi orientali
+## Le Marin — Service-Hub der östlichen Karibik
 
-### Marina du Marin (ufficiale ★★★★)
-- 78+ professionisti del settore in porto, accoglienza 7/7, videosorveglianza, centro medico, lavanderia, supermercati. ★★★
-- Carenago: travelift, area lavori, lavaggio ad alta pressione, calage; listino carenago 2025 disponibile (manutenzioni complesse +25%). ★★★★
-- Spedizione ricambi (per TUTTI i velisti, non solo clienti marina): indirizzare a **La Capitainerie du Marin, Bassin Tortue, 97290 Le Marin** indicando nome, barca e telefono; conferma arrivo via contact@marina-martinique.fr; dazio pagabile online o busta con contanti in reception. ★★
+### Marina du Marin (offiziell ★★★★)
+- 78+ Fachbetriebe im Hafen, Empfang 7/7, Videoüberwachung, Ärztezentrum, Wäscherei, Supermärkte. ★★★
+- Werft: Travelift, Arbeitsareal, Hochdruckreiniger, Aufbocken; Werfttarif 2025 verfügbar (komplexe Arbeiten +25%). ★★★★
+- Ersatzteilversand (für ALLE Segler, nicht nur Marina-Kunden): adressieren an **La Capitainerie du Marin, Bassin Tortue, 97290 Le Marin** mit Angabe von Name, Boot und Telefon; Ankunftsbestätigung via contact@marina-martinique.fr; Zoll zahlbar online oder Umschlag mit Bargeld an der Rezeption. ★★
 
-### Artigiani segnalati dai naviganti (★★ — esperienze individuali)
+### Von Seglern gemeldete Handwerker (★★ — Einzel­erfahrungen)
 
-| Servizio | Nome | Contatto | Note |
+| Service | Name | Kontakt | Hinweise |
 |---|---|---|---|
-| Saldatura inox/alluminio, biminis, arch | INOXALU | +596 696 17 67 02 | Consigliato |
-| Frigoriferi | Nautic Froid (Pascal) | +596 696 22 71 13 | Professionale ed economico |
-| Meccanico fuoribordo/entrobordo | Igor (svedese, "Mistral") | +4672-870 02 29 | ⚠️ Un navigante segnala inaffidabilità sui pagamenti anticipati → pagare solo a lavoro finito |
+| Edelstahl/Alu-Schweißen, Biminis, Bögen | INOXALU | +596 696 17 67 02 | Empfohlen |
+| Kühltechnik | Nautic Froid (Pascal) | +596 696 22 71 13 | Professionell und günstig |
+| Außen-/Innenborder-Mechaniker | Igor (Schwede, „Mistral“) | +4672-870 02 29 | ⚠️ Ein Segler meldet Unzuverlässigkeit bei Vorauszahlungen → nur nach Fertigstellung zahlen |
 
 ## Fort-de-France
-- Centre de carénage DCML, Baie des Tourelles (stesso punto clearance): +596 596 717 464 · dcmsarl@wanaddo.fr. ★★★★★
+- Centre de carénage DCML, Baie des Tourelles (gleicher Clearance-Punkt): +596 596 717 464 · dcmsarl@wanaddo.fr. ★★★★★
 - Shipchandler Sea Services, 109 rue Ernest Deproge: +596 596 702 669 · seaservices972@orange.fr. ★★★★★
 
-## Gas e bombole
+## Gas & Flaschen
 
-- **Gas/GPL: le bombole NON si riempiono, si scambiano** (es. acquisto bombola Campingaz 3 kg con regolatore). ★★
-- Supermercati validi a Le Marin e Sainte-Anne per il resto della spesa tecnica. ★★
+- **Gas/LPG: Flaschen werden NICHT gefüllt, sondern getauscht** (z. B. Kauf Campingaz-Flasche 3 kg mit Regler). ★★
+- Gute Supermärkte in Le Marin und Sainte-Anne für den übrigen technischen Einkauf. ★★
 
-## Acqua dolce
+## Frischwasser
 
-⚠️ La Martinica soffre di **penurie idriche ricorrenti**: possibili razionamenti imposti dalle autorità. Tenere riserve e seguire i media locali. ★★★★
+⚠️ Martinique leidet unter **wiederkehrender Wasserknappheit**: behördliche Rationierungen möglich. Vorräte halten und lokale Medien verfolgen. ★★★★
 
-## Note strategiche
+## Strategische Hinweise
 
-Le Marin = hub servizi dei Caraibi orientali: travelift 70 t, 78+ professionisti, spedizione ricambi centralizzata in capitaineria; chandler con prezzi ragionevoli rispetto alle Grenadine. ★★
+Le Marin = Service-Hub der östlichen Karibik: Travelift 70 t, 78+ Fachbetriebe, zentralisierter Ersatzteilversand über die Capitainerie; Chandler mit vernünftigen Preisen im Vergleich zu den Grenadinen. ★★
 
-## Hub tecnico
+## Technik-Hub
 
-Il Marin concentra il cantiere: **travelift 70 t**, area carenaggio, **78+ professionisti**
-(velai, motoristi, elettricisti, antifouling, vetroresina); ricambi spediti e ritirati in capitaineria.
-Chandler principali raggiungibili a piedi dalla marina; elenco completo professionisti presso l'accoglienza. ★★
+Le Marin bündelt die Werft: **Travelift 70 t**, Werftareal, **78+ Fachbetriebe** (Segelmacher, Motorenbauer, Elektriker, Antifouling, GFK); Ersatzteile versendet und in der Capitainerie abgeholt. Wichtigste Chandler fußläufig von der Marina; komplette Profi-Liste am Empfang. ★★
 
-Ultimo aggiornamento: 23/08/2026
+Letzte Aktualisierung: 22/08/2026

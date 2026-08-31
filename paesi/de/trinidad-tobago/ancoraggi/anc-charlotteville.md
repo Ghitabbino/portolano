@@ -15,6 +15,6 @@
 <div class="mapframe" data-slug="anc-charlotteville" data-lat="11.3238" data-lon="-60.55"></div>
 *Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
 
-Fonti: Noonsite ★★★
+Fonti: Aggregierte Fahrtensegler-Quellen ★★★
 
 Ultimo aggiornamento: 25/08/2026

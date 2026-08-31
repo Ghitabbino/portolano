@@ -7,7 +7,7 @@
 | Zone | Christ Church — St. Lawrence Gap (“The Gap”, 200 m dalla spiaggia) |
 | Cuisine | 🍽️ Internazionale / caraibica + 🐟 seafood |
 | Spécialité | *Seafood pasta · ribs · fish cakes · Thai curry · cocktail* |
-| Coût | 💰€€ per persona senza bevande (~60–110 BBD) |
+| Coût | 💰€€ par personne sans boissons (~60–110 BBD) |
 | Emplacement | 🎶 nel cuore del Gap, veranda con musica live serale — animato |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Primo+Bar+Bistro+St+Lawrence+Gap+Barbados) |
 | Contacts | St. Lawrence Gap, Christ Church · tel +1 246 420-1500 · [primobarbados.com](https://www.primobarbados.com) |
@@ -23,8 +23,8 @@
 - Lista cocktail e vini
 
 <div class="mapframe" data-slug="rist-primo" data-lat="13.071" data-lon="-59.5815"></div>
-*Cartina di dettaglio — posizione a terra rispetto alla barca · zoom ±*
+*Carte détaillée — position à terre par rapport au bateau · zoom ±*
 
-Fonti: [Totally Barbados — Primo](https://www.totallybarbados.com/place/primo-bar-bistro/) ★★★ · [primobarbados.com](https://www.primobarbados.com) ★★★ · Google/TripAdvisor 28/08/2026 ★★★
+Sources: [Totally Barbados — Primo](https://www.totallybarbados.com/place/primo-bar-bistro/) ★★★ · [primobarbados.com](https://www.primobarbados.com) ★★★ · Google/TripAdvisor 28/08/2026 ★★★
 
 Dernière mise à jour: 28/08/2026

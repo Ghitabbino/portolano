@@ -15,6 +15,6 @@
 <div class="mapframe" data-slug="anc-roseau" data-lat="15.2847" data-lon="-61.38"></div>
 *Detail chart — zoom in to the bay · offline chart · approximate WGS84 coordinates, always verify with your chartplotter*
 
-Fonti: [Noonsite Roseau](https://www.noonsite.com/place/dominica/roseau/) ★★★ · noforeignland "Roseau Anchorage" ★3.0 ★★
+Fonti: Cruising sources aggregate ★★★ · noforeignland "Roseau Anchorage" ★3.0 ★★
 
 Last updated: 25/08/2026

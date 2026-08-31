@@ -1,90 +1,89 @@
-# 02 — Costo della vita
+# 02 — Coste de la vida
 
-**Ultimo aggiornamento: 24/08/2026**
+**Última actualización: 24/08/2026**
 
-Valuta: **dollaro bahamense (BSD)** — **parità fissa 1:1 con USD**; ovunque accettati **USD** (resto spesso in BSD). **IVA (VAT) 10%** su quasi tutto, **12%** su alcuni servizi/ristorazione di fascia alta. Livello prezzi: **+20–80% rispetto agli USA** (tutto importato, + VAT e logistica insulare). ★★★★
+Divisa: **dólar bahameño (BSD)** — **paridad fija 1:1 con USD**; se aceptan **USD** en todas partes (cambio a menudo en BSD). **IVA (VAT) 10%** en casi todo, **12%** en algunos servicios/restauración de gama alta. Nivel de precios: **+20–80% respecto a EE. UU.** (todo importado, + IVA y logística insular). ★★★★
 
-> ⚠️ Le voci di questo elenco sono le stesse per tutti i paesi del portolano. Dove il dato non è stato ancora trovato dalle fonti si scrive **DATO MANCANTE**: viene ricercato al controllo mensile.
+> ⚠️ Los conceptos de esta lista son los mismos para todos los países de la guía. Donde el dato aún no se ha encontrado se escribe **DATO NO DISPONIBLE**: se investigará en el control mensual.
 
-## Alloggio e utenze (indicativo terra — utile per soste lunghe)
+## Alojamiento y suministros (indicativo en tierra — útil para estancias largas)
 
-| Voce | Prezzo indicativo | Note |
+| Concepto | Precio indicativo | Notas |
 |---|---|---|
-| Affitto 1 camera (centro) | **$1.382 / mese** | Nassau/Freeport media ★★★ |
-| Affitto 3 camere | **$2.496 / mese** | Famiglia ★★★ |
-| Utenze (elettricità/acqua/gas) | **$195–301 / mese** | + **Fuel Surcharge** elettrico variabile ★★★ |
-| Internet 60Mbps+ | **$87 / mese** | BTC / Aliv ★★★ |
-| Spesa alimentare singolo | **$762 / mese** | Senza affitto ★★★ |
-| Spesa famiglia 4 p. con affitto | **$6.842 / mese** | Stima Numbeo aggregata ★★★ |
+| Alquiler 1 dormitorio (centro) | **$1.382 / mes** | Media Nassau/Freeport ★★★ |
+| Alquiler 3 dormitorios | **$2.496 / mes** | Familia ★★★ |
+| Suministros (luz/agua/gas) | **$195–301 / mes** | + **Fuel Surcharge** eléctrico variable ★★★ |
+| Internet 60 Mbps+ | **$87 / mes** | BTC / Aliv ★★★ |
+| Compra alimentos persona sola | **$762 / mes** | Sin alquiler ★★★ |
+| Compra familia 4 pers. con alquiler | **$6.842 / mes** | Estimación agregada Numbeo ★★★ |
 
-## Mangiare fuori (media Bahamas)
+## Comer fuera (media Bahamas)
 
-| Voce | Prezzo indicativo |
+| Concepto | Precio indicativo |
 |---|---|
-| Pranzo economico (locale) | **$31,20** |
-| Cena per 2 in ristorante medio | **$79,30** |
-| Menu McDonald's / fast food | **$11,80** |
-| Birra locale al bar (0,33–0,5 l) | **$5,33** |
+| Almuerzo económico (local) | **$31,20** |
+| Cena para 2 en restaurante medio | **$79,30** |
+| Menú McDonald's / fast food | **$11,80** |
+| Cerveza local en bar (0,33–0,5 l) | **$5,33** |
 
-Prezzi specifici per locale → [10 Ristoranti](10-ristoranti.md).
+Precios específicos por local → [10 Restaurantes](10-ristoranti.md).
 
-## Spesa di bordo — supermercato
+## Compra a bordo — supermercado
 
-| Voce | Prezzo indicativo | Note |
+| Concepto | Precio indicativo | Notas |
 |---|---|---|
-| Acqua RO in banchina | **$0,10–0,25 / gallone** | Vedi [07 Provisioning](07-provvisioning.md) ★★★★ |
-| Pane / latte / uova | **DATO MANCANTE** | Più caro che in Florida del 30–50% |
-| Frutta/verdura importata | Cara, qualità variabile fuori Nassau | Meglio mercati locali ★★ |
-| Pesce locale (conch, grouper, snapper) | Più conveniente se da pescatori | Potter's Cay ★★★ |
+| Agua RO en muelle | **$0,10–0,25 / galón** | Ver [07 Aprovisionamiento](07-provvisioning.md) ★★★★ |
+| Pan / leche / huevos | **DATO NO DISPONIBLE** | 30–50% más caro que en Florida |
+| Fruta/verdura importada | Cara, calidad variable fuera de Nassau | Mejor en mercados locales ★★ |
+| Pescado local (conch, grouper, snapper) | Más barato si es de pescadores | Potter's Cay ★★★ |
 
-## Carburanti
+## Carburantes
 
-| Voce | Prezzo indicativo | Note |
+| Concepto | Precio indicativo | Notas |
 |---|---|---|
-| Diesel — prezzo nazionale GlobalPetrol | **$1,685 / L = $6,38 / gal** | Media nazionale 2026 ★★★★ |
-| Diesel in marina | **$6,50–8,50 / gal** | Varia per isola e trasporto ★★★★ |
-| Diesel **Hurricane Hole Marina, Nassau** | **$6,93 / gal** al **01/06/2026** | Rilevazione marina ★★★★ |
-| Benzina in marina | **DATO MANCANTE** | ~ $6–8 / gal stimato, da verificare sul posto |
-| Bombola gas (scambio) | **DATO MANCANTE** | |
+| Diésel — precio nacional GlobalPetrol | **$1,685 / L = $6,38 / gal** | Media nacional 2026 ★★★★ |
+| Diésel en marina | **$6,50–8,50 / gal** | Varía por isla y transporte ★★★★ |
+| Diésel **Hurricane Hole Marina, Nassau** | **$6,93 / gal** el **01/06/2026** | Sondeo marina ★★★★ |
+| Gasolina en marina | **DATO NO DISPONIBLE** | ~ $6–8 / gal estimado, a verificar in situ |
+| Bombona de gas (intercambio) | **DATO NO DISPONIBLE** | |
 
-Il carburante in banchina è il più caro dei Caraibi dopo Bermuda — fare pieno in Florida se possibile. ★★★★
+El combustible en muelle es el más caro del Caribe después de Bermudas — llenar en Florida si es posible. ★★★★
 
-## Trasporti e collegamenti
+## Transportes y conexiones
 
-| Voce | Prezzo indicativo | Note |
+| Concepto | Precio indicativo | Notas |
 |---|---|---|
-| Jitney (bus locale Nassau) | **$1,25–1,50 / corsa** cash a bordo | Solo New Providence. Fermate a richiesta su Bay St./East Bay St., frequenza 10–20 min lun–sab 6:30–19, dom ridotta 20–30 min. Scomodo con carichi — vedi [07 Provisioning](07-provvisioning.md) ★★★ |
-| Taxi corsa breve (Nassau) | **$15–25** | Tariffe non tassametrate, concordare prima. Dispatch **242-323-3030 / 242-325-3333** ★★★ |
-| Taxi aeroporto–centro Nassau | **$30–35** | + supplemento bagagli $2/collo ★★ |
-| Taxi Hurricane Hole → Harbour Bay (Solomon's) | **$18–28 A/R** stimato | Con attesa 30 min spesa — concordare chiuso ★★ |
-| Taxi Freeport (Grand Bahama) | **$15–20** breve / **$25–30** aeroporto–Lucayan | **DATO MANCANTE** dispatch verificato — chiedere in marina ★★ |
-| Taxi Marsh Harbour / Georgetown | **$10–20** (golf-cart taxi) | Abacos/Exumas: poche auto, più golf-cart ★★ |
-| Noleggio auto / golf-cart giornaliero | **$50–120 / giorno** auto · **$60–90** golf-cart Abacos/Exumas | Nassau/Freeport auto; Marsh Harbour/Georgetown/Staniel golf-cart — **DATO MANCANTE** per tariffa 2026 esatta |
-| Traghetto Bahamas Ferries | **DATO MANCANTE** su prezzo tratta | Da **Potter's Cay Dock, Nassau — 242-323-2166 ext. 250** → Harbour Island, Eleuthera, Marsh Harbour, Exuma. Uffici isole: Freeport 242-807-8018, Exuma 242-808-0658, Marsh Harbour 242-808-0581. Prenotazione: booking.bahamasferries.com ★★★★ |
-| Mail boat / ferry minori | **DATO MANCANTE** | Collegamenti settimanali cays remoti — chiedere in marina VHF 16 |
+| Jitney (bus local Nassau) | **$1,25–1,50 / trayecto** cash a bordo | Solo New Providence. Paradas a demanda en Bay St./East Bay St., frecuencia 10–20 min lun–sáb 6:30–19, dom reducido 20–30 min. Incómodo con cargas — ver [07 Aprovisionamiento](07-provvisioning.md) ★★★ |
+| Taxi trayecto corto (Nassau) | **$15–25** | Tarifas sin taxímetro, acordar antes. Dispatch **242-323-3030 / 242-325-3333** ★★★ |
+| Taxi aeropuerto–centro Nassau | **$30–35** | + suplemento equipaje $2/bulto ★★ |
+| Taxi Hurricane Hole → Harbour Bay (Solomon's) | **$18–28 ida y vuelta** estimado | Con espera 30 min compra — acordar precio cerrado ★★ |
+| Taxi Freeport (Grand Bahama) | **$15–20** corto / **$25–30** aeropuerto–Lucayan | **DATO NO DISPONIBLE** dispatch verificado — preguntar en marina ★★ |
+| Taxi Marsh Harbour / Georgetown | **$10–20** (golf-cart taxi) | Abacos/Exumas: pocos coches, más golf-carts ★★ |
+| Alquiler coche / golf-cart por día | **$50–120 / día** coche · **$60–90** golf-cart Abacos/Exumas | Nassau/Freeport coche; Marsh Harbour/Georgetown/Staniel golf-cart — **DATO NO DISPONIBLE** para tarifa 2026 exacta |
+| Ferry Bahamas Ferries | **DATO NO DISPONIBLE** sobre precio del trayecto | Desde **Potter's Cay Dock, Nassau — 242-323-2166 ext. 250** → Harbour Island, Eleuthera, Marsh Harbour, Exuma. Oficinas islas: Freeport 242-807-8018, Exuma 242-808-0658, Marsh Harbour 242-808-0581. Reserva: booking.bahamasferries.com ★★★★ |
+| Mail boat / ferries menores | **DATO NO DISPONIBLE** | Conexiones semanales a cayos remotos — preguntar en marina VHF 16 |
 
-## Servizi quotidiani
+## Servicios diarios
 
-| Voce | Prezzo indicativo | Note |
+| Concepto | Precio indicativo | Notas |
 |---|---|---|
-| Elettricità marina (liveaboard) | **~$250 / mese** + fuel surcharge | BPL — molto caro ★★★ |
-| Lavanderia self-service | **$5–10 / carico** | Marina o lavanderie in città ★★ |
-| SIM prepagata con dati (BTC/Aliv) | **DATO MANCANTE** | |
-| Lavaggio scafo / hull dive | **DATO MANCANTE** | |
+| Electricidad marina (liveaboard) | **~$250 / mes** + fuel surcharge | BPL — muy cara ★★★ |
+| Lavandería autoservicio | **$5–10 / carga** | Marina o lavanderías en ciudad ★★ |
+| SIM prepago con datos (BTC/Aliv) | **DATO NO DISPONIBLE** | |
+| Limpieza casco / buceo casco | **DATO NO DISPONIBLE** | |
 
-## Contanti e pagamenti
+## Efectivo y pagos
 
-BSD e USD 1:1, carte **Visa/Mastercard** accettate nelle marine e nei resort; contante (USD piccoli tagli) indispensabile nei **cays remoti, chioschi e distributori fuel**. Bancomat (ATM) a Nassau, Freeport, Marsh Harbour, George Town — commissioni alte. Mance: **15–18%** atteso nei ristoranti.
+BSD y USD 1:1, tarjetas **Visa/Mastercard** aceptadas en marinas y resorts; efectivo (billetes pequeños USD) indispensable en **cayos remotos, quioscos y surtidores de combustible**. Cajeros (ATM) en Nassau, Freeport, Marsh Harbour, George Town — comisiones altas. Propinas: **15–18%** esperado en restaurantes.
 
-## Approfondimenti
+## Más información
 
-- Tariffe marine e boe → [03 Porti e marine](03-porti-ancoraggi.md)
-- Ancoraggi gratuiti vs Anchorage Fee → [08 Ancoraggi](08-ancoraggi.md)
-- Ristoranti con prezzi per locale → [10 Ristoranti](10-ristoranti.md)
+- Tarifas de marinas y boyas → [03 Puertos y marinas](03-porti-ancoraggi.md)
+- Fondeaderos gratuitos vs Anchorage Fee → [08 Fondeaderos](08-ancoraggi.md)
+- Restaurantes con precios por local → [10 Restaurantes](10-ristoranti.md)
 
-Ultimo aggiornamento: 24/08/2026
+Última actualización: 24/08/2026
 
-## Alimentari
+## Alimentación
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
+**DATO NO DISPONIBLE** — a completar en el control mensual.

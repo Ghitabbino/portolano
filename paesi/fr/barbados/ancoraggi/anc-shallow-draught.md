@@ -5,16 +5,16 @@
 
 | Champ | Détail |
 |---|---|
-| **Profondeur** |Darsena protetta; "shallow" solo per le navi, per gli yacht è profondo|
-| **Tenue de l’ancre** |— (~40 posti servizi completi)|
-| **Vents/abri** |Darsena protetta|
-| **Dangers** |Pieno in dicembre per rally verificato su BA 1042 + satellite|
-| **Bouées/interdictions/réglementation** |Dogana/immigrazione dedicata agli yacht; POE ufficiale|
-| **À terre** |Marina yacht Bridgetown|
+| **Profondeur** |Bassin protégé ; « shallow » uniquement pour les navires, profond pour les yachts|
+| **Tenue de l’ancre** |— (~40 places services complets)|
+| **Vents/abri** |Bassin protégé|
+| **Dangers** |Complet en décembre pour rallye vérifié sur BA 1042 + satellite|
+| **Bouées/interdictions/réglementation** |Douane/immigration dédiée aux yachts ; POE officiel|
+| **À terre** |Marina yachts Bridgetown|
 
 <div class="mapframe" data-slug="anc-shallow-draught" data-lat="13.101" data-lon="-59.627"></div>
-*Carte détaillée — zoomez jusqu’à la baie · carte hors ligne · coordinate WGS84 indicative, toujours vérifier avec le traceur*
+*Carte détaillée — zoomez jusqu’à la baie · carte hors ligne · coordonnées WGS84 indicatives, toujours vérifier avec le traceur*
 
-Fonti: [BPI news](https://barbadosport.com/news/page/4) (2024-12) ★★★★ · [Yachting World](https://www.yachtingworld.com/features/reinventing-barbados-caribbean-island-works-welcome-back-cruisers-71257) (2017) ★★★ · verificato su BA 1042 + satellite
+Sources: [BPI news](https://barbadosport.com/news/page/4) (2024-12) ★★★★ · [Yachting World](https://www.yachtingworld.com/features/reinventing-barbados-caribbean-island-works-welcome-back-cruisers-71257) (2017) ★★★ · vérifié sur BA 1042 + satellite
 
 Dernière mise à jour: 25/08/2026

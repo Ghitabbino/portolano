@@ -15,6 +15,6 @@
 <div class="mapframe" data-slug="anc-barcadera-ingresso" data-minz="12" data-maxz="17" data-lat="12.4806" data-lon="-70.0072"></div>
 *Carte détaillée — zoomez jusqu’à la baie · carte hors ligne · coordinate WGS84 indicative, toujours vérifier avec le traceur*
 
-Fonti: Noonsite ★★★ · Aruba Ports ★★★★
+Fonti: Sources plaisance agrégées ★★★ · Aruba Ports ★★★★
 
 Dernière mise à jour: 25/08/2026

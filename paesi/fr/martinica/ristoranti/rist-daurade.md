@@ -5,23 +5,23 @@
 | Champ | Détail |
 |---|---|
 | Zone | Sainte-Anne |
-| Cuisine | 🐟 Creola popolare |
-| Spécialité | Accras · colombo pesce del giorno |
-| Coût | 💰€ per persona senza bevande |
-| Emplacement | 🪶 semplice, locale |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Daurade+Sainte-Anne) |
+| Cuisine | 🐟 Créole populaire |
+| Spécialité | Accras · colombo poisson du jour |
+| Coût | 💰€ par personne hors boissons |
+| Emplacement | 🪶 simple, local |
+| Carte | [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Daurade+Sainte-Anne) |
 | Contacts | 0696 85 87 55 / 0696 27 61 64 |
 | Évaluations | TA 4,0/5 (205) → ★★★★ |
-| Horaires | tutti i giorni, pranzo e sera |
+| Horaires | tous les jours, midi et soir |
 
 ## Menu
 
 - Accras
 - Boudin antillais
 - Poulet boucané
-- Langoustes secondo arrivo
-- Colombo pesce del giorno
-- Menù entrée+plat+dessert 22 €
+- Langoustes selon arrivage
+- Colombo poisson du jour
+- Menu entrée+plat+dessert 22 €
 
 **Chef**: ND
 
@@ -29,6 +29,6 @@
 
 ![La Daurade](img/martinica/rist-daurade.jpg)
 
-*Source: sito jimdo del ristorante*
+*Source : site jimdo du restaurant*
 
-**Note**: 3 rue du Capitaine Constant, vicino al mercato del pesce · buon rapporto qualità/prezzo
+**Notes** : 3 rue du Capitaine Constant, près du marché aux poissons · bon rapport qualité/prix

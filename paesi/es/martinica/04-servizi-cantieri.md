@@ -1,43 +1,43 @@
-# 04 — Servizi, cantieri e manutenzione
+# 04 — Servicios, varaderos y mantenimiento
 
-**Ultima verifica: 21/08/2026**
+**Última verificación: 21/08/2026**
 
-## Le Marin — hub servizi dei Caraibi orientali
+## Le Marin — centro de servicios del Caribe oriental
 
-### Marina du Marin (ufficiale ★★★★)
-- 78+ professionisti del settore in porto, accoglienza 7/7, videosorveglianza, centro medico, lavanderia, supermercati. ★★★
-- Carenago: travelift, area lavori, lavaggio ad alta pressione, calage; listino carenago 2025 disponibile (manutenzioni complesse +25%). ★★★★
-- Spedizione ricambi (per TUTTI i velisti, non solo clienti marina): indirizzare a **La Capitainerie du Marin, Bassin Tortue, 97290 Le Marin** indicando nome, barca e telefono; conferma arrivo via contact@marina-martinique.fr; dazio pagabile online o busta con contanti in reception. ★★
+### Marina du Marin (oficial ★★★★)
+- 78+ profesionales del sector en el puerto, recepción 7/7, videovigilancia, centro médico, lavandería, supermercados. ★★★
+- Varadero: travelift, zona de trabajos, lavado a presión, apuntalado; tarifa de varada 2025 disponible (mantenimientos complejos +25%). ★★★★
+- Envío de recambios (para TODOS los navegantes, no solo clientes de la marina): dirigir a **La Capitainerie du Marin, Bassin Tortue, 97290 Le Marin** indicando nombre, barco y teléfono; confirmación de llegada vía contact@marina-martinique.fr; arancel pagable online o sobre con efectivo en recepción. ★★
 
-### Artigiani segnalati dai naviganti (★★ — esperienze individuali)
+### Artesanos señalados por los navegantes (★★ — experiencias individuales)
 
-| Servizio | Nome | Contatto | Note |
+| Servicio | Nombre | Contacto | Notas |
 |---|---|---|---|
-| Saldatura inox/alluminio, biminis, arch | INOXALU | +596 696 17 67 02 | Consigliato |
-| Frigoriferi | Nautic Froid (Pascal) | +596 696 22 71 13 | Professionale ed economico |
-| Meccanico fuoribordo/entrobordo | Igor (svedese, "Mistral") | +4672-870 02 29 | ⚠️ Un navigante segnala inaffidabilità sui pagamenti anticipati → pagare solo a lavoro finito |
+| Soldadura inox/aluminio, biminis, arcos | INOXALU | +596 696 17 67 02 | Recomendado |
+| Frigoristas | Nautic Froid (Pascal) | +596 696 22 71 13 | Profesional y económico |
+| Mecánico fueraborda/intraborda | Igor (sueco, "Mistral") | +4672-870 02 29 | ⚠️ Un navegante señala poca fiabilidad con pagos anticipados → pagar solo al finalizar el trabajo |
 
 ## Fort-de-France
-- Centre de carénage DCML, Baie des Tourelles (stesso punto clearance): +596 596 717 464 · dcmsarl@wanaddo.fr. ★★★★★
+- Centre de carénage DCML, Baie des Tourelles (mismo punto de despacho): +596 596 717 464 · dcmsarl@wanaddo.fr. ★★★★★
 - Shipchandler Sea Services, 109 rue Ernest Deproge: +596 596 702 669 · seaservices972@orange.fr. ★★★★★
 
-## Gas e bombole
+## Gas y bombonas
 
-- **Gas/GPL: le bombole NON si riempiono, si scambiano** (es. acquisto bombola Campingaz 3 kg con regolatore). ★★
-- Supermercati validi a Le Marin e Sainte-Anne per il resto della spesa tecnica. ★★
+- **Gas/GLP: las bombonas NO se rellenan, se intercambian** (ej. compra de bombona Campingaz 3 kg con regulador). ★★
+- Supermercados válidos en Le Marin y Sainte-Anne para el resto de la compra técnica. ★★
 
-## Acqua dolce
+## Agua dulce
 
-⚠️ La Martinica soffre di **penurie idriche ricorrenti**: possibili razionamenti imposti dalle autorità. Tenere riserve e seguire i media locali. ★★★★
+⚠️ Martinica sufre **escasez hídrica recurrente**: posibles racionamientos impuestos por las autoridades. Mantener reservas y seguir los medios locales. ★★★★
 
-## Note strategiche
+## Notas estratégicas
 
-Le Marin = hub servizi dei Caraibi orientali: travelift 70 t, 78+ professionisti, spedizione ricambi centralizzata in capitaineria; chandler con prezzi ragionevoli rispetto alle Grenadine. ★★
+Le Marin = centro de servicios del Caribe oriental: travelift 70 t, 78+ profesionales, envío de recambios centralizado en capitanía; chandler con precios razonables respecto a las Granadinas. ★★
 
-## Hub tecnico
+## Centro técnico
 
-Il Marin concentra il cantiere: **travelift 70 t**, area carenaggio, **78+ professionisti**
-(velai, motoristi, elettricisti, antifouling, vetroresina); ricambi spediti e ritirati in capitaineria.
-Chandler principali raggiungibili a piedi dalla marina; elenco completo professionisti presso l'accoglienza. ★★
+Le Marin concentra el varadero: **travelift 70 t**, zona de carena, **78+ profesionales**
+(veleros, motoristas, electricistas, antifouling, fibra); recambios enviados y recogidos en capitanía.
+Chandlers principales a pie desde la marina; listado completo de profesionales en recepción. ★★
 
-Ultimo aggiornamento: 23/08/2026
+Última actualización: 22/08/2026

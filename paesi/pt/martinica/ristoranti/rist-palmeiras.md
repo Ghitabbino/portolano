@@ -1,34 +1,36 @@
 # Palmeiras Karaïb
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Todos os restaurantes](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Campo | Detalhe |
 |---|---|
 | Zona | Le Diamant |
-| Cucina | 🥩 Brasiliana-caraibica |
-| Specialità | Tartare pesce del giorno · accras |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🌅 vista Rocher, tramonto |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Palmeiras+Karaïb+Le+Diamant) |
-| Contatti | 0596 76 12 99 |
-| Valutazioni | Google 4,4/5 (880) · TA 4,2/5 (1029) → ★★★★½ |
-| Orari | lun 12–23 · mer–sab 12–23 · dom 12–15 · chiuso martedì |
+| Cozinha | 🥩 Brasileira-caribenha |
+| Especialidade | Tartare de peixe do dia · accras |
+| Custo | 💰€€ por pessoa sem bebidas |
+| Localização | 🌅 vista Rocher, pôr do sol |
+| Mapa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Palmeiras+Karaïb+Le+Diamant) |
+| Contactos | 0596 76 12 99 |
+| Avaliações | Google 4,4/5 (880) · TA 4,2/5 (1029) → ★★★★½ |
+| Horário | seg 12–23 · qua–sáb 12–23 · dom 12–15 · fechado terça |
 
-## Menu
+## Ementa
 
-- Tartare pesce del giorno
-- Burger pane fatto in casa
-- Camembert fritto
+- Tartare de peixe do dia
+- Burger com pão caseiro
+- Camembert frito
 - Accras du Rocher
 - Tapas
 - Cocktail
 
 **Chef**: ND
 
-## Foto
+## Fotos
 
 ![Palmeiras Karaïb](img/martinica/rist-palmeiras.jpg)
 
 *Fonte: bellemartinique.com*
 
-**Note**: Spiaggia Dizac/Anse Caffard davanti al Rocher (ex New Cap) · riaperto 31/07/2026 dopo sargassi
+**Notas**: Praia Dizac/Anse Caffard em frente ao Rocher (ex New Cap) · reaberto em 31/07/2026 após sargaço
+
+Última atualização: 22/08/2026

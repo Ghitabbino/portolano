@@ -12,7 +12,7 @@
 - **Furti auto: molto comuni (noleggio/auto di lusso target); parcheggi hotel, supermercati, ristoranti** (travel.gc.ca ★★★★★).
 - **Sicurezza portuale: 2 scanner fissi donati USA a Japdeva (Limón) e Caldera (dic 2024, operativi Q1 2025); 12 scanner mobili già operativi** (Tico Times ★★★★★; ticosland.com ★★★★).
 - **Correnti di risacca (rip currents) PERICOLOSE su tutte le spiagge caraibiche; pochi bagnini (Cocles, Manzanilla, Negra, Punta Uva hanno postazioni ma non sempre presidiate)** (travel.gc.ca ★★★★★).
-- **Ancoraggi: furti a bordo / tender / fuoribordo segnalati in passato (Limón 2011: navi derubate a gunpoint in rada; finora yacht non bersagliati ma "visitors should be wary")** (Sea-Seek ★★★; Noonsite ★★★★).
+- **Ancoraggi: furti a bordo / tender / fuoribordo segnalati in passato (Limón 2011: navi derubate a gunpoint in rada; finora yacht non bersagliati ma "visitors should be wary")** (Sea-Seek ★★★; Aggregierte Fahrtensegler-Quellen ★★★★).
 
 **Ultimo aggiornamento: 24/08/2026**
 

@@ -5,23 +5,23 @@
 | Field | Detail |
 |---|---|
 | Area | Anse-Bertrand |
-| Cuisine | 🍽️ Creativa locale |
-| Speciality | Menù degustazione |
-| Cost | 💰€€€ for persona without bevande |
-| Setting | 🌅 vista oceano atlantico |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Rayon+de+Soleil+Anse-Bertrand) |
-| Contacts | [Mappa](https://www.google.com/maps/search/?api=1&query=Rayon+Soleil+Anse-Bertrand) |
-| Ratings | Google positive → ★★★★ |
-| Hours | pranzo · cena on prenotazione ⚠️ |
+| Cuisine | 🍽️ Creative local |
+| Speciality | Tasting menu |
+| Cost | 💰€€€ per person without drinks |
+| Setting | 🌅 Atlantic ocean view |
+| Map | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Rayon+de+Soleil+Anse-Bertrand) |
+| Contacts | [Map](https://www.google.com/maps/search/?api=1&query=Rayon+Soleil+Anse-Bertrand) |
+| Ratings | Google — positive reviews → ★★★★ |
+| Hours | lunch · dinner by reservation ⚠️ |
 
 ## Menu
 
-- Menù degustazione
+- Tasting menu
 
 **Chef**: ND
 
-## Foto
+## Photos
 
-*Foto non still disponibili — recuperare at the controllo mensile.*
+*No photos available yet — to be added on monthly check.*
 
-**Note**: Hôtel Toubana · dopo la visita at the Pointe de la Grande Vigie · menu 25–60 €
+**Notes**: Hôtel Toubana · after visiting Pointe de la Grande Vigie · menu €25–60

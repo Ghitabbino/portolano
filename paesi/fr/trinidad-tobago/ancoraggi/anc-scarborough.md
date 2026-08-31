@@ -15,6 +15,6 @@
 <div class="mapframe" data-slug="anc-scarborough" data-lat="11.1853" data-lon="-60.7386"></div>
 *Carte détaillée — zoomez jusqu’à la baie · carte hors ligne · coordinate WGS84 indicative, toujours vérifier avec le traceur*
 
-Fonti: Noonsite (09/2024) ★★★
+Fonti: Sources plaisance agrégées (09/2024) ★★★
 
 Dernière mise à jour: 25/08/2026

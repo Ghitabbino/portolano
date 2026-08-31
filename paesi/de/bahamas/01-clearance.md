@@ -1,112 +1,112 @@
-# 01 — Clearance doganale della barca
+# 01 — Zoll-Clearance für Yachten
 
-**Ultima verifica: 24/08/2026** · Fonte principale: Bahamas Customs & Bahamas Maritime Authority — portale **Click2Clear (besw.gov.bs)** ★★★★★
+**Letzte Überprüfung: 24/08/2026** · Hauptquelle: Bahamas Customs & Bahamas Maritime Authority — Portal **Click2Clear (besw.gov.bs)** ★★★★★
 
-## Chi deve farla
+## Wer einklarieren muss
 
-Tutti i natanti da diporto che **entrano** nelle acque bahamensi provenendo dall'estero devono effettuare la clearance in un **Port of Entry designato**. La procedura è **solo digitale dal 22/02/2021** tramite Click2Clear. Non esiste più modulo cartaceo in banchina. ★★★★★
+Alle Sportboote, die aus dem Ausland in bahamaische Gewässer **einlaufen**, müssen in einem **designated Port of Entry** einklarieren. Das Verfahren ist **nur digital seit 22.02.2021** über Click2Clear. Kein Papierformular mehr an der Pier. ★★★★★
 
-## Procedura Click2Clear — solo online
+## Click2Clear-Verfahren — nur online
 
-1. Registrarsi su **https://besw.gov.bs** (Bahamas Electronic Single Window) e creare l'account **Click2Clear** prima dell'arrivo. ★★★★★
-2. Compilare la **Pleasure Craft Declaration**: dati nave (nome, registrazione, bandiera, LOA, pescaggio), proprietario/skipper, **crew manifest** completo (passaporti), armi e animali a bordo (se presenti), porto precedente/successivo, ETA. ★★★★★
-3. Inviare la dichiarazione: il sistema genera un **Rotation Number**. ★★★★★
-4. **Pagamento online** con carta **Visa** (unica carta accettata online) oppure dichiarazione di pagamento in **contanti all'arrivo** — ATTENZIONE: **l'approvazione non viene rilasciata finché il pagamento non risulta accreditato**; chi sceglie "cash on arrival" deve pagare in dogana e attendere lo sblocco. ★★★★★
-5. Stampare/salvare su telefono il **Cruising Permit approvato** con QR/Rotation Number.
+1. Auf **https://besw.gov.bs** (Bahamas Electronic Single Window) registrieren und vor Ankunft ein **Click2Clear**-Konto anlegen. ★★★★★
+2. Die **Pleasure Craft Declaration** ausfüllen: Bootsdaten (Name, Registrierung, Flagge, LOA, Tiefgang), Eigner/Skipper, vollständiges **Crew-Manifest** (Reisepässe), Waffen und Tiere an Bord (falls vorhanden), vorheriger/nächster Hafen, ETA. ★★★★★
+3. Erklärung absenden: Das System generiert eine **Rotation Number**. ★★★★★
+4. **Online-Zahlung** mit Karte **Visa** (einzige online akzeptierte Karte) oder Erklärung zur **Barzahlung bei Ankunft** — ACHTUNG: **Die Genehmigung wird erst erteilt, wenn die Zahlung gutgeschrieben ist**; wer "cash on arrival" wählt, muss beim Zoll zahlen und auf die Freigabe warten. ★★★★★
+5. Das genehmigte **Cruising Permit** mit QR/Rotation Number ausdrucken/auf dem Handy speichern.
 
-> Trucco utile: il profilo Click2Clear conserva nave ed equipaggio — per uscite/rientri successivi si **duplica** la pratica precedente e si aggiornano solo date e porto. ★★★
+> Nützlicher Tipp: Das Click2Clear-Profil speichert Boot und Crew — für spätere Aus-/Wiedereinreisen einfach den vorherigen Antrag **duplizieren** und nur Daten und Hafen aktualisieren. ★★★
 
-## Arrivo — cosa fare in mare e a terra
+## Ankunft — Verhalten auf See und an Land
 
-| Fase | Regola |
-|---|---|
-| In avvicinamento | Esporre **bandiera Q (gialla)** e chiamare sul **VHF 16** il **Designated Port of Entry** prescelto; chiedere istruzioni per l'ormeggio doganale | ★★★★★ |
-| A terra | **Solo lo skipper scende** — equipaggio resta a bordo finché la clearance non è completata | ★★★★★ |
-| Documenti da presentare | **Passaporti** di tutto l'equipaggio, **cruising permit / Rotation Number Click2Clear**, **registrazione/documento di proprietà** nave, **assicurazione** (se disponibile), eventuali **permessi armi/animali**, crew list stampata | ★★★★★ |
-| Uscita (outbound clearance) | Obbligatoria la **clearance di uscita** se richiesta dalle autorità del prossimo paese (zarpe) — costo **$75** | ★★★★ |
-
-## Armi a bordo — regole severe
-
-| Voce | Regola | Fonte |
+| Phase | Regel | |
 |---|---|---|
-| Dichiarazione | **Obbligatoria** su Click2Clear e all'ufficiale — armi tenute **sotto chiave a bordo**, non sbarcabili | Bahamas Customs / Police ★★★★★ |
-| Limiti quantità | **Max 3 armi** per nave, calibro **≤ .308**, max **250 colpi** totali | Bahamas Police ★★★★★ |
-| Divieti | **Vietate armi automatiche**, armi d'assalto, **open center console con armi** — in quel caso divieto di detenzione | Bahamas Police ★★★★ |
-| Conseguenza violazione | Sequestro arma + nave, arresto, ammenda | Bahamas Police ★★★★★ |
+| Ansteuerung | **Flagge Q (gelb)** setzen und den gewählten **Designated Port of Entry** auf **VHF 16** anrufen; Anweisungen für den Zoll-Liegeplatz einholen | ★★★★★ |
+| An Land | **Nur der Skipper geht an Land** — Crew bleibt an Bord bis die Clearance abgeschlossen ist | ★★★★★ |
+| Vorzulegende Dokumente | **Reisepässe** der gesamten Crew, **Cruising Permit / Click2Clear Rotation Number**, **Bootsregistrierung/Eigentumsnachweis**, **Versicherung** (falls vorhanden), ggf. **Waffen-/Tiergenehmigungen**, ausgedruckte Crewliste | ★★★★★ |
+| Ausreise (outbound clearance) | **Ausreise-Clearance** verpflichtend, wenn von den Behörden des nächsten Landes verlangt (Zarpe) — Kosten **$75** | ★★★★ |
 
-## Animali domestici
+## Waffen an Bord — strenge Regeln
 
-| Voce | Regola | Fonte |
+| Punkt | Regel | Quelle |
 |---|---|---|
-| Import permit BAHFSA | **Obbligatorio pre-approvato** dal **Bahamas Agriculture Health and Food Safety Authority (BAHFSA)** — costo **$11,20** per richiesta | BAHFSA ★★★★★ |
-| Requisiti | **Microchip**, vaccino **antirabbica** valido, **certificato veterinario entro 48h** dalla partenza, vaccinazioni aggiornate | BAHFSA ★★★★★ |
-| Razze vietate | **Pit Bull, Presa Canario, Cane Corso, American Bully** e incroci — **divieto d'ingresso** | BAHFSA ★★★★★ |
-| A bordo | Animale dichiarato, resta a bordo finché autorizzato; possibile ispezione | BAHFSA ★★★★ |
+| Deklaration | **Pflicht** auf Click2Clear und beim Beamten — Waffen **verschlossen an Bord** aufbewahren, nicht an Land bringen | Bahamas Customs / Police ★★★★★ |
+| Mengenbegrenzungen | **Max. 3 Waffen** pro Boot, Kaliber **≤ .308**, max. **250 Schuss** insgesamt | Bahamas Police ★★★★★ |
+| Verbote | **Automatikwaffen verboten**, Sturmgewehre, **open center console mit Waffen** — in dem Fall Besitzverbot | Bahamas Police ★★★★ |
+| Folge bei Verstoß | Beschlagnahme von Waffe + Boot, Festnahme, Geldstrafe | Bahamas Police ★★★★★ |
 
-## Porti d'ingresso designati (selezione aggiornata)
+## Haustiere
 
-| Area | Porti / Marine di ingresso |
+| Punkt | Regel | Quelle |
+|---|---|---|
+| BAHFSA-Einfuhrgenehmigung | **Vorab genehmigte Pflichtgenehmigung** der **Bahamas Agriculture Health and Food Safety Authority (BAHFSA)** — Kosten **$11,20** pro Antrag | BAHFSA ★★★★★ |
+| Voraussetzungen | **Mikrochip**, gültige **Tollwutimpfung**, **tierärztliches Zeugnis innerhalb 48h** vor Abfahrt, aktuelle Impfungen | BAHFSA ★★★★★ |
+| Verbotene Rassen | **Pit Bull, Presa Canario, Cane Corso, American Bully** und Mischlinge — **Einreiseverbot** | BAHFSA ★★★★★ |
+| An Bord | Tier deklariert, bleibt an Bord bis genehmigt; Inspektion möglich | BAHFSA ★★★★ |
+
+## Designated Ports of Entry (aktualisierte Auswahl)
+
+| Gebiet | Einreise-Häfen / Marinas |
 |---|---|
 | **Abacos** | **Green Turtle Cay**, **Marsh Harbour**, **Spanish Cay** |
 | **Berry Islands** | **Chub Cay** |
 | **Bimini** | **Alice Town (Bimini North)**, **Cat Cay** |
 | **Andros** | **Congo Town / Fresh Creek (Andros Town)** |
-| **New Providence (Nassau)** | Tutte le marine di Nassau — **Harbour Control VHF 16, H24** |
+| **New Providence (Nassau)** | Alle Marinas in Nassau — **Harbour Control VHF 16, H24** |
 | **Grand Bahama** | **Freeport Harbour**, **Lucayan Harbour**, **Old Bahama Bay (West End)** |
 | **Eleuthera** | **Governor's Harbour**, **Harbour Island** |
 | **Exumas** | **George Town (Great Exuma)**, **Staniel Cay**, **Highbourne Cay** |
 | **Long Island** | **Stella Maris** |
 
-Orari tipici dogana: 09:00–17:00 lun–ven, weekend con overtime a chiamata — confermare via VHF 16. ★★★★
+Typische Zollzeiten: 09:00–17:00 Mo–Fr, Wochenende Overtime auf Abruf — über VHF 16 bestätigen. ★★★★
 
-## Costi — aggiornamento 01/04/2026 (dopo raddoppio 01/07/2025) ★★★★★
+## Gebühren — Aktualisierung 01.04.2026 (nach Verdoppelung am 01.07.2025) ★★★★★
 
-> I costi sono stati **raddoppiati il 01/07/2025** e aggiornati con circolare **01/04/2026**. Valuta: **BSD = USD 1:1**.
+> Die Gebühren wurden **am 01.07.2025 verdoppelt** und mit Rundschreiben **01.04.2026** aktualisiert. Währung: **BSD = USD 1:1**.
 
-### Frequent Digital Cruising Card (FDCC) — 2 anni, ingressi multipli
+### Frequent Digital Cruising Card (FDCC) — 2 Jahre, mehrfache Einreisen
 
-| LOA | Costo FDCC 2 anni |
+| LOA | Kosten FDCC 2 Jahre |
 |---|---|
 | **≤50 ft** | **$1.500** |
 | **50–100 ft** | **$2.500** |
 | **>100 ft** | **$8.000** |
 
-### Temporary Cruising Permit — 12 mesi
+### Temporary Cruising Permit — 12 Monate
 
-| LOA | Costo 12 mesi |
+| LOA | Kosten 12 Monate |
 |---|---|
 | **≤50 ft** | **$500** |
 | **50–100 ft** | **$1.000** |
 | **>100 ft** | **$3.000** |
 
-### Opzioni brevi (per chi non vuole 12 mesi)
+### Kurzoptionen (wer keine 12 Monate will)
 
-| Durata | ≤50 ft | >50 ft / fascia alta |
+| Dauer | ≤50 ft | >50 ft / oberes Band |
 |---|---|---|
-| **30 giorni** | **$150** | fino a **$600** |
-| **6 mesi** | **$300** | fino a **$2.000** |
+| **30 Tage** | **$150** | bis zu **$600** |
+| **6 Monate** | **$300** | bis zu **$2.000** |
 
-### Altri balzelli obbligatori
+### Weitere Pflichtabgaben
 
-| Voce | Costo | Note |
+| Punkt | Kosten | Hinweise |
 |---|---|---|
-| **Anchorage fee** (se non in marina, 12 mesi) | **$200** per ≤50 ft · **$1.500** per >100 ft | Riscossa con il permit ★★★★ |
-| **Fishing permit** 30 gg | **$100** per ≤50 ft · **$300** per >50 ft | Obbligatorio se si pesca | ★★★★ |
-| **Passenger Tax** | **$30** per passeggero >3 pax | Oltre i primi 3 a bordo | ★★★★ |
-| **Tender >25 ft** | **$500** | Se il tender supera 25 ft LOA | ★★★★ |
-| **Clearance outbound / zarpe** | **$75** | Solo se richiesta | ★★★★ |
-| **Charter fee** | **14%** | Su charter commerciali nelle Bahamas | ★★★★ |
+| **Anchorage fee** (wenn nicht in Marina, 12 Monate) | **$200** für ≤50 ft · **$1.500** für >100 ft | Mit dem Permit eingezogen ★★★★ |
+| **Fishing permit** 30 Tage | **$100** für ≤50 ft · **$300** für >50 ft | Pflicht wenn gefischt wird | ★★★★ |
+| **Passenger Tax** | **$30** pro Passagier >3 Pax | Über die ersten 3 an Bord hinaus | ★★★★ |
+| **Tender >25 ft** | **$500** | Wenn Tender 25 ft LOA überschreitet | ★★★★ |
+| **Clearance outbound / Zarpe** | **$75** | Nur wenn erforderlich | ★★★★ |
+| **Charter fee** | **14%** | Auf kommerzielle Charter in den Bahamas | ★★★★ |
 
-### AIS e sanzioni
+### AIS & Sanktionen
 
-- **AIS obbligatorio** per natanti **≥50 ft (15,24 m)** — deve restare acceso nelle acque bahamensi. **Multa $1.000** se non conforme. ★★★★★
-- **Sanzioni per mancata clearance / mancato pagamento / AIS spento**: ammende, **sequestro nave**, possibile arresto. ★★★★★
+- **AIS-Pflicht** für Boote **≥50 ft (15,24 m)** — muss in bahamaischen Gewässern eingeschaltet bleiben. **Strafe $1.000** bei Nichtbeachtung. ★★★★★
+- **Sanktionen bei fehlender Clearance / Nichtzahlung / AIS aus**: Geldstrafen, **Beschlagnahme des Bootes**, mögliche Festnahme. ★★★★★
 
-## Da verificare prima della crociera
+## Vor dem Törn zu prüfen
 
-- Funzionamento portale Click2Clear e carta Visa abilitata ai pagamenti estero.
-- Porto d'ingresso prescelto su VHF 16 e orario dogana/immigration — weekend = overtime.
-- Permessi armi/animali richiesti **prima** della partenza.
-- Ultima circolare costi FDCC/Anchorage (aggiornamenti frequenti dal 2025).
+- Funktion des Click2Clear-Portals und für Auslandszahlungen freigeschaltete Visa-Karte.
+- Gewählten Einreisehafen auf VHF 16 und Zoll-/Immigration-Zeiten — Wochenende = Overtime.
+- Waffen-/Tiergenehmigungen **vor** Abfahrt beantragen.
+- Letztes Rundschreiben Kosten FDCC/Anchorage (häufige Aktualisierungen seit 2025).
 
-Ultimo aggiornamento: 24/08/2026
+Letzte Aktualisierung: 24/08/2026

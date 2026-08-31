@@ -4,7 +4,7 @@
 
 Devise: **dollaro giamaicano JMD** (J$). Tasso indicativo 03/07/2026: **1 USD = J$158 · 1 EUR = J$180** (Numbeo/Exchange). USD ampiamente accettato in marine/aree turistiche, ma mercati, route taxi e JUTC vogliono JMD. ★★★★★
 
-> ⚠️ Le voci di questo elenco sono le stesse per tutti i paesi del portolano. Dove il dato non è stato ancora trovato dalle fonti si scrive **DONNÉE MANQUANTE**: viene ricercato al controllo mensile (vedi [00 Index](../00-indice.md)).
+> ⚠️ Le voci di questo elenco sono le stesse per tutti i paesi del portolano. Dove il dato non è stato ancora trovato dalle fonti si scrive **DONNÉE MANQUANTE**: viene ricercato al controllo mensile (vedi [00 Index](00-indice.md)).
 
 ## Alimentation & avitaillement
 
@@ -46,7 +46,7 @@ Prezzi specifici per locale → [10 Ristoranti](10-ristoranti.md).
 |---|---|---|
 | Benzina (unleaded 90) pompa stradale | **J$239,44 / l** al 03/08/2026 (+9,2% su 3 mesi) | GlobalPetrolPrices ★★★ |
 | Diesel pompa stradale | **J$230–240 / l** stima parallela | ★★ |
-| Diesel marina (MBYC/RJYC) 2022 | **US$5,43 / gal** (≈US$1,43/l) | Noonsite 2014–22 ★★ |
+| Diesel marina (MBYC/RJYC) 2022 | **US$5,43 / gal** (≈US$1,43/l) | Sources plaisance agrégées 2014–22 ★★ |
 | Benzina premium marina | **US$5,26 / gal** | ★★ |
 | Gas GPL bombola 20 lb | **J$2.500–4.000 ricarica** | Via chandler/stazione ★★ |
 

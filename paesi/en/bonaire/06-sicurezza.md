@@ -1,109 +1,110 @@
 # 06 — Safety & Security
 
-**Last full check: 28/08/2026** · Next monthly check: **28/09/2026**
+**Last fully checked: 28/08/2026** · Next monthly check: **28/09/2026**
 
-## Valutazione sicurezza: **4 / 5**
+## Safety Rating: **4 / 5**
 
-| Aspect | Rating | Reason |
+| Aspect | Score | Reason |
 |---|---|---|
-| Personal safety (tourists/cruisers) | 4/5 | Violenza contro visitatori rara; reati violenti concentrati tra locali e in ambito domestico |
-| Theft from yacht | 3/5 | Dinghy/fuoribordo a rischio moderato (8 incidenti CSSN in 5 anni nel raggio di 10 km); furti da auto ai dive sites persistenti |
-| General context dell'isola | 4/5 | Isola low-crime ma con aumento violenza giovanile armata e guida in stato di ebbrezza nel 2025 |
+| Personal safety (visitors / cruisers) | 4/5 | Violence against visitors is rare; violent crime is concentrated among locals and in domestic settings |
+| Theft from boats | 3/5 | Dinghy/outboard at moderate risk (8 CSSN incidents in 5 years within 10 km); theft from cars at dive sites persists |
+| Overall island context | 4/5 | Low-crime island but with a rise in armed youth violence and drink-driving in 2025 |
 
-*Scale: 0 = terrible → 5 = very safe. Our rating, synthesising the sources below; updated at each monthly check.*
+*Scale: 0 = terrible → 5 = very safe. Our own assessment, synthesising the sources below; updated at every monthly check.*
 
-**Perché non 5**: furti opportunistici (dinghy non incatenati, oggetti in auto ai dive sites) e crescita di violenza armata giovanile e incidenti stradali alcol-correlati nel 2025. Nessun attacco violento mirato ai crocieristi segnalato dalle fonti aggregate degli ultimi 5 anni.
+**Why not 5**: opportunistic theft (unlocked dinghies, valuables left in cars at dive sites) and growth in armed youth violence and alcohol-related road accidents in 2025. No targeted violent attacks on cruisers reported in the last 5 years in the aggregated sources.
 
 ## General Overview
 
-- Advisory governativa canadese (agg. 29/07/2026 ★★★★): **"Take normal security precautions"** — livello più basso. Petty crime (borseggi, purse snatching, furti da veicoli/hotel) presente; evitare luoghi isolati e spiagge non pattugliate dopo il tramonto.
-- US State Department (riemesso 19/08/2024 ★★★★): **Level 1: Exercise Normal Precautions** — Bonaire low-crime, reati opportunistic non violenti; non lasciare oggetti incustoditi.
-- NederlandWereldwijd (agg. 17/06/2026 ★★★★): **codice verde** — "U kunt erheen reizen" — piccola criminalità possibile, droghe (anche soft) vietate con pene più severe che nei Paesi Bassi europei.
-- UK FCDO (★★★): petty theft/street crime, avoid isolated areas including beaches after dark, keep valuables out of sight; drug smuggling transit via Bonaire.
-- Bilancio KPCN 2025 (presentato 06/02/2026 ★★★★★): **712 reati contro il patrimonio** (furto 175, vandalismo 139, burglary 104, furto da veicoli 102, furto ai dive sites 57) — furto scooter/moto **−85%**, furto bici (elettriche) **+33%**; **327 reati violenti** (violenza domestica 112, lesioni 55, minacce 46, minacce di morte 43) concentrati ad **Antriol/Playa/Nikiboko** con picco ven–dom; **32 arresti per armi**, 10 armi sequestrate, **64% dei sospetti armi 15–25 anni**; 1.401 incidenti stradali, 1.179 multe, **206 arresti per guida in stato di ebbrezza**.
-- Stampa locale/BES Reporter 07/02/2026 ★★★★: trend confermato — calo furti scooter ma aumento bici elettriche; rapine/furti più frequenti a Playa (scooter/business/house break-ins), Antriol (furti da veicoli, house burglaries), Nikiboko (business burglaries); pattugliamenti extra ai dive sites per furti da auto turistiche.
+- Canadian government advisory (updated 29/07/2026 ★★★★): **“Take normal security precautions”** — the lowest level. Petty crime (pickpocketing, purse snatching, theft from vehicles/hotels) present; avoid isolated places and unpatrolled beaches after dark.
+- US State Department (reissued 19/08/2024 ★★★★): **Level 1: Exercise Normal Precautions** — Bonaire low-crime, non-violent opportunistic crime; do not leave items unattended.
+- NetherlandsWorldwide (updated 17/06/2026 ★★★★): **green code** — “U kunt erheen reizen” — petty crime possible, drugs (including soft drugs) prohibited with penalties harsher than in the European Netherlands.
+- UK FCDO (★★★): petty theft/street crime, avoid isolated areas including beaches after dark, keep valuables out of sight; drug-smuggling transit via Bonaire.
+- KPCN annual report 2025 (presented 06/02/2026 ★★★★★): **712 property crimes** (theft 175, vandalism 139, burglary 104, theft from vehicles 102, theft at dive sites 57) — scooter/motorcycle theft **−85%**, bicycle (e-bike) theft **+33%**; **327 violent crimes** (domestic violence 112, assault 55, threats 46, death threats 43) concentrated in **Antriol/Playa/Nikiboko** peaking Fri–Sun; **32 arrests for weapons**, 10 weapons seized, **64% of weapons suspects aged 15–25**; 1,401 road accidents, 1,179 fines, **206 arrests for drink-driving**.
+- Local press / BES Reporter 07/02/2026 ★★★★: trend confirmed — scooter theft down but e-bikes up; robberies/thefts most frequent in Playa (scooter/business/house break-ins), Antriol (theft from vehicles, house burglaries), Nikiboko (business burglaries); extra patrols at dive sites for theft from tourist cars.
 
-## Zone Map — Offline
+## Area Map — Offline
 
-<div class="mapframe" data-slug="bonaire" data-minz="11" data-maxz="16" data-lat="12.18" data-lon="-68.28" data-zones='[[12.1500,-68.2800,1500,"#d32f2f","Kralendijk – Playa: violenza/minacce e furti da veicoli frequenti — evitare di notte, attenzione parcheggi"],[12.1800,-68.2900,1400,"#d32f2f","Antriol: violenza e furti da veicoli/house burglaries — cautela notturna"],[12.1400,-68.2600,1200,"#d32f2f","Nikiboko: violenza domestica e business burglaries — cautela"],[12.1550,-68.2850,900,"#ef6c00","Kralendijk moorings / Green dock / Port Bonaire: furti dinghy e tentati furti a bordo — pontili e ancoraggio"],[12.1600,-68.3000,800,"#ef6c00","Dive sites costieri: furti da auto incustodite — non lasciare valori in macchina"]]'></div>
+<div class="mapframe" data-slug="bonaire" data-minz="11" data-maxz="16" data-lat="12.18" data-lon="-68.28" data-zones='[[12.1500,-68.2800,1500,"#d32f2f","Kralendijk – Playa: frequent violence/threats and theft from vehicles — avoid at night, watch car parks"],[12.1800,-68.2900,1400,"#d32f2f","Antriol: violence and theft from vehicles/house burglaries — caution at night"],[12.1400,-68.2600,1200,"#d32f2f","Nikiboko: domestic violence and business burglaries — caution"],[12.1550,-68.2850,900,"#ef6c00","Kralendijk moorings / Green dock / Port Bonaire: dinghy theft and attempted boardings — jetties and mooring field"],[12.1600,-68.3000,800,"#ef6c00","Coastal dive sites: theft from unattended cars — leave no valuables in the car"]]'></div>
 
-*Legenda: cerchio rosso tratteggiato = zona con violenza/furti frequenti — cautela soprattutto di notte · cerchio arancio = zona con furti a danno dei crocieristi/auto turistiche. Clicca sul cerchio per il dettaglio.*
+*Legend: dashed red circle = area with frequent violence/theft — caution especially at night · orange circle = area with theft targeting cruisers/tourist cars. Click the circle for details.*
 
-## Safe Areas / Areas to Avoid
+## Safe Places / Places to Avoid
 
 ### ✅ Safe Places
 
 | Area | Notes | Source |
 |---|---|---|
-| Harbour Village Marina & Kralendijk waterfront di giorno | Presidiato, presenza polizia/KPCN visibile; base per moorings visitatori |KPCN/bonaire.com ★★★|
-| Klein Bonaire (in giornata) | Disabitata, frequentata da escursioni/diurne |guide locali ★★|
-| Resort e dive resorts sorvegliati | Accesso controllato, bassa criminalità diurna |travel.gc.ca ★★★|
-| Sorobon/Lac Bay di giorno (windsurf) | Area turistica ordinata, presidiata |guide locali ★★|
-| Rincon villaggio di giorno | Piccolo centro calmo, poca vita notturna |guide locali ★★|
+| Harbour Village Marina & Kralendijk waterfront by day | Patrolled, visible police/KPCN presence; base for visitor moorings |KPCN/bonaire.com ★★★|
+| Klein Bonaire (daytime) | Uninhabited, busy with day trips |local guides ★★|
+| Guarded resorts and dive resorts | Controlled access, low daytime crime |travel.gc.ca ★★★|
+| Sorobon/Lac Bay by day (windsurf) | Orderly tourist area, patrolled |local guides ★★|
+| Rincon village by day | Small, quiet settlement, little nightlife |local guides ★★|
 
-### ⛔ Places to Avoid or Caution
+### ⛔ Places to Avoid or Treat with Caution
 
 | Area | Risk | Source |
 |---|---|---|
-| Playa, Antriol, Nikiboko di notte (e sneks/bar di Nikiboko/Antriol) | Quartieri hotspot violenza/minacce, furti; incidenti stradali alcol-correlati ven–dom |KPCN 2025 ★★★★★|
-| Spiagge isolate e non pattugliate dopo il tramonto | Advisory Canada/UK: evitare |travel.gc.ca/UK FCDO ★★★★|
-| Pontili dinghy e moorings di Kralendijk/Port Bonaire di notte | Furti dinghy/fuoribordo, tentati abbordaggi notturni (mar 2026) |CSSN ★★★|
-| Parcheggi dei dive sites (veicolo incustodito) | 57 furti registrati nel 2025; lieve calo ma problema persistente |KPCN 2025 ★★★★★|
-| Strade di notte (weekend) | Guida pericolosa, alcol, street racing/e-bike spericolate |KPCN 2025 ★★★★|
+| Playa, Antriol, Nikiboko at night (and sneks/bars in Nikiboko/Antriol) | Hotspots for violence/threats, theft; alcohol-related road accidents Fri–Sun |KPCN 2025 ★★★★★|
+| Isolated and unpatrolled beaches after dark | Canada/UK advisory: avoid |travel.gc.ca/UK FCDO ★★★★|
+| Dinghy docks and moorings at Kralendijk/Port Bonaire at night | Dinghy/outboard theft, attempted night boardings (Mar 2026) |CSSN ★★★|
+| Dive-site car parks (unattended vehicle) | 57 thefts recorded in 2025; slight fall but persistent |KPCN 2025 ★★★★★|
+| Roads at night (weekends) | Dangerous driving, alcohol, street racing/reckless e-bikes |KPCN 2025 ★★★★|
 
-## Theft Against Cruisers
+## Theft Targeting Cruisers
 
-Dati **Caribbean Safety and Security Net** (thecssn.org ★★★), controllo 28/08/2026:
+Data from the **Caribbean Safety and Security Net** (thecssn.org ★★★), checked 28/08/2026:
 
-- **8 incidenti negli ultimi 5 anni entro 10 km da Kralendijk** (Green dock/Kralendijk moorings/Port Bonaire/Plaza Resort): quasi tutti furti di dinghy/fuoribordo, 3 tentati furti con abbordaggio.
-- Dettaglio casi: **2022-05-03 Plaza Resort** furto dinghy; **2022-05-07 Kralendijk moorings** 10ft Arimar + 8HP Mercury rubati di notte (cime tagliate, non locked); **2024-06-17 Port Bonaire** 2 dinghy/40HP Yamaha rubati stessa notte da canal dock (anche se chain-locked, uno ritrovato a Klein Bonaire); **2019-07-26 Budget Marine floating dock** dinghy locked rubato e ritrovato a Klein Bonaire meno serbatoio; **2024-10-06 Kralendijk moorings** dinghy/20HP Tohatsu non locked tentato furto sventato da vicino; **2025-10-14 Green dock** Talamex Highline/9.8HP Suzuki non locked rubata (ritrovata senza motore); **2026-03-19/20 Kralendijk moorings** 3 tentati furti/abbordaggi notturni con nuotatori che salgono a bordo, minacce, polizia intervenuta ma senza fermo.
-- Hotspot ricorrenti: pontile **Green dock**, **Kralendijk moorings**, **Port Bonaire canal homes**, **Budget Marine dock** presso consolato venezuelano.
-- Anche dinghy **incatenati** sono stati portati via (giugno 2024, 2 casi).
-- Contromisure efficaci riportate dai naviganti/KPCN: catena corta + lucchetto attraverso transito, motore bloccato con bar-lock dedicato, dinghy sollevato a bordo di notte, niente oggetti in vista in auto/dinghy/yacht, pattugliamenti KPCN ai dive sites/marinas (2025: sorveglianza mirata aumentata).
-- Segnalazione incidenti: [report online CSSN](https://thecssn.org/report-incident/), KPCN **911**, Kustwacht **913** (VHF 16), Harbor Village Marina Ch 17. Forum/VHF cruisers net locale per avvisi rapidi ★★.
+- **8 incidents in the last 5 years within 10 km of Kralendijk** (Green dock/Kralendijk moorings/Port Bonaire/Plaza Resort): almost all dinghy/outboard thefts, 3 attempted thefts with boarding.
+- Case detail: **2022-05-03 Plaza Resort** dinghy theft; **2022-05-07 Kralendijk moorings** 10ft Arimar + 8HP Mercury stolen at night (lines cut, not locked); **2024-06-17 Port Bonaire** 2 dinghies/40HP Yamaha stolen same night from canal dock (even though chain-locked, one recovered at Klein Bonaire); **2019-07-26 Budget Marine floating dock** locked dinghy stolen and found at Klein Bonaire minus fuel tank; **2024-10-06 Kralendijk moorings** dinghy/20HP Tohatsu not locked — attempted theft foiled by neighbour; **2025-10-14 Green dock** Talamex Highline/9.8HP Suzuki not locked stolen (found without engine); **2026-03-19/20 Kralendijk moorings** 3 attempted thefts/boardings at night by swimmers coming aboard, threats, police attended but no arrest.
+- Recurring hotspots: **Green dock** jetty, **Kralendijk moorings**, **Port Bonaire canal homes**, **Budget Marine dock** by the Venezuelan consulate.
+- Even **chained** dinghies have been taken (June 2024, 2 cases).
+- Effective countermeasures reported by cruisers/KPCN: short chain + padlock through the transom, engine secured with dedicated bar-lock, dinghy hoisted aboard at night, nothing left on view in car/dinghy/boat, targeted KPCN patrols at dive sites/marinas (2025: increased surveillance).
+- Reporting incidents: [CSSN online report](https://thecssn.org/report-incident/), KPCN **911**, Coast Guard **913** (VHF 16), Harbour Village Marina Ch 17. Local cruisers' net / VHF for quick alerts ★★.
 
-## On Board & Ashore
+## On Board and Ashore
 
 | Risk | Detail | Source |
 |---|---|---|
-| Furti dinghy/fuoribordo | Unico problema ricorrente per diportisti; prevalentemente dinghy non bloccati |CSSN ★★★|
-| Furti da veicoli ai dive sites | 57 casi nel 2025; lasciare auto vuota, finestrini aperti, niente valori |KPCN 2025 ★★★★★|
-| Furti in alloggi/hotel | Break-ins residenziali segnalati da advisory (Canada/US) |travel.gc.ca/US State Dept ★★★★|
-| Droghe | Isola usata come transito Sud America→Europa/Nord America; non trasportare pacchi per altri, controlli rigorosi bagagli |UK FCDO ★★★|
+| Dinghy/outboard theft | The only recurring problem for cruisers; mainly unlocked dinghies |CSSN ★★★|
+| Theft from vehicles at dive sites | 57 cases in 2025; leave car empty, windows open, no valuables |KPCN 2025 ★★★★★|
+| Theft from accommodation/hotels | Residential break-ins flagged by advisories (Canada/US) |travel.gc.ca/US State Dept ★★★★|
+| Drugs | Island used as transit South America→Europe/North America; never carry parcels for others, baggage checks are strict |UK FCDO ★★★|
 
 ## Navigation
 
 | Risk | Detail | Source |
 |---|---|---|
-| **Divieto di ancoraggio** — Bonaire National Marine Park | Ancoraggio vietato ovunque nel parco (75 m da riva, tutto il perimetro Bonaire+Klein Bonaire+Lac) — usare solo **moorings**: gialle pubbliche max 2h, bicolori overnight (visitatori, max 18 m, $10/notte via Harbour Village Marina Ch17 tel 717-7419), ancorotto in pietra solo per <4 m tradizionali |STINAPA/BNMP ★★★★★|
-| Moorings — regole | 42 heavy-duty moorings tra 12°09.44'N 68°17.09'W e 12°09.06'N 68°16.41'W; usare cima di ormeggio ≥6 m, no catene, una yacht/boa (max 3 <4 m), 50 m di distanza da yacht ormeggiata, 5 km/h nei campi boe |STINAPA Boating ★★★★★|
-| Nasse/pesca e kitesurf | Boe/attrezzi pesca e zone kitesurf in bassi fondali — navigare lato mare delle boe |STINAPA ★★★|
-| IALA-B | Sistema americano "**red right returning**": rosso a dritta entrando — invertito vs Europa |USCG/IALA ★★★|
-| Reef / bassi fondali | Reef frangente continuo, poco segnalato; attenzione avvicinamento notturno |STINAPA ★★★|
-| Narcotraffico in mare | Sequestri cocaina in zona ABC; segnalare pacchi/attività sospette al Kustwacht 913, non recuperare ballotte |Kustwacht/UK FCDO ★★★|
-| Traffico stradale verso marina | 1.401 collisioni nel 2025; guida imprevedibile, animali in strada, niente semafori |KPCN 2025 ★★★★★|
+| **Anchoring ban** — Bonaire National Marine Park | Anchoring prohibited everywhere in the park (within 75 m of shore, all around Bonaire+Klein Bonaire+Lac) — use only **moorings**: public yellow max 2h, two-tone overnight (visitors, max 18 m, $10/night via Harbour Village Marina Ch17 tel 717-7419), stone anchor only for <4 m traditional boats |STINAPA/BNMP ★★★★★|
+| Moorings — rules | 42 heavy-duty moorings between 12°09.44′ N 068°17.09′ W and 12°09.06′ N 068°16.41′ W; use mooring line ≥6 m, no chains, one boat/buoy (max 3 <4 m), keep 50 m from moored boats, 5 km/h in mooring fields |STINAPA Boating ★★★★★|
+| Pots/fishing and kite zones | Fishing gear and kite zones in shallow water — stay seaward of the buoys |STINAPA ★★★|
+| IALA-B | US system “**red right returning**”: red to starboard on entry — opposite to Europe |USCG/IALA ★★★|
+| Reef / shallows | Continuous fringing reef, poorly marked; caution on night approaches |STINAPA ★★★|
+| Drug trafficking at sea | Cocaine seizures in the ABC area; report suspicious parcels/activity to Coast Guard 913, do not recover bales |Coast Guard/UK FCDO ★★★|
+| Road traffic to the marina | 1,401 collisions in 2025; unpredictable driving, animals on the road, no traffic lights |KPCN 2025 ★★★★★|
 
 ## Emergency Numbers
 
 | Emergency | Number |
 |---|---|
-| Police — emergenza | **911** |
+| Police — emergency | **911** |
 | Ambulance | **912** |
 | Fire brigade | **919** |
-| Guardia Costiera / soccorso in mare | **913** (anche VHF 16, WhatsApp +5999 510 0913) |
-| Camera iperbarica | **133** |
-| Ospedale Fundashon Mariadal (Kralendijk, Kaya Soeur Bartola 2) | **+599 717 8900** |
-| Police non-emergenza (Kralendijk, Kaya Lib. Simon Bolivar 4) | **+599 715 8000** / tip line 9310 |
-| Single emergency number UE (se da cellulare UE) | **112** (ma usa 911/913 localmente) |
+| Coast Guard / rescue at sea | **913** (also VHF 16, WhatsApp +5999 510 0913) |
+| Hyperbaric chamber | **133** |
+| Hospital Fundashon Mariadal (Kralendijk, Kaya Soeur Bartola 2) | **+599 717 8900** |
+| Police non-emergency (Kralendijk, Kaya Lib. Simon Bolivar 4) | **+599 715 8000** / tip line 9310 |
+| EU single number (if calling from an EU mobile) | **112** (but use 911/913 locally) |
 
 ## Rescue & Emergencies
 
-- Numeri: **911 polizia · 912 ambulanza · 919 pompieri · 913 Kustwacht · 133 camera iperbarica · 112 UE**. JRCC/MRCC **Curaçao** coordina SAR per Bonaire/Aruba/Curaçao: **913** (emergenza) or +5999 463-7700/7620, RCC.curacao@mindef.nl (24/7, VHF 16 sempre monitorato).
-- Kustwacht Caribisch Gebied (KWCARIB) pattuglia ABC con navi/elicotteri; segnalare attività sospette or pacchi in mare al 913 ★★★★.
-- Ospedale unico full-service Fundashon Mariadal (80 letti, pronto soccorso 24/7, camera iperbarica); per casi complessi trasferimento a Curaçao.
-- Segnalazione reati diportisti: CSSN online, KPCN, Harbourmaster/Port Authority +599 717 8151, STINAPA +599 777 8444.
+- Numbers: **911 police · 912 ambulance · 919 fire · 913 Coast Guard · 133 hyperbaric chamber · 112 EU**. JRCC/MRCC **Curaçao** co-ordinates SAR for Bonaire/Aruba/Curaçao: **913** (emergency) or +5999 463-7700/7620, RCC.curacao@mindef.nl (24/7, VHF 16 always monitored).
+- Coast Guard Caribbean Area (KWCARIB) patrols the ABC Islands with ships/helicopters; report suspicious activity or parcels in the water on 913 ★★★★.
+- The only full-service hospital is Fundashon Mariadal (80 beds, 24/7 A&E, hyperbaric chamber); complex cases are transferred to Curaçao.
+- Reporting cruiser crime: CSSN online, KPCN, Harbourmaster/Port Authority +599 717 8151, STINAPA +599 777 8444.
 
 ## Monthly Monitoring
 
 **DATA MISSING** — to be completed at the monthly check.
 
+Last updated: 28/08/2026

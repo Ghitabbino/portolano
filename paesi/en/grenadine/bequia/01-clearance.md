@@ -8,7 +8,7 @@
 - Documents required at the desk: SailClear notification number, previous port departure time, passports, vessel documents ★★★★
 - **Cruise tax: EC$35 per person/month** (over 12 years) — or EC$5 per day up to a maximum of 7 days ([Bequia Tourism](https://bequiatourism.com/facts.htm)) ★★★★
 - Charter yacht outside SVG: Tax **EC$5 per foot** plus any license ★★★
-- **30-day Cruising Permit** on check-in, extendable monthly; stay up to **6 months** without a visa for many countries — [Noonsite/Compass](https://caribbeancompass.com/island-spotlight-bequia-st-vincent-the-grenadines) ★★★★
+- **30-day Cruising Permit** on check-in, extendable monthly; stay up to **6 months** without a visa for many countries — [Cruising sources aggregate/Compass](https://caribbeancompass.com/island-spotlight-bequia-st-vincent-the-grenadines) ★★★★
 - SVG Customs offices: **Chateaubelair, Wallilabou, Kingstown, Blue Lagoon, Bequia, Canouan, Union Island** — all on SailClear ★★★★
 - Standard hours: **08:00–12:00 / 13:00–16:00**; extra hours at a higher rate ★★★★
 - Departure: Same procedure as an entry port ★★★
@@ -22,6 +22,6 @@
 
 ## To be verified
 
-- Any seasonal tariff variations for the 2026–27 season (Noonsite SVG)
+- Any seasonal tariff variations for the 2026–27 season (Cruising sources aggregate SVG)
 
 **Last updated: 23/08/2026**

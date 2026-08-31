@@ -1,33 +1,35 @@
 # Kreol K Fé
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Alle Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Feld | Detail |
 |---|---|
-| Zona | Anse à l'Âne |
-| Cucina | 🥩 Caraibica-francese |
-| Specialità | Colombo · accras · hamburger |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🪶 casuale, colazione/pranzo/cena |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kreol+K+Fé+Anse+à+l'Âne) |
-| Contatti | 0596 65 55 31 / 0696 94 44 65 |
-| Valutazioni | TA 4,1/5 (303) → ★★★★ |
-| Orari | lun–sab 6–24 · dom 10–24 |
+| Zone | Anse à l'Âne |
+| Küche | 🥩 Karibisch-französisch |
+| Spezialität | Colombo · accras · hamburger |
+| Preis | 💰€€ pro Person ohne Getränke |
+| Lage | 🪶 leger, Frühstück/Mittag/Abendessen |
+| Karte | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kreol+K+Fé+Anse+à+l'Âne) |
+| Kontakt | 0596 65 55 31 / 0696 94 44 65 |
+| Bewertungen | TA 4,1/5 (303) → ★★★★ |
+| Öffnungszeiten | Mo–Sa 6–24 · So 10–24 |
 
-## Menu
+## Speisekarte
 
 - Colombo
 - Accras
 - Hamburger
 
-**Chef**: ND
+**Küchenchef**: ND
 
-## Foto
+## Fotos
 
 ![Kreol K Fé](img/martinica/rist-kreol-k-fe.jpg)
 
-*Fonte: bellemartinique.com*
+*Quelle: bellemartinique.com*
 
-**Note**: Rue du Caret, Anse à l'Âne (Les Trois-Îlets) · tappa comoda dall'ancoraggio
+**Hinweise**: Rue du Caret, Anse à l'Âne (Les Trois-Îlets) · bequemer Stopp vom Ankerplatz
 
 **Extra**: email kkf.martinique@gmail.com
+
+Letzte Aktualisierung: 22/08/2026

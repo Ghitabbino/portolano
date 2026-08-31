@@ -15,6 +15,6 @@
 <div class="mapframe" data-slug="anc-fuik" data-lat="12.045" data-lon="-68.828"></div>
 *Cartina of dettaglio — zoom ± fino at the baia · mappa offline · coordinate WGS84 verificate satellite (in mezzo at the mare)*
 
-Fonti: Curaçao Ports Authority — Fuik Bay ★★★★ · Noonsite Update 13/08/2025 ★★★
+Fonti: Curaçao Ports Authority — Fuik Bay ★★★★ · Cruising sources aggregate Update 13/08/2025 ★★★
 
 Last updated: 28/08/2026

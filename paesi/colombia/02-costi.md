@@ -43,7 +43,7 @@ Prezzi specifici per locale → [10 Ristoranti](10-ristoranti.md).
 | Voce | Prezzo indicativo | Note |
 |---|---|---|
 | Benzina / gasolio (1 l) | ~4.145 COP (~0,99 USD) | Expatistan Cartagena ★★★ |
-| Diesel San Andrés — Nene's Marina | ~3,35 USD/gal (~0,88 USD/l) gen 2018 | Noonsite 2018 ★★ — da rivalutare 2026 |
+| Diesel San Andrés — Nene's Marina | ~3,35 USD/gal (~0,88 USD/l) gen 2018 | Fonti diportiste aggregate 2018 ★★ — da rivalutare 2026 |
 | GPL / bombole | **DATO MANCANTE** — scambio bombole, non riempimento | Verificare in loco ★★ |
 
 ## Trasporti e collegamenti

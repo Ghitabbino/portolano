@@ -5,16 +5,16 @@
 
 | Champ | Détail |
 |---|---|
-| **Profondeur** |3–8 m sabbia|
-| **Tenue de l’ancre** |ESPOSTA al swell sud atlantico — tenibile solo con mare calmo (dic–apr migliore)|
-| **Vents/abri** |Scarsa: baia aperta a sud|
-| **Dangers** |Baie con molte imbarcazioni da pesca locale; non rifugio affidabile verificato su BA 1042 + satellite|
+| **Profondeur** |3–8 m sable|
+| **Tenue de l’ancre** |EXPOSÉE à la houle de sud atlantique — tenable uniquement par mer calme (déc–avr optimum)|
+| **Vents/abri** |Faible : baie ouverte au sud|
+| **Dangers** |Baie avec de nombreux bateaux de pêche locaux; pas un abri fiable vérifié sur BA 1042 + satellite|
 | **Bouées/interdictions/réglementation** |—|
-| **À terre** |Famosa Fish Fry del venerdì, fish market|
+| **À terre** |Célèbre Fish Fry du vendredi, marché aux poissons|
 
 <div class="mapframe" data-slug="anc-oistins" data-lat="13.0655" data-lon="-59.541"></div>
-*Carte détaillée — zoomez jusqu’à la baie · carte hors ligne · coordinate WGS84 indicative, toujours vérifier avec le traceur*
+*Carte détaillée — zoomez jusqu’à la baie · carte hors ligne · coordonnées WGS84 indicatives, toujours vérifier avec le traceur*
 
-Fonti: [Navily Oistins](https://www.navily.com/mouillage/oistins-fischerort/48071) ★★ · safetyanchoralarm.com ★★ · verificato su BA 1042 + satellite
+Sources: [Navily Oistins](https://www.navily.com/mouillage/oistins-fischerort/48071) ★★ · safetyanchoralarm.com ★★ · vérifié sur BA 1042 + satellite
 
 Dernière mise à jour: 25/08/2026

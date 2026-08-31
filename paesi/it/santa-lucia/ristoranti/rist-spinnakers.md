@@ -24,6 +24,6 @@
 - Pesce fresco e bouillabaisse al pomodoro
 - Lamb tagine; piatti vegetariani
 
-**Note**: raggiungibile a piedi dalla rada esterna di Rodney Bay via Reduit Beach; tramonto e cocktail. Fonte: SaintLuciaIndex (verificato 25/08/2026 ★★), Noonsite ★★★.
+**Note**: raggiungibile a piedi dalla rada esterna di Rodney Bay via Reduit Beach; tramonto e cocktail. Fonte: SaintLuciaIndex (verificato 25/08/2026 ★★), Fonti diportiste aggregate ★★★.
 
 Ultimo aggiornamento: 25/08/2026

@@ -4,20 +4,20 @@
 
 | Field | Detail |
 |---|---|
-| Zona | Oranjestad centro |
-| Cucina | 🥙 Arubana tradizionale familiare |
-| Specialità | Menu giornaliero diverso · farm-to-table · keshi yena |
-| Costo | 💰€€ per person without drinks |
-| Location | 🪶 casa storica, accogliente moderno |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Taste+My+Aruba+Oranjestad) |
-| Contatti | Centro Oranjestad |
-| Valutazioni | TA 4,7/5 · [Aruba.com](https://www.aruba.com/it/blog/i-migliori-ristoranti-di-oranjestad-ad-aruba) → ★★★★½ |
-| Orari | lun–sab 12–15 / 18–23 · dom chiuso |
+| Area | Downtown Oranjestad |
+| Cuisine | 🥙 Traditional family Aruban |
+| Speciality | Different daily menu · farm-to-table · keshi yena |
+| Cost | 💰€€ per person without drinks |
+| Location | 🪶 historic house, cosy modern |
+| Map | [Google Maps](https://www.google.com/maps/search/?api=1&query=Taste+My+Aruba+Oranjestad) |
+| Contacts | Downtown Oranjestad |
+| Ratings | TA 4.7/5 · [Aruba.com](https://www.aruba.com/it/blog/i-migliori-ristoranti-di-oranjestad-ad-aruba) → ★★★★½ |
+| Hours | Mon–Sat 12:00–15:00 / 18:00–23:00 · Sun closed |
 
 ## Menu
 
-- Cucina arubana di famiglia (ricette della chef Nathaly)
-- Piatti diversi ogni giorno, mai lo stesso menu
-- Cultura arubana oltre al cibo
+- Family Aruban cuisine (Chef Nathaly's recipes)
+- Different dishes every day, never the same menu
+- Aruban culture beyond the food
 
-**Note**: Fondato 2019, a conduzione familiare, tappa obbligata per autenticità. Fonte locale verificata: [Aruba.com](https://www.aruba.com/it/blog/i-migliori-ristoranti-di-oranjestad-ad-aruba) ★★★
+**Note**: Founded in 2019, family-run, a must for authenticity. Verified local source: [Aruba.com](https://www.aruba.com/it/blog/i-migliori-ristoranti-di-oranjestad-ad-aruba) ★★★

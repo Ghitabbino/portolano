@@ -5,14 +5,14 @@
 
 | Field | Detail |
 |---|---|
-| **Costo** |**DATA MISSING**|
-| **Cucina** |**DATA MISSING**|
-| **Specialità** |**DATA MISSING**|
+| **Price** |**DATA MISSING**|
+| **Cuisine** |**DATA MISSING**|
+| **Speciality** |**DATA MISSING**|
 | **Location** |**DATA MISSING**|
 
 <div class="mapframe" data-slug="rist-le-zandoli" data-lat="14.597" data-lon="-61.079"></div>
-*Cartina di dettaglio: posizione a terra rispetto alla yacht · zoom ±*
+*Detail map: position ashore relative to the boat · zoom ±*
 
-Fonti: **DATA MISSING**
+Sources: **DATA MISSING**
 
 Last updated: 25/08/2026

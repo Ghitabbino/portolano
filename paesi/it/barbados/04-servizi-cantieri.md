@@ -32,7 +32,7 @@
 
 ## Gas e bombole
 
-- **Gas/GPL: spesso solo scambio bombole** standard locale/US (es. Campingaz 904/907 o americane 20 lb). Le bombole **non si riempiono, si scambiano** nei punti GPL o ferramenta; verificare compatibilità regolatore US vs EU (adattatore necessario). [Noonsite — Barbados](https://www.noonsite.com/place/barbados/) ★★★
+- **Gas/GPL: spesso solo scambio bombole** standard locale/US (es. Campingaz 904/907 o americane 20 lb). Le bombole **non si riempiono, si scambiano** nei punti GPL o ferramenta; verificare compatibilità regolatore US vs EU (adattatore necessario). Fonti diportiste aggregate ★★★
 - Supermercati/chandler a Bridgetown hanno adattatori e bombole Campingaz; per ricarica vera serve spostarsi in hub maggiori. ★★
 
 ## Acqua dolce
@@ -42,7 +42,7 @@
 
 ## Note strategiche
 
-- Barbados **non è isola di refit**: se il lavoro è programmabile (sartiame, vele, motore, osmosi), **pianificare a Antigua/St. Martin/Trinidad** prima o dopo la tappa Barbados; tenere la sosta a Barbados per provviste/clearance/sosta tecnica leggera. Questo è confermato da tutte le guide 2017–2025 che lo definiscono “basic yachting facilities, good repair facilities but improving” — non un hub. [Noonsite — Barbados Facts](https://www.noonsite.com/place/barbados/) ★★★ · [Yachting World](https://www.yachtingworld.com/features/reinventing-barbados-caribbean-island-works-welcome-back-cruisers-71257) ★★★
+- Barbados **non è isola di refit**: se il lavoro è programmabile (sartiame, vele, motore, osmosi), **pianificare a Antigua/St. Martin/Trinidad** prima o dopo la tappa Barbados; tenere la sosta a Barbados per provviste/clearance/sosta tecnica leggera. Questo è confermato da tutte le guide 2017–2025 che lo definiscono “basic yachting facilities, good repair facilities but improving” — non un hub. Fonti diportiste aggregate ★★★ · [Yachting World](https://www.yachtingworld.com/features/reinventing-barbados-caribbean-island-works-welcome-back-cruisers-71257) ★★★
 - **Ricambi**: spedire **presso la marina indicando nome barca, posto barca e telefono**; confermare arrivo via email/telefono della reception; dazio pagabile online o in banchina. Tempi EU/USA → Barbados **7–14 giorni** via corriere; prevedere sdoganamento. ★★
 
 Ultimo aggiornamento: 28/08/2026

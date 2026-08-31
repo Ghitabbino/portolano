@@ -2,9 +2,9 @@
 
 **Last updated: 27/08/2026**
 
-Cruiser-oriented selection: locali raggiungibili a piedi or con breve trasferimento in tender dagli ancoraggi e marine del portolano ([08 Ancoraggi](08-ancoraggi.md)). Valutazione ponderata = media Google/TripAdvisor/OpenTable + recensioni locali, verificata il 27/08/2026. Prezzi indicativi per person without drinks.
+Cruiser-oriented selection: venues within walking distance or a short tender ride from the anchorages and marinas in the pilot ([08 Anchorages](08-ancoraggi.md)). Weighted rating = Google/TripAdvisor/OpenTable average + local reviews, verified on 27/08/2026. Indicative prices per person without drinks.
 
-Price key: **€** <20 · **€€** 20–40 · **€€€** >40 — Cucina: 🐟 pesce e frutti di mare · 🥩 carne e grigliate · 🥗 vegetariano-friendly · 🥙 street food creolo · 🍰 dolci
+Price key: **€** <20 · **€€** 20–40 · **€€€** >40 — Cuisine: 🐟 fish & seafood · 🥩 meat & grill · 🥗 vegetarian-friendly · 🥙 Creole street food · 🍰 desserts
 
 ## Restaurant Map
 
@@ -14,29 +14,29 @@ Price key: **€** <20 · **€€** 20–40 · **€€€** >40 — Cucina: �
 
 | Restaurant | Area | Cost | Cuisine | Speciality | Location | Rating |
 |---|---|---|---|---|---|---|
-| [The West Deck](ristoranti/rist-west-deck.md) | Oranjestad — Governors Bay | **€€** | **🐟 Pesce creolo locale** | *Ribs · pang bati · johnny cake* | **🏖️ spiaggia, open-air** | ★★★★½ |
-| [Aquarius](ristoranti/rist-aquarius.md) | Renaissance Marina | **€€€** | **🐟 Contemporanea caraibica** | *Ceviche · pesce del giorno* | **⚓ marina, hotel** | ★★★★ |
-| [Wilhelmina](ristoranti/rist-wilhelmina.md) | Oranjestad centro | **€€€** | **🍽️ Europeo-caraibica fine dining** | *Menu stagionale · frutti di mare* | **🌴 courtyard elegante** | ★★★★½ |
-| [Yemanja Woodfired Grill](ristoranti/rist-yemanja.md) | Wilhelminastraat 2 | **€€** | **🥩 Wood grill + 🥗 vegan** | *Grill a legna · opzioni vegane* | **🌴 terrazza giardino** | ★★★★½ |
-| [Taste My Aruba](ristoranti/rist-taste-my-aruba.md) | Oranjestad centro | **€€** | **🥙 Arubana familiare** | *Menu giornaliero · keshi yena* | **🪶 casa storica** | ★★★★½ |
-| [Driftwood Restaurant](ristoranti/rist-driftwood.md) | Klipstraat 12 | **€€** | **🐟 Frutti di mare locali** | *Pesce fresco · arubana* | **🪶 legno, autentico** | ★★★★ |
-| [Pinchos Grill & Bar](ristoranti/rist-pinchos.md) | Surfside / pontile | **€€** | **🥩 Grill caraibico** | *Grigliate · cocktail al tramonto* | **🏖️ pier over water** | ★★★★½ |
-| [Water’s Edge](ristoranti/rist-waters-edge.md) | Eagle Beach | **€€** | **🐟 Americana/Caraibica** | *Red snapper · Ahi Tuna* | **🏖️ beach resort** | ★★★★ |
-| [The Flying Fishbone](ristoranti/rist-flying-fishbone.md) | Savaneta | **€€€** | **🐟 Pieds dans l’eau** | *Pesce piedi nella sabbia* | **🌅 spiaggia, tramonto** | ★★★★½ |
+| [The West Deck](ristoranti/rist-west-deck.md) | Oranjestad — Governors Bay | **€€** | **🐟 Local Creole fish** | *Ribs · pang bati · johnny cake* | **🏖️ beach, open-air** | ★★★★½ |
+| [Aquarius](ristoranti/rist-aquarius.md) | Renaissance Marina | **€€€** | **🐟 Contemporary Caribbean** | *Ceviche · catch of the day* | **⚓ marina, hotel** | ★★★★ |
+| [Wilhelmina](ristoranti/rist-wilhelmina.md) | Downtown Oranjestad | **€€€** | **🍽️ European-Caribbean fine dining** | *Seasonal menu · seafood* | **🌴 elegant courtyard** | ★★★★½ |
+| [Yemanja Woodfired Grill](ristoranti/rist-yemanja.md) | Wilhelminastraat 2 | **€€** | **🥩 Wood grill + 🥗 vegan** | *Wood-fired grill · vegan options* | **🌴 garden terrace** | ★★★★½ |
+| [Taste My Aruba](ristoranti/rist-taste-my-aruba.md) | Downtown Oranjestad | **€€** | **🥙 Family Aruban** | *Daily menu · keshi yena* | **🪶 historic house** | ★★★★½ |
+| [Driftwood Restaurant](ristoranti/rist-driftwood.md) | Klipstraat 12 | **€€** | **🐟 Local seafood** | *Fresh catch · Aruban* | **🪶 wood, authentic** | ★★★★ |
+| [Pinchos Grill & Bar](ristoranti/rist-pinchos.md) | Surfside / pier | **€€** | **🥩 Caribbean grill** | *Grills · sunset cocktails* | **🏖️ pier over water** | ★★★★½ |
+| [Water’s Edge](ristoranti/rist-waters-edge.md) | Eagle Beach | **€€** | **🐟 American/Caribbean** | *Red snapper · Ahi Tuna* | **🏖️ beach resort** | ★★★★ |
+| [The Flying Fishbone](ristoranti/rist-flying-fishbone.md) | Savaneta | **€€€** | **🐟 Feet in the water** | *Fish with feet in the sand* | **🌅 beach, sunset** | ★★★★½ |
 
-*Clicca sul nome per aprire la scheda completa. Prenotare in alta stagione (dic–apr) per i locali sul mare.*
+*Click the name to open the full sheet. Book ahead in high season (Dec–Apr) for waterfront venues.*
 
 ## Apps & Sources
 
 | Platform | Local Use |
 |---|---|
-| [TripAdvisor](https://www.tripadvisor.com/Restaurants-g147247-Aruba.html) | Ampio ma verificare recensioni locali |
-| [Google Maps recensioni](https://maps.google.com) | Il più aggiornato; orari spesso errati fuori stagione |
-| [VisitAruba.com](https://www.visitaruba.com/restaurants) | Guida ufficiale locale con menu, foto e booking — **fonte locale verificata** ★★★ |
-| [Aruba.com — Oranjestad dining](https://www.aruba.com/it/blog/i-migliori-ristoranti-di-oranjestad-ad-aruba) | Selezione ufficiale dell'ente turismo (Wilhelmina, Taste My Aruba, Carte Blanche) ★★★ |
-| [MyArubaGuide — The West Deck](https://www.myarubaguide.com) | Blog locale / guida residenti con recensioni dettagliate waterfront ★★★ |
-| [AuthenticChicLifestyle — Top 25 Aruba](https://www.authenticchiclifestyle.com) | Blog food locale con classifica Old Cunucu House, Driftwood, Papiamento ★★★ |
-| Facebook/Instagram locali | Pagine dei ristoranti: menu e chiusure in tempo reale |
-| [TheFork/LaFourchette](https://www.thefork.com) | Copertura limitata nelle ABC |
+| [TripAdvisor](https://www.tripadvisor.com/Restaurants-g147247-Aruba.html) | Extensive but cross-check local reviews |
+| [Google Maps reviews](https://maps.google.com) | Most up to date; hours often wrong off-season |
+| [VisitAruba.com](https://www.visitaruba.com/restaurants) | Official local guide with menus, photos and booking — **verified local source** ★★★ |
+| [Aruba.com — Oranjestad dining](https://www.aruba.com/it/blog/i-migliori-ristoranti-di-oranjestad-ad-aruba) | Official tourism board selection (Wilhelmina, Taste My Aruba, Carte Blanche) ★★★ |
+| [MyArubaGuide — The West Deck](https://www.myarubaguide.com) | Local blog / residents' guide with detailed waterfront reviews ★★★ |
+| [AuthenticChicLifestyle — Top 25 Aruba](https://www.authenticchiclifestyle.com) | Local food blog ranking Old Cunucu House, Driftwood, Papiamento ★★★ |
+| Local Facebook/Instagram | Restaurant pages: menus and closures in real time |
+| [TheFork/LaFourchette](https://www.thefork.com) | Limited coverage in the ABCs |
 
 Last updated: 27/08/2026

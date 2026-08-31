@@ -15,6 +15,6 @@
 <div class="mapframe" data-slug="anc-barcadera-dogana" data-minz="12" data-maxz="17" data-lat="12.48" data-lon="-70.0006"></div>
 *Detailed chart — zoom ± to the bay · offline map · WGS84 coordinates indicative, always verify with your plotter*
 
-Sources: Noonsite ★★★ · Wind Creek Marina ★★★★
+Sources: Cruising sources aggregate ★★★ · Wind Creek Marina ★★★★
 
 Last updated: 25/08/2026

@@ -4,7 +4,7 @@
 
 Devise: **dollaro dei Caraïbes Orientali (XCD/EC$)** · cambio fisso ~**2,70 = 1 US$**. Livello prezzi: isola importatrice — alimentari importati costosi, prodotti locali e mercati convenienti; **IVA 15%** (ridotta 10% su hotel/diving; beni essenziali esenti). [Ministero Finanze Grenada](https://www.finance.gd/index.php/taxes/28-taxes/172-vat-and-the-consumer) ★★★★ · [Budget 2025, gov.gd](https://www.gov.gd/component/edocman/2025-budget-statement/viewdocument/1563) ★★★★★
 
-> ⚠️ Le voci di questo elenco sono le stesse per tutti i paesi del portolano. Dove il dato non è stato ancora trovato dalle fonti si scrive **DONNÉE MANQUANTE**: viene ricercato al controllo mensile (vedi [00 Index](../00-indice.md)).
+> ⚠️ Le voci di questo elenco sono le stesse per tutti i paesi del portolano. Dove il dato non è stato ancora trovato dalle fonti si scrive **DONNÉE MANQUANTE**: viene ricercato al controllo mensile (vedi [00 Index](00-indice.md)).
 
 ## Alimentation & avitaillement
 

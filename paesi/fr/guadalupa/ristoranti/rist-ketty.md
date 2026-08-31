@@ -5,23 +5,23 @@
 | Champ | Détail |
 |---|---|
 | Zone | Deshaies |
-| Cuisine | 🐟 Langouste grigliata |
-| Spécialité | Langouste (prenotarla al mattino) |
-| Coût | 💰€€ per persona senza bevande |
-| Emplacement | 🌴 case créole in giardino |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chez+Ketty+Deshaies) |
+| Cuisine | 🐟 Langouste grillée |
+| Spécialité | Langouste (à commander le matin) |
+| Coût | 💰€€ par personne hors boissons |
+| Emplacement | 🌴 case créole dans jardin |
+| Carte | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chez+Ketty+Deshaies) |
 | Contacts | +590 690 69-3539 |
 | Évaluations | Google 4,7/5 (217) → ★★★★★ |
-| Horaires | lun 19–22 · gio–dom 12–22 · chiuso mar/mer |
+| Horaires | lun 19h–22h · jeu–dim 12h–22h · fermé mar/mer |
 
 ## Menu
 
-- Langouste grigliata
+- Langouste grillée
 
-**Chef**: ND
+**Chef** : ND
 
 ## Photos
 
-*Photos non ancora disponibili — recuperare al controllo mensile.*
+*Photos non encore disponibles — à récupérer lors du contrôle mensuel.*
 
-**Note**: N2 entrée gîtes Migneret
+**Notes** : N2 entrée gîtes Migneret

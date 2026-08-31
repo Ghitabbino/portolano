@@ -58,15 +58,15 @@
 
 ### Bus / minibus
 
-- Minibus / bus locali (Konvoi): frequenti sulle direttrici principali (Spanish Water ↔ Willemstad), passaggio ogni 15–30 min di giorno, biglietto **3,10–3,50 XCG** (Bus 6A Spanish Water→Willemstad ~US$2). [Numbeo ★★★; Noonsite ★★]
+- Minibus / bus locali (Konvoi): frequenti sulle direttrici principali (Spanish Water ↔ Willemstad), passaggio ogni 15–30 min di giorno, biglietto **3,10–3,50 XCG** (Bus 6A Spanish Water→Willemstad ~US$2). [Numbeo ★★★; Sources plaisance agrégées ★★]
 - Fermata più vicina a Spanish Water: **sulla Caracasbaaiweg**, a 200–400 m dal dinghy dock — chiedere in marina. ★★
 - Scomodo con carichi pesanti: meglio taxi per casse d'acqua o cambusa settimanale. ★★
 
 ## Conseils pratiques
 
 - Carrello/trolley pieghevole e **borse termiche**: indispensabili con caldo e distanze.
-- **Eau in bottiglia**: fare scorta dove l'acqua di banchina ha pressione alta (Curaçao Yacht Club — rischio rottura tubi). [Noonsite 21/11/2015 ★★]
+- **Eau in bottiglia**: fare scorta dove l'acqua di banchina ha pressione alta (Curaçao Yacht Club — rischio rottura tubi). [Sources plaisance agrégées 21/11/2015 ★★]
 - Vérifier sempre orari festivi e disponibilità di **ghiaccio** prima di traversate lunghe.
-- **VHF Cruisers Net 72 alle 07:30** — info su spesa collettiva e bus gratuiti dal fisherman dock il giovedì. [Noonsite — Spanish Water VHF 72 ★★★]
+- **VHF Cruisers Net 72 alle 07:30** — info su spesa collettiva e bus gratuiti dal fisherman dock il giovedì. [Sources plaisance agrégées ★★★]
 
 Dernière mise à jour: 28/08/2026

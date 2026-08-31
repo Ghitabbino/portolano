@@ -13,9 +13,9 @@ Cittadini UE esenti visto secondo le liste ufficiali: soggiorno turistico di cir
 ## Nota importante per chi arriva via mare
 
 - Unico ancoraggio: **Oranje Baai** davanti a Oranjestad. Avvicinamento solo di giorno; rispettare la zona di esclusione accanto al terminale petrolifero. All At Sea ★★★
-- Dogana e Immigrazione all'Harbour Office (VHF 14): lun–ven 8:00–16:00, weekend 8:00–11:00 (pratica reale ~9:30–15:30). L'uscita può essere anticipata fino a 24 h prima della partenza. [Noonsite](https://www.noonsite.com/place/statia/) ★★★
+- Dogana e Immigrazione all'Harbour Office (VHF 14): lun–ven 8:00–16:00, weekend 8:00–11:00 (pratica reale ~9:30–15:30). L'uscita può essere anticipata fino a 24 h prima della partenza. Fontes náuticas agregadas ★★★
 - Le 12 boe gialle della baia sono gestite da Statia National Parks (VHF 17): il check-in col parco è consigliato.
-- Pre-arrivo: pre-registrazione su [SailClear](https://www.sailclear.com) raccomandata. Noonsite ★★★
+- Pre-arrivo: pre-registrazione su [SailClear](https://www.sailclear.com) raccomandata. Fontes náuticas agregadas ★★★
 
 ## E dopo i 90 giorni?
 
@@ -29,7 +29,7 @@ Dogana e immigrazione **non costano nulla**. Si pagano soltanto:
 |---|---|
 | Port tax + fee Marine Park | US$10/notte oppure US$30/settimana (ancoraggio o boa) |
 
-Importazione temporanea per barche extra-UE: **DATO MANCANTE**. Fonti: Noonsite ★★★ · All At Sea ★★★
+Importazione temporanea per barche extra-UE: **DATO MANCANTE**. Fonti: Fontes náuticas agregadas ★★★ · All At Sea ★★★
 
 ## Vaccini
 

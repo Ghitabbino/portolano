@@ -27,4 +27,4 @@
 
 Fonti: [barbados.org — Champers](https://barbados.org/orestloc.htm) ★★★ · [Totally Barbados — Champers](https://www.totallybarbados.com/place/champers-restaurant/) ★★★ · [champersbarbados.com](https://www.champersbarbados.com) ★★★ · TripAdvisor 28/08/2026 ★★★
 
-Ultimo aggiornamento: 28/08/2026
+Última actualización: 28/08/2026

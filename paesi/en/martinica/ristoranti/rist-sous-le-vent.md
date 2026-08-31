@@ -4,35 +4,35 @@
 
 | Field | Detail |
 |---|---|
-| Zona | Sainte-Luce |
-| Cucina | 🐟 Bistronomico pesce |
-| Specialità | Daurade snackée sauce aimé · langouste flambée |
-| Costo | 💰€€ per person without drinks |
-| Location | 🌅 bistrot sul mare |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sous+le+Vent+Sainte-Luce) |
-| Contatti | 0596 28 63 70 / 0607 76 45 92 |
-| Currencyzioni | TA 4,7/5 (138), Travellers' Choice 2025 (n°5/777 a Sainte-Luce) → ★★★★★ |
-| Orari | mer–dom 12–14 / 18–21 · chiuso lun–mar |
+| Area | Sainte-Luce |
+| Cuisine | 🐟 Bistronomic fish |
+| Signature | Seared daurade with aimé sauce · flambéed lobster |
+| Price | 💰€€ per person without drinks |
+| Setting | 🌅 seafront bistro |
+| Map | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sous+le+Vent+Sainte-Luce) |
+| Contact | 0596 28 63 70 / 0607 76 45 92 |
+| Ratings | TA 4.7/5 (138), Travellers' Choice 2025 (no. 5/777 in Sainte-Luce) → ★★★★★ |
+| Hours | Wed–Sun 12:00–14:00 / 18:00–21:00 · closed Mon–Tue |
 
 ## Menu
 
-- Accras à notre façon 7 €
-- Rillette de thazard créole 7 €
-- Boudin créole grillé 7 €
-- Linguine au chorizo 22 €
-- Daurade snackée sauce aimé 25 €
-- Tartare de thon aller-retour 26 €
-- Tentacules de poulpe crème d'ail 27 €
-- Langouste flambée 46 €
+- Our-style accras €7
+- Creole thazard rillettes €7
+- Grilled Creole boudin €7
+- Linguine with chorizo €22
+- Seared daurade with aimé sauce €25
+- Tuna tartare aller-retour €26
+- Octopus tentacles with garlic cream €27
+- Flambéed lobster €46
 
-**Chef**: Lionel (cucina) e Annie in sala, bretoni
+**Chef**: Lionel (kitchen) and Annie front-of-house, both Breton
 
-## Foto
+## Photos
 
 ![Sous le Vent](img/martinica/rist-sous-le-vent.jpg)
 
-*Fonte: sito Google Business del ristorante*
+*Source: restaurant Google Business site*
 
-**Note**: 15 bd Kennedy, fronte mare · 🔴 CHIUSURA ANNUALE 27/04–15/10/2026
+**Notes**: 15 bd Kennedy, seafront · 🔴 ANNUAL CLOSURE 27/04–15/10/2026
 
 **Extra**: email r.souslevent@gmail.com

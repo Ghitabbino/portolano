@@ -4,20 +4,20 @@
 
 | Field | Detail |
 |---|---|
-| Zona | Oranjestad centro |
-| Cucina | 🍽️ Europeo-caraibica fine dining |
-| Specialità | Menu stagionale a sorpresa · frutti di mare · carni |
-| Costo | 💰€€€ per person without drinks |
-| Location | 🌴 courtyard elegante, intimo |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Wilhelmina+Restaurant+Oranjestad) |
-| Contatti | Wilhelminastraat, Oranjestad |
-| Valutazioni | TA 4,7/5 · [Aruba.com](https://www.aruba.com/it/blog/i-migliori-ristoranti-di-oranjestad-ad-aruba) selezione ufficiale 2023 → ★★★★½ |
-| Orari | mar–dom 18:30–22 · lun chiuso |
+| Area | Downtown Oranjestad |
+| Cuisine | 🍽️ European-Caribbean fine dining |
+| Speciality | Surprise seasonal menu · seafood · meats |
+| Cost | 💰€€€ per person without drinks |
+| Location | 🌴 elegant intimate courtyard |
+| Map | [Google Maps](https://www.google.com/maps/search/?api=1&query=Wilhelmina+Restaurant+Oranjestad) |
+| Contacts | Wilhelminastraat, Oranjestad |
+| Ratings | TA 4.7/5 · [Aruba.com](https://www.aruba.com/it/blog/i-migliori-ristoranti-di-oranjestad-ad-aruba) official selection 2023 → ★★★★½ |
+| Hours | Tue–Sun 18:30–22:00 · Mon closed |
 
 ## Menu
 
-- Menu in continua evoluzione secondo stagioni e prodotti locali
-- Frutti di mare e carni di alta qualità
-- Esperienza elegante per serata romantica
+- Constantly evolving menu according to seasons and local produce
+- High-quality seafood and meats
+- Elegant experience for a romantic evening
 
-**Note**: Fondato 2015, rapidamente top ranking isola. Fonte locale verificata: [Aruba.com — i migliori ristoranti di Oranjestad](https://www.aruba.com/it/blog/i-migliori-ristoranti-di-oranjestad-ad-aruba) ★★★
+**Note**: Founded in 2015, quickly rose to top island ranking. Verified local source: [Aruba.com — best restaurants in Oranjestad](https://www.aruba.com/it/blog/i-migliori-ristoranti-di-oranjestad-ad-aruba) ★★★

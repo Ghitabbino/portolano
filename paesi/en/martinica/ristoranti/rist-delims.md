@@ -4,31 +4,31 @@
 
 | Field | Detail |
 |---|---|
-| Zona | Sainte-Anne |
-| Cucina | 🐟 Langouste e lambi |
-| Specialità | Langouste · lambi · chatrou |
-| Costo | 💰€€€ per person without drinks |
-| Location | 🍽️ raffinato |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Delim's+Sainte-Anne) |
-| Contatti | 0696 35 48 59 (prenotazioni 0696 75 49 13) |
-| Currencyzioni | TA 4,7/5 (140) → ★★★★½ |
-| Orari | lun-gio-ven-sab 19–22 · sab-dom 12–15 · chiuso mar–mer |
+| Area | Sainte-Anne |
+| Cuisine | 🐟 Lobster and lambi |
+| Signature | Lobster · lambi · chatrou (octopus) |
+| Price | 💰€€€ per person without drinks |
+| Setting | 🍽️ refined |
+| Map | [Google Maps](https://www.google.com/maps/search/?api=1&query=Delim's+Sainte-Anne) |
+| Contact | 0696 35 48 59 (bookings 0696 75 49 13) |
+| Ratings | TA 4.7/5 (140) → ★★★★½ |
+| Hours | Mon–Thu–Fri–Sat 19:00–22:00 · Sat–Sun 12:00–15:00 · closed Tue–Wed |
 
 ## Menu
 
-- Langouste
-- Lambi
-- Chatrou
-- Formule entrée+plat+cocktail o plat+dessert+cocktail 40 €
+- Lobster
+- Lambi (conch)
+- Chatrou (octopus)
+- Set formula starter+main+cocktail or main+dessert+cocktail €40
 
-**Chef**: Marie-Claude (cucina), sorella Marie-Laure in sala
+**Chef**: Marie-Claude (kitchen), sister Marie-Laure front-of-house
 
-## Foto
+## Photos
 
 ![Delim's](img/martinica/rist-delims.jpg)
 
-*Fonte: ledelims.com*
+*Source: ledelims.com*
 
-**Note**: Avenue Nelson Mandela · ledelims.com · anche traiteur · pizze d'asporto la sera
+**Notes**: Avenue Nelson Mandela · ledelims.com · also traiteur · take-away pizzas in the evening
 
 **Extra**: email ledelims@gmail.com

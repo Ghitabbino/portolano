@@ -4,50 +4,50 @@
 
 ## Climate
 
-Arcipelago subtropicale — **inverno secco e fresco, estate calda e umida**. Temperatura mare: **26–27 °C in inverno, 28–30 °C in estate**. ★★★★
+Subtropical archipelago — **dry cool winter, hot humid summer**. Sea temperature: **26–27 °C in winter, 28–30 °C in summer**. ★★★★
 
 ## Seasons
 
-| Period | Characteristics | Vento / Mare |
+| Period | Characteristics | Wind / Sea |
 |---|---|---|
-| **Dry / Cool — nov–apr** | **Alta stagione nautica**: fresco, secco, alisei da **NE 10–20 kt** stabili. **Best dic–apr** per crociera. Temp. aria **21–26 °C**, mare **26–27 °C** | NE trades, swell moderato, fronti freddi occasionali da NW (dic–feb) ★★★★★ |
-| **Shoulder — mag–giu** | Caldo in aumento, alisei più deboli, meno affollato. Buona finestra. Temp. **27–29 °C** | SE–E 10–15 kt, bonacce possibili ★★★★ |
-| **Wet / Hot — 01/06–30/11** | **Stagione degli uragani** — caldo umido, rovesci e temporali pomeridiani. **Picco ago–ott**, piovosità annua **~44" (1.100 mm)**. Temp. **28–32 °C**, afa | Calme + temporali, rischio ciclone ★★★★★ |
-| **Picco uragani** | **Agosto–ottobre** — massima attività ciclonica | Richiede piano uragano (vedi sotto) |
+| **Dry / Cool — Nov–Apr** | **High sailing season**: cool, dry, **NE trades 10–20 kt** steady. **Best Dec–Apr** for cruising. Air temp **21–26 °C**, sea **26–27 °C** | NE trades, moderate swell, occasional cold fronts from NW (Dec–Feb) ★★★★★ |
+| **Shoulder — May–Jun** | Warming, weaker trades, less crowded. Good window. Temp **27–29 °C** | SE–E 10–15 kt, calms possible ★★★★ |
+| **Wet / Hot — 01/06–30/11** | **Hurricane season** — hot humid, afternoon showers and thunderstorms. **Peak Aug–Oct**, annual rainfall **~44" (1,100 mm)**. Temp **28–32 °C**, muggy | Calms + storms, cyclone risk ★★★★★ |
+| **Hurricane peak** | **August–October** — maximum cyclonic activity | Requires hurricane plan (see below) |
 
-**Previsione NOAA 2026**: **8–14 tempeste nominate, 1–3 uragani maggiori (major)** — stagione nella media/sopra media. ★★★★
+**NOAA 2026 forecast**: **8–14 named storms, 1–3 major hurricanes** — average/above-average season. ★★★★
 
-## Finestra migliore per la crociera
+## Best Window for Cruising
 
-**Tardo marzo – inizio giugno**: alisei ancora presenti ma meno forti, temperature gradevoli, rischio uragani ancora basso, prezzi marine in calo dopo l'alta stagione. Anche **dicembre–aprile** eccellente ma più ventoso e affollato (alta stagione charter USA). ★★★★
+**Late March – early June**: trades still present but less strong, pleasant temperatures, hurricane risk still low, marina prices falling after high season. Also **December–April** excellent but windier and more crowded (US charter high season). ★★★★
 
-## Hurricanes — piano obbligatorio
+## Hurricanes — Mandatory Plan
 
-Stagione ufficiale **01/06–30/11**. Le Bahamas sono tra le aree più colpite dell'Atlantico (uragano Dorian cat.5 su Abacos/Grand Bahama nel 2019). Nessun **trou à cyclone** garantito come Le Marin — unico riparo riconosciuto è **Hurricane Hole, Nassau** (14,5 ft MLW, ormeggi anti-uragano) ma con posti limitati e prenotazione con largo anticipo.
+Official season **01/06–30/11**. The Bahamas are among the most hit areas in the Atlantic (Hurricane Dorian cat.5 on Abacos/Grand Bahama in 2019). No guaranteed **hurricane hole** like Le Marin — the only recognised shelter is **Hurricane Hole, Nassau** (14.5 ft MLW, hurricane moorings) but with limited spaces and early booking required.
 
-**Consignes:**
-- Avere un **piano uragano scritto** con l'assicurazione (limiti di navigazione 01/06–30/11 spesso imposti).
-- Monitorare **NHC Miami** ogni 6h in stagione.
-- Prevedere rientro in Florida or haul-out a Bradford Marine/Freeport se avviso.
+**Instructions:**
+- Have a **written hurricane plan** with your insurer (navigation limits often imposed 01/06–30/11).
+- Monitor **NHC Miami** every 6h in season.
+- Plan to return to Florida or haul-out at Bradford Marine/Freeport if a warning is issued.
 
-## Venti e correnti locali
+## Local Winds & Currents
 
-- **Gulf Stream** lungo il bordo ovest (Florida Strait / Bimini): corrente nord fino a **5 kt** — attenzione alla rotta Miami–Bimini (correzione est). ★★★★★
-- **Marea**: escursione **0,8–1,0 m** — modesta, ma nei **cuts tra Exuma Banks ed Exuma Sound** genera corrente **2–4 kt** — transito solo a **slack water** (acqua ferma). ★★★★★
-- **Banks**: Exuma Banks e Grand Bahama Banks — bassissimi fondali (2–3 ft fuori dai canali), navigazione solo di giorno con sole alto e buona cartografia (Explorer Chartbook). ★★★★★
+- **Gulf Stream** along the western edge (Florida Strait / Bimini): north-setting current up to **5 kt** — watch your Miami–Bimini course (east correction). ★★★★★
+- **Tide**: range **0.8–1.0 m** — modest, but in the **cuts between Exuma Banks and Exuma Sound** it generates **2–4 kt** current — transit only at **slack water**. ★★★★★
+- **Banks**: Exuma Banks and Grand Bahama Banks — extremely shallow (2–3 ft outside channels), navigate only by day with high sun and good charting (Explorer Chartbook). ★★★★★
 
 ## Weather Links & Local Charts
 
-| Fonte | Uso | Affidabilità |
+| Source | Use | Reliability |
 |---|---|---|
-| [NOAA National Hurricane Center](https://www.nhc.noaa.gov) | Bollettini, traiettorie, Tropical Outlook ogni 6h (giu–nov) | ★★★★★ |
-| [NOAA Marine Forecast](https://marine.weather.gov) | Coastal/Large marine forecast, Bahamas incluse | ★★★★★ |
-| [Windy](https://www.windy.com) | Modelli ECMWF/GFS vento, onde, pioggia | ★★★★ |
-| [PassageWeather](http://www.passageweather.com) | Vento e onde per traversate | ★★★ |
+| [NOAA National Hurricane Center](https://www.nhc.noaa.gov) | Bulletins, tracks, Tropical Outlook every 6h (Jun–Nov) | ★★★★★ |
+| [NOAA Marine Forecast](https://marine.weather.gov) | Coastal/Large marine forecast, Bahamas included | ★★★★★ |
+| [Windy](https://www.windy.com) | ECMWF/GFS wind, wave, rain models | ★★★★ |
+| [PassageWeather](http://www.passageweather.com) | Wind and waves for passages | ★★★ |
 | [PredictWind](https://www.predictwind.com) | Routing, Departure Planning | ★★★ |
-| Bahamas Meteorology Dept. | Previsioni locali Nassau | ★★★ |
-| **Explorer Chartbook — Bahamas** | Cartografia di riferimento per i Banks (non ufficiale ma standard de facto) | ★★★★★ |
-| **Navionics / Garmin / C-MAP** | Carte elettroniche — verificare datum WGS84 | ★★★★ |
+| Bahamas Meteorology Dept. | Local Nassau forecasts | ★★★ |
+| **Explorer Chartbook — Bahamas** | Reference charting for the Banks (unofficial but de facto standard) | ★★★★★ |
+| **Navionics / Garmin / C-MAP** | Electronic charts — check WGS84 datum | ★★★★ |
 
 Last updated: 24/08/2026
 
@@ -56,7 +56,6 @@ Last updated: 24/08/2026
 **DATA MISSING** — to be completed at the monthly check.
 
 
-## Typical Weather Windows
+## Typical Windows
 
 **DATA MISSING** — to be completed at the monthly check.
-

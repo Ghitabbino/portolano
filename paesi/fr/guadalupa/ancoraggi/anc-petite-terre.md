@@ -3,6 +3,6 @@
 [← Tous les mouillages](../08-ancoraggi.md)
 <div class="mapframe" data-slug="petite-terre" data-lat="16.170" data-lon="-61.110" data-name="Petite Terre"></div>
 
-Réserve naturelle: lucertole, tartarughe, fondi da sogno. **Solo boe** (9×10 t + 1×30 t), prenotare in anticipo; ingresso sulla barcaia con onde in atto richiede prudenza e sole alto. Snorkeling spettacolare dopo la partenza dei day-tripper. Nessun servizio a terra: acqua e provviste proprie. ★★★
+Réserve naturelle : iguanes, tortues, fonds de rêve. **Uniquement sur bouées** (9×10 t + 1×30 t), réserver à l'avance ; l'entrée par la passe avec de la houle demande prudence et soleil haut. Snorkeling spectaculaire après le départ des excursionnistes. Aucun service à terre : prévoir eau et vivres. ★★★
 
 Dernière mise à jour: 22/08/2026

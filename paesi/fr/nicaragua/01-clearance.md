@@ -1,6 +1,6 @@
 # 01 — Formalités douanières
 
-**Dernière vérification: 25/08/2026** · Fonti: Noonsite ★★★ · Ocean Posse ★★★ · cruiserswiki ★★★
+**Dernière vérification: 25/08/2026** · Fonti: Sources plaisance agrégées ★★★ · Ocean Posse ★★★ · cruiserswiki ★★★
 
 ## San Juan del Sur (POE più usato)
 

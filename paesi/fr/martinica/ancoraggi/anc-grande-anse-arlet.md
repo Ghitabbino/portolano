@@ -3,15 +3,15 @@
 [← Tous les mouillages](../08-ancoraggi.md)
 | Champ | Détail |
 |---|---|
-| **Profondeur** | 4–8 m circa |
-| **Tenue** |Buona su sabbia, calaggio facile ★★★|
-| **Vents/abri** |Buona protezione da vento e swell ★★★; qualcuno segnala rollìo in certe condizioni ★★|
-| **Dangers** |**Boe da pesca trasparenti (bottiglie di plastica) quasi invisibili** all'ingresso della baia ★★; pattuglie guardacoste attive di recente ★★|
-| **Affluence** | Medio-alto; ristoranti sulla spiaggia |
-| **Divieti** |⚠️ Regole boe/mouillage **restrittive e fatte rispettare** dai guardacoste ★★; zona Anses d'Arlet regolata per >50 m ★★★★; zone balneazione boe comunali davanti alla spiaggia ★★|
-| **Extra** | Tartarughe in snorkeling; sentiero Morne Champagne fino a Petite Anse |
+| **Profondeur** | 4–8 m env. |
+| **Tenue** |Bonne sur sable, mouillage facile ★★★|
+| **Vents/abri** |Bonne protection contre vent et houle ★★★ ; roulis signalé par certains selon conditions ★★|
+| **Dangers** |**Bouées de pêche transparentes (bouteilles plastique) quasi invisibles** à l'entrée de la baie ★★ ; patrouilles garde-côtes actives récemment ★★|
+| **Affluence** | Moyenne à forte ; restaurants sur la plage |
+| **Réglementation** |⚠️ Règles bouées/mouillage **restrictives et strictement contrôlées** par la garde-côtes ★★ ; zone Anses d'Arlet réglementée pour >50 m ★★★★ ; zones de baignade (bouées communales) devant la plage ★★|
+| **Extra** | Tortues en snorkeling ; sentier du Morne Champagne jusqu'à Petite Anse |
 
 <div class="mapframe" data-slug="grande-anse-arlet" data-lat="14.4805" data-lon="-61.0885"></div>
-*Vista mappa Grande Anse d'Arlet (coord. indicative) — zoom con i pulsanti +/−; menu in alto a destra per passare a Carta nautica e Segnali nautici · carte hors ligne*
+*Vue carte Grande Anse d'Arlet (coord. indicatives) — zoomez avec les boutons +/− ; menu en haut à droite pour passer à Carte nautique et Balisage · carte hors ligne*
 
 Dernière mise à jour: 22/08/2026

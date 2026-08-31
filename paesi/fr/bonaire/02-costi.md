@@ -4,7 +4,7 @@
 
 Devise: **USD (dollaro USA)** — Bonaire è municipio speciale NL (BES) ma dal 2011 circola solo USD. Livello prezzi: isola con importazione ~90%; alimentari **~+40%** vs Paesi Bassi metropolitani, ristorazione turistica cara nelle zone marina/dive-resort. ★★★
 
-> ⚠️ Le voci di questo elenco sono le stesse per tutti i paesi del portolano. Dove il dato non è stato ancora trovato dalle fonti si scrive **DONNÉE MANQUANTE**: viene ricercato al controllo mensile (vedi [00 Index](../00-indice.md)).
+> ⚠️ Le voci di questo elenco sono le stesse per tutti i paesi del portolano. Dove il dato non è stato ancora trovato dalle fonti si scrive **DONNÉE MANQUANTE**: viene ricercato al controllo mensile (vedi [00 Index](00-indice.md)).
 
 ## Alimentation & avitaillement
 

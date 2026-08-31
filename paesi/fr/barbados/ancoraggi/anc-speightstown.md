@@ -5,16 +5,16 @@
 
 | Champ | Détail |
 |---|---|
-| **Profondeur** |**DONNÉE MANQUANTE** (sabbia)|
-| **Tenue de l’ancre** |Sabbia|
-| **Vents/abri** |Costa ovest sottovento; rollio presente|
-| **Dangers** |Landing dinghy limitato; jolly ski vicini verificato su BA 1042 + satellite|
-| **Bouées/interdictions/réglementation** |NO dogana (formalità a Bridgetown/PSC); permesso costiero richiesto da Customs Boarding Officer (tel 246 430 2355, VHF 16)|
-| **À terre** |Negozi/supermercato raggiungibili a piedi|
+| **Profondeur** |**DONNÉE MANQUANTE** (sable)|
+| **Tenue de l’ancre** |Sable|
+| **Vents/abri** |Côte ouest sous le vent; rollio presente|
+| **Dangers** |Débarquement annexe limité ; jet-skis à proximité vérifié sur BA 1042 + satellite|
+| **Bouées/interdictions/réglementation** |PAS de douane (formalités à Bridgetown/PSC) ; autorisation côtière requise du Customs Boarding Officer (tél 246 430 2355, VHF 16)|
+| **À terre** |Commerces/supermarché accessibles à pied|
 
 <div class="mapframe" data-slug="anc-speightstown" data-lat="13.253" data-lon="-59.645"></div>
-*Carte détaillée — zoomez jusqu’à la baie · carte hors ligne · coordinate WGS84 indicative, toujours vérifier avec le traceur*
+*Carte détaillée — zoomez jusqu’à la baie · carte hors ligne · coordonnées WGS84 indicatives, toujours vérifier avec le traceur*
 
-Fonti: noforeignland guida Barbados (26-01-2026) ★4.5 ★★ · BPI Yacht Masters Guide §8 ★★★★ · verificato su BA 1042 + satellite
+Sources: noforeignland guida Barbados (26-01-2026) ★4.5 ★★ · BPI Yacht Masters Guide §8 ★★★★ · vérifié sur BA 1042 + satellite
 
 Dernière mise à jour: 25/08/2026

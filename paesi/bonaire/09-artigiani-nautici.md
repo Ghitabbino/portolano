@@ -19,7 +19,7 @@ Hub locale **limitato e disperso su Kralendijk**: per **grandi raddobbi, alaggio
 
 ## Altri operatori utili
 
-- **El Navegante Yard** — alaggio e rimessaggio a terra a Bonaire (haulout/storage) citato da [Noonsite — Yachting Essentials](https://www.noonsite.com/place/bonaire/view/yachting-essentials) ★★★ · contatti **DATO MANCANTE** — chiedere in capitaineria/Harbour Village per prenotazione travelift.
+- **El Navegante Yard** — alaggio e rimessaggio a terra a Bonaire (haulout/storage) citato da Fonti diportiste aggregate ★★★ · contatti **DATO MANCANTE** — chiedere in capitaineria/Harbour Village per prenotazione travelift.
 - **NetTech NV** (hosting/design per Boto Blanku) — non tecnico nautico, citato solo come riferimento web.
 - **Budget Marine — Technical Corner** (online): guide tecniche su vernici/antivegetative, anodi, cime, pompe — utile per scegliere il prodotto prima di andare in negozio ★★★
 - Per **vele/rigging/composito serio**: sailmaker e rigger non residenti — servizio mobile da **Curaçao (Curacao Marine) / Aruba Budget Marine Rigging / St. Martin (FKG)**; lavori in quota e cuciture vele: chiedere referenze a Budget Marine o in capitaineria.

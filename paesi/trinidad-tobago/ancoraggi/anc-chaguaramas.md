@@ -15,6 +15,6 @@
 <div class="mapframe" data-slug="anc-chaguaramas" data-lat="10.6785" data-lon="-61.6362"></div>
 *Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
 
-Fonti: [Noonsite](https://www.noonsite.com/place/trinidad-and-tobago/chaguaramas/) (05/2025) ★★★ · powerboats.co.tt ★★★★
+Fonti: Fonti diportiste aggregate ★★★(05/2025) ★★★ · powerboats.co.tt ★★★★
 
 Ultimo aggiornamento: 25/08/2026

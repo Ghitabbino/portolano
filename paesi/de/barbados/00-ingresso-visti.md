@@ -1,58 +1,58 @@
-# 00 — Ingresso, documenti e visti
+# 00 — Einreise, Dokumente & Visa
 
-**Ultima verifica: 28/08/2026**
+**Letzte Überprüfung: 28/08/2026**
 
 ## Status
 
-Barbados è una **repubblica parlamentare indipendente** dal 30 novembre 2021 (ex-reame del Commonwealth), membro del Commonwealth, **fuori dall'UE e fuori dall'area Schengen**: dogana e immigrazione proprie, non OECS. Le regole UE/Schengen non si applicano. [immigration.gov.bb](https://immigration.gov.bb/pages/visitor.aspx) ★★★★★ · [gov.bb — Immigration Department](https://www.gov.bb/Departments/immigration) ★★★★★
+Barbados ist eine **unabhängige parlamentarische Republik** seit dem 30. November 2021 (vormals Commonwealth Realm), Mitglied des Commonwealth, **außerhalb der EU und außerhalb des Schengen-Raums**: eigene Zoll- und Einwanderungsbehörden, kein OECS-Mitglied. EU-/Schengen-Regelungen gelten nicht. [immigration.gov.bb](https://immigration.gov.bb/pages/visitor.aspx) ★★★★★ · [gov.bb — Immigration Department](https://www.gov.bb/Departments/immigration) ★★★★★
 
-## Cittadini UE — nessun visto per soggiorni brevi
+## EU-Bürger — kein Visum für Kurzaufenthalte
 
-| Voce | Regola | Fonte |
+| Punkt | Regelung | Quelle |
 |---|---|---|
-| Visto | **Non richiesto** per cittadini italiani/UE e numerose altre nazionalità per turismo/visita; la lista visti richiesti include solo alcuni paesi (es. Dominican Rep., Haiti, Cuba, Cina ecc. — non UE) | [barbados.org — Documents Required](https://barbados.org/docs_requirements.htm) ★★★ · [immigration.gov.bb — Requirements](https://immigration.gov.bb/pages/visitor.aspx) ★★★★★ |
-| Documenti obbligatori | **Passaporto valido per tutta la durata del soggiorno** (alla partenza deve essere ancora valido); **biglietto di ritorno o proseguimento**; **indirizzo di alloggio** (hotel/appartamento o barca con ancoraggio/marina); **prova di mezzi sufficienti**; **Immigration & Customs Form online** compilato e ricevute salvate/stampate | [immigration.gov.bb — Visitor Information](https://immigration.gov.bb/pages/visitor.aspx) ★★★★★ · [travelform.gov.bb](https://travelform.gov.bb) ★★★★★ |
-| Modulo online obbligatorio | **Immigration and Customs Form** su [travelform.gov.bb](https://travelform.gov.bb) **disponibile entro 72 h prima dell'arrivo**; va compilato online (anche pre-registrazione imbarcazioni) e le **ricevute Immigration + Customs vanno salvate su telefono o stampate** per il controllo all'arrivo | [immigration.gov.bb](https://immigration.gov.bb/pages/visitor.aspx) ★★★★★ · [travelform.gov.bb](https://travelform.gov.bb) ★★★★★ · [barbados.org](https://barbados.org/docs_requirements.htm) ★★★ |
-| Soggiorno turistico | **Tipicamente fino a 3 mesi** all'ingresso per cittadini UE/esenti, a discrezione dell'ufficiale di frontiera; timbro sul passaporto fa fede | [Noonsite — Barbados Immigration](https://www.noonsite.com/place/barbados/view/immigration/) (agg. 05/12/2025) ★★★ · [barbados.org — Duration](https://barbados.org/docs_duration.htm) ★★★ |
-| Minori <18 anni | Se non accompagnati da genitore/tutore legale: **lettera di consenso notarile** con durata, adulto autorizzato a ricevere il minore e recapiti; originale + copia. Se con adulto diverso dal genitore/tutore: stessa lettera notarile con identificazione dell'accompagnatore | [immigration.gov.bb](https://immigration.gov.bb/pages/visitor.aspx) ★★★★★ |
+| Visum | **Nicht erforderlich** für italienische/EU-Bürger und zahlreiche weitere Staatsangehörigkeiten zu touristischen Zwecken/Besuch; die Liste visumpflichtiger Staaten umfasst nur einige Länder (z. B. Dominikanische Republik, Haiti, Kuba, China usw. — nicht die EU) | [barbados.org — Documents Required](https://barbados.org/docs_requirements.htm) ★★★ · [immigration.gov.bb — Requirements](https://immigration.gov.bb/pages/visitor.aspx) ★★★★★ |
+| Pflichtdokumente | **Reisepass gültig für die gesamte Aufenthaltsdauer** (muss bei Ausreise noch gültig sein); **Rück- oder Weiterflugticket**; **Unterkunftsnachweis** (Hotel/Appartement oder Yacht mit Ankerplatz/Marina); **Nachweis ausreichender Mittel**; **Online Immigration & Customs Form** ausgefüllt und Belege gespeichert/ausgedruckt | [immigration.gov.bb — Visitor Information](https://immigration.gov.bb/pages/visitor.aspx) ★★★★★ · [travelform.gov.bb](https://travelform.gov.bb) ★★★★★ |
+| Online-Pflichtformular | **Immigration and Customs Form** auf [travelform.gov.bb](https://travelform.gov.bb) **verfügbar innerhalb von 72 h vor Ankunft**; online auszufüllen (auch Vorregistrierung für Yachten) und **Belege Immigration + Customs auf dem Telefon speichern oder ausdrucken** für die Kontrolle bei Ankunft | [immigration.gov.bb](https://immigration.gov.bb/pages/visitor.aspx) ★★★★★ · [travelform.gov.bb](https://travelform.gov.bb) ★★★★★ · [barbados.org](https://barbados.org/docs_requirements.htm) ★★★ |
+| Touristenaufenthalt | **In der Regel bis zu 3 Monate** bei Einreise für EU-Bürger/Befreite, im Ermessen des Grenzbeamten; Stempel im Reisepass ist maßgebend | [Aggregierte Fahrtensegler-Quellen ★★★ · [barbados.org — Duration](https://barbados.org/docs_duration.htm) ★★★ |
+| Minderjährige <18 Jahre | Wenn nicht in Begleitung eines Elternteils/Erziehungsberechtigten: **notariell beglaubigtes Einverständnisschreiben** mit Dauer, benannter Begleitperson und Kontaktdaten; Original + Kopie. Wenn mit anderem Erwachsenen als Elternteil/Vormund: gleiches notarielles Schreiben mit Identifizierung der Begleitperson | [immigration.gov.bb](https://immigration.gov.bb/pages/visitor.aspx) ★★★★★ |
 
-⚠️ **Attenzione**: l'ammissione finale spetta sempre all'ufficiale di frontiera al porto d'ingresso; anche senza visto l'ingresso può essere rifiutato o limitato se i requisiti non sono soddisfatti.
+⚠️ **Achtung**: Die endgültige Einreiseentscheidung liegt stets beim Grenzbeamten im Einreisehafen; auch ohne Visum kann die Einreise verweigert oder zeitlich verkürzt werden, wenn die Voraussetzungen nicht erfüllt sind.
 
-## Nota importante per chi arriva via mare
+## Wichtiger Hinweis für Ankommende auf See
 
-- I controlli **persone** (Immigrazione) e **barca** (Dogana + Port Health + Port Authority) sono **separati ma collegati**: la barca va presentata al **Port of Entry ufficiale** e l'equipaggio deve aver completato la **Immigration & Customs Form** online. La clearance barca è obbligatoria all'entrata e all'uscita → vedi [01 — Clearance](01-clearance.md).
-- **Porti d'ingresso (POE) per yacht: Bridgetown** (Shallow Draught dedicato agli yacht + Deep Water Harbour su istruzione) **e Port St. Charles Marina** (NW, clearance direttamente in marina fronte frangiflutti). **NON presentarsi alla banchina crociere/porto commerciale** con unità <20 m: pericoloso, senza pontile — meglio arrivare fuori e procedere col dinghy al Passenger Terminal su istruzione Signal Station. [Barbados Port Inc. — Vessel Documentation](https://barbadosport.com/vessel-documentation) ★★★★★ · [Noonsite — Barbados Ports](https://www.noonsite.com/place/barbados/) ★★★ · [Noonsite — Bridgetown comment 31/12/2022](https://www.noonsite.com/place/barbados/bridgetown/) ★★
-- **Avvicinamento Bridgetown**: chiamare **Signal Station di Bridgetown su VHF 12 (nominativo "8P")** prima di entrare; verrà assegnato il berth; issare **bandiera Q gialla** ben visibile entrando. Ancoraggio usuale post-clearance a **Carlisle Bay (5–10 m su sabbia)**, poi dinghy/taxi verso gli uffici. La nave viene solitamente **boardata a bordo** da Port Health + Dogana + Immigrazione (~10 min per la Free Pratique); sono accettati i moduli propri della nave. Servono: ship's particulars, **lista degli ultimi 10 porti toccati**, crew e passenger lists, zarpe del porto precedente.
-- **Avvicinamento Port St. Charles**: ancoraggio esterno su sabbia davanti alla marina, poi dinghy al pontile interno; ufficiali **nello stesso stabile in fondo al frangiflutti** (dogana/immigrazione/coast guard/polizia) — procedura descritta come rapida e cordiale (report Noonsite 30/11/2025). [Noonsite — Port St. Charles](https://www.noonsite.com/place/barbados/port-st-charles) ★★★
-- **Pre-arrivo digitale**: **SailClear** ([sailclear.com](https://www.sailclear.com)) consigliato come pre-avviso doganale (Barbados è tra i paesi SailClear CCLEC dal 2013); non sostituisce la presenza in banchina ma accelera la pratica; SailClear dal 01/05/2024 ha fee annuale US$25. [SailClear](https://www.sailclear.com) ★★★ · [CCLEC — SailClear](https://www.cclec.org/about-us/sailclear/) ★★★
+- Die Kontrollen **Personen** (Immigration) und **Yacht** (Zoll + Port Health + Hafenbehörde) sind **getrennt, aber miteinander verknüpft**: Die Yacht muss bei einem **offiziellen Port of Entry** vorgeführt werden und die Crew muss die **Immigration & Customs Form** online ausgefüllt haben. Die Yacht-Clearance ist bei Ein- und Ausreise verpflichtend → siehe [01 — Clearance](01-clearance.md).
+- **Einreisehäfen (POE) für Yachten: Bridgetown** (Shallow Draught für Yachten + Deep Water Harbour auf Anweisung) **und Port St. Charles Marina** (NW, Clearance direkt in der Marina am Ende der Mole). **Nicht an der Kreuzfahrt-/Handelskai mit Einheiten <20 m anlegen** — gefährlich, ohne Dinghy-Steg — besser draußen ankern und nach Anweisung der Signal Station mit dem Dinghy zum Passenger Terminal fahren. [Barbados Port Inc. — Vessel Documentation](https://barbadosport.com/vessel-documentation) ★★★★★ · Aggregierte Fahrtensegler-Quellen ★★★ · Aggregierte Fahrtensegler-Quellen ★★★
+- **Ansteuerung Bridgetown**: **Signal Station Bridgetown auf UKW 12 (Rufzeichen „8P“)** vor dem Einlaufen anrufen; Liegeplatz wird zugewiesen; **gelbe Flagge Q** beim Einlaufen gut sichtbar setzen. Üblicher Ankerplatz nach der Clearance **Carlisle Bay (5–10 m auf Sand)**, danach mit Dinghy/Taxi zu den Behörden. Die Yacht wird in der Regel **an Bord geentert** von Port Health + Zoll + Immigration (ca. 10 Min. für die Free Pratique); eigene Schiffsformulare werden akzeptiert. Benötigt: Schiffspapiere, **Liste der letzten 10 angelaufenen Häfen**, Crew- und Passagierlisten, Zarpe des Vorhafens.
+- **Ansteuerung Port St. Charles**: Außenankerplatz auf Sand vor der Marina, dann mit dem Dinghy an den Innensteg; Beamte **im selben Gebäude am Ende der Mole** (Zoll/Immigration/Coast Guard/Polizei) — Verfahren als schnell und freundlich beschrieben (Aggregierte Fahrtensegler-Quellen-Report 30/11/2025). Aggregierte Fahrtensegler-Quellen ★★★
+- **Digitale Voranmeldung**: **SailClear** ([sailclear.com](https://www.sailclear.com)) als Zoll-Voranmeldung empfohlen (Barbados gehört seit 2013 zu den SailClear-CCLEC-Staaten); ersetzt nicht die persönliche Vorsprache an der Kai, beschleunigt aber die Abfertigung; SailClear erhebt seit 01/05/2024 eine Jahresgebühr von US$ 25. [SailClear](https://www.sailclear.com) ★★★ · [CCLEC — SailClear](https://www.cclec.org/about-us/sailclear/) ★★★
 
-## E dopo i 3 mesi? (cittadini italiani/UE)
+## Und nach 3 Monaten? (italienische/EU-Bürger)
 
-| Situazione | Regola | Fonte |
+| Situation | Regelung | Quelle |
 |---|---|---|
-| Proroga soggiorno turistico | Richiesta presso **Immigration Department** (BTI Corporate Centre, Princess Alice Highway, Bridgetown BB11093 — tel +1 246 535-4100 · imm-dept@caribsurf.com / immigration@barbados.gov.bb) o agli uffici aeroporto/porto (Grantley Adams +1 246 418-4180 · Passenger Terminal +1 246 535-4172 · Port St. Charles +1 246 535-4178) | [gov.bb — Immigration Contacts](https://www.gov.bb/Departments/immigration) ★★★★★ · [immigration.gov.bb](https://immigration.gov.bb) ★★★★★ |
-| Durata estensione | **DATO MANCANTE** — nessuna fonte governativa pubblicata trovata con durata massima, fee e moduli proroga turistica al 28/08/2026; verificare con Immigration prima della crociera | — |
-| Sforamento (overstay) | Può comportare rifiuto di future ammissioni / annotazione; l'ingresso può già essere stato abbreviato in frontiera per mezzi insufficienti | [immigration.gov.bb](https://immigration.gov.bb/pages/visitor.aspx) ★★★★★ |
+| Verlängerung Touristenaufenthalt | Antrag beim **Immigration Department** (BTI Corporate Centre, Princess Alice Highway, Bridgetown BB11093 — Tel. +1 246 535-4100 · imm-dept@caribsurf.com / immigration@barbados.gov.bb) oder bei den Dienststellen Flughafen/Hafen (Grantley Adams +1 246 418-4180 · Passenger Terminal +1 246 535-4172 · Port St. Charles +1 246 535-4178) | [gov.bb — Immigration Contacts](https://www.gov.bb/Departments/immigration) ★★★★★ · [immigration.gov.bb](https://immigration.gov.bb) ★★★★★ |
+| Dauer der Verlängerung | **DATEN FEHLEN** — keine veröffentlichte Regierungsquelle mit maximaler Dauer, Gebühren und Formularen für die touristische Verlängerung zum 28/08/2026 gefunden; vor dem Törn bei der Immigration klären | — |
+| Overstay | Kann zur Verweigerung künftiger Einreisen / Vermerk führen; die Einreise kann bereits an der Grenze wegen unzureichender Mittel verkürzt worden sein | [immigration.gov.bb](https://immigration.gov.bb/pages/visitor.aspx) ★★★★★ |
 
-In pratica: con passaporto italiano si entra senza visto fino a ~90 giorni, con travelform 72h; per restare oltre serve pratica in loco presso Immigration — tempi/costi da verificare.
+In der Praxis: Mit italienischem Reisepass visumfrei bis ca. 90 Tage, mit Travelform 72h; für längeren Aufenthalt Antrag vor Ort bei der Immigration — Bearbeitungszeiten/Kosten vorab klären.
 
-## La barca: ammissione temporanea e tasse
+## Die Yacht: Vorübergehende Einfuhr & Gebühren
 
-| Voce | Regola | Fonte |
+| Punkt | Regelung | Quelle |
 |---|---|---|
-| **Ammissione temporanea yacht straniero** | Uso privato consentito in importazione temporanea; la barca deve lasciare le acque al termine del periodo concesso; vietati noleggio/vendita e uso commerciale senza sdoganamento. Durata prassi **DATO MANCANTE** per Barbados specifico (per analogia OECS/ABC 6 mesi prassi — da confermare) | **DATO MANCANTE** per testo doganale Barbados specifico ★★ |
-| **Cruising permit / anchor fees** | **DATO MANCANTE** — nessuna tariffa pubblicata su barbadosport.com/bpi al 28/08/2026 trovata come tariffario ancoraggio | — |
-| **Clearance in/out fee** | **BBD 100 (circa US$ 50)** pagati **all'uscita** secondo Noonsite 2025; da confermare in Dogana | [Noonsite — Barbados Fees](https://www.noonsite.com/place/barbados/view/fees/) (05/12/2025) ★★★ |
-| **Tassa ambientale barca** | **DATO MANCANTE** — nessuna fonte governativa su tassa ambientale specifica per yacht trovata | — |
-| **Dogana/Immigrazione barca** | Formalità gratuite in orario salvo fee uscita sopra | [Noonsite](https://www.noonsite.com/place/barbados/) ★★★ |
+| **Vorübergehende Einfuhr ausländischer Yacht** | Private Nutzung in vorübergehender Einfuhr gestattet; die Yacht muss die Gewässer nach Ablauf der gewährten Frist verlassen; Vercharterung/Verkauf und kommerzielle Nutzung ohne Verzollung verboten. Praxisdauer **DATEN FEHLEN** für Barbados spezifisch (analog OECS/ABC Praxis 6 Monate — zu bestätigen) | **DATEN FEHLEN** für spezifischen barbadianischen Zolltext ★★ |
+| **Cruising Permit / Ankergebühren** | **DATEN FEHLEN** — kein veröffentlichter Tarif auf barbadosport.com/BPI zum 28/08/2026 als Ankergebühren-Tarif gefunden | — |
+| **Clearance-Gebühr Ein/Aus** | **BBD 100 (ca. US$ 50)** zahlbar **bei Ausreise** laut aggregierte fahrtensegler-quellen 2025; beim Zoll zu bestätigen | [Aggregierte Fahrtensegler-Quellen ★★★ |
+| **Umweltabgabe Yacht** | **DATEN FEHLEN** — keine Regierungsquelle zu spezifischer Umweltabgabe für Yachten gefunden | — |
+| **Zoll/Immigration Yacht** | Formalitäten gebührenfrei innerhalb der Öffnungszeiten, abgesehen von obiger Ausreisegebühr | Aggregierte Fahrtensegler-Quellen ★★★ |
 
-## Vaccini
+## Impfungen
 
-| Voce | Dettaglio | Fonte |
+| Punkt | Detail | Quelle |
 |---|---|---|
-| Obbligo febbre gialla | **Non richiesta** per arrivi diretti da UE/Italia/USA. **Richiesta solo se si proviene o si è transitati >12 h in Paese a rischio trasmissione** (area amazzonica, Africa sub-sahariana — lista OMS). Esenzione per Guyana e Trinidad salvo focolai urbani secondo fonte secondaria (rilevante per rotte dal Sud America) | [CDC — Barbados Traveler View](https://wwwnc.cdc.gov/travel/destinations/traveler/none/barbados) ★★★★★ · [NaTHNaC — Barbados](https://travelhealthpro.org.uk/country/9/barbados) ★★★★★ · [IAMAT / traveldoctor.network](https://www.traveldoctor.network/country/barbados/risk/yellow-fever) ★★★ |
-| Validità certificato YF | **A vita dal 11/07/2016** (OMS): non può essere rifiutato per anzianità >10 anni | NaTHNaC / OMS ★★★★★ |
-| Età | Richiesta **dai 12 mesi in su** dove applicabile | [traveldoctor.network](https://www.traveldoctor.network) ★★★ |
-| Altri vaccini | **Nessun altro obbligatorio** per arrivi da UE; raccomandata protezione anti-zanzare (dengue presente) | [CDC](https://wwwnc.cdc.gov/travel/destinations/traveler/none/barbados) ★★★★★ |
+| Gelbfieber-Pflicht | **Nicht erforderlich** bei Direktanreise aus EU/Italien/USA. **Nur erforderlich, wenn aus einem oder über >12 h Transit durch ein Land mit Übertragungsrisiko** eingereist wird (Amazonasgebiet, Subsahara-Afrika — WHO-Liste). Ausnahme für Guyana und Trinidad, außer bei urbanen Ausbrüchen laut Sekundärquelle (relevant für Routen aus Südamerika) | [CDC — Barbados Traveler View](https://wwwnc.cdc.gov/travel/destinations/traveler/none/barbados) ★★★★★ · [NaTHNaC — Barbados](https://travelhealthpro.org.uk/country/9/barbados) ★★★★★ · [IAMAT / traveldoctor.network](https://www.traveldoctor.network/country/barbados/risk/yellow-fever) ★★★ |
+| Gültigkeit YF-Zertifikat | **Lebenslang seit 11.07.2016** (WHO): darf nicht wegen Alter >10 Jahre zurückgewiesen werden | NaTHNaC / WHO ★★★★★ |
+| Alter | Erforderlich **ab 12 Monaten** wo anwendbar | [traveldoctor.network](https://www.traveldoctor.network) ★★★ |
+| Weitere Impfungen | **Keine weiteren Pflichtimpfungen** bei Anreise aus der EU; Mückenschutz empfohlen (Dengue vorhanden) | [CDC](https://wwwnc.cdc.gov/travel/destinations/traveler/none/barbados) ★★★★★ |
 
-Ultimo aggiornamento: 28/08/2026
+Letzte Aktualisierung: 28/08/2026

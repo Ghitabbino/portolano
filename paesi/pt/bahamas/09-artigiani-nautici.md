@@ -1,47 +1,47 @@
-# 09 — Artigiani e negozi nautici
+# 09 — Artesãos náuticos e shipchandlers
 
-Hub principale è **Nassau (New Providence)**: i pochi dealer marini seri sono concentrati tra **East Bay Street** e il porto. Per il resto servono **Freeport** o la **Florida** (a 48 M da Bimini). Contatto tipico via telefono/WhatsApp; si parla inglese. Per lavori importanti chiedere sempre **preventivo scritto (quote)** e confermare i tempi in alta stagione (dic–apr), quando gli atelier sono saturi.
+O hub principal é **Nassau (New Providence)**: os poucos dealers náuticos sérios concentram-se entre **East Bay Street** e o porto. Para o resto é preciso **Freeport** ou a **Flórida** (48 M de Bimini). Contacto típico via telefone/WhatsApp; fala-se inglês. Para trabalhos importantes pedir sempre **orçamento escrito (quote)** e confirmar prazos em época alta (dez–abr), quando os ateliers estão lotados.
 
-## Tabella artigiani
+## Tabela de artesãos
 
-| Ditta / Nome | Referente | Area di intervento | Dealer / Installatore autorizzato (marchi) | Tel | Mail | Sede & orari | Recensioni |
+| Empresa / Nome | Contacto | Área | Dealer / Instalador autorizado (marcas) | Tel | Mail | Sede & horários | Avaliações |
 |---|---|---|---|---|---|---|---|
-| **Lightbourne Marine** | — | Vendita motori, ricambi, assistenza, KOHLER generatori | **Mercury, Honda, KOHLER** | **242-393-5285** | via lightbournemarine.com | **63 East Bay Street, Nassau** · lun–ven 8–17, sab 8–13 | ★★★★ |
-| **Harbourside Marine** | — | Ship chandler, motori, elettronica base | **DATO MANCANTE** | **242-393-3461** | — | **East Bay Street, Nassau** (vicino Lightbourne) · orari da verificare | ★★★ |
-| **Brown's Boat Basin** | — | Cantiere: alaggio 40T, carena, meccanica | — | **DATO MANCANTE** | — | **East Bay Street, Nassau** + satellite Exuma 10k lbs | ★★★★ |
-| **Compass Marine** | — | Meccanico diesel, emergenze 24/7 | **MTU, Cummins, Volvo Penta, Yanmar** | **DATO MANCANTE** | — | **Nassau** — mobile in tutta New Providence, intervento in rada | ★★★★ |
-| **Bradford Marine — Freeport** | — | Refit superyacht, dry dock 1.200T, Travelift 150T | — | via bradford-marine.com | — | **Freeport, Grand Bahama** | ★★★★★ |
-| **R&B Boatyard — Spanish Wells** | — | Rimessaggio railway 90ft/120T, carena, legno/vetroresina | — | **DATO MANCANTE** | — | **Spanish Wells, Eleuthera** | ★★★★ |
+| **Lightbourne Marine** | — | Venda motores, peças, assistência, geradores KOHLER | **Mercury, Honda, KOHLER** | **242-393-5285** | via lightbournemarine.com | **63 East Bay Street, Nassau** · seg–sex 8–17, sáb 8–13 | ★★★★ |
+| **Harbourside Marine** | — | Ship chandler, motores, eletrónica base | **DADO EM FALTA** | **242-393-3461** | — | **East Bay Street, Nassau** (perto Lightbourne) · horários a verificar | ★★★ |
+| **Brown's Boat Basin** | — | Estaleiro: alagem 40T, carena, mecânica | — | **DADO EM FALTA** | — | **East Bay Street, Nassau** + satélite Exuma 10k lbs | ★★★★ |
+| **Compass Marine** | — | Mecânico diesel, emergências 24/7 | **MTU, Cummins, Volvo Penta, Yanmar** | **DADO EM FALTA** | — | **Nassau** — móvel em toda New Providence, intervenção a bordo | ★★★★ |
+| **Bradford Marine — Freeport** | — | Refit super-iates, doca seca 1.200T, Travelift 150T | — | via bradford-marine.com | — | **Freeport, Grand Bahama** | ★★★★★ |
+| **R&B Boatyard — Spanish Wells** | — | Armazenagem railway 90ft/120T, carena, madeira/fibra | — | **DADO EM FALTA** | — | **Spanish Wells, Eleuthera** | ★★★★ |
 
-> Per **vela / sartie / accastillage specialistico**: nessun loft stabile nelle Bahamas — **DATO MANCANTE** per sailmaker locale; appoggio standard in **Florida (Fort Lauderdale)**. Per **frigoristi / elettricisti** freelance chiedere in capitaineria a Nassau/Marsh Harbour/George Town — referenze variabili, pagare solo a lavoro finito. ★★
+> Para **velas / massame / ferragens especialistas**: nenhum loft estável nas Bahamas — **DADO EM FALTA** para veleiro local; apoio padrão na **Flórida (Fort Lauderdale)**. Para **frigoristas / eletricistas** freelance perguntar na capitania em Nassau/Marsh Harbour/George Town — referências variáveis, pagar apenas após conclusão. ★★
 
-## Altri operatori utili
+## Outros operadores úteis
 
-- **Grand Bahama Shipyard — Freeport** — bacino 27.600T per grandi navi/mega-yacht, lavorazioni industriali. ★★★★★
-- **Brown's Exuma — George Town** — solo tender/piccole barche (10k lbs). ★★★
-- **Chandler Florida**: **West Marine, Defender, Sailorman (Fort Lauderdale)** — per ordini con spedizione su Nassau via freight forwarder. ★★★★
+- **Grand Bahama Shipyard — Freeport** — doca 27.600T para grandes navios/mega-iates, trabalhos industriais. ★★★★★
+- **Brown's Exuma — George Town** — apenas tenders/pequenas embarcações (10k lbs). ★★★
+- **Lojas Flórida**: **West Marine, Defender, Sailorman (Fort Lauderdale)** — para encomendas com envio para Nassau via freight forwarder. ★★★★
 
-## Dove si trova cosa
+## Onde encontrar o quê
 
-- **Motoristica / generatori**: **Lightbourne Marine** (East Bay St.) è il riferimento centrale per fuoribordo/entrobordo leggeri e KOHLER. Per diesel pesanti: **Compass Marine** (mobile 24/7) e **Bradford Marine** a Freeport. ★★★★
-- **Vele**: **DATO MANCANTE** — ordinare in Florida.
-- **Antifouling / carenaggio**: **Brown's (Nassau, 40T)** o **R&B (Spanish Wells, 120T)** per barche medie; **Bradford (150T + dry dock)** per grandi. ★★★★
-- **Elettronica**: **DATO MANCANTE** per dealer Raymarine/Garmin locale stabile — verificare a Nassau o ordinare USA. ★★
+- **Motores / geradores**: **Lightbourne Marine** (East Bay St.) é a referência central para fora de borda/interiores leves e KOHLER. Para diesel pesados: **Compass Marine** (móvel 24/7) e **Bradford Marine** em Freeport. ★★★★
+- **Velas**: **DADO EM FALTA** — encomendar na Flórida.
+- **Antifouling / carena**: **Brown's (Nassau, 40T)** ou **R&B (Spanish Wells, 120T)** para barcos médios; **Bradford (150T + doca seca)** para grandes. ★★★★
+- **Eletrónica**: **DADO EM FALTA** para dealer local estável Raymarine/Garmin — verificar em Nassau ou encomendar nos EUA. ★★
 
-## Negozi di attrezzature e shipchandler
+## Lojas de equipamentos e shipchandler
 
-| Negozio | Cosa trovi | Marchi notevoli | Tel | Mail / sito | Sede & orari | Recensioni |
+| Loja | O que encontra | Marcas notáveis | Tel | Mail / site | Sede & horários | Avaliações |
 |---|---|---|---|---|---|---|
-| **Lightbourne Marine — Ship Store** | Motori, ricambi, ferramenta inox, equipaggiamento | **Mercury, Honda, KOHLER** | 242-393-5285 | lightbournemarine.com | 63 East Bay St., Nassau | ★★★★ |
-| **Harbourside Marine** | Chandler generale, accessori, pesca | **DATO MANCANTE** | 242-393-3461 | — | East Bay St., Nassau | ★★★ |
-| **Compass Marine (parts)** | Ricambi diesel, filtri, parti motore | **MTU, Cummins, Volvo, Yanmar** | **DATO MANCANTE** | — | Nassau — consegna in marina | ★★★★ |
-| **Budget Marine / Island Water World** | **DATO MANCANTE** nelle Bahamas — presenti solo in altre isole caraibiche | — | — | — | — | — |
+| **Lightbourne Marine — Ship Store** | Motores, peças, ferragens inox, equipamento | **Mercury, Honda, KOHLER** | 242-393-5285 | lightbournemarine.com | 63 East Bay St., Nassau | ★★★★ |
+| **Harbourside Marine** | Chandler geral, acessórios, pesca | **DADO EM FALTA** | 242-393-3461 | — | East Bay St., Nassau | ★★★ |
+| **Compass Marine (parts)** | Peças diesel, filtros, peças motor | **MTU, Cummins, Volvo, Yanmar** | **DADO EM FALTA** | — | Nassau — entrega na marina | ★★★★ |
+| **Budget Marine / Island Water World** | **DADO EM FALTA** nas Bahamas — presentes apenas noutras ilhas caribenhas | — | — | — | — | — |
 
-## Note pratiche
+## Notas práticas
 
-- **Pagamenti**: molti artigiani accettano **USD cash, bonifico USA, carta Visa/Mastercard**; per piccoli interventi contante. Chiedere sempre fattura (utile per dogana/assicurazione).
-- **Tempi**: ricambi da USA = **1–3 settimane** con freight forwarder + sdoganamento **VAT 10% + dazio 10–45%**. Ordinare con largo anticipo. Pratica comune: spedire in **Florida** e portare a bordo al rientro. ★★★
-- **Energia di bordo**: batterie litio, inverter, solare — **DATO MANCANTE** per installatore locale specializzato — verificare con Compass Marine o portare tecnico dalla Florida. ★★
-- **Antivegetativa**: marche USA (Interlux, Pettit) a Nassau/Freeport — prezzi **+30% vs USA**. Il carenaggio si fa a Brown's o R&B o Bradford secondo LOA. ★★
+- **Pagamentos**: muitos artesãos aceitam **USD cash, transferência USA, cartão Visa/Mastercard**; para pequenos trabalhos numerário. Pedir sempre fatura (útil para alfândega/seguro).
+- **Prazos**: peças dos EUA = **1–3 semanas** com freight forwarder + alfândega **VAT 10% + taxa 10–45%**. Encomendar com antecedência. Prática comum: enviar para a **Flórida** e trazer a bordo no regresso. ★★★
+- **Energia de bordo**: baterias lítio, inversor, solar — **DADO EM FALTA** para instalador local especializado — verificar com Compass Marine ou trazer técnico da Flórida. ★★
+- **Antifouling**: marcas USA (Interlux, Pettit) em Nassau/Freeport — preços **+30% vs EUA**. A carenagem faz-se na Brown's ou R&B ou Bradford conforme LOA. ★★
 
-Ultimo aggiornamento: 24/08/2026
+Última atualização: 24/08/2026

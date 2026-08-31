@@ -1,44 +1,44 @@
-# 04 — Servizi, cantieri e manutenzione
+# 04 — Servicios, varaderos y mantenimiento
 
-**Ultimo aggiornamento: 21/08/2026**
+**Última actualización: 21/08/2026**
 
-## Marina Bas-du-Fort (Pointe-à-Pitre) — hub tecnico
+## Marina Bas-du-Fort (Pointe-à-Pitre) — hub técnico
 
-Gestione Compagnie Générale Portuaire (CGP). ★★★★
+Gestión Compagnie Générale Portuaire (CGP). ★★★★
 
-| Servizio | Dettaglio |
+| Servicio | Detalle |
 |---|---|
-| Posti | 1200 (70 visitatori + 40 coffers); profondità 4,5 m |
-| Travelift | **35 t** + gru 2,5 t |
-| Carenaggio | Centro carenaggio + **dock flottante 700 t (45×20 m)**; 6.000 m² zona tecnica |
-| A terra | Acqua, elec 110–220–380 V, ghiaccio, wifi, lavanderia, sanitari, pompa acque nere, raccolta oli |
-| Sicurezza | Videosorveglianza, guardia notturna in stagione |
-| Fuel dock | 8h–12h / 14h–18h |
-| Contatti | VHF 9 (7h–9h) · +590 590 936 620 · contact@marinaguadeloupe.com · marinaguadeloupe.com |
+| Plazas | 1200 (70 visitantes + 40 boyas); calado 4,5 m |
+| Travelift | **35 t** + grúa 2,5 t |
+| Carena | Centro de carena + **dock flotante 700 t (45×20 m)**; 6.000 m² zona técnica |
+| En tierra | Agua, elec 110–220–380 V, hielo, wifi, lavandería, sanitarios, bomba de aguas negras, recogida de aceites |
+| Seguridad | Videovigilancia, guardia nocturna en temporada |
+| Gasolinera | 8h–12h / 14h–18h |
+| Contactos | VHF 9 (7h–9h) · +590 590 936 620 · contact@marinaguadeloupe.com · marinaguadeloupe.com |
 | Concierge | Guadeloupe Yacht Concierge +590 690 72 88 09 |
 
-Note dai crocieristi: porto ben protetto ma **odore di fogne segnalato** in alcuni periodi; ponti nord chiusi fino a nuovo avviso. ★★★★
+Notas de cruceristas: puerto bien protegido pero **olor a alcantarilla señalado** en algunos periodos; pantalanes norte cerrados hasta nuevo aviso. ★★★★
 
-## Caraïbes Docks Services (chantier naval)
+## Caraïbes Docks Services (astillero)
 
-Carénage, riparazione e manutenzione navale. Tel **+590 690 61 78 25** ·. Recensioni miste sulla pulizia delle strutture; personale non sempre anglofono. ★★★
+Carenado, reparación y mantenimiento naval. Tel **+590 690 61 78 25** ·. Reseñas mixtas sobre limpieza de las instalaciones; personal no siempre anglófono. ★★★
 
 ## Jarry (Baie-Mahault)
 
-La maggiore zona industriale/commerciale dei Caraibi (3.500 imprese): fornitori industriali, refrigerazione, elettronica, concessionarie. Qui si trovano pezzi che altrove nelle Piccole Antille mancano. ★★
+La mayor zona industrial/comercial del Caribe (3.500 empresas): proveedores industriales, refrigeración, electrónica, concesionarios. Aquí se encuentran piezas que en otras partes de las Antillas Menores faltan. ★★
 
-## Gas e bombole
+## Gas y bombonas
 
-Scambio bottiglie standard francesi (butane/propane) a Jarry e nei punti Super U; attenzione ai raccordi. Niente rabbocco. ★★
+Intercambio de botellas estándar francesas (butano/propano) en Jarry y en puntos Super U; atención a los racores. No hay recarga. ★★
 
-## Acqua dolce
+## Agua dulce
 
-Water dock a Marina Bas-du-Fort (incluso nel posto), Saint-François, Deshaies (pontile municipio), Rivière Sens. ★★
+Aguada en Marina Bas-du-Fort (incluida en la plaza), Saint-François, Deshaies (pantalán del ayuntamiento), Rivière Sens. ★★
 
-## Note strategiche
+## Notas estratégicas
 
-- **Confronto con la Martinica**: per lavori importanti (rigging completo, motoristica pesante, verniciature professionali) molti crocieristi continuano a usare **Le Marin**: travelift 70 t vs 35 t, più artigiani specializzati. La Guadalupa vince per posizione (più a nord verso Antigua/Saint-Martin) e costi leggermente inferiori.
-- **Hivernage**: posti a secco limitati; prenotare con largo anticipo per giugno–novembre; assicurazioni richiedono piano uragano scritto (dock flottante o ashore).
+- **Comparación con Martinica**: para trabajos importantes (jarcia completa, mecánica pesada, pinturas profesionales) muchos cruceristas siguen usando **Le Marin**: travelift 70 t vs 35 t, más artesanos especializados. Guadalupe gana por posición (más al norte hacia Antigua/Saint-Martin) y costes ligeramente inferiores.
+- **Invernaje**: plazas en seco limitadas; reservar con mucha antelación para junio–noviembre; los seguros exigen plan anti-huracanes escrito (dock flotante o en tierra).
 
-## Hub tecnico
-Ultimo aggiornamento: 22/08/2026
+## Hub técnico
+Última actualización: 22/08/2026

@@ -1,48 +1,47 @@
-# 00 — Ingresso, documenti e visti
+# 00 — Einreise, Dokumente und Visa
 
-**Ultima verifica: 24/08/2026** · Bahamas — Commonwealth, ex colonia britannica indipendente dal 1973
+**Letzte Überprüfung: 24/08/2026** · Bahamas — Commonwealth, ehemalige britische Kolonie, unabhängig seit 1973
 
 ## Status
 
-Le Bahamas sono uno stato insulare indipendente (700 isole e cays). Per i cittadini italiani/UE il turismo è **senza visto**. ★★★★★
+Die Bahamas sind ein unabhängiger Inselstaat (700 Inseln und Cays). Für italienische/EU-Bürger ist der Tourismus **visumfrei**. ★★★★★
 
-## Cittadini italiani / UE — turismo senza visto
+## Italienische / EU-Bürger — visumfreier Tourismus
 
-| Voce | Regola | Fonte |
+| Punkt | Regel | Quelle |
 |---|---|---|
-| Visto turistico | **Non richiesto** per cittadini italiani/UE: ingresso consentito fino a **90 giorni** con timbro all'arrivo | Bahamas Immigration ★★★★★ |
-| Passaporto | **Passaporto con validità residua ≥6 mesi** dalla data di arrivo — obbligatorio | Bahamas Immigration ★★★★★ |
-| Biglietto di ritorno/prosecuzione | Richiesto **biglietto aereo o prova di partenza** entro il periodo concesso | Bahamas Immigration ★★★★ |
-| Prova di fondi | Può essere richiesta **prova di mezzi finanziari** sufficienti al soggiorno | Bahamas Immigration ★★★★ |
-| Immigration Card | **Carta d'immigrazione** rilasciata all'arrivo (ex Bahamas Customs Declaration / Immigration Card) — da conservare | Bahamas Immigration ★★★★ |
-| Minori | Se viaggia un solo genitore o con terzi: **lettera di consenso notarizzata** dell'altro genitore/tutore + eventuale prova di custodia | Bahamas Immigration ★★★★ |
+| Touristenvisum | **Nicht erforderlich** für italienische/EU-Bürger: Einreise bis zu **90 Tagen** mit Stempel bei Ankunft gestattet | Bahamas Immigration ★★★★★ |
+| Reisepass | **Reisepass mit Restgültigkeit ≥6 Monate** ab Ankunftsdatum — Pflicht | Bahamas Immigration ★★★★★ |
+| Rück-/Weiterflugticket | **Rückflugticket oder Nachweis der Weiterreise** innerhalb des gewährten Zeitraums erforderlich | Bahamas Immigration ★★★★ |
+| Nachweis finanzieller Mittel | **Nachweis ausreichender finanzieller Mittel** für den Aufenthalt kann verlangt werden | Bahamas Immigration ★★★★ |
+| Einreisekarte | **Einreisekarte (Immigration Card)** bei Ankunft ausgestellt (ex Bahamas Customs Declaration / Immigration Card) — aufbewahren | Bahamas Immigration ★★★★ |
+| Minderjährige | Reist nur ein Elternteil oder mit Dritten: **notariell beglaubigtes Einverständnisschreiben** des anderen Elternteils/Vormunds + ggf. Sorgerechtsnachweis | Bahamas Immigration ★★★★ |
 
-## Estensione del soggiorno
+## Verlängerung des Aufenthalts
 
-| Situazione | Regola | Fonte |
+| Situation | Regel | Quelle |
 |---|---|---|
-| Soggiorno oltre 90 giorni | Richiesta di **estensione fino a 8 mesi totali** presso il **Department of Immigration** a Nassau o uffici distaccati (Freeport, ecc.) — domanda prima della scadenza, approvazione discrezionale | Bahamas Immigration ★★★★ |
-| Lavoro / residenza | **Non consentito** con ingresso turistico — serve permesso specifico prima dell'arrivo | Bahamas Immigration ★★★★★ |
-| Soggiorno barca | La barca con **cruising permit valido 12 mesi** può rimanere anche se le persone devono estendere o uscire/rientrare — vedi [01 — Clearance](01-clearance.md) | Bahamas Customs ★★★★★ |
+| Aufenthalt über 90 Tage hinaus | Antrag auf **Verlängerung bis zu insgesamt 8 Monaten** beim **Department of Immigration** in Nassau oder Außenstellen (Freeport usw.) — vor Ablauf beantragen, Genehmigung nach Ermessen | Bahamas Immigration ★★★★ |
+| Arbeit / Wohnsitz | **Nicht gestattet** mit touristischer Einreise — spezielles Permit vor Ankunft erforderlich | Bahamas Immigration ★★★★★ |
+| Aufenthalt des Bootes | Das Boot mit **gültigem 12-Monate-Cruising Permit** darf bleiben, auch wenn die Crew verlängern oder aus-/wieder einreisen muss — siehe [01 — Clearance](01-clearance.md) | Bahamas Customs ★★★★★ |
 
-## La barca: cruising permit e documenti
+## Das Boot: Cruising Permit & Dokumente
 
-Il natante straniero da diporto deve ottenere un **cruising permit / FDCC** all'arrivo tramite Click2Clear (solo digitale dal 22/02/2021). Validità standard **12 mesi** per il Temporary Cruising Permit, **2 anni** per il Frequent Digital Cruising Card (FDCC) per chi rientra spesso — dettagli costi e opzioni in [01 — Clearance](01-clearance.md). Tenere a bordo: registrazione/documentazione nave, assicurazione (raccomandata), lista equipaggio. ★★★★★
+Ausländische Sportboote müssen bei Ankunft über Click2Clear ein **Cruising Permit / FDCC** einholen (nur digital seit 22.02.2021). Standardgültigkeit **12 Monate** für das Temporary Cruising Permit, **2 Jahre** für die Frequent Digital Cruising Card (FDCC) für häufige Wiedereinreisen — Details zu Kosten und Optionen in [01 — Clearance](01-clearance.md). An Bord mitführen: Bootsregistrierung/Eigentumsnachweis, Versicherung (empfohlen), Crewliste. ★★★★★
 
-## Sanità e vaccini
+## Gesundheit & Impfungen
 
-| Voce | Regola | Fonte |
+| Punkt | Regel | Quelle |
 |---|---|---|
-| Vaccini obbligatori da UE/Italia | **Nessuno** richiesto per arrivi diretti da Europa/Italia/USA | Bahamas Ministry of Health / WHO ★★★★★ |
-| Febbre gialla | **Obbligatoria solo se** si arriva (anche solo transito >12h) da area endemica: **34 paesi africani + Sud America + Panama**. In quel caso serve **certificato internazionale di vaccinazione** | WHO / Bahamas Health ★★★★★ |
-| COVID-19 | **Nessuna restrizione, nessun test/certificato** richiesto all'ingresso | Bahamas Health ★★★★★ |
-| Vaccini raccomandati | Routine aggiornate (tetano, epatite A/B secondo parere medico) — nessuna imposizione all'ingresso | WHO ★★★ |
+| Pflichtimpfungen aus EU/Italien | **Keine** erforderlich bei Direktanreise aus Europa/Italien/USA | Bahamas Ministry of Health / WHO ★★★★★ |
+| Gelbfieber | **Nur Pflicht, wenn** Einreise (auch Transit >12h) aus Endemiegebiet: **34 afrikanische Länder + Südamerika + Panama**. Dann **internationales Impfzertifikat** erforderlich | WHO / Bahamas Health ★★★★★ |
+| COVID-19 | **Keine Beschränkungen, kein Test/Zertifikat** bei Einreise erforderlich | Bahamas Health ★★★★★ |
+| Empfohlene Impfungen | Routineimpfungen aktuell (Tetanus, Hepatitis A/B nach ärztlichem Rat) — keine Auflagen bei Einreise | WHO ★★★ |
 
-> ⚠️ Sempre verificare prima della partenza su sito ufficiale Bahamas Immigration e Bahamas Ministry of Health: le regole sui minori e sulla febbre gialla sono applicate con rigore in frontiera.
+> ⚠️ Immer vor Abreise auf den offiziellen Websites von Bahamas Immigration und Bahamas Ministry of Health prüfen: Die Regeln zu Minderjährigen und Gelbfieber werden an der Grenze streng angewendet.
 
-Ultimo aggiornamento: 24/08/2026
+Letzte Aktualisierung: 24/08/2026
 
-## Cittadini UE
+## EU-Bürger
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
+**DATEN FEHLEN** — beim monatlichen Check zu ergänzen.

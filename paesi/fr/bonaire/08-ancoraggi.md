@@ -6,7 +6,7 @@
 
 ## Règles générales de mouillage (avant tout)
 
-- **Àncora ovunque vietata nel Parco**: non calare mai l'àncora su sabbia/corallo/erba — neanche "un attimo" per bagno o tender. Le linee di ormeggio sono doppie cime leggere su blocchi di cemento: ispezionatele in immersione e, se necessario, aggiungete una vostra cima di sicurezza ★★★ · [Noonsite — Bonaire](https://www.noonsite.com/place/bonaire/view/yachting-essentials) ★★★
+- **Àncora ovunque vietata nel Parco**: non calare mai l'àncora su sabbia/corallo/erba — neanche "un attimo" per bagno o tender. Le linee di ormeggio sono doppie cime leggere su blocchi di cemento: ispezionatele in immersione e, se necessario, aggiungete una vostra cima di sicurezza ★★★ · Sources plaisance agrégées ★★★
 - **Velocità nel Parco**: 10 km/h dentro il BNMP; 20 km/h fuori fino a 12 miglia dalla costa; **5 km/h nei campi boe e nei porti/bacini**; distanza minima **50 m da ogni barca alla boa** ★★★★★ · [STINAPA — Boating](https://stinapabonaire.org/rules-and-regulations/boating/) ★★★★★
 - **Navigare lato mare delle boe**: nel BNMP restare sempre sul lato mare (blu scuro) delle boe gialle di ormeggio/diving; mai passare tra le boe e la costa (acque azzurre protette) e mai spiaggiare la barca ★★★★★ · [STINAPA — Boating](https://stinapabonaire.org/rules-and-regulations/boating/) ★★★★★ · [Blue Bay Bonaire — Instructions on the Water](https://www.bluebaybonaire.com/instructions-on-the-water) ★★★
 - **Boe pubbliche gialle/blu (day-use)**: max **2 h consecutive**, first-come first-served, **una barca >4 m per boa** (oppure fino a 3 tender <4 m), **max 13 m** ★★★★★ · [STINAPA — Mooring](https://stinapabonaire.org/rules-and-regulations/mooring/) ★★★★★

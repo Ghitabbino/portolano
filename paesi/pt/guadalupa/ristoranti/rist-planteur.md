@@ -1,29 +1,29 @@
 # Le Planteur
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Todos os restaurantes](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Campo | Detalhe |
 |---|---|
 | Zona | Gosier |
-| Cucina | 🥩 Poulet boucané |
-| Specialità | Poulet boucané · ouassous |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🌴 corte creola |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Planteur+Gosier) |
-| Contatti | [Mappa](https://www.google.com/maps/search/?api=1&query=Le+Planteur+Gosier) |
-| Valutazioni | Google positive → ★★★★ |
-| Orari | pranzo · cena weekend ⚠️ |
+| Cozinha | 🥩 Frango defumado |
+| Especialidade | Frango defumado · camarões de água doce |
+| Custo | 💰€€ por pessoa sem bebidas |
+| Local | 🌴 pátio crioulo |
+| Mapa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Planteur+Gosier) |
+| Contactos | [Mapa](https://www.google.com/maps/search/?api=1&query=Le+Planteur+Gosier) |
+| Avaliações | Google — avaliações positivas → ★★★★ |
+| Horário | almoço · jantar ao fim de semana ⚠️ |
 
 ## Menu
 
-- Poulet boucané
+- Frango defumado
 - Lambi
-- Ouassous
+- Camarões de água doce
 
 **Chef**: ND
 
-## Foto
+## Fotos
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Fotos ainda não disponíveis — a recolher no controlo mensal.*
 
-**Note**: Tappa comoda dall'Îlet du Gosier ⚠️ verificare approdo · da 20 €
+**Notas**: Paragem cómoda a partir de Îlet du Gosier ⚠️ verificar desembarque · a partir de 20 €

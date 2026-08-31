@@ -12,7 +12,7 @@ Gli italiani/UE entrano **senza visto e senza limiti di tempo**: essendo territo
 
 ## Note importante pour l’arrivée par mer
 
-- Dal **1° settembre 2024** (decreto prefettizio 5/8/2024) la clearance delle Antille francesi è **online**: dichiarazione gratuita su [demarches-simplifiees.fr](https://www.demarches-simplifiees.fr/commencer/declaration-clearance-antilles), profilo riutilizzabile per tutte le isole francesi, sia all'arrivo che alla partenza; certificato via email con timbro digitale. Noonsite ★★★ · yachtingstmaarten.com ★★★
+- Dal **1° settembre 2024** (decreto prefettizio 5/8/2024) la clearance delle Antille francesi è **online**: dichiarazione gratuita su [demarches-simplifiees.fr](https://www.demarches-simplifiees.fr/commencer/declaration-clearance-antilles), profilo riutilizzabile per tutte le isole francesi, sia all'arrivo che alla partenza; certificato via email con timbro digitale. Sources plaisance agrégées ★★★ · yachtingstmaarten.com ★★★
 - Alternative a terra (€5 con il terminale): Marina Fort Louis a Marigot, bornes digitali, ufficio portuale del terminal traghetti, Anse Marcel. Horaires ufficio: 9:00–11:30 / 14:00–16:00.
 - Qui il documento digitale basta: nessun timbro "bagnato" richiesto (eccezione francese: Saint-Barth).
 - Documents barca: registrazione originale, polizza assicurativa, crew list con passaporti, clearance del porto precedente.

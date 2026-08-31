@@ -8,7 +8,7 @@ Questa pagina riguarda le **British Virgin Islands** (territorio d'oltremare bri
 
 ## Citoyens UE — pas de visa, 1 mese tipico
 
-Senza visto; il timbro d'ingresso è di norma di **1 mese**, estendibile. Passeport consigliato valido 6 mesi (prassi dei territori britannici). [Noonsite](https://www.noonsite.com/place/british-virgin-islands/) ★★★
+Senza visto; il timbro d'ingresso è di norma di **1 mese**, estendibile. Passeport consigliato valido 6 mesi (prassi dei territori britannici). Sources plaisance agrégées ★★★
 
 ⚠️ Superato il mese circa, la barca può divenire soggetta a diritti di importazione temporanea (~US$200) — Yachting Monthly, dic 2025 ★★★
 
@@ -25,7 +25,7 @@ Il timbro è estendibile presso l'immigrazione locale; dettagli su durata e cost
 
 ## Le bateau
 
-Indicativi per unità privata biposto (Noonsite 2026 ★★★):
+Indicativi per unità privata biposto (Sources plaisance agrégées 2026 ★★★):
 
 | Rubrique | Coût |
 |---|---|

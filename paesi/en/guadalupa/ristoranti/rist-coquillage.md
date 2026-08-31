@@ -5,24 +5,24 @@
 | Field | Detail |
 |---|---|
 | Area | Sainte-Anne |
-| Cuisine | 🐟 Frutti of mare |
-| Speciality | Crustacés · pesce |
-| Cost | 💰€€ for persona without bevande |
-| Setting | 🏖️ fronte spiaggia |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Coquillage+Sainte-Anne) |
-| Contacts | [Scheda TripAdvisor](https://www.tripadvisor.fr/Restaurant_Review-g147303-d6354134-Reviews-Le_Coquillage-Sainte_Anne_Grande_Terre_Island_Guadeloupe.html) |
-| Ratings | Google 4,5/5 (199) → ★★★★½ |
-| Hours | pranzo and cena · orari stagionali ⚠️ |
+| Cuisine | 🐟 Seafood |
+| Speciality | Shellfish · fish |
+| Cost | 💰€€ per person without drinks |
+| Setting | 🏖️ beachfront |
+| Map | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Coquillage+Sainte-Anne) |
+| Contacts | [TripAdvisor page](https://www.tripadvisor.fr/Restaurant_Review-g147303-d6354134-Reviews-Le_Coquillage-Sainte_Anne_Grande_Terre_Island_Guadeloupe.html) |
+| Ratings | Google 4.5/5 (199) → ★★★★½ |
+| Hours | lunch and dinner · seasonal hours ⚠️ |
 
 ## Menu
 
-- Crustacés
-- Pesce
+- Shellfish
+- Fish
 
 **Chef**: ND
 
-## Foto
+## Photos
 
-*Foto non still disponibili — recuperare at the controllo mensile.*
+*No photos available yet — to be added on monthly check.*
 
-**Note**: Per gli amanti of the frutti of mare
+**Notes**: For seafood lovers

@@ -2,7 +2,7 @@
 
 [← Tutti i ristoranti](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Campo | Detalhe |
 |---|---|
 | Zona | Christ Church — Rockley / Accra Beach (tra Bridgetown e Oistins) |
 | Cucina | 🐟 Pesce creolo contemporaneo + 🍽️ internazionale |
@@ -27,4 +27,4 @@
 
 Fonti: [barbados.org — Champers](https://barbados.org/orestloc.htm) ★★★ · [Totally Barbados — Champers](https://www.totallybarbados.com/place/champers-restaurant/) ★★★ · [champersbarbados.com](https://www.champersbarbados.com) ★★★ · TripAdvisor 28/08/2026 ★★★
 
-Ultimo aggiornamento: 28/08/2026
+Última atualização: 28/08/2026

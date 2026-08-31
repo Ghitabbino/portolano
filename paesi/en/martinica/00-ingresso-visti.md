@@ -4,46 +4,46 @@
 
 ## Status
 
-La Martinica è un **dipartimento francese d'oltremare (DROM)**: parte dell'UE (regione ultraperiferica) ma **outside the Schengen Area**.
+Martinique is a **French overseas department (DROM)**: part of the EU as an outermost region but **outside the Schengen Area**.
 
-## EU Citizens — Visa-Free
+## EU Citizens — No Visa Required
 
 | Item | Rule | Source |
 |---|---|---|
-| Visto | **Non richiesto** per soggiorni fino a 3 mesi | Service-Public F10610, verificato 20/11/2024 ★★★★★ |
-| Documenti | **Carta d'identità o passaporto in corso di validità** | Service-Public F398, verificato 26/08/2025 ★★★★★ |
-| Soggiorno | Fino a 3 mesi senza formalità particolari; basta un documento d'identità valido in caso di controllo | Service-Public F10610 ★★★★★ |
+| Visa | **Not required** for stays up to 3 months | Service-Public F10610, checked 20/11/2024 ★★★★★ |
+| Documents | **Valid national ID card or passport** | Service-Public F398, checked 26/08/2025 ★★★★★ |
+| Stay | Up to 3 months with no special formalities; a valid ID is enough if checked | Service-Public F10610 ★★★★★ |
 
-⚠️ **Attenzione al transito**: se il viaggio verso/dalla Martinica passa da un paese **extra-UE/extra-Schengen** (es. Sint Maarten, Regno Unito), serve il **passaporto**, anche se si resta in zona internazionale. [Service-Public F398 ★★★★★]
+⚠️ **Transit warning**: if your route to/from Martinique transits a **non-EU / non-Schengen** country (e.g. Sint Maarten, United Kingdom), you need a **passport** even if you remain airside. [Service-Public F398 ★★★★★]
 
 ## Important Note for Arrival by Sea
 
-- I controlli **persone** (police) sono separati dalla **clearance della barca** (dogane): la clearance è obbligatoria per TUTTI i natanti che arrivano da/portano verso l'estero, indipendentemente dalla nazionalità dell'equipaggio → see [01 — Clearance](01-clearance.md).
-- In caso di arrivo diretto da un'isola estera (es. Santa Lucia), tenere pronti documenti identità di tutto l'equipaggio: la dichiarazione online li richiede (nome, data nascita, nazionalità, n° documento). [ 2024, martinique.gouv.fr ★★★★★]
+- **People checks** (Police aux Frontières) are separate from **yacht clearance** (Customs): clearance is mandatory for ALL vessels arriving from / departing to abroad, regardless of crew nationality → see [01 — Clearance](01-clearance.md).
+- If arriving directly from a foreign island (e.g. Saint Lucia), have ID documents for all crew ready: the online declaration requires them (full name, date of birth, nationality, document number). [2024, martinique.gouv.fr ★★★★★]
 
-## Beyond 3 Months? (Italian/EU Citizens)
+## Beyond 3 Months? (EU Citizens)
 
-**Nessuna formalità da completare**: non esiste un permesso di soggiorno da rinnovare né un limite da estendere.
+**No formalities required**: there is no residence permit to renew nor a limit to extend.
 
 | Situation | Rule | Source |
 |---|---|---|
-| Soggiorno turistico oltre 3 mesi | Per i cittadini UE/Svizzera **non c'è un limite specifico** ai soggiorni turistici; la "carte de séjour" in Francia è **facoltativa**, mai obbligatoria | Les Îles de Guadeloupe (comitato turismo ufficiale), 04/06/2025 ★★★★; Service-Public F22116 (carte de séjour UE facoltativa) ★★★★★ |
-| Quota Schengen 90/180 | **Non si applica**: le Antille francesi sono outside the Schengen Area (art. 138 Convenzione di applicazione Schengen) — i giorni qui NON consumano la quota europea; viceversa un visto Schengen non vale per le Antille | immigration.interieur.gouv.fr, "Les visas pour l'outre-mer" (I visti per l'oltremare) ★★★★★ |
-| Condizioni per soggiorni lunghi | Come ovunque in UE (direttiva 2004/38): risorse sufficienti e assicurazione malattia per il periodo; nessun atto da presentare se non si chiede volontariamente un titolo | Service-Public F10610 ★★★★★ |
+| Tourist stay beyond 3 months | For EU/Swiss citizens **there is no specific limit** on tourist stays; the *carte de séjour* in France is **optional**, never mandatory | Les Îles de Guadeloupe (official tourist board), 04/06/2025 ★★★★; Service-Public F22116 (EU carte de séjour optional) ★★★★★ |
+| Schengen 90/180 quota | **Does not apply**: the French Antilles are outside the Schengen Area (Art. 138 Schengen Implementing Convention) — days spent here do NOT count toward the European quota; conversely a Schengen visa is not valid for the Antilles | immigration.interieur.gouv.fr, "Visas for overseas territories" ★★★★★ |
+| Conditions for long stays | As everywhere in the EU (Directive 2004/38): sufficient means and health insurance for the period; no document to file unless you voluntarily request a title | Service-Public F10610 ★★★★★ |
 
-In pratica: **si può restare a tempo indeterminato** (turismo) con carta d'identità valida. Se si lavora localmente o ci si stabilisce, cambiano le regole fiscali/residenziali — allora serve consulenza specifica.
+In practice: **you can stay indefinitely** (as a tourist) with a valid ID card. If you take local employment or establish residence, tax/residency rules change — seek specific advice.
 
-## The Yacht: nessun limite di permanenza
+## The Yacht: No Time Limit
 
 | Yacht | Rule | Source |
 |---|---|---|
-| **UE con IVA pagata** (caso tipico: barca italiana) | Territorio doganale UE → **libera circolazione, nessun limite di tempo, nessun cruising permit**. Solo la clearance dichiarativa online all'arrivo/partenza extra-UE | douane.gouv.fr, regime UE ★★★★★ |
-| Extra-UE | **Admission Temporaire (AT)**: max **18 mesi** nel territorio doganale UE (artt. 250–253 CDU); si rinnova uscendo dal territorio UE (tocco porto terzo = prova); tetto cumulativo 10 anni. In Antille valida anche nel Marché Unique Antillais/OECS | douane.gouv.fr "Régime particulier : l'admission temporaire" (Regime particolare: ammissione temporanea), agg. 15/02/2024 ★★★★★; Codice Doganale UE art. 251 ★★★★★; bateaux-antilles.fr ★★★ |
+| **EU VAT-paid** (typical case: Italian/French-flagged yacht) | EU customs territory → **free movement, no time limit, no cruising permit**. Only the online declarative clearance on arrival/departure from outside the EU | douane.gouv.fr, EU regime ★★★★★ |
+| Non-EU | **Temporary Admission (TA)**: max **18 months** within the EU customs territory (Arts. 250–253 UCC); renewed by exiting EU territory (call at a third-country port = proof); 10-year cumulative cap. In the Antilles also valid within the Single Market of the Antilles/OECS | douane.gouv.fr "Régime particulier : l'admission temporaire", updated 15/02/2024 ★★★★★; EU Customs Code Art. 251 ★★★★★; bateaux-antilles.fr ★★★ |
 
-⚠️ Barca extra-UE sotto AT: niente noleggio, niente vendita in UE, uso esclusivamente privato da parte di residenti extra-UE — la violazione comporta tassazione immediata del natante. ★★★★★
+⚠️ Non-EU yacht under TA: no charter, no sale inside the EU, strictly private use by non-EU residents — breach triggers immediate taxation of the vessel. ★★★★★
 
 ## Vaccinations
 
-Nessun vaccino obbligatorio per ingresso da paesi UE. Raccomandata protezione antilarvale (dengue presente). ★★★
+No mandatory vaccination for entry from EU countries. Mosquito protection recommended (dengue present). ★★★
 
 Last updated: 22/08/2026

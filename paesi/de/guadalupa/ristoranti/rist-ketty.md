@@ -1,27 +1,27 @@
 # Chez Ketty
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Alle Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Feld | Detail |
 |---|---|
-| Zona | Deshaies |
-| Cucina | 🐟 Langouste grigliata |
-| Specialità | Langouste (prenotarla al mattino) |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🌴 case créole in giardino |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chez+Ketty+Deshaies) |
-| Contatti | +590 690 69-3539 |
-| Valutazioni | Google 4,7/5 (217) → ★★★★★ |
-| Orari | lun 19–22 · gio–dom 12–22 · chiuso mar/mer |
+| Gebiet | Deshaies |
+| Küche | 🐟 Gegrillte Languste |
+| Spezialität | Languste (morgens vorbestellen) |
+| Preis | 💰€€ pro Person ohne Getränke |
+| Lage | 🌴 Kreolhütte im Garten |
+| Karte | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chez+Ketty+Deshaies) |
+| Kontakt | +590 690 69-3539 |
+| Bewertungen | Google 4,7/5 (217) → ★★★★★ |
+| Öffnungszeiten | Mo 19–22 · Do–So 12–22 · geschlossen Di/Mi |
 
-## Menu
+## Menü
 
-- Langouste grigliata
+- Gegrillte Languste
 
 **Chef**: ND
 
-## Foto
+## Fotos
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Noch keine Fotos verfügbar — werden bei der monatlichen Kontrolle ergänzt.*
 
-**Note**: N2 entrée gîtes Migneret
+**Hinweise**: N2 Eingang gîtes Migneret

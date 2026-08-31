@@ -15,6 +15,6 @@
 <div class="mapframe" data-slug="anc-soufriere-rachette" data-lat="13.85" data-lon="-61.06667"></div>
 *Carte détaillée — zoomez jusqu’à la baie · carte hors ligne · coordinate WGS84 indicative, toujours vérifier avec le traceur*
 
-Fonti: SMMA ★★★★ · Noonsite ★★★ · [DA VERIFICARE SATELLITE]
+Fonti: SMMA ★★★★ · Sources plaisance agrégées ★★★ · [DA VERIFICARE SATELLITE]
 
 Dernière mise à jour: 25/08/2026

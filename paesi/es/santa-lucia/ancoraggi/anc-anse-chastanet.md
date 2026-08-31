@@ -15,6 +15,6 @@
 <div class="mapframe" data-slug="anc-anse-chastanet" data-lat="13.8636" data-lon="-61.0844"></div>
 *Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
 
-Fonti: Noonsite ★★★ · [SMMA](https://smmainc.com/yacht-mooring-areas/) ★★★★ · [DA VERIFICARE SATELLITE]
+Fonti: Fuentes náuticas agregadas ★★★ · [SMMA](https://smmainc.com/yacht-mooring-areas/) ★★★★ · [DA VERIFICARE SATELLITE]
 
 Ultimo aggiornamento: 25/08/2026

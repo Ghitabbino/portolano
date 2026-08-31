@@ -5,25 +5,25 @@
 | Champ | Détail |
 |---|---|
 | Zone | Deshaies |
-| Cuisine | 🐟 Creola fronte mare |
+| Cuisine | 🐟 Créole bord de mer |
 | Spécialité | Accras · thon |
-| Coût | 💰€€ per persona senza bevande |
-| Emplacement | 🪶 bordo mare, set TV |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Madras+Deshaies) |
-| Contacts | [Mappa](https://www.google.com/maps/search/?api=1&query=Restaurant+Le+Madras+Deshaies) |
+| Coût | 💰€€ par personne hors boissons |
+| Emplacement | 🪶 bord de mer, décor de série TV |
+| Carte | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Madras+Deshaies) |
+| Contacts | [Carte](https://www.google.com/maps/search/?api=1&query=Restaurant+Le+Madras+Deshaies) |
 | Évaluations | Google 4,3/5 (398) → ★★★★ |
-| Horaires | pranzo tutto l'anno · cena stagionale ⚠️ |
+| Horaires | déjeuner toute l'année · dîner en saison ⚠️ |
 
 ## Menu
 
 - Accras
 - Thon
-- Piatti creoli
+- Plats créoles
 
-**Chef**: ND
+**Chef** : ND
 
 ## Photos
 
-*Photos non ancora disponibili — recuperare al controllo mensile.*
+*Photos non encore disponibles — à récupérer lors du contrôle mensuel.*
 
-**Note**: 7 rue de la Vague Bleue · location della serie “Meurtres au paradis”
+**Notes** : 7 rue de la Vague Bleue · lieu de tournage de « Meurtres au paradis »

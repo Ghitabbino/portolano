@@ -2,7 +2,7 @@
 
 [← Tutti i ristoranti](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Campo | Detalhe |
 |---|---|
 | Zona | Christ Church — Oistins Bay Garden (sul molo) |
 | Cucina | 🐟 / 🥙 Pesce alla griglia & street food bajan |
@@ -27,4 +27,4 @@
 
 Fonti: [barbados.org — Oistins Fish Fry](https://barbados.org/orestloc.htm) ★★★ · [Totally Barbados — Oistins Bay Gardens](https://www.totallybarbados.com/place/oistins-bay-gardens/) ★★★ · [Visit Barbados](https://www.visitbarbados.org) ★★★ · Google/TripAdvisor 28/08/2026 ★★★
 
-Ultimo aggiornamento: 28/08/2026
+Última atualização: 28/08/2026

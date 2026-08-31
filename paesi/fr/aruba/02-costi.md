@@ -4,7 +4,7 @@
 
 Devise: **fiorino arubano (AWG, Afl.)** ancorato a **1 USD = 1,79 AWG (1,80 nei negozi/taxi)**; il dollaro USA è accettato ovunque, il resto spesso in fiorini. Livello prezzi: isola da importazione quasi totale — alimentari **+20–40%** vs USA/Europa continentale, ristorazione turistica cara sulle marine. ★★★ [Numbeo Oranjestad jun 2026; gobierno.aw; taxi.aw/visitaruba.com ★★★★★]
 
-> ⚠️ Le voci di questo elenco sono le stesse per tutti i paesi del portolano. Dove il dato non è stato ancora trovato dalle fonti si scrive **DONNÉE MANQUANTE**: viene ricercato al controllo mensile (vedi [00 Index](../00-indice.md)).
+> ⚠️ Le voci di questo elenco sono le stesse per tutti i paesi del portolano. Dove il dato non è stato ancora trovato dalle fonti si scrive **DONNÉE MANQUANTE**: viene ricercato al controllo mensile (vedi [00 Index](00-indice.md)).
 
 ## Alimentation & avitaillement
 

@@ -5,25 +5,25 @@
 | Field | Detail |
 |---|---|
 | Area | Grand-Bourg |
-| Cuisine | 🐟 Antillana-francese |
-| Speciality | Lambi · dolci at the rum |
-| Cost | 💰€€ for persona without bevande |
-| Setting | 🪶 tradizionale |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Table+du+Père+Labat+Grand-Bourg) |
-| Contacts | [Mappa](https://www.google.com/maps/search/?api=1&query=Pere+Labat+Grand-Bourg+Marie-Galante) |
-| Ratings | Google positive → ★★★★ |
-| Hours | orari legati at the traghetti ⚠️ |
+| Cuisine | 🐟 Antillean-French |
+| Speciality | Conch · rum desserts |
+| Cost | 💰€€ per person without drinks |
+| Setting | 🪶 traditional |
+| Map | [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Table+du+Père+Labat+Grand-Bourg) |
+| Contacts | [Map](https://www.google.com/maps/search/?api=1&query=Pere+Labat+Grand-Bourg+Marie-Galante) |
+| Ratings | Google — positive reviews → ★★★★ |
+| Hours | hours linked to ferry schedule ⚠️ |
 
 ## Menu
 
-- Lambi
-- Boudin
-- Dolci at the rum
+- Conch
+- Blood sausage
+- Rum desserts
 
 **Chef**: ND
 
-## Foto
+## Photos
 
-*Foto non still disponibili — recuperare at the controllo mensile.*
+*No photos available yet — to be added on monthly check.*
 
-**Note**: Vicino at the distillerie Bielle/Poisson · menu 15–30 €
+**Notes**: Near Bielle/Poisson distilleries · menu €15–30

@@ -23,7 +23,7 @@ Valutazione sicurezza
 ## Posti sicuri / da evitare
 
 - **Più sicuri**: baie davanti a marine/resort con sorveglianza e ancoraggi frequentati da cruiser (chiedere in capitaneria). ★★
-- **Da evitare**: spiagge isolate di notte, aree con segnalazioni CSSN/Noonsite. Verificare con marina locale e bollettini recenti. ★★
+- **Da evitare**: spiagge isolate di notte, aree con segnalazioni CSSN/Fonti diportiste aggregate. Verificare con marina locale e bollettini recenti. ★★
 
 
 ## Salvataggio ed emergenze
@@ -36,5 +36,5 @@ Valutazione sicurezza
 
 | Data | Fonte | Azione |
 |---|---|---|
-| 29/08/2026 | GOV.UK, Noonsite, CSSN | Verifica sicurezza — nessuna variazione L3, confermato quadro generale |
+| 29/08/2026 | GOV.UK, Fonti diportiste aggregate, CSSN | Verifica sicurezza — nessuna variazione L3, confermato quadro generale |
 

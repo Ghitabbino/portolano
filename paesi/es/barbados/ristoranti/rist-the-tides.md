@@ -27,4 +27,4 @@
 
 Fonti: [barbados.org — The Tides](https://barbados.org/orestloc.htm) ★★★ · [Totally Barbados — The Tides](https://www.totallybarbados.com/place/the-tides-restaurant/) ★★★ · [thetidesbarbados.com](https://www.thetidesbarbados.com) ★★★ · Google/TripAdvisor 28/08/2026 ★★★
 
-Ultimo aggiornamento: 28/08/2026
+Última actualización: 28/08/2026

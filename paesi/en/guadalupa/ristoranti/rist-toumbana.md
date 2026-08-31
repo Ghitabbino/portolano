@@ -5,25 +5,25 @@
 | Field | Detail |
 |---|---|
 | Area | Terre-de-Haut (Les Saintes) |
-| Cuisine | 🐟 Creola in giardino |
-| Speciality | Langouste · accras |
-| Cost | 💰€€ for persona without bevande |
-| Setting | 🌴 giardino tropicale |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Toumbana+Terre-de-Haut+(Les+Saintes)) |
-| Contacts | [Mappa](https://www.google.com/maps/search/?api=1&query=Toumbana+Terre-de-Haut+Les+Saintes) |
-| Ratings | Google positive → ★★★★ |
-| Hours | pranzo and cena · chiuso fuori stagione ⚠️ |
+| Cuisine | 🐟 Creole garden-style |
+| Speciality | Lobster · accras |
+| Cost | 💰€€ per person without drinks |
+| Setting | 🌴 tropical garden |
+| Map | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Toumbana+Terre-de-Haut+(Les+Saintes)) |
+| Contacts | [Map](https://www.google.com/maps/search/?api=1&query=Toumbana+Terre-de-Haut+Les+Saintes) |
+| Ratings | Google — positive reviews → ★★★★ |
+| Hours | lunch and dinner · closed out of season ⚠️ |
 
 ## Menu
 
-- Langouste
+- Lobster
 - Accras
-- Pesce of the giorno
+- Catch of the day
 
 **Chef**: ND
 
-## Foto
+## Photos
 
-*Foto non still disponibili — recuperare at the controllo mensile.*
+*No photos available yet — to be added on monthly check.*
 
-**Note**: A piedi dal pontile · pranzo consigliato · prenotare la langouste · menu 15–24 €
+**Notes**: Walking distance from the dinghy dock · lunch recommended · book lobster in advance · menu €15–24

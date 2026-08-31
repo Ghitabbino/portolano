@@ -1,6 +1,6 @@
 # 01 — Clearance doganale della barca
 
-**Ultima verifica: 25/08/2026** · Fonti: Noonsite ★★★ · Ocean Posse ★★★ · cruiserswiki ★★★
+**Ultima verifica: 25/08/2026** · Fonti: Aggregierte Fahrtensegler-Quellen ★★★ · Ocean Posse ★★★ · cruiserswiki ★★★
 
 ## San Juan del Sur (POE più usato)
 

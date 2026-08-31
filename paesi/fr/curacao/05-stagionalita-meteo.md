@@ -35,7 +35,7 @@ Saison **1 giugno–30 novembre**, picco metà agosto–metà ottobre. Curaçao 
 
 ## Fenêtres météo typiques
 
-- Traversate corte Curaçao↔Bonaire (~35 M) o Curaçao↔Aruba (~75 M): fattibili con aliseo ≤18–20 kn, meglio all'alba; evitare >20 kn. [Noonsite ★★★]
+- Traversate corte Curaçao↔Bonaire (~35 M) o Curaçao↔Aruba (~75 M): fattibili con aliseo ≤18–20 kn, meglio all'alba; evitare >20 kn. [Sources plaisance agrégées ★★★]
 - Curaçao → Klein Curaçao (10,5 M SE): breve, attenzione a barriera e corrente sottovento.
 - Lunghe verso Colombia/Venezuela o Grenada: attendere finestra post-onda tropicale con pressione stabile. ★★
 

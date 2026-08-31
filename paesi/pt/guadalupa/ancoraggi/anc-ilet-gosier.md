@@ -1,8 +1,8 @@
 # Îlet du Gosier {#anc-ilet-gosier}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← Todas as ancoragens](../08-ancoraggi.md)
 <div class="mapframe" data-slug="ilet-gosier" data-lat="16.199" data-lon="-61.491" data-name="Îlet du Gosier"></div>
 
-Isolotto con faro a 20 min dalla marina: acqua turchese, sabbia, protetto dagli alisei dal continente. Fondo sabbioso 3–6 m, buona tenuta. Affollato nei weekend locali e dai charter a pranzo. Ottimo primo/tultimo stop in arrivo/partenza da Martinica o Dominica.
+Ilhéu com farol a 20 min da marina: água turquesa, areia, abrigado dos alísios pelo continente. Fundo arenoso em 3–6 m, boa tensa. Lotado nos fins de semana locais e por charters à hora de almoço. Excelente primeira/última paragem chegando de ou partindo para Martinica ou Dominica.
 
-Ultimo aggiornamento: 22/08/2026
+Última atualização: 22/08/2026

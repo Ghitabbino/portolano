@@ -4,7 +4,7 @@
 
 ## General Anchorage Rules (First and Foremost)
 
-- A Curaçao ci si still **SOLO nelle 6 aree designate dalla Capitaneria of porto (Harbour Master)**, with **permesso obbligatorio (~US$24)** richiesto all'arrivo: **Spaanse Water (max 90 gg), Fuik Bay, Santa Martha Bay, Santa Cruz/Santu Pretu, Piscadera Bay, Klein Curaçao (max 3 notti ciascuna)**. Vietato ormeggiare in **St. Anna Bay (zona ISPS)** and at the **Westpunt Bai Nord/Sud** (NON autorizzate). Vietata each attività commerciale a bordo. [Noonsite — Update 13/08/2025](https://www.noonsite.com/news/curacao-port-authority-update-for-visiting-yachts/) ★★★; [Curaçao Ports Authority](https://curports.com/shipping/yachting/) ★★★★★
+- A Curaçao ci si still **SOLO nelle 6 aree designate dalla Capitaneria of porto (Harbour Master)**, with **permesso obbligatorio (~US$24)** richiesto all'arrivo: **Spaanse Water (max 90 gg), Fuik Bay, Santa Martha Bay, Santa Cruz/Santu Pretu, Piscadera Bay, Klein Curaçao (max 3 notti ciascuna)**. Vietato ormeggiare in **St. Anna Bay (zona ISPS)** and at the **Westpunt Bai Nord/Sud** (NON autorizzate). Vietata each attività commerciale a bordo. Cruising sources aggregate ★★★; [Curaçao Ports Authority](https://curports.com/shipping/yachting/) ★★★★★
 - **Barche straniere a secco without equipaggio**: tempo **illimitato** in aree **entrepot** (Curaçao Marine, Royal Marine, Seru Boca) — Free Zone. [curports.com ★★★★★; allatsea.net 2011 ★★★]
 - **Segnalazione IALA-B** invertita rispetto all'Italia. ★★★
 - Correnti lungo la costa nord forti; le aree designate are all a **sud/ovest** (bacini riparati). ★★★
@@ -14,24 +14,24 @@
 
 | Area | Divieto | Source |
 |---|---|---|
-| **St. Anna Bay (Willemstad)** | Àncora and ormeggio **vietati** at the diportisti — banchine ISPS est/ovest riservate a navi/tug; wash pericoloso | [Noonsite — Spanish Water](https://www.noonsite.com/place/curacao/spanish-water/) ★★★ |
-| **Westpunt Bai Nord/Sud** | **NON are aree autorizzate** — Harbour Master non rilascia permessi | [Noonsite — Update 13/08/2025](https://www.noonsite.com/news/curacao-port-authority-update-for-visiting-yachts/) ★★★ |
+| **St. Anna Bay (Willemstad)** | Àncora and ormeggio **vietati** at the diportisti — banchine ISPS est/ovest riservate a navi/tug; wash pericoloso | Cruising sources aggregate ★★★ |
+| **Westpunt Bai Nord/Sud** | **NON are aree autorizzate** — Harbour Master non rilascia permessi | Cruising sources aggregate ★★★ |
 | **Funds a corallo** | Àncora vietata on barriera; usare sabbia/fango nelle aree designate | [STINAPA / CPA ★★★★] |
 | **Aree non designate** | Fuori dalle 6 baie sopra — ancoraggio **non consentito** | [CPA ★★★★★] |
 
-Testi integrali and mappe ufficiali: [curports.com — Yachting](https://curports.com/shipping/yachting/) and *Curaçao Restrictions* on Noonsite.
+Testi integrali and mappe ufficiali: [curports.com — Yachting](https://curports.com/shipping/yachting/) and *Curaçao Restrictions* on Cruising sources aggregate.
 
 ## Summary Table — Best Anchorages
 
 | # | Anchorage | Riparo alisei | Holding | Depth | Crowding | Community Rating |
 |---|---|---|---|---|---|---|
 | 1 | [Spaanse Water — zona A](ancoraggi/anc-spanish-water-a.md) | ★★★★★ laguna chiusa | ★★★★★ fango | 6–8 m | Medio-high (A/B trafficate) | ★4,3/5 [Navily 10/2025] |
-| 2 | [Spaanse Water — entrata laguna](ancoraggi/anc-spanish-water-entrata.md) | ★★★★ | — profonda | — | Basso (transito) | — [Noonsite] |
+| 2 | [Spaanse Water — entrata laguna](ancoraggi/anc-spanish-water-entrata.md) | ★★★★ | — profonda | — | Basso (transito) | — [Cruising sources aggregate] |
 | 3 | [Fuik Baai](ancoraggi/anc-fuik.md) | ★★★ | ★★★ sabbia | fino a 15 m | Basso; festiva domenica | — [CPA] |
 | 4 | [Santa Martha Bay (laguna)](ancoraggi/anc-santa-martha.md) | ★★★★★ | ★★★★★ fango | 4–5 m; bocca 3 m | Basso | ★★★ [CruisersForum] |
 | 5 | [Piscadera Baai](ancoraggi/anc-piscadera.md) | ★★★★★ | ★★★★★ fango | 4–6 m | Basso-medio | ★4,6/5 [Sailing Anima] |
 | 6 | [Playa Santu Pretu / Santa Cruz](ancoraggi/anc-santa-cruz.md) | ★★★ | ★★★ sabbia | 5 m (>10 fuori) | Basso | ★★★ [Spend Life] |
-| 7 | [Klein Curaçao (lato ovest)](ancoraggi/anc-klein-curacao.md) | ★★★★ sottovento | ★★★★ sabbia | ≤5 m | Medio (day-charter) | — [Noonsite] |
+| 7 | [Klein Curaçao (lato ovest)](ancoraggi/anc-klein-curacao.md) | ★★★★ sottovento | ★★★★ sabbia | ≤5 m | Medio (day-charter) | — [Cruising sources aggregate] |
 | 8 | Caracasbaai | — | — | — profondi | Basso | accordo CPA — **DATA MISSING** for scheda |
 
 *Clicca sul nome for aprire la scheda completa. Legend: riparo/tenuta = valutazione qualitativa dalle fonti citate (more ★ = meglio).*
@@ -60,7 +60,7 @@ Testi integrali and mappe ufficiali: [curports.com — Yachting](https://curport
 
 ## Not Included (For Now)
 
-- **Westpunt Bai N/S**: citate on crowd-source ma **NON autorizzate** → dati insufficienti, from non usare. [Noonsite 13/08/2025 ★★★]
+- **Westpunt Bai N/S**: citate on crowd-source ma **NON autorizzate** → dati insufficienti, from non usare. [Cruising sources aggregate 13/08/2025 ★★★]
 - **Caracasbaai interna**: baie aperte profonde — sosta breve “only previo accordo CPA” → dati insufficienti, **from check**.
 - **Boca St. Michiel**: baia sud vicino Bullenbaai — menzionata from ALL AT SEA ma non in lista CPA → **DATA MISSING**.
 - **Santana / Caracasbaai lato est**: vedi tabella — in attesa of satellite-check.

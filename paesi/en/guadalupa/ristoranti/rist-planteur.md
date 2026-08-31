@@ -5,25 +5,25 @@
 | Field | Detail |
 |---|---|
 | Area | Gosier |
-| Cuisine | 🥩 Poulet boucané |
-| Speciality | Poulet boucané · ouassous |
-| Cost | 💰€€ for persona without bevande |
-| Setting | 🌴 corte creola |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Planteur+Gosier) |
-| Contacts | [Mappa](https://www.google.com/maps/search/?api=1&query=Le+Planteur+Gosier) |
-| Ratings | Google positive → ★★★★ |
-| Hours | pranzo · cena weekend ⚠️ |
+| Cuisine | 🥩 Smoked chicken |
+| Speciality | Smoked chicken · freshwater prawns |
+| Cost | 💰€€ per person without drinks |
+| Setting | 🌴 Creole courtyard |
+| Map | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Planteur+Gosier) |
+| Contacts | [Map](https://www.google.com/maps/search/?api=1&query=Le+Planteur+Gosier) |
+| Ratings | Google — positive reviews → ★★★★ |
+| Hours | lunch · dinner at weekends ⚠️ |
 
 ## Menu
 
-- Poulet boucané
-- Lambi
-- Ouassous
+- Smoked chicken
+- Conch
+- Freshwater prawns
 
 **Chef**: ND
 
-## Foto
+## Photos
 
-*Foto non still disponibili — recuperare at the controllo mensile.*
+*No photos available yet — to be added on monthly check.*
 
-**Note**: Tappa comoda dall'Îlet du Gosier ⚠️ check approdo · from 20 €
+**Notes**: Convenient stop from Îlet du Gosier ⚠️ check landing · from €20

@@ -14,7 +14,7 @@
 | Negozio | Ubicazione | Distance dalla marina | A piedi? | Note | Source |
 |---|---|---|---|---|---|
 | **Ling & Sons IGA Super Center** | Schotlandstraat 41, Oranjestad | ~1,5 km | ✅ sì (15–20 min) | Lun–sab 8–21, dom 9–18 · il più grande stile americano dell'isola: freschi, bio, macelleria, bakery giornaliera, liquortique · accetta AWG/USD e carte |RelaxAruba/Fodor’s ★★★|
-| **Super Food Plaza** | Bubali 141-A, Noord | ~5 km | ⚠️ taxi/bus (7 min in auto) | Lun–sab 8–20, dom 9–18 · centro commerciale più “verde” dei Caraïbes con alimentari, vini, health/beauty, Jack’s Café · consegna su richiesta concordata col manager |Noonsite commento manager +297 522-2000 ★★★ + aruba.com ★★★|
+| **Super Food Plaza** | Bubali 141-A, Noord | ~5 km | ⚠️ taxi/bus (7 min in auto) | Lun–sab 8–20, dom 9–18 · centro commerciale più “verde” dei Caraïbes con alimentari, vini, health/beauty, Jack’s Café · consegna su richiesta concordata col manager |Sources plaisance agrégées commento manager +297 522-2000 ★★★ + aruba.com ★★★|
 | **Kong Hing Supermarket** | L.G. Smith Blvd 152, Druif (tra Oranjestad ed Eagle Beach) | ~3 km | ⚠️ taxi/bus | Ordinato e pulito, buono per rifornimento rapido vicino alle spiagge |Fodor’s ★★★|
 | **C-Mart** | Cumana #38 / vicino aeroporto | ~4–5 km | ⚠️ taxi | Budget-friendly, discount locale; assortimento base per cambusa |aruba.com ★★★|
 | **PriceSmart (club)** | Avenida Milio Croes, Oranjestad | ~3 km | ⚠️ taxi | Formato warehouse tipo Costco, utile per grandi quantità (carte socio) |★★|

@@ -5,25 +5,25 @@
 | Field | Detail |
 |---|---|
 | Area | Deshaies |
-| Cuisine | 🐟 Creola fronte mare |
-| Speciality | Accras · thon |
-| Cost | 💰€€ for persona without bevande |
-| Setting | 🪶 bordo mare, set TV |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Madras+Deshaies) |
-| Contacts | [Mappa](https://www.google.com/maps/search/?api=1&query=Restaurant+Le+Madras+Deshaies) |
-| Ratings | Google 4,3/5 (398) → ★★★★ |
-| Hours | pranzo all l'anno · cena stagionale ⚠️ |
+| Cuisine | 🐟 Creole seafront |
+| Speciality | Accras · tuna |
+| Cost | 💰€€ per person without drinks |
+| Setting | 🪶 seafront, TV set |
+| Map | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Madras+Deshaies) |
+| Contacts | [Map](https://www.google.com/maps/search/?api=1&query=Restaurant+Le+Madras+Deshaies) |
+| Ratings | Google 4.3/5 (398) → ★★★★ |
+| Hours | lunch all year · dinner seasonally ⚠️ |
 
 ## Menu
 
 - Accras
-- Thon
-- Piatti creoli
+- Tuna
+- Creole dishes
 
 **Chef**: ND
 
-## Foto
+## Photos
 
-*Foto non still disponibili — recuperare at the controllo mensile.*
+*No photos available yet — to be added on monthly check.*
 
-**Note**: 7 rue de la Vague Bleue · location of the serie “Meurtres au paradis”
+**Notes**: 7 rue de la Vague Bleue · filming location of “Death in Paradise”

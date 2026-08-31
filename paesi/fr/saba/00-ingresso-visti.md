@@ -15,7 +15,7 @@ I cittadini UE risultano esenti visto nella lista ufficiale del Rijksdienst CN: 
 - Approdare SOLO a **Fort Bay**, l'unico porto (Well's Bay e Ladder Bay sono pericolosi). Ordine delle pratiche appena arrivati: Dogana+Immigrazione nello stesso edificio Harbor Office, poi check-in/out con la Capitaneria e infine registrazione obbligatoria al [Marine Park](https://www.sabapark.org) (ufficio a Fort Bay). sabagov.nl ★★★★★ · sabapark.org ★★★★
 - Harbor Office aperto 6:00–18:00 tutti i giorni; se la dogana è assente presentarsi comunque all'ufficio.
 - Modulo doganale per yacht da consegnare entro 24 h dall'arrivo, scaricabile da sabapark.org.
-- Pre-arrivo: [SailClear](https://www.sailclear.com) accettato — facilita la dogana ma NON sostituisce l'immigrazione (conferme cruiser 2024). Noonsite ★★★
+- Pre-arrivo: [SailClear](https://www.sailclear.com) accettato — facilita la dogana ma NON sostituisce l'immigrazione (conferme cruiser 2024). Sources plaisance agrégées ★★★
 
 ## E dopo i 90 giorni?
 
@@ -30,7 +30,7 @@ Modalità di proroga presso le autorità locali: **DONNÉE MANQUANTE**.
 | Dogana | ~US$20 (segnalato da cruiser) |
 | Marine Park | fee per le notti in boa/ancoraggio |
 
-Importazione temporanea per barche extra-UE: **DONNÉE MANQUANTE**. Fonti: Noonsite ★★★ · noforeignland ★★
+Importazione temporanea per barche extra-UE: **DONNÉE MANQUANTE**. Fonti: Sources plaisance agrégées ★★★ · noforeignland ★★
 
 ## Vaccins
 

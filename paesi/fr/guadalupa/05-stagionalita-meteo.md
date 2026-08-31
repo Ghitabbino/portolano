@@ -1,50 +1,53 @@
-# 05 — Saisonnalité & Météo
+# 05 — Saisonnalité et météo
 
-**Dernière mise à jour: 21/08/2026**
+**Dernière mise à jour : 21/08/2026**
 
 ## Climat
 
-Caldo umido tutto l'anno: 24–30 °C, acqua 26–29 °C. Saison secca (carême) dicembre–aprile; stagione umida (hivernage) luglio–novembre con scrosci e aumento dell'attività ciclonica. [Météo-France ★★★★★]
+Chaud et humide toute l'année : 24–30 °C, eau 26–29 °C. Saison sèche (carême) décembre–avril ; saison humide (hivernage) juillet–novembre avec averses et recrudescence de l'activité cyclonique. [Météo-France ★★★★★]
 
 ## Saisons
 
-| Periodo | Condizioni |
+| Période | Conditions |
 |---|---|
-| **Dic–apr** | Alta stagione: alisei NE 15–25 kn, cielo variabile, 26–29 °C, umidità più bassa |
-| **Mag–giu** | Transizione: venti più deboli e instabili, caldo umido, prime ondate tropicali |
-| **Lug–nov** | Saison uragani (picco ago–set): alisei spesso deboli, mare caldo >28 °C, rischio ciclonico reale |
+| **Déc–avr** | Haute saison : alizés NE 15–25 nds, ciel variable, 26–29 °C, humidité plus basse |
+| **Mai–juin** | Transition : vents plus faibles et instables, chaud et humide, premières ondes tropicales |
+| **Juil–nov** | Saison cyclonique (pic août–sept) : alizés souvent faibles, mer chaude >28 °C, risque cyclonique réel |
 
-## Consignes cicloniche (préfecture ★★★★★)
+## Consignes cycloniques (préfecture ★★★★★)
 
-Piano oragan prefettizio: le **istruzioni nautiche (consignes nautiques)** vengono pubblicate quotidianamente in stagione ciclonica (livelli 1–4 di allerta, divieti di navigazione e messa in sicurezza obbligatoria delle barche). Source: préfecture de Guadeloupe + Météo-France.
+Plan ouragan préfectoral : les **consignes nautiques** sont publiées quotidiennement en saison cyclonique (niveaux d'alerte 1–4, interdictions de naviguer et mise en sécurité obligatoire des bateaux). Source : préfecture de Guadeloupe + Météo-France.
 
 ## Ouragans
 
-La Guadalupa è nel cuore della fascia ciclonica: **Maria (settembre 2017)** ha devastato l'arcipelago (in particolare Deshaies e la Basse-Terre). Piano di stagionatura obbligatorio: dock flottante Bas-du-Fort, ashore a Caraïbes Docks o fuga a sud (Grenada). Assicurazioni chiedono piano scritto entro date precise (di solito 1° giugno).
+La Guadeloupe est au cœur de la bande cyclonique : **Maria (septembre 2017)** a dévasté l'archipel (notamment Deshaies et la Basse-Terre). Plan d'hivernage obligatoire : dock flottant Bas-du-Fort, à terre chez Caraïbes Docks ou fuite vers le sud (Grenade). Les assurances demandent un plan écrit avant des dates précises (généralement 1er juin).
 
 ## Vents locaux
 
-- **Alizé NE** costante tutto l'anno, rinforzato lungo la costa sud della Grande-Terre (accelerazione tra Pointe des Châteaux e Marie-Galante).
-- **Canale des Saintes**: raffiche tra le isole e Sec Pâté; mare corto e incrociato.
-- **Ovest Basse-Terre**: sottovento, mare liscio, ma brise di valle pomeridiana.
-- **Sud-ovest swell**: raro ma fa rollare tutti i mouillage della costa ovest (Deshaies, Malendure, Ravine Paul Thomas).
+- **Alizé de NE** constant toute l'année, renforcé le long de la côte sud de la Grande-Terre (accélération entre Pointe des Châteaux et Marie-Galante).
+- **Canal des Saintes** : rafales entre les îles et Sec Pâté ; mer courte et croisée.
+- **Ouest Basse-Terre** : sous le vent, mer plate, mais brise de vallée l'après-midi.
+- **Houle de sud-ouest** : rare mais fait rouler tous les mouillages de la côte ouest (Deshaies, Malendure, Ravine Paul Thomas).
 
 ## Fenêtres météo typiques
 
-Traversate Guadalupa→Dominica o →Antigua: 30–40 M, fattibili con aliseo ≤20 kn; meglio mattino presto quando il vento è minimo. Il canale Guadalupa–Martinica (110 M S) si naviga con finestra post-frontale in stagione secca.
+Traversées Guadeloupe → Dominique ou → Antigua : 30–40 M, faisables avec alizé ≤20 nds ; mieux tôt le matin quand le vent est minimal. Le canal Guadeloupe–Martinique (110 M S) se navigue avec une fenêtre post-frontale en saison sèche.
+
 ## Liens météo et cartes locales
 
-- [Météo-France Guadeloupe, St-Martin e St-Barth](https://meteofrance.gp/fr) ★★★★★ — sito ufficiale: previsioni per comune (incluse Les Saintes, Marie-Galante, La Désirade), vigilance, attività ciclonica in tempo reale.
-- [Météo marine Guadeloupe](https://meteofrance.gp/fr/marine/guadeloupe/cote) ★★★★★ — bulletins côtiers e larges, BMS in corso, carte vent/stato del mare.
-- [Vigilance météo](https://meteofrance.gp/fr/vigilance) ★★★★★ — mappa ufficiale di allerta del dipartimento.
-- [Previsioni spiaggiamento sargasse](https://meteofrance.gp/fr) ★★★★ — sezione dedicata "Sargasses" sul sito ufficiale (Guadalupa e Iles du Nord).
-- CROSS Antilles-Guyana: avvisi gale/uragano su VHF 16 ★★★★★
-- [NOAA National Hurricane Center](https://www.nhc.noaa.gov) ★★★★★ — bollettini e traiettorie uragani atlantici (giugno–novembre).
-- [Windy](https://www.windy.com) · [PassageWeather](http://www.passageweather.com) · [PredictWind](https://www.predictwind.com) ★★★ — modelli vento/houle per la pianificazione delle traversate.
-- Istruzioni nautiche (*consignes nautiques*) pubblicate quotidianamente in stagione ciclonica [préfecture de Guadeloupe ★★★★★]
-### Siti meteo locali
+- [Météo-France Guadeloupe, St-Martin et St-Barth](https://meteofrance.gp/fr) ★★★★★ — site officiel : prévisions par commune (dont Les Saintes, Marie-Galante, La Désirade), vigilance, activité cyclonique en temps réel.
+- [Météo marine Guadeloupe](https://meteofrance.gp/fr/marine/guadeloupe/cote) ★★★★★ — bulletins côtiers et large, BMS en cours, cartes vent/état de la mer.
+- [Vigilance météo](https://meteofrance.gp/fr/vigilance) ★★★★★ — carte officielle d'alerte du département.
+- [Prévisions d'échouage sargasses](https://meteofrance.gp/fr) ★★★★ — rubrique dédiée « Sargasses » sur le site officiel (Guadeloupe et Îles du Nord).
+- CROSS Antilles-Guyane : avis de coup de vent/ouragan sur VHF 16 ★★★★★
+- [NOAA National Hurricane Center](https://www.nhc.noaa.gov) ★★★★★ — bulletins et trajectoires des ouragans atlantiques (juin–novembre).
+- [Windy](https://www.windy.com) · [PassageWeather](http://www.passageweather.com) · [PredictWind](https://www.predictwind.com) ★★★ — modèles vent/houle pour la planification des traversées.
+- Consignes nautiques publiées quotidiennement en saison cyclonique [préfecture de Guadeloupe ★★★★★]
 
-- [Météo-France Antilles-Guyane](https://meteofrance.com/fr/antilles) — ufficiale, allerte ★★★★
-- [Guadeloupe La 1ère météo](https://la1ere.francetvinfo.fr/guadeloupe/meteo) — locale ★★★
-- [Windguru Saint-François](https://www.windguru.cz/489) — spot atlantico sud ★★★
-Dernière mise à jour: 22/08/2026
+### Sites météo locaux
+
+- [Météo-France Antilles-Guyane](https://meteofrance.com/fr/antilles) — officiel, alertes ★★★★
+- [Guadeloupe La 1ère météo](https://la1ere.francetvinfo.fr/guadeloupe/meteo) — local ★★★
+- [Windguru Saint-François](https://www.windguru.cz/489) — spot Atlantique sud ★★★
+
+Dernière mise à jour : 22/08/2026

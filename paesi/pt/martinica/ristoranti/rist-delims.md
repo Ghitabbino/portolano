@@ -1,34 +1,36 @@
 # Delim's
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Todos os restaurantes](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Campo | Detalhe |
 |---|---|
 | Zona | Sainte-Anne |
-| Cucina | 🐟 Langouste e lambi |
-| Specialità | Langouste · lambi · chatrou |
-| Costo | 💰€€€ per persona senza bevande |
-| Location | 🍽️ raffinato |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Delim's+Sainte-Anne) |
-| Contatti | 0696 35 48 59 (prenotazioni 0696 75 49 13) |
-| Valutazioni | TA 4,7/5 (140) → ★★★★½ |
-| Orari | lun-gio-ven-sab 19–22 · sab-dom 12–15 · chiuso mar–mer |
+| Cozinha | 🐟 Lagosta e lambi |
+| Especialidade | Lagosta · lambi · chatrou |
+| Custo | 💰€€€ por pessoa sem bebidas |
+| Localização | 🍽️ requintado |
+| Mapa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Delim's+Sainte-Anne) |
+| Contactos | 0696 35 48 59 (prenotazioni 0696 75 49 13) |
+| Avaliações | TA 4,7/5 (140) → ★★★★½ |
+| Horário | seg-qui-sex-sáb 19–22 · sáb-dom 12–15 · fechado ter–qua |
 
-## Menu
+## Ementa
 
 - Langouste
 - Lambi
 - Chatrou
-- Formule entrée+plat+cocktail o plat+dessert+cocktail 40 €
+- Fórmula entrada+prato+cocktail ou prato+sobremesa+cocktail 40 €
 
-**Chef**: Marie-Claude (cucina), sorella Marie-Laure in sala
+**Chef**: Marie-Claude (cozinha), irmã Marie-Laure na sala
 
-## Foto
+## Fotos
 
 ![Delim's](img/martinica/rist-delims.jpg)
 
 *Fonte: ledelims.com*
 
-**Note**: Avenue Nelson Mandela · ledelims.com · anche traiteur · pizze d'asporto la sera
+**Notas**: Avenue Nelson Mandela · ledelims.com · também traiteur · pizzas para levar à noite
 
 **Extra**: email ledelims@gmail.com
+
+Última atualização: 22/08/2026

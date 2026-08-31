@@ -2,85 +2,85 @@
 
 **Last updated: 21/08/2026**
 
-L'arcipelago si gira in 1–2 settimane with finestre of aliseo. Logica of rotta: la costa atlantica of the Grande-Terre è esposta at the alisei NE — si naviga in senso orario or antiorario scegliendo i mouillage sottovento.
+The archipelago can be cruised in 1–2 weeks with trade-wind windows. Routing logic: the Atlantic coast of Grande-Terre is exposed to the NE trades — sail clockwise or anti-clockwise, choosing leeward anchorages.
 
-## Sud — il gioiello
+## South — The Jewel
 
-| Area | Carattere |
+| Area | Character |
 |---|---|
-| **Les Saintes** | Bay iconica, mooring, villaggio; imperdibile |
-| **Marie-Galante** | Rum, spiagge vuote; esposto, serve finestra |
-| **Petite Terre** | Riserva, only boe; snorkeling top |
+| **Les Saintes** | Iconic bay, moorings, village; unmissable |
+| **Marie-Galante** | Rum, empty beaches; exposed, needs a weather window |
+| **Petite Terre** | Nature reserve, moorings only; top snorkelling |
 
-## Ovest Basse-Terre — costa sottovento
+## West Basse-Terre — Leeward Coast
 
-| Area | Carattere |
+| Area | Character |
 |---|---|
-| **Deshaies** | Villaggio, clearance, ristoranti; roll with NW |
-| **Malendure/Cousteau** | Snorkeling/diving; ancorare fuori riserva |
-| **Ravine Paul Thomas** | Il mouillage more votato dai crocieristi |
+| **Deshaies** | Village, clearance, restaurants; rolls with NW swell |
+| **Malendure / Cousteau** | Snorkelling/diving; anchor outside the reserve |
+| **Ravine Paul Thomas** | Cruisers' top-rated anchorage |
 | Anse à la Barque / Rivière Sens | Hurricane holes with marina (Sud Ancrage, Barracuda) |
-| Basse-Terre città | Roadstead comoda for scali urbani |
+| Basse-Terre town | Convenient roadstead for town stops |
 
-## Grande-Terre sud — servizi
+## South Grande-Terre — Services
 
-| Area | Carattere |
+| Area | Character |
 |---|---|
-| **Îlet du Gosier** | Tappa facile from/for Martinica-Dominica |
-| Sainte-Anne | Spiagge turistiche, fondo sabbia |
-| **Saint-François** | Marina completa, clearance, laguna protetta |
+| **Îlet du Gosier** | Easy staging post to/from Martinique–Dominica |
+| Sainte-Anne | Tourist beaches, sand bottom |
+| **Saint-François** | Full-service marina, clearance, sheltered lagoon |
 
-## Pointe-à-Pitre and Jarry
+## Pointe-à-Pitre & Jarry
 
-Marina Bas-du-Fort = hub tecnico/logistico. La rada è regolamentata; il Grand Cul-de-Sac marin (mangrovie) offre mouillage tranquilli with guida locale.
+Marina Bas-du-Fort = technical/logistics hub. The roadstead is regulated; the Grand Cul-de-Sac Marin (mangroves) offers quiet anchorages with a local pilot.
 
-## Costa atlantica (esposta)
+## Atlantic Coast (Exposed)
 
-Le Moule, Port-Louis, Anse-Bertrand: surf and mare mosso with aliseo; mouillage only with condizioni calme (nov–apr more gestibile a nord). Port-Louis votato ★4,4 ma zanzare at the tramonto. ★★★
+Le Moule, Port-Louis, Anse-Bertrand: surf and rough seas in the trades; anchor only in settled conditions (Nov–Apr more manageable in the north). Port-Louis rated ★4.4 but mosquitoes at sunset. ★★★
 
-## Désirade
+## La Désirade
 
-Baie Mahault l'unica baia realmente riparata; resto dell'isola esposto all'aliseo.
+Baie Mahault is the only truly sheltered bay; the rest of the island is exposed to the trades.
 
 ## Berthing & Marina Tariffs
 
-> Stesse voci for all i paesi; **DATA MISSING** = from ricercare at the controllo mensile.
+> Same items for every country; **DATA MISSING** = to be researched at the monthly check.
 
-### Marina Bas-du-Fort (Pointe-à-Pitre) — listino ufficiale 2026 ★★★★★
+### Marina Bas-du-Fort (Pointe-à-Pitre) — Official Tariff 2026 ★★★★★
 
-Source: /tarifs (aggiornamento annuale indicizzato GPMG). Canoni (*redevances*) pagabili in anticipo.
+Source: /tarifs (annual update indexed by GPMG). Berthing fees (*redevances*) payable in advance.
 
-| Item | Cost | Note |
+| Item | Cost | Notes |
 |---|---|---|
-| Posto pontile — notte (barca ~12 m) | 0,89 €/piede ≈ **36 €** |Cat. 3 (32–49 ft) ★★★★★|
-| Alongside berth — for night (multihull ~12 m) | ×1,5 ≈ **53 €** |Multicoque ×1,5 ★★★★★|
-| Boa/mouillage marina — notte (~12 m) | **12,73 €** |Îlet Cochon, ≤49 ft; mensile 305 € ★★★★★|
-| Monthly berth (~12 m) | 10,19 €/piede ≈ **408 €** |Semestre 55,01 €/piede · anno 91,08 €/piede ★★★★★|
-| Electricity | **0,40 €/kWh** |Badge individuale dal 02/2025 ★★★★★|
-| Water | **8,00 €/m³** |Consegna a galla Ecotank 5 €/100 l ★★★★★|
-| Anchorage | **Gratuito** | Fuori zone portuali/riserve |
-| Multiscafo supplementare | **×1,5** |Bers flottanti/lift ×1,3 (×1,36 se >4,50 m larghezza); abitati +9% from 1 mese ★★★★★|
+| Alongside berth — per night (yacht ~12 m) | 0.89 €/ft ≈ **36 €** |Cat. 3 (32–49 ft) ★★★★★|
+| Alongside berth — per night (multihull ~12 m) | ×1.5 ≈ **53 €** |Multihull ×1.5 ★★★★★|
+| Marina mooring — per night (~12 m) | **12.73 €** |Îlet Cochon, ≤49 ft; monthly 305 € ★★★★★|
+| Monthly alongside (~12 m) | 10.19 €/ft ≈ **408 €** |Six months 55.01 €/ft · annual 91.08 €/ft ★★★★★|
+| Electricity | **0.40 €/kWh** |Individual badge since 02/2025 ★★★★★|
+| Water | **8.00 €/m³** |Waterside delivery Ecotank 5 €/100 l ★★★★★|
+| Anchoring | **Free** | Outside port/reserve zones |
+| Multihull supplement | **×1.5** |Floating docks/lift ×1.3 (×1.36 if >4.50 m beam); liveaboard +9% from 1 month ★★★★★|
 
 ### Other Facilities
 
-| Facility | Cost/Notes | Source |
+| Facility | Cost / Notes | Source |
 |---|---|---|
-| Mooring **Les Saintes** (Cabrit/Pain de Sucre/Terre-de-Haut) | **13–18 €/night**; raccolta serale of the pagamento; ispezionare le sagole |★★★|
-| Mooring **Petite Terre** | 9 boe 10 t + 1 boa 30 t, prenotabili in anticipo; riserva: only boa |★★★|
-| Marina **Saint-François** | ~30–50 €/night for 10–12 m ⚠️ listino non pubblicato online; confermare for tel [+590 590 738 405](tel:+590596738405) · [mappa](https://www.google.com/maps/search/?api=1&query=Marina+Saint-Fran%C3%A7ois+Guadeloupe) | ★★ |
+| Moorings **Les Saintes** (Cabrit/Pain de Sucre/Terre-de-Haut) | **13–18 €/night**; evening collection; inspect strops |★★★|
+| Moorings **Petite Terre** | 9 buoys 10 t + 1 buoy 30 t, bookable in advance; reserve: buoys only |★★★|
+| Marina **Saint-François** | ~30–50 €/night for 10–12 m ⚠️ tariff not published online; confirm by phone [+590 590 738 405](tel:+590596738405) · [map](https://www.google.com/maps/search/?api=1&query=Marina+Saint-Fran%C3%A7ois+Guadeloupe) | ★★ |
 
-⚠️ **To Verify Before Your Cruise**: listini Saint-François and hurricane holes Basse-Terre (Sud Ancrage, Barracuda).
+⚠️ **To verify before your cruise**: tariffs for Saint-François and the Basse-Terre hurricane holes (Sud Ancrage, Barracuda).
 
 ## Useful Distances
 
-| Passage | Distance | Note |
+| Passage | Distance | Notes |
 |---|---|---|
-| Pointe-à-Pitre – Les Saintes | ~24 M |Traversata facile with aliseo ★★|
-| Les Saintes – Marie-Galante (Saint-Louis) | ~19 M |Esposta, serve finestra ★★|
-| Saint-François – Petite Terre | ~17 M |Aliseo sul naso andando a est ★★|
+| Pointe-à-Pitre – Les Saintes | ~24 M |Easy crossing in the trades ★★|
+| Les Saintes – Marie-Galante (Saint-Louis) | ~19 M |Exposed, needs a window ★★|
+| Saint-François – Petite Terre | ~17 M |Head to wind going east in the trades ★★|
 | Petite Terre – Marie-Galante | ~20 M | ★★ |
-| Deshaies – Pointe-à-Pitre | ~30 M |Costa sottovento ★★|
+| Deshaies – Pointe-à-Pitre | ~30 M |Leeward coast ★★|
 
-*Distanze approssimative from carta — check on plotter.*
+*Approximate chart distances — verify on plotter.*
 
 Last updated: 22/08/2026

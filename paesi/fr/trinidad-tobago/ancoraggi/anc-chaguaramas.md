@@ -15,6 +15,6 @@
 <div class="mapframe" data-slug="anc-chaguaramas" data-lat="10.6785" data-lon="-61.6362"></div>
 *Carte détaillée — zoomez jusqu’à la baie · carte hors ligne · coordinate WGS84 indicative, toujours vérifier avec le traceur*
 
-Fonti: [Noonsite](https://www.noonsite.com/place/trinidad-and-tobago/chaguaramas/) (05/2025) ★★★ · powerboats.co.tt ★★★★
+Fonti: Sources plaisance agrégées (05/2025) ★★★ · powerboats.co.tt ★★★★
 
 Dernière mise à jour: 25/08/2026

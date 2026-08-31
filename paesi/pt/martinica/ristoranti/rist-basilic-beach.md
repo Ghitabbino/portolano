@@ -1,31 +1,33 @@
 # Basilic Beach
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Todos os restaurantes](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Campo | Detalhe |
 |---|---|
 | Zona | Pointe Marin |
-| Cucina | 🐟 Beach creolo rivisitato |
-| Specialità | Pesce fresco · cocktail |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🏖️ sulla spiaggia |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Basilic+Beach+Pointe+Marin) |
-| Contatti | 0696 32 67 92 |
-| Valutazioni | TA 4,1/5 (406) · Petit Futé 4,5/5 (26) → ★★★★ |
-| Orari | tutti i giorni |
+| Cozinha | 🐟 Beach crioulo reinventado |
+| Especialidade | Peixe fresco · cocktails |
+| Custo | 💰€€ por pessoa sem bebidas |
+| Localização | 🏖️ na praia |
+| Mapa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Basilic+Beach+Pointe+Marin) |
+| Contactos | 0696 32 67 92 |
+| Avaliações | TA 4,1/5 (406) · Petit Futé 4,5/5 (26) → ★★★★ |
+| Horário | todos os dias |
 
-## Menu
+## Ementa
 
-- Pesce fresco del giorno
-- Cucina creola rivisitata
+- Peixe fresco do dia
+- Cozinha crioula reinventada
 - Cocktail
 
 **Chef**: ND
 
-## Foto
+## Fotos
 
 ![Basilic Beach](img/martinica/rist-basilic-beach.jpg)
 
-*Fonte: jimcdn (sito ristorante)*
+*Fonte: jimcdn (site do restaurante)*
 
-**Note**: Plage de Pointe Marin · vista splendida, buon rapporto qualità/prezzo
+**Notas**: Plage de Pointe Marin · vista esplêndida, boa relação qualidade/preço
+
+Última atualização: 22/08/2026

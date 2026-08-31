@@ -2,7 +2,7 @@
 
 **Last checked: 28/08/2026**
 
-> ⚠️ **Situazione generale sconsigliata**: Noonsite e avvisi governativi segnalano per Haiti **instabilità, gang armate, colera endemico** e **Level 4 Do Not Travel** USA al 10/07/2026; navigazione da diporto **fortemente sconsigliata** salvo necessità con precauzioni estreme e aggiornamento quotidiano. Labadee (nord) sospesa al traffico crocieristico fino a giugno 2027 ★★★★★
+> ⚠️ **Situazione generale sconsigliata**: Cruising sources aggregate e avvisi governativi segnalano per Haiti **instabilità, gang armate, colera endemico** e **Level 4 Do Not Travel** USA al 10/07/2026; navigazione da diporto **fortemente sconsigliata** salvo necessità con precauzioni estreme e aggiornamento quotidiano. Labadee (nord) sospesa al traffico crocieristico fino a giugno 2027 ★★★★★
 
 ## Who Must Clear
 

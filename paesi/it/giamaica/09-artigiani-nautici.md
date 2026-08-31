@@ -9,7 +9,7 @@
 | Ditta / Nome | Referente | Area di intervento | Dealer / Installatore autorizzato (marchi) | Tel | Mail | Sede & orari | Recensioni |
 |---|---|---|---|---|---|---|---|
 | **Errol Flynn Boatyard** | Marina Office | **Haul-out 100 t**, hard standing, security h24, pool, ristorante Norma's · unico Travelift nord Caraibi (106 m / 9,10 m draft) | — | **+1 (876)715-6044 / 715-6046** | via errolflynnmarina.com | Port Antonio 18°10.83'N 76°27.22'W · 08–17 7/7 | ★★★★ (NoForeignLand servizi ★3,0: not fully operational) |
-| **Rohan — Diesel Pump Specialist** | Rohan | **Motori diesel, pompe iniezione** | — | **+1 (876)428-4025 / 952-8958** | **DATO MANCANTE** | Montego Bay — via MBYC Freeport · su chiamata | ★★ (Noonsite 2014) |
+| **Rohan — Diesel Pump Specialist** | Rohan | **Motori diesel, pompe iniezione** | — | **+1 (876)428-4025 / 952-8958** | **DATO MANCANTE** | Montego Bay — via MBYC Freeport · su chiamata | ★★ (Fonti diportiste aggregate 2014) |
 | **David Rhoden** | David Rhoden | **Meccanica generale + guida Blue Mountains** | — | **+1 (876)385-1305** | **DATO MANCANTE** | Kingston/Blue Mtns · su chiamata | ★★ |
 | **GSRJ Shipyard** | Office Commerciale | **Commerciale 20.000 t** — Floating Dock Panamax 230×33 m (solo navi, non diporto) | — | **+1 (876)618-6240** | **marketing@gsrj.com.jm** · gsrj.com.jm | Sir Florizel Glasspole Blvd, Kingston 17 · lun–ven 08–17 | ★★★★ |
 | **Kingston Marine** | Ops 24/7 | **Launch, spares delivery, crew change, acqua, waste** — vessel services | — | **+1 (876)824-1541** | **info@kmarineja.com** · kmarineja.com | 1 Port Royal St, Kingston · **24/7** | ★★★ |

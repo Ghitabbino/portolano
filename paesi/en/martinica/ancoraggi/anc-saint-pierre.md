@@ -3,15 +3,15 @@
 [← All Anchorages](../08-ancoraggi.md)
 | Field | Detail |
 |---|---|
-| **Boe** |Prenotazione obbligatoria app **Navilly**, pagamento in app, estensioni facili ★★★|
-| **Tenuta** |Buona su sabbia anche nella rada nord ★★★|
-| **Profondità** | 5–10 m circa |
-| **Venti/riparo** |Protezione modesta: alisei entrano nella rada; ok con meteo stabile ★★★|
-| **Pericoli** |Boe francesi con anello metallico rigido: serve far passare la propria cima dentro l'anello (gancio lungo utile) ★★★; àncora possibile a sud del campo boe su plateau stretto ★★★|
-| **Divieti** |⛔ **Épaves storiche del 1902 al largo: àncora vietata sulla zona relitti** ★★★★; baia di Saint-Pierre tra le zone regolamentate >50 m ★★★★|
-| **Extra** | Museo Franck A. Perret (eruzione 1902), vista Mont Pelée, clearance in paese |
+| **Moorings** |Booking mandatory via **Navily** app, pay in-app, easy extensions ★★★|
+| **Holding** |Good holding on sand, also in the northern roadstead ★★★|
+| **Depth** |Approx. 5–10 m |
+| **Shelter** |Modest shelter — trades push into the roadstead; settled weather only ★★★|
+| **Hazards** |French moorings with rigid metal ring: thread your own line through the ring (long boat hook handy) ★★★; anchoring possible south of the mooring field on a narrow shelf ★★★|
+| **Restrictions** |⛔ **Historic 1902 wrecks offshore: anchoring forbidden over the wreck zone** ★★★★; Baie de Saint-Pierre regulated >50 m ★★★★|
+| **Highlights** | Franck A. Perret Museum (1902 eruption), Mont Pelée views, clearance in town |
 
 <div class="mapframe" data-slug="saint-pierre" data-lat="14.7410" data-lon="-61.1770"></div>
-*Vista mappa Saint-Pierre (coord. indicative) — zoom con i pulsanti +/−; menu in alto a destra per passare a Carta nautica e Segnali nautici · mappa offline*
+*Map view Saint-Pierre (approx. position) — zoom with +/− buttons; top-right menu to switch to Nautical Chart and AtoN overlay · offline map*
 
 Last updated: 22/08/2026

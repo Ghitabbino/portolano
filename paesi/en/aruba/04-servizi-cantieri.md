@@ -2,42 +2,42 @@
 
 **Last checked: 27/08/2026**
 
-## Varadero Aruba Marina & Boatyard — hub tecnico dell'isola
+## Varadero Aruba Marina & Boatyard — The Island's Technical Hub
 
-### Varadero Aruba Marina & Boatyard (ufficiale ★★★★)
-- Bucutiweg 34, Oranjestad · +297 588-3850 · [varaderoaruba.com](https://www.varaderoaruba.com) — 70+ posti in acqua e ~300–400 posti a secco; canale dragato 2,4 m (8 ft), pescaggio max 2,20 m. ★★★
-- Alaggio con **rimorchi idraulici Roodberg 20 t e 60 t** (nuovo 80 t annunciato per 10/2025), cuscini morbidi; fino a 80 ft / baglio max 42 ft (48' per multiscafi su prenotazioni). ★★★
-- Servizi completi: carenaggio, antivegetativa, vetroresina, sabbiatura, falegnameria, saldatura navale, lavaggio a pressione; carburante, Wi-Fi, lavanderia, videosorveglianza. Zona franca a secco esente limite 180 giorni. ★★★
+### Varadero Aruba Marina & Boatyard (official ★★★★)
+- Bucutiweg 34, Oranjestad · +297 588-3850 · [varaderoaruba.com](https://www.varaderoaruba.com) — 70+ berths afloat and ~300–400 ashore; dredged channel 2.4 m (8 ft), max draught 2.20 m. ★★★
+- Haul-out with **Roodberg hydraulic trailers 20 t and 60 t** (new 80 t announced for 10/2025), soft cradles; up to 80 ft / max beam 42 ft (48' for multihulls by arrangement). ★★★
+- Full services: careening, antifouling, GRP, sandblasting, joinery, marine welding, pressure washing; fuel, Wi-Fi, laundry, CCTV. Bonded ashore area exempt from the 180-day limit. ★★★
 
-### Artigiani e servizi segnalati (★★ — esperienze individuali)
+### Recommended Trades & Services (★★ — individual experiences)
 
-| Servizio | Nome | Contatto | Note |
+| Service | Name | Contact | Notes |
 |---|---|---|---|
-| Shipchandler | [Budget Marine Aruba](https://budgetmarine.com/locations/budget-marine-aruba/) | +297 585-3796 · WA +297 737-3796 · Balashi 75-B | 500 mq, il più grande dell'isola; lun–ven 9–17 sab 8–16 ★★★ |
-| Velaio / canvas | [30 Knots Sailmaker](https://30knotsaruba.com/) | via sito | Riparazione vele/kite/wing e canvas dal 2017; 5 macchine industriali ★★★ |
-| Rigging | [Aruba Rigging](https://www.arubarigging.com/) | via sito | Riparazione sartiame e lavori in corda ★★ |
-| Falegnameria | Varadero Boatyard (carpenter) | +297 588-3850 | Ponti, osteriggi, verniciatura e alaggio ★★ |
+| Ship chandler | [Budget Marine Aruba](https://budgetmarine.com/locations/budget-marine-aruba/) | +297 585-3796 · WA +297 737-3796 · Balashi 75-B | 500 sq m, the largest on the island; Mon–Fri 09:00–17:00 Sat 08:00–16:00 ★★★ |
+| Sailmaker / canvas | [30 Knots Sailmaker](https://30knotsaruba.com/) | via website | Sail/kite/wing and canvas repairs since 2017; 5 industrial machines ★★★ |
+| Rigging | [Aruba Rigging](https://www.arubarigging.com/) | via website | Standing/running rigging repair and rope work ★★ |
+| Joinery | Varadero Boatyard (carpenter) | +297 588-3850 | Decks, hatches, painting and haul-out ★★ |
 
-## Renaissance Marina / Oranjestad — supporto in città
-- Renaissance Marketplace, LG Smith Blvd 9 · [Wind Creek Marina +297-588-0260](https://www.windcreekmarina.com/) ★★★ — 40–100 posti fino a 60 m / 4,5 m pescaggio; acqua, elettricità, carburante resort. Prenotazione obbligatoria. ★★
-- Non è polo di carenaggio: per alaggio e lavori importanti si usa Varadero. ★★
+## Renaissance Marina / Oranjestad — City Support
+- Renaissance Marketplace, LG Smith Blvd 9 · [Wind Creek Marina +297-588-0260](https://www.windcreekmarina.com/) ★★★ — 40–100 berths up to 60 m / 4.5 m draught; water, electricity, resort fuel. Advance booking mandatory. ★★
+- Not a haul-out yard: for careening and major works use Varadero. ★★
 
-## Gas & Bottles
+## Gas & Cylinders
 
-- **Gas/GPL: scambio bombole** standard locale/US (propane 20 lbs); per scambio/ricarica **Arugas, Barcadera 42 · +297 585-1198** ([arugas.com](https://arugas.com/pages/en/home-en/)) con servizio 24h; verificare attacco regolatore. ★★★
-- Bombole tipo Campingaz non sempre ricaricabili: prevedere adattatore e scorta. ★★
+- **Gas/LPG: cylinder exchange** local/US standard (propane 20 lbs); for exchange/refill **Arugas, Barcadera 42 · +297 585-1198** ([arugas.com](https://arugas.com/pages/en/home-en/)) with 24h service; check regulator fitting. ★★★
+- Campingaz-type cylinders not always refillable: bring an adapter and keep a spare. ★★
 
 ## Fresh Water
 
-- Varadero: **acqua gratuita a pontile**; Renaissance/Wind Creek: a consumo secondo contratto. Potabilità via rete WEB — chiedere conferma in capitaineria e tenere riserve/dissalatore. ★★★
+- Varadero: **free water at the berth**; Renaissance/Wind Creek: metered per contract. Potability via WEB mains — confirm with harbour office and keep reserves/watermaker. ★★★
 
 ## Strategic Notes
 
-Varadero è **fuori dalla fascia uraganica** e consente sosta lunga in zona franca doganale; ideale per svernamento giugno–novembre. Ricambi tax-free se yacht in zona franca. ★★★
+Varadero is **outside the hurricane belt** and allows long-term stays in the bonded customs area; ideal for overwintering June–November. Spare parts are duty-free if the yacht is in the bonded area. ★★★
 
 ## Technical Hub
 
-Il polo è **Varadero**: **rimorchi Roodberg 20/60 t (80 t da 10/2025)**, 300+ piazzole a secco, 70+ posti in acqua,
-**full services e Budget Marine** a pochi minuti; ricambi ritirati in ufficio/ufficio doganale. ★★
+The hub is **Varadero**: **Roodberg trailers 20/60 t (80 t from 10/2025)**, 300+ ashore stands, 70+ water berths,
+**full services and Budget Marine** a few minutes away; spares collected at the office/customs office. ★★
 
 Last updated: 27/08/2026

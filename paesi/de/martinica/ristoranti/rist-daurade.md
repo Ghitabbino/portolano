@@ -1,20 +1,20 @@
 # La Daurade
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Alle Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Feld | Detail |
 |---|---|
-| Zona | Sainte-Anne |
-| Cucina | 🐟 Creola popolare |
-| Specialità | Accras · colombo pesce del giorno |
-| Costo | 💰€ per persona senza bevande |
-| Location | 🪶 semplice, locale |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Daurade+Sainte-Anne) |
-| Contatti | 0696 85 87 55 / 0696 27 61 64 |
-| Valutazioni | TA 4,0/5 (205) → ★★★★ |
-| Orari | tutti i giorni, pranzo e sera |
+| Zone | Sainte-Anne |
+| Küche | 🐟 Volkstümlich kreolisch |
+| Spezialität | Accras · colombo pesce del giorno |
+| Preis | 💰€ pro Person ohne Getränke |
+| Lage | 🪶 einfach, lokal |
+| Karte | [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Daurade+Sainte-Anne) |
+| Kontakt | 0696 85 87 55 / 0696 27 61 64 |
+| Bewertungen | TA 4,0/5 (205) → ★★★★ |
+| Öffnungszeiten | täglich, Mittagessen e sera |
 
-## Menu
+## Speisekarte
 
 - Accras
 - Boudin antillais
@@ -23,12 +23,14 @@
 - Colombo pesce del giorno
 - Menù entrée+plat+dessert 22 €
 
-**Chef**: ND
+**Küchenchef**: ND
 
-## Foto
+## Fotos
 
 ![La Daurade](img/martinica/rist-daurade.jpg)
 
-*Fonte: sito jimdo del ristorante*
+*Quelle: sito jimdo del ristorante*
 
-**Note**: 3 rue du Capitaine Constant, vicino al mercato del pesce · buon rapporto qualità/prezzo
+**Hinweise**: 3 rue du Capitaine Constant, nahe dem Fischmarkt · gutes Preis-Leistungs-Verhältnis
+
+Letzte Aktualisierung: 22/08/2026

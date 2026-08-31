@@ -1,17 +1,17 @@
 # Saint-Pierre {#anc-saint-pierre}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
-| Campo | Dettaglio |
+[← Alle Ankerplätze](../08-ancoraggi.md)
+| Feld | Detail |
 |---|---|
-| **Boe** |Prenotazione obbligatoria app **Navilly**, pagamento in app, estensioni facili ★★★|
-| **Tenuta** |Buona su sabbia anche nella rada nord ★★★|
-| **Profondità** | 5–10 m circa |
-| **Venti/riparo** |Protezione modesta: alisei entrano nella rada; ok con meteo stabile ★★★|
-| **Pericoli** |Boe francesi con anello metallico rigido: serve far passare la propria cima dentro l'anello (gancio lungo utile) ★★★; àncora possibile a sud del campo boe su plateau stretto ★★★|
-| **Divieti** |⛔ **Épaves storiche del 1902 al largo: àncora vietata sulla zona relitti** ★★★★; baia di Saint-Pierre tra le zone regolamentate >50 m ★★★★|
-| **Extra** | Museo Franck A. Perret (eruzione 1902), vista Mont Pelée, clearance in paese |
+| **Bojen** |Reservierung obligatorisch per App **Navily**, Zahlung in der App, Verlängerungen einfach ★★★|
+| **Halt** |Gut auf Sand auch in der Nord-Reede ★★★|
+| **Tiefe** | Ca. 5–10 m |
+| **Wind/Schutz** |Mäßiger Schutz: Passat zieht in die Reede; bei stabilem Wetter ok ★★★|
+| **Gefahren** |Französische Bojen mit starrem Metallring: eigene Leine durch den Ring führen (langer Bootshaken hilfreich) ★★★; Ankern südlich des Bojenfelds auf schmalem Plateau möglich ★★★|
+| **Verbote** |⛔ **Historische Wracks von 1902 vor der Küste: Ankern auf Wrack-Zone verboten** ★★★★; Bucht von Saint-Pierre unter den regulierten Zonen >50 m ★★★★|
+| **Extras** | Museum Franck A. Perret (Eruption 1902), Blick auf Mont Pelée, Clearance im Ort |
 
 <div class="mapframe" data-slug="saint-pierre" data-lat="14.7410" data-lon="-61.1770"></div>
-*Vista mappa Saint-Pierre (coord. indicative) — zoom con i pulsanti +/−; menu in alto a destra per passare a Carta nautica e Segnali nautici · mappa offline*
+*Kartenansicht Saint-Pierre (Koord. indikativ) — Zoom mit +/−; Menü oben rechts für Seekarte und Seezeichen · Offline-Karte*
 
-Ultimo aggiornamento: 22/08/2026
+Letzte Aktualisierung: 22/08/2026

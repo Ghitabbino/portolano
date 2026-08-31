@@ -1,46 +1,46 @@
-# 10 — Ristoranti
+# 10 — Restaurantes
 
-**Ultimo aggiornamento: 21/08/2026**
+**Última atualização: 21/08/2026**
 
-Selezione orientata alla crociera: locali raggiungibili a piedi dagli ancoraggi e marine del portolano ([08 Ancoraggi](08-ancoraggi.md)). Valutazione ponderata = media Google + (+ dove presente), verificata il 21/08/2026. Prezzi indicativi per persona senza bevande.
+Seleção orientada para o cruzeiro: estabelecimentos acessíveis a pé dos fundeadouros e marinas do roteiro ([08 Fundeadouros](08-ancoraggi.md)). Avaliação ponderada = média Google + (+ onde presente), verificada em 21/08/2026. Preços indicativos por pessoa sem bebidas.
 
-Legenda prezzi: **€** <20 · **€€** 20–40 · **€€€** >40 — Cucina: 🐟 pesce e frutti di mare · 🥩 carne e grigliate · 🥗 vegetariano-friendly · 🥙 street food creolo · 🍰 crêperie e dolci
+Legenda de preços: **€** <20 · **€€** 20–40 · **€€€** >40 — Cozinha: 🐟 peixe e marisco · 🥩 carne e grelhados · 🥗 vegetariano-friendly · 🥙 street food crioulo · 🍰 crêperie e doces
 
-## Mappa dei ristoranti
+## Mapa dos restaurantes
 
 <div class="mapframe" data-slug="guadalupa" data-minz="7" data-maxz="17" data-lat="16.10" data-lon="-61.39" data-markers='[[15.867, -61.583, "Le Toumbana", "rist-toumbana"], [16.305, -61.795, "Chez Ketty", "rist-ketty"], [16.307, -61.79454, "La Savane", "rist-savane"], [16.30509, -61.79645, "Le Madras", "rist-madras"], [16.3045, -61.79774, "Chez Raf", "rist-raf"], [16.30549, -61.79628, "L’Anse Gourmande", "rist-anse-gourmande"], [16.2234, -61.5189, "Le Lucullus", "rist-lucullus"], [16.2252, -61.5201, "Le Cabanon", "rist-cabanon"], [16.226, -61.521, "Le Coquillage", "rist-coquillage"], [16.2245, -61.5195, "Le Balaou", "rist-balaou"], [16.24168, -61.27528, "Le Zagaya", "rist-zagaya"], [15.9500, -61.1320, "La Playa", "rist-playa"], [15.9465, -61.1365, "Table du Père Labat", "rist-pere-labat"], [16.222, -61.493, "Le Planteur", "rist-planteur"], [16.50438, -61.50146, "Le Rayon de Soleil", "rist-rayon-soleil"]]'></div>
 
-## Griglia generale
+## Grelha geral
 
-| Ristorante | Zona | Costo | Cucina | Specialità | Location | Stelle |
+| Restaurante | Zona | Custo | Cozinha | Especialidade | Localização | Estrelas |
 |---|---|---|---|---|---|---|
-| [Le Toumbana](ristoranti/rist-toumbana.md) | Terre-de-Haut (Les Saintes) | **€€** | **🐟 Creola in giardino** | *Langouste · accras* | **🌴 giardino tropicale** | ★★★★ |
-| [Chez Ketty](ristoranti/rist-ketty.md) | Deshaies | **€€** | **🐟 Langouste grigliata** | *Langouste (prenotarla al mattino)* | **🌴 case créole in giardino** | ★★★★★ |
-| [La Savane](ristoranti/rist-savane.md) | Deshaies | **€€** | **🐟 Francese-caraibica** | *Pesce fresco · colombo* | **🌅 vista mare** | ★★★★½ |
-| [Le Madras](ristoranti/rist-madras.md) | Deshaies | **€€** | **🐟 Creola fronte mare** | *Accras · thon* | **🪶 bordo mare, set TV** | ★★★★ |
-| [Chez Raf](ristoranti/rist-raf.md) | Deshaies | **€€€** | **🍽️ Raffinata caraibica** | *Pesce creativo* | **🍽️ elegante informale, cocktails** | ★★★★★ |
-| [L'Anse Gourmande](ristoranti/rist-anse-gourmande.md) | Deshaies | **€€** | **🐟 Caraibica** | *Pesce · prodotti locali* | **🪶 locale nuovo** | ★★★★★* |
-| [Le Lucullus](ristoranti/rist-lucullus.md) | Sainte-Anne | **€€** | **🐟 Creola-francese** | *Pesce · langouste* | **🌅 terrazza** | ★★★★ |
-| [Le Cabanon](ristoranti/rist-cabanon.md) | Sainte-Anne | **€€** | **🍽️ Franco-caraibica creativa** | *Menu creativo stagionale* | **🪶 piccolo, curato** | ★★★★★ |
-| [Le Coquillage](ristoranti/rist-coquillage.md) | Sainte-Anne | **€€** | **🐟 Frutti di mare** | *Crustacés · pesce* | **🏖️ fronte spiaggia** | ★★★★½ |
-| [Le Balaou](ristoranti/rist-balaou.md) | Sainte-Anne | **€€** | **🐟 Tataki di tonno** | *Tataki de thon · pesce* | **🌅 terrazza rilassata** | ★★★★ |
-| [Le Zagaya](ristoranti/rist-zagaya.md) | Saint-François | **€€** | **🐟 Pieds dans l'eau** | *Crabe farci · dorade al riso nero* | **🏖️ spiaggia, tramonto** | ★★★★ |
-| [La Playa](ristoranti/rist-playa.md) | Marie-Galante | **€€** | **🐟 Locale rivisitata** | *Pesce · boudin créole* | **🏖️ beach front** | ★★★★ |
-| [La Table du Père Labat](ristoranti/rist-pere-labat.md) | Grand-Bourg | **€€** | **🐟 Antillana-francese** | *Lambi · dolci al rum* | **🪶 tradizionale** | ★★★★ |
-| [Le Planteur](ristoranti/rist-planteur.md) | Gosier | **€€** | **🥩 Poulet boucané** | *Poulet boucané · ouassous* | **🌴 corte creola** | ★★★★ |
-| [Le Rayon de Soleil](ristoranti/rist-rayon-soleil.md) | Anse-Bertrand | **€€€** | **🍽️ Creativa locale** | *Menù degustazione* | **🌅 vista oceano atlantico** | ★★★★ |
+| [Le Toumbana](ristoranti/rist-toumbana.md) | Terre-de-Haut (Les Saintes) | **€€** | **🐟 Crioula no jardim** | *Langouste · accras* | **🌴 jardim tropical** | ★★★★ |
+| [Chez Ketty](ristoranti/rist-ketty.md) | Deshaies | **€€** | **🐟 Lagosta grelhada** | *Langouste (reservar de manhã)* | **🌴 casa crioula no jardim** | ★★★★★ |
+| [La Savane](ristoranti/rist-savane.md) | Deshaies | **€€** | **🐟 Franco-caribenha** | *Peixe fresco · colombo* | **🌅 vista mar** | ★★★★½ |
+| [Le Madras](ristoranti/rist-madras.md) | Deshaies | **€€** | **🐟 Crioula frente-mar** | *Accras · thon* | **🪶 beira-mar, cenário TV** | ★★★★ |
+| [Chez Raf](ristoranti/rist-raf.md) | Deshaies | **€€€** | **🍽️ Refinada caribenha** | *Peixe criativo* | **🍽️ elegante informal, cocktails** | ★★★★★ |
+| [L'Anse Gourmande](ristoranti/rist-anse-gourmande.md) | Deshaies | **€€** | **🐟 Caribenha** | *Peixe · produtos locais* | **🪶 local novo** | ★★★★★* |
+| [Le Lucullus](ristoranti/rist-lucullus.md) | Sainte-Anne | **€€** | **🐟 Crioula-francesa** | *Peixe · langouste* | **🌅 esplanada** | ★★★★ |
+| [Le Cabanon](ristoranti/rist-cabanon.md) | Sainte-Anne | **€€** | **🍽️ Franco-caribenha criativa** | *Menu criativo sazonal* | **🪶 pequeno, cuidado** | ★★★★★ |
+| [Le Coquillage](ristoranti/rist-coquillage.md) | Sainte-Anne | **€€** | **🐟 Mariscos** | *Crustacés · peixe* | **🏖️ frente à praia** | ★★★★½ |
+| [Le Balaou](ristoranti/rist-balaou.md) | Sainte-Anne | **€€** | **🐟 Tataki de atum** | *Tataki de thon · peixe* | **🌅 esplanada descontraída** | ★★★★ |
+| [Le Zagaya](ristoranti/rist-zagaya.md) | Saint-François | **€€** | **🐟 Pés na água** | *Crabe farci · dourada com arroz negro* | **🏖️ praia, pôr do sol** | ★★★★ |
+| [La Playa](ristoranti/rist-playa.md) | Marie-Galante | **€€** | **🐟 Local revisitada** | *Peixe · boudin créole* | **🏖️ frente à praia** | ★★★★ |
+| [La Table du Père Labat](ristoranti/rist-pere-labat.md) | Grand-Bourg | **€€** | **🐟 Antilhana-francesa** | *Lambi · doces de rum* | **🪶 tradicional** | ★★★★ |
+| [Le Planteur](ristoranti/rist-planteur.md) | Gosier | **€€** | **🥩 Frango fumado** | *Poulet boucané · ouassous* | **🌴 pátio crioulo** | ★★★★ |
+| [Le Rayon de Soleil](ristoranti/rist-rayon-soleil.md) | Anse-Bertrand | **€€€** | **🍽️ Criativa local** | *Menu degustação* | **🌅 vista para o oceano Atlântico** | ★★★★ |
 
-## App e fonti
+## Apps e fontes
 
-| Piattaforma | Uso locale |
+| Plataforma | Uso local |
 |---|---|
-| [TheFork/LaFourchette](https://www.thefork.fr) | Copertura parziale nelle Antille; sconti −20/−30/−50% dove presente ⚠️ verificare ristorante per ristorante |
-| Confronto valutazioni online | Ampio, buono per confrontare |
-| Google Maps recensioni | Il più aggiornato; orari spesso errati fuori stagione |
-| Facebook locale | Pagine dei ristoranti: menu e chiusure in tempo reale |
-| [Uber Eats](https://www.ubereats.com) |Attivo a Pointe-à-Pitre/Les Abymes/Baie-Mahault dal 2021 (consegna 11–14:30 / 18–23) ★★★|
+| [TheFork/LaFourchette](https://www.thefork.fr) | Cobertura parcial nas Antilhas; descontos −20/−30/−50% onde presente ⚠️ verificar restaurante a restaurante |
+| Comparação de avaliações online | Ampla, boa para comparar |
+| Google Maps avaliações | O mais atualizado; horários frequentemente errados fora de época |
+| Facebook local | Páginas dos restaurantes: ementas e encerramentos em tempo real |
+| [Uber Eats](https://www.ubereats.com) |Ativo em Pointe-à-Pitre/Les Abymes/Baie-Mahault desde 2021 (entrega 11–14:30 / 18–23) ★★★|
 
-Ultimo aggiornamento: 22/08/2026
+Última atualização: 22/08/2026
 
-## App e fonti
-Ultimo aggiornamento: 22/08/2026
+## Apps e fontes
+Última atualização: 22/08/2026

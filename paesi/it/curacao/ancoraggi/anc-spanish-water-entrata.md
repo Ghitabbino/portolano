@@ -15,6 +15,6 @@
 <div class="mapframe" data-slug="anc-spanish-water-entrata" data-lat="12.0626" data-lon="-68.853"></div>
 *Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 verificate satellite (in mezzo al mare)*
 
-Fonti: Noonsite — Spanish Water Entrance 12°03.7'N 68°51.2'W ★★★ · Noonsite Update 13/08/2025 ★★★
+Fonti: Fonti diportiste aggregate ★★★ · Fonti diportiste aggregate Update 13/08/2025 ★★★
 
 Ultimo aggiornamento: 28/08/2026

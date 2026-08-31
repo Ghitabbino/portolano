@@ -1,10 +1,10 @@
 # 10 — Restaurants
 
-**Dernière mise à jour: 21/08/2026**
+**Dernière mise à jour : 21/08/2026**
 
-Selezione orientata alla crociera: locali raggiungibili a piedi dagli ancoraggi e marine del portolano ([08 Ancoraggi](08-ancoraggi.md)). Valutazione ponderata = media Google + (+ dove presente), verificata il 21/08/2026. Prezzi indicativi per persona senza bevande.
+Sélection orientée croisière : établissements accessibles à pied depuis les mouillages et marinas du guide ([08 Mouillages](08-ancoraggi.md)). Évaluation pondérée = moyenne Google + (le cas échéant), vérifiée le 21/08/2026. Prix indicatifs par personne hors boissons.
 
-Légende prezzi: **€** <20 · **€€** 20–40 · **€€€** >40 — Cuisine: 🐟 pesce e frutti di mare · 🥩 carne e grigliate · 🥗 vegetariano-friendly · 🥙 street food creolo · 🍰 crêperie e dolci
+Légende prix : **€** <20 · **€€** 20–40 · **€€€** >40 — Cuisine : 🐟 poisson et fruits de mer · 🥩 viande et grillades · 🥗 végétarien-friendly · 🥙 street-food créole · 🍰 crêperie et desserts
 
 ## Carte des restaurants
 
@@ -12,35 +12,32 @@ Légende prezzi: **€** <20 · **€€** 20–40 · **€€€** >40 — Cuis
 
 ## Grille générale
 
-| Ristorante | Zone | Coût | Cuisine | Spécialité | Emplacement | Stelle |
+| Restaurant | Zone | Coût | Cuisine | Spécialité | Emplacement | Étoiles |
 |---|---|---|---|---|---|---|
-| [Le Toumbana](ristoranti/rist-toumbana.md) | Terre-de-Haut (Les Saintes) | **€€** | **🐟 Creola in giardino** | *Langouste · accras* | **🌴 giardino tropicale** | ★★★★ |
-| [Chez Ketty](ristoranti/rist-ketty.md) | Deshaies | **€€** | **🐟 Langouste grigliata** | *Langouste (prenotarla al mattino)* | **🌴 case créole in giardino** | ★★★★★ |
-| [La Savane](ristoranti/rist-savane.md) | Deshaies | **€€** | **🐟 Francese-caraibica** | *Pesce fresco · colombo* | **🌅 vista mare** | ★★★★½ |
-| [Le Madras](ristoranti/rist-madras.md) | Deshaies | **€€** | **🐟 Creola fronte mare** | *Accras · thon* | **🪶 bordo mare, set TV** | ★★★★ |
-| [Chez Raf](ristoranti/rist-raf.md) | Deshaies | **€€€** | **🍽️ Raffinata caraibica** | *Pesce creativo* | **🍽️ elegante informale, cocktails** | ★★★★★ |
-| [L'Anse Gourmande](ristoranti/rist-anse-gourmande.md) | Deshaies | **€€** | **🐟 Caraïbesca** | *Pesce · prodotti locali* | **🪶 locale nuovo** | ★★★★★* |
-| [Le Lucullus](ristoranti/rist-lucullus.md) | Sainte-Anne | **€€** | **🐟 Creola-francese** | *Pesce · langouste* | **🌅 terrazza** | ★★★★ |
-| [Le Cabanon](ristoranti/rist-cabanon.md) | Sainte-Anne | **€€** | **🍽️ Franco-caraibica creativa** | *Menu creativo stagionale* | **🪶 piccolo, curato** | ★★★★★ |
-| [Le Coquillage](ristoranti/rist-coquillage.md) | Sainte-Anne | **€€** | **🐟 Frutti di mare** | *Crustacés · pesce* | **🏖️ fronte spiaggia** | ★★★★½ |
-| [Le Balaou](ristoranti/rist-balaou.md) | Sainte-Anne | **€€** | **🐟 Tataki di tonno** | *Tataki de thon · pesce* | **🌅 terrazza rilassata** | ★★★★ |
-| [Le Zagaya](ristoranti/rist-zagaya.md) | Saint-François | **€€** | **🐟 Pieds dans l'eau** | *Crabe farci · dorade al riso nero* | **🏖️ spiaggia, tramonto** | ★★★★ |
-| [La Playa](ristoranti/rist-playa.md) | Marie-Galante | **€€** | **🐟 Locale rivisitata** | *Pesce · boudin créole* | **🏖️ beach front** | ★★★★ |
-| [La Table du Père Labat](ristoranti/rist-pere-labat.md) | Grand-Bourg | **€€** | **🐟 Antillana-francese** | *Lambi · dolci al rum* | **🪶 tradizionale** | ★★★★ |
-| [Le Planteur](ristoranti/rist-planteur.md) | Gosier | **€€** | **🥩 Poulet boucané** | *Poulet boucané · ouassous* | **🌴 corte creola** | ★★★★ |
-| [Le Rayon de Soleil](ristoranti/rist-rayon-soleil.md) | Anse-Bertrand | **€€€** | **🍽️ Creativa locale** | *Menù degustazione* | **🌅 vista oceano atlantico** | ★★★★ |
+| [Le Toumbana](ristoranti/rist-toumbana.md) | Terre-de-Haut (Les Saintes) | **€€** | **🐟 Créole au jardin** | *Langouste · accras* | **🌴 jardin tropical** | ★★★★ |
+| [Chez Ketty](ristoranti/rist-ketty.md) | Deshaies | **€€** | **🐟 Langouste grillée** | *Langouste (à réserver le matin)* | **🌴 cases créoles au jardin** | ★★★★★ |
+| [La Savane](ristoranti/rist-savane.md) | Deshaies | **€€** | **🐟 Franco-caribéenne** | *Poisson frais · colombo* | **🌅 vue mer** | ★★★★½ |
+| [Le Madras](ristoranti/rist-madras.md) | Deshaies | **€€** | **🐟 Créole face mer** | *Accras · thon* | **🪶 bord de mer, décor TV** | ★★★★ |
+| [Chez Raf](ristoranti/rist-raf.md) | Deshaies | **€€€** | **🍽️ Créole raffinée** | *Poisson créatif* | **🍽️ chic décontracté, cocktails** | ★★★★★ |
+| [L'Anse Gourmande](ristoranti/rist-anse-gourmande.md) | Deshaies | **€€** | **🐟 Caribéenne** | *Poisson · produits locaux* | **🪶 établissement récent** | ★★★★★* |
+| [Le Lucullus](ristoranti/rist-lucullus.md) | Sainte-Anne | **€€** | **🐟 Créole-française** | *Poisson · langouste* | **🌅 terrasse** | ★★★★ |
+| [Le Cabanon](ristoranti/rist-cabanon.md) | Sainte-Anne | **€€** | **🍽️ Franco-caribéenne créative** | *Menu créatif de saison* | **🪶 petit, soigné** | ★★★★★ |
+| [Le Coquillage](ristoranti/rist-coquillage.md) | Sainte-Anne | **€€** | **🐟 Fruits de mer** | *Crustacés · poisson* | **🏖️ front de plage** | ★★★★½ |
+| [Le Balaou](ristoranti/rist-balaou.md) | Sainte-Anne | **€€** | **🐟 Tataki de thon** | *Tataki de thon · poisson* | **🌅 terrasse détendue** | ★★★★ |
+| [Le Zagaya](ristoranti/rist-zagaya.md) | Saint-François | **€€** | **🐟 Les pieds dans l'eau** | *Crabe farci · dorade au riz noir* | **🏖️ plage, coucher de soleil** | ★★★★ |
+| [La Playa](ristoranti/rist-playa.md) | Marie-Galante | **€€** | **🐟 Locale revisitée** | *Poisson · boudin créole* | **🏖️ beach front** | ★★★★ |
+| [La Table du Père Labat](ristoranti/rist-pere-labat.md) | Grand-Bourg | **€€** | **🐟 Antillaise-française** | *Lambi · desserts au rhum* | **🪶 traditionnel** | ★★★★ |
+| [Le Planteur](ristoranti/rist-planteur.md) | Gosier | **€€** | **🥩 Poulet boucané** | *Poulet boucané · ouassous* | **🌴 cour créole** | ★★★★ |
+| [Le Rayon de Soleil](ristoranti/rist-rayon-soleil.md) | Anse-Bertrand | **€€€** | **🍽️ Créative locale** | *Menu dégustation* | **🌅 vue océan Atlantique** | ★★★★ |
 
 ## Applis et sources
 
-| Piattaforma | Uso locale |
+| Plateforme | Usage local |
 |---|---|
-| [TheFork/LaFourchette](https://www.thefork.fr) | Copertura parziale nelle Antille; sconti −20/−30/−50% dove presente ⚠️ verificare ristorante per ristorante |
-| Confronto valutazioni online | Ampio, buono per confrontare |
-| Google Maps recensioni | Il più aggiornato; orari spesso errati fuori stagione |
-| Facebook locale | Pagine dei ristoranti: menu e chiusure in tempo reale |
-| [Uber Eats](https://www.ubereats.com) |Attivo a Pointe-à-Pitre/Les Abymes/Baie-Mahault dal 2021 (consegna 11–14:30 / 18–23) ★★★|
+| [TheFork/LaFourchette](https://www.thefork.fr) | Couverture partielle aux Antilles ; remises −20/−30/−50 % le cas échéant ⚠️ vérifier restaurant par restaurant |
+| Comparateur d'avis en ligne | Large, utile pour comparer |
+| Avis Google Maps | Le plus à jour ; horaires souvent erronés hors saison |
+| Facebook local | Pages des restaurants : menus et fermetures en temps réel |
+| [Uber Eats](https://www.ubereats.com) | Actif à Pointe-à-Pitre/Les Abymes/Baie-Mahault depuis 2021 (livraison 11–14:30 / 18–23) ★★★ |
 
-Dernière mise à jour: 22/08/2026
-
-## Applis et sources
-Dernière mise à jour: 22/08/2026
+Dernière mise à jour : 22/08/2026

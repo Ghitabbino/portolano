@@ -5,14 +5,14 @@
 | Champ | Détail |
 |---|---|
 | Zone | Sainte-Luce |
-| Cuisine | 🐟 Bistronomico pesce |
+| Cuisine | 🐟 Bistronomique poisson |
 | Spécialité | Daurade snackée sauce aimé · langouste flambée |
-| Coût | 💰€€ per persona senza bevande |
-| Emplacement | 🌅 bistrot sul mare |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sous+le+Vent+Sainte-Luce) |
+| Coût | 💰€€ par personne hors boissons |
+| Emplacement | 🌅 bistrot sur mer |
+| Carte | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sous+le+Vent+Sainte-Luce) |
 | Contacts | 0596 28 63 70 / 0607 76 45 92 |
-| Évaluations | TA 4,7/5 (138), Travellers' Choice 2025 (n°5/777 a Sainte-Luce) → ★★★★★ |
-| Horaires | mer–dom 12–14 / 18–21 · chiuso lun–mar |
+| Évaluations | TA 4,7/5 (138), Travellers' Choice 2025 (n°5/777 à Sainte-Luce) → ★★★★★ |
+| Horaires | mer–dim 12–14 / 18–21 · fermé lun–mar |
 
 ## Menu
 
@@ -25,14 +25,14 @@
 - Tentacules de poulpe crème d'ail 27 €
 - Langouste flambée 46 €
 
-**Chef**: Lionel (cucina) e Annie in sala, bretoni
+**Chef**: Lionel (cuisine) et Annie en salle, bretons
 
 ## Photos
 
 ![Sous le Vent](img/martinica/rist-sous-le-vent.jpg)
 
-*Source: sito Google Business del ristorante*
+*Source : site Google Business du restaurant*
 
-**Note**: 15 bd Kennedy, fronte mare · 🔴 CHIUSURA ANNUALE 27/04–15/10/2026
+**Notes** : 15 bd Kennedy, front de mer · 🔴 FERMETURE ANNUELLE 27/04–15/10/2026
 
-**Extra**: email r.souslevent@gmail.com
+**Extra** : email r.souslevent@gmail.com

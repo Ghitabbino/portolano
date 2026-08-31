@@ -4,7 +4,7 @@
 
 Currency: **euro (EUR)**. Price level: **DATA MISSING** — from check with fonti locali aggiornate.
 
-> ⚠️ Le voci of questo elenco are le stesse for all i paesi of the portolano. Dove il dato non è stato still trovato dalle fonti si scrive **DATA MISSING**: viene ricercato at the controllo mensile (vedi [00 Index](../00-indice.md)).
+> ⚠️ Le voci of questo elenco are le stesse for all i paesi of the portolano. Dove il dato non è stato still trovato dalle fonti si scrive **DATA MISSING**: viene ricercato at the controllo mensile (vedi [00 Index](00-indice.md)).
 
 ## Groceries & Galley Provisioning
 

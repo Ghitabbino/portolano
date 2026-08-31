@@ -1,29 +1,29 @@
 # Le Madras
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Alle Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Feld | Detail |
 |---|---|
-| Zona | Deshaies |
-| Cucina | 🐟 Creola fronte mare |
-| Specialità | Accras · thon |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🪶 bordo mare, set TV |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Madras+Deshaies) |
-| Contatti | [Mappa](https://www.google.com/maps/search/?api=1&query=Restaurant+Le+Madras+Deshaies) |
-| Valutazioni | Google 4,3/5 (398) → ★★★★ |
-| Orari | pranzo tutto l'anno · cena stagionale ⚠️ |
+| Gebiet | Deshaies |
+| Küche | 🐟 Kreolisch direkt am Meer |
+| Spezialität | Accras · Thunfisch |
+| Preis | 💰€€ pro Person ohne Getränke |
+| Lage | 🪶 direkt am Meer, TV-Drehort |
+| Karte | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Madras+Deshaies) |
+| Kontakt | [Karte](https://www.google.com/maps/search/?api=1&query=Restaurant+Le+Madras+Deshaies) |
+| Bewertungen | Google 4,3/5 (398) → ★★★★ |
+| Öffnungszeiten | Mittagessen ganzjährig · Abendessen saisonal ⚠️ |
 
-## Menu
+## Menü
 
 - Accras
-- Thon
-- Piatti creoli
+- Thunfisch
+- Kreolische Gerichte
 
 **Chef**: ND
 
-## Foto
+## Fotos
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Noch keine Fotos verfügbar — werden bei der monatlichen Kontrolle ergänzt.*
 
-**Note**: 7 rue de la Vague Bleue · location della serie “Meurtres au paradis”
+**Hinweise**: 7 rue de la Vague Bleue · Drehort der Serie „Death in Paradise“

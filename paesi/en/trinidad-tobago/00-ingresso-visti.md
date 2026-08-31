@@ -1,6 +1,6 @@
 # 00 — Entry, documents & visas
 
-**Ultima verifica: 25/08/2026** · Fonti: gov.uk ★★★★ · Noonsite ★★★ · MSATT/YSATT ★★★ · gotrinidadandtobago.com ★★★
+**Ultima verifica: 25/08/2026** · Fonti: gov.uk ★★★★ · Cruising sources aggregate ★★★ · MSATT/YSATT ★★★ · gotrinidadandtobago.com ★★★
 
 ## Status
 

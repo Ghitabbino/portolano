@@ -2,7 +2,7 @@
 
 Ultimo aggiornamento: 22/08/2026 · Valuta: **euro** · Fiscalità speciale IGIC ~7% (vs IVA 21% continentale) → prezzi mediamente più bassi che in Spagna continentale.
 
-⚠️ Voci con (da confermare) vengono ricercate al controllo mensile (vedi [00 Indice](../../00-indice.md)).
+⚠️ Voci con (da confermare) vengono ricercate al controllo mensile (vedi [00 Indice](../00-indice.md)).
 
 ## Alimentari e spesa di bordo
 

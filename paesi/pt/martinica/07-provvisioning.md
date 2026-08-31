@@ -1,51 +1,51 @@
-# 07 — Provvisioning
+# 07 — Abastecimento
 
-**Ultima verifica: 21/08/2026**
+**Última verificação: 21/08/2026**
 
-## Livello prezzi generale
+## Nível geral de preços
 
-- Alimentari più cari che in Francia metropolitana (importazione); comunque **più economici delle Grenadine** secondo i naviganti. ★★
-- Prodotti locali convenienti: pesce (portofisherman al Marin), frutta/verdura mercati, pane/boulangerie. ★★★
+- Alimentos mais caros que na França metropolitana (importação); ainda assim **mais baratos que nas Granadinas** segundo os velejadores. ★★
+- Produtos locais vantajosos: peixe (pescadores no porto de Le Marin), fruta/legumes nos mercados, pão/boulangerie. ★★★
 
-## Supermercati
+## Supermercados
 
-### Le Marin ⚓ base principale
+### Le Marin ⚓ base principal
 
-| Negozio | Ubicazione | Distanza dalla marina | A piedi? | Note | Fonte |
+| Loja | Localização | Distância da marina | A pé? | Notas | Fonte |
 |---|---|---|---|---|---|
-| **Carrefour Market** | Nouveau Bassin, area marina | ~200–400 m | ✅ sì | Lun–sab 8–20, dom/festivi 8–13 · tel +596 596 74 85 85 · completo anche di freschi, pesce, panetteria; nel piccolo centro commerciale con libreria, souvenir, fast-food |★★★|
-| **Leader Price** | Avenue Aimé Césaire / Montgérald | ~1–2 km | ✅ sì (15–20 min) | Discount francese, buono per base scorta |Mappy ★★★|
-| **Auchan** | Lotissement Mondésir | ~2–3 km | ⚠️ possibile ma scomodo col carico | Ipermercato: la scelta più ampia per grandi scorte; taxi/bus |Mappy ★★★|
-| **Ecomax** | ZAC Duprey | ~2 km | ✅ sì | Discount |Mappy ★★★|
-| **La Vie Claire** | Usine du Marin | ~1,5 km | ✅ sì | Bio/vegetale |Mappy ★★★|
+| **Carrefour Market** | Nouveau Bassin, área da marina | ~200–400 m | ✅ sim | Seg–sáb 8–20, dom/feriados 8–13 · tel +596 596 74 85 85 · completo também em frescos, peixe, padaria; no pequeno centro comercial com livraria, lembranças, fast-food |★★★|
+| **Leader Price** | Avenue Aimé Césaire / Montgérald | ~1–2 km | ✅ sim (15–20 min) | Discount francês, bom para stock base |Mappy ★★★|
+| **Auchan** | Lotissement Mondésir | ~2–3 km | ⚠️ possível mas incómodo com carga | Hipermercado: a escolha mais ampla para grandes aprovisionamentos; táxi/autocarro |Mappy ★★★|
+| **Ecomax** | ZAC Duprey | ~2 km | ✅ sim | Discount |Mappy ★★★|
+| **La Vie Claire** | Usine du Marin | ~1,5 km | ✅ sim | Bio/vegetariano |Mappy ★★★|
 
-Chandler in zona marina per ricambi nautici (prezzi ok rispetto alle Grenadine). ★★
+Chandler na zona da marina para peças náuticas (preços ok face às Granadinas). ★★
 
 ### Sainte-Anne
 
-Borgo con épiceries/superette raggiungibili **a piedi dal pontile dinghy** (centro a poche centinaia di metri). Scorta limitata: per il grosso si va al Marin. ★★
+Aldeia com mercearias/minimercados acessíveis **a pé do pontão do bote** (centro a poucas centenas de metros). Stock limitado: para grande aprovisionamento vai-se a Le Marin. ★★
 
 ### Fort-de-France
 
-Grande scelta urbana (supermercati in centro e periferia), comoda se si è alla baia Z'Abricots/Fort Saint-Louis. Elenco e distanze **da verificare** al prossimo aggiornamento.
+Grande escolha urbana (supermercados no centro e periferia), cómoda se estiver na baía Z'Abricots/Fort Saint-Louis. Lista e distâncias **a verificar** na próxima atualização.
 
-## Mercati
+## Mercados
 
-- **Mercato del pesce del Marin**: porto pescatori, pescato fresco quotidiano. ★★★
-- Marché communal de Sainte-Anne: frutta/verdura nel bourg, mattino. ★★★
-- Fort-de-France: Grand Marché in centro — spezie, frutta, pesce. ★★★
+- **Mercado de peixe de Le Marin**: porto dos pescadores, pescado fresco diário. ★★★
+- Marché communal de Sainte-Anne: fruta/legumes no bourg, de manhã. ★★★
+- Fort-de-France: Grand Marché no centro — especiarias, fruta, peixe. ★★★
 
-## Acqua e carburante
+## Água e combustível
 
-| Servizio | Dove | Note |
+| Serviço | Onde | Notas |
 |---|---|---|
-| Water dock | Marina du Marin | 9,00 €/m³ · consegna a galla 2,50 €/100 l → tariffe in [03](03-porti-ancoraggi.md) |
-| Fuel dock | CAP Ponton (Le Marin), CAP DCML (FdF) | Prezzi regolati francesi → [02 Costi](02-costi.md) |
-| Gas (butane/propane) | Scambio bombole standard francesi a Le Marin | Solo scambio, niente rabbocco → [04 Servizi](04-servizi-cantieri.md) |
+| Cais de água | Marina du Marin | 9,00 €/m³ · entrega ao largo 2,50 €/100 l → tarifas em [03](03-porti-ancoraggi.md) |
+| Cais de combustível | CAP Ponton (Le Marin), CAP DCML (FdF) | Preços regulados franceses → [02 Custos](02-costi.md) |
+| Gás (butano/propano) | Troca de botijas padrão francês em Le Marin | Apenas troca, sem enchimento → [04 Serviços](04-servizi-cantieri.md) |
 
-## Consigli pratici
+## Conselhos práticos
 
-- Carrello/trolley pieghevole a bordo: dal Carrefour Market della marina tutto è a portata di gommone.
-- Acqua in bottiglia: tenere conto delle possibili penurie idriche dell'isola → [04 Servizi](04-servizi-cantieri.md).
+- Carrinho/trolley dobrável a bordo: do Carrefour Market da marina tudo fica ao alcance do bote.
+- Água engarrafada: ter em conta as possíveis faltas de água na ilha → [04 Serviços](04-servizi-cantieri.md).
 
-Ultimo aggiornamento: 22/08/2026
+Última atualização: 22/08/2026

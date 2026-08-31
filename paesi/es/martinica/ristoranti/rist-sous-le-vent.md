@@ -1,20 +1,20 @@
 # Sous le Vent
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Todos los restaurantes](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Campo | Detalle |
 |---|---|
 | Zona | Sainte-Luce |
-| Cucina | 🐟 Bistronomico pesce |
-| Specialità | Daurade snackée sauce aimé · langouste flambée |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🌅 bistrot sul mare |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sous+le+Vent+Sainte-Luce) |
-| Contatti | 0596 28 63 70 / 0607 76 45 92 |
-| Valutazioni | TA 4,7/5 (138), Travellers' Choice 2025 (n°5/777 a Sainte-Luce) → ★★★★★ |
-| Orari | mer–dom 12–14 / 18–21 · chiuso lun–mar |
+| Cocina | 🐟 Bistronómico de pescado |
+| Especialidad | Daurade snackée sauce aimé · langosta flambeada |
+| Coste | 💰€€ por persona sin bebidas |
+| Ubicación | 🌅 bistrot sobre el mar |
+| Mapa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sous+le+Vent+Sainte-Luce) |
+| Contacto | 0596 28 63 70 / 0607 76 45 92 |
+| Valoraciones | TA 4,7/5 (138), Travellers' Choice 2025 (n°5/777 en Sainte-Luce) → ★★★★★ |
+| Horario | mié–dom 12–14 / 18–21 · cerrado lun–mar |
 
-## Menu
+## Menú
 
 - Accras à notre façon 7 €
 - Rillette de thazard créole 7 €
@@ -23,16 +23,16 @@
 - Daurade snackée sauce aimé 25 €
 - Tartare de thon aller-retour 26 €
 - Tentacules de poulpe crème d'ail 27 €
-- Langouste flambée 46 €
+- Langosta flambeada 46 €
 
-**Chef**: Lionel (cucina) e Annie in sala, bretoni
+**Chef**: Lionel (cocina) y Annie en sala, bretones
 
-## Foto
+## Fotos
 
 ![Sous le Vent](img/martinica/rist-sous-le-vent.jpg)
 
-*Fonte: sito Google Business del ristorante*
+*Fuente: web Google Business del restaurante*
 
-**Note**: 15 bd Kennedy, fronte mare · 🔴 CHIUSURA ANNUALE 27/04–15/10/2026
+**Notas**: 15 bd Kennedy, frente al mar · 🔴 CIERRE ANUAL 27/04–15/10/2026
 
 **Extra**: email r.souslevent@gmail.com

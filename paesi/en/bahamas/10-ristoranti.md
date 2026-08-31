@@ -2,64 +2,64 @@
 
 **Last updated: 24/08/2026**
 
-Cruiser-oriented selection: locali raggiungibili a piedi or in dinghy/taxi breve dagli ancoraggi e marine del portolano ([08 Ancoraggi](08-ancoraggi.md) · [03 Porti](03-porti-ancoraggi.md)). Valutazione ponderata = media Google/TripAdvisor dove disponibile, verificata il 24/08/2026. Prezzi indicativi per person without drinks, **USD/BSD 1:1**.
+Cruise-oriented selection: venues reachable on foot or by short dinghy/taxi from the anchorages and marinas in the pilot ([08 Anchorages](08-ancoraggi.md) · [03 Ports](03-porti-ancoraggi.md)). Weighted rating = average Google/TripAdvisor where available, verified 24/08/2026. Indicative prices per person without drinks, **USD/BSD 1:1**.
 
-Price key: **€/$** <20 · **€€/$$** 20–40 · **€€€/$$$** >40 — Cucina: 🐟 pesce e frutti di mare · 🥩 carne e grigliate · 🥗 vegetariano-friendly · 🥙 street food bahamense · 🍹 bar & cocktail
+Price key: **€/$** <20 · **€€/$$** 20–40 · **€€€/$$$** >40 — Cuisine: 🐟 fish & seafood · 🥩 meat & grill · 🥗 vegetarian-friendly · 🥙 Bahamian street food · 🍹 bar & cocktails
 
 ## General Grid
 
-| Restaurant | Area | Cost | Cuisine | Speciality | Location | Rating |
+| Restaurant | Area | Cost | Cuisine | Speciality | Location | Stars |
 |---|---|---|---|---|---|---|
-| **Arawak Cay Fish Fry — Drifters / Oh Andros / Goldie's / Twin Brothers** | **Arawak Cay, Nassau** | **$$** 15–35 | **🐟🥙 Pesce bahamense / street** | *Conch cracked, fritters, snapper, sky juice* | **🏖️ fish fry all'aperto, vista mare** | ★★★★ |
-| **Potter's Cay — conch shacks sotto il ponte** | **Potter's Cay, Nassau** | **$** 10–20 | **🐟 Street conch** | *Conch salad fatta al momento, fritters* | **⚓ dinghy/marina, take-away** | ★★★★ |
-| **Fish by José Andrés — Atlantis** | **Atlantis, Paradise Island** | **$$$** 80–150 | **🐟 Alta cucina pesce** | *Crudo, ceviche, pescato caraibico* | **🏛️ resort 5*** | ★★★★½ |
-| **DUNE by Jean-Georges — Atlantis** | **Atlantis** | **$$$** 90–180 | **🍽️ Fusion francese-asiatica** | *Menu degustazione* | **🏛️ resort elegante** | ★★★★½ |
-| **Seafire Steakhouse — Atlantis** | **Atlantis** | **$$$** 70–140 | **🥩 Steak & grill** | *Bistecche dry-aged, aragosta* | **🏛️ resort** | ★★★★ |
-| **Nobu — Atlantis** | **Atlantis** | **$$$** 80–180 | **🐟 Giapponese** | *Black cod miso, sushi* | **🏛️ resort** | ★★★★½ |
-| **Staniel Cay Yacht Club Restaurant** | **Staniel Cay, Exumas** | **$$** 25–45 | **🐟 Bahamense / americana** | *Grouper, conch, burger* | **⚓ marina, cruiser hub** | ★★★★ |
-| **Chat 'N' Chill — Stocking Island** | **Stocking Island, George Town** | **$$** 15–30 | **🐟🥙 Beach bar** | *Conch burger, pig roast domenica, Kalik* | **🏖️ spiaggia, dinghy** | ★★★★½ |
+| **Arawak Cay Fish Fry — Drifters / Oh Andros / Goldie's / Twin Brothers** | **Arawak Cay, Nassau** | **$$** 15–35 | **🐟🥙 Bahamian fish / street** | *Cracked conch, fritters, snapper, sky juice* | **🏖️ open-air fish fry, sea view** | ★★★★ |
+| **Potter's Cay — conch shacks under the bridge** | **Potter's Cay, Nassau** | **$** 10–20 | **🐟 Street conch** | *Conch salad made to order, fritters* | **⚓ dinghy/marina, take-away** | ★★★★ |
+| **Fish by José Andrés — Atlantis** | **Atlantis, Paradise Island** | **$$$** 80–150 | **🐟 Fine fish** | *Crudo, ceviche, Caribbean catch* | **🏛️ 5* resort** | ★★★★½ |
+| **DUNE by Jean-Georges — Atlantis** | **Atlantis** | **$$$** 90–180 | **🍽️ French-Asian fusion** | *Tasting menu* | **🏛️ elegant resort** | ★★★★½ |
+| **Seafire Steakhouse — Atlantis** | **Atlantis** | **$$$** 70–140 | **🥩 Steak & grill** | *Dry-aged steaks, lobster* | **🏛️ resort** | ★★★★ |
+| **Nobu — Atlantis** | **Atlantis** | **$$$** 80–180 | **🐟 Japanese** | *Black cod miso, sushi* | **🏛️ resort** | ★★★★½ |
+| **Staniel Cay Yacht Club Restaurant** | **Staniel Cay, Exumas** | **$$** 25–45 | **🐟 Bahamian / American** | *Grouper, conch, burger* | **⚓ marina, cruiser hub** | ★★★★ |
+| **Chat 'N' Chill — Stocking Island** | **Stocking Island, George Town** | **$$** 15–30 | **🐟🥙 Beach bar** | *Conch burger, Sunday pig roast, Kalik* | **🏖️ beach, dinghy** | ★★★★½ |
 | **DATA MISSING** | Exumas / Abacos / Eleuthera | — | — | — | — | — |
 
-Prezzi specifici per locale sotto; per Nassau centro e Fish Fry calcolare **+ VAT 10–12% e mancia 15–18%** extra sul conto. ★★★★★
+Specific prices per venue below; for downtown Nassau and Fish Fry add **+ VAT 10–12% and tip 15–18%** extra on the bill. ★★★★★
 
-## Dettaglio
+## Details
 
-### Nassau — Arawak Cay (Fish Fry) — il classico bahamense
-- **Drifters, Oh Andros, Goldie's, Twin Brothers**: fila di shack colorati sul lungomare a 5 min taxi da Bay Street Marina. Tavoli all'aperto, musica, **conch cracked (fritto), conch fritters, snapper intero, lobster (stagione) $15–35**, **Kalik $5–6**, **sky juice** (gin + coconut water + latte condensato). Turistico ma autentico — meglio a pranzo/primo pomeriggio. ★★★★
+### Nassau — Arawak Cay (Fish Fry) — The Bahamian Classic
+- **Drifters, Oh Andros, Goldie's, Twin Brothers**: row of colourful shacks on the waterfront 5 min taxi from Bay Street Marina. Outdoor tables, music, **cracked conch (fried), conch fritters, whole snapper, lobster (in season) $15–35**, **Kalik $5–6**, **sky juice** (gin + coconut water + condensed milk). Touristy but authentic — better at lunch/early afternoon. ★★★★
 
-### Potter's Cay — sotto il Paradise Island Bridge
-- Bancarelle dei pescatori: **conch salad** preparata al coltello davanti a te (**$10–15**), fritters, take-away. Perfetto per pranzo veloce tornando dal provisioning. ★★★★
+### Potter's Cay — Under Paradise Island Bridge
+- Fishermen stalls: **conch salad** prepared knife-fresh in front of you (**$10–15**), fritters, take-away. Perfect for quick lunch returning from provisioning. ★★★★
 
-### Atlantis — ristoranti resort (Paradise Island)
-- **Fish by José Andrés**: focus pesce locale rivisitato — **$80–150** a persona bevande escluse. Prenotazione consigliata. ★★★★½
-- **DUNE by Jean-Georges**: vista sull'oceano, menu elegante **$90–180**. ★★★★½
-- **Seafire**: steakhouse d'alta fascia **$70–140**. ★★★★
-- **Nobu**: classico Nobu caraibico **$80–180**. ★★★★½
+### Atlantis — Resort Restaurants (Paradise Island)
+- **Fish by José Andrés**: local fish revisited — **$80–150** per person drinks excluded. Reservation recommended. ★★★★½
+- **DUNE by Jean-Georges**: ocean view, elegant menu **$90–180**. ★★★★½
+- **Seafire**: high-end steakhouse **$70–140**. ★★★★
+- **Nobu**: classic Caribbean Nobu **$80–180**. ★★★★½
 
 ### Exumas — Staniel Cay & George Town
-- **Staniel Cay Yacht Club**: il ristorante dei crocieristi — **$25–45**, colazione/pranzo/cena, fuel dock accanto, prenotazione utile in alta stagione. ★★★★
-- **Chat 'N' Chill — Stocking Island**: **istituzione dei velisti** di fronte a George Town — dinghy beach, **conch burger $15, pig roast la domenica**, bar Kalik/sky juice, pallavolo. **$15–30**. ★★★★½
+- **Staniel Cay Yacht Club**: the cruisers' restaurant — **$25–45**, breakfast/lunch/dinner, fuel dock next door, booking useful in high season. ★★★★
+- **Chat 'N' Chill — Stocking Island**: **sailors' institution** opposite George Town — dinghy beach, **conch burger $15, Sunday pig roast**, Kalik/sky juice bar, volleyball. **$15–30**. ★★★★½
 
-## Specialità bahamensi da provare
+## Bahamian Specialities to Try
 
-| Piatto | Descrizione |
+| Dish | Description |
 |---|---|
-| **Cracked conch** | Strombo impanato e fritto — piatto nazionale |
-| **Conch fritters** | Frittelle di conch con peperoni e spezie |
-| **Conch salad** | Crudo marinato al lime con cipolla, peperone, pomodoro — come un ceviche |
-| **Sky juice** | Cocktail al gin con acqua di cocco e latte condensato — dolce e traditore |
-| **Kalik** | Birra nazionale bahamense (lager chiara) |
+| **Cracked conch** | Breaded and fried conch — national dish |
+| **Conch fritters** | Conch fritters with peppers and spices |
+| **Conch salad** | Raw lime-marinated with onion, pepper, tomato — like ceviche |
+| **Sky juice** | Gin cocktail with coconut water and condensed milk — sweet and treacherous |
+| **Kalik** | National Bahamian beer (light lager) |
 
 ## Apps & Sources
 
 | Platform | Local Use |
 |---|---|
-| **Google Maps recensioni** | Il più aggiornato per Nassau/Atlantis/Staniel — orari spesso errati fuori stagione |
-| **TripAdvisor** | Buono per confronto Bahamas |
-| **Facebook / Instagram locale** | Pagine dei ristoranti: menu e chiusure in tempo reale — fondamentale negli Out Islands |
-| **DATA MISSING** | TheFork/LaFourchette non copre le Bahamas |
+| **Google Maps reviews** | Most up-to-date for Nassau/Atlantis/Staniel — hours often wrong off-season |
+| **TripAdvisor** | Good for Bahamas comparison |
+| **Facebook / Instagram local** | Restaurant pages: menus and closures in real time — essential in Out Islands |
+| **DATA MISSING** | TheFork/LaFourchette does not cover the Bahamas |
 
-> ⚠️ Fuori Nassau/Atlantis l'offerta è **limitata e cara** — molti cays hanno un solo ristorante (Staniel, Highbourne) con orari ridotti la domenica — **chiamare prima sul VHF 16 or al telefono**.
+> ⚠️ Outside Nassau/Atlantis the offer is **limited and expensive** — many cays have only one restaurant (Staniel, Highbourne) with reduced hours on Sunday — **call ahead on VHF 16 or by phone**.
 
 ## Restaurant Map
 

@@ -1,57 +1,57 @@
 # 09 — Marine Trades & Chandlers
 
-Hub tecnico concentrato tra **Varadero Aruba Marina & Boatyard** (Bucutiweg 34) e **Wind Creek Marina / Renaissance Marketplace** (LG Smith Blvd 9). Per lavori importanti chiedere sempre **preventivo scritto** e confermare tempi in alta stagione (dic–apr), quando i piazzali sono pieni per lo svernamento fuori uragani. Contatto tipico via telefono/WhatsApp; si parla inglese e olandese (papiamento).
+Technical hub concentrated between **Varadero Aruba Marina & Boatyard** (Bucutiweg 34) and **Wind Creek Marina / Renaissance Marketplace** (LG Smith Blvd 9). For major works always ask for a **written quote** and confirm lead times in high season (Dec–Apr), when yards are full for hurricane-season storage outside the hurricane belt. Contact typically by phone/WhatsApp; English and Dutch (Papiamento) spoken.
 
 ## Trades Table
 
 | Company / Name | Contact | Area of Work | Authorised Dealer / Installer (Brands) | Tel | Email | Address & Hours | Reviews |
 |---|---|---|---|---|---|---|---|
-| **Varadero Aruba Marina & Boatyard** (dal 1976) | Ufficio cantiere | Alaggio/varamento con rimorchi Roodberg 20 t/60 t (mono fino a 80′/beam 42′/105′ max), rimessaggio a secco “off customs” (fuori tassa 180 gg), antivegetativa Copper Coat, riparazioni scafo/GRP, saldatura, survey | Roodberg trailers · Copper Coat specialist | +297 588 3850 · WhatsApp +297 594 5686 | info@varaderoaruba.com | Bucutiweg 34, Oranjestad · lun–ven 8–17, sab 8–12 · [varaderoaruba.com](https://www.varaderoaruba.com) | ★★★★ |
-| **Wind Creek Marina (ex Renaissance)** | Sander Vellinga (manager) | Marina 50 posti Med-moor fino a 60 m/pesc. 4,5 m, acqua/elettricità, carburante, piccola chandlery e ordinazione ricambi, spedizione parti “Yacht in Transit” | — | +297 588 0260 | via [windcreekmarina.com](https://www.windcreekmarina.com) | Renaissance Marketplace, LG Smith Blvd 9, Oranjestad | ★★★★ |
-| **The Yacht Mate** | Team Varadero | Gestione uragani full-service, pulizia carena/subacquea, ispezione albero/sartie, ricambi, sorveglianza in assenza | — | via sito | via [theyachtmate.com](https://theyachtmate.com) | c/o Varadero, Bucutiweg 34 · attiva lug–nov (hurricane season) | ★★★ |
-| **Aruba Rigging — Sailboat Services** | — | Ispezione e riparazione sartie fisse/correnti, splicing, trampolini catamarano, rope-work architettonico | — | via sito | via [arubarigging.com](https://www.arubarigging.com) | Mobile su tutta l'isola | ★★★ |
-| **30knots** | — | Meccanica/elettronica, assistenza in banchina | Varadero Certified | via Varadero | via Varadero | c/o Varadero — su appuntamento | ★★★ |
-| **Falcon** | — | Lavori vetroresina/compositi, verniciatura | Varadero Certified | via Varadero | via Varadero | c/o Varadero — su appuntamento | ★★★ |
-| **Muyale Upholstery** | — | Tappezzeria nautica, cuscineria, capote/bimini | Varadero Certified | via Varadero | via Varadero | c/o Varadero — su appuntamento | ★★★ |
-| **Raffi — Solar4Me** | — | Impianti solari/elettrici, batterie litio | Varadero Certified | Victron (install.) | via Varadero | c/o Varadero — su appuntamento | ★★★ |
+| **Varadero Aruba Marina & Boatyard** (since 1976) | Yard office | Haul-out/launch with Roodberg trailers 20 t/60 t (monohulls to 80'/beam 42'/105' max), dry storage "off customs" (outside 180-day tax limit), Copper Coat antifouling, hull/GRP repairs, welding, survey | Roodberg trailers · Copper Coat specialist | +297 588 3850 · WhatsApp +297 594 5686 | info@varaderoaruba.com | Bucutiweg 34, Oranjestad · Mon–Fri 08:00–17:00, Sat 08:00–12:00 · [varaderoaruba.com](https://www.varaderoaruba.com) | ★★★★ |
+| **Wind Creek Marina (ex Renaissance)** | Sander Vellinga (manager) | 50-berth Med-moor marina to 60 m/4.5 m draught, water/electricity, fuel, small chandlery and spares ordering, "Yacht in Transit" parts shipping | — | +297 588 0260 | via [windcreekmarina.com](https://www.windcreekmarina.com) | Renaissance Marketplace, LG Smith Blvd 9, Oranjestad | ★★★★ |
+| **The Yacht Mate** | Varadero team | Full-service hurricane management, hull cleaning/diving, rig inspection, spares, absence watch | — | via website | via [theyachtmate.com](https://theyachtmate.com) | c/o Varadero, Bucutiweg 34 · active Jul–Nov (hurricane season) | ★★★ |
+| **Aruba Rigging — Sailboat Services** | — | Standing/running rigging inspection and repair, splicing, catamaran trampolines, architectural rope work | — | via website | via [arubarigging.com](https://www.arubarigging.com) | Mobile across the island | ★★★ |
+| **30knots** | — | Mechanical/electrical, alongside assistance | Varadero Certified | via Varadero | via Varadero | c/o Varadero — by appointment | ★★★ |
+| **Falcon** | — | GRP/composite work, painting | Varadero Certified | via Varadero | via Varadero | c/o Varadero — by appointment | ★★★ |
+| **Muyale Upholstery** | — | Marine upholstery, cushions, sprayhood/bimini | Varadero Certified | via Varadero | via Varadero | c/o Varadero — by appointment | ★★★ |
+| **Raffi — Solar4Me** | — | Solar/electrical systems, lithium batteries | Varadero Certified | Victron (installer) | via Varadero | c/o Varadero — by appointment | ★★★ |
 
-### Map artigiani e shipchandler
+### Trades & Chandlery Map
 
-<div class="mapframe" data-slug="aruba" data-minz="10" data-maxz="16" data-lat="12.51" data-lon="-70.02" data-markers='[[12.4983, -70.0172, "Varadero Aruba Marina & Boatyard"], [12.5169, -70.0391, "Wind Creek Marina"], [12.4835, -70.012, "Budget Marine Aruba"], [12.517, -70.038, "East Wind Marine (EWMS)"], [12.5786, -70.0493, "Hadicurari — darsena pescatori (accesso cantiere mobile)"]]' ></div>
+<div class="mapframe" data-slug="aruba" data-minz="10" data-maxz="16" data-lat="12.51" data-lon="-70.02" data-markers='[[12.4983, -70.0172, "Varadero Aruba Marina & Boatyard"], [12.5169, -70.0391, "Wind Creek Marina"], [12.4835, -70.012, "Budget Marine Aruba"], [12.517, -70.038, "East Wind Marine (EWMS)"], [12.5786, -70.0493, "Hadicurari — fishermen basin (mobile yard access)"]]' ></div>
 
-*Posizioni indicative dei principali poli tecnici e shipchandler — verificare orari e disponibilità via telefono prima di affidare lavori.*
+*Indicative positions of the main technical hubs and chandlers — verify hours and availability by phone before commissioning work.*
 
 ## Other Useful Operators
 
-- **Amast** — Varadero Certified, lavori generali bordo (via Varadero). ★★
-- **Pipo Bargas** — Varadero Certified, meccanica/finiture (via Varadero). ★★
-- **Shoaya** — Varadero Certified, servizi vari (via Varadero). ★★
-- **Aruba Nautical Club** — Seroe Colorado / Spanish Lagoon, piccolo cantiere con ristorante, pescaggio fino a 3,6 m, accesso tra secche da Barcadera — Tel +297 585 3022. ★★
-- **Bucuti Yacht Club (BYCA)** — privato, a volte accoglie visitor yacht a sud dell'aeroporto (accanto a Varadero). ★★
+- **Amast** — Varadero Certified, general on-board work (via Varadero). ★★
+- **Pipo Bargas** — Varadero Certified, mechanical/finishing (via Varadero). ★★
+- **Shoaya** — Varadero Certified, various services (via Varadero). ★★
+- **Aruba Nautical Club** — Seroe Colorado / Spanish Lagoon, small boatyard with restaurant, draught up to 3.6 m, access through shallows from Barcadera — Tel +297 585 3022. ★★
+- **Bucuti Yacht Club (BYCA)** — private, sometimes welcomes visitor yachts south of the airport (next to Varadero). ★★
 
 ## Where to Find What
 
-- **Motoristica/frigoriferi/saldatura**: freelance operanti a **Varadero** (lista Certified sopra) + rete mobile su chiamata in marina; chiedere in capitaineria Wind Creek/Varadero. ★★★
-- **Vele**: nessun sailmaker residente stabile — **Aruba Rigging** + sailmaker itineranti in stagione; lavori gravi a **Antigua/St. Martin/Trinidad**. ★★
-- **Elettronica/energia di bordo**: **Raffi Solar4Me** (Varadero) + ordinazione via Budget Marine / EWMS; ricambi da Miami via Wind Creek “Yacht in Transit”. ★★★
-- **Antifouling/carenaggio**: solo **Varadero** (Roodberg 20/60 t, max 80′/42′ beam) — unico travelift idraulico delle ABC con capacità >35 ft beam. ★★★★
+- **Engine/fridge/welding**: freelancers operating at **Varadero** (Certified list above) + mobile network on call at the marina; ask at Wind Creek/Varadero harbour office. ★★★
+- **Sails**: no resident sailmaker — **Aruba Rigging** + itinerant sailmakers in season; major jobs at **Antigua/St. Martin/Trinidad**. ★★
+- **Electronics/on-board power**: **Raffi Solar4Me** (Varadero) + ordering via Budget Marine / EWMS; spares from Miami via Wind Creek "Yacht in Transit". ★★★
+- **Antifouling/careening**: **Varadero** only (Roodberg 20/60 t, max 80'/42' beam) — the only hydraulic trailer in the ABCs with >35 ft beam capacity. ★★★★
 
 ## Chandlers & Equipment Shops
 
 | Shop | What You'll Find | Notable Brands | Tel | Email / Website | Address & Hours | Reviews |
 |---|---|---|---|---|---|---|
-| **Budget Marine Aruba** | Il più grande shipchandler dell'isola: 5000 sq ft, ferramenta inox, ricambi, elettronica, trailering | Unico distributore rimorchi/parti rimorchio · ampia gamma marine | +297 585 3796 · WhatsApp +297 737 3796 | [budgetmarine.com](https://budgetmarine.com/locations/budget-marine-aruba/) | Caya Barcadera 75-B (Balashi), Oranjestad · lun–sab 8–17 | ★★★★ |
-| **Varadero Deep-Water Marine Store** | Ferramenta e materiali cantiere, antivegetativa, vernici, catene | Copper Coat | +297 588 3850 | [varaderoaruba.com](https://www.varaderoaruba.com) | Bucutiweg 34, dentro il boatyard · orari cantiere | ★★★★ |
-| **East Wind Marine Services (EWMS) Boat & Tackle** | Attrezzatura pesca, cime, snorkeling, kayak, ferramenta leggera | Yo-Zuri, MirroLure, Hook & Tackle | +297 588 0260 | EWMS@SETARNET.AW | Renaissance Marketplace, LG Smith Blvd 9, Oranjestad | ★★★ |
-| **Ola Ship Supply** | Ship chandler per yacht e commerciale, provviste, deck/engine stores | — | +297 583 — (Arendstraat 113) | via yachting-pages | Arendstraat 113, Oranjestad | ★★ |
-| **Boaters Paradise** | Ferramenta e accessori, articoli pesca | — | **DATA MISSING** | **DATA MISSING** | Cumana, Aruba | ★★ |
+| **Budget Marine Aruba** | The largest chandler on the island: 5000 sq ft, stainless hardware, spares, electronics, trailering | Sole trailer/trailer-parts distributor · wide marine range | +297 585 3796 · WhatsApp +297 737 3796 | [budgetmarine.com](https://budgetmarine.com/locations/budget-marine-aruba/) | Caya Barcadera 75-B (Balashi), Oranjestad · Mon–Sat 08:00–17:00 | ★★★★ |
+| **Varadero Deep-Water Marine Store** | Yard hardware and materials, antifouling, paints, chains | Copper Coat | +297 588 3850 | [varaderoaruba.com](https://www.varaderoaruba.com) | Bucutiweg 34, inside the boatyard · yard hours | ★★★★ |
+| **East Wind Marine Services (EWMS) Boat & Tackle** | Fishing tackle, rope, snorkelling, kayak, light hardware | Yo-Zuri, MirroLure, Hook & Tackle | +297 588 0260 | EWMS@SETARNET.AW | Renaissance Marketplace, LG Smith Blvd 9, Oranjestad | ★★★ |
+| **Ola Ship Supply** | Ship chandler for yachts and commercial, provisions, deck/engine stores | — | +297 583 — (Arendstraat 113) | via yachting-pages | Arendstraat 113, Oranjestad | ★★ |
+| **Boaters Paradise** | Hardware and accessories, fishing items | — | **DATA MISSING** | **DATA MISSING** | Cumana, Aruba | ★★ |
 
 ## Practical Notes
 
-- **Pagamenti**: bonifico/ contanti/carta; per piccoli interventi spesso contanti. Chiedere sempre fattura (utile per dogana/assicurazione). A Varadero i contractor esterni pagano **15% commissione** al cantiere — includerlo nel preventivo.
-- **Processing time**: ricambi dall'Europa/US = 1–3 settimane via DHL/Colissimo; gli atelier ordinano spesso via Miami. Pratica comune: ordinare online e spedire **“Yacht in Transit — NOME BARCA” c/o Wind Creek Marina, LG Smith Blvd 9, Oranjestad** con tracking.
-- **Svernamento**: Varadero offre **150 posti “Entrepot” off-Customs** (sospensione dei 180 gg) — prenotare con largo anticipo (lug–nov pieno). Accesso canale dragato 2,20 m; per pescaggi limite richiedere file Navionics “Follow the Navionics path” (lug 2024) a Varadero. ★★★★
-- **Energia di bordo**: componentistica litio/solare su ordinazione (Budget Marine/EWMS); installazione con Raffi Solar4Me a Varadero.
-- **Per lavori specialistici**: valutare hub regionali **Antigua (English Harbour), Sint Maarten (Simpson Bay), Trinidad (Chaguaramas)** con decine di professionisti e travelift fino a 300 t.
+- **Payments**: bank transfer/cash/card; for small jobs often cash. Always ask for an invoice (useful for customs/insurance). At Varadero external contractors pay **15% commission** to the yard — include it in the quote.
+- **Lead times**: spares from Europe/US = 1–3 weeks via DHL/Colissimo; workshops often order via Miami. Common practice: order online and ship **"Yacht in Transit — YACHT NAME" c/o Wind Creek Marina, LG Smith Blvd 9, Oranjestad** with tracking.
+- **Overwintering**: Varadero offers **150 "Entrepot" off-Customs places** (180-day count suspended) — book well in advance (Jul–Nov full). Dredged channel access 2.20 m; for marginal draughts request Navionics file "Follow the Navionics path" (Jul 2024) from Varadero. ★★★★
+- **On-board power**: lithium/solar components on order (Budget Marine/EWMS); installation with Raffi Solar4Me at Varadero.
+- **For specialist work**: consider regional hubs **Antigua (English Harbour), Sint Maarten (Simpson Bay), Trinidad (Chaguaramas)** with dozens of professionals and travelifts up to 300 t.
 
 Last updated: 27/08/2026

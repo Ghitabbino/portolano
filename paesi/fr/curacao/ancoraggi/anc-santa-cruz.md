@@ -15,6 +15,6 @@
 <div class="mapframe" data-slug="anc-santa-cruz" data-lat="12.307" data-lon="-69.152"></div>
 *Carte détaillée — zoomez jusqu’à la baie · carte hors ligne · coordinate WGS84 verificate satellite (in mezzo al mare)*
 
-Fonti: Spend Life Traveling ★★★ · Sailing Divers (2022) ★★ · Noonsite commento wreck 12/09/2023 ★★ · Noonsite Update 13/08/2025 ★★★
+Fonti: Spend Life Traveling ★★★ · Sailing Divers (2022) ★★ · Sources plaisance agrégées commento wreck 12/09/2023 ★★ · Sources plaisance agrégées Update 13/08/2025 ★★★
 
 Dernière mise à jour: 28/08/2026

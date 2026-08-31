@@ -1,51 +1,51 @@
-# 08 — Anchorage Pilot
+# 08 — Cruising Guide to Anchorages
 
-**Last checked: 28/08/2026 · coordinate indicative, navigare con cartografia ufficiale**
+**Last checked: 28/08/2026 · coordinates approximate, navigate with official charts**
 
-## General Anchoring Rules (First and Foremost)
+## General Anchoring Rules (first of all)
 
-- **Àncora libera** su **sabbia**, SALVO le zone di divieto qui sotto e i fondali a **corallo/reef protetti** (Carlisle Bay Marine Park con relitti, reef frangente sud/est): **àcora e catena non devono appoggiare su corallo** — dove presente reef, ancorare solo su chiazze di sabbia bianca ben visibili or su boe dove presenti. ★★★
-- **IALA-B** in tutti i Caraibi: rosso a dritta entrando in porto (invertito rispetto all'Europa). Chiamare sempre **Signal Station Bridgetown VHF 12 ("8P")** per l'ingresso nel porto e per ogni movimento dentro il bacino di Bridgetown. [Barbados Port Inc.](https://barbadosport.com/vessel-documentation) ★★★★★
-- **Barriera e reef**: tenersi sempre **>0,5 M** dal reef affiorante a nord-ovest (Six Men's Bay frangente) e **>1 M** dalla costa est atlantica (frangenti continui); entrare in rada solo con buona luce seguendo la batimetrica dei 10 m; di notte solo con waypoint verificati ed eco. ★★
-- **Jet-ski e traffico diurno**: Carlisle Bay molto frequentata da jet-ski e tour snorkeling 09:00–17:00 — mantenere distanza, catena ben distesa, boa di segnalazione se si nuota sui relitti. ★★
+- **Free anchoring** over **sand**, EXCEPT in the prohibited areas below and over **protected coral/reef** (Carlisle Bay Marine Park with wrecks, fringing reef south/east): **anchor and chain must not lie on coral** — where reef is present, anchor only over clearly visible white sand patches or on buoys where provided. ★★★
+- **IALA-B** throughout the Caribbean: red to starboard when entering harbour (reversed versus Europe). Always call **Bridgetown Signal Station VHF 12 ("8P")** for entry into the harbour and for any movement inside the Bridgetown basin. [Barbados Port Inc.](https://barbadosport.com/vessel-documentation) ★★★★★
+- **Barrier reef and reefs**: always keep **>0.5 M** off the fringing reef in the north-west (Six Men's Bay surf) and **>1 M** off the Atlantic east coast (continuous surf); enter a bay only in good light following the 10 m contour; at night only with verified waypoints and sounder. ★★
+- **Jet skis and daytime traffic**: Carlisle Bay is very busy with jet skis and snorkel tours 09:00–17:00 — keep clear, chain well laid out, marker buoy if swimming over the wrecks. ★★
 
-### ⛔ Zone di divieto assoluto (ufficiali / pratiche)
+### ⛔ Strictly Prohibited Areas (official / practical)
 
 | Area | Prohibition | Source |
 |---|---|---|
-| **Carlisle Bay Marine Park — area relitti (6 relitti + reef artificiale)** | Divieto di ancorare **sui relitti** e sulle strutture protette; ancorare solo su sabbia libera nelle aree dedicate; rispettare boe di segnalazione e corridoi dei sub | [Barbados Port Inc. — Yacht Masters Guide](https://barbadosport.com/barbados-yacht-masters-guide) ★★★★ · [Dive Barbados](https://divebarbados.com) ★★★ |
-| **Folkestone Marine Park (Holetown, St. James)** | Parco marino con reef protetto: **ancora vietata su corallo**, solo su sabbia fuori dal reef or su boe dove installate; rispettare segnalazione balneare | [Barbados Coastal Zone Management](https://www.coastal.gov.bb) ★★★★ · guide locali ★★ |
-| **Bacino e canale di Bridgetown Deep Water Harbour** | Divieto di ancoraggio nel canale dragato e nel bacino commerciale/crociere; ormeggio solo su istruzione Signal Station | [Barbados Port Inc.](https://barbadosport.com/vessel-documentation) ★★★★★ |
-| **Boe private e corridoi balneazione (ovest/sud)** | Boe dei charter/hotel (Sandy Lane, Holetown, Carlisle) e corridoi spiaggia non utilizzabili senza permesso; rispettare boe di balneazione | guide locali ★★ |
-| **Costa est atlantica (Bathsheba → Consett Bay → Ragged Point)** | **Nessun ancoraggio praticabile** — non inclusa come zona di divieto formale ma **da escludere** per pericolo: frangenti, swell continuo, reef senza riparo | [safetyanchoralarm.com — Barbados South & East Coast](https://safetyanchoralarm.com/anchorages/barbados/barbados-south-east) ★★ |
+| **Carlisle Bay Marine Park — wreck area (6 wrecks + artificial reef)** | Anchoring **on the wrecks** and protected structures is forbidden; anchor only on free sand in dedicated areas; respect marker buoys and diver corridors | [Barbados Port Inc. — Yacht Masters Guide](https://barbadosport.com/barbados-yacht-masters-guide) ★★★★ · [Dive Barbados](https://divebarbados.com) ★★★ |
+| **Folkestone Marine Park (Holetown, St. James)** | Marine park with protected reef: **anchoring on coral forbidden**, only on sand outside the reef or on buoys where installed; respect bathing markers | [Barbados Coastal Zone Management](https://www.coastal.gov.bb) ★★★★ · local guides ★★ |
+| **Bridgetown Deep Water Harbour basin and channel** | Anchoring prohibited in the dredged channel and in the commercial/cruise basin; berthing only on Signal Station instructions | [Barbados Port Inc.](https://barbadosport.com/vessel-documentation) ★★★★★ |
+| **Private buoys and bathing corridors (west/south)** | Charter/hotel buoys (Sandy Lane, Holetown, Carlisle) and beach corridors not to be used without permission; respect bathing buoys | local guides ★★ |
+| **Atlantic east coast (Bathsheba → Consett Bay → Ragged Point)** | **No practicable anchorage** — not listed as a formal prohibited zone but **to be excluded** for danger: surf, continuous swell, reef with no shelter | [safetyanchoralarm.com — Barbados South & East Coast](https://safetyanchoralarm.com/anchorages/barbados/barbados-south-east) ★★ |
 
-Testi integrali e brochure: **BPI Yacht Masters Guide** (PDF su barbadosport.com) e carte **BA 1042 (Barbados)** + **BA 2482 (Windward Islands)**. Le boe di Carlisle/Folkestone sono su cartografia e segnalazione locale.
+Full texts and brochures: **BPI Yacht Masters Guide** (PDF on barbadosport.com) and charts **BA 1042 (Barbados)** + **BA 2482 (Windward Islands)**. The Carlisle/Folkestone buoys are charted and locally marked.
 
-- Esistono **parchi marini con boe di ormeggio obbligatorie or raccomandate** (Carlisle relitti, Folkestone): usare la boa se presente è preferibile all'àncora su reef. Verificare colori locali (giallo/blu day-use).
-- Segnalazione **IALA-B invertita** rispetto all'Italia. ★★★
+- There are **marine parks with mandatory or recommended mooring buoys** (Carlisle wrecks, Folkestone): using the buoy where present is preferable to anchoring on reef. Check local colours (yellow/blue day-use).
+- **IALA-B buoyage reversed** versus Italy. ★★★
 
 ## Summary Table — Best Anchorages
 
-| # | Ancoraggio | Riparo alisei | Tenuta | Depth | Affollamento | Giudizio comunità |
+| # | Anchorage | Shelter from trades | Holding | Depth | Crowding | Community Rating |
 |---|---|---|---|---|---|---|
-| 1 | [Carlisle Bay (ancoraggio principale)](ancoraggi/anc-carlisle-main.md) | ★★★★★ ovest sottovento, acqua piatta | ★★★★★ sabbia, ottimo holding | 5–14 m | Alto in alta stagione (dic–apr), affollato ma spazioso | ★4,3/5 [NFL 26/01/2026] |
-| 2 | [Carlisle Bay Sud — Needham's Point](ancoraggi/anc-carlisle-south.md) | ★★★★ sottovento, leggero rollio | ★★★★ sabbia | 5–10 m | Medio | ★3,8/5 [NFL] |
-| 3 | [Bridgetown Deep Water Harbour (POE)](ancoraggi/anc-bridgetown-dwh.md) | ★★★★★ porto chiuso | — banchina | profondo | Solo clearance | — POE |
-| 4 | [Bridgetown Shallow Draught (marina yacht)](ancoraggi/anc-shallow-draught.md) | ★★★★★ darsena riparata | — pontile | 3–5 m | Medio-alto (40 posti) | ★★★★ [BPI] |
-| 5 | [The Careenage (Bridgetown centro)](ancoraggi/anc-careenage.md) | ★★★★★ canale interno | — banchina stern-to | 2–3 m | Medio, prenotazione | città UNESCO |
-| 6 | [Port St. Charles (POE nord — rada esterna)](ancoraggi/anc-psc-anch.md) | ★★★★★ sottovento calmo | ★★★★ sabbia | 3–4 m | Basso-medio | ★★★ [Noonsite] |
-| 7 | [Port Ferdinand Marina (nord-ovest)](ancoraggi/anc-port-ferdinand.md) | ★★★★★ darsena scavata | — marina 120+ berths | 4–6 m | Medio | resort lusso |
-| 8 | [Speightstown (costa ovest)](ancoraggi/anc-speightstown.md) | ★★★★ sottovento | ★★★★ sabbia | 3–8 m | Medio | ★4,5/5 [NFL] |
-| 9 | [Oistins Bay (costa sud — condizionale)](ancoraggi/anc-oistins.md) | ★★ esposta a sud | ★★★ sabbia | 3–8 m | Basso, ma pesca intensa | day-stop ★★ |
-| 10 | [Bathsheba / Tent Bay (costa EST — NON ANCORABILE)](ancoraggi/anc-bathsheba.md) | ★ mare aperto | — non ancorabile | 4–10 m swell | **Avoid** | — pericolo |
+| 1 | [Carlisle Bay (main anchorage)](ancoraggi/anc-carlisle-main.md) | ★★★★★ leeward west, flat water | ★★★★★ sand, excellent holding | 5–14 m | High in high season (Dec–Apr), busy but spacious | ★4.3/5 [NFL 26/01/2026] |
+| 2 | [Carlisle Bay South — Needham's Point](ancoraggi/anc-carlisle-south.md) | ★★★★ leeward, slight roll | ★★★★ sand | 5–10 m | Moderate | ★3.8/5 [NFL] |
+| 3 | [Bridgetown Deep Water Harbour (POE)](ancoraggi/anc-bridgetown-dwh.md) | ★★★★★ enclosed harbour | — alongside | deep | Clearance only | — POE |
+| 4 | [Bridgetown Shallow Draught (yacht marina)](ancoraggi/anc-shallow-draught.md) | ★★★★★ sheltered basin | — pontoon | 3–5 m | Moderate-high (40 berths) | ★★★★ [BPI] |
+| 5 | [The Careenage (central Bridgetown)](ancoraggi/anc-careenage.md) | ★★★★★ inner channel | — stern-to quay | 2–3 m | Moderate, booking required | UNESCO town |
+| 6 | [Port St. Charles (northern POE — outer roadstead)](ancoraggi/anc-psc-anch.md) | ★★★★★ calm leeward | ★★★★ sand | 3–4 m | Low-moderate | ★★★ [Cruising sources aggregate] |
+| 7 | [Port Ferdinand Marina (north-west)](ancoraggi/anc-port-ferdinand.md) | ★★★★★ rock-cut basin | — marina 120+ berths | 4–6 m | Moderate | luxury resort |
+| 8 | [Speightstown (west coast)](ancoraggi/anc-speightstown.md) | ★★★★ leeward | ★★★★ sand | 3–8 m | Moderate | ★4.5/5 [NFL] |
+| 9 | [Oistins Bay (south coast — conditional)](ancoraggi/anc-oistins.md) | ★★ exposed to south | ★★★ sand | 3–8 m | Low, but intense fishing | day stop ★★ |
+| 10 | [Bathsheba / Tent Bay (EAST coast — NOT TENABLe)](ancoraggi/anc-bathsheba.md) | ★ open ocean | — not tenable | 4–10 m swell | **Avoid** | — danger |
 
-*Clicca sul nome per aprire la scheda completa. Legenda: riparo/tenuta = valutazione qualitativa dalle fonti citate (più ★ = meglio). NFL = noforeignland.com (recensioni naviganti, agg. 26/01/2026 ★★). Affollamento = alta stagione dic–apr.*
+*Click the name to open the full card. Key: shelter/holding = qualitative rating from sources cited (more ★ = better). NFL = noforeignland.com (cruiser reviews, upd. 26/01/2026 ★★). Crowding = high season Dec–Apr.*
 
-### General Anchorage Map
+### General Anchorage Chart
 
-<div class="mapframe" data-slug="barbados" data-minz="7" data-maxz="16" data-lat="13.18" data-lon="-59.55" data-markers='[[13.078, -59.6275, "Carlisle Bay (ancoraggio principale)", "anc-carlisle-main"], [13.07, -59.634, "Carlisle Bay Sud (Needham’s Point)", "anc-carlisle-south"], [13.106, -59.63, "Bridgetown Deep Water Harbour (POE, ingresso)", "anc-bridgetown-dwh"], [13.101, -59.627, "Bridgetown Shallow Draught (marina yacht + dogana dedicata)", "anc-shallow-draught"], [13.1, -59.6195, "The Careenage (Bridgetown centro)", "anc-careenage"], [13.264, -59.6465, "Port St. Charles (POE nord — ancoraggio esterno)", "anc-psc-anch"], [13.2585, -59.642, "Port Ferdinand Marina (nord-ovest)", "anc-port-ferdinand"], [13.253, -59.645, "Speightstown (costa ovest)", "anc-speightstown"], [13.0655, -59.541, "Oistins Bay (costa sud — condizionale)", "anc-oistins"], [13.247, -59.536, "Bathsheba / Tent Bay (costa EST — NON ANCORABILE)", "anc-bathsheba"]]'></div>
+<div class="mapframe" data-slug="barbados" data-minz="7" data-maxz="16" data-lat="13.18" data-lon="-59.55" data-markers='[[13.078, -59.6275, "Carlisle Bay (main anchorage)", "anc-carlisle-main"], [13.07, -59.634, "Carlisle Bay South (Needham’s Point)", "anc-carlisle-south"], [13.106, -59.63, "Bridgetown Deep Water Harbour (POE, entrance)", "anc-bridgetown-dwh"], [13.101, -59.627, "Bridgetown Shallow Draught (yacht marina + dedicated customs)", "anc-shallow-draught"], [13.1, -59.6195, "The Careenage (central Bridgetown)", "anc-careenage"], [13.264, -59.6465, "Port St. Charles (northern POE — outer anchorage)", "anc-psc-anch"], [13.2585, -59.642, "Port Ferdinand Marina (north-west)", "anc-port-ferdinand"], [13.253, -59.645, "Speightstown (west coast)", "anc-speightstown"], [13.0655, -59.541, "Oistins Bay (south coast — conditional)", "anc-oistins"], [13.247, -59.536, "Bathsheba / Tent Bay (EAST coast — NOT TENABLe)", "anc-bathsheba"]]'></div>
 
-*Marker cliccabili: il popup apre direttamente la scheda dell'ancoraggio. Tasselli locali zoom 7–13 (satellitare / carta nautica / segnali OpenSeaMap). Tutti i pin sono verificati **in mezzo al mare**, al centro della rada/baia (100–400 m dalla riva, profondità 3–10 m), mai a terra e mai a miglia dalla costa — come da vista satellitare.*
+*Clickable markers: the popup opens the anchorage card directly. Local tiles zoom 7–13 (satellite / nautical chart / OpenSeaMap overlays). All pins are verified **in the water**, in the centre of the bay/roadstead (100–400 m off the beach, depth 3–10 m), never ashore and never miles off the coast — as seen on satellite.*
 
 ---
 
@@ -53,31 +53,31 @@ Testi integrali e brochure: **BPI Yacht Masters Guide** (PDF su barbadosport.com
 
 | Chart | Coverage | Notes |
 |---|---|---|
-| **BA 1042 — Barbados** | Isola di Barbados e approcci | Carta Ammiragliato UK, scala costiera, correzioni settimanali · ~35 £ |
-| **BA 2482 — Windward Islands (Barbados to Grenada)** | Arco Windward | Pianificazione rotte Carlisle → Santa Lucia/Grenada |
-| **BA 2487 — Barbados to Tobago** | Caraibi meridionali | Rotta verso Trinidad/Tobago |
-| **NV Charts — AB/Caribbean South** | Pack Antille meridionali | Alternativa plaisance WGS84, ~95 € |
-| **Navionics / C-MAP — Caribbean & South America** | Elettroniche | Inclusi canali di Bridgetown e approcci Carlisle |
+| **BA 1042 — Barbados** | Island of Barbados and approaches | UK Admiralty chart, coastal scale, weekly corrections · ~£35 |
+| **BA 2482 — Windward Islands (Barbados to Grenada)** | Windward arc | Planning Carlisle → Saint Lucia/Grenada routes |
+| **BA 2487 — Barbados to Tobago** | Southern Caribbean | Route to Trinidad/Tobago |
+| **NV Charts — AB/Caribbean South** | Southern Antilles pack | Leisure alternative WGS84, ~€95 |
+| **Navionics / C-MAP — Caribbean & South America** | Electronic | Includes Bridgetown channels and Carlisle approaches |
 
-- Le carte BA riportano i limiti dei parchi marini e i relitti di Carlisle; acquistare da rivenditori autorizzati (Admiralty, NV Charts PoD). ★★★★
-- **Cartografia amministrativa gratuita**: BPI Yacht Masters Guide PDF + brochure Barbados Coastal Zone Management con perimetri Folkestone/Carlisle. ★★★★
-- Per la navigazione quotidiana: elettronica ufficiale su plotter + carta cartacea BA 1042 come riserva obbligatoria; segnalazione **IALA-B** ovunque.
+- BA charts show the marine park limits and Carlisle wrecks; buy from authorised dealers (Admiralty, NV Charts PoD). ★★★★
+- **Free administrative chart**: BPI Yacht Masters Guide PDF + Barbados Coastal Zone Management brochure with Folkestone/Carlisle perimeters. ★★★★
+- For day-to-day navigation: official electronics on the plotter + paper BA 1042 as mandatory backup; **IALA-B** buoyage everywhere.
 
-## Not Included (For Now)
+## Not Included (for now)
 
-- **Holetown / Paynes Bay / Sandy Lane (ovest centrale)**: lunghe spiagge sottovento con ancoraggio possibile su sabbia 3–8 m, ma con **molte boe private degli hotel** e jet-ski — dati e waypoint dettagliati insufficienti per scheda dedicata, **da verificare** con satellite (200 m off Sandy Lane) ★★
-- **Six Men's Bay / Maycock's Bay (nord-ovest vicino a Port St. Charles)**: rade sottovento calme ma con reef frangente vicino all'ingresso — avvicinamento solo con luce, **da verificare** profondità/boa ★★
-- **Silver Sands / Long Beach / Bottom Bay (sud-est)**: baie aperte a S/SE, sabbia ma esposte a swell, fondali con rocce — solo day-stop con meteo stabile, **non per notte** ★★
-- **St. Lawrence Gap / Worthing Beach**: ancoraggio teorico ma davanti a reef e hotel — sconsigliato per notte, meglio Carlisle a 2 M a nord.
+- **Holetown / Paynes Bay / Sandy Lane (central west)**: long leeward beaches with possible anchoring over sand 3–8 m, but with **many private hotel buoys** and jet skis — detailed data and waypoints insufficient for a dedicated card, **to be verified** with satellite (200 m off Sandy Lane) ★★
+- **Six Men's Bay / Maycock's Bay (north-west near Port St. Charles)**: sheltered leeward roadsteads but with fringing reef close to the entrance — approach only in good light, **to be verified** for depth/buoys ★★
+- **Silver Sands / Long Beach / Bottom Bay (south-east)**: bays open to S/SE, sand but exposed to swell, rocky patches — day stop only in settled weather, **not for overnight** ★★
+- **St. Lawrence Gap / Worthing Beach**: theoretical anchorage but off a reef and hotels — not recommended overnight, Carlisle 2 M to the north is better.
 
-## Anchor Checklist per Barbados
+## Anchor Checklist for Barbados
 
-1. Signal Station **VHF 12 ("8P")** chiamato prima dell'ingresso a Bridgetown e Q esposta ✓
-2. Carta **BA 1042** + elettronica aggiornata + IALA-B (rosso a dritta entrando) in mente ✓
-3. Àncora su **sabbia** verificata (non su corallo/relitti di Carlisle) — ispezione in maschera se dubbio ✓
-4. Distanza dal reef/boe di balneazione rispettata; jet-ski monitorati di giorno a Carlisle ✓
-5. Dinghy chiuso con catena + lucchetto, fuoribordo assicurato (furti a Carlisle/Bridgetown) ✓
-6. Bollettino **BMS + NHC** controllato (swell est anche con aliseo moderato) ✓
-7. Zarpe e ricevute travelform/SailClear pronte per eventuale controllo in rada ✓
+1. Signal Station **VHF 12 ("8P")** called before entering Bridgetown and Q flag flying ✓
+2. Chart **BA 1042** + updated electronics + IALA-B (red to starboard on entry) in mind ✓
+3. Anchor over **sand** verified (not on Carlisle coral/wrecks) — mask inspection if in doubt ✓
+4. Distance from reef/bathing buoys respected; jet skis watched by day at Carlisle ✓
+5. Dinghy secured with chain + padlock, outboard locked (theft at Carlisle/Bridgetown) ✓
+6. Forecast **BMS + NHC** checked (easterly swell even with moderate trades) ✓
+7. Zarpe and travelform/SailClear receipts ready for any inspection in the roadstead ✓
 
 Last updated: 28/08/2026

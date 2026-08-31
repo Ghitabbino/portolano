@@ -5,24 +5,24 @@
 | Champ | Détail |
 |---|---|
 | Zone | Marie-Galante |
-| Cuisine | 🐟 Locale rivisitata |
-| Spécialité | Pesce · boudin créole |
-| Coût | 💰€€ per persona senza bevande |
-| Emplacement | 🏖️ beach front |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Playa+Marie-Galante) |
-| Contacts | [Mappa](https://www.google.com/maps/search/?api=1&query=La+Playa+Marie-Galante) |
-| Évaluations | Google positive → ★★★★ |
-| Horaires | stagionale ⚠️ |
+| Cuisine | 🐟 Cuisine locale revisitée |
+| Spécialité | Poisson · boudin créole |
+| Coût | 💰€€ par personne hors boissons |
+| Emplacement | 🏖️ front de mer |
+| Carte | [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Playa+Marie-Galante) |
+| Contacts | [Carte](https://www.google.com/maps/search/?api=1&query=La+Playa+Marie-Galante) |
+| Évaluations | Google — avis positifs → ★★★★ |
+| Horaires | saisonnier ⚠️ |
 
 ## Menu
 
-- Pesce
+- Poisson
 - Boudin créole
 
-**Chef**: ND
+**Chef** : ND
 
 ## Photos
 
-*Photos non ancora disponibili — recuperare al controllo mensile.*
+*Photos non encore disponibles — à récupérer lors du contrôle mensuel.*
 
-**Note**: Da abbinare al giro dell'isola in scooter · da 25 €
+**Notes** : À combiner avec le tour de l'île en scooter · à partir de 25 €

@@ -1,20 +1,20 @@
-# The Careenage (Bridgetown centro) {#anc-careenage}
+# The Careenage (Bridgetown Zentrum) {#anc-careenage}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← Alle Ankerplätze](../08-ancoraggi.md)
 **13°06′00″ N 59°37′10″ W** ★★★
 
-| Campo | Dettaglio |
+| Feld | Detail |
 |---|---|
-| **Profondità** |Fondale limitato, pescaggio piccolo|
-| **Tenuta àncora** |— (banchine affiancate interne ~50 posti stern-to)|
-| **Venti/riparo** |Canale interno con ponte mobile|
-| **Pericoli** |Ponte mobile interno; luce del Molehead Fl R 10s 2M verificato su BA 1042 + satellite|
-| **Boe/divieti/normative** |Prenotare via Marine Services/Harbour Master tel 246 434 6100|
-| **A terra** |Centro storico UNESCO di Bridgetown|
+| **Tiefe** |Begrenzter Tiefgang, geringer Tiefgang|
+| **Halt** |— (innere Kaimauern ~50 Plätze heck-to)|
+| **Wind/Schutz** |Innerer Kanal mit Klappbrücke|
+| **Gefahren** |Innere Klappbrücke; Feuer Molehead Fl R 10s 2M — verifiziert auf BA 1042 + Satellit|
+| **Bojen/Verbote/Vorschriften** |Reservierung über Marine Services/Harbour Master Tel. 246 434 6100|
+| **Landgang** |Historisches Zentrum Bridgetown (UNESCO)|
 
 <div class="mapframe" data-slug="anc-careenage" data-lat="13.1" data-lon="-59.6195"></div>
-*Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
+*Detailkarte — mit ± bis in die Bucht zoomen · Offline-Karte · Koordinaten WGS84 indikativ, stets mit Plotter prüfen*
 
-Fonti: BPI Yacht Masters Guide (2026-03) ★★★★ · Yachting World (2017) ★★★ · verificato su BA 1042 + satellite
+Quellen: BPI Yacht Masters Guide (2026-03) ★★★★ · Yachting World (2017) ★★★ · verifiziert auf BA 1042 + Satellit
 
-Ultimo aggiornamento: 25/08/2026
+Letzte Aktualisierung: 25/08/2026

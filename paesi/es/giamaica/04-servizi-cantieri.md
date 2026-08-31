@@ -29,7 +29,7 @@
 - **Posizione:** Freeport Peninsula · VHF 16 · **tel +1 (876)979-8038** · mobayyachtclub.com ★★★★
 - **Capacità:** finger pier T-head, 6–20 ft depth, stern-to con propria ancora. **Nessun travelift dichiarato** — assistenza via network locale. ★★★★
 - **Servizi:** acqua potabile sicura su molo, **diesel+benzina su molo** (preordine >2.000 gal), ristorante 10–22 7/7, bar, lavanderia, **meteo Sangster Airport 952-0181**, security Freeport Police <1 miglio. ★★★★
-- **Meccanico diesel di riferimento:** **Rohan** — specialista pompe diesel · **tel (876)428-4025 / 952-8958** (Noonsite 2014 ★★) — via MBYC office. ★★
+- **Meccanico diesel di riferimento:** **Rohan** — specialista pompe diesel · **tel (876)428-4025 / 952-8958** (Fuentes náuticas agregadas 2014 ★★) — via MBYC office. ★★
 - **Supporto logistico:** **CJ Watersports** ★5,0 — organizza **fuel transport, auto/driver, dinghy dock esteso gratuito** (contatto via MBYC). ★★
 
 ## Shipchandler / negozi nautici — dove comprare
@@ -43,7 +43,7 @@
 | **ATC Freight & Shipping / Newport Ship Chandler** | 101 First St, Newport West, Kingston 13 | **tel 876-758-2114 · mob 876-564-3347 · USA 305-907-9220** · chandlery@atcfreight.com | Ship chandler 30+ anni, bonded/deck/engine/paint/provisions, **consegna refrigerata + launch** | **24/7** | ShipServ brochure ★★ |
 | **SyOceanic / altri WSSA** | Kingston area | **DATO MANCANTE** | Chandler commerciale | **DATO MANCANTE** | ★★ |
 
-> Strategia: **contattare Durae's via WhatsApp prima dell'arrivo** per verifica stock; per consegne banchina/launch a Kingston usare **Kingston Marine o Jamaica Ship Stores** (24/7, anche fuori orario). Portare ricambi critici: facilities locali rare (Noonsite ★★★). ★★
+> Strategia: **contattare Durae's via WhatsApp prima dell'arrivo** per verifica stock; per consegne banchina/launch a Kingston usare **Kingston Marine o Jamaica Ship Stores** (24/7, anche fuori orario). Portare ricambi critici: facilities locali rare (Fuentes náuticas agregadas ★★★). ★★
 
 ## Gas e bombole
 
@@ -80,7 +80,7 @@ Tutte metered a consumo; chiedere in office all'arrivo. Portare adattatori US.
 
 ## Note strategiche
 
-- **Repair facilities rare** (Noonsite ★★★): Errol Flynn security ok ma parts limitate; portare filtri, giranti, cinghie, anodi, PropGlide. ★★
+- **Repair facilities rare** (Fuentes náuticas agregadas ★★★): Errol Flynn security ok ma parts limitate; portare filtri, giranti, cinghie, anodi, PropGlide. ★★
 - **IALA-B**: verificare buoyage locale prima di ogni ingresso (US system). ★★
 - **Post-Melissa 10/2025**: verificare con marina danni residui a travelift/banchine su visitjamaica.com/travel-alerts ★★★★★.
 

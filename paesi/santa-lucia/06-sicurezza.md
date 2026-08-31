@@ -47,7 +47,7 @@
 | Spiagge deserte e zone isolate dopo il tramonto | Advisory esplicita: evitare |advisory standard ★★|
 | Quartieri non turistici di Castries di notte | Microcriminalità; quartieri sensibili **DATO MANCANTE** — mappare al controllo mensile |advisory ★★|
 | Gros Islet Friday Street Party | Evento famoso ma affollatissimo: attenzione a oggetti di valore e al percorso di rientro notturno |guide locali ★★|
-| Anse de Canaries | Furto dinghy documentato (lucchetto tagliato); molo dinghy inutilizzabile |Noonsite via scheda anc-canaries ★★★|
+| Anse de Canaries | Furto dinghy documentato (lucchetto tagliato); molo dinghy inutilizzabile |Fonti diportiste aggregate via scheda anc-canaries ★★★|
 
 ## Furti ai danni dei crocieristi
 
@@ -100,5 +100,5 @@ Fonte: Nagico St Lucia emergency numbers ★★★ · elenco ufficiale IGY Rodne
 
 | Data | Fonte | Azione |
 |---|---|---|
-| 29/08/2026 | GOV.UK, Noonsite, CSSN | Verifica sicurezza — nessuna variazione L3, confermato quadro generale |
+| 29/08/2026 | GOV.UK, Fonti diportiste aggregate, CSSN | Verifica sicurezza — nessuna variazione L3, confermato quadro generale |
 

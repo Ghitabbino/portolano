@@ -4,7 +4,7 @@
 
 Currency: **dollaro of the Caraibi Orientali (XCD/EC$)** · cambio fisso ~**2,70 = 1 US$**. Price level: isola importatrice — alimentari importati costosi, prodotti locali and mercati convenienti; **IVA 15%** (ridotta 10% on hotel/diving; beni essenziali esenti). [Ministero Finanze Grenada](https://www.finance.gd/index.php/taxes/28-taxes/172-vat-and-the-consumer) ★★★★ · [Budget 2025, gov.gd](https://www.gov.gd/component/edocman/2025-budget-statement/viewdocument/1563) ★★★★★
 
-> ⚠️ Le voci of questo elenco are le stesse for all i paesi of the portolano. Dove il dato non è stato still trovato dalle fonti si scrive **DATA MISSING**: viene ricercato at the controllo mensile (vedi [00 Index](../00-indice.md)).
+> ⚠️ Le voci of questo elenco are le stesse for all i paesi of the portolano. Dove il dato non è stato still trovato dalle fonti si scrive **DATA MISSING**: viene ricercato at the controllo mensile (vedi [00 Index](00-indice.md)).
 
 ## Groceries & Galley Provisioning
 

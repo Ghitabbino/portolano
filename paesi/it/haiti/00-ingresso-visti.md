@@ -16,7 +16,7 @@ Haiti è uno **Stato insulare indipendente** (Hispaniola occidentale). Contesto 
 | **iKat — carta digitale obbligatoria** | **Obbligatoria per TUTTI** (aria/mare/terra), **entro 72 ore** prima dell'arrivo **e** della partenza su `https://delidoc.gouv.ht/ikat` con generazione di **QR code** (digitale o stampato) da esibire a immigrazione/sanità/dogana. Sostituisce i 3 moduli cartacei precedenti (personali/viaggio/dogana/sanità). Modificabile con codice pratica + n° passaporto. Dal **01/05/2026** operatività completa su tutti i punti d'ingresso (decreto 31/12/2025). Se non compilata in anticipo → compilazione obbligatoria al controllo con rallentamenti. | DIE Haiti / Ministère de l'Intérieur ★★★★★; InfoNation 13/03/2026 ★★★; HaitiLibre 24/02/2026 ★★★ |
 | iKat — avvertenza mare | Validità anche per **porti marittimi**: compilare prima dell'approdo e tenere QR pronto per APN/Semanah/Douane. | DIE Haiti ★★★★★ |
 
-> ⚠️ **Avvertenza Haiti — Do Not Travel**: USA, Canada e Noonsite **sconsigliano** viaggi via mare in Haiti per gang armate, rapimenti e colera endemico — vedi [06 Sicurezza](06-sicurezza.md) e [01 Clearance](01-clearance.md). Chi procede lo fa a proprio rischio con aggiornamento quotidiano.
+> ⚠️ **Avvertenza Haiti — Do Not Travel**: USA, Canada e Fonti diportiste aggregate **sconsigliano** viaggi via mare in Haiti per gang armate, rapimenti e colera endemico — vedi [06 Sicurezza](06-sicurezza.md) e [01 Clearance](01-clearance.md). Chi procede lo fa a proprio rischio con aggiornamento quotidiano.
 
 ## Arrivo via mare — documenti equipaggio
 

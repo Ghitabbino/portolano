@@ -1,17 +1,17 @@
 # Grande Anse d'Arlet {#anc-grande-anse-arlet}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
-| Campo | Dettaglio |
+[← Todos os fundeadouros](../08-ancoraggi.md)
+| Campo | Detalhe |
 |---|---|
-| **Profondità** | 4–8 m circa |
-| **Tenuta** |Buona su sabbia, calaggio facile ★★★|
-| **Venti/riparo** |Buona protezione da vento e swell ★★★; qualcuno segnala rollìo in certe condizioni ★★|
-| **Pericoli** |**Boe da pesca trasparenti (bottiglie di plastica) quasi invisibili** all'ingresso della baia ★★; pattuglie guardacoste attive di recente ★★|
-| **Affollamento** | Medio-alto; ristoranti sulla spiaggia |
-| **Divieti** |⚠️ Regole boe/mouillage **restrittive e fatte rispettare** dai guardacoste ★★; zona Anses d'Arlet regolata per >50 m ★★★★; zone balneazione boe comunali davanti alla spiaggia ★★|
-| **Extra** | Tartarughe in snorkeling; sentiero Morne Champagne fino a Petite Anse |
+| **Profundidade** | 4–8 m aprox. |
+| **Tensão** |Boa sobre areia, fundeio fácil ★★★|
+| **Ventos/abrigo** |Boa proteção de vento e ondulação ★★★; alguns reportam balanço em certas condições ★★|
+| **Perigos** |**Boias de pesca transparentes (garrafas de plástico) quase invisíveis** na entrada da baía ★★; patrulhas da guarda costeira ativas recentemente ★★|
+| **Lotação** | Médio-alta; restaurantes na praia |
+| **Proibições** |⚠️ Regras de boias/fundeio **restritivas e aplicadas** pela guarda costeira ★★; zona Anses d'Arlet regulamentada para >50 m ★★★★; zonas de banho com boias municipais em frente à praia ★★|
+| **Extra** | Tartarugas em snorkeling; trilho Morne Champagne até Petite Anse |
 
 <div class="mapframe" data-slug="grande-anse-arlet" data-lat="14.4805" data-lon="-61.0885"></div>
-*Vista mappa Grande Anse d'Arlet (coord. indicative) — zoom con i pulsanti +/−; menu in alto a destra per passare a Carta nautica e Segnali nautici · mappa offline*
+*Vista do mapa Grande Anse d'Arlet (coord. indicativas) — zoom com os botões +/−; menu no canto superior direito para mudar para Carta náutica e Sinais náuticos · mapa offline*
 
-Ultimo aggiornamento: 22/08/2026
+Última atualização: 22/08/2026

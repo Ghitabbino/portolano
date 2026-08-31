@@ -15,6 +15,6 @@
 <div class="mapframe" data-slug="anc-store-bay" data-lat="11.1562" data-lon="-60.841"></div>
 *Carte détaillée — zoomez jusqu’à la baie · carte hors ligne · coordinate WGS84 indicative, toujours vérifier avec le traceur*
 
-Fonti: Noonsite ★★★ · noForeignLand ★★
+Fonti: Sources plaisance agrégées ★★★ · noForeignLand ★★
 
 Dernière mise à jour: 25/08/2026

@@ -1,19 +1,19 @@
-# Sainte-Anne — il classico {#anc-sainte-anne}
+# Sainte-Anne — el clásico {#anc-sainte-anne}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← Todos los fondeaderos](../08-ancoraggi.md)
 **14°26.3′N 60°53.1′W** ★★
 
-| Campo | Dettaglio |
+| Campo | Detalle |
 |---|---|
-| **Profondità** |~5 m davanti al borgo, degradazione lenta su sabbia; spazio per centinaia di barche ★★|
-| **Tenuta àncora** |Ottima su sabbia ★★★|
-| **Venti/riparo** |Buon riparo dagli alisei E/ENE, swell contenuto; variante "Sainte-Anne Nord" ancora più riparata dallo swell ★★★|
-| **Pericoli** |Pontile dinghy: lo scafo scivola sotto col mare (poppa àncora o prua sollevata); lenze da pesca segnalate; furti dinghy possibili ★★|
-| **Affollamento** | Alto in stagione (dic–apr): arrivare presto; week-end locali |
-| **Divieti** |⛔ Réserve naturelle des îlets: àncora vietata entro **300 m dagli îlets Hardy, Percé, Burgaux e Poirier**, ammaraggio solo sulle boe del sito ★★★★; zona regolata >50 m ★★★★; zone balneazione davanti alla spiaggia ★★|
-| **A terra** | Borgo con negozi/ristoranti a pochi minuti a piedi dal pontile; clearance allo Snack BOUBOU |
+| **Profundidad** |~5 m frente al pueblo, degradado lento sobre arena; espacio para cientos de barcos ★★|
+| **Tenedero** |Excelente sobre arena ★★★|
+| **Vientos/Abrigo** |Buen abrigo de los alisios E/ENE, marejada contenida; variante "Sainte-Anne Norte" aún más resguardada de la marejada ★★★|
+| **Peligros** |Pantalán del dinghy: el casco se cuela debajo con marejada (popa al ancla o proa levantada); sedales de pesca señalados; posibles robos de dinghy ★★|
+| **Afluencia** | Alta en temporada (dic–abr): llegar pronto; fines de semana con locales |
+| **Restricciones** |⛔ Réserve naturelle des îlets: fondeo prohibido dentro de **300 m de los îlets Hardy, Percé, Burgaux y Poirier**, amarre solo en las boyas del sitio ★★★★; zona regulada >50 m ★★★★; zonas de baño frente a la playa ★★|
+| **En tierra** | Pueblo con tiendas/restaurantes a pocos minutos a pie del pantalán; despacho en el Snack BOUBOU |
 
 <div class="mapframe" data-slug="sainte-anne" data-lat="14.4383" data-lon="-60.8850"></div>
-*Vista mappa Sainte-Anne (coord. indicative 14°26.3′N 60°53.1′W) — zoom con i pulsanti +/−; menu in alto a destra per passare a Carta nautica e Segnali nautici · mappa offline*
+*Vista del mapa Sainte-Anne (coords. indicativas 14°26.3′N 60°53.1′W) — haz zoom con los botones +/−; menú arriba a la derecha para cambiar a Carta náutica y Señales náuticas · mapa offline*
 
-Ultimo aggiornamento: 22/08/2026
+Última actualización: 22/08/2026

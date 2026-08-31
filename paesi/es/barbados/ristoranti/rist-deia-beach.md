@@ -27,4 +27,4 @@
 
 Fonti: [OpenTable — Deia Beach](https://www.opentable.com/region/caribbean/barbados-restaurants) ★★ · [Totally Barbados — Deia Beach](https://www.totallybarbados.com/place/deia-beach-bar/) ★★★ · [deiabeach.com](https://www.deiabeach.com) ★★★ · Google 28/08/2026 ★★★
 
-Ultimo aggiornamento: 28/08/2026
+Última actualización: 28/08/2026

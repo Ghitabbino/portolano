@@ -1,20 +1,20 @@
 # L'Oasis
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Todos los restaurantes](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Campo | Detalle |
 |---|---|
 | Zona | Anses d'Arlet |
-| Cucina | 🐟 Pesce e tartare |
-| Specialità | Thon mi-cuit · tartare de poisson |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🌅 terrazza sul mare |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=L'Oasis+Anses+d'Arlet) |
-| Contatti | 0596 48 00 69 |
-| Valutazioni | Petit Futé → ★★★★ (stima) → ★★★★ |
-| Orari | mer–dom · chiusura annuale set–ott |
+| Cocina | 🐟 Pescado y tartar |
+| Especialidad | Thon mi-cuit · tartare de poisson |
+| Coste | 💰€€ por persona sin bebidas |
+| Ubicación | 🌅 terraza sobre el mar |
+| Mapa | [Google Maps](https://www.google.com/maps/search/?api=1&query=L'Oasis+Anses+d'Arlet) |
+| Contacto | 0596 48 00 69 |
+| Valoraciones | Petit Futé → ★★★★ (estimación) → ★★★★ |
+| Horario | mié–dom · cierre anual sep–oct |
 
-## Menu
+## Menú
 
 - Thon mi-cuit
 - Tartare de poisson
@@ -25,10 +25,10 @@
 
 **Chef**: ND
 
-## Foto
+## Fotos
 
 ![L'Oasis](img/martinica/rist-oasis.jpg)
 
-*Fonte: bellemartinique.com*
+*Fuente: bellemartinique.com*
 
-**Note**: 19 bd des Arlésiens, bourg · sul molo
+**Notas**: 19 bd des Arlésiens, bourg · sobre el muelle

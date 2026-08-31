@@ -877,7 +877,7 @@ function updateBreadcrumb(){
 }
 function initMaps(root){
   if(typeof L==='undefined')return;
-  const isAnc=/ancoraggi/i.test((root.querySelector('h1')||{textContent:''}).textContent||'')
+  const isAnc=/ancor|anchor|mouillage|fonde|funde|anker/i.test((root.querySelector('h1')||{textContent:''}).textContent||'')
             || !!root.querySelector('h1[id^="anc"]');
   const ancIcon=L.divIcon({className:'anch-ic',
     html:'<div style="filter:drop-shadow(0 1px 4px rgba(0,0,0,.85))"><svg viewBox=\"0 0 24 24\" width=\"26\" height=\"26\"><path d=\"M12 2a3 3 0 0 1 1 5.83V9h4v2h-4v8.9A8 8 0 0 0 19.7 14H22a10 10 0 0 1-20 0h2.3A8 8 0 0 0 11 19.9V11H7V9h4V7.83A3 3 0 0 1 12 2z\" fill=\"#FFD54F\" stroke=\"#0b131b\" stroke-width=\"1.4\"/></svg></div>',
@@ -929,7 +929,7 @@ function initMaps(root){
          .bindPopup('<b>'+z[4]+'</b>').addTo(m);
       });
       if(hasPts)pts.forEach(p=>{
-        const isRist=/ristorant/i.test((root.querySelector('h1')||{textContent:''}).textContent||'');
+        const isRist=/ristor|restaurant|restau/i.test((root.querySelector('h1')||{textContent:''}).textContent||'');
         const ristIcon=L.divIcon({className:'rist-ic',html:'<div style="background:#ff6f00;border:2px solid #fff;border-radius:50%;width:30px;height:30px;display:flex;align-items:center;justify-content:center;font-size:18px;filter:drop-shadow(0 2px 6px rgba(0,0,0,.85))">🍽️</div>',iconSize:[30,30],iconAnchor:[15,15]});
         const mk=(isAnc?L.marker([p[0],p[1]],{icon:ancIcon}):(isRist?L.marker([p[0],p[1]],{icon:ristIcon}):L.circleMarker([p[0],p[1]],{radius:8,color:'#ff5252',weight:3,fillColor:'#ff5252',fillOpacity:.85}))).addTo(m);
         if(p[3]){

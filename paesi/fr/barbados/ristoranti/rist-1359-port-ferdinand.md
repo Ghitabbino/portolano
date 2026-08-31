@@ -7,7 +7,7 @@
 | Zone | St. Peter — Port Ferdinand Marina (darsena interna) |
 | Cuisine | 🐟 Caraïbesca-internazionale resort |
 | Spécialité | *Wahoo · mahi-mahi · lobster · brunch domenicale · sushi* |
-| Coût | 💰€€€ per persona senza bevande (~100–180 BBD) |
+| Coût | 💰€€€ par personne sans boissons (~100–180 BBD) |
 | Emplacement | ⚓ marina resort 5★ sul bacino — terrazza sul canale, vista superyacht |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=13+59+Restaurant+Port+Ferdinand+Barbados) |
 | Contacts | Port Ferdinand, St. Peter · tel +1 246 272-2020 · [portferdinand.com/dining](https://www.portferdinand.com) |
@@ -23,8 +23,8 @@
 - Cocktail e vini resort
 
 <div class="mapframe" data-slug="rist-1359-port-ferdinand" data-lat="13.2585" data-lon="-59.642"></div>
-*Cartina di dettaglio — posizione a terra rispetto alla barca · zoom ±*
+*Carte détaillée — position à terre par rapport au bateau · zoom ±*
 
-Fonti: [Totally Barbados — 13°/59°](https://www.totallybarbados.com/place/1359-restaurant/) ★★★ · [portferdinand.com](https://www.portferdinand.com) ★★★ · Google/TripAdvisor 28/08/2026 ★★★
+Sources: [Totally Barbados — 13°/59°](https://www.totallybarbados.com/place/1359-restaurant/) ★★★ · [portferdinand.com](https://www.portferdinand.com) ★★★ · Google/TripAdvisor 28/08/2026 ★★★
 
 Dernière mise à jour: 28/08/2026

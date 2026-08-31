@@ -8,7 +8,7 @@ Federazione indipendente del Commonwealth: due isole, un'unica giurisdizione mig
 
 ## Cittadini UE — nessun visto, 90 giorni
 
-Turisti UE/italiani esenti visto (reciprocità piena con l'Unione); prassi di soggiorno fino a 90 giorni. Wikipedia ★★ · Noonsite ★★★
+Turisti UE/italiani esenti visto (reciprocità piena con l'Unione); prassi di soggiorno fino a 90 giorni. Wikipedia ★★ · Fonti diportiste aggregate ★★★
 
 ## Nota importante per chi arriva via mare
 
@@ -18,7 +18,7 @@ Pre-arrivo TRIPLO, per ogni persona e con nomi identici al passaporto:
 2. modulo immigrazione "KNATravel" (ED form);
 3. [CARICOM eAPIS](https://caricomeapis.org).
 
-Poi bandiera gialla Q fino alla clearance, SOLO il capitano scende a terra con l'equipaggio che resta a bordo, chiamata VHF prima dell'ingresso. Noonsite (feb 2025) ★★★
+Poi bandiera gialla Q fino alla clearance, SOLO il capitano scende a terra con l'equipaggio che resta a bordo, chiamata VHF prima dell'ingresso. Fonti diportiste aggregate (feb 2025) ★★★
 
 - Porti: St Kitts → [Port Zante](https://portzante.com/clearing-in-by-yacht-in-st-kitts-nevis-reference-guide/) Marina Basseterre (VHF 68) e Christophe Harbour (Safe Harbor); Nevis → molo di Charlestown (NASPA). ★★★
 - A terra servono: registro nave, clearance dell'ultimo porto, crew list, passaporti, dichiarazioni su armi e animali.
@@ -37,7 +37,7 @@ Procedura di estensione: **DATO MANCANTE**.
 | Christophe Harbour | US$30 copre ingresso+uscita (feb 2025) |
 | Nevis | più caro e SOLO CONTANTI |
 
-L'immigrazione non ha costi. Importazione temporanea extra-UE: **DATO MANCANTE**. Fonte: Noonsite ★★★
+L'immigrazione non ha costi. Importazione temporanea extra-UE: **DATO MANCANTE**. Fonte: Fonti diportiste aggregate ★★★
 
 ## Vaccini
 

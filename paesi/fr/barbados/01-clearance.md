@@ -1,89 +1,89 @@
-# 01 — Formalités douanières
+# 01 — Formalités douanières du bateau
 
-**Dernière vérification: 28/08/2026** · Source principale: Barbados Port Inc. (BPI) – Vessel Documentation ★★★★★ + Barbados Immigration/ travelform.gov.bb ★★★★★ + Noonsite/Barbados (agg. 05/12/2025) ★★★
+**Dernière vérification: 28/08/2026** · Source principale: Barbados Port Inc. (BPI) – Vessel Documentation ★★★★★ + Barbados Immigration / travelform.gov.bb ★★★★★ + Sources plaisance agrégées / Barbados (màj 05/12/2025) ★★★
 
 ## Qui doit effectuer les formalités
 
-Tutti i natanti da diporto, **qualsiasi bandiera e nazionalità**, che:
-- **entrano** nelle acque di Barbados provenendo da porto/mare territoriale straniero o alto mare;
-- **escono** verso porto/mare straniero o alto mare.
-Anche i residenti in rientro da navigazione estera devono presentarsi. È **vietato ancorare o dirigersi in marina/ancoraggio prima di aver completato Dogana/Immigrazione/Port Health al porto d'ingresso**. [Barbados Port Inc.](https://barbadosport.com/vessel-documentation) ★★★★★
+Tous les bateaux de plaisance, **quelle que soit la nationalité et le pavillon**, qui :
+- **entrent** dans les eaux de la Barbade en provenance d'un port/eaux territoriales étrangers ou du large ;
+- **sortent** vers un port/eaux étrangers ou le large.
+Les résidents de retour d'une navigation étrangère doivent aussi se présenter. Il est **interdit de mouiller ou de se diriger vers une marina/mouillage avant d'avoir complété Douane/Immigration/Port Health au port d'entrée**. [Barbados Port Inc.](https://barbadosport.com/vessel-documentation) ★★★★★
 
-L'equipaggio è tenuto a **restare a bordo** fino a clearance ultimata; espongono **bandiera Q gialla**. [Noonsite](https://www.noonsite.com/place/barbados/) ★★★
+L'équipage doit **rester à bord** jusqu'à la fin de la clearance ; hisser le **pavillon Q jaune**. Sources plaisance agrégées ★★★
 
-## Procédure online
+## Procédure en ligne
 
-Barbados **non ha portale unico tipo Aruba/Antille FR**: la parte digitale è **pre-avviso barca (SailClear)** + **Immigration & Customs Form persone (travelform.gov.bb)**; il resto è in banchina con ispezione a bordo.
+La Barbade **n'a pas de portail unique comme Aruba ou les Antilles françaises** : la partie numérique est **préavis bateau (SailClear)** + **formulaire personnes Immigration & Customs Form (travelform.gov.bb)** ; le reste se fait à quai avec inspection à bord.
 
-1. **Pre-avviso barca — SailClear**: la Dogana è tra i paesi **SailClear CCLEC** ([sailclear.com](https://www.sailclear.com)) — compilarlo online **prima dell'arrivo** (dati barca, armatore, equipaggio, ultimo/prossimo porto, ETA, bandiera, MMSI, dimensioni, motori, stores). Non sostituisce la presenza in banchina ma abbrevia la pratica. Fee SailClear **US$25/anno** dal 01/05/2024. [CCLEC — SailClear](https://www.cclec.org/about-us/sailclear/) ★★★ · [Noonsite](https://www.noonsite.com/place/barbados/view/clearance/) ★★★
-2. **Pre-avviso persone — Immigration & Customs Form**: ogni persona a bordo compila la **Immigration and Customs Form** su [travelform.gov.bb](https://travelform.gov.bb) **entro 72 h** prima dell'arrivo (anche per yacht: si può pre-registrare l'imbarcazione); le **ricevute Immigration + Customs vanno salvate/stampate** su telefono per l'arrivo. [immigration.gov.bb](https://immigration.gov.bb/pages/visitor.aspx) ★★★★★ · [travelform.gov.bb](https://travelform.gov.bb) ★★★★★
-3. **Moduli cartacei** (facoltativi): Barbados Port Inc. fornisce **Vessel Documentation** con moduli e lista documenti; se non stampati, disponibili negli uffici sul molo. Tenere pronti: passaporti, crew/passenger list, ship's particulars, **lista ultimi 10 porti toccati**, zarpe del porto precedente, registrazione/nazionalità, prova proprietà/assicurazione. [Barbados Port Inc.](https://barbadosport.com/vessel-documentation) ★★★★★
-4. **Avvicinamento**: **chiamare Bridgetown Signal Station su VHF 12 ("8P")** (Bridgetown) **prima di entrare** e chiedere berth/istruzioni; a Port St. Charles presentarsi direttamente al pontile interno. Seguire istruzioni fino all'ormeggio / ancoraggio esterno e **issare Q**. [BPI](https://barbadosport.com/vessel-documentation) ★★★★★ · [Noonsite comment 31/12/2022](https://www.noonsite.com/place/barbados/bridgetown/) ★★
-5. **Ormeggio/ancoraggio**: a **Bridgetown** NON andare al molo doganale con barche <20 m (pericoloso, senza pontile — report Noonsite dic 2022): meglio **ancorare fuori a Carlisle Bay** e procedere **col dinghy al Passenger Terminal**, oppure ormeggiare allo **Shallow Draught** su assegnazione Signal Station. A **Port St. Charles** ancoraggio esterno su sabbia davanti alla marina, poi dinghy al pontile interno (ufficiali nello stesso stabile a fine frangiflutti). [Noonsite — Port St. Charles 30/11/2025](https://www.noonsite.com/place/barbados/port-st-charles) ★★★ · [Noonsite — Bridgetown](https://www.noonsite.com/place/barbados/bridgetown/) ★★★
-6. **A banchina / a bordo**: presentazione di tutto l'equipaggio (headcount Immigration) + **Port Health** + **Dogana**; la nave viene **boardata a bordo** (Free Pratique ~10 min). Dichiarare stores e armi. Dopo le firme, le autorizzazioni vengono rilasciate e la barca può spostarsi a Carlisle Bay o alla marina.
-7. **Uscita (clearance out)**: tornare allo stesso ufficio Dogana/Immigrazione prima di mollare, con passaporti e documenti barca; chiedere **zarpe/dichiarazione di uscita** per il porto successivo; poi partenza immediata.
+1. **Préavis bateau — SailClear** : la Douane fait partie des pays **SailClear CCLEC** ([sailclear.com](https://www.sailclear.com)) — à remplir en ligne **avant l'arrivée** (données du bateau, armateur, équipage, dernier/prochain port, ETA, pavillon, MMSI, dimensions, moteurs, vivres). Ne remplace pas la présentation à quai mais abrège la paperasse. Frais SailClear **US$25/an** depuis le 01/05/2024. [CCLEC — SailClear](https://www.cclec.org/about-us/sailclear/) ★★★ · Sources plaisance agrégées ★★★
+2. **Préavis personnes — Immigration & Customs Form** : chaque personne à bord remplit le **formulaire Immigration and Customs Form** sur [travelform.gov.bb](https://travelform.gov.bb) **dans les 72 heures** avant l'arrivée (pour les yachts on peut aussi pré-enregistrer le bateau) ; les **récépissés Immigration + Customs doivent être sauvegardés/imprimés** sur le téléphone pour l'arrivée. [immigration.gov.bb](https://immigration.gov.bb/pages/visitor.aspx) ★★★★★ · [travelform.gov.bb](https://travelform.gov.bb) ★★★★★
+3. **Formulaires papier** (optionnels) : Barbados Port Inc. fournit la **Vessel Documentation** avec formulaires et check-list ; si non imprimés, disponibles dans les bureaux sur le quai. Prévoir : passeports, liste d'équipage/passagers, caractéristiques du bateau, **liste des 10 derniers ports touchés**, zarpe du port précédent, immatriculation/nationalité, preuve de propriété/assurance. [Barbados Port Inc.](https://barbadosport.com/vessel-documentation) ★★★★★
+4. **Approche** : **appeler la Signal Station de Bridgetown sur VHF 12 ("8P")** (Bridgetown) **avant d'entrer** et demander un poste/instructions ; à Port St. Charles se présenter directement au ponton intérieur. Suivre les instructions jusqu'à l'amarrage / mouillage extérieur et **hisser Q**. [BPI](https://barbadosport.com/vessel-documentation) ★★★★★ · Sources plaisance agrégées ★★★
+5. **Amarrage/mouillage** : à **Bridgetown** ne pas se diriger vers le quai douanier avec des bateaux <20 m (dangereux, pas de ponton — rapport sources plaisance agrégées déc 2022) : mieux **mouiller dehors à Carlisle Bay** et rejoindre **en annexe le Passenger Terminal**, ou s'amarrer au **Shallow Draught** sur attribution de la Signal Station. À **Port St. Charles** mouillage extérieur sur sable devant la marina, puis annexe au ponton intérieur (agents dans le même bâtiment au bout du brise-lames). Sources plaisance agrégées ★★★ · Sources plaisance agrégées ★★★
+6. **À quai / à bord** : présentation de tout l'équipage (headcount Immigration) + **Port Health** + **Douane** ; le bateau est **visité à bord** (Free Pratique ~10 min). Déclarer vivres et armes. Après signatures, les autorisations sont délivrées et le yacht peut rejoindre Carlisle Bay ou la marina.
+7. **Sortie (clearance out)** : revenir au même bureau Douane/Immigration avant d'appareiller, avec passeports et papiers du bateau ; demander un **zarpe/déclaration de sortie** pour le port suivant ; puis départ immédiat.
 
-### Trucco utile (★★★)
+### Astuce utile (★★★)
 
-Compilare **SailClear + travelform** con 24–48 h di anticipo e portare a bordo **stampe/ricevute + crew list separata + lista 10 porti + zarpe** precedente in cartellina: gli uffici di Bridgetown sono piccoli e la coda è più rapida con moduli pronti. Tenere **Q esposta** fino a timbro avvenuto.
+Remplir **SailClear + travelform** 24–48 h à l'avance et avoir à bord **impressions/récépissés + crew list séparée + liste des 10 ports + zarpe précédent** en pochette : les bureaux de Bridgetown sont petits et la file va plus vite avec formulaires prêts. Garder **Q hissé** jusqu'au tampon.
 
-## Copia cartacea timbrata
+## Copie papier tamponnée
 
-- Barbados **non ha “attestation” elettronica** stampabile da portale: le **ricevute timbrate cartacee** rilasciate in banchina da **Immigration, Dogana e Port Health** dopo la firma del comandante sono la prova legale. **Conservarle a bordo**: servono come **zarpe** per il porto successivo e come prova di entrata regolare. [Barbados Port Inc.](https://barbadosport.com/vessel-documentation) ★★★★★
-- Finché non si è timbrati, **non si è legalmente entrati**: restare in banchina/area ancoraggio assegnata; per arrivi notturni seguire istruzioni Signal Station / Guardia Costiera.
+- La Barbade **n'a pas d'“attestation” électronique** imprimable depuis un portail : les **reçus papier tamponnés** délivrés à quai par **Immigration, Douane et Port Health** après signature du capitaine sont la preuve légale. **Les conserver à bord** : ils servent de **zarpe** pour le port suivant et de preuve d'entrée régulière. [Barbados Port Inc.](https://barbadosport.com/vessel-documentation) ★★★★★
+- Tant que vous n'êtes pas tamponné, **vous n'êtes pas légalement entré** : rester au poste/mouillage assigné ; pour les arrivées de nuit suivre les instructions de la Signal Station / Garde-côte.
 
-## Costi
+## Frais
 
 | Rubrique | Coût | Source |
 |---|---|---|
-| Pre-avviso SailClear | **US$25/anno** (fee piattaforma) | [SailClear](https://www.sailclear.com) ★★★ |
-| Immigration & Customs Form (travelform) | **Gratuita** | [travelform.gov.bb](https://travelform.gov.bb) ★★★★★ |
-| Clearance Dogana/Immigrazione ingresso | **Gratuita** in orario | [Noonsite — Fees](https://www.noonsite.com/place/barbados/view/fees/) ★★★ |
-| Clearance uscita | **BBD 100 (circa US$50)** pagati all'uscita | [Noonsite — Fees 05/12/2025](https://www.noonsite.com/place/barbados/view/fees/) ★★★ |
-| Moduli BPI / fotocopie | **Gratuiti** (PDF o in ufficio) | [BPI](https://barbadosport.com/vessel-documentation) ★★★★★ |
-| Deposito cauzionale oltre periodo | **DONNÉE MANQUANTE** — nessuna fonte governativa con tabella sanzioni/dazi per overstay barca trovata al 28/08/2026 | — |
+| Préavis SailClear | **US$25/an** (frais plateforme) | [SailClear](https://www.sailclear.com) ★★★ |
+| Immigration & Customs Form (travelform) | **Gratuit** | [travelform.gov.bb](https://travelform.gov.bb) ★★★★★ |
+| Clearance Douane/Immigration à l'entrée | **Gratuit** aux heures ouvrables | Sources plaisance agrégées ★★★ |
+| Clearance de sortie | **BBD 100 (environ US$50)** payables à la sortie | Sources plaisance agrégées ★★★ |
+| Formulaires BPI / photocopies | **Gratuits** (PDF ou au bureau) | [BPI](https://barbadosport.com/vessel-documentation) ★★★★★ |
+| Caution au-delà de la période autorisée | **DONNÉE MANQUANTE** — aucune source gouvernementale avec barème amendes/droits pour overstay yacht trouvée au 28/08/2026 | — |
 
-## Punti d'ingresso ufficiali (lista BPI ★★★★★)
+## Ports d'entrée officiels (liste BPI ★★★★★)
 
-Barbados ha **due POE per yacht**: Bridgetown e Port St. Charles. Non esiste rete diffusa tipo “points agréés” francesi.
+La Barbade a **deux POE pour yachts** : Bridgetown et Port St. Charles. Il n'existe pas de réseau étendu type “points agréés” français.
 
-| Località | Punto | Coordinate (WGS84) indicativo | Contacts | Horaires |
+| Localité | Point | Coordonnées (WGS84) approx. | Contacts | Horaires |
 |---|---|---|---|---|
-| **Bridgetown — Shallow Draught (yacht, consigliato)** | Darsena dedicata yacht dentro il porto, Dogana/Immigrazione dedicata | **13°06,07' N 59°37,62' W** (careenage/shallow) | Signal Station **VHF 12 ("8P")** · Harbour Master +1 246 434-6100 · BPI +1 246 434-6100 | **06:00–22:00, 7/7** al Passenger Terminal secondo segnalazioni BPI/ guide — **da confermare VHF** |
-| **Bridgetown — Deep Water Harbour (commerciale, pericoloso <20 m)** | Banchina commerciale / Passenger Terminal | **13°06,37' N 59°37,80' W** | Signal Station **VHF 12** | Come sopra; evitare con piccole barche senza pontile |
-| **Port St. Charles (nord, resort, POE)** | Marina con uffici in fondo al frangiflutti (dogana/immigrazione/coast guard/polizia nello stesso stabile) | **13°15,83' N 59°38,79' W** (ancoraggio esterno 13°15,50' N 59°38,47' W in baia) | Port St. Charles Marina VHF **16** (chiamata) / +1 246 419-1000 · Immigration Port St. Charles +1 246 535-4178 | Rapida e cordiale secondo report 11/2025; orari **DONNÉE MANQUANTE** su pubblicazione governativa — verificare VHF/tel |
+| **Bridgetown — Shallow Draught (yachts, recommandé)** | Bassin dédié aux yachts dans le port, Douane/Immigration dédiée | **13°06.07' N 59°37.62' W** (Careenage/Shallow) | Signal Station **VHF 12 ("8P")** · Harbour Master +1 246 434-6100 · BPI +1 246 434-6100 | **06:00–22:00, 7/7** au Passenger Terminal selon rapports BPI/guides — **à confirmer sur VHF** |
+| **Bridgetown — Deep Water Harbour (commercial, dangereux <20 m)** | Quai commercial / Passenger Terminal | **13°06.37' N 59°37.80' W** | Signal Station **VHF 12** | Comme ci-dessus ; éviter avec petits bateaux — pas de ponton |
+| **Port St. Charles (nord, resort, POE)** | Marina avec bureaux au bout du brise-lames (douane/immigration/coast guard/police dans le même bâtiment) | **13°15.83' N 59°38.79' W** (mouillage extérieur 13°15.50' N 59°38.47' W dans la baie) | Port St. Charles Marina VHF **16** (appel) / +1 246 419-1000 · Immigration Port St. Charles +1 246 535-4178 | Rapide et cordiale selon rapport 11/2025 ; horaires **DONNÉE MANQUANTE** dans les publications gouvernementales — vérifier sur VHF/tél |
 
-> **Nota nautica Bridgetown**: restare **ancorati fuori a Carlisle Bay** fino a istruzioni Signal Station; non puntare diretto al molo doganale con unità <20 m; avvicinarsi col dinghy al Passenger Terminal se istruiti così.
+> **Note nautique — Bridgetown** : rester **au mouillage dehors à Carlisle Bay** jusqu'aux instructions de la Signal Station ; ne pas viser directement le quai douanier avec une unité <20 m ; rejoindre en annexe le Passenger Terminal si ainsi instruit.
 
 ## Douane régionale
 
-| Ente | Sede / Contatto | Nota |
+| Autorité | Bureau / Contact | Note |
 |---|---|---|
-| **Barbados Customs & Excise Department** | Port di Bridgetown — ufficio Dogana al Passenger Terminal / Shallow Draught | Autorità per importazione temporanea yacht, ispezione stores/armi |
-| **Barbados Immigration Department** | BTI Corporate Centre, Princess Alice Hwy, Bridgetown BB11093 · +1 246 535-4100 · immigration@barbados.gov.bb · Passenger Terminal +1 246 535-4172 · Port St. Charles +1 246 535-4178 · Airport +1 246 535-4128 | Controllo persone, travelform, estensioni soggiorno |
-| **Barbados Port Inc. (BPI) — Harbour Master / Signal Station** | Bridgetown Port — Signal Station VHF **12** · +1 246 434-6100 (Marine Services) | Assegnazione ormeggio, permessi ingresso porto |
-| **Barbados Coast Guard** | Via Signal Station / VHF 16 | Permessi ancoraggio notturno, sicurezza portuale |
+| **Barbados Customs & Excise Department** | Port de Bridgetown — bureau Douane au Passenger Terminal / Shallow Draught | Autorité pour importation temporaire yacht, inspection vivres/armes |
+| **Barbados Immigration Department** | BTI Corporate Centre, Princess Alice Hwy, Bridgetown BB11093 · +1 246 535-4100 · immigration@barbados.gov.bb · Passenger Terminal +1 246 535-4172 · Port St. Charles +1 246 535-4178 · Airport +1 246 535-4128 | Contrôle personnes, travelform, prolongations de séjour |
+| **Barbados Port Inc. (BPI) — Harbour Master / Signal Station** | Bridgetown Port — Signal Station VHF **12** · +1 246 434-6100 (Marine Services) | Attribution poste, permis d'entrée portuaire |
+| **Barbados Coast Guard** | Via Signal Station / VHF 16 | Permis mouillage de nuit, sécurité portuaire |
 
-Fonti: [gov.bb — Immigration Contacts](https://www.gov.bb/Departments/immigration) ★★★★★ · [BPI Vessel Documentation](https://barbadosport.com/vessel-documentation) ★★★★★ · [Noonsite](https://www.noonsite.com/place/barbados/) ★★★
+Sources: [gov.bb — Immigration Contacts](https://www.gov.bb/Departments/immigration) ★★★★★ · [BPI Vessel Documentation](https://barbadosport.com/vessel-documentation) ★★★★★ · Sources plaisance agrégées ★★★
 
 ## Retours de navigateurs
 
-- **Port St. Charles** descritto come **rapido e cordiale**: ancorare fuori e dinghy al “superyacht marina” — ufficiali tutti nella stessa stanza in fondo al frangiflutti, 6 berths mega-yacht (water/power) ma **no toilets/showers/laundry**, ristorante di fascia alta in loco. ★★★ (Noonsite 30/11/2025 Lionheart)
-- **Bridgetown Customs Wharf** criticato perché **pericoloso per barche <20 m, senza pontile** per sbarco — non presentarsi al molo merci: meglio **dinghy al passenger port** su VHF. ★★ (Noonsite 31/12/2022 olcdlm)
-- Chiamare **30 min prima** velocizza l'uscita dell'ufficiale e l'assegnazione berth. ★★★
+- **Port St. Charles** décrit comme **rapide et cordial** : mouiller dehors et rejoindre en annexe le “superyacht marina” — officiers tous dans la même salle au bout du brise-lames, 6 postes méga-yachts (eau/électricité) mais **pas de toilettes/douches/laverie**, restaurant haut de gamme sur place. ★★★ (Sources plaisance agrégées 30/11/2025 Lionheart)
+- **Bridgetown Customs Wharf** critiqué comme **dangereux pour bateaux <20 m, pas de ponton** pour débarquer — ne pas se présenter au quai cargo : mieux **rejoindre en annexe le port passagers** sur VHF. ★★ (Sources plaisance agrégées 31/12/2022 olcdlm)
+- Appeler **30 minutes avant** accélère la sortie de l'officier et l'attribution du poste. ★★★
 
 ## Sanctions
 
-- **Permanere in acque di Barbados senza consenso dell'immigrazione è reato** (prassi caraibica generale — analogo ad Aruba/ABC: è considerato reato rimanere senza clearance). [BPI — Vessel Documentation § Customs](https://barbadosport.com/vessel-documentation) ★★★★★
-- **Séjour oltre i giorni concessi senza proroga** può comportare **rifiuto di future ammissioni** / annotazione. [immigration.gov.bb](https://immigration.gov.bb/pages/visitor.aspx) ★★★★★
-- **Armi/fiocine non dichiarate**: sequestro immediato all'ispezione e possibili sanzioni doganali — **DONNÉE MANQUANTE** sull'importo: nessuna tabella sanzioni pubblicata su gov.bb/BPI al 28/08/2026; à vérifier con Dogana in banchina.
-- **Détail importi multe doganali/immigrazione**: **DONNÉE MANQUANTE** — nessuna fonte governativa con tariffario sanzioni per mancata clearance yacht reperita su gov.bb al 28/08/2026; verificare con BPI/Dogana prima della crociera.
+- **Rester dans les eaux barbadiennes sans consentement de l'immigration est un délit** (pratique caribéenne générale — analogue à Aruba/ABC : rester sans clearance est considéré comme délit). [BPI — Vessel Documentation § Customs](https://barbadosport.com/vessel-documentation) ★★★★★
+- **Séjour au-delà des jours accordés sans prolongation** peut entraîner **refus d'admissions futures** / annotation. [immigration.gov.bb](https://immigration.gov.bb/pages/visitor.aspx) ★★★★★
+- **Armes/fusils sous-marins non déclarés** : saisie immédiate à l'inspection et possibles sanctions douanières — **DONNÉE MANQUANTE** sur le montant : aucune grille de sanctions publiée sur gov.bb/BPI au 28/08/2026 ; à vérifier auprès de la Douane à quai.
+- **Détail des montants amendes douane/immigration** : **DONNÉE MANQUANTE** — aucune source gouvernementale avec barème sanctions pour défaut de clearance yacht trouvée sur gov.bb au 28/08/2026 ; vérifier auprès de BPI/Douane avant la croisière.
 
 ## À vérifier avant la croisière
 
-- **Horaires sportello Immigration/Customs a Bridgetown Shallow Draught e Port St. Charles** (non pubblicati con dettaglio su gov.bb/BPI al 28/08/2026) — chiedere a BPI/Signal Station VHF 12.
-- **Eventuale obbligo di pre-notifica via marina** e disponibilità posti a Shallow Draught in alta stagione (dic–apr).
-- **Tariffario sanzioni aggiornato** e lista broker doganali se necessari (non documentati per diporto breve).
-- **Evoluzione fee uscita BBD 100** — confermare con Dogana (dato Noonsite 2025).
+- **Horaires guichet Immigration/Customs à Bridgetown Shallow Draught et Port St. Charles** (non publiés en détail sur gov.bb/BPI au 28/08/2026) — demander à BPI/Signal Station sur VHF 12.
+- **Obligation éventuelle de préavis via marina** et disponibilité de poste à Shallow Draught en haute saison (déc–avr).
+- **Barème sanctions à jour** et liste de brokers douane si nécessaire (non documentés pour courts séjours plaisance).
+- **Frais actuels de sortie BBD 100** — confirmer auprès de la Douane (donnée Sources plaisance agrégées 2025).
 
 Dernière mise à jour: 28/08/2026

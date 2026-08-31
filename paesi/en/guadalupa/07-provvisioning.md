@@ -2,40 +2,40 @@
 
 **Last updated: 21/08/2026**
 
-## Livello prezzi generale
+## General Price Level
 
-- Groceries ~+30–40% vs Francia metropolitana, in linea with la Martinica; more economici of the Grenadine second i naviganti. ★★
-- Prodotti locali convenienti: pesce dai pescatori, frutta/verdura of the mercati, pane/boulangerie. ★★★
+- Groceries approx. +30–40% vs mainland France, in line with Martinique; cheaper than the Grenadines according to cruisers. ★★
+- Good value on local produce: fish from fishermen, fruit/veg from markets, bread/*boulangerie*. ★★★
 
-## Supermercati
+## Supermarkets
 
-| Negozio | Dove | Note |
+| Shop | Where | Notes |
 |---|---|---|
-| **Hyper Casino Jarry** | Baie-Mahault | Il more large dell'arcipelago; all, prezzi migliori |
-| **Carrefour Jarry** | Baie-Mahault | Ottima selezione francesi/import |
-| Super U / Leader Price | Pointe-à-Pitre, Le Gosier, Sainte-Anne, Saint-François, Basse-Terre | Diffusi ovunque |
-| Supermercati Bas-du-Fort | accanto at the marina | Comodo for rifornimento rapido |
+| **Hyper Casino Jarry** | Baie-Mahault | Largest in the archipelago; everything, best prices |
+| **Carrefour Jarry** | Baie-Mahault | Excellent French/imported selection |
+| Super U / Leader Price | Pointe-à-Pitre, Le Gosier, Sainte-Anne, Saint-François, Basse-Terre | Found everywhere |
+| Supermarkets Bas-du-Fort | next to the marina | Handy for quick top-ups |
 
-La zona **Jarry** (3.500 imprese) è il maggiore polo commerciale of the Caraibi: qui si trova praticamente all, compresi pezzi industriali and ricambi. ★★
+The **Jarry** area (3,500 businesses) is the largest commercial hub in the Caribbean: virtually everything is available here, including industrial parts and spares. ★★
 
-## Mercati
+## Markets
 
-- **Marché de la Darse** (Pointe-à-Pitre, sul molo): frutta, verdura, pesce, spezie — mattino, meglio sabato. Iconico edificio giallo and verde.
-- Marché of Saint-Antoine (PAP) and mercati comunali of Basse-Terre, Saint-François, Capesterre (Marie-Galante).
-- Pesce fresco: approccio at the pescatori nei porti (Deshaies, Saint-Louis de Marie-Galante) at the ritorno of the barche (~10h).
+- **Marché de la Darse** (Pointe-à-Pitre, on the quay): fruit, veg, fish, spices — mornings, best on Saturday. Iconic yellow-and-green building.
+- Marché Saint-Antoine (Pointe-à-Pitre) and municipal markets at Basse-Terre, Saint-François, Capesterre (Marie-Galante).
+- Fresh fish: approach fishermen in the harbours (Deshaies, Saint-Louis de Marie-Galante) when boats return (~10:00).
 
-## Water and carburante
+## Water & Fuel
 
-| Service | Dove |
+| Service | Where |
 |---|---|
-| Water dock | Marina Bas-du-Fort (incluso nel posto), Saint-François, Deshaies (pontile municipio), Rivière Sens |
-| Fuel dock | Bas-du-Fort 8h–12h/14h–18h; Saint-François; stazioni stradali Jarry with tanica |
-| Gas (butane/propane) | Scambi bottiglia standard francesi a Jarry and nei punti U; attenzione at the raccordi |
+| Water dock | Marina Bas-du-Fort (included with berth), Saint-François, Deshaies (town pontoon), Rivière Sens |
+| Fuel dock | Bas-du-Fort 08:00–12:00 / 14:00–18:00; Saint-François; roadside stations at Jarry with jerry can |
+| Gas (butane/propane) | Standard French bottle exchange at Jarry and Super U outlets; watch the fittings |
 
-## Consigli pratici
+## Practical Tips
 
-- Grande spesa = Jarry (auto/taxi dalla marina, 15 min); fresco quotidiano = mercato Darse.
-- Sulle isole minori (Saintes, Petite Terre, Désirade) scelta limitata: fare scorta prima.
-- Consegne: alcuni supermercati Jarry consegnano in marina for ordini telefonici ⚠️ from check caso for caso.
+- Big shop = Jarry (car/taxi from the marina, 15 min); daily fresh produce = Darse market.
+- On the smaller islands (Les Saintes, Petite Terre, La Désirade) selection is limited: stock up beforehand.
+- Deliveries: some Jarry supermarkets deliver to the marina for phone orders ⚠️ to be verified case by case.
 
 Last updated: 22/08/2026

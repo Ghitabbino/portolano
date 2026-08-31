@@ -4,7 +4,7 @@
 
 Devise: **dollaro dei Caraïbes Orientali (XCD)**, parità fissa **US$1 = EC$2,70** (ECCB). Alimentation +20–40% vs Europa/USA; **IVA 12,5%**, azzerata dal 02/08/2025 su 70 generi base. [St Lucia Times 18/08/2025 ★★★]
 
-> ⚠️ Le voci di questo elenco sono le stesse per tutti i paesi del portolano. Dove il dato non è stato ancora trovato dalle fonti si scrive **DONNÉE MANQUANTE**: viene ricercato al controllo mensile (vedi [00 Index](../00-indice.md)).
+> ⚠️ Le voci di questo elenco sono le stesse per tutti i paesi del portolano. Dove il dato non è stato ancora trovato dalle fonti si scrive **DONNÉE MANQUANTE**: viene ricercato al controllo mensile (vedi [00 Index](00-indice.md)).
 
 ## Alimentation & avitaillement
 

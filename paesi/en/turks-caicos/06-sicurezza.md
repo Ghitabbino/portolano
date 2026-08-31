@@ -51,7 +51,7 @@
 
 ## Furti ai danni dei crocieristi
 
-Dati **Caribbean Safety and Security Net** (safetyandsecuritynet.org ★★★) + Noonsite (★ ★★), controllo 28/08/2026:
+Dati **Caribbean Safety and Security Net** (safetyandsecuritynet.org ★★★) + Cruising sources aggregate (★ ★★), controllo 28/08/2026:
 - Per TCI **pochi incidenti catalogati** negli ultimi 5 anni vs. isole Windward (sotto-segnalazione possibile): prevalentemente **furtu opportunistici** e **dinghy/fuoribordo** nelle ore notturne.
 - Contromisure efficaci (universali Caraibi): catena corta + lucchetto attraverso il transito, motore sempre bloccato al dinghy, dinghy sollevato a bordo di notte, niente oggetti in vista, pozzetto chiuso.
 - Segnalazione: **RTCI Police 911/999**, VHF 16, CSSN report online; gruppo FB "Turks & Caicos Cruisers" (verificare nome aggiornato) per avvisi rapidi. ★★

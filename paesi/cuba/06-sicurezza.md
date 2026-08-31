@@ -104,5 +104,5 @@ Contromisure: catena heavy-duty + lucchetto inox, dinghy sollevato a bordo di no
 
 | Data | Fonte | Azione |
 |---|---|---|
-| 29/08/2026 | GOV.UK, Noonsite, CSSN | Verifica sicurezza — nessuna variazione L3, confermato quadro generale |
+| 29/08/2026 | GOV.UK, Fonti diportiste aggregate, CSSN | Verifica sicurezza — nessuna variazione L3, confermato quadro generale |
 

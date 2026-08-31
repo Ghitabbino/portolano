@@ -2,7 +2,7 @@
 
 [← Tutti i ristoranti](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Campo | Detalhe |
 |---|---|
 | Zona | Christ Church — St. Lawrence Gap (“The Gap”, 200 m dalla spiaggia) |
 | Cucina | 🍽️ Internazionale / caraibica + 🐟 seafood |
@@ -27,4 +27,4 @@
 
 Fonti: [Totally Barbados — Primo](https://www.totallybarbados.com/place/primo-bar-bistro/) ★★★ · [primobarbados.com](https://www.primobarbados.com) ★★★ · Google/TripAdvisor 28/08/2026 ★★★
 
-Ultimo aggiornamento: 28/08/2026
+Última atualização: 28/08/2026

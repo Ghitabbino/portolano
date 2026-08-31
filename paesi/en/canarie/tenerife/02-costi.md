@@ -2,7 +2,7 @@
 
 Last updated: 22/08/2026 · Currency: **euro** · Fiscalità speciale IGIC ~7% (vs IVA 21% continentale) → prezzi mediamente more bassi che in Spagna continentale.
 
-⚠️ Voci with (from confermare) vengono ricercate at the controllo mensile (vedi [00 Index](../../00-indice.md)).
+⚠️ Voci with (from confermare) vengono ricercate at the controllo mensile (vedi [00 Index](../00-indice.md)).
 
 ## Groceries & Galley Provisioning
 

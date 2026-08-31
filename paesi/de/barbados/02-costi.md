@@ -1,68 +1,68 @@
-# 02 — Costo della vita
+# 02 — Lebenshaltungskosten
 
-**Ultimo aggiornamento: 28/08/2026**
+**Letzte Aktualisierung: 28/08/2026**
 
-Valuta: **dollaro di Barbados (BBD, Bds$)** — ancorato a **2 BBD = 1 USD**; prezzi in BBD ovunque, USD accettati quasi ovunque al cambio fisso; isola con **forte importazione**, alimentari **+30–50% vs Europa/USA continentale**, ristorazione turistica cara nelle zone marina (come da guida locale “comparable to New York/London”). [skiptomalouuu.com — Barbados Food Guide 2025](https://www.skiptomalouuu.com/blog/best-eateries-in-barbados) ★★★ · [barbados.org](https://barbados.org) ★★★
+Währung: **Barbados-Dollar (BBD, Bds$)** — fest an **2 BBD = 1 USD** gekoppelt; Preise überall in BBD, USD werden fast überall zum Fixkurs akzeptiert; Insel mit **hohem Importanteil**, Lebensmittel **+30–50 % vs. Europa/US-Festland**, touristische Gastronomie teuer in Marina-Zonen (laut lokalem Guide „comparable to New York/London“). [skiptomalouuu.com — Barbados Food Guide 2025](https://www.skiptomalouuu.com/blog/best-eateries-in-barbados) ★★★ · [barbados.org](https://barbados.org) ★★★
 
-> ⚠️ Le voci di questo elenco sono le stesse per tutti i paesi del portolano. Dove il dato non è stato ancora trovato dalle fonti si scrive **DATO MANCANTE**: viene ricercato al controllo mensile (vedi [00 Indice](../00-indice.md)).
+> ⚠️ Die Punkte dieser Liste sind für alle Länder des Handbuchs identisch. Wo der Wert noch nicht aus Quellen ermittelt wurde, steht **DATEN FEHLEN**: Er wird beim monatlichen Check recherchiert (siehe [00 Übersicht](00-indice.md)).
 
-## Alimentari e spesa di bordo
+## Lebensmittel & Bordverpflegung
 
-| Voce | Prezzo indicativo | Note |
+| Artikel | Richtpreis | Hinweise |
 |---|---|---|
-| Birra locale supermercato (0,33 l, Banks) | 2,5–4,0 BBD (~1,2–2,0 USD) | Banks/Deputy, importate più care ★★ |
-| Caffè al bancone | 5–10 BBD (~2,5–5 USD) | Bar del bourg/marina ★★ |
-| Baguette / pane | 3–7 BBD (~1,5–3,5 USD) | Panetteria, più caro artigianale ★★ |
-| Acqua imbottigliata 1,5 l | 3–6 BBD (~1,5–3 USD) | Supermercato; acqua del rubinetto potabile ma molti preferiscono imbottigliata ★★ |
-| Latte 1 l | **DATO MANCANTE** — range Caraibi 3–5 BBD stimato, da verificare Massy super | Verificare Numbeo/ Massy Stores ★★ |
-| Riso 1 kg | **DATO MANCANTE** | — |
-| Pollo fresco 1 kg | **DATO MANCANTE** — pollo intero locale più economico dei tagli | — |
+| Lokales Bier im Supermarkt (0,33 l, Banks) | 2,5–4,0 BBD (~1,2–2,0 USD) | Banks/Deputy, Importbiere teurer ★★ |
+| Kaffee an der Theke | 5–10 BBD (~2,5–5 USD) | Bar im Ort/Marina ★★ |
+| Baguette / Brot | 3–7 BBD (~1,5–3,5 USD) | Bäckerei, handwerklich teurer ★★ |
+| Mineralwasser 1,5 l | 3–6 BBD (~1,5–3 USD) | Supermarkt; Leitungswasser trinkbar, viele bevorzugen Flaschenwasser ★★ |
+| Milch 1 l | **DATEN FEHLEN** — Karibik-Spanne 3–5 BBD geschätzt, bei Massy zu prüfen | Numbeo/ Massy Stores prüfen ★★ |
+| Reis 1 kg | **DATEN FEHLEN** | — |
+| Frisches Hähnchen 1 kg | **DATEN FEHLEN** — ganzes Hähnchen lokal günstiger als Teilstücke | — |
 
-## Mangiare fuori (media)
+## Essen gehen (Durchschnitt)
 
-| Voce | Prezzo indicativo |
+| Artikel | Richtpreis |
 |---|---|
-| Menu creolo / pesce ristorante medio | 15–30 USD/EUR |
-| Birra al bar | 4–7 USD |
-| Cocktail / punch | 6–12 USD |
-| Menu ristorante fascia alta | 40–70 USD |
-| Street food / roti / bokit | 5–12 USD |
+| Kreolisches Menü / Fisch im Mittelklasse-Restaurant | 15–30 USD/EUR |
+| Bier an der Bar | 4–7 USD |
+| Cocktail / Punch | 6–12 USD |
+| Menü gehobenes Restaurant | 40–70 USD |
+| Streetfood / Roti / Bokit | 5–12 USD |
 
-Prezzi specifici per locale → [10 Ristoranti](10-ristoranti.md).
+Spezifische Preise je Lokal → [10 Restaurants](10-ristoranti.md).
 
-## Carburanti
+## Kraftstoffe
 
-| Voce | Prezzo indicativo | Note |
+| Artikel | Richtpreis | Hinweise |
 |---|---|---|
-| Gasolio marino | 1,4–2,0 BBD/l (~0,70–1,0 USD/l) | Variabile per isola e stazione porto — DATO MANCANTE verificato su listino Governo BBD al 28/08/2026 ★★ |
-| Benzina (RON 95) | 1,6–2,2 BBD/l (~0,8–1,1 USD/l) | — |
-| Bombola gas (scambio locale/US) | **DATO MANCANTE** | Solo scambio, non rabbocco; verificare compatibilità regolatore Campingaz/US ★★ |
+| Marinediesel | 1,4–2,0 BBD/l (~0,70–1,0 USD/l) | Je nach Insel und Hafen-Tankstelle unterschiedlich — **DATEN FEHLEN** verifiziert auf Regierungs-Tarif BBD zum 28/08/2026 ★★ |
+| Benzin (RON 95) | 1,6–2,2 BBD/l (~0,8–1,1 USD/l) | — |
+| Gasflasche (Tausch lokal/US) | **DATEN FEHLEN** | Nur Tausch, kein Füllen; Kompatibilität Campingaz/US-Regler prüfen ★★ |
 
-## Trasporti e collegamenti
+## Transport & Verbindungen
 
-| Voce | Prezzo indicativo | Note |
+| Artikel | Richtpreis | Hinweise |
 |---|---|---|
-| Bus locale | 1–2 USD/corsa | Minibus ★★ |
-| Taxi marina↔centro | 10–30 USD | Concordare prima ★★ |
-| Noleggio auto giornaliero | 40–70 USD | Agenzie locali/aeroporto ★★ |
+| Lokaler Bus | 1–2 USD/Fahrt | Minibus ★★ |
+| Taxi Marina↔Zentrum | 10–30 USD | Vorher vereinbaren ★★ |
+| Mietwagen pro Tag | 40–70 USD | Lokale Agenturen/Flughafen ★★ |
 
-## Servizi quotidiani
+## Alltagsservices
 
-| Voce | Prezzo indicativo | Note |
+| Artikel | Richtpreis | Hinweise |
 |---|---|---|
-| Lavanderia self-service | 10–20 BBD/carico (~5–10 USD) | Marina/port facilities ★★ |
-| SIM prepagata con dati (Digicel/Flow) | 25–60 BBD (~12–30 USD) con bundle 5–10 GB | Digicel/Flow, top-up ovunque ★★ |
-| Lavaggio scafo (hull dive) | **DATO MANCANTE** | Diver locale, confermare sul posto ~2–3 BBD/piede stimato ★★ |
+| SB-Wäscherei | 10–20 BBD/Ladung (~5–10 USD) | Marina/Hafen-Einrichtungen ★★ |
+| Prepaid-SIM mit Daten (Digicel/Flow) | 25–60 BBD (~12–30 USD) mit 5–10-GB-Bundle | Digicel/Flow, Aufladung überall ★★ |
+| Rumpfreinigung (Hull Dive) | **DATEN FEHLEN** | Taucher vor Ort, vor Ort bestätigen ca. 2–3 BBD/Fuß geschätzt ★★ |
 
-## Contanti e pagamenti
+## Bargeld & Zahlung
 
-**BBD ancorato 2:1 a USD**: i prezzi sono esposti in BBD; quasi tutti accettano USD cash al cambio fisso (resto in BBD). Carte (Visa/Mastercard) accettate in marina, supermercati e ristoranti turistici; contante essenziale per bus/mercati/fish fry/Oistins. Bancomat a Bridgetown (Broad Street, Harbour Road), Holetown (Limegrove), Oistins, aeroporto. Commissioni alte su prelievo con carta estera.
+**BBD fest 2:1 an USD gekoppelt**: Preise sind in BBD ausgezeichnet; fast alle akzeptieren USD-Bargeld zum Fixkurs (Wechselgeld in BBD). Karten (Visa/Mastercard) werden in Marina, Supermärkten und touristischen Restaurants akzeptiert; Bargeld essenziell für Bus/Märkte/Fish Fry/Oistins. Geldautomaten in Bridgetown (Broad Street, Harbour Road), Holetown (Limegrove), Oistins, Flughafen. Hohe Gebühren bei Abhebung mit Auslandskarte.
 
-> Nei fish fry di Oistins e nei chioschi spiaggia molti venditori preferiscono **contanti BBD/USD** — tenere piccole banconote.
+> Beim Fish Fry in Oistins und an Strandkiosken bevorzugen viele Verkäufer **Bargeld BBD/USD** — kleine Scheine bereithalten.
 
-## Approfondimenti
+## Vertiefung
 
-- Tariffe marine e boe → [03 Porti e marine](03-porti-ancoraggi.md)
-- Ristoranti con prezzi per locale → [10 Ristoranti](10-ristoranti.md)
+- Marina- und Bojengebühren → [03 Häfen & Marinas](03-porti-ancoraggi.md)
+- Restaurants mit Preisen je Lokal → [10 Restaurants](10-ristoranti.md)
 
-Ultimo aggiornamento: 28/08/2026
+Letzte Aktualisierung: 28/08/2026

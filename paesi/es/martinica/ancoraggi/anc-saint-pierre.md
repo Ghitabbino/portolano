@@ -1,17 +1,17 @@
 # Saint-Pierre {#anc-saint-pierre}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
-| Campo | Dettaglio |
+[← Todos los fondeaderos](../08-ancoraggi.md)
+| Campo | Detalle |
 |---|---|
-| **Boe** |Prenotazione obbligatoria app **Navilly**, pagamento in app, estensioni facili ★★★|
-| **Tenuta** |Buona su sabbia anche nella rada nord ★★★|
-| **Profondità** | 5–10 m circa |
-| **Venti/riparo** |Protezione modesta: alisei entrano nella rada; ok con meteo stabile ★★★|
-| **Pericoli** |Boe francesi con anello metallico rigido: serve far passare la propria cima dentro l'anello (gancio lungo utile) ★★★; àncora possibile a sud del campo boe su plateau stretto ★★★|
-| **Divieti** |⛔ **Épaves storiche del 1902 al largo: àncora vietata sulla zona relitti** ★★★★; baia di Saint-Pierre tra le zone regolamentate >50 m ★★★★|
-| **Extra** | Museo Franck A. Perret (eruzione 1902), vista Mont Pelée, clearance in paese |
+| **Boyas** |Reserva obligatoria en la app **Navily**, pago en la app, extensiones fáciles ★★★|
+| **Tenedero** |Bueno sobre arena también en la rada norte ★★★|
+| **Profundidad** | 5–10 m aprox. |
+| **Vientos/Abrigo** |Protección modesta: los alisios entran en la rada; bien con meteo estable ★★★|
+| **Peligros** |Boyas francesas con anilla metálica rígida: hay que pasar el propio cabo por la anilla (bichero largo útil) ★★★; fondeo posible al sur del campo de boyas sobre meseta estrecha ★★★|
+| **Restricciones** |⛔ **Pecios históricos de 1902 mar adentro: fondeo prohibido sobre la zona de pecios** ★★★★; bahía de Saint-Pierre entre las zonas reguladas >50 m ★★★★|
+| **Extras** | Museo Franck A. Perret (erupción de 1902), vista del Mont Pelée, despacho en el pueblo |
 
 <div class="mapframe" data-slug="saint-pierre" data-lat="14.7410" data-lon="-61.1770"></div>
-*Vista mappa Saint-Pierre (coord. indicative) — zoom con i pulsanti +/−; menu in alto a destra per passare a Carta nautica e Segnali nautici · mappa offline*
+*Vista del mapa Saint-Pierre (coords. indicativas) — haz zoom con los botones +/−; menú arriba a la derecha para cambiar a Carta náutica y Señales náuticas · mapa offline*
 
-Ultimo aggiornamento: 22/08/2026
+Última actualización: 22/08/2026

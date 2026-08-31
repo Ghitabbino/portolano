@@ -1,53 +1,53 @@
 # 09 — Artisans & Shipchandlers
 
-Hub locale **limitato**: Barbados non è un hub tecnico — per lavori importanti molti armatori si appoggiano a **hub regionali (Antigua — English Harbour/Jolly Harbour, Sint Maarten — Simpson Bay, Trinidad — Chaguaramas)**. A Bridgetown operano **freelance in marina** (meccanica, elettrica, compositi) ma senza rete strutturata come a Le Marin (Martinica). Contatto tipico via telefono/WhatsApp; si parla inglese. Per lavori importanti chiedere sempre **preventivo scritto (devis)** e confermare tempi in alta stagione (dic–apr), quando i pochi artigiani sono saturi.
+Hub local **limité** : la Barbade n'est pas un hub technique — pour les gros travaux de nombreux armateurs s'appuient sur les **hubs régionaux (Antigua — English Harbour/Jolly Harbour, Sint Maarten — Simpson Bay, Trinidad — Chaguaramas)**. À Bridgetown opèrent des **freelances en marina** (mécanique, électricité, composites) mais sans réseau structuré comme au Marin (Martinique). Contact typique par téléphone/WhatsApp ; on parle anglais. Pour les gros travaux toujours demander un **devis écrit** et confirmer les délais en haute saison (déc–avr), quand les rares artisans sont saturés.
 
-## Tabella artigiani
+## Tableau artisans
 
-| Ditta / Nome | Referente | Area di intervento | Dealer / Installatore autorizzato (marchi) | Tel | Mail | Sede & orari | Recensioni |
+| Entreprise / Nom | Responsable | Domaine | Concessionnaire / Installateur agréé (marques) | Tél | Mail | Siège & horaires | Avis |
 |---|---|---|---|---|---|---|---|
-| **DONNÉE MANQUANTE — Meccanico entrobordo / diesel** | — | Meccanico motori inboard/fuoribordo, diagnosi, tagliandi | **DONNÉE MANQUANTE** — verificare se Volvo Penta / Yanmar presenti a Barbados | **DONNÉE MANQUANTE** — chiedere a Harbour Master +1 246 434-6100 | **DONNÉE MANQUANTE** | Bridgetown Shallow Draught / Careenage — verificare in capitainerie | ★★ |
-| **DONNÉE MANQUANTE — Elettricista marine** | — | Impianti 12/24/220V, batterie (anche litio), pannelli solari, inverter | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | Mobile — chiedere in marina | ★★ |
-| **DONNÉE MANQUANTE — Velaio / rigger** | — | Riparazione vele, sartie, biminis | **DONNÉE MANQUANTE** — sailmaker spesso **mobile da Antigua/St. Martin** | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | Service mobile — chiedere in marina / a Port St. Charles | ★★ |
-| **DONNÉE MANQUANTE — Frigorista** | — | Climat e freddo marine, frigo/congelatori | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | Mobile | ★★ |
-| **DONNÉE MANQUANTE — Saldatura inox/alluminio** | — | Saldatura, pulpiti, arch, biminis | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | Bridgetown — verificare | ★★ |
-| **DONNÉE MANQUANTE — Elettronica marine** | — | Autopiloti, chartplotter, AIS | **DONNÉE MANQUANTE** — possibile dealer **Garmin/Raymarine** locale | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | Bridgetown | ★★ |
-| **DONNÉE MANQUANTE — Compositi / vetroresina** | — | Riparazioni scafo, osmosi, antifouling | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | Cantiere Bridgetown (verificare travelift) | ★★ |
+| **DONNÉE MANQUANTE — Mécanicien in-bord / diesel** | — | Mécanique moteurs in-bord/hors-bord, diagnostic, entretiens | **DONNÉE MANQUANTE** — vérifier si Volvo Penta / Yanmar présents à la Barbade | **DONNÉE MANQUANTE** — demander au Harbour Master +1 246 434-6100 | **DONNÉE MANQUANTE** | Bridgetown Shallow Draught / Careenage — vérifier en capitainerie | ★★ |
+| **DONNÉE MANQUANTE — Électricien marine** | — | Installations 12/24/220V, batteries (y compris lithium), panneaux solaires, inverter | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | Mobile — demander en marina | ★★ |
+| **DONNÉE MANQUANTE — Voilerie / gréement** | — | Réparation voiles, haubans, biminis | **DONNÉE MANQUANTE** — voilerie souvent **mobile depuis Antigua/Saint-Martin** | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | Service mobile — demander en marina / à Port St. Charles | ★★ |
+| **DONNÉE MANQUANTE — Froid** | — | Climatisation et froid marine, frigos/congélateurs | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | Mobile | ★★ |
+| **DONNÉE MANQUANTE — Soudure inox/alu** | — | Soudure, balcons, arceaux, biminis | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | Bridgetown — vérifier | ★★ |
+| **DONNÉE MANQUANTE — Électronique marine** | — | Pilotes, traceurs, AIS | **DONNÉE MANQUANTE** — possible dealer **Garmin/Raymarine** local | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | Bridgetown | ★★ |
+| **DONNÉE MANQUANTE — Composite / polyester** | — | Réparations coque, osmose, antifouling | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | Chantier Bridgetown (vérifier travelift) | ★★ |
 
-> Tutti i nominativi con **DONNÉE MANQUANTE** non sono stati verificati con websearch/webfetch su fonti governative/marine Barbados in questa sessione al 28/08/2026; verranno ricercati al controllo mensile con verifica telefonica diretta (Harbour Master +1 246 434-6100, Port St. Charles +1 246 419-1000). **DONNÉE MANQUANTE non è pigrizia: è assenza di fonte verificata**. ★★
+> Tous les noms avec **DONNÉE MANQUANTE** n'ont pas été vérifiés par websearch/webfetch sur sources gouvernementales/marinas Barbade lors de cette session au 28/08/2026 ; seront recherchés lors du contrôle mensuel avec vérification téléphonique directe (Harbour Master +1 246 434-6100, Port St. Charles +1 246 419-1000). **DONNÉE MANQUANTE n'est pas de la paresse : c'est l'absence de source vérifiée**. ★★
 
-## Altri operatori utili (hub regionali per refit serio)
+## Autres opérateurs utiles (hubs régionaux pour refit sérieux)
 
-- **Antigua — English Harbour (North Sails, Sanders Sails, marine services Jolly Harbour)**: loft vele, rigger, compositi — a ~240 M a NW, il più vicino per lavori strutturati.
-- **Sint Maarten — Simpson Bay (Budget Marine, FKG Composites, travelift 100 t)**: duty-free, ricambi immediati.
-- **Trinidad — Chaguaramas (Power Boats, Peakes, Coral Cove, travelift 70–300 t)**: fuori hurricane belt, hub uragani.
-- **St. Lucia — Rodney Bay Marina**: servizi intermedi a ~95 M, buona alternativa a Bridgetown per sosta tecnica.
-- A Barbados: **chandler base + ferramenta cittadina** (Bay Street, Harbour Road); per verniciatura/antivegetativa chiedere in porto.
+- **Antigua — English Harbour (North Sails, Sanders Sails, services marins Jolly Harbour)** : ateliers voiles, gréement, composites — à ~240 M au NW, le plus proche pour travaux structurés.
+- **Sint Maarten — Simpson Bay (Budget Marine, FKG Composites, travelift 100 t)** : duty-free, pièces immédiates.
+- **Trinidad — Chaguaramas (Power Boats, Peakes, Coral Cove, travelift 70–300 t)** : hors hurricane belt, hub ouragans.
+- **Sainte-Lucie — Rodney Bay Marina** : services intermédiaires à ~95 M, bonne alternative à Bridgetown pour escale technique.
+- À la Barbade : **shipchandler de base + quincaillerie en ville** (Bay Street, Harbour Road) ; pour peinture/antifouling demander au port.
 
 ## Où trouver quoi
 
-- **Motoristica/frigoriferi/saldatura**: freelance operanti a Bridgetown Shallow Draught / Careenage — chiedere in capitainerie; spesso ex-pescatori con officina a St. Michael. ★★
-- **Vele / sartie**: sailmaker **spesso non residente** — servizio mobile da Antigua/St. Martin su chiamata (1–2 settimane). Tenere vele di rispetto a bordo. ★★
-- **Antifouling/carenaggio**: verificare disponibilità **travelift/gru** in marina — dato non pubblicato; alternativa Chaguaramas/Antigua per alaggio.
-- **Zattere di salvataggio / safety**: revisione presso hub regionali — non documentata a Barbados al 28/08/2026.
+- **Mécanique/froid/soudure** : freelances opérant à Bridgetown Shallow Draught / Careenage — demander en capitainerie ; souvent ex-pêcheurs avec atelier à St. Michael. ★★
+- **Voiles / haubans** : voilerie **souvent non résidente** — service mobile depuis Antigua/Saint-Martin sur appel (1–2 semaines). Garder voiles de rechange à bord. ★★
+- **Antifouling/carénage** : vérifier disponibilité **travelift/grue** en marina — donnée non publiée ; alternative Chaguaramas/Antigua pour mise à terre.
+- **Radeaux de sauvetage / sécurité** : révision auprès de hubs régionaux — non documentée à la Barbade au 28/08/2026.
 
-## Magasins d’équipement & shipchandler
+## Magasins d'équipement & shipchandler
 
-| Negozio | Cosa trovi | Marchi notevoli | Tel | Mail / sito | Sede & orari | Recensioni |
+| Magasin | Que trouve-t-on | Marques notables | Tél | Mail / site | Siège & horaires | Avis |
 |---|---|---|---|---|---|---|
-| **Shipchandler del porto — Shallow Draught** | Ferramenta base, ancore, cime, parabordi, vernici, antivegetativa | **DONNÉE MANQUANTE** — assortimento base, non specialistico | **DONNÉE MANQUANTE** — chiedere Harbour Master +1 246 434-6100 | **DONNÉE MANQUANTE** | Shallow Draught, Bridgetown — orari ufficio porto 07–17 | ★★ |
-| **Ferramenta / chandler cittadina — Bridgetown** | Utensili, inox, elettrico, ferramenta nautica generica | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | Bay Street / Harbour Road, Bridgetown · lun–sab 08–17 | ★★ |
-| **Budget Marine / Island Water World — DONNÉE MANQUANTE a Barbados** | Chandler caraibico duty-free (presente a Antigua/St. Martin/Grenada) | Lewmar, Harken, Raymarine, Garmin ecc. dove presente | **DONNÉE MANQUANTE** — **nessun punto vendita Budget Marine verificato a Barbados** al 28/08/2026 | — | — | — |
-| **Caribe Marine / online** | Ricambi su ordinazione | Volvo Penta, Yanmar, Tohatsu via Miami | **DONNÉE MANQUANTE** | Spedizione via DHL su Bridgetown | Ordine con 7–14 gg anticipo | ★★ |
+| **Shipchandler du port — Shallow Draught** | Quincaillerie de base, ancres, cordages, pare-battages, peintures, antifouling | **DONNÉE MANQUANTE** — assortiment de base, non spécialisé | **DONNÉE MANQUANTE** — demander Harbour Master +1 246 434-6100 | **DONNÉE MANQUANTE** | Shallow Draught, Bridgetown — horaires bureau port 07–17 | ★★ |
+| **Quincaillerie / shipchandler en ville — Bridgetown** | Outils, inox, électricité, quincaillerie nautique générique | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | **DONNÉE MANQUANTE** | Bay Street / Harbour Road, Bridgetown · lun–sam 08–17 | ★★ |
+| **Budget Marine / Island Water World — DONNÉE MANQUANTE à la Barbade** | Shipchandler caraïbe duty-free (présent à Antigua/Saint-Martin/Grenade) | Lewmar, Harken, Raymarine, Garmin etc. là où présent | **DONNÉE MANQUANTE** — **aucun point de vente Budget Marine vérifié à la Barbade** au 28/08/2026 | — | — | — |
+| **Caribe Marine / en ligne** | Pièces sur commande | Volvo Penta, Yanmar, Tohatsu via Miami | **DONNÉE MANQUANTE** | Expédition via DHL sur Bridgetown | Commande avec 7–14 jours d'avance | ★★ |
 
-> **Nota:** Barbados **non ha** un “Caraïbe Marine” da 20.000 articoli come Le Marin; l'assortimento è **base**. Per componentistica litio/pannelli/inverter ordinare online (Victron ecc.) con consegna **presso la marina indicando nome barca e berth**; dazio pagabile all'arrivo. ★★
+> **Note :** la Barbade **n'a pas** de “Caraïbe Marine” à 20 000 articles comme Le Marin ; l'assortiment est **de base**. Pour composants lithium/panneaux/inverter commander en ligne (Victron etc.) avec livraison **à la marina en indiquant nom du bateau et poste** ; droits à payer à l'arrivée. ★★
 
 ## Notes pratiques
 
-- **Pagamenti**: molti artigiani accettano **bonifico locale BBD/USD** o contanti; per piccoli interventi contanti/carta. Chiedere sempre **fattura** (utile per dogana/assicurazione). Se il lavoro è >500 BBD chiedere **acconto solo a lavoro iniziato** e saldo a fine.
-- **Tempi**: ricambi dall'Europa/USA = **1–3 settimane** (DHL/Colissimo) + sdoganamento; gli atelier ordinano spesso via Miami. Alta stagione (dic–apr) = atelier saturi anche negli hub regionali — prenotare con settimane di anticipo.
-- **Energia di bordo**: componentistica elettrica (caricabatterie, inverter, regolatori solari) **disponibilità limitata** a Barbados — meglio ordinare prima della tappa o fare scorta a Antigua/St. Martin.
-- **Antivegetativa**: disponibile in ferramenta/chandler del porto e a Port St. Charles; il carénage vero si fa a Chaguaramas o Antigua se serve travelift certificato.
-- **Per l'AMEL / barche francesi**: le ditte locali lavorano su tutte le marche; per rigging in alluminio originale e ricambi specifici AMEL fare riferimento **prima** agli hub di Antigua (rigger con esperienza AMEL) o a Caraïbe Marine Martinica prima della traversata.
+- **Paiements** : de nombreux artisans acceptent **virement local BBD/USD** ou espèces ; pour petites interventions espèces/carte. Toujours demander une **facture** (utile pour douane/assurance). Si le travail est >500 BBD demander un **acompte seulement à travail commencé** et solde à la fin.
+- **Délais** : pièces depuis Europe/USA = **1–3 semaines** (DHL/Colissimo) + dédouanement ; les ateliers commandent souvent via Miami. Haute saison (déc–avr) = ateliers saturés même dans les hubs régionaux — réserver des semaines à l'avance.
+- **Énergie à bord** : composants électriques (chargeurs, inverters, régulateurs solaires) **disponibilité limitée** à la Barbade — mieux commander avant l'étape ou s'approvisionner à Antigua/Saint-Martin.
+- **Antifouling** : disponible en quincaillerie/shipchandler du port et à Port St. Charles ; le vrai carénage se fait à Chaguaramas ou Antigua si travelift certifié nécessaire.
+- **Pour l'AMEL / bateaux français** : les entreprises locales travaillent sur toutes les marques ; pour gréement alu d'origine et pièces spécifiques AMEL, s'adresser **d'abord** aux hubs d'Antigua (gréement avec expérience AMEL) ou à Caraïbe Marine Martinique avant la traversée.
 
 Dernière mise à jour: 28/08/2026

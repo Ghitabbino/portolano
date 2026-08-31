@@ -15,6 +15,6 @@
 <div class="mapframe" data-slug="anc-crewsinn" data-lat="10.6864" data-lon="-61.6381"></div>
 *Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
 
-Fonti: Noonsite POE ★★★ · allatsea (04/2026) ★★★ · msatt.org ★★★★
+Fonti: Fonti diportiste aggregate POE ★★★ · allatsea (04/2026) ★★★ · msatt.org ★★★★
 
 Ultimo aggiornamento: 25/08/2026

@@ -11,8 +11,8 @@
 | **Emplacement** |**DONNÉE MANQUANTE**|
 
 <div class="mapframe" data-slug="rist-le-zandoli" data-lat="14.597" data-lon="-61.079"></div>
-*Cartina di dettaglio: posizione a terra rispetto alla barca · zoom ±*
+*Carte détaillée : position à terre par rapport au bateau · zoom ±*
 
-Fonti: **DONNÉE MANQUANTE**
+Sources : **DONNÉE MANQUANTE**
 
 Dernière mise à jour: 25/08/2026

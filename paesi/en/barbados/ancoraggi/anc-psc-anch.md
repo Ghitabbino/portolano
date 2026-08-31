@@ -1,20 +1,20 @@
-# Port St. Charles (POE nord — ancoraggio esterno) {#anc-psc-anch}
+# Port St. Charles (Northern POE — Outer Anchorage) {#anc-psc-anch}
 
 [← All Anchorages](../08-ancoraggi.md)
 **13°15′50″ N 59°38′47″ W** ★★★
 
 | Field | Detail |
 |---|---|
-| **Depth** |3–4 m sabbia|
-| **Holding** |Buon holding|
-| **Wind/Shelter** |Calmo salvo swell occasionale; costa ovest sottovento|
-| **Hazards** |Tartarughe in zona; bocca marina Noonsite 13°15′45″N 59°38′40″W (13.26250, -59.64444) verificato su BA 1042 + satellite|
-| **Buoys/Restrictions/Regulations** |POE ufficiale: dogana/immigrazione/coast guard/polizia nello stesso stabile in fondo al molo frangiflutti; check-in rapido e cordiale (report nov 2025); 6 berths mega-yacht fino a 200 ft, pescaggio 13,5 ft; fuel duty-free allo sdoganamento (cash)|
-| **Ashore** |Resort Port St. Charles|
+| **Depth** |3–4 m over sand|
+| **Holding** |Good holding|
+| **Wind/Shelter** |Calm except for occasional swell; leeward west coast|
+| **Hazards** |Turtles in the area; marina entrance Cruising sources aggregate 13°15′45″ N 59°38′40″ W (13.26250, -59.64444) — verified on BA 1042 + satellite|
+| **Buoys/Restrictions/Regulations** |Official POE: customs/immigration/coast guard/police in the same building at the end of the breakwater; quick and friendly check-in (Nov 2025 report); 6 mega-yacht berths up to 200 ft, draught 13.5 ft; duty-free fuel on clearance (cash)|
+| **Ashore** |Port St. Charles resort|
 
 <div class="mapframe" data-slug="anc-psc-anch" data-lat="13.264" data-lon="-59.6465"></div>
-*Detailed chart — zoom ± to the bay · offline map · WGS84 coordinates indicative, always verify with your plotter*
+*Detailed chart — zoom ± to the bay · offline map · WGS84 coordinates approximate, always verify with your plotter*
 
-Sources: [Noonsite Port St. Charles](https://www.noonsite.com/place/barbados/port-st-charles) (dic 2025) ★★★ · Noonsite Yachting Essentials ★★★ · verificato su BA 1042 + satellite
+Sources: Cruising sources aggregate Port St. Charles (Dec 2025) ★★★ · Cruising sources aggregate Yachting Essentials ★★★ · verified on BA 1042 + satellite
 
 Last updated: 25/08/2026

@@ -4,7 +4,7 @@
 
 Devise: **dollaro USA (USD)** — corso legale nelle TCI. Livello prezzi: isola caraibica con **forte importazione**; alimentari +20–40% vs USA/Europa, ristorazione turistica cara nelle zone marina/resort; carburante variabile per isola. ★★
 
-> ⚠️ Le voci di questo elenco sono le stesse per tutti i paesi del portolano. Dove il dato non è stato ancora trovato dalle fonti si scrive **DONNÉE MANQUANTE**: viene ricercato al controllo mensile (vedi [00 Index](../00-indice.md)).
+> ⚠️ Le voci di questo elenco sono le stesse per tutti i paesi del portolano. Dove il dato non è stato ancora trovato dalle fonti si scrive **DONNÉE MANQUANTE**: viene ricercato al controllo mensile (vedi [00 Index](00-indice.md)).
 
 ## Alimentation & avitaillement
 

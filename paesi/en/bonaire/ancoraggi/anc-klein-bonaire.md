@@ -1,20 +1,20 @@
-# Klein Bonaire — No Name Beach (solo day-use) {#anc-klein-bonaire}
+# Klein Bonaire — No Name Beach (Day-Use Only) {#anc-klein-bonaire}
 
-[← All Anchorages](../08-ancoraggi.md)
-**12°09′36″ N 68°19′00″ W** ★★★ — boa gialla day-use davanti a No Name Beach (WGS84, stima satellitare — verificare in loco)
+[← All Moorings](../08-ancoraggi.md)
+**12°09′36″ N 068°19′00″ W** ★★★ — yellow day-use mooring off No Name Beach (WGS84, satellite estimate — verify on site)
 
 | Field | Detail |
 |---|---|
-| **Depth** | 4–10 m sabbia/corallo a macchie; fondale che risale rapidamente verso la spiaggia |
-| **Holding** | **Solo boe — ancoraggio VIETATO** (BNMP, riserva integrale) — max 2 h, max 13 m, una yacht >4 m per boa ★★★★★ |
-| **Wind/Shelter** | Ovest sottovento agli alisei, buon riparo con aliseo ENE; aperta a sud e sensibile a swell meridionale |
-| **Hazards** | Reef continuo, tartarughe in nidificazione (non sbarcare oltre i sentieri), traffico snorkel/dive boats 10:00–14:00 affollato; **pernotto vietato** |
-| **Affollamento** | Diurno medio-alto (picco 10–14) — first-come; la sera rientro obbligatorio al campo di Kralendijk or in marina |
-| **Buoys/Restrictions/Regulations** | Boa gialla pubblica day-use **max 2 h consecutive**, non per notte; isola disabitata senza acqua/strutture, STINAPA Nature Fee obbligatoria anche senza immersione ★★★★★ |
-| **Ashore** | Spiaggia selvaggia di sabbia bianca, nessuna struttura: portare acqua/ombra; BBQ consentito solo nelle aree consentite, vietati fuochi liberi |
+| **Depth** | 4–10 m sand/patch coral; bottom shoals quickly towards the beach |
+| **Holding / Anchoring** | **Moorings only — anchoring PROHIBITED** (BNMP, strict reserve) — max 2 h, max 13 m, one boat >4 m per mooring ★★★★★ |
+| **Wind / Shelter** | Leeward west side in the trades, good shelter with ENE trades; open to the south and sensitive to southerly swell |
+| **Hazards** | Continuous reef, nesting turtles (do not leave marked paths), crowded with snorkel/dive boats 10:00–14:00; **overnight stay prohibited** |
+| **Crowding** | Medium-high by day (peak 10:00–14:00) — first-come; return in the evening to the Kralendijk field or a marina is mandatory |
+| **Moorings / Rules** | Public yellow day-use mooring **max 2 h**, not for overnight; uninhabited island with no water/facilities, STINAPA Nature Fee required even without diving ★★★★★ |
+| **Ashore** | Wild white-sand beach, no facilities: bring water/shade; BBQs only in permitted areas, no open fires |
 
 <div class="mapframe" data-slug="anc-klein-bonaire" data-minz="12" data-maxz="17" data-lat="12.1605" data-lon="-68.2850"></div>
-*Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative (stima satellitare), verificare sempre con plotter e STINAPA. **Marker in mezzo al mare**, davanti alla spiaggia.*
+*Detail chart — zoom in/out to the bay · offline map · WGS84 coordinates are indicative (satellite estimate), always verify with your plotter and STINAPA. **Marker in the water**, off the beach.*
 
 Sources: [STINAPA — Mooring](https://stinapabonaire.org/rules-and-regulations/mooring/) ★★★★★ · [STINAPA — BNMP](https://stinapabonaire.org/bonaire-national-marine-park) ★★★★ · [bonaire.com — Sailing / Klein Bonaire](https://bonaire.com/en/sightseeing/sailing-bonaire/) ★★★ · [NoForeignLand — Klein Bonaire](https://www.noforeignland.com/map/place/4742323114082304) ★★
 

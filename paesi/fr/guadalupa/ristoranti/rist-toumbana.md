@@ -5,25 +5,25 @@
 | Champ | Détail |
 |---|---|
 | Zone | Terre-de-Haut (Les Saintes) |
-| Cuisine | 🐟 Creola in giardino |
+| Cuisine | 🐟 Créole en jardin |
 | Spécialité | Langouste · accras |
-| Coût | 💰€€ per persona senza bevande |
-| Emplacement | 🌴 giardino tropicale |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Toumbana+Terre-de-Haut+(Les+Saintes)) |
-| Contacts | [Mappa](https://www.google.com/maps/search/?api=1&query=Toumbana+Terre-de-Haut+Les+Saintes) |
-| Évaluations | Google positive → ★★★★ |
-| Horaires | pranzo e cena · chiuso fuori stagione ⚠️ |
+| Coût | 💰€€ par personne hors boissons |
+| Emplacement | 🌴 jardin tropical |
+| Carte | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Toumbana+Terre-de-Haut+(Les+Saintes)) |
+| Contacts | [Carte](https://www.google.com/maps/search/?api=1&query=Toumbana+Terre-de-Haut+Les+Saintes) |
+| Évaluations | Google — avis positifs → ★★★★ |
+| Horaires | déjeuner et dîner · fermé hors saison ⚠️ |
 
 ## Menu
 
 - Langouste
 - Accras
-- Pesce del giorno
+- Poisson du jour
 
-**Chef**: ND
+**Chef** : ND
 
 ## Photos
 
-*Photos non ancora disponibili — recuperare al controllo mensile.*
+*Photos non encore disponibles — à récupérer lors du contrôle mensuel.*
 
-**Note**: A piedi dal pontile · pranzo consigliato · prenotare la langouste · menu 15–24 €
+**Notes** : À pied du ponton · déjeuner conseillé · réserver la langouste · menu 15–24 €

@@ -7,7 +7,7 @@
 | Zone | St. James — Holetown (1 km a piedi da Port St. Charles via Highway 1) |
 | Cuisine | 🍽️ Haute internazionale + 🐟 frutti di mare |
 | Spécialité | *Tuna tartare · lobster bisque · wahoo · tasting menu · wine cellar* |
-| Coût | 💰€€€€ per persona senza bevande (~180–280 BBD) |
+| Coût | 💰€€€€ par personne sans boissons (~180–280 BBD) |
 | Emplacement | 🏖️ oceanfront, veranda su palafitta sul mare — istituzione fine dining dal 1998 |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=The+Tides+Restaurant+Holetown+Barbados) |
 | Contacts | Holetown, St. James · tel +1 246 432-8356 · [thetidesbarbados.com](https://www.thetidesbarbados.com) |
@@ -23,8 +23,8 @@
 - Dessert e rum collection
 
 <div class="mapframe" data-slug="rist-the-tides" data-lat="13.185" data-lon="-59.64"></div>
-*Cartina di dettaglio — posizione a terra rispetto alla barca · zoom ±*
+*Carte détaillée — position à terre par rapport au bateau · zoom ±*
 
-Fonti: [barbados.org — The Tides](https://barbados.org/orestloc.htm) ★★★ · [Totally Barbados — The Tides](https://www.totallybarbados.com/place/the-tides-restaurant/) ★★★ · [thetidesbarbados.com](https://www.thetidesbarbados.com) ★★★ · Google/TripAdvisor 28/08/2026 ★★★
+Sources: [barbados.org — The Tides](https://barbados.org/orestloc.htm) ★★★ · [Totally Barbados — The Tides](https://www.totallybarbados.com/place/the-tides-restaurant/) ★★★ · [thetidesbarbados.com](https://www.thetidesbarbados.com) ★★★ · Google/TripAdvisor 28/08/2026 ★★★
 
 Dernière mise à jour: 28/08/2026

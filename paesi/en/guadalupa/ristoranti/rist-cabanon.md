@@ -5,23 +5,23 @@
 | Field | Detail |
 |---|---|
 | Area | Sainte-Anne |
-| Cuisine | 🍽️ Franco-caraibica creativa |
-| Speciality | Menu creativo stagionale |
-| Cost | 💰€€ for persona without bevande |
-| Setting | 🪶 small, curato |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Cabanon+Sainte-Anne) |
-| Contacts | [Mappa](https://www.google.com/maps/search/?api=1&query=Le+Cabanon+Sainte-Anne+Guadeloupe) |
-| Ratings | Google 4,9/5 (148) → ★★★★★ |
-| Hours | pranzo 12–15 · cena stagionale ⚠️ |
+| Cuisine | 🍽️ Creative Franco-Caribbean |
+| Speciality | Seasonal creative menu |
+| Cost | 💰€€ per person without drinks |
+| Setting | 🪶 small & refined |
+| Map | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Cabanon+Sainte-Anne) |
+| Contacts | [Map](https://www.google.com/maps/search/?api=1&query=Le+Cabanon+Sainte-Anne+Guadeloupe) |
+| Ratings | Google 4.9/5 (148) → ★★★★★ |
+| Hours | lunch 12:00–15:00 · dinner seasonally ⚠️ |
 
 ## Menu
 
-- Menu creativo stagionale
+- Seasonal creative menu
 
 **Chef**: ND
 
-## Foto
+## Photos
 
-*Foto non still disponibili — recuperare at the controllo mensile.*
+*No photos available yet — to be added on monthly check.*
 
-**Note**: Prenotare, pochi coperti
+**Notes**: Booking essential, very few seats

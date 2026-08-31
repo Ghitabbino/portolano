@@ -1,66 +1,65 @@
-# 04 — Servizi, cantieri e manutenzione
+# 04 — Servicios, astilleros y mantenimiento
 
-**Ultima verifica: 24/08/2026**
+**Última verificación: 24/08/2026**
 
-## Hub principali — dove si trova il cantiere
+## Hubs principales — dónde está el astillero
 
-Le Bahamas **non sono un hub cantieristico economico** come Florida o Martinica: pochi travelift, prezzi alti, ricambi quasi tutti da importare da USA. I poli utili sono **Freeport (Grand Bahama)**, **Nassau (New Providence)** e **Spanish Wells (Eleuthera)** per l'out-of-water; per interventi complessi molti armatori rientrano in Florida. ★★★★
+Las Bahamas **no son un hub barato de astilleros** como Florida o Martinica: pocos travelifts, precios altos, casi todos los repuestos importados de EE. UU. Los polos útiles son **Freeport (Grand Bahama)**, **Nassau (New Providence)** y **Spanish Wells (Eleuthera)** para varada; para trabajos complejos muchos armadores regresan a Florida. ★★★★
 
-### Grand Bahama — polo industriale
+### Grand Bahama — polo industrial
 
 #### Bradford Marine — Freeport ★★★★★
-- **Dry dock 1.200 T**, **Travelift 150 T**, cantiere completo per refit superyacht e vela, verniciatura, meccanica, elettrica. Contatto via bradford-marine.com — preventivo obbligatorio. ★★★★★
+- **Dique seco 1.200 T**, **Travelift 150 T**, astillero completo para refit de superyates y vela, pintura, mecánica, electricidad. Contacto vía bradford-marine.com — presupuesto obligatorio. ★★★★★
 
 #### Grand Bahama Shipyard — Freeport ★★★★★
-- **Bacino 27.600 T** per navi e mega-yacht (3 bacini galleggianti), lavorazioni scafo/acciaio, eliche, motori — scala industriale, costi da cantiere navale. ★★★★★
+- **Dique 27.600 T** para barcos y mega-yates (3 diques flotantes), trabajos de casco/acero, hélices, motores — escala industrial, costes de astillero naval. ★★★★★
 
-### Eleuthera — rimessaggio tradizionale
+### Eleuthera — varada tradicional
 
 #### R&B Boatyard — Spanish Wells ★★★★
-- **Railway / slip 90 ft (27 m), 120 T** — cantiere storico per rimessaggio a secco, carena, vernice, piccole riparazioni legno/vetroresina. Gestione familiare, prezzi più umani che a Nassau. ★★★★
+- **Railway / slip 90 ft (27 m), 120 T** — astillero histórico para estancia en seco, carena, pintura, pequeñas reparaciones madera/fibra. Gestión familiar, precios más razonables que en Nassau. ★★★★
 
-### Nassau — servizi a galla e carenaggio leggero
+### Nassau — servicios a flote y carena ligera
 
 #### Brown's Boat Basin — Nassau ★★★★
-- **Travelift 40 T** — alaggio, carena, antifouling, meccanica base. East Bay Street, Nassau. ★★★★
+- **Travelift 40 T** — varada, carena, antifouling, mecánica básica. East Bay Street, Nassau. ★★★★
 
-#### Brown's Boat Basin — Exuma (satellite) ★★★
-- **10.000 lbs (4,5 T)** — solo tender / piccole barche a George Town. ★★★
+#### Brown's Boat Basin — Exuma (satélite) ★★★
+- **10.000 lbs (4,5 T)** — solo auxiliares / embarcaciones pequeñas en George Town. ★★★
 
 #### Compass Marine — Nassau ★★★★
-- **24/7 emergenza**, dealer **MTU / Cummins / Volvo Penta / Yanmar** — diagnosi, ricambi motori, elettrica. Interventi a bordo in marina o in rada via workboat. ★★★★
+- **Emergencia 24/7**, distribuidor **MTU / Cummins / Volvo Penta / Yanmar** — diagnosis, repuestos de motor, electricidad. Intervenciones a bordo en marina o fondeo vía workboat. ★★★★
 
-> Altri artigiani dispersi: elettricisti, frigoristi e rigger freelance operano tra Nassau, Marsh Harbour e George Town — chiedere in capitaineria; **sempre farsi fare devis scritto** prima dei lavori. ★★
+> Otros artesanos dispersos: electricistas, frigoristas y jarciéros freelance entre Nassau, Marsh Harbour y George Town — preguntar en capitanía; **siempre pedir presupuesto escrito** antes de los trabajos. ★★
 
-## Gas e bombole
+## Gas y bombonas
 
-- **GPL/Gas: bombole USA standard** — ricarica possibile in alcuni punti (DATO MANCANTE per singolo cay), altrimenti **scambio bombola** tipo Blue Rhino USA. Adattatori USA↔EU necessari per barche europee. ★★
-- Verificare **compatibilità raccordi** prima della partenza dalla Florida. ★★
+- **GLP/Gas: bombonas estándar USA** — recarga posible en algunos puntos (DATO NO DISPONIBLE por cayo individual), si no **intercambio de bombona** tipo Blue Rhino USA. Adaptadores USA↔UE necesarios para barcos europeos. ★★
+- Verificar **compatibilidad de racores** antes de salir de Florida. ★★
 
-## Acqua dolce
+## Agua dulce
 
-- Acqua **dissalata RO** ovunque: **$0,10–0,25 / gal** a Nassau/Georgetown, **$0,40–0,50 / gal** a Highbourne/Staniel (vedi dettaglio per zona in [07 Provisioning](07-provvisioning.md)). Nessun razionamento strutturale come in Martinica, ma nei **cays remoti (Exumas)** la disponibilità dipende dal dissalatore della marina — fare riserva. Tel marine acqua: Hurricane Hole VHF 11, Highbourne 242-355-1009, Staniel 242-355-2024. ★★★★
+- Agua **desalada RO** en todas partes: **$0,10–0,25 / gal** en Nassau/Georgetown, **$0,40–0,50 / gal** en Highbourne/Staniel (ver detalle por zona en [07 Aprovisionamiento](07-provvisioning.md)). Sin racionamiento estructural como en Martinica, pero en los **cayos remotos (Exumas)** la disponibilidad depende del desalinizador de la marina — hacer reserva. Tel. marinas agua: Hurricane Hole VHF 11, Highbourne 242-355-1009, Staniel 242-355-2024. ★★★★
 
-## Emergenza e soccorso in mare
+## Emergencia y salvamento en la mar
 
-| Servizio | Contatto |
+| Servicio | Contacto |
 |---|---|
 | **BASRA (Bahamas Air Sea Rescue Association)** | **242-325-8864** (HQ Nassau) · **VHF 16** |
-| **Polizia / Emergenza generale** | **919** (anche **911 / 112** funzionano da cellulare) ★★★★ |
-| **Chiamata di soccorso** | **VHF 16 — PAN PAN / MAYDAY** — BASRA + Harbour Control Nassau H24 |
+| **Policía / Emergencia general** | **919** (también **911 / 112** funcionan desde móvil) ★★★★ |
+| **Llamada de socorro** | **VHF 16 — PAN PAN / MAYDAY** — BASRA + Harbour Control Nassau H24 |
 
-BASRA è **volontaria e donation-based** — come la RNLI britannica: contributi graditi, interventi gratuiti. Nessun equivalente del CROSS francese. ★★★★
+BASRA es **voluntaria y basada en donaciones** — como la RNLI británica: donaciones bienvenidas, intervenciones gratuitas. Ningún equivalente del CROSS francés. ★★★★
 
-## Note strategiche
+## Notas estratégicas
 
-- **Ricambi**: ordinare da USA (West Marine, Defender, Amazon US) con spedizione a **Nassau ( freight forwarder )** o **Florida** — sdoganamento Bahamas **+ VAT 10% + dazio 10–45%** secondo categoria. Tempi 1–3 settimane. ★★★
-- **Antivegetativa**: disponibile a Nassau/Freeport — marche USA (Interlux, Pettit) — prezzi +30% vs USA. ★★
-- **Vela / sartie**: nessun loft importante stabile — **DATO MANCANTE** per sailmaker locale; appoggio in Florida per vele nuove. ★★
-- Per lavori sotto i 50 ft, **R&B Spanish Wells** è il miglior compromesso qualità/prezzo nelle Bahamas centrali. ★★★
+- **Repuestos**: pedir a EE. UU. (West Marine, Defender, Amazon US) con envío a **Nassau (freight forwarder)** o **Florida** — despacho Bahamas **+ IVA 10% + arancel 10–45%** según categoría. Plazos 1–3 semanas. ★★★
+- **Antifouling**: disponible en Nassau/Freeport — marcas USA (Interlux, Pettit) — precios +30% vs EE. UU. ★★
+- **Velas / Jarcia**: ningún taller vélico importante estable — **DATO NO DISPONIBLE** para velero local; apoyo en Florida para velas nuevas. ★★
+- Para trabajos por debajo de 50 ft, **R&B Spanish Wells** es la mejor relación calidad/precio en las Bahamas centrales. ★★★
 
-Ultimo aggiornamento: 24/08/2026
+Última actualización: 24/08/2026
 
-## Hub tecnico
+## Hub técnico
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
+**DATO NO DISPONIBLE** — a completar en el control mensual.

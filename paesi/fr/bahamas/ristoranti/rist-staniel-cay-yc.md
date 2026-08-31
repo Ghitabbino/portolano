@@ -11,8 +11,8 @@
 | **Emplacement** |**DONNÉE MANQUANTE**|
 
 <div class="mapframe" data-slug="rist-staniel-cay-yc" data-lat="24.16677" data-lon="-76.44147"></div>
-*Cartina di dettaglio: posizione a terra rispetto alla barca · zoom ±*
+*Carte détaillée : position à terre par rapport au bateau · zoom ±*
 
-Fonti: **DONNÉE MANQUANTE**
+Sources : **DONNÉE MANQUANTE**
 
-Dernière mise à jour: 25/08/2026
+Dernière mise à jour : 25/08/2026

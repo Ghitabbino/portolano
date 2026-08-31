@@ -34,7 +34,7 @@ Solo conoscenza condivisa tra chi va in mare.
 
 Tutti i contenuti **originali** di SailTropics (testi, schemi, tabelle) sono liberamente
 condivisibili: puoi copiarli, riutilizzarli e adattarli **a fini non commerciali**, con
-una semplice attribuzione ("SailTropics"). Le fonti esterne citate (Noonsite, Waterway
+una semplice attribuzione ("SailTropics"). Le fonti esterne citate (Aggregierte Fahrtensegler-Quellen, Waterway
 Guide, siti governativi e altri) restano proprietà dei rispettivi autori: a noi
 riportiamo **solo il riferimento e il giudizio di affidabilità**, mai il testo altrui.
 

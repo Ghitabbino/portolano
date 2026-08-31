@@ -1,29 +1,29 @@
 # Le Madras
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Todos os restaurantes](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Campo | Detalhe |
 |---|---|
 | Zona | Deshaies |
-| Cucina | 🐟 Creola fronte mare |
-| Specialità | Accras · thon |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🪶 bordo mare, set TV |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Madras+Deshaies) |
-| Contatti | [Mappa](https://www.google.com/maps/search/?api=1&query=Restaurant+Le+Madras+Deshaies) |
-| Valutazioni | Google 4,3/5 (398) → ★★★★ |
-| Orari | pranzo tutto l'anno · cena stagionale ⚠️ |
+| Cozinha | 🐟 Crioula à beira-mar |
+| Especialidade | Acras · atum |
+| Custo | 💰€€ por pessoa sem bebidas |
+| Local | 🪶 à beira-mar, cenário de TV |
+| Mapa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Madras+Deshaies) |
+| Contactos | [Mapa](https://www.google.com/maps/search/?api=1&query=Restaurant+Le+Madras+Deshaies) |
+| Avaliações | Google 4,3/5 (398) → ★★★★ |
+| Horário | almoço todo o ano · jantar sazonal ⚠️ |
 
 ## Menu
 
-- Accras
-- Thon
-- Piatti creoli
+- Acras
+- Atum
+- Pratos crioulos
 
 **Chef**: ND
 
-## Foto
+## Fotos
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Fotos ainda não disponíveis — a recolher no controlo mensal.*
 
-**Note**: 7 rue de la Vague Bleue · location della serie “Meurtres au paradis”
+**Notas**: 7 rue de la Vague Bleue · cenário da série « Death in Paradise »

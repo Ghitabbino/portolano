@@ -15,6 +15,6 @@
 <div class="mapframe" data-slug="anc-port-of-spain" data-lat="10.6747" data-lon="-61.5688"></div>
 *Carte détaillée — zoomez jusqu’à la baie · carte hors ligne · coordinate WGS84 indicative, toujours vérifier avec le traceur*
 
-Fonti: Noonsite ★★★
+Fonti: Sources plaisance agrégées ★★★
 
 Dernière mise à jour: 25/08/2026

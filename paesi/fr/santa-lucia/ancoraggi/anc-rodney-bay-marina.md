@@ -15,6 +15,6 @@
 <div class="mapframe" data-slug="anc-rodney-bay-marina" data-lat="14.07558" data-lon="-60.95122"></div>
 *Carte détaillée — zoomez jusqu’à la baie · carte hors ligne · coordinate WGS84 indicative, toujours vérifier avec le traceur*
 
-Fonti: [IGY Marinas](https://www.igymarinas.com/marinas/rodney-bay-marina/) ★★★★ · Noonsite ★★★ · CSSN ★★★★
+Fonti: [IGY Marinas](https://www.igymarinas.com/marinas/rodney-bay-marina/) ★★★★ · Sources plaisance agrégées ★★★ · CSSN ★★★★
 
 Dernière mise à jour: 25/08/2026

@@ -4,32 +4,32 @@
 
 | Field | Detail |
 |---|---|
-| Zona | Sainte-Anne |
-| Cucina | 🐟 Creativa fronte mare |
-| Specialties | Fresh fish of the day |
-| Costo | 💰€€€ per person without drinks |
-| Location | 🍽️ elegante informale |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+M+Sainte-Anne) |
-| Contatti | 0596 76 75 43 |
-| Currencyzioni | TA 4,7/5 (372) · Petit Futé 4,4/5 (127) → ★★★★½ |
-| Orari | lun chiuso · mer–sab 12–14:30 / 19–21:30 · dom pranzo |
+| Area | Sainte-Anne |
+| Cuisine | 🐟 Creative waterfront |
+| Signature | Fresh fish of the day |
+| Price | 💰€€€ per person without drinks |
+| Setting | 🍽️ smart-casual |
+| Map | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+M+Sainte-Anne) |
+| Contact | 0596 76 75 43 |
+| Ratings | TA 4.7/5 (372) · Petit Futé 4.4/5 (127) → ★★★★½ |
+| Hours | closed Mon · Wed–Sat 12:00–14:30 / 19:00–21:30 · Sun lunch |
 
 ## Menu
 
-- Cucina semi-gastronomica creativa
-- Pesce fresco of the giorno
-- Menu sul sito
+- Creative semi-gastronomic cuisine
+- Fresh fish of the day
+- Menu on website
 
 **Chef**: Kévin Julians
 
-## Foto
+## Photos
 
 ![Le M](img/martinica/rist-le-m.jpg)
 
-*Fonte: le-mrestaurant.com*
+*Source: le-mrestaurant.com*
 
 ![Le M](img/martinica/rist-le-m-2.jpg)
 
-*Fonte: le-mrestaurant.com*
+*Source: le-mrestaurant.com*
 
-**Note**: Rue du bord de mer · le-mrestaurant.com · stessi gestori del Paille Coco
+**Notes**: Rue du bord de mer · le-mrestaurant.com · same owners as Paille Coco

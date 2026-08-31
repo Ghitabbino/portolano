@@ -27,4 +27,4 @@
 
 Fonti: [barbados.org — Restaurants Bridgetown](https://barbados.org/orestloc.htm) ★★★ · [Totally Barbados — Waterfront Cafe](https://www.totallybarbados.com/place/waterfront-cafe/) ★★★ · [waterfrontcafe.com.bb](https://www.waterfrontcafe.com.bb) ★★★ · Google/TripAdvisor 28/08/2026 ★★★
 
-Ultimo aggiornamento: 28/08/2026
+Última actualización: 28/08/2026

@@ -2,7 +2,7 @@
 
 [← Tutti i ristoranti](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Campo | Detalhe |
 |---|---|
 | Zona | St. Peter — Port Ferdinand Marina (darsena interna) |
 | Cucina | 🐟 Caraibica-internazionale resort |
@@ -27,4 +27,4 @@
 
 Fonti: [Totally Barbados — 13°/59°](https://www.totallybarbados.com/place/1359-restaurant/) ★★★ · [portferdinand.com](https://www.portferdinand.com) ★★★ · Google/TripAdvisor 28/08/2026 ★★★
 
-Ultimo aggiornamento: 28/08/2026
+Última atualização: 28/08/2026

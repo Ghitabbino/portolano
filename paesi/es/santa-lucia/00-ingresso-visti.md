@@ -18,7 +18,7 @@ Nessun visto per i cittadini UE/italiani; soggiorno massimo **3 mesi**. L'estens
 - **Castries** (soprattutto cargo/crociere: obbligo di andare direttamente al molo dogana) e **Vieux Fort**.
 - Orari dogana: lun–gio 08:00–12:00 e 13:00–16:30; ven fino alle 18:00; sab/dom/festivi 08:00–16:30. Clearance entro **24 h dall'arrivo**: nessuno scende prima.
 - **Pre-arrivo**: [SailClear](https://www.sailclear.com) + **modulo immigrazione online** sul portale ufficiale [travelslu.govt.lc](https://travelslu.govt.lc).
-- Documenti: ship's papers, **zarpe/clearance dal porto precedente obbligatoria**, passaporti di tutti. [Noonsite, agg. lug 2026](https://www.noonsite.com/place/st-lucia) ★★★
+- Documenti: ship's papers, **zarpe/clearance dal porto precedente obbligatoria**, passaporti di tutti. Fuentes náuticas agregadas ★★★
 
 ## E dopo i 3 mesi?
 
@@ -32,7 +32,7 @@ Estensione in persona a Castries: **EC$100 per 21 giorni**, rinnovabile fino ai 
 | Overtime | EC$10 sab/extra feriale · EC$15 dom/festivi | Minimo 3 h |
 | Moorings SMMA Soufrière | US$20/notte (&lt;70 ft) | Mooring permit EC$25 fuori dai POE |
 
-[Noonsite FAQ Fees](https://www.noonsite.com/place/st-lucia) ★★★ · [noforeignland, mar 2026](https://www.noforeignland.com/guides/countries/lc) ★★
+Fuentes náuticas agregadas ★★★ · [noforeignland, mar 2026](https://www.noforeignland.com/guides/countries/lc) ★★
 
 ## Vaccini
 

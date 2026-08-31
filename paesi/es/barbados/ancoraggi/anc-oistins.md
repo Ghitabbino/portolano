@@ -17,4 +17,4 @@
 
 Fonti: [Navily Oistins](https://www.navily.com/mouillage/oistins-fischerort/48071) ★★ · safetyanchoralarm.com ★★ · verificato su BA 1042 + satellite
 
-Ultimo aggiornamento: 25/08/2026
+Última actualización: 25/08/2026

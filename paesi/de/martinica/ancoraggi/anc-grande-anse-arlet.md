@@ -1,17 +1,17 @@
 # Grande Anse d'Arlet {#anc-grande-anse-arlet}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
-| Campo | Dettaglio |
+[← Alle Ankerplätze](../08-ancoraggi.md)
+| Feld | Detail |
 |---|---|
-| **Profondità** | 4–8 m circa |
-| **Tenuta** |Buona su sabbia, calaggio facile ★★★|
-| **Venti/riparo** |Buona protezione da vento e swell ★★★; qualcuno segnala rollìo in certe condizioni ★★|
-| **Pericoli** |**Boe da pesca trasparenti (bottiglie di plastica) quasi invisibili** all'ingresso della baia ★★; pattuglie guardacoste attive di recente ★★|
-| **Affollamento** | Medio-alto; ristoranti sulla spiaggia |
-| **Divieti** |⚠️ Regole boe/mouillage **restrittive e fatte rispettare** dai guardacoste ★★; zona Anses d'Arlet regolata per >50 m ★★★★; zone balneazione boe comunali davanti alla spiaggia ★★|
-| **Extra** | Tartarughe in snorkeling; sentiero Morne Champagne fino a Petite Anse |
+| **Tiefe** | Ca. 4–8 m |
+| **Halt** |Gut auf Sand, leichtes Einfahren ★★★|
+| **Wind/Schutz** |Guter Schutz vor Wind und Schwell ★★★; vereinzelt Schwell/Roll gemeldet ★★|
+| **Gefahren** |**Transparente Fischereibojen (Plastikflaschen) fast unsichtbar** an der Einfahrt der Bucht ★★; Küstenwache patrouilliert zuletzt aktiv ★★|
+| **Belegung** | Mittel bis hoch; Restaurants am Strand |
+| **Verbote** |⚠️ Bojen-/Mouillage-Regeln **restriktiv und werden durchgesetzt** ★★; Zone Anses d'Arlet reguliert für >50 m ★★★★; Badezonen mit Gemeindebojen vor dem Strand ★★|
+| **Extras** | Schildkröten beim Schnorcheln; Pfad Morne Champagne nach Petite Anse |
 
 <div class="mapframe" data-slug="grande-anse-arlet" data-lat="14.4805" data-lon="-61.0885"></div>
-*Vista mappa Grande Anse d'Arlet (coord. indicative) — zoom con i pulsanti +/−; menu in alto a destra per passare a Carta nautica e Segnali nautici · mappa offline*
+*Kartenansicht Grande Anse d'Arlet (Koord. indikativ) — Zoom mit +/−; Menü oben rechts für Seekarte und Seezeichen · Offline-Karte*
 
-Ultimo aggiornamento: 22/08/2026
+Letzte Aktualisierung: 22/08/2026

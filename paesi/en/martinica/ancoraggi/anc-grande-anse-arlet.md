@@ -3,15 +3,15 @@
 [← All Anchorages](../08-ancoraggi.md)
 | Field | Detail |
 |---|---|
-| **Profondità** | 4–8 m circa |
-| **Tenuta** |Buona su sabbia, calaggio facile ★★★|
-| **Venti/riparo** |Buona protezione da vento e swell ★★★; qualcuno segnala rollìo in certe condizioni ★★|
-| **Pericoli** |**Boe da pesca trasparenti (bottiglie di plastica) quasi invisibili** all'ingresso della baia ★★; pattuglie guardacoste attive di recente ★★|
-| **Affollamento** | Medio-alto; ristoranti sulla spiaggia |
-| **Divieti** |⚠️ Regole boe/mouillage **restrittive e fatte rispettare** dai guardacoste ★★; zona Anses d'Arlet regolata per >50 m ★★★★; zone balneazione boe comunali davanti alla spiaggia ★★|
-| **Extra** | Tartarughe in snorkeling; sentiero Morne Champagne fino a Petite Anse |
+| **Depth** |Approx. 4–8 m |
+| **Holding** |Good holding on sand, easy to set ★★★|
+| **Shelter** |Good protection from wind and swell ★★★; some reports of roll in certain conditions ★★|
+| **Hazards** |**Nearly invisible transparent fish-pot buoys (plastic bottles)** at the bay entrance ★★; coastguard patrols active recently ★★|
+| **Crowding** | Medium–high; beachfront restaurants |
+| **Restrictions** |⚠️ Buoy/mouillage rules **strict and enforced** by the coastguard ★★; Anses d'Arlet area regulated for >50 m ★★★★; municipal swim-zone buoys off the beach ★★|
+| **Highlights** | Turtles when snorkelling; Morne Champagne trail to Petite Anse |
 
 <div class="mapframe" data-slug="grande-anse-arlet" data-lat="14.4805" data-lon="-61.0885"></div>
-*Vista mappa Grande Anse d'Arlet (coord. indicative) — zoom con i pulsanti +/−; menu in alto a destra per passare a Carta nautica e Segnali nautici · mappa offline*
+*Map view Grande Anse d'Arlet (approx. position) — zoom with +/− buttons; top-right menu to switch to Nautical Chart and AtoN overlay · offline map*
 
 Last updated: 22/08/2026

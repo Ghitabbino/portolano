@@ -1,28 +1,28 @@
 # L'Anse Gourmande
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Todos los restaurantes](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Campo | Detalle |
 |---|---|
 | Zona | Deshaies |
-| Cucina | 🐟 Caraibica |
-| Specialità | Pesce · prodotti locali |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🪶 locale nuovo |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=L'Anse+Gourmande+Deshaies) |
-| Contatti | [Mappa](https://www.google.com/maps/search/?api=1&query=Anse+Gourmande+Deshaies) |
-| Valutazioni | Google 4,9/5 (35) — pochi dati → ★★★★★* |
-| Orari | novità 2025-26: orari in definizione ⚠️ |
+| Cocina | 🐟 Caribeña |
+| Especialidad | Pescado · productos locales |
+| Coste | 💰€€ por persona sin bebidas |
+| Ubicación | 🪶 local nuevo e íntimo |
+| Mapa | [Google Maps](https://www.google.com/maps/search/?api=1&query=L'Anse+Gourmande+Deshaies) |
+| Contactos | [Mapa](https://www.google.com/maps/search/?api=1&query=Anse+Gourmande+Deshaies) |
+| Valoraciones | Google 4,9/5 (35) — pocos datos → ★★★★★* |
+| Horario | novedad 2025–26: horarios por definir ⚠️ |
 
-## Menu
+## Menú
 
-- Pesce
-- Prodotti locali
+- Pescado
+- Productos locales
 
 **Chef**: ND
 
-## Foto
+## Fotos
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Fotos aún no disponibles — se añadirán en el control mensual.*
 
-**Note**: Apertura recente: valutazioni da monitorare
+**Notas**: Apertura reciente: valoraciones por confirmar

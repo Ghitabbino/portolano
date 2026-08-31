@@ -17,4 +17,4 @@
 
 Fonti: BPI Yacht Masters Guide (2026-03) ★★★★ · Yachting World (2017) ★★★ · verificato su BA 1042 + satellite
 
-Ultimo aggiornamento: 25/08/2026
+Última actualización: 25/08/2026

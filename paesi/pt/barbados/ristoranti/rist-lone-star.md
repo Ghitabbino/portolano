@@ -2,7 +2,7 @@
 
 [← Tutti i ristoranti](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Campo | Detalhe |
 |---|---|
 | Zona | St. James — Mount Standfast / Paynes Bay (tra Holetown e Bridgetown) |
 | Cucina | 🐟 Mediterranea-caraibica pieds dans l’eau |
@@ -27,4 +27,4 @@
 
 Fonti: [Totally Barbados — Lone Star](https://www.totallybarbados.com/place/lone-star-restaurant/) ★★★ · [thelonestar.com](https://www.thelonestar.com) ★★★ · Google/TripAdvisor 28/08/2026 ★★★
 
-Ultimo aggiornamento: 28/08/2026
+Última atualização: 28/08/2026

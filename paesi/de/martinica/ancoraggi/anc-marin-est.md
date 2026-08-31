@@ -1,17 +1,17 @@
-# Le Marin Est/Sud {#anc-marin-est}
+# Le Marin Ost/Süd {#anc-marin-est}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
-| Campo | Dettaglio |
+[← Alle Ankerplätze](../08-ancoraggi.md)
+| Feld | Detail |
 |---|---|
-| **Profondità** | 3–8 m circa nel cul-de-sac |
-| **Tenuta** |Sabbia, "perfetta" secondo Navily ★★★|
-| **Venti/riparo** |Molto ben protetto da venti e swell (baia chiusa, montagne alle spalle) ★★★|
-| **Pericoli** |Relitti/abbandoni in alcune zone: attenzione ai fondali attorno ★★; traffico gommoni verso la marina|
-| **Affollamento** |Ampio, accoglie molti natanti anche in alta stagione ★★★|
-| **Divieti** |⛔ Trous à cyclone: àncora vietata nelle 3 zone riparo ciclonico del cul-de-sac (solo AOT) ★★★★; ⛔ area carenago vietata a nord della linea Trou Manuel → appontamento est porto pesca ★★★★; ⛔ Sainte-Luce: a sud di Pointe Borgnèse àncora vietata ovunque, boe solo sul bordo zona ★★★★; baia regolata >50 m ★★★★|
-| **Extra** | Base perfetta per servizi/carenage; sentiero Morne Gommier per panorama |
+| **Tiefe** | Ca. 3–8 m im Cul-de-Sac |
+| **Halt** |Sand, „perfekt“ laut Navily ★★★|
+| **Wind/Schutz** |Sehr gut gegen Wind und Schwell geschützt (geschlossene Bucht, Berge im Hintergrund) ★★★|
+| **Gefahren** |Wracks/Aufgeber in einigen Bereichen: Achtung auf Grund; starker Dinghy-Verkehr zur Marina|
+| **Belegung** |Geräumig, nimmt auch in der Hochsaison viele Yachten auf ★★★|
+| **Verbote** |⛔ Trous à cyclone: Ankern verboten in den 3 Zyklon-Schutz-Zonen des Cul-de-Sac (nur mit AOT) ★★★★; ⛔ Carénage-Areal nördlich der Linie Trou Manuel verboten → Festmachen östlich des Fischerhafens ★★★★; ⛔ Sainte-Luce: südlich von Pointe Borgnèse Ankern überall verboten, Bojen nur am Rand der Zone ★★★★; Bucht reguliert >50 m ★★★★|
+| **Extras** |Perfekte Basis für Service/Carénage; Pfad Morne Gommier mit Panorama |
 
 <div class="mapframe" data-slug="marin-est" data-lat="14.4636" data-lon="-60.8610"></div>
-*Vista mappa Le Marin Est/Sud (coord. indicative) — zoom con i pulsanti +/−; menu in alto a destra per passare a Carta nautica e Segnali nautici · mappa offline*
+*Kartenansicht Le Marin Ost/Süd (Koord. indikativ) — Zoom mit +/−; Menü oben rechts für Seekarte und Seezeichen · Offline-Karte*
 
-Ultimo aggiornamento: 22/08/2026
+Letzte Aktualisierung: 22/08/2026

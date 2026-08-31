@@ -2,74 +2,74 @@
 
 **Dernière vérification: 28/08/2026**
 
-## Livello prezzi generale — Barbados
+## Niveau général des prix — Barbade
 
-- Devise: **Dollaro di Barbados (BBD, 2:1 fisso con USD)** — prezzi alimentari **importati, più cari che in Europa continentale (+30–50%)**; prodotti locali (pesce, frutta tropicale, pane) più convenienti. [skiptomalouuu.com](https://www.skiptomalouuu.com/blog/best-eateries-in-barbados) ★★★
-- Logistica da yacht: per **scorte oceaniche** meglio rifornirsi nelle isole maggiori (Antigua, St. Martin, Trinidad) dove c'è grande distribuzione duty-free; Barbados ha **buona distribuzione urbana** (Massy, Trimart, Cost U Less) ma prezzi più alti per import. ★★
+- Devise : **Dollar de la Barbade (BBD, 2:1 fixe avec USD)** — alimentation **importée, plus chère qu'en Europe continentale (+30–50 %)** ; produits locaux (poisson, fruits tropicaux, pain) plus avantageux. [skiptomalouuu.com](https://www.skiptomalouuu.com/blog/best-eateries-in-barbados) ★★★
+- Logistique yacht : pour **avitaillement hauturier** mieux s'approvisionner dans les grandes îles (Antigua, Saint-Martin, Trinidad) où la grande distribution duty-free existe ; la Barbade offre **bonne distribution urbaine** (Massy, Trimart, Cost U Less) mais prix plus élevés à l'import. ★★
 
 ## Supermarchés
 
 ### Bridgetown / Carlisle Bay — base principale ⚓
 
-| Negozio | Ubicazione | Distance dalla marina/ancoraggio | A piedi? | Telefono | Consegna a bordo? | Source |
+| Magasin | Emplacement | Distance marina/mouillage | À pied ? | Téléphone | Livraison à bord ? | Source |
 |---|---|---|---|---|---|---|
-| **Massy Stores — Harbour Road / Worthing / Garrison** | Harbour Road (Princess Alice Hwy) — Worthing (a sud) — Garrison | Harbour Road **~500 m** dal Careenage/Shallow Draught; Worthing ~5 km | ✅ sì Harbour Road (5–7 min) · ⚠️ taxi/bus Worthing | +1 246 434-0081 (Harbour Road) ★★ · +1 246 435-7927 (Worthing) ★★ | **DONNÉE MANQUANTE** — verificare in negozio (provisioning yacht su richiesta) | [Massy Stores Barbados](https://massystoresbb.com) ★★★ |
-| **Trimart — Rendezvous / Hastings** | Rendezvous (Christ Church) | ~4 km dal Careenage | ⚠️ taxi/bus | DONNÉE MANQUANTE | DONNÉE MANQUANTE | ★★ |
-| **Cost U Less — Warrens** | Warrens (St. Michael) | ~8 km | ⚠️ taxi/auto | +1 246 417-5400 ★★ | No (cash & carry) | ★★ |
-| **Sol Minimart / Emerald City — Six Roads / Oistins** | Six Roads, Oistins (south) | ~6–7 km da Carlisle | ⚠️ taxi | DONNÉE MANQUANTE | DONNÉE MANQUANTE | ★★ |
+| **Massy Stores — Harbour Road / Worthing / Garrison** | Harbour Road (Princess Alice Hwy) — Worthing (au sud) — Garrison | Harbour Road **~500 m** du Careenage/Shallow Draught ; Worthing ~5 km | ✅ oui Harbour Road (5–7 min) · ⚠️ taxi/bus Worthing | +1 246 434-0081 (Harbour Road) ★★ · +1 246 435-7927 (Worthing) ★★ | **DONNÉE MANQUANTE** — vérifier en magasin (avitaillement yacht sur demande) | [Massy Stores Barbados](https://massystoresbb.com) ★★★ |
+| **Trimart — Rendezvous / Hastings** | Rendezvous (Christ Church) | ~4 km du Careenage | ⚠️ taxi/bus | DONNÉE MANQUANTE | DONNÉE MANQUANTE | ★★ |
+| **Cost U Less — Warrens** | Warrens (St. Michael) | ~8 km | ⚠️ taxi/voiture | +1 246 417-5400 ★★ | Non (cash & carry) | ★★ |
+| **Sol Minimart / Emerald City — Six Roads / Oistins** | Six Roads, Oistins (south) | ~6–7 km de Carlisle | ⚠️ taxi | DONNÉE MANQUANTE | DONNÉE MANQUANTE | ★★ |
 
-### Nord-ovest (Port St. Charles / Speightstown)
+### Nord-ouest (Port St. Charles / Speightstown)
 
-| Negozio | Ubicazione | Distance | A piedi? | Telefono | Consegna? |
+| Magasin | Emplacement | Distance | À pied ? | Téléphone | Livraison ? |
 |---|---|---|---|---|---|
-| **Massy Stores — Holetown (Limegrove / Sunset Crest)** | Holetown | ~1,5 km da Port St. Charles (via Highway 1) | ✅ sì (15–20 min) o taxi 10 BBD | +1 246 432-1260 (Holetown) ★★ | DONNÉE MANQUANTE |
-| **Massy / Trimart — Speightstown** | Speightstown centre | ~400 m dalla rada di Speightstown | ✅ sì | DONNÉE MANQUANTE | DONNÉE MANQUANTE |
-| **Jordan's Supermarket — Speightstown / Fitts Village** | Fitts Village · Speightstown | ~500 m–1 km | ✅ sì | +1 246 419-6130 ★★ | DONNÉE MANQUANTE |
+| **Massy Stores — Holetown (Limegrove / Sunset Crest)** | Holetown | ~1,5 km de Port St. Charles (via Highway 1) | ✅ oui (15–20 min) ou taxi 10 BBD | +1 246 432-1260 (Holetown) ★★ | DONNÉE MANQUANTE |
+| **Massy / Trimart — Speightstown** | centre Speightstown | ~400 m de la rade de Speightstown | ✅ oui | DONNÉE MANQUANTE | DONNÉE MANQUANTE |
+| **Jordan's Supermarket — Speightstown / Fitts Village** | Fitts Village · Speightstown | ~500 m–1 km | ✅ oui | +1 246 419-6130 ★★ | DONNÉE MANQUANTE |
 
-> **Nota metodo:** quando il telefono è indicato **DONNÉE MANQUANTE** significa che non è stato verificato con websearch/webfetch in questa sessione su sito ufficiale Massy/Trimart al 28/08/2026; verrà ricercato al controllo mensile con verifica diretta. ★★
+> **Note méthode :** quand le téléphone est indiqué **DONNÉE MANQUANTE** cela signifie qu'il n'a pas été vérifié par websearch/webfetch lors de cette session sur site officiel Massy/Trimart au 28/08/2026 ; sera recherché lors du contrôle mensuel avec vérification directe. ★★
 
-### Dettagli per base principale — Bridgetown Careenage / Shallow Draught
+### Détails pour base principale — Bridgetown Careenage / Shallow Draught
 
-- La **spesa quotidiana a piedi è possibile** da Harbour Road (Massy ~500 m): carrello/trolley pieghevole consigliato; Worthing/Trimart/Cost U Less servono per **cambusa settimanale** (taxi 20–40 BBD a tratta, concordare prima).
-- **Horaires tipici grande distribuzione**: **8–20 lun–sab, 8–14 domenica/festivi** (Massy); minimart locali spesso **7–21 tutti i giorni**. Chiusure festive (Crop Over, Natale) con orario ridotto. ★★
-- **Consegna a bordo**: rara, solo su richiesta ai supermarket più grandi attrezzati per yacht provisioning (Massy Worthing/Holetown su catering); confermare per telefono/email con 24h preavviso. ★★
-- **Chandler in zona marina** per ricambi nautici base; prezzi ok rispetto al resort. ★★
+- **Courses quotidiennes à pied possibles** depuis Harbour Road (Massy ~500 m) : chariot pliable conseillé ; Worthing/Trimart/Cost U Less servent pour **l'avitaillement hebdomadaire** (taxi 20–40 BBD l'aller, convenir avant).
+- **Horaires typiques grande distribution** : **08:00–20:00 lun–sam, 08:00–14:00 dim/fêtes** (Massy) ; minimarts locaux souvent **07:00–21:00 tous les jours**. Fermetures jours fériés (Crop Over, Noël) horaire réduit. ★★
+- **Livraison à bord** : rare, uniquement sur demande aux supermarchés les plus grands équipés pour avitaillement yacht (Massy Worthing/Holetown en catering) ; confirmer par téléphone/email avec préavis 24h. ★★
+- **Shipchandler en zone marina** pour pièces nautiques de base ; prix corrects vs resort. ★★
 
 ## Marchés
 
-- **Bridgetown Fisheries Complex (Princess Alice Hwy, a sud del Careenage)**: **mercato del pesce** quotidiano con pescato fresco al mattino (flying fish, dolphin/mahi-mahi, tuna, barracuda locale); banchi aperti 06:00–16:00, picco al mattino presto dopo il rientro dei pescherecci. ★★★
-- **Cheapside Market (Bridgetown)** + **Browne's Beach / Fairchild Market**: frutta/verdura locale al mattino presto (breadfruit, sweet potato, green banana, mango di stagione); mercato coperto con spezie. ★★★
-- **Oistins Fish Market / Bay Garden (Christ Church)**: famoso **Fish Fry del venerdì** ma anche mercato giornaliero con pesce fresco; truck di frutta lungo Highway 7 e a Six Roads. ★★★
-- Dove assente un vero mercato coperto, **bancarelle stradali e truck di frutta** — prezzi locali convenienti. ★★
+- **Bridgetown Fisheries Complex (Princess Alice Hwy, au sud du Careenage)** : **marché au poisson** quotidien avec pêche fraîche le matin (flying fish, dolphin/mahi-mahi, thon, barracuda local) ; étals ouverts 06:00–16:00, pic tôt le matin après retour des pêcheurs. ★★★
+- **Cheapside Market (Bridgetown)** + **Browne's Beach / Fairchild Market** : fruits/légumes locaux tôt le matin (breadfruit, sweet potato, green banana, mangue de saison) ; marché couvert avec épices. ★★★
+- **Oistins Fish Market / Bay Garden (Christ Church)** : célèbre **Fish Fry du vendredi** mais aussi marché quotidien avec poisson frais ; camions de fruits le long de Highway 7 et à Six Roads. ★★★
+- Là où il n'y a pas de vrai marché couvert, **étals de rue et camions de fruits** — prix locaux avantageux. ★★
 
 ## Eau et carburant
 
-| Servizio | Dove | Note |
+| Service | Où | Note |
 |---|---|---|
-| Water dock | Marina Shallow Draught / Careenage · Port St. Charles · Port Ferdinand | **DONNÉE MANQUANTE** tariffa/m³ a Barbados al 28/08/2026 — verificare in capitainerie; acqua BWA potabile ma filtrare → [03](03-porti-ancoraggi.md) |
-| Fuel dock | Stazione carburante del porto (Bridgetown) · Port St. Charles (fuel duty-free allo sdoganamento) | Prezzi variabili, gasolio ~1,4–2,0 BBD/l · benzina ~1,6–2,2 BBD/l → [02 Costi](02-costi.md) |
-| Gas (butane/propane) | Scambio bombole tipo locale/US a Bridgetown | Solo scambio, niente rabbocco dove non previsto → [04 Servizi](04-servizi-cantieri.md) |
-| Ghiaccio | Supermarchés Massy/Trimart, Fisheries Complex | Sacchi da 5–10 BBD; verificare disponibilità prima di traversate lunghe |
+| Eau au quai | Marina Shallow Draught / Careenage · Port St. Charles · Port Ferdinand | **DONNÉE MANQUANTE** tarif/m³ à la Barbade au 28/08/2026 — vérifier en capitainerie ; eau BWA potable mais filtrer → [03](03-porti-ancoraggi.md) |
+| Carburant au quai | Station carburant du port (Bridgetown) · Port St. Charles (carburant duty-free au dédouanement) | Prix variables, gazole ~1,4–2,0 BBD/l · essence ~1,6–2,2 BBD/l → [02 Coûts](02-costi.md) |
+| Gaz (butane/propane) | Échange bouteilles type local/US à Bridgetown | Uniquement échange, pas de remplissage où non prévu → [04 Services](04-servizi-cantieri.md) |
+| Glace | Supermarchés Massy/Trimart, Fisheries Complex | Sacs 5–10 BBD ; vérifier disponibilité avant traversées longues |
 
-## Transports per la cambusa
+## Transports pour l'avitaillement
 
 ### Taxi
 
-- Servizio **non a tassametro** nella maggior parte dell'isola: **tariffa da concordare prima di salire**. Tariffa regolata da Barbados Tourism con listino ufficiale per tratte turistiche. ★★★
-- Trajet tipica **Careenage/Shallow Draught ↔ Massy Harbour Road**: **10–20 BBD (~5–10 USD)**; **Careenage ↔ Worthing/Trimart**: **40–60 BBD**; **Oistins ↔ Bridgetown**: **50–70 BBD**; **Holetown ↔ Speightstown**: **30–50 BBD** — confermare con autista o capitainerie. ★★
-- Contatto taxi: chiedere in marina/capitainerie o al supermarket; taxi stand a Harbour Road, Bridgetown Bus Terminal, aeroporto. Numero centrale Barbados Taxi Association **+1 246 426-1021** (verificare al 28/08/2026) — **DONNÉE MANQUANTE** se non risponde, usare taxi hotel.
+- Service **non taximétré** sur la majeure partie de l'île : **tarif à convenir avant de monter**. Tarif régulé par Barbados Tourism avec grille officielle pour trajets touristiques. ★★★
+- Trajet typique **Careenage/Shallow Draught ↔ Massy Harbour Road** : **10–20 BBD (~5–10 USD)** ; **Careenage ↔ Worthing/Trimart** : **40–60 BBD** ; **Oistins ↔ Bridgetown** : **50–70 BBD** ; **Holetown ↔ Speightstown** : **30–50 BBD** — confirmer avec chauffeur ou capitainerie. ★★
+- Contact taxi : demander en marina/capitainerie ou au supermarché ; stations taxi à Harbour Road, Bridgetown Bus Terminal, aéroport. Numéro central Barbados Taxi Association **+1 246 426-1021** (à vérifier au 28/08/2026) — **DONNÉE MANQUANTE** si pas de réponse, utiliser taxi hôtel.
 
 ### Bus / ZR / minibus
 
-- **Bus blu governativi (BTMI) + ZR bianche con striscia rossa (route taxi)**: frequentissimi sulle direttrici principali (Bridgetown ↔ Holetown/Speightstown via Highway 1; Bridgetown ↔ Oistins via Highway 7), passaggio **ogni 5–15 min** di giorno, biglietto **3,50 BBD (~1,75 USD)** a corsa (tariffa flat dal 2020, pagare esatto). [BTMI](https://www.transportboard.com) ★★★
-- Fermata più vicina alla marina: **Princess Alice Hwy / Harbour Road** a 100–300 m dal Careenage/Shallow Draught; per Port St. Charles fermata **Highway 1 a Six Men's Bay** (100 m). ★★
-- Scomodo con carichi pesanti: meglio taxi per casse d'acqua o cambusa settimanale; bus utile per ricognizione senza carichi.
+- **Bus bleus gouvernementaux (BTMI) + ZR blanches à bande rouge (route taxi)** : très fréquents sur les axes principaux (Bridgetown ↔ Holetown/Speightstown via Highway 1 ; Bridgetown ↔ Oistins via Highway 7), passage **toutes les 5–15 min** le jour, ticket **3,50 BBD (~1,75 USD)** par trajet (tarif fixe depuis 2020, faire l'appoint). [BTMI](https://www.transportboard.com) ★★★
+- Arrêt le plus proche de la marina : **Princess Alice Hwy / Harbour Road** à 100–300 m du Careenage/Shallow Draught ; pour Port St. Charles arrêt **Highway 1 à Six Men's Bay** (100 m). ★★
+- Incommode avec charges lourdes : mieux taxi pour caisses d'eau ou avitaillement hebdomadaire ; bus utile pour reconnaissance sans charges.
 
 ## Conseils pratiques
 
-- **Carrello/trolley pieghevole + borse termiche**: indispensabili se si fa spesa a piedi col dinghy (sbarco su spiaggia a Carlisle, banchina a Careenage).
-- **Eau in bottiglia**: fare scorta dove l'acqua di banchina è dubbia o non potabile; tenere **ghiaccio in sacchi** per traversate verso Santa Lucia/Grenada.
-- Vérifier sempre **orari festivi e disponibilità di ghiaccio** prima di traversate lunghe (180–240 M).
-- Per **cambusa oceanica** (transatlantica): meglio **Bridgetown (Massy Harbour Road + Cost U Less Warrens)** in un'unica spesa grande con taxi; per integrazioni giornaliere usare **Holetown/Speightstown** se ancorati a nord.
+- **Chariot pliable + sacs isothermes** : indispensables si courses à pied avec l'annexe (débarquement sur plage à Carlisle, quai à Careenage).
+- **Eau en bouteille** : faire provision là où l'eau à quai est douteuse ou non potable ; garder **glace en sacs** pour traversées vers Sainte-Lucie/Grenade.
+- Vérifier toujours **horaires jours fériés et disponibilité glace** avant traversées longues (180–240 M).
+- Pour **avitaillement hauturier** (transatlantique) : mieux **Bridgetown (Massy Harbour Road + Cost U Less Warrens)** en une seule grosse course en taxi ; pour compléments quotidiens utiliser **Holetown/Speightstown** si mouillé au nord.
 
 Dernière mise à jour: 28/08/2026

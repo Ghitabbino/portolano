@@ -36,7 +36,7 @@ Saison **01/06–30/11**, picco **agosto-ottobre**. Giamaica in hurricane zone:
 ## Vents locaux
 
 - Alizés **NE 15-20 kt** prevalenti; **Northers** dic-apr (1-3 gg, da blandi a forti) rendono la costa nord mossa: cercare ridosso sud/ovest. ★★★
-- Mantenere ~1 miglio offshore per fish traps fino a 100 ft (Noonsite).
+- Mantenere ~1 miglio offshore per fish traps fino a 100 ft (Sources plaisance agrégées).
 - Segnalati FADs (Fish Aggregating Devices) lungo costa.
 
 ## Fenêtres météo typiques

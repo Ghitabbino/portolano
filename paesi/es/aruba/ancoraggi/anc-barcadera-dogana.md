@@ -15,6 +15,6 @@
 <div class="mapframe" data-slug="anc-barcadera-dogana" data-minz="12" data-maxz="17" data-lat="12.48" data-lon="-70.0006"></div>
 *Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
 
-Fonti: Noonsite ★★★ · Wind Creek Marina ★★★★
+Fonti: Fuentes náuticas agregadas ★★★ · Wind Creek Marina ★★★★
 
 Ultimo aggiornamento: 25/08/2026

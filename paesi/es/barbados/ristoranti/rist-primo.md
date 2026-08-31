@@ -27,4 +27,4 @@
 
 Fonti: [Totally Barbados — Primo](https://www.totallybarbados.com/place/primo-bar-bistro/) ★★★ · [primobarbados.com](https://www.primobarbados.com) ★★★ · Google/TripAdvisor 28/08/2026 ★★★
 
-Ultimo aggiornamento: 28/08/2026
+Última actualización: 28/08/2026

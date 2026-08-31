@@ -35,6 +35,6 @@
 | Google Maps recensioni | Il più aggiornato per orari/menu; verificare chiusure lunedì |
 | TripAdvisor | Ampio ma datato in alcune zone RD; utile per confronto |
 | Facebook / Instagram del locale | Menu e chiusure in tempo reale (molti ristoranti RD aggiornano solo lì) |
-| Noonsite / Cruisers Forum | Recensioni recenti dei naviganti per Luperón/Samaná |
+| Fuentes náuticas agregadas / Cruisers Forum | Recensioni recenti dei naviganti per Luperón/Samaná |
 
 Ultimo aggiornamento: 24/08/2026

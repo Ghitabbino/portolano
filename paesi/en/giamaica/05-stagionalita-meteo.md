@@ -36,7 +36,7 @@ Season **01/06–30/11**, picco **agosto-ottobre**. Giamaica in hurricane zone:
 ## Local Winds
 
 - Alisei **NE 15-20 kt** prevalenti; **Northers** dic-apr (1-3 gg, from blandi a forti) rendono la costa nord mossa: cercare ridosso sud/ovest. ★★★
-- Mantenere ~1 miglio offshore for fish traps fino a 100 ft (Noonsite).
+- Mantenere ~1 miglio offshore for fish traps fino a 100 ft (Cruising sources aggregate).
 - Segnalati FADs (Fish Aggregating Devices) lungo costa.
 
 ## Typical Weather Windows

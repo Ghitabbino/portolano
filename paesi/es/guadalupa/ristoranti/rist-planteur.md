@@ -1,29 +1,29 @@
 # Le Planteur
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Todos los restaurantes](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Campo | Detalle |
 |---|---|
 | Zona | Gosier |
-| Cucina | 🥩 Poulet boucané |
-| Specialità | Poulet boucané · ouassous |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🌴 corte creola |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Planteur+Gosier) |
-| Contatti | [Mappa](https://www.google.com/maps/search/?api=1&query=Le+Planteur+Gosier) |
-| Valutazioni | Google positive → ★★★★ |
-| Orari | pranzo · cena weekend ⚠️ |
+| Cocina | 🥩 Pollo ahumado |
+| Especialidad | Pollo ahumado · camarones de río |
+| Coste | 💰€€ por persona sin bebidas |
+| Ubicación | 🌴 patio criollo |
+| Mapa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Planteur+Gosier) |
+| Contactos | [Mapa](https://www.google.com/maps/search/?api=1&query=Le+Planteur+Gosier) |
+| Valoraciones | Google — valoraciones positivas → ★★★★ |
+| Horario | almuerzo · cena fines de semana ⚠️ |
 
-## Menu
+## Menú
 
-- Poulet boucané
-- Lambi
-- Ouassous
+- Pollo ahumado
+- Lambí
+- Camarones de río
 
 **Chef**: ND
 
-## Foto
+## Fotos
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Fotos aún no disponibles — se añadirán en el control mensual.*
 
-**Note**: Tappa comoda dall'Îlet du Gosier ⚠️ verificare approdo · da 20 €
+**Notas**: Parada cómoda desde Îlet du Gosier ⚠️ verificar desembarco · desde 20 €

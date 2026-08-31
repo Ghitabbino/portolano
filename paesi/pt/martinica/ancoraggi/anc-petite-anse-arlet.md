@@ -1,17 +1,17 @@
 # Petite Anse d'Arlet {#anc-petite-anse-arlet}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
-| Campo | Dettaglio |
+[← Todos os fundeadouros](../08-ancoraggi.md)
+| Campo | Detalhe |
 |---|---|
-| **Profondità** | 4–10 m circa |
-| **Tenuta** |Media: sabbia con alghe e rocce; **casi frequenti di àncora che cede** in certe zone ★★★|
-| **Venti/riparo** |Protezione scarsa da vento e swell: ok solo con meteo stabile ★★★|
-| **Pericoli** |Stesse boe da pesca trasparenti delle baie vicine ★★; charter in manovra di giorno ★★|
-| **Affollamento** | Medio; sera si calma |
-| **Divieti** | Come Grande Anse (zona Anses d'Arlet) |
-| **Extra** | Acquario naturale: tartarughe garantite; borgo pittoresco |
+| **Profundidade** | 4–10 m aprox. |
+| **Tensão** |Média: areia com algas e rochas; **casos frequentes de ferro que garrateia** em certas zonas ★★★|
+| **Ventos/abrigo** |Proteção escassa de vento e ondulação: ok apenas com meteo estável ★★★|
+| **Perigos** |Mesmas boias de pesca transparentes das baías vizinhas ★★; charter em manobra de dia ★★|
+| **Lotação** | Média; à noite acalma |
+| **Proibições** | Como Grande Anse (zona Anses d'Arlet) |
+| **Extra** | Aquário natural: tartarugas garantidas; aldeia pitoresca |
 
 <div class="mapframe" data-slug="petite-anse-arlet" data-lat="14.4735159" data-lon="-61.0827003"></div>
-*Vista mappa Petite Anse d'Arlet (coord. indicative) — zoom con i pulsanti +/−; menu in alto a destra per passare a Carta nautica e Segnali nautici · mappa offline*
+*Vista do mapa Petite Anse d'Arlet (coord. indicativas) — zoom com os botões +/−; menu no canto superior direito para mudar para Carta náutica e Sinais náuticos · mapa offline*
 
-Ultimo aggiornamento: 22/08/2026
+Última atualização: 22/08/2026

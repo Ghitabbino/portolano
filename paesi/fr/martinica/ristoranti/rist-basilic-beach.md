@@ -5,20 +5,20 @@
 | Champ | Détail |
 |---|---|
 | Zone | Pointe Marin |
-| Cuisine | 🐟 Beach creolo rivisitato |
-| Spécialité | Pesce fresco · cocktail |
-| Coût | 💰€€ per persona senza bevande |
-| Emplacement | 🏖️ sulla spiaggia |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Basilic+Beach+Pointe+Marin) |
+| Cuisine | 🐟 Beach créole revisité |
+| Spécialité | Poisson frais · cocktails |
+| Coût | 💰€€ par personne hors boissons |
+| Emplacement | 🏖️ sur la plage |
+| Carte | [Google Maps](https://www.google.com/maps/search/?api=1&query=Basilic+Beach+Pointe+Marin) |
 | Contacts | 0696 32 67 92 |
 | Évaluations | TA 4,1/5 (406) · Petit Futé 4,5/5 (26) → ★★★★ |
-| Horaires | tutti i giorni |
+| Horaires | tous les jours |
 
 ## Menu
 
-- Pesce fresco del giorno
-- Cuisine creola rivisitata
-- Cocktail
+- Poisson frais du jour
+- Cuisine créole revisitée
+- Cocktails
 
 **Chef**: ND
 
@@ -26,6 +26,6 @@
 
 ![Basilic Beach](img/martinica/rist-basilic-beach.jpg)
 
-*Source: jimcdn (sito ristorante)*
+*Source : jimcdn (site du restaurant)*
 
-**Note**: Plage de Pointe Marin · vista splendida, buon rapporto qualità/prezzo
+**Notes** : Plage de Pointe Marin · vue splendide, bon rapport qualité/prix

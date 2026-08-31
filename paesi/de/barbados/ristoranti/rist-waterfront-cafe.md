@@ -1,30 +1,30 @@
 # Waterfront Cafe
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Alle Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Feld | Detail |
 |---|---|
-| Zona | Bridgetown — The Careenage (sul canale, a 30 m dal pontile dinghy) |
-| Cucina | 🐟 Bajan / pesce creolo + 🥩 grill |
-| Specialità | *Flying fish cutter · catch of the day (mahi-mahi/wahoo) · pepperpot · rum punch* |
-| Costo | 💰€€ per persona senza bevande (~40–70 BBD) |
-| Location | ⚓ direttamente sul Careenage, terrazza waterfront storica (edificio in pietra) |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Waterfront+Cafe+Bridgetown+Careenage) |
-| Contatti | The Careenage, Bridgetown · tel +1 246 427-0093 · [waterfrontcafe.com.bb](https://www.waterfrontcafe.com.bb) |
-| Valutazioni | **barbados.org Moderate ★★★ · totallybarbados.com ★★★★ · Google 4,4/5 (1.800) · TripAdvisor 4,0/5 (900) → ★★★★½** |
-| Orari | lun–sab 11:30–22:00 · dom 11:30–15:30 (brunch) · verificare chiusura Crop Over/Natale |
-| Note | A piedi dal dinghy — ideale sbarco diretto per pranzo dopo clearance; prenotazione serale consigliata |
+| Zone | Bridgetown — The Careenage (am Kanal, 30 m vom Dinghy-Steg) |
+| Küche | 🐟 Bajan / kreolischer Fisch + 🥩 Grill |
+| Spezialität | *Flying Fish Cutter · Tagesfang (Mahi-Mahi/Wahoo) · Pepperpot · Rum Punch* |
+| Preis | 💰€€ pro Person ohne Getränke (~40–70 BBD) |
+| Lage | ⚓ direkt am Careenage, historische Waterfront-Terrasse (Steingebäude) |
+| Karte | [Google Maps](https://www.google.com/maps/search/?api=1&query=Waterfront+Cafe+Bridgetown+Careenage) |
+| Kontakt | The Careenage, Bridgetown · Tel. +1 246 427-0093 · [waterfrontcafe.com.bb](https://www.waterfrontcafe.com.bb) |
+| Bewertungen | **barbados.org Moderate ★★★ · totallybarbados.com ★★★★ · Google 4,4/5 (1.800) · TripAdvisor 4,0/5 (900) → ★★★★½** |
+| Öffnungszeiten | Mo–Sa 11:30–22:00 · So 11:30–15:30 (Brunch) · Schließung Crop Over/Weihnachten prüfen |
+| Hinweise | Zu Fuß vom Dinghy — ideal für direkten Landgang zum Mittagessen nach der Clearance; Reservierung abends empfohlen |
 
-## Menu
+## Speisekarte
 
-- Flying fish tradizionale (cutter o intero)
-- Catch of the day alla griglia (mahi, wahoo, tuna secondo pescato Fisheries Complex)
-- Pepperpot bajan e macaroni pie
-- Rum punch e Banks on tap
+- Traditioneller Flying Fish (Cutter oder ganz)
+- Tagesfang vom Grill (Mahi, Wahoo, Thun je nach Anlandung Fisheries Complex)
+- Bajan Pepperpot und Macaroni Pie
+- Rum Punch und Banks vom Fass
 
 <div class="mapframe" data-slug="rist-waterfront-cafe" data-lat="13.0967" data-lon="-59.6168"></div>
-*Cartina di dettaglio — posizione a terra rispetto alla barca · zoom ±*
+*Detailkarte — Lage an Land relativ zum Boot · mit ± zoomen*
 
-Fonti: [barbados.org — Restaurants Bridgetown](https://barbados.org/orestloc.htm) ★★★ · [Totally Barbados — Waterfront Cafe](https://www.totallybarbados.com/place/waterfront-cafe/) ★★★ · [waterfrontcafe.com.bb](https://www.waterfrontcafe.com.bb) ★★★ · Google/TripAdvisor 28/08/2026 ★★★
+Quellen: [barbados.org — Restaurants Bridgetown](https://barbados.org/orestloc.htm) ★★★ · [Totally Barbados — Waterfront Cafe](https://www.totallybarbados.com/place/waterfront-cafe/) ★★★ · [waterfrontcafe.com.bb](https://www.waterfrontcafe.com.bb) ★★★ · Google/TripAdvisor 28/08/2026 ★★★
 
-Ultimo aggiornamento: 28/08/2026
+Letzte Aktualisierung: 28/08/2026

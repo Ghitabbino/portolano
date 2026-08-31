@@ -5,14 +5,14 @@
 
 | Field | Detail |
 |---|---|
-| **Costo** |**DATA MISSING**|
-| **Cucina** |**DATA MISSING**|
-| **Specialità** |**DATA MISSING**|
+| **Price** |**DATA MISSING**|
+| **Cuisine** |**DATA MISSING**|
+| **Speciality** |**DATA MISSING**|
 | **Location** |**DATA MISSING**|
 
 <div class="mapframe" data-slug="rist-basilic-beach-2" data-lat="14.444" data-lon="-60.883"></div>
-*Cartina di dettaglio: posizione a terra rispetto alla yacht · zoom ±*
+*Detail map: position ashore relative to the boat · zoom ±*
 
-Fonti: **DATA MISSING**
+Sources: **DATA MISSING**
 
 Last updated: 25/08/2026

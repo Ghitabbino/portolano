@@ -4,20 +4,20 @@
 
 | Field | Detail |
 |---|---|
-| Zona | Savaneta — costa sud |
-| Cucina | 🐟 Pesce piedi nella sabbia |
-| Specialità | Pesce fresco piedi nell'acqua · tramonto |
-| Costo | 💰€€€ per person without drinks |
-| Location | 🌅 spiaggia, tavoli sull'acqua |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=The+Flying+Fishbone+Savaneta) |
-| Contatti | Savaneta, Aruba · prenotazione obbligatoria settimane in anticipo |
-| Valutazioni | TA 4,7/5 (8.052 recensioni) · [OneHappyIsland](https://onehappyisland.com/best-restaurants-in-aruba/) “Most unique setting” → ★★★★½ |
-| Orari | Pranzo e cena · tavoli nell'acqua al tramonto |
+| Area | Savaneta — south coast |
+| Cuisine | 🐟 Feet-in-the-sand seafood |
+| Speciality | Fresh fish with feet in the water · sunset |
+| Cost | 💰€€€ per person without drinks |
+| Location | 🌅 beach, tables in the water |
+| Map | [Google Maps](https://www.google.com/maps/search/?api=1&query=The+Flying+Fishbone+Savaneta) |
+| Contacts | Savaneta, Aruba · booking required weeks in advance |
+| Ratings | TA 4.7/5 (8,052 reviews) · [OneHappyIsland](https://onehappyisland.com/best-restaurants-in-aruba/) "Most unique setting" → ★★★★½ |
+| Hours | Lunch and dinner · tables in the water at sunset |
 
 ## Menu
 
-- Tavoli direttamente con i piedi nell'acqua al tramonto
-- Pesce fresco caraibico
-- Tra i più fotografati dell'isola
+- Tables directly with feet in the water at sunset
+- Fresh Caribbean fish
+- Among the most photographed on the island
 
-**Note**: A Savaneta, raggiungibile da Spanish Lagoon/San Nicolas in auto/tender + taxi — non walking da Oranjestad, ma tappa iconica sud. Prenotare 2–3 settimane prima in alta stagione. Fonte locale: [OneHappyIsland Best Restaurants 2026](https://onehappyisland.com/best-restaurants-in-aruba/) ★★★ · [Aruba.com](https://www.aruba.com) ★★★
+**Note**: In Savaneta, reachable from Spanish Lagoon/San Nicolas by car/tender + taxi — not walkable from Oranjestad, but an iconic southern stop. Book 2–3 weeks ahead in high season. Local source: [OneHappyIsland Best Restaurants 2026](https://onehappyisland.com/best-restaurants-in-aruba/) ★★★ · [Aruba.com](https://www.aruba.com) ★★★

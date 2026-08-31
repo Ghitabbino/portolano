@@ -1,41 +1,41 @@
-# 07 — Provvisioning
+# 07 — Avituallamiento
 
-**Ultimo aggiornamento: 21/08/2026**
+**Última actualización: 21/08/2026**
 
-## Livello prezzi generale
+## Nivel general de precios
 
-- Alimentari ~+30–40% vs Francia metropolitana, in linea con la Martinica; più economici delle Grenadine secondo i naviganti. ★★
-- Prodotti locali convenienti: pesce dai pescatori, frutta/verdura dei mercati, pane/boulangerie. ★★★
+- Alimentos ~+30–40% vs Francia metropolitana, en línea con Martinica; más baratos que en las Granadinas según los navegantes. ★★
+- Productos locales convenientes: pescado de los pescadores, fruta/verdura de los mercados, pan/boulangerie. ★★★
 
-## Supermercati
+## Supermercados
 
-| Negozio | Dove | Note |
+| Comercio | Ubicación | Notas |
 |---|---|---|
-| **Hyper Casino Jarry** | Baie-Mahault | Il più grande dell'arcipelago; tutto, prezzi migliori |
-| **Carrefour Jarry** | Baie-Mahault | Ottima selezione francesi/import |
-| Super U / Leader Price | Pointe-à-Pitre, Le Gosier, Sainte-Anne, Saint-François, Basse-Terre | Diffusi ovunque |
-| Supermercati Bas-du-Fort | accanto alla marina | Comodo per rifornimento rapido |
+| **Hyper Casino Jarry** | Baie-Mahault | El más grande del archipiélago; de todo, mejores precios |
+| **Carrefour Jarry** | Baie-Mahault | Excelente selección de productos franceses/importados |
+| Super U / Leader Price | Pointe-à-Pitre, Le Gosier, Sainte-Anne, Saint-François, Basse-Terre | Muy extendidos |
+| Supermercados Bas-du-Fort | junto a la marina | Cómodo para repostaje rápido |
 
-La zona **Jarry** (3.500 imprese) è il maggiore polo commerciale dei Caraibi: qui si trova praticamente tutto, compresi pezzi industriali e ricambi. ★★
+La zona **Jarry** (3.500 empresas) es el mayor polo comercial del Caribe: aquí se encuentra prácticamente de todo, incluidas piezas industriales y recambios. ★★
 
-## Mercati
+## Mercados
 
-- **Marché de la Darse** (Pointe-à-Pitre, sul molo): frutta, verdura, pesce, spezie — mattino, meglio sabato. Iconico edificio giallo e verde.
-- Marché di Saint-Antoine (PAP) e mercati comunali di Basse-Terre, Saint-François, Capesterre (Marie-Galante).
-- Pesce fresco: approccio ai pescatori nei porti (Deshaies, Saint-Louis de Marie-Galante) al ritorno delle barche (~10h).
+- **Marché de la Darse** (Pointe-à-Pitre, en el muelle): fruta, verdura, pescado, especias — por la mañana, mejor el sábado. Edificio icónico amarillo y verde.
+- Marché de Saint-Antoine (PAP) y mercados municipales de Basse-Terre, Saint-François, Capesterre (Marie-Galante).
+- Pescado fresco: acercarse a los pescadores en los puertos (Deshaies, Saint-Louis de Marie-Galante) al regreso de los barcos (~10h).
 
-## Acqua e carburante
+## Agua y combustible
 
-| Servizio | Dove |
+| Servicio | Dónde |
 |---|---|
-| Water dock | Marina Bas-du-Fort (incluso nel posto), Saint-François, Deshaies (pontile municipio), Rivière Sens |
-| Fuel dock | Bas-du-Fort 8h–12h/14h–18h; Saint-François; stazioni stradali Jarry con tanica |
-| Gas (butane/propane) | Scambi bottiglia standard francesi a Jarry e nei punti U; attenzione ai raccordi |
+| Muelle de agua | Marina Bas-du-Fort (incluido en la plaza), Saint-François, Deshaies (pantalán del ayuntamiento), Rivière Sens |
+| Muelle de combustible | Bas-du-Fort 8h–12h/14h–18h; Saint-François; gasolineras de Jarry con bidón |
+| Gas (butano/propano) | Intercambio de botella estándar francesa en Jarry y en puntos U; atención a los racores |
 
-## Consigli pratici
+## Consejos prácticos
 
-- Grande spesa = Jarry (auto/taxi dalla marina, 15 min); fresco quotidiano = mercato Darse.
-- Sulle isole minori (Saintes, Petite Terre, Désirade) scelta limitata: fare scorta prima.
-- Consegne: alcuni supermercati Jarry consegnano in marina per ordini telefonici ⚠️ da verificare caso per caso.
+- Gran compra = Jarry (coche/taxi desde la marina, 15 min); fresco diario = mercado Darse.
+- En las islas menores (Saintes, Petite Terre, Désirade) elección limitada: aprovisionarse antes.
+- Entregas: algunos supermercados de Jarry entregan en la marina por pedido telefónico ⚠️ verificar caso por caso.
 
-Ultimo aggiornamento: 22/08/2026
+Última actualización: 22/08/2026

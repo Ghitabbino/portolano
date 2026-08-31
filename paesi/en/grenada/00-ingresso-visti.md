@@ -22,13 +22,13 @@ Grenada è uno **Stato indipendente of the Commonwealth** (isola principale + Ca
 - Grenada ha **only due Port of Entry (POE) designati for yacht stranieri** (decisione Immigrazione 2024–25, ASP Leroy Joseph):
   1. **Port Louis Marina, St George's** — for chi arriva from Sud or prosegue verso Sud;
   2. **Carriacou Marine, Tyrrel Bay** — for chi arriva from Nord or prosegue verso Nord. Hours lun–ven 08:00–11:45 and 13:00–16:00; sab/dom/festivi 09:00–13:30; **arrivare entro le 15:00**. Q flag all'still fino a fine formalità; dopo lo zarpe uscire entro 24 h. [Carriacou Marine](https://www.carriacoumarine.com/customs-immigration) ★★★★
-- Altri punti (Prickly Bay, Le Phare Bleu, St David's, Hillsborough) are citati from fonti charter ma **non more riconosciuti as POE for yacht stranieri** second l'Immigrazione: usarli only with conferma in loco. [Noonsite feb 2025](https://www.noonsite.com/place/grenada/st-georges/view/clearance/) ★★★
+- Altri punti (Prickly Bay, Le Phare Bleu, St David's, Hillsborough) are citati from fonti charter ma **non more riconosciuti as POE for yacht stranieri** second l'Immigrazione: usarli only with conferma in loco. Cruising sources aggregate ★★★
 
 ## E dopo i 90 giorni? (cittadini italiani/UE)
 
 | Situation | Rule | Source |
 |---|---|---|
-| Proroga turistica | Extension possibile fino a **~90 giorni aggiuntivi** presso **Immigration Office, St George's**; fee ~US$50–100, sportello pagamenti 08:00–15:00 | Visaverge 2026 ★★ · Noonsite ★★★ |
+| Proroga turistica | Extension possibile fino a **~90 giorni aggiuntivi** presso **Immigration Office, St George's**; fee ~US$50–100, sportello pagamenti 08:00–15:00 | Visaverge 2026 ★★ · Cruising sources aggregate ★★★ |
 | Lavoro / residenza | Richiede permesso specifico (work permit/residenza); non coperto dall'esenzione visto | gov.gd ★★★★ |
 | Quota Schengen 90/180 | **Non si applica**: Grenada non è Schengen — i giorni qui NON consumano la quota UE | EUR-Lex ★★★★★ |
 

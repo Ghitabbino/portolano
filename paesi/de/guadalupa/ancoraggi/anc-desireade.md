@@ -1,28 +1,28 @@
 # Désirade — Baie Mahault {#anc-desireade}
 
-[← Tutti gli ancoraggi(../08-ancoraggi.md)
+[← Alle Ankerplätze](../08-ancoraggi.md)
 <div class="mapframe" data-slug="desireade" data-lat="16.3292839" data-lon="-61.0086499" data-name="Baie Mahault, La Désirade"></div>
 
-L'isola geologica più antica del mondo: plateau selvaggio, villaggi colorati, ospedale-lebbrosario abbandonato. Baie Mahault riparata dagli alisei NE, fondo sabbia/erba 4–7 m; roll con sud. Traghetto/ferry da Saint-François. Piccoli negozi e ristoranti.
+Die geologisch älteste Insel der Welt: wildes Plateau, bunte Dörfer, verlassenes Lepra-Krankenhaus. Baie Mahault vor NE-Passat geschützt, Sand/Seegras-Grund auf 4–7 m; schwojt bei Süd. Fähre ab Saint-François. Kleine Läden und Restaurants.
 
-## Cartografia ufficiale
+## Offizielle Seekarten
 
-SHOM serie Guadeloupe/Dominica (consultare shom.fr per le edizioni aggiornate) + Navionics/C-MAP. Segnaletica **IALA-B** (invertita rispetto all'Italia). Attenzione ai banchi Mouchoir Carré davanti a Bas-du-Fort e alla barcaia di Petite Terre.
+SHOM-Serie Guadeloupe/Dominica (aktualisierte Ausgaben siehe shom.fr) + Navionics/C-MAP. Betonnung **IALA-B** (invertiert gegenüber Europa). Achtung auf die Untiefe Mouchoir Carré vor Bas-du-Fort und die Durchfahrt bei Petite Terre.
 
-## Non inclusi (per ora)
+## (Vorläufig) nicht enthalten
 
-- **Costa atlantica nord** (Anse-Bertrand, Port-Louis, Le Moule): mouillage solo con condizioni calme, nasse da pesca → vedi [06 Sicurezza](../06-sicurezza.md).
-- **Grand Cul-de-Sac marin** (mangrovie): mouillage tranquilli ma serve guida locale per i passi.
-- **Petite Terre costa est**: nessun riparo.
+- **Nord-Atlantikküste** (Anse-Bertrand, Port-Louis, Le Moule): Ankerplatz nur bei ruhigen Bedingungen, Fischreusen → siehe [06 Sicherheit](../06-sicurezza.md).
+- **Grand Cul-de-Sac marin** (Mangroven): ruhige Ankerplätze, aber lokaler Guide für die Durchfahrten erforderlich.
+- **Ostküste Petite Terre**: kein Schutz.
 
-## Checklist àncora per la Guadalupa
+## Anker-Checkliste für Guadeloupe
 
-1. Clearance fatta? → [01 Clearance](../01-clearance.md)
-2. Aliseo NE previsto ≤20 kn sulle tratte esposte?
-3. Swell NW in arrivo? (rolla tutta la costa ovest)
-4. Dentro una riserva? → tabella regole sopra
-5. Nasse segnalate sulla rotta atlantica?
-6. Carta SHOM/Navionics aggiornata + IALA-B in mente
-7. Boa Petite Terre prenotata?
+1. Einklarierung erledigt? → [01 Clearance](../01-clearance.md)
+2. NE-Passat ≤20 kn auf exponierten Strecken vorhergesagt?
+3. NW-Schwell im Anmarsch? (lässt ganze Westküste schwojen)
+4. Innerhalb eines Schutzgebiets? → Regeltabelle oben
+5. Reusen auf der Atlantikroute gemeldet?
+6. SHOM/Navionics-Karte aktuell + IALA-B beachten
+7. Boje Petite Terre reserviert?
 
-Ultimo aggiornamento: 22/08/2026
+Letzte Aktualisierung: 22/08/2026
