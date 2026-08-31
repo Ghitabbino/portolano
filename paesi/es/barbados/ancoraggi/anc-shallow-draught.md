@@ -1,20 +1,20 @@
-# Bridgetown Shallow Draught (marina yacht + dogana dedicata) {#anc-shallow-draught}
+# Bridgetown Shallow Draught (marina de yates + aduana dedicada) {#anc-shallow-draught}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← Todos los fondeaderos](../08-ancoraggi.md)
 **13°06′04″ N 59°37′37″ W** ★★★
 
-| Campo | Dettaglio |
+| Campo | Detalle |
 |---|---|
-| **Profondità** |Darsena protetta; "shallow" solo per le navi, per gli yacht è profondo|
-| **Tenuta àncora** |— (~40 posti servizi completi)|
-| **Venti/riparo** |Darsena protetta|
-| **Pericoli** |Pieno in dicembre per rally verificato su BA 1042 + satellite|
-| **Boe/divieti/normative** |Dogana/immigrazione dedicata agli yacht; POE ufficiale|
-| **A terra** |Marina yacht Bridgetown|
+| **Profundidad** |Dársena resguardada; "shallow" solo para buques, para yates es profunda|
+| **Tenedero** |— (~40 plazas con servicios completos)|
+| **Vientos/abrigo** |Dársena resguardada|
+| **Peligros** |Lleno en diciembre por rallys verificado en BA 1042 + satélite|
+| **Boyas/prohibiciones/normativa** |Aduana/inmigración dedicadas a yates; POE oficial|
+| **En tierra** |Marina de yates de Bridgetown|
 
 <div class="mapframe" data-slug="anc-shallow-draught" data-lat="13.101" data-lon="-59.627"></div>
-*Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
+*Carta de detalle — zoom ± hasta la bahía · mapa sin conexión · coordenadas WGS84 aproximadas, verificar siempre en el plotter*
 
-Fonti: [BPI news](https://barbadosport.com/news/page/4) (2024-12) ★★★★ · [Yachting World](https://www.yachtingworld.com/features/reinventing-barbados-caribbean-island-works-welcome-back-cruisers-71257) (2017) ★★★ · verificato su BA 1042 + satellite
+Fuentes: [BPI news](https://barbadosport.com/news/page/4) (2024-12) ★★★★ · [Yachting World](https://www.yachtingworld.com/features/reinventing-barbados-caribbean-island-works-welcome-back-cruisers-71257) (2017) ★★★ · verificado en BA 1042 + satélite
 
 Última actualización: 25/08/2026

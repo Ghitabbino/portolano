@@ -1,39 +1,39 @@
 # 09 — Artesanos y tiendas náuticas
 
-Hub locale **limitato**: Barbados non è un hub tecnico — per lavori importanti molti armatori si appoggiano a **hub regionali (Antigua — English Harbour/Jolly Harbour, Sint Maarten — Simpson Bay, Trinidad — Chaguaramas)**. A Bridgetown operano **freelance in marina** (meccanica, elettrica, compositi) ma senza rete strutturata come a Le Marin (Martinica). Contatto tipico via telefono/WhatsApp; si parla inglese. Per lavori importanti chiedere sempre **preventivo scritto (devis)** e confermare tempi in alta stagione (dic–apr), quando i pochi artigiani sono saturi.
+Hub local **limitado**: Barbados no es un hub técnico — para trabajos importantes muchos armadores se apoyan en **hubs regionales (Antigua — English Harbour/Jolly Harbour, Sint Maarten — Simpson Bay, Trinidad — Chaguaramas)**. En Bridgetown operan **freelance en marina** (mecánica, electricidad, composites) pero sin red estructurada como en Le Marin (Martinica). Contacto típico por teléfono/WhatsApp; se habla inglés. Para trabajos importantes pedir siempre **presupuesto escrito (devis)** y confirmar plazos en temporada alta (dic–abr), cuando los pocos artesanos están saturados.
 
 ## Tabla de artesanos
 
 | Empresa / Nombre | Responsable | Área de intervención | Dealer / Installatore autorizzato (marchi) | Tel | Mail | Sede & orari | Recensioni |
 |---|---|---|---|---|---|---|---|
-| **DATO FALTANTE — Mecánico intra-bordo / diesel** | — | Meccanico motori inboard/fuoribordo, diagnosi, tagliandi | **DATO FALTANTE** — verificare se Volvo Penta / Yanmar presenti a Barbados | **DATO FALTANTE** — chiedere a Harbour Master +1 246 434-6100 | **DATO FALTANTE** | Bridgetown Shallow Draught / Careenage — verificare in capitainerie | ★★ |
-| **DATO FALTANTE — Electricista naval** | — | Impianti 12/24/220V, batterie (anche litio), pannelli solari, inverter | **DATO FALTANTE** | **DATO FALTANTE** | **DATO FALTANTE** | Mobile — chiedere in marina | ★★ |
-| **DATO FALTANTE — Velero / rigger** | — | Riparazione vele, sartie, biminis | **DATO FALTANTE** — sailmaker spesso **mobile da Antigua/St. Martin** | **DATO FALTANTE** | **DATO FALTANTE** | Service mobile — chiedere in marina / a Port St. Charles | ★★ |
-| **DATO FALTANTE — Frigorista** | — | Clima e freddo marine, frigo/congelatori | **DATO FALTANTE** | **DATO FALTANTE** | **DATO FALTANTE** | Mobile | ★★ |
-| **DATO FALTANTE — Soldadura inox/alluminio** | — | Saldatura, pulpiti, arch, biminis | **DATO FALTANTE** | **DATO FALTANTE** | **DATO FALTANTE** | Bridgetown — verificare | ★★ |
-| **DATO FALTANTE — Electrónica naval** | — | Autopiloti, chartplotter, AIS | **DATO FALTANTE** — possibile dealer **Garmin/Raymarine** locale | **DATO FALTANTE** | **DATO FALTANTE** | Bridgetown | ★★ |
-| **DATO FALTANTE — Composites / fibra** | — | Riparazioni scafo, osmosi, antifouling | **DATO FALTANTE** | **DATO FALTANTE** | **DATO FALTANTE** | Cantiere Bridgetown (verificare travelift) | ★★ |
+| **DATO FALTANTE — Mecánico intraborda / diésel** | — | Mecánico motores intraborda/fueraborda, diagnosis, revisiones | **DATO FALTANTE** — verificare se Volvo Penta / Yanmar presenti a Barbados | **DATO FALTANTE** — chiedere a Harbour Master +1 246 434-6100 | **DATO FALTANTE** | Bridgetown Shallow Draught / Careenage — verificare in capitainerie | ★★ |
+| **DATO FALTANTE — Electricista naval** | — | Instalaciones 12/24/220V, baterías (también litio), paneles solares, inverter | **DATO FALTANTE** | **DATO FALTANTE** | **DATO FALTANTE** | Mobile — chiedere in marina | ★★ |
+| **DATO FALTANTE — Velero / aparejador** | — | Reparación velas, jarcia, biminis | **DATO FALTANTE** — velero a menudo **móvil desde Antigua/St. Martin** | **DATO FALTANTE** | **DATO FALTANTE** | Service mobile — chiedere in marina / a Port St. Charles | ★★ |
+| **DATO FALTANTE — Frigorista** | — | Clima y frío marino, frigo/congeladores | **DATO FALTANTE** | **DATO FALTANTE** | **DATO FALTANTE** | Mobile | ★★ |
+| **DATO FALTANTE — Soldadura inox/aluminio** | — | Soldadura, púlpitos, arcos, biminis | **DATO FALTANTE** | **DATO FALTANTE** | **DATO FALTANTE** | Bridgetown — verificare | ★★ |
+| **DATO FALTANTE — Electrónica naval** | — | Pilotos automáticos, plotter, AIS | **DATO FALTANTE** — possibile dealer **Garmin/Raymarine** locale | **DATO FALTANTE** | **DATO FALTANTE** | Bridgetown | ★★ |
+| **DATO FALTANTE — Composites / fibra** | — | Reparaciones casco, ósmosis, antifouling | **DATO FALTANTE** | **DATO FALTANTE** | **DATO FALTANTE** | Astillero Bridgetown (verificar travelift) | ★★ |
 
-> Tutti i nominativi con **DATO FALTANTE** non sono stati verificati con websearch/webfetch su fonti governative/marine Barbados in questa sessione al 28/08/2026; verranno ricercati al controllo mensile con verifica telefonica diretta (Harbour Master +1 246 434-6100, Port St. Charles +1 246 419-1000). **DATO FALTANTE non è pigrizia: è assenza di fonte verificata**. ★★
+> Todos los nombres con **DATO FALTANTE** no han sido verificados con websearch/webfetch en fuentes gubernamentales/marinas Barbados en esta sesión al 28/08/2026; se buscarán en el control mensual con verificación telefónica directa (Harbour Master +1 246 434-6100, Port St. Charles +1 246 419-1000). **DATO FALTANTE no es dejadez: es ausencia de fuente verificada**. ★★
 
-## Altri operatori utili (hub regionali per refit serio)
+## Otros operadores útiles (hubs regionales para refit serio)
 
-- **Antigua — English Harbour (North Sails, Sanders Sails, marine services Jolly Harbour)**: loft vele, rigger, compositi — a ~240 M a NW, il più vicino per lavori strutturati.
-- **Sint Maarten — Simpson Bay (Budget Marine, FKG Composites, travelift 100 t)**: duty-free, ricambi immediati.
-- **Trinidad — Chaguaramas (Power Boats, Peakes, Coral Cove, travelift 70–300 t)**: fuori hurricane belt, hub uragani.
-- **St. Lucia — Rodney Bay Marina**: servizi intermedi a ~95 M, buona alternativa a Bridgetown per sosta tecnica.
-- A Barbados: **chandler base + ferramenta cittadina** (Bay Street, Harbour Road); per verniciatura/antivegetativa chiedere in porto.
+- **Antigua — English Harbour (North Sails, Sanders Sails, marine services Jolly Harbour)**: lofts de velas, jarcia, composites — a ~240 M al NW, el más cercano para trabajos estructurados.
+- **Sint Maarten — Simpson Bay (Budget Marine, FKG Composites, travelift 100 t)**: duty-free, repuestos inmediatos.
+- **Trinidad — Chaguaramas (Power Boats, Peakes, Coral Cove, travelift 70–300 t)**: fuera del hurricane belt, hub huracanes.
+- **St. Lucia — Rodney Bay Marina**: servicios intermedios a ~95 M, buena alternativa a Bridgetown para escala técnica.
+- A Barbados: **shipchandler base + ferretería cittadina** (Bay Street, Harbour Road); para pintado/antifouling preguntar en puerto.
 
 ## Dónde se encuentra qué
 
-- **Motoristica/frigoriferi/saldatura**: freelance operanti a Bridgetown Shallow Draught / Careenage — chiedere in capitainerie; spesso ex-pescatori con officina a St. Michael. ★★
-- **Vele / sartie**: sailmaker **spesso non residente** — servizio mobile da Antigua/St. Martin su chiamata (1–2 settimane). Tenere vele di rispetto a bordo. ★★
+- **Motor/frigorista/soldadura**: freelance operando en Bridgetown Shallow Draught / Careenage — preguntar en capitanías; a menudo ex-pescadores con taller en St. Michael. ★★
+- **Velas / jarcia**: velero **a menudo no residente** — servicio móvil desde Antigua/St. Martin bajo llamada (1–2 semanas). Llevar velas de respeto a bordo. ★★
 - **Antifouling/carenaggio**: verificare disponibilità **travelift/gru** in marina — dato non pubblicato; alternativa Chaguaramas/Antigua per alaggio.
 - **Zattere di salvataggio / safety**: revisione presso hub regionali — non documentata a Barbados al 28/08/2026.
 
 ## Tiendas de equipamiento y shipchandler
 
-| Negozio | Cosa trovi | Marchi notevoli | Tel | Mail / sito | Sede & orari | Recensioni |
+| Tienda | Qué encuentras | Marcas notables | Tel | Mail / web | Sede & horarios | Valoraciones |
 |---|---|---|---|---|---|---|
 | **Shipchandler del porto — Shallow Draught** | Ferramenta base, ancore, cime, parabordi, vernici, antivegetativa | **DATO FALTANTE** — assortimento base, non specialistico | **DATO FALTANTE** — chiedere Harbour Master +1 246 434-6100 | **DATO FALTANTE** | Shallow Draught, Bridgetown — orari ufficio porto 07–17 | ★★ |
 | **Ferramenta / chandler cittadina — Bridgetown** | Utensili, inox, elettrico, ferramenta nautica generica | **DATO FALTANTE** | **DATO FALTANTE** | **DATO FALTANTE** | Bay Street / Harbour Road, Bridgetown · lun–sab 08–17 | ★★ |

@@ -4,54 +4,54 @@
 
 ## Clima
 
-- Temperatura media **26–28 °C tutto l'anno**, clima **tropicale marittimo moderato** con **alisei da ENE 12–20 kn**; escursione termica giornaliera limitata. ★★★ Fuentes náuticas agregadas ★★★
-- Acqua **26–29 °C** tutto l'anno (picco 28–29 ad agosto–ottobre); umidità 75–85%, rovesci brevi anche in stagione secca. ★★
-- Barbados è **100 km a est dell'arco delle Windward**, esposta direttamente all'Atlantico: prende **più swell oceanico** delle isole sottovento (Santa Lucia, Grenadine) — mare formato più frequente sul lato sopravvento. Fuentes náuticas agregadas ★★★
+- Temperatura media **26–28 °C todo el año**, clima **tropical marítimo moderado** con **alisios del ENE 12–20 nudos**; escasa amplitud térmica diaria. ★★★ Fuentes náuticas agregadas ★★★
+- Mar **26–29 °C** todo el año (pico 28–29 agosto–octubre); humedad 75–85%, chubascos breves incluso en estación seca. ★★
+- Barbados está **100 km al este del arco de las Windward**, expuesta directamente al Atlántico: recibe **más mar de fondo oceánica** que las islas a sotavento (Santa Lucía, Granadinas) — mar formada más frecuente a barlovento. Fuentes náuticas agregadas ★★★
 
-## Stagioni
+## Estaciones
 
-| Periodo | Caratteristiche |
+| Periodo | Características |
 |---|---|
-| **Dicembre – aprile/maggio** | **Stagione secca e fresca, alisei stabili**: **periodo migliore per la crociera**; aliseo regolare 15–20 kn, rovesci brevi, acqua piatta sul lato ovest |
-| **Giugno – metà novembre** | **Stagione delle piogge + uragani**: alisei più deboli, onde tropicali, temporali pomeridiani; molte assicurazioni impongono limiti/riparo uragani; verificare piano uragani della marina |
+| **Diciembre – abril/mayo** | **Estación seca y fresca, alisios estables**: **mejor periodo para navegar**; alisio regular 15–20 nudos, chubascos breves, aguas planas en costa oeste |
+| **Junio – mediados noviembre** | **Estación de lluvias + huracanes**: alisios más flojos, ondas tropicales, tormentas por la tarde; muchos seguros imponen límites/refugio huracán; verificar plan de huracanes de la marina |
 
 ★★★
 
-## Consignes cicloniche (ufficiale)
+## Consignas ciclónicas (oficial)
 
-Barbados **non ha “trou à cyclone”** garantito come il Marin (Martinica): la Marina di Bridgetown e le marine resort del nord hanno **procedure di messa in sicurezza e sgombero banchine** su allerta, ma **nessun riparo è garantito al 100%**. Documento: *National Hurricane Preparedness Plan* (Barbados DEM — Department of Emergency Management) e consignes BPI/Harbour Master su VHF/tel. Il cliente non può rivalersi sul porto per danni da rottura ormeggi/ancoraggi causati da ciclone.
+Barbados **no tiene “hurricane hole”** garantizado como Le Marin (Martinica): la marina de Bridgetown y las marinas resort del norte tienen **procedimientos de aseguramiento y desalojo de muelles** con aviso, pero **ningún refugio está garantizado al 100%**. Documento: *National Hurricane Preparedness Plan* (Barbados DEM — Department of Emergency Management) y consignas BPI/Harbour Master por VHF/tel. El cliente no puede reclamar al puerto por daños por rotura de amarres/fondeos causados por ciclón.
 
-## Uragani
+## Huracanes
 
-Stagione **giugno–novembre**, picco **agosto–ottobre**. Barbados è **esposta agli alisei e alle onde atlantiche** e, pur essendo a sud della fascia più colpita, è stata direttamente colpita nella storia: **uragani storici 1780 (Great Hurricane), 1898, 1955 (Janet, Cat.3 sull'isola), 2024 (Beryl, Cat.1 a 40 M a sud con danni significativi a Bridgetown/Oistins)**. Piano oragan: consignes **Barbados DEM** e capitanerie pubblicano le procedure di messa in sicurezza; molte assicurazioni impongono di **lasciare la zona o mettere a terra** entro il 1° giugno. [NOAA NHC ★★★★★; Barbados DEM ★★★★; NHC — Beryl 2024 ★★★★★]
+Estación **junio–noviembre**, pico **agosto–octubre**. Barbados está **expuesta a los alisios y a las marejadas atlánticas** y, aunque al sur de la franja más azotada, ha sido golpeada directamente en la historia: **huracanes históricos 1780 (Great Hurricane), 1898, 1955 (Janet, Cat.3 en la isla), 2024 (Beryl, Cat.1 a 40 M al sur con daños significativos en Bridgetown/Oistins)**. Plan huracán: consignas **Barbados DEM** y capitanías publican los procedimientos de aseguramiento; muchos seguros imponen **abandonar la zona o varar en seco** antes del 1 de junio. [NOAA NHC ★★★★★; Barbados DEM ★★★★; NHC — Beryl 2024 ★★★★★]
 
-- **Rifugi per yacht**: la laguna di **Port St. Charles/Port Ferdinand** è più riparata di Carlisle Bay ma non è classificata come hurricane hole certificato; per protezione reale valutare **Trinidad (Chaguaramas, fuori belt)** o **Grenada sud** secondo polizza. Verificare con assicurazione.
+- **Refugios para yates**: la laguna de **Port St. Charles/Port Ferdinand** está más resguardada que Carlisle Bay pero no está clasificada como hurricane hole certificado; para protección real valorar **Trinidad (Chaguaramas, fuera del belt)** o **Granada sur** según póliza. Verificar con seguro.
 
-## Venti locali
+## Vientos locales
 
-- Alisei **ENE 12–20 kn** tipici delle Windward; accelerazioni sottovento ai rilievi (es. scarpata di St. John) e tra le baie della costa ovest con raffiche locali. Di notte l'aliseo cala, brezza di terra debole. ★★
-- **Swell atlantico**: anche con aliseo moderato, la costa **est e sud** prende swell lungo da E/SE (periodo 8–12 s) — motivo per cui Oistins/sud è spesso mosso mentre Carlisle/ovest resta piatto. Attenzione con dinghy su spiagge esposte. ★★
-- **Canali inter-isole** (Barbados ↔ Santa Lucia ~95 M, Barbados ↔ Grenada ~135 M, Barbados ↔ Tobago ~160 M): **mare incrociato e correnti** (Equatorial Current componente W, 0,5–1,5 kn verso NW). Finestra migliore **al mattino presto** con aliseo <18–20 kn e onda <1,5 m; evitare partenze con onda tropicale in transito. ★★
+- Alisios **ENE 12–20 nudos** típicos de Windward; aceleraciones a sotavento de los relieves (ej. escarpe de St. John) y entre las bahías de la costa oeste con rachas locales. De noche el alisio amaina, brisa terral floja. ★★
+- **Marejada atlántica**: incluso con alisio moderado, la costa **este y sur** recibe mar de fondo larga de E/SE (periodo 8–12 s) — razón por la que Oistins/sur está a menudo agitado mientras Carlisle/oeste permanece en calma. Atención con el auxiliar en playas expuestas. ★★
+- **Canales inter-islas** (Barbados ↔ Santa Lucía ~95 M, Barbados ↔ Granada ~135 M, Barbados ↔ Tobago ~160 M): **mar cruzada y corrientes** (Corriente Ecuatorial componente W, 0,5–1,5 nudos hacia NW). Mejor ventana **a primera hora de la mañana** con alisio <18–20 nudos y ola <1,5 m; evitar salidas con onda tropical en tránsito. ★★
 
-## Finestre tipiche
+## Ventanas típicas
 
-- **Traversate corte inter-isole (Barbados ↔ Santa Lucia/Grenada, 90–140 M)**: fattibili con aliseo **≤18–20 kn**, meglio **partenza 04:00–06:00** per arrivo con luce; rotta con angolo 20–40° sull'aliseo — prevedere bordo. ★★
-- **Traversate lunghe (verso Antigua ~240 M, verso Trinidad 210 M)**: attendere **finestra post-onda tropicale con pressione stabile** e assenza di invest 90L; controllare NHC Tropical Weather Outlook 2/7 giorni. Barbados → Trinidad è contro corrente leggera ma con aliseo al traverso — finestra migliore dicembre–aprile. ★★★
-- **Giorno vs notte**: l'ARC e i cruisers in arrivo transatlantica da Capo Verde spesso atterrano a Barbados in **dicembre–gennaio** con aliseo teso — arrivare **con luce diurna** per identificare Carlisle Bay e il traffico commerciale di Bridgetown. ★★
+- **Travesías cortas inter-islas (Barbados ↔ Santa Lucía/Granada, 90–140 M)**: factibles con alisio **≤18–20 nudos**, mejor **salida 04:00–06:00** para llegada con luz; derrota con ángulo 20–40° al alisio — prever borde. ★★
+- **Travesías largas (hacia Antigua ~240 M, hacia Trinidad 210 M)**: esperar **ventana post-onda tropical con presión estable** y ausencia de invest 90L; consultar NHC Tropical Weather Outlook 2/7 días. Barbados → Trinidad es con ligera contracorriente pero con alisio de través — mejor ventana diciembre–abril. ★★★
+- **Día vs noche**: la ARC y los navegantes en llegada transatlántica desde Cabo Verde recalan a menudo en Barbados en **diciembre–enero** con alisio entablado — llegar **con luz diurna** para identificar Carlisle Bay y el tráfico mercante de Bridgetown. ★★
 
-## Link meteo e carte locali
+## Enlaces meteo y cartas locales
 
-- [Barbados Meteorological Services (BMS)](https://www.barbadosweather.org) ★★★★★ — **ufficiale locale**: previsioni nazionali, bollettini marine, allerte ciclone, radar e satellite. Stazione Grantley Adams.
-- [Barbados DEM — Department of Emergency Management](https://www.barbados.gov.bb) ★★★★★ — consignes uragano e shelter list.
-- [NOAA National Hurricane Center](https://www.nhc.noaa.gov) ★★★★★ — bollettini e traiettorie uragani atlantici (giugno–novembre) + Tropical Weather Outlook.
-- [Meteo-France Martinique/Antilles](https://meteofrance.mq) ★★★★★ — complementare per boundary Windward (utile per rotte verso nord).
-- [Windy](https://www.windy.com) · [PassageWeather](http://www.passageweather.com) · [PredictWind](https://www.predictwind.com) ★★★ — modelli vento/houle/ECMWF/GFS per pianificazione traversate e swell est.
-- [Tide Forecast — Barbados](https://www.tide-forecast.com/locations/Bridgetown-Barbados/tides/latest) ★★ — maree (range ~0,5–1 m, semi-diurna).
-### Siti meteo locali
+- [Barbados Meteorological Services (BMS)](https://www.barbadosweather.org) ★★★★★ — **oficial local**: previsiones nacionales, boletines marinos, alertas ciclónicas, radar y satélite. Estación Grantley Adams.
+- [Barbados DEM — Department of Emergency Management](https://www.barbados.gov.bb) ★★★★★ — consignas huracán y lista de refugios.
+- [NOAA National Hurricane Center](https://www.nhc.noaa.gov) ★★★★★ — boletines y trayectorias huracanes atlánticos (junio–noviembre) + Tropical Weather Outlook.
+- [Meteo-France Martinique/Antilles](https://meteofrance.mq) ★★★★★ — complementario para límite Windward (útil para derrotas hacia el norte).
+- [Windy](https://www.windy.com) · [PassageWeather](http://www.passageweather.com) · [PredictWind](https://www.predictwind.com) ★★★ — modelos viento/marejada/ECMWF/GFS para planificación de travesías y mar de fondo del este.
+- [Tide Forecast — Barbados](https://www.tide-forecast.com/locations/Bridgetown-Barbados/tides/latest) ★★ — mareas (rango ~0,5–1 m, semidiurna).
+### Sitios meteo locales
 
-- [Barbados Weather — BMS](https://www.barbadosweather.org) — autorità ufficiale, allerte cicloni ★★★★
-- [Windguru Barbados — Bridgetown](https://www.windguru.cz/118) — spot ovest e swell est ★★★
-- [Caribbean Weather — PassageWeather Barbados](http://www.passageweather.com) — carte vento/onda Windward ★★★
-- [NOAA — Marine Forecast Barbados](https://marine.weather.gov) — bollettini offshore ★★★★
+- [Barbados Weather — BMS](https://www.barbadosweather.org) — autoridad oficial, alertas ciclónicas ★★★★
+- [Windguru Barbados — Bridgetown](https://www.windguru.cz/118) — spots oeste y mar de fondo este ★★★
+- [Caribbean Weather — PassageWeather Barbados](http://www.passageweather.com) — cartas viento/ola Windward ★★★
+- [NOAA — Marine Forecast Barbados](https://marine.weather.gov) — boletines offshore ★★★★
 
 Última actualización: 28/08/2026

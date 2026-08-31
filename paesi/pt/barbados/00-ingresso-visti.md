@@ -10,13 +10,33 @@ Barbados é uma **república parlamentar independente** desde 30 de novembro de 
 
 | Item | Regra | Fonte |
 |---|---|---|
-| Visto | **Não exigido** para cidadãos italianos/UE e muitas outras nacionalidades para turismo/visita; a lista de vistos exigidos inclui apenas alguns países (ex. Rep. Dominicana, Haiti, Cuba, China etc. — não UE) | [barbados.org — Documents Required](https://barbados.org/docs_requirements.htm) ★★★ · [immigration.gov.bb — Requirements](https://immigration.gov.bb/pages/visitor.aspx) ★★★★★ |
+| Visto | **Não exigido** para cidadãos UE e muitas outras nacionalidades para turismo/visita; a lista de vistos exigidos inclui apenas alguns países (ex. Rep. Dominicana, Haiti, Cuba, China etc. — não UE) | [barbados.org — Documents Required](https://barbados.org/docs_requirements.htm) ★★★ · [immigration.gov.bb — Requirements](https://immigration.gov.bb/pages/visitor.aspx) ★★★★★ |
 | Documentos obrigatórios | **Passaporte válido por toda a duração da estadia** (ainda válido à partida); **bilhete de regresso ou de prosseguimento**; **endereço de alojamento** (hotel/apartamento ou embarcação com fundeadouro/marina); **comprovativo de meios suficientes**; **formulário Immigration & Customs Form online** preenchido e recibos guardados/impressos | [immigration.gov.bb — Visitor Information](https://immigration.gov.bb/pages/visitor.aspx) ★★★★★ · [travelform.gov.bb](https://travelform.gov.bb) ★★★★★ |
 | Formulário online obrigatório | **Immigration and Customs Form** em [travelform.gov.bb](https://travelform.gov.bb) **disponível nas 72 h antes da chegada**; preencher online (incluindo pré-registo de embarcações) e **guardar recibos Immigration + Customs no telemóvel ou imprimir** para controlo à chegada | [immigration.gov.bb](https://immigration.gov.bb/pages/visitor.aspx) ★★★★★ · [travelform.gov.bb](https://travelform.gov.bb) ★★★★★ · [barbados.org](https://barbados.org/docs_requirements.htm) ★★★ |
-| Estadia turística | **Tipicamente até 3 meses** à entrada para cidadãos UE/isentos, ao critério do oficial de fronteira; carimbo no passaporte faz fé | [Fontes náuticas agregadas ★★★ · [barbados.org — Duration](https://barbados.org/docs_duration.htm) ★★★ |
+| Estadia turística | **Tipicamente até 3 meses** à entrada para cidadãos UE/isentos, ao critério do oficial de fronteira; carimbo no passaporte faz fé | Fontes náuticas agregadas ★★★ · [barbados.org — Duration](https://barbados.org/docs_duration.htm) ★★★ |
 | Menores <18 anos | Se não acompanhados por progenitor/tutor legal: **carta de consentimento notarial** com duração, adulto autorizado a receber o menor e contactos; original + cópia. Se com adulto diferente do progenitor/tutor: mesma carta notarial com identificação do acompanhante | [immigration.gov.bb](https://immigration.gov.bb/pages/visitor.aspx) ★★★★★ |
 
 ⚠️ **Atenção**: a admissão final cabe sempre ao oficial de fronteira no porto de entrada; mesmo sem visto a entrada pode ser recusada ou limitada se os requisitos não forem cumpridos.
+
+## Cidadãos dos EUA — sem visto para estadias curtas
+
+| Item | Regra | Fonte |
+|---|---|---|
+| Visto | **Não exigido** para turismo até **6 meses (180 dias)**; não é necessário eVisa nem autorização prévia | [immigration.gov.bb — Visa Requirements](https://immigration.gov.bb/pages/Visa_Requirements.aspx) ★★★★★ · [foreign.gov.bb — Visa List August 2022](https://www.foreign.gov.bb/wp-content/uploads/2022/08/Updated-visa-list-August-2022.pdf) ★★★★★ · [travel.state.gov — Barbados](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Barbados.html) ★★★★★ |
+| Documentos obrigatórios | **Passaporte dos EUA válido por toda a estadia** (6 meses recomendados); **bilhete de regresso ou prosseguimento**; **comprovativo de alojamento e meios**; **formulário Immigration & Customs Form online** em 72 h como para UE | [immigration.gov.bb](https://immigration.gov.bb/pages/visitor.aspx) ★★★★★ · [travelform.gov.bb](https://travelform.gov.bb) ★★★★★ |
+| Estadia | Até **6 meses** carimbados à chegada, ao critério do oficial; prorrogação possível no Immigration Department | [immigration.gov.bb](https://immigration.gov.bb/pages/visitor.aspx) ★★★★★ |
+| Menores | Mesmas regras que adultos; carta notarial se não acompanhados como para UE | [immigration.gov.bb](https://immigration.gov.bb/pages/visitor.aspx) ★★★★★ |
+
+## Cidadãos do Reino Unido — sem visto para estadias curtas
+
+| Item | Regra | Fonte |
+|---|---|---|
+| Visto | **Não exigido** para turismo até **6 meses** para cidadãos britânicos | [immigration.gov.bb — Visa Requirements](https://immigration.gov.bb/pages/Visa_Requirements.aspx) ★★★★★ · [foreign.gov.bb — Visa List August 2022](https://www.foreign.gov.bb/wp-content/uploads/2022/08/Updated-visa-list-August-2022.pdf) ★★★★★ · [GOV.UK — Barbados entry requirements](https://www.gov.uk/foreign-travel-advice/barbados/entry-requirements) ★★★★★ |
+| Documentos obrigatórios | **Passaporte britânico válido por toda a estadia** (6 meses recomendados); **bilhete de regresso ou prosseguimento**; **comprovativo de alojamento e meios**; **formulário Immigration & Customs Form online** em 72 h como para UE | [immigration.gov.bb](https://immigration.gov.bb/pages/visitor.aspx) ★★★★★ · [GOV.UK](https://www.gov.uk/foreign-travel-advice/barbados/entry-requirements) ★★★★★ |
+| Estadia | Até **6 meses** carimbados à chegada, ao critério do oficial; prorrogação possível no Immigration Department | [immigration.gov.bb](https://immigration.gov.bb/pages/visitor.aspx) ★★★★★ |
+| Menores | Mesmas regras que adultos; carta notarial se não acompanhados como para UE | [immigration.gov.bb](https://immigration.gov.bb/pages/visitor.aspx) ★★★★★ |
+
+> ℹ️ **Outras nacionalidades:** as condições variam conforme a nacionalidade. Verifique sempre na embaixada ou consulado do país de destino ou no Ministério das Relações Exteriores do seu país antes da partida, com passaporte e itinerário em mãos. Uma verificação de 5 minutos evita recusa no cais.
 
 ## Nota importante para quem chega por mar
 
@@ -26,7 +46,7 @@ Barbados é uma **república parlamentar independente** desde 30 de novembro de 
 - **Aproximação a Port St. Charles**: fundeadouro exterior sobre areia em frente à marina, depois dinghy ao pontão interior; oficiais **no mesmo edifício no fundo do molhe** (alfândega/imigração/coast guard/polícia) — procedimento descrito como rápido e cordial (relatório fontes náuticas agregadas 30/11/2025). Fontes náuticas agregadas ★★★
 - **Pré-chegada digital**: **SailClear** ([sailclear.com](https://www.sailclear.com)) recomendado como pré-aviso alfandegário (Barbados integra países SailClear CCLEC desde 2013); não substitui a presença no cais mas agiliza o processo; SailClear cobra taxa anual de US$25 desde 01/05/2024. [SailClear](https://www.sailclear.com) ★★★ · [CCLEC — SailClear](https://www.cclec.org/about-us/sailclear/) ★★★
 
-## E depois dos 3 meses? (cidadãos italianos/UE)
+## E depois dos 3 meses? (cidadãos UE)
 
 | Situação | Regra | Fonte |
 |---|---|---|
@@ -34,7 +54,7 @@ Barbados é uma **república parlamentar independente** desde 30 de novembro de 
 | Duração da prorrogação | **DADO EM FALTA** — nenhuma fonte governamental publicada encontrada com duração máxima, taxa e formulários de prorrogação turística em 28/08/2026; confirmar com a Imigração antes do cruzeiro | — |
 | Permanência além do prazo (overstay) | Pode implicar recusa de futuras admissões / anotação; a entrada pode já ter sido encurtada na fronteira por meios insuficientes | [immigration.gov.bb](https://immigration.gov.bb/pages/visitor.aspx) ★★★★★ |
 
-Na prática: com passaporte italiano entra-se sem visto até ~90 dias, com travelform 72h; para ficar além é necessário processo local junto da Imigração — prazos/custos a confirmar.
+Na prática: com passaporte UE entra-se sem visto até ~90 dias, com travelform 72h; para ficar além é necessário processo local junto da Imigração — prazos/custos a confirmar.
 
 ## A embarcação: admissão temporária e taxas
 
@@ -42,7 +62,7 @@ Na prática: com passaporte italiano entra-se sem visto até ~90 dias, com trave
 |---|---|---|
 | **Admissão temporária de iate estrangeiro** | Uso privado permitido em importação temporária; a embarcação deve deixar as águas no fim do período concedido; proibidos aluguer/venda e uso comercial sem desalfandegamento. Duração prática **DADO EM FALTA** para Barbados específico (por analogia OECO/ABC praxe 6 meses — a confirmar) | **DADO EM FALTA** para texto alfandegário específico de Barbados ★★ |
 | **Cruising permit / taxas de fundeio** | **DADO EM FALTA** — nenhuma tarifa publicada em barbadosport.com/BPI em 28/08/2026 encontrada como tarifário de fundeio | — |
-| **Taxa de clearance entrada/saída** | **BBD 100 (cerca de US$ 50)** pagos **à saída** segundo fontes náuticas agregadas 2025; a confirmar na Alfândega | [Fontes náuticas agregadas ★★★ |
+| **Taxa de clearance entrada/saída** | **BBD 100 (cerca de US$ 50)** pagos **à saída** segundo fontes náuticas agregadas 2025; a confirmar na Alfândega | Fontes náuticas agregadas ★★★ |
 | **Taxa ambiental da embarcação** | **DADO EM FALTA** — nenhuma fonte governamental sobre taxa ambiental específica para iates encontrada | — |
 | **Alfândega/Imigração da embarcação** | Formalidades gratuitas em horário salvo taxa de saída acima | Fontes náuticas agregadas ★★★ |
 

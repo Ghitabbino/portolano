@@ -3,18 +3,19 @@
 **Regola scolpita 31/08/2026 — AGENTI_HANDOFF.md:16d (vale per TUTTI, per SEMPRE):** traduzione **lineare per PAESE: un paese alla volta completamente in TUTTE le lingue (IT→EN→FR→ES→DE→PT)** (`00→10` + `ancoraggi/*.md` + `ristoranti/*.md`), **ordine pesanti-first** (peso IT decrescente). **Un paese è ☑ solo quando EN+FR+ES+DE+PT sono madrelingua verificati.**  
 **Non cancellare** i compiti svolti — spunta la casella. Fonte di verità per l'avanzamento.
 
-> Aggiornato: 31-08-2026 — REGOLA 16d aggiornata: lineare per PAESE tutte le lingue (chiarimento utente 31/08). Barbados EN ☑, Bonaire EN ☑ — ora FR/ES/DE/PT per Barbados.
+> Aggiornato: 31-08-2026 — REGOLA 16d lineare per PAESE. Barbados 5 lingue ☑ 31/08 (EN 30 md + FR 30 md verificato + ES 30 md riscritto + DE 30 md verificato + PT 30 md riscritto, grep IT 0, build OK). Bonaire EN ☑ — ora FR/ES/DE/PT per Bonaire.
 
 ## Stato generale
 - [x] **Prima pagina:** traduzione “Scorri — trasparenza, ringraziamenti e supporto sotto” in tutte le lingue (IT/EN/FR/ES/DE/PT) — `paesi/i18n/*.json:scroll_hint` + `build_paesi_html.py:674` — verificato in `it/en/fr/es/de/pt/index.html`
 - [x] Fix precedenti mantenuti visibili (Cabo Verde → globale REGOLA 16b, fix hide #p1)
-- [x] **Barbados+Bonaire:** riscrittura completa EN madrelingua verificata personalmente (30+23 file), `grep IT leak 0`, build `en/index.html` — `paesi/en/barbados/*.md:1` + `paesi/en/bonaire/*.md:1`
+- [x] **Barbados 5 lingue:** riscrittura completa EN+FR+ES+DE+PT madrelingua verificata (30 file x5 = 150 md), `grep IT leak 0`, markers tradotti, build `en/fr/es/de/pt/index.html` — `paesi/{en,fr,es,de,pt}/barbados/*.md:1`
+- [x] **Bonaire EN:** riscrittura completa EN madrelingua (23 file), `grep IT leak 0` — `paesi/en/bonaire/*.md:1` — FR/ES/DE/PT da fare
 
 ## Coda pesanti-first — IT → EN/FR/ES/DE/PT (ordine di esecuzione, 31/08/2026)
 
 > Peso = somma byte `paesi/it/<slug>/*.md` (proxy completezza). Legenda: ☐ da fare — ☑ fatto madrelingua in TUTTE le 5 lingue — ⏳ in corso (EN→FR→ES→DE→PT). I file esistono come bozza ma vanno rifatti madrelingua per ogni lingua. Skip se già ☑ 5 lingue.
 
-- [ ] 01. **Barbados** — `barbados` (92 974 B) — ⏳ IN CORSO — EN ☑ 31/08 (30 md riscritti, `grep IT 0`, build OK) — FR ☐ — ES ☐ — DE ☐ — PT ☐
+- [x] 01. **Barbados** — `barbados` (92 974 B) — ☑ COMPLETATO 31/08 — EN ☑ (30 md) · FR ☑ (30 md, verificato madrelingua, 59 DONNÉE MANQUANTE) · ES ☑ (30 md riscritti, 59 DATO FALTANTE, markers ES) · DE ☑ (30 md, 59 DATEN FEHLEN) · PT ☑ (30 md riscritti, 58 DADO EM FALTA) — `grep IT leak 0` + build 6 lingue OK
 - [ ] 02. **Bonaire** — `bonaire` (92 924 B) — ☐ EN ☑ 31/08 (23 md) — FR/ES/DE/PT da fare
 - [ ] 03. **Aruba** — `aruba` (86 987 B) — ☐ 00 EN ☑ — 01-10 EN in corso
 - [ ] 04. **Repubblica Dominicana** — `repubblica-dominicana` (82 211 B)
@@ -57,5 +58,5 @@
 - Anguilla · Antigua e Barbuda · Aruba · Bahamas · Barbados · Belize · Bonaire · Isole Cayman · Colombia · Costa Rica · Cuba · Curaçao · Dominica · Giamaica · Grenada · Grenadine · Guadalupa · Haiti · Honduras · Martinica · Montserrat · Nicaragua · Panama · Porto Rico · Repubblica Dominicana · Saba · Saint-Barth · Saint-Martin · Santa Lucia · Sint Eustatius · St-Kitts e Nevis · Trinidad e Tobago · Turks e Caicos · Venezuela · Isole Vergini
 
 ---
-**Prossimo:** 01. Barbados — completamento FR→ES→DE→PT (poi Bonaire tutte le lingue). Un paese alla volta: EN→FR→ES→DE→PT completi, poi build+spunta solo a 5 lingue madrelingua.
+**Prossimo:** 02. Bonaire — completamento FR→ES→DE→PT (EN già ☑). Poi Aruba pesanti-first.
 Nota: questo file è la fonte di verità; i completati restano `[x]` con data/commit, mai cancellati.

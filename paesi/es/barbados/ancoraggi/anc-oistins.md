@@ -1,20 +1,20 @@
-# Oistins Bay (costa sud — condizionale) {#anc-oistins}
+# Oistins Bay (costa sur — condicional) {#anc-oistins}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← Todos los fondeaderos](../08-ancoraggi.md)
 **13°03′56″ N 59°32′28″ W** ★★
 
-| Campo | Dettaglio |
+| Campo | Detalle |
 |---|---|
-| **Profondità** |3–8 m sabbia|
-| **Tenuta àncora** |ESPOSTA al swell sud atlantico — tenibile solo con mare calmo (dic–apr migliore)|
-| **Venti/riparo** |Scarsa: baia aperta a sud|
-| **Pericoli** |Baia con molte imbarcazioni da pesca locale; non rifugio affidabile verificato su BA 1042 + satellite|
-| **Boe/divieti/normative** |—|
-| **A terra** |Famosa Fish Fry del venerdì, fish market|
+| **Profundidad** |3–8 m arena|
+| **Tenedero** |EXPUESTA a marejada del sur atlántico — aguantable solo con mar en calma (dic–abr mejor)|
+| **Vientos/abrigo** |Escaso: bahía abierta al sur|
+| **Peligros** |Bahía con muchas embarcaciones de pesca local; no es refugio fiable verificado en BA 1042 + satélite|
+| **Boyas/prohibiciones/normativa** |—|
+| **En tierra** |Famosa Fish Fry del viernes, lonja de pescado|
 
 <div class="mapframe" data-slug="anc-oistins" data-lat="13.0655" data-lon="-59.541"></div>
-*Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
+*Carta de detalle — zoom ± hasta la bahía · mapa sin conexión · coordenadas WGS84 aproximadas, verificar siempre en el plotter*
 
-Fonti: [Navily Oistins](https://www.navily.com/mouillage/oistins-fischerort/48071) ★★ · safetyanchoralarm.com ★★ · verificato su BA 1042 + satellite
+Fuentes: [Navily Oistins](https://www.navily.com/mouillage/oistins-fischerort/48071) ★★ · safetyanchoralarm.com ★★ · verificado en BA 1042 + satélite
 
 Última actualización: 25/08/2026

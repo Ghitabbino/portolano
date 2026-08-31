@@ -1,20 +1,20 @@
-# Bridgetown Deep Water Harbour (POE, ingresso) {#anc-bridgetown-dwh}
+# Bridgetown Deep Water Harbour (POE, entrada) {#anc-bridgetown-dwh}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← Todos los fondeaderos](../08-ancoraggi.md)
 **13°06′22″ N 59°37′48″ W** ★★★
 
-| Campo | Dettaglio |
+| Campo | Detalle |
 |---|---|
-| **Profondità** |Porto commerciale profondo|
-| **Tenuta àncora** |— (solo manovra/clearance, NON rada)|
-| **Venti/riparo** |Porto protetto|
-| **Pericoli** |Evitare il molo doganale con barche <20 m (pericoloso, senza pontile — report fuentes náuticas agregadas dic 2022): meglio arrivare col dinghy al Passenger Terminal verificato su BA 1042 + satellite|
-| **Boe/divieti/normative** |POE ufficiale: chiamare Signal Station VHF CH 12 ("8P") PRIMA di entrare; berth assegnato dal Signal Station; bandiera Q issata dentro il porto; dogana/sanità/immigrazione al Passenger Terminal 06:00–22:00, 7/7|
-| **A terra** |Passenger Terminal|
+| **Profundidad** |Puerto comercial profundo|
+| **Tenedero** |— (solo maniobra/despacho, NO rada)|
+| **Vientos/abrigo** |Puerto resguardado|
+| **Peligros** |Evitar el muelle de aduana con barcos <20 m (peligroso, sin pantalán — informe fuentes náuticas agregadas dic 2022): mejor llegar con el auxiliar al Passenger Terminal verificado en BA 1042 + satélite|
+| **Boyas/prohibiciones/normativa** |POE oficial: llamar a Signal Station VHF CH 12 ("8P") ANTES de entrar; atraque asignado por Signal Station; bandera Q izada dentro del puerto; aduana/sanidad/inmigración en Passenger Terminal 06:00–22:00, 7/7|
+| **En tierra** |Passenger Terminal|
 
 <div class="mapframe" data-slug="anc-bridgetown-dwh" data-lat="13.106" data-lon="-59.63"></div>
-*Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
+*Carta de detalle — zoom ± hasta la bahía · mapa sin conexión · coordenadas WGS84 aproximadas, verificar siempre en el plotter*
 
-Fonti: [BPI Yacht Masters Guide](https://barbadosport.com/barbados-yacht-masters-guide) (2026-03) ★★★★ · Fuentes náuticas agregadas Security/Comments ★★★ · verificato su BA 1042 + satellite
+Fuentes: [BPI Yacht Masters Guide](https://barbadosport.com/barbados-yacht-masters-guide) (2026-03) ★★★★ · Fuentes náuticas agregadas Security/Comments ★★★ · verificado en BA 1042 + satélite
 
 Última actualización: 25/08/2026
