@@ -680,7 +680,7 @@ __I18N_disclaimer_text__
 <a href="https://ko-fi.com/sailtropics" target="_blank" rel="noopener noreferrer" style="display:inline-flex;align-items:center;gap:7px;padding:8px 16px;border-radius:20px;background:#F5A623;color:#0A192F!important;font-weight:800;font-size:13px;text-decoration:none;box-shadow:0 1px 4px rgba(0,0,0,.12)">☕ Ko-fi</a>
 </div>
 </div>
-<footer style="margin-top:18px;padding:16px 14px;text-align:center;border-top:1px solid var(--line);font-size:13px;color:var(--muted);line-height:1.6"><div style="max-width:640px;margin:0 auto">__I18N_footer_support__</div><div style="margin-top:8px;font-size:11px;opacity:.85">__I18N_footer_legal__ · <a href="../paesi/trasparenza.html" style="color:var(--accent);text-decoration:underline">__I18N_footer_transparency__</a> · <a href="../paesi/ringraziamenti.html" style="color:var(--accent);text-decoration:underline">__I18N_footer_thanks__</a> · <a href="../paesi/merch.html" style="color:var(--accent);text-decoration:underline">__I18N_footer_merch__</a></div><div style="margin-top:6px;font-size:10px;color:#4db6ac;opacity:.9">BUILD 30-08-2026 14:30 — pid allineati 1458 — hash preservato</div></footer>
+<footer style="margin-top:18px;padding:16px 14px;text-align:center;border-top:1px solid var(--line);font-size:13px;color:var(--muted);line-height:1.6"><div style="max-width:640px;margin:0 auto">__I18N_footer_support__</div><div style="margin-top:8px;font-size:11px;opacity:.85">__I18N_footer_legal__ · <a href="__TRASP_LINK__" style="color:var(--accent);text-decoration:underline">__I18N_footer_transparency__</a> · <a href="../paesi/ringraziamenti.html" style="color:var(--accent);text-decoration:underline">__I18N_footer_thanks__</a> · <a href="../paesi/merch.html" style="color:var(--accent);text-decoration:underline">__I18N_footer_merch__</a></div></footer>
 </main>
 <script>
 const plinks=[...document.querySelectorAll('.pagelink')];
@@ -1328,16 +1328,40 @@ html = _apply_i18n(html_template, "it")
 # FIX 30/08/2026: placeholder __ISCR__/__ACCE__ dentro i18n JSON non sostituiti da html_template — rimangono come #__ISCR__ rotti in home (riga wiki_free_extra2)
 html = html.replace("__ISCR__", ISCRIVITI_PID).replace("__ACCE__", ACCEDI_PID).replace("__PROFILO__", PROFILO_PID).replace("__CHI__", CHI_PID)
 OUT.write_text(html, encoding="utf-8")
-# === Trasparenza open-book come pagina HTML wiki ===
+# === Trasparenza open-book come pagina HTML wiki (per lingua) ===
 try:
-    tr_md = (ROOT / "trasparenza.md").read_text(encoding="utf-8") if (ROOT / "trasparenza.md").exists() else ""
-    tr_costs = (ROOT / "costs.json").read_text(encoding="utf-8") if (ROOT / "costs.json").exists() else "{}"
-    if tr_md:
+    tr_map = {
+        'it': ('trasparenza.md', 'Trasparenza — Portolano', 'it'),
+        'en': ('en/transparency.md', 'Transparency — Portolano', 'en'),
+        'fr': ('fr/transparence.md', 'Transparence — Portolano', 'fr'),
+        'es': ('es/transparencia.md', 'Transparencia — Portolano', 'es'),
+        'de': ('de/transparenz.md', 'Transparenz — Portolano', 'de'),
+        'pt': ('pt/transparencia.md', 'Transparência — Portolano', 'pt'),
+    }
+    for tlang, (tfile, ttitle, hlang) in tr_map.items():
+        tpath = ROOT / tfile
+        if not tpath.exists():
+            continue
+        tr_md = tpath.read_text(encoding="utf-8")
         tr_body = md.convert(tr_md)
         md.reset()
-        tr_html = f"""<!DOCTYPE html><html lang="it"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Trasparenza — Portolano</title><link rel="stylesheet" href="assets/leaflet.css"><style>:root{{--bg:#0f1720;--panel:#16222e;--ink:#dbe7f1;--muted:#8aa2b5;--accent:#4db6ac;--line:#24384a}}*{{box-sizing:border-box}}body{{margin:0;min-height:100vh;background:var(--bg);color:var(--ink);font:15px/1.6 -apple-system,Segoe UI,Roboto,sans-serif;padding:24px;max-width:780px;margin:auto}}a{{color:var(--accent)}}h1{{color:#fff}}blockquote{{border-left:3px solid var(--accent);margin:12px 0;padding:10px 14px;background:#0b131b;border-radius:8px;color:var(--ink)}}table{{width:100%;border-collapse:collapse;margin:14px 0}}th,td{{border:1px solid var(--line);padding:8px 10px;text-align:left}}th{{background:#16222e;color:#fff}}</style></head><body><p><a href="paesi.html" style="color:var(--accent);text-decoration:none">← Torna al portolano</a> · <a href="../it/index.html" style="color:var(--accent)">IT</a> · <a href="../en/index.html" style="color:var(--accent)">EN</a></p>{tr_body}<p style="margin-top:18px;padding:12px;border:1px solid var(--line);border-radius:8px;background:#0b131b;font-size:13px;color:var(--muted)">Nessuna pubblicità · Nessun tracciamento · Dati mai venduti · GDPR 100%</p></body></html>"""
-        (ROOT / "trasparenza.html").write_text(tr_html, encoding="utf-8")
-        print(f"OK -> trasparenza.html (open-book wiki)")
+        back_map = {
+            'it': ('← Torna al portolano', '../../it/index.html'),
+            'en': ('← Back to pilot', '../../en/index.html'),
+            'fr': ('← Retour au routier', '../../fr/index.html'),
+            'es': ('← Volver al derrotero', '../../es/index.html'),
+            'de': ('← Zurück zum Handbuch', '../../de/index.html'),
+            'pt': ('← Voltar ao roteiro', '../../pt/index.html'),
+        }
+        back_text, back_href = back_map.get(tlang, ('← Torna al portolano', '../../it/index.html'))
+        tr_html = f"""<!DOCTYPE html><html lang="{hlang}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>{ttitle}</title><link rel="stylesheet" href="assets/leaflet.css"><style>:root{{--bg:#0f1720;--panel:#16222e;--ink:#dbe7f1;--muted:#8aa2b5;--accent:#4db6ac;--line:#24384a}}*{{box-sizing:border-box}}body{{margin:0;min-height:100vh;background:var(--bg);color:var(--ink);font:15px/1.6 -apple-system,Segoe UI,Roboto,sans-serif;padding:24px;max-width:780px;margin:auto}}a{{color:var(--accent)}}h1{{color:#fff}}blockquote{{border-left:3px solid var(--accent);margin:12px 0;padding:10px 14px;background:#0b131b;border-radius:8px;color:var(--ink)}}table{{width:100%;border-collapse:collapse;margin:14px 0}}th,td{{border:1px solid var(--line);padding:8px 10px;text-align:left}}th{{background:#16222e;color:#fff}}</style></head><body><p><a href="{back_href}" style="color:var(--accent);text-decoration:none">{back_text}</a></p>{tr_body}<p style="margin-top:18px;padding:12px;border:1px solid var(--line);border-radius:8px;background:#0b131b;font-size:13px;color:var(--muted)">Nessuna pubblicità · Nessun tracciamento · Dati mai venduti · GDPR 100%</p></body></html>"""
+        out_path = ROOT / tfile.replace('.md', '.html')
+        # fallback for it root
+        if tlang == 'it':
+            (ROOT / "trasparenza.html").write_text(tr_html, encoding="utf-8")
+            print(f"OK -> trasparenza.html (open-book wiki) [{tlang}]")
+        out_path.write_text(tr_html, encoding="utf-8")
+        print(f"OK -> {tfile.replace('.md', '.html')} [{tlang}]")
     # Ringraziamenti contributors
     rg_md = (ROOT / "ringraziamenti.md").read_text(encoding="utf-8") if (ROOT / "ringraziamenti.md").exists() else ""
     if rg_md:
@@ -1732,6 +1756,16 @@ for lang in LANGUAGES:
                 base_mob = _apply_i18n(mob_template, lang)
                 cur_albero = ALBERO
     lang_html = base_html.replace('<html lang="it">', f'<html lang="{lang}">')
+    # footer trasparenza link per lingua
+    trasp_map = {
+        'it': '../paesi/trasparenza.html',
+        'en': '../paesi/en/transparency.html',
+        'fr': '../paesi/fr/transparence.html',
+        'es': '../paesi/es/transparencia.html',
+        'de': '../paesi/de/transparenz.html',
+        'pt': '../paesi/pt/transparencia.html'
+    }
+    lang_html = lang_html.replace('__TRASP_LINK__', trasp_map.get(lang, '../paesi/trasparenza.html'))
     # fix selector active server-side
     lang_html = lang_html.replace('data-lang="it" class="active"', 'data-lang="it"')
     # rimuove eventuali active precedenti poi imposta quello corrente

@@ -1,57 +1,56 @@
-# Chi siamo
+# Über uns
 
-**SailTropics** ist ein **unabhängiges, kollaboratives und gemeinnütziges** Handbuch,
+**SailTropics** ist ein **unabhängiges, kollaboratives und gemeinnütziges** nautisches Handbuch,
 von der Community getragen, gemacht **von Seglern für Segler**.
 
-Nasce come quaderno di bordo condiviso: le informazioni che ci piacerebbe trovare
-quando entriamo in una rada nuova, scritte da chi ci è passato davvero.
+Entstanden als gemeinsames Logbuch: die Informationen, die wir gerne beim Einlaufen in eine neue Bucht vorfinden würden, geschrieben von denen, die wirklich dort waren.
 
-## Cosa trovi
+## Was du findest
 
-Ingresso e visti · clearance doganale · costi della vita · porti e ancoraggi ·
-servizi e cantieri · stagionalità e meteo · sicurezza · provvisioning ·
-portolano degli ancoraggi con mappe · artigiani nautici · ristoranti.
+Einreise und Visa · Zoll-Clearance · Lebenshaltungskosten · Häfen und Ankerplätze ·
+Services und Werften · Saisonalität und Wetter · Sicherheit · Proviant ·
+Ankerplatz-Pilot mit Karten · Handwerker und Ausrüster · Restaurants.
 
-Ogni paese segue lo stesso schema, per confrontare mele con mele.
+Jedes Land folgt demselben Schema, um Vergleichbares zu vergleichen.
 
-## Come lavoriamo
+## Wie wir arbeiten
 
-- **Fonti classificate**: ogni informazione porta rank di attendibilità ★★★★★ (fonte
- governativa ufficiale) fino a ★ (voce di banchina), con data di verifica.
-- **Revisione periodica**: controllo mensile programmatico + verifica critica automatica
- sugli aspetti che contano (sicurezza, meteo, visti, tariffe, regolamenti).
-- **Mai dati inventati**: se qualcosa non è verificato, leggi *DATO MANCANTE*.
- È la nostra promessa più importante.
-- **Conflitti dichiarati**: quando le fonti si contraddicono, ti mostriamo entrambe
- le versioni con le fonti, non scegliamo noi al posto tuo.
+- **Klassifizierte Quellen**: Jede Information trägt Zuverlässigkeits-Rang ★★★★★ (offizielle
+ Regierungsquelle) bis ★ (Stegklatsch), mit Prüfdatum.
+- **Periodische Überprüfung**: monatlicher programmierter Check + automatische kritische Prüfung
+ zu den wichtigen Aspekten (Sicherheit, Wetter, Visa, Gebühren, Vorschriften).
+- **Nie erfundene Daten**: Wenn etwas nicht verifiziert ist, liest du *DATEN FEHLEN*.
+ Das ist unser wichtigstes Versprechen.
+- **Offen gelegte Konflikte**: Wenn Quellen sich widersprechen, zeigen wir dir beide
+ Versionen mit Quellen, wir entscheiden nicht an deiner Stelle.
 
-## Non è un sito commerciale
+## Keine kommerzielle Seite
 
-Nessuna prenotazione, nessuna pubblicità, nessun tracciamento, nessun profitto.
-Solo conoscenza condivisa tra chi va in mare.
+Keine Reservierungen, keine Werbung, kein Tracking, kein Profit.
+Nur geteiltes Wissen unter Seeleuten.
 
-## © Licenza libera
+## © Freie Lizenz
 
-Tutti i contenuti **originali** di SailTropics (testi, schemi, tabelle) sono liberamente
-condivisibili: puoi copiarli, riutilizzarli e adattarli **a fini non commerciali**, con
-una semplice attribuzione ("SailTropics"). Le fonti esterne citate (Aggregierte Fahrtensegler-Quellen, Waterway
-Guide, siti governativi e altri) restano proprietà dei rispettivi autori: a noi
-riportiamo **solo il riferimento e il giudizio di affidabilità**, mai il testo altrui.
+Alle **originellen** Inhalte von SailTropics (Texte, Schemata, Tabellen) sind frei
+teilbar: du kannst sie kopieren, wiederverwenden und anpassen **für nicht-kommerzielle Zwecke**, mit
+einer einfachen Zuschreibung ("SailTropics"). Externe zitierte Quellen (Aggregierte Fahrtensegler-Quellen, Waterway
+Guide, Regierungsseiten und andere) bleiben Eigentum der jeweiligen Autoren: wir
+berichten **nur die Referenz und das Zuverlässigkeitsurteil**, niemals den fremden Text.
 
-## ⚠️ Responsabilità
+## ⚠️ Verantwortung
 
-Le informazioni e le coordinate sono **indicative**: possono essere imprecise, superate
-o errate e non sostituiscono la cartografia ufficiale, le guide ufficiali né il controllo
-diretto in loco. Ancoraggi, accessi, regolamenti e condizioni del mare vanno sempre
-verificati dal Comandante prima e durante la navigazione.
-**Ogni decisione e responsabilità è esclusivamente del Comandante.**
-Gli autori non assumono alcuna responsabilità per danni, perdite, sanzioni o incidenti
-derivanti dall'uso di questi contenuti.
+Informationen und Koordinaten sind **indikativ**: sie können ungenau, veraltet
+oder falsch sein und ersetzen nicht die amtliche Seekarte, offizielle Handbücher oder die direkte
+Kontrolle vor Ort. Ankerplätze, Zufahrten, Vorschriften und Seebedingungen müssen immer
+vom Schiffsführer vor und während der Navigation geprüft werden.
+**Jede Entscheidung und Verantwortung liegt ausschließlich beim Schiffsführer.**
+Die Autoren übernehmen keine Haftung für Schäden, Verluste, Sanktionen oder Vorfälle
+aus der Nutzung dieser Inhalte.
 
-## 📴 Senza internet
+## 📴 Ohne Internet
 
-Dal menu laterale puoi scaricare il portolano completo di mappe offline in un file ZIP
-per oceano. Scaricalo prima della partenza, estrailo sul dispositivo e apri `index.html`:
-funziona completamente senza connessione.
+Über das Seitenmenü kannst du den kompletten Pilot mit Offline-Karten als ZIP-Datei
+pro Ozean herunterladen. Lade ihn vor dem Auslaufen herunter, entpacke ihn auf dem Gerät und öffne `index.html`:
+er funktioniert vollständig ohne Verbindung.
 
-Ultimo aggiornamento: 25/08/2026
+Letzte Aktualisierung: 25/08/2026
