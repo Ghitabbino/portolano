@@ -1,64 +1,64 @@
-# Profilo — Il tuo account
+# Perfil — A tua conta
 
 <div id="profilo-box" style="border:1px solid var(--line);border-radius:10px;padding:14px;background:#0b131b;margin:10px 0">
-<div style="font-weight:800;color:var(--accent)">Benvenuto a bordo!</div>
+<div style="font-weight:800;color:var(--accent)">Bem-vindo a bordo!</div>
 <div id="profilo-dati" style="margin:10px 0;line-height:1.6">Caricamento…</div>
 <div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:10px">
-<button onclick="modificaProfilo()" style="padding:7px 12px;border-radius:8px;background:var(--accent);color:#06231f;font-weight:800;border:1px solid var(--accent);cursor:pointer">Modifica dati</button>
-<button onclick="logout()" style="padding:7px 12px;border-radius:8px;background:transparent;color:var(--accent);font-weight:700;border:1px solid var(--line);cursor:pointer">Esci</button>
-<button onclick="disiscrivi()" style="padding:7px 12px;border-radius:8px;background:#3a1a1a;color:#ffb9b9;font-weight:700;border:1px solid #d32f2f;cursor:pointer">Disiscrizione — cancella tutto</button>
+<button onclick="modificaProfil()" style="padding:7px 12px;border-radius:8px;background:var(--accent);color:#06231f;font-weight:800;border:1px solid var(--accent);cursor:pointer">Editar dados</button>
+<button onclick="logout()" style="padding:7px 12px;border-radius:8px;background:transparent;color:var(--accent);font-weight:700;border:1px solid var(--line);cursor:pointer">Sair</button>
+<button onclick="disiscrivi()" style="padding:7px 12px;border-radius:8px;background:#3a1a1a;color:#ffb9b9;font-weight:700;border:1px solid #d32f2f;cursor:pointer">Cancelar — apagar tudo</button>
 </div>
 </div>
 
 <div style="border:1px solid var(--line);border-radius:10px;padding:14px;background:#0b131b;margin:14px 0">
-<div style="font-weight:700">Le tue contribuzioni</div>
+<div style="font-weight:700">As tuas contribuições</div>
 <div style="margin:8px 0">
-- **Badge attuale:** <span id="badge-liv">Novizio ⚓</span><br>
-- **Schede aggiornate:** <span id="badge-count">0</span><br>
-- **Cronologia:** le tue modifiche sono tracciate a tuo nome per moderazione
+- **Distintivo atual:** <span id="badge-liv">Novato ⚓</span><br>
+- **Fichas atualizadas:** <span id="badge-count">0</span><br>
+- **Histórico:** as tuas alterações são rastreadas em teu nome para moderação
 </div>
 </div>
 
 <div id="alert-section" style="border:2px solid var(--accent);border-radius:12px;padding:16px;background:#0b131b;margin:14px 0">
-<div style="font-weight:800;color:var(--accent);font-size:16px;margin-bottom:6px">🔔 Le tue aree alert</div>
-<div style="font-size:12px;color:var(--muted);margin-bottom:10px">Spunta il <b>flag</b> per ricevere alert su tutto il livello. Clicca sul <b>nome</b> per aprire le zone sottostanti.</div>
+<div style="font-weight:800;color:var(--accent);font-size:16px;margin-bottom:6px">🔔 As tuas áreas de alerta</div>
+<div style="font-size:12px;color:var(--muted);margin-bottom:10px">Marca a <b>bandeira</b> para receber alertas de todo o nível. Clica no <b>nome</b> para abrir as zonas inferiores.</div>
 <div id="alert-tree" style="max-height:520px;overflow-y:auto;overflow-x:hidden;border:1px solid var(--line);border-radius:8px;padding:10px;background:#16222e;min-height:80px">Caricamento albero…</div>
-<div style="margin:12px 0 6px;font-weight:700;color:var(--ink)">Canali di ricezione</div>
+<div style="margin:12px 0 6px;font-weight:700;color:var(--ink)">Canais de receção</div>
 <div style="display:flex;gap:12px;flex-wrap:wrap;margin-bottom:12px">
 <label style="display:flex;gap:6px;align-items:center;padding:7px 10px;border:1px solid var(--line);border-radius:8px;background:#16222e;cursor:pointer"><input type="checkbox" id="ch-mail" value="mail" checked> 📧 Mail</label>
 <label style="display:flex;gap:6px;align-items:center;padding:7px 10px;border:1px solid var(--line);border-radius:8px;background:#16222e;cursor:pointer"><input type="checkbox" id="ch-whatsapp" value="whatsapp"> 💬 WhatsApp</label>
 <label style="display:flex;gap:6px;align-items:center;padding:7px 10px;border:1px solid var(--line);border-radius:8px;background:#16222e;cursor:pointer"><input type="checkbox" id="ch-telegram" value="telegram"> ✈️ Telegram</label>
 </div>
-<div style="margin:12px 0 6px;font-weight:700;color:var(--ink)">Frequenza</div>
+<div style="margin:12px 0 6px;font-weight:700;color:var(--ink)">Frequência</div>
 <div style="display:flex;gap:12px;flex-wrap:wrap;margin-bottom:12px">
-<label style="display:flex;gap:6px;align-items:center;padding:7px 10px;border:1px solid var(--line);border-radius:8px;background:#16222e;cursor:pointer"><input type="checkbox" id="ch-istantaneo" value="istantaneo" checked> Istantaneo — solo critici L3 🚨</label>
-<label style="display:flex;gap:6px;align-items:center;padding:7px 10px;border:1px solid var(--line);border-radius:8px;background:#16222e;cursor:pointer"><input type="checkbox" id="ch-settimanale" value="settimanale"> Riepilogo Settimanale</label>
+<label style="display:flex;gap:6px;align-items:center;padding:7px 10px;border:1px solid var(--line);border-radius:8px;background:#16222e;cursor:pointer"><input type="checkbox" id="ch-istantaneo" value="istantaneo" checked> Instantâneo — só críticos L3 🚨</label>
+<label style="display:flex;gap:6px;align-items:center;padding:7px 10px;border:1px solid var(--line);border-radius:8px;background:#16222e;cursor:pointer"><input type="checkbox" id="ch-settimanale" value="settimanale"> Resumo semanal</label>
 </div>
 <div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center">
-<button onclick="salvaAlert()" style="padding:10px 18px;border-radius:8px;background:var(--accent);color:#06231f;font-weight:800;border:1px solid var(--accent);cursor:pointer">💾 Salva selezione</button>
+<button onclick="salvaAlert()" style="padding:10px 18px;border-radius:8px;background:var(--accent);color:#06231f;font-weight:800;border:1px solid var(--accent);cursor:pointer">💾 Guardar seleção</button>
 <span id="alert-count" style="font-size:12px;color:var(--muted)"></span>
 </div>
 <div id="alert-msg" style="display:none;margin-top:10px;padding:10px;border-radius:8px;font-size:13px"></div>
 </div>
 
 <div style="text-align:center;margin:16px 0">
-<a id="btn-contribuisci" href="#contribuisci" onclick="goContribuisci(event)" style="display:inline-block;padding:14px 28px;border-radius:12px;background:linear-gradient(135deg,#4db6ac,#2e7d6f);color:#fff;font-weight:900;text-decoration:none;box-shadow:0 4px 12px rgba(0,0,0,.3)">✏️ Contribuisci al portolano</a>
+<a id="btn-contribuisci" href="#contribuisci" onclick="goContribuir(event)" style="display:inline-block;padding:14px 28px;border-radius:12px;background:linear-gradient(135deg,#4db6ac,#2e7d6f);color:#fff;font-weight:900;text-decoration:none;box-shadow:0 4px 12px rgba(0,0,0,.3)">✏️ Contribuir para o roteiro</a>
 </div>
 
 <script>
-function renderProfilo(){
+function renderProfil(){
   const box=document.getElementById('profilo-dati');
   const logged=localStorage.getItem('sailtropics_logged')==='1';
   const saved=JSON.parse(localStorage.getItem('sailtropics_user')||'null');
-  if(!logged || !saved){box.innerHTML='Non sei loggato. Vai su <a href="#'+(typeof ACCEDI_PID!=='undefined'?ACCEDI_PID:'accedi')+'" style="color:var(--accent)">Accedi</a> o <a href="#'+(typeof ISCRIVITI_PID!=='undefined'?ISCRIVITI_PID:'iscriviti')+'" style="color:var(--accent)">Iscriviti</a>.'; const sec=document.getElementById('alert-section'); if(sec) sec.style.display='none'; const bc=document.getElementById('btn-contribuisci'); if(bc) bc.style.opacity='.5'; return;}
+  if(!logged || !saved){box.innerHTML='Vous n\'êtes pas connecté. Allez à <a href="#'+(typeof ACCEDI_PID!=='undefined'?ACCEDI_PID:'accedi')+'" style="color:var(--accent)">Se connecter</a> ou <a href="#'+(typeof ISCRIVITI_PID!=='undefined'?ISCRIVITI_PID:'iscriviti')+'" style="color:var(--accent)">S\'inscrire</a>.'; const sec=document.getElementById('alert-section'); if(sec) sec.style.display='none'; const bc=document.getElementById('btn-contribuisci'); if(bc) bc.style.opacity='.5'; return;}
   const sec=document.getElementById('alert-section'); if(sec) sec.style.display='block';
   const aree=(saved.sel||saved.aree||[]).join(', ')||'—';
   const paesi=(saved.paesi||[]).join(', ')||'—';
   const chans=(saved.channels||['mail']).join(', ');
-  box.innerHTML=`<b>Nickname:</b> ${saved.nick||'—'}<br><b>Email:</b> ${saved.email}<br><b>Barca:</b> ${saved.barca||'—'}<br><b>Aree sel.:</b> ${aree}<br><b>Paesi:</b> ${paesi}<br><b>Canali:</b> ${chans}<br><b>Frequenza:</b> ${(saved.freq||[]).join(', ')||'—'}`;
+  box.innerHTML=`<b>Nickname:</b> ${saved.nick||'—'}<br><b>Email:</b> ${saved.email}<br><b>Barca:</b> ${saved.barca||'—'}<br><b>Aree sel.:</b> ${aree}<br><b>Paesi:</b> ${paesi}<br><b>Canali:</b> ${chans}<br><b>Frequência:</b> ${(saved.freq||[]).join(', ')||'—'}`;
   const n=parseInt(localStorage.getItem('sailtropics_count')||'0');
   const bc=document.getElementById('badge-count'); if(bc) bc.textContent=n;
-  const bl=document.getElementById('badge-liv'); if(bl) bl.textContent = n>=20?'Master Skipper 🧭★': n>=5?'Navigatore d’Aliseo 🧭':'Novizio ⚓';
+  const bl=document.getElementById('badge-liv'); if(bl) bl.textContent = n>=20?'Master Skipper 🧭★': n>=5?'Navigatore d’Alizé 🧭':'Novato ⚓';
   // init channels
   const chs=new Set(saved.channels||['mail']);
   ['mail','whatsapp','telegram'].forEach(c=>{const el=document.getElementById('ch-'+c); if(el) el.checked=chs.has(c);});
@@ -66,10 +66,10 @@ function renderProfilo(){
   const frs=new Set(saved.freq||['istantaneo']);
   ['istantaneo','settimanale'].forEach(c=>{const el=document.getElementById('ch-'+c); if(el) el.checked=frs.has(c);});
 }
-function modificaProfilo(){location.hash='#'+(typeof ISCRIVITI_PID!=='undefined'?ISCRIVITI_PID:'iscriviti');}
-function logout(){localStorage.removeItem('sailtropics_logged');renderProfilo(); renderAlertTree();}
-function disiscrivi(){if(confirm('Cancello tutti i dati locali?')){localStorage.removeItem('sailtropics_user');localStorage.removeItem('sailtropics_logged');renderProfilo(); renderAlertTree(); alert('Dati cancellati (demo locale). In produzione cancellazione definitiva lato server e GDPR.');}}
-function goContribuisci(e){ if(e) e.preventDefault(); const pid=(typeof CONTRIBUISCI_PID!=='undefined'?CONTRIBUISCI_PID:null); if(pid) location.hash='#'+pid; else location.hash='#contribuisci'; }
+function modificaProfil(){location.hash='#'+(typeof ISCRIVITI_PID!=='undefined'?ISCRIVITI_PID:'iscriviti');}
+function logout(){localStorage.removeItem('sailtropics_logged');renderProfil(); renderAlertTree();}
+function disiscrivi(){if(confirm('Apagar todos os dados locais?')){localStorage.removeItem('sailtropics_user');localStorage.removeItem('sailtropics_logged');renderProfil(); renderAlertTree(); alert('Dados apagados (demo local). Em produção apagamento definitivo no servidor e RGPD.');}}
+function goContribuir(e){ if(e) e.preventDefault(); const pid=(typeof CONTRIBUISCI_PID!=='undefined'?CONTRIBUISCI_PID:null); if(pid) location.hash='#'+pid; else location.hash='#contribuisci'; }
 let expanded=new Set();
 function flagHtml(k){ if(typeof TREE==='undefined') return '🏝️'; const f=TREE.flag[k]||'🏝️'; return f.endsWith('.svg')?'<img src="'+f+'" alt="" style="width:22px;height:16px;object-fit:cover;border-radius:2px;vertical-align:middle">':f; }
 function zonaIcon(k){ if(typeof TREE==='undefined') return '🐬'; return TREE.zona[k]||'🐬'; }
@@ -77,7 +77,7 @@ function hasSubZones(country){ if(typeof TREE==='undefined' || !TREE.zona) retur
 function renderAlertTree(){
   const treeEl=document.getElementById('alert-tree'); if(!treeEl) return;
   const logged=localStorage.getItem('sailtropics_logged')==='1';
-  if(!logged){ treeEl.innerHTML='<div style="color:var(--muted);font-size:13px;padding:8px">Accedi per selezionare le aree.</div>'; return; }
+  if(!logged){ treeEl.innerHTML='<div style="color:var(--muted);font-size:13px;padding:8px">Inicia sessão para selecionar as áreas.</div>'; return; }
   if(typeof TREE==='undefined'){ treeEl.innerHTML='<div style="color:#ffb74d">Caricamento…</div>'; setTimeout(renderAlertTree,300); return; }
   const saved=JSON.parse(localStorage.getItem('sailtropics_user')||'{}');
   const sel=new Set(saved.sel||saved.aree||[]);
@@ -197,7 +197,7 @@ function renderAlertTree(){
 }
 function updateAlertCount(){
   const c=document.querySelectorAll('#alert-tree .alert-check:checked').length;
-  const el=document.getElementById('alert-count'); if(el) el.textContent=c?`${c} selezionate`:'nessuna selezione';
+  const el=document.getElementById('alert-count'); if(el) el.textContent=c?`${c} selecionadas`:'nenhuma seleção';
 }
 function salvaAlert(){
   const sel=[...document.querySelectorAll('#alert-tree .alert-check:checked')].map(c=>c.dataset.key);
@@ -206,25 +206,25 @@ function salvaAlert(){
   const chs=[...document.querySelectorAll('#ch-mail, #ch-whatsapp, #ch-telegram')].filter(c=>c.checked).map(c=>c.value);
   const chans=chs.length?chs:channels.filter(v=>['mail','whatsapp','telegram'].includes(v));
   const freq=[...document.querySelectorAll('#ch-istantaneo, #ch-settimanale')].filter(c=>c.checked).map(c=>c.value);
-  if(chans.length===0){ const m=document.getElementById('alert-msg'); m.style.display='block'; m.style.background='#3a1a1a'; m.style.border='1px solid #d32f2f'; m.style.color='#ffb9b9'; m.textContent='Seleziona almeno un canale (Mail, WhatsApp o Telegram).'; return; }
-  if(freq.length===0){ const m=document.getElementById('alert-msg'); m.style.display='block'; m.style.background='#3a1a1a'; m.style.border='1px solid #d32f2f'; m.style.color='#ffb9b9'; m.textContent='Seleziona almeno una frequenza.'; return; }
+  if(chans.length===0){ const m=document.getElementById('alert-msg'); m.style.display='block'; m.style.background='#3a1a1a'; m.style.border='1px solid #d32f2f'; m.style.color='#ffb9b9'; m.textContent='Seleciona pelo menos um canal (Mail, WhatsApp ou Telegram).'; return; }
+  if(freq.length===0){ const m=document.getElementById('alert-msg'); m.style.display='block'; m.style.background='#3a1a1a'; m.style.border='1px solid #d32f2f'; m.style.color='#ffb9b9'; m.textContent='Seleciona pelo menos uma frequência.'; return; }
   const saved=JSON.parse(localStorage.getItem('sailtropics_user')||'{}');
   saved.sel=sel; saved.aree=sel; saved.channels=chans; saved.freq=freq;
   // compat: paesi/aree legacy
   saved.paesi=sel.filter(k=>!k.includes('/') || Object.keys(TREE.lbl||{}).includes(k));
   localStorage.setItem('sailtropics_user', JSON.stringify(saved));
   const m=document.getElementById('alert-msg'); m.style.display='block'; m.style.background='#0f2e1f'; m.style.border='1px solid var(--accent)'; m.style.color='#b9f5c8';
-  m.innerHTML=`✅ Salvato: ${sel.length} aree, canali: ${chans.join(', ')}, freq: ${freq.join(', ')}`;
-  renderProfilo();
+  m.innerHTML=`✅ Guardado: ${sel.length} áreas, canais: ${chans.join(', ')}, freq: ${freq.join(', ')}`;
+  renderProfil();
   setTimeout(()=>{m.style.display='none'}, 3000);
 }
-renderProfilo();
+renderProfil();
 renderAlertTree();
-window.addEventListener('hashchange', ()=>{ renderProfilo(); renderAlertTree(); });
+window.addEventListener('hashchange', ()=>{ renderProfil(); renderAlertTree(); });
 </script>
 
-> **Privacy — questo è il nostro impegno:** i tuoi dati sono usati solo per gli alert selezionati e non saranno mai ceduti a terzi.
+> **Privacidade — o nosso compromisso:** os teus dados são usados apenas para os alertas selecionados e nunca serão cedidos a terceiros.
 
-[ Torna alle Aree](00-indice.md) · [Offline & GPX](offline-gpx.md)
+[ Voltar a Áreas](00-indice.md) · [Offline & GPX](offline-gpx.md)
 
-Ultimo aggiornamento: 28/08/2026
+Dernière mise à jour: 28/08/2026

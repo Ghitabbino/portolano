@@ -1,40 +1,40 @@
-# Offline & GPX — Download per paese e guida waypoint
+# Offline & GPX — Download je Land & Wegpunkt-Anleitung
 
-**Ultima verifica: 28/08/2026**
+**Letzte Prüfung: 28/08/2026**
 
-## 📥 Download offline per paese — ZIP + GPX
+## 📥 Offline-Download je Land — ZIP + GPX
 
-Ogni paese ha il suo **ZIP locale** con tutti i file del portolano + i waypoint **GPX WGS84** per il tuo plotter. Scaricalo prima di partire e tienilo a bordo: funziona senza internet.
+Jedes Land hat sein eigenes **ZIP** mit allen Handbuch-Dateien + **GPX WGS84**-Wegpunkten für deinen Plotter. Lade es vor dem Auslaufen herunter und behalte es an Bord: es funktioniert ohne Internet.
 
-| Cosa scarichi | Dove lo trovi | Cosa contiene |
+| Was du lädst | Wo du es findest | Inhalt |
 |---|---|---|
-| **ZIP paese** | In ogni pagina `08-ancoraggi` → bottone `⬇️ ZIP paese` + `⬇️ GPX` · oppure `zip/<paese>.zip` e `gpx/<paese>.gpx` | 11 file `00-10` + schede `anc-*`/`rist-*` + `gpx/<paese>.gpx` + `README.txt` |
-| **GPX waypoint** | `gpx/<paese>.gpx` (anche dentro lo ZIP) | Tutti gli ancoraggi verificati del paese, datum **WGS84**, `<sym>Anchor</sym>` |
+| **Land-ZIP** | Auf jeder Seite `08-Ankerplätze` → Button `⬇️ ZIP Land` + `⬇️ GPX` · oder `zip/<land>.zip` und `gpx/<land>.gpx` | 11 Dateien `00-10` + Blätter `anc-*`/`rist-*` + `gpx/<land>.gpx` + `README.txt` |
+| **GPX-Wegpunkte** | `gpx/<land>.gpx` (auch im ZIP) | Alle verifizierten Ankerplätze des Landes, Datum **WGS84**, `<sym>Anchor</sym>` |
 
-> I file ZIP/GPX sono rigenerati a ogni build del portolano. Coordinate sempre **in mezzo al mare** nella rada (mai a terra), verificate su satellitare. Vedi anche `08-ancoraggi` di ogni paese per i bottoni di download diretti.
+> ZIP/GPX-Dateien werden bei jedem Build neu erzeugt. Koordinaten immer **im Wasser** in der Reede (nie an Land), auf Satellit verifiziert. Siehe auch `08-Ankerplätze` jedes Landes für direkte Download-Buttons.
 
-## 🧭 Come inserire i waypoint nel tuo cartografico
+## 🧭 Wie du Wegpunkte auf den Plotter lädst
 
-### OpenCPN (PC / Mac / Raspberry, gratuito)
+### OpenCPN (PC / Mac / Raspberry, kostenlos)
 
-1. Scarica il `gpx/<paese>.gpx` o lo `zip/<paese>.zip` (estrai il `.gpx`).
-2. Apri **OpenCPN → Route & Mark Manager → Import GPX** (o trascina il file sulla mappa).
-3. I waypoint appaiono come **ancore gialle** con nome e descrizione `anc-*`. Puoi creare una rotta: seleziona i waypoint → `Create Route`.
-4. Trasferisci su plotter/tablet se necessario (es. via **OpenCPN → Export** o copia il GPX su SD).
+1. Lade `gpx/<land>.gpx` oder `zip/<land>.zip` (entpacke `.gpx`).
+2. Öffne **OpenCPN → Route & Mark Manager → Import GPX** (oder ziehe die Datei auf die Karte).
+3. Wegpunkte erscheinen als **gelbe Anker** mit Name und Beschreibung `anc-*`. Du kannst eine Route erstellen: Wegpunkte wählen → `Create Route`.
+4. Bei Bedarf auf Plotter/Tablet übertragen (z. B. via **OpenCPN → Export** oder GPX auf SD kopieren).
 
 ### Navionics Boating (iOS / Android)
 
-1. Sul telefono/tablet scarica il `gpx/<paese>.gpx` (o estrai dallo ZIP).
-2. Apri **Navionics → Menu → Rotte & Tracce → Importa GPX / Importa file** → seleziona il GPX.
-3. I waypoint compaiono sulla carta. Navionics importa `name`/`desc`/`sym=Anchor` — ideale per pianificare l'ingresso in rada.
-4. **Tip**: tieni il GPX nella cartella `Navionics` per ri-importarlo offline in navigazione.
+1. Auf Handy/Tablet `gpx/<land>.gpx` laden (oder aus ZIP entpacken).
+2. Öffne **Navionics → Menü → Routen & Tracks → GPX importieren / Datei importieren** → GPX wählen.
+3. Wegpunkte erscheinen auf der Karte. Navionics importiert `name`/`desc`/`sym=Anchor` — ideal zur Ansteuerung der Reede.
+4. **Tipp**: GPX im `Navionics`-Ordner behalten, um offline erneut zu importieren.
 
-### Altri plotter (Garmin, B&G, Raymarine, Expedition)
+### Andere Plotter (Garmin, B&G, Raymarine, Expedition)
 
-- Tutti leggono **GPX 1.1**: importa il file via **scheda SD / USB** o via **Garmin ActiveCaptain / B&G Link**. Se il plotter richiede `rte` invece di `wpt`, usa il GPX così com'è (i waypoint sono già `<wpt>`) o convertilo con **GPSBabel** (`gpsbabel -i gpx -o gpx -f in.gpx -F out.gpx`).
+- Alle lesen **GPX 1.1**: Import via **SD-Karte / USB** oder via **Garmin ActiveCaptain / B&G Link**. Erwartet der Plotter `rte` statt `wpt`, nutze das GPX wie es ist (Wegpunkte sind bereits `<wpt>`) oder konvertiere mit **GPSBabel** (`gpsbabel -i gpx -o gpx -f in.gpx -F out.gpx`).
 
-### ⚠️ Avvertenza
+### ⚠️ Warnung
 
-Le coordinate sono **indicative** (WGS84, rada approssimata, non punto di precisione). Verifica sempre con **carta nautica ufficiale + scandaglio + osservazione** prima di ancorare. Vedi disclaimer in home.
+Koordinaten sind **indikativ** (WGS84, ungefähre Reede, kein Präzisionspunkt). Immer mit **offizieller Karte + Lot + Sichtbeobachtung** vor dem Ankern prüfen. Siehe Disclaimer auf der Startseite.
 
-Ultimo aggiornamento: 28/08/2026
+Letzte Aktualisierung: 28/08/2026

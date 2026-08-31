@@ -42,7 +42,7 @@
 </div>
 
 <div style="text-align:center;margin:16px 0">
-<a id="btn-contribuisci" href="#contribuisci" onclick="goContribuer(event)" style="display:inline-block;padding:14px 28px;border-radius:12px;background:linear-gradient(135deg,#4db6ac,#2e7d6f);color:#fff;font-weight:900;text-decoration:none;box-shadow:0 4px 12px rgba(0,0,0,.3)">✏️ Contribuer al portolano</a>
+<a id="btn-contribuisci" href="#contribuisci" onclick="goContribuer(event)" style="display:inline-block;padding:14px 28px;border-radius:12px;background:linear-gradient(135deg,#4db6ac,#2e7d6f);color:#fff;font-weight:900;text-decoration:none;box-shadow:0 4px 12px rgba(0,0,0,.3)">✏️ Contribuer au routier</a>
 </div>
 
 <script>
@@ -50,7 +50,7 @@ function renderProfil(){
   const box=document.getElementById('profilo-dati');
   const logged=localStorage.getItem('sailtropics_logged')==='1';
   const saved=JSON.parse(localStorage.getItem('sailtropics_user')||'null');
-  if(!logged || !saved){box.innerHTML='Non sei loggato. Vai su <a href="#'+(typeof ACCEDI_PID!=='undefined'?ACCEDI_PID:'accedi')+'" style="color:var(--accent)">Se connecter</a> o <a href="#'+(typeof ISCRIVITI_PID!=='undefined'?ISCRIVITI_PID:'iscriviti')+'" style="color:var(--accent)">S’inscrire</a>.'; const sec=document.getElementById('alert-section'); if(sec) sec.style.display='none'; const bc=document.getElementById('btn-contribuisci'); if(bc) bc.style.opacity='.5'; return;}
+  if(!logged || !saved){box.innerHTML='Vous n\'êtes pas connecté. Allez à <a href="#'+(typeof ACCEDI_PID!=='undefined'?ACCEDI_PID:'accedi')+'" style="color:var(--accent)">Se connecter</a> ou <a href="#'+(typeof ISCRIVITI_PID!=='undefined'?ISCRIVITI_PID:'iscriviti')+'" style="color:var(--accent)">S\'inscrire</a>.'; const sec=document.getElementById('alert-section'); if(sec) sec.style.display='none'; const bc=document.getElementById('btn-contribuisci'); if(bc) bc.style.opacity='.5'; return;}
   const sec=document.getElementById('alert-section'); if(sec) sec.style.display='block';
   const aree=(saved.sel||saved.aree||[]).join(', ')||'—';
   const paesi=(saved.paesi||[]).join(', ')||'—';
@@ -77,7 +77,7 @@ function hasSubZones(country){ if(typeof TREE==='undefined' || !TREE.zona) retur
 function renderAlertTree(){
   const treeEl=document.getElementById('alert-tree'); if(!treeEl) return;
   const logged=localStorage.getItem('sailtropics_logged')==='1';
-  if(!logged){ treeEl.innerHTML='<div style="color:var(--muted);font-size:13px;padding:8px">Se connecter per selezionare le aree.</div>'; return; }
+  if(!logged){ treeEl.innerHTML='<div style="color:var(--muted);font-size:13px;padding:8px">Connectez-vous pour sélectionner les zones.</div>'; return; }
   if(typeof TREE==='undefined'){ treeEl.innerHTML='<div style="color:#ffb74d">Caricamento…</div>'; setTimeout(renderAlertTree,300); return; }
   const saved=JSON.parse(localStorage.getItem('sailtropics_user')||'{}');
   const sel=new Set(saved.sel||saved.aree||[]);

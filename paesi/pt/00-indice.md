@@ -1,42 +1,42 @@
-# 00 — Aree
+# 00 — Áreas
 
-> **📖 Wiki assolutamente libera — nessuna iscrizione richiesta.** Puoi navigare l’intero portolano, consultare tutte le schede, scaricare mappe e file **ZIP/GPX** e usare il sito offline **senza creare alcun account e senza alcun pagamento**.
+> **📖 Wiki totalmente gratuito — sem registo obrigatório.** Navega por todo o roteiro, consulta todas as fichas, descarrega cartas e ficheiros **ZIP/GPX** e usa o site offline **sem criar conta e sem pagar nada**.
 
-Scegli il mare da esplorare: dentro ogni area trovi i gruppi di isole, poi la singola isola con ingresso, clearance, costi, ancoraggi e ristoranti.
+Escolhe o mar a explorar: dentro de cada área encontrarás os grupos de ilhas e depois a ilha individual com entrada, despacho, custos, fundeadouros e restaurantes.
 
-**Metodo**: ogni informazione porta rank di attendibilità + data + fonte (quando disponibile).
+**Método**: cada informação traz ranking de fiabilidade + data + fonte (quando disponível).
 
-**L'intero sistema viene aggiornato con periodicità mensile.**
+**Todo o sistema é atualizado mensalmente.**
 
-### Benvenuto a bordo — due modi per usare la wiki
+### Bem-vindo a bordo — duas formas de usar a wiki
 
-Questa wiki è nata da velisti per velisti, per condividere ciò che vorremmo trovare entrando in una rada nuova. **Puoi usarla liberamente, senza iscriverti, senza limiti e senza pubblicità**: sfoglia le schede, confronta i porti, scarica le mappe e i waypoint, stampa ciò che ti serve. È e resterà così.
+Esta wiki nasceu de velejadores para velejadores, para partilhar o que gostaríamos de encontrar ao entrar numa nova enseada. **Podes usá-la livremente, sem registo, sem limites e sem publicidade**: folheia as fichas, compara portos, descarrega cartas e waypoints, imprime o que precisas. Assim é e assim continuará.
 
-**L’iscrizione serve solo se lo desideri, per due motivi:**
+**Registar-se só serve se desejares, por dois motivos:**
 
-1. **Ricevere gli alert che contano** — solo se li scegli: **criticità di sicurezza** (L3 🚨), **avvisi importanti** (L2 ⚠️) e **aggiornamenti meteo generali** per le aree che segui. Una mail solo quando serve, mai spam. Senza iscrizione non ricevi nulla, ma continui a navigare tutto il portolano.
+1. **Receber os alertas que importam** — só se os escolheres: **críticos de segurança** (L3 🚨), **avisos importantes** (L2 ⚠️) e **atualizações meteorológicas gerais** para as áreas que segues. Um e-mail só quando é preciso, nunca spam. Sem registo não recebes nada, mas continuas a navegar todo o roteiro.
 
-2. **Contribuire al portolano** — se sei stato sul posto e vuoi aggiungere un prezzo verificato, una boa nuova o una dritta utile, con l’account puoi proporre l’aggiornamento a tuo nome (tracciato e moderato).
+2. **Contribuir para o roteiro** — se estiveste no local e quiseres acrescentar um preço verificado, uma boia nova ou uma dica útil, com conta podes propor a atualização em teu nome (rastreada e moderada).
 
-In breve: **senza iscrizione leggi tutto; con l’iscrizione, se vuoi, resti aggiornato e aiuti gli altri.** La scelta è tua, in un click. Vedi **[Iscriviti](iscriviti.md)** o **[Accedi](accedi.md)** — oppure resta qui e inizia a esplorare.
+Em resumo: **sem registo lês tudo; com registo, se quiseres, manténs-te atualizado e ajudas os outros.** Tu escolhes, num clique. Ver **[Registar](iscriviti.md)** ou **[Entrar](accedi.md)** — ou fica aqui e começa a explorar.
 
-> 📥 **Download offline per paese**: ogni paese è scaricabile in **ZIP** (11 schede + waypoint **GPX WGS84** per OpenCPN/Navionics) — trovi il tasto **⬇️ ZIP** accanto al nome del paese nella barra laterale sinistra e dentro ogni pagina `08-ancoraggi`. Guida completa in **Offline & GPX**.
+> 📥 **Download offline por país**: cada país descarrega-se em **ZIP** (11 fichas + waypoints **GPX WGS84** para OpenCPN/Navionics) — encontras o botão **⬇️ ZIP** ao lado do nome do país na barra lateral esquerda e dentro de cada página `08-fundeadouros`. Guia completo em **Offline & GPX**.
 
-> 🔐 **Iscriviti o entra senza iscriverti — scegli tu**: il portolano è **sempre consultabile gratis senza account**. Se vuoi, puoi **[Iscriviti per ricevere gli allert di sicurezza](iscriviti.md)** (L3/L2 per le tue aree, 1 mail solo quando serve) o **[Accedi](accedi.md)** per contribuire. Senza iscrizione va benissimo lo stesso.
+> 🔐 **Regista-te ou navega sem te registares — tu escolhes**: o roteiro é **sempre consultável grátis sem conta**. Se quiseres, podes **[registar-te para receber alertas de segurança](iscriviti.md)** (L3/L2 para as tuas áreas, um e-mail só quando é preciso) ou **[entrar](accedi.md)** para contribuir. Sem registo também está ótimo.
 
-Ultimo aggiornamento: 28/08/2026
+Última atualização: 28/08/2026
 
-## Status
+## Estado
 
-**DATO MANCANTE** — da completare al controllo mensile.
-
-
-## Cittadini UE
-
-**DATO MANCANTE** — da completare al controllo mensile.
+**DADO EM FALTA** — a completar no controlo mensal.
 
 
-## La barca
+## Cidadãos UE
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DADO EM FALTA** — a completar no controlo mensal.
+
+
+## A embarcação
+
+**DADO EM FALTA** — a completar no controlo mensal.
 
