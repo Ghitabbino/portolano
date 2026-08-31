@@ -2,58 +2,58 @@
 
 **Last checked: 24/08/2026**
 
-> ### ⚠️ DISCLAIMER — Embargo USA and crisi approvvigionamenti 2026
-> Cuba è sottoposta a embargo statunitense rafforzato (blocco petrolifero dal 03/01/2026) with impatto diretto on **diesel, benzina, alimentari ed elettricità**. Al 05-08/2026 le fonti ufficiali and stampa internazionale riportano **zero riserve of gasolio/olio combustibile, blackout 20–22 h/die a L'Avana and oltre nell'interno, razionamento carburante max 20 l in USD via app Ticket with attese of mesi, jet fuel sospeso, mercato nero 8–15 USD/l (Reuters 14/05/2026 ★★★★★; AP 16/02/2026 ★★★★; France24 24/02/2026 ★★★)**. La rete elettrica (16 centrali termiche 40+ anni) copre only ~20% of the fabbisogno without import (El País 22/05/2026 ★★★). Groceries razionati, scaffali vuoti fuori resort, inflazione 15–16% (ONEI 05/2026 ★★★★★). **Per un equipaggio in barca significa: portare autonomia gasolio >500 miglia + taniche, watermaker obbligatorio, scorta cibo secco/conserve for 7–10 gg, contanti EUR in banconote perfette (carte USA non funzionano, POS spesso guasto), medicinali at the completo.** La situazione è volatile and peggiora with each nuova stretta — check D'Viajeros/eVisa and contattare la marina d'ingresso on VHF 16/77 prima of partire.
-> *Fonti: Reuters, AP, France24, GlobalPetrolPrices, ONEI, Viaggiare Sicuri, EDA Svizzera — aggiornate at the 08/2026. Testi rielaborati, dati numerici originali.*
+> ### ⚠️ DISCLAIMER — US Embargo & Supply Crisis 2026
+> Cuba is under a reinforced US embargo (oil blockade since 03/01/2026) directly impacting **diesel, petrol, food and electricity**. As of 05-08/2026 official sources and international press report **zero diesel/fuel oil reserves, blackouts 20–22 h/day in Havana and longer inland, fuel rationing max 20 l in USD via Ticket app with months-long waits, jet fuel suspended, black market 8–15 USD/l (Reuters 14/05/2026 ★★★★★; AP 16/02/2026 ★★★★; France24 24/02/2026 ★★★)**. The power grid (16 thermal plants 40+ years old) covers only ~20% of demand without imports (El País 22/05/2026 ★★★). Food rationed, empty shelves outside resorts, inflation 15–16% (ONEI 05/2026 ★★★★★). **For a crew on a boat this means: carry diesel autonomy >500 miles + jerry cans, watermaker mandatory, 7–10 days dry food/tinned stock, cash EUR in perfect banknotes (US cards do not work, POS often down), full medical kit.** Situation is volatile and worsens with each new squeeze — check D'Viajeros/eVisa and contact entry marina on VHF 16/77 before departure.
+> *Sources: Reuters, AP, France24, GlobalPetrolPrices, ONEI, Viaggiare Sicuri, EDA Switzerland — updated to 08/2026. Texts rephrased, numeric data original.*
 
 ## Status
 
-Cuba è una repubblica socialista insulare; non fa parte dell'UE né of Schengen né dell'area Caraibi UE. L'ingresso for turismo richiede passaporto and autorizzazione elettronica preventiva. L'economia è in crisi strutturale 2025-26.
+Cuba is a socialist island republic; it is not part of the EU nor Schengen nor the EU Caribbean area. Entry for tourism requires a passport and prior electronic authorisation. The economy is in structural crisis 2025-26.
 
-## Cittadini UE/italiani — visto obbligatorio
+## EU Citizens — visa mandatory
 
 | Item | Rule | Source |
 |---|---|---|
-| Visa | **eVisa obbligatorio** prima of the partenza, **90 giorni** prorogabili of **90 giorni** (max 180) presso ufficio immigrazione (Dirección de Inmigración y Extranjería) | evisacuba.cu ★★★★★; Viaggiare Sicuri - Cuba ★★★★★; Esteri San Marino 02/04/2025 ★★★★★ |
-| Dal 01/07/2025 | Carta turistica cartacea verde/rosa **abolita**: only eVisa elettronico single-entry, validità 12 mesi for entrare, fee **~50 USD** pagata at the consolato prima of the domanda online (processing ~3 gg, 10 caratteri codice) | evisacuba.cu ★★★★★ |
-| D'Viajeros | Formulario digitale **obbligatorio** on `https://dviajeros.mitrans.gob.cu` entro **7 giorni** dall'arrivo; genera QR from mostrare at the check-in and all'immigrazione | Aduana General de Cuba ★★★★★ |
-| Documents | **Passaporto with 6 mesi residui** (richiesto dalle compagnie), biglietto A/R or prova uscita, prova fondi **~50 USD/giorno p.p.**, prova alloggio prima notte, **polizza sanitaria** valida a Cuba (se non dimostrabile si acquista Asistur all'arrivo +53 7 86 44 99) | Viaggiare Sicuri ★★★★★; EDA Svizzera ★★★★★ |
-| ESTA USA — ATTENZIONE | Chi ha visitato Cuba **dal 12/01/2021** (also only transito) **perde l'ESTA** for gli USA and deve richiedere **visto B1/B2** in ambasciata USA (designazione State Sponsor of Terrorism). Vale also for doppia cittadinanza. Una volta perso l'ESTA, resta ineligibile also dopo uscita dalla lista. | Viaggiare Sicuri ★★★★★; U.S. CBP ★★★★★; EDA Svizzera ★★★★★ |
-| Minori | Stesse regole adulti, eVisa individuale | evisacuba.cu ★★★★★ |
+| Visa | **eVisa mandatory** before departure, **90 days** extendable by **90 days** (max 180) at immigration office (Dirección de Inmigración y Extranjería) | evisacuba.cu ★★★★★; Viaggiare Sicuri - Cuba ★★★★★; Esteri San Marino 02/04/2025 ★★★★★ |
+| From 01/07/2025 | Paper green/pink tourist card **abolished**: only single-entry electronic eVisa, validity 12 months to enter, fee **~50 USD** paid to consulate before online application (processing ~3 d, 10-char code) | evisacuba.cu ★★★★★ |
+| D'Viajeros | Digital form **mandatory** on `https://dviajeros.mitrans.gob.cu` within **7 days** before arrival; generates QR to show at check-in and immigration | Aduana General de Cuba ★★★★★ |
+| Documents | **Passport with 6 months validity** (required by airlines), return ticket or proof of onward passage, proof of funds **~50 USD/day p.p.**, proof of first night accommodation, **health insurance** valid in Cuba (if not demonstrable buy Asistur on arrival +53 7 86 44 99) | Viaggiare Sicuri ★★★★★; EDA Switzerland ★★★★★ |
+| ESTA USA — ATTENTION | Anyone who has visited Cuba **since 12/01/2021** (even transit) **loses ESTA** for the USA and must apply for **B1/B2 visa** at US embassy (State Sponsor of Terrorism designation). Also for dual citizenship. Once ESTA lost, remains ineligible even after delisting. | Viaggiare Sicuri ★★★★★; U.S. CBP ★★★★★; EDA Switzerland ★★★★★ |
+| Minors | Same rules as adults, individual eVisa | evisacuba.cu ★★★★★ |
 
-## Important Note for Arrival by Sea
+## Important note for those arriving by sea
 
-- L'eVisa si ottiene also via mare: all'arrivo in porto d'ingresso viene rilasciato visto turistico 90 gg for l'equipaggio (se non già ottenuto online). Meglio ottenerlo prima online for evitare attese.
-- Il QR D'Viajeros è richiesto **also for arrivi marittimi**; associare il codice eVisa (10 caratteri) at the formulario prima dell'arrivo.
-- Tenere a bordo passaporti originali, **3 copie crew list**, registro nave, bandiera, clearance dell'last porto, assicurazione, lista medicine/alcol/elettronica.
-- Chiamata VHF 16/72 a 5-12 miglia, bandiera Q issata fino a via libera.
+- eVisa can also be obtained by sea: on arrival at port of entry a 90-day tourist visa is issued to crew (if not already obtained online). Better to obtain online beforehand to avoid waits.
+- D'Viajeros QR is required **also for maritime arrivals**; link the eVisa code (10 chars) to the form before arrival.
+- Keep aboard original passports, **3 copies crew list**, ship registry, flag, clearance from last port, insurance, list of medicines/alcohol/electronics.
+- Call VHF 16/72 at 5-12 miles, Q flag hoisted until clearance.
 
-## Beyond 3 Months? (Italian/EU Citizens)
+## And after 3 months? (Italian/EU citizens)
 
 | Situation | Rule | Source |
 |---|---|---|
-| Proroga 90 gg | Richiesta all'ufficio immigrazione cubano **prima of the scadenza** (es. Calle 17 and K, Vedado L'Avana or capoluoghi), estensione of 90 gg, fee ~25-30 USD | evisacuba.cu ★★★★★ |
-| Oltre 180 gg | Non consentito with visto turistico; serve cambio status (residenza, visto familiare) or uscita and nuova richiesta eVisa (single-entry = nuova domanda) | Viaggiare Sicuri ★★★★★ |
-| Lavoro | **Vietato** with visto turistico; espulsione and multa in caso of violazione | ★★★ |
-| Overstay | Multa giornaliera + difficoltà all'uscita, possibile divieto reingresso | Aduana ★★★ |
+| 90-day extension | Request at Cuban immigration office **before expiry** (e.g. Calle 17 y K, Vedado Havana or provincial capitals), 90-day extension, fee ~25-30 USD | evisacuba.cu ★★★★★ |
+| Beyond 180 days | Not allowed on tourist visa; requires status change (residency, family visa) or exit and new eVisa request (single-entry = new application) | Viaggiare Sicuri ★★★★★ |
+| Work | **Forbidden** on tourist visa; expulsion and fine if violated | ★★★ |
+| Overstay | Daily fine + difficulties on exit, possible re-entry ban | Aduana ★★★ |
 
-## The Yacht: Temporary Importation
+## The boat: temporary import
 
-| Yacht | Rule | Source |
+| Boat | Rule | Source |
 |---|---|---|
-| Tutte le bandiere (UE/extra-UE) | **Cruising permit / despacho** rilasciato all'ingresso (fee inclusa nei costi clearance ~57 USD); valido for navigazione costiera with obbligo of **despacho interno** ad each spostamento between porti (firma Guarda Frontera) | Cruising sources aggregate ★★★★; Yacht Pilot ★★★ |
-| Duration scafo | **Non esiste limite pubblicato for lo scafo** oltre la validità of the visto equipaggio (90+90); for soste lunghe (>6 mesi) check with Aduana/Guarda Frontera at the porto d'ingresso; no tassa of importazione temporanea pubblicata as in UE | **DATA MISSING** for tetto ufficiale — from check in loco |
-| Obblighi | Despacho always a bordo, bandiera Q fino a clearance, divieto tender a terra fuori marina sull'isola principale, divieto ancoraggio 0-5 miglia nord | Marlin ★★★★ |
-| Svernamento | Nessun marina offre contratto svernamento ciclonico garantito; Hemingway ha qualche posto annuale ma without riparo certificato | Marlin ★★ |
+| All flags (EU/non-EU) | **Cruising permit / despacho** issued on entry (fee included in clearance costs ~57 USD); valid for coastal navigation with obligation of **internal despacho** at each move between ports (Guarda Frontera signature) | Aggregated cruising sources ★★★★; Yacht Pilot ★★★ |
+| Hull duration | **No published limit for hull** beyond crew visa validity (90+90); for long stays (>6 months) check with Aduana/Guarda Frontera at port of entry; no temporary import tax published as in EU | **DATA MISSING** for official cap — verify on site |
+| Obligations | Despacho always aboard, Q flag until clearance, tender ashore prohibited outside marina on main island, anchoring ban 0-5 miles north | Marlin ★★★★ |
+| Wintering | No marina offers guaranteed cyclonic winter storage contract; Hemingway has some annual berths but without certified shelter | Marlin ★★ |
 
-## Vaccines & Health
+## Vaccines & health
 
 | Item | Rule | Source |
 |---|---|---|
-| Da Italia/UE | **No mandatory vaccinations** | Viaggiare Sicuri ★★★★★; TravelHealthPro ★★★★★ |
-| Febbre gialla | **Obbligatoria** only se si arriva/transita >12h from paese a rischio, with certificato valido a vita dal 2016 | TravelHealthPro ★★★★★ |
-| Raccomandati | Epatite A/B, tifo fuori resort, tetano, morbillo-parotite-rosolia; focolaio **Chikungunya segnalato dal 26/09/2025** and dengue endemica (zanzare) | CDC ★★★; Viaggiare Sicuri ★★★★★ |
-| Assicurazione | **Obbligatoria**: polizza sanitaria with copertura Cuba; in mancanza si acquista **Asistur** all'arrivo +53 7 86 44 99 | EDA Svizzera ★★★★★ |
-| Nota | **Carenza of medicinali sull'isola**: portare scorta of farmaci essenziali, kit pronto soccorso, antibiotici, antimalarici se richiesti dal medico | EDA Svizzera ★★★★★; US Embassy 12/08/2026 ★★★★★ |
+| From Italy/EU | **No mandatory vaccine** | Viaggiare Sicuri ★★★★★; TravelHealthPro ★★★★★ |
+| Yellow fever | **Mandatory** only if arriving/transiting >12h from at-risk country, with lifetime certificate valid since 2016 | TravelHealthPro ★★★★★ |
+| Recommended | Hepatitis A/B, typhoid outside resort, tetanus, MMR; **chikungunya outbreak reported since 26/09/2025** and endemic dengue (mosquitoes) | CDC ★★★; Viaggiare Sicuri ★★★★★ |
+| Insurance | **Mandatory**: health policy covering Cuba; if lacking buy **Asistur** on arrival +53 7 86 44 99 | EDA Switzerland ★★★★★ |
+| Note | **Shortage of medicines on island**: carry stock of essential drugs, first-aid kit, antibiotics, antimalarials if doctor prescribes | EDA Switzerland ★★★★★; US Embassy 12/08/2026 ★★★★★ |
 
 Last updated: 24/08/2026
