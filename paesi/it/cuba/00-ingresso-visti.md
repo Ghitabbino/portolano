@@ -10,7 +10,7 @@
 
 Cuba è una repubblica socialista insulare; non fa parte dell'UE né di Schengen né dell'area Caraibi UE. L'ingresso per turismo richiede passaporto e autorizzazione elettronica preventiva. L'economia è in crisi strutturale 2025-26.
 
-## Cittadini UE/italiani — visto obbligatorio
+## Cittadini UE — visto obbligatorio
 
 | Voce | Regola | Fonte |
 |---|---|---|
@@ -21,14 +21,28 @@ Cuba è una repubblica socialista insulare; non fa parte dell'UE né di Schengen
 | ESTA USA — ATTENZIONE | Chi ha visitato Cuba **dal 12/01/2021** (anche solo transito) **perde l'ESTA** per gli USA e deve richiedere **visto B1/B2** in ambasciata USA (designazione State Sponsor of Terrorism). Vale anche per doppia cittadinanza. Una volta perso l'ESTA, resta ineligibile anche dopo uscita dalla lista. | Viaggiare Sicuri ★★★★★; U.S. CBP ★★★★★; EDA Svizzera ★★★★★ |
 | Minori | Stesse regole adulti, eVisa individuale | evisacuba.cu ★★★★★ |
 
+## Cittadini USA — visto e autorizzazione OFAC obbligatori
+
+| Voce | Regola | Fonte |
+|---|---|---|
+| Base legale USA | Viaggio consentito solo in **1 delle 12 categorie OFAC** (General License 31 CFR 515.560-578); turismo puro **vietato** per persone soggette a giurisdizione USA. Categoria più usata: **Support for the Cuban People** §515.574 (attività a tempo pieno a supporto del popolo cubano). Senza categoria serve licenza specifica OFAC; violazioni = sanzioni penali | OFAC 31 CFR 515.560 ★★★★★; travel.state.gov — Cuba International Travel Information ★★★★★ |
+| Visto cubano | **Tourist Card rosa USA ~100 USD** acquistata al gate USA o via consolato cubano / provider autorizzato, **30 giorni** single-entry prorogabili di **30 giorni** in loco presso immigrazione; dal 2025 progressiva transizione a **eVisa elettronico** (verificare con compagnia aerea se Tourist Card cartacea o eVisa) | evisacuba.cu ★★★★★; Cuban Insights 07/2026 ★★★★; cubatravelservices.com 2026 ★★★ |
+| D'Viajeros | Formulario digitale **obbligatorio** su `https://dviajeros.mitrans.gob.cu` entro **7 giorni** (QR generato entro 72h) dall'arrivo; genera QR da mostrare al check-in e all'immigrazione | Aduana General de Cuba ★★★★★ |
+| Documenti | **Passaporto USA con 6 mesi residui**, biglietto A/R, prova fondi, prova alloggio prima notte, **polizza sanitaria** valida a Cuba (Asistur se manca +53 7 86 44 99), **prova categoria OFAC** + programma giornaliero dettagliato | travel.state.gov Cuba ★★★★★ |
+| Divieti | **Cuba Restricted List** (31 CFR 515.209): divieto transazioni con entità GAESA (hotel/marine Gaviota, Meliá sotto Gaviota, Hola Sun, etc.) | OFAC ★★★★★ |
+| Recordkeeping | Conservare per **5 anni** prove attività (ricevute, programma, contatti privati cubani) per eventuale audit OFAC | 31 CFR 515.601 ★★★★★ |
+| Minori | Stesse regole adulti, Tourist Card/eVisa individuale + categoria OFAC del nucleo familiare | OFAC ★★★★★ |
+
+> ℹ️ **Altre cittadinanze:** le condizioni variano per nazionalità. Verifica sempre presso l’ambasciata o il consolato del Paese di destinazione (o il Ministero degli Esteri del tuo Paese) prima della partenza, con passaporto e itinerario alla mano. Un controllo di 5 minuti evita un respingimento in banchina.
+
 ## Nota importante per chi arriva via mare
 
-- L'eVisa si ottiene anche via mare: all'arrivo in porto d'ingresso viene rilasciato visto turistico 90 gg per l'equipaggio (se non già ottenuto online). Meglio ottenerlo prima online per evitare attese.
-- Il QR D'Viajeros è richiesto **anche per arrivi marittimi**; associare il codice eVisa (10 caratteri) al formulario prima dell'arrivo.
+- L'eVisa / Tourist Card si ottiene anche via mare: all'arrivo in porto d'ingresso viene rilasciato visto turistico per l'equipaggio (se non già ottenuto online). Meglio ottenerlo prima online per evitare attese.
+- Il QR D'Viajeros è richiesto **anche per arrivi marittimi**; associare il codice eVisa / Tourist Card al formulario prima dell'arrivo.
 - Tenere a bordo passaporti originali, **3 copie crew list**, registro nave, bandiera, clearance dell'ultimo porto, assicurazione, lista medicine/alcol/elettronica.
 - Chiamata VHF 16/72 a 5-12 miglia, bandiera Q issata fino a via libera.
 
-## E dopo i 3 mesi? (cittadini italiani/UE)
+## E dopo i 3 mesi? (cittadini UE)
 
 | Situazione | Regola | Fonte |
 |---|---|---|

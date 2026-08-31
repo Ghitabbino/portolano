@@ -21,6 +21,20 @@ Cuba est une république socialiste insulaire; elle ne fait pas partie de l'UE n
 | ESTA USA — ATTENTION | Quiconque a visité Cuba **depuis le 12/01/2021** (même transit) **perd l'ESTA** pour les USA et doit demander **visa B1/B2** en ambassade US (désignation State Sponsor of Terrorism). Vaut aussi pour double nationalité. Une fois l'ESTA perdu, reste inéligible même après sortie de liste. | Viaggiare Sicuri ★★★★★; U.S. CBP ★★★★★; EDA Suisse ★★★★★ |
 | Mineurs | Mêmes règles qu'adultes, eVisa individuel | evisacuba.cu ★★★★★ |
 
+## Citoyens USA — visa et autorisation OFAC obligatoires
+
+| Voix | Règle | Source |
+|---|---|---|
+| Base légale USA | Voyage autorisé uniquement dans **1 des 12 catégories OFAC** (General License 31 CFR 515.560-578); tourisme pur **interdit** pour personnes soumises à juridiction US. La plus utilisée: **Support for the Cuban People** §515.574 (activité à temps plein en soutien au peuple cubain). Sans catégorie, licence spécifique OFAC requise; violations = sanctions pénales | OFAC 31 CFR 515.560 ★★★★★; travel.state.gov — Cuba International Travel Information ★★★★★ |
+| Visa cubain | **Tourist Card rose USA ~100 USD** achetée au gate US ou via consulat cubain / prestataire agréé, **30 jours** entrée unique prorogeable de **30 jours** sur place à l'immigration; dès 2025 transition progressive vers **eVisa électronique** (vérifier avec compagnie aérienne si Tourist Card papier ou eVisa) | evisacuba.cu ★★★★★; Cuban Insights 07/2026 ★★★★; cubatravelservices.com 2026 ★★★ |
+| D'Viajeros | Formulaire numérique **obligatoire** sur `https://dviajeros.mitrans.gob.cu` dans les **7 jours** (QR généré dans 72h) avant l'arrivée; QR séparé de la Tourist Card | Aduana General de Cuba ★★★★★ |
+| Documents | **Passeport US avec 6 mois de validité**, billet A/R, preuve de fonds, preuve d'hébergement première nuit, **assurance santé** valable à Cuba (Asistur si manquante +53 7 86 44 99), **preuve catégorie OFAC** + programme journalier détaillé | travel.state.gov Cuba ★★★★★ |
+| Interdictions | **Cuba Restricted List** (31 CFR 515.209): pas de transactions avec entités GAESA (hôtels/marinas Gaviota, Meliá sous Gaviota, Hola Sun, etc.) | OFAC ★★★★★ |
+| Conservation | Conserver pendant **5 ans** preuves d'activité (reçus, programme, contacts privés cubains) pour audit OFAC éventuel | 31 CFR 515.601 ★★★★★ |
+| Mineurs | Mêmes règles qu'adultes, Tourist Card/eVisa individuel + catégorie OFAC familiale | OFAC ★★★★★ |
+
+> ℹ️ **Autres nationalités:** les conditions varient selon la nationalité. Vérifiez toujours auprès de l'ambassade ou du consulat du pays de destination (ou du ministère des Affaires étrangères de votre pays) avant le départ, passeport et itinéraire en main. Un contrôle de 5 minutes évite un refoulement à quai.
+
 ## Note importante pour arrivée par mer
 
 - L'eVisa s'obtient aussi par mer: à l'arrivée au port d'entrée un visa touristique 90 j est délivré à l'équipage (si pas déjà obtenu en ligne). Mieux vaut l'obtenir avant en ligne pour éviter l'attente.

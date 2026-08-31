@@ -21,6 +21,20 @@ Cuba is a socialist island republic; it is not part of the EU nor Schengen nor t
 | ESTA USA — ATTENTION | Anyone who has visited Cuba **since 12/01/2021** (even transit) **loses ESTA** for the USA and must apply for **B1/B2 visa** at US embassy (State Sponsor of Terrorism designation). Also for dual citizenship. Once ESTA lost, remains ineligible even after delisting. | Viaggiare Sicuri ★★★★★; U.S. CBP ★★★★★; EDA Switzerland ★★★★★ |
 | Minors | Same rules as adults, individual eVisa | evisacuba.cu ★★★★★ |
 
+## US Citizens — visa and OFAC authorization mandatory
+
+| Item | Rule | Source |
+|---|---|---|
+| US legal basis | Travel allowed only under **1 of 12 OFAC categories** (General License 31 CFR 515.560-578); pure tourism **prohibited** for persons subject to US jurisdiction. Most used: **Support for the Cuban People** §515.574 (full-time activity in support of Cuban people). Without category a specific OFAC license is required; violations = criminal penalties | OFAC 31 CFR 515.560 ★★★★★; travel.state.gov — Cuba International Travel Information ★★★★★ |
+| Cuban visa | **Pink Tourist Card ~USD 100** bought at US gate or via Cuban consulate / authorized provider, **30 days** single-entry extendable by **30 days** on site at immigration; from 2025 gradual transition to **electronic eVisa** (check with airline whether paper Tourist Card or eVisa) | evisacuba.cu ★★★★★; Cuban Insights 07/2026 ★★★★; cubatravelservices.com 2026 ★★★ |
+| D'Viajeros | Digital form **mandatory** on `https://dviajeros.mitrans.gob.cu` within **7 days** (QR generated within 72h) before arrival; QR separate from Tourist Card | Aduana General de Cuba ★★★★★ |
+| Documents | **US passport with 6 months validity**, return ticket, proof of funds, proof of first-night accommodation, **health insurance** valid in Cuba (Asistur if missing +53 7 86 44 99), **proof of OFAC category** + detailed daily program | travel.state.gov Cuba ★★★★★ |
+| Restrictions | **Cuba Restricted List** (31 CFR 515.209): no transactions with GAESA entities (Gaviota hotels/marinas, Meliá under Gaviota, Hola Sun, etc.) | OFAC ★★★★★ |
+| Recordkeeping | Keep **5-year** proof of activity (receipts, program, private Cuban contacts) for possible OFAC audit | 31 CFR 515.601 ★★★★★ |
+| Minors | Same as adults, individual Tourist Card/eVisa + family OFAC category | OFAC ★★★★★ |
+
+> ℹ️ **Other nationalities:** conditions vary by nationality. Always check with the embassy or consulate of the destination country (or your Foreign Ministry) before departure, with passport and itinerary in hand. A 5-minute check avoids being turned away at the dock.
+
 ## Important note for those arriving by sea
 
 - eVisa can also be obtained by sea: on arrival at port of entry a 90-day tourist visa is issued to crew (if not already obtained online). Better to obtain online beforehand to avoid waits.
@@ -28,7 +42,7 @@ Cuba is a socialist island republic; it is not part of the EU nor Schengen nor t
 - Keep aboard original passports, **3 copies crew list**, ship registry, flag, clearance from last port, insurance, list of medicines/alcohol/electronics.
 - Call VHF 16/72 at 5-12 miles, Q flag hoisted until clearance.
 
-## And after 3 months? (Italian/EU citizens)
+## And after 3 months? (EU citizens)
 
 | Situation | Rule | Source |
 |---|---|---|
