@@ -1,86 +1,86 @@
-# 03 — Porti e marine
+# 03 — Häfen & Marinas
 
-**Ultima verifica: 27/08/2026** · Coordinate WGS84 in gradi decimali e N/W come da fonte · VHF 16 per Port Control
+**Letzte Überprüfung: 27/08/2026** · Koordinaten WGS84 in Dezimalgrad und N/W wie Quelle · UKW 16 für Port Control
 
-## Costa sottovento ovest — Oranjestad, laguna e spiagge
+## Lee-Westküste — Oranjestad, Lagune und Strände
 
-È la costa riparata dagli alisei, dove si concentra quasi tutta l'infrastruttura nautica. Acque basse con barriera, fondali sabbiosi; attenzione a reef e aree marine con divieto di ancoraggio sulla costa sopravvento.
+Lee-Seite geschützt vor Passat, hier konzentriert sich fast gesamte Yacht-Infrastruktur. Flaches Wasser mit Barriere-Riff, sandige Gründe; Achtung Riff und Sperrzonen mit Ankerverbot an Luvküste.
 
-### Renaissance Marina / Oranjestad ⚓ porto principale
-- **12°31'05" N 70°02'20" W (12.518°N 70.039°W)** · VHF 16/14 (Port Control) ★★★ [Navily Renaissance Marina 12°31.08' N 70°02.33' W](https://www.navily.com/port/renaissance-marina/8254) ★★★
-- Nel cuore di Oranjestad, adiacente al Renaissance Marketplace e alla banchina crociere. Circa **100 posti** per scafi fino a **60 m** e pescaggio **4,5 m**, protetta e vigilata; acqua, elettricità, carburante e servizi resort (piscina, isola privata con navetta). È l'unica marina “urbana” dell'isola: prenotazione obbligatoria in alta stagione. ★★ [SailJournal](https://sailjournal.com/marinas/renaissance-marina-aruba?locale=en); [MailASail Dora Mac 2025](http://blog.mailasail.com/doramac/posts/2025/5/26/1668-renaissance-marina); [Wind Creek Marina +297-588-0260](https://www.windcreekmarina.com/) ★★★
-- Attigua alla **Wind Creek Marina** (Renaissance Marketplace, LG Smith Blvd 9 · +297-588-0260): 40 posti con acqua dolce, elettricità, telefono e sorveglianza 24h; pontile per passeggiata. ★★★ [windcreekmarina.com](https://www.windcreekmarina.com/) ★★★
-- Clearance: **non in marina**. La dogana per yacht è a **Barcadera** (vedi [01](01-clearance.md)) — chiamare Port Control VHF 16 a 30' dall'arrivo, bandiera Q, attesa istruzioni. ★★★★★ [Aruba Ports Authority](https://www.arubaports.com)
-- Protezione: ottimo ridosso dagli alisei di NE; risacca con swell da N/NW in caso di mareggiate invernali — verificare bollettino locale prima dell'ingresso. ★★
+### Renaissance Marina / Oranjestad ⚓ Haupthafen
+- **12°31'05" N 70°02'20" W (12.518°N 70.039°W)** · UKW 16/14 (Port Control) ★★★ [Navily Renaissance Marina 12°31.08' N 70°02.33' W](https://www.navily.com/port/renaissance-marina/8254) ★★★
+- Im Herzen von Oranjestad, neben Renaissance Marketplace und Kreuzfahrtkai. Ca. **100 Liegeplätze** für Yachten bis **60 m** und Tiefgang **4,5 m**, geschützt und bewacht; Wasser, Strom, Kraftstoff und Resort-Einrichtungen (Pool, Privatinsel mit Shuttle). Einzige „urbane“ Marina der Insel: Vorausbuchung in Hochsaison Pflicht. ★★ [SailJournal](https://sailjournal.com/marinas/renaissance-marina-aruba?locale=en); [MailASail Dora Mac 2025](http://blog.mailasail.com/doramac/posts/2025/5/26/1668-renaissance-marina); [Wind Creek Marina +297-588-0260](https://www.windcreekmarina.com/) ★★★
+- Benachbarte **Wind Creek Marina** (Renaissance Marketplace, LG Smith Blvd 9 · +297-588-0260): 40 Plätze mit Frischwasser, Strom, Telefon und 24h-Bewachung; Promenaden-Steg. ★★★ [windcreekmarina.com](https://www.windcreekmarina.com/) ★★★
+- Clearance: **nicht in Marina**. Zoll für Yachten in **Barcadera** (siehe [01](01-clearance.md)) — Port Control UKW 16 30' vor Ankunft anrufen, Flagge Q, Anweisungen abwarten. ★★★★★ [Aruba Ports Authority](https://www.arubaports.com)
+- Schutz: ausgezeichneter Schutz vor NE-Passat; Grunddünung aus N/NW bei Winter-Swells — vor Einfahrt lokalen Forecast prüfen. ★★
 
-### Varadero Aruba Marina & Boatyard — polo tecnico e svernamento
+### Varadero Aruba Marina & Boatyard — Technik-Hub und Hurrikan-Lager
 - **12°29'53" N 70°01'02" W (12.498°N 70.017°W)** · Bucutiweg 34, Oranjestad · +297 588-3850 · [varaderoaruba.com](https://www.varaderoaruba.com) ★★★ [Marinas.com](https://marinas.com/view/marina/n8c22v_Varadero_Aruba_Marina_and_Boatyard_Oranjestad_Aruba); [HarbourGuides](https://www.harbourguides.com/bluepages/view/varadero-aruba-marina--boatyard-5487) ★★★
-- Ben riparata **dentro la laguna**, attività principale rimessaggio a secco “off customs” per la stagione uraganica. **70+ posti in acqua** con elettricità 110/220 V e acqua potabile gratuita; carburante (diesel e RON 95) in banchina, Wi-Fi, lavanderia, videosorveglianza, guardiano notturno, travelift/gru, cantiere. I posti in acqua sono **a giornata (calendar day)**, non a notte; prenotare via mail. ★★★ [HarbourGuides](https://www.harbourguides.com/bluepages/view/varadero-aruba-marina--boatyard-5487); [Navily Varadero](https://www.navily.com/port/varadero-aruba-marina/6412) ★★★
-- Carburante in banchina rilevato: **diesel 2,56 AWG/l · RON 95 2,66 AWG/l** (indicativo, aggiornato a recensioni community). ★★★ [Navily Varadero Fuel](https://www.navily.com/port/varadero-aruba-marina/6412)
-- Arashi Bay e laguna antistante: ottimo ancoraggio su sabbia prima dell'ingresso in marina — molti equipaggi sostano in rada poi entrano per alaggio. ★★ [MailASail Dora Mac 2025](http://blog.mailasail.com/doramac/posts/2025/5/26/1668-renaissance-marina)
+- Gut geschützt **in der Lagune**, Hauptgeschäft **Trockenslager „off customs“** für Hurrikansaison. **70+ Wasserliegeplätze** mit 110/220 V Strom und kostenlosem Trinkwasser; Kraftstoff (Diesel und RON 95) an der Kai, Wi-Fi, Wäscherei, Videoüberwachung, Nachtwache, Travelift/Kran, Werft. Wasserliegeplätze werden **pro Kalendertag**, nicht pro Nacht berechnet; per E-Mail buchen. ★★★ [HarbourGuides](https://www.harbourguides.com/bluepages/view/varadero-aruba-marina--boatyard-5487); [Navily Varadero](https://www.navily.com/port/varadero-aruba-marina/6412) ★★★
+- Kraftstoff an der Kai gemeldet: **Diesel 2,56 AWG/l · RON 95 2,66 AWG/l** (indikativ, aus Community-Bewertungen). ★★★ [Navily Varadero Fuel](https://www.navily.com/port/varadero-aruba-marina/6412)
+- Arashi Bay und Lagune davor: ausgezeichneter Sand-Ankerplatz vor Marina-Einfahrt — viele Crews ankern draußen und laufen dann zum Haul-out ein. ★★ [MailASail Dora Mac 2025](http://blog.mailasail.com/doramac/posts/2025/5/26/1668-renaissance-marina)
 
-### Eagle Beach / Palm Beach — ancoraggi di bel tempo
-- Litorale turistico a N di Oranjestad, fondale sabbioso 3–8 m, buon tenitore ma **esposto** a swell da W/NW; ancoraggio solo con meteo stabile e mai per la notte senza guardia. Boe/ormeggi privati degli hotel — non utilizzare senza permesso; rispettare corridoi dei bagnanti. ★★
-- Pontile dinghy: atterraggio su spiaggia; attenzione al frangente con mare formato — sollevare prua e ancorotto di poppa. Chiudere sempre dinghy e fuoribordo con lucchetto. ★★
+### Eagle Beach / Palm Beach — Schönwetter-Ankerplätze
+- Touristenküste N von Oranjestad, sandiger Grund 3–8 m, guter Halt aber **exponiert** gegen W/NW-Dünung; nur bei stabilem Wetter ankern und nie über Nacht ohne Wache. Private Hotel-Bojen/Moorings — nicht ohne Erlaubnis nutzen; Badezonen respektieren. ★★
+- Dinghy-Steg: Strandlandung; Achtung Brandung bei Dünung — Bug hoch und Heckanker. Beiboot und Außenborder stets abschließen. ★★
 
-## Costa nord-ovest — Malmok, Arashi, California Lighthouse
+## Nordwestküste — Malmok, Arashi, California Lighthouse
 
-- Rada di **Arashi / Malmok** (estremità NW): sabbia e qualche chiazza di roccia, 4–10 m; riparo discreto dagli alisei ma aperta a N. Molto frequentata di giorno per snorkeling, tranquilla al tramonto — buon punto di sosta prima di saltare verso Curaçao/Bonaire. ★★ [Aggregierte Fahrtensegler-Quellen/Cruisers reports] ★★
-- Avvicinamento da W: costa bassa con reef affiorante — tenersi a **>0,5 M** dalla scogliera e seguire la batimetrica dei 10 m fino al punto di ancoraggio; di notte entrare solo con waypoints verificati ed eco. ★★
+- **Arashi / Malmok** Reede (NW-Spitze): Sand mit einigen Felspatches, 4–10 m; ordentlicher Schutz vor Passat aber nach N offen. Tags sehr belebt zum Schnorcheln, ruhig bei Sonnenuntergang — guter Sprungpunkt vor Überfahrt nach Curaçao/Bonaire. ★★ [Aggregierte Fahrtensegler-Quellen/Cruisers reports] ★★
+- Ansteuerung von W: flache Küste mit trockenfallendem Riff — **>0,5 sm** Abstand zu Felsen halten und 10-m-Tiefenlinie bis Ankerplatz folgen; nachts nur mit verifizierten Wegpunkten und Lot einlaufen. ★★
 
-## Costa sopravvento est e sud — Barcadera, Spanish Lagoon, Baby Beach
+## Luv-Ost- und Südküste — Barcadera, Spanish Lagoon, Baby Beach
 
-- **Barcadera**: porto commerciale e **unico punto di clearance** per yacht (vedi coordinate in [01](01-clearance.md): ingresso boa 12°28.834' N 70°00.430' W; banchina dogana 12°28.855' N 70°00.014' W). Canale dragato ma trafficato da navi e rimorchiatori — restare nel canale fino al traverso della banchina, poi accostare su istruzione Port Control VHF 16/11. Non è zona di sosta da diporto. ★★★★★ [Aruba Ports Authority] ; ★★★ [Cruising Guide Aruba]
-- **Spanish Lagoon / Savaneta / Mangel Halto**: secche e mangrovie, fondali irregolari — solo dinghy o barche a pescaggio ridotto con conoscenza locale; molte aree con divieto di ancoraggio per protezione del reef. ★★
-- **San Nicolas Bay / Baby Beach** (punta SE): baia semicircolare riparata da reef, sabbia bianca, 2–5 m — ancoraggio diurno popolare, notte solo con tempo stabile e poco vento da E. Tenersi fuori dalla zona balneare boeata. ★★
+- **Barcadera**: Handelshafen und **einziger Clearance-Punkt** für Yachten (Koordinaten siehe [01](01-clearance.md): Einfahrtsboje 12°28.834' N 70°00.430' W; Zollkai 12°28.855' N 70°00.014' W). Bagger-Fahrwasser aber stark befahren von Schiffen/Schleppern — im Fahrwasser bleiben bis querab Kai, dann auf Anweisung Port Control UKW 16/11 eindrehen. Kein Freizeitstopp. ★★★★★ [Aruba Ports Authority] ; ★★★ [Cruising Guide Aruba]
+- **Spanish Lagoon / Savaneta / Mangel Halto**: Flachs und Mangroven, unregelmäßige Tiefen — nur Beiboot oder Flachwasser-Boote mit Ortskenntnis; viele Bereiche mit Ankerverbot zum Riffschutz. ★★
+- **San Nicolas Bay / Baby Beach** (SO-Spitze): halbkreisförmige Bucht geschützt von Riff, weißer Sand, 2–5 m — beliebter Tagesankerplatz, über Nacht nur bei stabilem Wetter mit leichtem E-Wind. Abstand zu betonnter Badezone halten. ★★
 
-## Tariffe ormeggi e marine
+## Liegeplatz- & Marina-Tarife
 
-> Stesse voci per tutti i paesi; **DATO MANCANTE** = da ricercare al controllo mensile.
+> Gleiche Punkte für alle Länder; **DATEN FEHLEN** = beim monatlichen Check zu recherchieren.
 
-### Renaissance / Wind Creek Marina — posti a pontile
+### Renaissance / Wind Creek Marina — Längsseits-Liegeplätze
 
-Nessun listino pubblico online al 27/08/2026. La marina comunica le tariffe **solo su richiesta** in capitaineria / via mail e richiede **prenotazione anticipata** (pochi posti, alta stagione dic–apr). Gli utenti segnalano che soggiornare in marina include benefit resort (piscina/isola). Indicativamente, tariffazione **al piede/giorno** come nelle ABC (Curaçao ~0,80–1,20 USD/piede), ma **DATO MANCANTE verificato per Renaissance al 27/08/2026** — chiedere a info@renaissancearuba.com / +297-588-0260 (Wind Creek). ★★ [MailASail 2025 “only one reasonable marina … Renaissance … few berths so booking is mandatory”](http://blog.mailasail.com/doramac/posts/2025/5/26/1668-renaissance-marina); ★★★ [windcreekmarina.com](https://www.windcreekmarina.com/)
+Kein öffentlicher Tarif online zum 27.08.2026. Marina nennt Preise **nur auf Anfrage** im Hafenbüro / per E-Mail und verlangt **Vorausbuchung** (wenige Plätze, Hochsaison Dez–Apr). Nutzer berichten Aufenthalt inkl. Resort-Vorteile (Pool/Insel). Indikativ **per Fuß/pro Tag** wie auf ABCs (Curaçao ~0,80–1,20 USD/ft), aber **DATEN FEHLEN verifiziert für Renaissance zum 27.08.2026** — anfragen info@renaissancearuba.com / +297-588-0260 (Wind Creek). ★★ [MailASail 2025 „only one reasonable marina … Renaissance … few berths so booking is mandatory“](http://blog.mailasail.com/doramac/posts/2025/5/26/1668-renaissance-marina); ★★★ [windcreekmarina.com](https://www.windcreekmarina.com/)
 
-| Voce | Costo | Note |
+| Punkt | Kosten | Hinweise |
 |---|---|---|
-| Posto pontile / notte (~12 m / 40') | **DATO MANCANTE** — su richiesta | VHF/capitaineria; alta stagione prenotare con largo anticipo |
-| Elettricità / acqua | Incluse o a consumo secondo contratto — **DATO MANCANTE** dettaglio a metro | Verificare all'arrivo |
-| Carburante in banchina | **DATO MANCANTE** per Renaissance; vedi Varadero sotto | — |
+| Liegeplatz Längsseits / Nacht (~12 m / 40') | **DATEN FEHLEN** — auf Anfrage | UKW/Hafenbüro; Hochsaison rechtzeitig buchen |
+| Strom / Wasser | Inklusive oder nach Zähler je nach Vertrag — **DATEN FEHLEN** Detail pro Meter | Bei Ankunft klären |
+| Kraftstoff an der Kai | **DATEN FEHLEN** für Renaissance; siehe Varadero unten | — |
 
-### Varadero Aruba Marina — posti in acqua e rimessaggio
+### Varadero Aruba Marina — Wasserliegeplätze und Trockenlager
 
-Listino ufficiale non pubblicato sul sito al 27/08/2026; la marina dichiara **“Competitive Rates”** e invia preventivo su richiesta con dati LOA/pescaggio/periodo. Struttura nota: addebito **a giorno di calendario** per i posti in acqua, non a notte; elettricità 110/220 V e **acqua gratuita** ai posti. Attività prevalente: **rimessaggio a secco off-customs** per uragani (fuori tassa doganale). ★★★ [varaderoaruba.com](https://www.varaderoaruba.com); [HarbourGuides](https://www.harbourguides.com/bluepages/view/varadero-aruba-marina--boatyard-5487)
+Keine offizielle Preisliste auf Website zum 27.08.2026; Marina nennt **„Competitive Rates“** und schickt Angebot auf Anfrage mit LOA/Tiefgang/Zeitraum. Bekannte Struktur: Berechnung **pro Kalendertag** für Wasserliegeplätze, nicht pro Nacht; 110/220 V Strom und **kostenloses Wasser** an Plätzen. Hauptaktivität: **Trockenlager off-customs** für Hurrikans (außerhalb Zollpflicht). ★★★ [varaderoaruba.com](https://www.varaderoaruba.com); [HarbourGuides](https://www.harbourguides.com/bluepages/view/varadero-aruba-marina--boatyard-5487)
 
-| Voce | Costo | Note |
+| Punkt | Kosten | Hinweise |
 |---|---|---|
-| Posto in acqua / giorno (~12 m) | **DATO MANCANTE** — preventivo su richiesta | [varaderoaruba.com/reservation-process](https://www.varaderoaruba.com/reservation-process) ★★★ |
-| Rimessaggio a secco (alaggio + sosta) | **DATO MANCANTE** — preventivo | Fuori dogana durante stagione uraganica |
-| Elettricità | 110/220 V a pontile | Inclusa secondo contratto ★★★ |
-| Acqua | **Gratuita** a pontile | ★★★ [HarbourGuides](https://www.harbourguides.com/bluepages/view/varadero-aruba-marina--boatyard-5487) |
-| Carburante (diesel / RON 95) | 2,56 / 2,66 AWG/l (rilevato) | [Navily](https://www.navily.com/port/varadero-aruba-marina/6412) ★★★ |
+| Wasserliegeplatz / Tag (~12 m) | **DATEN FEHLEN** — Angebot auf Anfrage | [varaderoaruba.com/reservation-process](https://www.varaderoaruba.com/reservation-process) ★★★ |
+| Trockenlager (Haul + Stand) | **DATEN FEHLEN** — Angebot | Off-customs während Hurrikansaison |
+| Strom | 110/220 V am Liegeplatz | Inklusive je nach Vertrag ★★★ |
+| Wasser | **Kostenlos** am Liegeplatz | ★★★ [HarbourGuides](https://www.harbourguides.com/bluepages/view/varadero-aruba-marina--boatyard-5487) |
+| Kraftstoff (Diesel / RON 95) | 2,56 / 2,66 AWG/l (gemeldet) | [Navily](https://www.navily.com/port/varadero-aruba-marina/6412) ★★★ |
 
-### Altre strutture e ormeggio libero
+### Weitere Einrichtungen und freies Ankern
 
-| Struttura / voce | Costo / note | Fonte |
+| Einrichtung / Punkt | Kosten / Hinweise | Quelle |
 |---|---|---|
-| Boe visita / mooring in riserva marina | Uso obbligatorio dove presenti; tariffa **DATO MANCANTE** (stimata da guide locali 10–30 USD/notte, da confermare sul posto) | ★★ |
-| Ancoraggio libero | **Gratuito** fuori zone regolamentate e fuori parchi/reef protetti | Rispettare divieti e boe |
-| Pontile dinghy | Verificare tenuta con mare/corrente; chiudere con lucchetto | ★★ |
+| Besucherbojen / Moorings im Meeresschutzgebiet | Pflicht wo vorhanden; Tarif **DATEN FEHLEN** (lokale Guide-Schätzung 10–30 USD/Nacht, vor Ort bestätigen) | ★★ |
+| Freies Ankern | **Kostenlos** außerhalb regulierter Zonen und außerhalb Schutzparks/Riffs | Verbote und Bojen respektieren |
+| Dinghy-Steg | Halt bei Dünung/Strömung prüfen; mit Schloss sichern | ★★ |
 
-⚠️ **Da verificare prima della crociera**: disponibilità posti a Renaissance/Varadero in alta stagione (dic–apr) — prenotazione consigliata con settimane di anticipo; tariffe aggiornate al piede e supplemento multiscafo; restrizioni ancoraggio in parchi marini e presso reef; carburante e orari capitaineria (+297 588-3850 Varadero; +297 588-0260 Wind Creek).
+⚠️ **Vor Törn zu klären**: Liegeplatzverfügbarkeit Renaissance/Varadero in Hochsaison (Dez–Apr) — Buchung Wochen vorher empfohlen; aktualisierte Fuß-Preise und Mehrrumpf-Zuschlag; Ankerbeschränkungen in Meeresschutzgebieten und auf Riffs; Kraftstoff und Hafenbüro-Zeiten (+297 588-3850 Varadero; +297 588-0260 Wind Creek).
 
-## Distanze utili
+## Nützliche Distanzen
 
-| Tratta | Distanza | Note |
+| Strecke | Distanz | Hinweis |
 |---|---|---|
-| Aruba — Curaçao (Spanish Waters) | ~68 M (~126 km) | Rotta più battuta delle ABC |
-| Aruba — Bonaire (Kralendijk) | ~105 M (~194 km) | Via Curaçao |
-| Aruba — Venezuela (Punto Fijo / Paraguaná) | ~15 M (~28 km) | ⚠️ Costa venezuelana ad alto rischio — vedi avvisi sicurezza |
-| Oranjestad — Barcadera (clearance) | ~5 M via costa | Canale portuale, seguire Port Control VHF 16 |
-| Oranjestad — Arashi/Malmok | ~6 M | Sottocosta riparata |
-| Aruba — Cartagena (Colombia) | ~310 M | Traversata aperta — finestra meteo |
+| Aruba — Curaçao (Spanish Waters) | ~68 sm (~126 km) | Meistgesegelte Route der ABCs |
+| Aruba — Bonaire (Kralendijk) | ~105 sm (~194 km) | Via Curaçao |
+| Aruba — Venezuela (Punto Fijo / Paraguaná) | ~15 sm (~28 km) | ⚠️ Venezolanische Küste Hochrisiko — siehe Sicherheitshinweise |
+| Oranjestad — Barcadera (Clearance) | ~5 sm via Küste | Hafen-Fahrwasser, Port Control UKW 16 folgen |
+| Oranjestad — Arashi/Malmok | ~6 sm | Geschützte Küstenpassage |
+| Aruba — Cartagena (Kolumbien) | ~310 sm | Offene Passage — Wetterfenster nötig |
 
-Distanze ortodromiche approssimate; verificare su carta ufficiale. ★★
+Kursgleiche Distanzen approximativ; auf amtlicher Seekarte prüfen. ★★
 
-Ultimo aggiornamento: 27/08/2026
+Letzte Aktualisierung: 27/08/2026

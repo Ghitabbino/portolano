@@ -1,23 +1,25 @@
 # Pinchos Grill & Bar
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Alle Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Feld | Detail |
 |---|---|
-| Zona | Oranjestad — Surfside / pontile |
-| Cucina | 🥩 Grill caraibico |
-| Specialità | Grigliate · cocktail · tramonto sul pontile |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🏖️ pier over water, piedi sull'acqua |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pinchos+Grill+Bar+Aruba) |
-| Contatti | L.G. Smith Blvd, vicino Surfside |
-| Valutazioni | TA 4,6/5 (4.022 recensioni) · [ArubaStayz](https://www.arubastayz.com/it/migliori-ristoranti-aruba/) top beach → ★★★★½ |
-| Orari | Sera · prenotare per tramonto |
+| Zone | Oranjestad — Surfside / Pier |
+| Küche | 🥩 Karibischer Grill |
+| Spezialität | Grill · Cocktails · Sonnenuntergang auf dem Pier |
+| Preis | 💰€€ pro Person ohne Getränke |
+| Lage | 🏖️ Pier über Wasser, Füße im Wasser |
+| Karte | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pinchos+Grill+Bar+Aruba) |
+| Kontakt | L.G. Smith Blvd, nahe Surfside |
+| Bewertungen | TA 4,6/5 (4.022 Bewertungen) · [ArubaStayz](https://www.arubastayz.com/it/migliori-ristoranti-aruba/) top beach → ★★★★½ |
+| Öffnungszeiten | Abends · für Sonnenuntergang reservieren |
 
-## Menu
+## Speisekarte
 
-- Grill caraibico sul molo
-- Frutti di mare e carni
-- Cocktail al tramonto
+- Karibischer Grill auf dem Pier
+- Meeresfrüchte und Fleisch
+- Cocktails bei Sonnenuntergang
 
-**Note**: Famoso per cenare sul pontile sull'acqua, vicino all'ancoraggio Surfside — raggiungibile a piedi dal dinghy dock Renaissance. Fonte locale: [ArubaStayz](https://www.arubastayz.com/it/migliori-ristoranti-aruba/) ★★★
+**Hinweis**: Berühmt für Dinner auf dem Pier über Wasser, nahe Ankerplatz Surfside — zu Fuß vom Renaissance-Dinghy-Steg erreichbar. Lokale Quelle: [ArubaStayz](https://www.arubastayz.com/it/migliori-ristoranti-aruba/) ★★★
+
+Letzte Aktualisierung: 27/08/2026

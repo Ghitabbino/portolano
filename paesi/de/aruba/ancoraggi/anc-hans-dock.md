@@ -1,20 +1,20 @@
-# Oranjestad — molo dogana H {#anc-hans-dock}
+# Oranjestad — Zollkai H {#anc-hans-dock}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← Alle Ankerplätze](../08-ancoraggi.md)
 **12°31′16″ N 70°02′41″ W** ★★★
 
-| Campo | Dettaglio |
+| Feld | Detail |
 |---|---|
-| **Profondità** |Acqua profonda|
-| **Tenuta àncora** |— (banchina)|
-| **Venti/riparo** |Porto|
-| **Pericoli** |Operatività oggi concentrata a Barcadera|
-| **Boe/divieti/normative** |Punto storico indicato da Aruba Ports Authority|
-| **A terra** |Centro Oranjestad|
+| **Tiefe** |Tiefes Wasser|
+| **Halt** |— (längsseits)|
+| **Wind/Schutz** |Hafenbecken|
+| **Gefahren** |Betrieb heute konzentriert in Barcadera|
+| **Bojen/Verbote/Vorschriften** |Historischer Punkt der Aruba Ports Authority|
+| **Landgang** |Zentrum Oranjestad|
 
 <div class="mapframe" data-slug="anc-hans-dock" data-minz="12" data-maxz="17" data-lat="12.521" data-lon="-70.0448"></div>
-*Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
+*Detailkarte — mit ± bis in die Bucht zoomen · Offline-Karte · Koordinaten WGS84 indikativ, stets mit Plotter prüfen*
 
-Fonti: Aruba Ports Authority ★★★★
+Quellen: Aruba Ports Authority ★★★★
 
-Ultimo aggiornamento: 25/08/2026
+Letzte Aktualisierung: 25/08/2026

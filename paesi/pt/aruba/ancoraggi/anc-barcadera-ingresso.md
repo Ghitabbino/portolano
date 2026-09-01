@@ -1,20 +1,20 @@
-# Barcadera — boa d'ingresso {#anc-barcadera-ingresso}
+# Barcadera — boia de entrada {#anc-barcadera-ingresso}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← Todos os fundeadouros](../08-ancoraggi.md)
 **12°28′50″ N 70°00′26″ W** ★★★
 
-| Campo | Dettaglio |
+| Campo | Detalhe |
 |---|---|
-| **Profondità** |>12 m alla voce|
-| **Tenuta àncora** |— (canale)|
-| **Venti/riparo** |—|
-| **Pericoli** |Unica porta di sdoganamento attuale|
-| **Boe/divieti/normative** |Coordinata riscontrata su 3 fonti indipendenti|
-| **A terra** |Terminal Barcadera|
+| **Profundidade** | >12 m na entrada |
+| **Tenedouro** | — (canal) |
+| **Ventos/abrigo** | Canal exposto |
+| **Perigos** | Único ponto de entrada atual para despacho |
+| **Boias/proibições/regulamentação** | Coordenada confirmada em 3 fontes independentes — chamar Port Control VHF 16/11 |
+| **Em terra** | Terminal de Barcadera (zona portuária comercial) |
 
 <div class="mapframe" data-slug="anc-barcadera-ingresso" data-minz="12" data-maxz="17" data-lat="12.4806" data-lon="-70.0072"></div>
-*Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
+*Carta de pormenor — zoom ± até à enseada · mapa offline · coordenadas WGS84 indicativas, verificar sempre com plotter*
 
-Fonti: Fontes náuticas agregadas ★★★ · Aruba Ports ★★★★
+Fontes: Fontes náuticas agregadas ★★★ · Aruba Ports ★★★★
 
-Ultimo aggiornamento: 25/08/2026
+Última atualização: 28/08/2026

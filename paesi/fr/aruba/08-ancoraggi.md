@@ -1,79 +1,78 @@
 # 08 — Guide des mouillages
 
-**Dernière vérification: 27/08/2026 · coordinate indicative, navigare con cartografia ufficiale**
+**Dernière vérification: 27/08/2026 · coordonnées indicatives, naviguer avec cartes officielles**
 
 ## Règles générales de mouillage (avant tout)
 
-- **Àncora libera** consentita sottovento (costa ovest-sud) solo su **sabbia**, SALVO le zone di divieto qui sotto e i fondali a **corallo/posidonia** protetti di **Parke Marino Aruba** (ancoraggio vietato su corallo, usare solo sabbia o boe dove presenti). ★★★★
-- **IALA-B** in tutto i Caraïbes: rosso a dritta entrando in porto (invertito vs Europa). Chiamare sempre **Port Control VHF 16** per l'ingresso nel canale di Oranjestad e per ogni movimento dentro il bacino. ★★★★
-- **Barriera e reef**: tenersi sempre >0,5 M dal reef affiorante a nord-ovest (Malmok/Arashi), entrare solo con buona luce seguendo la batimetrica dei 10 m; di notte solo con waypoints verificati ed eco. ★★
+- **Mouillage libre** autorisé sous le vent (côte ouest-sud) uniquement sur **sable**, SAUF les zones d'interdiction ci-dessous et les fonds de **corail/herbier** protégés par **Parke Marino Aruba** (mouillage interdit sur corail, utiliser uniquement sable ou bouées là où elles existent). ★★★★
+- **Balisage IALA-B** dans toutes les Caraïbes : rouge à tribord en entrant au port (inversé par rapport à l'Europe). Appeler toujours **Port Control VHF 16** pour l'entrée dans le chenal d'Oranjestad et pour tout mouvement à l'intérieur du bassin. ★★★★
+- **Barrière et récif** : rester toujours à >0,5 M du récif asséchant au nord-ouest (Malmok/Arashi), entrer uniquement par bonne lumière en suivant l'isobathe des 10 m ; de nuit uniquement avec waypoints vérifiés et sondeur. ★★
 
-### ⛔ Zones d’interdiction absolue (officielles)
+### ⛔ Zones d'interdiction absolue (officielles)
 
-| Zone | Divieto | Source |
+| Zone | Interdiction | Source |
 |---|---|---|
-| **Parke Marino Aruba — MPA Arikok, Mangel Halto, Sero Colorado, Oranjestad Reef Islands** | Àncora vietata su corallo/posidonia e secche; in molte aree solo boe obbligatorie una volta installate (AB 2018 no.77) | [FPNA](https://www.arubanationalpark.org/main/management-plan-marine-park/) ★★★★ |
-| **Barriera corallina e isolotti reef** | Vietato ancorare o appoggiare catena su corallo; vietato legarsi alle mangrovie | AB 2018 no.77 art.9c ★★★★ |
-| **Canale e bacino di Oranjestad** | Divieto di ancoraggio nel canale dragato e nel bacino crociere; ormeggio solo su istruzione Port Control | [Aruba Ports Authority](https://www.arubaports.com) ★★★★★ |
-| **Canale di Bateaudera** | Divieto di ancoraggio nel canale commerciale; transito solo su autorizzazione VHF 16/11 | Aruba Ports Authority ★★★★★ · Sources plaisance agrégées ★★★ |
-| **Boe private e corridoi balneazione** | Boe dei charter/hotel e corridoi spiaggia non utilizzabili senza permesso; rispettare segnalazione balneare | aruba-cruisingguide.com ★★★ |
-| **Secca di Bucuti** | Bancata da 1,9 m tra boe charter e Bucuti Yacht Club — divieto di attraversamento fuori canale | aruba-cruisingguide.com ★★★ |
+| **Parke Marino Aruba — AMP Arikok, Mangel Halto, Sero Colorado, Oranjestad Reef Islands** | Mouillage interdit sur corail/herbier et hauts-fonds ; dans de nombreuses zones bouées obligatoires une fois installées (AB 2018 no.77) | [FPNA](https://www.arubanationalpark.org/main/management-plan-marine-park/) ★★★★ |
+| **Barrière corallienne et îlots récifaux** | Interdit de mouiller ou de raguer la chaîne sur corail ; interdit de s'amarrer aux palétuviers | AB 2018 no.77 art.9c ★★★★ |
+| **Chenal et bassin d'Oranjestad** | Mouillage interdit dans le chenal dragué et le bassin des paquebots ; accostage uniquement sur instruction du Port Control | [Aruba Ports Authority](https://www.arubaports.com) ★★★★★ |
+| **Chenal de Barcadera** | Mouillage interdit dans le chenal commercial ; transit uniquement sur autorisation VHF 16/11 | Aruba Ports Authority ★★★★★ · Sources plaisance agrégées ★★★ |
+| **Bouées privées et chenaux de baignade** | Bouées des charters/hôtels et couloirs de baignade non utilisables sans autorisation ; respecter le balisage de baignade | aruba-cruisingguide.com ★★★ |
+| **Haut-fond de Bucuti** | Haut-fond de 1,9 m entre les bouées des charters et le Bucuti Yacht Club — ne pas couper hors chenal | aruba-cruisingguide.com ★★★ |
 
-Testi integrali: [FPNA — Management Plan Marine Park](https://www.arubanationalpark.org/main/management-plan-marine-park/) e scheda Ramsar [Parke Marino Aruba](https://rsis.ramsar.org) (no-anchor policy). ★★★★
+Textes intégraux : [FPNA — Management Plan Marine Park](https://www.arubanationalpark.org/main/management-plan-marine-park/) et fiche Ramsar [Parke Marino Aruba](https://rsis.ramsar.org) (politique no-anchor). ★★★★
 
 ## Tableau récapitulatif — meilleurs mouillages
 
-| # | Mouillage | Riparo alisei | Tenue | Profondeur | Affluence | Avis de la communauté |
+| # | Mouillage | Abri des alizés | Tenue | Profondeur | Fréquentation | Avis de la communauté |
 |---|---|---|---|---|---|---|
-| 1 | [Surfside Beach](ancoraggi/anc-surfside.md) | ★★★★★ sottovento diga | ★★★★ sabbia | 2–3,5 m | Medio-alto, il più usato | ★★★★ [aruba-cruisingguide] |
-| 2 | [Hadicurari (darsena pescatori)](ancoraggi/anc-hadicurari.md) | ★★★★ sottovento Palm Beach | ★★★ sabbia | 2–2,5 m | Basso-medio | day stop ★★ |
-| 3 | [Malmok — relitto Antilla](ancoraggi/anc-malmok-antilla.md) | ★★★ esposizione N/NW | ★★★ sabbia/roccia | 8–15 m | Basso, charter 9–17 | snorkeling top ★★★ |
-| 4 | [Wind Creek Marina — ingresso](ancoraggi/anc-wind-creek.md) | ★★★★★ porto riparato | — pontile | ~3 m boa | Prenotazione obbligatoria | ★★★★ [windcreekmarina] |
-| 5 | [Oranjestad — molo dogana H](ancoraggi/anc-hans-dock.md) | ★★★★★ banchina interna | — banchina | acqua profonda | Solo storico clearance | ★★★★ [Aruba Ports] |
-| 6 | [Bateaudera — boa d'ingresso](ancoraggi/anc-barcadera-ingresso.md) | ★★ canale esposto | — canale >12 m | >12 m voce | Transito clearance | ★★★★ |
-| 7 | [Bateaudera — molo dogana](ancoraggi/anc-barcadera-dogana.md) | ★★ bacino riparato | — banchina | <1,2 m secca NW | Sdoganamento obbligatorio | ★★★★ |
+| 1 | [Surfside Beach](ancoraggi/anc-surfside.md) | ★★★★★ sous le vent de la digue | ★★★★ sable | 2–3,5 m | Moyenne-élevée, le plus utilisé | ★★★★ [aruba-cruisingguide] |
+| 2 | [Hadicurari (bassin des pêcheurs)](ancoraggi/anc-hadicurari.md) | ★★★★ sous le vent de Palm Beach | ★★★ sable | 2–2,5 m | Faible-moyenne | escale de jour ★★ |
+| 3 | [Malmok — épave Antilla](ancoraggi/anc-malmok-antilla.md) | ★★★ exposé N/NW | ★★★ sable/roche | 8–15 m | Faible, charters 09:00–17:00 | snorkeling top ★★★ |
+| 4 | [Wind Creek Marina — entrée](ancoraggi/anc-wind-creek.md) | ★★★★★ port abrité | — à quai | ~3 m bouée | Réservation obligatoire | ★★★★ [windcreekmarina] |
+| 5 | [Oranjestad — quai des douanes H](ancoraggi/anc-hans-dock.md) | ★★★★★ quai intérieur | — à quai | eau profonde | Ancien point de clearance | ★★★★ [Aruba Ports] |
+| 6 | [Barcadera — bouée d'entrée](ancoraggi/anc-barcadera-ingresso.md) | ★★ chenal exposé | — chenal >12 m | >12 m à l'entrée | Transit clearance | ★★★★ |
+| 7 | [Barcadera — quai des douanes](ancoraggi/anc-barcadera-dogana.md) | ★★ bassin abrité | — à quai | <1,2 m haut-fond NW | Dédouanement obligatoire | ★★★★ |
 
-*Clicca sul nome per aprire la scheda completa. Légende: riparo/tenuta = valutazione qualitativa dalle fonti citate (più ★ = meglio). Coordinate WGS84 indicative.*
+*Cliquez sur le nom pour ouvrir la fiche complète. Légende : abri/tenue = évaluation qualitative d'après les sources citées (plus ★ = mieux). Coordonnées WGS84 indicatives.*
 
 ### Carte générale des mouillages
 
-<div class="mapframe" data-slug="aruba" data-minz="9" data-maxz="16" data-lat="12.52" data-lon="-70.03" data-markers='[[12.5169, -70.0391, "Wind Creek Marina — ingresso", "anc-wind-creek"], [12.521, -70.0448, "Oranjestad — molo dogana H", "anc-hans-dock"], [12.4806, -70.0072, "Barcadera — boa d’ingresso", "anc-barcadera-ingresso"], [12.48, -70.0006, "Barcadera — molo dogana", "anc-barcadera-dogana"], [12.5085, -70.0341, "Surfside Beach", "anc-surfside"], [12.5786, -70.0493, "Hadicurari (darsena pescatori)", "anc-hadicurari"], [12.6017, -70.0583, "Malmok — relitto Antilla", "anc-malmok-antilla"]]'></div>
+<div class="mapframe" data-slug="aruba" data-minz="9" data-maxz="16" data-lat="12.52" data-lon="-70.03" data-markers='[[12.5169, -70.0391, "Wind Creek Marina — entrée", "anc-wind-creek"], [12.521, -70.0448, "Oranjestad — quai des douanes H", "anc-hans-dock"], [12.4806, -70.0072, "Barcadera — bouée d’entrée", "anc-barcadera-ingresso"], [12.48, -70.0006, "Barcadera — quai des douanes", "anc-barcadera-dogana"], [12.5085, -70.0341, "Surfside Beach", "anc-surfside"], [12.5786, -70.0493, "Hadicurari (bassin des pêcheurs)", "anc-hadicurari"], [12.6017, -70.0583, "Malmok — épave Antilla", "anc-malmok-antilla"]]'></div>
 
 
 
 
-
-*Marker cliccabili: il popup apre direttamente la scheda dell'ancoraggio. Tasselli locali zoom 9–13 (satellitare / carta nautica / segnali OpenSeaMap). Tutti i pin sono verificati in acqua al centro della rada, 100–400 m dalla riva.*
+*Marqueurs cliquables : le popup ouvre directement la fiche du mouillage. Tuiles locales zoom 9–13 (satellite / carte marine / signaux OpenSeaMap). Tous les pins sont vérifiés dans l'eau au centre de la rade, 100–400 m de la rive.*
 
 ---
 
 ## Cartographie officielle
 
-| Carta | Copertura | Note |
+| Carte | Couverture | Notes |
 |---|---|---|
-| **BA 2780 — Aruba & Curaçao** | Isole ABC | Carta Ammiragliato UK, scala costiera, correzioni settimanali |
-| **BA 2124 — Puerto Rico to Aruba** | Caraïbes meridionali | Pianificazione rotte, WGS84 |
-| **NV Charts — AB01 Aruba to Bonaire** | Pack ABC | Alternativa diportistica, WGS84, ~95 € |
-| **Navionics/C-MAP — South America North** | Elettroniche | Inclusi canali dragati Bateaudera/Oranjestad, aggiornamento 2024–2026 |
-| **aruba-cruisingguide.com — waypointss** | Canale Bucuti | Waypoint Bucuti Channel e boe (non ufficiale, verificare col plotter) |
+| **BA 2780 — Aruba & Curaçao** | Îles ABC | Carte de l'Amirauté britannique, échelle côtière, corrections hebdomadaires |
+| **BA 2124 — Puerto Rico to Aruba** | Caraïbes méridionales | Planification des routes, WGS84 |
+| **NV Charts — AB01 Aruba to Bonaire** | Pack ABC | Alternative plaisance, WGS84, ~95 € |
+| **Navionics/C-MAP — South America North** | Électroniques | Inclut les chenaux dragués de Barcadera/Oranjestad, mise à jour 2024–2026 |
+| **aruba-cruisingguide.com — waypoints** | Chenal de Bucuti | Waypoints du chenal de Bucuti et bouées (non officiel, vérifier sur traceur) |
 
-- Le batimetriche dei canali di Oranjestad (12,5′ ingresso) e Bateaudera (2,2 m per Varadero) vanno verificate con le **NtM dell'Aruba Ports Authority** prima dell'ingresso. ★★★★★
-- Per la navigazione quotidiana: elettronica ufficiale su plotter + guide locali come riserva; segnalazione **IALA-B** ovunque. ★★★
-- **Attenzione bancata Bucuti**: da boe charter a Bucuti Yacht Club solo 1,9 m (6,5 ft) — seguire il canale interno e non tagliare sulla bancata. ★★★
+- Les bathymétries des chenaux d'Oranjestad (12,5′ à l'entrée) et de Barcadera (2,2 m pour Varadero) sont à vérifier avec les **Avurnav de l'Aruba Ports Authority** avant l'entrée. ★★★★★
+- Pour la navigation au quotidien : électronique officielle sur traceur + guides locaux en secours ; balisage **IALA-B** partout. ★★★
+- **Attention haut-fond de Bucuti** : des bouées charter au Bucuti Yacht Club seulement 1,9 m (6,5 ft) — suivre le chenal intérieur et ne pas couper sur le haut-fond. ★★★
 
-## Non inclus (pour l’instant)
+## Non inclus (pour l'instant)
 
-- **Rodgers Beach / San Nicolas (punta SE)**: baia semicircolare riparata da reef, 2–5 m, day-stop popolare ma senza coordinate verificate in acqua — **à vérifier con satellite-check** ★★
-- **Spanish Lagoon / Mangel Halto / Savaneta**: mangrovie e secche, fondali irregolari, solo tender/pescaggio ridotto e divieti Parke Marino — **à vérifier** ★★
-- **Arashi / California Lighthouse (NW)**: rada aperta a N con reef affiorante, tenuta discreta ma esposta a swell invernale — solo con meteo stabile, **non per notte senza guardia** ★★
+- **Rodgers Beach / San Nicolas (pointe SE)** : baie semi-circulaire abritée par récif, 2–5 m, escale de jour populaire mais sans coordonnées vérifiées dans l'eau — **à vérifier par contrôle satellite** ★★
+- **Spanish Lagoon / Mangel Halto / Savaneta** : mangroves et hauts-fonds, profondeurs irrégulières, uniquement annexe/faible tirant d'eau et interdictions Parke Marino — **à vérifier** ★★
+- **Arashi / California Lighthouse (NW)** : rade ouverte au N avec récif asséchant, tenue correcte mais exposée à la houle d'hiver — uniquement par météo stable, **pas pour la nuit sans veille** ★★
 
-## Check-list mouillage per Aruba
+## Check-list mouillage pour Aruba
 
-1. Clearance a **Bateaudera** fatta? → [01 Clearance](01-clearance.md) · VHF 16 a 30′ dall'arrivo
-2. Waypoint canale Oranjestad (boa SE 12°30,317′ N 70°02,153′ W) e Varadero Channel (12°29,577′ N 70°01,133′ W) caricati su plotter
-3. Carta BA/NV aggiornata + IALA-B (rosso a dritta entrando) in mente
-4. Fondale: solo **sabbia** — mai corallo (Parke Marino), verificare buona tenuta dopo aver calato
-5. Boe charter/hotel evitate (non usare 9–17 su Antilla, altre solo su permesso)
-6. Dinghy chiuso con lucchetto, fuoribordo assicurato — furti possibili sui pontili di notte
+1. Clearance à **Barcadera** effectuée ? → [01 Clearance](01-clearance.md) · VHF 16 à 30′ de l'arrivée
+2. Waypoints du chenal d'Oranjestad (bouée SE 12°30,317′ N 70°02,153′ W) et du Varadero Channel (12°29,577′ N 70°01,133′ W) chargés sur le traceur
+3. Carte BA/NV à jour + IALA-B (rouge à tribord en entrant) en tête
+4. Fond : uniquement **sable** — jamais corail (Parke Marino), vérifier la bonne tenue après avoir mouillé
+5. Bouées charter/hôtel évitées (ne pas utiliser 09:00–17:00 à l'Antilla, autres uniquement sur autorisation)
+6. Annexe cadenassée, hors-bord sécurisé — vols possibles sur les pontons la nuit
 
 Dernière mise à jour: 27/08/2026

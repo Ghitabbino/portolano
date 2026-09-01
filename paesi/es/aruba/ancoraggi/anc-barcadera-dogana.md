@@ -1,20 +1,20 @@
-# Barcadera — molo dogana {#anc-barcadera-dogana}
+# Barcadera — muelle de aduana {#anc-barcadera-dogana}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← Todos los fondeaderos](../08-ancoraggi.md)
 **12°28′48″ N 70°00′02″ W** ★★★
 
-| Campo | Dettaglio |
+| Campo | Detalle |
 |---|---|
-| **Profondità** |Secca <1,2 m davanti al molo NW|
-| **Tenuta àncora** |— (banchina)|
-| **Venti/riparo** |—|
-| **Pericoli** |Non arrivare in linea retta: passare prima sul canale profondo|
-| **Boe/divieti/normative** |Sdoganamento yacht|
-| **A terra** |Ufficiali efficienti|
+| **Profundidad** | Bajo <1,2 m frente al muelle NW |
+| **Tenedero** | — (a muelle) |
+| **Vientos/abrigo** | — |
+| **Peligros** | No aproximarse en línea recta: seguir primero el canal de aguas profundas |
+| **Boyas/prohibiciones/normativa** | Despacho de yates |
+| **En tierra** | Oficiales eficientes |
 
 <div class="mapframe" data-slug="anc-barcadera-dogana" data-minz="12" data-maxz="17" data-lat="12.48" data-lon="-70.0006"></div>
-*Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
+*Carta de detalle — zoom ± hasta la bahía · mapa offline · coordenadas WGS84 indicativas, verificar siempre con el plotter*
 
-Fonti: Fuentes náuticas agregadas ★★★ · Wind Creek Marina ★★★★
+Fuentes: Fuentes náuticas agregadas ★★★ · Wind Creek Marina ★★★★
 
-Ultimo aggiornamento: 25/08/2026
+Última actualización: 28/08/2026

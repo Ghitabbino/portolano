@@ -1,20 +1,20 @@
-# Malmok — relitto Antilla {#anc-malmok-antilla}
+# Malmok — Wrack Antilla {#anc-malmok-antilla}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← Alle Ankerplätze](../08-ancoraggi.md)
 **12°36′06″ N 70°03′30″ W** ★★
 
-| Campo | Dettaglio |
+| Feld | Detail |
 |---|---|
-| **Profondità** |8–15 m|
-| **Tenuta àncora** |Sabbia/roccia mista|
-| **Venti/riparo** |Day stop|
-| **Pericoli** |Boe charter sul relitto non usabili 9–17|
-| **Boe/divieti/normative** |Ancoraggio libero nelle vicinanze fuori tracciato|
-| **A terra** |Snorkeling sul relitto|
+| **Tiefe** |8–15 m|
+| **Halt** |Gemischt Sand/Fels|
+| **Wind/Schutz** |Tagesstopp, exponiert|
+| **Gefahren** |Charter-Bojen am Wrack nicht nutzbar 09:00–17:00|
+| **Bojen/Verbote/Vorschriften** |Freies Ankern in der Nähe außerhalb der Fahrrinne|
+| **Landgang** |Schnorcheln am Wrack|
 
 <div class="mapframe" data-slug="anc-malmok-antilla" data-minz="12" data-maxz="17" data-lat="12.6017" data-lon="-70.0583"></div>
-*Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
+*Detailkarte — mit ± bis in die Bucht zoomen · Offline-Karte · Koordinaten WGS84 indikativ, stets mit Plotter prüfen*
 
-Fonti: aruba-cruisingguide.com ★★★
+Quellen: aruba-cruisingguide.com ★★★
 
-Ultimo aggiornamento: 25/08/2026
+Letzte Aktualisierung: 25/08/2026

@@ -1,23 +1,23 @@
 # Water’s Edge
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Todos os restaurantes](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Campo | Detalhe |
 |---|---|
 | Zona | Eagle Beach — Costa Linda Resort |
-| Cucina | 🐟 Americana/Caraibica — Seafood & Steakhouse |
-| Specialità | Red snapper · Ahi Tuna · live music |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🏖️ beach resort, open-air + sala AC |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Waters+Edge+Restaurant+Aruba) |
-| Contatti | J.E. Irausquin Blvd 59, Costa Linda Beach Resort · +297 586 9494 |
-| Valutazioni | OpenTable 4,3/5 (1.888) · TA 4,3/5 · piatti.menu 5,0/5 (1.125) → ★★★★ |
-| Orari | Colazione, pranzo, cena · musica live serale · happy hour |
+| Cozinha | 🐟 Americana/Caraíbe — marisco e grelhados |
+| Especialidade | Red snapper · Ahi Tuna · música ao vivo |
+| Custo | 💰€€ por pessoa sem bebidas |
+| Localização | 🏖️ resort de praia, ao ar livre + sala climatizada |
+| Mapa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Waters+Edge+Restaurant+Aruba) |
+| Contactos | J.E. Irausquin Blvd 59, Costa Linda Beach Resort · +297 586 9494 |
+| Avaliações | OpenTable 4,3/5 (1.888) · TA 4,3/5 · piatti.menu 5,0/5 (1.125) → ★★★★ |
+| Horário | Pequeno-almoço, almoço, jantar · música ao vivo à noite · happy hour |
 
 ## Menu
 
-- Seafood fresco, bistecche, pasta, burger
-- Tavoli open-air, sala climatizzata, palapa pieds dans le sable
-- Serata elegante post-spiaggia
+- Marisco fresco, grelhados, massas, hambúrgueres
+- Mesas ao ar livre, sala climatizada, palapa com pés na areia
+- Noite elegante depois da praia
 
-**Note**: All'interno del Costa Linda Beach Resort, vista oceano con tavoli anche sulla sabbia. Recensioni locali: [OpenTable](https://www.opentable.com/r/waters-edge-restaurant-oranjestad) ★★★ · [piatti.menu](https://piatti.menu/restaurants/oranjestad-1/waters-edge-restaurant-bar-4) ★★★
+**Nota**: Dentro do Costa Linda Beach Resort, vista para o mar com mesas na areia. Avaliações locais: [OpenTable](https://www.opentable.com/r/waters-edge-restaurant-oranjestad) ★★★ · [piatti.menu](https://piatti.menu/restaurants/oranjestad-1/waters-edge-restaurant-bar-4) ★★★

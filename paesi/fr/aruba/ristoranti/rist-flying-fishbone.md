@@ -4,20 +4,20 @@
 
 | Champ | Détail |
 |---|---|
-| Zone | Savaneta — costa sud |
-| Cuisine | 🐟 Pesce piedi nella sabbia |
-| Spécialité | Pesce fresco piedi nell'acqua · tramonto |
-| Coût | 💰€€€ per persona senza bevande |
-| Emplacement | 🌅 spiaggia, tavoli sull'acqua |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=The+Flying+Fishbone+Savaneta) |
-| Contacts | Savaneta, Aruba · prenotazione obbligatoria settimane in anticipo |
-| Évaluations | TA 4,7/5 (8.052 recensioni) · [OneHappyIsland](https://onehappyisland.com/best-restaurants-in-aruba/) “Most unique setting” → ★★★★½ |
-| Horaires | Pranzo e cena · tavoli nell'acqua al tramonto |
+| Zone | Savaneta — côte sud |
+| Cuisine | 🐟 Fruits de mer les pieds dans le sable |
+| Spécialité | Poisson frais les pieds dans l'eau · coucher de soleil |
+| Coût | 💰€€€ par personne sans boissons |
+| Emplacement | 🌅 plage, tables dans l'eau |
+| Carte | [Google Maps](https://www.google.com/maps/search/?api=1&query=The+Flying+Fishbone+Savaneta) |
+| Contacts | Savaneta, Aruba · réservation obligatoire plusieurs semaines à l'avance |
+| Évaluations | TA 4,7/5 (8 052 avis) · [OneHappyIsland](https://onehappyisland.com/best-restaurants-in-aruba/) « Most unique setting » → ★★★★½ |
+| Horaires | Déjeuner et dîner · tables dans l'eau au coucher du soleil |
 
-## Menu
+## Carte & spécialités
 
-- Tavoli direttamente con i piedi nell'acqua al tramonto
-- Pesce fresco caraibico
-- Tra i più fotografati dell'isola
+- Tables directement les pieds dans l'eau au coucher du soleil
+- Poisson frais des Caraïbes
+- Parmi les plus photographiés de l'île
 
-**Note**: A Savaneta, raggiungibile da Spanish Lagoon/San Nicolas in auto/tender + taxi — non walking da Oranjestad, ma tappa iconica sud. Prenotare 2–3 settimane prima in alta stagione. Source locale: [OneHappyIsland Best Restaurants 2026](https://onehappyisland.com/best-restaurants-in-aruba/) ★★★ · [Aruba.com](https://www.aruba.com) ★★★
+**Note** : À Savaneta, accessible depuis Spanish Lagoon/San Nicolas en voiture/annexe + taxi — non accessible à pied depuis Oranjestad, mais étape iconique du sud. Réserver 2–3 semaines à l'avance en haute saison. Source locale : [OneHappyIsland Best Restaurants 2026](https://onehappyisland.com/best-restaurants-in-aruba/) ★★★ · [Aruba.com](https://www.aruba.com) ★★★

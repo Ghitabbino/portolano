@@ -1,24 +1,24 @@
 # Yemanja Woodfired Grill
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Todos los restaurantes](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Campo | Detalle |
 |---|---|
 | Zona | Wilhelminastraat 2, Oranjestad |
-| Cucina | 🥩 Wood grill + 🥗 vegan/healthy |
-| Specialità | Grill a legna · opzioni vegane/gluten-free · frutti di mare |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🌴 terrazza giardino, anche indoor AC |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Yemanja+Woodfired+Grill+Oranjestad) |
-| Contatti | Wilhelminastraat 2, Oranjestad · no AMEX |
-| Valutazioni | TA 4,6/5 (3.404 recensioni) → ★★★★½ |
-| Orari | Sera · policy bimbi: <6 anni solo fino 18:30 |
+| Cocina | 🥩 Brasa de leña + 🥗 vegano/saludable |
+| Especialidad | Brasa de leña · opciones veganas/sin gluten · marisco |
+| Coste | 💰€€ por persona sin bebidas |
+| Ubicación | 🌴 terraza jardín, también interior climatizado |
+| Mapa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Yemanja+Woodfired+Grill+Oranjestad) |
+| Contactos | Wilhelminastraat 2, Oranjestad · no AMEX |
+| Valoraciones | TA 4,6/5 (3.404 reseñas) → ★★★★½ |
+| Horarios | Noche · política niños: <6 años solo hasta 18:30 |
 
-## Menu
+## Carta
 
-- Grill a legna con influenze caraibiche
-- Ampio menu vegetariano/vegan/gluten-free
-- Porzioni ridotte -30% fino 12 anni
-- Interni ed esterni non-fumatori, lussureggiante
+- Brasa de leña con influencias caribeñas
+- Amplia carta vegetariana/vegana/sin gluten
+- Porciones reducidas -30% hasta 12 años
+- Interior y exterior no fumadores, entorno exuberante
 
-**Note**: Ambiente tranquillo tra verde, cucina creativa e attenta alle diete. Prenotazione consigliata, possibili attese anche con prenotazione nei picchi. Fonte: TripAdvisor ★★★ · [Aruba.com](https://www.aruba.com) lista Oranjestad ★★★
+**Nota**: Entorno tranquilo entre vegetación, cocina creativa y atenta a dietas. Reserva recomendada, posibles esperas incluso con reserva en horas punta. Fuente: TripAdvisor ★★★ · [Aruba.com](https://www.aruba.com) lista Oranjestad ★★★

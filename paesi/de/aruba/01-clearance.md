@@ -1,90 +1,90 @@
-# 01 — Clearance doganale della barca
+# 01 — Zoll-Clearance der Yacht
 
-**Ultima verifica: 27/08/2026** · Fonte principale: Aruba Ports Authority — Yachting (arubaports.com) ★★★★★ + Varadero Aruba Entry Procedure ★★★ + edcardaruba.aw ★★★★★
+**Letzte Überprüfung: 27/08/2026** · Hauptquelle: Aruba Ports Authority — Yachting (arubaports.com) ★★★★★ + Varadero Aruba Entry Procedure ★★★ + edcardaruba.aw ★★★★★
 
-## Chi deve farla
+## Wer muss einklarieren
 
-Tutti i natanti da diporto, qualsiasi bandiera e nazionalità, che:
-- **entrano** nelle acque di Aruba provenendo da porto/mare territoriale straniero o alto mare;
-- **escono** verso porto/mare straniero o alto mare.
-La clearance è obbligatoria anche per chi intende solo transitare o sostare brevemente: **è vietato ancorare o dirigersi in marina prima di aver completato immigrazione e dogana al porto d'ingresso**. [arubaports.com Yachting — ENTRY PROCEDURES ★★★★★; varaderoaruba.com “ALL BOATS must go clear … at Barcadera” ★★★; aruba-cruisingguide.com ★★★]
+Alle Sportboote, gleich welcher Flagge und Nationalität, die:
+- **einlaufen** in arubanische Gewässer aus ausländischem Hafen/anderem Küstenmeer oder von hoher See;
+- **auslaufen** zu ausländischem Hafen/Küstenmeer oder auf hohe See.
+Einklarieren ist auch Pflicht bei reiner Durchfahrt oder kurzem Stopp: **Ankern oder Einlaufen in Marina vor Abschluss von Immigration und Zoll im Einreisehafen ist verboten**. [arubaports.com Yachting — ENTRY PROCEDURES ★★★★★; varaderoaruba.com „ALL BOATS must go clear … at Barcadera“ ★★★; aruba-cruisingguide.com ★★★]
 
-L'equipaggio è tenuto a **restare a bordo** fino a clearance ultimata (area “gialla” / H Pier). [arubaports.com ★★★★★]
+Crew muss **an Bord bleiben** bis Clearance abgeschlossen (gelber Bereich / H Pier). [arubaports.com ★★★★★]
 
-## Procedura online
+## Online-Verfahren
 
-Aruba **non ha un portale unico** tipo “démarche-simplifiée” delle Antille francesi: la parte digitale è **pre-avviso** + **ED Card persone**, il resto è cartaceo in banchina.
+Aruba **hat kein einheitliches Portal** wie das französische „démarche simplifiée“: Digitalteil ist **Voranmeldung** + **ED Card Personen**, Rest Papier an der Kai.
 
-1. **Pre-avviso barca — SailClear**: la Dogana utilizza [SailClear](https://www.sailclear.com) — compilarlo online **prima dell'arrivo** (dati barca, armatore, equipaggio, ultimo/prossimo porto, ETA, bandiera, MMSI, dimensioni, motori, carburante). Non sostituisce la presenza in banchina ma accelera la pratica. [Aggregierte Fahrtensegler-Quellen Aruba “Customs use SailClear” ★★★; aruba-cruisingguide.com ★★★]
-2. **Pre-avviso persone — ED Card**: ogni persona a bordo (anche neonati) compila la **ED Card su [edcardaruba.aw](https://edcardaruba.aw)** entro **7 giorni** dall'arrivo, indicando dati passaporto, volo/nave, alloggio (per yacht: nome barca/porto). La ED Card **non è un visto** e non garantisce da sola l'ammissione, ma è **requisito d'ingresso** e va esibita all'Immigration (IASA). Pagamento eventuale Sustainability Fee US$20 integrato nella ED Card (vedi Costi). [edcardaruba.aw ★★★★★; visitaruba.com ★★★★★; aruba.com immigration ★★★★★]
-3. **Moduli cartacei** (facoltativi ma consigliati per velocizzare): stampare **Immigration 3 copie + Customs 2 copie** (PDF EN/ES/NL su arubaports.com). Se non stampati, disponibili negli uffici sul molo. [arubaports.com Download Forms ★★★★★]
-4. **Avvicinamento**: a ~30 min dall'arrivo chiamare **Aruba Port Control su VHF 16** (passa a 11 o 14 su istruzione della torre) e chiedere permesso di entrare per clearance; seguire le istruzioni fino all'ormeggio e **issare bandiera Q gialla**. [arubaports.com ★★★★★; aruba-cruisingguide.com ★★★]
-5. **Ormeggio**: ormeggiare alla **banchina dogana di Barcadera** (o, se dirottati, al Customs Quay / H Pier di Oranjestad su istruzione Port Control). **Solo il comandante scende**: prima **Immigration** (etichetta gialla), poi **Dogana/Douane** (etichetta viola). Equipaggio resta a bordo. Dopo le firme gli ufficiali salgono a bordo per ispezione (armi/fiocine sequestrate). [varaderoaruba.com ★★★; arubaports.com ★★★★★; blue-joline.com 2024 ★★★]
-6. **Dichiarazione temporanea yacht (broker)**: entro il giorno successivo e comunque **non oltre il 2° giorno**, tramite **broker doganale** va avviata la pratica di **importazione temporanea** (vedi 00 — La barca). Il broker presenta la dichiarazione in dogana. [allatsea.net 2012 ★★★; aruba-cruisingguide.com ★★★]
-7. **Uscita (clearance out)**: avvisare sempre **Aruba Port Control su VHF 16** per concordare ormeggio e orario con dogana/immigrazione; completata la pratica si deve **partire subito**. [arubaports.com “CLEARANCE PROCEDURES OUT OF PORT OF ORANJESTAD” ★★★★★]
+1. **Voranmeldung Yacht — SailClear**: Zoll nutzt [SailClear](https://www.sailclear.com) — vor Ankunft online ausfüllen (Yachtdaten, Eigner, Crew, letzter/nächster Hafen, ETA, Flagge, MMSI, Abmessungen, Maschinen, Stores). Ersetzt nicht persönliches Erscheinen an der Kai, beschleunigt aber Abfertigung. [Aggregierte Fahrtensegler-Quellen Aruba „Customs use SailClear“ ★★★; aruba-cruisingguide.com ★★★]
+2. **Voranmeldung Personen — ED Card**: jede Person an Bord (inkl. Kleinkinder) füllt **ED Card auf [edcardaruba.aw](https://edcardaruba.aw)** innerhalb **7 Tagen** vor Ankunft aus, mit Passdaten, Flug/Schiff, Unterkunft (für Yachten: Yachtname/Hafen). ED Card **ist kein Visum** und allein kein Garant für Zulassung, aber **Pflicht für Einreise** und bei Immigration (IASA) vorzuzeigen. Etwaige Sustainability Fee US$20 integriert in ED Card (siehe Gebühren). [edcardaruba.aw ★★★★★; visitaruba.com ★★★★★; aruba.com immigration ★★★★★]
+3. **Papierformulare** (optional aber empfohlen): **Immigration 3 Kopien + Customs 2 Kopien** drucken (PDF EN/ES/NL auf arubaports.com). Falls nicht gedruckt, in Büros an der Kai erhältlich. [arubaports.com Download Forms ★★★★★]
+4. **Ansteuerung**: ca. 30 Min vor Ankunft **Aruba Port Control auf UKW 16** anrufen (Wechsel auf 11 oder 14 nach Anweisung Turm) und Einlauferlaubnis für Clearance erbitten; Anweisungen bis Liegeplatz folgen und **gelbe Flagge Q** setzen. [arubaports.com ★★★★★; aruba-cruisingguide.com ★★★]
+5. **Liegeplatz**: an **Zollkai Barcadera** festmachen (oder, falls umgeleitet, am Customs Quay / H Pier Oranjestad auf Anweisung Port Control). **Nur Skipper geht an Land**: zuerst **Immigration** (gelber Stempel), dann **Zoll/Douane** (violetter Stempel). Crew bleibt an Bord. Nach Unterschrift kommen Beamte an Bord zur Inspektion (Waffen/Harpunen eingezogen). [varaderoaruba.com ★★★; arubaports.com ★★★★★; blue-joline.com 2024 ★★★]
+6. **Temporäre Yacht-Anmeldung (Agent)**: bis nächsten Tag und **spätestens Tag 2** muss via **Zollagent** das Verfahren **vorübergehende Einfuhr** gestartet werden (siehe 00 — Die Yacht). Agent reicht Erklärung beim Zoll ein. [allatsea.net 2012 ★★★; aruba-cruisingguide.com ★★★]
+7. **Ausreise (Clearance out)**: stets **Aruba Port Control auf UKW 16** benachrichtigen um Liegeplatz/Zeit mit Zoll/Immigration abzustimmen; nach Formalitäten muss **sofort ausgelaufen** werden. [arubaports.com „CLEARANCE PROCEDURES OUT OF PORT OF ORANJESTAD“ ★★★★★]
 
-### Trucco utile (★★★)
-Compilare SailClear ed ED Card con qualche giorno di anticipo e portare a bordo **3+2 copie** già compilate + crew list separata: gli uffici di Barcadera sono piccoli e la coda è più rapida con moduli pronti. Stampare anche la ricevuta di pagamento Sustainability Fee se dovuta.
+### Praktischer Tipp (★★★)
+SailClear und ED Card einige Tage vorher ausfüllen und an Bord **3+2 vorausgefüllte Kopien** plus separate Crewliste mitführen: Büros in Barcadera sind klein und Schlange geht mit vorbereiteten Formularen schneller. Auch Zahlungsbeleg Sustainability Fee falls zutreffend drucken.
 
-## Copia cartacea timbrata
+## Gestempelte Papierkopie
 
-- Ad Aruba **non esiste** una “attestation” elettronica stampabile da portale: le **ricevute timbrate** sono quelle **cartacee** rilasciate in banchina da **Immigration (IASA)** e **Dogana** dopo la firma del comandante. **Conservarle a bordo**: servono come **zarpe** per il porto successivo e come prova di importazione temporanea. [varaderoaruba.com ★★★; arubaports.com — Custom clearance form (campi Rotation Ref. No., Date Customs, Signature Master) ★★★★★]
-- Finché non si è timbrati, **non si è legalmente entrati**: restare in banchina/area gialla; per arrivi **dopo le 22:00** è previsto ancoraggio designato con permesso Guardia Costiera e completamento formalità la mattina successiva. [arubaports.com ★★★★★]
+- In Aruba gibt es **keine** elektronische „Attestation“ zum Ausdrucken aus Portal: **gestempelte Belege** sind die **Papierkopien**, die an der Kai von **Immigration (IASA)** und **Zoll** nach Unterschrift Skippers ausgehändigt werden. **An Bord aufbewahren**: dienen als **Zarpe (Ausreisebescheinigung)** für nächsten Hafen und als Nachweis vorübergehender Einfuhr. [varaderoaruba.com ★★★; arubaports.com — Customs clearance form (Felder Rotation Ref. No., Date Customs, Signature Master) ★★★★★]
+- Solange nicht gestempelt, **ist man rechtlich nicht eingereist**: im zugewiesenen Kai-/Ankerbereich bleiben; bei Ankunft **nach 22:00** designierter Ankerplatz mit Erlaubnis Küstenwache, Formalitäten am nächsten Morgen. [arubaports.com ★★★★★]
 
-## Costi
+## Gebühren
 
-| Voce | Costo | Fonte |
+| Punkt | Kosten | Quelle |
 |---|---|---|
-| Pre-avviso SailClear | **Gratuito** | sailclear.com / Aggregierte Fahrtensegler-Quellen ★★★ |
-| ED Card | **Gratuita** (il modulo persone è gratis) | edcardaruba.aw ★★★★★ |
-| Sustainability Fee via ED Card | **US$20 a persona** (Visa/Mastercard/Discover, voce “Aruba Wastewater”); esenti: residenti, <8 anni, transito <24h, equipaggi in servizio, **repeat visitor entro 1 anno** (dal 07/07/2025 auto-riconoscimento via passaporto), studenti arubani all'estero. Per yacht: dovuta se si passa per Immigration con ED Card. Rimborso entro 60 gg a info@awss.aw in caso di addebito errato o esenzione | awss.aw FAQ ★★★★★; aruba.com Sustainability Fee ★★★★★; edcardaruba.aw ★★★★★ |
-| Broker doganale per importazione temporanea yacht | **US$65–100** (avvio pratica entro 2° giorno; obbligatorio se permanenza >7 gg) | allatsea.net ★★★; aruba-cruisingguide.com ★★★ |
-| Wharfage / towage in porto per sola clearance | **Non dovuti** se solo per formalità (si pagano solo con prenotazione banchina) | arubaports.com Yachting (nota *Towage, Wharfage … ONLY to vessels with berth reservation*) ★★★★★ |
-| Deposito cauzionale oltre 180 gg | **Pari ai dazi** (o garanzia bancaria) se permanenza 180 gg–1 anno; oltre 1 anno importazione definitiva | allatsea.net — excerpt of the rules ★★★ |
-| Moduli Immigration/Customs | **Gratuiti** (PDF o in ufficio) | arubaports.com ★★★★★ |
+| Voranmeldung SailClear | **Kostenlos** | sailclear.com / Aggregierte Fahrtensegler-Quellen ★★★ |
+| ED Card | **Kostenlos** (Personenformular gratis) | edcardaruba.aw ★★★★★ |
+| Sustainability Fee via ED Card | **US$20 pro Person** (Visa/Mastercard/Discover, Position „Aruba Wastewater“); befreit: Einwohner, <8 Jahre, Transit <24h, Dienst-Crews, **Wiederbesucher innerhalb 1 Jahr** (seit 07/07/2025 automatische Erkennung via Reisepass), arubanische Studenten im Ausland. Für Yachten: fällig wenn mit ED Card bei Immigration einklariert wird. Erstattung binnen 60 Tagen an info@awss.aw bei Fehlbelastung/Befreiung | awss.aw FAQ ★★★★★; aruba.com Sustainability Fee ★★★★★; edcardaruba.aw ★★★★★ |
+| Zollagent für temporäre Yachteinfuhr | **US$65–100** (Einreichung binnen Tag 2; Pflicht wenn Aufenthalt >7 Tage) | allatsea.net ★★★; aruba-cruisingguide.com ★★★ |
+| Kai-/Schleppergebühr im Hafen nur für Clearance | **Nicht fällig** nur für Formalitäten (nur fällig mit Liegeplatz-Reservierung) | arubaports.com Yachting (Hinweis *Towage, Wharfage … ONLY to vessels with berth reservation*) ★★★★★ |
+| Kaution über 180 Tage | **In Höhe der Abgaben** (oder Bankgarantie) bei Aufenthalt 180 Tage–1 Jahr; über 1 Jahr endgültige Einfuhr | allatsea.net — excerpt of the rules ★★★ |
+| Immigration/Customs-Formulare | **Kostenlos** (PDF oder im Büro) | arubaports.com ★★★★★ |
 
-## Punti agréé in Aruba (lista ufficiale Aruba Ports Authority ★★★★★)
+## Offizielle Einreiseorte in Aruba (offizielle Liste Aruba Ports Authority ★★★★★)
 
-Aruba ha **un solo porto d'ingresso per yacht**: Barcadera (con deviazione temporanea a Oranjestad su istruzione Port Control). Non esiste rete diffusa tipo “points agréés” francesi.
+Aruba hat **einen einzigen Einreisehafen für Yachten**: Barcadera (mit temporärer Umleitung nach Oranjestad auf Anweisung Port Control). Kein flächiges Netz wie französische „points agréés“.
 
-| Località | Punto | Coordinate (WGS84) | Contatti | Orari |
+| Ort | Stelle | Koordinaten (WGS84) | Kontakt | Öffnungszeiten |
 |---|---|---|---|---|
-| **Barcadera** | Banchina dogana NW (molo con paratia in legno) — uffici Immigration + Customs sul molo | Ingresso boa **12°28.834' N 70°00.430' W**; banchina **12°28.855' N 70°00.014' W** | Aruba Port Control **VHF 16/11**; APA tel. **+297 523-4300** (orario ufficio) · Marine Traffic Control Tower **+297 523-4336/37** (24/7) · info@arubaports.com / KustStation@arubaports.com | **DATO MANCANTE** — nessuna fonte governativa trovata con orari sportello Immigration/Customs a Barcadera; da verificare in loco/VHF (arrivi dopo 22:00 con permesso Guardia Costiera) |
-| **Oranjestad (deviazione)** | Customs Quay / H Pier — secondo bacino a W della banchina crociere (“Hans dock”) — su assegnazione Port Control | Ingresso SE **12°30.317' N 70°02.153' W**; Hans dock **12°31.285' N 70°02.709' W** | Stessi contatti APA/Port Control VHF 16 | **DATO MANCANTE** — orari non pubblicati; operatività su chiamata Port Control (Immigration deve scendere da Barcadera) ★★★ |
+| **Barcadera** | Zollkai NW (Kai mit Holzspundwand) — Büros Immigration + Zoll an der Kai | Einfahrtsboje **12°28.834' N 70°00.430' W**; Kai **12°28.855' N 70°00.014' W** | Aruba Port Control **UKW 16/11**; APA Tel. **+297 523-4300** (Bürozeiten) · Marine Traffic Control Tower **+297 523-4336/37** (24/7) · info@arubaports.com / KustStation@arubaports.com | **DATEN FEHLEN** — keine Regierungsquelle mit Schalterzeiten Immigration/Zoll in Barcadera gefunden; vor Ort/UKW zu klären (Ankünfte nach 22:00 mit Erlaubnis Küstenwache) |
+| **Oranjestad (Umleitung)** | Customs Quay / H Pier — zweites Becken W der Kreuzfahrtkai („Hans dock“) — auf Zuweisung Port Control | SO-Einfahrt **12°30.317' N 70°02.153' W**; Hans dock **12°31.285' N 70°02.709' W** | Gleiche APA/Port Control Kontakte UKW 16 | **DATEN FEHLEN** — Zeiten nicht veröffentlicht; Betrieb auf Anruf Port Control (Immigration muss aus Barcadera anfahren) ★★★ |
 
-Note nautiche Barcadera (verificate su tre fonti): restare nel **canale navi fino al traverso della banchina** (boa bianca/serbatoi bianchi come riferimento), poi accostare tenendo due bitte tonde a sinistra e due squadrate a dritta; pescaggio **fino a 2,1 m** può arrivare in fondo al molo di legno restando a un baglio dalla banchina; **3 m** solo fino allo spigolo del tug nero; **>3 m chiamare Port Control** per istruzione alternativa (terminal container o Oranjestad). [aruba-cruisingguide.com “To get to the customs dock” ★★★; Aggregierte Fahrtensegler-Quellen Barcadera ★★★; blue-joline.com ★★★]
+Nautische Hinweise Barcadera (aus drei Quellen verifiziert): im **Fahrwasser bleiben bis querab Kai** (weiße Boje/weiße Tanks als Referenz), dann eindrehen mit zwei runden Pollern an Backbord und zwei eckigen an Steuerbord; Tiefgang **bis 2,1 m** kann bis Ende Holzkai mit einem Boot Breite Abstand zur Kai; **3 m** nur bis Ecke schwarzer Schlepper; **>3 m Port Control anrufen** für Alternativanweisung (Container-Terminal oder Oranjestad). [aruba-cruisingguide.com „To get to the customs dock“ ★★★; Aggregierte Fahrtensegler-Quellen Barcadera ★★★; blue-joline.com ★★★]
 
-## Dogana regionale
+## Regionale Zollbehörden
 
-| Ente | Sede / Contatto | Nota |
+| Behörde | Sitz / Kontakt | Hinweis |
 |---|---|---|
-| **Aruba Customs / Douane** (Dogana) | Uffici sul molo di Barcadera (e Customs Quay Oranjestad su deviazione) — coordinamento via Aruba Port Control VHF 16/11 | Autorità per importazione temporanea yacht, ispezione armi/fiocine, moduli customs | 
-| **IASA — Immigration (Instituto Alarma y Seguridad Aruba)** | Vondellaan 25, Oranjestad · tel. **+297 523-7402** · garantie@dga.aw (per dichiarazioni di garanzia) | Controllo persone, ED card, estensioni soggiorno |
-| **DIMAS** (permessi di soggiorno) | Paardenbaaistraat 11, Oranjestad · tel. **+297 522-1500** · info@dimasaruba.aw | Oltre 180 giorni |
-| **Aruba Ports Authority N.V.** | L.G. Smith Blvd. 23, Oranjestad · tel. **+297 523-4300** · info@arubaports.com · Marine Traffic Control **+297 523-4336/37** VHF 16/11 | Assegnazione ormeggio, permessi ingresso porto |
-| **Aruba Coast Guard / Guardia Costiera** | Via Port Control VHF 16 | Permesso ancoraggio designato per arrivi notturni >22:00 |
+| **Aruba Customs / Douane** | Büros an Barcadera-Kai (und Customs Quay Oranjestad bei Umleitung) — Koordination via Aruba Port Control UKW 16/11 | Zuständig für vorübergehende Yachteinfuhr, Waffen/Harpunen-Inspektion, Zollformulare |
+| **IASA — Immigration (Instituto Alarma y Seguridad Aruba)** | Vondellaan 25, Oranjestad · Tel. **+297 523-7402** · garantie@dga.aw (für Garantieerklärungen) | Personenkontrolle, ED Card, Aufenthaltsverlängerungen |
+| **DIMAS** (Aufenthaltserlaubnisse) | Paardenbaaistraat 11, Oranjestad · Tel. **+297 522-1500** · info@dimasaruba.aw | Über 180 Tage |
+| **Aruba Ports Authority N.V.** | L.G. Smith Blvd. 23, Oranjestad · Tel. **+297 523-4300** · info@arubaports.com · Marine Traffic Control **+297 523-4336/37** UKW 16/11 | Liegeplatzzuweisung, Hafeneinfahrterlaubnisse |
+| **Aruba Coast Guard / Küstenwache** | Via Port Control UKW 16 | Erlaubnis designierter Ankerplatz für Nachtankünfte >22:00 |
 
-Fonti: arubaports.com Yachting ★★★★★; visitaruba.com IASA/DIMAS ★★★★★; gobierno.aw DIMAS ★★★★★
+Quellen: arubaports.com Yachting ★★★★★; visitaruba.com IASA/DIMAS ★★★★★; gobierno.aw DIMAS ★★★★★
 
-## Esperienze dei crocieristi
+## Erfahrungen von Fahrtenseglern
 
-- Uffici di Barcadera descritti come **cordiali ed efficienti** una volta ormeggiati, anche se l'area (zona industriale, discarica a NW) non è scenografica — ormeggiare con parabordi e cime pronte sul lato di accosto (di solito sinistra). ★★★ (aruba-cruisingguide.com; cruiserswiki.org)
-- A Barcadera la manovra col vento al traverso richiede preparazione; tenersi pronti **helpers a terra** per le cime. ★★★ (blue-joline.com 2024)
-- Chiamare **30 min prima** dell'arrivo velocizza l'uscita dell'ufficiale Immigration (che deve scendere da Barcadera se si è dirottati a Oranjestad). ★★★ (aruba-cruisingguide.com)
-- Oranjestad Customs Quay criticato perché **banchina non pensata per piccole barche** e vicina al traffico crocieristico — preferibile Barcadera quando disponibile. ★★ (Aggregierte Fahrtensegler-Quellen commenti naviganti)
+- Büros Barcadera beschrieben als **freundlich und effizient** sobald festgemacht, auch wenn Areal (Industriezone, Deponie NW) nicht malerisch — mit Fendern und Leinen klar auf Anlegeseite (i.d.R. Backbord) anlegen. ★★★ (aruba-cruisingguide.com; cruiserswiki.org)
+- Bei Barcadera erfordert Querwind-Manöver Vorbereitung; **Helfer an Land** für Leinen bereithalten. ★★★ (blue-joline.com 2024)
+- **30 Min vorher** anrufen beschleunigt Anrücken des Immigration-Beamten (muss aus Barcadera anfahren falls nach Oranjestad umgeleitet). ★★★ (aruba-cruisingguide.com)
+- Oranjestad Customs Quay kritisiert weil **Kai nicht für kleine Boote ausgelegt** und nah am Kreuzfahrtverkehr — Barcadera bevorzugt wenn verfügbar. ★★ (Aggregierte Fahrtensegler-Quellen Kommentare)
 
-## Sanzioni
+## Sanktionen
 
-- **Permanere in acque arubane senza consenso dell'immigrazione è reato** (“It is considered an offense to remain in Aruban waters without the prior consent of the immigration authorities”). [arubaports.com Yachting — REQUIREMENTS ONCE IN ARUBAN WATERS ★★★★★]
-- **Soggiorno oltre i giorni concessi senza proroga** può comportare **rifiuto di future ammissioni** e annotazione *blacklist* al controllo di frontiera. [visitaruba.com “Staying longer … can have negative consequences for future admission ; Admission can be refused if … blacklisted” ★★★★★]
-- **Armi e fiocine non dichiarate / non consegnate**: sequestro immediato all'ispezione e possibili sanzioni doganali — **DATO MANCANTE** sull'importo: nessuna tabella sanzioni pubblicata trovata su arubaports.com o gobierno.aw; da verificare con Dogana in banchina. [varaderoaruba.com / Fonti diportiste aggregate — “rifles and spear guns will be seized” ★★★]
-- **Dettaglio importi multe doganali/immigrazione**: **DATO MANCANTE** — nessuna fonte governativa con tariffario sanzioni per mancata clearance yacht reperita su overheid.aw / dimasaruba.aw al 27/08/2026; verificare con APA/Douane prima della crociera.
+- **Verbleib in arubanischen Gewässern ohne Zustimmung Immigration ist Straftat** („It is considered an offense to remain in Aruban waters without the prior consent of the immigration authorities“). [arubaports.com Yachting — REQUIREMENTS ONCE IN ARUBAN WATERS ★★★★★]
+- **Aufenthalt über gewährte Tage ohne Verlängerung** kann **Verweigerung künftiger Zulassungen** und *Blacklist*-Vermerk bei Grenzkontrolle nach sich ziehen. [visitaruba.com „Staying longer … can have negative consequences for future admission ; Admission can be refused if … blacklisted“ ★★★★★]
+- **Nicht deklarierte / nicht abgegebene Waffen und Harpunen**: sofortige Beschlagnahme bei Inspektion und mögliche Zollstrafen — **DATEN FEHLEN** zur Höhe: keine veröffentlichte Straftabelle auf arubaports.com oder gobierno.aw gefunden; an der Kai beim Zoll klären. [varaderoaruba.com / Aggregierte Fahrtensegler-Quellen — „rifles and spear guns will be seized“ ★★★]
+- **Details Bußgeldhöhen Zoll/Immigration**: **DATEN FEHLEN** — keine Regierungsquelle mit Bußgeldtarif für unterlassene Yacht-Clearance auf overheid.aw / dimasaruba.aw zum 27/08/2026 gefunden; bei APA/Douane vor Törn klären.
 
-## Da verificare prima della crociera
+## Vor dem Törn zu klären
 
-- **Orari sportello Immigration/Customs a Barcadera / Oranjestad** (non pubblicati su arubaports.com al 27/08/2026) — chiedere a Port Control VHF 16/11 o a Varadero Aruba (+297 588-3840).
-- **Eventuale obbligo di pre-notifica via marina** (alcune guide locali indicano che Varadero/Wind Creek devono notificare le autorità 3 giorni prima — regola non confermata su fonte governativa ★★★, da verificare con la marina prescelta).
-- **Evoluzione deviazione Barcadera ↔ Oranjestad**: i lavori al bacino possono spostare il punto di clearance — confermare con Port Control all'avvicinamento.
-- **Tariffario sanzioni aggiornato** e **lista broker doganali autorizzati** (Landseair +297 582-9284, Ashley Broker +297 593-8305 / ashleybroker@setarnet.aw citati solo su allatsea.net ★★ — da confermare con Dogana).
+- **Schalterzeiten Immigration/Customs in Barcadera / Oranjestad** (nicht veröffentlicht auf arubaports.com zum 27/08/2026) — bei Port Control UKW 16/11 oder Varadero Aruba (+297 588-3840) erfragen.
+- **Etwaige Voranmeldepflicht über Marina** (manche lokale Guides nennen Varadero/Wind Creek müsse Behörden 3 Tage vorher notifizieren — Regel nicht behördlich bestätigt ★★★, bei gewählter Marina klären).
+- **Entwicklung Umleitung Barcadera ↔ Oranjestad**: Beckenarbeiten können Clearance-Punkt verlagern — bei Ansteuerung mit Port Control bestätigen.
+- **Aktueller Bußgeldtarif** und **Liste autorisierter Zollagenten** (Landseair +297 582-9284, Ashley Broker +297 593-8305 / ashleybroker@setarnet.aw nur auf allatsea.net ★★ — mit Zoll bestätigen).
 
-Ultimo aggiornamento: 27/08/2026
+Letzte Aktualisierung: 27/08/2026

@@ -1,23 +1,23 @@
 # Driftwood Restaurant
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Todos os restaurantes](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Campo | Detalhe |
 |---|---|
 | Zona | Klipstraat 12, Oranjestad |
-| Cucina | 🐟 Frutti di mare locali autentici |
-| Specialità | Pesce fresco del giorno · zuppe di pesce · arubana |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🪶 legno nautico, autentico |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Driftwood+Restaurant+Oranjestad) |
-| Contatti | Klipstraat 12, Oranjestad |
-| Valutazioni | TA 4,5/5 · [VisitAruba.com](https://www.visitaruba.com/restaurants) + [AuthenticChicLifestyle Top 25](https://www.authenticchiclifestyle.com) → ★★★★ |
-| Orari | **DATO MANCANTE** — verificare su Facebook/Instagram locale |
+| Cozinha | 🐟 Marisco local autêntico |
+| Especialidade | Peixe fresco do dia · sopas de peixe · cozinha arubana |
+| Custo | 💰€€ por pessoa sem bebidas |
+| Localização | 🪶 madeira náutica, autêntico |
+| Mapa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Driftwood+Restaurant+Oranjestad) |
+| Contactos | Klipstraat 12, Oranjestad |
+| Avaliações | TA 4,5/5 · [VisitAruba.com](https://www.visitaruba.com/restaurants) + [AuthenticChicLifestyle Top 25](https://www.authenticchiclifestyle.com) → ★★★★ |
+| Horário | **DADO EM FALTA** — verificar no Facebook/Instagram local |
 
 ## Menu
 
-- Top seafood autentico arubano
-- Interni in legno caratteristici
-- Piatti arubani tradizionali
+- Melhor marisco arubano autêntico
+- Interior característico em madeira
+- Pratos tradicionais arubanos
 
-**Note**: Citato tra i migliori locali autentici sia dall'ente turismo sia dai blog food locali. Fonte locale: [VisitAruba](https://www.visitaruba.com/restaurants) ★★★ · [AuthenticChicLifestyle](https://www.authenticchiclifestyle.com/single-post/top-25-aruba-best-restaurants-guide) ★★★
+**Nota**: Citado entre os locais mais autênticos tanto pela entidade de turismo como por blogues gastronómicos locais. Fonte local: [VisitAruba](https://www.visitaruba.com/restaurants) ★★★ · [AuthenticChicLifestyle](https://www.authenticchiclifestyle.com/single-post/top-25-aruba-best-restaurants-guide) ★★★

@@ -1,24 +1,26 @@
 # Yemanja Woodfired Grill
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Alle Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Feld | Detail |
 |---|---|
-| Zona | Wilhelminastraat 2, Oranjestad |
-| Cucina | 🥩 Wood grill + 🥗 vegan/healthy |
-| Specialità | Grill a legna · opzioni vegane/gluten-free · frutti di mare |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🌴 terrazza giardino, anche indoor AC |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Yemanja+Woodfired+Grill+Oranjestad) |
-| Contatti | Wilhelminastraat 2, Oranjestad · no AMEX |
-| Valutazioni | TA 4,6/5 (3.404 recensioni) → ★★★★½ |
-| Orari | Sera · policy bimbi: <6 anni solo fino 18:30 |
+| Zone | Wilhelminastraat 2, Oranjestad |
+| Küche | 🥩 Holzofen-Grill + 🥗 vegan/healthy |
+| Spezialität | Holzofen-Grill · vegane/glutenfreie Optionen · Meeresfrüchte |
+| Preis | 💰€€ pro Person ohne Getränke |
+| Lage | 🌴 Gartenterrasse, auch indoor klimatisiert |
+| Karte | [Google Maps](https://www.google.com/maps/search/?api=1&query=Yemanja+Woodfired+Grill+Oranjestad) |
+| Kontakt | Wilhelminastraat 2, Oranjestad · kein AMEX |
+| Bewertungen | TA 4,6/5 (3.404 Bewertungen) → ★★★★½ |
+| Öffnungszeiten | Abends · Kinder-Regel: <6 Jahre nur bis 18:30 |
 
-## Menu
+## Speisekarte
 
-- Grill a legna con influenze caraibiche
-- Ampio menu vegetariano/vegan/gluten-free
-- Porzioni ridotte -30% fino 12 anni
-- Interni ed esterni non-fumatori, lussureggiante
+- Holzofen-Grill mit karibischen Einflüssen
+- Umfangreiches vegetarisches/veganes/glutenfreies Angebot
+- Reduzierte Portionen -30% bis 12 Jahre
+- Innen und außen Nichtraucher, üppiges Grün
 
-**Note**: Ambiente tranquillo tra verde, cucina creativa e attenta alle diete. Prenotazione consigliata, possibili attese anche con prenotazione nei picchi. Fonte: TripAdvisor ★★★ · [Aruba.com](https://www.aruba.com) lista Oranjestad ★★★
+**Hinweis**: Ruhige grüne Lage, kreative Küche mit Fokus auf Diäten. Reservierung empfohlen, Wartezeiten auch mit Reservierung zu Stoßzeiten möglich. Quelle: TripAdvisor ★★★ · [Aruba.com](https://www.aruba.com) Oranjestad-Liste ★★★
+
+Letzte Aktualisierung: 27/08/2026

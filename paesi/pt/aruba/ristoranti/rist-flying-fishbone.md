@@ -1,23 +1,23 @@
 # The Flying Fishbone
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Todos os restaurantes](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Campo | Detalhe |
 |---|---|
-| Zona | Savaneta — costa sud |
-| Cucina | 🐟 Pesce piedi nella sabbia |
-| Specialità | Pesce fresco piedi nell'acqua · tramonto |
-| Costo | 💰€€€ per persona senza bevande |
-| Location | 🌅 spiaggia, tavoli sull'acqua |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=The+Flying+Fishbone+Savaneta) |
-| Contatti | Savaneta, Aruba · prenotazione obbligatoria settimane in anticipo |
-| Valutazioni | TA 4,7/5 (8.052 recensioni) · [OneHappyIsland](https://onehappyisland.com/best-restaurants-in-aruba/) “Most unique setting” → ★★★★½ |
-| Orari | Pranzo e cena · tavoli nell'acqua al tramonto |
+| Zona | Savaneta — costa sul |
+| Cozinha | 🐟 Marisco com pés na areia |
+| Especialidade | Peixe fresco com pés dentro de água · pôr-do-sol |
+| Custo | 💰€€€ por pessoa sem bebidas |
+| Localização | 🌅 praia, mesas dentro de água |
+| Mapa | [Google Maps](https://www.google.com/maps/search/?api=1&query=The+Flying+Fishbone+Savaneta) |
+| Contactos | Savaneta, Aruba · reserva obrigatória com semanas de antecedência |
+| Avaliações | TA 4,7/5 (8.052 avaliações) · [OneHappyIsland](https://onehappyisland.com/best-restaurants-in-aruba/) “Most unique setting” → ★★★★½ |
+| Horário | Almoço e jantar · mesas dentro de água ao pôr-do-sol |
 
 ## Menu
 
-- Tavoli direttamente con i piedi nell'acqua al tramonto
-- Pesce fresco caraibico
-- Tra i più fotografati dell'isola
+- Mesas diretamente com os pés dentro de água ao pôr-do-sol
+- Peixe fresco caraíbe
+- Um dos mais fotografados da ilha
 
-**Note**: A Savaneta, raggiungibile da Spanish Lagoon/San Nicolas in auto/tender + taxi — non walking da Oranjestad, ma tappa iconica sud. Prenotare 2–3 settimane prima in alta stagione. Fonte locale: [OneHappyIsland Best Restaurants 2026](https://onehappyisland.com/best-restaurants-in-aruba/) ★★★ · [Aruba.com](https://www.aruba.com) ★★★
+**Nota**: Em Savaneta, acessível de Spanish Lagoon/San Nicolas de carro/bote + táxi — não acessível a pé desde Oranjestad, mas etapa icónica do sul. Reservar 2–3 semanas antes em época alta. Fonte local: [OneHappyIsland Best Restaurants 2026](https://onehappyisland.com/best-restaurants-in-aruba/) ★★★ · [Aruba.com](https://www.aruba.com) ★★★

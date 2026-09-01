@@ -1,20 +1,20 @@
-# Wind Creek Marina — ingresso {#anc-wind-creek}
+# Wind Creek Marina — Einfahrt {#anc-wind-creek}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← Alle Ankerplätze](../08-ancoraggi.md)
 **12°31′01″ N 70°02′21″ W** ★★★★
 
-| Campo | Dettaglio |
+| Feld | Detail |
 |---|---|
-| **Profondità** |~3 m alla boa d'ingresso|
-| **Tenuta àncora** |— (marina)|
-| **Venti/riparo** |Porto di Oranjestad|
-| **Pericoli** |Chiamare Port Control VHF 16|
-| **Boe/divieti/normative** |Boa d'ingresso ufficiale|
-| **A terra** |Servizi completi, clearance, provisioning|
+| **Tiefe** |~3 m an der Einfahrtsboje|
+| **Halt** |— (Marina)|
+| **Wind/Schutz** |Hafen Oranjestad, geschützt|
+| **Gefahren** |Port Control UKW 16 anrufen|
+| **Bojen/Verbote/Vorschriften** |Amtliche Einfahrtsboje|
+| **Landgang** |Komplettservice, Clearance, Provisioning|
 
 <div class="mapframe" data-slug="anc-wind-creek" data-minz="12" data-maxz="17" data-lat="12.5169" data-lon="-70.0391"></div>
-*Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
+*Detailkarte — mit ± bis in die Bucht zoomen · Offline-Karte · Koordinaten WGS84 indikativ, stets mit Plotter prüfen*
 
-Fonti: Wind Creek Marina ★★★★ · aruba-cruisingguide.com ★★★
+Quellen: Wind Creek Marina ★★★★ · aruba-cruisingguide.com ★★★
 
-Ultimo aggiornamento: 25/08/2026
+Letzte Aktualisierung: 25/08/2026

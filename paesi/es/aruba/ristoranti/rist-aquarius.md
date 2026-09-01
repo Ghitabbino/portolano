@@ -1,24 +1,24 @@
 # Aquarius
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Todos los restaurantes](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Campo | Detalle |
 |---|---|
 | Zona | Renaissance Marina |
-| Cucina | 🐟 Contemporanea caraibica con tocchi internazionali |
-| Specialità | Ceviche · pesce del giorno · grill |
-| Costo | 💰€€€ per persona senza bevande |
-| Location | ⚓ marina, vista harbour |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Aquarius+Restaurant+Renaissance+Marina+Aruba) |
-| Contatti | L.G. Smith Blvd 82, Renaissance Marina Hotel, Oranjestad |
-| Valutazioni | Google 4,3/5 · One Happy Island 2026: “contemporary dining overlooking marina” → ★★★★ |
-| Orari | Colazione, pranzo e cena giornalieri |
+| Cocina | 🐟 Caribeña contemporánea con toques internacionales |
+| Especialidad | Ceviche · pesca del día · brasa |
+| Coste | 💰€€€ por persona sin bebidas |
+| Ubicación | ⚓ marina, vista a la dársena |
+| Mapa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Aquarius+Restaurant+Renaissance+Marina+Aruba) |
+| Contactos | L.G. Smith Blvd 82, Renaissance Marina Hotel, Oranjestad |
+| Valoraciones | Google 4,3/5 · One Happy Island 2026: “contemporary dining overlooking marina” → ★★★★ |
+| Horarios | Desayuno, comida y cena diarios |
 
-## Menu
+## Carta
 
-- Cucina caraibica contemporanea con ingredienti locali
-- Ceviche pulito e bilanciato
-- Buffet colazione tra i migliori hotel dell'isola
-- Selezione pesce fresco e grill
+- Cocina caribeña contemporánea con ingredientes locales
+- Ceviche limpio y equilibrado
+- Uno de los mejores bufés de desayuno hotelero de la isla
+- Selección de pescado fresco y brasa
 
-**Note**: All'interno del Renaissance Wind Creek Resort, tavoli vista porto per colazione/pranzo più panoramici. Prenotazione consigliata per cena vista marina. Fonte locale: [OneHappyIsland — Aquarius](https://onehappyisland.com/aquarius-restaurant-aruba/) ★★★
+**Nota**: Dentro del Renaissance Wind Creek Resort, mesas con vista a la dársena más panorámicas para desayuno/comida. Reserva recomendada para cena con vista a la marina. Fuente local: [OneHappyIsland — Aquarius](https://onehappyisland.com/aquarius-restaurant-aruba/) ★★★

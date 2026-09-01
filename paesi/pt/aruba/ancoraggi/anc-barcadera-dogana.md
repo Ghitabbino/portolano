@@ -1,20 +1,20 @@
-# Barcadera — molo dogana {#anc-barcadera-dogana}
+# Barcadera — cais da alfândega {#anc-barcadera-dogana}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← Todos os fundeadouros](../08-ancoraggi.md)
 **12°28′48″ N 70°00′02″ W** ★★★
 
-| Campo | Dettaglio |
+| Campo | Detalhe |
 |---|---|
-| **Profondità** |Secca <1,2 m davanti al molo NW|
-| **Tenuta àncora** |— (banchina)|
-| **Venti/riparo** |—|
-| **Pericoli** |Non arrivare in linea retta: passare prima sul canale profondo|
-| **Boe/divieti/normative** |Sdoganamento yacht|
-| **A terra** |Ufficiali efficienti|
+| **Profundidade** | Baixio <1,2 m ao largo do cais NW |
+| **Tenedouro** | — (atracado ao cais) |
+| **Ventos/abrigo** | Bacia abrigada |
+| **Perigos** | Não aproximar em linha reta: seguir primeiro pelo canal de águas profundas |
+| **Boias/proibições/regulamentação** | Despacho de iates (Immigration + Alfândega) — chamar Port Control VHF 16 |
+| **Em terra** | Funcionários eficientes, escritórios no molhe |
 
 <div class="mapframe" data-slug="anc-barcadera-dogana" data-minz="12" data-maxz="17" data-lat="12.48" data-lon="-70.0006"></div>
-*Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
+*Carta de pormenor — zoom ± até à enseada · mapa offline · coordenadas WGS84 indicativas, verificar sempre com plotter*
 
-Fonti: Fontes náuticas agregadas ★★★ · Wind Creek Marina ★★★★
+Fontes: Fontes náuticas agregadas ★★★ · Wind Creek Marina ★★★★
 
-Ultimo aggiornamento: 25/08/2026
+Última atualização: 28/08/2026

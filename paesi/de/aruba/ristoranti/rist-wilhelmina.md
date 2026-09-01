@@ -1,23 +1,25 @@
 # Wilhelmina
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Alle Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Feld | Detail |
 |---|---|
-| Zona | Oranjestad centro |
-| Cucina | 🍽️ Europeo-caraibica fine dining |
-| Specialità | Menu stagionale a sorpresa · frutti di mare · carni |
-| Costo | 💰€€€ per persona senza bevande |
-| Location | 🌴 courtyard elegante, intimo |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Wilhelmina+Restaurant+Oranjestad) |
-| Contatti | Wilhelminastraat, Oranjestad |
-| Valutazioni | TA 4,7/5 · [Aruba.com](https://www.aruba.com/it/blog/i-migliori-ristoranti-di-oranjestad-ad-aruba) selezione ufficiale 2023 → ★★★★½ |
-| Orari | mar–dom 18:30–22 · lun chiuso |
+| Zone | Zentrum Oranjestad |
+| Küche | 🍽️ Europäisch-karibisch Fine Dining |
+| Spezialität | Überraschungs-Saisonmenü · Meeresfrüchte · Fleisch |
+| Preis | 💰€€€ pro Person ohne Getränke |
+| Lage | 🌴 eleganter intimer Innenhof |
+| Karte | [Google Maps](https://www.google.com/maps/search/?api=1&query=Wilhelmina+Restaurant+Oranjestad) |
+| Kontakt | Wilhelminastraat, Oranjestad |
+| Bewertungen | TA 4,7/5 · [Aruba.com](https://www.aruba.com/it/blog/i-migliori-ristoranti-di-oranjestad-ad-aruba) offizielle Auswahl 2023 → ★★★★½ |
+| Öffnungszeiten | Di–So 18:30–22:00 · Mo geschlossen |
 
-## Menu
+## Speisekarte
 
-- Menu in continua evoluzione secondo stagioni e prodotti locali
-- Frutti di mare e carni di alta qualità
-- Esperienza elegante per serata romantica
+- Ständig wechselndes Menü nach Saison und lokalen Produkten
+- Hochwertige Meeresfrüchte und Fleisch
+- Elegantes Erlebnis für romantischen Abend
 
-**Note**: Fondato 2015, rapidamente top ranking isola. Fonte locale verificata: [Aruba.com — i migliori ristoranti di Oranjestad](https://www.aruba.com/it/blog/i-migliori-ristoranti-di-oranjestad-ad-aruba) ★★★
+**Hinweis**: 2015 gegründet, schnell in Top-Ranking der Insel. Verifizierte lokale Quelle: [Aruba.com — beste Restaurants in Oranjestad](https://www.aruba.com/it/blog/i-migliori-ristoranti-di-oranjestad-ad-aruba) ★★★
+
+Letzte Aktualisierung: 27/08/2026

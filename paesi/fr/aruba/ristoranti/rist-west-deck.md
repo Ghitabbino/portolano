@@ -5,26 +5,26 @@
 | Champ | Détail |
 |---|---|
 | Zone | Oranjestad — Governors Bay |
-| Cuisine | 🐟 Pesce creolo locale |
-| Spécialité | Ribs cadute dall'osso · pang bati · johnny cake |
-| Coût | 💰€€ per persona senza bevande |
-| Emplacement | 🏖️ spiaggia open-air, piedi nella sabbia |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=The+West+Deck+Oranjestad) |
-| Contacts | L.G. Smith Blvd, Governors Bay Beach, Oranjestad · prenotazione consigliata per deck |
-| Évaluations | Google 4,6/5 · MyArubaGuide locale: “locally run beach grill” → ★★★★½ |
-| Horaires | 7/7 10:30–sera (verificare chiusura) · walk-in + prenotazione tavoli deck |
+| Cuisine | 🐟 Poisson créole local |
+| Spécialité | Ribs fondantes · pang bati · johnny cake |
+| Coût | 💰€€ par personne sans boissons |
+| Emplacement | 🏖️ plage en plein air, pieds dans le sable |
+| Carte | [Google Maps](https://www.google.com/maps/search/?api=1&query=The+West+Deck+Oranjestad) |
+| Contacts | L.G. Smith Blvd, Governors Bay Beach, Oranjestad · réservation conseillée pour le deck |
+| Évaluations | Google 4,6/5 · MyArubaGuide local : « locally run beach grill » → ★★★★½ |
+| Horaires | 7/7 10:30–soir (vérifier fermeture) · sans réservation + réservation tables deck |
 
-## Menu
+## Carte & spécialités
 
-- Small plates caraibiche (antipasti abbondanti come piatto principale)
-- Ribs morbidissime — specialità segnalata dai residenti
-- Pang bati (pancake di mais arubano) e johnny cake
-- Pesce fresco del giorno e cocktail
+- Petites assiettes caraïbes (entrées généreuses comme plat principal)
+- Ribs ultra-fondantes — spécialité signalée par les habitants
+- Pang bati (crêpe de maïs arubaine) et johnny cake
+- Poisson frais du jour et cocktails
 
-## Photos
+## Photo
 
 ![The West Deck](img/aruba/rist-west-deck.jpg)
 
 *Source: myarubaguide.com*
 
-**Note**: Locale gestito da residenti, senza aria condizionata (brezza marina) — ideale pranzo/cena informale con vista crociere in partenza (17–18). Parcheggio limitato presso Renaissance Marketplace. Source locale verificata: [MyArubaGuide](https://www.myarubaguide.com/discover/restaurants/the-west-deck) ★★★
+**Note** : Tenu par des locaux, sans climatisation (brise marine) — idéal pour déjeuner/dîner décontracté avec vue sur les paquebots au départ (17:00–18:00). Parking limité au Renaissance Marketplace. Source locale vérifiée : [MyArubaGuide](https://www.myarubaguide.com/discover/restaurants/the-west-deck) ★★★

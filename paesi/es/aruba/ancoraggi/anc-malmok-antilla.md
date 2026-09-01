@@ -1,20 +1,20 @@
-# Malmok — relitto Antilla {#anc-malmok-antilla}
+# Malmok — pecio Antilla {#anc-malmok-antilla}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
+[← Todos los fondeaderos](../08-ancoraggi.md)
 **12°36′06″ N 70°03′30″ W** ★★
 
-| Campo | Dettaglio |
+| Campo | Detalle |
 |---|---|
-| **Profondità** |8–15 m|
-| **Tenuta àncora** |Sabbia/roccia mista|
-| **Venti/riparo** |Day stop|
-| **Pericoli** |Boe charter sul relitto non usabili 9–17|
-| **Boe/divieti/normative** |Ancoraggio libero nelle vicinanze fuori tracciato|
-| **A terra** |Snorkeling sul relitto|
+| **Profundidad** | 8–15 m |
+| **Tenedero** | Arena/roca mixta |
+| **Vientos/abrigo** | Escala diurna |
+| **Peligros** | Boyas de charter sobre el pecio no utilizables 09:00–17:00 |
+| **Boyas/prohibiciones/normativa** | Fondeo libre en las inmediaciones fuera de la derrota |
+| **En tierra** | Snorkel sobre el pecio |
 
 <div class="mapframe" data-slug="anc-malmok-antilla" data-minz="12" data-maxz="17" data-lat="12.6017" data-lon="-70.0583"></div>
-*Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre col plotter*
+*Carta de detalle — zoom ± hasta la bahía · mapa offline · coordenadas WGS84 indicativas, verificar siempre con el plotter*
 
-Fonti: aruba-cruisingguide.com ★★★
+Fuentes: aruba-cruisingguide.com ★★★
 
-Ultimo aggiornamento: 25/08/2026
+Última actualización: 28/08/2026

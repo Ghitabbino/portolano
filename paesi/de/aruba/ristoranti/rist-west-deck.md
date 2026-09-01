@@ -1,30 +1,32 @@
 # The West Deck
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Alle Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Feld | Detail |
 |---|---|
-| Zona | Oranjestad — Governors Bay |
-| Cucina | 🐟 Pesce creolo locale |
-| Specialità | Ribs cadute dall'osso · pang bati · johnny cake |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🏖️ spiaggia open-air, piedi nella sabbia |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=The+West+Deck+Oranjestad) |
-| Contatti | L.G. Smith Blvd, Governors Bay Beach, Oranjestad · prenotazione consigliata per deck |
-| Valutazioni | Google 4,6/5 · MyArubaGuide locale: “locally run beach grill” → ★★★★½ |
-| Orari | 7/7 10:30–sera (verificare chiusura) · walk-in + prenotazione tavoli deck |
+| Zone | Oranjestad — Governors Bay |
+| Küche | 🐟 Kreolischer lokaler Fisch |
+| Spezialität | Ribs · Pang Bati · Johnny Cake |
+| Preis | 💰€€ pro Person ohne Getränke |
+| Lage | 🏖️ Open-Air Strand, Füße im Sand |
+| Karte | [Google Maps](https://www.google.com/maps/search/?api=1&query=The+West+Deck+Oranjestad) |
+| Kontakt | L.G. Smith Blvd, Governors Bay Beach, Oranjestad · Reservierung für Deck-Tische empfohlen |
+| Bewertungen | Google 4,6/5 · MyArubaGuide lokal: „locally run beach grill“ → ★★★★½ |
+| Öffnungszeiten | Täglich 10:30–abends (Schließung prüfen) · Walk-in + Reservierung Deck-Tische |
 
-## Menu
+## Speisekarte
 
-- Small plates caraibiche (antipasti abbondanti come piatto principale)
-- Ribs morbidissime — specialità segnalata dai residenti
-- Pang bati (pancake di mais arubano) e johnny cake
-- Pesce fresco del giorno e cocktail
+- Karibische Small Plates (herzhafte Vorspeisen als Hauptgericht)
+- Butterzarte Ribs — von Einheimischen hervorgehobene Spezialität
+- Pang Bati (arubanischer Mais-Pfannkuchen) und Johnny Cake
+- Tagesfang und Cocktails
 
 ## Foto
 
 ![The West Deck](img/aruba/rist-west-deck.jpg)
 
-*Fonte: myarubaguide.com*
+*Quelle: myarubaguide.com*
 
-**Note**: Locale gestito da residenti, senza aria condizionata (brezza marina) — ideale pranzo/cena informale con vista crociere in partenza (17–18). Parcheggio limitato presso Renaissance Marketplace. Fonte locale verificata: [MyArubaGuide](https://www.myarubaguide.com/discover/restaurants/the-west-deck) ★★★
+**Hinweis**: Einheimisch geführt, keine Klimaanlage (Meeresbrise) — ideal für ungezwungenes Mittag-/Abendessen mit Blick auf auslaufende Kreuzfahrtschiffe (17–18 Uhr). Begrenzte Parkplätze beim Renaissance Marketplace. Verifizierte lokale Quelle: [MyArubaGuide](https://www.myarubaguide.com/discover/restaurants/the-west-deck) ★★★
+
+Letzte Aktualisierung: 27/08/2026

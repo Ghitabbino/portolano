@@ -2,9 +2,9 @@
 
 **Dernière mise à jour: 27/08/2026**
 
-Selezione orientata alla crociera: locali raggiungibili a piedi o con breve trasferimento in tender dagli ancoraggi e marine del portolano ([08 Ancoraggi](08-ancoraggi.md)). Valutazione ponderata = media Google/TripAdvisor/OpenTable + recensioni locali, verificata il 27/08/2026. Prezzi indicativi per persona senza bevande.
+Sélection orientée croisière : établissements accessibles à pied ou avec court transfert en annexe depuis les mouillages et marinas du guide ([08 Mouillages](08-ancoraggi.md)). Évaluation pondérée = moyenne Google/TripAdvisor/OpenTable + avis locaux, vérifiée le 27/08/2026. Prix indicatifs par personne hors boissons.
 
-Légende prezzi: **€** <20 · **€€** 20–40 · **€€€** >40 — Cuisine: 🐟 pesce e frutti di mare · 🥩 carne e grigliate · 🥗 vegetariano-friendly · 🥙 street food creolo · 🍰 dolci
+Légende prix : **€** <20 · **€€** 20–40 · **€€€** >40 — Cuisine : 🐟 poisson et fruits de mer · 🥩 viandes et grillades · 🥗 végétarien · 🥙 street food créole · 🍰 douceurs
 
 ## Carte des restaurants
 
@@ -31,9 +31,9 @@ Légende prezzi: **€** <20 · **€€** 20–40 · **€€€** >40 — Cuis
 | Piattaforma | Uso locale |
 |---|---|
 | [TripAdvisor](https://www.tripadvisor.com/Restaurants-g147247-Aruba.html) | Ampio ma verificare recensioni locali |
-| [Google Maps recensioni](https://maps.google.com) | Il più aggiornato; orari spesso errati fuori stagione |
+| [Google Maps avis](https://maps.google.com) | Le plus à jour ; horaires souvent erronés hors saison |
 | [VisitAruba.com](https://www.visitaruba.com/restaurants) | Guida ufficiale locale con menu, foto e booking — **fonte locale verificata** ★★★ |
-| [Aruba.com — Oranjestad dining](https://www.aruba.com/it/blog/i-migliori-ristoranti-di-oranjestad-ad-aruba) | Selezione ufficiale dell'ente turismo (Wilhelmina, Taste My Aruba, Carte Blanche) ★★★ |
+| [Aruba.com — Oranjestad dining](https://www.aruba.com/it/blog/i-migliori-ristoranti-di-oranjestad-ad-aruba) | Sélection officielle de l'office de tourisme (Wilhelmina, Taste My Aruba, Carte Blanche) ★★★ |
 | [MyArubaGuide — The West Deck](https://www.myarubaguide.com) | Blog locale / guida residenti con recensioni dettagliate waterfront ★★★ |
 | [AuthenticChicLifestyle — Top 25 Aruba](https://www.authenticchiclifestyle.com) | Blog food locale con classifica Old Cunucu House, Driftwood, Papiamento ★★★ |
 | Facebook/Instagram locali | Pagine dei ristoranti: menu e chiusure in tempo reale |

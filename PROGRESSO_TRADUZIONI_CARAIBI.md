@@ -3,13 +3,14 @@
 **Regola scolpita 31/08/2026 — AGENTI_HANDOFF.md:16d (vale per TUTTI, per SEMPRE):** traduzione **lineare per PAESE: un paese alla volta completamente in TUTTE le lingue (IT→EN→FR→ES→DE→PT)** (`00→10` + `ancoraggi/*.md` + `ristoranti/*.md`), **ordine pesanti-first** (peso IT decrescente). **Un paese è ☑ solo quando EN+FR+ES+DE+PT sono madrelingua verificati.**  
 **Non cancellare** i compiti svolti — spunta la casella. Fonte di verità per l'avanzamento.
 
-> Aggiornato: 01-09-2026 — REGOLA 16d lineare per PAESE. Barbados 5 lingue ☑ 31/08. Bonaire 5 lingue ☑ 01/09 (EN 23 md + FR 23 md + ES 23 md + DE 23 md + PT 23 md, 08 + 4 anc + 8 rist riscritti, grep IT 0, build OK).
+> Aggiornato: 01-09-2026 — REGOLA 16d lineare per PAESE. Barbados 5 lingue ☑ 31/08. Bonaire 5 lingue ☑ 01/09. Aruba 5 lingue ☑ 01/09 (EN 27 md verificato + FR/ES/DE/PT 27 md riscritti, grep IT 0, build OK).
 
 ## Stato generale
 - [x] **Prima pagina:** traduzione “Scorri — trasparenza, ringraziamenti e supporto sotto” in tutte le lingue (IT/EN/FR/ES/DE/PT) — `paesi/i18n/*.json:scroll_hint` + `build_paesi_html.py:674` — verificato in `it/en/fr/es/de/pt/index.html`
 - [x] Fix precedenti mantenuti visibili (Cabo Verde → globale REGOLA 16b, fix hide #p1)
 - [x] **Barbados 5 lingue:** riscrittura completa EN+FR+ES+DE+PT madrelingua verificata (30 file x5 = 150 md), `grep IT leak 0`, markers tradotti, build `en/fr/es/de/pt/index.html` — `paesi/{en,fr,es,de,pt}/barbados/*.md:1`
 - [x] **Bonaire 5 lingue:** riscrittura completa EN+FR+ES+DE+PT madrelingua (23 file x5 = 115 md), `grep IT leak 0`, 08 + 4 anc + 8 rist riscritti, markers tradotti, build 6 lingue — `paesi/{en,fr,es,de,pt}/bonaire/*.md:1`
+- [x] **Aruba 5 lingue:** riscrittura completa EN+FR+ES+DE+PT madrelingua (27 file x5 = 135 md), `grep IT leak 0`, 08 + 7 anc + 9 rist riscritti, markers tradotti, build 6 lingue — `paesi/{en,fr,es,de,pt}/aruba/*.md:1`
 
 ## Coda pesanti-first — IT → EN/FR/ES/DE/PT (ordine di esecuzione, 31/08/2026)
 
@@ -17,7 +18,7 @@
 
 - [x] 01. **Barbados** — `barbados` (92 974 B) — ☑ COMPLETATO 31/08 — EN ☑ (30 md) · FR ☑ (30 md, verificato madrelingua, 59 DONNÉE MANQUANTE) · ES ☑ (30 md riscritti, 59 DATO FALTANTE, markers ES) · DE ☑ (30 md, 59 DATEN FEHLEN) · PT ☑ (30 md riscritti, 58 DADO EM FALTA) — `grep IT leak 0` + build 6 lingue OK
 - [x] 02. **Bonaire** — `bonaire` (92 924 B) — ☑ COMPLETATO 01/09 — EN ☑ (23 md) · FR ☑ (23 md, 20 DONNÉE MANQUANTE) · ES ☑ (23 md, 20 DATO FALTANTE) · DE ☑ (23 md, 22 DATEN FEHLEN) · PT ☑ (23 md, 22 DADO EM FALTA) — `grep IT leak 0` + build 6 lingue OK
-- [ ] 03. **Aruba** — `aruba` (86 987 B) — ☐ 00 EN ☑ — 01-10 EN in corso
+- [x] 03. **Aruba** — `aruba` (86 987 B) — ☑ COMPLETATO 01/09 — EN ☑ (27 md) · FR ☑ (27 md, 22 DONNÉE MANQUANTE) · ES ☑ (27 md, 22 DATO FALTANTE) · DE ☑ (27 md, 22 DATEN FEHLEN) · PT ☑ (27 md, 22 DADO EM FALTA) — `grep IT leak 0` + build 6 lingue OK
 - [ ] 04. **Repubblica Dominicana** — `repubblica-dominicana` (82 211 B)
 - [ ] 05. **Cuba** — `cuba` (76 349 B)
 - [ ] 06. **Giamaica** — `giamaica` (69 712 B)
@@ -58,5 +59,5 @@
 - Anguilla · Antigua e Barbuda · Aruba · Bahamas · Barbados · Belize · Bonaire · Isole Cayman · Colombia · Costa Rica · Cuba · Curaçao · Dominica · Giamaica · Grenada · Grenadine · Guadalupa · Haiti · Honduras · Martinica · Montserrat · Nicaragua · Panama · Porto Rico · Repubblica Dominicana · Saba · Saint-Barth · Saint-Martin · Santa Lucia · Sint Eustatius · St-Kitts e Nevis · Trinidad e Tobago · Turks e Caicos · Venezuela · Isole Vergini
 
 ---
-**Prossimo:** 03. Aruba — (86 987 B, 27 md IT: 11 pagine + 7 ancoraggi + 9 ristoranti) — EN in corso, poi FR/ES/DE/PT pesanti-first.
+**Prossimo:** 04. Repubblica Dominicana — (82 211 B, 16 md IT) — pesanti-first, EN→FR→ES→DE→PT.
 Nota: questo file è la fonte di verità; i completati restano `[x]` con data/commit, mai cancellati.

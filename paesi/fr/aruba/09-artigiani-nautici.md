@@ -1,12 +1,12 @@
 # 09 — Artisans & Shipchandlers
 
-Hub tecnico concentrato tra **Varadero Aruba Marina & Boatyard** (Bucutiweg 34) e **Wind Creek Marina / Renaissance Marketplace** (LG Smith Blvd 9). Per lavori importanti chiedere sempre **preventivo scritto** e confermare tempi in alta stagione (dic–apr), quando i piazzali sono pieni per lo svernamento fuori uragani. Contatto tipico via telefono/WhatsApp; si parla inglese e olandese (papiamento).
+Pôle technique concentré entre **Varadero Aruba Marina & Boatyard** (Bucutiweg 34) et **Wind Creek Marina / Renaissance Marketplace** (LG Smith Blvd 9). Pour travaux importants toujours demander un **devis écrit** et confirmer les délais en haute saison (déc–avr), quand les terre-pleins sont pleins pour l'hivernage hors ouragans. Contact habituel par téléphone/WhatsApp ; on parle anglais et néerlandais (papiamento).
 
-## Tabella artigiani
+## Tableau artisans
 
-| Ditta / Nome | Referente | Area di intervento | Dealer / Installatore autorizzato (marchi) | Tel | Mail | Sede & orari | Recensioni |
+| Entreprise / Nom | Référent | Domaine d'intervention | Dealer / Installateur agréé (marques) | Tél | Mail | Site & horaires | Avis |
 |---|---|---|---|---|---|---|---|
-| **Varadero Aruba Marina & Boatyard** (dal 1976) | Ufficio cantiere | Alaggio/varamento con rimorchi Roodberg 20 t/60 t (mono fino a 80′/beam 42′/105′ max), rimessaggio a secco “off customs” (fuori tassa 180 gg), antivegetativa Copper Coat, riparazioni scafo/GRP, saldatura, survey | Roodberg trailers · Copper Coat specialist | +297 588 3850 · WhatsApp +297 594 5686 | info@varaderoaruba.com | Bucutiweg 34, Oranjestad · lun–ven 8–17, sab 8–12 · [varaderoaruba.com](https://www.varaderoaruba.com) | ★★★★ |
+| **Varadero Aruba Marina & Boatyard** (depuis 1976) | Bureau chantier | Mise à l'eau/mise à terre avec remorques Roodberg 20 t/60 t (mono jusqu'à 80′/bau 42′/105′ max), stockage à sec « off customs » (hors taxe 180 j), antifouling Copper Coat, réparations coque/GRP, soudure, survey | Roodberg trailers · Copper Coat specialist | +297 588 3850 · WhatsApp +297 594 5686 | info@varaderoaruba.com | Bucutiweg 34, Oranjestad · lun–ven 08:00–17:00, sam 08:00–12:00 · [varaderoaruba.com](https://www.varaderoaruba.com) | ★★★★ |
 | **Wind Creek Marina (ex Renaissance)** | Sander Vellinga (manager) | Marina 50 posti Med-moor fino a 60 m/pesc. 4,5 m, acqua/elettricità, carburante, piccola chandlery e ordinazione ricambi, spedizione parti “Yacht in Transit” | — | +297 588 0260 | via [windcreekmarina.com](https://www.windcreekmarina.com) | Renaissance Marketplace, LG Smith Blvd 9, Oranjestad | ★★★★ |
 | **The Yacht Mate** | Team Varadero | Gestione uragani full-service, pulizia carena/subacquea, ispezione albero/sartie, ricambi, sorveglianza in assenza | — | via sito | via [theyachtmate.com](https://theyachtmate.com) | c/o Varadero, Bucutiweg 34 · attiva lug–nov (hurricane season) | ★★★ |
 | **Aruba Rigging — Sailboat Services** | — | Ispezione e riparazione sartie fisse/correnti, splicing, trampolini catamarano, rope-work architettonico | — | via sito | via [arubarigging.com](https://www.arubarigging.com) | Mobile su tutta l'isola | ★★★ |
@@ -26,21 +26,21 @@ Hub tecnico concentrato tra **Varadero Aruba Marina & Boatyard** (Bucutiweg 34) 
 - **Amast** — Varadero Certified, lavori generali bordo (via Varadero). ★★
 - **Pipo Bargas** — Varadero Certified, meccanica/finiture (via Varadero). ★★
 - **Shoaya** — Varadero Certified, servizi vari (via Varadero). ★★
-- **Aruba Nautical Club** — Seroe Colorado / Spanish Lagoon, piccolo cantiere con ristorante, pescaggio fino a 3,6 m, accesso tra secche da Bateaudera — Tel +297 585 3022. ★★
-- **Bucuti Yacht Club (BYCA)** — privato, a volte accoglie visitor yacht a sud dell'aeroporto (accanto a Varadero). ★★
+- **Aruba Nautical Club** — Seroe Colorado / Spanish Lagoon, piccolo cantiere con ristorante, pescaggio fino a 3,6 m, accesso tra secche da Barcadera — Tel +297 585 3022. ★★
+- **Bucuti Yacht Club (BYCA)** — privé, accueille parfois des yachts visiteurs au sud de l'aéroport (à côté de Varadero). ★★
 
 ## Où trouver quoi
 
 - **Motoristica/frigoriferi/saldatura**: freelance operanti a **Varadero** (lista Certified sopra) + rete mobile su chiamata in marina; chiedere in capitaineria Wind Creek/Varadero. ★★★
 - **Vele**: nessun sailmaker residente stabile — **Aruba Rigging** + sailmaker itineranti in stagione; lavori gravi a **Antigua/St. Martin/Trinidad**. ★★
 - **Elettronica/energia di bordo**: **Raffi Solar4Me** (Varadero) + ordinazione via Budget Marine / EWMS; ricambi da Miami via Wind Creek “Yacht in Transit”. ★★★
-- **Antifouling/carenaggio**: solo **Varadero** (Roodberg 20/60 t, max 80′/42′ beam) — unico travelift idraulico delle ABC con capacità >35 ft beam. ★★★★
+- **Antifouling/carénage** : uniquement **Varadero** (Roodberg 20/60 t, max 80′/42′ bau) — unique travelift hydraulique des ABC avec capacité >35 ft de bau. ★★★★
 
 ## Magasins d’équipement & shipchandler
 
 | Negozio | Cosa trovi | Marchi notevoli | Tel | Mail / sito | Sede & orari | Recensioni |
 |---|---|---|---|---|---|---|
-| **Budget Marine Aruba** | Il più grande shipchandler dell'isola: 5000 sq ft, ferramenta inox, ricambi, elettronica, trailering | Unico distributore rimorchi/parti rimorchio · ampia gamma marine | +297 585 3796 · WhatsApp +297 737 3796 | [budgetmarine.com](https://budgetmarine.com/locations/budget-marine-aruba/) | Caya Bateaudera 75-B (Balashi), Oranjestad · lun–sab 8–17 | ★★★★ |
+| **Budget Marine Aruba** | Le plus grand shipchandler de l'île : 5000 sq ft, accastillage inox, pièces, électronique, remorquage | Distributeur exclusif remorques/pièces remorque · large gamme marine | +297 585 3796 · WhatsApp +297 737 3796 | [budgetmarine.com](https://budgetmarine.com/locations/budget-marine-aruba/) | Caya Barcadera 75-B (Balashi), Oranjestad · lun–sam 08:00–17:00 | ★★★★ |
 | **Varadero Deep-Water Marine Store** | Ferramenta e materiali cantiere, antivegetativa, vernici, catene | Copper Coat | +297 588 3850 | [varaderoaruba.com](https://www.varaderoaruba.com) | Bucutiweg 34, dentro il boatyard · orari cantiere | ★★★★ |
 | **East Wind Marine Services (EWMS) Boat & Tackle** | Attrezzatura pesca, cime, snorkeling, kayak, ferramenta leggera | Yo-Zuri, MirroLure, Hook & Tackle | +297 588 0260 | EWMS@SETARNET.AW | Renaissance Marketplace, LG Smith Blvd 9, Oranjestad | ★★★ |
 | **Ola Ship Supply** | Ship chandler per yacht e commerciale, provviste, deck/engine stores | — | +297 583 — (Arendstraat 113) | via yachting-pages | Arendstraat 113, Oranjestad | ★★ |

@@ -5,20 +5,20 @@
 | Champ | Détail |
 |---|---|
 | Zone | Wilhelminastraat 2, Oranjestad |
-| Cuisine | 🥩 Wood grill + 🥗 vegan/healthy |
-| Spécialité | Grill a legna · opzioni vegane/gluten-free · frutti di mare |
-| Coût | 💰€€ per persona senza bevande |
-| Emplacement | 🌴 terrazza giardino, anche indoor AC |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Yemanja+Woodfired+Grill+Oranjestad) |
-| Contacts | Wilhelminastraat 2, Oranjestad · no AMEX |
-| Évaluations | TA 4,6/5 (3.404 recensioni) → ★★★★½ |
-| Horaires | Sera · policy bimbi: <6 anni solo fino 18:30 |
+| Cuisine | 🥩 Grill au feu de bois + 🥗 vegan/healthy |
+| Spécialité | Grill au feu de bois · options vegan/sans gluten · fruits de mer |
+| Coût | 💰€€ par personne sans boissons |
+| Emplacement | 🌴 terrasse jardin, aussi intérieur climatisé |
+| Carte | [Google Maps](https://www.google.com/maps/search/?api=1&query=Yemanja+Woodfired+Grill+Oranjestad) |
+| Contacts | Wilhelminastraat 2, Oranjestad · pas d'AMEX |
+| Évaluations | TA 4,6/5 (3 404 avis) → ★★★★½ |
+| Horaires | Soir · politique enfants : <6 ans uniquement jusqu'à 18:30 |
 
-## Menu
+## Carte & spécialités
 
-- Grill a legna con influenze caraibiche
-- Ampio menu vegetariano/vegan/gluten-free
-- Porzioni ridotte -30% fino 12 anni
-- Interni ed esterni non-fumatori, lussureggiante
+- Grill au feu de bois aux influences caraïbes
+- Large carte végétarienne/vegan/sans gluten
+- Portions réduites -30% jusqu'à 12 ans
+- Intérieur et extérieur non-fumeurs, cadre luxuriant
 
-**Note**: Ambiente tranquillo tra verde, cucina creativa e attenta alle diete. Prenotazione consigliata, possibili attese anche con prenotazione nei picchi. Source: TripAdvisor ★★★ · [Aruba.com](https://www.aruba.com) lista Oranjestad ★★★
+**Note** : Cadre tranquille verdoyant, cuisine créative attentive aux régimes. Réservation conseillée, attente possible même avec réservation aux heures de pointe. Source : TripAdvisor ★★★ · [Aruba.com](https://www.aruba.com) liste Oranjestad ★★★

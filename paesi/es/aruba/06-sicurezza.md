@@ -1,107 +1,107 @@
-# 06 — Sicurezza
+# 06 — Seguridad
 
-**Ultima verifica completa: 27/08/2026** · Prossimo controllo mensile: **27/09/2026**
+**Última verificación completa: 28/08/2026** · Próximo control mensual: **28/09/2026**
 
-## Valutazione sicurezza: **4 / 5**
+## Valoración de seguridad: **4 / 5**
 
-| Aspetto | Voto | Motivazione |
+| Aspecto | Nota | Motivo |
 |---|---|---|
-| Sicurezza personale (turisti/crocieristi) | 4/5 | Advisory Canada/USA/UK al livello più basso (precauzioni normali); reati violenti contro visitatori rari e non mirati |
-| Furti materiali a bordo | 3/5 | Dinghy/fuoribordo e oggetti da pozzetto: 5 episodi CSSN negli ultimi 5 anni entro 10 km da Oranjestad — rischio contenuto ma reale se non lucchettati |
-| Contesto generale dell'isola | 4/5 | Criminalità complessiva moderata-bassa, isola turistica molto pattugliata con intervento rapido nelle zone hotel |
+| Seguridad personal (turistas/navegantes) | 4/5 | Avisos Canadá/USA/Reino Unido en el nivel más bajo (precauciones normales); delitos violentos contra visitantes raros y no dirigidos |
+| Robos de material a bordo | 3/5 | Auxiliar/fueraborda y objetos de bañera: 5 incidentes CSSN en los últimos 5 años en 10 km alrededor de Oranjestad — riesgo contenido pero real si no se cierra con candado |
+| Contexto general de la isla | 4/5 | Criminalidad global moderada-baja, isla turística muy patrullada con intervención rápida en zonas hoteleras |
 
-*Scala: 0 = terribile → 5 = molto sicuro. Valutazione nostra, sintesi delle fonti sotto; aggiornata a ogni controllo mensile.*
+*Escala: 0 = pésimo → 5 = muy seguro. Valoración propia, síntesis de las fuentes siguientes; actualizada en cada control mensual.*
 
-**Perché non 5**: furti opportunistici ricorrenti su spiaggia, in auto a noleggio e ai dinghy (anche in marina e all'ancoraggio), più il rischio leggermente più alto a San Nicolas e in strade/aree isolate dopo il tramonto; episodi di rapina a mano armata segnalati dalle advisory come possibili contro attività con molto contante o legate al narcotraffico di transito. Nessuna ondata di violenza mirata ai diportisti nelle fonti degli ultimi 5 anni.
+**Por qué no 5**: robos oportunistas recurrentes en playa, en coches de alquiler y en auxiliares (incluso en marina y fondeadero), más riesgo ligeramente mayor en San Nicolas y en carreteras/zonas aisladas tras la puesta de sol; episodios de atraco a mano armada señalados por los avisos como posibles contra negocios con mucho efectivo o ligados al narcotráfico de tránsito. Ninguna ola de violencia dirigida a navegantes en los últimos 5 años de fuentes.
 
-## Quadro generale
+## Panorama general
 
-- Advisory governativa canadese (agg. 29/07/2026 ★★★★): **"Adottate normali misure di sicurezza"** (*Take normal security precautions*) — livello più basso su quattro. Microcriminalità (borseggi, scippi, furti in auto e in hotel/appartamenti) e furti in abitazioni; picco a Carnevale (gen–mar); evitare aree non popolate e spiagge non sorvegliate dopo il tramonto e custodire sempre documenti e valori.
-- Advisory USA — Department of State (Level 1 del 20/08/2026 ★★★★): **"Exercise normal precautions"**. Aruba è considerata generalmente sicura; i reati più probabili sono nei luoghi turistici con furti di beni incustoditi e scassi di auto; tassi complessivi bassi; rapine a mano armata possibili contro esercizi che custodiscono molto contante o attività legate a droga/gang; vietato introdurre armi, munizioni e anche bossoli senza autorizzazione scritta — detenzione prolungata prevista.
-- Advisory britannica FCDO (agg. 07/07/2026 ★★★★): rischio di piccoli furti e occasionali episodi di strada; raccomandazioni: non camminare in aree remote di notte, non lasciare valori o borse in auto, non portare molto contante/valori in spiaggia, tenere borse chiuse e non afferrabili; Aruba è corridoio del narcotraffico Sud America → Europa/Nord America con possibile criminalità correlata; terrorismo senza storia recente sull'isola ma non escludibile.
-- Governo di Aruba (gobierno.aw ★★★★★): numero unico emergenze **911** per polizia/vigili/ambulanza; centrali polizia Oranjestad **100**, San Nicolas **104**, Noord **107**, Santa Cruz **105**; ospedale **527 4000**.
-- Contesto operativo: isola compatta (~30 km) con presenza costante del Korps Politie Aruba (KPA) nelle zone turistiche e tempi di intervento rapidi spesso sotto i 15 minuti a Oranjestad, Palm Beach ed Eagle Beach; sorveglianza privata diffusa in resort/marina. ★★
+- Aviso gubernamental canadiense (act. 29/07/2026 ★★★★): **"Adopte precauciones normales de seguridad"** (*Take normal security precautions*) — nivel más bajo de cuatro. Pequeña delincuencia (carteristas, tirones, robos en coches y hoteles/apartamentos) y robos en viviendas; pico en Carnaval (ene–mar); evitar zonas poco pobladas y playas no vigiladas tras la puesta de sol y custodiar siempre documentos y valores.
+- Aviso USA — Department of State (Level 1 de 20/08/2026 ★★★★): **"Exercise normal precautions"**. Aruba se considera generalmente segura; los delitos más probables son en lugares turísticos con robo de bienes desatendidos y aperturas de coches; tasas globales bajas; atracos a mano armada posibles contra negocios que custodian mucho efectivo o actividades ligadas a droga/bandas; prohibido introducir armas, munición e incluso vainas sin autorización escrita — detención prolongada prevista.
+- Aviso británico FCDO (act. 07/07/2026 ★★★★): riesgo de pequeños robos y episodios ocasionales callejeros; recomendaciones: no caminar por zonas remotas de noche, no dejar valores o bolsos en el coche, no llevar mucho efectivo/valores a la playa, mantener bolsos cerrados y no agarrables; Aruba es corredor del narcotráfico Sudamérica → Europa/Norteamérica con posible criminalidad correlata; terrorismo sin historia reciente en la isla pero no excluible.
+- Gobierno de Aruba (gobierno.aw ★★★★★): número único de emergencias **911** para policía/bomberos/ambulancia; comisarías policía Oranjestad **100**, San Nicolas **104**, Noord **107**, Santa Cruz **105**; hospital **527 4000**.
+- Contexto operativo: isla compacta (~30 km) con presencia constante del Korps Politie Aruba (KPA) en zonas turísticas y tiempos de intervención a menudo <15 minutos en Oranjestad, Palm Beach y Eagle Beach; vigilancia privada difundida en resorts/marinas. ★★
 
-## Mappa delle zone — offline
+## Mapa de zonas — offline
 
-<div class="mapframe" data-slug="aruba" data-minz="10" data-maxz="15" data-lat="12.50" data-lon="-69.97" data-zones='[[12.4310,-69.9090,2200,"#d32f2f","San Nicolas: rischio più alto di notte — evitare strade isolate, quartieri secondari e l’area a luci rosse dopo il tramonto"],[12.5180,-70.0390,1200,"#ef6c00","Oranjestad / Renaissance Marina / Surfside: furti dinghy/fuoribordo e da pozzetto — pontili e ancoraggio"],[12.5530,-70.0640,1500,"#ef6c00","Eagle Beach / Palm Beach / Malmok: furti opportunistici su spiaggia e da veicoli — non lasciare incustodito"]]'></div>
+<div class="mapframe" data-slug="aruba" data-minz="10" data-maxz="15" data-lat="12.50" data-lon="-69.97" data-zones='[[12.4310,-69.9090,2200,"#d32f2f","San Nicolas: mayor riesgo de noche — evitar carreteras aisladas, barrios secundarios y zona roja tras el anochecer"],[12.5180,-70.0390,1200,"#ef6c00","Oranjestad / Renaissance Marina / Surfside: robo de auxiliar/fueraborda y de bañera — pantalanes y fondeadero"],[12.5530,-70.0640,1500,"#ef6c00","Eagle Beach / Palm Beach / Malmok: robo oportunista en playa y desde vehículos — no dejar sin vigilancia"]]'></div>
 
-*Legenda: cerchio rosso tratteggiato = zona da evitare di notte · cerchio arancio = zona con furti frequenti a danno dei diportisti/turisti (attenzione, non evitare). Clicca sul cerchio per il dettaglio.*
+*Leyenda: círculo rojo discontinuo = zona a evitar de noche · círculo naranja = zona con robos frecuentes a navegantes/turistas (precaución, no evitar). Clic en el círculo para detalles.*
 
-## Posti sicuri / posti da evitare
+## Zonas seguras / zonas a evitar
 
-### ✅ Posti sicuri
+### ✅ Lugares seguros
 
-| Zona | Note | Fonte |
+| Zona | Notas | Fuente |
 |---|---|---|
-| Renaissance / Wind Creek Marina (Oranjestad) | Vigilata 24h, videosorveglianza, guardiano notturno; furti comunque accaduti — lucchetto obbligatorio |HarbourGuides/Navily ★★★|
-| Eagle Beach — Palm Beach — Noord (hotel zone) | Area turistica più pattugliata, alta percezione di sicurezza di giorno e sera con normali precauzioni |advisory USA/UK ★★★★ + ★★|
-| Oranjestad waterfront e Caya Betico Croes di giorno | Presidio polizia visibile, shopping e terminal crociere; precauzioni standard |travelsafe-abroad ★★|
-| Malmok / Arashi / Hadicurari di giorno | Rade tranquille per sosta e snorkeling, frequentate e a basso rischio diurno |guide locali ★★|
-| Savaneta / Pos Chiquito | Villaggi residenziali calmi, strade familiari, bassa criminalità diurna |★★|
+| Renaissance / Wind Creek Marina (Oranjestad) | Vigilada 24h, CCTV, guardia nocturno; aun así hubo robos — candado imprescindible |HarbourGuides/Navily ★★★|
+| Eagle Beach — Palm Beach — Noord (zona hotelera) | Zona turística más patrullada, alta percepción de seguridad de día y noche con precauciones normales |aviso USA/Reino Unido ★★★★ + ★★|
+| Frente marítimo Oranjestad y Caya Betico Croes de día | Presencia policial visible, compras y terminal de cruceros; precauciones estándar |travelsafe-abroad ★★|
+| Malmok / Arashi / Hadicurari de día | Radas tranquilas para escala y snorkel, concurridas y bajo riesgo diurno |guías locales ★★|
+| Savaneta / Pos Chiquito | Pueblos residenciales tranquilos, calles familiares, baja delincuencia diurna |★★|
 
-### ⛔ Posti da evitare o attenzione
+### ⛔ Lugares a evitar o con precaución
 
-| Zona | Rischio | Fonte |
+| Zona | Riesgo | Fuente |
 |---|---|---|
-| San Nicolas (in particolare Village/de Vuyst e area industriale/raffineria) | Rischio maggiore di notte: strade poco illuminate e poco frequentate, episodi contro turisti più frequenti; di giorno ok con precauzioni |USA travel.state.gov ★★★★ + stampa locale ★★|
-| Rancho (Oranjestad) e vie secondarie isolate dopo il tramonto | Microcriminalità e scippi in strade poco illuminate; **evitare a piedi di notte** |segnalazioni naviganti ★★|
-| Spiagge non sorvegliate e tratti isolati di costa (nord/est) dopo il tramonto | Advisory: evitare; rischio furto e scarsa assistenza |Canada voyage.gc.ca ★★★★|
-| Pontili dinghy e ancoraggi di Oranjestad/Surfside di notte | Furti dinghy/fuoribordo anche da davits o con cavo tagliato |CSSN ★★★|
+| San Nicolas (especialmente Village/de Vuyst y zona industrial/refinería) | Mayor riesgo de noche: carreteras mal iluminadas y poco frecuentadas, incidentes más frecuentes contra turistas; bien de día con precauciones |USA travel.state.gov ★★★★ + prensa local ★★|
+| Rancho (Oranjestad) y calles laterales aisladas de noche | Pequeña delincuencia y tirones en calles mal iluminadas; **evitar a pie de noche** |relatos de navegantes ★★|
+| Playas no vigiladas y tramos de costa aislados (norte/este) de noche | Aviso: evitar; riesgo de robo y escasa asistencia |Canada voyage.gc.ca ★★★★|
+| Pantalanes de auxiliares y fondeaderos de Oranjestad/Surfside de noche | Robo de auxiliar/fueraborda incluso de pescantes o con cable cortado |CSSN ★★★|
 
-## Furti ai danni dei crocieristi
+## Robos a navegantes
 
-Dati **Caribbean Safety and Security Net** (thecssn.org ★★★), controllo 27/08/2026:
+Datos de **Caribbean Safety and Security Net** (thecssn.org ★★★), control 28/08/2026:
 
-- **5 incidenti negli ultimi 5 anni entro 10 km da Oranjestad** (raggio Renaissance/Surfside): nessun episodio con violenza alle persone.
-- Dettaglio: **Renaissance Marina** 26/09/2022 — dinghy/fuoribordo rubato di notte da catamarano da charter alle davits, non chiuso (ritrovato poi in mangrovia senza motore) ★★★; **Surfside Beach Anchorage** 01/10/2022 — dinghy non chiuso rubato mentre l'equipaggio dormiva ★★★; **Surfside** 11/07/2023 — Highfield + Yamaha 25 HP rubati non chiusi ★★★; **Renaissance Marina** 20/02/2025 — binocolo rubato dal pozzetto tra le 06:00 e le 08:00, barca ormeggiata ★★★; **Eagle Beach** 02/08/2025 — 2 canne da pesca + attrezzatura snorkeling rubate dal pozzetto di notte, catamarano all'ancora ★★★.
-- Hotspot ricorrenti: banchine e ancoraggio di **Renaissance/Surfside** e rada di **Eagle Beach**; anche tender **non lucchettati** sono stati portati via; in un caso cavo tagliato.
-- Contromisure efficaci riportate: catena corta + lucchetto passante per il fuoribordo e per la barca, motore sempre bloccato con lucchetto dedicato, tender sollevato in davits o a bordo di notte, niente oggetti in vista in pozzetto/dinghy, allarme/illuminazione.
-- Segnalazione: polizia **100** / emergenza **911**, guardia costiera **913**, marina e VHF 16; report online CSSN; gruppi VHF locali per avvisi rapidi.
+- **5 incidentes en los últimos 5 años en 10 km alrededor de Oranjestad** (radio Renaissance/Surfside): ningún episodio con violencia contra personas.
+- Detalles: **Renaissance Marina** 26/09/2022 — auxiliar/fueraborda robados de noche de catamarán de charter en pescantes, sin candado (luego hallado en manglar sin motor) ★★★; **Fondeadero Surfside Beach** 01/10/2022 — auxiliar sin candado robado mientras la tripulación dormía ★★★; **Surfside** 11/07/2023 — Highfield + Yamaha 25 HP robados sin candado ★★★; **Renaissance Marina** 20/02/2025 — prismáticos robados de la bañera entre 06:00 y 08:00, yate atracado ★★★; **Eagle Beach** 02/08/2025 — 2 cañas + equipo de snorkel robados de la bañera de noche, catamarán fondeado ★★★.
+- Puntos calientes recurrentes: muelles y fondeadero de **Renaissance/Surfside** y rada de **Eagle Beach**; incluso auxiliares **sin candado** fueron sustraídos; en un caso cable cortado.
+- Contramedidas eficaces reportadas: cadena corta + candado a través del fueraborda y al yate, motor siempre asegurado con candado dedicado, auxiliar izado en pescantes o a bordo de noche, nada visible en bañera/auxiliar, alarma/iluminación.
+- Denuncia: policía **100** / emergencias **911**, guardacostas **913**, marina y VHF 16; informe online CSSN; grupos VHF locales para alertas rápidas.
 
-## A bordo e a terra
+## A bordo y en tierra
 
-| Rischio | Dettaglio | Fonte |
+| Riesgo | Detalle | Fuente |
 |---|---|---|
-| Furti dinghy / fuoribordo | Unici problemi ricorrenti segnalati dalle fonti diportiste aggregate ad Aruba; sempre notturni e su mezzi non assicurati |CSSN ★★★|
-| Furti in pozzetto | Binocoli, canne, maschere/fins rubati da barche all'ancora o in marina anche in orario mattutino |CSSN ★★★|
-| Auto a noleggio | Scassi e furti d'auto, in particolare rental; non lasciare nulla in vista, assicurazione da verificare (copertura limitata in caso di furto/danno) |USA ★★★★ + Canada ★★★★|
-| Spiaggia | Borse e telefoni non incustoditi spariscono mentre si fa il bagno — lasciare in cassaforte |UK FCDO ★★★★|
-| Molestie / attenzioni notturne | Possibili attenzioni indesiderate a donne sole la sera in locali e zone vita notturna — muoversi in coppia/gruppo |Canada ★★★★|
+| Robo de auxiliar / fueraborda | Único problema recurrente reportado por fuentes náuticas agregadas en Aruba; siempre de noche y en embarcaciones sin asegurar |CSSN ★★★|
+| Robo en bañera | Prismáticos, cañas, máscaras/aletas robados de barcos fondeados o en marina incluso a primera hora |CSSN ★★★|
+| Coche de alquiler | Aperturas y robos, especialmente alquileres; no dejar nada visible, comprobar seguro (cobertura limitada para robo/daños) |USA ★★★★ + Canada ★★★★|
+| Playa | Bolsos y móviles desatendidos desaparecen mientras se nada — dejar en caja fuerte |UK FCDO ★★★★|
+| Acoso / atención no deseada de noche | Posible atención no deseada a mujeres solas al anochecer en bares y zonas nocturnas — moverse en pareja/grupo |Canada ★★★★|
 
-## Navigazione
+## Navegación
 
-| Rischio | Dettaglio | Fonte |
+| Riesgo | Detalle | Fuente |
 |---|---|---|
-| Segnaletica **IALA-B** | "Red right returning": sistema **invertito** rispetto all'Europa — rosso a dritta entrando in porto, attenzione alle boe in ingresso Barcadera/Oranjestad |Fonti diportiste aggregate ★★★|
-| Reef / bassi fondali e parco marino | Barriera e reef affioranti su costa nord/est e secche a Spanish Lagoon/Savaneta; ancoraggio vietato su corallo — solo sabbia o boe dove presenti |guide locali ★★★|
-| Nasse da pesca / FAD | Boe con lenze galleggianti poco visibili anche oltre 3 miglia; visibilità scarsa di notte |★★|
-| Avvicinamento Barcadera | Canale dragato trafficato da navi/rimorchiatori; restare in canale e chiamare Port Control VHF 16/11; waypoint ingresso 12°28.834' N 70°00.430' W |Aruba Ports Authority ★★★★★|
-| Narcotraffico in transito | Corridoio Venezuela–ABC; pacchi sospetti in mare (balle) — non recuperare, segnalare a Guardia Costiera 913 |UK FCDO ★★★★|
+| **Balizamiento IALA-B** | "Red right returning": sistema **invertido** respecto a Europa — rojo a estribor entrando a puerto, atención a boyas en la entrada Barcadera/Oranjestad |Fuentes náuticas agregadas ★★★|
+| Arrecife / bajos y parque marino | Barrera y arrecifes secantes en costa norte/este y bajos en Spanish Lagoon/Savaneta; fondeo prohibido sobre coral — solo arena o boyas donde existan |guías locales ★★★|
+| Nasas / DCPs | Boyas con cabos flotantes apenas visibles incluso más allá de 3 millas; escasa visibilidad de noche |★★|
+| Aproximación Barcadera | Canal dragado con tráfico de mercantes/remolcadores; permanecer en el canal y llamar a Port Control VHF 16/11; waypoint de entrada 12°28.834' N 70°00.430' W |Aruba Ports Authority ★★★★★|
+| Tránsito de droga | Corredor Venezuela–ABC; paquetes sospechosos en el mar (fardos) — no recuperar, avisar a Guardacostas 913 |UK FCDO ★★★★|
 
-## Numeri di emergenza
+## Números de emergencia
 
-| Emergenza | Numero |
+| Emergencia | Número |
 |---|---|
-| Numero unico emergenze (polizia/vigili/ambulanza) | **911** |
-| Polizia Oranjestad (centrale) | **100** |
-| Polizia San Nicolas | **104** |
-| Polizia Noord | **107** |
-| Polizia Santa Cruz | **105** |
-| Guardia Costiera / soccorso in mare | **913** |
-| Ospedale Dr. Horacio E. Oduber (Oranjestad) | **+297 527 4000** |
-| VHF soccorso | **16** |
+| Número único emergencias (policía/bomberos/ambulancia) | **911** |
+| Policía Oranjestad (central) | **100** |
+| Policía San Nicolas | **104** |
+| Policía Noord | **107** |
+| Policía Santa Cruz | **105** |
+| Guardacostas / rescate en la mar | **913** |
+| Hospital Dr. Horacio E. Oduber (Oranjestad) | **+297 527 4000** |
+| Socorro VHF | **16** |
 
-## Salvataggio ed emergenze
+## Rescate y emergencias
 
-- Centrali operative: **911** smista a polizia/ambulanza/vigili; **100** polizia diretta; **913** Guardia Costiera olandese-caraibica (Dutch Caribbean Coast Guard) per *soccorso in mare*; VHF **16** sempre monitorato da Port Control e guardia costiera.
-- Ospedale principale **Dr. Horacio E. Oduber Hospital** a Oranjestad, pronto soccorso 24h su +297 527 4000; casi gravi possono richiedere evacuazione medica con assicurazione dedicata (elisoccorso/trasferimento Curaçao/Colombia/USA) — prevista anche copertura per subacquei (camera iperbarica non in loco) ★★★.
-- Assistenza consolare: nessun ufficio canadese in loco — riferimento Ambasciata del Canada a **Bogotá** (+57-601 657-9800) con distretto Aruba/Bonaire/Curaçao; USA via Consolato Generale a **Curaçao** (+599 9 461-3066, emergenze fuori orario +599 9 433-2200) ★★★★; Regno Unito via FCDO Londra 020 7008 5000 (24h).
-- In navigazione: chiamare **Aruba Port Control VHF 16/11** prima dell'ingresso a Barcadera (30' prima), esporre Q e attendere istruzioni; per emergenze in mare chiamare **913** oltre al VHF 16.
-- Uragani: isola a sud della fascia principale (stagione giu–nov), colpi diretti rari ma sistemi tropicali di passaggio possono portare vento forte, mare e piogge — monitorare NHC e media locali in stagione ★★★★.
+- Centros de control: **911** deriva a policía/ambulancia/bomberos; **100** policía directa; **913** Guardia Costera Caribe Neerlandés para *rescate en la mar*; VHF **16** siempre escuchado por Port Control y Guardacostas.
+- Hospital principal **Dr. Horacio E. Oduber Hospital** en Oranjestad, urgencias 24h en +297 527 4000; casos graves pueden requerir evacuación médica con seguro dedicado (aeroambulancia/traslado a Curaçao/Colombia/USA) — también cobertura para buceadores (sin cámara hiperbárica in situ) ★★★.
+- Asistencia consular: sin oficina canadiense in situ — referencia Embajada de Canadá en **Bogotá** (+57-601 657-9800) que cubre Aruba/Bonaire/Curaçao; USA vía Consulado General en **Curaçao** (+599 9 461-3066, emergencia fuera de horario +599 9 433-2200) ★★★★; Reino Unido vía FCDO Londres 020 7008 5000 (24h).
+- En navegación: llamar a **Aruba Port Control VHF 16/11** antes de entrar en Barcadera (30′ antes), mostrar bandera Q y esperar instrucciones; para emergencias en la mar llamar además a **913** en VHF 16.
+- Huracanes: isla al sur del cinturón principal (temporada jun–nov), impactos directos raros pero sistemas tropicales de paso pueden traer viento fuerte, marejada y lluvia — monitorizar NHC y medios locales en temporada ★★★★.
 
-## Monitoraggio mensile
+## Seguimiento mensual
 
-Fonti monitorate: thecssn.org (CSSN), voyage.gc.ca (Canada), gov.uk (UK FCDO), travel.state.gov (USA), gruppi FB locali, stampa locale arubiana — controllo 27/08/2026, prossimo 27/09/2026. Nessuna allerta attiva oltre i 5 episodi CSSN già descritti.
+Fuentes monitorizadas: thecssn.org (CSSN), voyage.gc.ca (Canadá), gov.uk (UK FCDO), travel.state.gov (USA), grupos FB locales, prensa local arubana — control 28/08/2026, próximo 28/09/2026. Ninguna alerta activa más allá de los 5 incidentes CSSN ya descritos.
 
-Ultimo aggiornamento: 27/08/2026
+Última actualización: 28/08/2026

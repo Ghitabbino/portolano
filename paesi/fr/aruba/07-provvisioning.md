@@ -4,26 +4,26 @@
 
 ## Livello prezzi generale
 
-- Alimentation **più cari che in Europa continentale/USA** perché quasi tutto è importato (USA, NL, Spagna); **pesce fresco e frutta tropicale** locali più convenienti. Devise: **Fiorino di Aruba (AWG, ƒ)** ancorato a **1 USD ≈ 1,80 AWG**; USD accettati ovunque e bancomat abbondanti. ★★★
-- Rispetto ad altre isole ABC e Grenadine, **ampia scelta “stile americano”** ma a prezzo “isola”: conviene fare scorta completa se si resta a lungo o si parte per traversate lunghe verso Colombia/Panama. Prodotti locali: pesce dei pescatori al molo, frutta/verdura di camioncini e bancarelle, pane/panetteria dei supermarket. ★★
+- Alimentation **plus chère qu'en Europe continentale/USA** car quasi tout est importé (USA, NL, Espagne) ; **poisson frais et fruits tropicaux** locaux plus avantageux. Devise : **Florin d'Aruba (AWG, ƒ)** indexé à **1 USD ≈ 1,80 AWG** ; USD acceptés partout et DAB nombreux. ★★★
+- Par rapport aux autres îles ABC et Grenadines, **large choix « style américain »** mais à prix « île » : il vaut mieux faire un avitaillement complet si vous restez longtemps ou partez pour de longues traversées vers Colombie/Panama. Produits locaux : poisson des pêcheurs au quai, fruits/légumes des camionnettes et étals, pain/boulangerie des supermarchés. ★★
 
 ## Supermarchés
 
 ### Oranjestad — Renaissance Marina ⚓ base principale
 
-| Negozio | Ubicazione | Distance dalla marina | A piedi? | Note | Source |
+| Commerce | Emplacement | Distance de la marina | À pied ? | Notes | Source |
 |---|---|---|---|---|---|
-| **Ling & Sons IGA Super Center** | Schotlandstraat 41, Oranjestad | ~1,5 km | ✅ sì (15–20 min) | Lun–sab 8–21, dom 9–18 · il più grande stile americano dell'isola: freschi, bio, macelleria, bakery giornaliera, liquortique · accetta AWG/USD e carte |RelaxAruba/Fodor’s ★★★|
-| **Super Food Plaza** | Bubali 141-A, Noord | ~5 km | ⚠️ taxi/bus (7 min in auto) | Lun–sab 8–20, dom 9–18 · centro commerciale più “verde” dei Caraïbes con alimentari, vini, health/beauty, Jack’s Café · consegna su richiesta concordata col manager |Sources plaisance agrégées commento manager +297 522-2000 ★★★ + aruba.com ★★★|
+| **Ling & Sons IGA Super Center** | Schotlandstraat 41, Oranjestad | ~1,5 km | ✅ oui (15–20 min) | Lun–sam 08:00–21:00, dim 09:00–18:00 · le plus grand style américain de l'île : frais, bio, boucherie, boulangerie quotidienne, liquor store · accepte AWG/USD et cartes |RelaxAruba/Fodor’s ★★★|
+| **Super Food Plaza** | Bubali 141-A, Noord | ~5 km | ⚠️ taxi/bus (7 min en voiture) | Lun–sam 08:00–20:00, dim 09:00–18:00 · centre commercial le plus « vert » des Caraïbes avec alimentation, vins, health/beauty, Jack’s Café · livraison sur demande convenue avec le manager |Sources plaisance agrégées commentaire manager +297 522-2000 ★★★ + aruba.com ★★★|
 | **Kong Hing Supermarket** | L.G. Smith Blvd 152, Druif (tra Oranjestad ed Eagle Beach) | ~3 km | ⚠️ taxi/bus | Ordinato e pulito, buono per rifornimento rapido vicino alle spiagge |Fodor’s ★★★|
-| **C-Mart** | Cumana #38 / vicino aeroporto | ~4–5 km | ⚠️ taxi | Budget-friendly, discount locale; assortimento base per cambusa |aruba.com ★★★|
+| **C-Mart** | Cumana #38 / près aéroport | ~4–5 km | ⚠️ taxi | Budget-friendly, discount local ; assortiment de base pour cambuse |aruba.com ★★★|
 | **PriceSmart (club)** | Avenida Milio Croes, Oranjestad | ~3 km | ⚠️ taxi | Formato warehouse tipo Costco, utile per grandi quantità (carte socio) |★★|
 
 Chandler / ricambi in zona marina per piccole forniture; per ricambi specifici ordinare con 1–3 settimane (spedizione via Miami/Curaçao). ★★
 
 ### Noord / Palm Beach
 
-Super Food Plaza e Kong Hing sono i riferimenti per chi è ancorato a **Eagle/Palm Beach o Surfside**: bus frequente Oranjestad–Noord (15–30 min), corsa 1–2 USD; per carichi meglio taxi da concordare prima. ★★★
+Super Food Plaza et Kong Hing sont les références pour qui est au mouillage à **Eagle/Palm Beach ou Surfside** : bus fréquent Oranjestad–Noord (15–30 min), trajet 1–2 USD ; pour charges mieux vaut convenir d'un taxi à l'avance. ★★★
 
 ### San Nicolas / Savaneta
 
@@ -40,15 +40,15 @@ Borgo meridionale con **superette, minimarket e truck di frutta** nelle vie cent
 | Servizio | Dove | Note |
 |---|---|---|
 | Water dock | Renaissance / Wind Creek Marina | A consumo secondo contratto pontile; acqua potabile di rete, verificare potabilità in capitaineria → [03](03-porti-ancoraggi.md) |
-| Water dock | Varadero Aruba Marina (Bucutiweg 34) | **Gratuita** a pontile con elettricità 110/220 V; incluso nel posto barca ★★★ [HarbourGuides](https://www.harbourguides.com/bluepages/view/varadero-aruba-marina--boatyard-5487) |
+| Poste à eau | Varadero Aruba Marina (Bucutiweg 34) | **Gratuite** à quai avec électricité 110/220 V ; incluse dans la place ★★★ [HarbourGuides](https://www.harbourguides.com/bluepages/view/varadero-aruba-marina--boatyard-5487) |
 | Fuel dock | Varadero Aruba Marina | **Diesel 2,56 AWG/l · RON 95 2,66 AWG/l** (rilevato community, indicativo) → [03](03-porti-ancoraggi.md) ★★★ [Navily](https://www.navily.com/port/varadero-aruba-marina/6412) |
-| Fuel dock | Renaissance / Bateaudera (porto) | **DONNÉE MANQUANTE** tariffa aggiornata al 27/08/2026 — chiedere in capitaineria; prezzi regolati ad Aruba con variazioni mensili |
-| Gas (butane/propane) | Scambio bombole standard **US/Aruba** | Solo scambio bombole locali/americane, niente rabbocco dove non previsto; verificare adattatore e regolatore → [04](04-servizi-cantieri.md) |
+| Poste carburant | Renaissance / Barcadera (port) | **DONNÉE MANQUANTE** tarif actualisé au 27/08/2026 — demander à la capitainerie ; prix régulés à Aruba avec variations mensuelles |
+| Gaz (butane/propane) | Échange bouteilles standard **US/Aruba** | Uniquement échange bouteilles locales/américaines, pas de remplissage là où non prévu ; vérifier adaptateur et détendeur → [04](04-servizi-cantieri.md) |
 
 ## Conseils pratiques
 
-- **Carrello/trolley pieghevole** a bordo: da Ling & Sons la marina è a piedi; da Super Food servono **taxi o bus** — con carichi conviene taxi a tariffa fissa concordata prima (non a tassametro) o consegna del supermarket su accordo (Super Food ha effettuato consegne in marina su richiesta) ★★★.
-- **Horaires festivi**: grande distribuzione lun–sab 8–20/21, dom 9–18/13 secondo insegna; i mini-mart locali spesso 7–21 tutti i giorni — verificare prima di traversate lunghe e fare **scorta d’acqua in bottiglia** dove la rete non è garantita potabile.
+- **Chariot pliable** à bord : depuis Ling & Sons la marina est à pied ; depuis Super Food il faut **taxi ou bus** — avec charges mieux vaut taxi à forfait convenu à l'avance (pas au compteur) ou livraison du supermarché sur accord (Super Food a déjà livré en marina sur demande) ★★★.
+- **Horaires jours fériés** : grande distribution lun–sam 08:00–20:00/21:00, dim 09:00–18:00/13:00 selon enseigne ; mini-marts locaux souvent 07:00–21:00 tous les jours — vérifier avant longues traversées et faire **provision d'eau en bouteille** là où le réseau n'est pas garanti potable.
 - **Ghiaccio e freschi**: disponibile in tutti i mega-supermarkets (ghiaccio in sacchi, panetteria e pescheria interne); per grandi cambuse ordinare online 24h prima (*shop.superfoodaruba.com*, *lingandsons.com*) con ritiro o consegna concordata. ★★★
 - **Pagamento**: fiorini AWG e USD 1:1,80 accettati ovunque; carte Visa/MC ovunque, bancomat oltre 50 punti; tenere contante per truck di frutta e taxi. ★★★★
 

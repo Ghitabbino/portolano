@@ -1,23 +1,25 @@
 # Water’s Edge
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Alle Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Feld | Detail |
 |---|---|
-| Zona | Eagle Beach — Costa Linda Resort |
-| Cucina | 🐟 Americana/Caraibica — Seafood & Steakhouse |
-| Specialità | Red snapper · Ahi Tuna · live music |
-| Costo | 💰€€ per persona senza bevande |
-| Location | 🏖️ beach resort, open-air + sala AC |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Waters+Edge+Restaurant+Aruba) |
-| Contatti | J.E. Irausquin Blvd 59, Costa Linda Beach Resort · +297 586 9494 |
-| Valutazioni | OpenTable 4,3/5 (1.888) · TA 4,3/5 · piatti.menu 5,0/5 (1.125) → ★★★★ |
-| Orari | Colazione, pranzo, cena · musica live serale · happy hour |
+| Zone | Eagle Beach — Costa Linda Resort |
+| Küche | 🐟 Amerikanisch/Karibisch — Seafood & Steakhouse |
+| Spezialität | Red Snapper · Ahi Tuna · Live-Musik |
+| Preis | 💰€€ pro Person ohne Getränke |
+| Lage | 🏖️ Beach Resort, Open-Air + klimatisierter Saal |
+| Karte | [Google Maps](https://www.google.com/maps/search/?api=1&query=Waters+Edge+Restaurant+Aruba) |
+| Kontakt | J.E. Irausquin Blvd 59, Costa Linda Beach Resort · +297 586 9494 |
+| Bewertungen | OpenTable 4,3/5 (1.888) · TA 4,3/5 · piatti.menu 5,0/5 (1.125) → ★★★★ |
+| Öffnungszeiten | Frühstück, Mittag, Abendessen · Live-Musik abends · Happy Hour |
 
-## Menu
+## Speisekarte
 
-- Seafood fresco, bistecche, pasta, burger
-- Tavoli open-air, sala climatizzata, palapa pieds dans le sable
-- Serata elegante post-spiaggia
+- Frische Meeresfrüchte, Steaks, Pasta, Burger
+- Open-Air-Tische, klimatisierter Speisesaal, Palapa mit Füßen im Sand
+- Eleganter Abend nach dem Strand
 
-**Note**: All'interno del Costa Linda Beach Resort, vista oceano con tavoli anche sulla sabbia. Recensioni locali: [OpenTable](https://www.opentable.com/r/waters-edge-restaurant-oranjestad) ★★★ · [piatti.menu](https://piatti.menu/restaurants/oranjestad-1/waters-edge-restaurant-bar-4) ★★★
+**Hinweis**: Im Costa Linda Beach Resort, Meerblick mit Tischen auch im Sand. Lokale Bewertungen: [OpenTable](https://www.opentable.com/r/waters-edge-restaurant-oranjestad) ★★★ · [piatti.menu](https://piatti.menu/restaurants/oranjestad-1/waters-edge-restaurant-bar-4) ★★★
+
+Letzte Aktualisierung: 27/08/2026
