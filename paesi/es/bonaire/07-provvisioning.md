@@ -1,53 +1,53 @@
-# 07 — Provvisioning
+# 07 — Avituallamiento
 
-**Ultima verifica: 28/08/2026**
+**Última verificación: 28/08/2026**
 
-## Livello prezzi generale — Bonaire
+## Nivel de precios general — Bonaire
 
-- Alimentari più cari che in Europa/NL per importazione; comunque nella media dei Caraibi meridionali. USD valuta legale dal 2011. ★★★
-- Prodotti locali convenienti: pesce fresco (Daily Catch), frutta/verdura tropicale, pane/boulangerie olandese (panetteria Van den Tweel). ★★★
+- Alimentos más caros que en Europa/Países Bajos por importación; aun así en la media del Caribe meridional. Divisa legal USD desde 2011. ★★★
+- Productos locales ventajosos: pescado fresco (Daily Catch), fruta/verdura tropical, pan/panadería neerlandesa (panadería Van den Tweel). ★★★
 
-## Supermercati
+## Supermercados
 
-### Kralendijk ⚓ base principale — Kaya Industria
+### Kralendijk ⚓ base principal — Kaya Industria
 
-| Negozio | Ubicazione | Distanza dalla marina | A piedi? | Note | Fonte |
+| Tienda | Ubicación | Distancia de la marina | ¿A pie? | Notas | Fuente |
 |---|---|---|---|---|---|
-| **Van den Tweel Supermarket** | Kaya Industria 39, Kralendijk | ~1,2 km dal mooring field | ✅ sì (15 min) / taxi 5 min | Lun–dom 8–20 · tel **+599 717 6131** · il più grande e fornito, prodotti NL/US, panetteria, macelleria, enoteca |bonaire.com ★★★★|
-| **Warehouse Bonaire** | Kaya Industria 24 | ~1,3 km | ✅ sì | Lun–dom 8–20 (alcune fonti dom 8–17) · tel **+599 717 8700** · tipo discount/US bulk, più economico di Van den Tweel |bonaire.com/Waze ★★★★|
-| **BonDiGro Supermarket** | Kaya Industria 29 | ~1,4 km | ✅ sì | Lun–sab 7:30–19:30, dom 9–13 · tel **+599 787 1744** · cooperativo budget (tipo Aldi/Lidl), solo contanti/carta locale |bonaire.com ★★★★|
-| **Top Supermarket** | Kaya L.D. Gerharts 13, centro | ~800 m dal boulevard/porto | ✅ sì | Lun–sab 8–20, dom 8–17 · tel **+599 717 7068** · centro città, base scorta rapida, bakery |bonaire.com ★★★|
-| **Zhung Kong / mini-markets cinesi** | Kaya Gob. N. Debrot / Kaya Tintorero | 0,5–2 km diffusi | ✅ sì | Lun–dom 7–20 ca. · tel **DATO MANCANTE** · piccoli chinese tokos per last-minute, aperti festivi quando gli altri chiudono |guide locali ★★|
+| **Van den Tweel Supermarket** | Kaya Industria 39, Kralendijk | ~1,2 km del campo de boyas | ✅ sí (15 min) / taxi 5 min | Lun–dom 8:00–20:00 · tel **+599 717 6131** · el más grande y surtido, productos NL/US, panadería, carnicería, vinoteca |bonaire.com ★★★★|
+| **Warehouse Bonaire** | Kaya Industria 24 | ~1,3 km | ✅ sí | Lun–dom 8:00–20:00 (algunas fuentes dom 8:00–17:00) · tel **+599 717 8700** · tipo descuento/US bulk, más barato que Van den Tweel |bonaire.com/Waze ★★★★|
+| **BonDiGro Supermarket** | Kaya Industria 29 | ~1,4 km | ✅ sí | Lun–sáb 7:30–19:30, dom 9:00–13:00 · tel **+599 787 1744** · cooperativo budget (tipo Aldi/Lidl), solo efectivo/tarjeta local |bonaire.com ★★★★|
+| **Top Supermarket** | Kaya L.D. Gerharts 13, centro | ~800 m del boulevard/puerto | ✅ sí | Lun–sáb 8:00–20:00, dom 8:00–17:00 · tel **+599 717 7068** · centro ciudad, base avituallamiento rápido, panadería |bonaire.com ★★★|
+| **Zhung Kong / mini-markets chinos** | Kaya Gob. N. Debrot / Kaya Tintorero | 0,5–2 km dispersos | ✅ sí | Lun–dom 7:00–20:00 aprox. · tel **DATO FALTANTE** · pequeños tokos chinos para apuro, abiertos festivos cuando los demás cierran |guías locales ★★|
 
-Chandler/nautica in zona marina per ricambi limitati (verificare Budget Marine o Harbour Village); prezzi alti per importazione. ★★
+Tiendas de pertrechos/náutica en zona marina para recambios limitados (verificar Budget Marine o Harbour Village); precios altos por importación. ★★
 
-### Kralendijk centro / Boulevard
+### Centro de Kralendijk / Boulevard
 
-Top Supermarket e mini-markets (Liangxiang, Wing Cheung, Caribe Nobo) raggiungibili **a piedi dal dinghy dock/boulevard** (centro a poche centinaia di metri). Scorta limitata: per grandi cambuse andare a Kaya Industria. ★★
+Top Supermarket y mini-markets (Liangxiang, Wing Cheung, Caribe Nobo) accesibles **a pie desde el atraque para auxiliares/boulevard** (centro a pocos cientos de metros). Surtido limitado: para gran despensa ir a Kaya Industria. ★★
 
-### Fuori Kralendijk
+### Fuera de Kralendijk
 
-Rincon, Nikiboko, Antriol, Belnem: toko/mini-market di quartiere, assortimento base; per il fresco/varietà tornare a Kralendijk. Orari variabili — **DATO MANCANTE** dettagli verificati per ogni frazione al prossimo controllo. ★★
+Rincon, Nikiboko, Antriol, Belnem: toko/mini-market de barrio, surtido básico; para fresco/variedad volver a Kralendijk. Horarios variables — **DATO FALTANTE** detalles verificados para cada barrio en el próximo control. ★★
 
-## Mercati
+## Mercados
 
-- **Daily Catch Fisherman's Market**: Kaya L.D. Gerharts, Kralendijk — pescato fresco quotidiano da pescatori locali. ★★★
-- Mercato ortofrutticolo/mobile e bancarelle stradali: frutta/verdura locale al mattino presto (Kralendijk, Rincon); dove assente, truck di frutta itineranti. ★★
-- Assenza di grande mercato coperto tipo Fort-de-France; spezie/frutta tropicale nei supermarket o bancarelle. ★★
+- **Daily Catch Fisherman's Market**: Kaya L.D. Gerharts, Kralendijk — pescado fresco diario de pescadores locales. ★★★
+- Mercado frutícola ambulante y puestos callejeros: fruta/verdura local temprano por la mañana (Kralendijk, Rincon); donde no hay, camiones de fruta itinerantes. ★★
+- Ausencia de gran mercado cubierto tipo Fort-de-France; especias/fruta tropical en supermercados o puestos. ★★
 
-## Acqua e carburante
+## Agua y carburante
 
-| Servizio | Dove | Note |
+| Servicio | Dónde | Notas |
 |---|---|---|
-| Water dock | Harbour Village Marina / Kralendijk Yacht Harbour | **DATO MANCANTE** tariffa/m³ verificata — chiedere in capitainerie; acqua WEB potabile (osmosi) → [03](03-porti-ancoraggi.md) |
-| Fuel dock | Harbour Village Marina; stazione porto | Prezzi variabili USD, gasolio ~1,1–1,6 USD/l → [02 Costi](02-costi.md) |
-| Gas (butane/propane) | Scambio bombole tipo US/locale (non EU) | Solo scambio, niente rabbocco dove non previsto → [04 Servizi](04-servizi-cantieri.md) |
-| Moorings STINAPA (overnight) | Campo boe Kralendijk (42 boe bi-colore) | **10 USD/notte** · pagamento Harbour Village Marina Ch 17 / tel 717-7419 · gialle pubbliche max 2h gratis |
+| Tomas de agua | Harbour Village Marina / Kralendijk Yacht Harbour | **DATO FALTANTE** tarifa/m³ verificada — preguntar en capitanía; agua WEB potable (ósmosis) → [03](03-porti-ancoraggi.md) |
+| Surtidor carburante | Harbour Village Marina; estación del puerto | Precios variables USD, gasoil ~1,1–1,6 USD/l → [02 Costes](02-costi.md) |
+| Gas (butano/propano) | Intercambio bombonas tipo US/local (no EU) | Solo intercambio, no recarga donde no previsto → [04 Servicios](04-servizi-cantieri.md) |
+| Boyas STINAPA (de noche) | Campo de boyas Kralendijk (42 boyas bicolores) | **10 USD/noche** · pago Harbour Village Marina canal 17 / tel 717-7419 · amarillas públicas máx. 2h gratis |
 
-## Consigli pratici
+## Consejos prácticos
 
-- Carrello/trolley pieghevole + borse termiche: indispensabili; da Van den Tweel/Warehouse tutto è a portata di taxi breve (tariffa flat per destinazione, da concordare prima di salire) o a piedi.
-- Acqua in bottiglia: fare scorta se si lasciano moorings per Klein Bonaire/Lac; ghiaccio disponibile nei supermarket — verificare festivi.
-- Valuta **USD** ovunque; Van den Tweel/Warehouse accettano carte, BonDiGro solo contanti/carta locale — portare contanti.
+- Carrito/trolley plegable + bolsas isotérmicas: indispensables; desde Van den Tweel/Warehouse todo está a alcance de taxi corto (tarifa plana por destino, a convenir antes de subir) o a pie.
+- Agua embotellada: hacer acopio si se dejan las boyas hacia Klein Bonaire/Lac; hielo disponible en supermercados — verificar festivos.
+- Divisa **USD** en todas partes; Van den Tweel/Warehouse aceptan tarjeta, BonDiGro solo efectivo/tarjeta local — llevar efectivo.
 
-Ultimo aggiornamento: 28/08/2026
+Última actualización: 28/08/2026

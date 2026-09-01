@@ -1,21 +1,21 @@
-# Campo boe di Kralendijk — unico overnight per visitatori {#anc-kralendijk-boe}
+# Campo de boias de Kralendijk — único pernoita para visitantes {#anc-kralendijk-boe}
 
-[← Tutti gli ancoraggi](../08-ancoraggi.md)
-**12°09′21″ N 68°16′49″ W** ★★★★ — centro campo (estremi ufficiali 12°09′26″ N 68°17′05″ W e 12°09′04″ N 68°16′25″ W) · WGS84
+[← Todos os fundeadouros](../08-ancoraggi.md)
+**12°09′21″ N 68°16′49″ W** ★★★★ — centro do campo (limites oficiais 12°09′26″ N 68°17′05″ W e 12°09′04″ N 68°16′25″ W) · WGS84
 
-| Campo | Dettaglio |
+| Campo | Detalhe |
 |---|---|
-| **Profondità** | Sabbia e corallo protetto sotto il campo; nessuna sonda pubblicata — profondità variabile lungo la fascia costiera ovest (verificare eco) | 
-| **Tenuta àncora** | **Solo boe — ancoraggio VIETATO** ovunque nel BNMP (multa fino a US$ 2.800 + 1 mese) ★★★★★ |
-| **Venti/riparo** | Costa ovest sottovento agli alisei ENE: acqua piatta e buon riparo; esposta a swell da N/NO con fronti freddi invernali — verificare bollettino locale ★★★ |
-| **Pericoli** | Reef frangente continuo poco segnalato; traffico tender/dive boats sulle boe gialle diurne; furti dinghy/motore frequenti a Green dock/Kralendijk moorings di notte → catena + bar-lock, sollevare il tender ★★★ |
-| **Affollamento** | **Alta stagione molto pieno** (dic–apr): first-come first-served, chiamare Harbour Village prima dell'ingresso; 30–51 boe bicolori (bianco/rosso, cima gialla, sagoma rugby ball) |
-| **Boe/divieti/normative** | **Bicolori overnight visitatori**: US$ 35/notte, max 18 m (≈55–58 ft), una barca per boa (max 3 tender <4 m), cima morbida ≥6 m (non legarsi direttamente), 5 km/h nel campo, 50 m dalle altre barche, holding tank obbligatorio, durata = durata visto, no attività commerciali ★★★★★ |
-| **A terra** | Kralendijk centro a 200–600 m a piedi dal dinghy dock di **Karel's Bar** o dal molo Dogana/Immigrazione (Fort Oranje, Plasa Wilhelmina 3); Harbour Village Marina a nord gestisce assegnazione/pagamento (VHF 17/12, tel +599 717 7419, dockmaster@harbourvillage.com); pump-out incluso (o US$40 a svuotamento) |
+| **Profundidade** | Areia e coral protegido sob o campo; sem sondagem publicada — profundidade variável ao longo da faixa costeira oeste (verificar sonda) |
+| **Tenedouro** | **Apenas boias — fundeio PROIBIDO** em todo o BNMP (multa até US$ 2.800 + 1 mês) ★★★★★ |
+| **Ventos/abrigo** | Costa oeste a sotavento dos alísios de ENE: água lisa e bom abrigo; exposta a ondulação de N/NO com frentes frias de inverno — verificar boletim local ★★★ |
+| **Perigos** | Recife franjado contínuo pouco balizado; tráfego de botes/barcos de mergulho nas boias amarelas diurnas; furtos de bote/motor frequentes em Green dock/campo de Kralendijk à noite → corrente + cadeado bar-lock, içar o bote ★★★ |
+| **Lotação** | **Época alta muito concorrida** (dez–abr): por ordem de chegada, chamar Harbour Village antes da entrada; 30–51 boias bicolores (branco/vermelho, pendente amarelo, forma de bola de râguebi) |
+| **Boias/proibições/regulamentação** | **Bicolores de pernoita para visitantes**: US$ 35/noite, máx. 18 m (≈55–58 ft), uma embarcação por boia (máx. 3 botes <4 m), linha flexível ≥6 m (não amarrar diretamente), 5 km/h no campo, 50 m de outras embarcações, tanque de retenção obrigatório, duração = duração do visto, sem atividade comercial ★★★★★ |
+| **Em terra** | Centro de Kralendijk a 200–600 m a pé do cais de botes do **Karel's Bar** ou do molhe da Alfândega/Imigração (Fort Oranje, Plasa Wilhelmina 3); Harbour Village Marina a norte gere atribuição/pagamento (VHF 17/12, tel +599 717 7419, dockmaster@harbourvillage.com); pump-out incluído (ou US$40 por bombagem) |
 
 <div class="mapframe" data-slug="anc-kralendijk-boe" data-minz="12" data-maxz="17" data-lat="12.1557" data-lon="-68.2804"></div>
-*Cartina di dettaglio — zoom ± fino alla baia · mappa offline · coordinate WGS84 indicative, verificare sempre con plotter e STINAPA. **Marker in mezzo al mare**, al centro del campo boe.*
+*Carta de pormenor — zoom ± até à baía · mapa offline · coordenadas WGS84 indicativas, verificar sempre com plotter e STINAPA. **Marcador no mar**, no centro do campo de boias.*
 
-Fonti: [STINAPA — Mooring](https://stinapabonaire.org/rules-and-regulations/mooring/) ★★★★★ · [STINAPA — Boating](https://stinapabonaire.org/rules-and-regulations/boating/) ★★★★★ · [InfoBonaire — Yachting & Cruising](https://infobonaire.com/getting-to-bonaire/yachting-cruising/) ★★★ · [Harbour Village Marina](https://www.harbourvillage.com/bonaire-marina) ★★★★ · [NoForeignLand — Kralendijk](https://www.noforeignland.com/map/place/5730169490767872) ★★ · [STINAPA Annual Report 2022](https://stinapabonaire.org/wp-content/uploads/2023/03/STINAPA-Annual-Report-2022_Digital.pdf) ★★★★
+Fontes: [STINAPA — Mooring](https://stinapabonaire.org/rules-and-regulations/mooring/) ★★★★★ · [STINAPA — Boating](https://stinapabonaire.org/rules-and-regulations/boating/) ★★★★★ · [InfoBonaire — Yachting & Cruising](https://infobonaire.com/getting-to-bonaire/yachting-cruising/) ★★★ · [Harbour Village Marina](https://www.harbourvillage.com/bonaire-marina) ★★★★ · [NoForeignLand — Kralendijk](https://www.noforeignland.com/map/place/5730169490767872) ★★ · [STINAPA Annual Report 2022](https://stinapabonaire.org/wp-content/uploads/2023/03/STINAPA-Annual-Report-2022_Digital.pdf) ★★★★
 
-Ultimo aggiornamento: 28/08/2026
+Última atualização: 28/08/2026

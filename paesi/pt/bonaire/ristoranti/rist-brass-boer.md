@@ -1,35 +1,35 @@
 # Brass Boer
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Todos os restaurantes](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Campo | Detalhe |
 |---|---|
-| Zona | Punt Vierkant 44 — Delfins Beach Resort, Kralendijk sud |
-| Cucina | 🍽️ Internazionale gastronomica (De Librije — 3★ Michelin NL) |
-| Specialità | *Rundertartaar, wahoo con yoghurt alle erbe, appeltaart '2009' di De Librije, menu 6 portate US$180* |
-| Costo | 💰€€€€ per persona senza bevande (à la carte US$34–55, menu 6 portate US$165–180) |
-| Location | 🏖️ spiaggia elegante, piedi nella sabbia, tavolo 14 in mare |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Brass+Boer+Punt+Vierkant+44+Delfins+Beach+Resort) |
-| Contatti | +599 715 5050 · USA +1 8888 32 9962 · [brassboer.com/bonaire](https://www.brassboer.com/bonaire/en/) · reservations@brassboer.com |
-| Valutazioni | **bonaire.com 4,5/5 (442) [locale, 28/08/2026]** ★★★ · TripAdvisor 4,3/5 (619) ★★★ · Google 4,5/5 (442) → **★★★★½** |
-| Orari | lun 17:30–22 · mar–sab 8–10 / 12–14 (mer–sab) / 17:30–22 · dom chiuso — **renovation mag–lug 2026: pop-up “Librije Classics @ The Villa”** |
+| Zona | Punt Vierkant 44 — Delfins Beach Resort, Kralendijk sul |
+| Cozinha | 🍽️ Gastronómica internacional (De Librije — 3★ Michelin NL) |
+| Especialidade | *Rundertartaar, wahoo com iogurte de ervas, appeltaart '2009' da De Librije, menu 6 pratos US$180* |
+| Custo | 💰€€€€ por pessoa sem bebidas (à la carte US$34–55, menu 6 pratos US$165–180) |
+| Localização | 🏖️ praia elegante, pés na areia, mesa 14 no mar |
+| Mapa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Brass+Boer+Punt+Vierkant+44+Delfins+Beach+Resort) |
+| Contactos | +599 715 5050 · USA +1 8888 32 9962 · [brassboer.com/bonaire](https://www.brassboer.com/bonaire/en/) · reservations@brassboer.com |
+| Avaliações | **bonaire.com 4,5/5 (442) [local, 28/08/2026]** ★★★ · TripAdvisor 4,3/5 (619) ★★★ · Google 4,5/5 (442) → **★★★★½** |
+| Horário | seg 17:30–22 · ter–sáb 8–10 / 12–14 (qua–sáb) / 17:30–22 · dom fechado — **renovação mai–jul 2026: pop-up “Librije Classics @ The Villa”** |
 
 ## Menu
 
-- Brass Boer Ontbijtmenu US$38 (4 categorie a scelta)
-- Lunch Classics US$75: Tonijn con anguria, Tom Kha Kai, appeltaart
-- Dinner à la carte: Bloemkool '2010' US$34, Eendenborst US$36, Casarecce US$xx
-- Brass Boer 6-Gangen Menu US$180: Rundertartaar, Wahoo, Bieten, ecc. + wine pairing
-- Desserts US$22–26: Citrus (Bonaire/Curaçao/Nederland), Espresso Martini, Kazen
+- Brass Boer Pequeno-almoço US$38 (4 categorias à escolha)
+- Almoço Clássicos US$75: Atum com melancia, Tom Kha Kai, appeltaart
+- Jantar à la carte: Couve-flor '2010' US$34, Peito de pato US$36, Casarecce
+- Brass Boer Menu 6 pratos US$180: Rundertartaar, Wahoo, Beterraba, etc. + harmonização de vinhos
+- Sobremesas US$22–26: Citrus (Bonaire/Curaçao/Nederland), Espresso Martini, Queijos
 
-**Chef**: Famiglia Boer — Thérèse, Jimmie, Isabelle e Nelson (legacy Jonnie Boer)
+**Chef**: Família Boer — Thérèse, Jimmie, Isabelle e Nelson (legado Jonnie Boer)
 
-## Foto
+## Fotos
 
-*Foto non ancora disponibili — recuperare al controllo mensile (brassboer.com, licenza).*
+*Fotos ainda não disponíveis — a recolher no controlo mensal (brassboer.com, licença).*
 
-## Note
+## Notas
 
-Tavolo 14 in mezzo al mare — prenotare mesi prima per tramonto/special occasions; villa privata disponibile da US$500 con chef privato. Delfins Beach Resort a 3 km dalle boe di Kralendijk (taxi 8 min). Chiusura annuale renovation annunciata su bonaire.com (mag–lug 2026). Prenotazione online obbligatoria.
+Mesa 14 no meio do mar — reservar com meses de antecedência para pôr-do-sol/ocasiões especiais; villa privada disponível a partir de US$500 com chef privado. Delfins Beach Resort a 3 km das boias de Kralendijk (táxi 8 min). Encerramento anual para renovação anunciado em bonaire.com (mai–jul 2026). Reserva online obrigatória.
 
-Fonti: [bonaire.com — Brass Boer](https://bonaire.com/en/restaurants/brass-boer-restaurant-bonaire) ★★★ · [brassboer.com](https://www.brassboer.com/bonaire/en/) ★★★★ · [TripAdvisor — Brass Boer](https://www.tripadvisor.com/Restaurant_Review-g147268-d17523370-Reviews-CHEFS_Bonaire-Kralendijk_Bonaire.html) ★★★
+Fontes: [bonaire.com — Brass Boer](https://bonaire.com/en/restaurants/brass-boer-restaurant-bonaire) ★★★ · [brassboer.com](https://www.brassboer.com/bonaire/en/) ★★★★ · [TripAdvisor — Brass Boer](https://www.tripadvisor.com/Restaurant_Review-g147268-d17523370-Reviews-CHEFS_Bonaire-Kralendijk_Bonaire.html) ★★★

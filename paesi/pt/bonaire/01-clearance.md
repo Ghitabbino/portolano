@@ -1,10 +1,10 @@
 # 01 — Clearance doganale della barca
 
-**Ultima verifica: 28/08/2026** · Fonti principali: Belastingdienst Caribisch Nederland (Douane CN) ★★★★★, RijksdienstCN/IND ★★★★★, STINAPA ★★★★★, Fontes náuticas agregadas/Ocean Posse/CruisersWiki ★★★
+**Última verificação: 28/08/2026** · Fonti principali: Belastingdienst Caribisch Nederland (Douane CN) ★★★★★, RijksdienstCN/IND ★★★★★, STINAPA ★★★★★, Fontes náuticas agregadas/Ocean Posse/CruisersWiki ★★★
 
 ## Chi deve farla
 
-Tutti i natanti da diporto, **qualsiasi bandiera e nazionalità**, che:
+Todas as embarcações de recreio, **qualquer bandeira e nacionalidade**, que:
 - **entrano** nelle acque BES (Bonaire) provenendo da porto/mare territoriale straniero o alto mare;
 - **escono** verso porto/mare straniero o alto mare.
 Anche i residenti BES in rientro da navigazione estera devono presentarsi. Lo spostamento interno **Bonaire ↔ Saba/St. Eustatius** è entro lo stesso territorio BES ma, provenendo da acque internazionali, la presentazione all'ingresso resta dovuta. [Belastingdienst CN — Douane Caribisch Nederland](https://english.belastingdienst-cn.nl/organisation/douane-caribisch-nederland) ★★★★★
@@ -44,7 +44,7 @@ Se arrivi fuori orario (es. domenica), occupa una boa overnight libera e present
 
 ## Costi
 
-| Voce | Costo | Fonte |
+| Voce | Custo | Fonte |
 |---|---|---|
 | Clearance Dogana + Immigrazione (ingresso/uscita) | **Gratuita** (in orario) | Fontes náuticas agregadas ★★★; [CruisersWiki] ★★ |
 | STINAPA Nature Fee | **US$ 40 p.p./anno solare** (1 gen–31 dic); <13 anni e residenti BES/ABC gratis; crocieristi Washington Slagbaai US$ 10/giorno | [stinapa.bonairenaturefee.org](https://stinapa.bonairenaturefee.org) ★★★★★; [STINAPA FAQ](https://stinapabonaire.org/contact/frequently-asked-questions/) ★★★★★ |
@@ -55,7 +55,7 @@ Se arrivi fuori orario (es. domenica), occupa una boa overnight libera e present
 
 ## Unico porto d'ingresso e uffici — Kralendijk
 
-| Ufficio | Indirizzo | Contatti | Orari |
+| Ufficio | Indirizzo | Contactos | Horário |
 |---|---|---|---|
 | **Dogana — Belastingdienst Caribisch Nederland (sede)** | Kaya L.D. Gerharts 12, Kralendijk | +599 715 8585 (lun–ven 8–13 sportello, 8–16 tel) | lun–ven 8:00–13:00 sportello |
 | **Dogana — Zeehaven (porto)** | Plasa Wilhelmina 3, Kralendijk (Fort Oranje) | +599 715 8591 | presentazione immediata all'arrivo; fuori orario: occupa boa e presentati all'apertura |
@@ -88,4 +88,4 @@ Bonaire National Marine Park circonda l'intera isola: **ancorare è vietato su c
 - Lista Paesi a rischio febbre gialla OMS aggiornata se si proviene da Sud America/Africa.
 - Eventuali aggiornamenti SailClear/BES su nuova piattaforma o cambio VHF (17 vs 12) e orari IND/Dogana — verificare su [english.rijksdienstcn.com](https://english.rijksdienstcn.com/immigration-naturalisation/tourist-stay) e [belongingdienst-cn.nl](https://www.belastingdienst-cn.nl) prima di partire.
 
-Ultimo aggiornamento: 28/08/2026
+Última atualização: 28/08/2026

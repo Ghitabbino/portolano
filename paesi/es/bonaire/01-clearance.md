@@ -1,91 +1,91 @@
-# 01 — Clearance doganale della barca
+# 01 — Despacho aduanero de la embarcación
 
-**Ultima verifica: 28/08/2026** · Fonti principali: Belastingdienst Caribisch Nederland (Douane CN) ★★★★★, RijksdienstCN/IND ★★★★★, STINAPA ★★★★★, Fuentes náuticas agregadas/Ocean Posse/CruisersWiki ★★★
+**Última verificación: 28/08/2026** · Fuentes principales: Belastingdienst Caribisch Nederland (Aduana CN) ★★★★★, RijksdienstCN/IND ★★★★★, STINAPA ★★★★★, Fuentes náuticas agregadas/Ocean Posse/CruisersWiki ★★★
 
-## Chi deve farla
+## Quién debe despachar
 
-Tutti i natanti da diporto, **qualsiasi bandiera e nazionalità**, che:
-- **entrano** nelle acque BES (Bonaire) provenendo da porto/mare territoriale straniero o alto mare;
-- **escono** verso porto/mare straniero o alto mare.
-Anche i residenti BES in rientro da navigazione estera devono presentarsi. Lo spostamento interno **Bonaire ↔ Saba/St. Eustatius** è entro lo stesso territorio BES ma, provenendo da acque internazionali, la presentazione all'ingresso resta dovuta. [Belastingdienst CN — Douane Caribisch Nederland](https://english.belastingdienst-cn.nl/organisation/douane-caribisch-nederland) ★★★★★
+Todas las embarcaciones de recreo, **cualquier pabellón y nacionalidad**, que:
+- **entran** en aguas BES (Bonaire) procedentes de puerto/mar territorial extranjero o alta mar;
+- **salen** hacia puerto/mar extranjero o alta mar.
+Incluso los residentes BES que regresan de navegación exterior deben presentarse. El desplazamiento interno **Bonaire ↔ Saba/San Eustaquio** es dentro del mismo territorio BES pero, tras paso por aguas internacionales, sigue siendo obligatoria la presentación a la entrada. [Belastingdienst CN — Douane Caribisch Nederland](https://english.belastingdienst-cn.nl/organisation/douane-caribisch-nederland) ★★★★★
 
-> Natanti da diporto e sportivi sono **esentati dalle formalità di import/export clearance del carico** (nessuna dichiarazione merci se non si trasporta carico commerciale), ma **resta l'obbligo di presentarsi a Dogana e Immigrazione per persone e natante** e di ottenere il permesso di partenza. [Belastingdienst CN — Export clearance: leisure vessels exempt](https://english.belastingdienst-cn.nl/topics/customs-business/import-transit-and-export/export-clearance) ★★★★★
+> Las embarcaciones de recreo y deportivas están **exentas de las formalidades de despacho de carga import/export** (ninguna declaración de mercancías si no se transporta carga comercial), pero **subsiste la obligación de presentarse en Aduana e Inmigración por personas y embarcación** y de obtener el permiso de salida. [Belastingdienst CN — Export clearance: leisure vessels exempt](https://english.belastingdienst-cn.nl/topics/customs-business/import-transit-and-export/export-clearance) ★★★★★
 
-## Pre-arrivo: SailClear e documenti
+## Antes de la llegada: SailClear y documentos
 
-1. **Pre-notifica SailClear attesa dalla Dogana (dal 2023)** — creare la notifica su [sailclear.com](https://www.sailclear.com) **prima di salpare**: in banchina a Kralendijk **non c'è computer disponibile** per compilarla. Riduce i tempi in ufficio ma **non sostituisce la presentazione fisica**. Fuentes náuticas agregadas ★★★; [SailClear FAQ](https://www.sailclear.com/faq) ★★★
-2. Preparare in cartella (originali + 2 copie):
-   - passaporti di tutto l'equipaggio (validi per l'intera permanenza);
-   - **registrazione/nazionalità del natante**, prova di proprietà/assicurazione;
-   - **crew list / passenger manifest** (nome, data nascita, nazionalità, n° passaporto);
-   - **documento di uscita (zarpe/despacho) del porto precedente — obbligatorio**: senza prova del Paese di provenienza l'ingresso può essere rifiutato (controllo applicato anche su arrivi dal Venezuela/Los Roques). Fuentes náuticas agregadas ★★★; [Doyle Guides — Bonaire Updates 30/05/2017](https://doyleguides.com/bonaire-updated-guide/) ★★
-   - ricevute **Visitor Entry Tax** e **STINAPA Nature Fee** se già pagate online (consigliato entro 48 h prima per la Entry Tax).
-3. **Avvisare Harbour Village Marina per l'ormeggio**: VHF **17** (gestione mooring) o **12** per disponibilità prima dell'ingresso secondo fonti secondarie; tel +599 717 7419. Le boe overnight non sono prenotabili, assegnazione first-come first-served. [InfoBonaire — Yachting & Cruising](https://infobonaire.com/getting-to-bonaire/yachting-cruising/) ★★★; [NoForeignLand — Kralendijk](https://www.noforeignland.com/map/place/5730169490767872) ★★★
+1. **Pre-notificación SailClear esperada por Aduana (desde 2023)** — crear la notificación en [sailclear.com](https://www.sailclear.com) **antes de zarpar**: en el muelle de Kralendijk **no hay ordenador disponible** para cumplimentarla. Reduce el tiempo en ventanilla pero **no sustituye la presentación en persona**. Fuentes náuticas agregadas ★★★; [SailClear FAQ](https://www.sailclear.com/faq) ★★★
+2. Preparar carpeta (originales + 2 copias):
+    - pasaportes de toda la tripulación (válidos durante toda la estancia);
+    - **registro/nacionalidad de la embarcación**, prueba de propiedad/seguro;
+    - **lista de tripulantes / manifiesto de pasajeros** (nombre, fecha nacimiento, nacionalidad, n.º pasaporte);
+    - **documento de salida (zarpe/despacho) del puerto anterior — obligatorio**: sin prueba del país de procedencia la entrada puede ser denegada (control aplicado también a llegadas desde Venezuela/Los Roques). Fuentes náuticas agregadas ★★★; [Doyle Guides — Bonaire Updates 30/05/2017](https://doyleguides.com/bonaire-updated-guide/) ★★
+    - recibos **Visitor Entry Tax** y **STINAPA Nature Fee** si ya pagados en línea (aconsejado en 48 h antes para la Entry Tax).
+3. **Avisar a Harbour Village Marina para el amarre**: VHF **17** (gestión de boyas) o **12** para disponibilidad antes de la entrada según fuentes secundarias; tel +599 717 7419. Las boyas de noche no son reservables, asignación por orden de llegada. [InfoBonaire — Yachting & Cruising](https://infobonaire.com/getting-to-bonaire/yachting-cruising/) ★★★; [NoForeignLand — Kralendijk](https://www.noforeignland.com/map/place/5730169490767872) ★★★
 
-## All'arrivo a Kralendijk — procedura in banchina
+## A la llegada a Kralendijk — procedimiento en muelle
 
-**Unico porto d'ingresso: Kralendijk — 12°09,1' N 68°16,7' W** (davanti a Fort Oranje). [Ocean Posse — Bonaire](https://oceanposse.com/bonaire/) ★★★
+**Único puerto de entrada: Kralendijk — 12°09,1' N 68°16,7' W** (frente a Fort Oranje). [Ocean Posse — Bonaire](https://oceanposse.com/bonaire/) ★★★
 
-1. **Non ancorare mai**: tutto il perimetro dell'isola fino alla batimetrica è **Bonaire National Marine Park** — ancoraggio vietato (eccezione solo pescherecci tradizionali con pietre). Usare **solo mooring overnight bicolori (bianco/rosso, sagoma rugby ball con cima gialla)** tra 12°09,44' N 68°17,09' W (sud ingresso Harbour Village) e 12°09,06' N 68°16,41' W (davanti a Karel's Bar). [STINAPA — Mooring](https://stinapabonaire.org/rules-and-regulations/mooring/) ★★★★★; [STINAPA — Boating PDF](https://stinapabonaire.org/wp-content/uploads/2018/08/Boating.pdf) ★★★★★
-2. Appena ormeggiati, andare con il tender al **dinghy dock di Karel's Bar** (bar/ristorante, attracco gratuito con consumazione) o direttamente al molo Dogana/Immigrazione (200 m a sud del dinghy dock, posti riservati a mezzi ufficiali — lasciare spazio). [CruisersWiki — Bonaire](https://www.cruiserswiki.org/wiki/Bonaire) ★★
-3. Presentarsi **immediatamente e tutti di persona** (headcount Immigrazione) all'ufficio **Dogana + Immigrazione nello stesso stabile a Fort Oranje / Plasa Wilhelmina 3** — orario sportello Immigrazione IND lun–gio 8:00–11:30 e 13:30–16:00, ven 8:00–11:30; Dogana porto tel +599 715 8591. Compilare moduli d'ingresso, esibire zarpe e documenti natante, dichiarare armi. [RijksdienstCN — Contact IND](https://english.rijksdienstcn.com/immigration-naturalisation/contact) ★★★★★; [Belastingdienst CN — Contact / Douane Bonaire Kaya L.D. Gerharts 12, tel +599 715 8585, zeehaven Plasa Wilhelmina 3 tel +599 715 8591](https://www.belastingdienst-cn.nl/service/contact) ★★★★★
-4. **Armi e affini**: pistole, fucili, **flare gun, spear gun / fucili subacquei** sono considerati armi: vanno **dichiarati e depositati in Dogana** per tutta la permanenza, ritiro alla partenza. [InfoBonaire — Yachting & Cruising](https://infobonaire.com/getting-to-bonaire/yachting-cruising/) ★★★; [CruisersWiki — Bonaire](https://www.cruiserswiki.org/wiki/Bonaire) ★★; [Doyle Guides 2017](https://doyleguides.com/bonaire-updated-guide/) ★★
-5. Pagamenti contestuali se non già fatti online: **STINAPA Nature Fee US$ 40** (anno solare) e **Visitor Entry Tax US$ 75/10** (vedi 00). **Dogana e Immigrazione non applicano diritti di clearance** in orario normale. [Annual Report STINAPA 2022](https://stinapabonaire.org/wp-content/uploads/2023/03/STINAPA-Annual-Report-2022_Digital.pdf) ★★★★; [tourismtax.bonairegov.com](https://tourismtax.bonairegov.com) ★★★★★
-6. Formalità STINAPA/mooring: registrazione al **Custom Office e Harbour Village Marina**, assegnazione boa, briefing su uso boa (usare cima propria ≥6 m, non legarsi direttamente, max 18 m / ~55–58 ft, una barca per boa, no attività commerciali a bordo, rispetto limite visa). [STINAPA — Mooring](https://stinapabonaire.org/rules-and-regulations/mooring/) ★★★★★
+1. **Nunca fondear**: todo el perímetro de la isla hasta la isóbata es **Bonaire National Marine Park** — fondeo prohibido (excepción solo embarcaciones tradicionales de pesca con piedra). Usar **solo boyas bicolores de noche (blanco/rojo, forma balón de rugby con estacha amarilla)** entre 12°09,44' N 68°17,09' W (sur de entrada Harbour Village) y 12°09,06' N 68°16,41' W (frente a Karel's Bar). [STINAPA — Mooring](https://stinapabonaire.org/rules-and-regulations/mooring/) ★★★★★; [STINAPA — Boating PDF](https://stinapabonaire.org/wp-content/uploads/2018/08/Boating.pdf) ★★★★★
+2. Una vez amarrados, ir con el auxiliar al **atraque para auxiliares de Karel's Bar** (bar/restaurante, atraque gratuito con consumición) o directamente al muelle de Aduana/Inmigración (200 m al sur del atraque, puestos reservados a medios oficiales — dejar libre). [CruisersWiki — Bonaire](https://www.cruiserswiki.org/wiki/Bonaire) ★★
+3. Presentarse **inmediatamente y todos en persona** (recuento Inmigración) en la oficina **Aduana + Inmigración en el mismo edificio en Fort Oranje / Plasa Wilhelmina 3** — horario ventanilla Inmigración IND lun–jue 8:00–11:30 y 13:30–16:00, vie 8:00–11:30; Aduana puerto tel +599 715 8591. Cumplimentar formularios de entrada, exhibir zarpe y documentos de la embarcación, declarar armas. [RijksdienstCN — Contact IND](https://english.rijksdienstcn.com/immigration-naturalisation/contact) ★★★★★; [Belastingdienst CN — Contact / Douane Bonaire Kaya L.D. Gerharts 12, tel +599 715 8585, zeehaven Plasa Wilhelmina 3 tel +599 715 8591](https://www.belastingdienst-cn.nl/service/contact) ★★★★★
+4. **Armas y asimilados**: pistolas, fusiles, **pistolas lanzabengalas, fusiles de pesca submarina** se consideran armas: deben **declararse y depositarse en Aduana** durante toda la estancia, recogida a la salida. [InfoBonaire — Yachting & Cruising](https://infobonaire.com/getting-to-bonaire/yachting-cruising/) ★★★; [CruisersWiki — Bonaire](https://www.cruiserswiki.org/wiki/Bonaire) ★★; [Doyle Guides 2017](https://doyleguides.com/bonaire-updated-guide/) ★★
+5. Pagos in situ si no ya hechos en línea: **STINAPA Nature Fee US$ 40** (año natural) y **Visitor Entry Tax US$ 75/10** (ver 00). **Aduana e Inmigración no cobran derechos de despacho** en horario normal. [Annual Report STINAPA 2022](https://stinapabonaire.org/wp-content/uploads/2023/03/STINAPA-Annual-Report-2022_Digital.pdf) ★★★★; [tourismtax.bonairegov.com](https://tourismtax.bonairegov.com) ★★★★★
+6. Formalidades STINAPA/boya: registro en **Oficina de Aduana y Harbour Village Marina**, asignación de boya, briefing de uso (usar estacha propia ≥6 m, no amarrarse directamente, máx. 18 m / ~55–58 ft, una embarcación por boya, sin actividad comercial a bordo, respetar duración de visado). [STINAPA — Mooring](https://stinapabonaire.org/rules-and-regulations/mooring/) ★★★★★
 
-### Trucco utile (esperienza cruiser)
+### Truco útil (experiencia crucerista)
 
-Se arrivi fuori orario (es. domenica), occupa una boa overnight libera e presentati **la mattina successiva alla prima apertura** — non restare senza esserti annunciato via VHF/marina. Se lasci temporaneamente la boa per un'immersione diurna (max 2 h sulle boe gialle day-use), lascia un parabordo/pendant sulla tua boa per segnalare occupazione. [NoForeignLand — Kralendijk](https://www.noforeignland.com/map/place/5730169490767872) ★★★; [STINAPA — Boating PDF](https://stinapabonaire.org/wp-content/uploads/2018/08/Boating.pdf) ★★★★★
+Si llegas fuera de horario (ej. domingo), ocupa una boya de noche libre y preséntate **a la mañana siguiente a la primera apertura** — no permanezcas sin haberte anunciado vía VHF/marina. Si dejas temporalmente la boya para una inmersión diurna (máx. 2 h en boyas amarillas de uso diurno), deja una defensa/retenida sobre tu boya para señalizar ocupación. [NoForeignLand — Kralendijk](https://www.noforeignland.com/map/place/5730169490767872) ★★★; [STINAPA — Boating PDF](https://stinapabonaire.org/wp-content/uploads/2018/08/Boating.pdf) ★★★★★
 
-## Partenza (clearance in uscita)
+## Salida (despacho de salida)
 
-- Ritornare **allo stesso ufficio Dogana/Immigrazione** prima di mollare la boa, con passaporti e documenti barca; chiedere **zarpe/dichiarazione di uscita e eventuale duplicate departure card** se il prossimo Paese la richiede. Ritirare le armi depositate. [Belastingdienst CN — Export clearance: duplicate departure card on request](https://english.belastingdienst-cn.nl/topics/customs-business/import-transit-and-export/export-clearance) ★★★★★
-- Comunicare a Harbour Village Marina il rilascio della boa; servizio pump-out e smaltimento rifiuti **inclusi** nella tariffa mooring — i ranger possono chiedere pump-out in base a capacità serbatoio, persone a bordo e durata. [NoForeignLand — Kralendijk](https://www.noforeignland.com/map/place/5730169490767872) ★★★
+- Volver **a la misma oficina Aduana/Inmigración** antes de largar la boya, con pasaportes y documentos de la embarcación; solicitar **zarpe/declaración de salida y eventual duplicate departure card** si el próximo país la exige. Recoger las armas depositadas. [Belastingdienst CN — Export clearance: duplicate departure card on request](https://english.belastingdienst-cn.nl/topics/customs-business/import-transit-and-export/export-clearance) ★★★★★
+- Comunicar a Harbour Village Marina la liberación de la boya; servicio de achique y gestión de residuos **incluidos** en la tarifa de boya — los rangers pueden exigir achique según capacidad del tanque, personas a bordo y duración. [NoForeignLand — Kralendijk](https://www.noforeignland.com/map/place/5730169490767872) ★★★
 
-## Costi
+## Costes
 
-| Voce | Costo | Fonte |
+| Apartado | Coste | Fuente |
 |---|---|---|
-| Clearance Dogana + Immigrazione (ingresso/uscita) | **Gratuita** (in orario) | Fuentes náuticas agregadas ★★★; [CruisersWiki] ★★ |
-| STINAPA Nature Fee | **US$ 40 p.p./anno solare** (1 gen–31 dic); <13 anni e residenti BES/ABC gratis; crocieristi Washington Slagbaai US$ 10/giorno | [stinapa.bonairenaturefee.org](https://stinapa.bonairenaturefee.org) ★★★★★; [STINAPA FAQ](https://stinapabonaire.org/contact/frequently-asked-questions/) ★★★★★ |
-| Visitor Entry Tax | **US$ 75 adulti / US$ 10 bambini 0–12 e residenti ex-Antille**; per visita, valida 1 mese; pagamento entro 48 h su tourismtax.bonairegov.com | [tourismtax.bonairegov.com](https://tourismtax.bonairegov.com) ★★★★★ |
-| Boa overnight STINAPA (visitatori) | **US$ 35/notte** — 30–51 boe bicolori davanti a Kralendijk, first-come first-served, max 18 m, tramite Harbour Village Marina | [Annual Report STINAPA 2022](https://stinapabonaire.org/wp-content/uploads/2023/03/STINAPA-Annual-Report-2022_Digital.pdf) ★★★★; [InfoBonaire](https://infobonaire.com/getting-to-bonaire/yachting-cruising/) ★★★ |
-| Boa day-use (gialle) | **Gratuite / incluse nel parco** — max 2 h consecutive, max 13 m (o 45 ft secondo PDF), non per pernotto | [STINAPA — Mooring](https://stinapabonaire.org/rules-and-regulations/mooring/) ★★★★★; [STINAPA Boating PDF](https://stinapabonaire.org/wp-content/uploads/2018/08/Boating.pdf) ★★★★★ |
-| Posto in marina (Harbour Village) | Da **US$ 0,85–2,75/ft/giorno** secondo pontile (A&B US$1,50, Lighthouse US$0,95, Ambar Point US$2,75 ecc.) + catamarani supplemento; tariffe variabili su richiesta | [Harbour Village Marina — rates](https://www.harbourvillage.com/bonaire-marina) ★★★★ |
+| Despacho Aduana + Inmigración (entrada/salida) | **Gratuito** (en horario) | Fuentes náuticas agregadas ★★★; [CruisersWiki] ★★ |
+| STINAPA Nature Fee | **US$ 40 p.p./año natural** (1 ene–31 dic); <13 años y residentes BES/ABC gratis; visitantes de un día Washington Slagbaai US$ 10/día | [stinapa.bonairenaturefee.org](https://stinapa.bonairenaturefee.org) ★★★★★; [STINAPA FAQ](https://stinapabonaire.org/contact/frequently-asked-questions/) ★★★★★ |
+| Visitor Entry Tax | **US$ 75 adultos / US$ 10 niños 0–12 y residentes ex-Antillas**; por visita, válida 1 mes; pago en 48 h en tourismtax.bonairegov.com | [tourismtax.bonairegov.com](https://tourismtax.bonairegov.com) ★★★★★ |
+| Boya de noche STINAPA (visitantes) | **US$ 35/noche** — 30–51 boyas bicolores frente a Kralendijk, por orden de llegada, máx. 18 m, vía Harbour Village Marina | [Annual Report STINAPA 2022](https://stinapabonaire.org/wp-content/uploads/2023/03/STINAPA-Annual-Report-2022_Digital.pdf) ★★★★; [InfoBonaire](https://infobonaire.com/getting-to-bonaire/yachting-cruising/) ★★★ |
+| Boya de uso diurno (amarilla) | **Gratuita / incluida en parque** — máx. 2 h consecutivas, máx. 13 m (o 45 ft según PDF), no para pernocta | [STINAPA — Mooring](https://stinapabonaire.org/rules-and-regulations/mooring/) ★★★★★; [STINAPA Boating PDF](https://stinapabonaire.org/wp-content/uploads/2018/08/Boating.pdf) ★★★★★ |
+| Puesto en marina (Harbour Village) | Desde **US$ 0,85–2,75/ft/día** según pantalán (A&B US$1,50, Lighthouse US$0,95, Ambar Point US$2,75 etc.) + suplemento catamarán; tarifas bajo petición | [Harbour Village Marina — rates](https://www.harbourvillage.com/bonaire-marina) ★★★★ |
 
-## Unico porto d'ingresso e uffici — Kralendijk
+## Único puerto de entrada y oficinas — Kralendijk
 
-| Ufficio | Indirizzo | Contatti | Orari |
+| Oficina | Dirección | Contacto | Horario |
 |---|---|---|---|
-| **Dogana — Belastingdienst Caribisch Nederland (sede)** | Kaya L.D. Gerharts 12, Kralendijk | +599 715 8585 (lun–ven 8–13 sportello, 8–16 tel) | lun–ven 8:00–13:00 sportello |
-| **Dogana — Zeehaven (porto)** | Plasa Wilhelmina 3, Kralendijk (Fort Oranje) | +599 715 8591 | presentazione immediata all'arrivo; fuori orario: occupa boa e presentati all'apertura |
-| **Immigrazione — IND Bonaire** | Kaya Gresia 11, Kralendijk | +599 715 8330 · IND@rijksdienstCN.com | sportello info lun–gio 8:00–11:30; ritiro lun–gio 13:30–16:00 ven 8:00–11:30; telefono lun–gio 8:00–12:00 |
-| **Harbour Village Marina (gestione boe overnight)** | Harbour Village, Kralendijk | +599 717 7419 · VHF 17 (e 12 per disponibilità) | assegnazione e pagamento boe; 30–51 boe bicolori |
+| **Aduana — Belastingdienst Caribisch Nederland (sede)** | Kaya L.D. Gerharts 12, Kralendijk | +599 715 8585 (lun–vie 8–13 ventanilla, 8–16 tel) | lun–vie 8:00–13:00 ventanilla |
+| **Aduana — Zeehaven (puerto)** | Plasa Wilhelmina 3, Kralendijk (Fort Oranje) | +599 715 8591 | presentación inmediata a la llegada; fuera de horario: ocupa boya y preséntate a la apertura |
+| **Inmigración — IND Bonaire** | Kaya Gresia 11, Kralendijk | +599 715 8330 · IND@rijksdienstCN.com | ventanilla info lun–jue 8:00–11:30; recogida lun–jue 13:30–16:00 vie 8:00–11:30; teléfono lun–jue 8:00–12:00 |
+| **Harbour Village Marina (gestión boyas de noche)** | Harbour Village, Kralendijk | +599 717 7419 · VHF 17 (y 12 para disponibilidad) | asignación y pago boyas; 30–51 boyas bicolores |
 
-Fonti: [Belastingdienst CN — Contact](https://www.belastingdienst-cn.nl/service/contact) ★★★★★; [RijksdienstCN — Contact IND](https://english.rijksdienstcn.com/immigration-naturalisation/contact) ★★★★★; [Ocean Posse / InfoBonaire] ★★★
+Fuentes: [Belastingdienst CN — Contact](https://www.belastingdienst-cn.nl/service/contact) ★★★★★; [RijksdienstCN — Contact IND](https://english.rijksdienstcn.com/immigration-naturalisation/contact) ★★★★★; [Ocean Posse / InfoBonaire] ★★★
 
-## Dogana regionale
+## Aduana regional
 
 **Belastingdienst Caribisch Nederland — Douane Caribisch Nederland**, Kaya L.D. Gerharts 12, Postbus 329, Kralendijk · +599 715 8585 · [english.belastingdienst-cn.nl](https://english.belastingdienst-cn.nl/organisation/douane-caribisch-nederland) ★★★★★
-Per legislazione: *Douane- en Accijnswet BES* (BWBR0029236) — supervisione permanente su import/export/transito e accise interne. ★★★★★
+Para legislación: *Douane- en Accijnswet BES* (BWBR0029236) — supervisión permanente sobre import/export/tránsito y accisas interiores. ★★★★★
 
-## Moorings e divieto di ancoraggio (impatto sulla clearance)
+## Boyas y prohibición de fondeo (impacto en despacho)
 
-Bonaire National Marine Park circonda l'intera isola: **ancorare è vietato su corallo/fondale protetto**. Le uniche soste notturne legali per visitatori sono le **overnight mooring STINAPA** o un posto in marina. I mooring privati (bianchi/gialli/arancio) sono riservati a residenti con permesso STINAPA (waitlist ~3 anni) — non usarli. I mooring pubblici gialli/blu sono day-use max 2 h, una barca >4 m per boa (o fino a 3 tender <4 m). [STINAPA — Mooring](https://stinapabonaire.org/rules-and-regulations/mooring/) ★★★★★
+Bonaire National Marine Park rodea toda la isla: **fondear está prohibido sobre coral/fondo protegido**. Las únicas estancias nocturnas legales para visitantes son las **boyas de noche STINAPA** o un puesto en marina. Las boyas privadas (blancas/amarillas/naranja) están reservadas a residentes con permiso STINAPA (lista de espera ~3 años) — no usarlas. Las boyas públicas amarillas/azules son de uso diurno máx. 2 h, una embarcación >4 m por boya (o hasta 3 auxiliares <4 m). [STINAPA — Mooring](https://stinapabonaire.org/rules-and-regulations/mooring/) ★★★★★
 
-## Esperienze dei crocieristi
+## Experiencias de cruceristas
 
-- Ingresso definito “facile e cordiale, gratuito, efficiente; tutti devono presentarsi per headcount” — Dogana trattiene flare/spear gun senza problemi e li restituisce in uscita. ★★ [CruisersWiki — Bonaire; Doyle Guides 2017]
-- Harbour Village molto reattivo su VHF per assegnazione boa; in alta stagione le boe si riempiono — chiamare prima dell'ingresso e tenere pronta cima lunga (≥6 m). ★★★ [NoForeignLand — Kralendijk; InfoBonaire]
-- Dal 2023 la Dogana si aspetta SailClear pre-compilato: chi arriva senza trova solo moduli cartacei e tempi più lunghi. ★★★ [Fuentes náuticas agregadas ★★★
-- **Mancata presentazione / zarpe mancante / armi non dichiarate**: rifiuto d'ingresso, sequestro cautelare dell'arma, possibile sequestro del natante in attesa di regolarizzazione, dazi all'importazione se violata l'ammissione temporanea (uso commerciale, superamento 6 mesi senza proroga). [Belastingdienst CN — supervisione permanente](https://english.belastingdienst-cn.nl/organisation/douane-caribisch-nederland) ★★★★★; prassi Curaçao 24h/6 mesi ★★★
-- **Overstay persone**: multa, espulsione e divieto di reingresso (KMar/IND); il periodo concesso può essere stato già abbreviato in frontiera per mezzi insufficienti. [RijksdienstCN — Travel with non-Dutch passport](https://english.rijksdienstcn.com/justice--security/royal-netherlands-marechaussee/travel-with-a-non-dutch-passport) ★★★★★
-- Inquinamento / scarico acque nere senza holding tank: obbligo di holding tank funzionante per usare le boe; in alternativa obbligo di ormeggio in marina o di lasciare Bonaire. [NoForeignLand — Kralendijk] ★★★
+- Entrada descrita como “fácil y cordial, gratuita, eficaz; todos deben presentarse para recuento” — Aduana retiene lanzabengalas/fusiles de pesca sin problema y los devuelve a la salida. ★★ [CruisersWiki — Bonaire; Doyle Guides 2017]
+- Harbour Village muy reactivo en VHF para asignación de boya; en temporada alta las boyas se llenan — llamar antes de la entrada y tener lista estacha larga (≥6 m). ★★★ [NoForeignLand — Kralendijk; InfoBonaire]
+- Desde 2023 Aduana espera SailClear pre-cumplimentado: quien llega sin él encuentra solo formularios en papel y plazos más largos. ★★★ [Fuentes náuticas agregadas] ★★★
+- **Falta de presentación / zarpe faltante / armas no declaradas**: denegación de entrada, decomiso cautelar del arma, posible retención de la embarcación pendiente de regularización, aranceles de importación si se vulnera la admisión temporal (uso comercial, superar 6 meses sin prórroga). [Belastingdienst CN — supervisión permanente](https://english.belastingdienst-cn.nl/organisation/douane-caribisch-nederland) ★★★★★; práctica Curaçao 24h/6 meses ★★★
+- **Exceso de estancia personas**: multa, expulsión y prohibición de reentrada (KMar/IND); el período concedido puede ya haber sido acortado en frontera por medios insuficientes. [RijksdienstCN — Travel with non-Dutch passport](https://english.rijksdienstcn.com/justice--security/royal-netherlands-marechaussee/travel-with-a-non-dutch-passport) ★★★★★
+- Contaminación / descarga aguas negras sin tanque: tanque de retención operativo obligatorio para usar las boyas; si no, obligación de amarrar en marina o abandonar Bonaire. [NoForeignLand — Kralendijk] ★★★
 
-## Da verificare prima della crociera
+## A verificar antes de la travesía
 
-- Disponibilità boe overnight in alta stagione (dic–apr) e tariffe marina aggiornate; contatto Harbour Village prima della traversata.
-- Lista Paesi a rischio febbre gialla OMS aggiornata se si proviene da Sud America/Africa.
-- Eventuali aggiornamenti SailClear/BES su nuova piattaforma o cambio VHF (17 vs 12) e orari IND/Dogana — verificare su [english.rijksdienstcn.com](https://english.rijksdienstcn.com/immigration-naturalisation/tourist-stay) e [belongingdienst-cn.nl](https://www.belastingdienst-cn.nl) prima di partire.
+- Disponibilidad boyas de noche en temporada alta (dic–abr) y tarifas marina actualizadas; contactar Harbour Village antes de la travesía.
+- Lista OMS actualizada países con riesgo fiebre amarilla si se viene de Sudamérica/África.
+- Eventuales actualizaciones SailClear/BES sobre nueva plataforma o cambio VHF (17 vs 12) y horarios IND/Aduana — verificar en [english.rijksdienstcn.com](https://english.rijksdienstcn.com/immigration-naturalisation/tourist-stay) y [belastingdienst-cn.nl](https://www.belastingdienst-cn.nl) antes de zarpar.
 
-Ultimo aggiornamento: 28/08/2026
+Última actualización: 28/08/2026

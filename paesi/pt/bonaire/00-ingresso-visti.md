@@ -1,21 +1,21 @@
-# 00 — Ingresso, documenti e visti
+# 00 — Entrada, documentos e vistos
 
-**Ultima verifica: 28/08/2026**
+**Última verificação: 28/08/2026**
 
 ## Status
 
-Bonaire è un **municipio speciale (openbaar lichaam) dei Paesi Bassi** nei **Caraibi olandesi BES** (Bonaire, St. Eustatius, Saba): fa parte del Regno dei Paesi Bassi ma è **fuori dall'UE e fuori dall'area Schengen**, con regime di ingresso e dogana distinto da Aruba, Curaçao e Sint Maarten (Paesi autonomi del Regno). Le regole BES non sono quelle europee né quelle di Schengen.
+Bonaire é um **município especial (openbaar lichaam) dos Países Baixos** no **Caribe Neerlandês BES** (Bonaire, Santo Eustáquio e Saba): faz parte do Reino dos Países Baixos mas está **fora da UE e fora do espaço Schengen**, com regime de entrada e alfândega distinto de Aruba, Curaçao e Sint Maarten (países constituintes do Reino). As regras BES não são as europeias nem Schengen.
 
-## Cittadini UE/italiani — nessun visto per soggiorni brevi
+## Cidadãos UE — nessun visto per soggiorni brevi
 
 | Voce | Regola | Fonte |
 |---|---|---|
 | Visto | **Non richiesto** per l'Italia e gli altri Stati della lista esente (UE, USA, Canada, Regno Unito, Australia, ecc.) — l'Italia è nella lista ufficiale esente | [NetherlandsWorldwide — lista esenti visto Caraibi del Regno](https://www.netherlandsworldwide.nl/caribbean-visa/visa-needed-caribbean) ★★★★★ |
-| Soggiorno turistico (stranieri / “aliens”, include italiani non-olandesi) | **Max 90 giorni ogni 180 giorni**, **conteggiati cumulativamente su Bonaire + St. Eustatius + Saba**. Senza permesso di soggiorno per quel periodo; la durata può essere **accorciata in frontiera dalla KMar** in base a scopo e mezzi | [RijksdienstCN — Tourist stay (EN)](https://english.rijksdienstcn.com/immigration-naturalisation/tourist-stay) ★★★★★; [RijksdienstCN — Travel with non-Dutch passport](https://english.rijksdienstcn.com/justice--security/royal-netherlands-marechaussee/travel-with-a-non-dutch-passport) ★★★★★ |
-| Cittadini olandesi (europei o di Curaçao/Aruba/Sint Maarten) e statunitensi | **Max 180 giorni ogni 365 giorni** a ingresso libero; se lavorano o fanno stage vale invece **max 90 giorni ogni 365** senza *Verklaring van rechtswege* | [RijksdienstCN — Tourist stay](https://english.rijksdienstcn.com/immigration-naturalisation/tourist-stay) ★★★★★ |
+| Soggiorno turistico (stranieri / “aliens”, include UE non-olandesi) | **Max 90 giorni ogni 180 giorni**, **conteggiati cumulativamente su Bonaire + St. Eustatius + Saba**. Senza permesso di soggiorno per quel periodo; la durata può essere **accorciata in frontiera dalla KMar** in base a scopo e mezzi | [RijksdienstCN — Tourist stay (EN)](https://english.rijksdienstcn.com/immigration-naturalisation/tourist-stay) ★★★★★; [RijksdienstCN — Travel with non-Dutch passport](https://english.rijksdienstcn.com/justice--security/royal-netherlands-marechaussee/travel-with-a-non-dutch-passport) ★★★★★ |
+| Cidadãos neerlandeses (europeus ou de Curaçao/Aruba/Sint Maarten) e norte-americanos | **Max 180 giorni ogni 365 giorni** a ingresso libero; se lavorano o fanno stage vale invece **max 90 giorni ogni 365** senza *Verklaring van rechtswege* | [RijksdienstCN — Tourist stay](https://english.rijksdienstcn.com/immigration-naturalisation/tourist-stay) ★★★★★ |
 | Documenti | **Passaporto valido per l'intera permanenza** (alla partenza deve essere ancora valido); carta d'identità italiana **non accettata** per BES | [RijksdienstCN — Travel with non-Dutch passport](https://english.rijksdienstcn.com/justice--security/royal-netherlands-marechaussee/travel-with-a-non-dutch-passport) ★★★★★; [bonaire.com — Visa & Entry Requirements, 07/07/2026](https://bonaire.com/en/travel-info/visa-entry/) ★★★ |
-| Condizioni all'ingresso | Biglietto di ritorno/proseguimento, indirizzo di alloggio (hotel/appartamento o barca con mooring/marina), **mezzi sufficienti: regola base US$ 1.000 a settimana** se già in possesso del biglietto di uscita; in alternativa garante residente con mezzi dimostrabili. Scopo chiaro del viaggio (turismo/visita familiare) | [RijksdienstCN — Travel with non-Dutch passport](https://english.rijksdienstcn.com/justice--security/royal-netherlands-marechaussee/travel-with-a-non-dutch-passport) ★★★★★ |
-| Transito | Transito aeroportuale a Bonaire **entro 48 h** senza visto per chi è in possesso di titolo per la destinazione successiva; per via mare → vedi clearance | [NetherlandsWorldwide — Airport transit BES](https://www.netherlandsworldwide.nl/caribbean-visa/visa-needed-caribbean) ★★★★★ |
+| Condições de entrada | Biglietto di ritorno/proseguimento, indirizzo di alloggio (hotel/appartamento o barca con mooring/marina), **mezzi sufficienti: regola base US$ 1.000 a settimana** se già in possesso del biglietto di uscita; in alternativa garante residente con mezzi dimostrabili. Scopo chiaro del viaggio (turismo/visita familiare) | [RijksdienstCN — Travel with non-Dutch passport](https://english.rijksdienstcn.com/justice--security/royal-netherlands-marechaussee/travel-with-a-non-dutch-passport) ★★★★★ |
+| Trânsito | Trânsito aeroportuário a Bonaire **entro 48 h** senza visto per chi è in possesso di titolo per la destinazione successiva; per via mare → vedi clearance | [NetherlandsWorldwide — Airport transit BES](https://www.netherlandsworldwide.nl/caribbean-visa/visa-needed-caribbean) ★★★★★ |
 
 > **Nota per chi proviene da dietrofront Caraibi:** il conteggio 90/180 è **a finestra mobile** sul totale BES. Esempio ufficiale: 45 giorni già trascorsi nei 180 precedenti → restano 45 giorni utilizzabili; 95 giorni già trascorsi → sforamento di 5 giorni. [RijksdienstCN — Travel with non-Dutch passport ★★★★★]
 
@@ -25,7 +25,7 @@ Bonaire è un **municipio speciale (openbaar lichaam) dei Paesi Bassi** nei **Ca
 - **Unico porto d'ingresso: Kralendijk** — Dogana e Immigrazione nello stesso ufficio a Fort Oranje / Plasa Wilhelmina (area Harbour Office). **Tutta l'isola è Parco Marino: è vietato ancorare**, si usano solo **mooring STINAPA** (overnight bicolori) o posto in marina. [Ocean Posse — Bonaire](https://oceanposse.com/bonaire/) ★★★; [STINAPA — Mooring](https://stinapabonaire.org/rules-and-regulations/mooring/) ★★★★★
 - Tenere pronti per ogni persona: passaporto, **crew list**, biglietto di uscita/prova di prosecuzione, indirizzo di sosta (numero boa/marina), prova mezzi; per la barca: **registrazione/nazionalità, prova proprietà, lista equipaggio e obbligatorio documento di uscita (zarpe) dal porto precedente** — senza prova del porto di provenienza l'ingresso può essere rifiutato. Pre-notifica **SailClear** attesa dalla Dogana dal 2023: in banchina non c'è computer, va compilata **prima di salpare** su [sailclear.com](https://www.sailclear.com). Fontes náuticas agregadas ★★★; [CruisersWiki / Ocean Posse] ★★
 
-## E dopo i 90 giorni? (cittadini italiani/UE e altre nazionalità)
+## E depois de 90 dias? (cidadãos UE e outras nacionalidades)
 
 | Situazione | Regola | Fonte |
 |---|---|---|
@@ -34,13 +34,27 @@ Bonaire è un **municipio speciale (openbaar lichaam) dei Paesi Bassi** nei **Ca
 | Lavoro/stage durante il soggiorno | Anche se si inizia a lavorare dopo l'arrivo turistico, si applica subito il tetto **90/365** per olandesi/USA e serve autorizzazione al lavoro; per gli altri stranieri serve permesso specifico — **lavoro non consentito con solo ingresso turistico** | [RijksdienstCN — Tourist stay](https://english.rijksdienstcn.com/immigration-naturalisation/tourist-stay) ★★★★★ |
 | Sforamento (overstay) | Sanzioni possibili: multa, espulsione, divieto di reingresso (decisione KMar/IND) — il periodo può già essere stato abbreviato in frontiera | [RijksdienstCN — Travel with non-Dutch passport](https://english.rijksdienstcn.com/justice--security/royal-netherlands-marechaussee/travel-with-a-non-dutch-passport) ★★★★★ |
 
-In pratica: con passaporto italiano si entra senza visto ma **con finestra 90/180 su tutto il BES** e con controlli su ritorno/mezzi/alloggio. Per restare oltre o lavorare serve pratica IND locale — tempi indicativi 2–4 settimane secondo fonte secondaria non governativa (**DATO MANCANTE** per tempistica ufficiale Bonaire).
+In pratica: con passaporto UE si entra senza visto ma **con finestra 90/180 su tutto il BES** e con controlli su ritorno/mezzi/alloggio. Per restare oltre o lavorare serve pratica IND locale — tempi indicativi 2–4 settimane secondo fonte secondaria non governativa (**DADO EM FALTA** per tempistica ufficiale Bonaire).
 
-## La barca: tasse, parco e ammissione temporanea
+## Cidadãos dos EUA — verificação pendente
+
+| Item | Regra | Fonte |
+|---|---|---|
+| Visto | **DADO EM FALTA** — verificar na imigração local e fontes gov (immigration.gov.XX / travel.state.gov) | **DADO EM FALTA** |
+
+## Cidadãos do Reino Unido — verificação pendente
+
+| Item | Regra | Fonte |
+|---|---|---|
+| Visto | **DADO EM FALTA** — verificar na imigração local e fontes gov (immigration.gov.XX / gov.uk) | **DADO EM FALTA** |
+
+> ℹ️ **Outras nacionalidades:** as condições variam conforme a nacionalidade. Verifique sempre na embaixada ou consulado do país de destino ou no Ministério das Relações Exteriores do seu país antes da partida, com passaporte e itinerário em mãos. Uma verificação de 5 minutos evita recusa no cais.
+
+## A embarcação: taxas, parque e admissão temporária
 
 | Voce | Regola | Fonte |
 |---|---|---|
-| **Ammissione temporanea yacht non-residente** | Uso privato consentito con **segnalazione alla Dogana entro 24 h dall'arrivo**; durata prassi **max 6 mesi** con possibile proroga solo in circostanze eccezionali su richiesta alla Dogana di Punda/BCN; vietati noleggio/vendita e uso commerciale; oltre il termine scattano dazi + possibile sanzione/sequestro cautelativo | Prassi documentata per Curaçao/BES in brochure Dogana Curaçao “Pleziervaartuigen” (art. 102 LVTI, 24h/6 mesi) — per Bonaire testo BES specifico **DATO MANCANTE** per conferma testuale BCN ★★★; [Belastingdienst CN — Douane](https://www.belastingdienst-cn.nl) ★★★★★ (quadro generale import/export) |
+| **Ammissione temporanea yacht non-residente** | Uso privato consentito con **segnalazione alla Dogana entro 24 h dall'arrivo**; durata prassi **max 6 mesi** con possibile proroga solo in circostanze eccezionali su richiesta alla Dogana di Punda/BCN; vietati noleggio/vendita e uso commerciale; oltre il termine scattano dazi + possibile sanzione/sequestro cautelativo | Prassi documentata per Curaçao/BES in brochure Dogana Curaçao “Pleziervaartuigen” (art. 102 LVTI, 24h/6 mesi) — per Bonaire testo BES specifico **DADO EM FALTA** per conferma testuale BCN ★★★; [Belastingdienst CN — Douane](https://www.belastingdienst-cn.nl) ★★★★★ (quadro generale import/export) |
 | **STINAPA Nature Fee (Parco Marino + Washington Slagbaai)** | **US$ 40 a persona per anno solare (1 gen–31 dic)**, obbligatoria appena si tocca l'acqua o si entra a Washington Slagbaai; gratis <13 anni e residenti BES/ABC con sédula valida; crocieristi Washington Slagbaai US$ 10/giorno. QR code + documento richiesti; pagamento su [stinapa.bonairenaturefee.org](https://stinapa.bonairenaturefee.org) | [STINAPA — Nature Fee / Annual Report 2022](https://stinapa.bonairenaturefee.org) ★★★★★; [bonaire.com — Nature Fee 2026](https://bonaire.com/en/travel-info/nature-fee/) ★★★; [STINAPA FAQ](https://stinapabonaire.org/contact/frequently-asked-questions/) ★★★★★ |
 | **Visitor Entry Tax (tassa governativa d'ingresso)** | **US$ 75 adulti (13+) / US$ 10 bambini 0–12, residenti ex-Antille e crocieristi US$ 10; residenti Bonaire esenti con sédula**. **Per visita, valida 1 mese**, da pagare entro 48 h prima su [tourismtax.bonairegov.com](https://tourismtax.bonairegov.com) (non in contanti all'arrivo). **Separata e aggiuntiva** alla Nature Fee. I due pagamenti usano portali diversi | [tourismtax.bonairegov.com](https://tourismtax.bonairegov.com) ★★★★★; [bonaire.com — Tourist Tax 2026](https://bonaire.com/en/travel-info/tourist-tax/) ★★★ |
 | Dogana / Immigrazione barca | **Gratuite** in orario normale | Fontes náuticas agregadas ★★★; [CruisersWiki — Bonaire] ★★ |
@@ -48,7 +62,7 @@ In pratica: con passaporto italiano si entra senza visto ma **con finestra 90/18
 
 ## Vaccini
 
-Nessun vaccino obbligatorio per arrivi diretti da Europa/USA. **Febbre gialla richiesta solo se si proviene o si è transitati >12 h in un Paese a rischio trasmissione** (area amazzonica, Africa sub-sahariana — lista OMS). In quel caso serve **certificato internazionale valido (validità a vita dal 2016) per viaggiatori dai 9 mesi in su**, da esibire all'ingresso; somministrazione almeno **10 giorni prima** dell'arrivo.
+Nenhuma vacina obrigatória per arrivi diretti da Europa/USA. **Febre amarela exigida solo se si proviene o si è transitati >12 h in un Paese a rischio trasmissione** (area amazzonica, Africa sub-sahariana — lista OMS). In quel caso serve **certificato internazionale valido (validità a vita dal 2016) per viaggiatori dai 9 mesi in su**, da esibire all'ingresso; somministrazione almeno **10 giorni prima** dell'arrivo.
 
 | Voce | Dettaglio | Fonte |
 |---|---|---|
@@ -56,4 +70,4 @@ Nessun vaccino obbligatorio per arrivi diretti da Europa/USA. **Febbre gialla ri
 | Validità | Certificato valido a vita (OMS 11/07/2016): non può essere rifiutato per anzianità >10 anni | NaTHNaC / OMS ★★★★★ |
 | Raccomandati | DTP aggiornata, epatite A; epatite B se soggiorni lunghi/contatti a rischio; protezione anti-zanzare (dengue presente) | [bonaire.com — Vaccinations 07/07/2026](https://bonaire.com/en/travel-info/travel-vaccinations/) ★★★ |
 
-Ultimo aggiornamento: 28/08/2026
+Última atualização: 28/08/2026

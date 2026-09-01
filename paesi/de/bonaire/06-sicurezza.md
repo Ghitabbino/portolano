@@ -1,6 +1,6 @@
 # 06 — Sicurezza
 
-**Ultima verifica completa: 28/08/2026** · Prossimo controllo mensile: **28/09/2026**
+**Letzte Überprüfung completa: 28/08/2026** · Nächste monatliche Prüfung: **28/09/2026**
 
 ## Valutazione sicurezza: **4 / 5**
 
@@ -105,5 +105,5 @@ Dati **Caribbean Safety and Security Net** (thecssn.org ★★★), controllo 28
 
 ## Monitoraggio mensile
 
-**DATO MANCANTE** — da completare al controllo mensile.
+**DATEN FEHLEN** — da completare al controllo mensile.
 

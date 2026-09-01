@@ -4,31 +4,31 @@
 
 | Champ | Détail |
 |---|---|
-| Zone | Kralendijk centro — 5 Kaya C.E.B. Hellmund (vicino a At Sea) |
-| Cuisine | 🍽️ Italiana — ex stella Michelin (cucina creativa italiana) |
-| Spécialité | *Paste fatte in casa, crudi di pesce, focacce, lobster, vini italiani selezionati* |
-| Coût | 💰€€€ per persona senza bevande (antipasti US$14–20, piatti US$28–42, degustazione su richiesta) |
-| Emplacement | 🌴 corte creola centrale, elegante informale, a 4 min a piedi dalle boe |
+| Zone | Centre de Kralendijk — 5 Kaya C.E.B. Hellmund (près de At Sea) |
+| Cuisine | 🍽️ Italienne — ex-étoilé Michelin (cuisine italienne créative) |
+| Spécialité | *Pâtes maison, crudos de poisson, focaccias, homard, vins italiens sélectionnés* |
+| Coût | 💰€€€ par personne sans boissons (entrées US$14–20, plats US$28–42, dégustation sur demande) |
+| Emplacement | 🌴 cour créole centrale, élégant décontracté, à 4 min à pied des bouées |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Capriccio+Kaya+C+E+B+Hellmund+5+Kralendijk) |
 | Contacts | +599 717 7230 · [capricciobonaire.com](https://capricciobonaire.com) · WhatsApp via bonaire.com |
-| Évaluations | **bonaire.com 4,4/5 (ca. 150) [locale, 28/08/2026]** ★★★ · TripAdvisor 4,4/5 (1.474) #4 Kralendijk ★★★ · Google 4,4/5 → **★★★★½** |
-| Horaires | pranzo e cena — vérifier sur sito/Facebook (chiusure settimanali variabili); prenotazione consigliata |
+| Évaluations | **bonaire.com 4,4/5 (env. 150) [locale, 28/08/2026]** ★★★ · TripAdvisor 4,4/5 (1.474) #4 Kralendijk ★★★ · Google 4,4/5 → **★★★★½** |
+| Horaires | déjeuner et dîner — vérifier sur site/Facebook (jours de fermeture variables) ; réservation conseillée |
 
 ## Menu
 
-- Antipasti: crudi, carpacci, burrata, focaccia con olio EVO
-- Paste fresche: tagliatelle, fusilli al lobster, gnocchi
-- Secondi: pesce del giorno, carni, lobster alla griglia
-- Vini: carta italiana (Primitivo, Vermentino, Prosecco) e champagne
+- Entrées : crudos, carpaccios, burrata, focaccia à l'huile d'olive extra-vierge
+- Pâtes fraîches : tagliatelles, fusilli au homard, gnocchi
+- Plats : poisson du jour, viandes, homard grillé
+- Vins : carte italienne (Primitivo, Vermentino, Prosecco) et champagne
 
-**Chef**: Team Capriccio — tradizione italiana rivisitata con prodotto caraibico
+**Chef** : Équipe Capriccio — tradition italienne revisitée avec produits caraïbes
 
 ## Photos
 
-*Photos non ancora disponibili — recuperare al controllo mensile.*
+*Photos non encore disponibles — à récupérer lors du contrôle mensuel.*
 
 ## Note
 
-Ristorante italiano storico di Kralendijk — riferimento per gli equipaggi che cercano cucina europea a terra dopo giorni di cambusa. Stessa via di At Sea (25) per confronto immediato. Dress code smart casual. Vérifier chiusura settimanale su Instagram/Facebook.
+Restaurant italien historique de Kralendijk — référence pour les équipages cherchant une cuisine européenne à terre après des jours de cambuse. Même rue que At Sea (25) pour comparaison immédiate. Tenue smart casual. Vérifier la fermeture hebdomadaire sur Instagram/Facebook.
 
-Fonti: [bonaire.com — Capriccio](https://bonaire.com/en/restaurants/capriccio-restaurant-and-boutique/) ★★★ · [capricciobonaire.com](https://capricciobonaire.com) ★★★ · [TripAdvisor — Capriccio](https://www.tripadvisor.com/Restaurant_Review-g147268-d17523370-Reviews-CHEFS_Bonaire-Kralendijk_Bonaire.html) ★★★
+Sources : [bonaire.com — Capriccio](https://bonaire.com/en/restaurants/capriccio-restaurant-and-boutique/) ★★★ · [capricciobonaire.com](https://capricciobonaire.com) ★★★ · [TripAdvisor — Capriccio](https://www.tripadvisor.com/Restaurant_Review-g147268-d17523370-Reviews-CHEFS_Bonaire-Kralendijk_Bonaire.html) ★★★

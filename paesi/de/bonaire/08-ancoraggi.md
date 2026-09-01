@@ -1,82 +1,82 @@
-# 08 — Portolano degli ancoraggi
+# 08 — Ankerplatz-Pilot
 
-**Ultima verifica: 28/08/2026 · coordinate indicative, navigare con cartografia ufficiale**
+**Letzte Überprüfung: 28/08/2026 · Koordinaten indikativ, mit amtlicher Seekarte navigieren**
 
-> **⚠️ CASO PARTICOLARE — ANCORAGGIO VIETATO SU TUTTA L'ISOLA.** L'intero perimetro di Bonaire, Klein Bonaire e Lac Bay è **Bonaire National Marine Park (BNMP, gestito da STINAPA)** — dalle acque chiare fino alla batimetrica dei 60 m / 75 m da riva a seconda della definizione amministrativa: **ancorare è vietato ovunque**. Unica eccezione: pescherecci tradizionali ≤4 m con pietra corallina. Sosta notturna solo su **boe overnight bicolori STINAPA (visitatori, max 18 m)** gestite da Harbour Village Marina, oppure in marina. Sanzione fino a **US$ 2.800 e fino a 1 mese di reclusione** ★★★ · Fonti: [STINAPA — Mooring](https://stinapabonaire.org/rules-and-regulations/mooring/) ★★★★★ · [STINAPA — Boating](https://stinapabonaire.org/rules-and-regulations/boating/) ★★★★★ · [InfoBonaire — Yachting & Cruising](https://infobonaire.com/getting-to-bonaire/yachting-cruising/) ★★★ · [NoForeignLand — Kralendijk](https://www.noforeignland.com/map/place/5730169490767872) ★★
+> **⚠️ SONDERFALL — ANKERN AUF DER GANZEN INSEL VERBOTEN.** Der gesamte Umfang von Bonaire, Klein Bonaire und Lac Bay ist **Bonaire National Marine Park (BNMP, verwaltet von STINAPA)** — vom Flachwasser bis zur 60-m-/75-m-Isobathe je nach Verwaltungsdefinition: **Ankern ist überall verboten**. Einzige Ausnahme: traditionelle Fischerboote ≤4 m mit Korallenstein. Übernachtung nur auf **zweifarbigen STINAPA-Bojen für Besucher (overnight, max. 18 m)** verwaltet durch Harbour Village Marina, oder in der Marina. Strafe bis **US$ 2.800 und bis zu 1 Monat Haft** ★★★ · Quellen: [STINAPA — Mooring](https://stinapabonaire.org/rules-and-regulations/mooring/) ★★★★★ · [STINAPA — Boating](https://stinapabonaire.org/rules-and-regulations/boating/) ★★★★★ · [InfoBonaire — Yachting & Cruising](https://infobonaire.com/getting-to-bonaire/yachting-cruising/) ★★★ · [NoForeignLand — Kralendijk](https://www.noforeignland.com/map/place/5730169490767872) ★★
 
-## Regole generali di ancoraggio (prima di tutto)
+## Allgemeine Ankerregeln (zuerst lesen)
 
-- **Àncora ovunque vietata nel Parco**: non calare mai l'àncora su sabbia/corallo/erba — neanche "un attimo" per bagno o tender. Le linee di ormeggio sono doppie cime leggere su blocchi di cemento: ispezionatele in immersione e, se necessario, aggiungete una vostra cima di sicurezza ★★★ · Aggregierte Fahrtensegler-Quellen ★★★
-- **Velocità nel Parco**: 10 km/h dentro il BNMP; 20 km/h fuori fino a 12 miglia dalla costa; **5 km/h nei campi boe e nei porti/bacini**; distanza minima **50 m da ogni barca alla boa** ★★★★★ · [STINAPA — Boating](https://stinapabonaire.org/rules-and-regulations/boating/) ★★★★★
-- **Navigare lato mare delle boe**: nel BNMP restare sempre sul lato mare (blu scuro) delle boe gialle di ormeggio/diving; mai passare tra le boe e la costa (acque azzurre protette) e mai spiaggiare la barca ★★★★★ · [STINAPA — Boating](https://stinapabonaire.org/rules-and-regulations/boating/) ★★★★★ · [Blue Bay Bonaire — Instructions on the Water](https://www.bluebaybonaire.com/instructions-on-the-water) ★★★
-- **Boe pubbliche gialle/blu (day-use)**: max **2 h consecutive**, first-come first-served, **una barca >4 m per boa** (oppure fino a 3 tender <4 m), **max 13 m** ★★★★★ · [STINAPA — Mooring](https://stinapabonaire.org/rules-and-regulations/mooring/) ★★★★★
-- **Boe overnight bicolori (visitatori)**: solo per visitatori, registrazione obbligatoria a **Dogana + Harbour Village Marina** (VHF 17/12), uso consentito solo per la durata del visto, **vietata attività commerciale a bordo**, usare **cima propria ≥6 m** (non legarsi direttamente), max **18 m (≈55–58 ft)**, niente velocità con dinghy ★★★★★ · [STINAPA — Mooring](https://stinapabonaire.org/rules-and-regulations/mooring/) ★★★★★
-- **Boe private (residenti)**: bianche/gialle/arancio, riservate a residenti con sédula e permesso STINAPA — **waitlist ~3 anni, 1.000 US$/anno, max 18 m** — **non utilizzabili da visitatori** ★★★★★ · [STINAPA — Mooring](https://stinapabonaire.org/rules-and-regulations/mooring/) ★★★★★
-- **Nature Fee obbligatoria**: US$ 40 p.p./anno solare per chi tocca l'acqua o entra a Washington Slagbaai; QR + documento a bordo ★★★★★ · [stinapa.bonairenaturefee.org](https://stinapa.bonairenaturefee.org) ★★★★★
-- **IALA-B** (sistema americano): rosso a dritta entrando — invertito rispetto all'Europa ★★★
+- **Ankern im Park überall verboten**: niemals Anker auf Sand/Koralle/Seegras fallen lassen — auch nicht „kurz“ zum Baden oder für das Beiboot. Festmacher sind leichte Doppelleinen auf Betonblöcken: per Tauchgang prüfen und bei Bedarf eigene Sicherungsleine hinzufügen ★★★ · Aggregierte Fahrtensegler-Quellen ★★★
+- **Geschwindigkeit im Park**: 10 km/h innerhalb des BNMP; 20 km/h außerhalb bis 12 sm vor der Küste; **5 km/h in Bojenfeldern und in Hafenbecken**; Mindestabstand **50 m zu jedem Boot an der Boje** ★★★★★ · [STINAPA — Boating](https://stinapabonaire.org/rules-and-regulations/boating/) ★★★★★
+- **Seewärts der Bojen navigieren**: im BNMP stets auf der Seeseite (dunkelblau) der gelben Mooring-/Tauchbojen bleiben; niemals zwischen Bojen und Küste (geschütztes hellblaues Wasser) queren und niemals das Boot stranden lassen ★★★★★ · [STINAPA — Boating](https://stinapabonaire.org/rules-and-regulations/boating/) ★★★★★ · [Blue Bay Bonaire — Instructions on the Water](https://www.bluebaybonaire.com/instructions-on-the-water) ★★★
+- **Öffentliche gelbe/blaue Bojen (Tagesnutzung)**: max. **2 Stunden**, first-come first-served, **ein Boot >4 m pro Boje** (oder bis zu 3 Beiboote <4 m), **max. 13 m** ★★★★★ · [STINAPA — Mooring](https://stinapabonaire.org/rules-and-regulations/mooring/) ★★★★★
+- **Zweifarbige overnight-Bojen (Besucher)**: nur für Besucher, Registrierung Pflicht bei **Zoll + Harbour Village Marina** (UKW 17/12), Nutzung nur für die Dauer des Visums, **keine kommerzielle Tätigkeit an Bord**, **eigene Leine ≥6 m** verwenden (nicht direkt festmachen), max. **18 m (≈55–58 ft)**, kein Beiboot-Rasen ★★★★★ · [STINAPA — Mooring](https://stinapabonaire.org/rules-and-regulations/mooring/) ★★★★★
+- **Private Bojen (Residenten)**: weiß/gelb/orange, reserviert für Residenten mit Sédula und STINAPA-Genehmigung — **Warteliste ~3 Jahre, 1.000 US$/Jahr, max. 18 m** — **nicht für Besucher nutzbar** ★★★★★ · [STINAPA — Mooring](https://stinapabonaire.org/rules-and-regulations/mooring/) ★★★★★
+- **Nature Fee Pflicht**: US$ 40 p. P./Kalenderjahr für jeden, der ins Wasser geht oder Washington Slagbaai betritt; QR + Ausweis an Bord ★★★★★ · [stinapa.bonairenaturefee.org](https://stinapa.bonairenaturefee.org) ★★★★★
+- **IALA-B** (amerikanisches Betonnungssystem): Rot an Steuerbord bei Einfahrt — invers zu Europa ★★★
 
-### ⛔ Zone di divieto assoluto (ufficiali)
+### ⛔ Absolute Sperrzonen (amtlich)
 
-| Zona | Divieto | Fonte |
+| Zone | Verbot | Quelle |
 |---|---|---|
-| **Tutto il BNMP — Bonaire + Klein Bonaire + Lac Bay** (dal bagnasciuga alla batimetrica, acque chiare) | **Àncora vietata ovunque** — solo boe STINAPA; eccezione solo pescherecci tradizionali ≤4 m con pietra corallina | [STINAPA — Mooring](https://stinapabonaire.org/rules-and-regulations/mooring/) ★★★★★ · [STINAPA — Boating](https://stinapabonaire.org/rules-and-regulations/boating/) ★★★★★ |
-| **Klein Bonaire — spiagge e reef di No Name Beach** | Riserva integrale disabitata: solo **boe gialle day-use max 2 h, max 13 m**, vietato pernottamento e campeggio/fuochi | [STINAPA — BNMP/Bonaire National Marine Park](https://stinapabonaire.org/bonaire-national-marine-park) ★★★★ · [bonaire.com — Klein Bonaire](https://bonaire.com/en/sightseeing/sailing-bonaire/) ★★★ |
-| **Lac Bay — laguna RAMSAR/mangrovie (costa est)** | Riserva e zona kitesurf bassissima: nessun ormeggio notturno, avvicinarsi solo con tender/pescaggio minimo e meteo stabile | [STINAPA — Lac Bay](https://stinapabonaire.org/bonaire-national-marine-park/lac-bay/) ★★★★ |
-| **Washington Slagbaai (nord-ovest, parco terrestre)** | Costa senza strutture nautiche, reef frangente continuo: nessun porto/boa/ancoraggio consigliabile per yacht | [STINAPA — Washington Slagbaai](https://stinapabonaire.org/) ★★★ |
-| **Campi boe e porti** | Divieto di watersports al traino e di pesca a traina dentro il Parco; tenere 50 m dalle barche alla boa e dalle barche con subacquei | [STINAPA — Boating](https://stinapabonaire.org/rules-and-regulations/boating/) ★★★★★ |
-| **Francobolli doganali** | Sanzione amministrativa/penale fino a **US$ 2.800 + 1 mese** per ancoraggio illegale; sequestro in caso di reiterazione | [STINAPA — Mooring via BES Reporter / CruisersWiki](https://www.noforeignland.com/map/place/5730169490767872) ★★★ |
+| **Gesamter BNMP — Bonaire + Klein Bonaire + Lac Bay** (von der Wasserlinie bis zur Abbruchkante, Klarwasserzone) | **Ankern überall verboten** — nur STINAPA-Bojen; Ausnahme nur traditionelle Fischerboote ≤4 m mit Steinancker | [STINAPA — Mooring](https://stinapabonaire.org/rules-and-regulations/mooring/) ★★★★★ · [STINAPA — Boating](https://stinapabonaire.org/rules-and-regulations/boating/) ★★★★★ |
+| **Klein Bonaire — No Name Beach und Riff** | Strenges unbewohntes Schutzgebiet: nur **gelbe Tagesbojen max. 2 h, max. 13 m**, Übernachtung und Campieren/Feuer verboten | [STINAPA — BNMP/Bonaire National Marine Park](https://stinapabonaire.org/bonaire-national-marine-park) ★★★★ · [bonaire.com — Klein Bonaire](https://bonaire.com/en/sightseeing/sailing-bonaire/) ★★★ |
+| **Lac Bay — RAMSAR/Mangroven-Lagune (Ostküste)** | Schutzgebiet und sehr flache Kite-Zone: keine Übernachtungsboje, Anfahrt nur mit Beiboot/minimalem Tiefgang und stabilem Wetter | [STINAPA — Lac Bay](https://stinapabonaire.org/bonaire-national-marine-park/lac-bay/) ★★★★ |
+| **Washington Slagbaai (Nordwest, Landpark)** | Küste ohne nautische Infrastruktur, durchgehendes Saumriff: kein Hafen/keine Boje/kein Ankerplatz für Yachten empfohlen | [STINAPA — Washington Slagbaai](https://stinapabonaire.org/) ★★★ |
+| **Bojenfelder und Häfen** | Keine Schlepp-Wassersportarten und kein Schleppangeln im Park; 50 m Abstand zu Bojenliegern und zu Booten mit Tauchern halten | [STINAPA — Boating](https://stinapabonaire.org/rules-and-regulations/boating/) ★★★★★ |
+| **Zollstrafen** | Verwaltungs-/Strafsanktion bis **US$ 2.800 + 1 Monat** für illegales Ankern; Beschlagnahme bei Wiederholung | [STINAPA — Mooring via BES Reporter / CruisersWiki](https://www.noforeignland.com/map/place/5730169490767872) ★★★ |
 
-Testi integrali e brochure ufficiali: [STINAPA — Boating PDF](https://stinapabonaire.org/wp-content/uploads/2018/08/Boating.pdf) ★★★★★ e [STINAPA — Rules and Regulations](https://stinapabonaire.org/rules-and-regulations/) ★★★★★ · Mappa interattiva dive/boe: [STINAPA — Dive Map](https://stinapabonaire.org/bonaire-national-marine-park/dive-map) ★★★★
+Volltexte und offizielle Broschüren: [STINAPA — Boating PDF](https://stinapabonaire.org/wp-content/uploads/2018/08/Boating.pdf) ★★★★★ und [STINAPA — Rules and Regulations](https://stinapabonaire.org/rules-and-regulations/) ★★★★★ · Interaktive Tauch-/Bojenkarte: [STINAPA — Dive Map](https://stinapabonaire.org/bonaire-national-marine-park/dive-map) ★★★★
 
-- Le **ZMEL** caraibiche francesi non esistono qui: la gestione è accentrata **STINAPA + Harbour Village Marina** per conto dell'Openbaar Lichaam Bonaire.
-- Esistono **decine di boe gialle pubbliche** lungo la costa ovest (Buddy Dive, Eden Beach, Harbour Village, Salt Pier ecc.) per immersioni diurne — **max 2 h**, non per notte.
+- Das französische ZMEL-System der Karibik gibt es hier nicht: Verwaltung zentralisiert bei **STINAPA + Harbour Village Marina** im Auftrag des Openbaar Lichaam Bonaire.
+- Es gibt **Dutzende öffentliche gelbe Bojen** entlang der Westküste (Buddy Dive, Eden Beach, Harbour Village, Salt Pier usw.) für Tagestauchgänge — **max. 2 h**, nicht für die Nacht.
 
-## Tabella riassuntiva — i migliori ormeggi (solo boe — ancoraggio vietato)
+## Übersichtstabelle — die besten Liegeplätze (nur Bojen — Ankern verboten)
 
-| # | Ormeggio | Tipo boa | Riparo alisei | Fondale / Profondità | Affollamento | Giudizio comunità |
+| # | Ankerplatz | Bojentyp | Schutz vor Passat | Grund / Tiefe | Belegung | Community-Urteil |
 |---|---|---|---|---|---|---|
-| 1 | [Campo boe di Kralendijk — Town Moorings](ancoraggi/anc-kralendijk-boe.md) | Bicolore overnight visitatori (30–51 boe) | ★★★★★ ovest sottovento, acqua piatta; swell N/NO esposto | Sabbia/corallo protetto sotto; campo tra 12°09,44' N 68°17,09' W e 12°09,06' N 68°16,41' W | Alta stagione molto pieno (dic–apr) — first-come | ★4,3/5 [NFL, 21/07/2026] ★★ · 30 boe US$35/notte [InfoBonaire ★★★] |
-| 2 | [Harbour Village Marina](ancoraggi/anc-harbour-village.md) | Marina resort full-service (60 posti + mega-yacht 240 ft) | ★★★★★ bacino riparato; ingresso a nord di Kralendijk | ~4,5 m all'ingresso; 127–130V 30A e 230–240V 50A | Medio-alto; su prenotazione | ★3,9/5 [NFL] ★★ · listino ufficiale 2026 ★★★★ |
-| 3 | [Klein Bonaire — No Name Beach](ancoraggi/anc-klein-bonaire.md) | Boa gialla day-use max 2 h | ★★★ ovest sottovento ma aperto a sud | 5–15 m sabbia/corallo; max 13 m | Diurno affollato 10–14 | iconica gita — pernotto vietato ★★★ |
-| 4 | [Salt Pier — boa immersioni](ancoraggi/anc-salt-pier.md) | Boa gialla day-use immersioni | ★★★ costa sud-ovest | 5–15 m; avvicinarsi solo senza nave Cargill in banchina | Basso; solo diurno | boa dive, non per notte ★★★★ [STINAPA dive map] |
+| 1 | [Bojenfeld Kralendijk — Stadtbojen (Nacht)](ancoraggi/anc-kralendijk-boe.md) | Zweifarbig overnight für Besucher (30–51 Bojen) | ★★★★★ Lee West, flaches Wasser; exponiert bei N/NW-Dünung | Sand/geschütztes Riff darunter; Feld zwischen 12°09,44' N 68°17,09' W und 12°09,06' N 68°16,41' W | Sehr voll in Hochsaison (Dez.–Apr.) — first-come | ★4,3/5 [NFL, 21/07/2026] ★★ · 30 Bojen US$35/Nacht [InfoBonaire ★★★] |
+| 2 | [Harbour Village Marina — Einfahrt](ancoraggi/anc-harbour-village.md) | Resort-Marina Full-Service (60 Plätze + Mega-Yacht 240 ft) | ★★★★★ geschütztes Becken; Einfahrt nördlich Kralendijk | ~4,5 m an der Einfahrt; 127–130V 30A und 230–240V 50A | Mittel–hoch; auf Reservierung | ★3,9/5 [NFL] ★★ · offizieller Tarif 2026 ★★★★ |
+| 3 | [Klein Bonaire — No Name Beach (Tagesnutzung)](ancoraggi/anc-klein-bonaire.md) | Gelbe Tagesboje max. 2 h | ★★★ Lee West, aber offen nach Süden | 5–15 m Sand/Riff; max. 13 m | Tagsüber stark frequentiert 10–14 | Ikonischer Tagesausflug — Übernachtung verboten ★★★ |
+| 4 | [Salt Pier — Tagesboje](ancoraggi/anc-salt-pier.md) | Gelbe Tagestauchboje | ★★★ Südwestküste | 5–15 m; Anfahrt nur wenn kein Cargill-Frachter an der Pier liegt | Gering; nur tagsüber | Tauchboje, nicht für Nacht ★★★★ [STINAPA dive map] |
 
-*Clicca sul nome per aprire la scheda completa. Legenda: riparo = valutazione qualitativa dalle fonti citate (più ★ = meglio). NFL = noforeignland.com (recensioni naviganti). Affollamento = stagionalità dic–apr.*
+*Auf den Namen klicken für die Detailkarte. Legende: Schutz = qualitative Bewertung aus den zitierten Quellen (mehr ★ = besser). NFL = noforeignland.com (Segler-Bewertungen). Belegung = Hochsaison Dez.–Apr.*
 
-### Mappa generale degli ormeggi
+### Generalkarte der Liegeplätze
 
-<div class="mapframe" data-slug="bonaire" data-minz="9" data-maxz="16" data-lat="12.155" data-lon="-68.280" data-markers='[[12.1557, -68.2804, "Campo boe Kralendijk — Town Moorings (overnight)", "anc-kralendijk-boe"], [12.1623, -68.2887, "Harbour Village Marina — ingresso", "anc-harbour-village"], [12.1605, -68.2850, "Klein Bonaire — No Name Beach (day-use)", "anc-klein-bonaire"], [12.1050, -68.2900, "Salt Pier — boa day-use", "anc-salt-pier"]]' ></div>
+<div class="mapframe" data-slug="bonaire" data-minz="9" data-maxz="16" data-lat="12.155" data-lon="-68.280" data-markers='[[12.1557, -68.2804, "Bojenfeld Kralendijk — Stadtbojen (Nacht)", "anc-kralendijk-boe"], [12.1623, -68.2887, "Harbour Village Marina — Einfahrt", "anc-harbour-village"], [12.1605, -68.2850, "Klein Bonaire — No Name Beach (Tagesnutzung)", "anc-klein-bonaire"], [12.1050, -68.2900, "Salt Pier — Tagesboje", "anc-salt-pier"]]' ></div>
 
-*Marker cliccabili: il popup apre direttamente la scheda dell'ormeggio. Tasselli locali zoom 9–13 (satellitare / carta nautica / segnali OpenSeaMap). Coordinate WGS84 indicative — verificare sempre con plotter e STINAPA. **Tutti i marker sono in mezzo al mare**, mai a terra, come da cartina satellitare.*
+*Anklickbare Marker: Popup öffnet direkt die Ankerplatz-Karte. Lokale Kacheln Zoom 9–13 (Satellit / Seekarte / OpenSeaMap-Signale). Koordinaten WGS84 indikativ — stets mit Plotter und STINAPA prüfen. **Alle Marker liegen im Wasser**, nie an Land, wie auf der Satellitenkarte.*
 
 ---
 
-## Cartografia ufficiale
+## Amtliche Kartographie
 
-| Carta | Copertura | Note |
+| Karte | Abdeckung | Hinweise |
 |---|---|---|
-| **Navionics / C-MAP** elettroniche (regione Caraibi Meridionali / ABC) | Tutta Bonaire + Klein Bonaire, batimetrie e boe | Carta quotidiana del plotter — mantenere aggiornata |
-| **NV Charts — South Caribbean / ABC Islands** | Pacc. Antille Sottovento (Aruba–Bonaire–Curaçao) | Carta plaisance WGS84, ~95 € — in alternativa alle cartacee ufficiali |
-| **UKHO BA 2106 / DMA 24465** (Bonaire & Klein Bonaire) | Approccio e porti di Kralendijk | Approccio ufficiale — verificare edizione su admiralty.co.uk / NGA |
-| **STINAPA BNMP — Brochure & Dive Site Map** | Parco Marino: perimetro fino a 60 m/75 m, boe gialle + overnight | Gratuite: [Brochure 2025](https://stinapabonaire.org/wp-content/uploads/2026/04/STINAPA-BNMP-folder-2025-pag.1-scaled.jpg) ★★★★ · [Dive Map](https://stinapabonaire.org/wp-content/uploads/2026/04/STINAPA-BNMP-folder-pag.2-scaled.jpg) ★★★★ |
+| **Navionics / C-MAP** elektronisch (Region Südliche Karibik / ABC) | Ganz Bonaire + Klein Bonaire, Tiefen und Bojen | Tageskarte des Plotters — aktuell halten |
+| **NV Charts — South Caribbean / ABC Islands** | Pack Lee-Inseln (Aruba–Bonaire–Curaçao) | Sportbootkarte WGS84, ~95 € — Alternative zu amtlichen Papierkarten |
+| **UKHO BA 2106 / DMA 24465** (Bonaire & Klein Bonaire) | Ansteuerung und Häfen Kralendijk | Amtliche Ansteuerung — Ausgabe auf admiralty.co.uk / NGA prüfen |
+| **STINAPA BNMP — Brochure & Dive Site Map** | Marine Park: Perimeter bis 60 m/75 m, gelbe + overnight-Bojen | Kostenlos: [Brochure 2025](https://stinapabonaire.org/wp-content/uploads/2026/04/STINAPA-BNMP-folder-2025-pag.1-scaled.jpg) ★★★★ · [Dive Map](https://stinapabonaire.org/wp-content/uploads/2026/04/STINAPA-BNMP-folder-pag.2-scaled.jpg) ★★★★ |
 
-- Le carte ufficiali riportano il perimetro del Parco e i campi boe; i chenal di Kralendijk sono segnalati IALA-B. Acquisto da rivenditori autorizzati o via Admiralty/NV Charts. ★★★★
-- **Cartografia amministrativa gratuita**: brochure STINAPA + mappa interattiva boe/dive su stinapabonaire.org + boe management presso Harbour Village Marina. ★★★★★
-- Per la navigazione quotidiana: elettronica ufficiale sul plotter + carta cartacea sopra come riserva obbligatoria; **tenersi sempre sul lato mare delle boe** nel BNMP.
+- Amtliche Karten zeigen Perimeter des Parks und Bojenfelder; die Fahrwasser von Kralendijk sind nach **IALA-B** betonnt. Bezug über autorisierte Händler oder via Admiralty/NV Charts. ★★★★
+- **Kostenlose Verwaltungskartographie**: STINAPA-Broschüre + interaktive Bojen-/Tauchkarte auf stinapabonaire.org + Bojenverwaltung bei Harbour Village Marina. ★★★★★
+- Für die tägliche Navigation: amtliche elektronische Karte auf dem Plotter + Papierkarte oben als Pflicht-Backup; **stets seewärts der Bojen bleiben** im BNMP.
 
-## Non inclusi (per ora)
+## Nicht enthalten (vorerst)
 
-- **Costa sopravvento est (Boca Onima–Lac Bay esterno)** e **Washington Slagbaai nord**: reef frangente continuo, nessun riparo, frangenti e swell — **nessun ormeggio consigliabile** per yacht da diporto; avvicinamento solo con meteo stabile, pescaggio minimo e supporto locale → vedi [06 Sicurezza](06-sicurezza.md)
-- **Lac Bay interno (laguna kitesurf)**: fondale <2 m, mangrovie RAMSAR, solo kitesurf/tender — non adatto a barche a vela
-- **Plaza Marina / Bonaire Nautico / Ocean Breeze (bacini turistici)**: posti galleggianti per diporto/charter su prenotazione, non campi boe pubblici — contattare direttamente; dettagli in [03 Porti](03-porti-ancoraggi.md)
+- **Luv-Ostküste (Boca Onima–äußere Lac Bay)** und **nördliches Washington Slagbaai**: durchgehendes Saumriff, kein Schutz, Brecher und Dünung — **kein Liegeplatz empfohlen** für Fahrtenyachten; Anfahrt nur bei stabilem Wetter, geringem Tiefgang und mit lokaler Unterstützung → siehe [06 Sicherheit](06-sicurezza.md)
+- **Inneres Lac Bay (Kite-Lagune)**: Tiefe <2 m, RAMSAR-Mangroven, nur Kitesurfen/Beiboot — ungeeignet für Segelyachten
+- **Plaza Marina / Bonaire Nautico / Ocean Breeze (Sportboothäfen)**: Schwimmstege für Sportboote/Charter auf Reservierung, keine öffentlichen Bojenfelder — direkt kontaktieren; Details in [03 Häfen](03-porti-ancoraggi.md)
 
-## Checklist àncora (ancoraggio = vietato)
+## Anker-Checkliste (Ankern = verboten)
 
-1. **STINAPA Nature Fee pagata** (QR + documento) e **Visitor Entry Tax** valida (30 gg) ✓ — [stinapa.bonairenaturefee.org](https://stinapa.bonairenaturefee.org) + [tourismtax.bonairegov.com](https://tourismtax.bonairegov.com)
-2. **Holding tank funzionante + Y-valve sul deck fitting** (i ranger possono chiedere pump-out in base a persone/giorni/capacità) + pump-out Harbour Village compreso (o US$40 a svuotamento sulle boe) ✓
-3. **Cima di ormeggio morbida ≥6 m** pronta (non catena), parabordo per proteggere la cima dalla boa; una sola barca per boa, max 18 m / 55–58 ft ✓
-4. **Contatto Harbour Village Marina VHF 17 (e 12)** prima dell'ingresso per assegnazione boa; se domenica/chiuso: occupare boa libera e presentarsi la mattina successiva; lasciare pendant se si lascia la boa per immersione day-use (max 2 h) ✓
-5. **Carta elettronica aggiornata + IALA-B in mente + lato mare delle boe**; verificare swell da Nord/Ovest prima di entrare (campo esposto a fronti freddi invernali) ✓
-6. **SailClear pre-notifica compilata prima di salpare** (non c'è PC in banchina) + zarpe del porto precedente originale ✓
-7. **Dinghy dock individuato**: Karel's Bar (consumazione) o molo Dogana — catena corta + lucchetto bar-lock, sollevare il tender a bordo di notte (furti dinghy frequenti → [06 Sicurezza](06-sicurezza.md)) ✓
+1. **STINAPA Nature Fee bezahlt** (QR + Ausweis) und **Visitor Entry Tax** gültig (30 Tage) ✓ — [stinapa.bonairenaturefee.org](https://stinapa.bonairenaturefee.org) + [tourismtax.bonairegov.com](https://tourismtax.bonairegov.com)
+2. **Funktionierender Fäkalientank + Y-Ventil auf Decksabsaugung** (Ranger können Pump-out je nach Personen/Tagen/Kapazität verlangen) + Pump-out Harbour Village inklusive (oder US$40 pro Entleerung an den Bojen) ✓
+3. **Weiche Festmacherleine ≥6 m** bereit (keine Kette), Fender zum Schutz der Leine an der Boje; nur ein Boot pro Boje, max. 18 m / 55–58 ft ✓
+4. **Kontakt Harbour Village Marina UKW 17 (und 12)** vor Einfahrt für Bojenzuteilung; falls Sonntag/geschlossen: freie Boje belegen und am nächsten Morgen melden; Fender/Pendant lassen, wenn Boje für Tagestauchgang verlassen wird (max. 2 h) ✓
+5. **Aktuelle elektronische Seekarte + IALA-B im Kopf + seewärts der Bojen bleiben**; Dünung aus Nord/West vor Einfahrt prüfen (Feld exponiert bei winterlichen Kaltfronten) ✓
+6. **SailClear Voranmeldung vor Abfahrt ausgefüllt** (kein PC an der Pier) + original Zarpe aus Vorhafen ✓
+7. **Beiboot-Steg identifiziert**: Karel's Bar (Verzehr) oder Zoll-Steg — kurze Kette + Bügelschloss, Beiboot nachts an Bord holen (häufige Beiboot-Diebstähle → [06 Sicherheit](06-sicurezza.md)) ✓
 
-Ultimo aggiornamento: 28/08/2026
+Letzte Aktualisierung: 28/08/2026

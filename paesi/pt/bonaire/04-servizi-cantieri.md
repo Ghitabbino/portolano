@@ -1,13 +1,13 @@
 # 04 — Servizi, cantieri e manutenzione
 
-**Ultima verifica: 28/08/2026**
+**Última verificação: 28/08/2026**
 
 ## Harbour Village Marina & Boat Yard Bonaire — hub tecnico dell'isola
 
 ### Harbour Village Marina (ufficiale ★★★★)
 - Kaya Gobernador Debrot 71, Kralendijk · +599 717-7419 / WA +599 701-7500 · [harbourvillage.com](https://www.harbourvillage.com/bonaire-marina) — 60 posti fino a 60 ft (mega-yacht 240 ft), diesel/benzina, propane $4,50/lb. ★★★★
 - Tariffe a piede/giorno: A&B $1,50/1,20/0,85, Lighthouse $0,95/0,85/0,80, catamarani +25 ft supplemento; pagamento anticipato, tax 6% gov. ★★★★
-- Servizi: acqua $0,10/gal, elettricità $0,75/kWh, Wi-Fi, lavanderia $5,50/kg, pump-out, sicurezza; VHF **DATO MANCANTE** — chiedere in capitaineria. ★★★
+- Servizi: acqua $0,10/gal, elettricità $0,75/kWh, Wi-Fi, lavanderia $5,50/kg, pump-out, sicurezza; VHF **DADO EM FALTA** — chiedere in capitaineria. ★★★
 
 ### Artigiani e servizi segnalati (★★ — esperienze individuali)
 
@@ -40,4 +40,4 @@ Bonaire è **fuori dalla cintura uraganica principale** (12°N) e consente sosta
 Il polo è **Harbour Village + Boat Yard/Varadero**: **travelift 28 t**, scivolo fino a 50 ft, **7.500 mq storage** videosorvegliato,
 **servizi completi e marchi Mercury/Victron**; artigiani concentrati a Hato/Kaya Rotterdam. ★★
 
-Ultimo aggiornamento: 28/08/2026
+Última atualização: 28/08/2026

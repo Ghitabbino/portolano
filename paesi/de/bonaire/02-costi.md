@@ -1,10 +1,10 @@
 # 02 — Costo della vita
 
-**Ultimo aggiornamento: 28/08/2026**
+**Letzte Aktualisierung: 28/08/2026**
 
 Valuta: **USD (dollaro USA)** — Bonaire è municipio speciale NL (BES) ma dal 2011 circola solo USD. Livello prezzi: isola con importazione ~90%; alimentari **~+40%** vs Paesi Bassi metropolitani, ristorazione turistica cara nelle zone marina/dive-resort. ★★★
 
-> ⚠️ Le voci di questo elenco sono le stesse per tutti i paesi del portolano. Dove il dato non è stato ancora trovato dalle fonti si scrive **DATO MANCANTE**: viene ricercato al controllo mensile (vedi [00 Indice](../00-indice.md)).
+> ⚠️ Le voci di questo elenco sono le stesse per tutti i paesi del portolano. Dove il dato non è stato ancora trovato dalle fonti si scrive **DATEN FEHLEN**: viene ricercato al controllo mensile (vedi [00 Indice](../00-indice.md)).
 
 ## Alimentari e spesa di bordo
 
@@ -48,7 +48,7 @@ Stazioni **Curoil** automatizzate 24/7 (contanti/carta), bunkering >10.000 l su 
 | Voce | Prezzo indicativo | Note |
 |---|---|---|
 | Bus locale | **Non presente** | Nessun servizio pubblico a orario; solo taxi/noleggio [Bonaire.com 26/03/2026](https://bonaire.com/en/blog/transport-bonaire) ★★★ |
-| Collegamento marittimo locale (Klein Bonaire water taxi) | DATO MANCANTE | Verificare presso dive operator / Harbour Village ★★ |
+| Collegamento marittimo locale (Klein Bonaire water taxi) | DATEN FEHLEN | Verificare presso dive operator / Harbour Village ★★ |
 | Noleggio auto giornaliero | **39–70 USD** | Economy 39–60 / pickup 49–85 (bassa/alta stagione), +6% tax [Bonaire.com 07/07/2026](https://bonaire.com/en/travel-info/transport-bonaire/) ★★★ ; [Caribe Bonaire 14/07/2025](https://caribebonaire.com/2025/07/14/bonaire-car-rental-rates-comparison/) ★★ |
 | Taxi | **15–20 USD** aeroporto→centro (4 km) | Tariffa fissa gov (targa TX); zone 18,75–50 USD [rate sheet 28/04/2025 v25.1](https://bonaire-taxi.com/wp-content/uploads/2025/04/A4-Fares-April-28th-OUTLINE_compressed.pdf) ★★★★★ ; 1 km ~1,90 USD+avvio 4,50–10 USD ★★ |
 
@@ -60,7 +60,7 @@ Prenotare taxi 30–60 min prima; no Uber/Lyft, non si ferma per strada. Mance 1
 |---|---|---|
 | Lavanderia self-service | **5,50 USD/kg** | Harbour Village laundry 5,50 USD/kg ; self-service 5–10 USD/carico ★★★★ [Harbour Village Rates](https://www.harbourvillage.com/bonaire-marina) |
 | SIM prepagata con dati | **14–16 USD SIM + bundle** | **Digicel** (Kaya Grandi 26) SIM 14 USD — 1GB/1gg 3 USD, 3GB/3gg 8,50, 10GB/5gg 12, 8GB/7gg 15 · **Flow** (Kaya Grandi 32) SIM 16 USD — 1GB/1gg 5, 7GB/3gg 25, 20GB/7gg 15, 25GB/30gg 140 ; passaporto, cash, bundle a scadenza, non all'aeroporto [Bonaire.com 07/07/2026](https://bonaire.com/en/travel-info/internet-sim-card) ★★★ |
-| Lavaggio scafo (hull dive) | DATO MANCANTE | Diver locale, confermare sul posto ★★ |
+| Lavaggio scafo (hull dive) | DATEN FEHLEN | Diver locale, confermare sul posto ★★ |
 
 ## Contanti e pagamenti
 
@@ -71,4 +71,4 @@ USD unica valuta (ANG/EUR non accettati). Carte Visa/Mastercard ok in marina/sup
 - Tariffe complete marine e boe → [03 Porti e marine](03-porti-ancoraggi.md)
 - Ristoranti con prezzi specifici per locale → [10 Ristoranti](10-ristoranti.md)
 
-Ultimo aggiornamento: 28/08/2026
+Letzte Aktualisierung: 28/08/2026

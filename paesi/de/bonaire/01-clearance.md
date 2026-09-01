@@ -1,6 +1,6 @@
 # 01 — Clearance doganale della barca
 
-**Ultima verifica: 28/08/2026** · Fonti principali: Belastingdienst Caribisch Nederland (Douane CN) ★★★★★, RijksdienstCN/IND ★★★★★, STINAPA ★★★★★, Aggregierte Fahrtensegler-Quellen/Ocean Posse/CruisersWiki ★★★
+**Letzte Überprüfung: 28/08/2026** · Fonti principali: Belastingdienst Caribisch Nederland (Douane CN) ★★★★★, RijksdienstCN/IND ★★★★★, STINAPA ★★★★★, Aggregierte Fahrtensegler-Quellen/Ocean Posse/CruisersWiki ★★★
 
 ## Chi deve farla
 
@@ -88,4 +88,4 @@ Bonaire National Marine Park circonda l'intera isola: **ancorare è vietato su c
 - Lista Paesi a rischio febbre gialla OMS aggiornata se si proviene da Sud America/Africa.
 - Eventuali aggiornamenti SailClear/BES su nuova piattaforma o cambio VHF (17 vs 12) e orari IND/Dogana — verificare su [english.rijksdienstcn.com](https://english.rijksdienstcn.com/immigration-naturalisation/tourist-stay) e [belongingdienst-cn.nl](https://www.belastingdienst-cn.nl) prima di partire.
 
-Ultimo aggiornamento: 28/08/2026
+Letzte Aktualisierung: 28/08/2026

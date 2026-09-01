@@ -4,32 +4,32 @@
 
 | Champ | Détail |
 |---|---|
-| Zone | Kralendijk boulevard — 60 Julio A. Abraham Blvd, sul mare |
-| Cuisine | 🍽️ Internazionale mediterranea con accento caraibico |
-| Spécialité | *Pier Table sull'acqua · lobster, wahoo su spaghetti piccanti (signature US$29), wild sea bass, daily fish* |
-| Coût | 💰€€€ per persona senza bevande (antipasti US$15–25, piatti US$26–40, pizza/pasta domenica US$16) |
-| Emplacement | 🌅 oceanfront con pier romantico e bar lounge per green flash al tramonto |
+| Zone | Boulevard de Kralendijk — 60 Julio A. Abraham Blvd, en front de mer |
+| Cuisine | 🍽️ Internationale méditerranéenne d'accent caraïbe |
+| Spécialité | *Table sur le pier au-dessus de l'eau · homard, wahoo sur spaghetti piquants (signature US$29), bar sauvage, poisson du jour* |
+| Coût | 💰€€€ par personne sans boissons (entrées US$15–25, plats US$26–40, pizza/pâtes dimanche US$16) |
+| Emplacement | 🌅 en front de mer avec pier romantique et bar lounge pour le rayon vert au coucher de soleil |
 | Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sebastians+Restaurant+Julio+A+Abraham+Blvd+60+Kralendijk) |
 | Contacts | +599 717 1697 · [sebastiansrestaurantbonaire.com](https://sebastiansrestaurantbonaire.com) |
 | Évaluations | **bonaire.com 4,1/5 (1156) [locale, 28/08/2026]** ★★★ · TripAdvisor 4,0/5 (1.528) ★★★ · Google 4,1/5 (1156) → **★★★★** |
-| Horaires | lun–sab 17:30–23:00 · dom 17:00–23:00 — Italian Night domenica; Kitchen Night mercoledì 4 portate US$39 |
+| Horaires | lun–sam 17:30–23:00 · dim 17:00–23:00 — Italian Night dimanche ; Kitchen Night mercredi 4 services US$39 |
 
 ## Menu
 
-- TO SHARE: Fresh Oysters US$6, Butter of the Gods (bone marrow) US$25, Steamed Black Mussels US$19
-- APPETIZERS: Tuna Trio US$18, Carpaccio US$18–25, Lobster Bisque US$15
-- PASTA: Gnocchi US$29, Truffle Fettuccine US$40, Signature Wahoo on Spicy Spaghetti US$29
-- PIZZA (domenica): 9 pizze US$16 (Spicy Octopus, Fresh Tuna, Margherita ecc.)
-- DESSERTS: Tiramisu US$12, Dubai Chocolate Fantasy US$19
+- À PARTAGER : huîtres fraîches US$6, beurre des dieux (moelle) US$25, moules vapeur US$19
+- ENTRÉES : trio de thon US$18, carpaccio US$18–25, bisque de homard US$15
+- PÂTES : gnocchi US$29, fettuccine à la truffe US$40, signature wahoo sur spaghetti piquants US$29
+- PIZZA (dimanche) : 9 pizzas US$16 (poulpe piquant, thon frais, Margherita etc.)
+- DESSERTS : tiramisu US$12, Dubai Chocolate Fantasy US$19
 
-**Chef**: Sebastian — Master Chef, specialità pesce fresco del giorno
+**Chef** : Sebastian — chef maître, spécialité poisson frais du jour
 
 ## Photos
 
-*Photos non ancora disponibili — recuperare al controllo mensile.*
+*Photos non encore disponibles — à récupérer lors du contrôle mensuel.*
 
 ## Note
 
-Pier Table più richiesto di Bonaire per sunset/proposte — prenotare con largo anticipo, specificare “pier” alla prenotazione. A piedi dal dinghy dock (600 m). Domenica Italian Night molto popolare. Disponibile pacchetto Fly & Dine (volo Cessna + cena). Dress code smart casual, flip-flop non graditi a cena.
+La Table sur le pier la plus demandée de Bonaire pour couchers de soleil/demandes en mariage — réserver longtemps à l'avance, préciser « pier » à la réservation. À pied depuis le dinghy dock (600 m). Dimanche Italian Night très populaire. Forfait Fly & Dine disponible (vol Cessna + dîner). Tenue smart casual, tongs non souhaitées le soir.
 
-Fonti: [bonaire.com — Sebastian's](https://bonaire.com/en/restaurants/sebastian-s-restaurant-bar-lounge/) ★★★ · [sebastiansrestaurantbonaire.com](https://sebastiansrestaurantbonaire.com) ★★★★ · [TripAdvisor — Sebastian's](https://www.tripadvisor.com/Restaurant_Review-g147268-d5490282-Reviews-Sebastian_s_Restaurant-Kralendijk_Bonaire.html) ★★★
+Sources : [bonaire.com — Sebastian's](https://bonaire.com/en/restaurants/sebastian-s-restaurant-bar-lounge/) ★★★ · [sebastiansrestaurantbonaire.com](https://sebastiansrestaurantbonaire.com) ★★★★ · [TripAdvisor — Sebastian's](https://www.tripadvisor.com/Restaurant_Review-g147268-d5490282-Reviews-Sebastian_s_Restaurant-Kralendijk_Bonaire.html) ★★★

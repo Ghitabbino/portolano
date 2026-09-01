@@ -1,35 +1,37 @@
 # At Sea
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Alle Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Feld | Detail |
 |---|---|
-| Zona | Kralendijk centro — 25 Kaya C.E.B. Hellmund |
-| Cucina | 🐟 Seafood creativo — internazionale |
-| Specialità | *Menu sorpresa 4/5/6 portate (US$69,50/82/94,50 + vini US$36/45/54) · pesce caraibico + carni USA + formaggi EU* |
-| Costo | 💰€€€ per persona senza bevande (surprise menu 69–95 + wine pairing; à la carte US$28–45) |
-| Location | 🪶 piccolo, curato, cucina a vista — 5 min a piedi dalle boe centrali |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=At+Sea+Kaya+C+E+B+Hellmund+25+Kralendijk) |
-| Contatti | +599 701 0134 · WhatsApp +599 701 0134 · [atseabonaire.com](https://www.atseabonaire.com) |
-| Valutazioni | **bonaire.com 4,4/5 (303) [locale, 28/08/2026]** ★★★ · TripAdvisor 4,4/5 (1.786) ★★★ · Google 4,4/5 (303) → **★★★★** |
-| Orari | mar–sab 18:00–22:00 · chiuso lun/dom — solo cena, prenotazione consigliata |
+| Zone | Kralendijk Zentrum — 25 Kaya C.E.B. Hellmund |
+| Küche | 🐟 Kreativ Seafood — international |
+| Spezialität | *Überraschungsmenü 4/5/6 Gänge (US$69,50/82/94,50 + Wein US$36/45/54) · karibischer Fisch + US-Fleisch + EU-Käse* |
+| Preis | 💰€€€ pro Person ohne Getränke (Surprise 69–95 + Wine Pairing; à la carte US$28–45) |
+| Lage | 🪶 klein, gepflegt, offene Küche — 5 Min. zu Fuß von den zentralen Bojen |
+| Karte | [Google Maps](https://www.google.com/maps/search/?api=1&query=At+Sea+Kaya+C+E+B+Hellmund+25+Kralendijk) |
+| Kontakt | +599 701 0134 · WhatsApp +599 701 0134 · [atseabonaire.com](https://www.atseabonaire.com) |
+| Bewertungen | **bonaire.com 4,4/5 (303) [lokal, 28/08/2026]** ★★★ · TripAdvisor 4,4/5 (1.786) ★★★ · Google 4,4/5 (303) → **★★★★** |
+| Öffnungszeiten | Di–Sa 18:00–22:00 · Mo/So geschlossen — nur Dinner, Reservierung empfohlen |
 
-## Menu
+## Speisekarte
 
-- 4-course surprise menu US$69,50 (carne/pesce/verdure) + 4 vini US$36
-- 5-course US$82 + 5 vini US$45
-- 6-course US$94,50 + 6 vini US$54
-- À la carte: antipasti, pesce fresco, carni, dessert e cocktail freschi
-- Children's menu disponibile
+- 4-Gang Surprise US$69,50 (Fleisch/Fisch/vegetarisch) + 4 Weine US$36
+- 5-Gang US$82 + 5 Weine US$45
+- 6-Gang US$94,50 + 6 Weine US$54
+- À la carte: Vorspeisen, frischer Fisch, Fleisch, Desserts und frische Cocktails
+- Kindermenü verfügbar
 
-**Chef**: Team At Sea — cucina creativa “sea to plate” con ingredienti da 3 continenti
+**Küchenchef**: Team At Sea — kreative „Sea-to-Plate“-Küche mit Zutaten aus 3 Kontinenten
 
-## Foto
+## Fotos
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Fotos noch nicht verfügbar — beim monatlichen Check ergänzen.*
 
-## Note
+## Hinweise
 
-Ristorante intimo fronte Dive Friends @ Dive Inn — ideale per cena tranquilla dopo check-in boe (Kralendijk 12°09.1' N). Ingredienti limitati sull'isola: il menu sorpresa è il modo migliore per assaggiare il meglio disponibile. Vicino a Capriccio (stessa via) per confronto.
+Intimes Restaurant gegenüber Dive Friends @ Dive Inn — ideal für ruhiges Dinner nach dem Einchecken an den Bojen (Kralendijk 12°09.1' N). Zutatenlimit auf der Insel: Das Surprise-Menü ist der beste Weg, das Tagesbeste zu probieren. Neben Capriccio (gleiche Straße) zum direkten Vergleich.
 
-Fonti: [bonaire.com — At Sea](https://bonaire.com/en/restaurants/at-sea-restaurant-bonaire/) ★★★ · [atseabonaire.com](https://www.atseabonaire.com) ★★★ · [TripAdvisor — At Sea](https://www.tripadvisor.com/Restaurant_Review-g147268-d17523370-Reviews-CHEFS_Bonaire-Kralendijk_Bonaire.html) ★★★
+Quellen: [bonaire.com — At Sea](https://bonaire.com/en/restaurants/at-sea-restaurant-bonaire/) ★★★ · [atseabonaire.com](https://www.atseabonaire.com) ★★★ · [TripAdvisor — At Sea](https://www.tripadvisor.com/Restaurant_Review-g147268-d17523370-Reviews-CHEFS_Bonaire-Kralendijk_Bonaire.html) ★★★
+
+Letzte Aktualisierung: 28/08/2026

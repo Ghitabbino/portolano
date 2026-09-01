@@ -1,34 +1,36 @@
 # La Balandra
 
-[← Tutti i ristoranti](../10-ristoranti.md)
+[← Alle Restaurants](../10-ristoranti.md)
 
-| Campo | Dettaglio |
+| Feld | Detail |
 |---|---|
-| Zona | Harbour Village Marina — Harbour Village Beach Club, Kralendijk nord |
-| Cucina | 🐟 Caraibica-internazionale — pesce, grill e frutti di mare |
-| Specialità | *Lobster, snapper, mahi-mahi alla griglia, sunset dinner sul molo del resort* |
-| Costo | 💰€€€ per persona senza bevande (piatti US$28–48, menu resort) |
-| Location | 🏖️ resort 5★ fronte mare, piscina e spiaggia privata — 30 m dalla banchina |
-| Mappa | [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Balandra+Harbour+Village+Marina+Bonaire) |
-| Contatti | +599 717 7500 (Harbour Village) · [harbourvillage.com](https://www.harbourvillage.com) · dockmaster@harbourvillage.com |
-| Valutazioni | **bonaire.com — Harbour Village 4,5/5 resort [locale]** ★★★ · TripAdvisor 4,2/5 (229) La Balandra ★★★ · Google 4,2/5 → **★★★★** |
-| Orari | colazione/pranzo/cena resort — 7:00–22:00 (varia per stagione); bar tramonto · prenotazione consigliata per sunset |
+| Zone | Harbour Village Marina — Harbour Village Beach Club, Kralendijk Nord |
+| Küche | 🐟 Karibisch-international — Fisch, Grill und Meeresfrüchte |
+| Spezialität | *Hummer, Snapper, Mahi-Mahi vom Grill, Sunset-Dinner an der Resort-Mole* |
+| Preis | 💰€€€ pro Person ohne Getränke (Gerichte US$28–48, Resortkarte) |
+| Lage | 🏖️ 5★ Resort direkt am Meer, Pool und Privatstrand — 30 m vom Steg |
+| Karte | [Google Maps](https://www.google.com/maps/search/?api=1&query=La+Balandra+Harbour+Village+Marina+Bonaire) |
+| Kontakt | +599 717 7500 (Harbour Village) · [harbourvillage.com](https://www.harbourvillage.com) · dockmaster@harbourvillage.com |
+| Bewertungen | **bonaire.com — Harbour Village 4,5/5 Resort [lokal]** ★★★ · TripAdvisor 4,2/5 (229) La Balandra ★★★ · Google 4,2/5 → **★★★★** |
+| Öffnungszeiten | Frühstück/Mittag/Abend Resort — 07:00–22:00 (saisonal variabel); Sunset-Bar · Reservierung für Sunset empfohlen |
 
-## Menu
+## Speisekarte
 
-- Pesce fresco del giorno alla griglia (wahoo, mahi-mahi, snapper)
-- Lobster caraibico, shrimp, zuppe
-- Grill e burger, insalate, cocktail caraibici
-- Colazioni con vista reef-cam
+- Tagesfrischer Fisch vom Grill (Wahoo, Mahi-Mahi, Snapper)
+- Karibischer Hummer, Shrimp, Suppen
+- Grill und Burger, Salate, karibische Cocktails
+- Frühstück mit Blick auf Riff-Cam
 
-**Chef**: Team Harbour Village
+**Küchenchef**: Team Harbour Village
 
-## Foto
+## Fotos
 
-*Foto non ancora disponibili — recuperare al controllo mensile.*
+*Fotos noch nicht verfügbar — beim monatlichen Check ergänzen.*
 
-## Note
+## Hinweise
 
-Ristorante del resort che gestisce le boe — comodissimo per equipaggi sulle boe: dinghy dock del resort a 1 min, poi cena senza taxi. Ideale per check-in day (arrivo → ormeggio → cena). Prenotare tavolo waterfront per tramonto. Accesso resort consentito agli ospiti marina/boe su cortesia.
+Resort-Restaurant, das die Bojen verwaltet — extrem praktisch für Crews an den Bojen: Beiboot-Steg des Resorts 1 Min., dann Dinner ohne Taxi. Ideal für Check-in-Tag (Ankunft → Boje → Dinner). Waterfront-Tisch für Sunset reservieren. Resort-Zugang für Marina-/Bojengäste auf Kulanz gestattet.
 
-Fonti: [Harbour Village — Restaurants](https://www.harbourvillage.com) ★★★★ · [bonaire.com — Harbour Village](https://bonaire.com/en/hotels/harbour-village-bonaire) ★★★ · [TripAdvisor — La Balandra](https://www.tripadvisor.com/Restaurant_Review-g147268-d5490282-Reviews-La_Balandra-Kralendijk_Bonaire.html) ★★★
+Quellen: [Harbour Village — Restaurants](https://www.harbourvillage.com) ★★★★ · [bonaire.com — Harbour Village](https://bonaire.com/en/hotels/harbour-village-bonaire) ★★★ · [TripAdvisor — La Balandra](https://www.tripadvisor.com/Restaurant_Review-g147268-d5490282-Reviews-La_Balandra-Kralendijk_Bonaire.html) ★★★
+
+Letzte Aktualisierung: 28/08/2026

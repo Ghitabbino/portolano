@@ -1,6 +1,6 @@
 # 05 — Stagionalità e meteo
 
-**Ultima verifica: 28/08/2026**
+**Letzte Überprüfung: 28/08/2026**
 
 ## Clima
 
@@ -46,4 +46,4 @@ Traversate corte Bonaire–Curaçao (~35 M) o Bonaire–Aruba (~105 M) fattibili
 - [Meteo.cw — Hurricanes Dutch Caribbean (PDF)](https://www.meteo.cw/Data_www/pdf/pub/Hurricanes_and_Tropical_StormsDC.pdf) — frange sud cintura, 37+ entro 100 nm ★★★★★
 - [Sunwise Bonaire — hurricane guide](https://sunwisebonaire.com/blog/bonaire-hurricane-season/) — 12°N sotto traccia tipica, picco 10 set ★★★
 - Avvisi VHF e Port Control: **VHF 9** (Marina de Bonaire) / **16** per istruzioni avvicinamento Kralendijk; small craft ≥6 Bft. ★★★★★
-Ultimo aggiornamento: 28/08/2026
+Letzte Aktualisierung: 28/08/2026
