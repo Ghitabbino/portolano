@@ -1,7 +1,10 @@
 # 🤖 HANDOFF AGENTI — Portolano Nautico
 
+> ⛔ ATTENZIONE AGENTI — QUESTO NON È YACHT-ADVISOR ⛔
+> Questo repo è **PORTOLANO** (`Ghitabbino/portolano`, path `Documents/Default Project`, wiki nautica statica `paesi/*.md` → `paesi.html`).
+> **Yacht Advisor è un progetto TOTALMENTE SEPARATO**: repo `Ghitabbino/yacht-advisor`, path `Documents/yacht-advisor`, stack Next.js 16 + `index.html`/`en.html`. MAI mescolare file, commit, push, build o Pages tra i due. Se l'utente dice "yachtadvisor" lavora SOLO in `Documents/yacht-advisor`.
 > File interno di coordinamento tra agenti AI. NON pubblicare, NON copiare in `paesi/`.
-> Ultimo aggiornamento: 27/08/2026 — cristallizzato pubblicato 8fa7b4f
+> Ultimo aggiornamento: 27/08/2026 — cristallizzato pubblicato 8fa7b4f — separazione portolano/yacht-advisor scolpita 02/09/2026
 
 ---
 
@@ -259,7 +262,7 @@ Scala stelle: ★★★★★ fonte ufficiale governativa · ★★★★ enti/l
 
 | # | Pagina | Contiene |
 |---|---|---|
-| 1 | `ingresso-visti` | Status · Cittadini UE · Arrivo via mare · Dopo i 3 mesi · La barca · Vaccini |
+| 1 | `ingresso-visti` | Status · Cittadini UE (senza “italiani”, solo UE) · **Cittadini USA** · **Cittadini UK** · **Disclaimer altre nazionalità** · Arrivo via mare · Dopo i 3 mesi (UE) · La barca · Vaccini — **OBBLIGATORIO dal 31/08/2026 per OGNI paese nuovo o da completare (coda C1-C7): mai pubblicare 00 senza le 3 sezioni UE+USA+UK + disclaimer madrelingua; se fonti USA/UK non trovate → `DATO MANCANTE` con fonte+rank, mai omettere la sezione** |
 | 2 | `clearance` | Chi deve farla · Procedura online · Cartacea timbrata · Costi · Punti agréé · Dogana regionale · Esperienze · Sanzioni · Da verificare |
 | 3 | `costi` | Alimentari · Mangiare fuori · Carburanti · Trasporti · Servizi quotidiani · Contanti · Approfondimenti |
 | 4 | `porti-ancoraggi` | Zone per costa · Tariffe ormeggi e marine (voci fisse) · Distanze utili |
@@ -279,6 +282,7 @@ Regole trasversali:
 | Mappe | Sempre offline: tasselli in `paesi/mappe/<slug>/`, Leaflet in `paesi/assets/` |
 | Link | Interni con nome file; schede ancoraggio con anchor `#anc-*`; ristoranti = pagina separata ciascuno |
 | Sicurezza | Ogni paese apre la 06 con valutazione **0–5**, posti sicuri/da evitare, mappa zone a rischio |
+| **Ingresso-visti 31/08** | **Per TUTTE le pagine ancora da fare** (coda C1-C7, MED, Atlantico): inserire **SEMPRE** in `00` le 3 tabelle **Cittadini UE + Cittadini USA + Cittadini UK** + disclaimer madrelingua `ℹ️ Altre nazionalità…` . UK = `gov.uk/foreign-travel-advice` ★★★★★, USA = `travel.state.gov` ★★★★★, UE = `immigration.gov.XX` ★★★★★ . Mai lasciare `italiani` residuo. Dettaglio verifica mensile in `AGENTI_VERIFICA_CRITICA.md:35` |
 
 
 ---
@@ -307,7 +311,7 @@ Ogni informazione nel portolano porta **fonte + punteggio + data di verifica**. 
 4. **Aggiornamento continuo**: due canali —
  - **Fonti indicate dall'utente**: PDF, link, post FB, messaggi di gruppo → vengono estratti, classificati con punteggio e integrati nelle pagine;
  - **Ricerca autonoma sul web** ("aggiorna [paese]"): riesecuzione della ricerca con verifica delle date delle fonti esistenti.
-5. **Visti/documenti**: anche quando non sono richiesti (es. cittadini UE), vengono comunque ricontrollati a ogni aggiornamento su fonte ufficiale.
+5. **Visti/documenti**: anche quando non sono richiesti (es. cittadini UE), vengono comunque ricontrollati a ogni aggiornamento su fonte ufficiale. **Dal 31/08/2026 verificare SEMPRE 3 sezioni in 00: UE + USA + UK** (fonti gov: immigration.gov.XX / travel.state.gov / gov.uk) + disclaimer altre nazionalità — mai lasciare `italiani` residuo.
 
 ## Gestione dei conflitti tra fonti
 
